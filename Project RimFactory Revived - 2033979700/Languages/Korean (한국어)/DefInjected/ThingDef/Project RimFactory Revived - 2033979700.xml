@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Shearer.label>shearer</Shearer.label>
+  <Shearer.description>A station with motion detecting industrial-size shearing clippers. Swiftly and automatically extracts wool from your colony's animals.\n\nKeep it stocked with food to lure the animals in for processing. Drops the produce where the sheared creature is standing.</Shearer.description>
+  <Milker.label>milker</Milker.label>
+  <Milker.description>A station equipped with servo-motorized tubes, which seek out mammary glands to milk your farm animals.\n\nKeep it stocked with food to lure animals in for processing. Drops the produce where the milked creature is standing.</Milker.description>
+  <GenericAnimalHarvester.label>generic animal harvester</GenericAnimalHarvester.label>
+  <GenericAnimalHarvester.description>A sophisticated facility boasting a variety of tools to gently extract any kind of animal products, even from the more exotic species.\n\nKeep it stocked with food to lure animals in for processing. Drops the produce where the animal is standing.</GenericAnimalHarvester.description>
+  <PRF_GlitterHarvester.label>spacer animal harvester</PRF_GlitterHarvester.label>
+  <PRF_GlitterHarvester.description>This is a advanced animal harvester that can harvest a wide range of products from animals, it has a frontfacing pull zone that can be made larger with powerbooster. and if RimFridge is installed its cooled to keep food from spoiling over time.</PRF_GlitterHarvester.description>
+  <Building_AutoMachineTool_Slaughterhouse.label>animal manager</Building_AutoMachineTool_Slaughterhouse.label>
+  <Building_AutoMachineTool_Slaughterhouse.description>An automatic slaughterhouse. Uses cameras and a rudimentary computer to keep track of your animal population, and to keep it within your defined limits.</Building_AutoMachineTool_Slaughterhouse.description>
+  <RecipeDatabase.label>recipe database</RecipeDatabase.label>
+  <RecipeDatabase.description>The Portable Recipe Database can import recipes from nearby worktables. Afterwards, when reinstalled near assembler(s), it will upload its recipes to them.\n\nBlue cells are import range for the database.\n\nUploaded recipes and bills will be lost if the database is moved or destroyed.\n\nI wonder what all these other buttons do...</RecipeDatabase.description>
+  <UniversalAssembler.label>assembler</UniversalAssembler.label>
+  <UniversalAssembler.description>An automatic assembler controlled by a computer. Despite being called an assembler, it's also capable of simpler procedures such as cutting stone blocks, and refinery work.\n\nDownloads recipes from an adjacent recipe database.\n\nWhite cell is input range, Blue cell are db range, Yellow cell is output</UniversalAssembler.description>
+  <MachineLearningAssembler.label>adaptive assembler</MachineLearningAssembler.label>
+  <MachineLearningAssembler.description>An automatic assembler controlled by a primitive AI.\n\nThe simple artificial neural network enables it to learn; to be more precise and efficient at individual recipes. Slowly overwrites currently unused recipe algorithms, as it has limited processing and memory capacity.\n\nDownloads recipes from an adjacent recipe database.\n\nWhite cell is input range, Blue cell are db range, Yellow cell is output</MachineLearningAssembler.description>
+  <Battery4k.label>4k battery</Battery4k.label>
+  <Battery4k.description>A battery capable of storing 4000 watt days of power.</Battery4k.description>
+  <Battery10k.label>10k battery</Battery10k.label>
+  <Battery10k.description>A battery that can store 10000Wd of power.</Battery10k.description>
+  <Battery16k.label>16k battery</Battery16k.label>
+  <Battery16k.description>A battery capable of storing 16000 watt days of power.</Battery16k.description>
+  <Battery64k.label>64k battery</Battery64k.label>
+  <Battery64k.description>An efficient waterproof superposed-cell battery capable of storing 64000 watt days of power. Spdskatr Industries is not responsible for any damage caused by short circuits.</Battery64k.description>
+  <Battery100k.label>100k battery</Battery100k.label>
+  <Battery100k.description>A battery that can store 100000Wd of power. Has 100% efficiency.</Battery100k.description>
+  <Battery256k.label>256k battery</Battery256k.label>
+  <Battery256k.description>A very efficient waterproof AI-based battery capable of storing 256000 watt days of power. Cannot break down. Also very beautiful. Spdskatr Industries is not responsible for any damage caused by short circuits.</Battery256k.description>
+  <AIResearchBench.label>AI research bench</AIResearchBench.label>
+  <AIResearchBench.description>A high-tech bench with an AI module installed. Required for tier 2 automation research and is not a replacement for the hi-tech research bench. Requires power.</AIResearchBench.description>
+  <TableRoboticMachining.label>robotic machining table</TableRoboticMachining.label>
+  <TableRoboticMachining.description>A work station for creating parts for automation buildings.</TableRoboticMachining.description>
+  <SelfCooker.label>industrial cooker</SelfCooker.label>
+  <SelfCooker.description>An assortment of food processing modules which can peel, mince, chop, mix, cook, steam, grill, and bake ingredients into more or less delicious meals and other edible products.\n\nNever ruin a meal again with your one-stop solution to satisfy all your colony's sustenance needs. Just look at it go! \n\n 1x speed \n 5cleanliness \n cook level 10\n\nWhite cell is input range \nBlue cell are db range.</SelfCooker.description>
+  <PRF_SpacerCooker.label>spacer cooker</PRF_SpacerCooker.label>
+  <PRF_SpacerCooker.description>An assortment of food processing modules which can peel, mince, chop, mix, cook, steam, grill, and bake ingredients into more or less delicious meals and other edible products.\n\nNever ruin a meal again with your one-stop solution to satisfy all your colony's sustenance needs. Just look at it go! \n\n 2x speed \n 20cleanliness \n cook level 20</PRF_SpacerCooker.description>
+  <MeatGrinder.label>meat grinder</MeatGrinder.label>
+  <MeatGrinder.description>Precise grinder which processes corpses into piles of usable materials: meat, leather, etc.</MeatGrinder.description>
+  <PRFFermentingBarrel.label>fermenting tank</PRFFermentingBarrel.label>
+  <PRFFermentingBarrel.description>Fully automated fermenting. Self-regulates temperature to maintain the best quality.</PRFFermentingBarrel.description>
+  <SelfPrepper.label>industrial food processor</SelfPrepper.label>
+  <SelfPrepper.description>A machine designed to boil, grind, or mill raw food resources into ingredients more suitable for cooking and brewing.</SelfPrepper.description>
+  <CultivatorTools_DroneCultivator.label>Drone Cultivator</CultivatorTools_DroneCultivator.label>
+  <CultivatorTools_DroneCultivator.description>A building that now using Drones. Can autonomously plant and harvest crops in a 11 cell square around it. Will not be affected by any stat modifiers.</CultivatorTools_DroneCultivator.description>
+  <CultivatorTools_CultivatorWithLamp.label>Drone Cultivator (sun lamp)</CultivatorTools_CultivatorWithLamp.label>
+  <CultivatorTools_CultivatorWithLamp.description>A building that now using Drones. Can autonomously plant and harvest crops in a 11 cell square around it. Has a sun lamp. Will not be affected by any stat modifiers.</CultivatorTools_CultivatorWithLamp.description>
+  <CultivatorTools_b18CultivatorSun.label>Mechanites Cultivator (sun lamp)</CultivatorTools_b18CultivatorSun.label>
+  <CultivatorTools_b18CultivatorSun.description>This is a hightech Cultivator that houses worker mechanites, that will sow, harvest and maintain a growzone or hydroponics setup. It has a Full spectrum LED sun light build in its sides. it will also output onto a cell for further processing./nIt has a size of 11x11</CultivatorTools_b18CultivatorSun.description>
+  <CultivatorTools_b18Cultivator.label>Mechanites Cultivator</CultivatorTools_b18Cultivator.label>
+  <CultivatorTools_b18Cultivator.description>This is a hightech Cultivator that houses worker mechanites, that will sow, harvest and maintain a growzone or hydroponics setup. It will also output onto a cell for further processing./nIt has a size of 11x11</CultivatorTools_b18Cultivator.description>
+  <CultivatorTools_b18CultivatorXL.label>Mechanites XL Cultivator</CultivatorTools_b18CultivatorXL.label>
+  <CultivatorTools_b18CultivatorXL.description>This is a hightech XL Cultivator that houses worker mechanites, that will sow, harvest and maintain a growzone or hydroponics setup. It will also output onto a cell for further processing./nIt has a size of 23x23 and usses 4x more power and cost, but same speed as a normal size one.\nCapable of holding a roof</CultivatorTools_b18CultivatorXL.description>
+  <CultivatorTools_Sprinkler.label>Sprinkler</CultivatorTools_Sprinkler.label>
+  <CultivatorTools_Sprinkler.description>A building that waters plants in an expanding radius, increasing their growth by one hour per round. Effects are stackable, Work during growtime only</CultivatorTools_Sprinkler.description>
+  <PRF_StoneWorks.label>Industrial Stoneworks</PRF_StoneWorks.label>
+  <PRF_StoneWorks.description>A CNC router like automated machine that are capable of turning stone into bricks and even abit mid skilled art too. \nArt level: 10</PRF_StoneWorks.description>
+  <PRF_Recycler.label>Smart Recycler</PRF_Recycler.label>
+  <PRF_Recycler.description>A recycler that turns almost any apparel and weapons into usable resources, at the cost of some lost materials.</PRF_Recycler.description>
+  <PRF_MetalRefinery.label>Metal Refinery</PRF_MetalRefinery.label>
+  <PRF_MetalRefinery.description>A metal refinery able to produce rare metals through polymer lamination</PRF_MetalRefinery.description>
+  <PRF_PartAssembler.label>Part Assembler</PRF_PartAssembler.label>
+  <PRF_PartAssembler.description>This is a preset assembler that create parts for further production like components, prf parts and more.</PRF_PartAssembler.description>
+  <PRF_FurnaceI.label>Blast Furnace</PRF_FurnaceI.label>
+  <PRF_FurnaceI.description>A simple early stage Furnace with minimal automation. Burns unwanted apparel and smelts raw rescourses into useful materials.\n\nAutomatically takes input materials (or trash) within the white cells surrounding the furnace - it has an input range of one cell - and outputs(yellow cell) any finished metals into a cell you may specify.\n(remember to remove quicly so it dont clog up)\n Use wood to smelt</PRF_FurnaceI.description>
+  <PRF_FurnaceII.label>industrial Furnace</PRF_FurnaceII.label>
+  <PRF_FurnaceII.description>This Second Furnace is an advanced industrial Furnace capable of burning items and smelting raw resources into useful materials\nUses electricity to reduce wood amount for burning</PRF_FurnaceII.description>
+  <PRF_FurnaceIII.label>Electric Furnace</PRF_FurnaceIII.label>
+  <PRF_FurnaceIII.description>Advanced Furnace capable of burning stuff and smelting raw resources into useful materials, faster than previous iterations.\n\n(This furnace is the best and fastest in Project RimFactory.)\n\nImports any recipe from the Electric Smelter and the Crematorium.</PRF_FurnaceIII.description>
+  <PRF_DeepQuarry_mkI.label>Auger drill(T1)</PRF_DeepQuarry_mkI.label>
+  <PRF_DeepQuarry_mkI.description>An early automated quarry that continuously extracts resources from the ground, including rock chunks, materials and components. Produces a random resource roughly once every 8 hours.(can cause Infestation!)</PRF_DeepQuarry_mkI.description>
+  <PRF_DeepQuarry.label>Pulse Drill(T2)</PRF_DeepQuarry.label>
+  <PRF_DeepQuarry.description>An automated quarry that continuously extracts resources from the ground, including rock chunks, materials and components. Produces a random resource roughly once every 3 hours.(can cause infestation)</PRF_DeepQuarry.description>
+  <PRF_DeepQuarry_mkIII.label>Random Pulse Drill(T3)</PRF_DeepQuarry_mkIII.label>
+  <PRF_DeepQuarry_mkIII.description>This is last tier random ore mining quarry, this one will not create infestation and will only mine rare ores no stones.</PRF_DeepQuarry_mkIII.description>
+  <Building_AutoMachineTool_Miner.label>Plasma Drill(T3)</Building_AutoMachineTool_Miner.label>
+  <Building_AutoMachineTool_Miner.description>With newest Spacer Technology auto mining have been more precise then ever, and can now adjust what ores to mine for and even balance power for speed. It will set primary ore type and get bonus in rare ores and junk</Building_AutoMachineTool_Miner.description>
+  <PRF_WallLight.label>Wall Lamp</PRF_WallLight.label>
+  <PRF_WallLight.description>An electrical wall lamp that lights an area. People need light to move and work at full speed.\n\nThese lamps are unlike other wall lamps, multisided and atlased to fit different walls\n Good for small rooms or other tight packed rooms\nAlso capable of changeing color when placed if colored light are researched\n\nThis is added by Project RimFactory</PRF_WallLight.description>
+  <PRF_SunWallLight.label>Sun Wall Lamp</PRF_SunWallLight.label>
+  <PRF_SunWallLight.description>An industrial wall lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.\n\nThis is added by Project RimFactory</PRF_SunWallLight.description>
+  <PRF_SunWallLight.comps.3.offMessage>Off for plant resting period</PRF_SunWallLight.comps.3.offMessage>
+  <PRF_IndustrialLamp.label>Industrial Lamp</PRF_IndustrialLamp.label>
+  <PRF_IndustrialLamp.description>An electrical lamp that lights an area.\nThis lamp are capable to light up a huge aread both indoor and outdoor to light up your factory hall.\nAlso capable of changeing color when placed if colored light are researched\n\nThis is added by Project RimFactory</PRF_IndustrialLamp.description>
+  <PRF_FloorSpotlight.label>Floor Spotlight</PRF_FloorSpotlight.label>
+  <PRF_FloorSpotlight.description>An electrical lamp that lights an area.\nThis lamp are capable to be used in and outdoor.\nAlso capable of changeing color when placed if colored light are researched\n\nThis is added by Project RimFactory</PRF_FloorSpotlight.description>
+  <WDMineableCoal.label>coal</WDMineableCoal.label>
+  <WDMineableCoal.description>Coal is a combustible black or brownish-black sedimentary rock, formed as rock strata called coal seams.</WDMineableCoal.description>
+  <StockpileCrateSmall.label>small wooden crate</StockpileCrateSmall.label>
+  <StockpileCrateSmall.description>(Tier 1 crate) A small crate that can store 16 stacks. Items stored in the crate do not deteriorate.</StockpileCrateSmall.description>
+  <StockpileCrate.label>wooden crate</StockpileCrate.label>
+  <StockpileCrate.description>A giant crate that can store 32 stacks. Items stored in the crate do not deteriorate.</StockpileCrate.description>
+  <StockpileCrateReinforcedTiny.label>small steel crate</StockpileCrateReinforcedTiny.label>
+  <StockpileCrateReinforcedTiny.description>A small steel crate that can store 64 stacks. Items stored in the crate do not deteriorate.</StockpileCrateReinforcedTiny.description>
+  <StockpileCrateReinforced.label>steel crate</StockpileCrateReinforced.label>
+  <StockpileCrateReinforced.description>A giant crate that can store 128 stacks. Items stored in the crate do not deteriorate.</StockpileCrateReinforced.description>
+  <PRFCargoPlatform.label>digital storage unit</PRFCargoPlatform.label>
+  <PRFCargoPlatform.description>Stores up to 768 stacks. Consumes 10 W of power per stack of items. When your colony loses power, items already inside will be safe, but the building will not be able to store more.</PRFCargoPlatform.description>
+  <PRFStorageUnitIOPort.label>I/O Port</PRFStorageUnitIOPort.label>
+  <PRFStorageUnitIOPort.description>(tier 3) \n A Connection port for your storage Cargo Platforms. It can be set to Input/output from any Platform remotely in any range within the map.</PRFStorageUnitIOPort.description>
+  <FuelingMachine.label>fueling machine</FuelingMachine.label>
+  <FuelingMachine.description>A robotic arm built on a simple machine frame that can automatically fuel the building in front of it (the yellow cell points to the "front").\n\n(Works with "Refualable comp" buildings)</FuelingMachine.description>
+  <SAL_SmartHopper.label>Vacuum Hopper</SAL_SmartHopper.label>
+  <SAL_SmartHopper.description>A Vacuum Hopper that sucks in any items on stockpiles within a 5-tile range. As long as items are in range, they can be pulled in, even from different stockpiles. Can be set up with a specific amount and type of item, and holds onto the item until it is pulled away.</SAL_SmartHopper.description>
+  <Building_AutoMachineTool_GrowZonePuller.label>growzone Puller</Building_AutoMachineTool_GrowZonePuller.label>
+  <Building_AutoMachineTool_GrowZonePuller.description>(PRF) A Puller that pulls foodstuffs from growzones and places them into storage or onto a belt.</Building_AutoMachineTool_GrowZonePuller.description>
+  <Building_AutoMachineTool_Puller.label>Item Puller</Building_AutoMachineTool_Puller.label>
+  <Building_AutoMachineTool_Puller.description>(PRF) A Puller That Pull items from A to B. Place it down and switch it on to start pulling from stockpiles, I/O, belts, crates Into I/O, belts, storage... Very flexible in its connection!\n\nREMEMBER to turn it on after placing!</Building_AutoMachineTool_Puller.description>
+  <Building_AutoMachineTool_Puller_Side.label>Item Angle Puller</Building_AutoMachineTool_Puller_Side.label>
+  <Building_AutoMachineTool_Puller_Side.description>(PRF) A 90 degree angled Puller that moves items from A to B. Similar to the basic puller, but allowing turns! You can swap the direction (left/right) after placing.\n\nREMEMBER to turn it on after placing!</Building_AutoMachineTool_Puller_Side.description>
+  <Building_AutoMachineTool_Puller_Wall.label>Wall Item Puller</Building_AutoMachineTool_Puller_Wall.label>
+  <Building_AutoMachineTool_Puller_Wall.description>(PRF) An in-wall item Puller that pushes items from A to B.\n\nThis one is placed through a wall, and is well insulated enough for use in freezers and secure enough for prisons where you dont want anyone crawling through.\n\nRemember you still need to turn it on!</Building_AutoMachineTool_Puller_Wall.description>
+  <Building_AutoMachineTool_BeltConveyor.label>conveyor belt</Building_AutoMachineTool_BeltConveyor.label>
+  <Building_AutoMachineTool_BeltConveyor.description>A conveyor belt that can move items from A to B. Point the arrows in the direction you want to it carry things and then place items on top!\n\nConveyor belts can automatically handle turning and even branching if you want that, and will dump into Storage or stockpiles (or just leave stuff on the ground when the belts end).</Building_AutoMachineTool_BeltConveyor.description>
+  <Building_AutoMachineTool_BeltConveyor_Wall.label>Wall conveyor belt</Building_AutoMachineTool_BeltConveyor_Wall.label>
+  <Building_AutoMachineTool_BeltConveyor_Wall.description>Moves items - through walls! You can use these to traverse walls or move items along inside them. When items hit the end, they will move out onto the ground.</Building_AutoMachineTool_BeltConveyor_Wall.description>
+  <Building_AutoMachineTool_BeltConveyor_Underground.label>underground belt</Building_AutoMachineTool_BeltConveyor_Underground.label>
+  <Building_AutoMachineTool_BeltConveyor_Underground.description>Underground Conveyor Belts carry items in tunnels under the ground. To move items into the subterrainian passages, you need to use the Underground Conveyor Entrance and Exit.</Building_AutoMachineTool_BeltConveyor_Underground.description>
+  <Building_AutoMachineTool_BeltConveyor_ToUnderground.label>Underground belt entrance</Building_AutoMachineTool_BeltConveyor_ToUnderground.label>
+  <Building_AutoMachineTool_BeltConveyor_ToUnderground.description>Connects ground conveyor belts to underground conveyors. This is the entrance to the subterrainian passages.</Building_AutoMachineTool_BeltConveyor_ToUnderground.description>
+  <Building_AutoMachineTool_BeltConveyor_ToFloor.label>Underground belt exit</Building_AutoMachineTool_BeltConveyor_ToFloor.label>
+  <Building_AutoMachineTool_BeltConveyor_ToFloor.description>Connects the underground conveyor belt to the above-ground conveyor. This is an exit back to the surface, and will drop items on the floor if there is no conveyor.</Building_AutoMachineTool_BeltConveyor_ToFloor.description>
+  <Lighting_FloorLampArrow.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</Lighting_FloorLampArrow.description>
+  <Lighting_FloorLampArrow.label>Yellow Floor Sign Arrow</Lighting_FloorLampArrow.label>
+  <Lighting_RedFloorLampArrow.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</Lighting_RedFloorLampArrow.description>
+  <Lighting_RedFloorLampArrow.label>Red Floor Sign Arrow</Lighting_RedFloorLampArrow.label>
+  <Lighting_GreenFloorLampArrow.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</Lighting_GreenFloorLampArrow.description>
+  <Lighting_GreenFloorLampArrow.label>Green Floor Sign Arrow</Lighting_GreenFloorLampArrow.label>
+  <Lighting_FloorLampX.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</Lighting_FloorLampX.description>
+  <Lighting_FloorLampX.label>Red Floor Sign X</Lighting_FloorLampX.label>
+  <Lighting_FloorInput.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</Lighting_FloorInput.description>
+  <Lighting_FloorInput.label>Input Sign</Lighting_FloorInput.label>
+  <Lighting_FloorOutput.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</Lighting_FloorOutput.description>
+  <Lighting_FloorOutput.label>Output Sign</Lighting_FloorOutput.label>
+  <PRF_IconClothes.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconClothes.description>
+  <PRF_IconClothes.label>Clothes Sign</PRF_IconClothes.label>
+  <PRF_IconSkull.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconSkull.description>
+  <PRF_IconSkull.label>Skull Sign</PRF_IconSkull.label>
+  <PRF_IconToxic.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconToxic.description>
+  <PRF_IconToxic.label>Toxic Sign</PRF_IconToxic.label>
+  <PRF_IconPower.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconPower.description>
+  <PRF_IconPower.label>Power Sign</PRF_IconPower.label>
+  <PRF_IconGears.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGears.description>
+  <PRF_IconGears.label>Gears Sign</PRF_IconGears.label>
+  <PRF_IconGun.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGun.description>
+  <PRF_IconGun.label>Gun Sign</PRF_IconGun.label>
+  <PRF_IconGasmask.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGasmask.description>
+  <PRF_IconGasmask.label>Gasmask Sign</PRF_IconGasmask.label>
+  <PRF_IconFire.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconFire.description>
+  <PRF_IconFire.label>Heat Sign</PRF_IconFire.label>
+  <PRF_IconCold.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconCold.description>
+  <PRF_IconCold.label>Cold Sign</PRF_IconCold.label>
+  <PRF_IconDanger.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconDanger.description>
+  <PRF_IconDanger.label>danger Sign</PRF_IconDanger.label>
+  <PRF_IconExit.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconExit.description>
+  <PRF_IconExit.label>exit Sign</PRF_IconExit.label>
+  <PRF_IconPrison.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconPrison.description>
+  <PRF_IconPrison.label>Prison Sign</PRF_IconPrison.label>
+  <PRF_IconResearch.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconResearch.description>
+  <PRF_IconResearch.label>Research Sign</PRF_IconResearch.label>
+  <PRF_IconHospital.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconHospital.description>
+  <PRF_IconHospital.label>Hospital Sign</PRF_IconHospital.label>
+  <PRF_IconBarbedWire.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconBarbedWire.description>
+  <PRF_IconBarbedWire.label>BarbedWire Sign</PRF_IconBarbedWire.label>
+  <WDCoal.label>coal</WDCoal.label>
+  <WDCoal.description>Coal is a fossil fuel and is the altered remains of prehistoric vegetation that originally accumulated in swamps and peat bogs.</WDCoal.description>
+  <PRFRoboticArm.label>robotic arm</PRFRoboticArm.label>
+  <PRFRoboticArm.description>A robotic arm powered by an electric motor. Used in the construction of some automation buildings.</PRFRoboticArm.description>
+  <PRFWeakAIChip.label>weak AI chip</PRFWeakAIChip.label>
+  <PRFWeakAIChip.description>A tensor processing unit containing the most rudimentary AI.</PRFWeakAIChip.description>
+  <PRFDroneModule.label>drone module</PRFDroneModule.label>
+  <PRFDroneModule.description>A dormant quadcopter frame capable of low-altitude flight.</PRFDroneModule.description>
+  <RimFactory_Data_Disk.label>recipe data disk</RimFactory_Data_Disk.label>
+  <RimFactory_Data_Disk.description>A roll of magnetic tape. Apparently it can hold 64 megabytes. How primitive... Its used to create Recipe DataBases(project rimfactory)</RimFactory_Data_Disk.description>
+  <PRFMachineFrameSmall.label>simple machine frame</PRFMachineFrameSmall.label>
+  <PRFMachineFrameSmall.description>The empty shell of a small automation building.</PRFMachineFrameSmall.description>
+  <PRFMachineFrame.label>machine frame</PRFMachineFrame.label>
+  <PRFMachineFrame.description>The empty shell of a medium-sized automation building.</PRFMachineFrame.description>
+  <PRFMachineFrameLarge.label>adv. machine frame</PRFMachineFrameLarge.label>
+  <PRFMachineFrameLarge.description>The empty shell of a advanced automation building.</PRFMachineFrameLarge.description>
+  <PRFDrone.label>drone</PRFDrone.label>
+  <PRFDrone.description>A small, low-flying drone.</PRFDrone.description>
+  <PRFDrone.tools.0.label>head</PRFDrone.tools.0.label>
+  <PRFStorageUnitIOPortFridge.label>I/O Fridge Port</PRFStorageUnitIOPortFridge.label>
+  <PRFStorageUnitIOPortFridge.description>(tier 3) \n A Connection port for your DeepStorageUnit. It can be set to Input/output from any DSU remotely in any range within the map. This one also have same option as Rimfidge Coolers.</PRFStorageUnitIOPortFridge.description>
+  <PRFCoolDSU.label>cooled digital storage unit</PRFCoolDSU.label>
+  <PRFCoolDSU.description>Fridge version of Digital Storage Unit, that can store food\n\nStores up to 512 stacks. Consumes 10 W of power per stack of items. When your colony loses power, items already inside will be safe, but the building will not be able to store more.\n\nThis is only available because RimFridge is installed.</PRFCoolDSU.description>
+</LanguageData>
