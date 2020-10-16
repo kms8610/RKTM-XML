@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WishReplaceBodyPart.label>replace missing body part</WishReplaceBodyPart.label>
+  <WishReplaceBodyPart.descriptions.0>Some part of my body is missing, anything to replace it would do the trick.</WishReplaceBodyPart.descriptions.0>
+  <WishReplaceBodyPart.description>To fulfill this [tier], a missing body part of {Pawn} should be replaced.
+List :{BodyPart}</WishReplaceBodyPart.description>
+  <WishSimpleUpgrade.label>upgrade body part</WishSimpleUpgrade.label>
+  <WishSimpleUpgrade.descriptions.0>I would like to improve my body, even a simple one can do the trick!</WishSimpleUpgrade.descriptions.0>
+  <WishSimpleUpgrade.description>To fulfill this [tier], {Amount} upgrades of {Pawn}'s body part should be done.
+List :{BodyPart}</WishSimpleUpgrade.description>
+  <WishReformToNaturalPart.label>replace with natural part</WishReformToNaturalPart.label>
+  <WishReformToNaturalPart.descriptions.0>Some part of my body is missing or unnatural. It would be nice to find a natural replacement.</WishReformToNaturalPart.descriptions.0>
+  <WishReformToNaturalPart.description>To fulfill this [tier], a missing or unatural body part of {Pawn} should be reestablish.
+List : {BodyPart}</WishReformToNaturalPart.description>
+  <WishReformBodyPart.label>replace missing body part</WishReformBodyPart.label>
+  <WishReformBodyPart.descriptions.0>Some part of my body is missing, it would be nice to find a good replacement for it."</WishReformBodyPart.descriptions.0>
+  <WishReformBodyPart.description>To fulfill this [tier], a missing body part of {Pawn} should be replaced.
+List :{BodyPart}</WishReformBodyPart.description>
+  <WishUpgradesPart.label>good body part upgrade</WishUpgradesPart.label>
+  <WishUpgradesPart.descriptions.0>Time to upgrade some part !</WishUpgradesPart.descriptions.0>
+  <WishUpgradesPart.description>To fulfill this [tier], {Amount} upgrades of {Pawn}'s body part should be done.
+List :{BodyPart}</WishUpgradesPart.description>
+  <WishNaturalBody.label>return to natural body integrity</WishNaturalBody.label>
+  <WishNaturalBody.descriptions.0>Multiple parts of my body is missing or unnatural. It's time to replace them to a natural counterpart.</WishNaturalBody.descriptions.0>
+  <WishNaturalBody.description>To fulfill this [tier], {Amount} missing or unatural body part of {Pawn} should be reestablish with a natural part.
+List : {BodyPart}</WishNaturalBody.description>
+  <WishToBestPart.label>upgrades body part to best</WishToBestPart.label>
+  <WishToBestPart.descriptions.0>My flesh is weak, I should upgrade it with the best part.</WishToBestPart.descriptions.0>
+  <WishToBestPart.description>To fulfill this [tier], a body part of {Pawn} should be replaced with one of the best counterpart.
+List :{BodyPart}</WishToBestPart.description>
+  <WishTranscendence.label>reach transcendence</WishTranscendence.label>
+  <WishTranscendence.descriptions.0>My body is naturally limited, I wish to transcend these limits. The technology exists, it is within my reach!</WishTranscendence.descriptions.0>
+  <WishTranscendence.description>To fulfill this [tier], {Pawn} should reach transcendence, {Pawn_pronoun} need {Amount} body part upgrades.
+List :{BodyPart}</WishTranscendence.description>
+</LanguageData>

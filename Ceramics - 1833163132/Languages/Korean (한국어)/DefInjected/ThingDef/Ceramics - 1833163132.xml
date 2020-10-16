@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_CombatHelmet.label>combat helmet</Apparel_CombatHelmet.label>
+  <Apparel_CombatHelmet.description>A lightweight helmet made of reinforced ceramic composite, designed to protect the head from projectiles and blunt impacts.</Apparel_CombatHelmet.description>
+  <ClayGatheringSpot.label>clay gathering spot</ClayGatheringSpot.label>
+  <ClayGatheringSpot.description>A place for pawns to collect raw clay from wet ground.</ClayGatheringSpot.description>
+  <ClayPit.label>clay pit</ClayPit.label>
+  <ClayPit.description>A shallow pit dug for the purpose of harvesting clay. Must be placed on firm, dry ground.</ClayPit.description>
+  <CeramicsBench_Basic.label>ceramics bench</CeramicsBench_Basic.label>
+  <CeramicsBench_Basic.description>A workbench for forming clay into useful objects. It includes a number of basic tools and a small, manually-powered potter's wheel.</CeramicsBench_Basic.description>
+  <CeramicsBench_Electric.label>electric ceramics bench</CeramicsBench_Electric.label>
+  <CeramicsBench_Electric.description>A workbench for forming clay into useful objects. It includes numerous tools and an electric potter's wheel.</CeramicsBench_Electric.description>
+  <Building_DryingRack.label>drying rack</Building_DryingRack.label>
+  <Building_DryingRack.description>A simple rack for drying mud bricks on.</Building_DryingRack.description>
+  <Building_PrimitiveKiln.label>primitive kiln</Building_PrimitiveKiln.label>
+  <Building_PrimitiveKiln.description>A crude, inefficient kiln for firing bricks in.</Building_PrimitiveKiln.description>
+  <Building_BasicKiln.label>basic kiln</Building_BasicKiln.label>
+  <Building_BasicKiln.description>A simple kiln for firing ceramic bricks in.</Building_BasicKiln.description>
+  <Building_ElectricKiln.label>electric kiln</Building_ElectricKiln.label>
+  <Building_ElectricKiln.description>A large, powered kiln for firing ceramics in.</Building_ElectricKiln.description>
+  <MaterialProcessor.label>materials processing bench</MaterialProcessor.label>
+  <MaterialProcessor.description>An all-in-one workstation with advanced grinders, furnaces, and processors capable of converting raw materials into advanced composites.</MaterialProcessor.description>
+  <N7_Sand.label>sand</N7_Sand.label>
+  <N7_Sand.description>A pile of fine-grained sand. It's coarse, rough, and irritating, and it gets everywhere. Even so, it's an important component in the production of ceramic products.</N7_Sand.description>
+  <N7_PlantFiber.label>fiber</N7_PlantFiber.label>
+  <N7_PlantFiber.description>Coarse plant matter, a useful binder when making clay bricks.</N7_PlantFiber.description>
+  <N7_RawClay.label>clay</N7_RawClay.label>
+  <N7_RawClay.description>A mixture of finely-grained rock and water, creating a maleable construction material that can be formed into useful shapes.</N7_RawClay.description>
+  <N7_RawClay.stuffProps.stuffAdjective>clay</N7_RawClay.stuffProps.stuffAdjective>
+  <MineableClay.label>compacted clay</MineableClay.label>
+  <MineableClay.description>A column of densely-packed clay, possibly the remains of an ancient riverbank or lakebed.</MineableClay.description>
+  <N7_RawMudbrick.label>wet mud brick</N7_RawMudbrick.label>
+  <N7_RawMudbrick.description>Fresh clay formed into a rough brick. It will need to be dried before it's of any use.</N7_RawMudbrick.description>
+  <N7_DriedMudbrick.label>mud brick</N7_DriedMudbrick.label>
+  <N7_DriedMudbrick.description>Bricks made of mud, with straw as a binder. Cheap and fireproof, but not particularly strong and somewhat ugly.</N7_DriedMudbrick.description>
+  <N7_DriedMudbrick.stuffProps.stuffAdjective>mudbrick</N7_DriedMudbrick.stuffProps.stuffAdjective>
+  <N7_UnfiredBrick.label>unfired brick</N7_UnfiredBrick.label>
+  <N7_UnfiredBrick.description>Fresh clay formed into a rough brick. It will need to be fired before it's of any use.</N7_UnfiredBrick.description>
+  <N7_FiredBrick.label>brick</N7_FiredBrick.label>
+  <N7_FiredBrick.description>Fired clay bricks made of clay and sand to reduce shrinkage. Economical and fireproof, they make for a sturdy if plain-looking building material.</N7_FiredBrick.description>
+  <N7_FiredBrick.stuffProps.stuffAdjective>brick</N7_FiredBrick.stuffProps.stuffAdjective>
+  <N7_HardenedCeramic.label>hardened ceramic</N7_HardenedCeramic.label>
+  <N7_HardenedCeramic.description>An ingot of incredibly hard ceramic, historically used in ballistic armor. It can be used as a substitue for steel in many cases, though its hardness makes it somewhat brittle.</N7_HardenedCeramic.description>
+  <N7_SilicaWafer.label>silica wafer</N7_SilicaWafer.label>
+  <N7_SilicaWafer.description>A thin, fragile piece of semiconductor material, a raw resource in the production of microelectronics such as integrated circuits and solar cells.</N7_SilicaWafer.description>
+  <N7_Porcelain.label>porcelain</N7_Porcelain.label>
+  <N7_Porcelain.description>A block of ceramic material with a distinct off-white color, reknowned for its beauty. It can be honed to a sharp edge, but its brittleness means it tends to chip. It is impervious to water and has a smooth finish, making it easier to clean than most other materials.</N7_Porcelain.description>
+  <N7_Porcelain.stuffProps.stuffAdjective>porcelain</N7_Porcelain.stuffProps.stuffAdjective>
+  <Mosaic_Medium.label>large mosaic</Mosaic_Medium.label>
+  <Mosaic_Medium.description>A fairly large mosaic image, made of materials laid carefully into the floor.</Mosaic_Medium.description>
+  <FermentingBarrel.ThingDef.label>fermenting barrel</FermentingBarrel.ThingDef.label>
+  <FermentingBarrel.ThingDef.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.ThingDef.description>
+  <BrickWall.ThingDef.label>BrickWall-dummy</BrickWall.ThingDef.label>
+</LanguageData>

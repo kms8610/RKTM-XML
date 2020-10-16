@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WantNutrition.label>wants to eat lot of food</WantNutrition.label>
+  <WantNutrition.descriptions.0>What a tough life. Let’s eat to relax.</WantNutrition.descriptions.0>
+  <WantNutrition.description>To fulfill this [tier], {Pawn} needs to eat {Amount} nutrition worth of any food. This wish ends fast. It will last for 6 to 8 days.</WantNutrition.description>
+  <WantMeals.label>wants to eat meals</WantMeals.label>
+  <WantMeals.descriptions.0>I live in harsh conditions. Even a simple meal could up my mood.</WantMeals.descriptions.0>
+  <WantMeals.description>To fulfill this [tier] {Pawn} need to eat {Amount} nutrition of {Objects}.</WantMeals.description>
+  <WantGoodFood.label>wants to eat good food</WantGoodFood.label>
+  <WantGoodFood.descriptions.0>I would give so much to eat some tasty food.</WantGoodFood.descriptions.0>
+  <WantGoodFood.description>To fulfill this [tier] {Pawn} need to eat {Amount} nutrition of good food. ({Objects}).</WantGoodFood.description>
+  <WantCannibalisme.label>wants to perform cannibalism</WantCannibalisme.label>
+  <WantCannibalisme.descriptions.0>I feel a growing desire to eat the flesh of my own.</WantCannibalisme.descriptions.0>
+  <WantCannibalisme.description>To fulfill this [tier] {Pawn} needs to eat {Amount} nutrition of food that {Pawn_pronoun} considers cannibalism.{Objects}</WantCannibalisme.description>
+  <WantJoyFood.label>wants joy food</WantJoyFood.label>
+  <WantJoyFood.descriptions.0>I miss the taste of all those sweet foods, I would love to eat some.</WantJoyFood.descriptions.0>
+  <WantJoyFood.descriptions.1>Eating {Objects} would make me so happy.</WantJoyFood.descriptions.1>
+  <WantJoyFood.description>To fulfill this [tier] {Pawn} need to eat {Amount} amount of {Objects}.</WantJoyFood.description>
+  <WantMaxPreferabilityFood.label>wants to eat good dish</WantMaxPreferabilityFood.label>
+  <WantMaxPreferabilityFood.descriptions.0>I would like to eat some great dish.</WantMaxPreferabilityFood.descriptions.0>
+  <WantMaxPreferabilityFood.description>To fulfill this [tier] {Pawn} need to eat {Amount} units of {Objects}.</WantMaxPreferabilityFood.description>
+  <WantTasteSpecificFlavour.label>wants to taste specific flavour</WantTasteSpecificFlavour.label>
+  <WantTasteSpecificFlavour.descriptions.0>I would like to taste the flavour of {Objects}.</WantTasteSpecificFlavour.descriptions.0>
+  <WantTasteSpecificFlavour.description>To fulfill this [tier], {Pawn} need to eat {Amount} {Objects}.</WantTasteSpecificFlavour.description>
+  <WantTotalCannibalisme.label>wants to eat the flesh of my own</WantTotalCannibalisme.label>
+  <WantTotalCannibalisme.descriptions.0>I feel a growing desire to eat the flesh of my own species.</WantTotalCannibalisme.descriptions.0>
+  <WantTotalCannibalisme.description>To fulfill this [tier], {Pawn} needs to get {Amount} nutrition from food that {Pawn_pronoun} considers cannibalism. 
+This wish will make {Pawn} upset pretty fast, but eating the food {Pawn_pronoun} want will highly reduce this debuff.</WantTotalCannibalisme.description>
+  <WantBestFood.label>wants to eat great food</WantBestFood.label>
+  <WantBestFood.descriptions.0>Only the best food will satisfy my sophisticated palate.</WantBestFood.descriptions.0>
+  <WantBestFood.description>To fulfill this [tier], {Pawn} need to eat {Amount} nutrition of {Objects}.
+This wish will make {Pawn} upset pretty fast but eating the food {Pawn_pronoun} wants will highly reduce this debuff.</WantBestFood.description>
+</LanguageData>

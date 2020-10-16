@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WantTextileStock.label>increases textile stock</WantTextileStock.label>
+  <WantTextileStock.descriptions.0>We should increase our stock of leather and textile so we will be able to renew our clothes according to our needs.</WantTextileStock.descriptions.0>
+  <WantTextileStock.description>To fulfill this [tier] you need {Amount} more units of leather or textile.</WantTextileStock.description>
+  <WantDrugStock.label>wants drug stock</WantDrugStock.label>
+  <WantDrugStock.descriptions.0>I would like to have some drug stock, so I could consume some whenever I want.</WantDrugStock.descriptions.0>
+  <WantDrugStock.description>To fulfill this [tier] you need {Amount} units of any drug.</WantDrugStock.description>
+  <WantMoreJoyBuilding.label>wants joy building diversity</WantMoreJoyBuilding.label>
+  <WantMoreJoyBuilding.descriptions.0>More joy building diversity could be nice !</WantMoreJoyBuilding.descriptions.0>
+  <WantMoreJoyBuilding.description>To fulfill this [tier] you need {Amount} different joy building.
+Possible building :
+{Objects}</WantMoreJoyBuilding.description>
+  <WantBedRoomFacility.label>wants bedroom facility</WantBedRoomFacility.label>
+  <WantBedRoomFacility.descriptions.0>Some facility in my bedroom could be nice !</WantBedRoomFacility.descriptions.0>
+  <WantBedRoomFacility.description>To fulfill this [tier] {Pawn} {Role} should contain {Amount} normal or better {Role} facility.
+Possible facility :
+{Objects}</WantBedRoomFacility.description>
+  <WantNiceArtInRecRoom.label>wants nice art in {Role}</WantNiceArtInRecRoom.label>
+  <WantNiceArtInRecRoom.descriptions.0>Our {Role} could look better, it would benefit from having some artwork !</WantNiceArtInRecRoom.descriptions.0>
+  <WantNiceArtInRecRoom.description>To fulfill this [tier], you need a {Role} that contains {Amount} unique pieces of art that look great (30 or more Beauty, from different thing).
+
+{CountRule}</WantNiceArtInRecRoom.description>
+  <WantFallenHonorBuilding.label>Builduings to honor the dead</WantFallenHonorBuilding.label>
+  <WantFallenHonorBuilding.descriptions.0>We should have some buildings to honor those who have fallen.</WantFallenHonorBuilding.descriptions.0>
+  <WantFallenHonorBuilding.description>To fulfill this [tier] a {Role} should contain {Amount} of the following possibility :
+{Objects}
+
+{CountRule}</WantFallenHonorBuilding.description>
+  <WantRoyalBed.label>wants a royal bed</WantRoyalBed.label>
+  <WantRoyalBed.descriptions.0>I want more, always more. I want a royal bed !</WantRoyalBed.descriptions.0>
+  <WantRoyalBed.description>To fulfill this [tier] {Pawn} need an excellent or better royal bed in {Pawn_possessive} {Role}.</WantRoyalBed.description>
+  <WantNewArtPiece.label>wants new art piece</WantNewArtPiece.label>
+  <WantNewArtPiece.descriptions.0>We live in good condition, we should have more incredible art piece!</WantNewArtPiece.descriptions.0>
+  <WantNewArtPiece.description>To fulfill this [tier], you need a new exquisitely beautiful art piece.</WantNewArtPiece.description>
+  <WantTheArtPiece.label>wants dream art piece</WantTheArtPiece.label>
+  <WantTheArtPiece.descriptions.0>I want most impressive art piece!</WantTheArtPiece.descriptions.0>
+  <WantTheArtPiece.description>To fulfill this [tier], you need an absurdly beautiful art piece.</WantTheArtPiece.description>
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WantNewAnimal.label>wants new animal</WantNewAnimal.label>
+  <WantNewAnimal.descriptions.0>Wants new animal!</WantNewAnimal.descriptions.0>
+  <WantNewAnimal.description>To fulfill this [tier] you need {Amount} new animal.</WantNewAnimal.description>
+  <WantAnimalCompagny.label>wants animal compagny</WantAnimalCompagny.label>
+  <WantAnimalCompagny.descriptions.0>Our colony needs some animation, to be around animals would brighten my heart!</WantAnimalCompagny.descriptions.0>
+  <WantAnimalCompagny.description>To fulfill this [tier] you need {Amount} animals.</WantAnimalCompagny.description>
+  <WantAnimalBond.label>wants to bond an animal</WantAnimalBond.label>
+  <WantAnimalBond.descriptions.0>I would like to have a strong bond with an animal!</WantAnimalBond.descriptions.0>
+  <WantAnimalBond.description>To fulfill this [tier] {Pawn} need to bond an animal.</WantAnimalBond.description>
+  <WantEggAnimal.label>wants oviparous animals</WantEggAnimal.label>
+  <WantEggAnimal.descriptions.0>Wants oviparous animals!</WantEggAnimal.descriptions.0>
+  <WantEggAnimal.description>To fulfill this [tier] you need 2 oviparous animals from the same species.
+Possible animals :
+{Objects}</WantEggAnimal.description>
+  <WantMilkableAnimal.label>wants milkable animals</WantMilkableAnimal.label>
+  <WantMilkableAnimal.descriptions.0>Wants milkable animals!</WantMilkableAnimal.descriptions.0>
+  <WantMilkableAnimal.description>To fulfill this [tier] you need {Amount} milkable animals.
+Possible animals :
+{Objects}</WantMilkableAnimal.description>
+  <WantNewBond.label>wants to have a new bond with an animal</WantNewBond.label>
+  <WantNewBond.descriptions.0>I would like to have more strong bond with animals!</WantNewBond.descriptions.0>
+  <WantNewBond.description>To fulfill this [tier] {Pawn} need to make a new bond with an animal.</WantNewBond.description>
+  <WantNewPet.label>wants new pets</WantNewPet.label>
+  <WantNewPet.descriptions.0>Pet are adorable, having more would brighten up our colony!</WantNewPet.descriptions.0>
+  <WantNewPet.description>To fulfill this [tier] you need {Amount} new pets.
+Possible pets :
+{Objects}</WantNewPet.description>
+  <WantExoticAnimal.label>wants exotic animals</WantExoticAnimal.label>
+  <WantExoticAnimal.descriptions.0>Wants exotic animals!</WantExoticAnimal.descriptions.0>
+  <WantExoticAnimal.description>To fulfill this [tier] you need {Amount} new exotic animals.
+Possible animals :
+{Objects}</WantExoticAnimal.description>
+  <WantCuteAnimal.label>wants cute pets</WantCuteAnimal.label>
+  <WantCuteAnimal.descriptions.0>Wants cute pets!</WantCuteAnimal.descriptions.0>
+  <WantCuteAnimal.description>To fulfill this [tier] you need {Amount} cute animals of at least 3 differents races.
+Possible animals :
+{Objects}</WantCuteAnimal.description>
+  <WantLuxureAnimal.label>wants expensive animals</WantLuxureAnimal.label>
+  <WantLuxureAnimal.descriptions.0>Wants expensive animals!</WantLuxureAnimal.descriptions.0>
+  <WantLuxureAnimal.description>To fulfill this [tier] you need {Amount} expensive animals.
+Possible animal :
+{Objects}</WantLuxureAnimal.description>
+  <WantMajesticBond.label>wants to bond a majestic animal</WantMajesticBond.label>
+  <WantMajesticBond.descriptions.0>In this world, it exist amazing and majestic creatures. I wish I had a strong bond with one!</WantMajesticBond.descriptions.0>
+  <WantMajesticBond.description>To fulfill this [tier] {Pawn} need to bond a majestic animals.
+Possible animal :
+{Objects}</WantMajesticBond.description>
+</LanguageData>

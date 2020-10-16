@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterLabelDoctorRequest_DisasterSW>Doctor request disaster</LetterLabelDoctorRequest_DisasterSW>
+  <LetterDoctorRequest_DisasterSW>The medical treatment ended in a disaster. Your doctor failed his operation and killed the patient in the process.\n\nYour caravan scrambled to depart early but {0} from {1} caught up with it and attackes!\n\nRelations with {1}: {2}.</LetterDoctorRequest_DisasterSW>
+  <LetterLabelDoctorRequest_BackfireSW>Doctor request major failure</LetterLabelDoctorRequest_BackfireSW>
+  <LetterDoctorRequest_BackfireSW>Your doctor failed during a critical part of the medical procedure and the patient died.\n\nRelations with {0}: {1}.</LetterDoctorRequest_BackfireSW>
+  <LetterLabelDoctorRequest_NeutralSW>Doctor request minor failure</LetterLabelDoctorRequest_NeutralSW>
+  <LetterDoctorRequest_NeutralSW>Despite your doctors best effort the medical treatment failed and the patient did not get better.\n\nRelations with {0} remain unchanged.</LetterDoctorRequest_NeutralSW>
+  <LetterLabelDoctorRequest_SuccessSW>Doctor request success</LetterLabelDoctorRequest_SuccessSW>
+  <LetterDoctorRequest_SuccessSW>The medical treatment was a success. The patient made a full recovery.\n\nRelations with {0} have improved by {1}.</LetterDoctorRequest_SuccessSW>
+  <LetterLabelDoctorRequest_TriumphSW>Doctor request triumph</LetterLabelDoctorRequest_TriumphSW>
+  <LetterDoctorRequest_TriumphSW>The medical treatment was a great triumph! The patient feels even better than before.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift: {2}.</LetterDoctorRequest_TriumphSW>
+  <DoctorRequestXPGainSW>{0}, your doctor, has gained {1} medical and {2} social experience.</DoctorRequestXPGainSW>
+  <LetterLabelPsychicEmitter_NewDroneSW>Psychic emitter drone</LetterLabelPsychicEmitter_NewDroneSW>
+  <LetterPsychicEmitter_NewDroneSW>The emitter has changed its wave pattern and is now emitting a psychic drone affecting colonists of the {0} gender.</LetterPsychicEmitter_NewDroneSW>
+  <LetterLabelPsychicEmitter_NewSootheSW>Psychic emitter soothe</LetterLabelPsychicEmitter_NewSootheSW>
+  <LetterPsychicEmitter_NewSootheSW>The emitter has stabilized its wave pattern and is now emitting a soothing signal. Colonists of the {0} gender start to smile.</LetterPsychicEmitter_NewSootheSW>
+  <LetterLabelPsychicEmitter_ShutdownSW>Psychic emitter shutdown</LetterLabelPsychicEmitter_ShutdownSW>
+  <LetterPsychicEmitter_ShutdownSW>The psychic emitter seems to have shut down. It is still possible to explore its location for a few days.</LetterPsychicEmitter_ShutdownSW>
+  <LetterLabelPsychicEmitter_MassAnimalInsanitySW>Psychic pulse!</LetterLabelPsychicEmitter_MassAnimalInsanitySW>
+  <LetterPsychicEmitter_MassAnimalInsanitySW>An intense energy pulse from the psychic emitter sweeps over the area. The colonists wince in pain for a second but feel fine afterwards. However it seems that the pulse drove many {0} in the area insane.</LetterPsychicEmitter_MassAnimalInsanitySW>
+  <LetterLabelSalvageTeamSW>Hostile salvage team!</LetterLabelSalvageTeamSW>
+  <LetterSalvageTeamSW>Hostile salvage team!</LetterSalvageTeamSW>
+  <LetterLabelHuntingPartySW>Hostile hunting party!</LetterLabelHuntingPartySW>
+  <LetterHuntingPartySW>Hostile hunting party!</LetterHuntingPartySW>
+  <LetterLabelCrashedShipSW>Spaceship crash opportunity</LetterLabelCrashedShipSW>
+  <LetterCrashedShipSW>The comms console lights up with an automated distress signal send by a spaceship. The signal includes specific coordinates but suddenly stops, followed by a distant rumbling. What may one find at the crashsite?</LetterCrashedShipSW>
+  <LetterLabelCrashedHiveShipSW>Hiveship crash opportunity</LetterLabelCrashedHiveShipSW>
+  <LetterCrashedHiveShipSW>The comms console lights up with a garbled signal. You eventually realize it's an encrypted mechanoid signal and the source is moving rapidly through the atmosphere towards the planets surface. A few seconds later the signal suddenly stops and you realize a mechanoid hiveship just crashed nearby. The ship is probably heavily damaged but there might still be loot inside. However there will be many surviving mechanoids. This might be very dangerous.</LetterCrashedHiveShipSW>
+  <HuntinLodgeOppTitleSW>Hunting lodge opportunity</HuntinLodgeOppTitleSW>
+  <HuntinLodgeOpp_AcceptSW>Accept</HuntinLodgeOpp_AcceptSW>
+  <HuntinLodgeOpp_RejectSW>Reject</HuntinLodgeOpp_RejectSW>
+  <HuntinLodgeOppFeeDemandSW>{0} is willing to tell us the location in exchange for {1} silver.</HuntinLodgeOppFeeDemandSW>
+  <LetterLabelConditionHealedEventSW>{0} cured</LetterLabelConditionHealedEventSW>
+  <LetterConditionHealedEventSW>The {1} went to work and cured {2} of {0}.</LetterConditionHealedEventSW>
+  <LetterLabelWeaponsCachePodCrash>Weapons cache pods</LetterLabelWeaponsCachePodCrash>
+  <EnterMadSW>Enter the Mind Altering Device</EnterMadSW>
+  <OpenMadSW>Open the Mind Altering Device</OpenMadSW>
+  <MADConslusionSW>{0} exits the M.A.D. but is now feeling {1}.</MADConslusionSW>
+  <MADBadStuffSW>After exiting the Mind Altering Device {0} seems to be affected by {1}.\nThis is probably due to inproper/repeated use of the MAD or an unexpected power loss.</MADBadStuffSW>
+  <LazarusActivationMessageSW>Lazarus mechanites started healing {0}</LazarusActivationMessageSW>
+  <MentalStateInductionMessageSW>{0} is now {1}</MentalStateInductionMessageSW>
+</LanguageData>

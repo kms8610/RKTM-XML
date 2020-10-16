@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HDream_WishTitle>Wish :</HDream_WishTitle>
+  <HDream_MoodTitle>Mood :</HDream_MoodTitle>
+  <HDream_NoWish>(none)</HDream_NoWish>
+  <HDream_MessageNewWish>New {0}! {1} {2}.</HDream_MessageNewWish>
+  <HDream_ReceiveWishLetter>Wish info : {0}! {1} {2}.</HDream_ReceiveWishLetter>
+  <HDream_WishDismissOption>Dismiss wish</HDream_WishDismissOption>
+  <HDream_WishDismissToOld>This wish is too old to be dismissed.</HDream_WishDismissToOld>
+  <HDream_WishAge>This wish has been expressed {0} day(s) ago.</HDream_WishAge>
+  <HDream_WishWontEnd>This wish can't end before {0} day(s).</HDream_WishWontEnd>
+  <HDream_WishCanEnd>This wish can potentially end.</HDream_WishCanEnd>
+  <HDream_WishUnrealistic>{Pawn} knows that this wish is unrealistic under the current conditions, {Pawn_pronoun} does not expect to fulfill it. Thus {Pawn_pronoun} won't be upset if this wish is not fulfilled.</HDream_WishUnrealistic>
+  <HDream_OwnRoom>own </HDream_OwnRoom>
+  <HDream_WishIngestTotal>Total : </HDream_WishIngestTotal>
+  <HDream_WishThingPerUnit>Each item unit count for the total need count, surplus of same item don't count.</HDream_WishThingPerUnit>
+  <HDream_WishThingPerInfo>To complete the total need count, you should meet the specifique amount asked per item.</HDream_WishThingPerInfo>
+  <HDream_WishMasterPartToFulfill>Part to fulfill :</HDream_WishMasterPartToFulfill>
+  <HDream_WishTimedDescription>Timed : The conditions of this wish must be satisfied during {0} days in order to be fulfilled, the wish won't end during that time.</HDream_WishTimedDescription>
+  <HDream_WishTimedSatisfied>The conditions are satisfied.</HDream_WishTimedSatisfied>
+  <HDream_WishTimedNotSatisfied>The conditions aren't satisfied.</HDream_WishTimedNotSatisfied>
+  <HDream_DescWishFrequencyFactor>Factor the chance to get a wish per hour and the time to get the no wish debuff</HDream_DescWishFrequencyFactor>
+  <HDream_SettingValue>Your setting : {0} ( Default is {1} )</HDream_SettingValue>
+  <HDream_WarningWishPending>Reducing these values risk to transform this mod in a free mood mod. Try to keep the default setting even if the debuff could look high sometime. Breakdown are part of the game.</HDream_WarningWishPending>
+  <HDream_DescWishPendingFactor>A factor on the wish pending debuff.</HDream_DescWishPendingFactor>
+  <HDream_DescWishPendingStackMultiplier>An offset on the wish pending stack multiplier, it mean each stack with have a lower and lower impact, the default value is 0.92. Even a sligth change can have a huge impact on the total mood debuff.</HDream_DescWishPendingStackMultiplier>
+</LanguageData>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NoWishDepresion.stages.0.label>I want nothing</NoWishDepresion.stages.0.label>
+  <NoWishDepresion.stages.0.description>I have no desires, nor wishes. I have no purpose in life.</NoWishDepresion.stages.0.description>
+  <WishDenial.stages.0.label>wish denied</WishDenial.stages.0.label>
+  <WishDenial.stages.0.description>My wish must have been almost impossible under the current circumstances, I have no choice but to abandon it.</WishDenial.stages.0.description>
+  <WishTimeFail.stages.0.label>failed [tier]</WishTimeFail.stages.0.label>
+  <WishTimeFail.stages.0.description>I can't even fill a simple [tier].</WishTimeFail.stages.0.description>
+  <WishTimeFail.stages.1.label>failed [tier]</WishTimeFail.stages.1.label>
+  <WishTimeFail.stages.1.description>I didn't think it could be so hard to fulfill [tiers].</WishTimeFail.stages.1.description>
+  <WishTimeFail.stages.2.label>failed [tier]</WishTimeFail.stages.2.label>
+  <WishTimeFail.stages.2.description>I guess my [tiers] are delusional.</WishTimeFail.stages.2.description>
+  <WishTimeFail.stages.3.label>failed [tier]</WishTimeFail.stages.3.label>
+  <WishTimeFail.stages.3.description>I'm just sad.</WishTimeFail.stages.3.description>
+  <WishTimeFail.stages.4.label>failed [tier]</WishTimeFail.stages.4.label>
+  <WishTimeFail.stages.4.description>I'm so frustrated.</WishTimeFail.stages.4.description>
+  <WishTimeFail.stages.5.label>failed [tier]</WishTimeFail.stages.5.label>
+  <WishTimeFail.stages.5.description>It's unfair.</WishTimeFail.stages.5.description>
+  <WishTimeFail.stages.6.label>failed [tier]</WishTimeFail.stages.6.label>
+  <WishTimeFail.stages.6.description>A [tier]... I feel like an empty shell.</WishTimeFail.stages.6.description>
+  <WishFoodFulfilled.stages.0.label>fulfilled food [tier]</WishFoodFulfilled.stages.0.label>
+  <WishFoodFulfilled.stages.0.description>I ate what I wanted to eat, it's great!</WishFoodFulfilled.stages.0.description>
+  <WishFoodFulfilled.stages.1.label>fulfilled food [tier]</WishFoodFulfilled.stages.1.label>
+  <WishFoodFulfilled.stages.1.description>I ate what I wanted to eat, it's great!</WishFoodFulfilled.stages.1.description>
+  <WishFoodFulfilled.stages.2.label>fulfilled food [tier]</WishFoodFulfilled.stages.2.label>
+  <WishFoodFulfilled.stages.2.description>I ate what I wanted to eat, it's great!</WishFoodFulfilled.stages.2.description>
+  <WishFoodFulfilled.stages.3.label>fulfilled food [tier]</WishFoodFulfilled.stages.3.label>
+  <WishFoodFulfilled.stages.3.description>I ate what I wanted to eat, it's great!</WishFoodFulfilled.stages.3.description>
+  <WishFoodFulfilled.stages.4.label>fulfilled food [tier]</WishFoodFulfilled.stages.4.label>
+  <WishFoodFulfilled.stages.4.description>I ate what I wanted to eat, it's great!</WishFoodFulfilled.stages.4.description>
+  <WishFoodFulfilled.stages.5.label>fulfilled food [tier]</WishFoodFulfilled.stages.5.label>
+  <WishFoodFulfilled.stages.5.description>I ate what I wanted to eat, it's great!</WishFoodFulfilled.stages.5.description>
+  <WishFoodFulfilled.stages.6.label>fulfilled [tier] food</WishFoodFulfilled.stages.6.label>
+  <WishFoodFulfilled.stages.6.description>I dreamed of that flavour and I finally tasted it. What a wonderful experience.</WishFoodFulfilled.stages.6.description>
+  <WishDrugFulfilled.stages.0.label>fulfilled drug [tier]</WishDrugFulfilled.stages.0.label>
+  <WishDrugFulfilled.stages.0.description>Ah, it felt so nice !</WishDrugFulfilled.stages.0.description>
+  <WishDrugFulfilled.stages.1.label>fulfilled drug [tier]</WishDrugFulfilled.stages.1.label>
+  <WishDrugFulfilled.stages.1.description>Ah, it felt so nice !</WishDrugFulfilled.stages.1.description>
+  <WishDrugFulfilled.stages.2.label>fulfilled drug [tier]</WishDrugFulfilled.stages.2.label>
+  <WishDrugFulfilled.stages.2.description>Ah, it felt so nice !</WishDrugFulfilled.stages.2.description>
+  <WishDrugFulfilled.stages.3.label>fulfilled drug [tier]</WishDrugFulfilled.stages.3.label>
+  <WishDrugFulfilled.stages.3.description>It felt so nice ! Sh-should I try again ?</WishDrugFulfilled.stages.3.description>
+  <WishDrugFulfilled.stages.4.label>fulfilled drug [tier]</WishDrugFulfilled.stages.4.label>
+  <WishDrugFulfilled.stages.4.description>Aww</WishDrugFulfilled.stages.4.description>
+  <WishDrugFulfilled.stages.5.label>fulfilled drug [tier]</WishDrugFulfilled.stages.5.label>
+  <WishDrugFulfilled.stages.5.description>Oww</WishDrugFulfilled.stages.5.description>
+  <WishDrugFulfilled.stages.6.label>fulfilled [tier] drug</WishDrugFulfilled.stages.6.label>
+  <WishDrugFulfilled.stages.6.description>No matter the consequences, I don't regret anything.</WishDrugFulfilled.stages.6.description>
+  <WishItemFulfilled.stages.0.label>fulfilled item [tier]</WishItemFulfilled.stages.0.label>
+  <WishItemFulfilled.stages.0.description>All those nice things, it's great!</WishItemFulfilled.stages.0.description>
+  <WishItemFulfilled.stages.1.label>fulfilled item [tier]</WishItemFulfilled.stages.1.label>
+  <WishItemFulfilled.stages.1.description>All those nice things, it's great!</WishItemFulfilled.stages.1.description>
+  <WishItemFulfilled.stages.2.label>fulfilled item [tier]</WishItemFulfilled.stages.2.label>
+  <WishItemFulfilled.stages.2.description>All those nice things, it's great!</WishItemFulfilled.stages.2.description>
+  <WishItemFulfilled.stages.3.label>fulfilled item [tier]</WishItemFulfilled.stages.3.label>
+  <WishItemFulfilled.stages.3.description>All those nice things, it's great!</WishItemFulfilled.stages.3.description>
+  <WishItemFulfilled.stages.4.label>fulfilled item [tier]</WishItemFulfilled.stages.4.label>
+  <WishItemFulfilled.stages.4.description>All those nice things, it's great!</WishItemFulfilled.stages.4.description>
+  <WishItemFulfilled.stages.5.label>fulfilled item [tier]</WishItemFulfilled.stages.5.label>
+  <WishItemFulfilled.stages.5.description>All those nice things, it's great!</WishItemFulfilled.stages.5.description>
+  <WishItemFulfilled.stages.6.label>fulfilled item [tier]</WishItemFulfilled.stages.6.label>
+  <WishItemFulfilled.stages.6.description>All those nice things, it's great!</WishItemFulfilled.stages.6.description>
+  <WishRoomFulfilled.stages.0.label>fulfilled room [tier]</WishRoomFulfilled.stages.0.label>
+  <WishRoomFulfilled.stages.0.description>I'm glad to have such a nice room!</WishRoomFulfilled.stages.0.description>
+  <WishRoomFulfilled.stages.1.label>fulfilled room [tier]</WishRoomFulfilled.stages.1.label>
+  <WishRoomFulfilled.stages.1.description>I'm glad to have such a nice room!</WishRoomFulfilled.stages.1.description>
+  <WishRoomFulfilled.stages.2.label>fulfilled room [tier]</WishRoomFulfilled.stages.2.label>
+  <WishRoomFulfilled.stages.2.description>I'm glad to have such a nice room!</WishRoomFulfilled.stages.2.description>
+  <WishRoomFulfilled.stages.3.label>fulfilled room [tier]</WishRoomFulfilled.stages.3.label>
+  <WishRoomFulfilled.stages.3.description>I'm glad to have such a nice room!</WishRoomFulfilled.stages.3.description>
+  <WishRoomFulfilled.stages.4.label>fulfilled room [tier]</WishRoomFulfilled.stages.4.label>
+  <WishRoomFulfilled.stages.4.description>I'm glad to have such a nice room!</WishRoomFulfilled.stages.4.description>
+  <WishRoomFulfilled.stages.5.label>fulfilled room [tier]</WishRoomFulfilled.stages.5.label>
+  <WishRoomFulfilled.stages.5.description>I'm glad to have such a nice room!</WishRoomFulfilled.stages.5.description>
+  <WishRoomFulfilled.stages.6.label>fulfilled room [tier]</WishRoomFulfilled.stages.6.label>
+  <WishRoomFulfilled.stages.6.description>I'm glad to have such a nice room!</WishRoomFulfilled.stages.6.description>
+  <WishHediffFulfilled.stages.0.label>fulfilled hediff [tier]</WishHediffFulfilled.stages.0.label>
+  <WishHediffFulfilled.stages.0.description>In a great state of mind!</WishHediffFulfilled.stages.0.description>
+  <WishHediffFulfilled.stages.1.label>fulfilled hediff [tier]</WishHediffFulfilled.stages.1.label>
+  <WishHediffFulfilled.stages.1.description>In a great state of mind!</WishHediffFulfilled.stages.1.description>
+  <WishHediffFulfilled.stages.2.label>fulfilled hediff [tier]</WishHediffFulfilled.stages.2.label>
+  <WishHediffFulfilled.stages.2.description>In a great state of mind!</WishHediffFulfilled.stages.2.description>
+  <WishHediffFulfilled.stages.3.label>fulfilled hediff [tier]</WishHediffFulfilled.stages.3.label>
+  <WishHediffFulfilled.stages.3.description>In a great state of mind!</WishHediffFulfilled.stages.3.description>
+  <WishHediffFulfilled.stages.4.label>fulfilled hediff [tier]</WishHediffFulfilled.stages.4.label>
+  <WishHediffFulfilled.stages.4.description>In a great state of mind!</WishHediffFulfilled.stages.4.description>
+  <WishHediffFulfilled.stages.5.label>fulfilled hediff [tier]</WishHediffFulfilled.stages.5.label>
+  <WishHediffFulfilled.stages.5.description>In a great state of mind!</WishHediffFulfilled.stages.5.description>
+  <WishHediffFulfilled.stages.6.label>fulfilled hediff [tier]</WishHediffFulfilled.stages.6.label>
+  <WishHediffFulfilled.stages.6.description>In a great state of mind!</WishHediffFulfilled.stages.6.description>
+  <WishAnimalFulfilled.stages.0.label>fulfilled animal [tier]</WishAnimalFulfilled.stages.0.label>
+  <WishAnimalFulfilled.stages.0.description>These animals fill me with joy!</WishAnimalFulfilled.stages.0.description>
+  <WishAnimalFulfilled.stages.1.label>fulfilled animal [tier]</WishAnimalFulfilled.stages.1.label>
+  <WishAnimalFulfilled.stages.1.description>These animals fill me with joy!</WishAnimalFulfilled.stages.1.description>
+  <WishAnimalFulfilled.stages.2.label>fulfilled animal [tier]</WishAnimalFulfilled.stages.2.label>
+  <WishAnimalFulfilled.stages.2.description>These animals fill me with joy!</WishAnimalFulfilled.stages.2.description>
+  <WishAnimalFulfilled.stages.3.label>fulfilled animal [tier]</WishAnimalFulfilled.stages.3.label>
+  <WishAnimalFulfilled.stages.3.description>These animals fill me with joy!</WishAnimalFulfilled.stages.3.description>
+  <WishAnimalFulfilled.stages.4.label>fulfilled animal [tier]</WishAnimalFulfilled.stages.4.label>
+  <WishAnimalFulfilled.stages.4.description>These animals fill me with joy!</WishAnimalFulfilled.stages.4.description>
+  <WishAnimalFulfilled.stages.5.label>fulfilled animal [tier]</WishAnimalFulfilled.stages.5.label>
+  <WishAnimalFulfilled.stages.5.description>These animals fill me with joy!</WishAnimalFulfilled.stages.5.description>
+  <WishAnimalFulfilled.stages.6.label>fulfilled animal [tier]</WishAnimalFulfilled.stages.6.label>
+  <WishAnimalFulfilled.stages.6.description>These animals fill me with joy!</WishAnimalFulfilled.stages.6.description>
+  <WishJoywireFulfilled.stages.0.label>fulfilled joywire installation</WishJoywireFulfilled.stages.0.label>
+  <WishJoywireFulfilled.stages.0.description>That feeling !</WishJoywireFulfilled.stages.0.description>
+  <WishFulfilled.stages.0.label>fulfilled [tier]</WishFulfilled.stages.0.label>
+  <WishFulfilled.stages.0.description>My wish was fulfilled, it's nice!</WishFulfilled.stages.0.description>
+  <WishFulfilled.stages.1.label>fulfilled [tier]</WishFulfilled.stages.1.label>
+  <WishFulfilled.stages.1.description>My wish was fulfilled, it's nice!</WishFulfilled.stages.1.description>
+  <WishFulfilled.stages.2.label>fulfilled [tier]</WishFulfilled.stages.2.label>
+  <WishFulfilled.stages.2.description>My wish was fulfilled, it's nice!</WishFulfilled.stages.2.description>
+  <WishFulfilled.stages.3.label>fulfilled [tier]</WishFulfilled.stages.3.label>
+  <WishFulfilled.stages.3.description>My wish was fulfilled, it's nice!</WishFulfilled.stages.3.description>
+  <WishFulfilled.stages.4.label>fulfilled [tier]</WishFulfilled.stages.4.label>
+  <WishFulfilled.stages.4.description>My wish was fulfilled, it's nice!</WishFulfilled.stages.4.description>
+  <WishFulfilled.stages.5.label>fulfilled [tier]</WishFulfilled.stages.5.label>
+  <WishFulfilled.stages.5.description>My wish was fulfilled, it's nice!</WishFulfilled.stages.5.description>
+  <WishFulfilled.stages.6.label>fulfilled [tier]</WishFulfilled.stages.6.label>
+  <WishFulfilled.stages.6.description>My wish was fulfilled, it's nice!</WishFulfilled.stages.6.description>
+  <WishPending.stages.0.label>unsatisfied [tier]</WishPending.stages.0.label>
+  <WishPending.stages.0.description>My [tiers] aren't satisfied.</WishPending.stages.0.description>
+  <WishPending.stages.1.label>unsatisfied [tier]</WishPending.stages.1.label>
+  <WishPending.stages.1.description>I haven't gotten my [tier].</WishPending.stages.1.description>
+  <WishPending.stages.2.label>unsatisfied [tier]</WishPending.stages.2.label>
+  <WishPending.stages.2.description>My [tiers] are definitely not in order.</WishPending.stages.2.description>
+  <WishPending.stages.3.label>unsatisfied [tier]</WishPending.stages.3.label>
+  <WishPending.stages.3.description>It [tier], but it goes nowhere</WishPending.stages.3.description>
+  <WishPending.stages.4.label>unsatisfied [tier]</WishPending.stages.4.label>
+  <WishPending.stages.4.description>I need to be satisfied.</WishPending.stages.4.description>
+  <WishPending.stages.5.label>unsatisfied [tier]</WishPending.stages.5.label>
+  <WishPending.stages.5.description>I need it now, my [tier] is consuming me.</WishPending.stages.5.description>
+  <WishPending.stages.6.label>unsatisfied [tier]</WishPending.stages.6.label>
+  <WishPending.stages.6.description>My [tier] is a disillusion.</WishPending.stages.6.description>
+  <WishComingTrue.stages.0.label>[tier] coming true</WishComingTrue.stages.0.label>
+  <WishComingTrue.stages.0.description>My [tiers] are coming true.</WishComingTrue.stages.0.description>
+  <WishComingTrue.stages.1.label>[tier] coming true</WishComingTrue.stages.1.label>
+  <WishComingTrue.stages.1.description>My [tiers] are coming true.</WishComingTrue.stages.1.description>
+  <WishComingTrue.stages.2.label>[tier] coming true</WishComingTrue.stages.2.label>
+  <WishComingTrue.stages.2.description>My [tiers] are coming true.</WishComingTrue.stages.2.description>
+  <WishComingTrue.stages.3.label>[tier] coming true</WishComingTrue.stages.3.label>
+  <WishComingTrue.stages.3.description>My [tiers] are coming true.</WishComingTrue.stages.3.description>
+  <WishComingTrue.stages.4.label>[tier] coming true</WishComingTrue.stages.4.label>
+  <WishComingTrue.stages.4.description>My [tiers] are coming true.</WishComingTrue.stages.4.description>
+  <WishComingTrue.stages.5.label>[tier] coming true</WishComingTrue.stages.5.label>
+  <WishComingTrue.stages.5.description>My [tiers] are coming true.</WishComingTrue.stages.5.description>
+  <WishComingTrue.stages.6.label>[tier] coming true</WishComingTrue.stages.6.label>
+  <WishComingTrue.stages.6.description>My [tiers] are coming true.</WishComingTrue.stages.6.description>
+  <WishRegressing.stages.0.label>regressing [tier]</WishRegressing.stages.0.label>
+  <WishRegressing.stages.0.description>My [tier] is regressing.</WishRegressing.stages.0.description>
+  <WishRegressing.stages.1.label>regressing [tier]</WishRegressing.stages.1.label>
+  <WishRegressing.stages.1.description>My [tier] is regressing.</WishRegressing.stages.1.description>
+  <WishRegressing.stages.2.label>regressing [tier]</WishRegressing.stages.2.label>
+  <WishRegressing.stages.2.description>My [tier] is regressing.</WishRegressing.stages.2.description>
+  <WishRegressing.stages.3.label>regressing [tier]</WishRegressing.stages.3.label>
+  <WishRegressing.stages.3.description>My [tier] is regressing.</WishRegressing.stages.3.description>
+  <WishRegressing.stages.4.label>regressing [tier]</WishRegressing.stages.4.label>
+  <WishRegressing.stages.4.description>My [tier] is regressing.</WishRegressing.stages.4.description>
+  <WishRegressing.stages.5.label>regressing [tier]</WishRegressing.stages.5.label>
+  <WishRegressing.stages.5.description>My [tier] is regressing.</WishRegressing.stages.5.description>
+  <WishRegressing.stages.6.label>regressing [tier]</WishRegressing.stages.6.label>
+  <WishRegressing.stages.6.description>My [tier] is regressing.</WishRegressing.stages.6.description>
+  <WishUnHold.stages.0.label>[tier] progress stopped</WishUnHold.stages.0.label>
+  <WishUnHold.stages.0.description>The fulfillment of my [tier] has come to a halt.</WishUnHold.stages.0.description>
+  <WishUnHold.stages.1.label>[tier] progress stopped</WishUnHold.stages.1.label>
+  <WishUnHold.stages.1.description>The fulfillment of my [tier] has come to a halt.</WishUnHold.stages.1.description>
+  <WishUnHold.stages.2.label>[tier] progress stopped</WishUnHold.stages.2.label>
+  <WishUnHold.stages.2.description>The fulfillment of my [tier] has come to a halt.</WishUnHold.stages.2.description>
+  <WishUnHold.stages.3.label>[tier] progress stopped</WishUnHold.stages.3.label>
+  <WishUnHold.stages.3.description>The fulfillment of my [tier] has come to a halt.</WishUnHold.stages.3.description>
+  <WishUnHold.stages.4.label>[tier] progress stopped</WishUnHold.stages.4.label>
+  <WishUnHold.stages.4.description>The fulfillment of my [tier] has come to a halt.</WishUnHold.stages.4.description>
+  <WishUnHold.stages.5.label>[tier] progress stopped</WishUnHold.stages.5.label>
+  <WishUnHold.stages.5.description>The fulfillment of my [tier] has come to a halt.</WishUnHold.stages.5.description>
+  <WishUnHold.stages.6.label>[tier] progress stopped</WishUnHold.stages.6.label>
+  <WishUnHold.stages.6.description>The fulfillment of my [tier] has come to a halt.</WishUnHold.stages.6.description>
+  <WishOnHold.stages.0.label>[tier] in process</WishOnHold.stages.0.label>
+  <WishOnHold.stages.0.description>My [tier] comes true, I hope I can enjoy it.</WishOnHold.stages.0.description>
+  <WishOnHold.stages.1.label>[tier] in process</WishOnHold.stages.1.label>
+  <WishOnHold.stages.1.description>My [tier] comes true, I hope I can enjoy it.</WishOnHold.stages.1.description>
+  <WishOnHold.stages.2.label>[tier] in process</WishOnHold.stages.2.label>
+  <WishOnHold.stages.2.description>My [tier] comes true, I hope I can enjoy it.</WishOnHold.stages.2.description>
+  <WishOnHold.stages.3.label>[tier] in process</WishOnHold.stages.3.label>
+  <WishOnHold.stages.3.description>My [tier] comes true, I hope I can enjoy it.</WishOnHold.stages.3.description>
+  <WishOnHold.stages.4.label>[tier] in process</WishOnHold.stages.4.label>
+  <WishOnHold.stages.4.description>My [tier] comes true, I hope I can enjoy it.</WishOnHold.stages.4.description>
+  <WishOnHold.stages.5.label>[tier] in process</WishOnHold.stages.5.label>
+  <WishOnHold.stages.5.description>My [tier] comes true, I hope I can enjoy it.</WishOnHold.stages.5.description>
+  <WishOnHold.stages.6.label>[tier] in process</WishOnHold.stages.6.label>
+  <WishOnHold.stages.6.description>My [tier] comes true, I hope I can enjoy it.</WishOnHold.stages.6.description>
+</LanguageData>

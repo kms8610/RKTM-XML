@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DamagedShipEngineSW.label>damaged ship engine</DamagedShipEngineSW.label>
+  <DamagedShipEngineSW.description>An engine capable of launching a ship into orbit and on interstellar trajectories. This engine was damaged beyond repair by a crash.</DamagedShipEngineSW.description>
+  <InfestedShipChunkSW.label>infested ship chunk</InfestedShipChunkSW.label>
+  <InfestedShipChunkSW.description>A chunk of a spacecraft fallen from space. It seems to be infested by a hive of giant insects.\nWill spawn additional insects and hives over time.</InfestedShipChunkSW.description>
+  <MechanoidHiveComputerCoreSW.label>mechanoid hive ship core</MechanoidHiveComputerCoreSW.label>
+  <MechanoidHiveComputerCoreSW.description>The mysterious core of a crashed mechanoid hive ship. It may contain exotic materials and a malicious AI persona core. It seems to be damaged in the crash.</MechanoidHiveComputerCoreSW.description>
+  <PsychicWaveEmitterSW.label>psychic wave emitter</PsychicWaveEmitterSW.label>
+  <PsychicWaveEmitterSW.description>An ancient structure emitting psychic waves. It seems to be malfunctioning and emitting an intense psychic drone. The only way to shut it down seems to be by destroying it.</PsychicWaveEmitterSW.description>
+  <CherubMechInjectorSW.label>cherub mech injector</CherubMechInjectorSW.label>
+  <CherubMechInjectorSW.description>Injector for cherub mechanites which were developed as a cure for luciferium. The mechanites will spread out in the body and safely destroy any luciferium mechanites. They will remain in the body for about 6 days and then lose cohesian and vanish. Any luciferium mechanites injected during that time will be destroyed. As a side effect the cherub mechanites will increase blood filtration.</CherubMechInjectorSW.description>
+  <CherubMechInjectorSW.ingestible.ingestCommandString>Take {0}</CherubMechInjectorSW.ingestible.ingestCommandString>
+  <CherubMechInjectorSW.ingestible.ingestReportString>Taking {0}.</CherubMechInjectorSW.ingestible.ingestReportString>
+  <InfestedShipChunkIncomingSW.label>infested ship chunk (incoming)</InfestedShipChunkIncomingSW.label>
+</LanguageData>

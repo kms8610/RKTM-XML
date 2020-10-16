@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShipCrashSW.label>ship crash</ShipCrashSW.label>
+  <ShipCrashSW.letterLabel>Shooting star</ShipCrashSW.letterLabel>
+  <ShipCrashSW.letterText>A shooting star just crossed the sky followed by a distant rumbling. What could it be that just fell out of the sky?</ShipCrashSW.letterText>
+  <RaidOnArrivalSW.label>enemy raid</RaidOnArrivalSW.label>
+  <ThrumboSightingSW.label>thrumbo sighting</ThrumboSightingSW.label>
+  <ThrumboSightingSW.letterLabel>Thrumbo sighting</ThrumboSightingSW.letterLabel>
+  <ThrumboSightingSW.letterText>A herd of Thrumbos are gathering nearby. They will stick around for a few days and then move on. You can send a hunting party or try to tame them. Other factions might send a hunting party too.</ThrumboSightingSW.letterText>
+  <HuntingPartyArrivalSW.label>hunting party</HuntingPartyArrivalSW.label>
+  <QuestDoctorRequestSW.label>doctor request opportunity</QuestDoctorRequestSW.label>
+  <QuestDoctorRequestSW.letterLabel>Doctor request opportunity</QuestDoctorRequestSW.letterLabel>
+  <QuestDoctorRequestSW.letterText>[PAWN_nameDef], {0} of {1}, has sent us a message. Someone in a caravan nearby is in urgent need of a doctor.\n\nIt could be a great opportunity to improve relations with their faction, but beware - a poor doctor can cause more harm than good. Accidentially killing the patient might anger their faction.\n\nThe offer will expire after {2} days.</QuestDoctorRequestSW.letterText>
+  <PsychicEmitterActivationSW.label>psychic emitter activated</PsychicEmitterActivationSW.label>
+  <PsychicEmitterActivationSW.letterLabel>Psychic emitter activated</PsychicEmitterActivationSW.letterLabel>
+  <PsychicEmitterActivationSW.letterText>An ancient structure seems to have activated and is emitting a powerful psychic drone. It currently seems to only affect people of the {0} gender. There seems to be a message in the drone calling you to a specific location. Maybe that's where the source of the drone is located.\nThe emitter might be active for a week or even months. There is also a risk the intensity of the drone might drive some animals in the area insane if they are exposed too long.</PsychicEmitterActivationSW.letterText>
+  <PsychicEmitterAnimalInsanitySW.label>psychic emitter animal insanity</PsychicEmitterAnimalInsanitySW.label>
+  <TradeFairSW.label>trade fair</TradeFairSW.label>
+  <TradeFairSW.letterLabel>Trade fair</TradeFairSW.letterLabel>
+  <TradeFairSW.letterText>[PAWN_nameDef], {0} of {1}, has sent us a message. They are hosting a trade fair and invite all friendly factions.\n\nThis is a great opportunity to trade with multiple caravans from different factions.\n\nThe offer will expire after {2} days.</TradeFairSW.letterText>
+  <InsectHiveDropSW.label>insect hive chunks</InsectHiveDropSW.label>
+  <InsectHiveDropSW.letterLabel>Infested ship chunks!</InsectHiveDropSW.letterLabel>
+  <InsectHiveDropSW.letterText>Ship chunks are falling from the sky nearby.\n\nThey seem to be infested by insects!</InsectHiveDropSW.letterText>
+  <HuntingLodgeOppSW.label>hunting lodge opportunity</HuntingLodgeOppSW.label>
+  <HuntingLodgeOppSW.letterLabel>Hunting lodge opportunity</HuntingLodgeOppSW.letterLabel>
+  <HuntingLodgeOppSW.letterText>{0}, {1} of {2}, has informed us that his faction has a hunting lodge near our outpost. The lodge is already outfitted with facilities to sleep, butcher animals and cook the meat.\nUsually there is a group of {3} gathering there at this time of the year.\n\nThe herd of animals will move on in {4} days.</HuntingLodgeOppSW.letterText>
+  <WeaponsCachePodCrashSW.label>weapons cache pod crash</WeaponsCachePodCrashSW.label>
+</LanguageData>

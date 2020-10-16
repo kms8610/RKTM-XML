@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AllowDesignator.label>Allow selection</AllowDesignator.label>
+  <AllowDesignator.description>Unforbid all items in the selected area.
+Click and drag over an area to use.</AllowDesignator.description>
+  <ForbidDesignator.label>Forbid selection</ForbidDesignator.label>
+  <ForbidDesignator.description>Forbid all items in the selected area.
+Click and drag over an area to use.</ForbidDesignator.description>
+  <AllowAllDesignator.label>Allow everything</AllowAllDesignator.label>
+  <AllowAllDesignator.description>Unforbids all forbidden items on the map.
+Click to activate.
+&lt;b>Hold Ctrl/Option&lt;/b> to include buildings.
+&lt;b>Hold Shift&lt;/b> to include skeletons and non-fresh corpses.</AllowAllDesignator.description>
+  <SelectSimilarDesignator.label>Select similar</SelectSimilarDesignator.label>
+  <SelectSimilarDesignator.description>Selects only things similar to those already selected.
+&lt;b>Hold Shift&lt;/b> to pick additional things.
+&lt;b>Hold Alt&lt;/b> to ignore selection limits.</SelectSimilarDesignator.description>
+  <HaulUrgentlyDesignator.label>Haul urgently</HaulUrgentlyDesignator.label>
+  <HaulUrgentlyDesignator.description>Mark things to be hauled as soon as possible. Colonists will delay other work until hauling is complete.
+Configurable in the Work tab.
+&lt;b>Hold Shift&lt;/b> to interrupt current colonist work.</HaulUrgentlyDesignator.description>
+  <FinishOffDesignator.label>Finish off</FinishOffDesignator.label>
+  <FinishOffDesignator.description>Quickly and painlessly kill downed creatures.
+&lt;b>Hold Shift&lt;/b> to include colonists and allies.</FinishOffDesignator.description>
+  <HarvestFullyGrownDesignator.label>Harvest fully grown</HarvestFullyGrownDesignator.label>
+  <HarvestFullyGrownDesignator.description>Orders the harvesting or chopping crops and trees that are sufficiently grown to yield their maximum amount of resources when gathered.
+&lt;b>Hold Shift&lt;/b> to include only plants.
+&lt;b>Hold Ctrl/Option&lt;/b> to include only trees.</HarvestFullyGrownDesignator.description>
+  <StripMineDesignator.label>Strip mine</StripMineDesignator.label>
+  <StripMineDesignator.description>Lays out mine orders in a grid to maximize the chance to find hidden ores.
+&lt;b>Hold Shift&lt;/b> to show settings window or designate using current settings.</StripMineDesignator.description>
+</LanguageData>

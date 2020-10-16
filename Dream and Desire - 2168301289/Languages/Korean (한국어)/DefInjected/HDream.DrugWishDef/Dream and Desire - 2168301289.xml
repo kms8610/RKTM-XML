@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WantAnyDrug.label>wants to consume drug</WantAnyDrug.label>
+  <WantAnyDrug.descriptions.0>If only I could consume some drugs.</WantAnyDrug.descriptions.0>
+  <WantAnyDrug.description>To fulfill this [tier], {Pawn} should consume {Amount} units of any drug.
+Possible drugs are : {Objects}</WantAnyDrug.description>
+  <WantSocialDrug.label>wants to consume social drugs</WantSocialDrug.label>
+  <WantSocialDrug.descriptions.0>A good beer and some weed would do me a world of good!</WantSocialDrug.descriptions.0>
+  <WantSocialDrug.descriptions.1>If only I could consume some social drug.</WantSocialDrug.descriptions.1>
+  <WantSocialDrug.description>To fulfill this [tier], {Pawn} should consume {Amount} units of any social drug.
+Possible drug are : {Objects}</WantSocialDrug.description>
+  <WantHardDrug.label>wants to consume hard drug</WantHardDrug.label>
+  <WantHardDrug.descriptions.0>I want to try some hard drugs.</WantHardDrug.descriptions.0>
+  <WantHardDrug.descriptions.1>If only I could consume some hard drugs.</WantHardDrug.descriptions.1>
+  <WantHardDrug.description>To fulfill this [tier], {Pawn} should consume {Amount} units of any hard drug.
+Possible drug are : {Objects}</WantHardDrug.description>
+  <WantSpecificDrug.label>wants to consume {Objects}</WantSpecificDrug.label>
+  <WantSpecificDrug.descriptions.0>I want to try {Objects} several times.</WantSpecificDrug.descriptions.0>
+  <WantSpecificDrug.description>To fulfill this [tier] {Pawn} should consume {Amount} units of {Objects}.</WantSpecificDrug.description>
+  <WantContinuouslyHardDrug.label>wants hard drug continuously</WantContinuouslyHardDrug.label>
+  <WantContinuouslyHardDrug.descriptions.0>I want hard drugs continuously.</WantContinuouslyHardDrug.descriptions.0>
+  <WantContinuouslyHardDrug.description>A difficult wish to fulfill, {Pawn} should consume {Amount} units of hard drugs.
+Each drug consumption will add a good mood buff but without any consumption {Pawn} will get mad pretty fast.
+Possible drugs are : {Objects}</WantContinuouslyHardDrug.description>
+  <WantMultiHardDrug.label>wants multiple hard drug</WantMultiHardDrug.label>
+  <WantMultiHardDrug.descriptions.0>I want a hard drug cocktail.</WantMultiHardDrug.descriptions.0>
+  <WantMultiHardDrug.description>To fulfill this [tier], {Pawn} should consume {Amount} units of any hard drug. 
+Only the 2 first unit of each drug will count for the total.
+Possible drugs are : {Objects}</WantMultiHardDrug.description>
+</LanguageData>

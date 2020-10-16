@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WantOwnBedRoom.label>wants {Objects}</WantOwnBedRoom.label>
+  <WantOwnBedRoom.descriptions.0>Wants {Objects}.</WantOwnBedRoom.descriptions.0>
+  <WantOwnBedRoom.description>To fulfill this [tier] {Pawn} need {Pawn_possessive} {Objects}.</WantOwnBedRoom.description>
+  <WantNiceBedRoom.label>wants {Objects}</WantNiceBedRoom.label>
+  <WantNiceBedRoom.descriptions.0>Wants {Objects}.</WantNiceBedRoom.descriptions.0>
+  <WantNiceBedRoom.description>To fulfill this [tier] {Pawn} need {Pawn_possessive} {Objects}.</WantNiceBedRoom.description>
+  <WantBeautifulRecRoom.label>wants {Objects}</WantBeautifulRecRoom.label>
+  <WantBeautifulRecRoom.descriptions.0>Wants {Objects}.</WantBeautifulRecRoom.descriptions.0>
+  <WantBeautifulRecRoom.description>To fulfill this [tier], you need : {Objects}.</WantBeautifulRecRoom.description>
+  <WantRoomSet.label>wants nice room set</WantRoomSet.label>
+  <WantRoomSet.descriptions.0>We should have nice rooms!</WantRoomSet.descriptions.0>
+  <WantRoomSet.description>To fulfill this [tier], you need these rooms : 
+{Objects}.</WantRoomSet.description>
+  <WantImpressiveDiningRoom.label>wants {Objects}</WantImpressiveDiningRoom.label>
+  <WantImpressiveDiningRoom.descriptions.0>Wants {Objects}.</WantImpressiveDiningRoom.descriptions.0>
+  <WantImpressiveDiningRoom.description>To fulfill this [tier], you need : {Objects}.</WantImpressiveDiningRoom.description>
+  <WantIncredibleRecRoom.label>wants {Objects}</WantIncredibleRecRoom.label>
+  <WantIncredibleRecRoom.descriptions.0>Wants {Objects}.</WantIncredibleRecRoom.descriptions.0>
+  <WantIncredibleRecRoom.description>To fulfill this [tier], you need : {Objects}.</WantIncredibleRecRoom.description>
+  <WantDreamBedRoom.label>wants {Objects}</WantDreamBedRoom.label>
+  <WantDreamBedRoom.descriptions.0>Wants {Objects}.</WantDreamBedRoom.descriptions.0>
+  <WantDreamBedRoom.description>To fulfill this [tier] {Pawn} need {Pawn_possessive} {Objects}.</WantDreamBedRoom.description>
+</LanguageData>
