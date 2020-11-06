@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Geigercounter1.label>Research radiation detectors</Geigercounter1.label>
+  <Geigercounter1.description>A skilled researcher needs to study the designs and learn how the radiation detectors work.</Geigercounter1.description>
+  <Geigercounter2.label>Evaluate components</Geigercounter2.label>
+  <Geigercounter2.description>A skilled crafter needs to figure out how to build and maintain radiation detectors for all colonists using the resources and tools available.</Geigercounter2.description>
+  <RadiationSuits1.label>Research radiation suits</RadiationSuits1.label>
+  <RadiationSuits1.description>A skilled researcher needs to study the designs and learn how the radiation suits work before we can start making our own.</RadiationSuits1.description>
+  <RadiationSuits2.label>Evaluate components</RadiationSuits2.label>
+  <RadiationSuits2.description>A skilled crafter needs to draw up plans for tailoring radiation suits using the resources and tools available to us.</RadiationSuits2.description>
+  <NuclearResearch1.label>Research reactor technology</NuclearResearch1.label>
+  <NuclearResearch1.description>A skilled researcher needs to study the designs and learn how the research reactor works before we can build our own.</NuclearResearch1.description>
+  <NuclearResearchPractical.label>Research and train</NuclearResearchPractical.label>
+  <NuclearResearchPractical.description>Install reactor control software and perform training exercises while testing the reactor's capabilities.</NuclearResearchPractical.description>
+  <NuclearReactorResearchPhase.label>Research nuclear reactors</NuclearReactorResearchPhase.label>
+  <NuclearReactorResearchPhase.description>A skilled researcher needs to study the Rimatomics reactor designs and prepare for the construction of our first power reactor.</NuclearReactorResearchPhase.description>
+  <NuclearReactorExperiments.label>Experiment with research reactors (High Risk)</NuclearReactorExperiments.label>
+  <NuclearReactorExperiments.description>A skilled researcher needs to experiment with the research reactor. This step has a chance for catastrophic failures!</NuclearReactorExperiments.description>
+  <BuildReactorCore.label>Build a reactor core</BuildReactorCore.label>
+  <BuildReactorCore.description>Build the frame for a nuclear reactor core. Note that once the frame is complete, more work must be done to finish constructing the core. It is highly recommended that the core be built in a containment room to protect colonists during fuel transfer. The thickness of the wall and HP of the materials used determines how much radiation is absorbed. We advise leaving space around the core as the frequency of radiation damage also decreases over distance.</BuildReactorCore.description>
+  <TestReactor.label>Test the nuclear reactor</TestReactor.label>
+  <TestReactor.description>Construct or purchase nuclear fuel rods and load them into the reactor core using the reactor console to designate slots for loading. Load at least two fuel assemblies side-by-side to create a chain, use the reactor console to start the core, and then raise the control rods to 8% or higher to start gathering data.</TestReactor.description>
+  <Plutonium1.label>Research plutonium processing</Plutonium1.label>
+  <Plutonium1.description>A skilled researcher needs to study how plutonium processing works, and finalize designs for a prototype fuel reprocessing facility.</Plutonium1.description>
+  <Plutonium2.label>Construct a Plutonium Processor</Plutonium2.label>
+  <Plutonium2.description>Construct a Plutonium Processor. To reduce the duration of exposure while handling radioactive fuel, it is advised that you locate the plutonium processor a short distance from reactors or spent fuel storage. Radiation suits will be required for workers that are moving radioactive fuel.</Plutonium2.description>
+  <Plutonium3.label>Experiment with the plutonium processor (High Risk)</Plutonium3.label>
+  <Plutonium3.description>Experiment with the prototype plutonium processor, ensuring that it is functioning correctly.</Plutonium3.description>
+  <AdvReactor1.label>Experiment with research reactors (High Risk)</AdvReactor1.label>
+  <AdvReactor1.description>A skilled researcher needs to experiment with the research reactor. This step has a chance for catastrophic failures!</AdvReactor1.description>
+  <AdvReactor2.label>Research nuclear reactors</AdvReactor2.label>
+  <AdvReactor2.description>A skilled researcher needs to finalize the design of the advanced reactors before they are ready for construction.</AdvReactor2.description>
+  <AdvReactor3.label>Build an advanced reactor core</AdvReactor3.label>
+  <AdvReactor3.description>Build an advanced nuclear reactor core. It is highly recommended that the core be built in a shielded containment room to protect colonists during fuel transfer.</AdvReactor3.description>
+  <AdvReactor4.label>Test the nuclear reactor</AdvReactor4.label>
+  <AdvReactor4.description>Power up the advanced reactor and start producing power to gather data.</AdvReactor4.description>
+  <RTG1.label>Research RTGs</RTG1.label>
+  <RTG1.description>A skilled researcher needs to study the designs and learn how Radioisotope Thermoelectric Generators work before we can start making our own.</RTG1.description>
+  <RTG2.label>Create plutonium</RTG2.label>
+  <RTG2.description>Create some plutonium, which is required to make an RTG. To do this, spent nuclear fuel from a reactor must be processed in a plutonium processor.</RTG2.description>
+  <RTG3.label>Evaluate components</RTG3.label>
+  <RTG3.description>A skilled crafter needs to plan how we can make the components required for a Radioisotope Thermoelectric Generator from the resources available to us.</RTG3.description>
+  <ICBM1.label>Research nuclear weapons</ICBM1.label>
+  <ICBM1.description>A skilled researcher needs to study the designs and learn how nuclear weapons work before we can start making our own.</ICBM1.description>
+  <ICBM2.label>Create plutonium</ICBM2.label>
+  <ICBM2.description>Create some plutonium, which is required to make a bomb. To do this, spent nuclear fuel from a reactor must be processed in a plutonium processor.</ICBM2.description>
+  <ICBM3.label>Experiment with the research reactor</ICBM3.label>
+  <ICBM3.description>Experiment with the research reactor to gain a greater understanding of nuclear physics before we attempt to build a weapon.</ICBM3.description>
+  <ICBM4.label>Construct a weapons console</ICBM4.label>
+  <ICBM4.description>Construct a weapons console. The weapons console is a manned target acquisition computer required by all energy weapons. It networks to any Rimatomics energy weapons that share the same power net, then detects enemies using the onboard sensors of the weapons and the Target Acquisition System to assign targets. The main display features real-time ground and air target tracking, and a PPC capacity gauge displays the total stored PPC energy on the net.</ICBM4.description>
+  <ICBM5.label>Construct a Target Acquisition and Communications System (TACS)</ICBM5.label>
+  <ICBM5.description>Construct a TACS. The system uses a combination of technologies to track land- and air-based targets. This includes living or robotic targets, projectiles such as mortar shells or railgun sabot rounds, and long-range tracking of ballistic missiles.</ICBM5.description>
+  <ICBM6.label>Construct a Liberator</ICBM6.label>
+  <ICBM6.description>Construct a Liberator. It must be connected via power conduit to a weapons console to control the launch systems.</ICBM6.description>
+  <ICBM7.label>Gather weapons data</ICBM7.label>
+  <ICBM7.description>Launch a strategic missile at any target to gather data. The amount of data gathered depends on the success of the launch, with a successful detonation on the target giving the maximum amount of data.</ICBM7.description>
+  <EnergyWeapons1.label>Research energy weapons</EnergyWeapons1.label>
+  <EnergyWeapons1.description>A skilled researcher needs to study how Rimatomics energy weapons work</EnergyWeapons1.description>
+  <ConstructWeaponBenchStep.label>Construct a Weapons Research Bench</ConstructWeaponBenchStep.label>
+  <ConstructWeaponBenchStep.description>Construct a Weapons Research Bench, equipped with specialized equipment for prototyping and testing a wide range of energy weapons, it is a required facility for most energy weapons research and testing, colonists will need access to the bench for experimentation, it is advised to build it in a secure fireproof lab.</ConstructWeaponBenchStep.description>
+  <EnergyWeapExperiments.label>Experiment with energy weapons</EnergyWeapExperiments.label>
+  <EnergyWeapExperiments.description>Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous</EnergyWeapExperiments.description>
+  <EnergyWeapons5.label>Construct a Semi Automated Command Station (SACS)</EnergyWeapons5.label>
+  <EnergyWeapons5.description>Construct a SACS, this console is a target acquisition computer required by all energy weapons, it networks to all Rimatomics energy weapons that share the same power net, then it assigns targets using the onboard sensors of the weapons combined with the Target Acquisition System (TACS).\n\nThe main display features a real time ground target and aerial projectile tracker, and a gauge displays the total stored PPC energy on the net.\nSome weapons require the console to be manned to function, this will be displayed in the inspect tab for the weapon</EnergyWeapons5.description>
+  <EnergyWeapons6.label>Construct a Target Acquisition and Communications System (TACS)</EnergyWeapons6.label>
+  <EnergyWeapons6.description>Construct a TACS. The system uses a combination of technologies to track land and air based targets, this includes living or robotic targets, projectiles such as mortar shells or railgun sabot rounds, and long range tracking of ballistic missiles. The information is routed to a SACS console where targets are selected and tracking information can be displayed</EnergyWeapons6.description>
+  <ADS1.label>Research the ADS</ADS1.label>
+  <ADS1.description>A skilled researcher needs to study the designs and learn how the ADS works before we can build our own</ADS1.description>
+  <ADS2.label>Experiment with energy weapons</ADS2.label>
+  <ADS2.description>Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous</ADS2.description>
+  <ADS4.label>Construct a prototype ADS</ADS4.label>
+  <ADS4.description>Construct a prototype version of the ADS. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing</ADS4.description>
+  <ADS5.label>Gather weapons data</ADS5.label>
+  <ADS5.description>Test fire the ADS on any living targets to gather weapons data</ADS5.description>
+  <TeslaCoil1.label>Research tesla coils</TeslaCoil1.label>
+  <TeslaCoil1.description>A skilled researcher needs to study the designs and learn how the tesla coil works before we can build our own</TeslaCoil1.description>
+  <TeslaCoil2.label>Experiment with energy weapons</TeslaCoil2.label>
+  <TeslaCoil2.description>Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous</TeslaCoil2.description>
+  <TeslaCoil4.label>Construct a prototype Tesla Coil</TeslaCoil4.label>
+  <TeslaCoil4.description>Construct a prototype version of the Tesla Coil. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing</TeslaCoil4.description>
+  <TeslaCoil5.label>Gather weapons data</TeslaCoil5.label>
+  <TeslaCoil5.description>Test fire the Tesla coil on any targets to gather weapons data</TeslaCoil5.description>
+  <HEL1.label>Research the HEL</HEL1.label>
+  <HEL1.description>A skilled researcher needs to study the designs and learn how the HEL works before we can build our own</HEL1.description>
+  <HEL2.label>Experiment with energy weapons</HEL2.label>
+  <HEL2.description>Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous</HEL2.description>
+  <HEL4.label>Construct a prototype HEL</HEL4.label>
+  <HEL4.description>Construct a prototype version of the HEL. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing</HEL4.description>
+  <HEL5.label>Gather weapons data</HEL5.label>
+  <HEL5.description>Test fire the HEL on artillary targets to gather weapons data, you can use the weapons console to change its target aquisition to include friendly shells</HEL5.description>
+  <Railgun1.label>Research the Punisher</Railgun1.label>
+  <Railgun1.description>A skilled researcher needs to study the designs and learn how the Punisher works before we can build our own</Railgun1.description>
+  <Railgun2.label>Experiment with energy weapons</Railgun2.label>
+  <Railgun2.description>Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous</Railgun2.description>
+  <Railgun4.label>Construct a prototype Punisher</Railgun4.label>
+  <Railgun4.description>Construct a prototype version of the Punisher. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing</Railgun4.description>
+  <Railgun5.label>Gather weapons data</Railgun5.label>
+  <Railgun5.description>Test fire the Punisher on any targets to gather weapons data. You can craft Sabot rounds at a Rimatomics machining table</Railgun5.description>
+  <Railgun6.label>Gather weapons data</Railgun6.label>
+  <Railgun6.description>Test the fire mission functionality of the Punisher. You must send scouts to another map, then select the prototype Punisher and click Fire Mission</Railgun6.description>
+  <Obelisk1.label>Research the Obelisk</Obelisk1.label>
+  <Obelisk1.description>A skilled researcher needs to study the designs and learn how the Obelisk works before we can build our own</Obelisk1.description>
+  <Obelisk2.label>Experiment with energy weapons</Obelisk2.label>
+  <Obelisk2.description>Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous</Obelisk2.description>
+  <Obelisk4.label>Construct an Obelisk</Obelisk4.label>
+  <Obelisk4.description>Construct a prototype version of the Obelisk, Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing</Obelisk4.description>
+  <Obelisk5.label>Gather weapons data</Obelisk5.label>
+  <Obelisk5.description>Test fire the Obelisk on any targets to collect data</Obelisk5.description>
+  <Marauder1.label>Research the Marauder</Marauder1.label>
+  <Marauder1.description>A skilled researcher needs to study the designs and learn how the Marauder works before we can build our own</Marauder1.description>
+  <Marauder2.label>Experiment with energy weapons</Marauder2.label>
+  <Marauder2.description>Researchers must perform experiments using the new weapons research bench and lay the foundations for future projects, Rimatomics energy weapons are not plug and play and the technology must be tested and understood.\nExperimentation steps can be dangerous</Marauder2.description>
+  <Marauder4.label>Construct a prototype Marauder</Marauder4.label>
+  <Marauder4.description>Construct a prototype version of the Marauder. Prototype weapons have a high chance of failure! Recommend using isolated power nets and keeping safe distance with adequate fireproofing</Marauder4.description>
+  <Marauder5.label>Gather weapons data</Marauder5.label>
+  <Marauder5.description>Test fire the Marauder to gather weapons data.</Marauder5.description>
+  <ControlRodActuators1.label>Research nuclear reactors</ControlRodActuators1.label>
+  <ControlRodActuators1.description>Experiment with the research reactor and plan tests which can be performed on a live reactor core</ControlRodActuators1.description>
+  <ControlRodActuators2.label>Perform 2 reactor SCRAM's</ControlRodActuators2.label>
+  <ControlRodActuators2.description>Test the control rod system by performing a reactor SCRAM while it is fully fueled and set to 100% power.</ControlRodActuators2.description>
+  <ControlRodActuators3.label>Research nuclear reactors</ControlRodActuators3.label>
+  <ControlRodActuators3.description>Analyze the data gathered and finalize the designs for the new control rod actuators</ControlRodActuators3.description>
+  <ThreatDetection1.label>Research threat detection</ThreatDetection1.label>
+  <ThreatDetection1.description>A skilled researcher must plan a series of tests which can be performed on a TACS to collect data for analysis</ThreatDetection1.description>
+  <ThreatDetection2.label>Collect data on raids</ThreatDetection2.label>
+  <ThreatDetection2.description>Collect data from raids, each time you are raided the size and method of arrival will be analyzed and compared with sensor data to create a prediction model</ThreatDetection2.description>
+  <ThreatDetection3.label>Research threat detection</ThreatDetection3.label>
+  <ThreatDetection3.description>Analyze the data gathered and finalize the designs for the ATOM</ThreatDetection3.description>
+  <GuidenceSystem1.label>Research nuclear reactors</GuidenceSystem1.label>
+  <GuidenceSystem1.description>A skilled researcher must plan a series of tests which can be performed on strategic missiles to collect data for analysis</GuidenceSystem1.description>
+  <GuidenceSystem2.label>Gather weapons data</GuidenceSystem2.label>
+  <GuidenceSystem2.description>Launch a strategic missile at any target to gather data, the amount of data gathered depends on the success of the launch with a successful detonation on the target giving the maximum.</GuidenceSystem2.description>
+  <GuidenceSystem3.label>Research nuclear reactors</GuidenceSystem3.label>
+  <GuidenceSystem3.description>Analyze the data gathered and finalize the designs for the Guidance System</GuidenceSystem3.description>
+  <MEPS1.label>Research MEPS</MEPS1.label>
+  <MEPS1.description>A skilled researcher must plan a series of tests which can be performed on Rimatomics energy weapons to collect data for analysis</MEPS1.description>
+  <MEPS2.label>Gather weapons data</MEPS2.label>
+  <MEPS2.description>Fire any Rimatomics energy weapon at full power to collect data.</MEPS2.description>
+  <MEPS3.label>Research MEPS</MEPS3.label>
+  <MEPS3.description>Analyze the data gathered and finalize the designs for the MEPS module</MEPS3.description>
+  <ALC1.label>Research ALC</ALC1.label>
+  <ALC1.description>A skilled researcher must plan a series of tests which can be performed on Rimatomics energy weapons to collect data for analysis</ALC1.description>
+  <ALC2.label>Gather weapons data</ALC2.label>
+  <ALC2.description>Fire any Rimatomics energy weapon at full power to collect data.</ALC2.description>
+  <ALC3.label>Research ALC</ALC3.label>
+  <ALC3.description>Analyze the data gathered and finalize the designs for the ALC module</ALC3.description>
+  <ERS1.label>Research ERS</ERS1.label>
+  <ERS1.description>A skilled researcher must plan a series of tests which can be performed on Rimatomics energy weapons to collect data for analysis</ERS1.description>
+  <ERS2.label>Gather weapons data</ERS2.label>
+  <ERS2.description>Fire any Rimatomics energy weapon at full power to collect data.</ERS2.description>
+  <ERS3.label>Research ERS</ERS3.label>
+  <ERS3.description>Analyze the data gathered and finalize the designs for the ERS module</ERS3.description>
+  <SCAD1.label>Research SCAD</SCAD1.label>
+  <SCAD1.description>A skilled researcher must plan a series of tests which can be performed on Rimatomics energy weapons to collect data for analysis</SCAD1.description>
+  <SCAD2.label>Gather weapons data</SCAD2.label>
+  <SCAD2.description>Fire any Rimatomics energy weapon at full power to collect data.</SCAD2.description>
+  <SCAD3.label>Research SCAD</SCAD3.label>
+  <SCAD3.description>Analyze the data gathered and finalize the designs for the SCAD module</SCAD3.description>
+  <DriveActuator1.label>Research Drive Actuators</DriveActuator1.label>
+  <DriveActuator1.description>A skilled researcher must experiment at a weapon research bench</DriveActuator1.description>
+  <DriveActuator2.label>Research Drive Actuators</DriveActuator2.label>
+  <DriveActuator2.description>Analyze the data gathered and finalize the designs for the Drive Actuators</DriveActuator2.description>
+  <Railgun_TargetingChip1.label>Research Targeting chips</Railgun_TargetingChip1.label>
+  <Railgun_TargetingChip1.description>A skilled researcher must plan a series of tests which can be performed on the Railgun to collect data for analysis</Railgun_TargetingChip1.description>
+  <Railgun_TargetingChip2.label>Gather weapons data</Railgun_TargetingChip2.label>
+  <Railgun_TargetingChip2.description>Use the Railgun on any targets to collect data</Railgun_TargetingChip2.description>
+  <Railgun_TargetingChip3.label>Research Targeting chips</Railgun_TargetingChip3.label>
+  <Railgun_TargetingChip3.description>Analyze the data gathered and finalize the designs for the targeting chip</Railgun_TargetingChip3.description>
+  <LenseModule1.label>Research Lens Modules</LenseModule1.label>
+  <LenseModule1.description>A skilled researcher must plan a series of tests which can be performed on the Obelisk to collect data for analysis</LenseModule1.description>
+  <LenseModule2.label>Gather weapons data</LenseModule2.label>
+  <LenseModule2.description>Use the Obelisk on any targets to collect data, the amount of data obtained scales based on the damage percentage used for each shot</LenseModule2.description>
+  <LenseModule3.label>Research Lens Modules</LenseModule3.label>
+  <LenseModule3.description>Analyze the data gathered and finalize the designs for the lens module</LenseModule3.description>
+  <BeamSplitter1.label>Research Beam Splitters</BeamSplitter1.label>
+  <BeamSplitter1.description>A skilled researcher must plan a series of tests which can be performed on the Obelisk to collect data for analysis</BeamSplitter1.description>
+  <BeamSplitter2.label>Gather weapons data</BeamSplitter2.label>
+  <BeamSplitter2.description>Use the Obelisk on any targets to collect data, the amount of data obtained scales based on the damage percentage used for each burst.</BeamSplitter2.description>
+  <BeamSplitter3.label>Research Beam Splitters</BeamSplitter3.label>
+  <BeamSplitter3.description>Analyze the data gathered and finalize the designs for the beam splitter device</BeamSplitter3.description>
+</LanguageData>

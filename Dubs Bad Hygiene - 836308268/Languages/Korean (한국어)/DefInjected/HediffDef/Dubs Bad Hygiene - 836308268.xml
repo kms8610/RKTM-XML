@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Washing.label>washing</Washing.label>
+  <Washing.labelNoun>washing</Washing.labelNoun>
+  <Washing.description>washing</Washing.description>
+  <BadHygiene.label>bad hygiene</BadHygiene.label>
+  <BadHygiene.description>Bad hygiene will increase risk of disease and impact social interaction.</BadHygiene.description>
+  <BadHygiene.stages.0.label>moderate</BadHygiene.stages.0.label>
+  <BadHygiene.stages.1.label>severe</BadHygiene.stages.1.label>
+  <BadHygiene.stages.2.label>extreme</BadHygiene.stages.2.label>
+  <Diarrhea.label>diarrhea</Diarrhea.label>
+  <Diarrhea.description>Diarrhea is loose, watery stools. Also known as bowel movements.</Diarrhea.description>
+  <Diarrhea.stages.0.label>recovering</Diarrhea.stages.0.label>
+  <Diarrhea.stages.1.label>major</Diarrhea.stages.1.label>
+  <Diarrhea.stages.2.label>initial</Diarrhea.stages.2.label>
+  <Dysentery.label>dysentery</Dysentery.label>
+  <Dysentery.description>Dysentery is a type of gastroenteritis that results in diarrhea with blood.</Dysentery.description>
+  <Dysentery.stages.0.label>minor</Dysentery.stages.0.label>
+  <Dysentery.stages.1.label>major</Dysentery.stages.1.label>
+  <Dysentery.stages.2.label>extreme</Dysentery.stages.2.label>
+  <Cholera.label>cholera</Cholera.label>
+  <Cholera.description>Cholera is an infectious disease that causes severe watery diarrhea, which can lead to dehydration and even death if untreated.</Cholera.description>
+  <Cholera.stages.0.label>minor</Cholera.stages.0.label>
+  <Cholera.stages.1.label>major</Cholera.stages.1.label>
+  <Cholera.stages.2.label>extreme</Cholera.stages.2.label>
+  <Cholera.stages.3.label>extreme</Cholera.stages.3.label>
+  <DBHDehydration.label>dehydration</DBHDehydration.label>
+  <DBHDehydration.description>Dehydration is a condition that can occur when the loss of body fluids, mostly water, exceeds the amount that is taken in.</DBHDehydration.description>
+  <DBHDehydration.stages.0.label>trivial</DBHDehydration.stages.0.label>
+  <DBHDehydration.stages.1.label>minor</DBHDehydration.stages.1.label>
+  <DBHDehydration.stages.2.label>moderate</DBHDehydration.stages.2.label>
+  <DBHDehydration.stages.3.label>severe</DBHDehydration.stages.3.label>
+  <DBHDehydration.stages.4.label>extreme</DBHDehydration.stages.4.label>
+</LanguageData>

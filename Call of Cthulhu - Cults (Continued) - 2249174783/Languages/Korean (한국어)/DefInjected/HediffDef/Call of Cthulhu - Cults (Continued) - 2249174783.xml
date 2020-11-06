@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cults_AcidBurn.label>acid burn</Cults_AcidBurn.label>
+  <Cults_AcidBurn.description>acid burn</Cults_AcidBurn.description>
+  <Cults_AcidBurn.labelNoun>an acid burn</Cults_AcidBurn.labelNoun>
+  <Cults_AcidBurn.comps.0.labelTendedWell>bandaged</Cults_AcidBurn.comps.0.labelTendedWell>
+  <Cults_AcidBurn.comps.0.labelTendedWellInner>sutured</Cults_AcidBurn.comps.0.labelTendedWellInner>
+  <Cults_AcidBurn.comps.0.labelSolidTendedWell>set</Cults_AcidBurn.comps.0.labelSolidTendedWell>
+  <Cults_AcidBurn.comps.2.permanentLabel>burn scar</Cults_AcidBurn.comps.2.permanentLabel>
+  <Cults_AcidBurn.injuryProps.destroyedLabel>Burned off</Cults_AcidBurn.injuryProps.destroyedLabel>
+  <Cults_AcidBurn.injuryProps.destroyedOutLabel>Burned out</Cults_AcidBurn.injuryProps.destroyedOutLabel>
+  <BastClaws.label>claw</BastClaws.label>
+  <BastClaws.labelNoun>a clawed hand</BastClaws.labelNoun>
+  <BastClaws.description>a clawed hand</BastClaws.description>
+  <BastClaws.comps.0.tools.0.label>claw</BastClaws.comps.0.tools.0.label>
+  <BastCatLikeAspect.label>feline aspect</BastCatLikeAspect.label>
+  <BastCatLikeAspect.description>feline aspect</BastCatLikeAspect.description>
+  <Cults_PsionicBrain.label>psionic lobe</Cults_PsionicBrain.label>
+  <Cults_PsionicBrain.description>psionic lobe</Cults_PsionicBrain.description>
+  <Cults_TentacleArm.label>tentacle</Cults_TentacleArm.label>
+  <Cults_TentacleArm.description>tentacle</Cults_TentacleArm.description>
+  <Cults_CthulhidTentacle.label>cthulid tentacle</Cults_CthulhidTentacle.label>
+  <Cults_CthulhidTentacle.description>cthulhid tentacle</Cults_CthulhidTentacle.description>
+  <Cults_CthulhidEyestalk.label>horrifying eyestalk</Cults_CthulhidEyestalk.label>
+  <Cults_CthulhidEyestalk.description>horrifying eyestalk</Cults_CthulhidEyestalk.description>
+  <Cults_MonstrousBrain.label>monstrous brain</Cults_MonstrousBrain.label>
+  <Cults_MonstrousBrain.description>monstrous brain</Cults_MonstrousBrain.description>
+  <Cults_MonstrousBody.label>monstrous body</Cults_MonstrousBody.label>
+  <Cults_MonstrousBody.description>monstrous body</Cults_MonstrousBody.description>
+  <Cults_MonstrousBody.comps.0.tools.0.label>body</Cults_MonstrousBody.comps.0.tools.0.label>
+  <Cults_SleepHediff.label>sleep (deep trance)</Cults_SleepHediff.label>
+  <Cults_SleepHediff.description>sleep (deep trance)</Cults_SleepHediff.description>
+  <Cults_BlackIchor.label>Blood of Tsathoggua</Cults_BlackIchor.label>
+  <Cults_BlackIchor.description>Blood of Tsathoggua</Cults_BlackIchor.description>
+  <Cults_Psionic.label>crush</Cults_Psionic.label>
+  <Cults_Psionic.description>crush</Cults_Psionic.description>
+  <Cults_Psionic.comps.0.labelTendedWell>bandaged</Cults_Psionic.comps.0.labelTendedWell>
+  <Cults_Psionic.comps.0.labelTendedWellInner>sutured</Cults_Psionic.comps.0.labelTendedWellInner>
+  <Cults_Psionic.comps.0.labelSolidTendedWell>set</Cults_Psionic.comps.0.labelSolidTendedWell>
+  <Cults_Psionic.injuryProps.destroyedLabel>imploded</Cults_Psionic.injuryProps.destroyedLabel>
+  <IntracranialPressureBuildup.label>intracranial pressure</IntracranialPressureBuildup.label>
+  <IntracranialPressureBuildup.description>intracranial pressure</IntracranialPressureBuildup.description>
+  <IntracranialPressureBuildup.stages.0.label>initial-hidden</IntracranialPressureBuildup.stages.0.label>
+  <IntracranialPressureBuildup.stages.1.label>initial</IntracranialPressureBuildup.stages.1.label>
+  <IntracranialPressureBuildup.stages.2.label>minor</IntracranialPressureBuildup.stages.2.label>
+  <IntracranialPressureBuildup.stages.3.label>moderate</IntracranialPressureBuildup.stages.3.label>
+  <IntracranialPressureBuildup.stages.4.label>serious</IntracranialPressureBuildup.stages.4.label>
+  <IntracranialPressureBuildup.stages.5.label>extreme</IntracranialPressureBuildup.stages.5.label>
+  <Cults_SanityLoss.label>sanity loss</Cults_SanityLoss.label>
+  <Cults_SanityLoss.description>sanity loss</Cults_SanityLoss.description>
+  <Cults_SanityLoss.stages.0.label>initial</Cults_SanityLoss.stages.0.label>
+  <Cults_SanityLoss.stages.1.label>minor</Cults_SanityLoss.stages.1.label>
+  <Cults_SanityLoss.stages.2.label>major</Cults_SanityLoss.stages.2.label>
+  <Cults_SanityLoss.stages.3.label>severe</Cults_SanityLoss.stages.3.label>
+  <Cults_SanityLoss.stages.4.label>extreme</Cults_SanityLoss.stages.4.label>
+  <Cults_TentacleArm.comps.HediffCompProperties_VerbGiver.verbs.tools.0.label>tentacle</Cults_TentacleArm.comps.HediffCompProperties_VerbGiver.verbs.tools.0.label>
+  <Cults_CthulhidTentacle.comps.HediffCompProperties_VerbGiver.verbs.tools.0.label>cthulid tentacle</Cults_CthulhidTentacle.comps.HediffCompProperties_VerbGiver.verbs.tools.0.label>
+  <Cults_MonstrousBody.comps.HediffCompProperties_VerbGiver.tools.tools.0.label>body</Cults_MonstrousBody.comps.HediffCompProperties_VerbGiver.tools.tools.0.label>
+  <Cults_PsionicBrain.comps.HediffCompProperties_VerbGiver.verbs.tools.0.label>psionic lobe</Cults_PsionicBrain.comps.HediffCompProperties_VerbGiver.verbs.tools.0.label>
+</LanguageData>

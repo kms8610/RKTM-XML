@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArtDescription_Hearth.rulePack.rulesStrings.0>physical_description_root->The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Hearth.rulePack.rulesStrings.0>
+  <ArtDescription_Hearth.rulePack.rulesStrings.1>physical_description_root->The hearth bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Hearth.rulePack.rulesStrings.1>
+  <ArtDescription_Hearth.rulePack.rulesStrings.2>physical_description_root->The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Hearth.rulePack.rulesStrings.2>
+  <ArtDescription_Hearth.rulePack.rulesStrings.3>physical_description_root->An engraving on this hearth [depicts] [image]. [desc_sentence_group]</ArtDescription_Hearth.rulePack.rulesStrings.3>
+  <NamerFactionViking.rulePack.rulesStrings.0>r_name->The [AnimalNordic] Clan</NamerFactionViking.rulePack.rulesStrings.0>
+  <NamerFactionViking.rulePack.rulesStrings.1>r_name->The [Color] [AnimalNordic] Clan</NamerFactionViking.rulePack.rulesStrings.1>
+  <NamerFactionViking.rulePack.rulesStrings.2>r_name->[NorseNames]'s Clan</NamerFactionViking.rulePack.rulesStrings.2>
+  <NamerSettlementViking.rulePack.rulesStrings.0>r_name->[townname_wordgen]</NamerSettlementViking.rulePack.rulesStrings.0>
+  <NamerSettlementViking.rulePack.rulesStrings.1>townname_wordgen(p=2)->[SylE][SylE]</NamerSettlementViking.rulePack.rulesStrings.1>
+  <NamerSettlementViking.rulePack.rulesStrings.2>townname_wordgen(p=2)->[SylE][SylE][SylE]</NamerSettlementViking.rulePack.rulesStrings.2>
+  <NamerSettlementViking.rulePack.rulesStrings.3>townname_wordgen(p=2)->[SylE][townendevil]</NamerSettlementViking.rulePack.rulesStrings.3>
+  <NamerSettlementViking.rulePack.rulesStrings.4>townname_wordgen(p=2)->[SylE][SylE][townendevil]</NamerSettlementViking.rulePack.rulesStrings.4>
+  <NamerSettlementViking.rulePack.rulesStrings.5>townendevil->vast</NamerSettlementViking.rulePack.rulesStrings.5>
+  <NamerSettlementViking.rulePack.rulesStrings.6>townendevil->varg</NamerSettlementViking.rulePack.rulesStrings.6>
+  <NamerSettlementViking.rulePack.rulesStrings.7>townendevil->vix</NamerSettlementViking.rulePack.rulesStrings.7>
+  <NamerSettlementViking.rulePack.rulesStrings.8>townendevil->tor</NamerSettlementViking.rulePack.rulesStrings.8>
+  <NamerSettlementViking.rulePack.rulesStrings.9>townendevil->tear</NamerSettlementViking.rulePack.rulesStrings.9>
+  <NamerSettlementViking.rulePack.rulesStrings.10>townendevil->cut</NamerSettlementViking.rulePack.rulesStrings.10>
+  <NamerSettlementViking.rulePack.rulesStrings.11>townendevil->lop</NamerSettlementViking.rulePack.rulesStrings.11>
+  <NamerSettlementViking.rulePack.rulesStrings.12>townendevil->oze</NamerSettlementViking.rulePack.rulesStrings.12>
+  <NamerSettlementViking.rulePack.rulesStrings.13>townendevil->ozzle</NamerSettlementViking.rulePack.rulesStrings.13>
+  <NamerSettlementViking.rulePack.rulesStrings.14>townendevil->latch</NamerSettlementViking.rulePack.rulesStrings.14>
+  <NamerSettlementViking.rulePack.rulesStrings.15>townendevil->lock</NamerSettlementViking.rulePack.rulesStrings.15>
+  <NamerSettlementViking.rulePack.rulesStrings.16>townendevil->burn</NamerSettlementViking.rulePack.rulesStrings.16>
+  <NamerSettlementViking.rulePack.rulesStrings.17>townendevil->sear</NamerSettlementViking.rulePack.rulesStrings.17>
+  <NamerSettlementViking.rulePack.rulesStrings.18>townendevil->shank</NamerSettlementViking.rulePack.rulesStrings.18>
+  <NamerSettlementViking.rulePack.rulesStrings.19>townendevil->hurt</NamerSettlementViking.rulePack.rulesStrings.19>
+  <NamerSettlementViking.rulePack.rulesStrings.20>townendevil->vash</NamerSettlementViking.rulePack.rulesStrings.20>
+  <NamerSettlementViking.rulePack.rulesStrings.21>townendevil->warg</NamerSettlementViking.rulePack.rulesStrings.21>
+  <NamerSettlementViking.rulePack.rulesStrings.22>townendevil->wug</NamerSettlementViking.rulePack.rulesStrings.22>
+  <NamerSettlementViking.rulePack.rulesStrings.23>townendevil->thot</NamerSettlementViking.rulePack.rulesStrings.23>
+  <NamerSettlementViking.rulePack.rulesStrings.24>townendevil->thard</NamerSettlementViking.rulePack.rulesStrings.24>
+  <NamerSettlementViking.rulePack.rulesStrings.25>townendevil->thad</NamerSettlementViking.rulePack.rulesStrings.25>
+  <NamerPersonViking.rulePack.rulesStrings.0>r_name(p=2)->[NorseNames] [NorseNames]son</NamerPersonViking.rulePack.rulesStrings.0>
+  <NamerPersonViking.rulePack.rulesStrings.1>r_name->[NorseNames] [NorseNames]berg</NamerPersonViking.rulePack.rulesStrings.1>
+  <NamerPersonViking.rulePack.rulesStrings.2>r_name->[NorseNames] '[AnimalBadass]slayer' [NorseNames]son</NamerPersonViking.rulePack.rulesStrings.2>
+  <NamerPersonViking.rulePack.rulesStrings.3>r_name->[NorseNames] '[Color] [Animal]' [NorseNames]son</NamerPersonViking.rulePack.rulesStrings.3>
+  <NamerPersonViking.rulePack.rulesStrings.4>r_name->[NorseNames] [NorseNames]-son</NamerPersonViking.rulePack.rulesStrings.4>
+  <NamerPersonViking.rulePack.rulesStrings.5>r_name->[NorseNames] '[NorseNames]son' of [Animal] clan</NamerPersonViking.rulePack.rulesStrings.5>
+</LanguageData>

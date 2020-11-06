@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mote_FecalBit.label>mote</Mote_FecalBit.label>
+  <Mote_Sewage.label>mote</Mote_Sewage.label>
+  <Mote_Irrigation.label>mote</Mote_Irrigation.label>
+  <Mote_WashSteam.label>mote</Mote_WashSteam.label>
+  <sewagePipeStuff.label>plumbing</sewagePipeStuff.label>
+  <sewagePipeStuff.description>Plumbing for connecting plumbed things.</sewagePipeStuff.description>
+  <plumbingValve.label>plumbing valve</plumbingValve.label>
+  <plumbingValve.description>Opens or closes connections between pipes.</plumbingValve.description>
+  <airPipe.label>air-con pipe</airPipe.label>
+  <airPipe.description>Pipe for connecting air-conditioning units.</airPipe.description>
+  <ToiletStallDoor.label>stall door</ToiletStallDoor.label>
+  <ToiletStallDoor.description>Thin door which only blocks line of sight to people using bathroom fixtures. Does not create new rooms or prevent heat loss.</ToiletStallDoor.description>
+  <PitLatrine.label>latrine</PitLatrine.label>
+  <PitLatrine.description>A pit latrine that collects faeces in a hole in the ground. Must be emptied manually, or can be plumbed.</PitLatrine.description>
+  <PrimitiveWell.label>primitive well</PrimitiveWell.label>
+  <PrimitiveWell.description>Accesses ground water. Water must be hauled to a water tub before it can be used for washing or drinking.</PrimitiveWell.description>
+  <WashBucket.label>water tub</WashBucket.label>
+  <WashBucket.description>Tub of water used for personal hygiene. Must be regularly refilled with fresh water. Can also be used for drinking if thirst is enabled.</WashBucket.description>
+  <LitterBox.label>litter box</LitterBox.label>
+  <LitterBox.description>An indoor faeces and urine collection box for small animals.</LitterBox.description>
+  <BurnPit.label>burn pit</BurnPit.label>
+  <BurnPit.description>Eliminates fecal sludge by burning it as fuel. Can also be used for disposing of corpses or other detritus. Colonists may become sick if they spend too long near burning waste.</BurnPit.description>
+  <Fountain.description>A water fountain used for drinking and washing.</Fountain.description>
+  <Fountain.label>fountain</Fountain.label>
+  <BasinStuff.description>Clean and simple bathroom basin for keeping your hands clean after using the toilet.</BasinStuff.description>
+  <BasinStuff.label>basin</BasinStuff.label>
+  <KitchenSink.description>Everything but a kitchen sink. Increases room cleanliness.</KitchenSink.description>
+  <KitchenSink.label>kitchen sink</KitchenSink.label>
+  <ToiletStuff.description>Sanitation fixture used for the disposal of human urine and faeces.</ToiletStuff.description>
+  <ToiletStuff.label>toilet</ToiletStuff.label>
+  <ToiletAdvStuff.description>Twice as water efficient as a standard toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.</ToiletAdvStuff.description>
+  <ToiletAdvStuff.label>smart toilet</ToiletAdvStuff.label>
+  <BathtubStuff.description>Slow to use and requires large amounts of water, but very comfortable. Can be heated by placing an adjacent campfire or log boiler, or via plumbed hot water tanks. Does not require a sewage outlet.</BathtubStuff.description>
+  <BathtubStuff.label>bathtub</BathtubStuff.label>
+  <ShowerStuff.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.</ShowerStuff.description>
+  <ShowerStuff.label>shower</ShowerStuff.label>
+  <ShowerSimple.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.</ShowerSimple.description>
+  <ShowerSimple.label>simple shower</ShowerSimple.label>
+  <ShowerAdvStuff.description>Features a large 110mm 4-spray powered shower head to relax those aching muscles. Heats water on demand and doubles washing speed!</ShowerAdvStuff.description>
+  <ShowerAdvStuff.label>power shower</ShowerAdvStuff.label>
+  <DBHSwimmingPool.description>Swimming pool used for hydrotherapy, relaxation, or pleasure. Must be filled with water from water towers first.</DBHSwimmingPool.description>
+  <DBHSwimmingPool.label>swimming pool</DBHSwimmingPool.label>
+  <HotTub.description>Hot tub used for hydrotherapy, relaxation, or pleasure. Filled with water from water towers on first use. Self-heated and does not require a sewage outlet.</HotTub.description>
+  <HotTub.label>hot tub</HotTub.label>
+  <WashingMachine.label>washing machine</WashingMachine.label>
+  <WashingMachine.description>Washes clothes so well that you can't even tell someone died wearing it!</WashingMachine.description>
+  <WaterWellInlet.label>water well</WaterWellInlet.label>
+  <WaterWellInlet.description>Accesses ground water which can be pumped by water pumps. The presence of sewage or other pollution will reduce water quality and can cause contamination.</WaterWellInlet.description>
+  <DeepWaterWellInlet.label>deep water well</DeepWaterWellInlet.label>
+  <DeepWaterWellInlet.description>Accesses a large area of ground water which can be pumped by water pumps. Deep wells are unaffected by pollution.</DeepWaterWellInlet.description>
+  <WaterButt.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterButt.description>
+  <WaterButt.label>water butt</WaterButt.label>
+  <WaterTowerS.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerS.description>
+  <WaterTowerS.label>water tower</WaterTowerS.label>
+  <WaterTowerL.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerL.description>
+  <WaterTowerL.label>huge water tower</WaterTowerL.label>
+  <WindPump.label>wind pump</WindPump.label>
+  <WindPump.description>Pumps water from wells to water towers. Pumping capacity: 3000 L/day.</WindPump.description>
+  <ElectricPump.label>electric pump</ElectricPump.label>
+  <ElectricPump.description>Pumps water from wells to water towers. Pumping capacity: 1500 L/day.</ElectricPump.description>
+  <PumpingStation.label>pumping station</PumpingStation.label>
+  <PumpingStation.description>Pumps water from wells to water towers. Pumping capacity: 10000 L/day.</PumpingStation.description>
+  <SewageOutlet.label>sewage outlet</SewageOutlet.label>
+  <SewageOutlet.description>Can be placed anywhere. Sewage will pool and spread on land or disperse in water. Sewage cleans up over time; the presence of trees, water, or rain will speed this up.</SewageOutlet.description>
+  <SewageSepticTank.label>septic tank</SewageSepticTank.label>
+  <SewageSepticTank.description>Slowly cleans sewage over time. Sewage is directed to septic tanks first. If it reaches full capacity, excess sewage is sent to sewage outlets.</SewageSepticTank.description>
+  <SewageTreatment.label>sewage treatment</SewageTreatment.label>
+  <SewageTreatment.description>Slowly cleans sewage over time. If it reaches full capacity then excess sewage is sent directly to sewage outlets without treatment.</SewageTreatment.description>
+  <WaterTreatment.label>water treatment</WaterTreatment.label>
+  <WaterTreatment.description>Cleans 99.99% of germs! Filters existing water in storage towers, and any water used by fixtures, eliminating the risk of disease.</WaterTreatment.description>
+  <Thermostat.label>thermostat</Thermostat.label>
+  <Thermostat.description>Used to control electric and gas boilers. More than one can be placed. Connects via standard plumbing.</Thermostat.description>
+  <LogBoiler.label>log boiler</LogBoiler.label>
+  <LogBoiler.description>Produces 2000 heating units for piped radiators and hot water tanks. Heats the room and adjacent baths. Requires wood logs for fuel.</LogBoiler.description>
+  <GasBoiler.label>gas boiler</GasBoiler.label>
+  <GasBoiler.description>Produces 2000 heating units for radiators and hot water tanks. Requires chemfuel for fuel. Can be controlled by thermostats.</GasBoiler.description>
+  <ElectricBoiler.label>electric boiler</ElectricBoiler.label>
+  <ElectricBoiler.description>Produces a variable amount of heating units for radiators and hot water tanks. Manually controlled power setting. Can be controlled by thermostats.</ElectricBoiler.description>
+  <SolarHeater.label>solar heater</SolarHeater.label>
+  <SolarHeater.description>Uses sunlight to heat hot water tanks and radiators. 0-2000 units of heating power depending on light level and ambient temperature.</SolarHeater.description>
+  <HotWaterTank.label>hot water tank</HotWaterTank.label>
+  <HotWaterTank.description>Stores hot running water for showers and baths. Connect to any boiler to heat.</HotWaterTank.description>
+  <RadiatorStuffed.description>Heats rooms using hot water. Requires 100 heating units.</RadiatorStuffed.description>
+  <RadiatorStuffed.label>radiator</RadiatorStuffed.label>
+  <RadiatorLarge.description>Three times the output of a standard radiator. Useful for larger rooms. Requires 300 heating units.</RadiatorLarge.description>
+  <RadiatorLarge.label>large radiator</RadiatorLarge.label>
+  <CeilingFan.label>ceiling fan 2x2</CeilingFan.label>
+  <CeilingFan.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFan.description>
+  <CeilingFanS.label>ceiling fan 1x1</CeilingFanS.label>
+  <CeilingFanS.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFanS.description>
+  <AirConOutdoorUnit.label>air-con outdoor unit</AirConOutdoorUnit.label>
+  <AirConOutdoorUnit.description>Multi-split air conditioner unit. Place outdoors and pipe to indoor units or freezer units. Power mode selection with 100-1000 cooling units capacity.</AirConOutdoorUnit.description>
+  <AirconIndoorUnit.label>air-con indoor unit</AirconIndoorUnit.label>
+  <AirconIndoorUnit.description>Indoor air-con unit for rooms. Connect to outdoor air-con units. Requires 100 cooling units.</AirconIndoorUnit.description>
+  <FreezerUnit.label>walk-in freezer unit</FreezerUnit.label>
+  <FreezerUnit.description>Freezer unit for creating a walk-in freezer. Connect to outdoor air-con units. Requires 300 cooling units.</FreezerUnit.description>
+  <IrrigationSprinkler.label>irrigation sprinkler</IrrigationSprinkler.label>
+  <IrrigationSprinkler.description>Waters the surrounding area once every morning to improve the fertility of the soil through the day. Requires large amounts of water from water towers while spraying.</IrrigationSprinkler.description>
+  <FireSprinkler.label>fire sprinkler</FireSprinkler.label>
+  <FireSprinkler.description>Triggered by fire or high temperature. Douses flames with a spray of water.</FireSprinkler.description>
+  <FireSprinkler.comps.2.useLabel>Trigger fire sprinkler</FireSprinkler.comps.2.useLabel>
+  <BiosolidsComposter.label>biosolids composter</BiosolidsComposter.label>
+  <BiosolidsComposter.description>A composter for turning sewage into fertilizer for increasing the fertility of diggable terrain.</BiosolidsComposter.description>
+  <BedPan.label>bed pan</BedPan.label>
+  <BedPan.description>A receptacle used by a bedridden patient for urine and faeces.</BedPan.description>
+  <Biosolids.label>biosolids</Biosolids.label>
+  <Biosolids.description>When properly treated and processed, sewage sludge becomes biosolids that offer a small boost to terrain fertility. Useful for harsh environments with limited space to grow. Biosolids also produce a large boost to the fertility of sand which can make it fertile when combined with irrigation.</Biosolids.description>
+  <FecalSludge.label>fecal sludge</FecalSludge.label>
+  <FecalSludge.description>A barrel filled with fecal sludge. Can be dumped, burned, or composted into biosolids.</FecalSludge.description>
+  <DBH_WaterBottle.label>water</DBH_WaterBottle.label>
+  <DBH_WaterBottle.description>A bottle of water.</DBH_WaterBottle.description>
+  <DBH_WaterBottle.ingestible.ingestCommandString>Drink {0}</DBH_WaterBottle.ingestible.ingestCommandString>
+  <DBH_WaterBottle.ingestible.ingestReportString>Drinking {0}.</DBH_WaterBottle.ingestible.ingestReportString>
+  <FilthUrine.label>urine</FilthUrine.label>
+  <FilthUrine.description>Urine on the ground.</FilthUrine.description>
+  <FilthFaeces.label>faeces</FilthFaeces.label>
+  <RawSewage.label>raw sewage</RawSewage.label>
+</LanguageData>

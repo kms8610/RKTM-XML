@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEV_NoHoney>No honey</VFEV_NoHoney>
+  <VFEV_ContainsWort>Contains {0} / {1} honey.</VFEV_ContainsWort>
+  <VFEV_ContainsBeer>Contains {0} / {1} mead.</VFEV_ContainsBeer>
+  <VFEV_Fermented>Fermented</VFEV_Fermented>
+  <VFEV_FermentationProgress>Progress: {0} ({1} left)</VFEV_FermentationProgress>
+  <VFEV_FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</VFEV_FermentationBarrelOutOfIdealTemperature>
+  <ANeedTend>The apiary needs to be tended to.</ANeedTend>
+  <AResting>The apiary is resting, because the ambient temperature is below 10°C.</AResting>
+  <AReady>Honey ready.</AReady>
+  <ANeedFlower>The apiary needs {0} more flowers around it for bees to forage.</ANeedFlower>
+  <ANeedTIn>The apiary needs tending in {0}.</ANeedTIn>
+  <ScenPartSettlemntDesc>You will start during the attack of a base. The coveted treasure, 150 gold and 300 silver, is located in rooms of this base.</ScenPartSettlemntDesc>
+  <APlaceWorker>The apiary needs to be one cell away from any other apiaries.</APlaceWorker>
+  <APlaceWorkerNoRoof>The apiary can't be builded under a roof.</APlaceWorkerNoRoof>
+  <VanillaFactionsExpandedVikings.SettingsCategory>Vanilla Factions Expanded - Vikings</VanillaFactionsExpandedVikings.SettingsCategory>
+  <VanillaFactionsExpandedVikings.Facepaint_ToolTip>Whether or not facepaintings are rendered on pawns.</VanillaFactionsExpandedVikings.Facepaint_ToolTip>
+  <VanillaFactionsExpandedVikings.ChangeFacepaint>Change facepainting</VanillaFactionsExpandedVikings.ChangeFacepaint>
+  <VanillaFactionsExpandedVikings.Facepaint>Facepainting</VanillaFactionsExpandedVikings.Facepaint>
+  <VanillaFactionsExpandedVikings.CustomMode>Colour sliders</VanillaFactionsExpandedVikings.CustomMode>
+  <VanillaFactionsExpandedVikings.ColoursTied>Colours tied</VanillaFactionsExpandedVikings.ColoursTied>
+  <VFEV.SlaverRaidDesc>A group of slavers from {0} have arrived nearby.\nBeing slavers they will try to capture as many of your colonists as possible.\nPrepare a defense or attack them preemptively.</VFEV.SlaverRaidDesc>
+  <VFEV.PillageRaidDesc>A group of vikings from {0} have arrived nearby.\nThey will attempt to burn your colony down, stealing whatever they can before they leave.\nPrepare a defense or attack them preemptively.</VFEV.PillageRaidDesc>
+  <VFEV.CausedByDamage>Caused by: Being damaged while wearing a Bear headdress.</VFEV.CausedByDamage>
+</LanguageData>

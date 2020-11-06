@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SkavenMoulderWarpSpine.label>warp implant</SkavenMoulderWarpSpine.label>
+  <SkavenMoulderWarpSpine.labelNoun>a warp implant</SkavenMoulderWarpSpine.labelNoun>
+  <SkavenMoulderWarpSpine.description>Implanted warpstone.</SkavenMoulderWarpSpine.description>
+  <SkavenMoulderWolf.label>wolf rat operation</SkavenMoulderWolf.label>
+  <SkavenMoulderWolf.labelNoun>a transformation operation</SkavenMoulderWolf.labelNoun>
+  <SkavenMoulderWolf.description>Transformation operation.</SkavenMoulderWolf.description>
+  <SkavenMoulderOgre.label>ogre operation</SkavenMoulderOgre.label>
+  <SkavenMoulderOgre.labelNoun>a transformation operation</SkavenMoulderOgre.labelNoun>
+  <SkavenMoulderOgre.description>Transformation operation.</SkavenMoulderOgre.description>
+  <SkavenMoulderRatOgre.label>rat ogre operation</SkavenMoulderRatOgre.label>
+  <SkavenMoulderRatOgre.labelNoun>a transformation operation</SkavenMoulderRatOgre.labelNoun>
+  <SkavenMoulderRatOgre.description>Transformation operation.</SkavenMoulderRatOgre.description>
+  <SkavenOgreDenture.label>denture</SkavenOgreDenture.label>
+  <SkavenOgreDenture.labelNoun>a denture</SkavenOgreDenture.labelNoun>
+  <SkavenOgreDenture.description>Large steel denture.</SkavenOgreDenture.description>
+  <SkavenOgreSteelLeg.label>prosthetic leg</SkavenOgreSteelLeg.label>
+  <SkavenOgreSteelLeg.labelNoun>a prosthetic leg</SkavenOgreSteelLeg.labelNoun>
+  <SkavenOgreSteelLeg.description>Steel prosthetic.</SkavenOgreSteelLeg.description>
+  <SkavenOgreBlade.label>prosthetic blade</SkavenOgreBlade.label>
+  <SkavenOgreBlade.labelNoun>a prosthetic blade</SkavenOgreBlade.labelNoun>
+  <SkavenOgreBlade.description>Prosthetic blade hand.</SkavenOgreBlade.description>
+  <SkavenOgreBlade.comps.0.tools.0.label>blade</SkavenOgreBlade.comps.0.tools.0.label>
+  <SkavenOgrePlate.label>steel plate</SkavenOgrePlate.label>
+  <SkavenOgrePlate.labelNoun>a steel plate</SkavenOgrePlate.labelNoun>
+  <SkavenOgrePlate.description>Steel plating to affix over lost parts.</SkavenOgrePlate.description>
+  <SkavenProdBurn.label>shock burn</SkavenProdBurn.label>
+  <SkavenProdBurn.labelNoun>a burn</SkavenProdBurn.labelNoun>
+  <SkavenProdBurn.description>Burn scar.</SkavenProdBurn.description>
+  <SkavenProdBurn.comps.0.labelTendedWell>bandaged</SkavenProdBurn.comps.0.labelTendedWell>
+  <SkavenProdBurn.comps.0.labelTendedWellInner>sutured</SkavenProdBurn.comps.0.labelTendedWellInner>
+  <SkavenProdBurn.comps.0.labelSolidTendedWell>set</SkavenProdBurn.comps.0.labelSolidTendedWell>
+  <SkavenProdBurn.comps.2.permanentLabel>burn scar</SkavenProdBurn.comps.2.permanentLabel>
+  <SkavenProdBurn.injuryProps.destroyedLabel>Burned off</SkavenProdBurn.injuryProps.destroyedLabel>
+  <SkavenProdBurn.injuryProps.destroyedOutLabel>Burned out</SkavenProdBurn.injuryProps.destroyedOutLabel>
+  <SkavenWarpAge.label>warp ageing</SkavenWarpAge.label>
+  <SkavenWarpAge.description>Recovering from sudden intake of warpstone. Rapid mutation stimulating ageing, can leave lasting effect the body.</SkavenWarpAge.description>
+  <SkavenWarpAge.stages.0.label>initial</SkavenWarpAge.stages.0.label>
+  <SkavenWarpAge.stages.1.label>low</SkavenWarpAge.stages.1.label>
+  <SkavenWarpAge.stages.2.label>extreme</SkavenWarpAge.stages.2.label>
+  <SkavenWarpMutated.label>warp mutated</SkavenWarpMutated.label>
+  <SkavenWarpMutated.description>Warp mutated body part.</SkavenWarpMutated.description>
+  <SkavenWarpMutatedSpasm.label>warp mutated: spasm</SkavenWarpMutatedSpasm.label>
+  <SkavenWarpMutatedSpasm.description>Warp mutated body part. This body part suffers from recurring spasm, it works rather well but the constant motion burn calories.</SkavenWarpMutatedSpasm.description>
+  <SkavenWarpMutatedArmour.label>warp mutated: growth</SkavenWarpMutatedArmour.label>
+  <SkavenWarpMutatedArmour.description>Warp mutated body part. Hard growth poking out, ugly to look at and gets in the way.</SkavenWarpMutatedArmour.description>
+  <SkavenMoulderCut.label>surgical cut</SkavenMoulderCut.label>
+  <SkavenMoulderCut.labelNoun>a surgical cut</SkavenMoulderCut.labelNoun>
+  <SkavenMoulderCut.description>A cut made during surgery.</SkavenMoulderCut.description>
+  <SkavenMoulderCut.comps.0.labelTendedWell>bandaged</SkavenMoulderCut.comps.0.labelTendedWell>
+  <SkavenMoulderCut.comps.0.labelTendedWellInner>sutured</SkavenMoulderCut.comps.0.labelTendedWellInner>
+  <SkavenMoulderCut.comps.0.labelSolidTendedWell>set</SkavenMoulderCut.comps.0.labelSolidTendedWell>
+  <SkavenMoulderCut.comps.1.permanentLabel>surgical scar</SkavenMoulderCut.comps.1.permanentLabel>
+</LanguageData>

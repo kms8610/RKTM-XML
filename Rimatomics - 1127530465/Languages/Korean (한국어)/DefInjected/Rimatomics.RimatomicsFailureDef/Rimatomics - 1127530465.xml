@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Failure_FacilityBreakdown.label>Facility Breakdown</Failure_FacilityBreakdown.label>
+  <Failure_FacilityBreakdown.description>The facility has broken down during research</Failure_FacilityBreakdown.description>
+  <Failure_RadiationLeak.label>Radiation Leak</Failure_RadiationLeak.label>
+  <Failure_RadiationLeak.description>The facility is leaking a short burst of radiation</Failure_RadiationLeak.description>
+  <Failure_MicrowaveLeak.label>Microwave Leak</Failure_MicrowaveLeak.label>
+  <Failure_MicrowaveLeak.description>The facility is leaking microwave radiation</Failure_MicrowaveLeak.description>
+  <Failure_AcidLeak.label>Acid Leak</Failure_AcidLeak.label>
+  <Failure_AcidLeak.description>The facility is leaking acid</Failure_AcidLeak.description>
+  <Failure_GasLeak.label>Gas Leak</Failure_GasLeak.label>
+  <Failure_GasLeak.description>The facility is leaking toxic gas</Failure_GasLeak.description>
+  <Failure_BlindingFlash.label>Blinding Flash</Failure_BlindingFlash.label>
+  <Failure_BlindingFlash.description>A blinding flash of light has emanated from the facility</Failure_BlindingFlash.description>
+  <Failure_ArcDischarge.label>Arc Discharge</Failure_ArcDischarge.label>
+  <Failure_ArcDischarge.description>An arc of high voltage electricity shot from the facility</Failure_ArcDischarge.description>
+  <Failure_LaserDischarge.label>Laser Discharge</Failure_LaserDischarge.label>
+  <Failure_LaserDischarge.description>A Laser discharge shot from the facility</Failure_LaserDischarge.description>
+  <Failure_Overvoltage.label>Overvoltage</Failure_Overvoltage.label>
+  <Failure_Overvoltage.description>The facility has suffered a power surge and started a fire</Failure_Overvoltage.description>
+  <Failure_ShortCircuit.label>Short Circuit</Failure_ShortCircuit.label>
+  <Failure_ShortCircuit.description>The facility has short-circuited. Switch off the power immediately or the building will be destroyed!</Failure_ShortCircuit.description>
+</LanguageData>

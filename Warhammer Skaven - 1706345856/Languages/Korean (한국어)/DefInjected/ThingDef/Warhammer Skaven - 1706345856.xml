@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SkavenOgreBlade.label>rat ogre blade</SkavenOgreBlade.label>
+  <SkavenOgreBlade.description>A large blade that can be affixed to a rat ogre.</SkavenOgreBlade.description>
+  <SkavenOgreLeg.label>rat ogre steel leg</SkavenOgreLeg.label>
+  <SkavenOgreLeg.description>A steel leg made to fit a rat ogre.</SkavenOgreLeg.description>
+  <SkavenAgePowder.label>warp powder-mix</SkavenAgePowder.label>
+  <SkavenAgePowder.description>A powder-mix that induce a mutation that stimulates ageing. The powder induce a coma for half a day and keeps the user in a painful daze for the other half. The rapid mutation can leave lasting effect on organs and bodyparts. Do not administer if unwell, may cause death under circumstances</SkavenAgePowder.description>
+  <SkavenWarpBrazier.label>warp brazier</SkavenWarpBrazier.label>
+  <SkavenWarpBrazier.description>The stone in the center emits a bright green light.</SkavenWarpBrazier.description>
+  <SkavenWarpBattery.label>warpstone battery</SkavenWarpBattery.label>
+  <SkavenWarpBattery.description>A small warpstone battery, constantly emitting a low power flow. The battery is highly volatile, so place carefully.</SkavenWarpBattery.description>
+  <SkavenMoulderBench.label>Moulder bench</SkavenMoulderBench.label>
+  <SkavenMoulderBench.description>A bench for crafting vile invetions of clan Moulder. Can work without power at 50% of normal speed.</SkavenMoulderBench.description>
+  <SkavenResearchBench.label>skaven research bench</SkavenResearchBench.label>
+  <SkavenResearchBench.description>A research bench for the curious rat.</SkavenResearchBench.description>
+  <Turret_WarpCannonSmall.label>warp-lightning cannon</Turret_WarpCannonSmall.label>
+  <Turret_WarpCannonSmall.description>A small version of a warp-lightning cannon. It generates an amazing amount of energy that concentrates into a single blast of pure warp-lightning.</Turret_WarpCannonSmall.description>
+  <Bullet_WarpCannon.label>warp-lightning</Bullet_WarpCannon.label>
+  <Gun_WarpCannonTurret.label>warp-lightning turret</Gun_WarpCannonTurret.label>
+  <Gun_WarpCannonTurret.description>A large-bore cannon designed to attach to a warp cannon.</Gun_WarpCannonTurret.description>
+  <Trap_SkavenPoisonMine.label>chemical mine</Trap_SkavenPoisonMine.label>
+  <Trap_SkavenPoisonMine.description>A simple contraption that will trigger a chemical bottle to explode.</Trap_SkavenPoisonMine.description>
+  <SkavenBarricade.label>board barricade</SkavenBarricade.label>
+  <SkavenBarricade.description>Wood fastended together with steel. A simple and yet effective barricade. Not as sturdy as sandbags but allows for high mobility in placement.</SkavenBarricade.description>
+  <Turret_SkavenJezzail.label>Warplock Jezzail</Turret_SkavenJezzail.label>
+  <Turret_SkavenJezzail.description>A long barrelled musket capable of hitting targets at a distance greater than conventional bows or blackpowder firearms. Once the rifle is fired, the weapon unleashes a single bullet made entirely of refined toxic warpstone at such velocity that it strikes with a force capable of penetrating through even the thickest of armours.</Turret_SkavenJezzail.description>
+  <Turret_SkavenJezzail.comps.2.fuelLabel>Shots until rearm</Turret_SkavenJezzail.comps.2.fuelLabel>
+  <Turret_SkavenJezzail.comps.2.fuelGizmoLabel>Ammo stack</Turret_SkavenJezzail.comps.2.fuelGizmoLabel>
+  <Turret_SkavenJezzail.comps.2.outOfFuelMessage>Cannot shoot: Needs ammo</Turret_SkavenJezzail.comps.2.outOfFuelMessage>
+  <Bullet_WarplockJezzail.label>jezzail bullet</Bullet_WarplockJezzail.label>
+  <Gun_WarplockJezzail.label>Warplock Jezzail</Gun_WarplockJezzail.label>
+  <Gun_WarplockJezzail.description>A long barrelled musket.</Gun_WarplockJezzail.description>
+  <Apparel_SkavenCloth.label>rag cloth</Apparel_SkavenCloth.label>
+  <Apparel_SkavenCloth.description>A simple cloth often worn by scavens to show that they are clansrat.</Apparel_SkavenCloth.description>
+  <Apparel_SkavenClothHood.label>cloth hood</Apparel_SkavenClothHood.label>
+  <Apparel_SkavenClothHood.description>A simple cloth hood made to fit a skaven.</Apparel_SkavenClothHood.description>
+  <Apparel_SkavenTunic.label>rag tunic</Apparel_SkavenTunic.label>
+  <Apparel_SkavenTunic.description>A simple ragged tunic.</Apparel_SkavenTunic.description>
+  <Apparel_SkavenHelmet.label>skaven helmet</Apparel_SkavenHelmet.label>
+  <Apparel_SkavenHelmet.description>A simple helmet made to fit a skaven.</Apparel_SkavenHelmet.description>
+  <Apparel_SkavenPadded.label>padded armour</Apparel_SkavenPadded.label>
+  <Apparel_SkavenPadded.description>Simple padding to be worn as armour. Simple yet so effective.</Apparel_SkavenPadded.description>
+  <Apparel_SkavenRobe.label>skaven robe</Apparel_SkavenRobe.label>
+  <Apparel_SkavenRobe.description>A robe worn by skavens.</Apparel_SkavenRobe.description>
+  <Apparel_SkavenGasMask.label>skaven gas-mask</Apparel_SkavenGasMask.label>
+  <Apparel_SkavenGasMask.description>A sturdy gasmask fit for a ratman. It's offer good protection against poison and damage.</Apparel_SkavenGasMask.description>
+  <Apparel_SkavenStormPlate.label>Stormvermin plate</Apparel_SkavenStormPlate.label>
+  <Apparel_SkavenStormPlate.description>Plate armour with chainmail covering the weakspots, worn by the fearsome stormvermins of the skavens. The outer shell is adorned with cloth to show the clan.</Apparel_SkavenStormPlate.description>
+  <Apparel_SkavenMoulderMask.label>Skaven cage mask</Apparel_SkavenMoulderMask.label>
+  <Apparel_SkavenMoulderMask.description>A cage mask filled with herbs to protect the wearer against bio-chemical matter (skaven only).</Apparel_SkavenMoulderMask.description>
+  <Apparel_MoulderPadded.label>pack armour</Apparel_MoulderPadded.label>
+  <Apparel_MoulderPadded.description>Amour worn by the Packmasters of clan Moulder. Steel lined chestplate with cloth padding to protect against the various creations of the clan.</Apparel_MoulderPadded.description>
+  <SkavenBloodSample.label>skaven blood</SkavenBloodSample.label>
+  <SkavenBloodSample.description>Skaven blood sample.</SkavenBloodSample.description>
+  <SkavenSerumSample.label>warp-infused blood</SkavenSerumSample.label>
+  <SkavenSerumSample.description>Warp infused blood of skaven. Following the clan Moulder design in biochemistry this blood can be use to create vile hybrid monstrosities.</SkavenSerumSample.description>
+  <SkavenLargeSerumSample.label>warp-infused mixed blood</SkavenLargeSerumSample.label>
+  <SkavenLargeSerumSample.description>Warp infused blood of skaven mixed with animal matter. Following the clan Moulder design in biochemistry this blood can be use to create vile hybrid monstrosities.</SkavenLargeSerumSample.description>
+  <RatOgreBlade.label>rat ogre</RatOgreBlade.label>
+  <RatOgreBlade.description>Rat Ogres are massive hulking monstrosities that represents the very pinnacle of Clan Moulder ingenuity, a lethal killing-machine beast that combines the inhumane reflexes of a Skaven with the brawn and size of an Ogre. Rat Ogres are creatures born from the fusion of crossbreeding different types of horrific creatures with Skaven blood, and surgically augmenting what is left. They have little room in their brain for anything other than the pursuit of fighting.</RatOgreBlade.description>
+  <RatOgreBlade.tools.0.label>left hand</RatOgreBlade.tools.0.label>
+  <RatOgreBlade.tools.1.label>right blade</RatOgreBlade.tools.1.label>
+  <RatOgreBlade.tools.2.label>teeth</RatOgreBlade.tools.2.label>
+  <RatOgreAnimal.label>rat ogre</RatOgreAnimal.label>
+  <RatOgreAnimal.description>Rat Ogres are massive hulking monstrosities that represents the very pinnacle of Clan Moulder ingenuity, a lethal killing-machine beast that combines the inhumane reflexes of a Skaven with the brawn and size of an Ogre. Rat Ogres are creatures born from the fusion of crossbreeding different types of horrific creatures with Skaven blood, and surgically augmenting what is left. They have little room in their brain for anything other than the pursuit of fighting.</RatOgreAnimal.description>
+  <RatOgreAnimal.tools.0.label>left hand</RatOgreAnimal.tools.0.label>
+  <RatOgreAnimal.tools.1.label>right hand</RatOgreAnimal.tools.1.label>
+  <RatOgreAnimal.tools.2.label>teeth</RatOgreAnimal.tools.2.label>
+  <RatOgreAbom.label>abomination ogre</RatOgreAbom.label>
+  <RatOgreAbom.description>With the help of clan Moulder and the guiding of Throt the Unclean, the mutant ogre is born. Born form the flesh of man to kindly raise them up and unock their true potential.</RatOgreAbom.description>
+  <RatOgreAbom.tools.0.label>left hand</RatOgreAbom.tools.0.label>
+  <RatOgreAbom.tools.1.label>right hand</RatOgreAbom.tools.1.label>
+  <RatOgreAbom.tools.2.label>teeth</RatOgreAbom.tools.2.label>
+  <RatOgreAbomAnimal.label>abomination ogre</RatOgreAbomAnimal.label>
+  <RatOgreAbomAnimal.description>With the help of clan Moulder and the guiding of Throt the Unclean. Clan Moulder has truly unlocked mankinds true potential.</RatOgreAbomAnimal.description>
+  <RatOgreAbomAnimal.tools.0.label>left hand</RatOgreAbomAnimal.tools.0.label>
+  <RatOgreAbomAnimal.tools.1.label>right hand</RatOgreAbomAnimal.tools.1.label>
+  <RatOgreAbomAnimal.tools.2.label>teeth</RatOgreAbomAnimal.tools.2.label>
+  <RatWolfEmp.label>Wolf rat</RatWolfEmp.label>
+  <RatWolfEmp.description>Times long ago, clan Moulder experimented with combining their skaven blood with that of the great wolves of Kislev. The result was the bloodthirsty monstrous creation; Rat-Wolves or wolf rats.</RatWolfEmp.description>
+  <RatWolfEmp.tools.0.label>left claw</RatWolfEmp.tools.0.label>
+  <RatWolfEmp.tools.1.label>right claw</RatWolfEmp.tools.1.label>
+  <RatWolfEmp.tools.2.label>razorfangs</RatWolfEmp.tools.2.label>
+  <RatWolfAnimal.label>Wolf rat</RatWolfAnimal.label>
+  <RatWolfAnimal.description>Times long ago, clan Moulder experimented with combining their skaven blood with that of the great wolves of Kislev. The result was the bloodthirsty monstrous creation; Rat-Wolves or wolf rats.</RatWolfAnimal.description>
+  <RatWolfAnimal.tools.0.label>left claw</RatWolfAnimal.tools.0.label>
+  <RatWolfAnimal.tools.1.label>right claw</RatWolfAnimal.tools.1.label>
+  <RatWolfAnimal.tools.2.label>razorfangs</RatWolfAnimal.tools.2.label>
+  <Slingshot.label>slingshot</Slingshot.label>
+  <Slingshot.description>A simple slingshot. Don't underestimate the damage this simple tool can deal.</Slingshot.description>
+  <Slingshot.tools.0.label>point</Slingshot.tools.0.label>
+  <Slingshot_Bullet.label>rock</Slingshot_Bullet.label>
+  <Skaven_Crossbow.label>skaven crossbow</Skaven_Crossbow.label>
+  <Skaven_Crossbow.description>A simple crossbow. It's capable of delivering deadly shots, but is slower on the reload time than a normal bow and lacks a bit in the range department.</Skaven_Crossbow.description>
+  <Skaven_Crossbow.tools.0.label>limb</Skaven_Crossbow.tools.0.label>
+  <Arrow_SkavenCrossbow.label>crossbow arrow</Arrow_SkavenCrossbow.label>
+  <MeleeWeapon_SkavenFlail.label>flail</MeleeWeapon_SkavenFlail.label>
+  <MeleeWeapon_SkavenFlail.description>A dangerous flail. This weapon can be unwieldy to use but it's hits can be deadly.</MeleeWeapon_SkavenFlail.description>
+  <MeleeWeapon_SkavenFlail.tools.0.label>handle</MeleeWeapon_SkavenFlail.tools.0.label>
+  <MeleeWeapon_SkavenFlail.tools.1.label>ball</MeleeWeapon_SkavenFlail.tools.1.label>
+  <MeleeWeapon_SkavenBardiche.label>skaven bardiche</MeleeWeapon_SkavenBardiche.label>
+  <MeleeWeapon_SkavenBardiche.description>A bardiche, often wielded by the fearsome Stormvermins.</MeleeWeapon_SkavenBardiche.description>
+  <MeleeWeapon_SkavenBardiche.tools.0.label>handle</MeleeWeapon_SkavenBardiche.tools.0.label>
+  <MeleeWeapon_SkavenBardiche.tools.1.label>point</MeleeWeapon_SkavenBardiche.tools.1.label>
+  <MeleeWeapon_SkavenBardiche.tools.2.label>blade</MeleeWeapon_SkavenBardiche.tools.2.label>
+  <Skaven_BardicheStab.label>stab</Skaven_BardicheStab.label>
+  <UnfinishedSkavenGun.label>unfinished weapon</UnfinishedSkavenGun.label>
+  <Gun_SkavenSprayer.label>skaven poison hose</Gun_SkavenSprayer.label>
+  <Gun_SkavenSprayer.description>A wide-barreled hose for spraying poison. It's highly inaccurate but covers a large area.</Gun_SkavenSprayer.description>
+  <Gun_SkavenSprayer.tools.0.label>stock</Gun_SkavenSprayer.tools.0.label>
+  <Gun_SkavenSprayer.tools.1.label>barrel</Gun_SkavenSprayer.tools.1.label>
+  <Bullet_SkavenSprayer.label>chemical spray</Bullet_SkavenSprayer.label>
+  <Gun_MinigunSkaven.label>ratling gun</Gun_MinigunSkaven.label>
+  <Gun_MinigunSkaven.description>A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires rapidly shredding the target to bits in a hail of bullets.</Gun_MinigunSkaven.description>
+  <Gun_MinigunSkaven.tools.0.label>barrels</Gun_MinigunSkaven.tools.0.label>
+  <Bullet_MinigunSkaven.label>minigun bullet</Bullet_MinigunSkaven.label>
+  <Weapon_SkavenPoisonBottle.label>chemical bottle</Weapon_SkavenPoisonBottle.label>
+  <Weapon_SkavenPoisonBottle.description>Glass bottle with a vile mixture within. It will burn the skin on contact and slowly build up toxins.</Weapon_SkavenPoisonBottle.description>
+  <Weapon_SkavenPoisonBottle.verbs.0.label>throw bottle</Weapon_SkavenPoisonBottle.verbs.0.label>
+  <Proj_PoisonBottle.label>posion bottle</Proj_PoisonBottle.label>
+  <MeleeWeapon_SkavenProd.label>skaven shock prod</MeleeWeapon_SkavenProd.label>
+  <MeleeWeapon_SkavenProd.description>Cruel invention of the skaven, favoured by clan Moulder for handling their creations. Makes it easier to handle beasts and makes for a dangerous weapon that burns through armour.</MeleeWeapon_SkavenProd.description>
+  <MeleeWeapon_SkavenProd.tools.0.label>point</MeleeWeapon_SkavenProd.tools.0.label>
+  <Skaven_ShockProdStab.label>stab</Skaven_ShockProdStab.label>
+  <Gun_SkavenSmallWindMortar.label>skaven chemical mortar</Gun_SkavenSmallWindMortar.label>
+  <Gun_SkavenSmallWindMortar.description>A relatively small mortar. Capable of launching chemicals from far away, however it's widely inaccurate and bulky to carry around.</Gun_SkavenSmallWindMortar.description>
+  <Gun_SkavenSmallWindMortar.tools.0.label>stock</Gun_SkavenSmallWindMortar.tools.0.label>
+  <Bullet_SkavenSmallWindMortar.label>chemical explosion</Bullet_SkavenSmallWindMortar.label>
+  <Gun_WarpPistolSkaven.label>warplock pistol</Gun_WarpPistolSkaven.label>
+  <Gun_WarpPistolSkaven.description>The warplock pistol is favoured by the fangleaders of Clan Skryre but can be found among higher-ranking Skaven in most clans. Similar in design to warplock jezzails, yet smaller in scale, warplock pistols are devastating at close range. Warning: avoid excessive damage.</Gun_WarpPistolSkaven.description>
+  <Gun_WarpPistolSkaven.tools.0.label>barrels</Gun_WarpPistolSkaven.tools.0.label>
+  <Gun_CracklingDoom.label>scroll of Crackling Doom</Gun_CracklingDoom.label>
+  <Gun_CracklingDoom.description>A scroll that cast arcs of green energy.</Gun_CracklingDoom.description>
+  <Bullet_Crackling.label>crackling doom</Bullet_Crackling.label>
+</LanguageData>

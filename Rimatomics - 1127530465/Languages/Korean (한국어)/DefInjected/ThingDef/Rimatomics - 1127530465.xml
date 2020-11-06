@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PotassiumIodide.label>Potassium iodide</PotassiumIodide.label>
+  <PotassiumIodide.description>Tablets of potassium iodide are supplied for emergency purposes related to blockade of radioiodine uptake.</PotassiumIodide.description>
+  <coolingPipe.label>Coolant pipe</coolingPipe.label>
+  <coolingPipe.description>Pipes for pumping coolant from the turbine to cooling systems. Can be placed under walls and other buildings.</coolingPipe.description>
+  <coolantValve.label>Coolant valve</coolantValve.label>
+  <coolantValve.description>Opens or closes connections between coolant pipes.</coolantValve.description>
+  <steamPipe.label>Steam pipe</steamPipe.label>
+  <steamPipe.description>Pipes for pumping high pressure steam from the reactor to turbines. Can be placed under walls and other buildings.</steamPipe.description>
+  <steamValve.label>Steam valve</steamValve.label>
+  <steamValve.description>Opens or closes connections between steam pipes.</steamValve.description>
+  <waterPipe.label>Cold water pipe</waterPipe.label>
+  <waterPipe.description>Pipes for pumping cold water from the turbine or heat exchanger back to the core. Can be placed under walls and other buildings.</waterPipe.description>
+  <waterValve.label>Cold water valve</waterValve.label>
+  <waterValve.description>Opens or closes connections between cold water pipes.</waterValve.description>
+  <HighVoltage.label>High Voltage</HighVoltage.label>
+  <HighVoltage.description>Cable for transporting high voltage power from turbines to transformers. Can be placed under walls and other buildings.</HighVoltage.description>
+  <controllerLoom.label>Console Loom</controllerLoom.label>
+  <controllerLoom.description>Wiring loom for transmitting signals between a core and a control console. Can be placed under walls and other buildings.</controllerLoom.description>
+  <NuclearResearchBench.label>Rimatomics research bench</NuclearResearchBench.label>
+  <NuclearResearchBench.description>Contains Rimatomics research projects. Requires power.</NuclearResearchBench.description>
+  <TableRimatomicsMachining.label>Rimatomics machining table</TableRimatomicsMachining.label>
+  <TableRimatomicsMachining.description>A work station for assembling Rimatomics technologies</TableRimatomicsMachining.description>
+  <ResearchReactor.label>Research Reactor</ResearchReactor.label>
+  <ResearchReactor.description>Research reactor.</ResearchReactor.description>
+  <WeaponsBench.label>Weapons Research Bench</WeaponsBench.label>
+  <WeaponsBench.description>Weapons research bench.</WeaponsBench.description>
+  <PlutoniumProcessor.label>Plutonium Processor</PlutoniumProcessor.label>
+  <PlutoniumProcessor.description>A machine that uses chemicals to separate fissionable plutonium from spent nuclear fuel.</PlutoniumProcessor.description>
+  <RimatomicsRTG.label>R.T.G</RimatomicsRTG.label>
+  <RimatomicsRTG.description>An electrical generator that uses an array of thermocouples to convert the heat released by the decay of a suitable radioactive material into electricity.</RimatomicsRTG.description>
+  <ReactorCoreA.label>Reactor Type A</ReactorCoreA.label>
+  <ReactorCoreA.description>Rimatomics thermal reactor core with 21 fuel assembly capacity. A reactor core contains the fuel components where nuclear reactions take place and heat is generated</ReactorCoreA.description>
+  <ReactorCoreB.label>Reactor Type X</ReactorCoreB.label>
+  <ReactorCoreB.description>An advanced breeder reactor design which can generate more fissile material than it consumes.</ReactorCoreB.description>
+  <ReactorCoreC.label>Reactor Type V</ReactorCoreC.label>
+  <ReactorCoreC.description>A massive advanced breeder reactor design which can generate more fissile material than it consumes.</ReactorCoreC.description>
+  <Turbine.label>Thor Turbine</Turbine.label>
+  <Turbine.description>A turbine driven by steam which turns a generator to produce electricity. The Thor has a maximum power output of 100 Kilowatts</Turbine.description>
+  <BigTurbine.label>Zeus Turbine</BigTurbine.label>
+  <BigTurbine.description>A turbine driven by steam which turns a generator to produce electricity. The Zeus has a maximum power output of 1 Megawatt</BigTurbine.description>
+  <CoolingRadiator.label>Radiator</CoolingRadiator.label>
+  <CoolingRadiator.description>Small air coolers designed to provide cooling for small nuclear reactors when resources or space is limited</CoolingRadiator.description>
+  <CoolingWater.label>Water Cooling</CoolingWater.label>
+  <CoolingWater.description>Provides large amounts of cooling to nuclear reactors by using cold water from rivers, lakes or oceans</CoolingWater.description>
+  <CoolingTower.label>Cooling Tower</CoolingTower.label>
+  <CoolingTower.description>Very large air coolers designed to provide large amounts of cooling for nuclear reactors when no natural bodies of water are available</CoolingTower.description>
+  <Transformer.label>High Voltage Transformer</Transformer.label>
+  <Transformer.description>Provides the final voltage transformation from Turbine Generators, stepping down the voltage used in high voltage lines to the level used by power conduits</Transformer.description>
+  <ReactorControl.label>reactor console</ReactorControl.label>
+  <ReactorControl.description>Computer system designed to control nuclear reactors. Send a colonist to man the station to access the controls, multiple controls can be open at the same time</ReactorControl.description>
+  <storagePool.label>Storage Pool</storagePool.label>
+  <storagePool.description>A storage pool for safely storing nuclear fuel rods. Right click with a selected pawn to interact and designate fuel for removal</storagePool.description>
+  <RadiationDetector.label>Radiation Detector</RadiationDetector.label>
+  <RadiationDetector.description>Radiation Detector</RadiationDetector.description>
+  <RadiationShielding.label>Reinforced DU Wall</RadiationShielding.label>
+  <RadiationShielding.description>Very strong wall that is reinforced with depleted uranium, providing full shielding against radiation</RadiationShielding.description>
+  <ReactorSacrophagus.description>A concrete structure designed to contain the molten core of a nuclear reactor that has undergone a core melt incident.</ReactorSacrophagus.description>
+  <ReactorSacrophagus.label>Sarcophagus Type A</ReactorSacrophagus.label>
+  <ReactorSacrophagusB.description>A concrete structure designed to contain the molten core of a nuclear reactor that has undergone a core melt incident.</ReactorSacrophagusB.description>
+  <ReactorSacrophagusB.label>Sarcophagus Type X</ReactorSacrophagusB.label>
+  <ReactorSacrophagusC.description>A concrete structure designed to contain the molten core of a nuclear reactor that has undergone a core melt incident.</ReactorSacrophagusC.description>
+  <ReactorSacrophagusC.label>Sarcophagus Type V</ReactorSacrophagusC.label>
+  <PoppedReactorCoreA.label>molten core</PoppedReactorCoreA.label>
+  <PoppedReactorCoreA.description>Molten reactor core.</PoppedReactorCoreA.description>
+  <PoppedReactorCoreB.label>molten core</PoppedReactorCoreB.label>
+  <PoppedReactorCoreB.description>Molten reactor core.</PoppedReactorCoreB.description>
+  <PoppedReactorCoreC.label>molten core</PoppedReactorCoreC.label>
+  <PoppedReactorCoreC.description>Molten reactor core.</PoppedReactorCoreC.description>
+  <DU_Blastdoor.label>DU Blast door</DU_Blastdoor.label>
+  <DU_Blastdoor.description>Very strong blast doors that are reinforced with depleted uranium, providing full shielding against radiation.</DU_Blastdoor.description>
+  <PPC.label>PPC</PPC.label>
+  <PPC.description>The RA-P3 Pulsed Power Capacitor, stores large amounts of energy in a bank of ultra capacitors, which can be discharged in a single pulse by compatible Rimatomics energy weapons</PPC.description>
+  <PPCWeaponsConsole.label>SACS</PPCWeaponsConsole.label>
+  <PPCWeaponsConsole.description>The RA-c85 Semi Automated Command Station, is required by all Rimatomics energy weapons, may require manning for certain weapons to function fully.</PPCWeaponsConsole.description>
+  <RadarDish.label>TACS</RadarDish.label>
+  <RadarDish.description>The RA-92 Target Acquisition and Communication System, uses a combination of technologies to track land and air based targets and communicate with weapon systems.</RadarDish.description>
+  <RadarDish.comps.3.upgrades.0.stats.0>Adds Threat Detection</RadarDish.comps.3.upgrades.0.stats.0>
+  <PPCADS.label>ADS</PPCADS.label>
+  <PPCADS.description>The RA-22 Active Denial System (ADS) is a non-lethal, directed-energy weapon designed for area denial and crowd control. It heats the skin of targeted human subjects causing them to break rank and flee. Does not require line of sight. Requires a manned SACS.</PPCADS.description>
+  <PPCADS.comps.3.upgrades.0.stats.0>AOE +10</PPCADS.comps.3.upgrades.0.stats.0>
+  <ADS_Dish.label>ADS Dish</ADS_Dish.label>
+  <ADS_Dish.description>ADS Dish.</ADS_Dish.description>
+  <PPCTeslaCoil.label>Tesla Coil</PPCTeslaCoil.label>
+  <PPCTeslaCoil.description>The RA-42T Tesla Coil delivers a huge electrical arc discharge to its targets resulting in severe burns or death. 100% accurate, medium range, sets targets on fire. Automatic targeting and firing. Manned SACS required for manual targeting.</PPCTeslaCoil.description>
+  <PPCTeslaCoil.comps.3.upgrades.0.stats.0>Damage +15%</PPCTeslaCoil.comps.3.upgrades.0.stats.0>
+  <PPCTeslaCoil.comps.3.upgrades.0.stats.1>Range +10</PPCTeslaCoil.comps.3.upgrades.0.stats.1>
+  <PPCTeslaCoil.comps.3.upgrades.0.stats.2>Pulse Size +15%</PPCTeslaCoil.comps.3.upgrades.0.stats.2>
+  <Tesla_Coil_Arc_Discharger.label>Tesla Coil Arc Discharger</Tesla_Coil_Arc_Discharger.label>
+  <Tesla_Coil_Arc_Discharger.description>Tesla Coil Arc Discharger.</Tesla_Coil_Arc_Discharger.description>
+  <PPCHEL.label>HEL</PPCHEL.label>
+  <PPCHEL.description>The RA-702 High Energy Laser (HEL) destroys enemy airborne projectiles such as mortar shells. When a mortar is fired the system will check if the shell will pass through the range of a HEL, and attempt to track the target and fire once it is in range.</PPCHEL.description>
+  <PPCHEL.comps.3.upgrades.0.stats.0>Shootdown time -50%</PPCHEL.comps.3.upgrades.0.stats.0>
+  <PPCHEL.comps.3.upgrades.0.stats.1>Power +50%</PPCHEL.comps.3.upgrades.0.stats.1>
+  <HEL_Laser.label>HEL Laser</HEL_Laser.label>
+  <HEL_Laser.description>HEL Laser.</HEL_Laser.description>
+  <PPCRailgun.label>Punisher</PPCRailgun.label>
+  <PPCRailgun.description>The RA-1802D Punisher is a 25 round magazine fed railgun platform which uses large electromagnetic pulses to launch sabot projectiles to extreme velocities and ranges. Requires line of sight. Fire mission does not require line of sight. Manned SACS required for manual targeting. Requires a manned SACS.</PPCRailgun.description>
+  <PPCRailgun.comps.3.upgrades.0.stats.0>Range +10 Tiles</PPCRailgun.comps.3.upgrades.0.stats.0>
+  <PPCRailgun.comps.3.upgrades.0.stats.1>Pulse Size +15%</PPCRailgun.comps.3.upgrades.0.stats.1>
+  <Railgun_Cannon.label>Punisher Railgun</Railgun_Cannon.label>
+  <Railgun_Cannon.description>Railgun Railgun.</Railgun_Cannon.description>
+  <PPCObelisk.label>Obelisk</PPCObelisk.label>
+  <PPCObelisk.description>The RA-2152-X Obelisk is a directed energy weapon that uses a focused solid state laser to vaporize targets. 100% accurate with long range and devastating power. Automatic targeting and firing. Manned SACS required for manual targeting</PPCObelisk.description>
+  <PPCObelisk.comps.3.upgrades.0.stats.0>Damage +15%</PPCObelisk.comps.3.upgrades.0.stats.0>
+  <PPCObelisk.comps.3.upgrades.0.stats.1>Pulse Size +15%</PPCObelisk.comps.3.upgrades.0.stats.1>
+  <Obelisk_Laser.label>Obelisk Laser</Obelisk_Laser.label>
+  <Obelisk_Laser.description>Obelisk Laser.</Obelisk_Laser.description>
+  <PPCMarauder.label>Marauder</PPCMarauder.label>
+  <PPCMarauder.description>The RA-3b Marauder is a multi-barrel coaxial plasma railgun platform, large electromagnetic pulses fire a burst of accelerated plasma toroids to extreme velocities causing explosive radiation emitting impacts. Requires a manned SACS.</PPCMarauder.description>
+  <PPCMarauder.comps.3.upgrades.0.stats.0>Burst +10 shots</PPCMarauder.comps.3.upgrades.0.stats.0>
+  <Marauder_Railgun.label>Marauder Railgun</Marauder_Railgun.label>
+  <Marauder_Railgun.description>Marauder Railgun.</Marauder_Railgun.description>
+  <Bullet_PlasmaToroid.label>Plasma Toroid</Bullet_PlasmaToroid.label>
+  <MissileSilo.label>Liberator</MissileSilo.label>
+  <MissileSilo.description>The RA-1776b Liberator is a self contained all-in-one strategic missile manufacturing and launching facility with a 5 missile magazine capacity. Requires a manned SACS to function.</MissileSilo.description>
+  <notReal.label>notReal</notReal.label>
+  <RocketEngine.label>Rocket Engine</RocketEngine.label>
+  <RocketEngine.description>Engines for building rocket propelled machines.</RocketEngine.description>
+  <MissileFuselage.label>Missile Fuselage</MissileFuselage.label>
+  <MissileFuselage.description>Fuselage for building strategic missiles.</MissileFuselage.description>
+  <FissionWarhead.label>Nuclear Warhead</FissionWarhead.label>
+  <FissionWarhead.description>An explosive device that derives its destructive force from nuclear reactions.</FissionWarhead.description>
+  <ICBM_Fission.label>strategic missile</ICBM_Fission.label>
+  <NuclearWarheadIncoming.label>warhead incoming</NuclearWarheadIncoming.label>
+  <ICBMStrike.label>strategic missile strike</ICBMStrike.label>
+  <turbineBlade.label>Turbine Blades</turbineBlade.label>
+  <turbineBlade.description>Used to construct generators.</turbineBlade.description>
+  <UraniumPellets.label>Uranium Pellets</UraniumPellets.label>
+  <UraniumPellets.description>Pellets of uranium used in the construction of nuclear fuel rods.</UraniumPellets.description>
+  <Plutonium.label>plutonium</Plutonium.label>
+  <Plutonium.description>A case of plutonium used to create nuclear weapons or nuclear fuel rods.</Plutonium.description>
+  <DepletedUraniumPellets.label>Depleted Uranium</DepletedUraniumPellets.label>
+  <DepletedUraniumPellets.description>Pellets of depleted uranium used in the construction of nuclear fuel rods.</DepletedUraniumPellets.description>
+  <FuelRods.label>fuel rods</FuelRods.label>
+  <FuelRods.description>A group of rods filled with uranium pellets, when loaded in a reactor core they generate heat which can be used to drive a turbine.</FuelRods.description>
+  <FuelRodsMOX.label>fuel rods MOX</FuelRodsMOX.label>
+  <FuelRodsMOX.description>A group of rods filled with a mix of uranium and plutonium, when loaded in a reactor core they generate heat which can be used to drive a turbine.</FuelRodsMOX.description>
+  <ChunkRadioactiveSlag.label>radioactive slag chunk</ChunkRadioactiveSlag.label>
+  <NuclearWaste.label>Nuclear Waste</NuclearWaste.label>
+  <NuclearWaste.description>A drum of nuclear waste.</NuclearWaste.description>
+  <ThrownSlag.label>ThrownSlag</ThrownSlag.label>
+  <Apparel_RadiationMask.label>radiation mask</Apparel_RadiationMask.label>
+  <Apparel_RadiationMask.description>Protect against radiation through shielding in the lining, but more importantly by preventing direct contact with or inhalation of radioactive particles or gas.</Apparel_RadiationMask.description>
+  <Apparel_MoppMaskDesert.description>Protect against radiation through shielding in the lining, but more importantly by preventing direct contact with or inhalation of radioactive particles or gas. Combat version made with tougher materials for increased durability.</Apparel_MoppMaskDesert.description>
+  <Apparel_MoppMaskDesert.label>MOPP mask(Desert)</Apparel_MoppMaskDesert.label>
+  <Apparel_MoppMaskWoodland.description>Protect against radiation through shielding in the lining, but more importantly by preventing direct contact with or inhalation of radioactive particles or gas. Combat version made with tougher materials for increased durability.</Apparel_MoppMaskWoodland.description>
+  <Apparel_MoppMaskWoodland.label>MOPP mask(Woodland)</Apparel_MoppMaskWoodland.label>
+  <Apparel_MoppMaskSnow.description>Protect against radiation through shielding in the lining, but more importantly by preventing direct contact with or inhalation of radioactive particles or gas. Combat version made with tougher materials for increased durability.</Apparel_MoppMaskSnow.description>
+  <Apparel_MoppMaskSnow.label>MOPP mask(Snow)</Apparel_MoppMaskSnow.label>
+  <Apparel_RadiationSuit.label>radiation suit</Apparel_RadiationSuit.label>
+  <Apparel_RadiationSuit.description>A suit that protects against radiation through shielding in the lining.</Apparel_RadiationSuit.description>
+  <Apparel_MoppSuitDesert.description>A suit that protects against radiation through shielding in the lining. Combat version made with tougher materials for increased durability.</Apparel_MoppSuitDesert.description>
+  <Apparel_MoppSuitDesert.label>MOPP suit(Desert)</Apparel_MoppSuitDesert.label>
+  <Apparel_MoppSuitWoodland.description>A suit that protects against radiation through shielding in the lining. Combat version made with tougher materials for increased durability.</Apparel_MoppSuitWoodland.description>
+  <Apparel_MoppSuitWoodland.label>MOPP suit(Woodland)</Apparel_MoppSuitWoodland.label>
+  <Apparel_MoppSuitSnow.description>A suit that protects against radiation through shielding in the lining. Combat version made with tougher materials for increased durability.</Apparel_MoppSuitSnow.description>
+  <Apparel_MoppSuitSnow.label>MOPP suit(Snow)</Apparel_MoppSuitSnow.label>
+  <RailgunSabot.label>Sabot Round</RailgunSabot.label>
+  <RailgunSabot.description>A kinetic energy projectile fired from a railgun.</RailgunSabot.description>
+  <Bullet_Sabot.label>Sabot Round</Bullet_Sabot.label>
+  <RailgunSabotDU.label>DU Sabot Round</RailgunSabotDU.label>
+  <RailgunSabotDU.description>A kinetic energy projectile fired from a railgun, inert and safe to stockpile.</RailgunSabotDU.description>
+  <Bullet_Sabot_DU.label>DU Sabot Round</Bullet_Sabot_DU.label>
+  <SabotRoundIncoming.label>sabot incoming</SabotRoundIncoming.label>
+  <DUSabotRoundIncoming.label>DU sabot incoming</DUSabotRoundIncoming.label>
+  <ControlRodActuator.label>Control Rod Actuator</ControlRodActuator.label>
+  <ControlRodActuator.description>Upgrade parts for the Rimatomics nuclear reactor</ControlRodActuator.description>
+  <ATOM.label>ATOM</ATOM.label>
+  <ATOM.description>Upgrade module for TACS</ATOM.description>
+  <SCAD.label>SCAD</SCAD.label>
+  <SCAD.description>Upgrade parts for Rimatomics energy weapons</SCAD.description>
+  <MEPS.label>MEPS</MEPS.label>
+  <MEPS.description>Upgrade parts for Rimatomics energy weapons</MEPS.description>
+  <ALC.label>ALC</ALC.label>
+  <ALC.description>Upgrade parts for Rimatomics energy weapons</ALC.description>
+  <ERS.label>ERS</ERS.label>
+  <ERS.description>Upgrade parts for Rimatomics energy weapons</ERS.description>
+  <DriveActuator.label>Drive Actuator</DriveActuator.label>
+  <DriveActuator.description>Upgrade parts for Rimatomics energy weapons</DriveActuator.description>
+  <TargetingChip.label>Targeting Chip</TargetingChip.label>
+  <TargetingChip.description>Upgrade parts for the Rimatomics Railgun</TargetingChip.description>
+  <BeamSplitter.label>Beam Splitter</BeamSplitter.label>
+  <BeamSplitter.description>Upgrade parts for the Rimatomics Obelisk.</BeamSplitter.description>
+  <LenseModule.label>Lens Module</LenseModule.label>
+  <LenseModule.description>Upgrade parts for the Rimatomics Obelisk.</LenseModule.description>
+</LanguageData>
