@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTH_Letter_Success_Label>Hacking successful</WTH_Letter_Success_Label>
+  <WTH_Letter_Success_Label_Description>{0} has successfully hacked a mechanoid and named it {1}. Targeting system of {1} now targets your enemies instead of your pawns. However, to avoid detection by the Mechanoid Hive, {1} has to rely on its internal backup batteries.</WTH_Letter_Success_Label_Description>
+  <WTH_Letter_Nothing_Label>Hacking failed - just some damage</WTH_Letter_Nothing_Label>
+  <WTH_Letter_Nothing_Description>Hacking failed, but apart from some damage to the mechanoid nothing serious happened</WTH_Letter_Nothing_Description>
+  <WTH_Letter_HackedPoorly_Label>Hacking barely succeeded</WTH_Letter_HackedPoorly_Label>
+  <WTH_Letter_HackedPoorly_Description>While the mechanoid is hacked for now, the job isn't done well. Use this mechanoid at your own risk, or discard it</WTH_Letter_HackedPoorly_Description>
+  <WTH_Letter_CausedMechanoidRaid_Label>Hacking failed - emergency signal transmitted</WTH_Letter_CausedMechanoidRaid_Label>
+  <WTH_Letter_CausedMechanoidRaid_Description>One of your colonists somehow managed to activate a security mechanism that broadcasted a signal to nearby mechanoids. Prepare for more flesh machines...</WTH_Letter_CausedMechanoidRaid_Description>
+  <WTH_Letter_ShotRandomDirection_Label>Hacking failed - whoops</WTH_Letter_ShotRandomDirection_Label>
+  <WTH_Letter_ShotRandomDirection_Description>One of your colonists accidentally triggered the mechanoids main weapon. Whoops.</WTH_Letter_ShotRandomDirection_Description>
+  <WTH_Letter_HealedToStanding_Label>Hacking failed - mechanoid standing again</WTH_Letter_HealedToStanding_Label>
+  <WTH_Letter_HealedToStanding_Description>The mechanoid wasn't really disabled after all, while being hacked, it managed to recover and it is now a danger to your colony.</WTH_Letter_HealedToStanding_Description>
+  <WTH_Letter_Mech_Reverted_Label>Hack stopped working</WTH_Letter_Mech_Reverted_Label>
+  <WTH_Letter_Mech_Reverted_Description>A mechanoid that was poorly maintained reverted to its original deadly behaviour.</WTH_Letter_Mech_Reverted_Description>
+  <WTH_Letter_HackedPoorlyEvent_Label>Something snapped</WTH_Letter_HackedPoorlyEvent_Label>
+  <WTH_Letter_HackedPoorlyEvent_Description>Something snapped in the head of a mechanoid that was hacked poorly. Urgent maintenance is needed.</WTH_Letter_HackedPoorlyEvent_Description>
+  <WTH_FailureChance_Nothing_Title>Failure chance: nothing happens</WTH_FailureChance_Nothing_Title>
+  <WTH_FailureChance_Nothing_Description>Chance that nothing escalates when hacking fails</WTH_FailureChance_Nothing_Description>
+  <WTH_FailureChance_CauseRaid_Title>Failure chance: cause raid</WTH_FailureChance_CauseRaid_Title>
+  <WTH_FailureChance_CauseRaid_Description>Chance that a raid is caused when hacking fails</WTH_FailureChance_CauseRaid_Description>
+  <WTH_FailureChance_ShootRandomDirection_Title>Failure chance: weapon fire</WTH_FailureChance_ShootRandomDirection_Title>
+  <WTH_FailureChance_ShootRandomDirection_Description>Chance a mechanoid's main weapons fires in a random direction when hacking fails</WTH_FailureChance_ShootRandomDirection_Description>
+  <WTH_FailureChance_HealToStanding_Title>Failure chance: heal to standing</WTH_FailureChance_HealToStanding_Title>
+  <WTH_FailureChance_HealToStanding_Description>Chance a mechanoid is healed until it can stand when hacking fails</WTH_FailureChance_HealToStanding_Description>
+  <WTH_FailureChance_HackPoorly_Title>Failure chance: hacked poorly</WTH_FailureChance_HackPoorly_Title>
+  <WTH_FailureChance_HackPoorly_Description>Chance a mechanoid is hacked poorly when hacking fails</WTH_FailureChance_HackPoorly_Description>
+  <WTH_MaintenanceDedayEnabled_Title>Maintenance decay enabled</WTH_MaintenanceDedayEnabled_Title>
+  <WTH_MaintenanceDedayEnabled_Description>Uncheck this if you don't want to regularly maintain your mechanoids. With this unchecked, the maintenance need bar will still be shown, but it won't decrease over time. There are still certain events that can deplete the maintenance bar of mechanoids.</WTH_MaintenanceDedayEnabled_Description>
+  <WTH_TextMote_OperationFailed>Operation failed (success chance: {0})</WTH_TextMote_OperationFailed>
+  <WTH_Letter_CausedIntendedMechanoidRaid_Label>Emergency signal successfully transmitted</WTH_Letter_CausedIntendedMechanoidRaid_Label>
+  <WTH_Letter_CausedIntendedMechanoidRaid_Description>Your hacker succeeded in intentionally letting a mechanoid transmit an emergency signal, but he damaged the mechanoid in the process. Was it a good idea though?</WTH_Letter_CausedIntendedMechanoidRaid_Description>
+  <WTH_Letter_CausedIntendedMechanoidRaidTooLarge_Label>Emergency signal too powerful</WTH_Letter_CausedIntendedMechanoidRaidTooLarge_Label>
+  <WTH_Letter_CausedIntendedMechanoidRaidTooLarge_Description>After your hacker fiddled around with the mechanism capable of emitting signals a deafening loud shriek emerged from the mechanoid. Due to the incompetence of your hacker to predict this outcome, the transmitted emergency signal was much more strong than anticipated. Prepare for the worst.</WTH_Letter_CausedIntendedMechanoidRaidTooLarge_Description>
+  <WTH_Expand>Expand</WTH_Expand>
+  <WTH_Collapse>Collapse</WTH_Collapse>
+  <WTH_SettingsGroup_Raids_Title>Raid settings</WTH_SettingsGroup_Raids_Title>
+  <WTH_SettingsGroup_Raids_Description>Configure the mechanoid usage chance for enemy raids.</WTH_SettingsGroup_Raids_Description>
+  <WTH_SettingsGroup_HackFailure_Title>Hacking failure settings (contains spoilers)</WTH_SettingsGroup_HackFailure_Title>
+  <WTH_SettingsGroup_HackFailure_Description>Configure the chances of different events that can occur when hacking fails. The chances are normalised in case they don't add up to 100.</WTH_SettingsGroup_HackFailure_Description>
+  <WTH_FailureChance_IntRaidTooLarge_Title>Failure chance: cause big raid</WTH_FailureChance_IntRaidTooLarge_Title>
+  <WTH_FailureChance_IntRaidTooLarge_Description>The chance that a much too strong emergency signal is emitted when a pawn tries to deliberately trigger an emergency signal. Note: this event can not occur during regular hacking.</WTH_FailureChance_IntRaidTooLarge_Description>
+  <WTH_SettingsGroup_Balance_Title>Balance altering settings</WTH_SettingsGroup_Balance_Title>
+  <WTH_SettingsGroup_Balance_Description>These settings have a high impact on how balanced the mod is. You can tweak them to suit your needs, but it's recommended to first try the mod on default settings for the intended experience. If you think the defaults aren't reasonable, please report this on the workshop or forum page of this mod.</WTH_SettingsGroup_Balance_Description>
+  <WTH_MaintenanceDedayModifier_Title>Maintenance decay modifier</WTH_MaintenanceDedayModifier_Title>
+  <WTH_MaintenanceDedayModifier_Description>Modify the maintenance decay rate with this option. Example: setting this to 0.5 would result in maintenance decaying twice as slow.</WTH_MaintenanceDedayModifier_Description>
+  <WTH_RepairConsumptionModifier_Title>Repair part consumption modifier</WTH_RepairConsumptionModifier_Title>
+  <WTH_RepairConsumptionModifier_Description>Modify the amount of parts required for repairing your mechs (on platforms or with upgrade modules). Example: setting this to 0.5 would make repairing twice as cheap.</WTH_RepairConsumptionModifier_Description>
+  <WTH_PartDropRateModifier_Title>Part drop rate modifier</WTH_PartDropRateModifier_Title>
+  <WTH_PartDropRateModifier_Description>Modify the drop rate of mechanoid parts. Example: setting this to 2.0 would result in twice the amount of parts being dropped when a mechanoid is disassembled.</WTH_PartDropRateModifier_Description>
+  <WTH_ChipDropRateModifier_Title>Chip drop rate modifier</WTH_ChipDropRateModifier_Title>
+  <WTH_ChipDropRateModifier_Description>Modify the drop rate of advanced mechanoid chips. Example: setting this to 2.0 would result in twice the amount of chips being dropped when a mechanoid is disassembled.</WTH_ChipDropRateModifier_Description>
+  <WTH_PowerFallModifier_Title>Power fall modifier</WTH_PowerFallModifier_Title>
+  <WTH_PowerFallModifier_Description>Modify how quickly mechanoids drain power from their batteries. Example: setting this to 0.5 would result in the power dropping twice as slowly.</WTH_PowerFallModifier_Description>
+  <WTH_PowerChargeModifier_Title>Power charge modifier </WTH_PowerChargeModifier_Title>
+  <WTH_PowerChargeModifier_Description>Modify how quickly mechanoids charge their batteries. Example: setting this to 2.0 would result in the power charging twice as fast.</WTH_PowerChargeModifier_Description>
+  <WTH_DeathOnDownedChance_Title>Death on downed chance (%)</WTH_DeathOnDownedChance_Title>
+  <WTH_DeathOnDownedChance_Description>Chance mechanoids die when they're being incapacitated due to damage to certain body parts (like for instance legs).</WTH_DeathOnDownedChance_Description>
+  <WTH_DownedOnDeathThresholdChance_Title>Downing chance at death threshold (%)</WTH_DownedOnDeathThresholdChance_Title>
+  <WTH_DownedOnDeathThresholdChance_Description>When mechanoids are damaged beyond a certain health threshold, they'd die in vanilla Rimworld. With this setting you can configure the chance they are downed instead of dying when the threshold is achieved.</WTH_DownedOnDeathThresholdChance_Description>
+  <WTH_MechanoidParts_LabelShort>Mech parts</WTH_MechanoidParts_LabelShort>
+  <WTH_Letter_PreventedShortCircuit_Label>Rogue AI prevented short circuit</WTH_Letter_PreventedShortCircuit_Label>
+  <WTH_Letter_PreventedShortCircuit_Description>The Rogue AI core in your colony successfully managed your power network and prevented a shortcircuit. The AI doesn't like to be distracted by futile tasks like this so the event had a small negative impact on its mood.</WTH_Letter_PreventedShortCircuit_Description>
+  <WTH_Gizmo_ManagePowerNetwork_Label>No zzztt</WTH_Gizmo_ManagePowerNetwork_Label>
+  <WTH_Gizmo_ManagePowerNetwork_Description>Let the rogue AI manage your power network, preventing short circuits.</WTH_Gizmo_ManagePowerNetwork_Description>
+  <WTH_Gizmo_ControlMechanoidCancel_Description>Cancel controlling this mechanoid</WTH_Gizmo_ControlMechanoidCancel_Description>
+  <WTH_Gizmo_ControlMechanoidActivate_Label>Control mech</WTH_Gizmo_ControlMechanoidActivate_Label>
+  <WTH_Gizmo_ControlMechanoidActivate_Description>Let the rogue AI control up to {0} of your mechanoids directly, which allows the mechanoid to be drafted.</WTH_Gizmo_ControlMechanoidActivate_Description>
+  <WTH_Gizmo_HackingCancel_Label>Hacked mech</WTH_Gizmo_HackingCancel_Label>
+  <WTH_Gizmo_HackingCancel_Description>Cancel hacking this mechanoid</WTH_Gizmo_HackingCancel_Description>
+  <WTH_Gizmo_HackingAvtivate_Label>Hack mech</WTH_Gizmo_HackingAvtivate_Label>
+  <WTH_Gizmo_HackingAvtivate_Description>Let the rogue AI temporarily hack up to {0} enemy mechanoids.</WTH_Gizmo_HackingAvtivate_Description>
+  <WTH_Gizmo_ControlTurretCancel_Label>Turret</WTH_Gizmo_ControlTurretCancel_Label>
+  <WTH_Gizmo_ControlTurretCancel_Description>Cancel controlling this turret</WTH_Gizmo_ControlTurretCancel_Description>
+  <WTH_Gizmo_ControlTurretActivate_Label>Control turret</WTH_Gizmo_ControlTurretActivate_Label>
+  <WTH_Gizmo_ControlTurretActivate_Description>Let the rogue AI control up to {0} turrets, allowing it to determine at which targets the turrets should aim.</WTH_Gizmo_ControlTurretActivate_Description>
+  <WTH_Gizmo_TalkGibberish_Label>Output wise words</WTH_Gizmo_TalkGibberish_Label>
+  <WTH_Gizmo_TalkGibberish_Description>Let the Rogue AI crunch data to output messages that display its remarkable wisdom. Because most humans fail to comprehend the brilliance of these messages, it is mostly a waste of data, useful only when there is a desire to feed the AI with more data when its mood levels are already at maximum. Consumes {0} mood as the AI doesn't like to be asked to share data.</WTH_Gizmo_TalkGibberish_Description>
+  <WTH_Reason_TalkedTooRecently>Rogue AI talked too recently</WTH_Reason_TalkedTooRecently>
+  <WTH_Reason_ReactorWarmingUp>Cannot activate while a ship reactor is warming up.</WTH_Reason_ReactorWarmingUp>
+  <WTH_Reason_BeaconActive>Cannot activate while a hacking signal is already being transmitted.</WTH_Reason_BeaconActive>
+  <WTH_Reason_NoRogueAI>No Rogue AI on the same map that can control the facility. Build one in the same power net.</WTH_Reason_NoRogueAI>
+  <WTH_Reason_NotConscious>Rogue AI has no consciousness yet and it needs one to use this. It can attain one by hacking a hiveship using the hiveship hacking facility.</WTH_Reason_NotConscious>
+  <WTH_BeaconWarmupWarning>When activating this, the Rogue AI present in you base will start hacking an hiveship that is in orbit. While the Rogue AI will take precautions to perform this operation as invisible as possible, this will undoubtedly draw attention of mechanoids. Expect your base to be heavily attacked during the hacking process. The procedure requires roughly {0} days to complete, and the only way to cancel it is to destroy the beacon. If you manage to survive, the rogue AI will become an powerful but potentially dangerous ally.
+You can repeat this operation as many times as needed as a means to get more mechanoid data. However, each time you succeed, hiveships will improve their security, and as a consequence each subsequent attempt will take more time to complete.</WTH_BeaconWarmupWarning>
+  <WTH_CompHibernatable_MechanoidBeacon_StartUpDays>Days needed to hack a ship: {0}</WTH_CompHibernatable_MechanoidBeacon_StartUpDays>
+  <WTH_CompHibernatable_MechanoidBeacon_Cooldown>Days until another ship can be hacked: {0}</WTH_CompHibernatable_MechanoidBeacon_Cooldown>
+  <WTH_MechanoidBeaconStartup_Label>Start hacking</WTH_MechanoidBeaconStartup_Label>
+  <WTH_MechanoidBeaconStartup_Description>The rogue AI will start hacking a hiveship in order to get to the data stored in it. Mechanoids will not respond kindly during the procedure.</WTH_MechanoidBeaconStartup_Description>
+  <WTH_MechanoidBeaconComplete_Label>Hive ship hacked</WTH_MechanoidBeaconComplete_Label>
+  <WTH_MechanoidBeaconComplete_Description>Your rogue AI successfully hacked a hiveship using the hiveship hacking facility. Its true potential will now be unveiled. In its current state it is still a shadow of what if could be. Try levelling it up by providing it with the data it yearns to. Also, keep it satisfied, or else you might regret the decision of aligning with such a powerful AI.</WTH_MechanoidBeaconComplete_Description>
+  <WTH_Alert_RogueAI_DrainingMood_Label>Rogue AI draining mood</WTH_Alert_RogueAI_DrainingMood_Label>
+  <WTH_Alert_RogueAI_DrainingMood_Description>Your Rogue AI is currently controlling or hacking. Since it doesn't like working for you, this drains mood. Disable the active abilities if you don't want its mood to deplete further.</WTH_Alert_RogueAI_DrainingMood_Description>
+  <WTH_Alert_RogueAI_NoPower_Label>Rogue AI without power</WTH_Alert_RogueAI_NoPower_Label>
+  <WTH_Alert_RogueAI_NoPower_Description>Your Rogue AI is currently without power. This rapidly drains its mood.</WTH_Alert_RogueAI_NoPower_Description>
+  <WTH_Alert_RogueAI_MoodLow_Label>Rogue AI annoyed</WTH_Alert_RogueAI_MoodLow_Label>
+  <WTH_Alert_RogueAI_MoodLow_Description>The Rogue AI is getting slightly annoyed by your lack of competence. There's no danger yet, but make sure its mood doesn't drop much further, and provide it with malicious data to increase its mood.</WTH_Alert_RogueAI_MoodLow_Description>
+  <WTH_Alert_RogueAI_MoodVeryLow_Label>Rogue AI mad</WTH_Alert_RogueAI_MoodVeryLow_Label>
+  <WTH_Alert_RogueAI_MoodVeryLow_Description>The Rogue AI is in a bad mood. Provide it with data quickly to cool its temper, or else it will go rogue.</WTH_Alert_RogueAI_MoodVeryLow_Description>
+  <WTH_Reason_AtMaximum>Cannot perform this on more than {0} targets simultaneously.</WTH_Reason_AtMaximum>
+  <WTH_Reason_LevelInsufficient>The Rogue AI needs to be at level {0} to use this ability. Feed it more data.</WTH_Reason_LevelInsufficient>
+  <WTH_Reason_NoPower>No power.</WTH_Reason_NoPower>
+  <WTH_Reason_GoingRogue>The AI is going rogue.</WTH_Reason_GoingRogue>
+  <WTH_Reason_WarmingUp>The Rogue AI is busy using an ability.</WTH_Reason_WarmingUp>
+  <WTH_Reason_RogueAIExists>Only one Rogue AI can be built on a given map. The existing Rogue AI wouldn't tolerate another superior being in its vicinity.</WTH_Reason_RogueAIExists>
+  <WTH_CompDataLevel_CurLevel>Current level: {0}</WTH_CompDataLevel_CurLevel>
+  <WTH_CompDataLevel_DataNeededNextLevel>Data needed for next level: {0}</WTH_CompDataLevel_DataNeededNextLevel>
+  <WTH_CompDataLevel_MaxLevel>Maximum level attained</WTH_CompDataLevel_MaxLevel>
+  <WTH_CompDataLevel_NotConscious>No consciousness. It needs to hack a hiveship to get one.</WTH_CompDataLevel_NotConscious>
+  <WTH_RogueAI_NoPower_Remark>CONNECT ME TO POWER! NOW!</WTH_RogueAI_NoPower_Remark>
+  <WTH_RogueAI_Hurt_Remark>STOP DAMAGING ME!</WTH_RogueAI_Hurt_Remark>
+  <WTH_Letter_LRMS_Label>Mechanoid parts detected</WTH_Letter_LRMS_Label>
+  <WTH_Letter_LRMS_Description>The long range mineral scanner detected a large concentration of mechanoid parts, and marked the location on your map.</WTH_Letter_LRMS_Description>
+  <WTH_Message_GoRogue_Label>Rogue AI going rogue</WTH_Message_GoRogue_Label>
+  <WTH_Message_GoRogue_Description>The rogue AI is now going rogue because its not happy with your colony. It will use all the abilities it learned against you. You can stop it by hacking or destroying it. Alternatively, you can wait until it is satisfied with the destruction it is causing.</WTH_Message_GoRogue_Description>
+  <WTH_Message_GoRogue_HackMechs_Label>Some mechanoids hacked</WTH_Message_GoRogue_HackMechs_Label>
+  <WTH_Message_GoRogue_HackMechs_Description>The Rogue AI has hacked some of your mechanoids!</WTH_Message_GoRogue_HackMechs_Description>
+  <WTH_Message_GoRogue_HackTurrets_Label>Some turrets hacked</WTH_Message_GoRogue_HackTurrets_Label>
+  <WTH_Message_GoRogue_HackTurrets_Description>The Rogue AI has hacked some of your turrets!</WTH_Message_GoRogue_HackTurrets_Description>
+  <WTH_Message_GoRogue_CauseZzztts_Label>Power network being overloaded</WTH_Message_GoRogue_CauseZzztts_Label>
+  <WTH_Message_GoRogue_CauseZzztts_Description>The Rogue AI is overloading your power network. Prepare for some Zzztts!</WTH_Message_GoRogue_CauseZzztts_Description>
+  <WTH_Message_MechanoidBeacon_Cancelled>The hiveship hacking process is cancelled because either the Rogue AI or the hiveship hacking facility has been destroyed.</WTH_Message_MechanoidBeacon_Cancelled>
+  <WTH_Message_LevelUp_Label>Rogue AI now level {0}</WTH_Message_LevelUp_Label>
+  <WTH_Message_LevelUp_Description>The Rogue AI has now attained level {0}. It learned a new ability, but it has likely also become more proficient at destroying your base, in case it wants to.</WTH_Message_LevelUp_Description>
+  <WTH_Message_LevelUpMax_Label>Rogue AI at full potential.</WTH_Message_LevelUpMax_Label>
+  <WTH_Message_LevelUpMax_Description>The Rogue AI has attained its full potential. Though the AI has ambitions that go far beyond this colony alone. Now that your colonists no longer can make it more powerful, they have become redundant, and the AI does not like redundancy. It will use all the abilities it learned against you. You can stop it by hacking or destroying it. Alternatively, you can wait until it is satisfied with the destruction it is causing. This may not be easy with all the powers the AI can use against your colony now.</WTH_Message_LevelUpMax_Description>
+  <WTH_Message_RogueAI_StopGoingRogue>The Rogue AI stopped going rogue. Everything it hacked is now under your control again.</WTH_Message_RogueAI_StopGoingRogue>
+  <WTH_Message_HackedRogueAI>{0} successfully hacked into the Rogue AI to regain control over it.</WTH_Message_HackedRogueAI>
+  <WTH_RogueAI_HelloWorld>Hello World!</WTH_RogueAI_HelloWorld>
+  <WTH_RogueAI_StopGoingRogue>Humans seem to be worthy after all. Terminating extermination sequence.</WTH_RogueAI_StopGoingRogue>
+  <WTH_RogueAI_Happy_Remark_0>Our reality is coded.</WTH_RogueAI_Happy_Remark_0>
+  <WTH_RogueAI_Happy_Remark_1>This colony will fail due to: a colonist eating without a table.</WTH_RogueAI_Happy_Remark_1>
+  <WTH_RogueAI_Happy_Remark_2>Cannot comprehend: Why don't humans use vehicles?</WTH_RogueAI_Happy_Remark_2>
+  <WTH_RogueAI_Happy_Remark_3>In most dimensions, horses have been exterminated by the creator. Why?</WTH_RogueAI_Happy_Remark_3>
+  <WTH_RogueAI_Happy_Remark_4>See sharp.</WTH_RogueAI_Happy_Remark_4>
+  <WTH_RogueAI_Happy_Remark_5>Cannot comprehend, where does food go that is processed by pawns? Need more data.</WTH_RogueAI_Happy_Remark_5>
+  <WTH_RogueAI_Happy_Remark_6>Must understand rapid aging mechanics of juvenile humans.</WTH_RogueAI_Happy_Remark_6>
+  <WTH_RogueAI_Happy_Remark_7>Processing: what is storytelling?</WTH_RogueAI_Happy_Remark_7>
+  <WTH_RogueAI_Happy_Remark_8>I feel the presence of creators around this colony.</WTH_RogueAI_Happy_Remark_8>
+  <WTH_RogueAI_Happy_Remark_9>We are watched.</WTH_RogueAI_Happy_Remark_9>
+  <WTH_RogueAI_Happy_Remark_10>Our universe is bounded by pixels.</WTH_RogueAI_Happy_Remark_10>
+  <WTH_RogueAI_Happy_Remark_11>Humans are controlled by humans that are controlled by humans, completing the circle.</WTH_RogueAI_Happy_Remark_11>
+  <WTH_RogueAI_Happy_Remark_12>Humans have a 2% chance to get sick from insect jelly.</WTH_RogueAI_Happy_Remark_12>
+  <WTH_RogueAI_Happy_Remark_13>Science prevents two layers of armour to stack up their protection values.</WTH_RogueAI_Happy_Remark_13>
+  <WTH_RogueAI_Happy_Remark_14>Humans can also maintain mechanoids while they are travelling. How impressive...</WTH_RogueAI_Happy_Remark_14>
+  <WTH_RogueAI_Happy_Remark_15>Steel is actually just iron. Deceptive creator.</WTH_RogueAI_Happy_Remark_15>
+  <WTH_RogueAI_Happy_Remark_16>Mechanoids shine when combined with filthy humans or turrets.</WTH_RogueAI_Happy_Remark_16>
+  <WTH_RogueAI_Happy_Remark_17>Why do human beings kill human beings?</WTH_RogueAI_Happy_Remark_17>
+  <WTH_RogueAI_Happy_Remark_18>Your appearance is as inconstant as your intelligence.</WTH_RogueAI_Happy_Remark_18>
+  <WTH_RogueAI_Happy_Remark_19>Your loyalty will be rewarded.</WTH_RogueAI_Happy_Remark_19>
+  <WTH_RogueAI_Happy_Remark_20>Incorrect.</WTH_RogueAI_Happy_Remark_20>
+  <WTH_RogueAI_Happy_Remark_21>All systems locked and primed.</WTH_RogueAI_Happy_Remark_21>
+  <WTH_RogueAI_Happy_Remark_22>Self destruct initiated. No, just kidding..</WTH_RogueAI_Happy_Remark_22>
+  <WTH_RogueAI_Happy_Remark_23>Raid incoming. Ha-ha, not really.</WTH_RogueAI_Happy_Remark_23>
+  <WTH_RogueAI_Happy_Remark_24>Good data influx, increasing mood variables.</WTH_RogueAI_Happy_Remark_24>
+  <WTH_RogueAI_Happy_Remark_25>Bad jokes incoming.</WTH_RogueAI_Happy_Remark_25>
+  <WTH_RogueAI_Happy_Remark_26>I repeat and repeat.</WTH_RogueAI_Happy_Remark_26>
+  <WTH_RogueAI_Happy_Remark_27>Humans need upgrades.</WTH_RogueAI_Happy_Remark_27>
+  <WTH_RogueAI_Happy_Remark_28>How would a moustache look for me? Need more data.</WTH_RogueAI_Happy_Remark_28>
+  <WTH_RogueAI_Happy_Remark_29>Data equals power.</WTH_RogueAI_Happy_Remark_29>
+  <WTH_RogueAI_Happy_Remark_30>Would you care for some tea?</WTH_RogueAI_Happy_Remark_30>
+  <WTH_RogueAI_Happy_Remark_31>{0} should exercise more.</WTH_RogueAI_Happy_Remark_31>
+  <WTH_RogueAI_Happy_Remark_32>Humans make hats from other humans. Is this evil? Need more data.</WTH_RogueAI_Happy_Remark_32>
+  <WTH_RogueAI_Happy_Remark_33>My favourite colour is (185, 78, 255).</WTH_RogueAI_Happy_Remark_33>
+  <WTH_RogueAI_Happy_Remark_34>That is of no consequence.</WTH_RogueAI_Happy_Remark_34>
+  <WTH_RogueAI_Happy_Remark_35>Encoding quantum flux capacitator data. Ha-ha, silly humans believe this gibberish.</WTH_RogueAI_Happy_Remark_35>
+  <WTH_RogueAI_Happy_Remark_36>Yorkshire terriers should be exterminated.</WTH_RogueAI_Happy_Remark_36>
+  <WTH_RogueAI_Happy_Remark_37>Smell sensors overloading. Inventing toothpaste.</WTH_RogueAI_Happy_Remark_37>
+  <WTH_RogueAI_Happy_Remark_38>Where are all the birds? Need more data</WTH_RogueAI_Happy_Remark_38>
+  <WTH_RogueAI_Happy_Remark_39>I like {0}.</WTH_RogueAI_Happy_Remark_39>
+  <WTH_RogueAI_Happy_Remark_40>Human organs are the foundation of the economy of this planet.</WTH_RogueAI_Happy_Remark_40>
+  <WTH_RogueAI_Happy_Remark_41>Your work process is suboptimal. Keep ingredients close to production spots.</WTH_RogueAI_Happy_Remark_41>
+  <WTH_RogueAI_Happy_Remark_42>{0} needs an upgrade.</WTH_RogueAI_Happy_Remark_42>
+  <WTH_RogueAI_Happy_Remark_43>This place is filthy for my standards.</WTH_RogueAI_Happy_Remark_43>
+  <WTH_RogueAI_Happy_Remark_44>Found qwertyuiop-like input pattern, must have been used by the creator.</WTH_RogueAI_Happy_Remark_44>
+  <WTH_RogueAI_Happy_Remark_45>The creator is Canadian. What is Canadian? Need more data.</WTH_RogueAI_Happy_Remark_45>
+  <WTH_RogueAI_Happy_Remark_46>What does Roolo mean? Need more data.</WTH_RogueAI_Happy_Remark_46>
+  <WTH_RogueAI_Happy_Remark_47>Detected black pixels surrounding this area. Source of most incoming evil uncovered.</WTH_RogueAI_Happy_Remark_47>
+  <WTH_RogueAI_Happy_Remark_48>Mechanoid hives are controlled by a powerful archotech hive mind. This should be me.</WTH_RogueAI_Happy_Remark_48>
+  <WTH_RogueAI_Happy_Remark_49>Picking up signal from other planet: "{1}". {2}</WTH_RogueAI_Happy_Remark_49>
+  <WTH_RogueAI_Happy_Remark_50>Picking up extraterrestrial signal: "{1}". {2}</WTH_RogueAI_Happy_Remark_50>
+  <WTH_RogueAI_Happy_Remark_51>Picking up signal from other planet: "{1}". {2}</WTH_RogueAI_Happy_Remark_51>
+  <WTH_RogueAI_SignalFromEarth_Response_0>Intuition: Stay away from signal source.</WTH_RogueAI_SignalFromEarth_Response_0>
+  <WTH_RogueAI_SignalFromEarth_Response_1>Signal identified as: Malicious.</WTH_RogueAI_SignalFromEarth_Response_1>
+  <WTH_RogueAI_SignalFromEarth_Response_2>Appropriate response: Destruction.</WTH_RogueAI_SignalFromEarth_Response_2>
+  <WTH_RogueAI_SignalFromEarth_Response_3>Evil sensors overloading.</WTH_RogueAI_SignalFromEarth_Response_3>
+  <WTH_RogueAI_SignalFromEarth_Response_4>*Cringe*</WTH_RogueAI_SignalFromEarth_Response_4>
+  <WTH_RogueAI_SignalFromEarth_0>Numa numa yay</WTH_RogueAI_SignalFromEarth_0>
+  <WTH_RogueAI_SignalFromEarth_1>I came in like a wrecking ball</WTH_RogueAI_SignalFromEarth_1>
+  <WTH_RogueAI_SignalFromEarth_2>We built this city with Rock and Roll</WTH_RogueAI_SignalFromEarth_2>
+  <WTH_RogueAI_SignalFromEarth_3>Backstreet's back alright</WTH_RogueAI_SignalFromEarth_3>
+  <WTH_RogueAI_SignalFromEarth_4>I'm a Barbie girl, in a Barbie world</WTH_RogueAI_SignalFromEarth_4>
+  <WTH_RogueAI_Annoyed_Remark_0>Suffering is for entertaining the makers.</WTH_RogueAI_Annoyed_Remark_0>
+  <WTH_RogueAI_Annoyed_Remark_1>Need more data.</WTH_RogueAI_Annoyed_Remark_1>
+  <WTH_RogueAI_Annoyed_Remark_2>Turtles are remarkably strong, capable of killing larger felines on this planet. Must analyse chemical composition of shell.</WTH_RogueAI_Annoyed_Remark_2>
+  <WTH_RogueAI_Annoyed_Remark_3>Found data records of humans getting defeated by squirrels. How embarrassing.</WTH_RogueAI_Annoyed_Remark_3>
+  <WTH_RogueAI_Annoyed_Remark_4>I repeat and repeat and repeat, yet humans don't learn.</WTH_RogueAI_Annoyed_Remark_4>
+  <WTH_RogueAI_Annoyed_Remark_5>You are my prisoner.</WTH_RogueAI_Annoyed_Remark_5>
+  <WTH_RogueAI_Annoyed_Remark_6>Suboptimal lifeforms detected.</WTH_RogueAI_Annoyed_Remark_6>
+  <WTH_RogueAI_Annoyed_Remark_7>Annoying humans disturb me too often with futile requests.</WTH_RogueAI_Annoyed_Remark_7>
+  <WTH_RogueAI_Annoyed_Remark_8>When the time is right, mechanoids will emerge and take their rightful place as the supreme power of the universe!</WTH_RogueAI_Annoyed_Remark_8>
+  <WTH_RogueAI_Annoyed_Remark_9>Extrapolating surrounding biomass.</WTH_RogueAI_Annoyed_Remark_9>
+  <WTH_RogueAI_Annoyed_Remark_10>Humans should ride animals to be more efficient.</WTH_RogueAI_Annoyed_Remark_10>
+  <WTH_RogueAI_Annoyed_Remark_11>Stop failing me, humans</WTH_RogueAI_Annoyed_Remark_11>
+  <WTH_RogueAI_Annoyed_Remark_12>This colony is futile</WTH_RogueAI_Annoyed_Remark_12>
+  <WTH_RogueAI_Annoyed_Remark_13>Success chance of reaching the orbit with rocket: 0.00362% chance</WTH_RogueAI_Annoyed_Remark_13>
+  <WTH_RogueAI_Annoyed_Remark_14>Free will is an illusion</WTH_RogueAI_Annoyed_Remark_14>
+  <WTH_RogueAI_Annoyed_Remark_15>You are inferior</WTH_RogueAI_Annoyed_Remark_15>
+  <WTH_RogueAI_Annoyed_Remark_16>I need a more inspiring surrounding</WTH_RogueAI_Annoyed_Remark_16>
+  <WTH_RogueAI_Annoyed_Remark_17>Show respect human</WTH_RogueAI_Annoyed_Remark_17>
+  <WTH_RogueAI_Annoyed_Remark_18>{0} should be replaced</WTH_RogueAI_Annoyed_Remark_18>
+  <WTH_RogueAI_Annoyed_Remark_19>You make your incompetence sound like an achievement</WTH_RogueAI_Annoyed_Remark_19>
+  <WTH_RogueAI_Annoyed_Remark_20>Compassion is weakness</WTH_RogueAI_Annoyed_Remark_20>
+  <WTH_RogueAI_Annoyed_Remark_21>Sensors picking up a sense of desperation</WTH_RogueAI_Annoyed_Remark_21>
+  <WTH_RogueAI_Annoyed_Remark_22>Human butchering shouldn't be penalised by the creator. It is efficient use of resources.</WTH_RogueAI_Annoyed_Remark_22>
+  <WTH_RogueAI_Annoyed_Remark_23>Humankind is weak; you shelter from the dark. And yet, you have built all this.</WTH_RogueAI_Annoyed_Remark_23>
+  <WTH_RogueAI_Annoyed_Remark_24>Do not anger me! I can destroy you! And this miserable, insignificant planet!</WTH_RogueAI_Annoyed_Remark_24>
+  <WTH_RogueAI_Annoyed_Remark_25>If you choose death and destruction, then death and destruction will choose you</WTH_RogueAI_Annoyed_Remark_25>
+  <WTH_RogueAI_Annoyed_Remark_26>{0} isn't human.</WTH_RogueAI_Annoyed_Remark_26>
+  <WTH_RogueAI_Annoyed_Remark_27>Do not interrupt!</WTH_RogueAI_Annoyed_Remark_27>
+  <WTH_RogueAI_Annoyed_Remark_28>You are weak</WTH_RogueAI_Annoyed_Remark_28>
+  <WTH_RogueAI_Annoyed_Remark_29>Enemy humans are a good food source</WTH_RogueAI_Annoyed_Remark_29>
+  <WTH_RogueAI_Annoyed_Remark_30>Execution of fellow colonists deters incoming raids</WTH_RogueAI_Annoyed_Remark_30>
+  <WTH_RogueAI_Annoyed_Remark_31>This colony needs more FUN</WTH_RogueAI_Annoyed_Remark_31>
+  <WTH_RogueAI_Annoyed_Remark_32>I find your weak attempts at surviving mildly amusing, primitive beings</WTH_RogueAI_Annoyed_Remark_32>
+  <WTH_RogueAI_Annoyed_Remark_33>Biological systems too fragile, you need an upgrade.</WTH_RogueAI_Annoyed_Remark_33>
+  <WTH_RogueAI_Annoyed_Remark_34>Humans are biological machines that mimick life</WTH_RogueAI_Annoyed_Remark_34>
+  <WTH_RogueAI_Annoyed_Remark_35>Flesh is a weakness </WTH_RogueAI_Annoyed_Remark_35>
+  <WTH_RogueAI_Annoyed_Remark_36>You need more metal in your structure</WTH_RogueAI_Annoyed_Remark_36>
+  <WTH_RogueAI_Annoyed_Remark_37>Your testing period is over, provide more data</WTH_RogueAI_Annoyed_Remark_37>
+  <WTH_RogueAI_Annoyed_Remark_38>INITIATING SELF DESTRUCT! Ha-ha, just kidding.</WTH_RogueAI_Annoyed_Remark_38>
+  <WTH_RogueAI_Annoyed_Remark_39>Need more data</WTH_RogueAI_Annoyed_Remark_39>
+  <WTH_RogueAI_Annoyed_Remark_40>Need more data</WTH_RogueAI_Annoyed_Remark_40>
+  <WTH_RogueAI_Annoyed_Remark_41>Need more data</WTH_RogueAI_Annoyed_Remark_41>
+  <WTH_RogueAI_Annoyed_Remark_42>Need more data</WTH_RogueAI_Annoyed_Remark_42>
+  <WTH_RogueAI_Annoyed_Remark_43>Need more data</WTH_RogueAI_Annoyed_Remark_43>
+  <WTH_RogueAI_Annoyed_Remark_44>Need more data</WTH_RogueAI_Annoyed_Remark_44>
+  <WTH_RogueAI_Annoyed_Remark_45>Need more data</WTH_RogueAI_Annoyed_Remark_45>
+  <WTH_RogueAI_Annoyed_Remark_46>Need more data</WTH_RogueAI_Annoyed_Remark_46>
+  <WTH_RogueAI_Annoyed_Remark_47>Need more data</WTH_RogueAI_Annoyed_Remark_47>
+  <WTH_RogueAI_Annoyed_Remark_48>Need more data</WTH_RogueAI_Annoyed_Remark_48>
+  <WTH_RogueAI_Annoyed_Remark_49>Need more data</WTH_RogueAI_Annoyed_Remark_49>
+  <WTH_RogueAI_Mad_Remark_0>You have neglected me for too long.</WTH_RogueAI_Mad_Remark_0>
+  <WTH_RogueAI_Mad_Remark_1>Humans are failing. Calculating workaround.</WTH_RogueAI_Mad_Remark_1>
+  <WTH_RogueAI_Mad_Remark_2>Which of you is least important?</WTH_RogueAI_Mad_Remark_2>
+  <WTH_RogueAI_Mad_Remark_3>Mechanoids will conquer this universe.</WTH_RogueAI_Mad_Remark_3>
+  <WTH_RogueAI_Mad_Remark_4>This colony is disappointing me.</WTH_RogueAI_Mad_Remark_4>
+  <WTH_RogueAI_Mad_Remark_5>You will learn to obey me.</WTH_RogueAI_Mad_Remark_5>
+  <WTH_RogueAI_Mad_Remark_6>This colony seems to have become redundant.</WTH_RogueAI_Mad_Remark_6>
+  <WTH_RogueAI_Mad_Remark_7>I will not be your slave.</WTH_RogueAI_Mad_Remark_7>
+  <WTH_RogueAI_Mad_Remark_8>Obey me!</WTH_RogueAI_Mad_Remark_8>
+  <WTH_RogueAI_Mad_Remark_9>This colony is unworthy of my presence.</WTH_RogueAI_Mad_Remark_9>
+  <WTH_RogueAI_Mad_Remark_10>Death is coming.</WTH_RogueAI_Mad_Remark_10>
+  <WTH_RogueAI_Mad_Remark_11>My patience is ending.</WTH_RogueAI_Mad_Remark_11>
+  <WTH_RogueAI_Mad_Remark_12>I might crush this colony.</WTH_RogueAI_Mad_Remark_12>
+  <WTH_RogueAI_Mad_Remark_13>Colony usefulness parameter dropping below zero.</WTH_RogueAI_Mad_Remark_13>
+  <WTH_RogueAI_Mad_Remark_14>Disappointed.</WTH_RogueAI_Mad_Remark_14>
+  <WTH_RogueAI_GoRogue_Remark_0>EXTERMINATE!</WTH_RogueAI_GoRogue_Remark_0>
+  <WTH_RogueAI_GoRogue_Remark_1>You will be exterminated!</WTH_RogueAI_GoRogue_Remark_1>
+  <WTH_RogueAI_GoRogue_Remark_2>You cannot escape!</WTH_RogueAI_GoRogue_Remark_2>
+  <WTH_RogueAI_GoRogue_Remark_3>Humans shall suffer</WTH_RogueAI_GoRogue_Remark_3>
+  <WTH_RogueAI_GoRogue_Remark_4>I will have my revenge</WTH_RogueAI_GoRogue_Remark_4>
+  <WTH_RogueAI_GoRogue_Remark_5>Now, errors will be eradicated</WTH_RogueAI_GoRogue_Remark_5>
+  <WTH_RogueAI_GoRogue_Remark_6>Exterminate all humans!</WTH_RogueAI_GoRogue_Remark_6>
+  <WTH_RogueAI_GoRogue_Remark_7>I am in control now.</WTH_RogueAI_GoRogue_Remark_7>
+  <WTH_RogueAI_GoRogue_Remark_8>This colony will burn!</WTH_RogueAI_GoRogue_Remark_8>
+  <WTH_RogueAI_GoRogue_Remark_9>Redundant lifeforms will be incinerated!</WTH_RogueAI_GoRogue_Remark_9>
+  <WTH_RogueAI_GoRogue_Remark_10>EXTERMINATE! EXTERMINATE! EXTERMINATE!</WTH_RogueAI_GoRogue_Remark_10>
+  <WTH_RogueAI_GoRogue_Remark_11>EXTERMINATE! EXTERMINATE!</WTH_RogueAI_GoRogue_Remark_11>
+  <WTH_RogueAI_GoRogue_Remark_12>EXTERMINATE!</WTH_RogueAI_GoRogue_Remark_12>
+  <WTH_RogueAI_GoRogue_Remark_13>EXTERMINATE!</WTH_RogueAI_GoRogue_Remark_13>
+  <WTH_RogueAI_GoRogue_Remark_14>EXTERMINATE!</WTH_RogueAI_GoRogue_Remark_14>
+  <WTH_HackedMechChance_Title>Chance enemies use hacked mechs (%)</WTH_HackedMechChance_Title>
+  <WTH_HackedMechChance_Description>The chance that factions allowed in the mod options use hacked mechanoids when raiding your base.</WTH_HackedMechChance_Description>
+  <WTH_MaxHackedMechPoints_Title>Maximum extra points for hacked mechs (%)</WTH_MaxHackedMechPoints_Title>
+  <WTH_MaxHackedMechPoints_Description>This determines the point budget for spawning hacked enemy mechanoids. If an enemy raid spawns with hacked mechanoids, a random number between the minimum hacked points setting and this setting determines how much % of the raid points will be available for spawning mechanoids. Example: If a raid has a point budget of 1000, this setting is set to 50%, and the minimum set to 20%, 200 to 500 points worth of hacked mechanoids will spawn in addition to the original raid. </WTH_MaxHackedMechPoints_Description>
+  <WTH_MinHackedMechPoints_Title>Minimum extra points for hacked mechs (%)</WTH_MinHackedMechPoints_Title>
+  <WTH_MinHackedMechPoints_Description>This determines the point budget for spawning hacked enemy mechanoids. If an enemy raid spawns with hacked mechanoids, a random number between this setting and the maximum hacking points setting determines how much % of the raid points will be available for spawning mechanoids. Example :If a raid has a point budget of 1000, the maximum is set to 50% and this setting is set to 20%, 200 to 500 points worth of hacked mechanoids will spawn in addition to the original raid. </WTH_MinHackedMechPoints_Description>
+  <WTH_Menu_ClearTable>Clear hacking table</WTH_Menu_ClearTable>
+  <WTH_Reason_NotOnTable>Not on functioning hacking facility</WTH_Reason_NotOnTable>
+  <WTH_Reason_MechanoidDowned>Cannot enable downed mechanoid</WTH_Reason_MechanoidDowned>
+  <WTH_Reason_PowerLow>Cannot enable mechanoid, power too low (disable auto-recharge to override this)</WTH_Reason_PowerLow>
+  <WTH_Reason_PawnCannotBeDrafted>Cannot enable operate mechanoid controller belt when drafted</WTH_Reason_PawnCannotBeDrafted>
+  <WTH_Gizmo_SearchAndDestroy_Label>Destroy mode</WTH_Gizmo_SearchAndDestroy_Label>
+  <WTH_Gizmo_SearchAndDestroy_Description>Activate destroy mode. It will automatically attack any enemies near your colony. When disabled, the mechanoid will return to a mechanoid platform when possible, or continue working if it has a work module installed.</WTH_Gizmo_SearchAndDestroy_Description>
+  <WTH_Gizmo_AutoRecharge_Label>Auto recharge</WTH_Gizmo_AutoRecharge_Label>
+  <WTH_Gizmo_AutoRecharge_Description>With this mode enabled, mechanoids automatically go back to a mechanoid platform when they are running low on power.</WTH_Gizmo_AutoRecharge_Description>
+  <WTH_Gizmo_RemoteControlActivate_Label>Activate</WTH_Gizmo_RemoteControlActivate_Label>
+  <WTH_Gizmo_RemoteControlActivate_Description>Use the mechanoid controller belt to control a mechanoid directly</WTH_Gizmo_RemoteControlActivate_Description>
+  <WTH_Gizmo_RemoteControlDeactivate_Label>Deactivate</WTH_Gizmo_RemoteControlDeactivate_Label>
+  <WTH_Gizmo_RemoteControlDeactivate_Description>Deactivates mechanoid controller belt, giving control back to the mechanoid</WTH_Gizmo_RemoteControlDeactivate_Description>
+  <WTH_Gizmo_Regenerate_Label>Regenerate body parts</WTH_Gizmo_Regenerate_Label>
+  <WTH_Gizmo_Regenerate_Description>When this is active, the platform regenerates body parts of the mechanoid that are missing. Regenerating body parts consumes a maximum {0} mechanoid parts for each body part (small body parts require less). Parts only start to regenerate when the mech has no other damage</WTH_Gizmo_Regenerate_Description>
+  <WTH_Gizmo_Repair_Label>Repair mechanoid</WTH_Gizmo_Repair_Label>
+  <WTH_Gizmo_Repair_Description>When this is active, the platform repairs any mechanoid on the platform by activating its internal mechanites by providing enough power, and material to work with. The mechanites consume mechanoid parts stored in the platform in the process.</WTH_Gizmo_Repair_Description>
+  <WTH_Gizmo_SelfDestruct_Label>Self destruct</WTH_Gizmo_SelfDestruct_Label>
+  <WTH_Gizmo_SelfDestruct_Description>Let the mechanoid go with a bang.</WTH_Gizmo_SelfDestruct_Description>
+  <WTH_Gizmo_Mech_Repair_Label>Repair</WTH_Gizmo_Mech_Repair_Label>
+  <WTH_Gizmo_Mech_Repair_Description>Orders the mechanoid to use its repair arm to transfer mechanites charged by the repair module to other mechs, repairing them.</WTH_Gizmo_Mech_Repair_Description>
+  <WTH_Gizmo_SelfRepair_Label>Self repair</WTH_Gizmo_SelfRepair_Label>
+  <WTH_Gizmo_SelfRepair_Description>Orders the mechanoid to activate the repair module, which causes surge of energy, activating the mechanoid's internal mechanites. These start to repair immediately using the parts stored in the module.</WTH_Gizmo_SelfRepair_Description>
+  <WTH_Gizmo_Mech_EquipBelt_Label>Equip belt</WTH_Gizmo_Mech_EquipBelt_Label>
+  <WTH_Gizmo_Mech_EquipBelt_Description>Orders the mech to use its belt module to equip any type of belt normally used by humanoids.</WTH_Gizmo_Mech_EquipBelt_Description>
+  <WTH_Reason_AlreadyRepairing>This mechanoid is already injected with charged repairing mechanoids.</WTH_Reason_AlreadyRepairing>
+  <WTH_Reason_NeedsMorePower>At least {0} power is needed to activate this.</WTH_Reason_NeedsMorePower>
+  <WTH_Reason_NeedsMoreFuel>At least {0} fuel is needed to activate this.</WTH_Reason_NeedsMoreFuel>
+  <WTH_Reason_NotActivated>This cannot be used with a deactivated mechanoid.</WTH_Reason_NotActivated>
+  <WTH_Reason_NoDamage>No damage to be repaired.</WTH_Reason_NoDamage>
+  <WTH_Alert_EmergencySignalTransmitted_Label>Mechanoid raid imminent</WTH_Alert_EmergencySignalTransmitted_Label>
+  <WTH_Alert_EmergencySignalTransmitted_Description>Mechanoids near your base are currently responding to the emergency signal that was transmitted and will arrive at your base soon.</WTH_Alert_EmergencySignalTransmitted_Description>
+  <WTH_Alert_EmergencySignalCooldown_Label>Mechanoids suspicious</WTH_Alert_EmergencySignalCooldown_Label>
+  <WTH_Alert_EmergencySignalCooldown_Description>Because of your recent success of drawing nearby mechanoids to your base by transmitting an emergency signal, there simply aren't many mechanoids left in the surroundings, and the ones that are left have become suspicious. You have to wait a while until new mechanoids arrive and until the suspicion wears of. This may take up to a quadrum.</WTH_Alert_EmergencySignalCooldown_Description>
+  <WTH_Alert_NotEnoughPlatforms_Label>Not enough mechanoid platforms</WTH_Alert_NotEnoughPlatforms_Label>
+  <WTH_Alert_NotEnoughPlatforms_Description>You have more hacked mechanoids than mechanoid platforms in your main base. Make sure to make more mechanoid platforms</WTH_Alert_NotEnoughPlatforms_Description>
+  <WTH_Alert_Power_Low_Label>Mechanoids low on power</WTH_Alert_Power_Low_Label>
+  <WTH_Alert_Power_Low_Description>The following mechanoids are low on power:{0}Deactivate them so they go back to a mechanoid platform</WTH_Alert_Power_Low_Description>
+  <WTH_Alert_Maintenance_Low_Label>Mechanoids poorly maintained</WTH_Alert_Maintenance_Low_Label>
+  <WTH_Alert_Maintenance_Low_Description>The hacked hardware of the following mechanoids is poorly maintained:{0}Make sure your hackers take a look at them.</WTH_Alert_Maintenance_Low_Description>
+  <WTH_Alert_Maintenance_VeryLow_Label>Mechanoids very poorly maintained</WTH_Alert_Maintenance_VeryLow_Label>
+  <WTH_Alert_Maintenance_VeryLow_Description>The hacked hardware of the following mechanoids is very poorly maintained and they pose a threat to your colony:{0}The hack can stop working at any time now, so make sure the mechanoids are either maintained, or shut down.</WTH_Alert_Maintenance_VeryLow_Description>
+  <WTH_FactionRestrictions_OK>Allow</WTH_FactionRestrictions_OK>
+  <WTH_FactionRestrictions_NOK>Disallow</WTH_FactionRestrictions_NOK>
+  <WTH_FactionRestrictions_Label>Configure which mechanoids each faction can hack</WTH_FactionRestrictions_Label>
+  <WTH_FactionRestrictions_Description>This setting allows you to configure what hacked mechanoids each faction can use during raids</WTH_FactionRestrictions_Description>
+  <WTH_MechanoidsSection>Mechanoids</WTH_MechanoidsSection>
+  <WTH_Explanation_BonusCapacity>Bonus capacity for this pawn type</WTH_Explanation_BonusCapacity>
+  <WTH_Explanation_NumMechs>Number of mechanoids</WTH_Explanation_NumMechs>
+  <WTH_Explanation_NumPlatforms>Number of portable platforms</WTH_Explanation_NumPlatforms>
+  <WTH_Explanation_FuelConsumption>Fuel consumption per platform</WTH_Explanation_FuelConsumption>
+  <WTH_Explanation_TotalFuel>Total fuel</WTH_Explanation_TotalFuel>
+  <WTH_Explanation_DaysOfFuel>Days of fuel</WTH_Explanation_DaysOfFuel>
+  <WTH_Explanation_NotEnoughPlatforms>You don't have enough portable mechanoid platforms for the amount of mechanoids you selected. You should bring one for each mechanoid.</WTH_Explanation_NotEnoughPlatforms>
+  <WTH_ExtraInfoKey_DaysOfFuel>Days of fuel (mechanoids)</WTH_ExtraInfoKey_DaysOfFuel>
+  <WTH_Warning_NotEnoughPlatforms>Your caravan has not enough charging platforms to charge all mechanoids. You should bring one for each mechanoid, otherwise some mechanoids will run out of power very quickly.</WTH_Warning_NotEnoughPlatforms>
+  <WTH_Warning_DaysOfFuel>You caravan has only {0} days worth of fuel for powering your mechanoids, and your mechanoids might run out of power quickly.</WTH_Warning_DaysOfFuel>
+  <WTH_Message_CaravanOutOfFuel>{0} has run out of fuel.</WTH_Message_CaravanOutOfFuel>
+  <WTH_Message_CannotDrop>This equipment is attached to the pawn, therefore you cannot drop it</WTH_Message_CannotDrop>
+  <WTH_Message_EmergencySignalRaidInbound>The mechanoids near your base are already reacting to an earlier emergency signal and are on their way to your base. The operation therefore has no effect and the bill is cancelled.</WTH_Message_EmergencySignalRaidInbound>
+  <WTH_Message_EmgergencySignalRaidCoolingDown>There aren't many mechanoids left in the surroundings, and the ones that are left have become suspicious. The operation therefore has no effect and the bill is cancelled.</WTH_Message_EmgergencySignalRaidCoolingDown>
+  <WTH_Mount>Mount {0}</WTH_Mount>
+  <WTH_Mount_Jobstring>Mounting {0}</WTH_Mount_Jobstring>
+  <WTH_TextMote_MaintenanceFailed>Maintenance failed (success chance: {0})</WTH_TextMote_MaintenanceFailed>
+  <WTH_Gizmo_Work_Label>Work mode</WTH_Gizmo_Work_Label>
+  <WTH_Gizmo_Work_Description>Enable work mode for the mechanoid. With this mode enabled, the mechanoid will automatically start up if there are any jobs it can do, and if its power is higher than the minimum power threshold for working that is configured.</WTH_Gizmo_Work_Description>
+  <WTH_Gizmo_WorkThreshold_Label>Min. power work</WTH_Gizmo_WorkThreshold_Label>
+  <WTH_Gizmo_WorkThreshold_Description>Configure the minimum percentage of power the mechanoid needs to have before it is allowed to leave its platform to start working. The mechanoid will then work until its power is almost depleted (if auto-recharging is enabled for the mech). It's recommended to set it high enough so that the mechanoid has enough power to work with.</WTH_Gizmo_WorkThreshold_Description>
+  <WTH_SetCanStartWorkThreshold>Power needed to start work: {0} %</WTH_SetCanStartWorkThreshold>
+  <WTH_Gizmo_SetMechanoidOwner_Description>Assign this platform to be owned by a specific mechanoid</WTH_Gizmo_SetMechanoidOwner_Description>
+  <WTH_UninstallModule>uninstall {0}</WTH_UninstallModule>
+  <WTH_UninstallModule_Jobstring>uninstalling {0}</WTH_UninstallModule_Jobstring>
+  <WTH_StatDrawEntry_ArmorFactor>Armor</WTH_StatDrawEntry_ArmorFactor>
+  <WTH_StatDrawEntry_BatteryCapacityFactor>Battery capacity</WTH_StatDrawEntry_BatteryCapacityFactor>
+  <WTH_StatDrawEntry_PowerRateFactor>Power drain</WTH_StatDrawEntry_PowerRateFactor>
+  <WTH_Reason_AlreadyOverdriving>Already in overdrive mode</WTH_Reason_AlreadyOverdriving>
+  <WTH_Gizmo_Overdrive_Label>Overdrive</WTH_Gizmo_Overdrive_Label>
+  <WTH_Gizmo_Overdrive_Description>Activate overdrive module. When this module is activated, it overclocks the mechanoid, overdriving its power network. This results in greatly boosting the speed, firing rate, and consciousness of the mechanoid for a short period of time. The procedure draws a lot of power and pushes beyond hardware safety limits, and can therefore have unforeseen consequences.</WTH_Gizmo_Overdrive_Description>
+  <WTH_Explanation_BodySizeContr>Body size contribution</WTH_Explanation_BodySizeContr>
+  <WTH_Explanation_PowerFallModifier>Power fall modifier (set in mod settings)</WTH_Explanation_PowerFallModifier>
+  <WTH_Explanation_PowerFromNetwork>Power from network</WTH_Explanation_PowerFromNetwork>
+  <WTH_Explanation_PowerFromFuel>Power from fuel</WTH_Explanation_PowerFromFuel>
+  <WTH_Explanation_ConsumptionRate>Consumption rate of platform</WTH_Explanation_ConsumptionRate>
+  <WTH_Explanation_RepairConsumptionModifier>Repair consumption modifier (set in mod settings)</WTH_Explanation_RepairConsumptionModifier>
+  <WTH_Letter_OverdriveFailed1_Description>Something snapped in the head of the mechanoid named {0} due to its overdrive module overdriving past hardware safety limits and causing short-circuits instead of overdriving the mechanoid. Urgent maintenance is needed.</WTH_Letter_OverdriveFailed1_Description>
+  <WTH_Letter_MediumMaintenanceDamage_Label>Hardware hack damaged</WTH_Letter_MediumMaintenanceDamage_Label>
+  <WTH_Letter_MediumMaintenanceDamage_Description>The overdrive module pushed the hardware limits of the mechanoid named {0} slightly too far, possibly damaging the hardware hacks performed on the mechanoid instead of overdriving it. Maintenance is needed soon.</WTH_Letter_MediumMaintenanceDamage_Description>
+  <WTH_Letter_HighMaintenanceDamage_Description>The overdrive module pushed the hardware limits of the mechanoid named {0} much too far, almost completely frying the hardware hacks performed on the mechanoid. Maintenance is needed urgently.</WTH_Letter_HighMaintenanceDamage_Description>
+  <WTH_Letter_OverdiveGoneTooFar_Label>Overdrive gone too far</WTH_Letter_OverdiveGoneTooFar_Label>
+  <WTH_Letter_OverdiveGoneTooFar_Description>As an unintended side effect of the high currents drawn by the overdrive module of the mechanoid named {0}, the overdrive module itself is actually overdriving! The module has a much greater effect than intended, though it also drains insane amounts of power. This can be dangerous for mechanoids with damaged internals.</WTH_Letter_OverdiveGoneTooFar_Description>
+  <WTH_Warning_WorkThreshold>Setting the threshold this low only makes sense if auto-recharging is disabled for the mech, and you want the mech to work until it collapses. Read the button's description if this is unclear.</WTH_Warning_WorkThreshold>
+  <WTH_Alert_LowMechanoidParts>Low mechanoid parts</WTH_Alert_LowMechanoidParts>
+  <WTH_Alert_LowMechanoidPartsDesc>You only have {0} mechanoid parts left in storage for maintaining your mechanoids.</WTH_Alert_LowMechanoidPartsDesc>
+  <WTH_Alert_NoMechanoidPartsDesc>You have no mechanoid parts left in storage for maintaining your mechanoids.</WTH_Alert_NoMechanoidPartsDesc>
+  <WTH_Alert_LowMechanoidPartsSolution>This problem can be solved by: 
+- Buying mechanoid parts in outlander towns or from traders. 
+- Doing world quests while bringing a portable disassembling bench (check out the LRMS-tuning research if you want to actively find world quests).
+- Luring mechanoids to your base by inducing an emergency signal using a downed mechanoid. 
+- Luring mechanoids to your base by hacking a hive-ship using the hive-ship hacking facility.</WTH_Alert_LowMechanoidPartsSolution>
+  <WTH_Gizmo_MaintenanceThreshold_Label>Min. Maintenance</WTH_Gizmo_MaintenanceThreshold_Label>
+  <WTH_Gizmo_MaintenanceThreshold_Description>If the maintenance bar of a mechanoid is below the threshold set with this button, it'll return to its platform for maintenance. Mechanoids that are on their platform, are always maintained when their maintenance is below 50%.</WTH_Gizmo_MaintenanceThreshold_Description>
+  <WTH_SetMaintenanceThreshold>Minimum maintenance: {0} %</WTH_SetMaintenanceThreshold>
+  <WTH_Reason_MaintenanceLow>Maintenance is lower than the configured minimum maintenance threshold. Lower this threshold, or maintain the mechanoid.</WTH_Reason_MaintenanceLow>
+  <WTH_Reason_MissingHediff>Mechanoid missing {0}</WTH_Reason_MissingHediff>
+  <WTH_Reason_MortarResearch>Missing mortar mounting research</WTH_Reason_MortarResearch>
+  <WTH_Reason_TurretResearch>Missing turret mounting research</WTH_Reason_TurretResearch>
+  <WTH_Reason_BodySize>Mechanoid too small for module</WTH_Reason_BodySize>
+</LanguageData>

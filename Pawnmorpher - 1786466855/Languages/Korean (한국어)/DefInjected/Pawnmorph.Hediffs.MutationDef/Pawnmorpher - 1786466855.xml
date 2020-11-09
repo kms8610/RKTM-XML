@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EtherWing.label>wing</EtherWing.label>
+  <EtherWing.description>An avian wing.</EtherWing.description>
+  <EtherWing.stages.0.label>unfamiliar</EtherWing.stages.0.label>
+  <EtherWing.stages.0.description>[PAWN_nameDef]'s arm has contorted into the shape of an avian wing, complete with hollow bones.</EtherWing.stages.0.description>
+  <EtherWing.stages.1.description>[PAWN_nameDef]'s arm has contorted into the shape of an avian wing, complete with hollow bones.</EtherWing.stages.1.description>
+  <EtherWing.stages.2.labelOverride>dextrous wing</EtherWing.stages.2.labelOverride>
+  <EtherWing.stages.2.description>[PAWN_nameDef]'s arm has contorted into a wing shape, but have suprisingly regained their dexterity.</EtherWing.stages.2.description>
+  <EtherTeemingMass.description>A mass of sentient mechanites has lodged inside the flesh, warping it and causing pain. It grows worse if not removed.\n\nIt hungers.</EtherTeemingMass.description>
+  <EtherTeemingMass.label>teeming mass</EtherTeemingMass.label>
+  <EtherTeemingMass.stages.0.label>abnormal growth</EtherTeemingMass.stages.0.label>
+  <EtherTeemingMass.stages.0.description>[PAWN_nameDef]'s skin has developed some form of green lumpy growth.</EtherTeemingMass.stages.0.description>
+  <EtherTeemingMass.stages.1.label>rumbling tumour</EtherTeemingMass.stages.1.label>
+  <EtherTeemingMass.stages.1.description>The growth has developed larger and begins to hunger for more.</EtherTeemingMass.stages.1.description>
+  <EtherTeemingMass.stages.2.label>unsightly mass</EtherTeemingMass.stages.2.label>
+  <EtherTeemingMass.stages.2.description>The growth overtakes most of this part with a green bulbous web of mechanites. It is hard to look at, and the pain only grows.</EtherTeemingMass.stages.2.description>
+  <EtherTeemingMass.stages.3.description>The mass has developed its own heartbeat and appears to possess a unified mechanite mind of its own. It hungers for more biomatter, ravenous and unsatisfied.</EtherTeemingMass.stages.3.description>
+  <EtherSlimeLimb.description>The skin and muscle on this limb have softened into a gelatinous mess of mechanites. The bone is visible through the green-tinted and glowing translucent flesh.</EtherSlimeLimb.description>
+  <EtherSlimeLimb.label>gelatinous mechanites</EtherSlimeLimb.label>
+  <EtherSlimeLimb.stages.0.label>glistening</EtherSlimeLimb.stages.0.label>
+  <EtherSlimeLimb.stages.0.description>[PAWN_nameDef]'s skin and muscle has grown squishy, and the skin appears to excrete a thin film of slime.</EtherSlimeLimb.stages.0.description>
+  <EtherSlimeLimb.stages.1.label>slime-slicked</EtherSlimeLimb.stages.1.label>
+  <EtherSlimeLimb.stages.1.description>A green slime of mechanite jelly seems to be converting this limb into more of itself. It's rather painful and consumes a lot of calories to endure.</EtherSlimeLimb.stages.1.description>
+  <EtherSlimeLimb.stages.2.label>gelatinous conversion</EtherSlimeLimb.stages.2.label>
+  <EtherSlimeLimb.stages.2.description>Large portions of the limb seem to have been converted into a mechanite jelly, with no sign of abating. It's highly painful, and the process consumes many calories.</EtherSlimeLimb.stages.2.description>
+  <EtherSlimeLimb.stages.3.description>The conversion process seems to be drawing to a close on this part, lessening the pain invoked. Bone is visible through the mass of jellied mechanites that have converted the skin and muscle into more mechanites -- yet they remain controllable by the host.</EtherSlimeLimb.stages.3.description>
+  <EtherGutswell.description>[PAWN_nameDef] functions as a nutrient generator by some unknown process, and this is given back as nutrient paste.</EtherGutswell.description>
+  <EtherGutswell.label>gutswell</EtherGutswell.label>
+  <EtherGutswell.stages.1.label>productive</EtherGutswell.stages.1.label>
+  <EtherGutswell.stages.2.label>very productive</EtherGutswell.stages.2.label>
+  <EtherGutswell.stages.3.label>productive bliss</EtherGutswell.stages.3.label>
+  <EtherIntoxica.description>[PAWN_nameDef] functions as a natural distillery, producing beer by some obscure fermentation process.</EtherIntoxica.description>
+  <EtherIntoxica.label>intoxica</EtherIntoxica.label>
+  <EtherIntoxica.stages.1.label>productive</EtherIntoxica.stages.1.label>
+  <EtherIntoxica.stages.2.label>very productive</EtherIntoxica.stages.2.label>
+  <EtherIntoxica.stages.3.label>productive bliss</EtherIntoxica.stages.3.label>
+  <EtherIchoric.description>[PAWN_nameDef] produces ambrosia, the food of the gods — though this is very taxing on their own body.</EtherIchoric.description>
+  <EtherIchoric.label>ichoric</EtherIchoric.label>
+  <EtherIchoric.stages.1.label>productive</EtherIchoric.stages.1.label>
+  <EtherIchoric.stages.2.label>very productive</EtherIchoric.stages.2.label>
+  <EtherIchoric.stages.3.label>productive bliss</EtherIchoric.stages.3.label>
+  <EtherGellic.description>[PAWN_nameDef] produces insect jelly, via a coagulation process not fully understood.</EtherGellic.description>
+  <EtherGellic.label>gellic</EtherGellic.label>
+  <EtherGellic.stages.1.label>productive</EtherGellic.stages.1.label>
+  <EtherGellic.stages.2.label>very productive</EtherGellic.stages.2.label>
+  <EtherGellic.stages.3.label>productive bliss</EtherGellic.stages.3.label>
+  <EtherPrototoxica.description>[PAWN_nameDef]'s stomach is lined with a fungus that helps ferment hops, but not to the complete state of beer.</EtherPrototoxica.description>
+  <EtherPrototoxica.label>prototoxica</EtherPrototoxica.label>
+  <EtherPrototoxica.stages.1.label>productive</EtherPrototoxica.stages.1.label>
+  <EtherPrototoxica.stages.2.label>very productive</EtherPrototoxica.stages.2.label>
+  <EtherPrototoxica.stages.3.label>productive bliss</EtherPrototoxica.stages.3.label>
+  <EtherPawFoot.label>paw</EtherPawFoot.label>
+  <EtherPawFoot.description>A paw foot.</EtherPawFoot.description>
+  <EtherPawFoot.stages.0.labelOverride>clawed</EtherPawFoot.stages.0.labelOverride>
+  <EtherPawFoot.stages.0.description>[PAWN_nameDef]'s toenails have turned darker and become pointed, annoyingly catching on [PAWN_possessive] socks.</EtherPawFoot.stages.0.description>
+  <EtherPawFoot.stages.1.labelOverride>padded</EtherPawFoot.stages.1.labelOverride>
+  <EtherPawFoot.stages.1.description>Claws and thick pads have developed on [PAWN_nameDef]'s toes. While this means [PAWN_possessive] shoes don't quite fit anymore, [PAWN_pronoun] can walk over brambles barefoot without much worry now.</EtherPawFoot.stages.1.description>
+  <EtherPawFoot.stages.2.description>[PAWN_nameDef]'s foot has been wholly replaced by an animalistic paw, severly hampering their chances of ever wearing shoes again.</EtherPawFoot.stages.2.description>
+  <EtherPawFoot.stages.3.labelOverride>footpaw</EtherPawFoot.stages.3.labelOverride>
+  <EtherPawFoot.stages.3.description>[PAWN_nameDef]'s foot resebles a mix of an animalistic paw and a normal foot, gaining the strengths of each while inheriting none of their weaknesses.</EtherPawFoot.stages.3.description>
+  <EtherClovenHoofFoot.label>cloven hoof</EtherClovenHoofFoot.label>
+  <EtherClovenHoofFoot.description>A cloven hoof.</EtherClovenHoofFoot.description>
+  <EtherClovenHoofFoot.stages.0.labelOverride>hard nails</EtherClovenHoofFoot.stages.0.labelOverride>
+  <EtherClovenHoofFoot.stages.0.description>[PAWN_nameDef]'s toenails have become noticably darker and broadened out, all but eclipsing [PAWN_possessive] toes.</EtherClovenHoofFoot.stages.0.description>
+  <EtherClovenHoofFoot.stages.1.labelOverride>hooflike</EtherClovenHoofFoot.stages.1.labelOverride>
+  <EtherClovenHoofFoot.stages.1.description>[PAWN_nameDef]'s toes have fused into two larger digits, each surrounded by a thick layer of a dark, bone-like substance.</EtherClovenHoofFoot.stages.1.description>
+  <EtherClovenHoofFoot.stages.2.description>[PAWN_nameDef]'s foot has mutated into a veritable hoof, with a split down the middle.</EtherClovenHoofFoot.stages.2.description>
+  <EtherClovenHoofFoot.stages.3.label>paragon</EtherClovenHoofFoot.stages.3.label>
+  <EtherClovenHoofFoot.stages.3.description>[PAWN_nameDef]'s foot has been replaced by a cloven hoof. [PAWN_pronoun] is quite adept at using it and is far quicker than [PAWN_pronoun] used to be.</EtherClovenHoofFoot.stages.3.description>
+  <EtherUnclovenHoofFoot.label>hoof</EtherUnclovenHoofFoot.label>
+  <EtherUnclovenHoofFoot.description>An uncloven hoof.</EtherUnclovenHoofFoot.description>
+  <EtherUnclovenHoofFoot.stages.0.labelOverride>hard nails</EtherUnclovenHoofFoot.stages.0.labelOverride>
+  <EtherUnclovenHoofFoot.stages.0.description>[PAWN_nameDef]'s toes have become encased in a thin layer of carnitine, limiting their mobility.</EtherUnclovenHoofFoot.stages.0.description>
+  <EtherUnclovenHoofFoot.stages.1.labelOverride>hooflike</EtherUnclovenHoofFoot.stages.1.labelOverride>
+  <EtherUnclovenHoofFoot.stages.1.description>[PAWN_nameDef]'s foot resembles more of a hoof than anything human, and the heel is stretching to match.</EtherUnclovenHoofFoot.stages.1.description>
+  <EtherUnclovenHoofFoot.stages.2.description>[PAWN_nameDef]'s foot has reshaped into a singular hoof.</EtherUnclovenHoofFoot.stages.2.description>
+  <EtherUnclovenHoofFoot.stages.3.label>paragon</EtherUnclovenHoofFoot.stages.3.label>
+  <EtherUnclovenHoofFoot.stages.3.description>[PAWN_nameDef]'s foot has been replaced by a hoof. [PAWN_pronoun] is quite adept at using it and is far quicker than [PAWN_pronoun] used to be.</EtherUnclovenHoofFoot.stages.3.description>
+  <EtherTrotterFoot.label>trotter</EtherTrotterFoot.label>
+  <EtherTrotterFoot.description>A trooter hoof.</EtherTrotterFoot.description>
+  <EtherTrotterFoot.stages.0.labelOverride>toe-nails</EtherTrotterFoot.stages.0.labelOverride>
+  <EtherTrotterFoot.stages.0.description>[PAWN_nameDef]'s toenails have darkened and grown around [PAWN_possessive] toes. While not uncomfortable, it is somewhat concerning.</EtherTrotterFoot.stages.0.description>
+  <EtherTrotterFoot.stages.1.labelOverride>hooflike</EtherTrotterFoot.stages.1.labelOverride>
+  <EtherTrotterFoot.stages.1.description>[PAWN_nameDef]'s toes are nothing more than black toenail-encrusted bones, and [PAWN_possessive] index and pinky toes are pointing back at their heel.</EtherTrotterFoot.stages.1.description>
+  <EtherTrotterFoot.stages.2.description>[PAWN_nameDef]'s foot has become a full-fledged pig-like trotter. It gives [PAWN_objective] the appearence of wearing high-heels at all times.</EtherTrotterFoot.stages.2.description>
+  <EtherTrotterFoot.stages.3.labelOverride>hoof-foot</EtherTrotterFoot.stages.3.labelOverride>
+  <EtherTrotterFoot.stages.3.description>While still resembling a pig-like trotter, certain humanoid elements have returned to this foot, giving them better balance and dexterity compared to a normal pig's foot.</EtherTrotterFoot.stages.3.description>
+  <EtherAvianFoot.label>avian</EtherAvianFoot.label>
+  <EtherAvianFoot.description>An avian foot.</EtherAvianFoot.description>
+  <EtherAvianFoot.stages.0.labelOverride>scaly</EtherAvianFoot.stages.0.labelOverride>
+  <EtherAvianFoot.stages.0.description>[PAWN_nameDef]'s foot appears to have broken out into hives, but doesn't seem to itch.</EtherAvianFoot.stages.0.description>
+  <EtherAvianFoot.stages.1.labelOverride>toe-foot</EtherAvianFoot.stages.1.labelOverride>
+  <EtherAvianFoot.stages.1.description>[PAWN_nameDef]'s toes have become long, thin and scaly. Most of the main meat of [PAWN_possessive] foot has disappeared as well, leaving it looking more avian than human.</EtherAvianFoot.stages.1.description>
+  <EtherAvianFoot.stages.2.description>[PAWN_nameDef]'s foot has been replaced with an avian-looking claw. Despite its appearance, it proves quite useful for normal ambulatory function as well as for combative purposes.</EtherAvianFoot.stages.2.description>
+  <EtherAvianFoot.stages.3.labelOverride>manipulative avian</EtherAvianFoot.stages.3.labelOverride>
+  <EtherAvianFoot.stages.3.description>[PAWN_nameDef]'s toes stretch out into long birdlike claws, perfect for grasping things or scratching at people's faces.</EtherAvianFoot.stages.3.description>
+  <EtherAvianFoot.comps.0.tools.0.label>avian claws</EtherAvianFoot.comps.0.tools.0.label>
+  <EtherPawHand.label>paw</EtherPawHand.label>
+  <EtherPawHand.description>Cute but inflexible paws have replaced [PAWN_nameDef]'s hands. They lack a thumb, which has receded into a useless dewclaw.</EtherPawHand.description>
+  <EtherPawHand.stages.0.label>bestial</EtherPawHand.stages.0.label>
+  <EtherPawHand.stages.0.description>This paw has degraded into a more inflexible paw than normal, and is not very useful.</EtherPawHand.stages.0.description>
+  <EtherPawHand.stages.1.labelOverride>clawed</EtherPawHand.stages.1.labelOverride>
+  <EtherPawHand.stages.1.description>Each finger on this hand is tipped with a sharp claw.</EtherPawHand.stages.1.description>
+  <EtherPawHand.stages.2.labelOverride>padded</EtherPawHand.stages.2.labelOverride>
+  <EtherPawHand.stages.2.description>In addition to claws, this hand is developing thick pads on the palm and each fingertip.</EtherPawHand.stages.2.description>
+  <EtherPawHand.stages.3.description>This hand looks more like a paw than a hand, but isn't completely useless.</EtherPawHand.stages.3.description>
+  <EtherPawHand.stages.3.labelOverride>handpaw</EtherPawHand.stages.3.labelOverride>
+  <EtherPawHand.stages.4.description>This hand's fingers have started to shorten, and a short coat of fur has sprouted over it.</EtherPawHand.stages.4.description>
+  <EtherPawHand.stages.4.labelOverride>inflexible handpaw</EtherPawHand.stages.4.labelOverride>
+  <EtherPawHand.stages.5.label>unfamiliar</EtherPawHand.stages.5.label>
+  <EtherPawHand.stages.6.description>[PAWN_nameDef] has largely adapted to having paws, and is trying to recover flexibility in the digits.</EtherPawHand.stages.6.description>
+  <EtherPawHand.stages.6.label>adapted</EtherPawHand.stages.6.label>
+  <EtherPawHand.stages.7.labelOverride>dextrous handpaw</EtherPawHand.stages.7.labelOverride>
+  <EtherPawHand.stages.7.description>Further adaptation to this paw has allowed it to become dextrous again, and with even finer manipulation than a regular hand.</EtherPawHand.stages.7.description>
+  <EtherPawHand.comps.0.tools.0.label>claws</EtherPawHand.comps.0.tools.0.label>
+  <EtherHoofHand.label>hoof</EtherHoofHand.label>
+  <EtherHoofHand.description>It's terrifying, but [PAWN_nameDef]'s hands are nothing more than hooves now. Holding things, grabbing things and doing anything requiring thumbs is going to be a lot more difficult.</EtherHoofHand.description>
+  <EtherHoofHand.stages.0.labelOverride>mishappen hoof</EtherHoofHand.stages.0.labelOverride>
+  <EtherHoofHand.stages.0.description>This entire hand has melded together in a grotesque fashion, causing it to look like a malformed hoof.</EtherHoofHand.stages.0.description>
+  <EtherHoofHand.stages.1.labelOverride>clumsy nails</EtherHoofHand.stages.1.labelOverride>
+  <EtherHoofHand.stages.1.description>The fingernails on this hand have broadened and thickened to a point where they're much harder to use, and they get in the way contstantly.</EtherHoofHand.stages.1.description>
+  <EtherHoofHand.stages.2.labelOverride>thick nails</EtherHoofHand.stages.2.labelOverride>
+  <EtherHoofHand.stages.2.description>Each finger on this hand is tipped with a thicker nail that's slowly dominating the length of each digit.</EtherHoofHand.stages.2.description>
+  <EtherHoofHand.stages.3.labelOverride>hoof-fingers</EtherHoofHand.stages.3.labelOverride>
+  <EtherHoofHand.stages.3.description>Each finger on this hand has a large, dark hoof-like nail on it. Some of the fingers seem to be shortening.</EtherHoofHand.stages.3.description>
+  <EtherHoofHand.stages.4.description>Above a humanlike palm, two fingers have paired up and merged. This reduces manipulation, but not nearly as much as having a full hoof instead.</EtherHoofHand.stages.4.description>
+  <EtherHoofHand.stages.4.labelOverride>handhoof</EtherHoofHand.stages.4.labelOverride>
+  <EtherHoofHand.stages.5.description>This hand, or hoof, is quickly becoming less flexible and more like a regular hoof. Its usability may be hampered soon.</EtherHoofHand.stages.5.description>
+  <EtherHoofHand.stages.5.labelOverride>inflexible handhoof</EtherHoofHand.stages.5.labelOverride>
+  <EtherHoofHand.stages.6.label>unfamiliar</EtherHoofHand.stages.6.label>
+  <EtherHoofHand.stages.7.description>[PAWN_nameDef] has adapted to using hooves, and will have slightly less trouble with working with them.</EtherHoofHand.stages.7.description>
+  <EtherHoofHand.stages.7.label>adapted</EtherHoofHand.stages.7.label>
+  <EtherHoofHand.stages.8.labelOverride>dextrous handhoof</EtherHoofHand.stages.8.labelOverride>
+  <EtherHoofHand.stages.8.description>Further adaptation to this hoof has restored the fingers to a more anthropomorphic state, restoring dexterity.</EtherHoofHand.stages.8.description>
+  <EtherTrotterHand.label>trotter</EtherTrotterHand.label>
+  <EtherTrotterHand.description>[PAWN_nameDef]'s hands resemble trotters more than anything else, leaving them with little in the way of grasping ability.</EtherTrotterHand.description>
+  <EtherTrotterHand.stages.0.labelOverride>mishappen hoof</EtherTrotterHand.stages.0.labelOverride>
+  <EtherTrotterHand.stages.0.description>This entire hand has melded together in a grotesque fashion, causing it to look like a malformed hoof.</EtherTrotterHand.stages.0.description>
+  <EtherTrotterHand.stages.1.labelOverride>clumsy nails</EtherTrotterHand.stages.1.labelOverride>
+  <EtherTrotterHand.stages.1.description>The fingernails on this hand have broadened and thickened to a point where they're much harder to use, and they get in the way contstantly.</EtherTrotterHand.stages.1.description>
+  <EtherTrotterHand.stages.2.labelOverride>thick nails</EtherTrotterHand.stages.2.labelOverride>
+  <EtherTrotterHand.stages.2.description>Each finger on this hand is tipped with a thicker nail that's slowly dominating the length of each digit.</EtherTrotterHand.stages.2.description>
+  <EtherTrotterHand.stages.3.labelOverride>hoof-fingers</EtherTrotterHand.stages.3.labelOverride>
+  <EtherTrotterHand.stages.3.description>Each finger on this hand has a large, dark hoof-like nail on it. Some of the fingers seem to be shortening.</EtherTrotterHand.stages.3.description>
+  <EtherTrotterHand.stages.4.description>This hand, or trotter, is quickly becoming less flexible and more like a regular trotter. Its usability may be hampered soon.</EtherTrotterHand.stages.4.description>
+  <EtherTrotterHand.stages.4.labelOverride>inflexible handtrotter</EtherTrotterHand.stages.4.labelOverride>
+  <EtherTrotterHand.stages.5.label>unfamiliar</EtherTrotterHand.stages.5.label>
+  <EtherTrotterHand.stages.6.description>[PAWN_nameDef] has adapted to using trotters, and will have slightly less trouble with working with them.</EtherTrotterHand.stages.6.description>
+  <EtherTrotterHand.stages.6.label>adapted</EtherTrotterHand.stages.6.label>
+  <EtherTrotterHand.stages.7.labelOverride>dextrous handtrotter</EtherTrotterHand.stages.7.labelOverride>
+  <EtherTrotterHand.stages.7.description>Further adaptation to this hoof has restored the fingers to a more anthropomorphic state, restoring dexterity.</EtherTrotterHand.stages.7.description>
+  <EtherCatClaws.label>feline</EtherCatClaws.label>
+  <EtherCatClaws.description>This hand has reshaped to become like a paw, complete with retractable claws. This gives [PAWN_objective] a combat advantage, yet makes it harder to wipe [PAWN_possessive] ass.</EtherCatClaws.description>
+  <EtherCatClaws.stages.0.labelOverride>warped</EtherCatClaws.stages.0.labelOverride>
+  <EtherCatClaws.stages.0.description>Whatever mutations the mechanites in [PAWN_nameDef]'s blood were trying to invoke have gone horribly awry, leaving [PAWN_possessive] hands weak and inflexible.</EtherCatClaws.stages.0.description>
+  <EtherCatClaws.stages.1.label>long nails</EtherCatClaws.stages.1.label>
+  <EtherCatClaws.stages.1.description>[PAWN_nameDef]'s fingernails are growing at an alarming rate.</EtherCatClaws.stages.1.description>
+  <EtherCatClaws.stages.2.label>clawed</EtherCatClaws.stages.2.label>
+  <EtherCatClaws.stages.2.description>[PAWN_nameDef]'s fingernails have become long, curved and pointed, like that of a feline.</EtherCatClaws.stages.2.description>
+  <EtherCatClaws.stages.3.label>padded</EtherCatClaws.stages.3.label>
+  <EtherCatClaws.stages.3.description>Fleshy pads have appeared on [PAWN_nameDef]'s palm and fingers, giving the clawed hand a more catlike appearance. [PAWN_objective] thumb has grown weaker as well, making grasping things much more difficult.</EtherCatClaws.stages.3.description>
+  <EtherCatClaws.stages.4.label>contorted</EtherCatClaws.stages.4.label>
+  <EtherCatClaws.stages.4.description>The first joint of each of [PAWN_nameDef]'s fingers have shortend and reversed directions. The joint unfurls when [PAWN_subjective] unclenches [PAWN_possessive] hands, bringing [PAWN_possessive] new claws to bear.</EtherCatClaws.stages.4.description>
+  <EtherCatClaws.stages.5.label>unfamiliar</EtherCatClaws.stages.5.label>
+  <EtherCatClaws.stages.5.description>The mechanites have finished their work on [PAWN_nameDef]'s new cat-like paws, yet they still remain foreign and unfamiliar to [PAWN_objective] and will take some to get used to.</EtherCatClaws.stages.5.description>
+  <EtherCatClaws.stages.6.description>[PAWN_nameDef]'s hands have reshaped to become like paws, complete with retractable claws. This gives [PAWN_objective] a combat advantage, yet makes it harder to wipe [PAWN_possessive] ass.</EtherCatClaws.stages.6.description>
+  <EtherCatClaws.stages.7.description>[PAWN_nameDef]'s hands have become quite catlike, granting [PAWN_objective] both vicious claws to rend [PAWN_possessive] foes with and suprising grace and dexterity when working on mundane tasks.</EtherCatClaws.stages.7.description>
+  <EtherCatClaws.comps.0.tools.0.label>claws</EtherCatClaws.comps.0.tools.0.label>
+  <EtherWingTip.label>wingtip</EtherWingTip.label>
+  <EtherWingTip.description>[PAWN_nameDef]'s fingers have mostly disappeared into a lump of bird-skinned flesh, with many feathers protruding from the nub.</EtherWingTip.description>
+  <EtherWingTip.stages.1.description>[PAWN_nameDef]'s fingers have turned into large, dexterous feathers.</EtherWingTip.stages.1.description>
+  <EtherDigitigradeLeg.label>digitigrade</EtherDigitigradeLeg.label>
+  <EtherDigitigradeLeg.description>The shape of [PAWN_nameDef]'s legs reminds one more of a beast than a human, for they now stand on their toes instead of their heel, which has elongated. This does, however, put a spring in their step.</EtherDigitigradeLeg.description>
+  <EtherDigitigradeLeg.stages.0.labelOverride>crooked</EtherDigitigradeLeg.stages.0.labelOverride>
+  <EtherDigitigradeLeg.stages.0.description>[PAWN_nameDef]'s leg seems to have degraded into something that looks awfully uncomfortable to walk on.</EtherDigitigradeLeg.stages.0.description>
+  <EtherDigitigradeLeg.stages.1.labelOverride>readjusting</EtherDigitigradeLeg.stages.1.labelOverride>
+  <EtherDigitigradeLeg.stages.1.description>The bones in [PAWN_nameDef]'s leg are growing longer or shorter as need be. It will be rather difficult and painful to move while this change is taking place.</EtherDigitigradeLeg.stages.1.description>
+  <EtherDigitigradeLeg.stages.2.label>unfamiliar</EtherDigitigradeLeg.stages.2.label>
+  <EtherDigitigradeLeg.stages.2.description>The shape of [PAWN_nameDef]'s legs reminds one more of a beast than a human, for they now stand on their toes instead of their heel, which has elongated. They'll need some time to get used to the new shape.</EtherDigitigradeLeg.stages.2.description>
+  <EtherDigitigradeLeg.stages.3.label>adapted</EtherDigitigradeLeg.stages.3.label>
+  <EtherUnguligradeLeg.label>unguligrade</EtherUnguligradeLeg.label>
+  <EtherUnguligradeLeg.description>The shape of [PAWN_nameDef]'s legs reminds one more of a beast than a human, for they now stand on their toes instead of their heel, which has elongated. This does, however, put a spring in their step.</EtherUnguligradeLeg.description>
+  <EtherUnguligradeLeg.stages.0.labelOverride>crooked</EtherUnguligradeLeg.stages.0.labelOverride>
+  <EtherUnguligradeLeg.stages.0.description>[PAWN_nameDef]'s leg seems to have degraded into something that looks awfully uncomfortable to walk on.</EtherUnguligradeLeg.stages.0.description>
+  <EtherUnguligradeLeg.stages.1.labelOverride>readjusting</EtherUnguligradeLeg.stages.1.labelOverride>
+  <EtherUnguligradeLeg.stages.1.description>The bones in [PAWN_nameDef]'s leg are growing longer or shorter as need be. It will be rather difficult and painful to move while this change is taking place.</EtherUnguligradeLeg.stages.1.description>
+  <EtherUnguligradeLeg.stages.2.label>unfamiliar</EtherUnguligradeLeg.stages.2.label>
+  <EtherUnguligradeLeg.stages.2.description>The shape of [PAWN_nameDef]'s legs reminds one more of a beast than a human, for they now stand on their toes instead of their heel, which has elongated. They'll need some time to get used to the new shape.</EtherUnguligradeLeg.stages.2.description>
+  <EtherUnguligradeLeg.stages.3.label>adapted</EtherUnguligradeLeg.stages.3.label>
+  <EtherStrongHeart.label>strong heart</EtherStrongHeart.label>
+  <EtherStrongHeart.description>This heart is built for a larger body, and pumps a lot of blood. It also tires people out.</EtherStrongHeart.description>
+  <EtherStrongHeart.stages.0.description>A painful spasm of a growing heart is burning in [PAWN_nameDef]'s chest.</EtherStrongHeart.stages.0.description>
+  <EtherStrongHeart.stages.0.labelOverride>swelling</EtherStrongHeart.stages.0.labelOverride>
+  <EtherStrongHeart.stages.1.description>[PAWN_nameDef]'s heart has grown in size and the surrounding chest cavity has expanded to make room. [PAWN_pronoun] will need to rest more often, however.</EtherStrongHeart.stages.1.description>
+  <EtherBellowingLung.label>bellowing lung</EtherBellowingLung.label>
+  <EtherBellowingLung.description>A large, powerful lung for intensive breathing. Causes</EtherBellowingLung.description>
+  <EtherBellowingLung.stages.0.description>A painful spasm of growing lungs is burning in [PAWN_nameDef]'s chest.</EtherBellowingLung.stages.0.description>
+  <EtherBellowingLung.stages.0.labelOverride>swelling</EtherBellowingLung.stages.0.labelOverride>
+  <EtherBellowingLung.stages.1.description>[PAWN_nameDef]'s lungs have grown in size and the surrounding chest cavity has expanded to make room. The larger size leads to hyperventilation, causing slight dizziness.</EtherBellowingLung.stages.1.description>
+  <EtherFurredLimb.description>Fur has covered the entirety of [PAWN_nameDef]'s limb, giving it a soft fine coat that helps retain warmth.</EtherFurredLimb.description>
+  <EtherFurredLimb.label>fur</EtherFurredLimb.label>
+  <EtherFurredLimb.stages.0.labelOverride>light hair</EtherFurredLimb.stages.0.labelOverride>
+  <EtherFurredLimb.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</EtherFurredLimb.stages.0.description>
+  <EtherFurredLimb.stages.1.labelOverride>fur dusting</EtherFurredLimb.stages.1.labelOverride>
+  <EtherFurredLimb.stages.1.description>Very fine fur — too dense to be hair — is sprouting over [PAWN_nameDef]'s limb.</EtherFurredLimb.stages.1.description>
+  <EtherFurredLimb.stages.2.labelOverride>thin fur</EtherFurredLimb.stages.2.labelOverride>
+  <EtherFurredLimb.stages.2.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</EtherFurredLimb.stages.2.description>
+  <EtherFurredLimb.stages.3.labelOverride>fur patches</EtherFurredLimb.stages.3.labelOverride>
+  <EtherFurredLimb.stages.3.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</EtherFurredLimb.stages.3.description>
+  <EtherThickFurLimb.label>thick fur</EtherThickFurLimb.label>
+  <EtherThickFurLimb.description>A heavy coat of fur drapes across this limb, insulating a lot of heat.</EtherThickFurLimb.description>
+  <EtherThickFurLimb.stages.0.labelOverride>light hair</EtherThickFurLimb.stages.0.labelOverride>
+  <EtherThickFurLimb.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</EtherThickFurLimb.stages.0.description>
+  <EtherThickFurLimb.stages.1.labelOverride>thin fur</EtherThickFurLimb.stages.1.labelOverride>
+  <EtherThickFurLimb.stages.1.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</EtherThickFurLimb.stages.1.description>
+  <EtherThickFurLimb.stages.2.labelOverride>fur patches</EtherThickFurLimb.stages.2.labelOverride>
+  <EtherThickFurLimb.stages.2.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</EtherThickFurLimb.stages.2.description>
+  <EtherThickFurLimb.stages.3.labelOverride>dense fur</EtherThickFurLimb.stages.3.labelOverride>
+  <EtherThickFurLimb.stages.3.description>The fur has become denser on [PAWN_nameDef]'s limb, making the skin underneath hard to see.</EtherThickFurLimb.stages.3.description>
+  <EtherThickFurLimb.stages.4.labelOverride>thickly furred</EtherThickFurLimb.stages.4.labelOverride>
+  <EtherThickFurLimb.stages.4.description>The fur drapes [PAWN_nameDef]'s limb entirely. It's quite heavy and rather warm.</EtherThickFurLimb.stages.4.description>
+  <EtherWoollyLimb.label>wool</EtherWoollyLimb.label>
+  <EtherWoollyLimb.description>A sweater of wool drapes across this limb, insulating a lot of heat.</EtherWoollyLimb.description>
+  <EtherWoollyLimb.stages.0.labelOverride>thin hair</EtherWoollyLimb.stages.0.labelOverride>
+  <EtherWoollyLimb.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</EtherWoollyLimb.stages.0.description>
+  <EtherWoollyLimb.stages.1.labelOverride>curly hair</EtherWoollyLimb.stages.1.labelOverride>
+  <EtherWoollyLimb.stages.1.description>The hair on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</EtherWoollyLimb.stages.1.description>
+  <EtherWoollyLimb.stages.2.labelOverride>curly fur</EtherWoollyLimb.stages.2.labelOverride>
+  <EtherWoollyLimb.stages.2.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</EtherWoollyLimb.stages.2.description>
+  <EtherWoollyLimb.stages.3.labelOverride>short wool</EtherWoollyLimb.stages.3.labelOverride>
+  <EtherWoollyLimb.stages.3.description>The fur has become denser on [PAWN_nameDef]'s limb, making the skin underneath hard to see...and it seems more like wool.</EtherWoollyLimb.stages.3.description>
+  <EtherWoollyLimb.stages.4.labelOverride>wool</EtherWoollyLimb.stages.4.labelOverride>
+  <EtherWoollyLimb.stages.4.description>The wool covers [PAWN_nameDef]'s limb entirely. It's rather warm.</EtherWoollyLimb.stages.4.description>
+  <EtherScaledLimb.label>scales</EtherScaledLimb.label>
+  <EtherScaledLimb.description>Smooth, glossy scales now cover this limb, adding some natural defense and dissipating heat.</EtherScaledLimb.description>
+  <EtherScaledLimb.stages.0.labelOverride>tight skin</EtherScaledLimb.stages.0.labelOverride>
+  <EtherScaledLimb.stages.0.description>The skin on this limb is somewhat thicker and rather tight.</EtherScaledLimb.stages.0.description>
+  <EtherScaledLimb.stages.1.labelOverride>scattered scales</EtherScaledLimb.stages.1.labelOverride>
+  <EtherScaledLimb.stages.1.description>The skin is peppered with small scales that overlap and interlock.</EtherScaledLimb.stages.1.description>
+  <EtherScaledLimb.stages.2.labelOverride>scaled patches</EtherScaledLimb.stages.2.labelOverride>
+  <EtherScaledLimb.stages.2.description>Small portions of this limb are covered with a tight-knit pattern of scales.</EtherScaledLimb.stages.2.description>
+  <EtherScaledLimb.stages.3.labelOverride>scale clusters</EtherScaledLimb.stages.3.labelOverride>
+  <EtherScaledLimb.stages.3.description>Large portions of this limb are covered with a tight-knit pattern of scales, almost entirely covering the skin.</EtherScaledLimb.stages.3.description>
+  <EtherScaledLimb.stages.4.labelOverride>scaled</EtherScaledLimb.stages.4.labelOverride>
+  <EtherHideLimb.label>hide</EtherHideLimb.label>
+  <EtherHideLimb.description>A thick leathery hide has formed over this limb, adding some natural defense.</EtherHideLimb.description>
+  <EtherHideLimb.stages.0.labelOverride>thick skin</EtherHideLimb.stages.0.labelOverride>
+  <EtherHideLimb.stages.0.description>The skin on this limb seems to be slightly more tough than the average human.</EtherHideLimb.stages.0.description>
+  <EtherHideLimb.stages.1.labelOverride>hard skin</EtherHideLimb.stages.1.labelOverride>
+  <EtherHideLimb.stages.1.description>The skin on this limb seems to be quite a bit tougher than the average human.</EtherHideLimb.stages.1.description>
+  <EtherHideLimb.stages.2.labelOverride>bristly skin</EtherHideLimb.stages.2.labelOverride>
+  <EtherHideLimb.stages.2.description>Rough, thick bristles have sprouted from this limb as the skin grows thicker.</EtherHideLimb.stages.2.description>
+  <EtherHideLimb.stages.3.labelOverride>leathery skin</EtherHideLimb.stages.3.labelOverride>
+  <EtherHideLimb.stages.3.description>The skin on this limb is greatly thicker than an average human, and is covered in thick bristles.</EtherHideLimb.stages.3.description>
+  <EtherFeatheredLimb.label>feathers</EtherFeatheredLimb.label>
+  <EtherFeatheredLimb.description>Rows of feathers have sprouted over this limb, keeping in some warmth...</EtherFeatheredLimb.description>
+  <EtherFeatheredLimb.stages.0.label>isolated</EtherFeatheredLimb.stages.0.label>
+  <EtherFeatheredLimb.stages.1.label>bristles</EtherFeatheredLimb.stages.1.label>
+  <EtherFeatheredLimb.stages.2.label>patches</EtherFeatheredLimb.stages.2.label>
+  <EtherFeatheredLimb.stages.3.label>swathes</EtherFeatheredLimb.stages.3.label>
+  <EtherFeatheredLimb.stages.4.label>covered</EtherFeatheredLimb.stages.4.label>
+  <EtherThickHideLimb.description>A very thick, rough and leathery skin now covers this limb, adding a substantial natural defense.</EtherThickHideLimb.description>
+  <EtherThickHideLimb.label>thick hide</EtherThickHideLimb.label>
+  <EtherThickHideLimb.stages.0.label>spots</EtherThickHideLimb.stages.0.label>
+  <EtherThickHideLimb.stages.1.label>patches</EtherThickHideLimb.stages.1.label>
+  <EtherThickHideLimb.stages.2.label>bristles</EtherThickHideLimb.stages.2.label>
+  <EtherThickHideLimb.stages.3.label>leathery</EtherThickHideLimb.stages.3.label>
+  <EtherThickHideLimb.stages.4.label>covered</EtherThickHideLimb.stages.4.label>
+  <EtherAlpacaSnout.label>woolly snout</EtherAlpacaSnout.label>
+  <EtherAlpacaSnout.description>The soft and fuzzy snout of an alpaca.</EtherAlpacaSnout.description>
+  <EtherAlpacaSnout.stages.0.labelOverride>pressing out</EtherAlpacaSnout.stages.0.labelOverride>
+  <EtherAlpacaSnout.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherAlpacaSnout.stages.0.description>
+  <EtherAlpacaSnout.stages.1.description>A snout graces [PAWN_nameDef]'s face, woolly and with lips perfect for spitting.</EtherAlpacaSnout.stages.1.description>
+  <EtherAlpacaSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, woolly and with lips perfect for spitting. Adaptation has removed some of the difficulty with talking.</EtherAlpacaSnout.stages.2.description>
+  <EtherAlpacaSnout.stages.2.label>adapted</EtherAlpacaSnout.stages.2.label>
+  <EtherAlpacaSnout.stages.3.label>paragon</EtherAlpacaSnout.stages.3.label>
+  <EtherAlpacaSnout.stages.3.description>Further adaptation to this snout has allowed [PAWN_nameDef] to speak normally.</EtherAlpacaSnout.stages.3.description>
+  <EtherAlpacaSnout.comps.0.tools.0.label>teeth</EtherAlpacaSnout.comps.0.tools.0.label>
+  <EtherAlpacaSnout.comps.0.tools.1.label>spit</EtherAlpacaSnout.comps.0.tools.1.label>
+  <EtherAlpacaSnout.comps.0.tools.2.label>spit</EtherAlpacaSnout.comps.0.tools.2.label>
+  <EtherAlpacaEar.label>woolen</EtherAlpacaEar.label>
+  <EtherAlpacaEar.description>Wooly ears twitch at the wind, idly.</EtherAlpacaEar.description>
+  <EtherAlpacaTail.label>woolly tail</EtherAlpacaTail.label>
+  <EtherAlpacaTail.description>A woolly tail, it feels like a cloud.</EtherAlpacaTail.description>
+  <EtherWooly.label>thick wool</EtherWooly.label>
+  <EtherWooly.description>Thick wool grows over [PAWN_nameDef]'s torso constantly. They can shave themselves, because they're a strong independent alpacamorph that don't need no man.</EtherWooly.description>
+  <EtherWooly.stages.1.label>productive</EtherWooly.stages.1.label>
+  <EtherWooly.stages.2.label>very productive</EtherWooly.stages.2.label>
+  <EtherWooly.stages.3.label>productive bliss</EtherWooly.stages.3.label>
+  <EtherBearEar.label>ursine</EtherBearEar.label>
+  <EtherBearEar.description>Rounded, fuzzy ears sit atop [PAWN_nameDef]'s head. They're very slightly better at hearing than a human's ears.</EtherBearEar.description>
+  <EtherBearTail.label>bear tail</EtherBearTail.label>
+  <EtherBearTail.description>A short tail, like that of a bear. Not much of a tail, really.</EtherBearTail.description>
+  <EtherBearPawHand.label>huge paw</EtherBearPawHand.label>
+  <EtherBearPawHand.description>Massive, clawed and deadly paws have replaced the finer thumbed hands of a human. While less useful for manipulation, they make [PAWN_nameDef] a beast in a fight.</EtherBearPawHand.description>
+  <EtherBearPawHand.comps.0.tools.0.label>tip</EtherBearPawHand.comps.0.tools.0.label>
+  <EtherBearMuzzle.label>ursine muzzle</EtherBearMuzzle.label>
+  <EtherBearMuzzle.description>The ferocious muzzle of a bear.</EtherBearMuzzle.description>
+  <EtherBearMuzzle.stages.0.label>bestial</EtherBearMuzzle.stages.0.label>
+  <EtherBearMuzzle.stages.0.description>[PAWN_nameDef]'s face has become a ursine massive snout, with teeth pointed to suit. This makes speaking much more difficult, yet eating is easier.</EtherBearMuzzle.stages.0.description>
+  <EtherBearMuzzle.stages.1.labelOverride>pressing out</EtherBearMuzzle.stages.1.labelOverride>
+  <EtherBearMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherBearMuzzle.stages.1.description>
+  <EtherBearMuzzle.stages.2.description>A massive snout graces [PAWN_nameDef]'s face, like that of a bear. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherBearMuzzle.stages.2.description>
+  <EtherBearMuzzle.stages.3.label>adapted</EtherBearMuzzle.stages.3.label>
+  <EtherBearMuzzle.stages.3.description>A massive snout graces [PAWN_nameDef]'s face, like that of a bear. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier. Adaptation has removed some of the difficulty with talking.</EtherBearMuzzle.stages.3.description>
+  <EtherBearMuzzle.stages.4.label>paragon</EtherBearMuzzle.stages.4.label>
+  <EtherBearMuzzle.stages.4.description>A massive snout graces [PAWN_nameDef]'s face, like that of a bear. [PAWN_possessive] teeth are pointed to suit, making eating easier. Oddly, this doesn't seem to impact [PAWN_possessive] ability to talk.</EtherBearMuzzle.stages.4.description>
+  <EtherBearMuzzle.comps.0.tools.0.label>teeth</EtherBearMuzzle.comps.0.tools.0.label>
+  <EtherPolarBearMuzzle.label>ursine muzzle</EtherPolarBearMuzzle.label>
+  <EtherPolarBearMuzzle.description>The ferocious muzzle of a bear.</EtherPolarBearMuzzle.description>
+  <EtherPolarBearMuzzle.stages.0.label>bestial</EtherPolarBearMuzzle.stages.0.label>
+  <EtherPolarBearMuzzle.stages.0.description>[PAWN_nameDef]'s face has become a ursine massive snout, with teeth pointed to suit. This makes speaking much more difficult, yet eating is easier.</EtherPolarBearMuzzle.stages.0.description>
+  <EtherPolarBearMuzzle.stages.1.labelOverride>pressing out</EtherPolarBearMuzzle.stages.1.labelOverride>
+  <EtherPolarBearMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherPolarBearMuzzle.stages.1.description>
+  <EtherPolarBearMuzzle.stages.2.description>A massive snout graces [PAWN_nameDef]'s face, like that of a bear. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherPolarBearMuzzle.stages.2.description>
+  <EtherPolarBearMuzzle.stages.3.label>adapted</EtherPolarBearMuzzle.stages.3.label>
+  <EtherPolarBearMuzzle.stages.3.description>A massive snout graces [PAWN_nameDef]'s face, like that of a bear. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier. Adaptation has removed some of the difficulty with talking.</EtherPolarBearMuzzle.stages.3.description>
+  <EtherPolarBearMuzzle.stages.4.label>paragon</EtherPolarBearMuzzle.stages.4.label>
+  <EtherPolarBearMuzzle.stages.4.description>A massive snout graces [PAWN_nameDef]'s face, like that of a bear. [PAWN_possessive] teeth are pointed to suit, making eating easier. Oddly, this doesn't seem to impact [PAWN_possessive] ability to talk.</EtherPolarBearMuzzle.stages.4.description>
+  <EtherPolarBearMuzzle.comps.0.tools.0.label>teeth</EtherPolarBearMuzzle.comps.0.tools.0.label>
+  <EtherPolarBearFur.label>arctic fur</EtherPolarBearFur.label>
+  <EtherPolarBearFur.stages.0.labelOverride>light hair</EtherPolarBearFur.stages.0.labelOverride>
+  <EtherPolarBearFur.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</EtherPolarBearFur.stages.0.description>
+  <EtherPolarBearFur.stages.1.labelOverride>fur dusting</EtherPolarBearFur.stages.1.labelOverride>
+  <EtherPolarBearFur.stages.1.description>Very fine fur — too dense to be hair — is sprouting over [PAWN_nameDef]'s limb.</EtherPolarBearFur.stages.1.description>
+  <EtherPolarBearFur.stages.2.labelOverride>thin fur</EtherPolarBearFur.stages.2.labelOverride>
+  <EtherPolarBearFur.stages.2.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</EtherPolarBearFur.stages.2.description>
+  <EtherPolarBearFur.stages.3.labelOverride>fur patches</EtherPolarBearFur.stages.3.labelOverride>
+  <EtherPolarBearFur.stages.3.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</EtherPolarBearFur.stages.3.description>
+  <EtherBoarSnout.label>tusked snout</EtherBoarSnout.label>
+  <EtherBoarSnout.description>The rugged, bristled snout of a feisty boar, complete with two dangerous tusks.</EtherBoarSnout.description>
+  <EtherBoarSnout.stages.0.label>bestial</EtherBoarSnout.stages.0.label>
+  <EtherBoarSnout.stages.0.description>[PAWN_nameDef]'s face has become a bestial boar snout, along with two pointy tusks perfect for rooting up vegetables.</EtherBoarSnout.stages.0.description>
+  <EtherBoarSnout.stages.1.labelOverride>pressing out</EtherBoarSnout.stages.1.labelOverride>
+  <EtherBoarSnout.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherBoarSnout.stages.1.description>
+  <EtherBoarSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, along with two pointy tusks perfect for rooting up vegetables.</EtherBoarSnout.stages.2.description>
+  <EtherBoarSnout.stages.3.description>A snout graces [PAWN_nameDef]'s face, along with two pointy tusks perfect for rooting up vegetables.  Adaptation has removed some of the difficulty with talking.</EtherBoarSnout.stages.3.description>
+  <EtherBoarSnout.stages.3.label>adapted</EtherBoarSnout.stages.3.label>
+  <EtherBoarSnout.stages.4.label>paragon</EtherBoarSnout.stages.4.label>
+  <EtherBoarSnout.stages.4.description>A snout graces [PAWN_nameDef]'s face, along with two pointy tusks perfect for rooting up vegetables. Further adaptation has removed all of the difficulty with talking, and interestingly allows for a larger plant harvest.</EtherBoarSnout.stages.4.description>
+  <EtherBoarSnout.comps.1.tools.0.label>teeth</EtherBoarSnout.comps.1.tools.0.label>
+  <EtherBoarSnout.comps.1.tools.1.label>tusks</EtherBoarSnout.comps.1.tools.1.label>
+  <EtherBoarEar.label>porcine</EtherBoarEar.label>
+  <EtherBoarEar.description>Large, piglike ears sit atop [PAWN_nameDef]'s head, but covered in thick bristles.</EtherBoarEar.description>
+  <EtherRoughCurlyTail.label>hairy curled tail</EtherRoughCurlyTail.label>
+  <EtherRoughCurlyTail.description>A boar's curly tail, it twangs when a truffle is detected.</EtherRoughCurlyTail.description>
+  <EtherBoomalopeSnout.label>boomasnout</EtherBoomalopeSnout.label>
+  <EtherBoomalopeSnout.description>The chemfuel-scented muzzle of a boomalope.</EtherBoomalopeSnout.description>
+  <EtherBoomalopeSnout.stages.0.labelOverride>pressing out</EtherBoomalopeSnout.stages.0.labelOverride>
+  <EtherBoomalopeSnout.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherBoomalopeSnout.stages.0.description>
+  <EtherBoomalopeSnout.stages.1.description>A snout graces [PAWN_nameDef]'s face, snuffling and sniffing for the telltale scent of chemfuel.</EtherBoomalopeSnout.stages.1.description>
+  <EtherBoomalopeSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, snuffling and sniffing for the telltale scent of chemfuel. Adaptation has removed some of the difficulty with speaking.</EtherBoomalopeSnout.stages.2.description>
+  <EtherBoomalopeSnout.stages.2.label>adapted</EtherBoomalopeSnout.stages.2.label>
+  <EtherBoomalopeSnout.comps.0.tools.0.label>teeth</EtherBoomalopeSnout.comps.0.tools.0.label>
+  <EtherBoomalopeEar.label>boomalopic</EtherBoomalopeEar.label>
+  <EtherBoomalopeEar.description>Do boomalopes have ears? It seems so, as two ears belonging to one site at the sides of [PAWN_nameDef]'s head.</EtherBoomalopeEar.description>
+  <EtherChemfuelUdder.label>chemical cyst</EtherChemfuelUdder.label>
+  <EtherChemfuelUdder.description>A large cyst filled with chemfuel now covers [PAWN_nameDef]'s waist. They can drain it to produce chemfuel.</EtherChemfuelUdder.description>
+  <EtherChemfuelUdder.stages.1.label>productive</EtherChemfuelUdder.stages.1.label>
+  <EtherChemfuelUdder.stages.2.label>very productive</EtherChemfuelUdder.stages.2.label>
+  <EtherChemfuelUdder.stages.3.label>productive bliss</EtherChemfuelUdder.stages.3.label>
+  <EtherCatMuzzle.label>feline muzzle</EtherCatMuzzle.label>
+  <EtherCatMuzzle.description>The neat and tidy bewhiskered muzzle of a cat.</EtherCatMuzzle.description>
+  <EtherCatMuzzle.stages.0.label>bestial</EtherCatMuzzle.stages.0.label>
+  <EtherCatMuzzle.stages.0.description>[PAWN_nameDef]'s face has become a ragged feline snout. [PAWN_possessive] teeth are pointed to suit; speaking is much more difficult, but eating is easier.</EtherCatMuzzle.stages.0.description>
+  <EtherCatMuzzle.stages.1.labelOverride>pressing out</EtherCatMuzzle.stages.1.labelOverride>
+  <EtherCatMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherCatMuzzle.stages.1.description>
+  <EtherCatMuzzle.stages.2.description>A sleek muzzle graces [PAWN_nameDef]'s face, like that of a feline. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherCatMuzzle.stages.2.description>
+  <EtherCatMuzzle.stages.3.description>A sleek muzzle graces [PAWN_nameDef]'s face, like that of a feline. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier. Adaptation has removed some of the difficulty with speaking.</EtherCatMuzzle.stages.3.description>
+  <EtherCatMuzzle.stages.3.label>adapted</EtherCatMuzzle.stages.3.label>
+  <EtherCatMuzzle.stages.4.label>paragon</EtherCatMuzzle.stages.4.label>
+  <EtherCatMuzzle.stages.4.description>[PAWN_nameDef]'s face has become a cute feline snout. [PAWN_possessive] teeth are pointed to suit, and this makes eating easier. Many people find [PAWN_possessive] new face adorable.</EtherCatMuzzle.stages.4.description>
+  <EtherCatMuzzle.comps.0.tools.0.label>teeth</EtherCatMuzzle.comps.0.tools.0.label>
+  <EtherCatEar.label>feline</EtherCatEar.label>
+  <EtherCatEar.description>Triangular fuzzy ears grace [PAWN_nameDef]'s head. They coil back when [PAWN_pronoun] is getting ready to pounce.</EtherCatEar.description>
+  <EtherCatTail.label>cat tail</EtherCatTail.label>
+  <EtherCatTail.description>A long, catlike tail. It flicks back and forth whenever [PAWN_nameDef] is displeased with something.</EtherCatTail.description>
+  <EtherCatEye.label>feline eye</EtherCatEye.label>
+  <EtherCatEye.description>Slitted, yellow eyes are now [PAWN_nameDef]'s to keep. They are keener and rather enticing to look at.</EtherCatEye.description>
+  <EtherBeak.label>beak</EtherBeak.label>
+  <EtherBeak.description>The pointy beak of a chicken.</EtherBeak.description>
+  <EtherBeak.stages.0.labelOverride>pressing out</EtherBeak.stages.0.labelOverride>
+  <EtherBeak.stages.0.description>[PAWN_nameDef]'s teeth are merging into a keratinous beak, the nose and jaw pressing out and looking decidedly more avian.</EtherBeak.stages.0.description>
+  <EtherBeak.stages.1.description>A beak graces [PAWN_nameDef]'s face, like that of a chicken. They may bok and squawk about birdlike things. Eating is a little tricky when you have to peck.</EtherBeak.stages.1.description>
+  <EtherBeak.stages.2.description>A beak graces [PAWN_nameDef]'s face, like that of a chicken. They may bok and squawk about birdlike things. Adaptation has made it less frustrating to talk and eat.</EtherBeak.stages.2.description>
+  <EtherBeak.stages.2.label>adapted</EtherBeak.stages.2.label>
+  <EtherBeak.comps.0.tools.0.label>beak</EtherBeak.comps.0.tools.0.label>
+  <EtherTailfeathers.description>A plume of feathers sprout from a dimpled chicken tail above [PAWN_nameDef]'s butt.</EtherTailfeathers.description>
+  <EtherTailfeathers.label>tailfeathers</EtherTailfeathers.label>
+  <EtherEggLayer.label>egglayer</EtherEggLayer.label>
+  <EtherEggLayer.description>[PAWN_nameDef] can now lay eggs. Don't ask, don't tell. It's rather embarrassing.</EtherEggLayer.description>
+  <EtherEggLayer.stages.1.label>productive</EtherEggLayer.stages.1.label>
+  <EtherEggLayer.stages.2.label>very productive</EtherEggLayer.stages.2.label>
+  <EtherEggLayer.stages.3.label>productive bliss</EtherEggLayer.stages.3.label>
+  <EtherSnakeJaw.label>fanged snout</EtherSnakeJaw.label>
+  <EtherSnakeJaw.description>Long hollow fangs protrude from [PAWN_nameDef]'s elongated face, causing saliva to drip from between their scaly lips. This allows for both a toxic, and a mutagenic bite.</EtherSnakeJaw.description>
+  <EtherSnakeJaw.stages.0.label>unfamiliar</EtherSnakeJaw.stages.0.label>
+  <EtherSnakeJaw.stages.1.label>adapted</EtherSnakeJaw.stages.1.label>
+  <EtherSnakeJaw.comps.0.tools.0.label>venom-fangs</EtherSnakeJaw.comps.0.tools.0.label>
+  <EtherSnakeJaw.comps.0.tools.1.label>muta-fangs</EtherSnakeJaw.comps.0.tools.1.label>
+  <EtherSnakeHood.description>A large swooping hood engulfs [PAWN_nameDef]'s head, making them look rather intimidating.</EtherSnakeHood.description>
+  <EtherSnakeHood.label>cobra hood</EtherSnakeHood.label>
+  <EtherSnakeTail.label>snake tail</EtherSnakeTail.label>
+  <EtherSnakeTail.description>A large and muscular tail has replaced [PAWN_nameDef]'s legs, making their lower half look like that of a snake.</EtherSnakeTail.description>
+  <EtherSnakeTail.stages.0.label>unfamiliar</EtherSnakeTail.stages.0.label>
+  <EtherSnakeTail.stages.1.label>adapted</EtherSnakeTail.stages.1.label>
+  <EtherSnakeHand.label>naga claws</EtherSnakeHand.label>
+  <EtherSnakeHand.description>Paradoxically, [PAWN_nameDef]'s hands are covered in scales, clawed and very finely moveable for intricate manipulations.</EtherSnakeHand.description>
+  <EtherSnakeHand.comps.0.tools.0.label>naga claws</EtherSnakeHand.comps.0.tools.0.label>
+  <EtherSnakeEye.label>elapine eye</EtherSnakeEye.label>
+  <EtherSnakeEye.description>[PAWN_nameDef]'s eyes have turned a glaring yellow, and their pupils have become small, vertical slits.</EtherSnakeEye.description>
+  <EtherComboHornbill.label>hornbill</EtherComboHornbill.label>
+  <EtherComboHornbill.description>Horns and beak have fused into one bony monstrosity of a maw, that runs up the skull and leaves only small holes for sight.</EtherComboHornbill.description>
+  <EtherComboHornbill.comps.0.tools.0.label>beak</EtherComboHornbill.comps.0.tools.0.label>
+  <EtherComboHornbill.comps.0.tools.1.label>horns</EtherComboHornbill.comps.0.tools.1.label>
+  <EtherComboWolfSpike.label>wolfspike</EtherComboWolfSpike.label>
+  <EtherComboWolfSpike.description>The iguana horns have spread over this lupine muzzle, covering it partly in scales and giving it a particularly sharp point.</EtherComboWolfSpike.description>
+  <EtherComboWolfSpike.comps.0.tools.0.label>teeth</EtherComboWolfSpike.comps.0.tools.0.label>
+  <EtherComboWolfSpike.comps.0.tools.1.label>horns</EtherComboWolfSpike.comps.0.tools.1.label>
+  <PM_HellhoundEar.label>hellhound ear</PM_HellhoundEar.label>
+  <PM_HellhoundEar.description>[PAWN_nameDef]'s ears have become long and pointed, like that of a great canine</PM_HellhoundEar.description>
+  <PM_HellhoundHeadspike.label>hellhound headspike</PM_HellhoundHeadspike.label>
+  <PM_HellhoundHeadspike.description>[PAWN_nameDef] has grown a large sharp spike on their skull</PM_HellhoundHeadspike.description>
+  <PM_HellhoundHorns.label>hellhound horns</PM_HellhoundHorns.label>
+  <PM_HellhoundHorns.description>[PAWN_nameDef] has grown a pair of large horns from their skull</PM_HellhoundHorns.description>
+  <PM_HellhoundHorns.comps.0.tools.0.label>hellhound horns</PM_HellhoundHorns.comps.0.tools.0.label>
+  <PM_HellhoundSnout.label>hellhound muzzle</PM_HellhoundSnout.label>
+  <PM_HellhoundSnout.description>[PAWN_nameDef]'s jaw has become a long canine snout, with large fangs visible even when their mouth is closed</PM_HellhoundSnout.description>
+  <PM_HellhoundSnout.stages.0.label>bestial</PM_HellhoundSnout.stages.0.label>
+  <PM_HellhoundSnout.stages.0.description>[PAWN_nameDef]'s face has turned into a bestial snout, like that of a great canine. [PAWN_possessive] teeth are pointed to suit; speaking is much more difficult, but eating is easier. Many people find [PAWN_possessive] snout intimidating.</PM_HellhoundSnout.stages.0.description>
+  <PM_HellhoundSnout.stages.2.label>adapted</PM_HellhoundSnout.stages.2.label>
+  <PM_HellhoundSnout.stages.3.label>paragon</PM_HellhoundSnout.stages.3.label>
+  <PM_HellhoundSnout.stages.3.description>An imposing snout graces [PAWN_nameDef]'s face, like that of a great canine. [PAWN_possessive] teeth are pointed to suit; speaking is difficult, but eating is easier. Animals seem to find [PAWN_possessive] intimidating and are less likely to disobey [PAWN_possessive].</PM_HellhoundSnout.stages.3.description>
+  <PM_HellhoundSnout.comps.0.tools.0.label>teeth</PM_HellhoundSnout.comps.0.tools.0.label>
+  <PM_HellhoundSpikes.label>hellhound spikes</PM_HellhoundSpikes.label>
+  <PM_HellhoundSpikes.description>[PAWN_nameDef] has grown a series of sharp spikes from their spine</PM_HellhoundSpikes.description>
+  <PM_HellhoundTail.label>hellhound tail</PM_HellhoundTail.label>
+  <PM_HellhoundTail.description>[PAWN_nameDef] has grown a long muscular tail with a spaded tip</PM_HellhoundTail.description>
+  <PM_HellhoundPaws.label>bone paws</PM_HellhoundPaws.label>
+  <PM_HellhoundPaws.description>By some horrific combination of mechanite functionality, these hands have externally ossified and are controlled by internal tendons. They are unnerving to look at and possess very sharp claws</PM_HellhoundPaws.description>
+  <PM_HellhoundPaws.stages.0.label>bestial</PM_HellhoundPaws.stages.0.label>
+  <PM_HellhoundPaws.stages.0.description>This bone paw has degraded into a more inflexible paw than normal, and is not very useful.</PM_HellhoundPaws.stages.0.description>
+  <PM_HellhoundPaws.stages.1.labelOverride>clawed</PM_HellhoundPaws.stages.1.labelOverride>
+  <PM_HellhoundPaws.stages.1.description>Each finger on this hand is tipped with a sharp claw.</PM_HellhoundPaws.stages.1.description>
+  <PM_HellhoundPaws.stages.2.labelOverride>padded</PM_HellhoundPaws.stages.2.labelOverride>
+  <PM_HellhoundPaws.stages.3.labelOverride>handpaw</PM_HellhoundPaws.stages.3.labelOverride>
+  <PM_HellhoundPaws.stages.4.labelOverride>inflexible handpaw</PM_HellhoundPaws.stages.4.labelOverride>
+  <PM_HellhoundPaws.stages.5.label>unfamiliar</PM_HellhoundPaws.stages.5.label>
+  <PM_HellhoundPaws.stages.6.description>[PAWN_nameDef] has largely adapted to having bone paws, and is trying to recover flexibility in the digits.</PM_HellhoundPaws.stages.6.description>
+  <PM_HellhoundPaws.stages.6.label>adapted</PM_HellhoundPaws.stages.6.label>
+  <PM_HellhoundPaws.stages.7.labelOverride>dextrous bone handpaw</PM_HellhoundPaws.stages.7.labelOverride>
+  <PM_HellhoundPaws.stages.7.description>Further adaptation to this bone paw has allowed it to become dextrous again, and with even finer manipulation than a regular hand.</PM_HellhoundPaws.stages.7.description>
+  <PM_HellhoundPaws.comps.0.tools.0.label>bone claws</PM_HellhoundPaws.comps.0.tools.0.label>
+  <EtherCougarJaw.label>cougar snout</EtherCougarJaw.label>
+  <EtherCougarJaw.description>The ruddy, dangerous snout of a cougar.</EtherCougarJaw.description>
+  <EtherCougarJaw.stages.0.labelOverride>pressing out</EtherCougarJaw.stages.0.labelOverride>
+  <EtherCougarJaw.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherCougarJaw.stages.0.description>
+  <EtherCougarJaw.stages.1.description>[PAWN_nameDef]'s face has pressed out into this rather feline shape, which is useful for eating, though they may hiss and meow more than talk.</EtherCougarJaw.stages.1.description>
+  <EtherCougarJaw.stages.2.label>adapted</EtherCougarJaw.stages.2.label>
+  <EtherCougarJaw.stages.2.description>[PAWN_nameDef]'s face has pressed out into this rather feline shape, which is useful for eating, though they may hiss and meow more than talk. Adaptation has removed some of the difficulty with speaking.</EtherCougarJaw.stages.2.description>
+  <EtherCougarJaw.comps.0.tools.0.label>teeth</EtherCougarJaw.comps.0.tools.0.label>
+  <EtherCougarEar.label>feline</EtherCougarEar.label>
+  <EtherCougarEar.description>This ear has grown pointed and furred, keen and twitching, turning to listen to distant sounds.</EtherCougarEar.description>
+  <EtherCougarTail.label>cougar tail</EtherCougarTail.label>
+  <EtherCougarTail.description>A long, catlike tail. It flicks back and forth whenever [PAWN_nameDef] is displeased with something.</EtherCougarTail.description>
+  <EtherCowSnout.label>bovine snout</EtherCowSnout.label>
+  <EtherCowSnout.description>The pink-nosed snout of a bovine.</EtherCowSnout.description>
+  <EtherCowSnout.stages.0.labelOverride>pressing out</EtherCowSnout.stages.0.labelOverride>
+  <EtherCowSnout.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherCowSnout.stages.0.description>
+  <EtherCowSnout.stages.1.description>A cowlike snout graces [PAWN_nameDef]'s face. They may moo and talk about bovine-related things every now and then.</EtherCowSnout.stages.1.description>
+  <EtherCowSnout.stages.2.label>adapted</EtherCowSnout.stages.2.label>
+  <EtherCowSnout.stages.2.description>A cowlike snout graces [PAWN_nameDef]'s face. They may moo and talk about bovine-related things every now and then. Adaptation has removed some of the difficulty with talking.</EtherCowSnout.stages.2.description>
+  <EtherCowSnout.stages.3.label>paragon</EtherCowSnout.stages.3.label>
+  <EtherCowSnout.stages.3.description>Further adaptation to this snout has allowed [PAWN_nameDef] to speak normally.</EtherCowSnout.stages.3.description>
+  <EtherCowSnout.comps.0.tools.0.label>teeth</EtherCowSnout.comps.0.tools.0.label>
+  <EtherCowEar.label>bovine</EtherCowEar.label>
+  <EtherCowEar.description>They flick idly, large tan ears that belong to a cow. Maybe you should tag them.</EtherCowEar.description>
+  <EtherCowTail.label>cow tail</EtherCowTail.label>
+  <EtherCowTail.description>A cowlike tail. It swats at flies and hangs low at their legs.</EtherCowTail.description>
+  <EtherHorns.label>horns</EtherHorns.label>
+  <EtherHorns.description>Burly horns decorate [PAWN_nameDef]'s head.</EtherHorns.description>
+  <EtherHorns.comps.0.tools.0.label>gored</EtherHorns.comps.0.tools.0.label>
+  <EtherUdder.label>udder</EtherUdder.label>
+  <EtherUdder.description>This really needs no explanation. [PAWN_nameDef] now produces milk.</EtherUdder.description>
+  <EtherUdder.stages.1.label>productive</EtherUdder.stages.1.label>
+  <EtherUdder.stages.2.label>very productive</EtherUdder.stages.2.label>
+  <EtherUdder.stages.3.label>productive bliss</EtherUdder.stages.3.label>
+  <EtherDeerSnout.label>cervine snout</EtherDeerSnout.label>
+  <EtherDeerSnout.description>The long, sleek muzzle of a deer.</EtherDeerSnout.description>
+  <EtherDeerSnout.stages.0.description>[PAWN_nameDef]'s face has become a bestial, deerlike snout with a wide nose that picks up the scents of predators. Unfortunately, talking is difficult.</EtherDeerSnout.stages.0.description>
+  <EtherDeerSnout.stages.1.labelOverride>pressing out</EtherDeerSnout.stages.1.labelOverride>
+  <EtherDeerSnout.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherDeerSnout.stages.1.description>
+  <EtherDeerSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, deerlike with a wide nose, picking up scents of predators.</EtherDeerSnout.stages.2.description>
+  <EtherDeerSnout.stages.3.label>adapted</EtherDeerSnout.stages.3.label>
+  <EtherDeerSnout.stages.3.description>A snout graces [PAWN_nameDef]'s face, deerlike with a wide nose, picking up scents of predators. Adaptation has removed some of the difficulty with speaking.</EtherDeerSnout.stages.3.description>
+  <EtherDeerSnout.stages.4.description>A snout graces [PAWN_nameDef]'s face, deerlike with a wide nose that picks up the scents of predators. [PAWN_possessive] nose is adept at finding the best fruits and veggies, improving [PAWN_possessive] foraging.</EtherDeerSnout.stages.4.description>
+  <EtherDeerSnout.comps.0.tools.0.label>teeth</EtherDeerSnout.comps.0.tools.0.label>
+  <EtherDeerEar.label>cervine</EtherDeerEar.label>
+  <EtherDeerEar.description>The smooth, long ears of a deer sit atop [PAWN_nameDef]'s head, keeping watch for predators.</EtherDeerEar.description>
+  <EtherShortTail.label>short tail</EtherShortTail.label>
+  <EtherShortTail.description>A short tail juts out from [PAWN_nameDef]'s spine, flaring up whenever danger is sensed.</EtherShortTail.description>
+  <EtherAntlers.label>antlers</EtherAntlers.label>
+  <EtherAntlers.description>Burly antlers decorate [PAWN_nameDef]'s head.</EtherAntlers.description>
+  <EtherAntlers.comps.0.tools.0.label>gored</EtherAntlers.comps.0.tools.0.label>
+  <EtherAntlers.stages.0.label>fawn</EtherAntlers.stages.0.label>
+  <EtherAntlers.stages.1.label>buck</EtherAntlers.stages.1.label>
+  <EtherAntlers.stages.2.label>stag</EtherAntlers.stages.2.label>
+  <EtherDonkeySnout.label>donkey snout</EtherDonkeySnout.label>
+  <EtherDonkeySnout.description>A ridonkulous snout.</EtherDonkeySnout.description>
+  <EtherDonkeySnout.stages.0.labelOverride>pressing out</EtherDonkeySnout.stages.0.labelOverride>
+  <EtherDonkeySnout.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherDonkeySnout.stages.0.description>
+  <EtherDonkeySnout.stages.1.description>A snout graces [PAWN_nameDef]'s face, like that of a donkey. [PAWN_possessive] teeth are squared off; speaking is more difficult, but eating is easier.</EtherDonkeySnout.stages.1.description>
+  <EtherDonkeySnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a donkey. [PAWN_possessive] teeth are squared off; speaking is more difficult, but eating is easier. Adaptation has removed some of the difficulty with speaking.</EtherDonkeySnout.stages.2.description>
+  <EtherDonkeySnout.stages.2.label>adapted</EtherDonkeySnout.stages.2.label>
+  <EtherDonkeySnout.comps.0.tools.0.label>teeth</EtherDonkeySnout.comps.0.tools.0.label>
+  <EtherDonkeyEar.label>fuzzy equine</EtherDonkeyEar.label>
+  <EtherDonkeyEar.description>Long, equine ears sit atop [PAWN_nameDef]'s head with tufts of fur, like that of a donkey.</EtherDonkeyEar.description>
+  <EtherDonkeyTail.label>donkey tail</EtherDonkeyTail.label>
+  <EtherDonkeyTail.description>A donkeylike tail. It swats at flies occasionally.</EtherDonkeyTail.description>
+  <EtherTrunk.label>elephant trunk</EtherTrunk.label>
+  <EtherTrunk.description>A trunk graces [PAWN_nameDef]'s face, along with two pointy tusks, a wonderful elephantine accessory.</EtherTrunk.description>
+  <EtherTrunk.stages.1.label>adapted</EtherTrunk.stages.1.label>
+  <EtherTrunk.comps.0.tools.0.label>tusks</EtherTrunk.comps.0.tools.0.label>
+  <EtherTrunk.comps.0.tools.1.label>trunk</EtherTrunk.comps.0.tools.1.label>
+  <EtherElephantEar.label>elephantine</EtherElephantEar.label>
+  <EtherElephantEar.description>Wow, those are big ears, [PAWN_nameDef]. [PAWN_pronoun] looks like a dumbo, doesn't [PAWN_pronoun].</EtherElephantEar.description>
+  <EtherElephantTail.label>elephant tail</EtherElephantTail.label>
+  <EtherElephantTail.description>A tail of an elephant. It swishes gently at flies that gather.</EtherElephantTail.description>
+  <EtherElephantHand.label>stump hand</EtherElephantHand.label>
+  <EtherElephantHand.description>Thick, leathery stumps have replaced [PAWN_nameDef]'s hands.</EtherElephantHand.description>
+  <EtherElephantHand.stages.1.label>adapted</EtherElephantHand.stages.1.label>
+  <EtherElephantHand.comps.0.tools.0.label>smash</EtherElephantHand.comps.0.tools.0.label>
+  <EtherElephantLeg.label>thick leg</EtherElephantLeg.label>
+  <EtherElephantLeg.description>[PAWN_nameDef]'s leg is thick and covered in a solid grey hide.</EtherElephantLeg.description>
+  <EtherElephantLeg.stages.1.label>adapted</EtherElephantLeg.stages.1.label>
+  <EtherElephantFoot.label>stumpy</EtherElephantFoot.label>
+  <EtherElephantFoot.description>An stump-like elphant foot.</EtherElephantFoot.description>
+  <EtherElephantFoot.stages.0.labelOverride>stump-toed</EtherElephantFoot.stages.0.labelOverride>
+  <EtherElephantFoot.stages.0.description>[PAWN_nameDef]'s toes have shrunk back into [PAWN_possessive] foot, the leftover toenails dappling the foot serving as the only reminder they were ever there.</EtherElephantFoot.stages.0.description>
+  <EtherElephantFoot.stages.1.labelOverride>swollen</EtherElephantFoot.stages.1.labelOverride>
+  <EtherElephantFoot.stages.1.description>[PAWN_nameDef]'s foot has grown to be stubby and somewhat swollen-looking, with [PAWN_possessive] toes all but replaced by thick ivory-colored nails.</EtherElephantFoot.stages.1.description>
+  <EtherElephantFoot.stages.2.description>The underlying bone and muscle structure of [PAWN_nameDef]'s foot has reshaped into something resembling a strong, if stubby, elephant-like foot.</EtherElephantFoot.stages.2.description>
+  <EtherElephantFoot.stages.3.labelOverride>elephant</EtherElephantFoot.stages.3.labelOverride>
+  <EtherElephantFoot.stages.3.description>The underlying bone and muscle structure of [PAWN_nameDef]'s foot has reshaped into something resembling a strong, if stubby, elephant-like foot.</EtherElephantFoot.stages.3.description>
+  <EtherElephantFoot.comps.0.tools.0.label>stomp</EtherElephantFoot.comps.0.tools.0.label>
+  <EtherFoxEye.label>vulpine eye</EtherFoxEye.label>
+  <EtherFoxEye.description>[PAWN_nameDef] has bright, foxy eyes. [PAWN_pronoun] will see better, and charm people with their exotic appearance.</EtherFoxEye.description>
+  <EtherArcticFoxMuzzle.label>vulpine muzzle</EtherArcticFoxMuzzle.label>
+  <EtherArcticFoxMuzzle.description>A snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherArcticFoxMuzzle.description>
+  <EtherArcticFoxMuzzle.stages.0.label>bestial</EtherArcticFoxMuzzle.stages.0.label>
+  <EtherArcticFoxMuzzle.stages.0.description>[PAWN_nameDef]'s face has turned into a more bestial snout, like that of a feral fox. [PAWN_possessive] teeth are pointed to suit; speaking is much more difficult, but eating is easier.</EtherArcticFoxMuzzle.stages.0.description>
+  <EtherArcticFoxMuzzle.stages.1.labelOverride>pressing out</EtherArcticFoxMuzzle.stages.1.labelOverride>
+  <EtherArcticFoxMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherArcticFoxMuzzle.stages.1.description>
+  <EtherArcticFoxMuzzle.stages.2.label>new</EtherArcticFoxMuzzle.stages.2.label>
+  <EtherArcticFoxMuzzle.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherArcticFoxMuzzle.stages.2.description>
+  <EtherArcticFoxMuzzle.stages.3.description>A charming snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit, making eating easier.</EtherArcticFoxMuzzle.stages.3.description>
+  <EtherArcticFoxMuzzle.stages.3.label>adapted</EtherArcticFoxMuzzle.stages.3.label>
+  <EtherArcticFoxMuzzle.stages.4.label>paragon</EtherArcticFoxMuzzle.stages.4.label>
+  <EtherArcticFoxMuzzle.stages.4.description>A sculpted and charming snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit, making eating easier, and the silver tongue is a good boost in social events.</EtherArcticFoxMuzzle.stages.4.description>
+  <EtherArcticFoxMuzzle.comps.0.tools.0.label>teeth</EtherArcticFoxMuzzle.comps.0.tools.0.label>
+  <EtherArcticFoxEar.description>A large and sensitive ear, normally belonging to a fox.</EtherArcticFoxEar.description>
+  <EtherArcticFoxEar.label>vulpine</EtherArcticFoxEar.label>
+  <EtherArcticFoxEar.stages.0.labelOverride>pointed</EtherArcticFoxEar.stages.0.labelOverride>
+  <EtherArcticFoxEar.stages.0.description>[PAWN_nameDef]'s ears are growing longer, developing a point at the peak. They're a little more sensitive.</EtherArcticFoxEar.stages.0.description>
+  <EtherArcticFoxEar.stages.1.description>Big fuzzy triangles crown [PAWN_nameDef]'s head, pivoting and flicking back to every sound they sense. They're very sensitive, so please don't shout.</EtherArcticFoxEar.stages.1.description>
+  <EtherArcticFluffyTail.label>fluffy tail</EtherArcticFluffyTail.label>
+  <EtherArcticFluffyTail.description>A wonderfully fluffy fox tail drapes from [PAWN_nameDef]'s spine. Was that a small wag just then?</EtherArcticFluffyTail.description>
+  <EtherArcticFoxFur.label>arctic fur</EtherArcticFoxFur.label>
+  <EtherArcticFoxFur.stages.0.labelOverride>light hair</EtherArcticFoxFur.stages.0.labelOverride>
+  <EtherArcticFoxFur.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</EtherArcticFoxFur.stages.0.description>
+  <EtherArcticFoxFur.stages.1.labelOverride>fur dusting</EtherArcticFoxFur.stages.1.labelOverride>
+  <EtherArcticFoxFur.stages.1.description>Very fine fur — too dense to be hair — is sprouting over [PAWN_nameDef]'s limb.</EtherArcticFoxFur.stages.1.description>
+  <EtherArcticFoxFur.stages.2.labelOverride>thin fur</EtherArcticFoxFur.stages.2.labelOverride>
+  <EtherArcticFoxFur.stages.2.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</EtherArcticFoxFur.stages.2.description>
+  <EtherArcticFoxFur.stages.3.labelOverride>fur patches</EtherArcticFoxFur.stages.3.labelOverride>
+  <EtherArcticFoxFur.stages.3.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</EtherArcticFoxFur.stages.3.description>
+  <EtherFennecFoxMuzzle.label>vulpine muzzle</EtherFennecFoxMuzzle.label>
+  <EtherFennecFoxMuzzle.description>A snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherFennecFoxMuzzle.description>
+  <EtherFennecFoxMuzzle.stages.0.label>bestial</EtherFennecFoxMuzzle.stages.0.label>
+  <EtherFennecFoxMuzzle.stages.0.description>[PAWN_nameDef]'s face has turned into a more bestial snout, like that of a feral fox. [PAWN_possessive] teeth are pointed to suit; speaking is much more difficult, but eating is easier.</EtherFennecFoxMuzzle.stages.0.description>
+  <EtherFennecFoxMuzzle.stages.1.labelOverride>pressing out</EtherFennecFoxMuzzle.stages.1.labelOverride>
+  <EtherFennecFoxMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherFennecFoxMuzzle.stages.1.description>
+  <EtherFennecFoxMuzzle.stages.2.label>new</EtherFennecFoxMuzzle.stages.2.label>
+  <EtherFennecFoxMuzzle.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherFennecFoxMuzzle.stages.2.description>
+  <EtherFennecFoxMuzzle.stages.3.description>A charming snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit, making eating easier.</EtherFennecFoxMuzzle.stages.3.description>
+  <EtherFennecFoxMuzzle.stages.3.label>adapted</EtherFennecFoxMuzzle.stages.3.label>
+  <EtherFennecFoxMuzzle.stages.4.label>paragon</EtherFennecFoxMuzzle.stages.4.label>
+  <EtherFennecFoxMuzzle.stages.4.description>A sculpted and charming snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit, making eating easier, and the silver tongue is a good boost in social events.</EtherFennecFoxMuzzle.stages.4.description>
+  <EtherFennecFoxMuzzle.comps.0.tools.0.label>teeth</EtherFennecFoxMuzzle.comps.0.tools.0.label>
+  <EtherFennecFoxEar.description>A large and sensitive ear, normally belonging to a fox.</EtherFennecFoxEar.description>
+  <EtherFennecFoxEar.label>vulpine</EtherFennecFoxEar.label>
+  <EtherFennecFoxEar.stages.0.labelOverride>pointed</EtherFennecFoxEar.stages.0.labelOverride>
+  <EtherFennecFoxEar.stages.0.description>[PAWN_nameDef]'s ears are growing longer, developing a point at the peak. They're a little more sensitive.</EtherFennecFoxEar.stages.0.description>
+  <EtherFennecFoxEar.stages.1.description>Big fuzzy triangles crown [PAWN_nameDef]'s head, pivoting and flicking back to every sound they sense. They're very sensitive, so please don't shout.</EtherFennecFoxEar.stages.1.description>
+  <EtherFennecFluffyTail.label>fluffy tail</EtherFennecFluffyTail.label>
+  <EtherFennecFluffyTail.description>A wonderfully fluffy fox tail drapes from [PAWN_nameDef]'s spine. Was that a small wag just then?</EtherFennecFluffyTail.description>
+  <EtherFoxMuzzle.label>vulpine muzzle</EtherFoxMuzzle.label>
+  <EtherFoxMuzzle.description>A snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherFoxMuzzle.description>
+  <EtherFoxMuzzle.stages.0.label>bestial</EtherFoxMuzzle.stages.0.label>
+  <EtherFoxMuzzle.stages.0.description>[PAWN_nameDef]'s face has turned into a more bestial snout, like that of a feral fox. [PAWN_possessive] teeth are pointed to suit; speaking is much more difficult, but eating is easier.</EtherFoxMuzzle.stages.0.description>
+  <EtherFoxMuzzle.stages.1.labelOverride>pressing out</EtherFoxMuzzle.stages.1.labelOverride>
+  <EtherFoxMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherFoxMuzzle.stages.1.description>
+  <EtherFoxMuzzle.stages.2.label>new</EtherFoxMuzzle.stages.2.label>
+  <EtherFoxMuzzle.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherFoxMuzzle.stages.2.description>
+  <EtherFoxMuzzle.stages.3.description>A charming snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit, making eating easier.</EtherFoxMuzzle.stages.3.description>
+  <EtherFoxMuzzle.stages.3.label>adapted</EtherFoxMuzzle.stages.3.label>
+  <EtherFoxMuzzle.stages.4.label>paragon</EtherFoxMuzzle.stages.4.label>
+  <EtherFoxMuzzle.stages.4.description>A sculpted and charming snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit, making eating easier, and the silver tongue is a good boost in social events.</EtherFoxMuzzle.stages.4.description>
+  <EtherFoxMuzzle.comps.0.tools.0.label>teeth</EtherFoxMuzzle.comps.0.tools.0.label>
+  <EtherFoxEar.description>A large and sensitive ear, normally belonging to a fox.</EtherFoxEar.description>
+  <EtherFoxEar.label>vulpine</EtherFoxEar.label>
+  <EtherFoxEar.stages.0.labelOverride>pointed</EtherFoxEar.stages.0.labelOverride>
+  <EtherFoxEar.stages.0.description>[PAWN_nameDef]'s ears are growing longer, developing a point at the peak. They're a little more sensitive.</EtherFoxEar.stages.0.description>
+  <EtherFoxEar.stages.1.description>Big fuzzy triangles crown [PAWN_nameDef]'s head, pivoting and flicking back to every sound they sense. They're very sensitive, so please don't shout.</EtherFoxEar.stages.1.description>
+  <EtherFluffyTail.label>fluffy tail</EtherFluffyTail.label>
+  <EtherFluffyTail.description>A wonderfully fluffy fox tail drapes from [PAWN_nameDef]'s spine. Was that a small wag just then?</EtherFluffyTail.description>
+  <EtherHareEar.description>Long furry ears sit atop [PAWN_nameDef]'s head, pivoting and flicking back to every sound they sense. They're suprisingly flexible.</EtherHareEar.description>
+  <EtherHareEar.label>leporine</EtherHareEar.label>
+  <EtherHareTail.label>cotton-tail</EtherHareTail.label>
+  <EtherHareTail.description>A small puff of fluff peaks out just above [PAWN_nameDef]'s rear. It's rather cute, actually.</EtherHareTail.description>
+  <EtherHareLeg.label>spring-loaded leg</EtherHareLeg.label>
+  <EtherHareLeg.description>[PAWN_nameDef]'s legs have reshaped to look something like a rabbit's. This helps them run away from predators, but good luck finding pants that fit.</EtherHareLeg.description>
+  <EtherHareJaw.label>leporine muzzle</EtherHareJaw.label>
+  <EtherHareJaw.description>A twitchy and tiny rabbit muzzle.</EtherHareJaw.description>
+  <EtherHareJaw.stages.0.labelOverride>pressing out</EtherHareJaw.stages.0.labelOverride>
+  <EtherHareJaw.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherHareJaw.stages.0.description>
+  <EtherHareJaw.stages.1.description>[PAWN_nameDef]'s face has completely reshaped into one resembling a hare's, complete with twitchy pink button nose.</EtherHareJaw.stages.1.description>
+  <EtherHareJaw.stages.2.description>[PAWN_nameDef]'s face has completely reshaped into one resembling a hare's, complete with twitchy pink button nose. Adaptation has removed some of the difficulty with speaking.</EtherHareJaw.stages.2.description>
+  <EtherHareJaw.stages.2.label>adapted</EtherHareJaw.stages.2.label>
+  <EtherHareJaw.comps.0.tools.0.label>teeth</EtherHareJaw.comps.0.tools.0.label>
+  <EtherSnowhareJaw.label>leporine muzzle</EtherSnowhareJaw.label>
+  <EtherSnowhareJaw.description>A twitchy and tiny rabbit muzzle.</EtherSnowhareJaw.description>
+  <EtherSnowhareJaw.stages.0.labelOverride>pressing out</EtherSnowhareJaw.stages.0.labelOverride>
+  <EtherSnowhareJaw.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherSnowhareJaw.stages.0.description>
+  <EtherSnowhareJaw.stages.1.description>[PAWN_nameDef]'s face has completely reshaped into one resembling a hare's, complete with twitchy pink button nose.</EtherSnowhareJaw.stages.1.description>
+  <EtherSnowhareJaw.stages.2.description>[PAWN_nameDef]'s face has completely reshaped into one resembling a hare's, complete with twitchy pink button nose. Adaptation has removed some of the difficulty with speaking.</EtherSnowhareJaw.stages.2.description>
+  <EtherSnowhareJaw.stages.2.label>adapted</EtherSnowhareJaw.stages.2.label>
+  <EtherSnowhareJaw.comps.0.tools.0.label>teeth</EtherSnowhareJaw.comps.0.tools.0.label>
+  <EtherSnowhareFur.label>arctic fur</EtherSnowhareFur.label>
+  <EtherSnowhareFur.stages.0.labelOverride>light hair</EtherSnowhareFur.stages.0.labelOverride>
+  <EtherSnowhareFur.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</EtherSnowhareFur.stages.0.description>
+  <EtherSnowhareFur.stages.1.labelOverride>fur dusting</EtherSnowhareFur.stages.1.labelOverride>
+  <EtherSnowhareFur.stages.1.description>Very fine fur — too dense to be hair — is sprouting over [PAWN_nameDef]'s limb.</EtherSnowhareFur.stages.1.description>
+  <EtherSnowhareFur.stages.2.labelOverride>thin fur</EtherSnowhareFur.stages.2.labelOverride>
+  <EtherSnowhareFur.stages.2.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</EtherSnowhareFur.stages.2.description>
+  <EtherSnowhareFur.stages.3.labelOverride>fur patches</EtherSnowhareFur.stages.3.labelOverride>
+  <EtherSnowhareFur.stages.3.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</EtherSnowhareFur.stages.3.description>
+  <EtherHorseSnout.label>equine snout</EtherHorseSnout.label>
+  <EtherHorseSnout.description>Why the long face?</EtherHorseSnout.description>
+  <EtherHorseSnout.stages.0.labelOverride>pressing out</EtherHorseSnout.stages.0.labelOverride>
+  <EtherHorseSnout.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherHorseSnout.stages.0.description>
+  <EtherHorseSnout.stages.1.description>A snout graces [PAWN_nameDef]'s face, like that of a horse. [PAWN_possessive] teeth are squared off; speaking is more difficult, but eating is easier.</EtherHorseSnout.stages.1.description>
+  <EtherHorseSnout.stages.2.label>adapted</EtherHorseSnout.stages.2.label>
+  <EtherHorseSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a horse. [PAWN_possessive] teeth are squared off; speaking is more difficult, but eating is easier. Adaptation has removed some of the difficulty with speaking.</EtherHorseSnout.stages.2.description>
+  <EtherHorseSnout.comps.0.tools.0.label>teeth</EtherHorseSnout.comps.0.tools.0.label>
+  <EtherHorseEar.label>equine</EtherHorseEar.label>
+  <EtherHorseEar.description>Long, equine ears sit atop [PAWN_nameDef]'s head, like that of a horse.</EtherHorseEar.description>
+  <EtherHorseTail.label>horse tail</EtherHorseTail.label>
+  <EtherHorseTail.description>A horselike tail. It swats at flies occasionally.</EtherHorseTail.description>
+  <EtherHuskyMuzzle.label>canine muzzle</EtherHuskyMuzzle.label>
+  <EtherHuskyMuzzle.description>The wolf-like muzzle of a husky.</EtherHuskyMuzzle.description>
+  <EtherHuskyMuzzle.stages.0.description>A snout graces [PAWN_nameDef]'s face, like that of a husky. [PAWN_possessive] teeth are pointed to suit; speaking is nearly impossible outside of barks and whines, but eating is easier.</EtherHuskyMuzzle.stages.0.description>
+  <EtherHuskyMuzzle.stages.0.label>bestial</EtherHuskyMuzzle.stages.0.label>
+  <EtherHuskyMuzzle.stages.1.labelOverride>pressing out</EtherHuskyMuzzle.stages.1.labelOverride>
+  <EtherHuskyMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherHuskyMuzzle.stages.1.description>
+  <EtherHuskyMuzzle.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a husky. [PAWN_possessive] teeth are pointed to suit; speaking is difficult outside of barks and whines, but eating is easier.</EtherHuskyMuzzle.stages.2.description>
+  <EtherHuskyMuzzle.stages.3.label>adapted</EtherHuskyMuzzle.stages.3.label>
+  <EtherHuskyMuzzle.stages.3.description>A snout graces [PAWN_nameDef]'s face, like that of a husky. [PAWN_possessive] teeth are pointed to suit, making eating easier. Adaptation has removed some of the difficulty with speaking.</EtherHuskyMuzzle.stages.3.description>
+  <EtherHuskyMuzzle.stages.4.description>A cute snout graces [PAWN_nameDef]'s face, like that of a husky. [PAWN_possessive] teeth are pointed to suit, making eating easier. Oddly, this doesn't seem to impact [PAWN_possessive] abilty to speak.</EtherHuskyMuzzle.stages.4.description>
+  <EtherHuskyMuzzle.stages.4.label>paragon</EtherHuskyMuzzle.stages.4.label>
+  <EtherHuskyMuzzle.comps.0.tools.0.label>teeth</EtherHuskyMuzzle.comps.0.tools.0.label>
+  <EtherHuskyEar.label>canine</EtherHuskyEar.label>
+  <EtherHuskyEar.description>Triangular, floofy black-and-white dog ears flick around at the sides of [PAWN_nameDef]'s head. They are incredibly cute.</EtherHuskyEar.description>
+  <EtherHuskyTail.label>curled fluffy tail</EtherHuskyTail.label>
+  <EtherHuskyTail.description>A wonderfully fluffy husky tail curls over [PAWN_nameDef]'s back. Was that a small wag just then?</EtherHuskyTail.description>
+  <EtherIguanaSnout.label>iguana snout</EtherIguanaSnout.label>
+  <EtherIguanaSnout.description>The lower part of [PAWN_nameDef]'s face has reformed into a leathery beak.</EtherIguanaSnout.description>
+  <EtherIguanaSnout.stages.0.label>new</EtherIguanaSnout.stages.0.label>
+  <EtherIguanaSnout.stages.1.label>adapted</EtherIguanaSnout.stages.1.label>
+  <EtherIguanaHorns.description>A series of spines drapes down [PAWN_nameDef]'s back.</EtherIguanaHorns.description>
+  <EtherIguanaHorns.label>spines</EtherIguanaHorns.label>
+  <EtherIguanaTail.label>iguana tail</EtherIguanaTail.label>
+  <EtherIguanaTail.description>A spiney green tail.</EtherIguanaTail.description>
+  <EtherIguanaHand.label>dextrous claws</EtherIguanaHand.label>
+  <EtherIguanaHand.description>[PAWN_nameDef]'s fingers have elongated into scale-covered claws.</EtherIguanaHand.description>
+  <EtherIguanaHand.stages.0.label>unfamiliar</EtherIguanaHand.stages.0.label>
+  <EtherIguanaHand.stages.1.label>adapted</EtherIguanaHand.stages.1.label>
+  <EtherIguanaHand.comps.0.tools.0.label>claws</EtherIguanaHand.comps.0.tools.0.label>
+  <EtherIguanaFoot.label>reptilian foot</EtherIguanaFoot.label>
+  <EtherIguanaFoot.description>The whole of [PAWN_nameDef]'s feet have become toes.</EtherIguanaFoot.description>
+  <EtherIguanaFoot.stages.1.label>adapted</EtherIguanaFoot.stages.1.label>
+  <EtherLynxJaw.label>lynx snout</EtherLynxJaw.label>
+  <EtherLynxJaw.description>The rather regal face of a lynx.</EtherLynxJaw.description>
+  <EtherLynxJaw.stages.0.labelOverride>pressing out</EtherLynxJaw.stages.0.labelOverride>
+  <EtherLynxJaw.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherLynxJaw.stages.0.description>
+  <EtherLynxJaw.stages.1.description>[PAWN_nameDef]'s face has grown into a rather regal face resembling a lynx's.</EtherLynxJaw.stages.1.description>
+  <EtherLynxJaw.stages.2.label>adapted</EtherLynxJaw.stages.2.label>
+  <EtherLynxJaw.stages.2.description>[PAWN_nameDef]'s face has grown into a rather regal face resembling a lynx's. Adaptation has removed some of the difficulty with speaking.</EtherLynxJaw.stages.2.description>
+  <EtherLynxJaw.comps.0.tools.0.label>teeth</EtherLynxJaw.comps.0.tools.0.label>
+  <EtherLynxEar.label>lynx-like</EtherLynxEar.label>
+  <EtherLynxEar.description>With a pointed tip and fluff of fur at the end, this ear has grown into what looks like a lynx's style of auditory apparatus.</EtherLynxEar.description>
+  <EtherLynxTail.label>stubby feline tail</EtherLynxTail.label>
+  <EtherLynxTail.description>Unlike most felines, the tail of a lynx is short and stubby. [PAWN_nameDef] has one of them now.</EtherLynxTail.description>
+  <EtherMegaslothSnout.label>megatherine snout</EtherMegaslothSnout.label>
+  <EtherMegaslothSnout.description>A big and fuzzy snout graces [PAWN_nameDef]'s face, perfectly formed to reap trees of their leaves.</EtherMegaslothSnout.description>
+  <EtherMegaslothSnout.stages.1.label>adapted</EtherMegaslothSnout.stages.1.label>
+  <EtherMegaslothSnout.comps.0.tools.0.label>teeth</EtherMegaslothSnout.comps.0.tools.0.label>
+  <EtherMegaslothTail.label>megatherine tail</EtherMegaslothTail.label>
+  <EtherMegaslothTail.description>A big, muscular tail, capable of supporting [PAWN_nameDef]'s whole body on its own.</EtherMegaslothTail.description>
+  <EtherMegaslothTail.comps.0.tools.0.label>tail</EtherMegaslothTail.comps.0.tools.0.label>
+  <EtherMegaslothArm.description>[PAWN_nameDef]'s arm has become muscular and fuzzy, greatly enhancing their strength as well as making them somewhat more resistant to temperature.</EtherMegaslothArm.description>
+  <EtherMegaslothArm.label>megatherine arm</EtherMegaslothArm.label>
+  <EtherMegaslothHand.description>[PAWN_nameDef]'s normally agile fingers have been replaced with a trio of long, curved claws that rip through flesh and metal with ease.</EtherMegaslothHand.description>
+  <EtherMegaslothHand.label>clawed hand</EtherMegaslothHand.label>
+  <EtherMegaslothHand.comps.0.tools.0.label>tip</EtherMegaslothHand.comps.0.tools.0.label>
+  <EtherMegaslothLeg.description>[PAWN_nameDef]'s leg has become fuzzy and muscular, enhancing their strength and resistance to temperature, but slowing their movement.</EtherMegaslothLeg.description>
+  <EtherMegaslothLeg.label>megatherine leg</EtherMegaslothLeg.label>
+  <EtherMegaslothFoot.description>[PAWN_nameDef]'s feet have grown long, curved claws that protrude in such a way that [PAWN_pronoun] now has to walk on the sides of [PAWN_possessive] feet. As you can imagine, this makes getting anywhere somewhat difficult.</EtherMegaslothFoot.description>
+  <EtherMegaslothFoot.label>clawed foot</EtherMegaslothFoot.label>
+  <EtherMegaslothFoot.comps.0.tools.0.label>tip</EtherMegaslothFoot.comps.0.tools.0.label>
+  <EtherMegawoolly.label>fuzzy</EtherMegawoolly.label>
+  <EtherMegawoolly.description>Long, fuzzy hair coats the whole of [PAWN_nameDef]'s body, keeping them warm and comfortable.</EtherMegawoolly.description>
+  <EtherMegawoolly.stages.1.label>productive</EtherMegawoolly.stages.1.label>
+  <EtherMegawoolly.stages.2.label>very productive</EtherMegawoolly.stages.2.label>
+  <EtherMegawoolly.stages.3.label>productive bliss</EtherMegawoolly.stages.3.label>
+  <EtherMonkeyJaw.label>monkey snout</EtherMonkeyJaw.label>
+  <EtherMonkeyJaw.description>[PAWN_nameDef]'s face has elongated into a monkey-like visage, making them look less evolved.</EtherMonkeyJaw.description>
+  <EtherMonkeyJaw.stages.1.label>adapted</EtherMonkeyJaw.stages.1.label>
+  <EtherMonkeyJaw.comps.0.tools.0.label>teeth</EtherMonkeyJaw.comps.0.tools.0.label>
+  <EtherMonkeyEar.label>simian</EtherMonkeyEar.label>
+  <EtherMonkeyEar.description>Though somewhat engorged, these ears look somewhat like [PAWN_nameDef]'s own ears.</EtherMonkeyEar.description>
+  <EtherMonkeyTail.label>monkey tail</EtherMonkeyTail.label>
+  <EtherMonkeyTail.description>A long dextrous tail extends from the base of [PAWN_nameDef]'s spine. It would help with climbing abiltiy, but nobody knows how to on the rim.</EtherMonkeyTail.description>
+  <EtherMonkeyHand.label>dextrous hand</EtherMonkeyHand.label>
+  <EtherMonkeyHand.description>[PAWN_nameDef]'s fingers have elongated into the semblence of a monkey's hand.</EtherMonkeyHand.description>
+  <EtherMonkeyFoot.label>dextrous toes</EtherMonkeyFoot.label>
+  <EtherMonkeyFoot.description>[PAWN_nameDef]'s feet have reshaped themselves into what look to be hands. This make finding shoes somewhat difficult.</EtherMonkeyFoot.description>
+  <EtherPantherJaw.label>pantherine muzzle</EtherPantherJaw.label>
+  <EtherPantherJaw.description>The sleek feline muzzle of a panther.</EtherPantherJaw.description>
+  <EtherPantherJaw.stages.0.labelOverride>pressing out</EtherPantherJaw.stages.0.labelOverride>
+  <EtherPantherJaw.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherPantherJaw.stages.0.description>
+  <EtherPantherJaw.stages.1.description>A sleek muzzle graces [PAWN_nameDef]'s face, like that of a panther. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherPantherJaw.stages.1.description>
+  <EtherPantherJaw.stages.2.description>A sleek muzzle graces [PAWN_nameDef]'s face, like that of a panther. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier. Adaptation has removed some of the difficulty with speaking.</EtherPantherJaw.stages.2.description>
+  <EtherPantherJaw.stages.2.label>adapted</EtherPantherJaw.stages.2.label>
+  <EtherPantherJaw.comps.0.tools.0.label>teeth</EtherPantherJaw.comps.0.tools.0.label>
+  <EtherPantherEar.description>Triangular fuzzy ears grace [PAWN_nameDef]'s head. They coil back when [PAWN_pronoun] is getting ready to pounce.</EtherPantherEar.description>
+  <EtherPantherEar.label>pantherine</EtherPantherEar.label>
+  <EtherPantherTail.label>pantherine tail</EtherPantherTail.label>
+  <EtherPantherTail.description>A long, sleek tail. It flicks back and forth whenever [PAWN_nameDef] is displeased with something.</EtherPantherTail.description>
+  <EtherPigSnout.label>porcine snout</EtherPigSnout.label>
+  <EtherPigSnout.description>The porcine snuffly snout of a pig.</EtherPigSnout.description>
+  <EtherPigSnout.stages.0.labelOverride>pressing out</EtherPigSnout.stages.0.labelOverride>
+  <EtherPigSnout.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherPigSnout.stages.0.description>
+  <EtherPigSnout.stages.1.description>A snout graces [PAWN_nameDef]'s face, good for snorting, snuffling for roots and berries, and oinking at things that [PAWN_pronoun] likes.</EtherPigSnout.stages.1.description>
+  <EtherPigSnout.stages.2.label>adapted</EtherPigSnout.stages.2.label>
+  <EtherPigSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, good for snorting, snuffling for roots and berries, and oinking at things that [PAWN_pronoun] likes. Adaptation has removed some of the difficulty with speaking.</EtherPigSnout.stages.2.description>
+  <EtherPigSnout.comps.1.tools.0.label>teeth</EtherPigSnout.comps.1.tools.0.label>
+  <EtherPigEar.label>porcine</EtherPigEar.label>
+  <EtherPigEar.description>Large, pink piglike ears sit atop [PAWN_nameDef]'s head, covered in a fine hair.</EtherPigEar.description>
+  <EtherCurlyTail.label>curly tail</EtherCurlyTail.label>
+  <EtherCurlyTail.description>A pig's curly tail, it twitches when food is near.</EtherCurlyTail.description>
+  <EtherRaccoonJaw.label>raccoon snout</EtherRaccoonJaw.label>
+  <EtherRaccoonJaw.description>A snout with a nose always in a rubbish bin.</EtherRaccoonJaw.description>
+  <EtherRaccoonJaw.stages.0.labelOverride>pressing out</EtherRaccoonJaw.stages.0.labelOverride>
+  <EtherRaccoonJaw.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherRaccoonJaw.stages.0.description>
+  <EtherRaccoonJaw.stages.1.description>A short, pointed, and bandit-masked muzzle has replaced [PAWN_nameDef]'s usual face. [PAWN_possessive] keen nose picks up the smell of rubbish from miles away.</EtherRaccoonJaw.stages.1.description>
+  <EtherRaccoonJaw.stages.2.label>adapted</EtherRaccoonJaw.stages.2.label>
+  <EtherRaccoonJaw.stages.2.description>A short, pointed, and bandit-masked muzzle has replaced [PAWN_nameDef]'s usual face. [PAWN_possessive] keen nose picks up the smell of rubbish from miles away. Adaptation has removed all of the difficulty with speaking.</EtherRaccoonJaw.stages.2.description>
+  <EtherRaccoonJaw.comps.0.tools.0.label>teeth</EtherRaccoonJaw.comps.0.tools.0.label>
+  <EtherRaccoonEar.label>procyonine ear</EtherRaccoonEar.label>
+  <EtherRaccoonEar.description>A short and fuzzy round ear has replaced [PAWN_nameDef]'s normal ear.</EtherRaccoonEar.description>
+  <EtherRaccoonTail.label>ringtail</EtherRaccoonTail.label>
+  <EtherRaccoonTail.description>The ringtail of a raccoon has grown out from [PAWN_nameDef]'s spine. It twitches when it senses rubbish.</EtherRaccoonTail.description>
+  <EtherRatSnout.label>rodent snout</EtherRatSnout.label>
+  <EtherRatSnout.description>The ragged and ratty snout of a rambunctious rodent.</EtherRatSnout.description>
+  <EtherRatSnout.stages.0.description>[PAWN_nameDef]'s face has turned into a ragged, bestial snount with long teeth for chewing through anything. People find [PAWN_possessive] new face repulsive</EtherRatSnout.stages.0.description>
+  <EtherRatSnout.stages.0.label>bestial</EtherRatSnout.stages.0.label>
+  <EtherRatSnout.stages.1.labelOverride>pressing out</EtherRatSnout.stages.1.labelOverride>
+  <EtherRatSnout.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherRatSnout.stages.1.description>
+  <EtherRatSnout.stages.2.description>A ratty snout graces [PAWN_nameDef]'s face, long teeth for chewing through anything.</EtherRatSnout.stages.2.description>
+  <EtherRatSnout.stages.3.label>adapted</EtherRatSnout.stages.3.label>
+  <EtherRatSnout.stages.3.description>A ratty snout graces [PAWN_nameDef]'s face, long teeth for chewing through anything. Adaptation has lessened the difficulty with talking, and gives an even bigger ability to eat.</EtherRatSnout.stages.3.description>
+  <EtherRatSnout.stages.4.description>A cute, ratty snout graces [PAWN_nameDef]'s face, with long teeth for chewing through anything. Many people find [PAWN_possessive] snout adorable.</EtherRatSnout.stages.4.description>
+  <EtherRatSnout.stages.4.label>paragon</EtherRatSnout.stages.4.label>
+  <EtherRatSnout.comps.0.tools.0.label>teeth</EtherRatSnout.comps.0.tools.0.label>
+  <EtherRatEar.label>ratty</EtherRatEar.label>
+  <EtherRatEar.description>Grey-furred, rounded ears listen carefully for predators.</EtherRatEar.description>
+  <EtherRatTail.label>hairless tail</EtherRatTail.label>
+  <EtherRatTail.description>A ratty tail, hairless, long and snaking.</EtherRatTail.description>
+  <EtherDextrousPawHand.label>dextrous paw</EtherDextrousPawHand.label>
+  <EtherDextrousPawHand.description>Thankfully, this more manipulative paw allows [PAWN_nameDef] to keep their thumbs.</EtherDextrousPawHand.description>
+  <EtherDextrousPawHand.stages.0.label>unfamiliar</EtherDextrousPawHand.stages.0.label>
+  <EtherDextrousPawHand.stages.1.label>adapted</EtherDextrousPawHand.stages.1.label>
+  <EtherDextrousPawHand.comps.0.tools.0.label>claws</EtherDextrousPawHand.comps.0.tools.0.label>
+  <EtherRatFoot.label>rodent</EtherRatFoot.label>
+  <EtherRatFoot.description>[PAWN_nameDef]'s feet are dextrous and elongated, but hairless and pale.</EtherRatFoot.description>
+  <EtherRhinocerosJaw.label>ceratorhine muzzle</EtherRhinocerosJaw.label>
+  <EtherRhinocerosJaw.description>The dangerously horned snout of a rhino.</EtherRhinocerosJaw.description>
+  <EtherRhinocerosJaw.stages.0.labelOverride>pressing out</EtherRhinocerosJaw.stages.0.labelOverride>
+  <EtherRhinocerosJaw.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherRhinocerosJaw.stages.0.description>
+  <EtherRhinocerosJaw.stages.1.description>A oversize rhino jaw, complete with horn perfect for goring your foes.</EtherRhinocerosJaw.stages.1.description>
+  <EtherRhinocerosJaw.stages.2.label>adapted</EtherRhinocerosJaw.stages.2.label>
+  <EtherRhinocerosJaw.stages.2.description>A oversize rhino jaw, complete with horn perfect for goring your foes. Adaptation has removed some of the difficulty with speaking.</EtherRhinocerosJaw.stages.2.description>
+  <EtherRhinocerosJaw.comps.0.tools.0.label>teeth</EtherRhinocerosJaw.comps.0.tools.0.label>
+  <EtherRhinocerosJaw.comps.0.tools.1.label>horn</EtherRhinocerosJaw.comps.0.tools.1.label>
+  <EtherRhinocerosJaw.comps.0.tools.2.label>horn</EtherRhinocerosJaw.comps.0.tools.2.label>
+  <EtherRhinocerosEar.label>ceratorhine</EtherRhinocerosEar.label>
+  <EtherRhinocerosEar.description>A large, curved rhinoceros ear.</EtherRhinocerosEar.description>
+  <EtherRhinocerosTail.label>rhinoceros tail</EtherRhinocerosTail.label>
+  <EtherRhinocerosTail.description>A short, leathery rhinoceros tail, complete with tuft.</EtherRhinocerosTail.description>
+  <EtherWoolySheep.label>thick wool</EtherWoolySheep.label>
+  <EtherWoolySheep.description>Thick wool grows over [PAWN_nameDef]'s torso constantly, different from the comparatively lighter wool that grows elsewhere. They can shave themselves, because they're a strong independent sheepmorph that don't need no ram.</EtherWoolySheep.description>
+  <EtherWoolySheep.stages.1.label>productive</EtherWoolySheep.stages.1.label>
+  <EtherWoolySheep.stages.2.label>very productive</EtherWoolySheep.stages.2.label>
+  <EtherWoolySheep.stages.3.label>productive bliss</EtherWoolySheep.stages.3.label>
+  <EtherSheepSnout.label>ovine snout</EtherSheepSnout.label>
+  <EtherSheepSnout.description>A very sheepy snout.</EtherSheepSnout.description>
+  <EtherSheepSnout.stages.0.labelOverride>pressing out</EtherSheepSnout.stages.0.labelOverride>
+  <EtherSheepSnout.stages.0.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherSheepSnout.stages.0.description>
+  <EtherSheepSnout.stages.1.description>A snout graces [PAWN_nameDef]'s face, like that of a sheep. [PAWN_possessive] teeth are squared off; speaking is more difficult, but eating is easier. The urge to bleat is extraordinarily powerful.</EtherSheepSnout.stages.1.description>
+  <EtherSheepSnout.stages.2.label>adapted</EtherSheepSnout.stages.2.label>
+  <EtherSheepSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a sheep. [PAWN_possessive] teeth are squared off; speaking is more difficult, but eating is easier. Adaptation has removed some of the difficulty with speaking.</EtherSheepSnout.stages.2.description>
+  <EtherSheepSnout.comps.0.tools.0.label>teeth</EtherSheepSnout.comps.0.tools.0.label>
+  <EtherSheepEar.label>ovine</EtherSheepEar.label>
+  <EtherSheepEar.description>Fluffy, ovine ears sit at the side of [PAWN_nameDef]'s head, like a sheep.</EtherSheepEar.description>
+  <EtherSheepTail.label>sheep tail</EtherSheepTail.label>
+  <EtherSheepTail.description>A sheeplike tail. It's very wooly but short and not incredibly useful.</EtherSheepTail.description>
+  <EtherSheepEye.label>sheep eye</EtherSheepEye.label>
+  <EtherSheepEye.description>[PAWN_nameDef] has rectangular pupils set in yellow eyes that are pressed slightly further to the side of the head. This gives better peripepheral vision, but does make it slightly harder to aim.</EtherSheepEye.description>
+  <EtherSheepHorns.label>ram horns</EtherSheepHorns.label>
+  <EtherSheepHorns.description>The curled horns of a ram. They start small, but will eventually grow quite large. Horn growth does not require the constant work of mutagenic mechanites.</EtherSheepHorns.description>
+  <EtherSheepHorns.stages.0.labelOverride>small horns</EtherSheepHorns.stages.0.labelOverride>
+  <EtherSheepHorns.stages.0.description>Small horns top [PAWN_nameDef]'s head, which add a sizeable heft to a headbutt. They are small for now, and will take many weeks to grow to full size.</EtherSheepHorns.stages.0.description>
+  <EtherSheepHorns.stages.1.labelOverride>curled horns</EtherSheepHorns.stages.1.labelOverride>
+  <EtherSheepHorns.stages.1.description>Curled horns decorate [PAWN_nameDef]'s head, which add a sizeable heft to a headbutt. They have grown larger, but still have plenty of growing to do.</EtherSheepHorns.stages.1.description>
+  <EtherSheepHorns.stages.2.description>Burly curled horns decorate [PAWN_nameDef]'s head, which add a sizeable heft to a headbutt. They have reached their full size.</EtherSheepHorns.stages.2.description>
+  <EtherSheepHorns.comps.0.tools.0.label>rammed</EtherSheepHorns.comps.0.tools.0.label>
+  <EtherSquirrelJaw.label>sciurine muzzle</EtherSquirrelJaw.label>
+  <EtherSquirrelJaw.description>The chittery, chewing mouth of a squirrel.</EtherSquirrelJaw.description>
+  <EtherSquirrelJaw.stages.0.label>bestial</EtherSquirrelJaw.stages.0.label>
+  <EtherSquirrelJaw.stages.0.description>[PAWN_nameDef]'s face has completely reshaped into one resembling a squirrel's, complete with oversized front teeth. This makes speech much harder.</EtherSquirrelJaw.stages.0.description>
+  <EtherSquirrelJaw.stages.1.labelOverride>pressing out</EtherSquirrelJaw.stages.1.labelOverride>
+  <EtherSquirrelJaw.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherSquirrelJaw.stages.1.description>
+  <EtherSquirrelJaw.stages.2.description>[PAWN_nameDef]'s face has completely reshaped into one resembling a squirrel's, complete with oversized front teeth.</EtherSquirrelJaw.stages.2.description>
+  <EtherSquirrelJaw.stages.3.label>adapted</EtherSquirrelJaw.stages.3.label>
+  <EtherSquirrelJaw.stages.3.description>[PAWN_nameDef]'s face has completely reshaped into one resembling a squirrel's, complete with oversized front teeth. Adaptation has removed most of the difficulty with speaking.</EtherSquirrelJaw.stages.3.description>
+  <EtherSquirrelJaw.stages.4.description>[PAWN_nameDef]'s face has completely reshaped into one resembling a squirrel's. The oversized front teeth are useful for cracking nuts and cutting plants. Oddly, this doesn't impact [PAWN_possessive] ability to speak.</EtherSquirrelJaw.stages.4.description>
+  <EtherSquirrelJaw.stages.4.label>paragon</EtherSquirrelJaw.stages.4.label>
+  <EtherSquirrelJaw.comps.0.tools.0.label>teeth</EtherSquirrelJaw.comps.0.tools.0.label>
+  <EtherSquirrelEar.description>[PAWN_nameDef]'s ears have grown into small wedges, flicking about to listen for the beating of wings.</EtherSquirrelEar.description>
+  <EtherSquirrelEar.label>sciurine</EtherSquirrelEar.label>
+  <EtherSquirrelTail.label>sciurine tail</EtherSquirrelTail.label>
+  <EtherSquirrelTail.description>A long fluffy tail curls up from [PAWN_nameDef]'s waist. [PAWN_pronoun] loves to curl it up around [PAWN_objective]self and use it as a pillow while sleeping.</EtherSquirrelTail.description>
+  <EtherTortoiseJaw.label>tortoise beak</EtherTortoiseJaw.label>
+  <EtherTortoiseJaw.description>The hard and rather dangerous beak of a tortoise.</EtherTortoiseJaw.description>
+  <EtherTortoiseJaw.stages.1.label>adapted</EtherTortoiseJaw.stages.1.label>
+  <EtherTortoiseJaw.comps.0.tools.0.label>teeth</EtherTortoiseJaw.comps.0.tools.0.label>
+  <EtherTortoiseEar.label>earhole</EtherTortoiseEar.label>
+  <EtherTortoiseEar.description>!!!EtherTortoiseEar needs a description!!!</EtherTortoiseEar.description>
+  <EtherTortoiseTail.label>!!!EtherTortoiseTail needs a label!!!</EtherTortoiseTail.label>
+  <EtherTortoiseTail.description>!!!EtherTortoiseTail needs a description!!!</EtherTortoiseTail.description>
+  <EtherTortoiseShell.label>shell</EtherTortoiseShell.label>
+  <EtherTortoiseShell.description>An ibuilt suit of armour.</EtherTortoiseShell.description>
+  <EtherWargMuzzle.label>warg muzzle</EtherWargMuzzle.label>
+  <EtherWargMuzzle.description>The fearsome, toothy muzzle of a warg.</EtherWargMuzzle.description>
+  <EtherWargMuzzle.stages.0.label>bestial</EtherWargMuzzle.stages.0.label>
+  <EtherWargMuzzle.stages.0.description>A snout graces [PAWN_nameDef]'s face, like that of a canine. [PAWN_possessive] teeth are pointed to suit; speaking is nearly impossible for [Pawn_objective] outside of growls and barks, but eating is easier.</EtherWargMuzzle.stages.0.description>
+  <EtherWargMuzzle.stages.1.labelOverride>pressing out</EtherWargMuzzle.stages.1.labelOverride>
+  <EtherWargMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherWargMuzzle.stages.1.description>
+  <EtherWargMuzzle.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a canine. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</EtherWargMuzzle.stages.2.description>
+  <EtherWargMuzzle.stages.3.label>adapted</EtherWargMuzzle.stages.3.label>
+  <EtherWargMuzzle.stages.3.description>A snout graces [PAWN_nameDef]'s face, like that of a canine. [PAWN_possessive] teeth are pointed to suit, so eating is easier. Adaptation has reduced the difficulty with talking.</EtherWargMuzzle.stages.3.description>
+  <EtherWargMuzzle.stages.4.label>paragon</EtherWargMuzzle.stages.4.label>
+  <EtherWargMuzzle.stages.4.description>A snout graces [PAWN_nameDef]'s face, like that of a canine. [PAWN_possessive] teeth are pointed to suit; speaking is a little more difficult, but eating is easier. [PAWN_pronoun] has also developed a taste for raw meat, and is less likely to get sick from it.</EtherWargMuzzle.stages.4.description>
+  <EtherWargMuzzle.comps.0.tools.0.label>teeth</EtherWargMuzzle.comps.0.tools.0.label>
+  <EtherWargEar.label>warglike</EtherWargEar.label>
+  <EtherWargEar.description>The rugged, pointed ear of a hungry warg.</EtherWargEar.description>
+  <EtherWargEar.stages.0.description>Thick-skinned ears with a tuft at the end have grown from [PAWN_nameDef]'s head. They scan the horizon independently for prey.</EtherWargEar.stages.0.description>
+  <EtherWargTail.label>tufted tail</EtherWargTail.label>
+  <EtherWargTail.description>A thin tail with a tuft of fur at the end.</EtherWargTail.description>
+  <EtherWolfEar.label>lupine</EtherWolfEar.label>
+  <EtherWolfEar.description>The fuzzy pointy ear of a wolf.</EtherWolfEar.description>
+  <EtherWolfEar.stages.0.description>Two pointed and furred ears crown [PAWN_nameDef]'s head, as they flick left and right, listening for the sounds of prey.</EtherWolfEar.stages.0.description>
+  <EtherWolfTail.label>wolfish tail</EtherWolfTail.label>
+  <EtherWolfTail.description>A grey wolf-like tail hangs from [PAWN_nameDef]'s spine, alert and waiting for a hunt.</EtherWolfTail.description>
+  <EtherArcticWolfJaw.label>wolf muzzle</EtherArcticWolfJaw.label>
+  <EtherArcticWolfJaw.description>The lupine muzzle of a wolf.</EtherArcticWolfJaw.description>
+  <EtherArcticWolfJaw.stages.0.label>bestial</EtherArcticWolfJaw.stages.0.label>
+  <EtherArcticWolfJaw.stages.0.description>[PAWN_nameDef]'s face has turned into a bestial snout, like that of a great canine. [PAWN_possessive] teeth are pointed to suit; speaking is much more difficult, but eating is easier. Many people find [PAWN_possessive] snout intimidating.</EtherArcticWolfJaw.stages.0.description>
+  <EtherArcticWolfJaw.stages.1.labelOverride>pressing out</EtherArcticWolfJaw.stages.1.labelOverride>
+  <EtherArcticWolfJaw.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherArcticWolfJaw.stages.1.description>
+  <EtherArcticWolfJaw.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a great canine. [PAWN_possessive] teeth are pointed to suit; speaking is difficult, but eating is easier.</EtherArcticWolfJaw.stages.2.description>
+  <EtherArcticWolfJaw.stages.3.label>adapted</EtherArcticWolfJaw.stages.3.label>
+  <EtherArcticWolfJaw.stages.3.description>A snout graces [PAWN_nameDef]'s face, like that of a great canine. [PAWN_possessive] teeth are pointed to suit; speaking is difficult, but eating is easier. Adaptation has removed some of the difficulty with talking.</EtherArcticWolfJaw.stages.3.description>
+  <EtherArcticWolfJaw.stages.4.label>paragon</EtherArcticWolfJaw.stages.4.label>
+  <EtherArcticWolfJaw.stages.4.description>An imposing snout graces [PAWN_nameDef]'s face, like that of a great canine. [PAWN_possessive] teeth are pointed to suit, so eating is easier. Animals seem to find [PAWN_possessive] intimidating and are less likely to disobey [PAWN_possessive].</EtherArcticWolfJaw.stages.4.description>
+  <EtherArcticWolfJaw.comps.0.tools.0.label>teeth</EtherArcticWolfJaw.comps.0.tools.0.label>
+  <EtherArcticWolfFur.label>arctic fur</EtherArcticWolfFur.label>
+  <EtherArcticWolfFur.stages.0.labelOverride>light hair</EtherArcticWolfFur.stages.0.labelOverride>
+  <EtherArcticWolfFur.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</EtherArcticWolfFur.stages.0.description>
+  <EtherArcticWolfFur.stages.1.labelOverride>fur dusting</EtherArcticWolfFur.stages.1.labelOverride>
+  <EtherArcticWolfFur.stages.1.description>Very fine fur — too dense to be hair — is sprouting over [PAWN_nameDef]'s limb.</EtherArcticWolfFur.stages.1.description>
+  <EtherArcticWolfFur.stages.2.labelOverride>thin fur</EtherArcticWolfFur.stages.2.labelOverride>
+  <EtherArcticWolfFur.stages.2.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</EtherArcticWolfFur.stages.2.description>
+  <EtherArcticWolfFur.stages.3.labelOverride>fur patches</EtherArcticWolfFur.stages.3.labelOverride>
+  <EtherArcticWolfFur.stages.3.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</EtherArcticWolfFur.stages.3.description>
+  <EtherWolfMuzzle.label>wolf muzzle</EtherWolfMuzzle.label>
+  <EtherWolfMuzzle.description>The lupine muzzle of a wolf.</EtherWolfMuzzle.description>
+  <EtherWolfMuzzle.stages.0.label>bestial</EtherWolfMuzzle.stages.0.label>
+  <EtherWolfMuzzle.stages.0.description>[PAWN_nameDef]'s face has turned into a bestial snout, like that of a great canine. [PAWN_possessive] teeth are pointed to suit; speaking is much more difficult, but eating is easier. Many people find [PAWN_possessive] snout intimidating.</EtherWolfMuzzle.stages.0.description>
+  <EtherWolfMuzzle.stages.1.labelOverride>pressing out</EtherWolfMuzzle.stages.1.labelOverride>
+  <EtherWolfMuzzle.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherWolfMuzzle.stages.1.description>
+  <EtherWolfMuzzle.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a great canine. [PAWN_possessive] teeth are pointed to suit; speaking is difficult, but eating is easier.</EtherWolfMuzzle.stages.2.description>
+  <EtherWolfMuzzle.stages.3.label>adapted</EtherWolfMuzzle.stages.3.label>
+  <EtherWolfMuzzle.stages.3.description>A snout graces [PAWN_nameDef]'s face, like that of a great canine. [PAWN_possessive] teeth are pointed to suit; speaking is difficult, but eating is easier. Adaptation has removed some of the difficulty with talking.</EtherWolfMuzzle.stages.3.description>
+  <EtherWolfMuzzle.stages.4.label>paragon</EtherWolfMuzzle.stages.4.label>
+  <EtherWolfMuzzle.stages.4.description>An imposing snout graces [PAWN_nameDef]'s face, like that of a great canine. [PAWN_possessive] teeth are pointed to suit, so eating is easier. Animals seem to find [PAWN_possessive] intimidating and are less likely to disobey [PAWN_possessive].</EtherWolfMuzzle.stages.4.description>
+  <EtherWolfMuzzle.comps.0.tools.0.label>teeth</EtherWolfMuzzle.comps.0.tools.0.label>
+  <ThrumboFur.label>thick fur</ThrumboFur.label>
+  <ThrumboFur.description>A heavy coat of fur drapes across this limb, insulating a lot of heat.</ThrumboFur.description>
+  <ThrumboFur.stages.0.labelOverride>light hair</ThrumboFur.stages.0.labelOverride>
+  <ThrumboFur.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</ThrumboFur.stages.0.description>
+  <ThrumboFur.stages.1.labelOverride>thin fur</ThrumboFur.stages.1.labelOverride>
+  <ThrumboFur.stages.1.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</ThrumboFur.stages.1.description>
+  <ThrumboFur.stages.2.labelOverride>fur patches</ThrumboFur.stages.2.labelOverride>
+  <ThrumboFur.stages.2.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</ThrumboFur.stages.2.description>
+  <ThrumboFur.stages.3.labelOverride>dense fur</ThrumboFur.stages.3.labelOverride>
+  <ThrumboFur.stages.3.description>The fur has become denser on [PAWN_nameDef]'s limb, making the skin underneath hard to see.</ThrumboFur.stages.3.description>
+  <ThrumboFur.stages.4.labelOverride>thickly furred</ThrumboFur.stages.4.labelOverride>
+  <ThrumboFur.stages.4.description>The fur drapes [PAWN_nameDef]'s limb entirely. It's quite heavy and rather warm.</ThrumboFur.stages.4.description>
+  <EtherThrumboSnout.label>thrumbo snout</EtherThrumboSnout.label>
+  <EtherThrumboSnout.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze.</EtherThrumboSnout.description>
+  <EtherThrumboSnout.stages.0.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze, though talking is much harder.</EtherThrumboSnout.stages.0.description>
+  <EtherThrumboSnout.stages.0.label>bestial</EtherThrumboSnout.stages.0.label>
+  <EtherThrumboSnout.stages.1.labelOverride>pressing out</EtherThrumboSnout.stages.1.labelOverride>
+  <EtherThrumboSnout.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherThrumboSnout.stages.1.description>
+  <EtherThrumboSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze.</EtherThrumboSnout.stages.2.description>
+  <EtherThrumboSnout.stages.3.label>adapted</EtherThrumboSnout.stages.3.label>
+  <EtherThrumboSnout.stages.3.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze. Adaptation has removed most of the difficulty with speaking.</EtherThrumboSnout.stages.3.description>
+  <EtherThrumboSnout.stages.4.label>paragon</EtherThrumboSnout.stages.4.label>
+  <EtherThrumboSnout.stages.4.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze. Further adaptation has brought out the wise thrumbo inside.</EtherThrumboSnout.stages.4.description>
+  <EtherThrumboSnout.comps.0.tools.0.label>teeth</EtherThrumboSnout.comps.0.tools.0.label>
+  <EtherThrumboEar.label>thrumbic</EtherThrumboEar.label>
+  <EtherThrumboEar.description>I didn't know thrumbos had ears, but [PAWN_nameDef] has put that question to rest. Yes, they do — white-furred, rounded and beautiful.</EtherThrumboEar.description>
+  <EtherThrumboTail.label>thrumbo tail</EtherThrumboTail.label>
+  <EtherThrumboTail.description>A fluffy thrumbo tail, coated in supple, sleek fur.</EtherThrumboTail.description>
+  <EtherThrumboHorn.label>thrumbohorn</EtherThrumboHorn.label>
+  <EtherThrumboHorn.description>A razor-sharp thrumbo horn decorates [PAWN_nameDef]'s head.</EtherThrumboHorn.description>
+  <EtherThrumboHorn.stages.0.label>dull</EtherThrumboHorn.stages.0.label>
+  <EtherThrumboHorn.stages.0.description>A sharp thrumbo horn decorates [PAWN_nameDef]'s head. It has grown dull and rough. While still a formidable weapon, it makes [PAWN_objective] look misshapen and sickly.</EtherThrumboHorn.stages.0.description>
+  <EtherThrumboHorn.stages.2.label>shiny</EtherThrumboHorn.stages.2.label>
+  <EtherThrumboHorn.stages.2.description>A razor-sharp thrumbo horn decorates [PAWN_nameDef]'s head. It has also has taken on a pearly white sheen, charming those around [PAWN_objective] with its beauty.</EtherThrumboHorn.stages.2.description>
+  <EtherThrumboHorn.comps.0.tools.0.label>point</EtherThrumboHorn.comps.0.tools.0.label>
+  <EtherThrumboHorn.comps.0.tools.1.label>base</EtherThrumboHorn.comps.0.tools.1.label>
+</LanguageData>

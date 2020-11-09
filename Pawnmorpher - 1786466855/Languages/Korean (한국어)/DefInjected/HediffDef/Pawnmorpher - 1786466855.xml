@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ProductionPillUdderEffect.label>depricated</ProductionPillUdderEffect.label>
+  <ProductionPillUdderEffect.description>You should not have this hediff, if you do, feel free to ignore it or remove it with dev mode.</ProductionPillUdderEffect.description>
+  <ProductionPillChemfuelUdderEffect.label>depricated</ProductionPillChemfuelUdderEffect.label>
+  <ProductionPillChemfuelUdderEffect.description>You should not have this hediff, if you do, feel free to ignore it or remove it with dev mode.</ProductionPillChemfuelUdderEffect.description>
+  <ProductionPillEggEffect.label>depricated</ProductionPillEggEffect.label>
+  <ProductionPillEggEffect.description>You should not have this hediff, if you do, feel free to ignore it or remove it with dev mode.</ProductionPillEggEffect.description>
+  <ProductionPillWoolEffect.label>depricated</ProductionPillWoolEffect.label>
+  <ProductionPillWoolEffect.description>You should not have this hediff, if you do, feel free to ignore it or remove it with dev mode.</ProductionPillWoolEffect.description>
+  <ProductionPillMegawoolEffect.label>depricated</ProductionPillMegawoolEffect.label>
+  <ProductionPillMegawoolEffect.description>You should not have this hediff, if you do, feel free to ignore it or remove it with dev mode.</ProductionPillMegawoolEffect.description>
+  <StabiliserHigh.description>This pawn has been stabilised against further mutations. This lasts for five days, and the pawn cannot receive additional mutations in this timeframe.</StabiliserHigh.description>
+  <StabiliserHigh.label>mutagen stabilised</StabiliserHigh.label>
+  <AcceleratorHigh.label>mutagen accelerated</AcceleratorHigh.label>
+  <AcceleratorHigh.description>This pawn's mutations are appearing at an accelerated rate.</AcceleratorHigh.description>
+  <SerumAddiction.label>serum addiction</SerumAddiction.label>
+  <SerumAddiction.description>This pawn is now addicted to serums, and will require them on a regular basis. If they go into withdrawal, they may have concerning mental breaks.</SerumAddiction.description>
+  <SerumAddiction.stages.0.label>withdrawal</SerumAddiction.stages.0.label>
+  <FoxFlu.label>fox fever</FoxFlu.label>
+  <FoxFlu.description>This pawn has contracted a mutagenic disease that makes them feel much more...foxy.</FoxFlu.description>
+  <FoxFlu.stages.0.label>minor</FoxFlu.stages.0.label>
+  <FoxFlu.stages.1.label>major</FoxFlu.stages.1.label>
+  <FoxFlu.stages.2.label>extreme</FoxFlu.stages.2.label>
+  <FoxFlu.stages.2.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</FoxFlu.stages.2.letterText>
+  <FoxFlu.stages.2.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</FoxFlu.stages.2.letterLabel>
+  <FoxFlu.stages.3.label>full</FoxFlu.stages.3.label>
+  <Chookflu.label>chook pox</Chookflu.label>
+  <Chookflu.description>This pawn has contracted a mutagenic disease that seems to be making them cluck and strut.</Chookflu.description>
+  <Chookflu.stages.0.label>minor</Chookflu.stages.0.label>
+  <Chookflu.stages.1.label>major</Chookflu.stages.1.label>
+  <Chookflu.stages.2.label>extreme</Chookflu.stages.2.label>
+  <Chookflu.stages.2.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</Chookflu.stages.2.letterText>
+  <Chookflu.stages.2.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</Chookflu.stages.2.letterLabel>
+  <Chookflu.stages.3.label>full</Chookflu.stages.3.label>
+  <Swineflu.label>swine flu</Swineflu.label>
+  <Swineflu.description>This pawn has contracted a mutagenic disease that seems to make them want to roll in mud and root at the ground.</Swineflu.description>
+  <Swineflu.stages.0.label>minor</Swineflu.stages.0.label>
+  <Swineflu.stages.1.label>major</Swineflu.stages.1.label>
+  <Swineflu.stages.2.label>extreme</Swineflu.stages.2.label>
+  <Swineflu.stages.2.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</Swineflu.stages.2.letterText>
+  <Swineflu.stages.2.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</Swineflu.stages.2.letterLabel>
+  <Swineflu.stages.3.label>full</Swineflu.stages.3.label>
+  <Cowflu.label>mad cow disease</Cowflu.label>
+  <Cowflu.description>This pawn his contracted a mutagenic disease that seems to make them want to let out a loud moo.</Cowflu.description>
+  <Cowflu.stages.0.label>minor</Cowflu.stages.0.label>
+  <Cowflu.stages.1.label>major</Cowflu.stages.1.label>
+  <Cowflu.stages.2.label>extreme</Cowflu.stages.2.label>
+  <Cowflu.stages.2.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</Cowflu.stages.2.letterText>
+  <Cowflu.stages.2.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</Cowflu.stages.2.letterLabel>
+  <Cowflu.stages.3.label>full</Cowflu.stages.3.label>
+  <Chaoflu.label>mutagenic mechanites</Chaoflu.label>
+  <Chaoflu.description>This pawn has contracted a mutagenic disease that seems to be very random and chaotic, due to the high level of conflicting mutagenic mechanites in their system.</Chaoflu.description>
+  <Chaoflu.stages.0.label>minor</Chaoflu.stages.0.label>
+  <Chaoflu.stages.1.label>major</Chaoflu.stages.1.label>
+  <Chaoflu.stages.2.label>extreme</Chaoflu.stages.2.label>
+  <Chaoflu.stages.2.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</Chaoflu.stages.2.letterText>
+  <Chaoflu.stages.2.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</Chaoflu.stages.2.letterLabel>
+  <Chaoflu.stages.3.label>full</Chaoflu.stages.3.label>
+  <HuskyFlu.label>kennel cough</HuskyFlu.label>
+  <HuskyFlu.description>This pawn has contracted a mutagenic disease that seems to be making them bark and wag their tail.</HuskyFlu.description>
+  <HuskyFlu.stages.0.label>minor</HuskyFlu.stages.0.label>
+  <HuskyFlu.stages.1.label>major</HuskyFlu.stages.1.label>
+  <HuskyFlu.stages.2.label>extreme</HuskyFlu.stages.2.label>
+  <HuskyFlu.stages.2.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</HuskyFlu.stages.2.letterText>
+  <HuskyFlu.stages.2.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</HuskyFlu.stages.2.letterLabel>
+  <HuskyFlu.stages.3.label>full</HuskyFlu.stages.3.label>
+  <TransformedHuman.label>former human</TransformedHuman.label>
+  <TransformedHuman.description>[PAWN_defName] used to be a human, but by whatever means has now been transformed into this current form. In this state, [PAWN_pronoun] can be reverted.</TransformedHuman.description>
+  <TransformedHuman.stages.0.label>sapient</TransformedHuman.stages.0.label>
+  <TransformedHuman.stages.1.label>mostly sapient</TransformedHuman.stages.1.label>
+  <TransformedHuman.stages.2.label>conflicted</TransformedHuman.stages.2.label>
+  <TransformedHuman.stages.3.label>mostly feral</TransformedHuman.stages.3.label>
+  <TransformedHuman.stages.4.label>mostly feral</TransformedHuman.stages.4.label>
+  <Animalistic.label>animalistic</Animalistic.label>
+  <Animalistic.description>Due to certain mutations or having spent time as an animal, this pawn is struggling to maintain their sapience</Animalistic.description>
+  <Animalistic.stages.0.label>sapient</Animalistic.stages.0.label>
+  <Animalistic.stages.1.label>mostly sapient</Animalistic.stages.1.label>
+  <Animalistic.stages.2.label>conflicted</Animalistic.stages.2.label>
+  <Animalistic.stages.3.label>mostly feral</Animalistic.stages.3.label>
+  <Animalistic.stages.4.label>mostly feral</Animalistic.stages.4.label>
+  <2xMergedHuman.label>2x merged morph</2xMergedHuman.label>
+  <2xMergedHuman.description>[PAWN_defName] is a creature that should never have been, a fusion of two beings which mutated to become one animalistic monstrosity.</2xMergedHuman.description>
+  <2xMergedHuman.stages.0.label>sapient</2xMergedHuman.stages.0.label>
+  <2xMergedHuman.stages.1.label>mostly sapient</2xMergedHuman.stages.1.label>
+  <2xMergedHuman.stages.2.label>conflicted</2xMergedHuman.stages.2.label>
+  <2xMergedHuman.stages.3.label>mostly feral</2xMergedHuman.stages.3.label>
+  <2xMergedHuman.stages.4.label>mostly feral</2xMergedHuman.stages.4.label>
+  <PermanentlyFeral.label>permanently feral</PermanentlyFeral.label>
+  <PermanentlyFeral.description>[PAWN_defName] used to be a human, but the mechanites in [PAWN_possessive] system have forgotten his prior form — [PAWN_pronoun] is now sealed in this form for the rest of [PAWN_possessive] life. Reversion serums will not work.</PermanentlyFeral.description>
+  <WasAnimal.label>was animal</WasAnimal.label>
+  <WasAnimal.description>[PAWN_defName] was turned into an animal, but [PAWN_pronoun] got better. However, [PAWN_pronoun] is not too happy about it.</WasAnimal.description>
+  <WasAnimal.stages.0.label>permanent</WasAnimal.stages.0.label>
+  <WasAnimal.stages.1.label>feral</WasAnimal.stages.1.label>
+  <WasAnimal.stages.2.label>sapient</WasAnimal.stages.2.label>
+  <WasAnimal.stages.3.label>driven mad</WasAnimal.stages.3.label>
+  <WasMergedRelieved.label>was melded</WasMergedRelieved.label>
+  <WasMergedRelieved.description>[PAWN_defName] was joined with another person in a chaotic mash of flesh and flesh, but finds the insight valuable.</WasMergedRelieved.description>
+  <WasMergedRelieved.stages.0.label>permanent</WasMergedRelieved.stages.0.label>
+  <WasMergedRelieved.stages.1.label>feral</WasMergedRelieved.stages.1.label>
+  <WasMergedRelieved.stages.2.label>sapient</WasMergedRelieved.stages.2.label>
+  <WasMergedRelieved.stages.3.label>driven mad</WasMergedRelieved.stages.3.label>
+  <WasMerged.label>was melded</WasMerged.label>
+  <WasMerged.description>[PAWN_defName] was joined with another person in a chaotic mash of flesh and flesh, and is scarred from the experience.</WasMerged.description>
+  <WasMerged.stages.0.label>permanent</WasMerged.stages.0.label>
+  <WasMerged.stages.1.label>feral</WasMerged.stages.1.label>
+  <WasMerged.stages.2.label>sapient</WasMerged.stages.2.label>
+  <WasMerged.stages.3.label>driven mad</WasMerged.stages.3.label>
+  <WasAnimalRelieved.label>was animal</WasAnimalRelieved.label>
+  <WasAnimalRelieved.description>[PAWN_defName] was turned into an animal, but [PAWN_pronoun] got better. However, [PAWN_pronoun] takes it as a learning opportunity.</WasAnimalRelieved.description>
+  <WasAnimalRelieved.stages.0.label>permanent</WasAnimalRelieved.stages.0.label>
+  <WasAnimalRelieved.stages.1.label>feral</WasAnimalRelieved.stages.1.label>
+  <WasAnimalRelieved.stages.2.label>sapient</WasAnimalRelieved.stages.2.label>
+  <WasAnimalRelieved.stages.3.label>driven mad</WasAnimalRelieved.stages.3.label>
+  <FeralPillSapienceDrop.label>feralising</FeralPillSapienceDrop.label>
+  <FeralPillSapienceDrop.description>[PAWN_nameDef]'s sapience is rapidly degrading to an animal level, thanks to the administration of feral pills.</FeralPillSapienceDrop.description>
+  <PM_InstantStabiliserHigh.description>This pawn has been stabilised against further mutations. This lasts for five days, and the pawn cannot receive additional mutations in this timeframe.</PM_InstantStabiliserHigh.description>
+  <PM_InstantStabiliserHigh.label>mutagen stabilised</PM_InstantStabiliserHigh.label>
+  <MutagenicBuildup_Weapon.stages.0.label>initial</MutagenicBuildup_Weapon.stages.0.label>
+  <MutagenicBuildup_Weapon.stages.1.label>initial</MutagenicBuildup_Weapon.stages.1.label>
+  <MutagenicBuildup_Weapon.stages.2.label>minor</MutagenicBuildup_Weapon.stages.2.label>
+  <MutagenicBuildup_Weapon.stages.3.label>moderate</MutagenicBuildup_Weapon.stages.3.label>
+  <MutagenicBuildup_Weapon.stages.4.label>serious</MutagenicBuildup_Weapon.stages.4.label>
+  <MutagenicBuildup_Weapon.stages.5.label>extreme</MutagenicBuildup_Weapon.stages.5.label>
+  <MutagenicBuildup_Weapon.stages.6.label>extreme</MutagenicBuildup_Weapon.stages.6.label>
+  <MutagenicBuildup_Weapon.stages.7.label>extreme</MutagenicBuildup_Weapon.stages.7.label>
+  <MutagenicBuildup_Weapon.description>Having been exposed to high levels of mutagenic mechanites, they are beginning to build up in this pawn's system, which will induce mutations at a high enough concentration.</MutagenicBuildup_Weapon.description>
+  <MutagenicBuildup_SmallExplosion.stages.0.label>initial</MutagenicBuildup_SmallExplosion.stages.0.label>
+  <MutagenicBuildup_SmallExplosion.stages.1.label>initial</MutagenicBuildup_SmallExplosion.stages.1.label>
+  <MutagenicBuildup_SmallExplosion.stages.2.label>minor</MutagenicBuildup_SmallExplosion.stages.2.label>
+  <MutagenicBuildup_SmallExplosion.stages.3.label>moderate</MutagenicBuildup_SmallExplosion.stages.3.label>
+  <MutagenicBuildup_SmallExplosion.stages.4.label>serious</MutagenicBuildup_SmallExplosion.stages.4.label>
+  <MutagenicBuildup_SmallExplosion.stages.5.label>extreme</MutagenicBuildup_SmallExplosion.stages.5.label>
+  <MutagenicBuildup_SmallExplosion.stages.6.label>extreme</MutagenicBuildup_SmallExplosion.stages.6.label>
+  <MutagenicBuildup_SmallExplosion.stages.7.label>extreme</MutagenicBuildup_SmallExplosion.stages.7.label>
+  <MutagenicBuildup_SmallExplosion.description>Having been exposed to high levels of mutagenic mechanites, they are beginning to build up in this pawn's system, which will induce mutations at a high enough concentration.</MutagenicBuildup_SmallExplosion.description>
+  <MutagenicBuildup_LargeExplosion.stages.0.label>initial</MutagenicBuildup_LargeExplosion.stages.0.label>
+  <MutagenicBuildup_LargeExplosion.stages.1.label>initial</MutagenicBuildup_LargeExplosion.stages.1.label>
+  <MutagenicBuildup_LargeExplosion.stages.2.label>minor</MutagenicBuildup_LargeExplosion.stages.2.label>
+  <MutagenicBuildup_LargeExplosion.stages.3.label>moderate</MutagenicBuildup_LargeExplosion.stages.3.label>
+  <MutagenicBuildup_LargeExplosion.stages.4.label>serious</MutagenicBuildup_LargeExplosion.stages.4.label>
+  <MutagenicBuildup_LargeExplosion.stages.5.label>extreme</MutagenicBuildup_LargeExplosion.stages.5.label>
+  <MutagenicBuildup_LargeExplosion.stages.6.label>extreme</MutagenicBuildup_LargeExplosion.stages.6.label>
+  <MutagenicBuildup_LargeExplosion.stages.7.label>extreme</MutagenicBuildup_LargeExplosion.stages.7.label>
+  <MutagenicBuildup_LargeExplosion.description>Having been exposed to high levels of mutagenic mechanites, they are beginning to build up in this pawn's system, which will induce mutations at a high enough concentration.</MutagenicBuildup_LargeExplosion.description>
+  <MutagenicBuildup.description>Having been exposed to high levels of mutagenic mechanites, they are beginning to build up in this pawn's system, which will induce mutations at a high enough concentration.</MutagenicBuildup.description>
+  <MutagenicBuildup.label>mutagenic buildup</MutagenicBuildup.label>
+  <MutagenicBuildup.stages.0.label>initial</MutagenicBuildup.stages.0.label>
+  <MutagenicBuildup.stages.1.label>initial</MutagenicBuildup.stages.1.label>
+  <MutagenicBuildup.stages.2.label>minor</MutagenicBuildup.stages.2.label>
+  <MutagenicBuildup.stages.3.label>moderate</MutagenicBuildup.stages.3.label>
+  <MutagenicBuildup.stages.4.label>serious</MutagenicBuildup.stages.4.label>
+  <MutagenicBuildup.stages.5.label>extreme</MutagenicBuildup.stages.5.label>
+  <MutagenicBuildup.stages.6.label>extreme</MutagenicBuildup.stages.6.label>
+  <MutagenicBuildup.stages.7.label>extreme</MutagenicBuildup.stages.7.label>
+  <PawnmorphGunshotTF.description>This pawn has been shot with a powerful, fast-acting dose of mutagenic mechanites and is highly likely to change into something very quickly, which may leave them paralysed for a time.</PawnmorphGunshotTF.description>
+  <PawnmorphGunshotTF.label>ethermorph</PawnmorphGunshotTF.label>
+  <PawnmorphGunshotTF.stages.0.label>reeling</PawnmorphGunshotTF.stages.0.label>
+  <PawnmorphGunshotTF.stages.1.label>transformation-paralysis</PawnmorphGunshotTF.stages.1.label>
+  <TransformationParalysis.label>transformation paralysis</TransformationParalysis.label>
+  <TransformationParalysis.description>The shock of a sudden, full-body transformation.</TransformationParalysis.description>
+  <SyringeRifleHediff.label>ethermorph</SyringeRifleHediff.label>
+  <SyringeRifleHediff.description>This pawn has been shot with a powerful, fast-acting dose of mutagenic mechanites and is highly likely to change into something very quickly, which may leave them paralysed for a time.</SyringeRifleHediff.description>
+  <PawnmorphAlpacaTF.label>alpacamorph</PawnmorphAlpacaTF.label>
+  <PawnmorphAlpacaTF.description>This person has mechanites in their blood that are slowly mutating them into a alpacamorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more alpaca than human.</PawnmorphAlpacaTF.description>
+  <PawnmorphAlpacaTF.stages.0.label>reeling</PawnmorphAlpacaTF.stages.0.label>
+  <PawnmorphAlpacaTF.stages.1.label>transforming</PawnmorphAlpacaTF.stages.1.label>
+  <PawnmorphAlpacaTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphAlpacaTF.stages.1.letterText>
+  <PawnmorphAlpacaTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphAlpacaTF.stages.1.letterLabel>
+  <PawnmorphAlpacaTF.stages.2.label>changing</PawnmorphAlpacaTF.stages.2.label>
+  <PawnmorphAlpacaTFPartial.label>alpacamorph partial</PawnmorphAlpacaTFPartial.label>
+  <PawnmorphAlpacaTFPartial.description>This person has mechanites in their blood that are providing them with alpaca-esque mutations.</PawnmorphAlpacaTFPartial.description>
+  <PawnmorphBearTF.label>bearmorph</PawnmorphBearTF.label>
+  <PawnmorphBearTF.description>This person has mechanites in their blood that are slowly mutating them into a bearmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more grizzly than human.</PawnmorphBearTF.description>
+  <PawnmorphBearTF.stages.0.label>reeling</PawnmorphBearTF.stages.0.label>
+  <PawnmorphBearTF.stages.1.label>transforming</PawnmorphBearTF.stages.1.label>
+  <PawnmorphBearTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphBearTF.stages.1.letterText>
+  <PawnmorphBearTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphBearTF.stages.1.letterLabel>
+  <PawnmorphBearTF.stages.2.label>changing</PawnmorphBearTF.stages.2.label>
+  <PawnmorphBearTFPartial.label>bearmorph partial</PawnmorphBearTFPartial.label>
+  <PawnmorphBearTFPartial.description>This person has mechanites in their blood that are providing them with grizzly-esque mutations.</PawnmorphBearTFPartial.description>
+  <PawnmorphPolarBearTF.label>bearmorph</PawnmorphPolarBearTF.label>
+  <PawnmorphPolarBearTF.description>This person has mechanites in their blood that are slowly mutating them into a bearmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more polar bear than human.</PawnmorphPolarBearTF.description>
+  <PawnmorphPolarBearTF.stages.0.label>reeling</PawnmorphPolarBearTF.stages.0.label>
+  <PawnmorphPolarBearTF.stages.1.label>transforming</PawnmorphPolarBearTF.stages.1.label>
+  <PawnmorphPolarBearTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphPolarBearTF.stages.1.letterText>
+  <PawnmorphPolarBearTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphPolarBearTF.stages.1.letterLabel>
+  <PawnmorphPolarBearTF.stages.2.label>changing</PawnmorphPolarBearTF.stages.2.label>
+  <PawnmorphPolarBearTFPartial.label>bearmorph partial</PawnmorphPolarBearTFPartial.label>
+  <PawnmorphPolarBearTFPartial.description>This person has mechanites in their blood that are providing them with polar bear-esque mutations.</PawnmorphPolarBearTFPartial.description>
+  <PawnmorphBoarTF.label>boarmorph</PawnmorphBoarTF.label>
+  <PawnmorphBoarTF.description>This person has mechanites in their blood that are slowly mutating them into a boarmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more boar than human.</PawnmorphBoarTF.description>
+  <PawnmorphBoarTF.stages.0.label>reeling</PawnmorphBoarTF.stages.0.label>
+  <PawnmorphBoarTF.stages.1.label>transforming</PawnmorphBoarTF.stages.1.label>
+  <PawnmorphBoarTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphBoarTF.stages.1.letterText>
+  <PawnmorphBoarTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphBoarTF.stages.1.letterLabel>
+  <PawnmorphBoarTF.stages.2.label>changing</PawnmorphBoarTF.stages.2.label>
+  <PawnmorphBoarTFPartial.label>boarmorph partial</PawnmorphBoarTFPartial.label>
+  <PawnmorphBoarTFPartial.description>This person has mechanites in their blood that are providing them with boar-esque mutations.</PawnmorphBoarTFPartial.description>
+  <PawnmorphBoomalopeTF.label>boomamorph</PawnmorphBoomalopeTF.label>
+  <PawnmorphBoomalopeTF.description>This person has mechanites in their blood that are slowly mutating them into a boomamorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more boomalopic than human.</PawnmorphBoomalopeTF.description>
+  <PawnmorphBoomalopeTF.stages.0.label>reeling</PawnmorphBoomalopeTF.stages.0.label>
+  <PawnmorphBoomalopeTF.stages.1.label>transforming</PawnmorphBoomalopeTF.stages.1.label>
+  <PawnmorphBoomalopeTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphBoomalopeTF.stages.1.letterText>
+  <PawnmorphBoomalopeTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphBoomalopeTF.stages.1.letterLabel>
+  <PawnmorphBoomalopeTF.stages.2.label>changing</PawnmorphBoomalopeTF.stages.2.label>
+  <PawnmorphBoomalopeTFPartial.label>boommorph partial</PawnmorphBoomalopeTFPartial.label>
+  <PawnmorphBoomalopeTFPartial.description>This person has mechanites in their blood that are providing them with boomalope-esque mutations.</PawnmorphBoomalopeTFPartial.description>
+  <PawnmorphCatTF.label>catmorph</PawnmorphCatTF.label>
+  <PawnmorphCatTF.description>This person has mechanites in their blood that are slowly mutating them into a catmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more feline than human.</PawnmorphCatTF.description>
+  <PawnmorphCatTF.stages.0.label>reeling</PawnmorphCatTF.stages.0.label>
+  <PawnmorphCatTF.stages.1.label>transforming</PawnmorphCatTF.stages.1.label>
+  <PawnmorphCatTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphCatTF.stages.1.letterText>
+  <PawnmorphCatTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphCatTF.stages.1.letterLabel>
+  <PawnmorphCatTF.stages.2.label>changing</PawnmorphCatTF.stages.2.label>
+  <PawnmorphCatTFPartial.label>catmorph partial</PawnmorphCatTFPartial.label>
+  <PawnmorphCatTFPartial.description>This person has mechanites in their blood that are providing them with cat-esque mutations.</PawnmorphCatTFPartial.description>
+  <FullRandomTFAnyOutcome.label>Chaomorph</FullRandomTFAnyOutcome.label>
+  <FullRandomTFAnyOutcome.description>This person has raw, unfocused mechanites simultaniously mutating them into every animal imaginable. Pray to Randy they don't come out the other end on all fours.</FullRandomTFAnyOutcome.description>
+  <FullRandomTFAnyOutcome.stages.0.label>reeling</FullRandomTFAnyOutcome.stages.0.label>
+  <FullRandomTFAnyOutcome.stages.1.label>transforming</FullRandomTFAnyOutcome.stages.1.label>
+  <FullRandomTFAnyOutcome.stages.2.label>changing</FullRandomTFAnyOutcome.stages.2.label>
+  <FullRandomTF.label>chaomorph partial</FullRandomTF.label>
+  <FullRandomTF.description>This person has mechanites in their blood that are providing them with all sorts of mutations.</FullRandomTF.description>
+  <PawnmorphChickenTF.label>chookmorph</PawnmorphChickenTF.label>
+  <PawnmorphChickenTF.description>This person has mechanites in their blood that are slowly mutating them into a chookmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more avian than human.</PawnmorphChickenTF.description>
+  <PawnmorphChickenTF.stages.0.label>reeling</PawnmorphChickenTF.stages.0.label>
+  <PawnmorphChickenTF.stages.1.label>transforming</PawnmorphChickenTF.stages.1.label>
+  <PawnmorphChickenTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphChickenTF.stages.1.letterText>
+  <PawnmorphChickenTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphChickenTF.stages.1.letterLabel>
+  <PawnmorphChickenTF.stages.2.label>changing</PawnmorphChickenTF.stages.2.label>
+  <PawnmorphChickenTFPartial.label>chookmorph partial</PawnmorphChickenTFPartial.label>
+  <PawnmorphChickenTFPartial.description>This person has mechanites in their blood that are providing them with chicken-esque mutations.</PawnmorphChickenTFPartial.description>
+  <PawnmorphSnakeTF.label>cobramorph</PawnmorphSnakeTF.label>
+  <PawnmorphSnakeTF.description>This person has mechanites in their blood that are slowly mutating them into a cobramorph. Keep an eye on them, or they might just show you how snakelike they can be.</PawnmorphSnakeTF.description>
+  <PawnmorphSnakeTF.stages.0.label>reeling</PawnmorphSnakeTF.stages.0.label>
+  <PawnmorphSnakeTF.stages.1.label>transforming</PawnmorphSnakeTF.stages.1.label>
+  <PawnmorphSnakeTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphSnakeTF.stages.1.letterText>
+  <PawnmorphSnakeTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphSnakeTF.stages.1.letterLabel>
+  <PawnmorphSnakeTF.stages.2.label>changing</PawnmorphSnakeTF.stages.2.label>
+  <PawnmorphSnakeTFPartial.label>cobramorph partial</PawnmorphSnakeTFPartial.label>
+  <PawnmorphSnakeTFPartial.description>This person has mechanites in their blood that are providing them with cobra-esque mutations.</PawnmorphSnakeTFPartial.description>
+  <PM_HellhoundTf.label>hellhoundmorph</PM_HellhoundTf.label>
+  <PM_HellhoundTf.description>This person has mechanites in their blood that are slowly mutating them into a hellhound. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more canine than human.</PM_HellhoundTf.description>
+  <PM_HellhoundTf.stages.0.label>reeling</PM_HellhoundTf.stages.0.label>
+  <PM_HellhoundTf.stages.1.label>transforming</PM_HellhoundTf.stages.1.label>
+  <PM_HellhoundTf.stages.1.letterText>TransformationStageWarningContent</PM_HellhoundTf.stages.1.letterText>
+  <PM_HellhoundTf.stages.1.letterLabel>TransformationStageWarningLabel</PM_HellhoundTf.stages.1.letterLabel>
+  <PM_HellhoundTf.stages.2.label>changing</PM_HellhoundTf.stages.2.label>
+  <PM_HellhoundTfPartial.label>hellhoundmorph partial</PM_HellhoundTfPartial.label>
+  <PM_HellhoundTfPartial.description>This person has mechanites in their blood that are providing them with hellhound mutations.</PM_HellhoundTfPartial.description>
+  <PawnmorphCougarTF.label>cougarmorph</PawnmorphCougarTF.label>
+  <PawnmorphCougarTF.description>This person has mechanites in their blood that are slowly mutating them into a cougarmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more feline than human.</PawnmorphCougarTF.description>
+  <PawnmorphCougarTF.stages.0.label>reeling</PawnmorphCougarTF.stages.0.label>
+  <PawnmorphCougarTF.stages.1.label>transforming</PawnmorphCougarTF.stages.1.label>
+  <PawnmorphCougarTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphCougarTF.stages.1.letterText>
+  <PawnmorphCougarTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphCougarTF.stages.1.letterLabel>
+  <PawnmorphCougarTF.stages.2.label>changing</PawnmorphCougarTF.stages.2.label>
+  <PawnmorphCougarTFPartial.label>cougarmorph partial</PawnmorphCougarTFPartial.label>
+  <PawnmorphCougarTFPartial.description>This person has mechanites in their blood that are providing them with cougar-esque mutations.</PawnmorphCougarTFPartial.description>
+  <PawnmorphCowTF.label>cowmorph</PawnmorphCowTF.label>
+  <PawnmorphCowTF.description>This person has mechanites in their blood that are slowly mutating them into a cowmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more bovine than human.</PawnmorphCowTF.description>
+  <PawnmorphCowTF.stages.0.label>reeling</PawnmorphCowTF.stages.0.label>
+  <PawnmorphCowTF.stages.1.label>transforming</PawnmorphCowTF.stages.1.label>
+  <PawnmorphCowTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphCowTF.stages.1.letterText>
+  <PawnmorphCowTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphCowTF.stages.1.letterLabel>
+  <PawnmorphCowTF.stages.2.label>changing</PawnmorphCowTF.stages.2.label>
+  <PawnmorphCowTFPartial.label>cowmorph partial</PawnmorphCowTFPartial.label>
+  <PawnmorphCowTFPartial.description>This person has mechanites in their blood that are providing them with cow-esque mutations.</PawnmorphCowTFPartial.description>
+  <PawnmorphDeerTF.label>deermorph</PawnmorphDeerTF.label>
+  <PawnmorphDeerTF.description>This person has mechanites in their blood that are slowly mutating them into a deermorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more cervine than human.</PawnmorphDeerTF.description>
+  <PawnmorphDeerTF.stages.0.label>reeling</PawnmorphDeerTF.stages.0.label>
+  <PawnmorphDeerTF.stages.1.label>transforming</PawnmorphDeerTF.stages.1.label>
+  <PawnmorphDeerTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphDeerTF.stages.1.letterText>
+  <PawnmorphDeerTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphDeerTF.stages.1.letterLabel>
+  <PawnmorphDeerTF.stages.2.label>changing</PawnmorphDeerTF.stages.2.label>
+  <PawnmorphDeerTFPartial.label>deermorph partial</PawnmorphDeerTFPartial.label>
+  <PawnmorphDeerTFPartial.description>This person has mechanites in their blood that are providing them with deer-esque mutations.</PawnmorphDeerTFPartial.description>
+  <PawnmorphDonkeyTF.label>donkeymorph</PawnmorphDonkeyTF.label>
+  <PawnmorphDonkeyTF.description>This person has mechanites in their blood that are slowly mutating them into a donkeymorph. Keep an eye on them, as leaving the mechanites unattended may have them braying for more.</PawnmorphDonkeyTF.description>
+  <PawnmorphDonkeyTF.stages.0.label>reeling</PawnmorphDonkeyTF.stages.0.label>
+  <PawnmorphDonkeyTF.stages.1.label>transforming</PawnmorphDonkeyTF.stages.1.label>
+  <PawnmorphDonkeyTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphDonkeyTF.stages.1.letterText>
+  <PawnmorphDonkeyTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphDonkeyTF.stages.1.letterLabel>
+  <PawnmorphDonkeyTF.stages.2.label>changing</PawnmorphDonkeyTF.stages.2.label>
+  <PawnmorphDonkeyTFPartial.label>donkeymorph partial</PawnmorphDonkeyTFPartial.label>
+  <PawnmorphDonkeyTFPartial.description>This person has mechanites in their blood that are providing them with donkey-like mutations.</PawnmorphDonkeyTFPartial.description>
+  <PawnmorphElephantTF.label>elephantmorph</PawnmorphElephantTF.label>
+  <PawnmorphElephantTF.description>This person has mechanites in their blood that are slowly mutating them into a elephantmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming larger than life.</PawnmorphElephantTF.description>
+  <PawnmorphElephantTF.stages.0.label>reeling</PawnmorphElephantTF.stages.0.label>
+  <PawnmorphElephantTF.stages.1.label>transforming</PawnmorphElephantTF.stages.1.label>
+  <PawnmorphElephantTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphElephantTF.stages.1.letterText>
+  <PawnmorphElephantTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphElephantTF.stages.1.letterLabel>
+  <PawnmorphElephantTF.stages.2.label>changing</PawnmorphElephantTF.stages.2.label>
+  <PawnmorphElephantTFPartial.label>elephantmorph partial</PawnmorphElephantTFPartial.label>
+  <PawnmorphElephantTFPartial.description>This person has mechanites in their blood that are providing them with elephant-esque mutations.</PawnmorphElephantTFPartial.description>
+  <PawnmorphArcticFoxTF.label>foxmorph</PawnmorphArcticFoxTF.label>
+  <PawnmorphArcticFoxTF.description>This person has mechanites in their blood that are slowly mutating them into an arctic variety of foxmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more vulpine than human.</PawnmorphArcticFoxTF.description>
+  <PawnmorphArcticFoxTF.stages.0.label>reeling</PawnmorphArcticFoxTF.stages.0.label>
+  <PawnmorphArcticFoxTF.stages.1.label>transforming</PawnmorphArcticFoxTF.stages.1.label>
+  <PawnmorphArcticFoxTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphArcticFoxTF.stages.1.letterText>
+  <PawnmorphArcticFoxTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphArcticFoxTF.stages.1.letterLabel>
+  <PawnmorphArcticFoxTF.stages.2.label>changing</PawnmorphArcticFoxTF.stages.2.label>
+  <PawnmorphArcticFoxTFPartial.label>arcticfoxmorph partial</PawnmorphArcticFoxTFPartial.label>
+  <PawnmorphArcticFoxTFPartial.description>This person has mechanites in their blood that are providing them with arctic fox-esque mutations.</PawnmorphArcticFoxTFPartial.description>
+  <PawnmorphFennecFoxTF.label>foxmorph</PawnmorphFennecFoxTF.label>
+  <PawnmorphFennecFoxTF.description>This person has mechanites in their blood that are slowly mutating them into a foxmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more fennec than human. But would that really be so bad?</PawnmorphFennecFoxTF.description>
+  <PawnmorphFennecFoxTF.stages.0.label>reeling</PawnmorphFennecFoxTF.stages.0.label>
+  <PawnmorphFennecFoxTF.stages.1.label>transforming</PawnmorphFennecFoxTF.stages.1.label>
+  <PawnmorphFennecFoxTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphFennecFoxTF.stages.1.letterText>
+  <PawnmorphFennecFoxTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphFennecFoxTF.stages.1.letterLabel>
+  <PawnmorphFennecFoxTF.stages.2.label>changing</PawnmorphFennecFoxTF.stages.2.label>
+  <PawnmorphFennecFoxTFPartial.label>fennecfoxmorph partial</PawnmorphFennecFoxTFPartial.label>
+  <PawnmorphFennecFoxTFPartial.description>This person has mechanites in their blood that are providing them with fennec-esque mutations.</PawnmorphFennecFoxTFPartial.description>
+  <PawnmorphFoxTF.label>foxmorph</PawnmorphFoxTF.label>
+  <PawnmorphFoxTF.description>This person has mechanites in their blood that are slowly mutating them into a foxmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming a far more cunning version of themselves.</PawnmorphFoxTF.description>
+  <PawnmorphFoxTF.stages.0.label>reeling</PawnmorphFoxTF.stages.0.label>
+  <PawnmorphFoxTF.stages.1.label>transforming</PawnmorphFoxTF.stages.1.label>
+  <PawnmorphFoxTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphFoxTF.stages.1.letterText>
+  <PawnmorphFoxTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphFoxTF.stages.1.letterLabel>
+  <PawnmorphFoxTF.stages.2.label>changing</PawnmorphFoxTF.stages.2.label>
+  <PawnmorphFoxTFPartial.label>redfoxmorph partial</PawnmorphFoxTFPartial.label>
+  <PawnmorphFoxTFPartial.description>This person has mechanites in their blood that are providing them with fox-esque mutations.</PawnmorphFoxTFPartial.description>
+  <PawnmorphHareTF.label>haremorph</PawnmorphHareTF.label>
+  <PawnmorphHareTF.description>This person has mechanites in their blood that are slowly mutating them into a haremorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more rabbit-like than human.</PawnmorphHareTF.description>
+  <PawnmorphHareTF.stages.0.label>reeling</PawnmorphHareTF.stages.0.label>
+  <PawnmorphHareTF.stages.1.label>transforming</PawnmorphHareTF.stages.1.label>
+  <PawnmorphHareTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphHareTF.stages.1.letterText>
+  <PawnmorphHareTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphHareTF.stages.1.letterLabel>
+  <PawnmorphHareTF.stages.2.label>changing</PawnmorphHareTF.stages.2.label>
+  <PawnmorphHareTFPartial.label>haremorph partial</PawnmorphHareTFPartial.label>
+  <PawnmorphHareTFPartial.description>This person has mechanites in their blood that are providing them with hare-esque mutations.</PawnmorphHareTFPartial.description>
+  <PawnmorphSnowhareTF.label>snowharemorph</PawnmorphSnowhareTF.label>
+  <PawnmorphSnowhareTF.description>This person has mechanites in their blood that are slowly mutating them into a snowharemorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more prolific than a human.</PawnmorphSnowhareTF.description>
+  <PawnmorphSnowhareTF.stages.0.label>reeling</PawnmorphSnowhareTF.stages.0.label>
+  <PawnmorphSnowhareTF.stages.1.label>transforming</PawnmorphSnowhareTF.stages.1.label>
+  <PawnmorphSnowhareTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphSnowhareTF.stages.1.letterText>
+  <PawnmorphSnowhareTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphSnowhareTF.stages.1.letterLabel>
+  <PawnmorphSnowhareTF.stages.2.label>changing</PawnmorphSnowhareTF.stages.2.label>
+  <PawnmorphSnowhareTFPartial.label>snowharemorph partial</PawnmorphSnowhareTFPartial.label>
+  <PawnmorphSnowhareTFPartial.description>This person has mechanites in their blood that are providing them with snowhare-esque mutations.</PawnmorphSnowhareTFPartial.description>
+  <PawnmorphHorseTF.label>horsemorph</PawnmorphHorseTF.label>
+  <PawnmorphHorseTF.description>This person has mechanites in their blood that are slowly mutating them into a horsemorph. Keep an eye on them, as leaving the mechanites unattended may leave them feeling a little hoarse.</PawnmorphHorseTF.description>
+  <PawnmorphHorseTF.stages.0.label>reeling</PawnmorphHorseTF.stages.0.label>
+  <PawnmorphHorseTF.stages.1.label>transforming</PawnmorphHorseTF.stages.1.label>
+  <PawnmorphHorseTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphHorseTF.stages.1.letterText>
+  <PawnmorphHorseTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphHorseTF.stages.1.letterLabel>
+  <PawnmorphHorseTF.stages.2.label>changing</PawnmorphHorseTF.stages.2.label>
+  <PawnmorphHorseTFPartial.label>horsemorph partial</PawnmorphHorseTFPartial.label>
+  <PawnmorphHorseTFPartial.description>This person has mechanites in their blood that are providing them with horse-esque mutations.</PawnmorphHorseTFPartial.description>
+  <PawnmorphHuskyTF.label>huskymorph</PawnmorphHuskyTF.label>
+  <PawnmorphHuskyTF.description>This person has mechanites in their blood that are slowly mutating them into a huskymorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more canine than human.</PawnmorphHuskyTF.description>
+  <PawnmorphHuskyTF.stages.0.label>reeling</PawnmorphHuskyTF.stages.0.label>
+  <PawnmorphHuskyTF.stages.1.label>transforming</PawnmorphHuskyTF.stages.1.label>
+  <PawnmorphHuskyTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphHuskyTF.stages.1.letterText>
+  <PawnmorphHuskyTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphHuskyTF.stages.1.letterLabel>
+  <PawnmorphHuskyTF.stages.2.label>changing</PawnmorphHuskyTF.stages.2.label>
+  <PawnmorphHuskyTFPartial.label>huskymorph partial</PawnmorphHuskyTFPartial.label>
+  <PawnmorphHuskyTFPartial.description>This person has mechanites in their blood that are providing them with husky-esque mutations.</PawnmorphHuskyTFPartial.description>
+  <PawnmorphIguanaTF.label>iguanamorph</PawnmorphIguanaTF.label>
+  <PawnmorphIguanaTF.description>This person has mechanites in their blood that are slowly mutating them into a iguanamorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more reptilian than human.</PawnmorphIguanaTF.description>
+  <PawnmorphIguanaTF.stages.0.label>reeling</PawnmorphIguanaTF.stages.0.label>
+  <PawnmorphIguanaTF.stages.1.label>transforming</PawnmorphIguanaTF.stages.1.label>
+  <PawnmorphIguanaTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphIguanaTF.stages.1.letterText>
+  <PawnmorphIguanaTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphIguanaTF.stages.1.letterLabel>
+  <PawnmorphIguanaTF.stages.2.label>changing</PawnmorphIguanaTF.stages.2.label>
+  <PawnmorphIguanaTFPartial.label>iguanamorph partial</PawnmorphIguanaTFPartial.label>
+  <PawnmorphIguanaTFPartial.description>This person has mechanites in their blood that are providing them with iguana-esque mutations.</PawnmorphIguanaTFPartial.description>
+  <PawnmorphLynxTF.label>lynxmorph</PawnmorphLynxTF.label>
+  <PawnmorphLynxTF.description>This person has mechanites in their blood that are slowly mutating them into a lynxmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more feline than human.</PawnmorphLynxTF.description>
+  <PawnmorphLynxTF.stages.0.label>reeling</PawnmorphLynxTF.stages.0.label>
+  <PawnmorphLynxTF.stages.1.label>transforming</PawnmorphLynxTF.stages.1.label>
+  <PawnmorphLynxTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphLynxTF.stages.1.letterText>
+  <PawnmorphLynxTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphLynxTF.stages.1.letterLabel>
+  <PawnmorphLynxTF.stages.2.label>changing</PawnmorphLynxTF.stages.2.label>
+  <PawnmorphLynxTFPartial.label>lynxmorph partial</PawnmorphLynxTFPartial.label>
+  <PawnmorphLynxTFPartial.description>This person has mechanites in their blood that are providing them with lynx-esque mutations.</PawnmorphLynxTFPartial.description>
+  <PawnmorphMegaslothTF.label>megamorph</PawnmorphMegaslothTF.label>
+  <PawnmorphMegaslothTF.description>This person has mechanites in their blood that are slowly mutating them into a megamorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far hairier than normal.</PawnmorphMegaslothTF.description>
+  <PawnmorphMegaslothTF.stages.0.label>reeling</PawnmorphMegaslothTF.stages.0.label>
+  <PawnmorphMegaslothTF.stages.1.label>transforming</PawnmorphMegaslothTF.stages.1.label>
+  <PawnmorphMegaslothTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphMegaslothTF.stages.1.letterText>
+  <PawnmorphMegaslothTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphMegaslothTF.stages.1.letterLabel>
+  <PawnmorphMegaslothTF.stages.2.label>changing</PawnmorphMegaslothTF.stages.2.label>
+  <PawnmorphMegaslothTFPartial.label>megamorph partial</PawnmorphMegaslothTFPartial.label>
+  <PawnmorphMegaslothTFPartial.description>This person has mechanites in their blood that are providing them with megasloth-esque mutations.</PawnmorphMegaslothTFPartial.description>
+  <PawnmorphMonkeyTF.label>monkeymorph</PawnmorphMonkeyTF.label>
+  <PawnmorphMonkeyTF.description>This person has mechanites in their blood that are slowly mutating them into a monkeymorph. Keep an eye on them, as leaving the mechanites unattended could lead to them flining poop at passersby.</PawnmorphMonkeyTF.description>
+  <PawnmorphMonkeyTF.stages.0.label>reeling</PawnmorphMonkeyTF.stages.0.label>
+  <PawnmorphMonkeyTF.stages.1.label>transforming</PawnmorphMonkeyTF.stages.1.label>
+  <PawnmorphMonkeyTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphMonkeyTF.stages.1.letterText>
+  <PawnmorphMonkeyTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphMonkeyTF.stages.1.letterLabel>
+  <PawnmorphMonkeyTF.stages.2.label>changing</PawnmorphMonkeyTF.stages.2.label>
+  <PawnmorphMonkeyTFPartial.label>monkeymorph partial</PawnmorphMonkeyTFPartial.label>
+  <PawnmorphMonkeyTFPartial.description>This person has mechanites in their blood that are providing them with monkey-esque mutations.</PawnmorphMonkeyTFPartial.description>
+  <PawnmorphPantherTF.label>panthermorph</PawnmorphPantherTF.label>
+  <PawnmorphPantherTF.description>This person has mechanites in their blood that are slowly mutating them into a panthermorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more feline than human.</PawnmorphPantherTF.description>
+  <PawnmorphPantherTF.stages.0.label>reeling</PawnmorphPantherTF.stages.0.label>
+  <PawnmorphPantherTF.stages.1.label>transforming</PawnmorphPantherTF.stages.1.label>
+  <PawnmorphPantherTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphPantherTF.stages.1.letterText>
+  <PawnmorphPantherTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphPantherTF.stages.1.letterLabel>
+  <PawnmorphPantherTF.stages.2.label>changing</PawnmorphPantherTF.stages.2.label>
+  <PawnmorphPantherTFPartial.label>panthermorph partial</PawnmorphPantherTFPartial.label>
+  <PawnmorphPantherTFPartial.description>This person has mechanites in their blood that are providing them with panther-esque mutations.</PawnmorphPantherTFPartial.description>
+  <PawnmorphPigTF.label>pigmorph</PawnmorphPigTF.label>
+  <PawnmorphPigTF.description>This person has mechanites in their blood that are slowly mutating them into a pigmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more suid than human.</PawnmorphPigTF.description>
+  <PawnmorphPigTF.stages.0.label>reeling</PawnmorphPigTF.stages.0.label>
+  <PawnmorphPigTF.stages.1.label>transforming</PawnmorphPigTF.stages.1.label>
+  <PawnmorphPigTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphPigTF.stages.1.letterText>
+  <PawnmorphPigTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphPigTF.stages.1.letterLabel>
+  <PawnmorphPigTF.stages.2.label>changing</PawnmorphPigTF.stages.2.label>
+  <PawnmorphPigTFPartial.label>pigmorph partial</PawnmorphPigTFPartial.label>
+  <PawnmorphPigTFPartial.description>This person has mechanites in their blood that are providing them with pig-esque mutations.</PawnmorphPigTFPartial.description>
+  <PawnmorphRaccoonTF.label>raccoonmorph</PawnmorphRaccoonTF.label>
+  <PawnmorphRaccoonTF.description>This person has mechanites in their blood that are slowly mutating them into a raccoonmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more raccoon than human.</PawnmorphRaccoonTF.description>
+  <PawnmorphRaccoonTF.stages.0.label>reeling</PawnmorphRaccoonTF.stages.0.label>
+  <PawnmorphRaccoonTF.stages.1.label>transforming</PawnmorphRaccoonTF.stages.1.label>
+  <PawnmorphRaccoonTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphRaccoonTF.stages.1.letterText>
+  <PawnmorphRaccoonTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphRaccoonTF.stages.1.letterLabel>
+  <PawnmorphRaccoonTF.stages.2.label>changing</PawnmorphRaccoonTF.stages.2.label>
+  <PawnmorphRaccoonTFPartial.label>raccoonmorph partial</PawnmorphRaccoonTFPartial.label>
+  <PawnmorphRaccoonTFPartial.description>This person has mechanites in their blood that are providing them with raccoon-esque mutations.</PawnmorphRaccoonTFPartial.description>
+  <PawnmorphRatTF.label>ratmorph</PawnmorphRatTF.label>
+  <PawnmorphRatTF.description>This person has mechanites in their blood that are slowly mutating them into a ratmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more rat-like than human.</PawnmorphRatTF.description>
+  <PawnmorphRatTF.stages.0.label>reeling</PawnmorphRatTF.stages.0.label>
+  <PawnmorphRatTF.stages.1.label>transforming</PawnmorphRatTF.stages.1.label>
+  <PawnmorphRatTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphRatTF.stages.1.letterText>
+  <PawnmorphRatTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphRatTF.stages.1.letterLabel>
+  <PawnmorphRatTF.stages.2.label>changing</PawnmorphRatTF.stages.2.label>
+  <PawnmorphRatTFPartial.label>ratmorph partial</PawnmorphRatTFPartial.label>
+  <PawnmorphRatTFPartial.description>This person has mechanites in their blood that are providing them with rat-esque mutations.</PawnmorphRatTFPartial.description>
+  <PawnmorphRhinocerosTF.label>rhinocerosmorph</PawnmorphRhinocerosTF.label>
+  <PawnmorphRhinocerosTF.description>This person has mechanites in their blood that are slowly mutating them into a rhinomorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far hornier.</PawnmorphRhinocerosTF.description>
+  <PawnmorphRhinocerosTF.stages.0.label>reeling</PawnmorphRhinocerosTF.stages.0.label>
+  <PawnmorphRhinocerosTF.stages.1.label>transforming</PawnmorphRhinocerosTF.stages.1.label>
+  <PawnmorphRhinocerosTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphRhinocerosTF.stages.1.letterText>
+  <PawnmorphRhinocerosTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphRhinocerosTF.stages.1.letterLabel>
+  <PawnmorphRhinocerosTF.stages.2.label>changing</PawnmorphRhinocerosTF.stages.2.label>
+  <PawnmorphRhinocerosTFPartial.label>rhinocerosmorph partial</PawnmorphRhinocerosTFPartial.label>
+  <PawnmorphRhinocerosTFPartial.description>This person has mechanites in their blood that are providing them with rhinoceros-esque mutations.</PawnmorphRhinocerosTFPartial.description>
+  <PawnmorphSheepTF.label>sheepmorph</PawnmorphSheepTF.label>
+  <PawnmorphSheepTF.description>This person has mechanites in their blood that are slowly mutating them into a sheepmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more sheepish.</PawnmorphSheepTF.description>
+  <PawnmorphSheepTF.stages.0.label>reeling</PawnmorphSheepTF.stages.0.label>
+  <PawnmorphSheepTF.stages.1.label>transforming</PawnmorphSheepTF.stages.1.label>
+  <PawnmorphSheepTF.stages.1.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</PawnmorphSheepTF.stages.1.letterText>
+  <PawnmorphSheepTF.stages.1.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</PawnmorphSheepTF.stages.1.letterLabel>
+  <PawnmorphSheepTF.stages.2.label>changing</PawnmorphSheepTF.stages.2.label>
+  <PawnmorphSheepTFPartial.label>sheepmorph partial</PawnmorphSheepTFPartial.label>
+  <PawnmorphSheepTFPartial.description>This person has mechanites in their blood that are providing them with sheep-esque mutations.</PawnmorphSheepTFPartial.description>
+  <PawnmorphSquirrelTF.label>squirrelmorph</PawnmorphSquirrelTF.label>
+  <PawnmorphSquirrelTF.description>This person has mechanites in their blood that are slowly mutating them into a squirrelmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more squirrely than human.</PawnmorphSquirrelTF.description>
+  <PawnmorphSquirrelTF.stages.0.label>reeling</PawnmorphSquirrelTF.stages.0.label>
+  <PawnmorphSquirrelTF.stages.1.label>transforming</PawnmorphSquirrelTF.stages.1.label>
+  <PawnmorphSquirrelTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphSquirrelTF.stages.1.letterText>
+  <PawnmorphSquirrelTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphSquirrelTF.stages.1.letterLabel>
+  <PawnmorphSquirrelTF.stages.2.label>changing</PawnmorphSquirrelTF.stages.2.label>
+  <PawnmorphSquirrelTFPartial.label>squirrelmorph partial</PawnmorphSquirrelTFPartial.label>
+  <PawnmorphSquirrelTFPartial.description>This person has mechanites in their blood that are providing them with squirrel-esque mutations.</PawnmorphSquirrelTFPartial.description>
+  <PawnmorphThrumboTF.label>thrumbomorph</PawnmorphThrumboTF.label>
+  <PawnmorphThrumboTF.description>This person has mechanites in their blood that are slowly mutating them into a thrumbomorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far wiser.</PawnmorphThrumboTF.description>
+  <PawnmorphThrumboTF.stages.0.label>reeling</PawnmorphThrumboTF.stages.0.label>
+  <PawnmorphThrumboTF.stages.1.label>transforming</PawnmorphThrumboTF.stages.1.label>
+  <PawnmorphThrumboTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphThrumboTF.stages.1.letterText>
+  <PawnmorphThrumboTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphThrumboTF.stages.1.letterLabel>
+  <PawnmorphThrumboTF.stages.2.label>changing</PawnmorphThrumboTF.stages.2.label>
+  <PawnmorphThrumboTFPartial.label>thrumbomorph partial</PawnmorphThrumboTFPartial.label>
+  <PawnmorphThrumboTFPartial.description>This person has mechanites in their blood that are providing them with thrumbo-esque mutations.</PawnmorphThrumboTFPartial.description>
+  <PawnmorphTortoiseTF.label>tortoisemorph</PawnmorphTortoiseTF.label>
+  <PawnmorphTortoiseTF.description>!!!TortoiseMorph needs a description!!!</PawnmorphTortoiseTF.description>
+  <PawnmorphTortoiseTF.stages.0.label>reeling</PawnmorphTortoiseTF.stages.0.label>
+  <PawnmorphTortoiseTF.stages.1.label>transforming</PawnmorphTortoiseTF.stages.1.label>
+  <PawnmorphTortoiseTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphTortoiseTF.stages.1.letterText>
+  <PawnmorphTortoiseTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphTortoiseTF.stages.1.letterLabel>
+  <PawnmorphTortoiseTF.stages.2.label>changing</PawnmorphTortoiseTF.stages.2.label>
+  <PawnmorphTortoiseTFPartial.label>tortoisemorph partial</PawnmorphTortoiseTFPartial.label>
+  <PawnmorphTortoiseTFPartial.description>needs a description!!!</PawnmorphTortoiseTFPartial.description>
+  <PawnmorphWargTF.label>wargmorph</PawnmorphWargTF.label>
+  <PawnmorphWargTF.description>This person has mechanites in their blood that are slowly mutating them into a wargmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far fiercer.</PawnmorphWargTF.description>
+  <PawnmorphWargTF.stages.0.label>reeling</PawnmorphWargTF.stages.0.label>
+  <PawnmorphWargTF.stages.1.label>transforming</PawnmorphWargTF.stages.1.label>
+  <PawnmorphWargTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphWargTF.stages.1.letterText>
+  <PawnmorphWargTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphWargTF.stages.1.letterLabel>
+  <PawnmorphWargTF.stages.2.label>changing</PawnmorphWargTF.stages.2.label>
+  <PawnmorphWargTFPartial.label>wargmorph partial</PawnmorphWargTFPartial.label>
+  <PawnmorphWargTFPartial.description>This person has mechanites in their blood that are providing them with warg-esque mutations.</PawnmorphWargTFPartial.description>
+  <PawnmorphArcticWolfTF.label>arcticwolfmorph</PawnmorphArcticWolfTF.label>
+  <PawnmorphArcticWolfTF.description>This person has mechanites in their blood that are slowly mutating them into a articwolfmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more wolfish than human.</PawnmorphArcticWolfTF.description>
+  <PawnmorphArcticWolfTF.stages.0.label>reeling</PawnmorphArcticWolfTF.stages.0.label>
+  <PawnmorphArcticWolfTF.stages.1.label>transforming</PawnmorphArcticWolfTF.stages.1.label>
+  <PawnmorphArcticWolfTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphArcticWolfTF.stages.1.letterText>
+  <PawnmorphArcticWolfTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphArcticWolfTF.stages.1.letterLabel>
+  <PawnmorphArcticWolfTF.stages.2.label>changing</PawnmorphArcticWolfTF.stages.2.label>
+  <PawnmorphArcticWolfTFPartial.label>arcticwolfmorph partial</PawnmorphArcticWolfTFPartial.label>
+  <PawnmorphArcticWolfTFPartial.description>This person has mechanites in their blood that are providing them with arcitc wolf-esque mutations.</PawnmorphArcticWolfTFPartial.description>
+  <PawnmorphWolfTF.label>wolfmorph</PawnmorphWolfTF.label>
+  <PawnmorphWolfTF.description>This person has mechanites in their blood that are slowly mutating them into a articwolfmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more wolfish than human. But would that really be so bad?</PawnmorphWolfTF.description>
+  <PawnmorphWolfTF.stages.0.label>reeling</PawnmorphWolfTF.stages.0.label>
+  <PawnmorphWolfTF.stages.1.label>transforming</PawnmorphWolfTF.stages.1.label>
+  <PawnmorphWolfTF.stages.1.letterText>TransformationStageWarningContent</PawnmorphWolfTF.stages.1.letterText>
+  <PawnmorphWolfTF.stages.1.letterLabel>TransformationStageWarningLabel</PawnmorphWolfTF.stages.1.letterLabel>
+  <PawnmorphWolfTF.stages.2.label>changing</PawnmorphWolfTF.stages.2.label>
+  <PawnmorphWolfTFPartial.label>timberwolfmorph partial</PawnmorphWolfTFPartial.label>
+  <PawnmorphWolfTFPartial.description>This person has mechanites in their blood that are providing them with timber wolf-esque mutations.</PawnmorphWolfTFPartial.description>
+  <TFDirtInEyes.label>mutagenic dirt</TFDirtInEyes.label>
+  <TFDirtInEyes.description>This feature is unimplemented, so you probably shouldn't be seeeing this hediff.</TFDirtInEyes.description>
+  <TFDirtInEyes.labelNoun>mutagenic dirt</TFDirtInEyes.labelNoun>
+  <OozeInEyes.label>oozed</OozeInEyes.label>
+  <OozeInEyes.description>This feature is unimplemented, so you probably shouldn't be seeeing this hediff.</OozeInEyes.description>
+  <OozeInEyes.labelNoun>oozed</OozeInEyes.labelNoun>
+  <TFPlantAddiction.label>mutaplant need</TFPlantAddiction.label>
+  <TFPlantAddiction.description>This person has a developed a dependancy on mutagenic plants. Take care to not let them go without it, as withdrawal symtoms risk them transforming into an animal.</TFPlantAddiction.description>
+  <TFPlantAddiction.stages.1.label>withdrawal</TFPlantAddiction.stages.1.label>
+  <SapienceLimiterHediff.description>An implanted sapiostore mesh.</SapienceLimiterHediff.description>
+  <TFMilkAddiction.label>milk addiction</TFMilkAddiction.label>
+  <TFMilkAddiction.description>This person has a developed a dependancy on morph milk. Take care to not let them go without it, as withdrawal symtoms risk them transforming into a cow.</TFMilkAddiction.description>
+  <TFMilkAddiction.stages.1.label>withdrawal</TFMilkAddiction.stages.1.label>
+  <TFEggAddiction.label>egg addiction</TFEggAddiction.label>
+  <TFEggAddiction.description>This person has a developed a dependancy on chook eggs. Take care to not let them go without it, as withdrawal symtoms risk them transforming into a chicken.</TFEggAddiction.description>
+  <TFEggAddiction.stages.1.label>withdrawal</TFEggAddiction.stages.1.label>
+</LanguageData>

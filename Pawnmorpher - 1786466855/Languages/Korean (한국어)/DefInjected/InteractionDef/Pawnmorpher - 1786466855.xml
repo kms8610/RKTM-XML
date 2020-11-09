@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PawnmorphMoo.label>moo</PawnmorphMoo.label>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [talkedabout] [RECIPIENT_nameDef].</PawnmorphMoo.logRulesInitiator.rulesStrings.0>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [askedabout].</PawnmorphMoo.logRulesInitiator.rulesStrings.1>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] mooed at [RECIPIENT_nameDef] to [askedaboutme].</PawnmorphMoo.logRulesInitiator.rulesStrings.2>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->mooed at</PawnmorphMoo.logRulesInitiator.rulesStrings.3>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.4>talkedabout->let out a sudden moo to</PawnmorphMoo.logRulesInitiator.rulesStrings.4>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.5>talkedabout->tried to speak, but fell to a moo</PawnmorphMoo.logRulesInitiator.rulesStrings.5>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.6>talkedabout->loudly mooed towards</PawnmorphMoo.logRulesInitiator.rulesStrings.6>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.7>talkedabout->snorted and mooed to</PawnmorphMoo.logRulesInitiator.rulesStrings.7>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.8>talkedabout->quietly mooed at</PawnmorphMoo.logRulesInitiator.rulesStrings.8>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.9>talkedabout->moaned like a cow at</PawnmorphMoo.logRulesInitiator.rulesStrings.9>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.10>askedabout->milk</PawnmorphMoo.logRulesInitiator.rulesStrings.10>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.11>askedabout->eating grass</PawnmorphMoo.logRulesInitiator.rulesStrings.11>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.12>askedabout->chewing cud</PawnmorphMoo.logRulesInitiator.rulesStrings.12>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.13>askedabout->dairy farms</PawnmorphMoo.logRulesInitiator.rulesStrings.13>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.14>askedaboutme->feed [INITIATOR_objective] grass</PawnmorphMoo.logRulesInitiator.rulesStrings.14>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.15>askedaboutme->change [INITIATOR_objective] back</PawnmorphMoo.logRulesInitiator.rulesStrings.15>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.16>askedaboutme->give [INITIATOR_objective] hay</PawnmorphMoo.logRulesInitiator.rulesStrings.16>
+  <PawnmorphMoo.logRulesInitiator.rulesStrings.17>askedaboutme->give [INITIATOR_objective] a bell</PawnmorphMoo.logRulesInitiator.rulesStrings.17>
+  <PawnmorphBleat.label>baa</PawnmorphBleat.label>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [talkedabout] [RECIPIENT_nameDef].</PawnmorphBleat.logRulesInitiator.rulesStrings.0>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [askedabout].</PawnmorphBleat.logRulesInitiator.rulesStrings.1>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] bleated at [RECIPIENT_nameDef] to [askedaboutme].</PawnmorphBleat.logRulesInitiator.rulesStrings.2>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] baa'd at [RECIPIENT_nameDef] to [askedaboutme].</PawnmorphBleat.logRulesInitiator.rulesStrings.3>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.4>talkedabout(p=4)->bleated at</PawnmorphBleat.logRulesInitiator.rulesStrings.4>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.5>talkedabout->let out a sudden baa to</PawnmorphBleat.logRulesInitiator.rulesStrings.5>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.6>talkedabout->let out a sudden bleat to</PawnmorphBleat.logRulesInitiator.rulesStrings.6>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.7>talkedabout->tried to speak, but let a bleat slip out</PawnmorphBleat.logRulesInitiator.rulesStrings.7>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.8>talkedabout->loudly baa'd towards</PawnmorphBleat.logRulesInitiator.rulesStrings.8>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.9>talkedabout->snorted and bleated to</PawnmorphBleat.logRulesInitiator.rulesStrings.9>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.10>talkedabout->quietly baa'd at</PawnmorphBleat.logRulesInitiator.rulesStrings.10>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.11>askedabout->shearing [INITIATOR_objective]</PawnmorphBleat.logRulesInitiator.rulesStrings.11>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.12>askedabout->wool</PawnmorphBleat.logRulesInitiator.rulesStrings.12>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.13>askedabout->eating grass</PawnmorphBleat.logRulesInitiator.rulesStrings.13>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.14>askedabout->joining a flock</PawnmorphBleat.logRulesInitiator.rulesStrings.14>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.15>askedabout->ewes</PawnmorphBleat.logRulesInitiator.rulesStrings.15>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.16>askedabout->chewing cud</PawnmorphBleat.logRulesInitiator.rulesStrings.16>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.17>askedabout->rams</PawnmorphBleat.logRulesInitiator.rulesStrings.17>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.18>askedabout->horns</PawnmorphBleat.logRulesInitiator.rulesStrings.18>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.19>askedabout->fleece</PawnmorphBleat.logRulesInitiator.rulesStrings.19>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.20>askedabout->spinning wheels</PawnmorphBleat.logRulesInitiator.rulesStrings.20>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.21>askedaboutme->shear [INITIATOR_objective]</PawnmorphBleat.logRulesInitiator.rulesStrings.21>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.22>askedaboutme->feed [INITIATOR_objective] grass</PawnmorphBleat.logRulesInitiator.rulesStrings.22>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.23>askedaboutme->change [INITIATOR_objective] back</PawnmorphBleat.logRulesInitiator.rulesStrings.23>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.24>askedaboutme->give [INITIATOR_objective] clippers</PawnmorphBleat.logRulesInitiator.rulesStrings.24>
+  <PawnmorphBleat.logRulesInitiator.rulesStrings.25>askedaboutme->give [INITIATOR_objective] a shave</PawnmorphBleat.logRulesInitiator.rulesStrings.25>
+  <PawnmorphBok.label>cluck</PawnmorphBok.label>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [talkedabout] [RECIPIENT_nameDef].</PawnmorphBok.logRulesInitiator.rulesStrings.0>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [askedabout].</PawnmorphBok.logRulesInitiator.rulesStrings.1>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.2>talkedabout(p=4)->clucked at</PawnmorphBok.logRulesInitiator.rulesStrings.2>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.3>talkedabout->bokked at</PawnmorphBok.logRulesInitiator.rulesStrings.3>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.4>talkedabout->squacked at</PawnmorphBok.logRulesInitiator.rulesStrings.4>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.5>talkedabout->crowed to</PawnmorphBok.logRulesInitiator.rulesStrings.5>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.6>talkedabout->cawed at</PawnmorphBok.logRulesInitiator.rulesStrings.6>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.7>talkedabout->talked about eggs with</PawnmorphBok.logRulesInitiator.rulesStrings.7>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.8>talkedabout->chatted about plumage styling tips with</PawnmorphBok.logRulesInitiator.rulesStrings.8>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.9>talkedabout->preened [INITIATOR_objective] feathers towards</PawnmorphBok.logRulesInitiator.rulesStrings.9>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.10>askedabout->laying eggs for [RECIPIEN_objective]</PawnmorphBok.logRulesInitiator.rulesStrings.10>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.11>askedabout->collecting eggs</PawnmorphBok.logRulesInitiator.rulesStrings.11>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.12>askedabout->battery farms</PawnmorphBok.logRulesInitiator.rulesStrings.12>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.13>askedabout->free-range living</PawnmorphBok.logRulesInitiator.rulesStrings.13>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.14>askedabout->roosters</PawnmorphBok.logRulesInitiator.rulesStrings.14>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.15>askedabout->eggs</PawnmorphBok.logRulesInitiator.rulesStrings.15>
+  <PawnmorphBok.logRulesInitiator.rulesStrings.16>askedabout->hens</PawnmorphBok.logRulesInitiator.rulesStrings.16>
+  <PawnmorphYip.label>yip</PawnmorphYip.label>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [talkedabout] [RECIPIENT_nameDef].</PawnmorphYip.logRulesInitiator.rulesStrings.0>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [askedabout].</PawnmorphYip.logRulesInitiator.rulesStrings.1>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.2>talkedabout(p=4)->yipped at</PawnmorphYip.logRulesInitiator.rulesStrings.2>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.3>talkedabout->yapped at</PawnmorphYip.logRulesInitiator.rulesStrings.3>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.4>talkedabout->barked to</PawnmorphYip.logRulesInitiator.rulesStrings.4>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.5>talkedabout->sniffed</PawnmorphYip.logRulesInitiator.rulesStrings.5>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.6>talkedabout->yipped to</PawnmorphYip.logRulesInitiator.rulesStrings.6>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.7>talkedabout->gekkered at</PawnmorphYip.logRulesInitiator.rulesStrings.7>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.8>talkedabout->talked about chickens with</PawnmorphYip.logRulesInitiator.rulesStrings.8>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.9>talkedabout->swayed [INITIATOR_possessive] tail for</PawnmorphYip.logRulesInitiator.rulesStrings.9>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.10>askedabout->patting [INITIATOR_possessive] fur</PawnmorphYip.logRulesInitiator.rulesStrings.10>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.11>askedabout->vixens</PawnmorphYip.logRulesInitiator.rulesStrings.11>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.12>askedabout->chicken hunting</PawnmorphYip.logRulesInitiator.rulesStrings.12>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.13>askedabout->climbing fences</PawnmorphYip.logRulesInitiator.rulesStrings.13>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.14>askedabout->chasing mice</PawnmorphYip.logRulesInitiator.rulesStrings.14>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.15>askedabout->jumping into snow</PawnmorphYip.logRulesInitiator.rulesStrings.15>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.16>askedabout->life in dens</PawnmorphYip.logRulesInitiator.rulesStrings.16>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.17>askedabout->the evolution of thumbs</PawnmorphYip.logRulesInitiator.rulesStrings.17>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.18>askedabout->digging holes</PawnmorphYip.logRulesInitiator.rulesStrings.18>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.19>askedabout->paws</PawnmorphYip.logRulesInitiator.rulesStrings.19>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.20>askedabout->delicious smells</PawnmorphYip.logRulesInitiator.rulesStrings.20>
+  <PawnmorphYip.logRulesInitiator.rulesStrings.21>askedabout->strange scents</PawnmorphYip.logRulesInitiator.rulesStrings.21>
+  <PawnmorphBark.label>bark</PawnmorphBark.label>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [talkedabout] [RECIPIENT_nameDef].</PawnmorphBark.logRulesInitiator.rulesStrings.0>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [askedabout].</PawnmorphBark.logRulesInitiator.rulesStrings.1>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.2>talkedabout(p=4)->barked at</PawnmorphBark.logRulesInitiator.rulesStrings.2>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.3>talkedabout->woofed at</PawnmorphBark.logRulesInitiator.rulesStrings.3>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.4>talkedabout->arfed to</PawnmorphBark.logRulesInitiator.rulesStrings.4>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.5>talkedabout->howled at</PawnmorphBark.logRulesInitiator.rulesStrings.5>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.6>talkedabout->ruffed at</PawnmorphBark.logRulesInitiator.rulesStrings.6>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.7>talkedabout->growled at</PawnmorphBark.logRulesInitiator.rulesStrings.7>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.8>talkedabout->sniffed</PawnmorphBark.logRulesInitiator.rulesStrings.8>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.9>talkedabout->wagged [INITIATOR_possessive] tail at</PawnmorphBark.logRulesInitiator.rulesStrings.9>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.10>askedabout->patting [INITIATOR_possessive] fur</PawnmorphBark.logRulesInitiator.rulesStrings.10>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.11>askedabout->dogs</PawnmorphBark.logRulesInitiator.rulesStrings.11>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.12>askedabout->alphas and betas, in a non-redpilled way</PawnmorphBark.logRulesInitiator.rulesStrings.12>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.13>askedabout->wolves</PawnmorphBark.logRulesInitiator.rulesStrings.13>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.14>askedabout->wolfpacks</PawnmorphBark.logRulesInitiator.rulesStrings.14>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.15>askedabout->sniffing a sensitive place</PawnmorphBark.logRulesInitiator.rulesStrings.15>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.16>askedabout->sniffing garbage</PawnmorphBark.logRulesInitiator.rulesStrings.16>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.17>askedabout->eating garbage</PawnmorphBark.logRulesInitiator.rulesStrings.17>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.18>askedabout->sleeping in a kennel</PawnmorphBark.logRulesInitiator.rulesStrings.18>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.19>askedabout->the moon</PawnmorphBark.logRulesInitiator.rulesStrings.19>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.20>askedabout->bones</PawnmorphBark.logRulesInitiator.rulesStrings.20>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.21>askedabout->fetch</PawnmorphBark.logRulesInitiator.rulesStrings.21>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.22>askedabout->rolling over</PawnmorphBark.logRulesInitiator.rulesStrings.22>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.23>askedabout->belly rubs</PawnmorphBark.logRulesInitiator.rulesStrings.23>
+  <PawnmorphBark.logRulesInitiator.rulesStrings.24>askedabout->licking [INITIATOR_possessive]</PawnmorphBark.logRulesInitiator.rulesStrings.24>
+  <PawnmorphMeow.label>meow</PawnmorphMeow.label>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [talkedabout] [RECIPIENT_nameDef].</PawnmorphMeow.logRulesInitiator.rulesStrings.0>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [askedabout].</PawnmorphMeow.logRulesInitiator.rulesStrings.1>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [miscabout].</PawnmorphMeow.logRulesInitiator.rulesStrings.2>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->meowed at</PawnmorphMeow.logRulesInitiator.rulesStrings.3>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.4>talkedabout->mewed at</PawnmorphMeow.logRulesInitiator.rulesStrings.4>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.5>talkedabout->purred to</PawnmorphMeow.logRulesInitiator.rulesStrings.5>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.6>talkedabout->licked at</PawnmorphMeow.logRulesInitiator.rulesStrings.6>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.7>talkedabout->yawned at</PawnmorphMeow.logRulesInitiator.rulesStrings.7>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.8>talkedabout->meowed [advb] at</PawnmorphMeow.logRulesInitiator.rulesStrings.8>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.9>talkedabout->sniffed</PawnmorphMeow.logRulesInitiator.rulesStrings.9>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.10>talkedabout->flicked [INITIATOR_possessive] tail at</PawnmorphMeow.logRulesInitiator.rulesStrings.10>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.11>talkedabout->did an UwU face to</PawnmorphMeow.logRulesInitiator.rulesStrings.11>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.12>askedabout->patting [INITIATOR_possessive] fur</PawnmorphMeow.logRulesInitiator.rulesStrings.12>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.13>askedabout->cats</PawnmorphMeow.logRulesInitiator.rulesStrings.13>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.14>askedabout->lions</PawnmorphMeow.logRulesInitiator.rulesStrings.14>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.15>askedabout->mice</PawnmorphMeow.logRulesInitiator.rulesStrings.15>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.16>askedabout->mouse traps</PawnmorphMeow.logRulesInitiator.rulesStrings.16>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.17>askedabout->birds</PawnmorphMeow.logRulesInitiator.rulesStrings.17>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.18>askedabout->cleaning [INITIATOR_possessive]self</PawnmorphMeow.logRulesInitiator.rulesStrings.18>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.19>askedabout->a ban on belly rubs</PawnmorphMeow.logRulesInitiator.rulesStrings.19>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.20>advb->hungrily</PawnmorphMeow.logRulesInitiator.rulesStrings.20>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.21>advb->plaintively</PawnmorphMeow.logRulesInitiator.rulesStrings.21>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.22>advb->fearfully</PawnmorphMeow.logRulesInitiator.rulesStrings.22>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.23>advb->protectively</PawnmorphMeow.logRulesInitiator.rulesStrings.23>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.24>advb->affectionately</PawnmorphMeow.logRulesInitiator.rulesStrings.24>
+  <PawnmorphMeow.logRulesInitiator.rulesStrings.25>advb->trustingly</PawnmorphMeow.logRulesInitiator.rulesStrings.25>
+  <FormerHumanAnimalChat.label>animal talk</FormerHumanAnimalChat.label>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef] [comfort] [RECIPIENT_nameDef].</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.0>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.1>r_logentry(p=5)->[RECIPIENT_nameDef] [animalTalk] [INITIATOR_nameDef].</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.1>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.2>comfort->tried to calm</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.2>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.3>comfort->offered an understanding look towards</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.3>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.4>comfort->gently hugged</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.4>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.5>comfort->made polite conversation with</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.5>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.6>comfort->tried to comfort</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.6>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.7>comfort->booped the snoot of </FormerHumanAnimalChat.logRulesInitiator.rulesStrings.7>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.8>comfort->calmed and encouraged</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.8>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.9>comfort->sat down and patted</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.9>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.10>comfort->shared a thought about [TalkTopicAny] with</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.10>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.11>comfort->gave headpats to</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.11>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.12>comfort->calmingly patted</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.12>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.13>comfort->tried to cheer up</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.13>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.14>comfort->told a story about [TalkTopicAny] to</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.14>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.15>animalLife->being an animal</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.15>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.16>animalLife->becoming an animal</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.16>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.17>animalLife->sleeping on the ground</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.17>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.18>animalLife->sleeping on the ground</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.18>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.19>animalLife->sleeping outside</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.19>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.20>animalLife->eating kibble</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.20>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.21>animalLife->eating raw food</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.21>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.22>animalLife->being trained</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.22>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.23>animalLife->what love means as an animal</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.23>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.24>animalLife->paw maintenence</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.24>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.25>animalLife->preening and brushing</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.25>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.26>animalLife->stronger senses</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.26>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.27>animalLife->interesting scents</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.27>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.28>animalLife->gross scents</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.28>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.29>animalLife->resisting change</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.29>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.30>animalLife->accepting change</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.30>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.31>animalLife->giving in to instinct</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.31>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.32>animalLife->resisting instinct</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.32>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.33>animalLife->mutations</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.33>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.34>animalLife->nakedness</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.34>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.35>animalLife->saddles</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.35>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.36>animalLife->broken claws</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.36>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.37>animalLife->third-party tooth-brushing</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.37>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.38>animalLife->what a tail feels like</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.38>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.39>animalLife->animal products</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.39>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.40>animalLife->farming</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.40>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.41>animalLife->mates</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.41>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.42>animalLife->the struggle against instinct</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.42>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.43>animalLife->pheremones</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.43>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.44>animalLife->animal politics</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.44>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.45>animalLife->the language animals speak when humans look away</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.45>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.46>animalLife->secret animal cults</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.46>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.47>animalLife->reversion serums</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.47>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.48>animalLife->joining a cult</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.48>
+  <FormerHumanAnimalChat.logRulesInitiator.rulesStrings.49>animalLife->becoming a mount</FormerHumanAnimalChat.logRulesInitiator.rulesStrings.49>
+  <FormerHumanTameAttempt.label>animal taming</FormerHumanTameAttempt.label>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] tried to reason with [RECIPIENT_nameDef].</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.0>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] offered food to [RECIPIENT_nameDef] under control.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.1>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.2>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.3>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.4>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.5>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.6>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.7>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.8>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] to blink twice if [RECIPIENT_pronoun] was intelligent.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.9>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] tried to coerce [RECIPIENT_nameDef] back towards the community.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.10>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.11>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.12>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.13>
+  <FormerHumanTameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a stern command.</FormerHumanTameAttempt.logRulesInitiator.rulesStrings.14>
+  <FormerHumanTrainAttempt.label>animal talk</FormerHumanTrainAttempt.label>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.0>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef] by [method].</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.1>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.2>trained(p=2)->[tried] to train</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.2>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] to show a new trick to</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.3>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] to discipline</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.4>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] to instruct</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.5>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.6>trained->[tried] to encourage a new skill in</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.6>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.7>trained->demonstrated a skill to</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.7>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.8>trained->encouraged a new response from</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.8>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.9>method->clipping on a leash</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.9>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.10>method->offering a treat</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.10>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.11>method->doing a pet voice</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.11>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.12>method->calling [RECIPIENT_objective] a good boi</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.12>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.13>method->threatening to treat [RECIPIENT_objective] like an animal</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.13>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.14>method->staring into [RECIPIENT_objcetive] eyes</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.14>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.15>method->giving [RECIPIENT_objcetive] a name tag</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.15>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.16>tried->tried</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.16>
+  <FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.17>tried->attempted</FormerHumanTrainAttempt.logRulesInitiator.rulesStrings.17>
+  <PMCanidHeadpats.label>changes comforted</PMCanidHeadpats.label>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] gave reassuring headpats to [RECIPIENT_nameDef].</PMCanidHeadpats.logRulesInitiator.rulesStrings.0>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] a [goodboi].</PMCanidHeadpats.logRulesInitiator.rulesStrings.1>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [actionpart] [RECIPIENT_nameDef]'s [bodypart, while [adverb] telling [RECIPIENT_objective] [topic].</PMCanidHeadpats.logRulesInitiator.rulesStrings.2>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] [actionpart] [RECIPIENT_nameDef]'s [bodypart].</PMCanidHeadpats.logRulesInitiator.rulesStrings.3>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] [adverb] told [RECIPIENT_nameDef] [topic].</PMCanidHeadpats.logRulesInitiator.rulesStrings.4>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.5>goodboi(initiator_gender==Male,p=4)->good boy</PMCanidHeadpats.logRulesInitiator.rulesStrings.5>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.6>goodboi(initiator_gender==Femalep=4)->good girl</PMCanidHeadpats.logRulesInitiator.rulesStrings.6>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.7>actionpart->patted</PMCanidHeadpats.logRulesInitiator.rulesStrings.7>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.8>actionpart->petted</PMCanidHeadpats.logRulesInitiator.rulesStrings.8>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.9>actionpart->coddled</PMCanidHeadpats.logRulesInitiator.rulesStrings.9>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.10>actionpart->cuddled</PMCanidHeadpats.logRulesInitiator.rulesStrings.10>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.11>actionpart->hugged</PMCanidHeadpats.logRulesInitiator.rulesStrings.11>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.12>actionpart->rested their face against</PMCanidHeadpats.logRulesInitiator.rulesStrings.12>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.13>bodypart->tail</PMCanidHeadpats.logRulesInitiator.rulesStrings.13>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.14>bodypart->ears</PMCanidHeadpats.logRulesInitiator.rulesStrings.14>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.15>bodypart->head</PMCanidHeadpats.logRulesInitiator.rulesStrings.15>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.16>bodypart->fur</PMCanidHeadpats.logRulesInitiator.rulesStrings.16>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.17>bodypart->floof</PMCanidHeadpats.logRulesInitiator.rulesStrings.17>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.18>bodypart->back</PMCanidHeadpats.logRulesInitiator.rulesStrings.18>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.19>bodypart->belly</PMCanidHeadpats.logRulesInitiator.rulesStrings.19>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.20>bodypart->hands</PMCanidHeadpats.logRulesInitiator.rulesStrings.20>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.21>adverb->calmly</PMCanidHeadpats.logRulesInitiator.rulesStrings.21>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.22>adverb->warmly</PMCanidHeadpats.logRulesInitiator.rulesStrings.22>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.23>adverb->reassuringly</PMCanidHeadpats.logRulesInitiator.rulesStrings.23>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.24>adverb->delicately</PMCanidHeadpats.logRulesInitiator.rulesStrings.24>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.25>adverb->concerningly</PMCanidHeadpats.logRulesInitiator.rulesStrings.25>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.26>adverb->quietly</PMCanidHeadpats.logRulesInitiator.rulesStrings.26>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.27>adverb->cutely</PMCanidHeadpats.logRulesInitiator.rulesStrings.27>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.28>topic->that everything would be ok</PMCanidHeadpats.logRulesInitiator.rulesStrings.28>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.29>topic->that there was nothing to worry about</PMCanidHeadpats.logRulesInitiator.rulesStrings.29>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.30>topic->that [RECIPIENT_pronoun] is cuter this way</PMCanidHeadpats.logRulesInitiator.rulesStrings.30>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.31>topic->that the changes would soon pass</PMCanidHeadpats.logRulesInitiator.rulesStrings.31>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.32>topic->not to worry</PMCanidHeadpats.logRulesInitiator.rulesStrings.32>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.33>topic->to enjoy the changes</PMCanidHeadpats.logRulesInitiator.rulesStrings.33>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.34>topic->to see this as an opportunity to reinvent [RECIPIENT_objective]self</PMCanidHeadpats.logRulesInitiator.rulesStrings.34>
+  <PMCanidHeadpats.logRulesInitiator.rulesStrings.35>topic->to look on the bright side</PMCanidHeadpats.logRulesInitiator.rulesStrings.35>
+</LanguageData>

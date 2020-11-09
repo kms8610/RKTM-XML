@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_GenekitColorPicker.label>fabricate dermal repigmentation genekit</Make_GenekitColorPicker.label>
+  <Make_GenekitColorPicker.description>Reshape mechanites into a dermal repigmentation genekit.</Make_GenekitColorPicker.description>
+  <Make_GenekitColorPicker.jobString>Fabricating dermal repigmentation genekit</Make_GenekitColorPicker.jobString>
+  <Make_SlurryFromMutonite.label>make slurry from mutanite</Make_SlurryFromMutonite.label>
+  <Make_SlurryFromMutonite.description>Break down a hunk of mutanite into a vial of slurry.</Make_SlurryFromMutonite.description>
+  <Make_SlurryFromMutonite.jobString>Refining slurry from mutanite.</Make_SlurryFromMutonite.jobString>
+  <Make_SlurryFromMutoniteBulk.label>make slurry from mutanite x4</Make_SlurryFromMutoniteBulk.label>
+  <Make_SlurryFromMutoniteBulk.description>Break down in bulk mutanite into 4 vials of slurry.</Make_SlurryFromMutoniteBulk.description>
+  <Make_SlurryFromMutoniteBulk.jobString>Refining 4 slurry from mutanite.</Make_SlurryFromMutoniteBulk.jobString>
+  <Make_SlurryFromChaobulbs.label>make slurry from chaobulbs</Make_SlurryFromChaobulbs.label>
+  <Make_SlurryFromChaobulbs.description>Extract the active mechanites from chaobulb seedpods into slurry.</Make_SlurryFromChaobulbs.description>
+  <Make_SlurryFromChaobulbs.jobString>Refining slurry from chaobulbs.</Make_SlurryFromChaobulbs.jobString>
+  <Make_SlurryFromChaobulbsBulk.label>make slurry from chaobulbs x4</Make_SlurryFromChaobulbsBulk.label>
+  <Make_SlurryFromChaobulbsBulk.description>Bulk extract the active mechanites from chaobulb seedpods into slurry.</Make_SlurryFromChaobulbsBulk.description>
+  <Make_SlurryFromChaobulbsBulk.jobString>Refining 4 slurry from chaobulbs.</Make_SlurryFromChaobulbsBulk.jobString>
+  <Make_ComponentsFromSlurry.label>fabricate components</Make_ComponentsFromSlurry.label>
+  <Make_ComponentsFromSlurry.description>Process mechanites into components.</Make_ComponentsFromSlurry.description>
+  <Make_ComponentsFromSlurry.jobString>Processing components from slurry.</Make_ComponentsFromSlurry.jobString>
+  <Make_ResurrectorFromMutonite.label>fabricate reincarnator mech serum</Make_ResurrectorFromMutonite.label>
+  <Make_ResurrectorFromMutonite.description>Reshape mechanites into a reincarnator serum from slurry. Caution, this may have unintended side-effects being made from mutagenic mechanites.</Make_ResurrectorFromMutonite.description>
+  <Make_ResurrectorFromMutonite.jobString>Refining slurry from mutanite.</Make_ResurrectorFromMutonite.jobString>
+  <Make_HealerFromMutonite.label>fabricate mutagenic healer mech serum</Make_HealerFromMutonite.label>
+  <Make_HealerFromMutonite.description>Reprogram a large quantity of mutagenic mechanites with healer protocols. Due to the sheer number of mechanites being reprogrammed, a few mechanites will fail to be neutralised and there is a high probability that the restored areas will be mutated as a result.</Make_HealerFromMutonite.description>
+  <Make_HealerFromMutonite.jobString>Refining slurry from mutanite.</Make_HealerFromMutonite.jobString>
+  <Make_GlitterMedsFromMutonite.label>fabricate glitterworld medicine</Make_GlitterMedsFromMutonite.label>
+  <Make_GlitterMedsFromMutonite.description>Reshape mechanites into glitterworld medicine from slurry. This does require quite a lot, and neutralises the mutagenic effect they have.</Make_GlitterMedsFromMutonite.description>
+  <Make_GlitterMedsFromMutonite.jobString>Refining slurry into glitterworld medicine</Make_GlitterMedsFromMutonite.jobString>
+  <AdministerMutagenicMechSerumHealer.label>administer mutagenic healer mech serum</AdministerMutagenicMechSerumHealer.label>
+  <AdministerMutagenicMechSerumHealer.description>Administer a mutagenic healer mech serum.</AdministerMutagenicMechSerumHealer.description>
+  <AdministerMutagenicMechSerumHealer.jobString>Administering mutagenic healer mech serum.</AdministerMutagenicMechSerumHealer.jobString>
+  <InstallInstinctLimiter.label>install sapiostore chip</InstallInstinctLimiter.label>
+  <InstallInstinctLimiter.description>Install a sapiostore mesh.</InstallInstinctLimiter.description>
+  <InstallInstinctLimiter.jobString>Installing sapiostore mesh.</InstallInstinctLimiter.jobString>
+</LanguageData>

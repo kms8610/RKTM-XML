@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GR_AgePills.label>age pills</GR_AgePills.label>
+  <GR_AgePills.description>These capsules are filled with a mixture of chemicals and nanomachines, able to modify an organism's age by carefully manipulating its DNA. Every pill taken increases age by 1 year. Useful for animals to make them mature quickly.\n\nOnce consumed, the animal will be extremely dizzy for at least a day, and additional pills administered during that period won't be effective.\n\nOh, your colonists can also consume them...</GR_AgePills.description>
+  <GR_ElectroEgg.label>mechanoid egg</GR_ElectroEgg.label>
+  <GR_ElectroEgg.description>This diminutive egg seems to be metallic in nature at first, yet it is soft enough to crush it between two fingers. Once thus crushed it can be swallowed normally, and the active mechanites inside have a reinvigorating effect on the consumer. This effect can be slightly addictive, though.</GR_ElectroEgg.description>
+  <GR_ElectroEgg.ingestible.ingestCommandString>Consume {0}</GR_ElectroEgg.ingestible.ingestCommandString>
+  <GR_ElectroEgg.ingestible.ingestReportString>Consuming {0}.</GR_ElectroEgg.ingestible.ingestReportString>
+  <GR_FeatherdustJoint.label>featherdust joint</GR_FeatherdustJoint.label>
+  <GR_FeatherdustJoint.description>Bearchicken feathers can be gathered and processed into a fine powder, which produces a mild euphoric sensation when burned and inhaled. Featherdust use can produce a dependency.</GR_FeatherdustJoint.description>
+  <GR_FeatherdustJoint.ingestible.ingestCommandString>Smoke {0}</GR_FeatherdustJoint.ingestible.ingestCommandString>
+  <GR_FeatherdustJoint.ingestible.ingestReportString>Smoking {0}.</GR_FeatherdustJoint.ingestible.ingestReportString>
+  <GR_PoisonAmpoule.ingestible.ingestCommandString>Take {0}</GR_PoisonAmpoule.ingestible.ingestCommandString>
+  <GR_PoisonAmpoule.ingestible.ingestReportString>Taking {0}.</GR_PoisonAmpoule.ingestible.ingestReportString>
+  <GR_PoisonAmpoule.label>poison ampoule</GR_PoisonAmpoule.label>
+  <GR_PoisonAmpoule.description>This tiny vial is filled with a concentrated solution of Muffalokomodo saliva, which acts as a powerful neuromuscular-blocking drug. This effectively paralyses anyone foolish enough to drink it, though it is not lethal. Useful for prisoner control.</GR_PoisonAmpoule.description>
+  <GR_RoyalJelly.label>royal jelly</GR_RoyalJelly.label>
+  <GR_RoyalJelly.description>This pungent, viscuous liquid is produced by some types of insects, and produces a soft chemical high. It can cause addiction if abused.</GR_RoyalJelly.description>
+  <GR_VirulentPoison.ingestible.ingestCommandString>Take {0}</GR_VirulentPoison.ingestible.ingestCommandString>
+  <GR_VirulentPoison.ingestible.ingestReportString>Taking {0}.</GR_VirulentPoison.ingestible.ingestReportString>
+  <GR_VirulentPoison.label>virulent poison</GR_VirulentPoison.label>
+  <GR_VirulentPoison.description>This tiny vial is filled with a small amount of Thrumbolizard venom. When ingested, the whole system of the victim shuts down, akin to an anaphylactic reaction. There is no antidote, and no way to survive the poison.</GR_VirulentPoison.description>
+  <GR_AnimalControlHub.label>animal control hub</GR_AnimalControlHub.label>
+  <GR_AnimalControlHub.description>Once the animal control hub is active in your map, you can access new abilities in your hybrids, allowing you to control them directly. Note that the hub has a very limited range, and will only work in your main base.</GR_AnimalControlHub.description>
+  <GR_ArchotechPlatform.label>archotech construction platform</GR_ArchotechPlatform.label>
+  <GR_ArchotechPlatform.description>This construction platform houses the technology necessary to assemble an Archotech Centipede, a bio-mechanical creature powered by an Archotech AI under the control of your colonists.\n\nWhoever controls an Archotech Centipede controls the planet. Bear in mind however that activation of this project will attract A LOT of unwanted attention.</GR_ArchotechPlatform.description>
+  <GR_SpentArchotechPlatform.label>archotech construction platform</GR_SpentArchotechPlatform.label>
+  <GR_SpentArchotechPlatform.description>This construction platform has already been used.</GR_SpentArchotechPlatform.description>
+  <GR_RefrigeratedCoils.label>refrigerated coils</GR_RefrigeratedCoils.label>
+  <GR_RefrigeratedCoils.description>Structural cryofuel coils to connect all the parts of the Archotech Project. At least one needs to be built to keep the sensitive components properly refrigerated.</GR_RefrigeratedCoils.description>
+  <GR_TurboChargedCryostabilizedEngine.label>turbocharged cryo-stabilized engine</GR_TurboChargedCryostabilizedEngine.label>
+  <GR_TurboChargedCryostabilizedEngine.description>This engine supplies the archotech platform with stabilized cryofuel to power the whole project.\n\nCryofuel is produced by Boomalope / Muffalo hybrids.</GR_TurboChargedCryostabilizedEngine.description>
+  <GR_ArchotechDatabase.label>master archotech database</GR_ArchotechDatabase.label>
+  <GR_ArchotechDatabase.description>This database stabilizes and subjugates the archotech AI, keeping it under control of the colonists. This technology is very advanced and has inherent risks, such as the archotech AI going rogue, killing everyone in the planet, and using their corpses as batteries to power a martial arts simulation. Or sending robots to the past.\n\nMechanoid interface chips, can be obtained from crashed mechanoid ships (both psychic and poison) or very expensively built in a Fabrication Table if you research Advanced Fabrication.</GR_ArchotechDatabase.description>
+  <GR_GeneticRepository.label>centralized genetic repository</GR_GeneticRepository.label>
+  <GR_GeneticRepository.description>The centralized genetic repository stores large amounts of genetic material from different species. The archotect construction platform will use these materials to re-sample the DNA and turn it into a custom tailored genetic structure to fill the organic parts of the archotech centipede.\n\nNote: this building will need 1 of each genetic material obtainable, and the project needs 5 repositories in total. Use the Recombinator extensively if, for example, muffalos do not appear in your map.</GR_GeneticRepository.description>
+  <GR_MechanoidTinkeringTable.label>mechanoid tinkering table</GR_MechanoidTinkeringTable.label>
+  <GR_MechanoidTinkeringTable.description>A workbench equipped with advanced tools to dissasemble mechanoids and use the acquired knowledge to create the Archotech Centipede.\n\nNote: bear in mind that this building is not a real workbench!</GR_MechanoidTinkeringTable.description>
+  <GR_HugeBearRug.label>huge bear rug</GR_HugeBearRug.label>
+  <GR_HugeBearRug.description>A bear pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_HugeBearRug.description>
+  <GR_HugeBearCatRug.label>huge bearcat rug</GR_HugeBearCatRug.label>
+  <GR_HugeBearCatRug.description>A bearcat pelt rug. This thing seems to be quite more exotic than other pelt rugs!</GR_HugeBearCatRug.description>
+  <GR_WolfRug.label>wolf rug</GR_WolfRug.label>
+  <GR_WolfRug.description>A wolf pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_WolfRug.description>
+  <GR_MuffaloRug.label>muffalo pelt rug</GR_MuffaloRug.label>
+  <GR_MuffaloRug.description>A muffalo pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_MuffaloRug.description>
+  <GR_BoarTuskStatuette.label>small boar tusk statuette</GR_BoarTuskStatuette.label>
+  <GR_BoarTuskStatuette.description>A boar tusk carved into an artistic form.</GR_BoarTuskStatuette.description>
+  <GR_LabShelf.label>lab shelf</GR_LabShelf.label>
+  <GR_LabShelf.description>A shelf for storing miscellaneous laboratory items. Items stored in this will not deteriorate, even if outside.</GR_LabShelf.description>
+  <GR_NutrientVat.label>nutrient vat</GR_NutrientVat.label>
+  <GR_NutrientVat.description>A slurry of liquefied organic pulp fills this reinforced glass vat. This solution is used by genetic experiments, and increases work speed when placed near a Genetic Rim machine. One workbench can use to up to two nutrient vats.</GR_NutrientVat.description>
+  <GR_CryostabilizedEngine.label>cryo-stabilized generator</GR_CryostabilizedEngine.label>
+  <GR_CryostabilizedEngine.description>The cryo-stabilized generator is a chemfuel generator that has been modified to accept cryogenically refrigerated fuel. Produces power by consuming cryofuel and must be fueled by hand.</GR_CryostabilizedEngine.description>
+  <GR_GeneticExtractionTable.label>genetic extraction table</GR_GeneticExtractionTable.label>
+  <GR_GeneticExtractionTable.description>A genetic engineering workbench.</GR_GeneticExtractionTable.description>
+  <GR_GenePod.label>genepod</GR_GenePod.label>
+  <GR_GenePod.description>Genetic material samples are combined and grown in this laboratory.</GR_GenePod.description>
+  <GR_AdvancedGenePod.label>advanced genepod</GR_AdvancedGenePod.label>
+  <GR_AdvancedGenePod.description>Genetic material samples are combined and grown in this laboratory. The vats of growth compound accelerate some of the most difficult experiments.</GR_AdvancedGenePod.description>
+  <GR_Pulper.label>pulper</GR_Pulper.label>
+  <GR_Pulper.description>Turns wood into a pulp, useful as a base organic compound.</GR_Pulper.description>
+  <GR_PulpRecycler.label>recycler</GR_PulpRecycler.label>
+  <GR_PulpRecycler.description>Turns corpses, produce and unwanted incubators into a pulp, useful as a base organic compound.</GR_PulpRecycler.description>
+  <GR_GeneRecombinator.label>gene recombinator</GR_GeneRecombinator.label>
+  <GR_GeneRecombinator.description>Mixes genes from different species, and produces genes from other species at random. Or not. Also, be careful, you don't want to mix frogs with other things. Life finds a way.</GR_GeneRecombinator.description>
+  <GR_TissueGrowingVat.label>tissue growing vat</GR_TissueGrowingVat.label>
+  <GR_TissueGrowingVat.description>Accelerates growth of organic structures, allowing accelerated development of genetically manipulated hybrid implants. This building is used for both hybrid animal implants and humanoid implants.</GR_TissueGrowingVat.description>
+  <GR_GeneDuplicator.label>gene duplicator</GR_GeneDuplicator.label>
+  <GR_GeneDuplicator.description>This advanced machine can be used to grow and duplicate almost any kind of genetic material. It consumes a large amount of organic pulp and most of it is wasted on the process. Also, tt won't work on Thrumbo and Mechanoid genes.</GR_GeneDuplicator.description>
+  <GR_AlphaSerumExtractionTable.label>paragon serum extraction table</GR_AlphaSerumExtractionTable.label>
+  <GR_AlphaSerumExtractionTable.description>This worktable allows you to refine animal genes and extract a concentrated essence called paragon serum, which can be used to raise more evolved versions of your animals in the animal enrichment center.</GR_AlphaSerumExtractionTable.description>
+  <GR_AnimalEnrichmentCenter.label>animal enrichment center</GR_AnimalEnrichmentCenter.label>
+  <GR_AnimalEnrichmentCenter.description>This machine can fill an incubator with specific paragon serum and an organic base compound to create advanced versions of your base creatures.</GR_AnimalEnrichmentCenter.description>
+  <GR_GenetrainerBench.label>genetrainer bench</GR_GenetrainerBench.label>
+  <GR_GenetrainerBench.description>The Genetrainer bench allows jury rigging of mech serum neurotrainers, healers and resurrectors to craft genetrainers, single use artifacts that inject animal genetic material in a human being, acting as a powerful implant that doesn't take the place of any organ in the body.</GR_GenetrainerBench.description>
+  <GR_NitroMilkTrap.label>IED nitromilk trap</GR_NitroMilkTrap.label>
+  <GR_NitroMilkTrap.description>A bucket of Muffalope milk connected to a homemade battery and electrodes. When the trigger is disturbed, an electrical current excites the unstable milk, and the device explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</GR_NitroMilkTrap.description>
+  <GR_BearLeg.label>animal Implant: bear leg (tier 1)</GR_BearLeg.label>
+  <GR_BearLeg.description>A prosthetic animal leg strengthened with bear muscles, and ending in a powerful bear claw that adds a powerful melee attack.</GR_BearLeg.description>
+  <GR_LizardLeg.label>animal Implant: lizard leg (tier 2)</GR_LizardLeg.label>
+  <GR_LizardLeg.description>A bionic animal leg reinforced with tough lizard skin.</GR_LizardLeg.description>
+  <GR_ThrumboLeg.label>animal Implant: thrumbo leg (tier 3)</GR_ThrumboLeg.label>
+  <GR_ThrumboLeg.description>A bionic animal leg reinforced with muscle tissue from a powerful thrumbo.</GR_ThrumboLeg.description>
+  <GR_ScytherTail.label>animal Implant: scyther tail (tier 2)</GR_ScytherTail.label>
+  <GR_ScytherTail.description>A scyther tail created by attaching a scyther blade to an animal's tail. Note that only creatures with a natural tail can use this.</GR_ScytherTail.description>
+  <GR_MechaTail.label>animal Implant: mechanoid tail (tier 3)</GR_MechaTail.label>
+  <GR_MechaTail.description>An advanced mechanoid tail, even more powerful than the old scyther tail. Note that only creatures with a natural tail can use this.</GR_MechaTail.description>
+  <GR_CanidEye.label>animal Implant: canid eye (tier 1)</GR_CanidEye.label>
+  <GR_CanidEye.description>An eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes.</GR_CanidEye.description>
+  <GR_InsectileEye.label>animal Implant: insectile eye (tier 2)</GR_InsectileEye.label>
+  <GR_InsectileEye.description>A bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement.</GR_InsectileEye.description>
+  <GR_ThrumboEye.label>animal Implant: bionic thrumbo eye (tier 3)</GR_ThrumboEye.label>
+  <GR_ThrumboEye.description>A bionic eye reinforced with specialized photoreceptors from a powerful thrumbo.</GR_ThrumboEye.description>
+  <GR_RodentEar.label>animal Implant: rodent ear (tier 1)</GR_RodentEar.label>
+  <GR_RodentEar.description>An ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears.</GR_RodentEar.description>
+  <GR_MothTympanalOrgan.label>animal Implant: moth tympanal organ (tier 2)</GR_MothTympanalOrgan.label>
+  <GR_MothTympanalOrgan.description>A bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce.</GR_MothTympanalOrgan.description>
+  <GR_MechaReceptors.label>animal Implant: mechanoid auditory receptors (tier 3)</GR_MechaReceptors.label>
+  <GR_MechaReceptors.description>These mechanoid auditory receptors can scan a really wide band of frequencies.</GR_MechaReceptors.description>
+  <GR_RodentNose.label>animal Implant: rodent nose (tier 1)</GR_RodentNose.label>
+  <GR_RodentNose.description>An implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects.</GR_RodentNose.description>
+  <GR_InsectoidPheromones.label>animal Implant: pheromone receivers (tier 2)</GR_InsectoidPheromones.label>
+  <GR_InsectoidPheromones.description>An implant that uses genetic splicing with alien insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects.</GR_InsectoidPheromones.description>
+  <GR_MiniatureThrumboHorn.label>animal Implant: miniature thrumbo horn (tier 3)</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.description>A bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant.</GR_MiniatureThrumboHorn.description>
+  <GR_WolfJaws.label>animal Implant: wolf jaws (tier 1)</GR_WolfJaws.label>
+  <GR_WolfJaws.description>An implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws.</GR_WolfJaws.description>
+  <GR_InsectMandibles.label>animal Implant: insect mandibles (tier 2)</GR_InsectMandibles.label>
+  <GR_InsectMandibles.description>A bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offesive weapon</GR_InsectMandibles.description>
+  <GR_ThrumboJaws.label>animal Implant: bionic thrumbo jaws (tier 3)</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.description>A bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task.</GR_ThrumboJaws.description>
+  <GR_MuffaloSpine.label>animal Implant: muffalo spine (tier 1)</GR_MuffaloSpine.label>
+  <GR_MuffaloSpine.description>A spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines.</GR_MuffaloSpine.description>
+  <GR_CrocodileSpine.label>animal Implant: crocodile spine (tier 2)</GR_CrocodileSpine.label>
+  <GR_CrocodileSpine.description>A bionic implant adding a sturdy crocodile spine to the creature's skeletal system.</GR_CrocodileSpine.description>
+  <GR_MechaSpine.label>animal Implant: mechanoid spine (tier 3)</GR_MechaSpine.label>
+  <GR_MechaSpine.description>A bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system.</GR_MechaSpine.description>
+  <GR_ChickenBrains.label>animal Implant: chicken brains (tier 1)</GR_ChickenBrains.label>
+  <GR_ChickenBrains.description>An implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures.</GR_ChickenBrains.description>
+  <GR_MonitorLizardBrain.label>animal Implant: monitor lizard brain (tier 2)</GR_MonitorLizardBrain.label>
+  <GR_MonitorLizardBrain.description>A bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes.</GR_MonitorLizardBrain.description>
+  <GR_ThrumboBrain.label>animal Implant: bionic thrumbo brain (tier 3)</GR_ThrumboBrain.label>
+  <GR_ThrumboBrain.description>A bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes.</GR_ThrumboBrain.description>
+  <GR_BoomalopeHeart.label>animal Implant: boomalope heart (tier 1)</GR_BoomalopeHeart.label>
+  <GR_BoomalopeHeart.description>An implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart.</GR_BoomalopeHeart.description>
+  <GR_ChitinousHeart.label>animal Implant: chitinous heart (tier 2)</GR_ChitinousHeart.label>
+  <GR_ChitinousHeart.description>A bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise .</GR_ChitinousHeart.description>
+  <GR_MechaHeart.label>animal Implant: mechanoid heart (tier 3)</GR_MechaHeart.label>
+  <GR_MechaHeart.description>A bionic heart strengthened by the action of active mechanites.</GR_MechaHeart.description>
+  <GR_MuffaloLung.label>animal Implant: muffalo lung (tier 1)</GR_MuffaloLung.label>
+  <GR_MuffaloLung.description>An implant that uses muffalo genes to increase breathing capacity.</GR_MuffaloLung.description>
+  <GR_BearLiver.label>animal Implant: bear liver (tier 1)</GR_BearLiver.label>
+  <GR_BearLiver.description>An implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens.</GR_BearLiver.description>
+  <GR_ChickenKidney.label>animal Implant: chicken kidney (tier 1)</GR_ChickenKidney.label>
+  <GR_ChickenKidney.description>An implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today.</GR_ChickenKidney.description>
+  <GR_BoomalopeStomach.label>animal Implant: boomalope stomach (tier 1)</GR_BoomalopeStomach.label>
+  <GR_BoomalopeStomach.description>An implant that uses boomalope genes to improve function of the stomach.</GR_BoomalopeStomach.description>
+  <GR_BearClaws.label>human Implant: bear claws</GR_BearClaws.label>
+  <GR_BearClaws.description>An improvement over the bionic Power Claw, these claws have been vat-grown with a mixture of human and bear DNA, and replace the subject's hand with versatile, non-retractable claws.</GR_BearClaws.description>
+  <GR_DiggingBearClaws.label>human Implant: digging bear claws</GR_DiggingBearClaws.label>
+  <GR_DiggingBearClaws.description>Grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield.</GR_DiggingBearClaws.description>
+  <GR_BearMuscleTissue.label>human Implant: bear muscle tissue</GR_BearMuscleTissue.label>
+  <GR_BearMuscleTissue.description>Grafts of bear muscle tissue on the subject's torso increase overall strength and stamina. These grafts however tend to stimulate the production of an abundance of body hair.</GR_BearMuscleTissue.description>
+  <GR_HibernationModule.label>human Implant: hibernation module</GR_HibernationModule.label>
+  <GR_HibernationModule.description>A biochip that modifies the brain to reduce the need for sleep.</GR_HibernationModule.description>
+  <GR_Ovipositor.label>human Implant: ovipositor</GR_Ovipositor.label>
+  <GR_Ovipositor.description>You know you have gone too far in your scientific experiments when you are implanting a human being with an ovipositor. This will enable the colonist to lay chicken eggs twice a day. It hurts as hell, though. Also, yuck.</GR_Ovipositor.description>
+  <GR_MuffaloMuscles.label>human Implant: muffalo strengthened muscles</GR_MuffaloMuscles.label>
+  <GR_MuffaloMuscles.description>By weaving muffalo muscle strands with the subjects muscular system, strength, resilience and carrying capacity are greatly increased.</GR_MuffaloMuscles.description>
+  <GR_MuffaloMammaries.label>human Implant: muffalo mammaries</GR_MuffaloMammaries.label>
+  <GR_MuffaloMammaries.description>By implanting muffalo mammaries into a colonist... Wait, what??? Who came up with this idea????? Anyway... this implant allows your colonist to be milked... Ugh, I give up.</GR_MuffaloMammaries.description>
+  <GR_MuffaloSkin.label>human Implant: muffalo skin</GR_MuffaloSkin.label>
+  <GR_MuffaloSkin.description>A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to low temperatures.</GR_MuffaloSkin.description>
+  <GR_BoomalopeNodules.label>human Implant: boomalope nodules</GR_BoomalopeNodules.label>
+  <GR_BoomalopeNodules.description>These skin nodules can be integrated in a human's torso, causing a huge explosion if the subjects dies violently.</GR_BoomalopeNodules.description>
+  <GR_ChemfuelStomach.label>human Implant: chemfuel stomach</GR_ChemfuelStomach.label>
+  <GR_ChemfuelStomach.description>A reinforced bionic stomach that uses a combination of gastric acid and chemfuel to efficiently digest food.</GR_ChemfuelStomach.description>
+  <GR_ChemfuelHeart.label>human Implant: chemfuel heart</GR_ChemfuelHeart.label>
+  <GR_ChemfuelHeart.description>A reinforced bionic heart that acts like a miniature 4-stroke internal combustion engine powered by chemfuel to pump blood through the body.</GR_ChemfuelHeart.description>
+  <GR_WolfMuscularFibers.label>human Implant: wolf muscular fibers</GR_WolfMuscularFibers.label>
+  <GR_WolfMuscularFibers.description>The subjects legs can be modified by weaving hybrid human/wolf muscle fibers within the base tissue, giving her a significant strength and speed boost.</GR_WolfMuscularFibers.description>
+  <GR_DevouringJaws.label>human Implant: devouring jaws</GR_DevouringJaws.label>
+  <GR_DevouringJaws.description>A set of improved teeth designed to rapidly chew and ingest any kind of food. Leaves kind of a mess, though...</GR_DevouringJaws.description>
+  <GR_NeuronReinforcement.label>human Implant: neuron reinforcement</GR_NeuronReinforcement.label>
+  <GR_NeuronReinforcement.description>A biochip using animal stem cells to reinforce the natural abilities of human neurons, increasing learning and research speed.</GR_NeuronReinforcement.description>
+  <GR_MousePheromones.label>human Implant: mouse pheromones</GR_MousePheromones.label>
+  <GR_MousePheromones.description>A bionic vomeronasal organ that allows the subject pheromonal communication with other animals, increasing the chance of taming and training them successfully.</GR_MousePheromones.description>
+  <GR_MoleratNerveDampener.label>human Implant: mole-rat nerve dampener</GR_MoleratNerveDampener.label>
+  <GR_MoleratNerveDampener.description>A biochip that reduces pain sensitivity, allowing the subject to survive pain shock.</GR_MoleratNerveDampener.description>
+  <GR_BunnyEars.label>human Implant: bunny ear</GR_BunnyEars.label>
+  <GR_BunnyEars.description>This huge leporid ear gives amazing enhanced hearing. Also, super kawaii!</GR_BunnyEars.description>
+  <GR_InsectoidAntennae.label>human Implant: insectoid antennae</GR_InsectoidAntennae.label>
+  <GR_InsectoidAntennae.description>These hybrid humanoid / insectoid feeling appendages can be implanted in a subject's head, completely modifying the way the subject "sees" and feels the surrounding world. The experience may be slightly overwhelming due to sensorial overload.</GR_InsectoidAntennae.description>
+  <GR_CompoundEye.label>human Implant: compund eye</GR_CompoundEye.label>
+  <GR_CompoundEye.description>This hybrid humanoid / insectoid eye provides improved vision in a wide range of different wavelengths, including those usually outside the human range, completely modifying the way the subject perceives his surroundings.</GR_CompoundEye.description>
+  <GR_PsychicDampeners.label>human Implant: psychic dampeners</GR_PsychicDampeners.label>
+  <GR_PsychicDampeners.description>Artificial hearing aids that block psychic emanations, providing considerable resistance to mechanoids' psychic attacks.</GR_PsychicDampeners.description>
+  <GR_KidneyToxicFilters.label>human Implant: kidney toxic filters</GR_KidneyToxicFilters.label>
+  <GR_KidneyToxicFilters.description>This is a bioelectronic kidney prosthesis that greatly improves the efficiency of the subject's kidney by using insectoid tissue, providing resistence to toxic substances.</GR_KidneyToxicFilters.description>
+  <GR_HumanThrumboHorn.label>human Implant: thrumbo horn</GR_HumanThrumboHorn.label>
+  <GR_HumanThrumboHorn.description>A genetically modified thrumbo horn that can be implanted in a subject's forehead. Nasty.</GR_HumanThrumboHorn.description>
+  <GR_ThrumboSkin.label>human Implant: thrumbo skin</GR_ThrumboSkin.label>
+  <GR_ThrumboSkin.description>A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a lot of defense and makes the subject more resistant to extremes of temperature.</GR_ThrumboSkin.description>
+  <GR_VenomousFangs.label>human Implant: venomous fangs</GR_VenomousFangs.label>
+  <GR_VenomousFangs.description>This hybrid implant substitutes the subject's jaw with a set of venomous fangs. Useful in combat, but not very comfortable.</GR_VenomousFangs.description>
+  <GR_IguanaScales.label>human Implant: iguana scales</GR_IguanaScales.label>
+  <GR_IguanaScales.description>A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to high temperatures.</GR_IguanaScales.description>
+  <GR_MechanoidInterfaceChip.label>mechanoid interface chip</GR_MechanoidInterfaceChip.label>
+  <GR_MechanoidInterfaceChip.description>This stellated octahedron-shaped chip is a marvel of advanced technology. Used by mechanoids to interface technology with organics for unknown purposes, it could probably be repurposed for bioengineering. (This chip is used to create mechanoid hybrids in Genetic Rim, if you have the appropiate research)</GR_MechanoidInterfaceChip.description>
+  <GR_UnfinishedMechanoidInterfaceChip.label>unfinished mechanoid interface chip</GR_UnfinishedMechanoidInterfaceChip.label>
+  <GR_HybridBearGenesGenetrainer.label>hybrid bear genes genetrainer</GR_HybridBearGenesGenetrainer.label>
+  <GR_HybridBearGenesGenetrainer.description>Injects hybrid bear genes in an humanoid. This genetrainer gives a series of abilities related to bear resilience.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridBearGenesGenetrainer.description>
+  <GR_HybridBearGenesGenetrainer.comps.0.useLabel>Use hybrid bear genes genetrainer</GR_HybridBearGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridBoomalopeGenesGenetrainer.label>hybrid boomalope genes genetrainer</GR_HybridBoomalopeGenesGenetrainer.label>
+  <GR_HybridBoomalopeGenesGenetrainer.description>Injects hybrid boomalope genes in an humanoid. This genetrainer gives the ability to produce chemfuel like a boomalope.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridBoomalopeGenesGenetrainer.description>
+  <GR_HybridBoomalopeGenesGenetrainer.comps.0.useLabel>Use hybrid boomalope genes genetrainer</GR_HybridBoomalopeGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridCatGenesGenetrainer.label>hybrid cat genes genetrainer</GR_HybridCatGenesGenetrainer.label>
+  <GR_HybridCatGenesGenetrainer.description>Injects hybrid cat genes in an humanoid. This genetrainer gives the keen sight ability, increasing shooting accuracy.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridCatGenesGenetrainer.description>
+  <GR_HybridCatGenesGenetrainer.comps.0.useLabel>Use hybrid cat genes genetrainer</GR_HybridCatGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridChickenGenesGenetrainer.label>hybrid chicken genes genetrainer</GR_HybridChickenGenesGenetrainer.label>
+  <GR_HybridChickenGenesGenetrainer.description>Injects hybrid chicken genes in an humanoid. This genetrainer gives the birdlike curiosity ability, increasing global learning speed.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridChickenGenesGenetrainer.description>
+  <GR_HybridChickenGenesGenetrainer.comps.0.useLabel>Use hybrid chicken genes genetrainer</GR_HybridChickenGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridMuffaloGenesGenetrainer.label>hybrid muffalo genes genetrainer</GR_HybridMuffaloGenesGenetrainer.label>
+  <GR_HybridMuffaloGenesGenetrainer.description>Injects hybrid muffalo genes in an humanoid. This genetrainer gives the wild attunement ability, increasing plant work speed, carrying capacity, foraging and... leather amount.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridMuffaloGenesGenetrainer.description>
+  <GR_HybridMuffaloGenesGenetrainer.comps.0.useLabel>Use hybrid muffalo genes genetrainer</GR_HybridMuffaloGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridRodentGenesGenetrainer.label>hybrid rodent genes genetrainer</GR_HybridRodentGenesGenetrainer.label>
+  <GR_HybridRodentGenesGenetrainer.description>Injects hybrid rodent genes in an humanoid. This genetrainer gives the gregarious ability, increasing all social abilities.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridRodentGenesGenetrainer.description>
+  <GR_HybridRodentGenesGenetrainer.comps.0.useLabel>Use hybrid rodent genes genetrainer</GR_HybridRodentGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridWolfGenesGenetrainer.label>hybrid wolf genes genetrainer</GR_HybridWolfGenesGenetrainer.label>
+  <GR_HybridWolfGenesGenetrainer.description>Injects hybrid wolf genes in an humanoid. This genetrainer gives the wolf speed ability, increasing movement speed, eating speed and immunity gain speed.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridWolfGenesGenetrainer.description>
+  <GR_HybridWolfGenesGenetrainer.comps.0.useLabel>Use hybrid wolf genes genetrainer</GR_HybridWolfGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridReptileGenesGenetrainer.label>hybrid reptile genes genetrainer</GR_HybridReptileGenesGenetrainer.label>
+  <GR_HybridReptileGenesGenetrainer.description>Injects hybrid reptile genes in an humanoid. This genetrainer gives the cold blood ability, making the subject more stealthy and resistant to high temperatures.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridReptileGenesGenetrainer.description>
+  <GR_HybridReptileGenesGenetrainer.comps.0.useLabel>Use hybrid reptile genes genetrainer</GR_HybridReptileGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridInsectoidGenesGenetrainer.label>hybrid insectoid genes genetrainer</GR_HybridInsectoidGenesGenetrainer.label>
+  <GR_HybridInsectoidGenesGenetrainer.description>Injects hybrid insectoid genes in an humanoid. This genetrainer gives the eusocial mind ability, making the subject specialized in construction and repair at the expense of plant and animal skills.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridInsectoidGenesGenetrainer.description>
+  <GR_HybridInsectoidGenesGenetrainer.comps.0.useLabel>Use hybrid insectoid genes genetrainer</GR_HybridInsectoidGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridThrumboGenesGenetrainer.label>hybrid thrumbo genes genetrainer</GR_HybridThrumboGenesGenetrainer.label>
+  <GR_HybridThrumboGenesGenetrainer.description>Injects hybrid thrumbo genes in an humanoid. This genetrainer gives the animal empathy ability, making the subject much more efficient when dealing with animals.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridThrumboGenesGenetrainer.description>
+  <GR_HybridThrumboGenesGenetrainer.comps.0.useLabel>Use hybrid thrumbo genes genetrainer</GR_HybridThrumboGenesGenetrainer.comps.0.useLabel>
+  <GR_HybridMechanoidGenesGenetrainer.label>hybrid mechanoid genes genetrainer</GR_HybridMechanoidGenesGenetrainer.label>
+  <GR_HybridMechanoidGenesGenetrainer.description>Injects hybrid mechanoid genes in an humanoid. This genetrainer gives the plasteel skin ability, making the subject immune to catching fire (bear in mind, fire explosions will still cause damage, but the subject will not catch fire).\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridMechanoidGenesGenetrainer.description>
+  <GR_HybridMechanoidGenesGenetrainer.comps.0.useLabel>Use hybrid mechanoid genes genetrainer</GR_HybridMechanoidGenesGenetrainer.comps.0.useLabel>
+  <GR_EggBomb.label>detonating unstable egg</GR_EggBomb.label>
+  <GR_EggBomb.description>This huge egg is filled with unstable chemicals. It is going to explode!</GR_EggBomb.description>
+  <GR_AlphaBearIncubator.label>paragon bear incubator</GR_AlphaBearIncubator.label>
+  <GR_AlphaBearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon grizzly bear</GR_AlphaBearIncubator.description>
+  <GR_AlphaBoarIncubator.label>paragon wild boar incubator</GR_AlphaBoarIncubator.label>
+  <GR_AlphaBoarIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon wild boar</GR_AlphaBoarIncubator.description>
+  <GR_AlphaBoomalopeIncubator.label>paragon boomalope incubator</GR_AlphaBoomalopeIncubator.label>
+  <GR_AlphaBoomalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon boomalope</GR_AlphaBoomalopeIncubator.description>
+  <GR_AlphaChickenIncubator.label>paragon chicken incubator</GR_AlphaChickenIncubator.label>
+  <GR_AlphaChickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon chicken</GR_AlphaChickenIncubator.description>
+  <GR_AlphaEmuIncubator.label>paragon emu incubator</GR_AlphaEmuIncubator.label>
+  <GR_AlphaEmuIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon emu</GR_AlphaEmuIncubator.description>
+  <GR_AlphaMuffaloIncubator.label>paragon muffalo incubator</GR_AlphaMuffaloIncubator.label>
+  <GR_AlphaMuffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon muffalo</GR_AlphaMuffaloIncubator.description>
+  <GR_AlphaOstrichIncubator.label>paragon ostrich incubator</GR_AlphaOstrichIncubator.label>
+  <GR_AlphaOstrichIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon ostrich</GR_AlphaOstrichIncubator.description>
+  <GR_AlphaRhinoIncubator.label>paragon rhino incubator</GR_AlphaRhinoIncubator.label>
+  <GR_AlphaRhinoIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon rhino</GR_AlphaRhinoIncubator.description>
+  <GR_AlphaWolfIncubator.label>paragon wolf incubator</GR_AlphaWolfIncubator.label>
+  <GR_AlphaWolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon timber wolf</GR_AlphaWolfIncubator.description>
+  <GR_AlphaHareIncubator.label>paragon hare incubator</GR_AlphaHareIncubator.label>
+  <GR_AlphaHareIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon hare</GR_AlphaHareIncubator.description>
+  <GR_AlphaIguanaIncubator.label>paragon iguana incubator</GR_AlphaIguanaIncubator.label>
+  <GR_AlphaIguanaIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon iguana</GR_AlphaIguanaIncubator.description>
+  <GR_AlphaPigIncubator.label>paragon pig incubator</GR_AlphaPigIncubator.label>
+  <GR_AlphaPigIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon pig</GR_AlphaPigIncubator.description>
+  <GR_AlphaRatIncubator.label>paragon rat incubator</GR_AlphaRatIncubator.label>
+  <GR_AlphaRatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon rat</GR_AlphaRatIncubator.description>
+  <GR_AlphaTortoiseIncubator.label>paragon tortoise incubator</GR_AlphaTortoiseIncubator.label>
+  <GR_AlphaTortoiseIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon tortoise</GR_AlphaTortoiseIncubator.description>
+  <GR_AlphaChickenEggUnfertilized.label>paragon chicken egg (unfert.)</GR_AlphaChickenEggUnfertilized.label>
+  <GR_AlphaChickenEggUnfertilized.description>Unfertilized paragon chicken egg. It can be eaten raw, but it's much, much better cooked. These eggs are pure, pristine, perfect examples of chicken eggs. Inmaculate eggness.</GR_AlphaChickenEggUnfertilized.description>
+  <GR_AlphaChickenEggFertilized.label>paragon chicken egg (fert.)</GR_AlphaChickenEggFertilized.label>
+  <GR_AlphaChickenEggFertilized.description>Fertilized paragon chicken egg. It can be eaten raw, but it's much, much better cooked. These eggs are pure, pristine, perfect examples of chicken eggs. Inmaculate eggness. If all goes well, it should hatch into a paragon chicken.</GR_AlphaChickenEggFertilized.description>
+  <GR_AlphaEmuEggUnfertilized.label>paragon emu egg (unfert.)</GR_AlphaEmuEggUnfertilized.label>
+  <GR_AlphaEmuEggUnfertilized.description>Unfertilized paragon emu egg. It can be eaten raw, but it's much, much better cooked. This thing is huge.</GR_AlphaEmuEggUnfertilized.description>
+  <GR_AlphaEmuEggFertilized.label>paragon emu egg (fert.)</GR_AlphaEmuEggFertilized.label>
+  <GR_AlphaEmuEggFertilized.description>Fertilized paragon emu egg. It can be eaten raw, but it's much, much better cooked. This thing is huge. If all goes well, it should hatch into a paragon emu.</GR_AlphaEmuEggFertilized.description>
+  <GR_AlphaOstrichEggUnfertilized.label>paragon ostrich egg (unfert.)</GR_AlphaOstrichEggUnfertilized.label>
+  <GR_AlphaOstrichEggUnfertilized.description>Unfertilized paragon ostrich egg. It can be eaten raw, but it's much, much better cooked. This thing is huge.</GR_AlphaOstrichEggUnfertilized.description>
+  <GR_AlphaOstrichEggFertilized.label>paragon ostrich egg (fert.)</GR_AlphaOstrichEggFertilized.label>
+  <GR_AlphaOstrichEggFertilized.description>Fertilized paragon ostrich egg. It can be eaten raw, but it's much, much better cooked. This thing is huge. If all goes well, it should hatch into a paragon ostrich.</GR_AlphaOstrichEggFertilized.description>
+  <GR_AlphaIguanaEggUnfertilized.label>paragon iguana egg (unfert.)</GR_AlphaIguanaEggUnfertilized.label>
+  <GR_AlphaIguanaEggUnfertilized.description>Unfertilized paragon iguana egg. It can be eaten raw, but it's much, much better cooked.</GR_AlphaIguanaEggUnfertilized.description>
+  <GR_AlphaIguanaEggFertilized.label>paragon iguana egg (fert.)</GR_AlphaIguanaEggFertilized.label>
+  <GR_AlphaIguanaEggFertilized.description>Fertilized paragon iguana egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a paragon iguana.</GR_AlphaIguanaEggFertilized.description>
+  <GR_AlphaTortoiseEggUnfertilized.label>paragon tortoise egg (unfert.)</GR_AlphaTortoiseEggUnfertilized.label>
+  <GR_AlphaTortoiseEggUnfertilized.description>Unfertilized paragon tortoise egg. It can be eaten raw, but it's much, much better cooked.</GR_AlphaTortoiseEggUnfertilized.description>
+  <GR_AlphaTortoiseEggFertilized.label>paragon tortoise egg (fert.)</GR_AlphaTortoiseEggFertilized.label>
+  <GR_AlphaTortoiseEggFertilized.description>Fertilized paragon tortoise egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a paragon tortoise.</GR_AlphaTortoiseEggFertilized.description>
+  <GR_BearChickenEggUnfertilized.label>bearchicken egg (unfert.)</GR_BearChickenEggUnfertilized.label>
+  <GR_BearChickenEggUnfertilized.description>Unfertilized bearchicken egg. It can be eaten raw, but it's much, much better cooked.</GR_BearChickenEggUnfertilized.description>
+  <GR_BearChickenEggFertilized.label>bearchicken egg (fert.)</GR_BearChickenEggFertilized.label>
+  <GR_BearChickenEggFertilized.description>Fertilized bearchicken egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_BearChickenEggFertilized.description>
+  <GR_ChickenbearEggUnfertilized.label>chickenbear egg (unfert.)</GR_ChickenbearEggUnfertilized.label>
+  <GR_ChickenbearEggUnfertilized.description>Unfertilized Chickenbear egg. It can be eaten raw, but it's much, much better cooked.</GR_ChickenbearEggUnfertilized.description>
+  <GR_ChickenbearEggFertilized.label>chickenbear egg (fert.)</GR_ChickenbearEggFertilized.label>
+  <GR_ChickenbearEggFertilized.description>Fertilized Chickenbear egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_ChickenbearEggFertilized.description>
+  <GR_ChickenlopeEggUnfertilized.label>chickenlope egg (unfert.)</GR_ChickenlopeEggUnfertilized.label>
+  <GR_ChickenlopeEggUnfertilized.description>Unfertilized Chickenlope egg. It can be eaten raw, but it's much, much better cooked.</GR_ChickenlopeEggUnfertilized.description>
+  <GR_ChickenlopeEggFertilized.label>chickenlope egg (fert.)</GR_ChickenlopeEggFertilized.label>
+  <GR_ChickenlopeEggFertilized.description>Fertilized Chickenlope egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_ChickenlopeEggFertilized.description>
+  <GR_ChickenffaloEggUnfertilized.label>chickenffalo egg (unfert.)</GR_ChickenffaloEggUnfertilized.label>
+  <GR_ChickenffaloEggUnfertilized.description>Unfertilized Chickenffalo egg. It can be eaten raw, but it's much, much better cooked.</GR_ChickenffaloEggUnfertilized.description>
+  <GR_ChickenffaloEggFertilized.label>chickenffalo egg (fert.)</GR_ChickenffaloEggFertilized.label>
+  <GR_ChickenffaloEggFertilized.description>Fertilized Chickenffalo egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_ChickenffaloEggFertilized.description>
+  <GR_ChickenwolfEggUnfertilized.label>chickenwolf egg (unfert.)</GR_ChickenwolfEggUnfertilized.label>
+  <GR_ChickenwolfEggUnfertilized.description>Unfertilized Chickenwolf egg. It can be eaten raw, but it's much, much better cooked.</GR_ChickenwolfEggUnfertilized.description>
+  <GR_ChickenwolfEggFertilized.label>chickenwolf egg (fert.)</GR_ChickenwolfEggFertilized.label>
+  <GR_ChickenwolfEggFertilized.description>Fertilized Chickenwolf egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_ChickenwolfEggFertilized.description>
+  <GR_ChickencatEggUnfertilized.label>chickencat egg (unfert.)</GR_ChickencatEggUnfertilized.label>
+  <GR_ChickencatEggUnfertilized.description>Unfertilized Chickencat egg. It can be eaten raw, but it's much, much better cooked.</GR_ChickencatEggUnfertilized.description>
+  <GR_ChickencatEggFertilized.label>chickencat egg (fert.)</GR_ChickencatEggFertilized.label>
+  <GR_ChickencatEggFertilized.description>Fertilized Chickencat egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_ChickencatEggFertilized.description>
+  <GR_CatchickenEggUnfertilized.label>catchicken egg (unfert.)</GR_CatchickenEggUnfertilized.label>
+  <GR_CatchickenEggUnfertilized.description>Unfertilized Catchicken egg. It can be eaten raw, but it's much, much better cooked.</GR_CatchickenEggUnfertilized.description>
+  <GR_CatchickenEggFertilized.label>catchicken egg (fert.)</GR_CatchickenEggFertilized.label>
+  <GR_CatchickenEggFertilized.description>Fertilized Catchicken egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_CatchickenEggFertilized.description>
+  <GR_MuffalochickenEggUnfertilized.label>muffalochicken egg (unfert.)</GR_MuffalochickenEggUnfertilized.label>
+  <GR_MuffalochickenEggUnfertilized.description>Unfertilized Muffalochicken egg. It can be eaten raw, but it's much, much better cooked.</GR_MuffalochickenEggUnfertilized.description>
+  <GR_MuffalochickenEggFertilized.label>muffalochicken egg (fert.)</GR_MuffalochickenEggFertilized.label>
+  <GR_MuffalochickenEggFertilized.description>Fertilized Muffalochicken egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_MuffalochickenEggFertilized.description>
+  <GR_ChickenrabbitEggUnfertilized.label>chickenrabbit egg (unfert.)</GR_ChickenrabbitEggUnfertilized.label>
+  <GR_ChickenrabbitEggUnfertilized.description>Unfertilized Chickenrabbit egg. It can be eaten raw, but it's much, much better cooked. The colonists swear it was coloured like this when the animal laid it.</GR_ChickenrabbitEggUnfertilized.description>
+  <GR_ChickenrabbitEggFertilized.label>chickenrabbit egg (fert.)</GR_ChickenrabbitEggFertilized.label>
+  <GR_ChickenrabbitEggFertilized.description>Fertilized Chickenrabbit egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked. The colonists swear it was coloured like this when the animal laid it.</GR_ChickenrabbitEggFertilized.description>
+  <GR_BoomachickenEggUnfertilized.label>boomachicken egg (unfert.)</GR_BoomachickenEggUnfertilized.label>
+  <GR_BoomachickenEggUnfertilized.description>Unfertilized Boomachicken egg. It can be eaten raw, but it's much, much better cooked.</GR_BoomachickenEggUnfertilized.description>
+  <GR_BoomachickenEggFertilized.label>boomachicken egg (fert.)</GR_BoomachickenEggFertilized.label>
+  <GR_BoomachickenEggFertilized.description>Fertilized Boomachicken egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_BoomachickenEggFertilized.description>
+  <GR_WolfchickenEggUnfertilized.label>wolfchicken egg (unfert.)</GR_WolfchickenEggUnfertilized.label>
+  <GR_WolfchickenEggUnfertilized.description>Unfertilized Wolfchicken egg. It can be eaten raw, but it's much, much better cooked.</GR_WolfchickenEggUnfertilized.description>
+  <GR_WolfchickenEggFertilized.label>wolfchicken egg (fert.)</GR_WolfchickenEggFertilized.label>
+  <GR_WolfchickenEggFertilized.description>Fertilized Wolfchicken egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_WolfchickenEggFertilized.description>
+  <GR_ThrumbochickenEggUnfertilized.label>thrumbochicken egg (unfert.)</GR_ThrumbochickenEggUnfertilized.label>
+  <GR_ThrumbochickenEggUnfertilized.description>Unfertilized Thrumbochicken egg. It can be eaten raw, but it's much, much better cooked.</GR_ThrumbochickenEggUnfertilized.description>
+  <GR_ThrumbochickenEggFertilized.label>thrumbochicken egg (fert.)</GR_ThrumbochickenEggFertilized.label>
+  <GR_ThrumbochickenEggFertilized.description>Fertilized Thrumbochicken egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_ThrumbochickenEggFertilized.description>
+  <GR_ChickenspiderEggUnfertilized.label>chickenspider egg (unfert.)</GR_ChickenspiderEggUnfertilized.label>
+  <GR_ChickenspiderEggUnfertilized.description>Unfertilized Chickenspider egg. It can be eaten raw, but it's much, much better cooked.</GR_ChickenspiderEggUnfertilized.description>
+  <GR_ChickenspiderEggFertilized.label>chickenspider egg (fert.)</GR_ChickenspiderEggFertilized.label>
+  <GR_ChickenspiderEggFertilized.description>Fertilized Chickenspider egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_ChickenspiderEggFertilized.description>
+  <GR_ChickenlizardEggUnfertilized.label>chickenlizard egg (unfert.)</GR_ChickenlizardEggUnfertilized.label>
+  <GR_ChickenlizardEggUnfertilized.description>Unfertilized chickenlizard egg. It can be eaten raw, but it's much, much better cooked.</GR_ChickenlizardEggUnfertilized.description>
+  <GR_ChickenlizardEggFertilized.label>chickenlizard egg (fert.)</GR_ChickenlizardEggFertilized.label>
+  <GR_ChickenlizardEggFertilized.description>Fertilized chickenlizard egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_ChickenlizardEggFertilized.description>
+  <GR_SpidersnakeEggUnfertilized.label>spidersnake egg (unfert.)</GR_SpidersnakeEggUnfertilized.label>
+  <GR_SpidersnakeEggUnfertilized.description>Unfertilized Spidersnake egg. It can be eaten raw, but it's much, much better cooked.</GR_SpidersnakeEggUnfertilized.description>
+  <GR_SpidersnakeEggFertilized.label>spidersnake egg (fert.)</GR_SpidersnakeEggFertilized.label>
+  <GR_SpidersnakeEggFertilized.description>Fertilized Spidersnake egg. If all goes well, it should hatch into one of these abominations. It can be eaten raw, but it's much better cooked.</GR_SpidersnakeEggFertilized.description>
+  <GR_EmptyIncubator.label>empty incubator</GR_EmptyIncubator.label>
+  <GR_EmptyIncubator.description>This animal incubator is empty. Use the Gene Pod and different genetic material vials to fill it.</GR_EmptyIncubator.description>
+  <GR_BearBoomalopePre.label>boomalope / bear incubator</GR_BearBoomalopePre.label>
+  <GR_BearBoomalopePre.description>An incubator filled with a mixture of animal genetic material</GR_BearBoomalopePre.description>
+  <GR_BearalopeIncubator.label>boomalope / bear incubator</GR_BearalopeIncubator.label>
+  <GR_BearalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Boomalope / Bear or Bear / Boomalope hybrid</GR_BearalopeIncubator.description>
+  <GR_BoomabearIncubator.label>boomalope / bear incubator</GR_BoomabearIncubator.label>
+  <GR_BoomabearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Boomalope / Bear or Bear / Boomalope hybrid</GR_BoomabearIncubator.description>
+  <GR_BearChickenPre.label>chicken / bear incubator</GR_BearChickenPre.label>
+  <GR_BearChickenPre.description>An incubator filled with a mixture of animal genetic material</GR_BearChickenPre.description>
+  <GR_ChickenBearIncubator.label>chicken / bear incubator</GR_ChickenBearIncubator.label>
+  <GR_ChickenBearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Bear or Bear / Chicken hybrid</GR_ChickenBearIncubator.description>
+  <GR_BearChickenIncubator.label>chicken / bear incubator</GR_BearChickenIncubator.label>
+  <GR_BearChickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Bear or Bear / Chicken hybrid</GR_BearChickenIncubator.description>
+  <GR_BearMuffaloPre.label>muffalo / bear incubator</GR_BearMuffaloPre.label>
+  <GR_BearMuffaloPre.description>An incubator filled with a mixture of animal genetic material</GR_BearMuffaloPre.description>
+  <GR_BearMuffaloIncubator.label>muffalo / bear incubator</GR_BearMuffaloIncubator.label>
+  <GR_BearMuffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Muffalo / Bear or Bear / Muffalo hybrid</GR_BearMuffaloIncubator.description>
+  <GR_MuffaloBearIncubator.label>muffalo / bear incubator</GR_MuffaloBearIncubator.label>
+  <GR_MuffaloBearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Muffalo / Bear or Bear / Muffalo hybrid</GR_MuffaloBearIncubator.description>
+  <GR_BearWolfPre.label>wolf / bear incubator</GR_BearWolfPre.label>
+  <GR_BearWolfPre.description>An incubator filled with a mixture of animal genetic material</GR_BearWolfPre.description>
+  <GR_BearWolfIncubator.label>wolf / bear incubator</GR_BearWolfIncubator.label>
+  <GR_BearWolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Wolf / Bear or Bear / Wolf hybrid</GR_BearWolfIncubator.description>
+  <GR_WolfBearIncubator.label>wolf / bear incubator</GR_WolfBearIncubator.label>
+  <GR_WolfBearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Wolf / Bear or Bear / Wolf hybrid</GR_WolfBearIncubator.description>
+  <GR_BearCatPre.label>cat / bear incubator</GR_BearCatPre.label>
+  <GR_BearCatPre.description>An incubator filled with a mixture of animal genetic material</GR_BearCatPre.description>
+  <GR_CatBearIncubator.label>cat / bear incubator</GR_CatBearIncubator.label>
+  <GR_CatBearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Cat / Bear or Bear / Cat hybrid</GR_CatBearIncubator.description>
+  <GR_BearCatIncubator.label>cat / bear incubator</GR_BearCatIncubator.label>
+  <GR_BearCatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Cat / Bear or Bear / Cat hybrid</GR_BearCatIncubator.description>
+  <GR_BoomalopeChickenPre.label>boomalope / chicken incubator</GR_BoomalopeChickenPre.label>
+  <GR_BoomalopeChickenPre.description>An incubator filled with a mixture of animal genetic material</GR_BoomalopeChickenPre.description>
+  <GR_BoomalopeChickenIncubator.label>boomalope / chicken incubator</GR_BoomalopeChickenIncubator.label>
+  <GR_BoomalopeChickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Boomalope or Boomalope / Chicken hybrid</GR_BoomalopeChickenIncubator.description>
+  <GR_ChickenBoomalopeIncubator.label>boomalope / chicken incubator</GR_ChickenBoomalopeIncubator.label>
+  <GR_ChickenBoomalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Boomalope or Boomalope / Chicken hybrid</GR_ChickenBoomalopeIncubator.description>
+  <GR_BoomalopeMuffaloPre.label>boomalope / muffalo incubator</GR_BoomalopeMuffaloPre.label>
+  <GR_BoomalopeMuffaloPre.description>An incubator filled with a mixture of animal genetic material</GR_BoomalopeMuffaloPre.description>
+  <GR_BoomalopeMuffaloIncubator.label>boomalope / muffalo incubator</GR_BoomalopeMuffaloIncubator.label>
+  <GR_BoomalopeMuffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Muffalo / Boomalope or Boomalope / Muffalo hybrid</GR_BoomalopeMuffaloIncubator.description>
+  <GR_MuffaloBoomalopeIncubator.label>boomalope / muffalo incubator</GR_MuffaloBoomalopeIncubator.label>
+  <GR_MuffaloBoomalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Muffalo / Boomalope or Boomalope / Muffalo hybrid</GR_MuffaloBoomalopeIncubator.description>
+  <GR_BoomalopeWolfPre.label>boomalope / wolf incubator</GR_BoomalopeWolfPre.label>
+  <GR_BoomalopeWolfPre.description>An incubator filled with a mixture of animal genetic material</GR_BoomalopeWolfPre.description>
+  <GR_BoomalopeWolfIncubator.label>boomalope / wolf incubator</GR_BoomalopeWolfIncubator.label>
+  <GR_BoomalopeWolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Wolf / Boomalope or Boomalope / Wolf hybrid</GR_BoomalopeWolfIncubator.description>
+  <GR_WolfBoomalopeIncubator.label>boomalope / wolf incubator</GR_WolfBoomalopeIncubator.label>
+  <GR_WolfBoomalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Wolf / Boomalope or Boomalope / Wolf hybrid</GR_WolfBoomalopeIncubator.description>
+  <GR_BoomalopeCatPre.label>boomalope / cat incubator</GR_BoomalopeCatPre.label>
+  <GR_BoomalopeCatPre.description>An incubator filled with a mixture of animal genetic material</GR_BoomalopeCatPre.description>
+  <GR_BoomalopeCatIncubator.label>boomalope / cat incubator</GR_BoomalopeCatIncubator.label>
+  <GR_BoomalopeCatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Cat / Boomalope or Boomalope / Cat hybrid</GR_BoomalopeCatIncubator.description>
+  <GR_CatBoomalopeIncubator.label>boomalope / cat incubator</GR_CatBoomalopeIncubator.label>
+  <GR_CatBoomalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Cat / Boomalope or Boomalope / Cat hybrid</GR_CatBoomalopeIncubator.description>
+  <GR_ChickenMuffaloPre.label>chicken / muffalo incubator</GR_ChickenMuffaloPre.label>
+  <GR_ChickenMuffaloPre.description>An incubator filled with a mixture of animal genetic material</GR_ChickenMuffaloPre.description>
+  <GR_ChickenMuffaloIncubator.label>chicken / muffalo incubator</GR_ChickenMuffaloIncubator.label>
+  <GR_ChickenMuffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Muffalo or Muffalo / Chicken hybrid</GR_ChickenMuffaloIncubator.description>
+  <GR_MuffaloChickenIncubator.label>chicken / muffalo incubator</GR_MuffaloChickenIncubator.label>
+  <GR_MuffaloChickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Muffalo or Muffalo / Chicken hybrid</GR_MuffaloChickenIncubator.description>
+  <GR_ChickenWolfPre.label>chicken / wolf incubator</GR_ChickenWolfPre.label>
+  <GR_ChickenWolfPre.description>An incubator filled with a mixture of animal genetic material</GR_ChickenWolfPre.description>
+  <GR_ChickenWolfIncubator.label>chicken / wolf incubator</GR_ChickenWolfIncubator.label>
+  <GR_ChickenWolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Wolf or Wolf / Chicken hybrid</GR_ChickenWolfIncubator.description>
+  <GR_WolfChickenIncubator.label>chicken / wolf incubator</GR_WolfChickenIncubator.label>
+  <GR_WolfChickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Wolf or Wolf / Chicken hybrid</GR_WolfChickenIncubator.description>
+  <GR_ChickenCatPre.label>chicken / cat incubator</GR_ChickenCatPre.label>
+  <GR_ChickenCatPre.description>An incubator filled with a mixture of animal genetic material</GR_ChickenCatPre.description>
+  <GR_ChickenCatIncubator.label>chicken / cat incubator</GR_ChickenCatIncubator.label>
+  <GR_ChickenCatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Cat or Cat / Chicken hybrid</GR_ChickenCatIncubator.description>
+  <GR_CatChickenIncubator.label>chicken / cat incubator</GR_CatChickenIncubator.label>
+  <GR_CatChickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Chicken / Cat or Cat / Chicken hybrid</GR_CatChickenIncubator.description>
+  <GR_MuffaloWolfPre.label>muffalo / wolf incubator</GR_MuffaloWolfPre.label>
+  <GR_MuffaloWolfPre.description>An incubator filled with a mixture of animal genetic material</GR_MuffaloWolfPre.description>
+  <GR_MuffaloWolfIncubator.label>muffalo / wolf incubator</GR_MuffaloWolfIncubator.label>
+  <GR_MuffaloWolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Muffalo / Wolf or Wolf / Muffalo hybrid</GR_MuffaloWolfIncubator.description>
+  <GR_WolfMuffaloIncubator.label>muffalo / wolf incubator</GR_WolfMuffaloIncubator.label>
+  <GR_WolfMuffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Muffalo / Wolf or Wolf / Muffalo hybrid</GR_WolfMuffaloIncubator.description>
+  <GR_MuffaloCatPre.label>muffalo / cat incubator</GR_MuffaloCatPre.label>
+  <GR_MuffaloCatPre.description>An incubator filled with a mixture of animal genetic material</GR_MuffaloCatPre.description>
+  <GR_MuffaloCatIncubator.label>muffalo / cat incubator</GR_MuffaloCatIncubator.label>
+  <GR_MuffaloCatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Muffalo / Cat or Cat / Muffalo hybrid</GR_MuffaloCatIncubator.description>
+  <GR_CatMuffaloIncubator.label>muffalo / cat incubator</GR_CatMuffaloIncubator.label>
+  <GR_CatMuffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo may develop into a Muffalo / Cat or Cat / Muffalo hybrid</GR_CatMuffaloIncubator.description>
+  <GR_BearRodentPre.label>bear / rodent incubator</GR_BearRodentPre.label>
+  <GR_BearRodentPre.description>An incubator filled with a mixture of animal genetic material</GR_BearRodentPre.description>
+  <GR_BearmoleIncubator.label>bear / rodent incubator</GR_BearmoleIncubator.label>
+  <GR_BearmoleIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Bear / Rodent or Rodent / Bear hybrid</GR_BearmoleIncubator.description>
+  <GR_MolebearIncubator.label>bear / rodent incubator</GR_MolebearIncubator.label>
+  <GR_MolebearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Bear / Rodent or Rodent / Bear hybrid</GR_MolebearIncubator.description>
+  <GR_CatRodentPre.label>cat / rodent incubator</GR_CatRodentPre.label>
+  <GR_CatRodentPre.description>An incubator filled with a mixture of animal genetic material</GR_CatRodentPre.description>
+  <GR_CatRodentIncubator.label>cat / rodent incubator</GR_CatRodentIncubator.label>
+  <GR_CatRodentIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Cat / Rodent or Rodent / Cat hybrid</GR_CatRodentIncubator.description>
+  <GR_RodentCatIncubator.label>cat / rodent incubator</GR_RodentCatIncubator.label>
+  <GR_RodentCatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Cat / Rodent or Rodent / Cat hybrid</GR_RodentCatIncubator.description>
+  <GR_BoomalopeRodentPre.label>boomalope / rodent incubator</GR_BoomalopeRodentPre.label>
+  <GR_BoomalopeRodentPre.description>An incubator filled with a mixture of animal genetic material</GR_BoomalopeRodentPre.description>
+  <GR_BoomsquirrelIncubator.label>boomalope / rodent incubator</GR_BoomsquirrelIncubator.label>
+  <GR_BoomsquirrelIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Boomalope / Rodent or Rodent / Boomalope hybrid</GR_BoomsquirrelIncubator.description>
+  <GR_SquirralopeIncubator.label>boomalope / rodent incubator</GR_SquirralopeIncubator.label>
+  <GR_SquirralopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Boomalope / Rodent or Rodent / Boomalope hybrid</GR_SquirralopeIncubator.description>
+  <GR_ChickenRodentPre.label>chicken / leporid incubator</GR_ChickenRodentPre.label>
+  <GR_ChickenRodentPre.description>An incubator filled with a mixture of animal genetic material</GR_ChickenRodentPre.description>
+  <GR_ChickenrabbitIncubator.label>chicken / leporid incubator</GR_ChickenrabbitIncubator.label>
+  <GR_ChickenrabbitIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Chicken / Leporid or Leporid / Chicken hybrid</GR_ChickenrabbitIncubator.description>
+  <GR_RabbitchickenIncubator.label>chicken / leporid incubator</GR_RabbitchickenIncubator.label>
+  <GR_RabbitchickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Chicken / Leporid or Leporid / Chicken hybrid</GR_RabbitchickenIncubator.description>
+  <GR_MuffaloRodentPre.label>muffalo / rodent incubator</GR_MuffaloRodentPre.label>
+  <GR_MuffaloRodentPre.description>An incubator filled with a mixture of animal genetic material</GR_MuffaloRodentPre.description>
+  <GR_MuffaloratIncubator.label>muffalo / rodent incubator</GR_MuffaloratIncubator.label>
+  <GR_MuffaloratIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Muffalo / Rodent or Rodent / Muffalo hybrid</GR_MuffaloratIncubator.description>
+  <GR_RatfalloIncubator.label>muffalo / rodent incubator</GR_RatfalloIncubator.label>
+  <GR_RatfalloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Muffalo / Rodent or Rodent / Muffalo hybrid</GR_RatfalloIncubator.description>
+  <GR_WolfRodentPre.label>wolf / rodent incubator</GR_WolfRodentPre.label>
+  <GR_WolfRodentPre.description>An incubator filled with a mixture of animal genetic material</GR_WolfRodentPre.description>
+  <GR_WolfbeaverIncubator.label>wolf / rodent incubator</GR_WolfbeaverIncubator.label>
+  <GR_WolfbeaverIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Wolf / Rodent or Rodent / Wolf hybrid</GR_WolfbeaverIncubator.description>
+  <GR_BeaverwolfIncubator.label>wolf / rodent incubator</GR_BeaverwolfIncubator.label>
+  <GR_BeaverwolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Wolf / Rodent or Rodent / Wolf hybrid</GR_BeaverwolfIncubator.description>
+  <GR_WolfCatPre.label>wolf / cat incubator</GR_WolfCatPre.label>
+  <GR_WolfCatPre.description>An incubator filled with a mixture of animal genetic material</GR_WolfCatPre.description>
+  <GR_WolfcatIncubator.label>wolf / cat incubator</GR_WolfcatIncubator.label>
+  <GR_WolfcatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Wolf / Cat or Cat / Wolf hybrid</GR_WolfcatIncubator.description>
+  <GR_CatwolfIncubator.label>wolf / cat incubator</GR_CatwolfIncubator.label>
+  <GR_CatwolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a Wolf / Cat or Cat / Wolf hybrid</GR_CatwolfIncubator.description>
+  <GR_ThrumbearIncubator.label>thrumbo / bear incubator</GR_ThrumbearIncubator.label>
+  <GR_ThrumbearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumbearIncubator.description>
+  <GR_ThrumffaloIncubator.label>thrumbo / muffalo incubator</GR_ThrumffaloIncubator.label>
+  <GR_ThrumffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumffaloIncubator.description>
+  <GR_ThrumbalopeIncubator.label>thrumbo / boomalope incubator</GR_ThrumbalopeIncubator.label>
+  <GR_ThrumbalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumbalopeIncubator.description>
+  <GR_ThrumbochickenIncubator.label>thrumbo / chicken incubator</GR_ThrumbochickenIncubator.label>
+  <GR_ThrumbochickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumbochickenIncubator.description>
+  <GR_ThrumwolfIncubator.label>thrumbo / wolf incubator</GR_ThrumwolfIncubator.label>
+  <GR_ThrumwolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumwolfIncubator.description>
+  <GR_ThrumboratIncubator.label>thrumbo / rodent incubator</GR_ThrumboratIncubator.label>
+  <GR_ThrumboratIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumboratIncubator.description>
+  <GR_ThrumbocatIncubator.label>thrumbo / cat incubator</GR_ThrumbocatIncubator.label>
+  <GR_ThrumbocatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumbocatIncubator.description>
+  <GR_BearscarabIncubator.label>insectoid / bear incubator</GR_BearscarabIncubator.label>
+  <GR_BearscarabIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_BearscarabIncubator.description>
+  <GR_MuffalopedeIncubator.label>insectoid / muffalo incubator</GR_MuffalopedeIncubator.label>
+  <GR_MuffalopedeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MuffalopedeIncubator.description>
+  <GR_BoombeetleIncubator.label>insectoid / boomalope incubator</GR_BoombeetleIncubator.label>
+  <GR_BoombeetleIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_BoombeetleIncubator.description>
+  <GR_ChickenspiderIncubator.label>insectoid / chicken incubator</GR_ChickenspiderIncubator.label>
+  <GR_ChickenspiderIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ChickenspiderIncubator.description>
+  <GR_WolfscarabIncubator.label>insectoid / wolf incubator</GR_WolfscarabIncubator.label>
+  <GR_WolfscarabIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_WolfscarabIncubator.description>
+  <GR_SpidercatIncubator.label>insectoid / cat incubator</GR_SpidercatIncubator.label>
+  <GR_SpidercatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_SpidercatIncubator.description>
+  <GR_ThrumbospiderIncubator.label>insectoid / thrumbo incubator</GR_ThrumbospiderIncubator.label>
+  <GR_ThrumbospiderIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumbospiderIncubator.description>
+  <GR_BearodileIncubator.label>reptile / bear incubator</GR_BearodileIncubator.label>
+  <GR_BearodileIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_BearodileIncubator.description>
+  <GR_BoomsnakeIncubator.label>reptile / boomalope incubator</GR_BoomsnakeIncubator.label>
+  <GR_BoomsnakeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_BoomsnakeIncubator.description>
+  <GR_ChickenlizardIncubator.label>reptile / chicken incubator</GR_ChickenlizardIncubator.label>
+  <GR_ChickenlizardIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ChickenlizardIncubator.description>
+  <GR_MuffalokomodoIncubator.label>reptile / muffalo incubator</GR_MuffalokomodoIncubator.label>
+  <GR_MuffalokomodoIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MuffalokomodoIncubator.description>
+  <GR_SpidersnakeIncubator.label>reptile / insectoid incubator</GR_SpidersnakeIncubator.label>
+  <GR_SpidersnakeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_SpidersnakeIncubator.description>
+  <GR_ThrumbolizardIncubator.label>reptile / thrumbo incubator</GR_ThrumbolizardIncubator.label>
+  <GR_ThrumbolizardIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_ThrumbolizardIncubator.description>
+  <GR_WolfsnakeIncubator.label>reptile / wolf incubator</GR_WolfsnakeIncubator.label>
+  <GR_WolfsnakeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_WolfsnakeIncubator.description>
+  <GR_SnakecatIncubator.label>reptile / cat incubator</GR_SnakecatIncubator.label>
+  <GR_SnakecatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_SnakecatIncubator.description>
+  <GR_MechabearIncubator.label>mechanoid / bear incubator</GR_MechabearIncubator.label>
+  <GR_MechabearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechabearIncubator.description>
+  <GR_MechamuffaloIncubator.label>mechanoid / muffalo incubator</GR_MechamuffaloIncubator.label>
+  <GR_MechamuffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechamuffaloIncubator.description>
+  <GR_MechalopeIncubator.label>mechanoid / boomalope incubator</GR_MechalopeIncubator.label>
+  <GR_MechalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechalopeIncubator.description>
+  <GR_MechachickenIncubator.label>mechanoid / chicken incubator</GR_MechachickenIncubator.label>
+  <GR_MechachickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechachickenIncubator.description>
+  <GR_MechawolfIncubator.label>mechanoid / wolf incubator</GR_MechawolfIncubator.label>
+  <GR_MechawolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechawolfIncubator.description>
+  <GR_MecharatIncubator.label>mechanoid / rodent incubator</GR_MecharatIncubator.label>
+  <GR_MecharatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MecharatIncubator.description>
+  <GR_MechaspiderIncubator.label>mechanoid / insectoid incubator</GR_MechaspiderIncubator.label>
+  <GR_MechaspiderIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechaspiderIncubator.description>
+  <GR_MechaturtleIncubator.label>mechanoid / reptilian incubator</GR_MechaturtleIncubator.label>
+  <GR_MechaturtleIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechaturtleIncubator.description>
+  <GR_MechacatIncubator.label>mechanoid / cat incubator</GR_MechacatIncubator.label>
+  <GR_MechacatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechacatIncubator.description>
+  <GR_MechathrumboIncubator.label>mechanoid / thrumbo incubator</GR_MechathrumboIncubator.label>
+  <GR_MechathrumboIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch.</GR_MechathrumboIncubator.description>
+  <GR_WeirdMilk.label>weird milk</GR_WeirdMilk.label>
+  <GR_WeirdMilk.description>This strange milk has a sour, chemical taste.</GR_WeirdMilk.description>
+  <GR_MuffalopeMilk.label>muffalope milk</GR_MuffalopeMilk.label>
+  <GR_MuffalopeMilk.description>This yellow, thick milk is definitely not edible. It is highly unstable, so it might be used as an improvised explosive if you have the proper knowledge.</GR_MuffalopeMilk.description>
+  <GR_MechaMilk.label>mechanoid milk</GR_MechaMilk.label>
+  <GR_MechaMilk.description>This metallic, quicksilver-like substance is not edible. It can be processed in a refinery to obtain neutroamine, chemfuel and a bit of silver.</GR_MechaMilk.description>
+  <GR_BearffaloMilk.label>bearfallo milk</GR_BearffaloMilk.label>
+  <GR_BearffaloMilk.description>Milk from a bearffalo. Quite high in fat content, and very nutritive.</GR_BearffaloMilk.description>
+  <GR_ThrumffaloMilk.label>thrumffalo milk</GR_ThrumffaloMilk.label>
+  <GR_ThrumffaloMilk.description>Milk from a thrumffalo. Very nutritive. Also with a sky-high cholesterol content, but in the Rim nobody judges you.</GR_ThrumffaloMilk.description>
+  <GR_MuffalochickenMilk.label>muffalochicken milk</GR_MuffalochickenMilk.label>
+  <GR_MuffalochickenMilk.description>This lumpy milk seems to have concentrated protein chunks, tasting like chicken nuggets. Disgusting, but colonists seem to like it.</GR_MuffalochickenMilk.description>
+  <GR_ChickenffaloMilk.label>chickenffalo milk</GR_ChickenffaloMilk.label>
+  <GR_ChickenffaloMilk.description>Milk from a chickenffalo. Looks like watered down milk. Probably not much better than water.</GR_ChickenffaloMilk.description>
+  <GR_MuffalobearMilk.label>muffalobear milk</GR_MuffalobearMilk.label>
+  <GR_MuffalobearMilk.description>A delicious milk with roasted overtones. Very pleasurable to eat, but not very nutritious.</GR_MuffalobearMilk.description>
+  <GR_WolffaloMilk.label>wolffalo milk</GR_WolffaloMilk.label>
+  <GR_WolffaloMilk.description>This milk seems to be filled with strands of grey wool. Disgusting, and quite hard to drink...</GR_WolffaloMilk.description>
+  <GR_RatMilk.label>ratfallo milk</GR_RatMilk.label>
+  <GR_RatMilk.description>This milk has a rich, thick quality to it. It's origins, however, might be a bit dubious... Unless you trust mafia guys called Tony.</GR_RatMilk.description>
+  <GR_Owlbearfeathers.label>owlbear feathers</GR_Owlbearfeathers.label>
+  <GR_Owlbearfeathers.description>Bearchicken feathers can be gathered and processed into a fine powder, which produces a mild euphoric sensation when burned and inhaled.</GR_Owlbearfeathers.description>
+  <GR_BearwolfFangs.label>bearwolf fangs</GR_BearwolfFangs.label>
+  <GR_BearwolfFangs.description>The sharpened teeth of a bearwolf. These teeth are essentially useless, but some primitive tribes in the Rimworlds tend to use animal teeth as currency, since they are durable. Someone might pay for these.</GR_BearwolfFangs.description>
+  <GR_RabbitcatFangs.label>rabbitcat fangs</GR_RabbitcatFangs.label>
+  <GR_RabbitcatFangs.description>The sharpened teeth of a rabbitcat. These teeth are essentially useless, but some primitive tribes in the Rimworlds tend to use animal teeth as currency, since they are durable. Someone might pay for these.</GR_RabbitcatFangs.description>
+  <GR_WolfchickenFeathers.label>wolfchicken feathers</GR_WolfchickenFeathers.label>
+  <GR_WolfchickenFeathers.description>Wolfchicken feathers are colourful and pretty. Quite useless, but someone might pay for them as a decorative object.</GR_WolfchickenFeathers.description>
+  <GR_WolfbearPaws.label>wolfbear paws</GR_WolfbearPaws.label>
+  <GR_WolfbearPaws.description>The huge, severed paws of a wolfbear. Such trophies are usually considered by primitive peoples to be a token of good luck. Someone might pay for these.</GR_WolfbearPaws.description>
+  <GR_VerySmallTeeth.label>very small teeth</GR_VerySmallTeeth.label>
+  <GR_VerySmallTeeth.description>These minuscule teeth are very durable. Some tribes in the Rimworlds tend to use animal teeth as currency, so they might be slightly valuable.</GR_VerySmallTeeth.description>
+  <GR_AlphaBoarTusks.label>paragon boar tusks</GR_AlphaBoarTusks.label>
+  <GR_AlphaBoarTusks.description>These boar tusks are hard and could probably be carved into a sculpture by someone artistically inclined in a stonecutter's table.</GR_AlphaBoarTusks.description>
+  <GR_SquirralopeHorn.label>squirralope horn</GR_SquirralopeHorn.label>
+  <GR_SquirralopeHorn.description>This horn could probably be used as an improvised melee weapon. It could probably be sold for a tiny profit too.</GR_SquirralopeHorn.description>
+  <GR_SquirralopeHorn.tools.0.label>point</GR_SquirralopeHorn.tools.0.label>
+  <GR_SquirralopeHorn.tools.1.label>base</GR_SquirralopeHorn.tools.1.label>
+  <GR_HugeRhinoHorn.label>huge rhino horn</GR_HugeRhinoHorn.label>
+  <GR_HugeRhinoHorn.description>This immense rhino horn has no intrinsic value or usefulness, but it is often used in non-effectual alternative medicine treatments. Oh well, this is the Rim, it's better than selling slaves (or not, those who could judge didn't survive winter).</GR_HugeRhinoHorn.description>
+  <GR_SpidersnakeSkin.label>spidersnake shed skin</GR_SpidersnakeSkin.label>
+  <GR_SpidersnakeSkin.description>This shed skin can be ground and processed at a drug lab to extract minute amounts of neutroamine.</GR_SpidersnakeSkin.description>
+  <GR_HugeBearPelt.label>huge bear pelt</GR_HugeBearPelt.label>
+  <GR_HugeBearPelt.description>This enormous bear pelt is probably valuable as a trade good. Or it can also be repurposed as a huge rug.</GR_HugeBearPelt.description>
+  <GR_HugeBearCatPelt.label>bearcat pelt</GR_HugeBearCatPelt.label>
+  <GR_HugeBearCatPelt.description>This enormous bear pelt is probably valuable as a trade good. Or it can also be repurposed as a huge rug.</GR_HugeBearCatPelt.description>
+  <GR_WolfPelt.label>wolf pelt</GR_WolfPelt.label>
+  <GR_WolfPelt.description>This wolf pelt can be used as a trade good. It can also be crafted into a decorative wolf rug.</GR_WolfPelt.description>
+  <GR_MuffaloPelt.label>muffalo pelt</GR_MuffaloPelt.label>
+  <GR_MuffaloPelt.description>Cool! You can now make your own Game of Thrones / Rimworld cosplay! Or it can also be repurposed as a comfy rug.</GR_MuffaloPelt.description>
+  <GR_EmuFatOintment.label>emu fat ointment</GR_EmuFatOintment.label>
+  <GR_EmuFatOintment.description>This clump of emu fat can be used as a medicinal ointment.</GR_EmuFatOintment.description>
+  <GR_ChocolateEgg.label>chocolate egg</GR_ChocolateEgg.label>
+  <GR_ChocolateEgg.description>An egg made of good quality chocolate. Delicious!</GR_ChocolateEgg.description>
+  <GR_BaconStrips.label>bacon jerky</GR_BaconStrips.label>
+  <GR_BaconStrips.description>Preserved, salted strips of dried bacon. Can be stored for months without refrigeration.</GR_BaconStrips.description>
+  <GR_JamonSerrano.label>jamon serrano</GR_JamonSerrano.label>
+  <GR_JamonSerrano.description>This dry-cured ham is considered a delicacy. It is generally served in thin slices, occasionally diced. It can be stored for a long time without refrigeration.</GR_JamonSerrano.description>
+  <GR_TortoiseShell.label>hardened tortoise shell</GR_TortoiseShell.label>
+  <GR_TortoiseShell.description>A very rare, hard material produced from the shells of slaughtered giant tortoises. Not practical for mass use, unless you can get a TON of tortoises.</GR_TortoiseShell.description>
+  <GR_Castoreum.label>beaverwolf castoreum</GR_Castoreum.label>
+  <GR_Castoreum.description>Castoreum is a yellowish exudate from the castor sacs of beavers. It is historically used as a food additive and natural flavour, often as a substitute vanilla flavour.</GR_Castoreum.description>
+  <GR_BearffaloWool.label>bearffalo wool</GR_BearffaloWool.label>
+  <GR_BearffaloWool.description>Coarse, strong wool. Bearffalo wool provides heat protection, and decent defense.</GR_BearffaloWool.description>
+  <GR_HairballWool.label>hairball wool</GR_HairballWool.label>
+  <GR_HairballWool.description>This is a strange wool, very light, and covered with what seems to be a lattice of coarse hairs. It provides excellent heat insulation due to its thermostatic properties.</GR_HairballWool.description>
+  <GR_BoomffaloWool.label>boomffalo wool</GR_BoomffaloWool.label>
+  <GR_BoomffaloWool.description>Brittle, strange smelling wool. Not the best wool to craft apparel with, though it's better than nothing. Provides nice heat insulation.</GR_BoomffaloWool.description>
+  <GR_MuffalopeWool.label>muffalope wool</GR_MuffalopeWool.label>
+  <GR_MuffalopeWool.description>This wool seems to be constantly dripping unstable chemical compounds. Not the best wool to craft apparel with, though it's better than nothing. Provides nice heat insulation.</GR_MuffalopeWool.description>
+  <GR_ChickenffaloWool.label>chickenffalo wool</GR_ChickenffaloWool.label>
+  <GR_ChickenffaloWool.description>The strands of this pure white wool are incredibly small and complex. Gives good defense against sharp attacks for a wool.</GR_ChickenffaloWool.description>
+  <GR_MuffalochickenWool.label>muffalochicken wool</GR_MuffalochickenWool.label>
+  <GR_MuffalochickenWool.description>This seems to be an amalgamation of feathers and wool, perfectly interweaved. Gives nice defense against blunt attacks, as well as insulation.</GR_MuffalochickenWool.description>
+  <GR_MuffalowolfWool.label>muffalowolf wool</GR_MuffalowolfWool.label>
+  <GR_MuffalowolfWool.description>This dark grey wool is stylish and very warm.</GR_MuffalowolfWool.description>
+  <GR_WolffaloWool.label>wolffalo wool</GR_WolffaloWool.label>
+  <GR_WolffaloWool.description>This dark grey wool is stylish and very warm.</GR_WolffaloWool.description>
+  <GR_ChickenspiderSilk.label>chickenspider silk</GR_ChickenspiderSilk.label>
+  <GR_ChickenspiderSilk.description>Fabric spun from fibers extracted from chickenspiders. Resists blunt and sharp damage easily, but provides almost no protection against extreme heat.</GR_ChickenspiderSilk.description>
+  <GR_SpidersnakeSilk.label>spidersnake silk</GR_SpidersnakeSilk.label>
+  <GR_SpidersnakeSilk.description>Fabric spun from fibers extracted from spidersnakes. A balanced fabric to make apparel from.</GR_SpidersnakeSilk.description>
+  <GR_MuffalopedeChitin.label>muffalopede wool</GR_MuffalopedeChitin.label>
+  <GR_MuffalopedeChitin.description>Insectoid chitin can be used as a material to craft apparel. It provides excellent protection against blunt attacks.</GR_MuffalopedeChitin.description>
+  <GR_WolfsnakeSkin.label>wolfsnake skin</GR_WolfsnakeSkin.label>
+  <GR_WolfsnakeSkin.description>Shed skin from a wolfsnake. Light, strong, and insulates well.</GR_WolfsnakeSkin.description>
+  <GR_ThrumbearWool.label>thrumbear wool</GR_ThrumbearWool.label>
+  <GR_ThrumbearWool.description>Thrumbear wool is thick and warm. Probably the best wool in the animal kingdom.</GR_ThrumbearWool.description>
+  <GR_ThrumffaloWool.label>thrumffalo wool</GR_ThrumffaloWool.label>
+  <GR_ThrumffaloWool.description>Thrumffalo wool is the best protection against extreme climates there is.</GR_ThrumffaloWool.description>
+  <GR_MechaWool.label>mechanoid wool</GR_MechaWool.label>
+  <GR_MechaWool.description>This wool seems to be strengthened by plasteel micro-fibers, and covered with advanced circuitry.</GR_MechaWool.description>
+  <GR_BearGenetic.label>bear genetic material</GR_BearGenetic.label>
+  <GR_BearGenetic.description>A vial of genetic material extracted from a bear's corpse.</GR_BearGenetic.description>
+  <GR_ChickenGenetic.label>chicken genetic material</GR_ChickenGenetic.label>
+  <GR_ChickenGenetic.description>A vial of genetic material extracted from a chicken's corpse.</GR_ChickenGenetic.description>
+  <GR_BoomalopeGenetic.label>boomalope genetic material</GR_BoomalopeGenetic.label>
+  <GR_BoomalopeGenetic.description>A vial of genetic material extracted from a boomalope's corpse.</GR_BoomalopeGenetic.description>
+  <GR_MuffaloGenetic.label>muffalo genetic material</GR_MuffaloGenetic.label>
+  <GR_MuffaloGenetic.description>A vial of genetic material extracted from a muffalo's corpse.</GR_MuffaloGenetic.description>
+  <GR_WolfGenetic.label>wolf genetic material</GR_WolfGenetic.label>
+  <GR_WolfGenetic.description>A vial of genetic material extracted from a wolf's corpse.</GR_WolfGenetic.description>
+  <GR_RodentGenetic.label>rodent/leporid genetic material</GR_RodentGenetic.label>
+  <GR_RodentGenetic.description>A vial of genetic material extracted from a rodent or leporid corpse.</GR_RodentGenetic.description>
+  <GR_FelineGenetic.label>feline genetic material</GR_FelineGenetic.label>
+  <GR_FelineGenetic.description>A vial of genetic material extracted from a feline corpse.</GR_FelineGenetic.description>
+  <GR_InsectoidGenetic.label>insectoid genetic material</GR_InsectoidGenetic.label>
+  <GR_InsectoidGenetic.description>A vial of genetic material extracted from an insectoid's corpse.</GR_InsectoidGenetic.description>
+  <GR_ReptilianGenetic.label>reptilian genetic material</GR_ReptilianGenetic.label>
+  <GR_ReptilianGenetic.description>A vial of genetic material extracted from a reptilian corpse.</GR_ReptilianGenetic.description>
+  <GR_HumanoidGenetic.label>humanoid genetic material</GR_HumanoidGenetic.label>
+  <GR_HumanoidGenetic.description>A vial of genetic material extracted from a humanoid corpse.</GR_HumanoidGenetic.description>
+  <GR_ThrumboGenetic.label>thrumbo genetic material</GR_ThrumboGenetic.label>
+  <GR_ThrumboGenetic.description>A vial of genetic material extracted from a thrumbo's corpse.</GR_ThrumboGenetic.description>
+  <GR_MechanoidGenetic.label>mechanoid active components</GR_MechanoidGenetic.label>
+  <GR_MechanoidGenetic.description>A vial of active mechanites from a mechanoid's corpse.</GR_MechanoidGenetic.description>
+  <GR_NonSpecializedGenetic.label>non-specialized genetic material</GR_NonSpecializedGenetic.label>
+  <GR_NonSpecializedGenetic.description>This vial of genetic material contains non-specialized cells that can't be used to create animal hybrids. They can probably be used in a gene recombinator to turn them into more useful genetic materials, though.</GR_NonSpecializedGenetic.description>
+  <GR_BearSerum.label>bear paragon serum</GR_BearSerum.label>
+  <GR_BearSerum.description>A vial of paragon genes extracted from a bear's corpse.</GR_BearSerum.description>
+  <GR_BoarSerum.label>boar paragon serum</GR_BoarSerum.label>
+  <GR_BoarSerum.description>A vial of paragon genes extracted from a wild boar's corpse.</GR_BoarSerum.description>
+  <GR_BoomalopeSerum.label>boomalope paragon serum</GR_BoomalopeSerum.label>
+  <GR_BoomalopeSerum.description>A vial of paragon genes extracted from a wild boomalope's corpse.</GR_BoomalopeSerum.description>
+  <GR_ChickenSerum.label>chicken paragon serum</GR_ChickenSerum.label>
+  <GR_ChickenSerum.description>A vial of paragon genes extracted from a chicken's corpse.</GR_ChickenSerum.description>
+  <GR_EmuSerum.label>emu paragon serum</GR_EmuSerum.label>
+  <GR_EmuSerum.description>A vial of paragon genes extracted from an emu's corpse.</GR_EmuSerum.description>
+  <GR_MuffaloSerum.label>muffalo paragon serum</GR_MuffaloSerum.label>
+  <GR_MuffaloSerum.description>A vial of paragon genes extracted from a muffalo's corpse.</GR_MuffaloSerum.description>
+  <GR_OstrichSerum.label>ostrich paragon serum</GR_OstrichSerum.label>
+  <GR_OstrichSerum.description>A vial of paragon genes extracted from an ostrich's corpse.</GR_OstrichSerum.description>
+  <GR_RhinoSerum.label>rhino paragon serum</GR_RhinoSerum.label>
+  <GR_RhinoSerum.description>A vial of paragon genes extracted from a rhino's corpse.</GR_RhinoSerum.description>
+  <GR_WolfSerum.label>wolf paragon serum</GR_WolfSerum.label>
+  <GR_WolfSerum.description>A vial of paragon genes extracted from a wolf's corpse.</GR_WolfSerum.description>
+  <GR_HareSerum.label>hare paragon serum</GR_HareSerum.label>
+  <GR_HareSerum.description>A vial of paragon genes extracted from a hare's corpse.</GR_HareSerum.description>
+  <GR_IguanaSerum.label>iguana paragon serum</GR_IguanaSerum.label>
+  <GR_IguanaSerum.description>A vial of paragon genes extracted from an iguana's corpse.</GR_IguanaSerum.description>
+  <GR_PigSerum.label>pig paragon serum</GR_PigSerum.label>
+  <GR_PigSerum.description>A vial of paragon genes extracted from a pig's corpse.</GR_PigSerum.description>
+  <GR_RatSerum.label>rat paragon serum</GR_RatSerum.label>
+  <GR_RatSerum.description>A vial of paragon genes extracted from a rat's corpse.</GR_RatSerum.description>
+  <GR_TortoiseSerum.label>tortoise paragon serum</GR_TortoiseSerum.label>
+  <GR_TortoiseSerum.description>A vial of paragon genes extracted from a tortoise's corpse.</GR_TortoiseSerum.description>
+  <GR_OrganicPulp.label>organic pulp</GR_OrganicPulp.label>
+  <GR_OrganicPulp.description>This organic pulp can be used as an organic growth compound to accelerate some of the genetic processes. Needed to upgrade the Gene Pod and to build many of Genetic Rim's buildings.</GR_OrganicPulp.description>
+  <GR_ImplantSteelWireMesh.label>hybrid implant steel wire mesh (tier 1)</GR_ImplantSteelWireMesh.label>
+  <GR_ImplantSteelWireMesh.description>This steel wire mesh acts as a sterile scaffold for tissue growth. It is used as the base for basic vat grown hybrid implants. More advanced implants require a plasteel based wire mesh.</GR_ImplantSteelWireMesh.description>
+  <GR_ImplantPlasteelWireMesh.label>hybrid implant plasteel wire mesh (tier 2)</GR_ImplantPlasteelWireMesh.label>
+  <GR_ImplantPlasteelWireMesh.description>This plasteel wire mesh acts as a sterile scaffold for tissue growth. It is used as the base for advanced vat grown hybrid implants. Elite implants require an uranium based wire mesh.</GR_ImplantPlasteelWireMesh.description>
+  <GR_ImplantUraniumWireMesh.label>hybrid implant uranium wire mesh (tier 3)</GR_ImplantUraniumWireMesh.label>
+  <GR_ImplantUraniumWireMesh.description>This uranium wire mesh acts as a sterile scaffold for tissue growth. It is used as the base for the most elite vat grown hybrid implants.</GR_ImplantUraniumWireMesh.description>
+  <GR_Cryofuel.label>cryofuel</GR_Cryofuel.label>
+  <GR_Cryofuel.description>Volatile liquid chemical compound stored in cryogenic containers. Can be used to power a cryo-stabilized generator. It can also be converted to regular Chemfuel in a refinery.</GR_Cryofuel.description>
+  <GR_StabilizingGenes.label>stabilizing genes</GR_StabilizingGenes.label>
+  <GR_StabilizingGenes.description>This genetic cocktail hasn't differentiated yet.</GR_StabilizingGenes.description>
+  <GR_StabilizingSerum.label>stabilizing serum</GR_StabilizingSerum.label>
+  <GR_StabilizingSerum.description>This genetic cocktail hasn't differentiated yet.</GR_StabilizingSerum.description>
+  <GR_RuinedGenetic.label>ruined genetic material</GR_RuinedGenetic.label>
+  <GR_RuinedGenetic.description>This genetic material is ruined. Useless, though some merchant may pay a pittance for the glass shards.</GR_RuinedGenetic.description>
+  <GR_Proj_ThrownSac.label>thrown sac</GR_Proj_ThrownSac.label>
+  <GR_PlasmaBurst.label>plasma burst</GR_PlasmaBurst.label>
+  <GR_SmokeBomb.label>smokepop shell</GR_SmokeBomb.label>
+  <GR_IncendiaryMote.label>incendiary bolt</GR_IncendiaryMote.label>
+  <GR_SniperFlechette.label>sniper flechette</GR_SniperFlechette.label>
+  <GR_RazorProjectile.label>razor scythe</GR_RazorProjectile.label>
+  <GR_Laser.label>laser beam</GR_Laser.label>
+  <GR_Disintegrator.label>disintegrator beam</GR_Disintegrator.label>
+  <GR_StunBolt.label>stun bolt</GR_StunBolt.label>
+  <GR_PoisonBlast.label>poison blast</GR_PoisonBlast.label>
+  <GR_HairballProjectile.label>hairball</GR_HairballProjectile.label>
+  <GR_GreatHairballProjectile.label>greater hairball</GR_GreatHairballProjectile.label>
+  <GR_CryoBlast.label>cryo blast</GR_CryoBlast.label>
+  <GR_Warhead.label>antigrain warhead</GR_Warhead.label>
+  <GR_FilthMucus.label>mucus</GR_FilthMucus.label>
+  <GR_Gas_Ice.label>ice crystals</GR_Gas_Ice.label>
+  <GR_Poison_Gas.label>poison gas</GR_Poison_Gas.label>
+  <GR_Hairballs.label>hairballs</GR_Hairballs.label>
+  <GR_Poison_Cloud.label>poison cloud</GR_Poison_Cloud.label>
+  <GR_InsectCloudMotes.label>insect clouds</GR_InsectCloudMotes.label>
+  <GR_Gas_Dust.label>dust</GR_Gas_Dust.label>
+  <GR_Weapon_ThrownSac.label>explosive sac</GR_Weapon_ThrownSac.label>
+  <GR_Weapon_ThrownSac.description>This organic sac is filled with an unstable chemical that will explode on contact.</GR_Weapon_ThrownSac.description>
+  <GR_Weapon_ThrownSac.verbs.0.label>throw explosive sac</GR_Weapon_ThrownSac.verbs.0.label>
+  <GR_AberrantFleshbeast.label>aberrant fleshbeast</GR_AberrantFleshbeast.label>
+  <GR_AberrantFleshbeast.description>Something went terribly wrong. This wretched creature is struggling to keep breathing.</GR_AberrantFleshbeast.description>
+  <GR_AberrantFleshbeast.tools.0.label>bite</GR_AberrantFleshbeast.tools.0.label>
+  <GR_AlphaBear.label>paragon bear</GR_AlphaBear.label>
+  <GR_AlphaBear.description>This massive bear can grow to sizes dwarfing regular grizzly bears, reaching up to a metrical ton in weight. Their thick pelt is an almost perfect adaptation to cold climates, allowing them to survive for months in hibernation if necessary. While still omnivorous, their teeth are better suited to a higher degree of herbivory than grizzly bears.\n\nUseful abilities: Paragon bear pelts can be sold for profit, or converted into decorational rugs.</GR_AlphaBear.description>
+  <GR_AlphaBear.tools.0.label>left claw</GR_AlphaBear.tools.0.label>
+  <GR_AlphaBear.tools.1.label>right claw</GR_AlphaBear.tools.1.label>
+  <GR_AlphaBear.tools.3.label>head</GR_AlphaBear.tools.3.label>
+  <GR_AlphaWildBoar.label>paragon wild boar</GR_AlphaWildBoar.label>
+  <GR_AlphaWildBoar.description>This strong, muscular creature is fiercely territorial, and its powerful curved tusks can be extremely dangerous for the unwary hunter.\n\nUseful abilities: Paragon wild boar tusks are prized for their ivory, and can be carved into statuettes.</GR_AlphaWildBoar.description>
+  <GR_AlphaWildBoar.tools.0.label>tusk</GR_AlphaWildBoar.tools.0.label>
+  <GR_AlphaWildBoar.tools.2.label>head</GR_AlphaWildBoar.tools.2.label>
+  <GR_AlphaBoomalope.label>paragon boomalope</GR_AlphaBoomalope.label>
+  <GR_AlphaBoomalope.description>This tall, lean ungulate usually acts as the dominant individual on a herd of boomalopes. More resistant and stronger than regular boomalopes, the paragon boomalopes also carry greater quantities of unstable chemical filled sacs, so no predator wants to even get close to them.\n\nUseful abilities: Paragon boomalopes explode when killed, with greater force than regular boomalopes. They also produce large amounts of chemfuel.</GR_AlphaBoomalope.description>
+  <GR_AlphaBoomalope.tools.0.label>head</GR_AlphaBoomalope.tools.0.label>
+  <GR_AlphaChicken.label>paragon chicken</GR_AlphaChicken.label>
+  <GR_AlphaChicken.description>This huge chicken towers above its regular brethren. Eggs laid by this species are the stuff of legends.\n\nUseful abilities: Fast breeding, more meat than regular chickens, and delicious eggs. A nice farm animal!</GR_AlphaChicken.description>
+  <GR_AlphaChicken.tools.0.label>claws</GR_AlphaChicken.tools.0.label>
+  <GR_AlphaChicken.tools.2.label>head</GR_AlphaChicken.tools.2.label>
+  <GR_AlphaEmu.label>paragon emu</GR_AlphaEmu.label>
+  <GR_AlphaEmu.description>This huge flightless bird is incredibly bad tempered and ugly as sin. However, it produces some enormous eggs, and its fat can be rubbed on skin and used as a primitive bush medicine.\n\nUseful abilities: Very nutritive eggs. Once slaughtered, its fat can be used as a basic medicine.</GR_AlphaEmu.description>
+  <GR_AlphaEmu.tools.0.label>claws</GR_AlphaEmu.tools.0.label>
+  <GR_AlphaEmu.tools.2.label>head</GR_AlphaEmu.tools.2.label>
+  <GR_AlphaMuffalo.label>paragon muffalo</GR_AlphaMuffalo.label>
+  <GR_AlphaMuffalo.description>A huge, hairy quadruped perfectly adapted to extreme cold climates. Peaceful unless disturbed.\n\nUseful abilities: Pack animal. Produces milk and wool in slightly greater quantities than a regular muffalo. It's pelt is valuable, and can be used as a decorative rug.</GR_AlphaMuffalo.description>
+  <GR_AlphaMuffalo.tools.0.label>head</GR_AlphaMuffalo.tools.0.label>
+  <GR_AlphaOstrich.label>paragon ostrich</GR_AlphaOstrich.label>
+  <GR_AlphaOstrich.description>A truly enormous ostrich. This flightless bird lays huge eggs, very nutritive.\n\nUseful abilities: Lays the biggest eggs of any non-hybrid creature.</GR_AlphaOstrich.description>
+  <GR_AlphaOstrich.tools.0.label>claws</GR_AlphaOstrich.tools.0.label>
+  <GR_AlphaOstrich.tools.2.label>head</GR_AlphaOstrich.tools.2.label>
+  <GR_AlphaRhinoceros.label>paragon rhinoceros</GR_AlphaRhinoceros.label>
+  <GR_AlphaRhinoceros.description>The very ground trembles when this massive herbivore moves. Although usually quite peaceful, it can be very aggressive when provoked. Its horn is considered to be very valuable, despite lack of scientific evidence of it being useful at all in fields like medicine.\n\nUseful abilities: It's horn is valuable, and... you don't want to be in the path of a charging paragon rhinoceros.</GR_AlphaRhinoceros.description>
+  <GR_AlphaRhinoceros.tools.0.label>horn</GR_AlphaRhinoceros.tools.0.label>
+  <GR_AlphaRhinoceros.tools.1.label>horn</GR_AlphaRhinoceros.tools.1.label>
+  <GR_AlphaRhinoceros.tools.3.label>head</GR_AlphaRhinoceros.tools.3.label>
+  <GR_AlphaWolfTimber.label>paragon timber wolf</GR_AlphaWolfTimber.label>
+  <GR_AlphaWolfTimber.description>This huge wolf can be turned into a fierce, loyal companion if properly trained. Wolf pelts have long been used as trade goods.\n\nUseful abilities: The paragon wolf's pelt can be traded for a profit, or used to craft a wolf pelt rug, which isn't tacky at all. Nope.</GR_AlphaWolfTimber.description>
+  <GR_AlphaWolfTimber.tools.0.label>left claw</GR_AlphaWolfTimber.tools.0.label>
+  <GR_AlphaWolfTimber.tools.1.label>right claw</GR_AlphaWolfTimber.tools.1.label>
+  <GR_AlphaWolfTimber.tools.3.label>head</GR_AlphaWolfTimber.tools.3.label>
+  <GR_AlphaHare.label>paragon hare</GR_AlphaHare.label>
+  <GR_AlphaHare.description>This small creature has a fierce gaze and quite a poor disposition. Be careful with these critters, since they breed like... well... rabbits.\n\nUseful abilities: Due to a terrible sense of humour in your scientists, this creatures lays edible chocolate eggs...</GR_AlphaHare.description>
+  <GR_AlphaHare.tools.1.label>head</GR_AlphaHare.tools.1.label>
+  <GR_AlphaIguana.label>paragon iguana</GR_AlphaIguana.label>
+  <GR_AlphaIguana.description>This large lizard has a beautiful iridiscent sheen on its scales. Contrary to the regular iguanas, this paragon specimen has a nasty venomous bite.\n\nUseful abilities: Lays eggs and has a venomous bite.</GR_AlphaIguana.description>
+  <GR_AlphaIguana.tools.0.label>left claw</GR_AlphaIguana.tools.0.label>
+  <GR_AlphaIguana.tools.1.label>right claw</GR_AlphaIguana.tools.1.label>
+  <GR_AlphaIguana.tools.3.label>head</GR_AlphaIguana.tools.3.label>
+  <GR_AlphaPig.label>paragon pig</GR_AlphaPig.label>
+  <GR_AlphaPig.description>This huge pig has a voracious appetite, but the quality of its meat is legendary.\n\nUseful abilities: The butchering process will produce bacon jerky and jamón serrano, two delicacies that can be stored for months without refrigeration.</GR_AlphaPig.description>
+  <GR_AlphaPig.tools.1.label>head</GR_AlphaPig.tools.1.label>
+  <GR_AlphaRat.label>paragon rat</GR_AlphaRat.label>
+  <GR_AlphaRat.description>This rat is obviously disease ridden.\n\nUseful abilities: Paragon rats spread the bubonic plague when they bite. Careful!</GR_AlphaRat.description>
+  <GR_AlphaRat.tools.0.label>left claw</GR_AlphaRat.tools.0.label>
+  <GR_AlphaRat.tools.1.label>right claw</GR_AlphaRat.tools.1.label>
+  <GR_AlphaRat.tools.3.label>head</GR_AlphaRat.tools.3.label>
+  <GR_AlphaTortoise.label>paragon tortoise</GR_AlphaTortoise.label>
+  <GR_AlphaTortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite.\n\nUseful abilities: Paragon tortoises can be butchered to obtain their shells, and with a big enough tortoise farm it could probably be used as a building material.</GR_AlphaTortoise.description>
+  <GR_AlphaTortoise.tools.1.label>head</GR_AlphaTortoise.tools.1.label>
+  <GR_ArchotechCentipede.label>archotech centipede</GR_ArchotechCentipede.label>
+  <GR_ArchotechCentipede.description>The Archotech Centipede is the end result of the Archotech Project, aiming to provide a "friendly" machine superintelligence with a capable body. Even though this centipede is forcefully loyal to the colonists, and can be somewhat controlled by them, most other inhabitants of the planet will consider its existance to be an abomination, since dabbling in archotech usually signals the end of comprehensible human life.\n\nUseful abilities: What do you mean useful? You have WON the game. The Archotech Centipede is basically unkillable by normal means, just use it to lay waste to everything in the planet. You don't have enemies now, you have pets. Ooooor... the archotech may kill all your colonists. One of the two.</GR_ArchotechCentipede.description>
+  <GR_ArchotechCentipede.tools.0.label>head</GR_ArchotechCentipede.tools.0.label>
+  <GR_Bearalope.label>bearalope</GR_Bearalope.label>
+  <GR_Bearalope.description>A bear / boomalope hybrid. Not as strong in melee as a pure bear, but its unstable chemical reservoirs explode with great force when it dies. Unfortunately, the extreme virulence of these chemicals is harmful to the creature, and they have very short, miserable lifespans.\n\nUseful abilities: Big explosion produced on hybrid's death. Decent chemfuel production.</GR_Bearalope.description>
+  <GR_Bearalope.tools.0.label>left claw</GR_Bearalope.tools.0.label>
+  <GR_Bearalope.tools.1.label>right claw</GR_Bearalope.tools.1.label>
+  <GR_Bearalope.tools.3.label>head</GR_Bearalope.tools.3.label>
+  <GR_Bearchicken.label>bearchicken</GR_Bearchicken.label>
+  <GR_Bearchicken.description>A bear / chicken hybrid. Nicknamed "owlbear" by the colonists. Much weaker in melee than a bear, but it lays eggs, and can obviously defend itself in combat much better than a chicken.\n\nUseful abilities: Lays eggs and regularly produces feathers, which can be converted into Featherdust joints.</GR_Bearchicken.description>
+  <GR_Bearchicken.tools.0.label>left claw</GR_Bearchicken.tools.0.label>
+  <GR_Bearchicken.tools.1.label>right claw</GR_Bearchicken.tools.1.label>
+  <GR_Bearchicken.tools.3.label>head</GR_Bearchicken.tools.3.label>
+  <GR_Bearffalo.label>bearffalo</GR_Bearffalo.label>
+  <GR_Bearffalo.description>A bear / muffalo hybrid. This hulking, wooly bear is a very temperamental pack animal, valued for its hardiness.\n\nUseful abilities: Produces specific high-quality milk and wool. Acts as a pack beast.</GR_Bearffalo.description>
+  <GR_Bearffalo.tools.0.label>left claw</GR_Bearffalo.tools.0.label>
+  <GR_Bearffalo.tools.1.label>right claw</GR_Bearffalo.tools.1.label>
+  <GR_Bearffalo.tools.3.label>head</GR_Bearffalo.tools.3.label>
+  <GR_Bearwolf.label>bearwolf</GR_Bearwolf.label>
+  <GR_Bearwolf.description>A bear / wolf hybrid. Strong like a bear, and fast like a wolf. Excellent as a rapid strike force, but their fast metabolism means they need a lot of food.\n\nUseful abilities: Good guard animal. Butchering gives Bearwolf Fangs, which can be sold.</GR_Bearwolf.description>
+  <GR_Bearwolf.tools.0.label>left claw</GR_Bearwolf.tools.0.label>
+  <GR_Bearwolf.tools.1.label>right claw</GR_Bearwolf.tools.1.label>
+  <GR_Bearwolf.tools.3.label>head</GR_Bearwolf.tools.3.label>
+  <GR_Bearmole.label>bearmole</GR_Bearmole.label>
+  <GR_Bearmole.description>A Bear / Mole hybrid. This blind animal has a very acute sense of vibrations, alllowing it to detect its prey even better than a sighted animal.\n\nUseful abilities: Good guard animal. Very fast breeding.</GR_Bearmole.description>
+  <GR_Bearmole.tools.0.label>left claw</GR_Bearmole.tools.0.label>
+  <GR_Bearmole.tools.1.label>right claw</GR_Bearmole.tools.1.label>
+  <GR_Bearmole.tools.3.label>head</GR_Bearmole.tools.3.label>
+  <GR_Bearcat.label>bearcat</GR_Bearcat.label>
+  <GR_Bearcat.description>A Bear / Cat hybrid. This hybrid is like a beefed up cougar. A solitary hunter that stalks its prey and attacks it with blinding speed.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. The Bearcat can also be slaughtered for its valuable pelt.</GR_Bearcat.description>
+  <GR_Bearcat.tools.0.label>left claw</GR_Bearcat.tools.0.label>
+  <GR_Bearcat.tools.1.label>right claw</GR_Bearcat.tools.1.label>
+  <GR_Bearcat.tools.3.label>head</GR_Bearcat.tools.3.label>
+  <GR_Boomabear.label>boomabear</GR_Boomabear.label>
+  <GR_Boomabear.description>A boomalope / bear hybrid. Stronger than a standard Boomalope, and explodes with a small, concentrated burst when downed. Very dangerous in tight, confined spaces.\n\nUseful abilities: The only boomalope hybrid exploding with Bomb damage instead of Flame. Dangerous!. Decent chemfuel production.</GR_Boomabear.description>
+  <GR_Boomabear.tools.1.label>head</GR_Boomabear.tools.1.label>
+  <GR_Boomachicken.label>boomachicken</GR_Boomachicken.label>
+  <GR_Boomachicken.description>A Boomalope / chicken hybrid. These creatures produce two types of eggs: the regular kind, and a special type of egg filled to the brim with dangerous chemicals. These aberrant eggs aren't normally laid, and they are liberated when the creature dies. In contact with the atmosphere, they explode violently in a few seconds.\n\nUseful abilities: Eggxplosion!! Weak chemfuel production.</GR_Boomachicken.description>
+  <GR_Boomachicken.tools.0.label>head</GR_Boomachicken.tools.0.label>
+  <GR_Boomachicken.tools.1.label>bite</GR_Boomachicken.tools.1.label>
+  <GR_Boomffalo.label>boomffalo</GR_Boomffalo.label>
+  <GR_Boomffalo.description>A Boomalope / Muffalo hybrid. A bit unstable to transport goods, so it isn't ever used as a pack animal, but it produces milk and wool. From a genetic engineering standpoint, these creatures are hard to stabilize, since the muffalo's biology is incompatible with the boomalope's chemical sacs. A cocktail of chemical refrigerants is used to maintain a delicate balance.\n\nUseful abilities: Produces low quality milk and average wool. Explodes with Frostbite damage on death. Produces a specialized cryofuel which can be used to power a cryofuel engine.</GR_Boomffalo.description>
+  <GR_Boomffalo.tools.0.label>head</GR_Boomffalo.tools.0.label>
+  <GR_Boomwolf.label>boomwolf</GR_Boomwolf.label>
+  <GR_Boomwolf.description>A Boomalope / Wolf hybrid. Faster than a standard boomalope, and capable of delivering a powerful bite. \n\nUseful abilities: Explodes on death with great concussive force, stunning any creature caught in its blast radius. Produces low amounts of chemfuel every day.</GR_Boomwolf.description>
+  <GR_Boomwolf.tools.1.label>head</GR_Boomwolf.tools.1.label>
+  <GR_Squirralope.label>squirralope</GR_Squirralope.label>
+  <GR_Squirralope.description>A Boomalope / Squirrel hybrid. Slightly smaller than other boomalope hybrids. While lacking in size, it is faster moving, faster breeding and faster producing chemfuel than base boomalopes.\n\nUseful abilities: Explodes on death. Produces more chemfuel than regular boomalopes. Very fast breeding. Can be slaughtered for their horns.</GR_Squirralope.description>
+  <GR_Squirralope.tools.0.label>left claw</GR_Squirralope.tools.0.label>
+  <GR_Squirralope.tools.1.label>right claw</GR_Squirralope.tools.1.label>
+  <GR_Squirralope.tools.3.label>head</GR_Squirralope.tools.3.label>
+  <GR_Boomacat.label>boomacat</GR_Boomacat.label>
+  <GR_Boomacat.description>A Boomalope / Cat hybrid. This is a peaceful, solitary creature that expends its time licking its fur and preferring to be left alone.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. Explodes on death creating a fine mist of hairballs that can suffocate anyone unlucky enough to be caught in them. Produces low amounts of chemfuel every day.</GR_Boomacat.description>
+  <GR_Boomacat.tools.1.label>head</GR_Boomacat.tools.1.label>
+  <GR_Catbear.label>catbear</GR_Catbear.label>
+  <GR_Catbear.description>A cat / bear hybrid. Catbears are intelligent and affectionate, a perfect companion. They are also quite more resilient than your average cat.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period.</GR_Catbear.description>
+  <GR_Catbear.tools.0.label>left claw</GR_Catbear.tools.0.label>
+  <GR_Catbear.tools.1.label>right claw</GR_Catbear.tools.1.label>
+  <GR_Catbear.tools.3.label>head</GR_Catbear.tools.3.label>
+  <GR_Catalope.label>catalope</GR_Catalope.label>
+  <GR_Catalope.description>A cat / boomalope hybrid. It's like a miniature boomalope! Or a exploding kitten! Terrifying either way.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. The catalope produces small quantities of chemfuel, and explodes with a tiny hairball cloud.</GR_Catalope.description>
+  <GR_Catalope.tools.1.label>head</GR_Catalope.tools.1.label>
+  <GR_Catchicken.label>catchicken</GR_Catchicken.label>
+  <GR_Catchicken.description>A cat / chicken hybrid. Catchicken might not be as intelligent as other cat hybrids, but they make up for it with their ability to lay eggs quickly.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. Quite fast egg laying.</GR_Catchicken.description>
+  <GR_Catchicken.tools.1.label>head</GR_Catchicken.tools.1.label>
+  <GR_Catfallo.label>catfallo</GR_Catfallo.label>
+  <GR_Catfallo.description>A cat / muffalo hybrid. The catfallo is slightly larger than other cat hybrids, and can be used as a miniature pack beast.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. It produces milk and wool in small amounts.</GR_Catfallo.description>
+  <GR_Catfallo.tools.0.label>head</GR_Catfallo.tools.0.label>
+  <GR_Catfallo.tools.1.label>left hoof</GR_Catfallo.tools.1.label>
+  <GR_Catfallo.tools.2.label>right hoof</GR_Catfallo.tools.2.label>
+  <GR_Catrabbit.label>catrabbit</GR_Catrabbit.label>
+  <GR_Catrabbit.description>A cat / rabbit hybrid. This long-eared cat breeds extremely fast, and is intelligent enough to be trained in the most basic sense.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. Very fast breeding.</GR_Catrabbit.description>
+  <GR_Catrabbit.tools.0.label>left claw</GR_Catrabbit.tools.0.label>
+  <GR_Catrabbit.tools.1.label>right claw</GR_Catrabbit.tools.1.label>
+  <GR_Catrabbit.tools.3.label>head</GR_Catrabbit.tools.3.label>
+  <GR_Catwolf.label>catwolf</GR_Catwolf.label>
+  <GR_Catwolf.description>A cat / wolf hybrid. Catwolves are extremely intelligent cat hybrids, and they can be trained to haul. Not much, mind you, since they are quite small, but if you have an army of them the net result will be the same. Another positive note is that you will have hauling cats without needing to delve into the depths of weird weeaboo catgirl mods. NO SIR, we have enough weirdness here with the ovipositors and such.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. Fast and intelligent.</GR_Catwolf.description>
+  <GR_Catwolf.tools.0.label>left claw</GR_Catwolf.tools.0.label>
+  <GR_Catwolf.tools.1.label>right claw</GR_Catwolf.tools.1.label>
+  <GR_Catwolf.tools.3.label>head</GR_Catwolf.tools.3.label>
+  <GR_Chickenbear.label>chickenbear</GR_Chickenbear.label>
+  <GR_Chickenbear.description>A chicken / bear hybrid. Lays eggs, and can defend itself in combat slightly better than a chicken. \n\nUseful abilities: Their sharp, small teeth can be harvested when butchering them, and they are slightly valuable and lightweight.</GR_Chickenbear.description>
+  <GR_Chickenbear.tools.0.label>claws</GR_Chickenbear.tools.0.label>
+  <GR_Chickenbear.tools.2.label>head</GR_Chickenbear.tools.2.label>
+  <GR_Chickenlope.label>chickenlope</GR_Chickenlope.label>
+  <GR_Chickenlope.description>A chicken / boomalope hybrid. This sickly looking creature is basically useless. Now, if you gather a lot of them, and kill them in a chain reaction... \n\nUseful abilities: Explodes on death. Produces minute amounts of chemfuel every day.</GR_Chickenlope.description>
+  <GR_Chickenlope.tools.0.label>claws</GR_Chickenlope.tools.0.label>
+  <GR_Chickenlope.tools.2.label>head</GR_Chickenlope.tools.2.label>
+  <GR_Chickenffalo.label>chickenffalo</GR_Chickenffalo.label>
+  <GR_Chickenffalo.description>A chicken / muffalo hybrid. Lays eggs, produces milk, wool and can be used as a pack beast. Of course, it doesn't excel at ANY of those things, but it's the price you pay for convenience. They are so cute, though, wearing their tiny bags...</GR_Chickenffalo.description>
+  <GR_Chickenffalo.tools.0.label>claws</GR_Chickenffalo.tools.0.label>
+  <GR_Chickenffalo.tools.1.label>head</GR_Chickenffalo.tools.1.label>
+  <GR_Chickenwolf.label>chickenwolf</GR_Chickenwolf.label>
+  <GR_Chickenwolf.description>A chicken / wolf hybrid. Fast moving, and with a nasty bite! \n\nUseful abilities: Their sharp, small teeth can be harvested when butchering them, and they are slightly valuable and lightweight.</GR_Chickenwolf.description>
+  <GR_Chickenwolf.tools.0.label>claws</GR_Chickenwolf.tools.0.label>
+  <GR_Chickenwolf.tools.2.label>head</GR_Chickenwolf.tools.2.label>
+  <GR_Chickenrabbit.label>chickenrabbit</GR_Chickenrabbit.label>
+  <GR_Chickenrabbit.description>A Chicken / Rabbit hybrid. What happens when you artificially crossbreed two fast breeding creatures? The chickenrabbit is an ecological disaster waiting to happen.\n\nUseful abilities: Egg layer. EXTREMELY fast breeding.</GR_Chickenrabbit.description>
+  <GR_Chickenrabbit.tools.0.label>claws</GR_Chickenrabbit.tools.0.label>
+  <GR_Chickenrabbit.tools.2.label>head</GR_Chickenrabbit.tools.2.label>
+  <GR_Chickencat.label>chickencat</GR_Chickencat.label>
+  <GR_Chickencat.description>A chicken / cat hybrid. Fast moving, specially intelligent. It is one of the few chicken hybrids that can be somewhat trained.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. The chickencat obviously produces eggs.</GR_Chickencat.description>
+  <GR_Chickencat.tools.0.label>claws</GR_Chickencat.tools.0.label>
+  <GR_Chickencat.tools.2.label>head</GR_Chickencat.tools.2.label>
+  <GR_Bearscarab.label>bearscarab</GR_Bearscarab.label>
+  <GR_Bearscarab.description>A bear / megascarab hybrid. These huge scarabs are highly intelligent and can be easily trained to behave like guard dogs. Unfortunately, they can't reproduce on their own.\n\nUseful abilities: Produces royal jelly, a mild stimulant that improves colonists' mood.</GR_Bearscarab.description>
+  <GR_Bearscarab.tools.1.label>head</GR_Bearscarab.tools.1.label>
+  <GR_Boombeetle.label>boombeetle</GR_Boombeetle.label>
+  <GR_Boombeetle.description>A boomalope / megascarab hybrid. These huge insects are often nicknamed "bombardier beetles", due to their ability to throw explosive sacs of unstable chemicals. While this could theoretically be used as a defensive asset for the colony, the beetles are not very intelligent, and tend to either flee at the sign of danger or stand around confused.  Unfortunately, they can't reproduce on their own\n\nUseful abilities: ranged attack, and explosive sacs are periodically generated by the boombeetle, working as one-shot grenades that the colonists can use.</GR_Boombeetle.description>
+  <GR_Boombeetle.tools.1.label>head</GR_Boombeetle.tools.1.label>
+  <GR_Chickenspider.label>chickenspider</GR_Chickenspider.label>
+  <GR_Chickenspider.description>A chicken / megaspider hybrid. These spidery creatures produce a highly valued silk, and can lay eggs and reproduce unlike other eusocial insects.\n\nUseful abilities: silk production.</GR_Chickenspider.description>
+  <GR_Chickenspider.tools.1.label>head</GR_Chickenspider.tools.1.label>
+  <GR_Muffalopede.label>muffalopede</GR_Muffalopede.label>
+  <GR_Muffalopede.description>A muffalo / spelopede hybrid. This inmense, grub-like creature is one of the few insectoids that produce Insect Jelly. It also sheds chitin every few days, which can be used to craft apparel. Contrary to other eusocial insects, they can reproduce on their own.\n\nUseful abilities: Packs animal. Periodically produces Muffalopede chitin and Insect Jelly.</GR_Muffalopede.description>
+  <GR_Muffalopede.tools.1.label>head</GR_Muffalopede.tools.1.label>
+  <GR_Thrumbospider.label>thrumbospider</GR_Thrumbospider.label>
+  <GR_Thrumbospider.description>A thrumbo / megaspider hybrid. The voracious appetite of the thrumbo, combined with the fast metabolism of the megaspider makes this creature very very difficult to maintain and take care of, but in combat power it is almost unbeatable, albeit slow. Unfortunately, they can't reproduce on their own.\n\nUseful abilities: If properly trained, this creature will utterly destroy your enemies.</GR_Thrumbospider.description>
+  <GR_Thrumbospider.tools.1.label>head</GR_Thrumbospider.tools.1.label>
+  <GR_Wolfscarab.label>wolfscarab</GR_Wolfscarab.label>
+  <GR_Wolfscarab.description>A wolf / megascarab hybrid. These ferocious creatures are faster than most animals, and really effective in combat. Unfortunately, they can't reproduce on their own.\n\nUseful abilities: Much faster than most other creatures.</GR_Wolfscarab.description>
+  <GR_Wolfscarab.tools.1.label>head</GR_Wolfscarab.tools.1.label>
+  <GR_Spidercat.label>spidercat</GR_Spidercat.label>
+  <GR_Spidercat.description>A megaspider / cat hybrid. Spidercat, spidercat, does whatever a spider cat....... Sorry. This unnerving abomination will certainly keep your colony free from rats.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. The spidercat also has the ability to attack from range, throwing disgusting hairball projectiles.</GR_Spidercat.description>
+  <GR_Spidercat.tools.0.label>mandibles</GR_Spidercat.tools.0.label>
+  <GR_Spidercat.tools.1.label>head</GR_Spidercat.tools.1.label>
+  <GR_Mechabear.label>mechabear</GR_Mechabear.label>
+  <GR_Mechabear.description>This cybernetic beast has been mutated far beyond its original form. Heavily armoured to withstand heavy fire, and armed with a terrifying plasma cannon. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechabear is an effective weapons platform, akin to a rocket turret. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechabear.description>
+  <GR_Mechabear.tools.0.label>head</GR_Mechabear.tools.0.label>
+  <GR_Mechalope.label>mechalope</GR_Mechalope.label>
+  <GR_Mechalope.description>This cybernetic boomalope has been outfitted with four mechanized chemfuel reservoirs. The creature can use these reservoirs to produce a jet of burning fuel similar to a flamethrower, not incredibly harmful, but perfect for starting huge fires. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechalope is an effective weapons platform, akin to a flamethrower. Like all mechanoid hybrids it produces industrial components every couple days, and chemfuel like any other boomalope.</GR_Mechalope.description>
+  <GR_Mechalope.tools.0.label>head</GR_Mechalope.tools.0.label>
+  <GR_Mechachicken.label>mecha-chicken</GR_Mechachicken.label>
+  <GR_Mechachicken.description>This cybernetic organism is adept at reconnaissance and infiltration, due to its small size and speed. It is armed with a small sniper flechette gun. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mecha-chicken can strike targets from very far away. Like all mechanoid hybrids it produces industrial components every couple days, and eggs. I'm not sure I'd eat the eggs, though.</GR_Mechachicken.description>
+  <GR_Mechachicken.tools.0.label>head</GR_Mechachicken.tools.0.label>
+  <GR_Mechachicken.verbs.0.label>sniper flechette</GR_Mechachicken.verbs.0.label>
+  <GR_Mechaspider.label>mechaspider</GR_Mechaspider.label>
+  <GR_Mechaspider.description>This cybernetic organism has traits from both its insectoid and mechanoid origins. The mechaspider is armed with a powerful twin-coiled laser machine gun, perfect to obliterate enemies in a rain of laser fire. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechaspider can rain death upon enemies. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechaspider.description>
+  <GR_Mechaspider.tools.0.label>head</GR_Mechaspider.tools.0.label>
+  <GR_Mechamuffalo.label>mecha-muffalo</GR_Mechamuffalo.label>
+  <GR_Mechamuffalo.description>This hulking cybernetic organism has been reinforced with an adaptive plasteel mesh, enabling it to carry an incredible amount of stuff. The mecha-muffalo is the perfect pack animal, but it is quite useless in an offensive role. Defensively, however, it is armed with a smoke cannon that it can use to cover the battlefield in a dense cloud of dust. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components. (due to game limitations, the Mechamuffalo consumes around 0.01 nutrition, enough to avoid messing up caravan calculations)\n\nUseful abilities: As long as a tamer is near to direct it, the mecha-muffalo can use its smoke cannon to scramble enemy sight. Like all mechanoid hybrids it produces industrial components every couple days. It also produces a weird metallic wool, and metallic tasting milk.</GR_Mechamuffalo.description>
+  <GR_Mechamuffalo.tools.0.label>head</GR_Mechamuffalo.tools.0.label>
+  <GR_Mecharat.label>mecha-rat</GR_Mecharat.label>
+  <GR_Mecharat.description>This tiny cybernetic organism can be mass-produced as a kind of "suicide weapon". It is very fast, and armed with a short ranged stun gun, so hordes of mecha-rats can be sent to the front lines to keep enemies stunned and in check. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, mecha-rats can be sent to the enemy to stun them. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mecharat.description>
+  <GR_Mecharat.tools.0.label>head</GR_Mecharat.tools.0.label>
+  <GR_Mechaturtle.label>mechaturtle</GR_Mechaturtle.label>
+  <GR_Mechaturtle.description>This cybernetic beast is heavily armoured with a plasteel-encased biomechanical shell. It is armed with a poison spitting cannon. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechaturtle can hurl poison projectiles to the enemy. Like all mechanoid hybrids it produces industrial components every couple days. It is, of course, quite slow.</GR_Mechaturtle.description>
+  <GR_Mechaturtle.tools.0.label>head</GR_Mechaturtle.tools.0.label>
+  <GR_Mechawolf.label>mechawolf</GR_Mechawolf.label>
+  <GR_Mechawolf.description>This cybernetic beast has been augmented with a powerful synthetic structure capable of generating waves of cryogenic liquid. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechawolf can launch cryo projectiles that freeze the ground (and enemies!) in contact. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechawolf.description>
+  <GR_Mechawolf.tools.0.label>head</GR_Mechawolf.tools.0.label>
+  <GR_Mechathrumbo.label>mechathrumbo</GR_Mechathrumbo.label>
+  <GR_Mechathrumbo.description>This hulking cybernetic behemoth is why you don't need tanks in the Rim. Its huge plasteel carapace hides a miniaturized synchrotron that constantly generates small amounts of antimatter, which is instantly used to fill a miniature antigrain warhead. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechathrumbo is like a mortar turret, armed with self-replenishing miniature antigrain warheads. This is SO end game... Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechathrumbo.description>
+  <GR_Mechathrumbo.tools.0.label>head</GR_Mechathrumbo.tools.0.label>
+  <GR_Mechacat.label>mechacat</GR_Mechacat.label>
+  <GR_Mechacat.description>The tail of this robotic creature has been crafted from an amalgamation of scyther blades and mechanite self-replicators. This allows the mechacat to use its tail as a throwable weapon, and quickly regenerate it to use it again. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechacat can use its tail as a dangerous throwable scythe. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechacat.description>
+  <GR_Mechacat.tools.0.label>head</GR_Mechacat.tools.0.label>
+  <GR_Muffalobear.label>muffalobear</GR_Muffalobear.label>
+  <GR_Muffalobear.description>A Muffalo / bear hybrid. The Muffalobear is a stronger variant of muffalo that doesn't produce wool. \n\nUseful abilities: Muffalobears produce a special milk, less nutritive but with a mild euphoric effect. They are pack animals that carry more weight than regular muffalos.</GR_Muffalobear.description>
+  <GR_Muffalobear.tools.0.label>head</GR_Muffalobear.tools.0.label>
+  <GR_Muffalope.label>muffalope</GR_Muffalope.label>
+  <GR_Muffalope.description>A Muffalo / boomalope hybrid. Because it's so cool when your caravans can EXPLODE. \n\nUseful abilities: Milk produced by these animals is not edible, but highly explosive, so it can be used to build IEDs. Can be sheared for low quality wool. Produces a decent amount of chemfuel.</GR_Muffalope.description>
+  <GR_Muffalope.tools.0.label>head</GR_Muffalope.tools.0.label>
+  <GR_Muffalochicken.label>muffalochicken</GR_Muffalochicken.label>
+  <GR_Muffalochicken.description>A Muffalo / chicken hybrid. A very strange bovine beast that lays eggs. \n\nUseful abilities: Produces high quality milk, wool and eggs.</GR_Muffalochicken.description>
+  <GR_Muffalochicken.tools.0.label>head</GR_Muffalochicken.tools.0.label>
+  <GR_Muffalochicken.tools.1.label>beak</GR_Muffalochicken.tools.1.label>
+  <GR_Muffalowolf.label>muffalowolf</GR_Muffalowolf.label>
+  <GR_Muffalowolf.description>A Muffalo / wolf hybrid. Faster than a standard muffalo, and better able to defend itself, but has lost the capacity to produce milk. \n\nUseful abilities: Quite fast pack beast.</GR_Muffalowolf.description>
+  <GR_Muffalowolf.tools.0.label>head</GR_Muffalowolf.tools.0.label>
+  <GR_Muffalorat.label>muffalorat</GR_Muffalorat.label>
+  <GR_Muffalorat.description>A Muffalo / Rat hybrid. A short-lived pack beast that breeds really fast.\n\nUseful abilities: Acts as a pack beast. Produces small amounts of milk and wool at a quite fast rate. Fast breeding.</GR_Muffalorat.description>
+  <GR_Muffalorat.tools.0.label>head</GR_Muffalorat.tools.0.label>
+  <GR_Muffalocat.label>muffalocat</GR_Muffalocat.label>
+  <GR_Muffalocat.description>A Muffalo / cat hybrid. The Muffalocat is a very intelligent muffalo hybrid that can be trained further than its brethren.\n\nUseful abilities: Muffalocats produce milk and hairball wool. They are also pack animals, though not as efficient as regular muffalos.</GR_Muffalocat.description>
+  <GR_Muffalocat.tools.0.label>head</GR_Muffalocat.tools.0.label>
+  <GR_Muffalocat.tools.1.label>left hoof</GR_Muffalocat.tools.1.label>
+  <GR_Muffalocat.tools.2.label>right hoof</GR_Muffalocat.tools.2.label>
+  <GR_Bearodile.label>bearodile</GR_Bearodile.label>
+  <GR_Bearodile.description>A reptile / bear hybrid. The reptilian genes used to generate this hybrid have given it some ancient reptilian characteristics, with an appearance similar to reptiles in the Permian Period on Earth. It has also developed a venomous bite.\n\nUseful abilities: Highly intelligent and venomous. Excellent base defender if properly trained.</GR_Bearodile.description>
+  <GR_Bearodile.tools.0.label>left claw</GR_Bearodile.tools.0.label>
+  <GR_Bearodile.tools.1.label>right claw</GR_Bearodile.tools.1.label>
+  <GR_Bearodile.tools.3.label>head</GR_Bearodile.tools.3.label>
+  <GR_Boomsnake.label>boomsnake</GR_Boomsnake.label>
+  <GR_Boomsnake.description>A reptile / boomalope hybrid. The boomsnake is not a very strong or agile combatant. However, when it dies it explodes in a noxious cloud of venomous vapors, which can be strong enough to dissolve flesh.\n\nUseful abilities: Its toxic explosion can easily decimate an enemy raid if properly timed. Doesn't produce chemfuel.</GR_Boomsnake.description>
+  <GR_Boomsnake.tools.1.label>head</GR_Boomsnake.tools.1.label>
+  <GR_Chickenlizard.label>chickenlizard</GR_Chickenlizard.label>
+  <GR_Chickenlizard.description>A reptile / chicken hybrid. This reptilian chicken has a slightly venomous bite. Not very powerful, but considering how fast chickens breed, a horde of chickenlizards might be enough to overpower a much bigger creature with their venom.\n\nUseful abilities: Small, fast breeding, venomous chickens.</GR_Chickenlizard.description>
+  <GR_Chickenlizard.tools.0.label>claws</GR_Chickenlizard.tools.0.label>
+  <GR_Chickenlizard.tools.2.label>head</GR_Chickenlizard.tools.2.label>
+  <GR_Muffalokomodo.label>muffalokomodo</GR_Muffalokomodo.label>
+  <GR_Muffalokomodo.description>A reptile / muffalo hybrid. This resilient beast can carry more weight than a regular muffalo, and has a powerful venomous bite.\n\nUseful abilities: Regularly produces enough venomous saliva to fill an ampoule with a powerful poison, which acts as a potent muscle paralysing agent.</GR_Muffalokomodo.description>
+  <GR_Spidersnake.label>spidersnake</GR_Spidersnake.label>
+  <GR_Spidersnake.description>A reptile / insectoid hybrid. This venomous, armoured snake, can be very dangerous in high enough numbers. Strangely, they don't seem particularly attracted to hugging any faces.\n\nUseful abilities: Regularly produces Spidersnake shed skin, which can be processed in a drug lab into small amounts of neutroamine.</GR_Spidersnake.description>
+  <GR_Spidersnake.tools.1.label>head</GR_Spidersnake.tools.1.label>
+  <GR_Thrumbolizard.label>thrumbolizard</GR_Thrumbolizard.label>
+  <GR_Thrumbolizard.description>A reptile / thrumbo hybrid. A massive, crocodilian creature with incredibly powerful jaws and a rabid venom. \n\nUseful abilities: Regularly produces enough venom to fill small ampoules. Thrumbolizard poison is 100% lethal, and there is no antidote that could act fast enough.</GR_Thrumbolizard.description>
+  <GR_Thrumbolizard.tools.0.label>horn</GR_Thrumbolizard.tools.0.label>
+  <GR_Thrumbolizard.tools.2.label>left foot</GR_Thrumbolizard.tools.2.label>
+  <GR_Thrumbolizard.tools.3.label>right foot</GR_Thrumbolizard.tools.3.label>
+  <GR_Thrumbolizard.tools.4.label>head</GR_Thrumbolizard.tools.4.label>
+  <GR_Wolfsnake.label>wolfsnake</GR_Wolfsnake.label>
+  <GR_Wolfsnake.description>A reptile / wolf hybrid. These serpentine predators are fast as lightning, and armed with a powerful, venomous bite. \n\nSpeed and poison make for a very effective base defender. Sheds wolfsnake skin from time to time.</GR_Wolfsnake.description>
+  <GR_Wolfsnake.tools.0.label>left claw</GR_Wolfsnake.tools.0.label>
+  <GR_Wolfsnake.tools.1.label>right claw</GR_Wolfsnake.tools.1.label>
+  <GR_Wolfsnake.tools.3.label>head</GR_Wolfsnake.tools.3.label>
+  <GR_Snakecat.label>snakecat</GR_Snakecat.label>
+  <GR_Snakecat.description>A reptile / cat hybrid. The snakecat is like a furry snake with tiny legs. It has a venomous bite, and can be trained much further than other reptile hybrids.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period.</GR_Snakecat.description>
+  <GR_Snakecat.tools.1.label>head</GR_Snakecat.tools.1.label>
+  <GR_Molebear.label>molebear</GR_Molebear.label>
+  <GR_Molebear.description>A Mole / Bear hybrid. The molebear combines the resilience of a bear with the extremely low methabolic rate of a mole rat. These creatures lack pain sensitivity, so if you want to kill one, there is no "knocking it unconscious".\n\nUseful abilities: No pain sensitivity. Fast breeding.</GR_Molebear.description>
+  <GR_Molebear.tools.0.label>left claw</GR_Molebear.tools.0.label>
+  <GR_Molebear.tools.1.label>right claw</GR_Molebear.tools.1.label>
+  <GR_Molebear.tools.3.label>head</GR_Molebear.tools.3.label>
+  <GR_Boomsquirrel.label>boomsquirrel</GR_Boomsquirrel.label>
+  <GR_Boomsquirrel.description>A Squirrel / Boomalope hybrid. This small and fast rodent has several nodules of chemical mixture in its back.\n\nUseful abilities: Explodes on death. Produces small amounts of chemfuel quite fast. Very fast breeding.</GR_Boomsquirrel.description>
+  <GR_Boomsquirrel.tools.0.label>left claw</GR_Boomsquirrel.tools.0.label>
+  <GR_Boomsquirrel.tools.1.label>right claw</GR_Boomsquirrel.tools.1.label>
+  <GR_Boomsquirrel.tools.3.label>head</GR_Boomsquirrel.tools.3.label>
+  <GR_Rabbitchicken.label>rabbitchicken</GR_Rabbitchicken.label>
+  <GR_Rabbitchicken.description>A Rabbit / Chicken hybrid. Isn't it adorable? Awwwww... Who's the sweetest genetic abomination in all the Rim? Actually, rabbitchickens are a pest, and they tend to breed very, very fast, even faster than other rodent hybrids, and they will consume all available food unless you have a system in place to avoid it.\n\nUseful abilities: Fastest breeding of all hybrids.</GR_Rabbitchicken.description>
+  <GR_Rabbitchicken.tools.1.label>head</GR_Rabbitchicken.tools.1.label>
+  <GR_Ratfallo.label>ratfallo</GR_Ratfallo.label>
+  <GR_Ratfallo.description>A Rat / Muffalo hybrid. This is a very large, muscular and resilient rat. It can be used as a pack animal, and also produces some milk of questionable quality.\n\nUseful abilities: Acts as a pack beast. Produces small amounts of milk and wool at a quite fast rate. Fast breeding.</GR_Ratfallo.description>
+  <GR_Ratfallo.tools.1.label>head</GR_Ratfallo.tools.1.label>
+  <GR_Thrumborat.label>thrumborat</GR_Thrumborat.label>
+  <GR_Thrumborat.description>A Rat / Thrumbo hybrid. What could be scarier than a fast-breeding thrumbo?\n\nUseful abilities: Fast breeding and fast maturing for a creature of this size. Not very long-lived, though.</GR_Thrumborat.description>
+  <GR_Thrumborat.tools.0.label>horn</GR_Thrumborat.tools.0.label>
+  <GR_Thrumborat.tools.2.label>left paw</GR_Thrumborat.tools.2.label>
+  <GR_Thrumborat.tools.3.label>right paw</GR_Thrumborat.tools.3.label>
+  <GR_Thrumborat.tools.4.label>head</GR_Thrumborat.tools.4.label>
+  <GR_Beaverwolf.label>beaverwolf</GR_Beaverwolf.label>
+  <GR_Beaverwolf.description>A Beaver / Wolf hybrid. Beaverwolves can eat either meat or trees, although they are not as voracious as the wolfbeaver hybrid. They are not as efficient in battle, but they produce castoreum, which can be used to cook.\n\nUseful abilities: Regularly produces a secretion called castoreum that can be used as a cooking ingredient. Fast breeding.</GR_Beaverwolf.description>
+  <GR_Beaverwolf.tools.0.label>left claw</GR_Beaverwolf.tools.0.label>
+  <GR_Beaverwolf.tools.1.label>right claw</GR_Beaverwolf.tools.1.label>
+  <GR_Beaverwolf.tools.3.label>head</GR_Beaverwolf.tools.3.label>
+  <GR_Rabbitcat.label>rabbitcat</GR_Rabbitcat.label>
+  <GR_Rabbitcat.description>A Rabbit / Cat hybrid. The rabbitcat is a very efficient predator. Equipped with excellent hearing and a keen intelligence.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. Fast breeding. Its fangs can be used as a trophy or sold for a profit.</GR_Rabbitcat.description>
+  <GR_Rabbitcat.tools.0.label>left claw</GR_Rabbitcat.tools.0.label>
+  <GR_Rabbitcat.tools.1.label>right claw</GR_Rabbitcat.tools.1.label>
+  <GR_Thrumbear.label>thrumbear</GR_Thrumbear.label>
+  <GR_Thrumbear.description>This gargantuan beast is the result of splicing bear genes in a standard thrumbo. As strong and resilient as it is easy to anger, a thrumbear attack is something to be VERY scared of.\n\nUseful abilities: Produces very high quality wool.</GR_Thrumbear.description>
+  <GR_Thrumbear.tools.0.label>horn</GR_Thrumbear.tools.0.label>
+  <GR_Thrumbear.tools.2.label>left foot</GR_Thrumbear.tools.2.label>
+  <GR_Thrumbear.tools.3.label>right foot</GR_Thrumbear.tools.3.label>
+  <GR_Thrumbear.tools.4.label>head</GR_Thrumbear.tools.4.label>
+  <GR_Thrumbalope.label>thrumbalope</GR_Thrumbalope.label>
+  <GR_Thrumbalope.description>The thrumbalope is a thrumbo that has been spliced with boomalope genes. Their huge sacs of unstable chemicals explode with unbelievable force, which has caused the colonists to nickname them "nukalopes".\n\nUseful abilities: Huge, dangerous explosion on death. Produces massive amounts of chemfuel.</GR_Thrumbalope.description>
+  <GR_Thrumbalope.tools.0.label>horn</GR_Thrumbalope.tools.0.label>
+  <GR_Thrumbalope.tools.2.label>left foot</GR_Thrumbalope.tools.2.label>
+  <GR_Thrumbalope.tools.3.label>right foot</GR_Thrumbalope.tools.3.label>
+  <GR_Thrumbalope.tools.4.label>head</GR_Thrumbalope.tools.4.label>
+  <GR_Thrumbochicken.label>thrumbochicken</GR_Thrumbochicken.label>
+  <GR_Thrumbochicken.description>The thrumbochicken is a thrumbo that has been spliced with avian genes. Although not very ravenous, these are lightning fast predators that could hunt any other creature with ease. These animals lay enormous eggs!\n\nUseful abilities: Biggest eggs of any animal.</GR_Thrumbochicken.description>
+  <GR_Thrumbochicken.tools.0.label>horn</GR_Thrumbochicken.tools.0.label>
+  <GR_Thrumbochicken.tools.2.label>head</GR_Thrumbochicken.tools.2.label>
+  <GR_Thrumffalo.label>thrumffalo</GR_Thrumffalo.label>
+  <GR_Thrumffalo.description>This massive ungulate is the result of splicing a thrumbo with muffalo genes. Capable of carrying a huge amount of materials, there is no better possible pack animal in all the Rim (yet! Science never rests).\n\nUseful abilities: Produces high quality milk and wool.</GR_Thrumffalo.description>
+  <GR_Thrumffalo.tools.0.label>horn</GR_Thrumffalo.tools.0.label>
+  <GR_Thrumffalo.tools.2.label>left foot</GR_Thrumffalo.tools.2.label>
+  <GR_Thrumffalo.tools.3.label>right foot</GR_Thrumffalo.tools.3.label>
+  <GR_Thrumffalo.tools.4.label>head</GR_Thrumffalo.tools.4.label>
+  <GR_Thrumwolf.label>thrumwolf</GR_Thrumwolf.label>
+  <GR_Thrumwolf.description>This colossal predator is the result of splicing a thrumbo with wolf genes. Fast and really hungry, all the time. Entire ecosystems can be decimated by the insane apetite of a Thrumbowolf.\n\nUseful abilities: fast attacking predator which will tear through your enemies if properly trained. Needs a LOT of food, though.</GR_Thrumwolf.description>
+  <GR_Thrumwolf.tools.0.label>horn</GR_Thrumwolf.tools.0.label>
+  <GR_Thrumwolf.tools.2.label>left foot</GR_Thrumwolf.tools.2.label>
+  <GR_Thrumwolf.tools.3.label>right foot</GR_Thrumwolf.tools.3.label>
+  <GR_Thrumwolf.tools.4.label>head</GR_Thrumwolf.tools.4.label>
+  <GR_Thrumbocat.label>thrumbocat</GR_Thrumbocat.label>
+  <GR_Thrumbocat.description>A Thrumbo / Cat hybrid. The thrumbocat is a dangerous, agile predator. It can attack with its maws or its massive horn, as well as overpower its prey with a close range hairball attack.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. Hairball attack that suffocates its prey.</GR_Thrumbocat.description>
+  <GR_Thrumbocat.tools.0.label>horn</GR_Thrumbocat.tools.0.label>
+  <GR_Thrumbocat.tools.2.label>left foot</GR_Thrumbocat.tools.2.label>
+  <GR_Thrumbocat.tools.3.label>right foot</GR_Thrumbocat.tools.3.label>
+  <GR_Thrumbocat.tools.4.label>head</GR_Thrumbocat.tools.4.label>
+  <GR_Wolfbear.label>wolfbear</GR_Wolfbear.label>
+  <GR_Wolfbear.description>A Wolf / Bear hybrid. Very similar to the standard timber wolf, but with better stamina.\n\nUseful abilities: Good guard animal. Butchering gives Wolfbear paws, which can be sold.</GR_Wolfbear.description>
+  <GR_Wolfbear.tools.0.label>left claw</GR_Wolfbear.tools.0.label>
+  <GR_Wolfbear.tools.1.label>right claw</GR_Wolfbear.tools.1.label>
+  <GR_Wolfbear.tools.3.label>head</GR_Wolfbear.tools.3.label>
+  <GR_Wolfalope.label>wolfalope</GR_Wolfalope.label>
+  <GR_Wolfalope.description>A Wolf / Boomalope hybrid. A very dangerous predator that tends to explode when confronted with prey too large for them. Friction between the creature's pelt and the boomalope nodules constantly creates static electricity, which is suddenly liberated when the creature dies and the nodules explode.\n\nUseful abilities: Explodes on death in a dangerous electromagnetic pulse (EMP damage). Produces average amounts of chemfuel.</GR_Wolfalope.description>
+  <GR_Wolfalope.tools.0.label>left claw</GR_Wolfalope.tools.0.label>
+  <GR_Wolfalope.tools.1.label>right claw</GR_Wolfalope.tools.1.label>
+  <GR_Wolfalope.tools.3.label>head</GR_Wolfalope.tools.3.label>
+  <GR_Wolfchicken.label>wolfchicken</GR_Wolfchicken.label>
+  <GR_Wolfchicken.description>A Wolf / Chicken hybrid. You know the saying: when you let the wolves guard the hen house, there's bound to be a few chicken dinners. Well, not anymore.\n\nUseful abilities: Egg layer. Regularly produces feathers that can be sold for a profit.</GR_Wolfchicken.description>
+  <GR_Wolfchicken.tools.0.label>left claw</GR_Wolfchicken.tools.0.label>
+  <GR_Wolfchicken.tools.1.label>right claw</GR_Wolfchicken.tools.1.label>
+  <GR_Wolfchicken.tools.3.label>head</GR_Wolfchicken.tools.3.label>
+  <GR_Wolffalo.label>wolffalo</GR_Wolffalo.label>
+  <GR_Wolffalo.description>A Wolf / Muffalo hybrid. Not incredibly good as a pack beast, but a very fast wool producer.\n\nActs as a pack beast. Produces small amounts of milk and wool at a quite fast rate.</GR_Wolffalo.description>
+  <GR_Wolffalo.tools.0.label>left claw</GR_Wolffalo.tools.0.label>
+  <GR_Wolffalo.tools.1.label>right claw</GR_Wolffalo.tools.1.label>
+  <GR_Wolffalo.tools.2.label>head</GR_Wolffalo.tools.2.label>
+  <GR_Wolfbeaver.label>wolfbeaver</GR_Wolfbeaver.label>
+  <GR_Wolfbeaver.description>A Wolf / Beaver hybrid. This fast breeding predator can be a drain on your tree reserves, unless you provide it with some fresh meat.\n\nUseful abilities: Fast breeding.</GR_Wolfbeaver.description>
+  <GR_Wolfbeaver.tools.0.label>left claw</GR_Wolfbeaver.tools.0.label>
+  <GR_Wolfbeaver.tools.1.label>right claw</GR_Wolfbeaver.tools.1.label>
+  <GR_Wolfbeaver.tools.3.label>head</GR_Wolfbeaver.tools.3.label>
+  <GR_Wolfcat.label>wolfcat</GR_Wolfcat.label>
+  <GR_Wolfcat.description>A Wolf / Cat hybrid. This tiger-like predator is intelligent, fast and quite easy to train.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period.</GR_Wolfcat.description>
+  <GR_Wolfcat.tools.0.label>left claw</GR_Wolfcat.tools.0.label>
+  <GR_Wolfcat.tools.1.label>right claw</GR_Wolfcat.tools.1.label>
+  <GR_Wolfcat.tools.3.label>head</GR_Wolfcat.tools.3.label>
+</LanguageData>

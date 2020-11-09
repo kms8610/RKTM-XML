@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MutagenExtraction.label>Mutagen extraction</MutagenExtraction.label>
+  <MutagenExtraction.description>It should be possible to extract mechanites from eggs and milk produced by partially morphed pawns. This can be done at a drug lab.</MutagenExtraction.description>
+  <MutagenicPlantSowing.label>Mutagenic Plants</MutagenicPlantSowing.label>
+  <MutagenicPlantSowing.description>By exposing plants to mutagenic mechanites it's possible to grow new and 'improved' variants of them.</MutagenicPlantSowing.description>
+  <SerumSynthesis.label>Serum synthesis</SerumSynthesis.label>
+  <SerumSynthesis.description>By careful recalibration of mechanite components, we may be able to make our own mutagenic serums. This costs mechanite slurry to do, and unlocks creation of basic mechanite serums. Also unlocks a bench for working with these mutagens, as the drug lab will not be suitable for further projects.</SerumSynthesis.description>
+  <AdvancedSerumSynthesis.label>Targeted serums</AdvancedSerumSynthesis.label>
+  <AdvancedSerumSynthesis.description>Using some more advanced techniques, we can target two distinct types of mutation — production and combat.  Production can be used to make pawns more useful, allowing them to produce milk, eggs and other items.</AdvancedSerumSynthesis.description>
+  <PowerfulSerumSynthesis.label>Powerful serums</PowerfulSerumSynthesis.label>
+  <PowerfulSerumSynthesis.description>For now, serums only seem to keep the end size of the pawn roughly similar to nominal. Pursuing this path will allow the creation of serums where size can be increased, at the cost of huge hunger. It can be unstable.</PowerfulSerumSynthesis.description>
+  <AdvancedExtraction.label>Advanced synthesis</AdvancedExtraction.label>
+  <AdvancedExtraction.description>With a pawn skilled in crafting, it should be possible to repurpose the mutagenic mechanites into a variety of different configurations, that nullify their mutagenic effect. In this way, we will be able to create other non-mutagenic mechanite serums of our own such as healers and even resurrectors.</AdvancedExtraction.description>
+  <MutagenCentrifuging.label>Mutagen centrifuging</MutagenCentrifuging.label>
+  <MutagenCentrifuging.description>Develop plans to construct a centrifuge to refine slurry and chaobulbs back to mutanite by a process involving the straining of mechanites through morphsilk. This process will not be efficient and will use quite a bit of power, but if mutanite is otherwise unobtainable...this is one way to get it. It will also be possible to forgo safety protocols to speed up the process, though this may have unintended effects on anyone nearby.</MutagenCentrifuging.description>
+  <Injectors.label>Injectors</Injectors.label>
+  <Injectors.description>Isolating the actual genomes of the mechanites involved allows us to create distinct strains of mutagens for specific animals. However, in order to isolate the genome a given animal, the genetic structure of said animal will need to be sequenced from live specimens and stored in a database to cross-reference it. This can be done by refitting a bolt-action rifle to fire 'tagging' rounds, to add their genetic code to a morphsilk tape-based genebank.</Injectors.description>
+  <MutagenChambers.label>Chambers</MutagenChambers.label>
+  <MutagenChambers.description>Unlocks a bath of mutagen which pawns can enter or be carried to. It can be used to selectively apply specific mutations to said pawn, or quickly transform them into an animal of our chosing. Reality can be whatever we want.</MutagenChambers.description>
+  <AdvancedMutagenChambers.label>Advanced chambers</AdvancedMutagenChambers.label>
+  <AdvancedMutagenChambers.description>A bigger chamber, for bigger beasts. Note that you will need to build a different modulator for this one, fortunately this research also unlocks it.</AdvancedMutagenChambers.description>
+  <ChamberModulator.label>Chamber modulation</ChamberModulator.label>
+  <ChamberModulator.description>It didn't take long to come up with this, because apparently the top scientists wanted to be able to determine exactly what came out the other end. This unlocks the modulator, which in turn allows you to pick an animal for the chamber to turn a pawn into provided they've already been tagged. You will also be able to connect two pods together via the modulator. Once two pawns are in the connected chambers, this should unlock another option...</ChamberModulator.description>
+  <MutagenicWeapons.label>Mutagenic weaponry</MutagenicWeapons.label>
+  <MutagenicWeapons.description>By infusing mutagenic rock into weapons, we may be able to make a host of weapons that transform a target instead of outright killing them...though the victim may not always be happy about it.</MutagenicWeapons.description>
+  <PowerfulInjectors.label>Powerful injectors</PowerfulInjectors.label>
+  <PowerfulInjectors.description>Fitting the amount of slurry into an injector required for this might be a difficult task, but it guarantees a specific strain of powerful beast if used correctly.</PowerfulInjectors.description>
+  <Stabilisation.label>Mutagen stabilisation</Stabilisation.label>
+  <Stabilisation.description>Interesting effects come into play when mutagen is introduced to neutroamine. Among other theorised things, it might be possible to halt and prevent pawns from undergoing further mutations.</Stabilisation.description>
+  <Reversion.label>Reversion</Reversion.label>
+  <Reversion.description>This is only possible because mechanites seem to store everything about the pawn prior to their transformation. With this, it'll be possible to turn former humans back into humans again — ones made here, and ones we find elsewhere. However, it will not help permanent ferals.</Reversion.description>
+  <LozengeProduction.label>Booster lozenges</LozengeProduction.label>
+  <LozengeProduction.description>We can now press some mutagen into booster pills that will enhance production for our chook/cowmorphs.</LozengeProduction.description>
+</LanguageData>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HerdMind.label>herd mentality</HerdMind.label>
+  <HerdMind.stages.0.description>I'm the only one of my kind, I feel unsafe being all alone.</HerdMind.stages.0.description>
+  <HerdMind.stages.1.description>There's another like me, but we're still only a small herd.</HerdMind.stages.1.description>
+  <HerdMind.stages.2.description>There's lots of my kind, safety in numbers.</HerdMind.stages.2.description>
+  <HerdMind.stages.3.description>There's plenty of people in my herd, there's nothing to fear!</HerdMind.stages.3.description>
+  <CanidMind.label>pack minded</CanidMind.label>
+  <CanidMind.stages.0.description>I'm the only one of my kind, I wish I had a proper pack.</CanidMind.stages.0.description>
+  <CanidMind.stages.1.description>There's another like me, but we're still only a small pack.</CanidMind.stages.1.description>
+  <CanidMind.stages.2.description>There's lots of my kind, strength in numbers.</CanidMind.stages.2.description>
+  <CanidMind.stages.3.description>There's plenty of people in my pack, this is great!</CanidMind.stages.3.description>
+  <NaturalHunter.label>natural hunter</NaturalHunter.label>
+  <NaturalHunter.description>This pawn's mind is now instinctively attuned to the methods of hunting.</NaturalHunter.description>
+  <NaturalHunter.stages.0.label>natural hunter</NaturalHunter.stages.0.label>
+  <NaturalHunter.stages.0.description>[PAWN_nameDef]'s mind is now instinctively attuned to the methods of hunting.</NaturalHunter.stages.0.description>
+  <ColorationNatural.label>Unusual colors (natural)</ColorationNatural.label>
+  <ColorationNatural.description>This pawn's coloration has shifted to those not typically seen in the base species.</ColorationNatural.description>
+  <ColorationNatural.stages.0.label>Unusual colors (natural)</ColorationNatural.stages.0.label>
+  <ColorationNatural.stages.0.description>[PAWN_nameDef]'s coloration has shifted to those not typically seen in the base species.</ColorationNatural.stages.0.description>
+  <ColorationAlbinism.label>Unusual colors (albinism)</ColorationAlbinism.label>
+  <ColorationAlbinism.description>This pawn has lost most of their pigmentation.</ColorationAlbinism.description>
+  <ColorationAlbinism.stages.0.label>Unusual colors (albinism)</ColorationAlbinism.stages.0.label>
+  <ColorationAlbinism.stages.0.description>[PAWN_nameDef] has lost most of their pigmentation.</ColorationAlbinism.stages.0.description>
+  <ColorationMelanism.label>Unusual colors (melanism)</ColorationMelanism.label>
+  <ColorationMelanism.description>This pawn has an excessive amount of melanin, leading to a dark coloration.</ColorationMelanism.description>
+  <ColorationMelanism.stages.0.label>Unusual colors (melanism)</ColorationMelanism.stages.0.label>
+  <ColorationMelanism.stages.0.description>[PAWN_nameDef] has an excessive amount of melanin, leading to a dark coloration.</ColorationMelanism.stages.0.description>
+  <ColorationUnnatural.label>Unusual colors (unnatural)</ColorationUnnatural.label>
+  <ColorationUnnatural.description>This pawn's coloration has shifted to one not typically seen in nature (except in highly poisonous frogs).</ColorationUnnatural.description>
+  <ColorationUnnatural.stages.0.label>Unusual colors (unnatural)</ColorationUnnatural.stages.0.label>
+  <ColorationUnnatural.stages.0.description>[PAWN_nameDef]'s coloration has shifted to one not typically seen in nature (except in highly poisonous frogs).</ColorationUnnatural.stages.0.description>
+  <ColorationPlayerPicked.label>Dermal repigmentation</ColorationPlayerPicked.label>
+  <ColorationPlayerPicked.description>This pawn's coloration has been artifically shifted to a personalised set.</ColorationPlayerPicked.description>
+  <ColorationPlayerPicked.stages.0.label>Dermal repigmentation</ColorationPlayerPicked.stages.0.label>
+  <ColorationPlayerPicked.stages.0.description>[PAWN_nameDef]'s coloration has been artifically shifted to a personalised set.</ColorationPlayerPicked.stages.0.description>
+  <PrimalWish.label>primal wish</PrimalWish.label>
+  <PrimalWish.description>This pawn desires a simple life. So simple, some might comment, that it is suited more for an animal than a human. Indeed, this pawn does envy animals, and would rather be one than human.</PrimalWish.description>
+  <PrimalWish.stages.0.label>primal wish</PrimalWish.stages.0.label>
+  <PrimalWish.stages.0.description>[PAWN_nameDef] desires a simple life. So simple, some might comment, that it is suited more for an animal than a human. Indeed, [PAWN_nameDef] does envy animals, and would rather be one than human.</PrimalWish.stages.0.description>
+  <PrimalWish.stages.0.messageText>Upon becoming a morph, [PAWN_nameDef] has gained a 'primal wish'. [PAWN_pronoun] might want to go even further with their mutations...</PrimalWish.stages.0.messageText>
+  <Beastmaster.label>beastmaster</Beastmaster.label>
+  <Beastmaster.description>This pawn likes the company of animals who were once people, and feels more at ease being around them.</Beastmaster.description>
+  <Beastmaster.stages.0.label>beastmaster</Beastmaster.stages.0.label>
+  <Beastmaster.stages.0.description>[PAWN_nameDef] likes the company of animals who were once people, and feels more at ease being around them.</Beastmaster.stages.0.description>
+  <SplitMind.label>split mind</SplitMind.label>
+  <SplitMind.description>TODO</SplitMind.description>
+  <SplitMind.stages.0.label>split mind</SplitMind.stages.0.label>
+  <SplitMind.stages.0.description>TODO</SplitMind.stages.0.description>
+  <EtherState.label>Etherbonded/broken</EtherState.label>
+  <EtherState.description>This pawn has produced constantly, leaving them numb or happily broken.</EtherState.description>
+  <EtherState.stages.0.label>Etherbroken</EtherState.stages.0.label>
+  <EtherState.stages.0.description>Constant production has caused [PAWN_nameDef] to become numb and submit to their fate.</EtherState.stages.0.description>
+  <EtherState.stages.1.label>Etherbonded</EtherState.stages.1.label>
+  <EtherState.stages.1.description>Constant production has caused [PAWN_nameDef] to accept change, and for some reason will now enjoy producing.</EtherState.stages.1.description>
+  <SapienceCapped.label>Sapience limited</SapienceCapped.label>
+  <SapienceCapped.description>This pawn has had their sapience limited to a certain level.</SapienceCapped.description>
+  <SapienceCapped.stages.0.label>Lizardbrain</SapienceCapped.stages.0.label>
+  <SapienceCapped.stages.0.description>The sapience of this pawn has been capped to feral levels.</SapienceCapped.stages.0.description>
+  <SapienceCapped.stages.1.label>Chookbrain</SapienceCapped.stages.1.label>
+  <SapienceCapped.stages.1.description>The sapience of this pawn has been capped to mostly feral levels.</SapienceCapped.stages.1.description>
+  <SapienceCapped.stages.2.label>Cowbrain</SapienceCapped.stages.2.label>
+  <SapienceCapped.stages.2.description>The sapience of this pawn has been capped to almost feral levels.</SapienceCapped.stages.2.description>
+  <SapienceCapped.stages.3.label>Dogbrain</SapienceCapped.stages.3.label>
+  <SapienceCapped.stages.3.description>The sapience of this pawn has been capped to conflicted levels.</SapienceCapped.stages.3.description>
+  <SapienceCapped.stages.4.label>Monkeybrain</SapienceCapped.stages.4.label>
+  <SapienceCapped.stages.4.description>The sapience of this pawn has been capped to mostly sapient levels.</SapienceCapped.stages.4.description>
+  <MutagenInfused.label>modified production</MutagenInfused.label>
+  <MutagenInfused.description>This pawn has taken mutagen-infused medication that modified their mutation's biological outputs.</MutagenInfused.description>
+  <MutagenInfused.stages.0.label>mutagen infused</MutagenInfused.stages.0.label>
+  <MutagenInfused.stages.0.description>Will only produce rare resources.</MutagenInfused.stages.0.description>
+  <MutagenInfused.stages.1.label>mutagen neutralized</MutagenInfused.stages.1.label>
+  <MutagenInfused.stages.1.description>Will never produce rare resources.</MutagenInfused.stages.1.description>
+  <MutagenInfused.stages.2.label>dry</MutagenInfused.stages.2.label>
+  <MutagenInfused.stages.2.description>[PAWN_nameDef] will never produce resources.</MutagenInfused.stages.2.description>
+  <AnimalAffinity.label>animal affinity</AnimalAffinity.label>
+  <AnimalAffinity.description>This pawn has a greater apriciation for animals.</AnimalAffinity.description>
+  <AnimalAffinity.stages.0.label>animal affinity</AnimalAffinity.stages.0.label>
+  <AnimalAffinity.stages.0.description>[PAWN_nameDef]'s new form has given [PAWN_objective] a greater apriciation for what [PAWN_pronoun] now sees as [PAWN_possessive] fellow animals. It doesn't hurt that [PAWN_pronoun] now speaks their (body) language, either.</AnimalAffinity.stages.0.description>
+  <PlantAffinity.label>plant affinity</PlantAffinity.label>
+  <PlantAffinity.description>This pawn cares deeply for plants.</PlantAffinity.description>
+  <PlantAffinity.stages.0.label>plant affinity</PlantAffinity.stages.0.label>
+  <PlantAffinity.stages.0.description>Because [PAWN_nameDef]'s new form has brought [PAWN_objective] closer to nature (too close some might say), [PAWN_pronoun] now better understands how plants fit into the circle of life and is much more careful when tending them.</PlantAffinity.stages.0.description>
+  <RareMutant.label>rare mutatant</RareMutant.label>
+  <RareMutant.description>TODO</RareMutant.description>
+  <RareMutant.stages.0.label>rare mutatant</RareMutant.stages.0.label>
+  <RareMutant.stages.0.description>TODO</RareMutant.stages.0.description>
+  <Paragon.label>paragon</Paragon.label>
+  <Paragon.description>This pawn adapts quickly to new mutations, and can sometimes get better, more powerful mutations than normal morphs.</Paragon.description>
+  <Paragon.stages.0.label>paragon</Paragon.stages.0.label>
+  <Paragon.stages.0.description>[PAWN_nameDef] adapts quickly to new mutations, and can sometimes get better, more powerful mutations than normal morphs.</Paragon.stages.0.description>
+  <Paragon.stages.0.messageText>Some of [PAWN_nameDef]'s mutations seem to be adapting faster and becoming more powerful.</Paragon.stages.0.messageText>
+  <Afflicted.label>afflicted</Afflicted.label>
+  <Afflicted.description>this pawn not only never adapts to new mutations, their mutations sometimes degrade into worse versions.</Afflicted.description>
+  <Afflicted.stages.0.label>afflicted</Afflicted.stages.0.label>
+  <Afflicted.stages.0.description>[PAWN_nameDef] not only never adapts to new mutations, their mutations sometimes degrade into worse versions.</Afflicted.stages.0.description>
+  <Afflicted.stages.0.messageText>Some of [PAWN_nameDef]'s mutations seem to be degrading into worse forms.</Afflicted.stages.0.messageText>
+  <Productive.label>increased production</Productive.label>
+  <Productive.description>This pawn's biochemistry has been modified such that their mutations output rate has been increased. This has caused them to become increasingly hungry, so be sure to keep them fed.</Productive.description>
+  <Productive.stages.0.label>productive</Productive.stages.0.label>
+  <Productive.stages.0.description>[PAWN_nameDef]'s productive mutations output rate has been increased. This has caused them to become increasingly hungry, so be sure to keep them fed.</Productive.stages.0.description>
+  <Productive.stages.1.label>very productive</Productive.stages.1.label>
+  <Productive.stages.1.description>[PAWN_nameDef]'s production output and caloric intake have been further increased. Take care, as their body may not be able to handle further productive increases.</Productive.stages.1.description>
+  <Productive.stages.2.label>productive bliss</Productive.stages.2.label>
+  <Productive.stages.2.description>[PAWN_nameDef]'s productive mutations have achieved maximum productive output. The constant production has left their body and mind weakened, and they may occasionally fall into a catatonic state as a result.</Productive.stages.2.description>
+  <PantherAspect.label>instictive predator</PantherAspect.label>
+  <PantherAspect.description>The blood of a panther runs through this pawn's veins. Their senses are keener, their body more agile, and their claws sharper. They are the perfect predator.</PantherAspect.description>
+  <PantherAspect.stages.0.label>instictive predator</PantherAspect.stages.0.label>
+  <PantherAspect.stages.0.description>The blood of a panther runs through [PAWN_nameDef]'s veins. [PAWN_possessive] senses are keener, [PAWN_possessive] body more agile, and [PAWN_possessive] claws sharper. [PAWN_pronoun] is the perfect predator.</PantherAspect.stages.0.description>
+  <MeatLover.label>meat lover</MeatLover.label>
+  <MeatLover.description>This pawn has developed a taste for raw meat, and is less likely to get sick from it.</MeatLover.description>
+  <MeatLover.stages.0.label>meat lover</MeatLover.stages.0.label>
+  <MeatLover.stages.0.description>[PAWN_nameDef] has developed a taste for raw meat, and is less likely to get sick from it.</MeatLover.stages.0.description>
+</LanguageData>

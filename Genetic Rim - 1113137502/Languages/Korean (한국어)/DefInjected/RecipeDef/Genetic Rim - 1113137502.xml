@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GR_CreateAlphaBearIncubator.label>paragon bear incubator</GR_CreateAlphaBearIncubator.label>
+  <GR_CreateAlphaBearIncubator.description>Fill an incubator with paragon genes from a bear</GR_CreateAlphaBearIncubator.description>
+  <GR_CreateAlphaBearIncubator.jobString>Filling Incubator</GR_CreateAlphaBearIncubator.jobString>
+  <GR_CreateAlphaBoarIncubator.label>paragon boar incubator</GR_CreateAlphaBoarIncubator.label>
+  <GR_CreateAlphaBoarIncubator.description>Fill an incubator with paragon genes from a wild boar</GR_CreateAlphaBoarIncubator.description>
+  <GR_CreateAlphaBoarIncubator.jobString>Filling Incubator</GR_CreateAlphaBoarIncubator.jobString>
+  <GR_CreateAlphaBoomalopeIncubator.label>paragon boomalope incubator</GR_CreateAlphaBoomalopeIncubator.label>
+  <GR_CreateAlphaBoomalopeIncubator.description>Fill an incubator with paragon genes from a boomalope</GR_CreateAlphaBoomalopeIncubator.description>
+  <GR_CreateAlphaBoomalopeIncubator.jobString>Filling Incubator</GR_CreateAlphaBoomalopeIncubator.jobString>
+  <GR_CreateAlphaChickenIncubator.label>paragon chicken incubator</GR_CreateAlphaChickenIncubator.label>
+  <GR_CreateAlphaChickenIncubator.description>Fill an incubator with paragon genes from a chicken</GR_CreateAlphaChickenIncubator.description>
+  <GR_CreateAlphaChickenIncubator.jobString>Filling Incubator</GR_CreateAlphaChickenIncubator.jobString>
+  <GR_CreateAlphaEmuIncubator.label>paragon emu incubator</GR_CreateAlphaEmuIncubator.label>
+  <GR_CreateAlphaEmuIncubator.description>Fill an incubator with paragon genes from an emu</GR_CreateAlphaEmuIncubator.description>
+  <GR_CreateAlphaEmuIncubator.jobString>Filling Incubator</GR_CreateAlphaEmuIncubator.jobString>
+  <GR_CreateAlphaMuffaloIncubator.label>paragon muffalo incubator</GR_CreateAlphaMuffaloIncubator.label>
+  <GR_CreateAlphaMuffaloIncubator.description>Fill an incubator with paragon genes from a muffalo</GR_CreateAlphaMuffaloIncubator.description>
+  <GR_CreateAlphaMuffaloIncubator.jobString>Filling Incubator</GR_CreateAlphaMuffaloIncubator.jobString>
+  <GR_CreateAlphaOstrichIncubator.label>paragon ostrich incubator</GR_CreateAlphaOstrichIncubator.label>
+  <GR_CreateAlphaOstrichIncubator.description>Fill an incubator with paragon genes from an ostrich</GR_CreateAlphaOstrichIncubator.description>
+  <GR_CreateAlphaOstrichIncubator.jobString>Filling Incubator</GR_CreateAlphaOstrichIncubator.jobString>
+  <GR_CreateAlphaRhinoIncubator.label>paragon rhino incubator</GR_CreateAlphaRhinoIncubator.label>
+  <GR_CreateAlphaRhinoIncubator.description>Fill an incubator with paragon genes from a rhino</GR_CreateAlphaRhinoIncubator.description>
+  <GR_CreateAlphaRhinoIncubator.jobString>Filling Incubator</GR_CreateAlphaRhinoIncubator.jobString>
+  <GR_CreateAlphaWolfIncubator.label>paragon wolf incubator</GR_CreateAlphaWolfIncubator.label>
+  <GR_CreateAlphaWolfIncubator.description>Fill an incubator with paragon genes from a wolf</GR_CreateAlphaWolfIncubator.description>
+  <GR_CreateAlphaWolfIncubator.jobString>Filling Incubator</GR_CreateAlphaWolfIncubator.jobString>
+  <GR_CreateAlphaHareIncubator.label>paragon hare incubator</GR_CreateAlphaHareIncubator.label>
+  <GR_CreateAlphaHareIncubator.description>Fill an incubator with paragon genes from a hare</GR_CreateAlphaHareIncubator.description>
+  <GR_CreateAlphaHareIncubator.jobString>Filling Incubator</GR_CreateAlphaHareIncubator.jobString>
+  <GR_CreateAlphaIguanaIncubator.label>paragon iguana incubator</GR_CreateAlphaIguanaIncubator.label>
+  <GR_CreateAlphaIguanaIncubator.description>Fill an incubator with paragon genes from an iguana</GR_CreateAlphaIguanaIncubator.description>
+  <GR_CreateAlphaIguanaIncubator.jobString>Filling Incubator</GR_CreateAlphaIguanaIncubator.jobString>
+  <GR_CreateAlphaPigIncubator.label>paragon pig incubator</GR_CreateAlphaPigIncubator.label>
+  <GR_CreateAlphaPigIncubator.description>Fill an incubator with paragon genes from a pig</GR_CreateAlphaPigIncubator.description>
+  <GR_CreateAlphaPigIncubator.jobString>Filling Incubator</GR_CreateAlphaPigIncubator.jobString>
+  <GR_CreateAlphaRatIncubator.label>paragon rat incubator</GR_CreateAlphaRatIncubator.label>
+  <GR_CreateAlphaRatIncubator.description>Fill an incubator with paragon genes from a rat</GR_CreateAlphaRatIncubator.description>
+  <GR_CreateAlphaRatIncubator.jobString>Filling Incubator</GR_CreateAlphaRatIncubator.jobString>
+  <GR_CreateAlphaTortoiseIncubator.label>paragon tortoise incubator</GR_CreateAlphaTortoiseIncubator.label>
+  <GR_CreateAlphaTortoiseIncubator.description>Fill an incubator with paragon genes from a tortoise</GR_CreateAlphaTortoiseIncubator.description>
+  <GR_CreateAlphaTortoiseIncubator.jobString>Filling Incubator</GR_CreateAlphaTortoiseIncubator.jobString>
+  <GR_DuplicateBear.label>duplicate bear genes</GR_DuplicateBear.label>
+  <GR_DuplicateBear.description>Duplicate bear genetic material in exchange for a lot of organic pulp.</GR_DuplicateBear.description>
+  <GR_DuplicateBear.jobString>Duplicating Genetic Material</GR_DuplicateBear.jobString>
+  <GR_DuplicateBoomalope.label>duplicate boomalope genes</GR_DuplicateBoomalope.label>
+  <GR_DuplicateBoomalope.description>Duplicate boomalope genetic material in exchange for a lot of organic pulp.</GR_DuplicateBoomalope.description>
+  <GR_DuplicateBoomalope.jobString>Duplicating Genetic Material</GR_DuplicateBoomalope.jobString>
+  <GR_DuplicateFeline.label>duplicate cat genes</GR_DuplicateFeline.label>
+  <GR_DuplicateFeline.description>Duplicate cat genetic material in exchange for a lot of organic pulp.</GR_DuplicateFeline.description>
+  <GR_DuplicateFeline.jobString>Duplicating Genetic Material</GR_DuplicateFeline.jobString>
+  <GR_DuplicateChicken.label>duplicate chicken genes</GR_DuplicateChicken.label>
+  <GR_DuplicateChicken.description>Duplicate chicken genetic material in exchange for a lot of organic pulp.</GR_DuplicateChicken.description>
+  <GR_DuplicateChicken.jobString>Duplicating Genetic Material</GR_DuplicateChicken.jobString>
+  <GR_DuplicateRodent.label>duplicate rodent genes</GR_DuplicateRodent.label>
+  <GR_DuplicateRodent.description>Duplicate rodent genetic material in exchange for a lot of organic pulp.</GR_DuplicateRodent.description>
+  <GR_DuplicateRodent.jobString>Duplicating Genetic Material</GR_DuplicateRodent.jobString>
+  <GR_DuplicateMuffalo.label>duplicate muffalo genes</GR_DuplicateMuffalo.label>
+  <GR_DuplicateMuffalo.description>Duplicate muffalo genetic material in exchange for a lot of organic pulp.</GR_DuplicateMuffalo.description>
+  <GR_DuplicateMuffalo.jobString>Duplicating Genetic Material</GR_DuplicateMuffalo.jobString>
+  <GR_DuplicateWolf.label>duplicate wolf genes</GR_DuplicateWolf.label>
+  <GR_DuplicateWolf.description>Duplicate wolf genetic material in exchange for a lot of organic pulp.</GR_DuplicateWolf.description>
+  <GR_DuplicateWolf.jobString>Duplicating Genetic Material</GR_DuplicateWolf.jobString>
+  <GR_DuplicateInsectoid.label>duplicate insectoid genes</GR_DuplicateInsectoid.label>
+  <GR_DuplicateInsectoid.description>Duplicate insectoid genetic material in exchange for a lot of organic pulp.</GR_DuplicateInsectoid.description>
+  <GR_DuplicateInsectoid.jobString>Duplicating Genetic Material</GR_DuplicateInsectoid.jobString>
+  <GR_DuplicateReptilian.label>duplicate reptilian genes</GR_DuplicateReptilian.label>
+  <GR_DuplicateReptilian.description>Duplicate reptilian genetic material in exchange for a lot of organic pulp.</GR_DuplicateReptilian.description>
+  <GR_DuplicateReptilian.jobString>Duplicating Genetic Material</GR_DuplicateReptilian.jobString>
+  <GR_DuplicateHumanoid.label>duplicate humanoid genes</GR_DuplicateHumanoid.label>
+  <GR_DuplicateHumanoid.description>Duplicate humanoid genetic material in exchange for a lot of organic pulp.</GR_DuplicateHumanoid.description>
+  <GR_DuplicateHumanoid.jobString>Duplicating Genetic Material</GR_DuplicateHumanoid.jobString>
+  <GR_BaseIncubator.label>manufacture empty incubator</GR_BaseIncubator.label>
+  <GR_BaseIncubator.description>Manufacture an empty incubator using Steel and an organic growth compound.</GR_BaseIncubator.description>
+  <GR_BaseIncubator.jobString>Manufacturing empty incubator</GR_BaseIncubator.jobString>
+  <GR_ExtractGenesBear.label>extract genes from a bear</GR_ExtractGenesBear.label>
+  <GR_ExtractGenesBear.description>Extract genetic material from a bear corpse.</GR_ExtractGenesBear.description>
+  <GR_ExtractGenesBear.jobString>Extracting Genetic Material</GR_ExtractGenesBear.jobString>
+  <GR_ExtractGenesChicken.label>extract genes from a bird</GR_ExtractGenesChicken.label>
+  <GR_ExtractGenesChicken.description>Extract genetic material from any bird corpse.</GR_ExtractGenesChicken.description>
+  <GR_ExtractGenesChicken.jobString>Extracting Genetic Material</GR_ExtractGenesChicken.jobString>
+  <GR_ExtractGenesBoomalope.label>extract genes from a boomalope</GR_ExtractGenesBoomalope.label>
+  <GR_ExtractGenesBoomalope.description>Extract genetic material from a boomalope corpse.</GR_ExtractGenesBoomalope.description>
+  <GR_ExtractGenesBoomalope.jobString>Extracting Genetic Material</GR_ExtractGenesBoomalope.jobString>
+  <GR_ExtractGenesMuffalo.label>extract genes from a muffalo</GR_ExtractGenesMuffalo.label>
+  <GR_ExtractGenesMuffalo.description>Extract genetic material from a muffalo corpse.</GR_ExtractGenesMuffalo.description>
+  <GR_ExtractGenesMuffalo.jobString>Extracting Genetic Material</GR_ExtractGenesMuffalo.jobString>
+  <GR_ExtractGenesWolf.label>extract genes from a canid</GR_ExtractGenesWolf.label>
+  <GR_ExtractGenesWolf.description>Extract genetic material from a wolf, warg or dog corpse.</GR_ExtractGenesWolf.description>
+  <GR_ExtractGenesWolf.jobString>Extracting Genetic Material</GR_ExtractGenesWolf.jobString>
+  <GR_ExtractGenesRodent.label>extract genes from a rodent or leporid</GR_ExtractGenesRodent.label>
+  <GR_ExtractGenesRodent.description>Extract genetic material from a rodent or leporid corpse.</GR_ExtractGenesRodent.description>
+  <GR_ExtractGenesRodent.jobString>Extracting Genetic Material</GR_ExtractGenesRodent.jobString>
+  <GR_ExtractGenesFeline.label>extract genes from a feline</GR_ExtractGenesFeline.label>
+  <GR_ExtractGenesFeline.description>Extract genetic material from a feline corpse.</GR_ExtractGenesFeline.description>
+  <GR_ExtractGenesFeline.jobString>Extracting Genetic Material</GR_ExtractGenesFeline.jobString>
+  <GR_ExtractGenesInsectoid.label>extract genes from an insectoid</GR_ExtractGenesInsectoid.label>
+  <GR_ExtractGenesInsectoid.description>Extract genetic material from an alien insectoid.</GR_ExtractGenesInsectoid.description>
+  <GR_ExtractGenesInsectoid.jobString>Extracting Genetic Material</GR_ExtractGenesInsectoid.jobString>
+  <GR_ExtractGenesReptilian.label>extract genes from a reptile</GR_ExtractGenesReptilian.label>
+  <GR_ExtractGenesReptilian.description>Extract genetic material from a reptile.</GR_ExtractGenesReptilian.description>
+  <GR_ExtractGenesReptilian.jobString>Extracting Genetic Material</GR_ExtractGenesReptilian.jobString>
+  <GR_ExtractGenesHuman.label>extract genes from a humanoid</GR_ExtractGenesHuman.label>
+  <GR_ExtractGenesHuman.description>Extract genetic material from a humanoid.</GR_ExtractGenesHuman.description>
+  <GR_ExtractGenesHuman.jobString>Extracting Genetic Material</GR_ExtractGenesHuman.jobString>
+  <GR_ExtractGenesThrumbo.label>extract genes from a thrumbo</GR_ExtractGenesThrumbo.label>
+  <GR_ExtractGenesThrumbo.description>Extract genetic material from a thrumbo corpse.</GR_ExtractGenesThrumbo.description>
+  <GR_ExtractGenesThrumbo.jobString>Extracting Genetic Material</GR_ExtractGenesThrumbo.jobString>
+  <GR_ExtractGenesMechanoid.label>extract genes from a mechanoid</GR_ExtractGenesMechanoid.label>
+  <GR_ExtractGenesMechanoid.description>Extract genetic material from a mechanoid corpse.</GR_ExtractGenesMechanoid.description>
+  <GR_ExtractGenesMechanoid.jobString>Extracting Genetic Material</GR_ExtractGenesMechanoid.jobString>
+  <GR_ExtractNonSpecializedGenes.label>extract non-specialized genes from any animal</GR_ExtractNonSpecializedGenes.label>
+  <GR_ExtractNonSpecializedGenes.description>Extract non-specialized cells from any animal. These genes can't be used to create animal hybrids. They can probably be used in a gene recombinator to turn them into more useful genetic materials, though.</GR_ExtractNonSpecializedGenes.description>
+  <GR_ExtractNonSpecializedGenes.jobString>Extracting Genetic Material</GR_ExtractNonSpecializedGenes.jobString>
+  <GR_CraftBearGenetrainer.label>craft hybrid bear genes genetrainer</GR_CraftBearGenetrainer.label>
+  <GR_CraftBearGenetrainer.description>Craft hybrid bear genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftBearGenetrainer.description>
+  <GR_CraftBearGenetrainer.jobString>Craft hybrid bear genes genetrainer.</GR_CraftBearGenetrainer.jobString>
+  <GR_CraftBoomalopeGenetrainer.label>craft hybrid boomalope genes genetrainer</GR_CraftBoomalopeGenetrainer.label>
+  <GR_CraftBoomalopeGenetrainer.description>Craft hybrid boomalope genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftBoomalopeGenetrainer.description>
+  <GR_CraftBoomalopeGenetrainer.jobString>Craft hybrid boomalope genes genetrainer.</GR_CraftBoomalopeGenetrainer.jobString>
+  <GR_CraftCatGenetrainer.label>craft hybrid cat genes genetrainer</GR_CraftCatGenetrainer.label>
+  <GR_CraftCatGenetrainer.description>Craft hybrid cat genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftCatGenetrainer.description>
+  <GR_CraftCatGenetrainer.jobString>Craft hybrid cat genes genetrainer.</GR_CraftCatGenetrainer.jobString>
+  <GR_CraftChickenGenetrainer.label>craft hybrid chicken genes genetrainer</GR_CraftChickenGenetrainer.label>
+  <GR_CraftChickenGenetrainer.description>Craft hybrid chicken genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftChickenGenetrainer.description>
+  <GR_CraftChickenGenetrainer.jobString>Craft hybrid chicken genes genetrainer.</GR_CraftChickenGenetrainer.jobString>
+  <GR_CraftMuffaloGenetrainer.label>craft hybrid muffalo genes genetrainer</GR_CraftMuffaloGenetrainer.label>
+  <GR_CraftMuffaloGenetrainer.description>Craft hybrid muffalo genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftMuffaloGenetrainer.description>
+  <GR_CraftMuffaloGenetrainer.jobString>Craft hybrid muffalo genes genetrainer.</GR_CraftMuffaloGenetrainer.jobString>
+  <GR_CraftRodentGenetrainer.label>craft hybrid rodent genes genetrainer</GR_CraftRodentGenetrainer.label>
+  <GR_CraftRodentGenetrainer.description>Craft hybrid rodent genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftRodentGenetrainer.description>
+  <GR_CraftRodentGenetrainer.jobString>Craft hybrid rodent genes genetrainer.</GR_CraftRodentGenetrainer.jobString>
+  <GR_CraftWolfGenetrainer.label>craft hybrid wolf genes genetrainer</GR_CraftWolfGenetrainer.label>
+  <GR_CraftWolfGenetrainer.description>Craft hybrid wolf genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftWolfGenetrainer.description>
+  <GR_CraftWolfGenetrainer.jobString>Craft hybrid wolf genes genetrainer.</GR_CraftWolfGenetrainer.jobString>
+  <GR_CraftReptileGenetrainer.label>craft hybrid reptile genes genetrainer</GR_CraftReptileGenetrainer.label>
+  <GR_CraftReptileGenetrainer.description>Craft hybrid reptile genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftReptileGenetrainer.description>
+  <GR_CraftReptileGenetrainer.jobString>Craft hybrid reptile genes genetrainer.</GR_CraftReptileGenetrainer.jobString>
+  <GR_CraftInsectoidGenetrainer.label>craft hybrid insectoid genes genetrainer</GR_CraftInsectoidGenetrainer.label>
+  <GR_CraftInsectoidGenetrainer.description>Craft hybrid insectoid genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftInsectoidGenetrainer.description>
+  <GR_CraftInsectoidGenetrainer.jobString>Craft hybrid insectoid genes genetrainer.</GR_CraftInsectoidGenetrainer.jobString>
+  <GR_CraftThrumboGenetrainer.label>craft hybrid thrumbo genes genetrainer</GR_CraftThrumboGenetrainer.label>
+  <GR_CraftThrumboGenetrainer.description>Craft hybrid thrumbo genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftThrumboGenetrainer.description>
+  <GR_CraftThrumboGenetrainer.jobString>Craft hybrid thrumbo genes genetrainer.</GR_CraftThrumboGenetrainer.jobString>
+  <GR_CraftMechanoidGenetrainer.label>craft hybrid mechanoid genes genetrainer</GR_CraftMechanoidGenetrainer.label>
+  <GR_CraftMechanoidGenetrainer.description>Craft hybrid mechanoid genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftMechanoidGenetrainer.description>
+  <GR_CraftMechanoidGenetrainer.jobString>Craft hybrid mechanoid genes genetrainer.</GR_CraftMechanoidGenetrainer.jobString>
+  <GR_CraftImplantSteelWireMesh.label>craft hybrid implant steel wire mesh (tier 1)</GR_CraftImplantSteelWireMesh.label>
+  <GR_CraftImplantSteelWireMesh.description>Craft hybrid implant steel wire mesh.</GR_CraftImplantSteelWireMesh.description>
+  <GR_CraftImplantSteelWireMesh.jobString>Building Implant Mesh</GR_CraftImplantSteelWireMesh.jobString>
+  <GR_CraftImplantPlasteelWireMesh.label>craft hybrid implant plasteel wire mesh (tier 2)</GR_CraftImplantPlasteelWireMesh.label>
+  <GR_CraftImplantPlasteelWireMesh.description>Craft hybrid implant plasteel wire mesh.</GR_CraftImplantPlasteelWireMesh.description>
+  <GR_CraftImplantPlasteelWireMesh.jobString>Building Implant Mesh</GR_CraftImplantPlasteelWireMesh.jobString>
+  <GR_CraftImplantUraniumWireMesh.label>craft hybrid implant uranium wire mesh (tier 3)</GR_CraftImplantUraniumWireMesh.label>
+  <GR_CraftImplantUraniumWireMesh.description>Craft hybrid implant uranium wire mesh.</GR_CraftImplantUraniumWireMesh.description>
+  <GR_CraftImplantUraniumWireMesh.jobString>Building Implant Mesh</GR_CraftImplantUraniumWireMesh.jobString>
+  <GR_BearLeg.label>animal Implant: bear leg (tier 1)</GR_BearLeg.label>
+  <GR_BearLeg.description>Craft a prosthetic animal leg strengthened with bear muscles, and ending in a powerful bear claw that adds a powerful melee attack.</GR_BearLeg.description>
+  <GR_BearLeg.jobString>Making bear leg implant.</GR_BearLeg.jobString>
+  <GR_LizardLeg.label>animal Implant: bionic lizard leg (tier 2)</GR_LizardLeg.label>
+  <GR_LizardLeg.description>Craft a bionic animal leg reinforced with tough lizard skin.</GR_LizardLeg.description>
+  <GR_LizardLeg.jobString>Making lizard leg implant.</GR_LizardLeg.jobString>
+  <GR_ThrumboLeg.label>animal Implant: bionic thrumbo leg (tier 3)</GR_ThrumboLeg.label>
+  <GR_ThrumboLeg.description>Craft a bionic animal leg reinforced with muscle tissue from a powerful thrumbo.</GR_ThrumboLeg.description>
+  <GR_ThrumboLeg.jobString>Making thrumbo leg implant.</GR_ThrumboLeg.jobString>
+  <GR_ScytherTail.label>animal Implant: scyther tail (tier 2)</GR_ScytherTail.label>
+  <GR_ScytherTail.description>Craft a scyther tail by attaching a scyther blade to an animal's tail. Uhmmm... where did you put all those old scyther blades? You asked around and no caravans seem to be trading them nowadays... Well, you will have to manufacture one using a cocktail of different genes. Note that only creatures with a natural tail can use this.</GR_ScytherTail.description>
+  <GR_ScytherTail.jobString>Making scyther tail implant.</GR_ScytherTail.jobString>
+  <GR_MechaTail.label>animal Implant: mechanoid tail (tier 3)</GR_MechaTail.label>
+  <GR_MechaTail.description>Craft an advanced mechanoid tail, even more powerful than the old scyther tail. Note that only creatures with a natural tail can use this.</GR_MechaTail.description>
+  <GR_MechaTail.jobString>Making mechanoid tail implant.</GR_MechaTail.jobString>
+  <GR_CanidEye.label>animal Implant: canid eye (tier 1)</GR_CanidEye.label>
+  <GR_CanidEye.description>Craft an eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes.</GR_CanidEye.description>
+  <GR_CanidEye.jobString>Making canid eye implant.</GR_CanidEye.jobString>
+  <GR_InsectileEye.label>animal Implant: insectile eye (tier 2)</GR_InsectileEye.label>
+  <GR_InsectileEye.description>Craft a bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement.</GR_InsectileEye.description>
+  <GR_InsectileEye.jobString>Making insectile eye implant.</GR_InsectileEye.jobString>
+  <GR_ThrumboEye.label>animal Implant: bionic thrumbo eye (tier 3)</GR_ThrumboEye.label>
+  <GR_ThrumboEye.description>Craft a bionic eye reinforced with specialized photoreceptors from a powerful thrumbo.</GR_ThrumboEye.description>
+  <GR_ThrumboEye.jobString>Making thrumbo eye implant.</GR_ThrumboEye.jobString>
+  <GR_RodentEar.label>animal Implant: rodent ear (tier 1)</GR_RodentEar.label>
+  <GR_RodentEar.description>Craft an ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears.</GR_RodentEar.description>
+  <GR_RodentEar.jobString>Making rodent ear implant.</GR_RodentEar.jobString>
+  <GR_MothTympanalOrgan.label>animal Implant: moth tympanal organ (tier 2)</GR_MothTympanalOrgan.label>
+  <GR_MothTympanalOrgan.description>Craft a bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce.</GR_MothTympanalOrgan.description>
+  <GR_MothTympanalOrgan.jobString>Making moth tympanal organ implant.</GR_MothTympanalOrgan.jobString>
+  <GR_MechaReceptors.label>animal Implant: mechanoid auditory receptors (tier 3)</GR_MechaReceptors.label>
+  <GR_MechaReceptors.description>Craft mechanoid auditory receptors that can scan a really wide band of frequencies.</GR_MechaReceptors.description>
+  <GR_MechaReceptors.jobString>Making mechanoid auditory receptors implant.</GR_MechaReceptors.jobString>
+  <GR_RodentNose.label>animal Implant: rodent nose (tier 1)</GR_RodentNose.label>
+  <GR_RodentNose.description>Craft an implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects.</GR_RodentNose.description>
+  <GR_RodentNose.jobString>Making rodent nose implant.</GR_RodentNose.jobString>
+  <GR_InsectoidPheromones.label>animal Implant: insectoid pheromones (tier 2)</GR_InsectoidPheromones.label>
+  <GR_InsectoidPheromones.description>Craft an implant that uses genetic splicing with alien insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects.</GR_InsectoidPheromones.description>
+  <GR_InsectoidPheromones.jobString>Making insectoid pheromones implant.</GR_InsectoidPheromones.jobString>
+  <GR_MiniatureThrumboHorn.label>animal Implant: miniature thrumbo horn (tier 3)</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.description>Craft a bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant.</GR_MiniatureThrumboHorn.description>
+  <GR_MiniatureThrumboHorn.jobString>Making miniature thrumbo horn implant.</GR_MiniatureThrumboHorn.jobString>
+  <GR_WolfJaws.label>animal Implant: wolf jaws (tier 1)</GR_WolfJaws.label>
+  <GR_WolfJaws.description>Craft an implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws.</GR_WolfJaws.description>
+  <GR_WolfJaws.jobString>Making wolf jaws implant.</GR_WolfJaws.jobString>
+  <GR_InsectMandibles.label>animal Implant: insect mandibles (tier 2)</GR_InsectMandibles.label>
+  <GR_InsectMandibles.description>Craft a bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offesive weapon</GR_InsectMandibles.description>
+  <GR_InsectMandibles.jobString>Making insect mandibles implant.</GR_InsectMandibles.jobString>
+  <GR_ThrumboJaws.label>animal Implant: bionic thrumbo jaws (tier 3)</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.description>Craft a bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task.</GR_ThrumboJaws.description>
+  <GR_ThrumboJaws.jobString>Making bionic thrumbo jaws implant.</GR_ThrumboJaws.jobString>
+  <GR_MuffaloSpine.label>animal Implant: muffalo spine (tier 1)</GR_MuffaloSpine.label>
+  <GR_MuffaloSpine.description>Craft a spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines.</GR_MuffaloSpine.description>
+  <GR_MuffaloSpine.jobString>Making muffalo spine implant.</GR_MuffaloSpine.jobString>
+  <GR_CrocodileSpine.label>animal Implant: crocodile spine (tier 2)</GR_CrocodileSpine.label>
+  <GR_CrocodileSpine.description>Craft a bionic implant adding a sturdy crocodile spine to the creature's skeletal system.</GR_CrocodileSpine.description>
+  <GR_CrocodileSpine.jobString>Making crocodile spine implant.</GR_CrocodileSpine.jobString>
+  <GR_MechaSpine.label>animal Implant: mechanoid spine (tier 3)</GR_MechaSpine.label>
+  <GR_MechaSpine.description>Craft a bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system.</GR_MechaSpine.description>
+  <GR_MechaSpine.jobString>Making mechanoid spine implant.</GR_MechaSpine.jobString>
+  <GR_ChickenBrains.label>animal Implant: chicken brains (tier 1)</GR_ChickenBrains.label>
+  <GR_ChickenBrains.description>Craft an implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures.</GR_ChickenBrains.description>
+  <GR_ChickenBrains.jobString>Making wolf jaws implant.</GR_ChickenBrains.jobString>
+  <GR_MonitorLizardBrain.label>animal Implant: monitor lizard brain (tier 2)</GR_MonitorLizardBrain.label>
+  <GR_MonitorLizardBrain.description>Craft a bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes.</GR_MonitorLizardBrain.description>
+  <GR_MonitorLizardBrain.jobString>Making monitor lizard brain implant.</GR_MonitorLizardBrain.jobString>
+  <GR_ThrumboBrain.label>animal Implant: bionic thrumbo brain (tier 3)</GR_ThrumboBrain.label>
+  <GR_ThrumboBrain.description>Craft a bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes.</GR_ThrumboBrain.description>
+  <GR_ThrumboBrain.jobString>Making bionic thrumbo brain implant.</GR_ThrumboBrain.jobString>
+  <GR_BoomalopeHeart.label>animal Implant: boomalope heart (tier 1)</GR_BoomalopeHeart.label>
+  <GR_BoomalopeHeart.description>Craft an implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart.</GR_BoomalopeHeart.description>
+  <GR_BoomalopeHeart.jobString>Making boomalope heart implant.</GR_BoomalopeHeart.jobString>
+  <GR_ChitinousHeart.label>animal Implant: chitinous heart (tier 2)</GR_ChitinousHeart.label>
+  <GR_ChitinousHeart.description>Craft a bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise .</GR_ChitinousHeart.description>
+  <GR_ChitinousHeart.jobString>Making chitinous heart implant.</GR_ChitinousHeart.jobString>
+  <GR_MechaHeart.label>animal Implant: mechanoid heart (tier 3)</GR_MechaHeart.label>
+  <GR_MechaHeart.description>Craft a bionic heart strengthened by the action of active mechanites.</GR_MechaHeart.description>
+  <GR_MechaHeart.jobString>Making mechanoid heart implant.</GR_MechaHeart.jobString>
+  <GR_MuffaloLung.label>animal Implant: muffalo lung (tier 1)</GR_MuffaloLung.label>
+  <GR_MuffaloLung.description>Craft an implant that uses muffalo genes to increase breathing capacity.</GR_MuffaloLung.description>
+  <GR_MuffaloLung.jobString>Making muffalo lung implant.</GR_MuffaloLung.jobString>
+  <GR_BearLiver.label>animal Implant: bear liver (tier 1)</GR_BearLiver.label>
+  <GR_BearLiver.description>Craft an implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens.</GR_BearLiver.description>
+  <GR_BearLiver.jobString>Making bear liver implant.</GR_BearLiver.jobString>
+  <GR_ChickenKidney.label>animal Implant: chicken kidney (tier 1)</GR_ChickenKidney.label>
+  <GR_ChickenKidney.description>Craft an implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today.</GR_ChickenKidney.description>
+  <GR_ChickenKidney.jobString>Making chicken kidney implant.</GR_ChickenKidney.jobString>
+  <GR_BoomalopeStomach.label>animal Implant: boomalope stomach (tier 1)</GR_BoomalopeStomach.label>
+  <GR_BoomalopeStomach.description>Craft an implant that uses boomalope genes to improve function of the stomach.</GR_BoomalopeStomach.description>
+  <GR_BoomalopeStomach.jobString>Making boomalope stomach implant.</GR_BoomalopeStomach.jobString>
+  <GR_CraftBearClaws.label>Human Implant: bear claws</GR_CraftBearClaws.label>
+  <GR_CraftBearClaws.description>Craft bear claws, a hybrid implant containing humanoid and bear DNA that adds a powerful melee attack.</GR_CraftBearClaws.description>
+  <GR_CraftBearClaws.jobString>Crafting Bear Claws</GR_CraftBearClaws.jobString>
+  <GR_CraftDiggingBearClaws.label>Human Implant: digging bear claws</GR_CraftDiggingBearClaws.label>
+  <GR_CraftDiggingBearClaws.description>Craft digging bear claws, grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield.</GR_CraftDiggingBearClaws.description>
+  <GR_CraftDiggingBearClaws.jobString>Crafting digging bear claws</GR_CraftDiggingBearClaws.jobString>
+  <GR_CraftBearMuscleTissue.label>Human Implant: bear muscle tissue</GR_CraftBearMuscleTissue.label>
+  <GR_CraftBearMuscleTissue.description>Craft bear muscle tissue, a hybrid implant containing humanoid and bear DNA that adds strength and stamina.</GR_CraftBearMuscleTissue.description>
+  <GR_CraftBearMuscleTissue.jobString>Crafting Bear Muscle Tissue</GR_CraftBearMuscleTissue.jobString>
+  <GR_CraftHibernationModule.label>Human Implant: hibernation module</GR_CraftHibernationModule.label>
+  <GR_CraftHibernationModule.description>Craft hibernation module, a biochip that modifies the brain to reduce the need for sleep.</GR_CraftHibernationModule.description>
+  <GR_CraftHibernationModule.jobString>Crafting hibernation module</GR_CraftHibernationModule.jobString>
+  <GR_CraftOvipositor.label>Human Implant: ovipositor</GR_CraftOvipositor.label>
+  <GR_CraftOvipositor.description>Craft an ovipositor, a hybrid implant containing humanoid and chicken DNA that... are you sure this is a good idea? Really? Free range human eggs? Ugh...</GR_CraftOvipositor.description>
+  <GR_CraftOvipositor.jobString>Crafting Ovipositor</GR_CraftOvipositor.jobString>
+  <GR_CraftMuffaloMuscles.label>Human Implant: muffalo muscles</GR_CraftMuffaloMuscles.label>
+  <GR_CraftMuffaloMuscles.description>Craft muffalo muscles, a hybrid implant containing humanoid and muffalo DNA that strengthens the subject's muscular system.</GR_CraftMuffaloMuscles.description>
+  <GR_CraftMuffaloMuscles.jobString>Crafting muffalo muscles</GR_CraftMuffaloMuscles.jobString>
+  <GR_CraftMuffaloMammaries.label>Human Implant: muffalo mammaries</GR_CraftMuffaloMammaries.label>
+  <GR_CraftMuffaloMammaries.description>By implanting muffalo mammaries into a colonist... Wait, what??? Who came up with this idea????? Anyway... this implant allows your colonist to be milked... Ugh, I give up.</GR_CraftMuffaloMammaries.description>
+  <GR_CraftMuffaloMammaries.jobString>Crafting muffalo mammaries</GR_CraftMuffaloMammaries.jobString>
+  <GR_CraftMuffaloSkin.label>Human Implant: muffalo skin</GR_CraftMuffaloSkin.label>
+  <GR_CraftMuffaloSkin.description>Craft muffalo skin, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to low temperatures.</GR_CraftMuffaloSkin.description>
+  <GR_CraftMuffaloSkin.jobString>Crafting muffalo skin</GR_CraftMuffaloSkin.jobString>
+  <GR_CraftBoomalopeNodules.label>Human Implant: boomalope nodules</GR_CraftBoomalopeNodules.label>
+  <GR_CraftBoomalopeNodules.description>Craft boomalope nodules, a hybrid implant containing humanoid and boomalope DNA that causes a huge explosion if the subject dies violently.</GR_CraftBoomalopeNodules.description>
+  <GR_CraftBoomalopeNodules.jobString>Crafting boomalope nodules</GR_CraftBoomalopeNodules.jobString>
+  <GR_CraftChemfuelStomach.label>Human Implant: chemfuel stomach</GR_CraftChemfuelStomach.label>
+  <GR_CraftChemfuelStomach.description>Craft chemfuel stomach, a reinforced bionic stomach that uses a combination of gastric acid and chemfuel to efficiently digest food.</GR_CraftChemfuelStomach.description>
+  <GR_CraftChemfuelStomach.jobString>Crafting chemfuel stomach</GR_CraftChemfuelStomach.jobString>
+  <GR_CraftChemfuelHeart.label>Human Implant: chemfuel heart</GR_CraftChemfuelHeart.label>
+  <GR_CraftChemfuelHeart.description>Craft chemfuel heart, a reinforced bionic heart that acts like a miniature 4-stroke internal combustion engine powered by chemfuel to pump blood through the body.</GR_CraftChemfuelHeart.description>
+  <GR_CraftChemfuelHeart.jobString>Crafting chemfuel heart</GR_CraftChemfuelHeart.jobString>
+  <GR_CraftWolfMuscularFibers.label>Human Implant: wolf muscular fibers</GR_CraftWolfMuscularFibers.label>
+  <GR_CraftWolfMuscularFibers.description>Craft wolf muscular fibers, which can modify the subject's legs by weaving hybrid human/wolf muscle fibers within the base tissue, giving her a significant strength and speed boost.</GR_CraftWolfMuscularFibers.description>
+  <GR_CraftWolfMuscularFibers.jobString>Crafting wolf muscular fibers</GR_CraftWolfMuscularFibers.jobString>
+  <GR_CraftDevouringJaws.label>Human Implant: devouring jaws</GR_CraftDevouringJaws.label>
+  <GR_CraftDevouringJaws.description>Craft devouring jaws, a set of improved teeth designed to rapidly chew and ingest any kind of food. Leaves kind of a mess, though...</GR_CraftDevouringJaws.description>
+  <GR_CraftDevouringJaws.jobString>Crafting devouring jaws</GR_CraftDevouringJaws.jobString>
+  <GR_CraftNeuronReinforcement.label>Human Implant: neuron reinforcement</GR_CraftNeuronReinforcement.label>
+  <GR_CraftNeuronReinforcement.description>Craft neuron reinforcement. A biochip using animal stem cells to reinforce the natural abilities of human neurons, increasing learning and research speed.</GR_CraftNeuronReinforcement.description>
+  <GR_CraftNeuronReinforcement.jobString>Crafting neuron reinforcement</GR_CraftNeuronReinforcement.jobString>
+  <GR_CraftMousePheromones.label>Human Implant: mouse pheromones</GR_CraftMousePheromones.label>
+  <GR_CraftMousePheromones.description>Craft mouse pheromones, a bionic vomeronasal organ that allows the subject pheromonal communication with other animals, increasing the chance of taming and training them successfully.</GR_CraftMousePheromones.description>
+  <GR_CraftMousePheromones.jobString>Crafting mouse pheromones</GR_CraftMousePheromones.jobString>
+  <GR_CraftMoleratNerveDampener.label>Human Implant: mole-rat nerve dampener</GR_CraftMoleratNerveDampener.label>
+  <GR_CraftMoleratNerveDampener.description>Craft mole-rat nerve dampener, a biochip that reduces pain sensitivity, allowing the subject to survive pain shock.</GR_CraftMoleratNerveDampener.description>
+  <GR_CraftMoleratNerveDampener.jobString>Crafting mole-rat nerve dampener</GR_CraftMoleratNerveDampener.jobString>
+  <GR_CraftBunnyEars.label>Human Implant: bunny ear</GR_CraftBunnyEars.label>
+  <GR_CraftBunnyEars.description>Craft bunny ear. This huge leporid ear gives amazing enhanced hearing. Also, super kawaii!</GR_CraftBunnyEars.description>
+  <GR_CraftBunnyEars.jobString>Crafting bunny ear</GR_CraftBunnyEars.jobString>
+  <GR_CraftCompoundEye.label>Human Implant: compound eye</GR_CraftCompoundEye.label>
+  <GR_CraftCompoundEye.description>Craft compound eye. This hybrid humanoid / insectoid eye provides improved vision in a wide range of different wavelengths, including those usually outside the human range, completely modifying the way the subject perceives his surroundings.</GR_CraftCompoundEye.description>
+  <GR_CraftCompoundEye.jobString>Crafting compound eye</GR_CraftCompoundEye.jobString>
+  <GR_CraftInsectoidAntennae.label>Human Implant: insectoid antennae</GR_CraftInsectoidAntennae.label>
+  <GR_CraftInsectoidAntennae.description>Craft hybrid humanoid / insectoid feeling appendages that can be implanted in a subject's head, completely modifying the way the subject "sees" and feels the surrounding world. The experience may be slightly overwhelming due to sensorial overload.</GR_CraftInsectoidAntennae.description>
+  <GR_CraftInsectoidAntennae.jobString>Crafting insectoid antennae</GR_CraftInsectoidAntennae.jobString>
+  <GR_CraftPsychicDampeners.label>Human Implant: psychic dampeners</GR_CraftPsychicDampeners.label>
+  <GR_CraftPsychicDampeners.description>Craft psychic dampeners, artificial hearing aids that block psychic emanations, providing considerable resistance to mechanoids' psychic attacks.</GR_CraftPsychicDampeners.description>
+  <GR_CraftPsychicDampeners.jobString>Crafting psychic dampeners</GR_CraftPsychicDampeners.jobString>
+  <GR_CraftKidneyToxicFilters.label>Human Implant: kidney toxic filters</GR_CraftKidneyToxicFilters.label>
+  <GR_CraftKidneyToxicFilters.description>Craft kidney toxic filters, bioelectronic kidney prosthesis that greatly improve the efficiency of the subject's kidneys by using insectoid tissue, providing resistence to toxic substances.</GR_CraftKidneyToxicFilters.description>
+  <GR_CraftKidneyToxicFilters.jobString>Crafting kidney toxic filters</GR_CraftKidneyToxicFilters.jobString>
+  <GR_CraftHumanThrumboHorn.label>Human Implant: thrumbo horn</GR_CraftHumanThrumboHorn.label>
+  <GR_CraftHumanThrumboHorn.description>A genetically modified thrumbo horn that can be implanted in a subject's forehead. Nasty.</GR_CraftHumanThrumboHorn.description>
+  <GR_CraftHumanThrumboHorn.jobString>Crafting thrumbo horn</GR_CraftHumanThrumboHorn.jobString>
+  <GR_CraftThrumboSkin.label>Human Implant: thrumbo skin</GR_CraftThrumboSkin.label>
+  <GR_CraftThrumboSkin.description>Craft thrumbo skin, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a lot of defense and makes the subject more resistant to extremes of temperature.</GR_CraftThrumboSkin.description>
+  <GR_CraftThrumboSkin.jobString>Crafting thrumbo horn</GR_CraftThrumboSkin.jobString>
+  <GR_CraftVenomousFangs.label>Human Implant: venomous fangs</GR_CraftVenomousFangs.label>
+  <GR_CraftVenomousFangs.description>This hybrid implant substitutes the subject's jaw with a set of venomous fangs. Useful in combat, but not very comfortable.</GR_CraftVenomousFangs.description>
+  <GR_CraftVenomousFangs.jobString>Crafting venomous fangs</GR_CraftVenomousFangs.jobString>
+  <GR_CraftIguanaScales.label>Human Implant: iguana scales</GR_CraftIguanaScales.label>
+  <GR_CraftIguanaScales.description>Craft iguana scales, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to high temperatures.</GR_CraftIguanaScales.description>
+  <GR_CraftIguanaScales.jobString>Crafting venomous fangs</GR_CraftIguanaScales.jobString>
+  <GR_CreateBearBoomalopeIncubator.label>bear / boomalope incubator</GR_CreateBearBoomalopeIncubator.label>
+  <GR_CreateBearBoomalopeIncubator.description>Fill an incubator with genes from a bear and a boomalope</GR_CreateBearBoomalopeIncubator.description>
+  <GR_CreateBearBoomalopeIncubator.jobString>Filling Incubator</GR_CreateBearBoomalopeIncubator.jobString>
+  <GR_CreateBearChickenIncubator.label>bear / chicken incubator</GR_CreateBearChickenIncubator.label>
+  <GR_CreateBearChickenIncubator.description>Fill an incubator with genes from a bear and a chicken</GR_CreateBearChickenIncubator.description>
+  <GR_CreateBearChickenIncubator.jobString>Filling Incubator</GR_CreateBearChickenIncubator.jobString>
+  <GR_CreateBearMuffaloIncubator.label>bear / muffalo incubator</GR_CreateBearMuffaloIncubator.label>
+  <GR_CreateBearMuffaloIncubator.description>Fill an incubator with genes from a bear and a muffalo</GR_CreateBearMuffaloIncubator.description>
+  <GR_CreateBearMuffaloIncubator.jobString>Filling Incubator</GR_CreateBearMuffaloIncubator.jobString>
+  <GR_CreateBearWolfIncubator.label>bear / wolf incubator</GR_CreateBearWolfIncubator.label>
+  <GR_CreateBearWolfIncubator.description>Fill an incubator with genes from a bear and a wolf</GR_CreateBearWolfIncubator.description>
+  <GR_CreateBearWolfIncubator.jobString>Filling Incubator</GR_CreateBearWolfIncubator.jobString>
+  <GR_CreateBearCatIncubator.label>bear / feline incubator</GR_CreateBearCatIncubator.label>
+  <GR_CreateBearCatIncubator.description>Fill an incubator with genes from a bear and a feline</GR_CreateBearCatIncubator.description>
+  <GR_CreateBearCatIncubator.jobString>Filling Incubator</GR_CreateBearCatIncubator.jobString>
+  <GR_CreateBearmoleIncubator.label>bear / rodent incubator</GR_CreateBearmoleIncubator.label>
+  <GR_CreateBearmoleIncubator.description>Fill an incubator with genes from a bear and a rodent</GR_CreateBearmoleIncubator.description>
+  <GR_CreateBearmoleIncubator.jobString>Filling Incubator</GR_CreateBearmoleIncubator.jobString>
+  <GR_CreateBoomalopeChickenIncubator.label>boomalope / chicken incubator</GR_CreateBoomalopeChickenIncubator.label>
+  <GR_CreateBoomalopeChickenIncubator.description>Fill an incubator with genes from a boomalope and a chicken</GR_CreateBoomalopeChickenIncubator.description>
+  <GR_CreateBoomalopeChickenIncubator.jobString>Filling Incubator</GR_CreateBoomalopeChickenIncubator.jobString>
+  <GR_CreateBoomalopeMuffaloIncubator.label>boomalope / muffalo incubator</GR_CreateBoomalopeMuffaloIncubator.label>
+  <GR_CreateBoomalopeMuffaloIncubator.description>Fill an incubator with genes from a boomalope and a muffalo</GR_CreateBoomalopeMuffaloIncubator.description>
+  <GR_CreateBoomalopeMuffaloIncubator.jobString>Filling Incubator</GR_CreateBoomalopeMuffaloIncubator.jobString>
+  <GR_CreateBoomalopeWolfIncubator.label>boomalope / wolf incubator</GR_CreateBoomalopeWolfIncubator.label>
+  <GR_CreateBoomalopeWolfIncubator.description>Fill an incubator with genes from a boomalope and a wolf</GR_CreateBoomalopeWolfIncubator.description>
+  <GR_CreateBoomalopeWolfIncubator.jobString>Filling Incubator</GR_CreateBoomalopeWolfIncubator.jobString>
+  <GR_CreateBoomalopeCatIncubator.label>boomalope / feline incubator</GR_CreateBoomalopeCatIncubator.label>
+  <GR_CreateBoomalopeCatIncubator.description>Fill an incubator with genes from a boomalope and a feline</GR_CreateBoomalopeCatIncubator.description>
+  <GR_CreateBoomalopeCatIncubator.jobString>Filling Incubator</GR_CreateBoomalopeCatIncubator.jobString>
+  <GR_CreateBoomsquirrelIncubator.label>boomalope / rodent incubator</GR_CreateBoomsquirrelIncubator.label>
+  <GR_CreateBoomsquirrelIncubator.description>Fill an incubator with genes from a boomalope and a rodent</GR_CreateBoomsquirrelIncubator.description>
+  <GR_CreateBoomsquirrelIncubator.jobString>Filling Incubator</GR_CreateBoomsquirrelIncubator.jobString>
+  <GR_CreateChickenMuffaloIncubator.label>chicken / muffalo incubator</GR_CreateChickenMuffaloIncubator.label>
+  <GR_CreateChickenMuffaloIncubator.description>Fill an incubator with genes from a chicken and a muffalo</GR_CreateChickenMuffaloIncubator.description>
+  <GR_CreateChickenMuffaloIncubator.jobString>Filling Incubator</GR_CreateChickenMuffaloIncubator.jobString>
+  <GR_CreateChickenWolfIncubator.label>chicken / wolf incubator</GR_CreateChickenWolfIncubator.label>
+  <GR_CreateChickenWolfIncubator.description>Fill an incubator with genes from a chicken and a wolf</GR_CreateChickenWolfIncubator.description>
+  <GR_CreateChickenWolfIncubator.jobString>Filling Incubator</GR_CreateChickenWolfIncubator.jobString>
+  <GR_CreateChickenCatIncubator.label>chicken / feline incubator</GR_CreateChickenCatIncubator.label>
+  <GR_CreateChickenCatIncubator.description>Fill an incubator with genes from a chicken and a feline</GR_CreateChickenCatIncubator.description>
+  <GR_CreateChickenCatIncubator.jobString>Filling Incubator</GR_CreateChickenCatIncubator.jobString>
+  <GR_CreateChickenrabbitIncubator.label>chicken / leporid incubator</GR_CreateChickenrabbitIncubator.label>
+  <GR_CreateChickenrabbitIncubator.description>Fill an incubator with genes from a chicken and a leporid</GR_CreateChickenrabbitIncubator.description>
+  <GR_CreateChickenrabbitIncubator.jobString>Filling Incubator</GR_CreateChickenrabbitIncubator.jobString>
+  <GR_CreateMuffaloWolfIncubator.label>muffalo / wolf incubator</GR_CreateMuffaloWolfIncubator.label>
+  <GR_CreateMuffaloWolfIncubator.description>Fill an incubator with genes from a muffalo and a wolf</GR_CreateMuffaloWolfIncubator.description>
+  <GR_CreateMuffaloWolfIncubator.jobString>Filling Incubator</GR_CreateMuffaloWolfIncubator.jobString>
+  <GR_CreateMuffaloCatIncubator.label>muffalo / feline incubator</GR_CreateMuffaloCatIncubator.label>
+  <GR_CreateMuffaloCatIncubator.description>Fill an incubator with genes from a muffalo and a feline</GR_CreateMuffaloCatIncubator.description>
+  <GR_CreateMuffaloCatIncubator.jobString>Filling Incubator</GR_CreateMuffaloCatIncubator.jobString>
+  <GR_CreateMuffaloratIncubator.label>muffalo / rodent incubator</GR_CreateMuffaloratIncubator.label>
+  <GR_CreateMuffaloratIncubator.description>Fill an incubator with genes from a muffalo and a rodent</GR_CreateMuffaloratIncubator.description>
+  <GR_CreateMuffaloratIncubator.jobString>Filling Incubator</GR_CreateMuffaloratIncubator.jobString>
+  <GR_CreateWolfCatIncubator.label>wolf / feline incubator</GR_CreateWolfCatIncubator.label>
+  <GR_CreateWolfCatIncubator.description>Fill an incubator with genes from a wolf and a feline</GR_CreateWolfCatIncubator.description>
+  <GR_CreateWolfCatIncubator.jobString>Filling Incubator</GR_CreateWolfCatIncubator.jobString>
+  <GR_CreateWolfbeaverIncubator.label>wolf / rodent incubator</GR_CreateWolfbeaverIncubator.label>
+  <GR_CreateWolfbeaverIncubator.description>Fill an incubator with genes from a wolf and a rodent</GR_CreateWolfbeaverIncubator.description>
+  <GR_CreateWolfbeaverIncubator.jobString>Filling Incubator</GR_CreateWolfbeaverIncubator.jobString>
+  <GR_CreateRodentCatIncubator.label>feline / rodent incubator</GR_CreateRodentCatIncubator.label>
+  <GR_CreateRodentCatIncubator.description>Fill an incubator with genes from a feline and a rodent</GR_CreateRodentCatIncubator.description>
+  <GR_CreateRodentCatIncubator.jobString>Filling Incubator</GR_CreateRodentCatIncubator.jobString>
+  <GR_CreateBearscarabIncubator.label>insectoid / bear incubator</GR_CreateBearscarabIncubator.label>
+  <GR_CreateBearscarabIncubator.description>Fill an incubator with genes from an insectoid and a bear</GR_CreateBearscarabIncubator.description>
+  <GR_CreateBearscarabIncubator.jobString>Filling Incubator</GR_CreateBearscarabIncubator.jobString>
+  <GR_CreateBoomBeetleIncubator.label>insectoid / boomalope incubator</GR_CreateBoomBeetleIncubator.label>
+  <GR_CreateBoomBeetleIncubator.description>Fill an incubator with genes from an insectoid and a boomalope</GR_CreateBoomBeetleIncubator.description>
+  <GR_CreateBoomBeetleIncubator.jobString>Filling Incubator</GR_CreateBoomBeetleIncubator.jobString>
+  <CreateChickenspiderIncubator.label>insectoid / chicken incubator</CreateChickenspiderIncubator.label>
+  <CreateChickenspiderIncubator.description>Fill an incubator with genes from an insectoid and a chicken</CreateChickenspiderIncubator.description>
+  <CreateChickenspiderIncubator.jobString>Filling Incubator</CreateChickenspiderIncubator.jobString>
+  <GR_CreateMuffalopedeIncubator.label>insectoid / muffalo incubator</GR_CreateMuffalopedeIncubator.label>
+  <GR_CreateMuffalopedeIncubator.description>Fill an incubator with genes from an insectoid and a muffalo</GR_CreateMuffalopedeIncubator.description>
+  <GR_CreateMuffalopedeIncubator.jobString>Filling Incubator</GR_CreateMuffalopedeIncubator.jobString>
+  <GR_CreateWolfscarabIncubator.label>insectoid / wolf incubator</GR_CreateWolfscarabIncubator.label>
+  <GR_CreateWolfscarabIncubator.description>Fill an incubator with genes from an insectoid and a wolf</GR_CreateWolfscarabIncubator.description>
+  <GR_CreateWolfscarabIncubator.jobString>Filling Incubator</GR_CreateWolfscarabIncubator.jobString>
+  <GR_CreateCatSpiderIncubator.label>insectoid / feline incubator</GR_CreateCatSpiderIncubator.label>
+  <GR_CreateCatSpiderIncubator.description>Fill an incubator with genes from an insectoid and a feline</GR_CreateCatSpiderIncubator.description>
+  <GR_CreateCatSpiderIncubator.jobString>Filling Incubator</GR_CreateCatSpiderIncubator.jobString>
+  <GR_CreateThrumbospiderIncubator.label>insectoid / thrumbo incubator</GR_CreateThrumbospiderIncubator.label>
+  <GR_CreateThrumbospiderIncubator.description>Fill an incubator with genes from an insectoid and a thrumbo</GR_CreateThrumbospiderIncubator.description>
+  <GR_CreateThrumbospiderIncubator.jobString>Filling Incubator</GR_CreateThrumbospiderIncubator.jobString>
+  <GR_CreateBearodileIncubator.label>reptile / bear incubator</GR_CreateBearodileIncubator.label>
+  <GR_CreateBearodileIncubator.description>Fill an incubator with genes from a reptile and a bear</GR_CreateBearodileIncubator.description>
+  <GR_CreateBearodileIncubator.jobString>Filling Incubator</GR_CreateBearodileIncubator.jobString>
+  <GR_CreateBoomsnakeIncubator.label>reptile / boomalope incubator</GR_CreateBoomsnakeIncubator.label>
+  <GR_CreateBoomsnakeIncubator.description>Fill an incubator with genes from a reptile and a boomalope</GR_CreateBoomsnakeIncubator.description>
+  <GR_CreateBoomsnakeIncubator.jobString>Filling Incubator</GR_CreateBoomsnakeIncubator.jobString>
+  <GR_CreateChickenlizardIncubator.label>reptile / chicken incubator</GR_CreateChickenlizardIncubator.label>
+  <GR_CreateChickenlizardIncubator.description>Fill an incubator with genes from a reptile and a chicken</GR_CreateChickenlizardIncubator.description>
+  <GR_CreateChickenlizardIncubator.jobString>Filling Incubator</GR_CreateChickenlizardIncubator.jobString>
+  <GR_CreateMuffalokomodoIncubator.label>reptile / muffalo incubator</GR_CreateMuffalokomodoIncubator.label>
+  <GR_CreateMuffalokomodoIncubator.description>Fill an incubator with genes from a reptile and a muffalo</GR_CreateMuffalokomodoIncubator.description>
+  <GR_CreateMuffalokomodoIncubator.jobString>Filling Incubator</GR_CreateMuffalokomodoIncubator.jobString>
+  <GR_CreateSpidersnakeIncubator.label>reptile / insectoid incubator</GR_CreateSpidersnakeIncubator.label>
+  <GR_CreateSpidersnakeIncubator.description>Fill an incubator with genes from a reptile and an insectoid</GR_CreateSpidersnakeIncubator.description>
+  <GR_CreateSpidersnakeIncubator.jobString>Filling Incubator</GR_CreateSpidersnakeIncubator.jobString>
+  <GR_CreateSnakecatIncubator.label>reptile / feline incubator</GR_CreateSnakecatIncubator.label>
+  <GR_CreateSnakecatIncubator.description>Fill an incubator with genes from a reptile and a feline</GR_CreateSnakecatIncubator.description>
+  <GR_CreateSnakecatIncubator.jobString>Filling Incubator</GR_CreateSnakecatIncubator.jobString>
+  <GR_CreateWolfsnakeIncubator.label>reptile / wolf incubator</GR_CreateWolfsnakeIncubator.label>
+  <GR_CreateWolfsnakeIncubator.description>Fill an incubator with genes from a reptile and a wolf</GR_CreateWolfsnakeIncubator.description>
+  <GR_CreateWolfsnakeIncubator.jobString>Filling Incubator</GR_CreateWolfsnakeIncubator.jobString>
+  <GR_CreateThrumbolizardIncubator.label>reptile / thrumbo incubator</GR_CreateThrumbolizardIncubator.label>
+  <GR_CreateThrumbolizardIncubator.description>Fill an incubator with genes from a reptile and a thrumbo</GR_CreateThrumbolizardIncubator.description>
+  <GR_CreateThrumbolizardIncubator.jobString>Filling Incubator</GR_CreateThrumbolizardIncubator.jobString>
+  <GR_CreateThrumboBearIncubator.label>thrumbo / bear incubator</GR_CreateThrumboBearIncubator.label>
+  <GR_CreateThrumboBearIncubator.description>Fill an incubator with genes from a thrumbo and a bear</GR_CreateThrumboBearIncubator.description>
+  <GR_CreateThrumboBearIncubator.jobString>Filling Incubator</GR_CreateThrumboBearIncubator.jobString>
+  <GR_CreateThrumbochickenIncubator.label>thrumbo / chicken incubator</GR_CreateThrumbochickenIncubator.label>
+  <GR_CreateThrumbochickenIncubator.description>Fill an incubator with genes from a thrumbo and a chicken</GR_CreateThrumbochickenIncubator.description>
+  <GR_CreateThrumbochickenIncubator.jobString>Filling Incubator</GR_CreateThrumbochickenIncubator.jobString>
+  <GR_CreateThrumbalopeIncubator.label>thrumbo / boomalope incubator</GR_CreateThrumbalopeIncubator.label>
+  <GR_CreateThrumbalopeIncubator.description>Fill an incubator with genes from a thrumbo and a boomalope</GR_CreateThrumbalopeIncubator.description>
+  <GR_CreateThrumbalopeIncubator.jobString>Filling Incubator</GR_CreateThrumbalopeIncubator.jobString>
+  <GR_CreateThrumffaloIncubator.label>thrumbo / muffalo incubator</GR_CreateThrumffaloIncubator.label>
+  <GR_CreateThrumffaloIncubator.description>Fill an incubator with genes from a thrumbo and a muffalo</GR_CreateThrumffaloIncubator.description>
+  <GR_CreateThrumffaloIncubator.jobString>Filling Incubator</GR_CreateThrumffaloIncubator.jobString>
+  <GR_CreateThrumboWolfIncubator.label>thrumbo / wolf incubator</GR_CreateThrumboWolfIncubator.label>
+  <GR_CreateThrumboWolfIncubator.description>Fill an incubator with genes from a thrumbo and a wolf</GR_CreateThrumboWolfIncubator.description>
+  <GR_CreateThrumboWolfIncubator.jobString>Filling Incubator</GR_CreateThrumboWolfIncubator.jobString>
+  <GR_CreateThrumboratIncubator.label>thrumbo / rodent incubator</GR_CreateThrumboratIncubator.label>
+  <GR_CreateThrumboratIncubator.description>Fill an incubator with genes from a thrumbo and a rodent</GR_CreateThrumboratIncubator.description>
+  <GR_CreateThrumboratIncubator.jobString>Filling Incubator</GR_CreateThrumboratIncubator.jobString>
+  <GR_CreateThrumboCatIncubator.label>thrumbo / feline incubator</GR_CreateThrumboCatIncubator.label>
+  <GR_CreateThrumboCatIncubator.description>Fill an incubator with genes from a thrumbo and a feline</GR_CreateThrumboCatIncubator.description>
+  <GR_CreateThrumboCatIncubator.jobString>Filling Incubator</GR_CreateThrumboCatIncubator.jobString>
+  <GR_CreateMechabearIncubator.label>mechanoid / bear incubator</GR_CreateMechabearIncubator.label>
+  <GR_CreateMechabearIncubator.description>Fill an incubator with genes from a bear and active mechanites</GR_CreateMechabearIncubator.description>
+  <GR_CreateMechabearIncubator.jobString>Filling Incubator</GR_CreateMechabearIncubator.jobString>
+  <GR_CreateMechamuffaloIncubator.label>mechanoid / muffalo incubator</GR_CreateMechamuffaloIncubator.label>
+  <GR_CreateMechamuffaloIncubator.description>Fill an incubator with genes from a muffalo and active mechanites</GR_CreateMechamuffaloIncubator.description>
+  <GR_CreateMechamuffaloIncubator.jobString>Filling Incubator</GR_CreateMechamuffaloIncubator.jobString>
+  <GR_CreateMechalopeIncubator.label>mechanoid / boomalope incubator</GR_CreateMechalopeIncubator.label>
+  <GR_CreateMechalopeIncubator.description>Fill an incubator with genes from a boomalope and active mechanites</GR_CreateMechalopeIncubator.description>
+  <GR_CreateMechalopeIncubator.jobString>Filling Incubator</GR_CreateMechalopeIncubator.jobString>
+  <GR_CreateMechachickenIncubator.label>mechanoid / chicken incubator</GR_CreateMechachickenIncubator.label>
+  <GR_CreateMechachickenIncubator.description>Fill an incubator with genes from a chicken and active mechanites</GR_CreateMechachickenIncubator.description>
+  <GR_CreateMechachickenIncubator.jobString>Filling Incubator</GR_CreateMechachickenIncubator.jobString>
+  <GR_CreateMechawolfIncubator.label>mechanoid / wolf incubator</GR_CreateMechawolfIncubator.label>
+  <GR_CreateMechawolfIncubator.description>Fill an incubator with genes from a wolf and active mechanites</GR_CreateMechawolfIncubator.description>
+  <GR_CreateMechawolfIncubator.jobString>Filling Incubator</GR_CreateMechawolfIncubator.jobString>
+  <GR_CreateMechacatIncubator.label>mechanoid / feline incubator</GR_CreateMechacatIncubator.label>
+  <GR_CreateMechacatIncubator.description>Fill an incubator with genes from a feline and active mechanites</GR_CreateMechacatIncubator.description>
+  <GR_CreateMechacatIncubator.jobString>Filling Incubator</GR_CreateMechacatIncubator.jobString>
+  <GR_CreateMecharatIncubator.label>mechanoid / rodent incubator</GR_CreateMecharatIncubator.label>
+  <GR_CreateMecharatIncubator.description>Fill an incubator with genes from a rodent and active mechanites</GR_CreateMecharatIncubator.description>
+  <GR_CreateMecharatIncubator.jobString>Filling Incubator</GR_CreateMecharatIncubator.jobString>
+  <GR_CreateMechaspiderIncubator.label>mechanoid / insectoid incubator</GR_CreateMechaspiderIncubator.label>
+  <GR_CreateMechaspiderIncubator.description>Fill an incubator with genes from an insectoid and active mechanites</GR_CreateMechaspiderIncubator.description>
+  <GR_CreateMechaspiderIncubator.jobString>Filling Incubator</GR_CreateMechaspiderIncubator.jobString>
+  <GR_CreateMechaturtleIncubator.label>mechanoid / reptile incubator</GR_CreateMechaturtleIncubator.label>
+  <GR_CreateMechaturtleIncubator.description>Fill an incubator with genes from a reptile and active mechanites</GR_CreateMechaturtleIncubator.description>
+  <GR_CreateMechaturtleIncubator.jobString>Filling Incubator</GR_CreateMechaturtleIncubator.jobString>
+  <GR_CreateMechathrumboIncubator.label>mechanoid / thrumbo incubator</GR_CreateMechathrumboIncubator.label>
+  <GR_CreateMechathrumboIncubator.description>Fill an incubator with genes from a thrumbo and active mechanites</GR_CreateMechathrumboIncubator.description>
+  <GR_CreateMechathrumboIncubator.jobString>Filling Incubator</GR_CreateMechathrumboIncubator.jobString>
+  <GR_ExtractMilkFromMilks.label>extract milk from hybrid milks</GR_ExtractMilkFromMilks.label>
+  <GR_ExtractMilkFromMilks.description>Extracts regular milk from hybrid milks, maintaining nutrition value but potentially losing special qualities.</GR_ExtractMilkFromMilks.description>
+  <GR_ExtractMilkFromMilks.jobString>Extracting milk.</GR_ExtractMilkFromMilks.jobString>
+  <GR_NeutroamineFromSkin.label>extract neutroamine from Spidersnake shed skin</GR_NeutroamineFromSkin.label>
+  <GR_NeutroamineFromSkin.description>Spidersnake shed skin can be ground and processed at a drug lab to extract minute amounts of neutroamine.</GR_NeutroamineFromSkin.description>
+  <GR_NeutroamineFromSkin.jobString>Extracting neutroamine</GR_NeutroamineFromSkin.jobString>
+  <GR_CraftBoarTuskSculpture.label>craft a boar tusk statuette</GR_CraftBoarTuskSculpture.label>
+  <GR_CraftBoarTuskSculpture.description>Paragon boar tusks can be carefully carved and crafted into a small statuette. Cozy!</GR_CraftBoarTuskSculpture.description>
+  <GR_CraftBoarTuskSculpture.jobString>Crafting boar tusk statuette</GR_CraftBoarTuskSculpture.jobString>
+  <GR_CraftMechanoidInterfaceChip.label>make mechanoid interface chip</GR_CraftMechanoidInterfaceChip.label>
+  <GR_CraftMechanoidInterfaceChip.description>Make a mechanoid interface chip. This is a very wasteful and expensive method, but useful if you can't get any mechanoid ship parts dropping from the sky.</GR_CraftMechanoidInterfaceChip.description>
+  <GR_CraftMechanoidInterfaceChip.jobString>Making mechanoid interface chip.</GR_CraftMechanoidInterfaceChip.jobString>
+  <GR_PulpWood.label>extract organic pulp from wood</GR_PulpWood.label>
+  <GR_PulpWood.description>Extract organic pulp from wood.</GR_PulpWood.description>
+  <GR_PulpWood.jobString>Extracting Pulp</GR_PulpWood.jobString>
+  <GR_PulpWoodBulk.label>bulk extract organic pulp from wood</GR_PulpWoodBulk.label>
+  <GR_PulpWoodBulk.description>Bulk extract organic pulp from wood.</GR_PulpWoodBulk.description>
+  <GR_PulpWoodBulk.jobString>Bulk extracting Pulp</GR_PulpWoodBulk.jobString>
+  <GR_PulpWoodExpensive.label>extract organic pulp from wood</GR_PulpWoodExpensive.label>
+  <GR_PulpWoodExpensive.description>Extract organic pulp from wood. This recipe is more expensive than the one in the pulper, which can be built with the Genetic Engineering research.</GR_PulpWoodExpensive.description>
+  <GR_PulpWoodExpensive.jobString>Extracting Pulp</GR_PulpWoodExpensive.jobString>
+  <GR_PulpCorpse.label>extract organic pulp from fresh corpse</GR_PulpCorpse.label>
+  <GR_PulpCorpse.description>Extract organic pulp from corpse. Corpses can't be rotten or desiccated to extract organic pulp from them.</GR_PulpCorpse.description>
+  <GR_PulpCorpse.jobString>Extracting Pulp</GR_PulpCorpse.jobString>
+  <GR_PulpProduce.label>extract organic pulp from produce</GR_PulpProduce.label>
+  <GR_PulpProduce.description>Extract organic pulp from produce.</GR_PulpProduce.description>
+  <GR_PulpProduce.jobString>Extracting Pulp</GR_PulpProduce.jobString>
+  <GR_RecycleIncubator.label>extract organic pulp from unwanted incubator</GR_RecycleIncubator.label>
+  <GR_RecycleIncubator.description>Extract organic pulp from unwanted incubator. Careful, this operation will grab the closest incubator. Plan accordingly.</GR_RecycleIncubator.description>
+  <GR_RecycleIncubator.jobString>Extracting Pulp</GR_RecycleIncubator.jobString>
+  <GR_RecombineGenes.label>recombine genes</GR_RecombineGenes.label>
+  <GR_RecombineGenes.description>Recombine genes from one or several species to get new ones.</GR_RecombineGenes.description>
+  <GR_RecombineGenes.jobString>Recombining Genetic Material</GR_RecombineGenes.jobString>
+  <GR_RecombineSerums.label>recombine serums</GR_RecombineSerums.label>
+  <GR_RecombineSerums.description>Recombine genetic material from 5 animal serums to synthesize a random paragon serum. Non-specialized genetic material can also be used for this recipe.</GR_RecombineSerums.description>
+  <GR_RecombineSerums.jobString>Recombining Serums</GR_RecombineSerums.jobString>
+  <GR_CryofuelToFuel.label>make chemfuel from cryofuel</GR_CryofuelToFuel.label>
+  <GR_CryofuelToFuel.description>Make a batch of chemfuel by converting cryofuel.</GR_CryofuelToFuel.description>
+  <GR_CryofuelToFuel.jobString>Refining chemfuel from cryofuel.</GR_CryofuelToFuel.jobString>
+  <GR_ExtractMechaMilk.label>process mechanoid milk</GR_ExtractMechaMilk.label>
+  <GR_ExtractMechaMilk.description>Extract useful materials from mechanoid milk.</GR_ExtractMechaMilk.description>
+  <GR_ExtractMechaMilk.jobString>Extracting useful materials from mechanoid milk.</GR_ExtractMechaMilk.jobString>
+  <GR_ExtractSerumBear.label>extract paragon serum from a bear</GR_ExtractSerumBear.label>
+  <GR_ExtractSerumBear.description>Extract paragon serum from a bear corpse.</GR_ExtractSerumBear.description>
+  <GR_ExtractSerumBear.jobString>Extracting paragon serum</GR_ExtractSerumBear.jobString>
+  <GR_ExtractSerumBoar.label>extract paragon serum from a wild boar</GR_ExtractSerumBoar.label>
+  <GR_ExtractSerumBoar.description>Extract paragon serum from a boar corpse.</GR_ExtractSerumBoar.description>
+  <GR_ExtractSerumBoar.jobString>Extracting paragon serum</GR_ExtractSerumBoar.jobString>
+  <GR_ExtractSerumBoomalope.label>extract paragon serum from a boomalope</GR_ExtractSerumBoomalope.label>
+  <GR_ExtractSerumBoomalope.description>Extract paragon serum from a boomalope corpse.</GR_ExtractSerumBoomalope.description>
+  <GR_ExtractSerumBoomalope.jobString>Extracting paragon serum</GR_ExtractSerumBoomalope.jobString>
+  <GR_ExtractSerumChicken.label>extract paragon serum from a chicken</GR_ExtractSerumChicken.label>
+  <GR_ExtractSerumChicken.description>Extract paragon serum from a chicken corpse.</GR_ExtractSerumChicken.description>
+  <GR_ExtractSerumChicken.jobString>Extracting paragon serum</GR_ExtractSerumChicken.jobString>
+  <GR_ExtractSerumEmu.label>extract paragon serum from an emu</GR_ExtractSerumEmu.label>
+  <GR_ExtractSerumEmu.description>Extract paragon serum from an emu corpse.</GR_ExtractSerumEmu.description>
+  <GR_ExtractSerumEmu.jobString>Extracting paragon serum</GR_ExtractSerumEmu.jobString>
+  <GR_ExtractSerumMuffalo.label>extract paragon serum from a muffalo</GR_ExtractSerumMuffalo.label>
+  <GR_ExtractSerumMuffalo.description>Extract paragon serum from a muffalo corpse.</GR_ExtractSerumMuffalo.description>
+  <GR_ExtractSerumMuffalo.jobString>Extracting paragon serum</GR_ExtractSerumMuffalo.jobString>
+  <GR_ExtractSerumOstrich.label>extract paragon serum from an ostrich</GR_ExtractSerumOstrich.label>
+  <GR_ExtractSerumOstrich.description>Extract paragon serum from an ostrich corpse.</GR_ExtractSerumOstrich.description>
+  <GR_ExtractSerumOstrich.jobString>Extracting paragon serum</GR_ExtractSerumOstrich.jobString>
+  <GR_ExtractSerumRhino.label>extract paragon serum from a rhino</GR_ExtractSerumRhino.label>
+  <GR_ExtractSerumRhino.description>Extract paragon serum from a rhino corpse.</GR_ExtractSerumRhino.description>
+  <GR_ExtractSerumRhino.jobString>Extracting paragon serum</GR_ExtractSerumRhino.jobString>
+  <GR_ExtractSerumWolf.label>extract paragon serum from a wolf</GR_ExtractSerumWolf.label>
+  <GR_ExtractSerumWolf.description>Extract paragon serum from a wolf corpse.</GR_ExtractSerumWolf.description>
+  <GR_ExtractSerumWolf.jobString>Extracting paragon serum</GR_ExtractSerumWolf.jobString>
+  <GR_ExtractSerumHare.label>extract paragon serum from a hare</GR_ExtractSerumHare.label>
+  <GR_ExtractSerumHare.description>Extract paragon serum from a hare corpse.</GR_ExtractSerumHare.description>
+  <GR_ExtractSerumHare.jobString>Extracting paragon serum</GR_ExtractSerumHare.jobString>
+  <GR_ExtractSerumIguana.label>extract paragon serum from an iguana</GR_ExtractSerumIguana.label>
+  <GR_ExtractSerumIguana.description>Extract paragon serum from an iguana corpse.</GR_ExtractSerumIguana.description>
+  <GR_ExtractSerumIguana.jobString>Extracting paragon serum</GR_ExtractSerumIguana.jobString>
+  <GR_ExtractSerumPig.label>extract paragon serum from a pig</GR_ExtractSerumPig.label>
+  <GR_ExtractSerumPig.description>Extract paragon serum from a pig corpse.</GR_ExtractSerumPig.description>
+  <GR_ExtractSerumPig.jobString>Extracting paragon serum</GR_ExtractSerumPig.jobString>
+  <GR_ExtractSerumRat.label>extract paragon serum from a rat</GR_ExtractSerumRat.label>
+  <GR_ExtractSerumRat.description>Extract paragon serum from a rat corpse.</GR_ExtractSerumRat.description>
+  <GR_ExtractSerumRat.jobString>Extracting paragon serum</GR_ExtractSerumRat.jobString>
+  <GR_ExtractSerumTortoise.label>extract paragon serum from a tortoise</GR_ExtractSerumTortoise.label>
+  <GR_ExtractSerumTortoise.description>Extract paragon serum from a tortoise corpse.</GR_ExtractSerumTortoise.description>
+  <GR_ExtractSerumTortoise.jobString>Extracting paragon serum</GR_ExtractSerumTortoise.jobString>
+  <GR_InstallBearLeg.label>&lt;color=#E89D1B>install animal Implant: bear leg (tier 1)&lt;/color></GR_InstallBearLeg.label>
+  <GR_InstallBearLeg.description>Installs bear leg.</GR_InstallBearLeg.description>
+  <GR_InstallBearLeg.jobString>Installing bear leg.</GR_InstallBearLeg.jobString>
+  <GR_InstallLizardLeg.label>&lt;color=#E89D1B>install animal Implant: lizard leg (tier 2)&lt;/color></GR_InstallLizardLeg.label>
+  <GR_InstallLizardLeg.description>Installs lizard leg.</GR_InstallLizardLeg.description>
+  <GR_InstallLizardLeg.jobString>Installing lizard leg.</GR_InstallLizardLeg.jobString>
+  <GR_InstallThrumboLeg.label>&lt;color=#E89D1B>install animal Implant: thrumbo leg (tier 3)&lt;/color></GR_InstallThrumboLeg.label>
+  <GR_InstallThrumboLeg.description>Installs thrumbo leg.</GR_InstallThrumboLeg.description>
+  <GR_InstallThrumboLeg.jobString>Installing thrumbo leg.</GR_InstallThrumboLeg.jobString>
+  <GR_InstallScytherTail.label>&lt;color=#E89D1B>install animal Implant: scyther tail (tier 2)&lt;/color></GR_InstallScytherTail.label>
+  <GR_InstallScytherTail.description>Installs scyther tail.</GR_InstallScytherTail.description>
+  <GR_InstallScytherTail.jobString>Installing scyther tail.</GR_InstallScytherTail.jobString>
+  <GR_InstallMechaTail.label>&lt;color=#E89D1B>install animal Implant: mechanoid tail (tier 3)&lt;/color></GR_InstallMechaTail.label>
+  <GR_InstallMechaTail.description>Installs mechanoid tail.</GR_InstallMechaTail.description>
+  <GR_InstallMechaTail.jobString>Installing mechanoid tail.</GR_InstallMechaTail.jobString>
+  <GR_InstallCanidEye.label>&lt;color=#E89D1B>install animal Implant: canid eye (tier 1)&lt;/color></GR_InstallCanidEye.label>
+  <GR_InstallCanidEye.description>Installs canid eye.</GR_InstallCanidEye.description>
+  <GR_InstallCanidEye.jobString>Installing canid eye.</GR_InstallCanidEye.jobString>
+  <GR_InstallInsectileEye.label>&lt;color=#E89D1B>install animal Implant: insectile eye (tier 2)&lt;/color></GR_InstallInsectileEye.label>
+  <GR_InstallInsectileEye.description>Installs insectile eye.</GR_InstallInsectileEye.description>
+  <GR_InstallInsectileEye.jobString>Installing insectile eye.</GR_InstallInsectileEye.jobString>
+  <GR_InstallThrumboEye.label>&lt;color=#E89D1B>install animal Implant: bionic thrumbo eye (tier 3)&lt;/color></GR_InstallThrumboEye.label>
+  <GR_InstallThrumboEye.description>Installs thrumbo eye.</GR_InstallThrumboEye.description>
+  <GR_InstallThrumboEye.jobString>Installing thrumbo eye.</GR_InstallThrumboEye.jobString>
+  <GR_InstallRodentEar.label>&lt;color=#E89D1B>install animal Implant: rodent ear (tier 1)&lt;/color></GR_InstallRodentEar.label>
+  <GR_InstallRodentEar.description>Installs rodent ear.</GR_InstallRodentEar.description>
+  <GR_InstallRodentEar.jobString>Installing rodent ear.</GR_InstallRodentEar.jobString>
+  <GR_InstallMothTympanalOrgan.label>&lt;color=#E89D1B>install animal Implant: moth tympanal organ (tier 2)&lt;/color></GR_InstallMothTympanalOrgan.label>
+  <GR_InstallMothTympanalOrgan.description>Installs moth tympanal organ.</GR_InstallMothTympanalOrgan.description>
+  <GR_InstallMothTympanalOrgan.jobString>Installing moth tympanal organ.</GR_InstallMothTympanalOrgan.jobString>
+  <GR_InstallMechaReceptors.label>&lt;color=#E89D1B>install animal Implant: mechanoid auditory receptors (tier 3)&lt;/color></GR_InstallMechaReceptors.label>
+  <GR_InstallMechaReceptors.description>Installs mechanoid auditory receptors.</GR_InstallMechaReceptors.description>
+  <GR_InstallMechaReceptors.jobString>Installing mechanoid auditory receptors.</GR_InstallMechaReceptors.jobString>
+  <GR_InstallRodentNose.label>&lt;color=#E89D1B>install animal Implant: rodent nose (tier 1)&lt;/color></GR_InstallRodentNose.label>
+  <GR_InstallRodentNose.description>Installs rodent nose.</GR_InstallRodentNose.description>
+  <GR_InstallRodentNose.jobString>Installing rodent nose.</GR_InstallRodentNose.jobString>
+  <GR_InstallInsectoidPheromones.label>&lt;color=#E89D1B>install animal Implant: insectoid pheromones (tier 2)&lt;/color></GR_InstallInsectoidPheromones.label>
+  <GR_InstallInsectoidPheromones.description>Installs insectoid pheromones.</GR_InstallInsectoidPheromones.description>
+  <GR_InstallInsectoidPheromones.jobString>Installing insectoid pheromones.</GR_InstallInsectoidPheromones.jobString>
+  <GR_InstallMiniatureThrumboHorn.label>&lt;color=#E89D1B>install animal Implant: miniature thrumbo horn (tier 3)&lt;/color></GR_InstallMiniatureThrumboHorn.label>
+  <GR_InstallMiniatureThrumboHorn.description>Installs miniature thrumbo horn.</GR_InstallMiniatureThrumboHorn.description>
+  <GR_InstallMiniatureThrumboHorn.jobString>Installing miniature thrumbo horn.</GR_InstallMiniatureThrumboHorn.jobString>
+  <GR_InstallWolfJaws.label>&lt;color=#E89D1B>install animal Implant: wolf jaws (tier 1)&lt;/color></GR_InstallWolfJaws.label>
+  <GR_InstallWolfJaws.description>Installs wolf jaws.</GR_InstallWolfJaws.description>
+  <GR_InstallWolfJaws.jobString>Installing wolf jaws.</GR_InstallWolfJaws.jobString>
+  <GR_InstallInsectMandibles.label>&lt;color=#E89D1B>install animal Implant: insect mandibles (tier 2)&lt;/color></GR_InstallInsectMandibles.label>
+  <GR_InstallInsectMandibles.description>Installs insect mandibles.</GR_InstallInsectMandibles.description>
+  <GR_InstallInsectMandibles.jobString>Installing insect mandibles.</GR_InstallInsectMandibles.jobString>
+  <GR_InstallThrumboJaws.label>&lt;color=#E89D1B>install animal Implant: bionic thrumbo jaws (tier 3)&lt;/color></GR_InstallThrumboJaws.label>
+  <GR_InstallThrumboJaws.description>Installs bionic thrumbo jaws.</GR_InstallThrumboJaws.description>
+  <GR_InstallThrumboJaws.jobString>Installing bionic thrumbo jaws.</GR_InstallThrumboJaws.jobString>
+  <GR_InstallMuffaloSpine.label>&lt;color=#E89D1B>install animal Implant: muffalo spine (tier 1)&lt;/color></GR_InstallMuffaloSpine.label>
+  <GR_InstallMuffaloSpine.description>Installs muffalo spine.</GR_InstallMuffaloSpine.description>
+  <GR_InstallMuffaloSpine.jobString>Installing muffalo spine.</GR_InstallMuffaloSpine.jobString>
+  <GR_InstallCrocodileSpine.label>&lt;color=#E89D1B>install animal Implant: crocodile spine (tier 2)&lt;/color></GR_InstallCrocodileSpine.label>
+  <GR_InstallCrocodileSpine.description>Installs crocodile spine.</GR_InstallCrocodileSpine.description>
+  <GR_InstallCrocodileSpine.jobString>Installing crocodile spine.</GR_InstallCrocodileSpine.jobString>
+  <GR_InstallMechaSpine.label>&lt;color=#E89D1B>install animal Implant: mechanoid spine (tier 3)&lt;/color></GR_InstallMechaSpine.label>
+  <GR_InstallMechaSpine.description>Installs mechanoid spine.</GR_InstallMechaSpine.description>
+  <GR_InstallMechaSpine.jobString>Installing mechanoid spine.</GR_InstallMechaSpine.jobString>
+  <GR_InstallChickenBrains.label>&lt;color=#E89D1B>install animal Implant: chicken brains (tier 1)&lt;/color></GR_InstallChickenBrains.label>
+  <GR_InstallChickenBrains.description>Installs chicken brains.</GR_InstallChickenBrains.description>
+  <GR_InstallChickenBrains.jobString>Installing chicken brains.</GR_InstallChickenBrains.jobString>
+  <GR_InstallMonitorLizardBrain.label>&lt;color=#E89D1B>install animal Implant: monitor lizard brain (tier 2)&lt;/color></GR_InstallMonitorLizardBrain.label>
+  <GR_InstallMonitorLizardBrain.description>Installs monitor lizard brain.</GR_InstallMonitorLizardBrain.description>
+  <GR_InstallMonitorLizardBrain.jobString>Installing monitor lizard brain.</GR_InstallMonitorLizardBrain.jobString>
+  <GR_InstallThrumboBrain.label>&lt;color=#E89D1B>install animal Implant: bionic thrumbo brain (tier 3)&lt;/color></GR_InstallThrumboBrain.label>
+  <GR_InstallThrumboBrain.description>Installs bionic thrumbo brain.</GR_InstallThrumboBrain.description>
+  <GR_InstallThrumboBrain.jobString>Installing bionic thrumbo brain.</GR_InstallThrumboBrain.jobString>
+  <GR_InstallBoomalopeHeart.label>&lt;color=#E89D1B>install animal Implant: boomalope heart (tier 1)&lt;/color></GR_InstallBoomalopeHeart.label>
+  <GR_InstallBoomalopeHeart.description>Installs boomalope heart.</GR_InstallBoomalopeHeart.description>
+  <GR_InstallBoomalopeHeart.jobString>Installing boomalope heart.</GR_InstallBoomalopeHeart.jobString>
+  <GR_InstallChitinousHeart.label>&lt;color=#E89D1B>install animal Implant: chitinous heart (tier 2)&lt;/color></GR_InstallChitinousHeart.label>
+  <GR_InstallChitinousHeart.description>Installs chitinous heart.</GR_InstallChitinousHeart.description>
+  <GR_InstallChitinousHeart.jobString>Installing chitinous heart.</GR_InstallChitinousHeart.jobString>
+  <GR_InstallMechaHeart.label>&lt;color=#E89D1B>install animal Implant: mechanoid heart (tier 3)&lt;/color></GR_InstallMechaHeart.label>
+  <GR_InstallMechaHeart.description>Installs mechanoid heart.</GR_InstallMechaHeart.description>
+  <GR_InstallMechaHeart.jobString>Installing mechanoid heart.</GR_InstallMechaHeart.jobString>
+  <GR_InstallMuffaloLung.label>&lt;color=#E89D1B>install animal Implant: muffalo lung (tier 1)&lt;/color></GR_InstallMuffaloLung.label>
+  <GR_InstallMuffaloLung.description>Installs muffalo lung.</GR_InstallMuffaloLung.description>
+  <GR_InstallMuffaloLung.jobString>Installing muffalo lung.</GR_InstallMuffaloLung.jobString>
+  <GR_InstallBearLiver.label>&lt;color=#E89D1B>install animal Implant: bear liver (tier 1)&lt;/color></GR_InstallBearLiver.label>
+  <GR_InstallBearLiver.description>Installs bear liver.</GR_InstallBearLiver.description>
+  <GR_InstallBearLiver.jobString>Installing bear liver.</GR_InstallBearLiver.jobString>
+  <GR_InstallChickenKidney.label>&lt;color=#E89D1B>install animal Implant: chicken kidney (tier 1)&lt;/color></GR_InstallChickenKidney.label>
+  <GR_InstallChickenKidney.description>Installs chicken kidney.</GR_InstallChickenKidney.description>
+  <GR_InstallChickenKidney.jobString>Installing chicken kidney.</GR_InstallChickenKidney.jobString>
+  <GR_InstallBoomalopeStomach.label>&lt;color=#E89D1B>install animal Implant: boomalope stomach (tier 1)&lt;/color></GR_InstallBoomalopeStomach.label>
+  <GR_InstallBoomalopeStomach.description>Installs boomalope stomach.</GR_InstallBoomalopeStomach.description>
+  <GR_InstallBoomalopeStomach.jobString>Installing boomalope stomach.</GR_InstallBoomalopeStomach.jobString>
+  <GR_InstallBearClaws.label>&lt;color=#E89D1B>install bear claws&lt;/color></GR_InstallBearClaws.label>
+  <GR_InstallBearClaws.description>Installs bear claws.</GR_InstallBearClaws.description>
+  <GR_InstallBearClaws.jobString>Installing bear claws.</GR_InstallBearClaws.jobString>
+  <GR_InstallDiggingBearClaws.label>&lt;color=#E89D1B>install digging bear claws&lt;/color></GR_InstallDiggingBearClaws.label>
+  <GR_InstallDiggingBearClaws.description>Installs digging bear claws.</GR_InstallDiggingBearClaws.description>
+  <GR_InstallDiggingBearClaws.jobString>Installing digging bear claws.</GR_InstallDiggingBearClaws.jobString>
+  <GR_InstallBearMuscleTissue.label>&lt;color=#E89D1B>install bear muscle tissue&lt;/color></GR_InstallBearMuscleTissue.label>
+  <GR_InstallBearMuscleTissue.description>Installs bear muscle tissue.</GR_InstallBearMuscleTissue.description>
+  <GR_InstallBearMuscleTissue.jobString>Installing bear muscle tissue.</GR_InstallBearMuscleTissue.jobString>
+  <GR_InstallHibernationModule.label>&lt;color=#E89D1B>install hibernation module&lt;/color></GR_InstallHibernationModule.label>
+  <GR_InstallHibernationModule.description>Installs hibernation module.</GR_InstallHibernationModule.description>
+  <GR_InstallHibernationModule.jobString>Installing hibernation module.</GR_InstallHibernationModule.jobString>
+  <GR_InstallOvipositor.label>&lt;color=#E89D1B>install ovipositor&lt;/color></GR_InstallOvipositor.label>
+  <GR_InstallOvipositor.description>Installs ovipositor.</GR_InstallOvipositor.description>
+  <GR_InstallOvipositor.jobString>Installing ovipositor.</GR_InstallOvipositor.jobString>
+  <GR_InstallMuffaloMuscles.label>&lt;color=#E89D1B>install muffalo strengthened muscles&lt;/color></GR_InstallMuffaloMuscles.label>
+  <GR_InstallMuffaloMuscles.description>Installs muffalo strengthened muscles.</GR_InstallMuffaloMuscles.description>
+  <GR_InstallMuffaloMuscles.jobString>Installing muffalo strengthened muscles.</GR_InstallMuffaloMuscles.jobString>
+  <GR_InstallMuffaloMammaries.label>&lt;color=#E89D1B>install muffalo mammaries&lt;/color></GR_InstallMuffaloMammaries.label>
+  <GR_InstallMuffaloMammaries.description>Installs muffalo mammaries.</GR_InstallMuffaloMammaries.description>
+  <GR_InstallMuffaloMammaries.jobString>Installing muffalo mammaries.</GR_InstallMuffaloMammaries.jobString>
+  <GR_InstallMuffaloSkin.label>&lt;color=#E89D1B>install muffalo skin&lt;/color></GR_InstallMuffaloSkin.label>
+  <GR_InstallMuffaloSkin.description>Installs muffalo skin.</GR_InstallMuffaloSkin.description>
+  <GR_InstallMuffaloSkin.jobString>Installing muffalo skin.</GR_InstallMuffaloSkin.jobString>
+  <GR_InstallBoomalopeNodules.label>&lt;color=#E89D1B>install boomalope nodules&lt;/color></GR_InstallBoomalopeNodules.label>
+  <GR_InstallBoomalopeNodules.description>Installs boomalope nodules.</GR_InstallBoomalopeNodules.description>
+  <GR_InstallBoomalopeNodules.jobString>Installing boomalope nodules.</GR_InstallBoomalopeNodules.jobString>
+  <GR_InstallChemfuelStomach.label>&lt;color=#E89D1B>install chemfuel stomach&lt;/color></GR_InstallChemfuelStomach.label>
+  <GR_InstallChemfuelStomach.description>Installs chemfuel stomach.</GR_InstallChemfuelStomach.description>
+  <GR_InstallChemfuelStomach.jobString>Installing chemfuel stomach.</GR_InstallChemfuelStomach.jobString>
+  <GR_InstallChemfuelHeart.label>&lt;color=#E89D1B>install chemfuel heart&lt;/color></GR_InstallChemfuelHeart.label>
+  <GR_InstallChemfuelHeart.description>Installs chemfuel heart.</GR_InstallChemfuelHeart.description>
+  <GR_InstallChemfuelHeart.jobString>Installing chemfuel heart.</GR_InstallChemfuelHeart.jobString>
+  <GR_InstallWolfMuscularFibers.label>&lt;color=#E89D1B>install wolf muscular fibers&lt;/color></GR_InstallWolfMuscularFibers.label>
+  <GR_InstallWolfMuscularFibers.description>Installs wolf muscular fibers.</GR_InstallWolfMuscularFibers.description>
+  <GR_InstallWolfMuscularFibers.jobString>Installing wolf muscular fibers.</GR_InstallWolfMuscularFibers.jobString>
+  <GR_InstallDevouringJaws.label>&lt;color=#E89D1B>install devouring jaws&lt;/color></GR_InstallDevouringJaws.label>
+  <GR_InstallDevouringJaws.description>Installs devouring jaws.</GR_InstallDevouringJaws.description>
+  <GR_InstallDevouringJaws.jobString>Installing devouring jaws.</GR_InstallDevouringJaws.jobString>
+  <GR_InstallNeuronReinforcement.label>&lt;color=#E89D1B>install neuron reinforcement&lt;/color></GR_InstallNeuronReinforcement.label>
+  <GR_InstallNeuronReinforcement.description>Installs neuron reinforcement.</GR_InstallNeuronReinforcement.description>
+  <GR_InstallNeuronReinforcement.jobString>Installing neuron reinforcement.</GR_InstallNeuronReinforcement.jobString>
+  <GR_InstallMousePheromones.label>&lt;color=#E89D1B>install mouse pheromones&lt;/color></GR_InstallMousePheromones.label>
+  <GR_InstallMousePheromones.description>Installs mouse pheromones.</GR_InstallMousePheromones.description>
+  <GR_InstallMousePheromones.jobString>Installing mouse pheromones.</GR_InstallMousePheromones.jobString>
+  <GR_InstallMoleratNerveDampener.label>&lt;color=#E89D1B>install mole-rat nerve dampener&lt;/color></GR_InstallMoleratNerveDampener.label>
+  <GR_InstallMoleratNerveDampener.description>Installs mole-rat nerve dampener.</GR_InstallMoleratNerveDampener.description>
+  <GR_InstallMoleratNerveDampener.jobString>Installing mole-rat nerve dampener.</GR_InstallMoleratNerveDampener.jobString>
+  <GR_InstallBunnyEars.label>&lt;color=#E89D1B>install bunny ear&lt;/color></GR_InstallBunnyEars.label>
+  <GR_InstallBunnyEars.description>Installs bunny ear.</GR_InstallBunnyEars.description>
+  <GR_InstallBunnyEars.jobString>Installing bunny ear.</GR_InstallBunnyEars.jobString>
+  <GR_InstallCompoundEye.label>&lt;color=#E89D1B>install compound eye&lt;/color></GR_InstallCompoundEye.label>
+  <GR_InstallCompoundEye.description>Installs compound eye.</GR_InstallCompoundEye.description>
+  <GR_InstallCompoundEye.jobString>Installing compound eye.</GR_InstallCompoundEye.jobString>
+  <GR_InstallInsectoidAntennae.label>&lt;color=#E89D1B>install insectoid antennae&lt;/color></GR_InstallInsectoidAntennae.label>
+  <GR_InstallInsectoidAntennae.description>Installs insectoid antennae.</GR_InstallInsectoidAntennae.description>
+  <GR_InstallInsectoidAntennae.jobString>Installing insectoid antennae.</GR_InstallInsectoidAntennae.jobString>
+  <GR_InstallPsychicDampeners.label>&lt;color=#E89D1B>install psychic dampeners&lt;/color></GR_InstallPsychicDampeners.label>
+  <GR_InstallPsychicDampeners.description>Installs psychic dampeners.</GR_InstallPsychicDampeners.description>
+  <GR_InstallPsychicDampeners.jobString>Installing psychic dampeners.</GR_InstallPsychicDampeners.jobString>
+  <GR_InstallKidneyToxicFilters.label>&lt;color=#E89D1B>install kidney toxic filters&lt;/color></GR_InstallKidneyToxicFilters.label>
+  <GR_InstallKidneyToxicFilters.description>Installs kidney toxic filters.</GR_InstallKidneyToxicFilters.description>
+  <GR_InstallKidneyToxicFilters.jobString>Installing kidney toxic filters.</GR_InstallKidneyToxicFilters.jobString>
+  <GR_InstallHumanThrumboHorn.label>&lt;color=#E89D1B>install thrumbo horn&lt;/color></GR_InstallHumanThrumboHorn.label>
+  <GR_InstallHumanThrumboHorn.description>Installs thrumbo horn.</GR_InstallHumanThrumboHorn.description>
+  <GR_InstallHumanThrumboHorn.jobString>Installing thrumbo horn.</GR_InstallHumanThrumboHorn.jobString>
+  <GR_InstallThrumboSkin.label>&lt;color=#E89D1B>install thrumbo skin&lt;/color></GR_InstallThrumboSkin.label>
+  <GR_InstallThrumboSkin.description>Installs thrumbo skin.</GR_InstallThrumboSkin.description>
+  <GR_InstallThrumboSkin.jobString>Installing thrumbo skin.</GR_InstallThrumboSkin.jobString>
+  <GR_InstallVenomousFangs.label>&lt;color=#E89D1B>install venomous fangs&lt;/color></GR_InstallVenomousFangs.label>
+  <GR_InstallVenomousFangs.description>Installs venomous fangs.</GR_InstallVenomousFangs.description>
+  <GR_InstallVenomousFangs.jobString>Installing venomous fangs.</GR_InstallVenomousFangs.jobString>
+  <GR_InstallIguanaScales.label>&lt;color=#E89D1B>install iguana scales&lt;/color></GR_InstallIguanaScales.label>
+  <GR_InstallIguanaScales.description>Installs iguana scales.</GR_InstallIguanaScales.description>
+  <GR_InstallIguanaScales.jobString>Installing iguana scales.</GR_InstallIguanaScales.jobString>
+</LanguageData>

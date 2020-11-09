@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTH_RoamingMechanoidsEncounterQuest.questNameRules.rulesStrings.0>questName->[prefix] [mechanoids]</WTH_RoamingMechanoidsEncounterQuest.questNameRules.rulesStrings.0>
+  <WTH_RoamingMechanoidsEncounterQuest.questNameRules.rulesStrings.1>prefix->Roaming</WTH_RoamingMechanoidsEncounterQuest.questNameRules.rulesStrings.1>
+  <WTH_RoamingMechanoidsEncounterQuest.questNameRules.rulesStrings.2>mechanoids->mechanoids</WTH_RoamingMechanoidsEncounterQuest.questNameRules.rulesStrings.2>
+  <WTH_RoamingMechanoidsEncounterQuest.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] contacted you through the radio, saying that some of their townsmen were attacked by mechanoids. They explained where the incident occurred to warn your colony. The location is marked on the map. You can choose to ignore the warning, and visit the place. It can be a good opportunity to get some extra mechaniod parts, or to get a few men killed. \n\n.
+		\nIf we succeed, [allRewardsDescriptions]</WTH_RoamingMechanoidsEncounterQuest.questDescriptionRules.rulesStrings.0>
+  <WTH_RoamingMechanoidsEncounterQuest.root.nodes.9.node.nodes.0.label>Quest expired: [resolvedQuestName]</WTH_RoamingMechanoidsEncounterQuest.root.nodes.9.node.nodes.0.label>
+  <WTH_RoamingMechanoidsEncounterQuest.root.nodes.9.node.nodes.0.text>The mechanoids have left this area, and you won't hear from them until they have claimed their next victims. The quest [resolvedQuestName] has expired.</WTH_RoamingMechanoidsEncounterQuest.root.nodes.9.node.nodes.0.text>
+  <WTH_RoamingMechanoidsEncounterQuest.root.nodes.10.node.customLetterLabel>Payment arrived</WTH_RoamingMechanoidsEncounterQuest.root.nodes.10.node.customLetterLabel>
+  <WTH_RoamingMechanoidsEncounterQuest.root.nodes.10.node.customLetterText>You have defeated the mechanoids!\n\nThe payment from [asker_faction_name] has arrived.</WTH_RoamingMechanoidsEncounterQuest.root.nodes.10.node.customLetterText>
+  <WTH_RoamingMechanoidsEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</WTH_RoamingMechanoidsEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.label>
+  <WTH_RoamingMechanoidsEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>These colonists participated in [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service.</WTH_RoamingMechanoidsEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>
+  <WTH_LongRangeMineralScannerMechParts.questNameRules.rulesStrings.0>questName->Mechanoid parts detected</WTH_LongRangeMineralScannerMechParts.questNameRules.rulesStrings.0>
+  <WTH_LongRangeMineralScannerMechParts.questDescriptionRules.rulesStrings.0>questDescription->The long range mineral scanner detected a large concentration of mechanoid parts, and marked the location on your map. Mechanoid parts don't grow on trees, so be prepared. 
+If you decide to visit this site, you should do so quickly, as otherwise mechanoids will take measures to prevent your colony from finding the location.</WTH_LongRangeMineralScannerMechParts.questDescriptionRules.rulesStrings.0>
+  <WTH_LongRangeMineralScannerMechParts.root.nodes.2.node.name>siteThreatChance</WTH_LongRangeMineralScannerMechParts.root.nodes.2.node.name>
+  <WTH_LongRangeMineralScannerMechParts.root.nodes.2.elseNode.name>siteThreatChance</WTH_LongRangeMineralScannerMechParts.root.nodes.2.elseNode.name>
+  <WTH_LongRangeMineralScannerMechParts.root.nodes.8.node.nodes.0.label>Quest expired: [resolvedQuestName]</WTH_LongRangeMineralScannerMechParts.root.nodes.8.node.nodes.0.label>
+  <WTH_LongRangeMineralScannerMechParts.root.nodes.8.node.nodes.0.text>The long range mineral scanner that spotted the mechanoid parts suddenly shuts down and reboots. Any trace of the discovered location has been erased. Did someone hack your colony? The quest [resolvedQuestName] has expired.</WTH_LongRangeMineralScannerMechParts.root.nodes.8.node.nodes.0.text>
+</LanguageData>

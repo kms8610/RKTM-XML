@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] spat at [RECIPIENT_definite]'s eyes.</Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_definite] spat a spray of mutagen-laced saliva in [RECIPIENT_definite]'s eyes.</Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>
+  <Maneuver_SpitMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] tried to spit in [RECIPIENT_definite]'s eyes, but missed.</Maneuver_SpitMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] tried to spit in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</Maneuver_SpitMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] spat a mechanite-infused spray at [RECIPIENT_definite]'s face, [talkedabout].</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_definite] spat an aimed spray of mutagen-laced saliva in [RECIPIENT_definite]'s face, [talkedabout].</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.1>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.2>[talkedabout]->which seems to be getting hairier.</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.2>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.3>[talkedabout]->and now their ears itch.</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.3>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.4>[talkedabout]->and now their face feels funny.</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.4>
+  <Maneuver_SpitMaterialInMouth_MeleeMiss.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] tried to spit in [RECIPIENT_definite]'s face, but missed.</Maneuver_SpitMaterialInMouth_MeleeMiss.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInMouth_MeleeDodge.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] tried to spit in [RECIPIENT_definite]'s face, but [RECIPIENT_definite] dodged out of the way.</Maneuver_SpitMaterialInMouth_MeleeDodge.rulePack.rulesStrings.0>
+  <FurGrowthLogPack.rulePack.rulesStrings.0>label->fur</FurGrowthLogPack.rulePack.rulesStrings.0>
+  <FurGrowthLogPack.rulePack.rulesStrings.1>bulk_label->coat</FurGrowthLogPack.rulePack.rulesStrings.1>
+  <FurGrowthLogPack.rulePack.rulesStrings.2>initial->[PART_label]</FurGrowthLogPack.rulePack.rulesStrings.2>
+  <FurGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</FurGrowthLogPack.rulePack.rulesStrings.3>
+  <FurGrowthLogPack.rulePack.rulesStrings.4>pname->[PAWN_nameDef]</FurGrowthLogPack.rulePack.rulesStrings.4>
+  <HideGrowthLogPack.rulePack.rulesStrings.0>label->hide</HideGrowthLogPack.rulePack.rulesStrings.0>
+  <HideGrowthLogPack.rulePack.rulesStrings.1>bulk_label->layer</HideGrowthLogPack.rulePack.rulesStrings.1>
+  <HideGrowthLogPack.rulePack.rulesStrings.2>initial->[PART_label]</HideGrowthLogPack.rulePack.rulesStrings.2>
+  <HideGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</HideGrowthLogPack.rulePack.rulesStrings.3>
+  <HideGrowthLogPack.rulePack.rulesStrings.4>pname->[PAWN_nameDef]</HideGrowthLogPack.rulePack.rulesStrings.4>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.0>label->scales</ScaleGrowthLogPack.rulePack.rulesStrings.0>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.1>bulk_label->coating</ScaleGrowthLogPack.rulePack.rulesStrings.1>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.2>initial->[PART_label]</ScaleGrowthLogPack.rulePack.rulesStrings.2>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</ScaleGrowthLogPack.rulePack.rulesStrings.3>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.4>pname->[PAWN_nameDef]</ScaleGrowthLogPack.rulePack.rulesStrings.4>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.0>label->feathers</FeatherGrowthLogPack.rulePack.rulesStrings.0>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.1>bulk_label->layer</FeatherGrowthLogPack.rulePack.rulesStrings.1>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.2>initial->[PART_label]</FeatherGrowthLogPack.rulePack.rulesStrings.2>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</FeatherGrowthLogPack.rulePack.rulesStrings.3>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.4>pname->[PAWN_nameDef]</FeatherGrowthLogPack.rulePack.rulesStrings.4>
+  <MutationTaleRulePack.rulePack.rulesStrings.0>mutation_log->on [DATE] [images]. [sentence_group]</MutationTaleRulePack.rulePack.rulesStrings.0>
+  <MutationTaleRulePack.rulePack.rulesStrings.1>images->[image]</MutationTaleRulePack.rulePack.rulesStrings.1>
+  <MutationTaleRulePack.rulePack.rulesStrings.2>sentence_group->[desc_sentence]</MutationTaleRulePack.rulePack.rulesStrings.2>
+  <MutationTaleRulePack.rulePack.rulesStrings.3>circumstance_group->[circumstance_phrase]</MutationTaleRulePack.rulePack.rulesStrings.3>
+  <MutationRulePackTaleless.rulePack.rulesStrings.0>mutation_log->[PAWN_nameDef] [MUTATION_label]</MutationRulePackTaleless.rulePack.rulesStrings.0>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.0>a_an->a</DefaultTailMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.1>label->[MUTATION_label]</DefaultTailMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.2>action->grew</DefaultTailMutationLogPack.rulePack.rulesStrings.2>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.3>pname->[PAWN_nameDef]</DefaultTailMutationLogPack.rulePack.rulesStrings.3>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.0>a_an-></DefaultHornMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.1>label->[MUTATION_label]</DefaultHornMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.2>action->grew</DefaultHornMutationLogPack.rulePack.rulesStrings.2>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.3>pname->[PAWN_nameDef]</DefaultHornMutationLogPack.rulePack.rulesStrings.3>
+  <DefaultMutationLogPack.rulePack.rulesStrings.0>action->became</DefaultMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultMutationLogPack.rulePack.rulesStrings.1>label->[MUTATION_label]</DefaultMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultMutationLogPack.rulePack.rulesStrings.2>pname->[PAWN_nameDef]'s</DefaultMutationLogPack.rulePack.rulesStrings.2>
+  <SapientAnimalChatRules.rulePack.rulesStrings.0>animalTalk->gruffed a story about [TalkTopicAny] to</SapientAnimalChatRules.rulePack.rulesStrings.0>
+  <SapientAnimalChatRules.rulePack.rulesStrings.1>animalTalk->sighed softly at</SapientAnimalChatRules.rulePack.rulesStrings.1>
+  <SapientAnimalChatRules.rulePack.rulesStrings.2>animalTalk->sat down next to</SapientAnimalChatRules.rulePack.rulesStrings.2>
+  <SapientAnimalChatRules.rulePack.rulesStrings.3>animalTalk->curled up for a moment next to</SapientAnimalChatRules.rulePack.rulesStrings.3>
+  <SapientAnimalChatRules.rulePack.rulesStrings.4>animalTalk->pawed at</SapientAnimalChatRules.rulePack.rulesStrings.4>
+  <SapientAnimalChatRules.rulePack.rulesStrings.5>animalTalk->spoke about [TalkTopicAny] with</SapientAnimalChatRules.rulePack.rulesStrings.5>
+  <SapientAnimalChatRules.rulePack.rulesStrings.6>animalTalk->moaned about [TalkTopicAny] with</SapientAnimalChatRules.rulePack.rulesStrings.6>
+  <SapientAnimalChatRules.rulePack.rulesStrings.7>animalTalk->lamented about life with</SapientAnimalChatRules.rulePack.rulesStrings.7>
+  <SapientAnimalChatRules.rulePack.rulesStrings.8>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [RECIPIENT_objective] about [animalLife].</SapientAnimalChatRules.rulePack.rulesStrings.8>
+  <SapientAnimalChatRules.rulePack.rulesStrings.9>r_logentry->[RECIPIENT_nameDef] lay by [INITIATOR_nameDef] and talked to [INITIATOR_objective] about [animalLife].</SapientAnimalChatRules.rulePack.rulesStrings.9>
+  <SapientAnimalChatRules.rulePack.rulesStrings.10>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [RECIPIENT_objective] about [TalkTopicAny].</SapientAnimalChatRules.rulePack.rulesStrings.10>
+  <SapientAnimalChatRules.rulePack.rulesStrings.11>r_logentry->[RECIPIENT_nameDef] lay by [INITIATOR_nameDef] and talked to [INITIATOR_objective] about [TalkTopicAny].</SapientAnimalChatRules.rulePack.rulesStrings.11>
+  <SapientAnimalChatRules.rulePack.rulesStrings.12>r_logentry->[RECIPIENT_nameDef] talked with [INITIATOR_nameDef] about [TalkTopicAny].</SapientAnimalChatRules.rulePack.rulesStrings.12>
+  <SapientAnimalChatRules.rulePack.rulesStrings.13>r_logentry->[RECIPIENT_nameDef] talked with [INITIATOR_nameDef] about [animalLife].</SapientAnimalChatRules.rulePack.rulesStrings.13>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.0>animalTalk->sighed softly at</MostlySapientAnimalChatRules.rulePack.rulesStrings.0>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.1>animalTalk->nuzzled</MostlySapientAnimalChatRules.rulePack.rulesStrings.1>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.2>animalTalk->rubbed against</MostlySapientAnimalChatRules.rulePack.rulesStrings.2>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.3>animalTalk->sat down next to</MostlySapientAnimalChatRules.rulePack.rulesStrings.3>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.4>animalTalk->curled up for a moment next to</MostlySapientAnimalChatRules.rulePack.rulesStrings.4>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.5>animalTalk->pawed at</MostlySapientAnimalChatRules.rulePack.rulesStrings.5>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.6>animalTalk->tried and failed to speak to</MostlySapientAnimalChatRules.rulePack.rulesStrings.6>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.7>animalTalk->attempted to talk to</MostlySapientAnimalChatRules.rulePack.rulesStrings.7>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.8>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [RECIPIENT_objective] about [animalLife].</MostlySapientAnimalChatRules.rulePack.rulesStrings.8>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.9>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [RECIPIENT_objective] about [TalkTopicAny].</MostlySapientAnimalChatRules.rulePack.rulesStrings.9>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.10>r_logentry->[RECIPIENT_nameDef] talked with [INITIATOR_nameDef] about [TalkTopicAny].</MostlySapientAnimalChatRules.rulePack.rulesStrings.10>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.11>r_logentry->[RECIPIENT_nameDef] talked with [INITIATOR_nameDef] about [animalLife].</MostlySapientAnimalChatRules.rulePack.rulesStrings.11>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.0>animalTalk->sighed softly at</ConflictedAnimalChatRules.rulePack.rulesStrings.0>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.1>animalTalk->whined for attention from</ConflictedAnimalChatRules.rulePack.rulesStrings.1>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.2>animalTalk->nuzzled</ConflictedAnimalChatRules.rulePack.rulesStrings.2>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.3>animalTalk->rubbed against</ConflictedAnimalChatRules.rulePack.rulesStrings.3>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.4>animalTalk->sat down next to</ConflictedAnimalChatRules.rulePack.rulesStrings.4>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.5>animalTalk->curled up for a moment next to</ConflictedAnimalChatRules.rulePack.rulesStrings.5>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.6>animalTalk->pawed at</ConflictedAnimalChatRules.rulePack.rulesStrings.6>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.0>animalTalk->whined for attention from</MostlyFeralAnimalChatRules.rulePack.rulesStrings.0>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.1>animalTalk->nuzzled</MostlyFeralAnimalChatRules.rulePack.rulesStrings.1>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.2>animalTalk->rubbed against</MostlyFeralAnimalChatRules.rulePack.rulesStrings.2>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.3>animalTalk->sat down next to</MostlyFeralAnimalChatRules.rulePack.rulesStrings.3>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.4>animalTalk->curled up for a moment next to</MostlyFeralAnimalChatRules.rulePack.rulesStrings.4>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.5>animalTalk->pawed at</MostlyFeralAnimalChatRules.rulePack.rulesStrings.5>
+  <SapientAnimalRecruitSuccess.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</SapientAnimalRecruitSuccess.rulePack.rulesStrings.0>
+  <MostlySapientAnimalRecruitSuccess.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</MostlySapientAnimalRecruitSuccess.rulePack.rulesStrings.0>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] refused.</SapientAnimalRecruitRejected.rulePack.rulesStrings.0>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] told [INITIATOR_objective] to shove it.</SapientAnimalRecruitRejected.rulePack.rulesStrings.1>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] told [INITIATOR_objective] to get lost.</SapientAnimalRecruitRejected.rulePack.rulesStrings.2>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef] yelled at [INITIATOR_objective].</SapientAnimalRecruitRejected.rulePack.rulesStrings.3>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef] made a rude gesture at [INITIATOR_objective].</SapientAnimalRecruitRejected.rulePack.rulesStrings.4>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef] rolled [RECIPIENT_possessive] eyes at [INITIATOR_objective].</SapientAnimalRecruitRejected.rulePack.rulesStrings.5>
+  <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] refused.</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.0>
+  <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] made a rude gesture at [INITIATOR_objective].</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.1>
+  <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] rolled [RECIPIENT_possessive] eyes at [INITIATOR_objective].</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.2>
+</LanguageData>

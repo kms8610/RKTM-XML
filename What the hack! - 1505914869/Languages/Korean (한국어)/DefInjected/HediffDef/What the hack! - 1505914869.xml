@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTH_ShutDown.label>shut down</WTH_ShutDown.label>
+  <WTH_ShutDown.labelNoun>a shutdown command</WTH_ShutDown.labelNoun>
+  <WTH_HeavilyDamaged.label>heavily damaged</WTH_HeavilyDamaged.label>
+  <WTH_HeavilyDamaged.labelNoun>The sheer amount of damage to the mechanoid incapacitates it</WTH_HeavilyDamaged.labelNoun>
+  <WTH_DestroyedModule.label>destroyed module</WTH_DestroyedModule.label>
+  <WTH_RegeneratedPart.label>regenerating part</WTH_RegeneratedPart.label>
+  <WTH_RegeneratedPart.labelNoun>a freshly replaced part that is regenerating</WTH_RegeneratedPart.labelNoun>
+  <WTH_SpeedModule.label>speed module</WTH_SpeedModule.label>
+  <WTH_CargoModule.label>cargo module</WTH_CargoModule.label>
+  <WTH_OpticSensorModule.label>optic sensor module</WTH_OpticSensorModule.label>
+  <WTH_ArmorModule.label>armor module</WTH_ArmorModule.label>
+  <WTH_GrowingModule.label>growing module</WTH_GrowingModule.label>
+  <WTH_FirefightingModule.label>firefighting module</WTH_FirefightingModule.label>
+  <WTH_CleaningModule.label>cleaning module</WTH_CleaningModule.label>
+  <WTH_HaulingModule.label>hauling module</WTH_HaulingModule.label>
+  <WTH_BatteryExpansionModule.label>Battery expansion</WTH_BatteryExpansionModule.label>
+  <WTH_VanometricModule.label>Vanometric module</WTH_VanometricModule.label>
+  <WTH_SelfDestruct.label>self destruct module</WTH_SelfDestruct.label>
+  <WTH_OverdriveModule.label>overdrive module</WTH_OverdriveModule.label>
+  <WTH_Overdrive.label>overdriving</WTH_Overdrive.label>
+  <WTH_Overdrive_GoneTooFar.label>overdriving too much</WTH_Overdrive_GoneTooFar.label>
+  <WTH_RepairModule.label>repair module</WTH_RepairModule.label>
+  <WTH_BeltModule.label>belt module</WTH_BeltModule.label>
+  <WTH_TurretModule.label>turret module</WTH_TurretModule.label>
+  <WTH_MountedTurret.label>turret mounted</WTH_MountedTurret.label>
+  <WTH_RepairArm.label>repair arm</WTH_RepairArm.label>
+  <WTH_RepairArm.labelNoun>a repair arm</WTH_RepairArm.labelNoun>
+  <WTH_RepairArm.comps.0.tools.0.label>fist</WTH_RepairArm.comps.0.tools.0.label>
+  <WTH_SelfDestructed.label>exploded</WTH_SelfDestructed.label>
+  <WTH_Repairing.label>charged repairing mechanites</WTH_Repairing.label>
+  <WTH_ReplacedAI.label>AI replaced</WTH_ReplacedAI.label>
+  <WTH_TargetingHacked.label>targeting hacked</WTH_TargetingHacked.label>
+  <WTH_BackupBattery.label>running on backup battery</WTH_BackupBattery.label>
+  <WTH_TargetingHackedPoorly.label>targeting hacked poorly</WTH_TargetingHackedPoorly.label>
+  <WTH_TargetingDestroyed.label>targeting destroyed</WTH_TargetingDestroyed.label>
+  <WTH_LowMaintenance.label>poorly maintained</WTH_LowMaintenance.label>
+  <WTH_VeryLowMaintenance.label>very poorly maintained</WTH_VeryLowMaintenance.label>
+  <WTH_VeryLowPower.label>very low power</WTH_VeryLowPower.label>
+  <WTH_NoPower.label>no power</WTH_NoPower.label>
+  <WTH_ShutDown.description>shut down</WTH_ShutDown.description>
+  <WTH_HeavilyDamaged.description>heavily damaged</WTH_HeavilyDamaged.description>
+  <WTH_DestroyedModule.description>destroyed module</WTH_DestroyedModule.description>
+  <WTH_RegeneratedPart.description>regenerating part</WTH_RegeneratedPart.description>
+  <WTH_SpeedModule.description>speed module</WTH_SpeedModule.description>
+  <WTH_CargoModule.description>cargo module</WTH_CargoModule.description>
+  <WTH_OpticSensorModule.description>optic sensor module</WTH_OpticSensorModule.description>
+  <WTH_ArmorModule.description>armor module</WTH_ArmorModule.description>
+  <WTH_GrowingModule.description>growing module</WTH_GrowingModule.description>
+  <WTH_FirefightingModule.description>firefighting module</WTH_FirefightingModule.description>
+  <WTH_CleaningModule.description>cleaning module</WTH_CleaningModule.description>
+  <WTH_HaulingModule.description>hauling module</WTH_HaulingModule.description>
+  <WTH_BatteryExpansionModule.description>Battery expansion</WTH_BatteryExpansionModule.description>
+  <WTH_VanometricModule.description>Vanometric module</WTH_VanometricModule.description>
+  <WTH_SelfDestruct.description>self destruct module</WTH_SelfDestruct.description>
+  <WTH_OverdriveModule.description>overdrive module</WTH_OverdriveModule.description>
+  <WTH_Overdrive.description>overdriving</WTH_Overdrive.description>
+  <WTH_Overdrive_GoneTooFar.description>overdriving too much</WTH_Overdrive_GoneTooFar.description>
+  <WTH_RepairModule.description>repair module</WTH_RepairModule.description>
+  <WTH_BeltModule.description>belt module</WTH_BeltModule.description>
+  <WTH_TurretModule.description>turret module</WTH_TurretModule.description>
+  <WTH_MountedTurret.description>turret mounted</WTH_MountedTurret.description>
+  <WTH_RepairArm.description>repair arm</WTH_RepairArm.description>
+  <WTH_SelfDestructed.description>exploded</WTH_SelfDestructed.description>
+  <WTH_Repairing.description>charged repairing mechanites</WTH_Repairing.description>
+  <WTH_ReplacedAI.description>AI replaced</WTH_ReplacedAI.description>
+  <WTH_TargetingHacked.description>targeting hacked</WTH_TargetingHacked.description>
+  <WTH_BackupBattery.description>running on backup battery</WTH_BackupBattery.description>
+  <WTH_TargetingHackedPoorly.description>targeting hacked poorly</WTH_TargetingHackedPoorly.description>
+  <WTH_TargetingDestroyed.description>targeting destroyed</WTH_TargetingDestroyed.description>
+  <WTH_LowMaintenance.description>poorly maintained</WTH_LowMaintenance.description>
+  <WTH_VeryLowMaintenance.description>very poorly maintained</WTH_VeryLowMaintenance.description>
+  <WTH_VeryLowPower.description>very low power</WTH_VeryLowPower.description>
+  <WTH_NoPower.description>no power</WTH_NoPower.description>
+</LanguageData>

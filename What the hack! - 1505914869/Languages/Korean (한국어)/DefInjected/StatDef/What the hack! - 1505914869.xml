@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTH_PowerProduction.label>Power production per day</WTH_PowerProduction.label>
+  <WTH_PowerProduction.description>How much power the mechanoid produces each day</WTH_PowerProduction.description>
+  <WTH_PowerRate.label>Power drain per day</WTH_PowerRate.label>
+  <WTH_PowerRate.description>How much power the mechanoid uses each day</WTH_PowerRate.description>
+  <WTH_BatteryCapacity.label>Battery capacity</WTH_BatteryCapacity.label>
+  <WTH_BatteryCapacity.description>The total battery capacity of the mechanoid</WTH_BatteryCapacity.description>
+  <WTH_RechargeRate.label>Power recharge per day</WTH_RechargeRate.label>
+  <WTH_RechargeRate.description>How much power the platform recharges the mechanoid each day, assuming it is powered/fueled all day</WTH_RechargeRate.description>
+  <WTH_RepairRate.label>Repair amount per day</WTH_RepairRate.label>
+  <WTH_RepairRate.description>The amount of damage the platform can repair per day.</WTH_RepairRate.description>
+  <WTH_PartConsumptionRate.label>Mechanoid parts consumed per day during repairs</WTH_PartConsumptionRate.label>
+  <WTH_PartConsumptionRate.description>How many parts are consumed per day when the platform is repairing. When the platform isn't repairing, NO parts are consumed.</WTH_PartConsumptionRate.description>
+  <WTH_ControllerBeltRadius.label>Control radius</WTH_ControllerBeltRadius.label>
+  <WTH_ControllerBeltRadius.description>The maximum radius from which mechanoids can be controlled using this belt</WTH_ControllerBeltRadius.description>
+  <WTH_HackingMaintenanceSpeed.label>maintenance speed</WTH_HackingMaintenanceSpeed.label>
+  <WTH_HackingMaintenanceSpeed.description>Speed at which the character maintains hacked mechanoids.</WTH_HackingMaintenanceSpeed.description>
+  <WTH_HackingSuccessChance.label>hacking success chance</WTH_HackingSuccessChance.label>
+  <WTH_HackingSuccessChance.description>The chance that a character will succeed when hacking or modifying a mechanoid. The actual success chance is also affected by the difficulty of the hack and how powerful the mechanoid is.</WTH_HackingSuccessChance.description>
+  <WTH_PowerRatePercentage.label>Power drain per day</WTH_PowerRatePercentage.label>
+  <WTH_PowerRatePercentage.description>How much power the mechanoid uses each day</WTH_PowerRatePercentage.description>
+  <WTH_PowerRatePercentage.formatString>+{0}</WTH_PowerRatePercentage.formatString>
+  <WTH_BatteryCapacityPercentage.label>Battery capacity</WTH_BatteryCapacityPercentage.label>
+  <WTH_BatteryCapacityPercentage.description>The total battery capacity of the mechanoid</WTH_BatteryCapacityPercentage.description>
+  <WTH_BatteryCapacityPercentage.formatString>+{0}</WTH_BatteryCapacityPercentage.formatString>
+</LanguageData>

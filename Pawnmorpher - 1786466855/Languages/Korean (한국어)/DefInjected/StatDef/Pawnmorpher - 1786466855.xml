@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DangerousFoodSensitivity.label>dangerous food sensitivity</DangerousFoodSensitivity.label>
+  <DangerousFoodSensitivity.description>How likely a pawn is to get sick from contaminated, dangerous foods.</DangerousFoodSensitivity.description>
+  <RottenFoodSensitivity.label>rotten food sensitivity</RottenFoodSensitivity.label>
+  <RottenFoodSensitivity.description>How likely a pawn is to get sick from contaminated, rotten foods.</RottenFoodSensitivity.description>
+  <MutationAdaptability.label>mutation adaptability</MutationAdaptability.label>
+  <MutationAdaptability.description>Multiplier on how fast a pawn adapts to mutations.</MutationAdaptability.description>
+  <MutagenSensitivity.label>mutagen sensitivity</MutagenSensitivity.label>
+  <MutagenSensitivity.description>Multiplier on the impact of mutagenic effects on this creature.</MutagenSensitivity.description>
+  <TransformationSensitivity.label>tranformation sensitivity</TransformationSensitivity.label>
+  <TransformationSensitivity.description>Multiplier on the impact of transformative effects on this pawn. Higher values make full transformations more likely.</TransformationSensitivity.description>
+  <MutationHaltChance.label>mutation halt chance</MutationHaltChance.label>
+  <MutationHaltChance.description>Stat that determines how likely pawns will stop adapting to mutations.</MutationHaltChance.description>
+  <MutagenSensitivity_Apparel.label>mutagen sensitivity (apparel)</MutagenSensitivity_Apparel.label>
+  <MutagenSensitivity_Apparel.description>Multiplier on the impact of mutagenic effects on this creature.</MutagenSensitivity_Apparel.description>
+  <MutagenSensitivity_Stuff.label>mutagen sensitivity (stuff)</MutagenSensitivity_Stuff.label>
+  <MutagenSensitivity_Stuff.description>Multiplier on the impact of mutagenic effects on this creature.</MutagenSensitivity_Stuff.description>
+  <MutagenSensitivity_StuffMult.label>mutagen sensitivity (stuff multiplier)</MutagenSensitivity_StuffMult.label>
+  <MutagenSensitivity_StuffMult.description>Multiplier on the impact of mutagenic effects on this creature.</MutagenSensitivity_StuffMult.description>
+  <MutaniteConcentration.label>mutanite concentration</MutaniteConcentration.label>
+  <MutaniteConcentration.description>The concentration of raw mutanite in this thing.</MutaniteConcentration.description>
+  <SapientAnimalA.label>sapience change</SapientAnimalA.label>
+  <SapientAnimalA.description>Controls the degree to which a pawn resists changes in instinct.</SapientAnimalA.description>
+  <SapientAnimalResistance.label>instinct resistance</SapientAnimalResistance.label>
+  <SapientAnimalResistance.description>Controls how much control a sapient animal has before going feral.</SapientAnimalResistance.description>
+  <SapienceRecoverFactor.label>sapience recover factor</SapienceRecoverFactor.label>
+  <SapienceRecoverFactor.description>Controls how much sapience a pawn recovers over time.</SapienceRecoverFactor.description>
+  <SapienceLimit.label>sapience limit</SapienceLimit.label>
+  <SapienceLimit.description>The maximum sapience this pawn can have.</SapienceLimit.description>
+</LanguageData>

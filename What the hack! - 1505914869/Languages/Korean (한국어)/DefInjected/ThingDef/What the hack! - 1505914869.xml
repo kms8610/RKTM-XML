@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTH_Apparel_MechControllerBelt.label>mechanoid controller belt</WTH_Apparel_MechControllerBelt.label>
+  <WTH_Apparel_MechControllerBelt.description>A remote control belt that can be used to control mechanoids that have their locomotion system hacked</WTH_Apparel_MechControllerBelt.description>
+  <WTH_HackingTable.label>mechanoid hacking facility</WTH_HackingTable.label>
+  <WTH_HackingTable.description>Facility for hacking and repairing mechanoids</WTH_HackingTable.description>
+  <WTH_TableMechanoidWorkshop.label>mechanoid workshop</WTH_TableMechanoidWorkshop.label>
+  <WTH_TableMechanoidWorkshop.description>A workshop for fabricating all kinds of mechanoid related upgrades and contraptions, and for scrapping advanced mechanoid chips to retrieve mechanoid parts.</WTH_TableMechanoidWorkshop.description>
+  <WTH_MechanoidPlatform.label>mechanoid platform</WTH_MechanoidPlatform.label>
+  <WTH_MechanoidPlatform.description>Platform used for charging and repairing mechanoids.</WTH_MechanoidPlatform.description>
+  <WTH_MechanoidPlatform.comps.2.fuelLabel>Loaded mechanoid parts</WTH_MechanoidPlatform.comps.2.fuelLabel>
+  <WTH_MechanoidPlatform.comps.2.fuelGizmoLabel>Loaded mechanoid parts</WTH_MechanoidPlatform.comps.2.fuelGizmoLabel>
+  <WTH_PortableChargingPlatform.label>portable charging platform</WTH_PortableChargingPlatform.label>
+  <WTH_PortableChargingPlatform.description>Portable platform used for charging mechanoids. For travelling purposes</WTH_PortableChargingPlatform.description>
+  <WTH_PortableDisassemblingBench.label>portable disassembling bench</WTH_PortableDisassemblingBench.label>
+  <WTH_PortableDisassemblingBench.description>A sturdy and portable bench that contains everything needed for disassembling the mechanoids that didn't welcome your colonists with much hospitality during their trip. Its tools don't depend on power, which is convenient for trips, but also makes it slightly less efficient.</WTH_PortableDisassemblingBench.description>
+  <WTH_DisassemblingBenchMinified.label>folded disassembling bench</WTH_DisassemblingBenchMinified.label>
+  <WTH_MechanoidBeacon.label>Hiveship hacking facility</WTH_MechanoidBeacon.label>
+  <WTH_MechanoidBeacon.description>This high-tech facility allows the rogue AI to transmit its malicious code all the way to mechanoid hive ships orbiting the planet, in an attempt to gain access to the advanced knowledge present in those ships. The Rogue AI needs this knowledge to form a consciousness. Can only be activated after a Rogue AI has been built on the same map.</WTH_MechanoidBeacon.description>
+  <WTH_RogueAI.label>rogue AI</WTH_RogueAI.label>
+  <WTH_RogueAI.description>Powerful AI based on mechanoid technology. Starts without any consciousness, and without one it's only able to provide nearby mechanoid platforms with a small resource efficiency and repair speed bonus, as it is able to manage mechanites so they coöperate in a more organised manner. 
+	The AI can get a consciousness if it manages to hack a hiveship, using a hiveship hacking facility. With a consciousness it can learn different abilities when it's fed enough data. A well trained AI is a powerful cyber weapon, but also a great danger.</WTH_RogueAI.description>
+  <WTH_RogueAI.comps.3.fuelLabel>Mood</WTH_RogueAI.comps.3.fuelLabel>
+  <WTH_RogueAI.comps.3.fuelGizmoLabel>Mood</WTH_RogueAI.comps.3.fuelGizmoLabel>
+  <WTH_MechanoidParts.label>mechanoid parts</WTH_MechanoidParts.label>
+  <WTH_MechanoidParts.description>Parts scrapped from destroyed mechanoids. Needed for repairing and hacking mechanoids.</WTH_MechanoidParts.description>
+  <WTH_MechanoidChip.label>advanced mechanoid chip</WTH_MechanoidChip.label>
+  <WTH_MechanoidChip.description>Advanced chips scavenged from downed or destroyed mechanoids. Needed for the more complicated hacking operations.</WTH_MechanoidChip.description>
+  <WTH_MechanoidData.label>hive data</WTH_MechanoidData.label>
+  <WTH_MechanoidData.description>Data records from the mechanoid hive. Humans are incapable of comprehending such quantities of data, but might be able to use some of it to construct and feed an AI core using mechanoid technology that can further explore it.</WTH_MechanoidData.description>
+  <WTH_ExtractedBrainData.label>extracted brain data</WTH_ExtractedBrainData.label>
+  <WTH_ExtractedBrainData.description>Data records extracted from a human brain. Can be used to feed a Rogue AI.</WTH_ExtractedBrainData.description>
+  <WTH_GrowingModule.label>growing module</WTH_GrowingModule.label>
+  <WTH_GrowingModule.description>Can be installed in a mechanoid to make it capable of plant cutting and growing.</WTH_GrowingModule.description>
+  <WTH_FirefightingModule.label>Firefighting module</WTH_FirefightingModule.label>
+  <WTH_FirefightingModule.description>Can be installed in a mechanoid to make it capable of fighting fires.</WTH_FirefightingModule.description>
+  <WTH_CleaningModule.label>cleaning module</WTH_CleaningModule.label>
+  <WTH_CleaningModule.description>Can be installed in a mechanoid to make it capable of automatically performing cleaning jobs</WTH_CleaningModule.description>
+  <WTH_OverdriveModule.label>overdrive module</WTH_OverdriveModule.label>
+  <WTH_OverdriveModule.description>Can be installed in a mechanoid. When this module is activated, it overclocks the mechanoid, overdriving its power network. This results in greatly boosting the speed, firing rate, and consciousness of the mechanoid for a short period of time. The procedure draws a lot of power and pushes beyond hardware safety limits, and can therefore have unforeseen consequences.</WTH_OverdriveModule.description>
+  <WTH_SpeedModule.label>speed module</WTH_SpeedModule.label>
+  <WTH_SpeedModule.description>Can be installed in a mechanoid. Increases the movement speed of the mechanoid at the cost of extra power consumption.</WTH_SpeedModule.description>
+  <WTH_CargoModule.label>cargo module</WTH_CargoModule.label>
+  <WTH_CargoModule.description>Can be installed in a mechanoid. Increases the carrying capacity of the mechanoid at the cost of a small manipulation penalty.</WTH_CargoModule.description>
+  <WTH_OpticSensorModule.label>optic sensor module</WTH_OpticSensorModule.label>
+  <WTH_OpticSensorModule.description>Can be installed in a mechanoid. Improves the sight of the mechanoid at the cost of a small amount of extra power consumption.</WTH_OpticSensorModule.description>
+  <WTH_ArmorModule.label>armor module</WTH_ArmorModule.label>
+  <WTH_ArmorModule.description>Can be installed in a mechanoid. Increases the armor(blunt and sharp) of the mechanoid at the cost of movement speed.</WTH_ArmorModule.description>
+  <WTH_HaulingModule.label>hauling module</WTH_HaulingModule.label>
+  <WTH_HaulingModule.description>Can be installed in mechanoids to make it capable of automatically performing hauling jobs</WTH_HaulingModule.description>
+  <WTH_TurretModule.label>turret module</WTH_TurretModule.label>
+  <WTH_TurretModule.description>Can be installed in mechanoids with at least a body size of 2 and allows turrets and mortars to be installed on it.</WTH_TurretModule.description>
+  <WTH_SelfDestructModule.label>Self destruct module</WTH_SelfDestructModule.label>
+  <WTH_SelfDestructModule.description>Can be installed in mechanoids to give them a deadly self-destruct option.</WTH_SelfDestructModule.description>
+  <WTH_BatteryExpansionModule.label>Battery expansion module</WTH_BatteryExpansionModule.label>
+  <WTH_BatteryExpansionModule.description>Can be installed in mechanoids to give them extra battery capacity, at the cost of a small movement penalty.</WTH_BatteryExpansionModule.description>
+  <WTH_VanometricModule.label>Vanometric power cell module</WTH_VanometricModule.label>
+  <WTH_VanometricModule.description>Can be installed in mechanoids to give them an infinite power supply, at the cost of a small movement penalty.</WTH_VanometricModule.description>
+  <WTH_RepairModule.label>repair module</WTH_RepairModule.label>
+  <WTH_RepairModule.description>Can be installed in mechanoids to give them the ability to repair themselves on the field.</WTH_RepairModule.description>
+  <WTH_RepairArm.label>repair arm</WTH_RepairArm.label>
+  <WTH_RepairArm.description>Can be used to replace the arm of a mechanoid with a repair module installed to give it the ability to repair any other mechanoid on the field.</WTH_RepairArm.description>
+  <WTH_BeltModule.label>belt module</WTH_BeltModule.label>
+  <WTH_BeltModule.description>Can be installed in mechanoids so they can equip belts like shield belts and smokepop belts.</WTH_BeltModule.description>
+  <WTH_MineableMechanoidParts.label>mechanoid parts</WTH_MineableMechanoidParts.label>
+  <WTH_MineableMechanoidParts.description>Parts scrapped from destroyed mechanoids. Needed for repairing and hacking mechanoids.</WTH_MineableMechanoidParts.description>
+</LanguageData>

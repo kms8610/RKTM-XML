@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SetCapital>Set Capital</SetCapital>
+  <DeathOfFactionPawn>Your incompetence has led to the death of a pawn from your settlements! Unrest has grown in your subject settlements.</DeathOfFactionPawn>
+  <CaptureOfFactionPawn>Capturing one of your settlement's pawns has caused great unrest in your subject settlements!</CaptureOfFactionPawn>
+  <UnpaidTitheEffect>Unrest has increased by 10 and happiness has decreased in the settlement! </UnpaidTitheEffect>
+  <AlreadyUpgradeSettlement>This settlement is already being upgraded!</AlreadyUpgradeSettlement>
+  <StartUpgradeSettlement>The settlement is now being upgraded...</StartUpgradeSettlement>
+  <BuildingInvalidEnvironment>That building cannot be built on this settlement's biome!</BuildingInvalidEnvironment>
+  <FCDescSeaIce>Endless sheets of ice unbroken by nothing, little animals, and no food except that which is grown in heated rooms. Only the most tenacious of life survives here.</FCDescSeaIce>
+  <FCDescIceSheet>Bleak, unending frost blankets the land, interrupted only by outcroppings of stone and ruins. The only source of food is the hardy wildlife which calls this place its home.</FCDescIceSheet>
+  <FCDescTundra>The hinterland houses a variety of rugged flora and fauna eking out an existance on the moss-covered landscape. When the summer comes, the land blooms into life, if only briefly.</FCDescTundra>
+  <FCDescColdBog>The rugged beauty of this land is matched only by its inhospitability. Marshes dot the landscape, as do frequent packs of migrating herbivores and the predators that follow them.</FCDescColdBog>
+  <FCDescBorealForest>While typically less cold than the hinterland of a tundra, a boreal forest's harsh weather is only matched by its warm summers, where green blooms and food becomes plentiful until next winter.</FCDescBorealForest>
+  <FCDescTropicalRainforest>Trees choke the sky, ensuring little light reaches the floor. Regardless, there is a dazzling, but deadly, array of flora and fauna. The beauty of this biome is matched only by the dangers within.</FCDescTropicalRainforest>
+  <FCDescTemperateForest>Abundant forests and streams split the land. Animals roam the thick forests and both food and shelter are aplenty.</FCDescTemperateForest>
+  <FCDescTemperateSwamp>The land is covered by bogs and marshes, and what isn't, is covered by a variety of vegetation. Available building space is at a premium here.</FCDescTemperateSwamp>
+  <FCDescTropicalSwamp>Both the sky and ground is strangled by vegetation, as trees reach for the sky, ensuring little light reaches the treacherous grounds. Disease is rampant and frequent.</FCDescTropicalSwamp>
+  <FCDescAridShrubland>While not a true desert, growing soil is at a premium thanks to the relentless heat. Most of the land is open, with secluded groves breaking the otherwise empty skyline.</FCDescAridShrubland>
+  <FCDescDesert>Arable soil is a rarity, as the majority of the land here is covered in sand, some too treacherous to build on.  Still, life clings to existance here, and the sands harbour a vibrant array of life</FCDescDesert>
+  <FCDescExtremeDesert>The sun has baked this land into a wasteland. There is almost no soil that can support proper vegetation, and that which there is, is poor in quality. </FCDescExtremeDesert>
+  <FCDescUnknown>Little is widely known about the surrounding land, but the colony manages to survive and prosper in their present conditions.</FCDescUnknown>
+  <FCTownLevel1>The settlement itself is simply a small cluster of buildings grouped around a central structure.</FCTownLevel1>
+  <FCTownLevel2>The settlement is dominated by a few large structures, but it is still quite small. A number of sandbags and barricades ring the outside.</FCTownLevel2>
+  <FCTownLevel3>The settlement has a good number of structures, largely production oriented, as well as dedicated storehouses, and busy workers scurry between them. A modest wall protects the settlement.</FCTownLevel3>
+  <FCTownLevel4>The settlement is reasonably large, and well organised, with a number of industrial buildings clustered together to maximize efficiency. A thick wall and internal defenses protect the colony from attack.</FCTownLevel4>
+  <FCTownLevel5>Clearly labelled buildings mark the industrial heart of this bustling beacon of civilization, as well as various other utilities . Multiple walls ring the colony, with plentiful interior defenses in carefully planned chokepoints.</FCTownLevel5>
+  <settlementAboutToBeAttacked>{0} is about to be attacked by the {1} faction</settlementAboutToBeAttacked>
+  <settlementInDanger>Settlement In Danger</settlementInDanger>
+  <militaryAlreadyDefendingSettlement>That military force is already defending the target</militaryAlreadyDefendingSettlement>
+  <defendingMilitaryReset>The defending military has been reset as the defense force for the settlement</defendingMilitaryReset>
+  <targetAlreadyBeingAttacked>The target is already being attacked</targetAlreadyBeingAttacked>
+  <settlementMilitaryForcesRaiding>{0}'s military forces are raiding {1}</settlementMilitaryForcesRaiding>
+  <settlementMilitaryForcesCapturing>{0}'s military forces are attempting to capture {1}</settlementMilitaryForcesCapturing>
+  <militarySent>Military Sent</militarySent>
+  <militarySentToDefend>The military forces of {0} have been sent to defend {1}</militarySentToDefend>
+  <militaryAlreadyAssigned>The military force is already assigned.</militaryAlreadyAssigned>
+  <settlementDeliveredLoot>Your settlement has delivered the following loot to you: </settlementDeliveredLoot>
+  <RaidLoot>Raid Loot</RaidLoot>
+  <RaidEnemySettlementSuccess>The raid on {0} has been completed successfully</RaidEnemySettlementSuccess>
+  <RaidFailure>Raid Failure</RaidFailure>
+  <RaidEnemySettlementFailure>The raid on {0} has resulted in failure</RaidEnemySettlementFailure>
+  <CaptureSettlement>Capture Settlement</CaptureSettlement>
+  <CaptureEnemySettlementSuccess>{0}'s military forces have successfully captured {1}. Due to the previous faction's tech level, the starting settlement level of the new settlement is {2}.</CaptureEnemySettlementSuccess>
+  <CaptureEnemySettlementFailure>{0}'s military forces has failed to capture {1}</CaptureEnemySettlementFailure>
+  <MilitaryForcesReorganizing>{0}'s military forces are re-organizing after their last mission.</MilitaryForcesReorganizing>
+  <DefenseSuccessful>Defense Successful</DefenseSuccessful>
+  <DefenseSuccessfulFull>The defense of {0} against the military might of {1} was successful!</DefenseSuccessfulFull>
+  <DefenseFailure>Defense Failure</DefenseFailure>
+  <DefenseFailureFull>The defense of our settlement, {0}, has been crushed by the forces of {1}.</DefenseFailureFull>
+  <BulidingDestroyedInRaid>{0} has been destroyed in the raid.</BulidingDestroyedInRaid>
+  <SettlementDeleveledRaid>The settlement level has decreased by one.</SettlementDeleveledRaid>
+  <AttackSettlementfc>Attack Settlement</AttackSettlementfc>
+  <CaptureSettlementfc>Capture Settlement</CaptureSettlementfc>
+  <RaidSettlement>Raid Settlement</RaidSettlement>
+  <FCAvailable>Available</FCAvailable>
+  <ShortMilitary>Mil</ShortMilitary>
+  <NoValidMilitaries>No valid militaries to use.</NoValidMilitaries>
+  <DefendSettlement>Defend Settlement</DefendSettlement>
+  <SettlementDefendingInformation>Settlement Defending Information: {0}'s - Mil {1}</SettlementDefendingInformation>
+  <ResetToHomeSettlement>Reset to home settlement's defense - Mil {0}</ResetToHomeSettlement>
+  <ChangeDefendingForce>Change Defending Force</ChangeDefendingForce>
+  <SendToSettlement>Send To Settlement</SendToSettlement>
+  <EventAffectingSettlements>This event is affecting the following settlements:</EventAffectingSettlements>
+  <TaxesHaveArrived>Taxes have arrived!</TaxesHaveArrived>
+  <OverwhelmingVictory>Overwhelming Victory</OverwhelmingVictory>
+  <OverwhelmingVictoryDesc>Due to your military force's overwhelming victory, the military force is still available for deployment.</OverwhelmingVictoryDesc>
+  <TaxesFromSettlementAreBeingDelivered>Taxes from {0} are en-route to your tax collection point!</TaxesFromSettlementAreBeingDelivered>
+  <DueFC>Due</DueFC>
+  <ResearchExpended>{0} points of research have been used to research {1}. You have {2} points remaining.</ResearchExpended>
+  <ResearchPointsExpended>Research Expended</ResearchPointsExpended>
+  <NoResearchExpended>No research has been used today. You have {0} points remaining.</NoResearchExpended>
+  <PointsAddedToResearchPool>{0} points have been added to the research pool!</PointsAddedToResearchPool>
+  <SetAsEmpirePowerOutput>Set as Empire Power Output</SetAsEmpirePowerOutput>
+  <SetAsOutput>Set Power Output</SetAsOutput>
+  <SetAsOutputSuccess>The transformer has been set as the power output for your settlements!</SetAsOutputSuccess>
+  <NumberTaxesHasBeenSolved>{0} bills have been auto-resolved!</NumberTaxesHasBeenSolved>
+  <PrisonersMenu>Prisoners</PrisonersMenu>
+  <FCWorkload>workload</FCWorkload>
+  <FCHeavy>heavy</FCHeavy>
+  <FCMedium>medium</FCMedium>
+  <FCLight>light</FCLight>
+  <FCHeavyExplanation>Adds +2 to worker soft cap (Max Workers Before Scaling Costs). Reduces health by 20.</FCHeavyExplanation>
+  <FCMediumExplanation>Adds +1 to worker soft cap (Max Workers Before Scaling Costs). Reduces health by 10.</FCMediumExplanation>
+  <FCLightExplanation>Adds +1 to worker hard cap (Over-Max Workers). Increases health by 4</FCLightExplanation>
+  <Actions>Actions</Actions>
+  <SellPawn>Sell Pawn</SellPawn>
+  <ReturnToPlayer>Return To Player</ReturnToPlayer>
+  <SellPawnInfo>Value will be added to next bill from colony</SellPawnInfo>
+  <ViewInfo>View Info</ViewInfo>
+  <PrisonerHasDiedLetter>Prisoner Has Died</PrisonerHasDiedLetter>
+  <PrisonerHasDied>{0} at {1} has died from overworking</PrisonerHasDied>
+  <TaxDeliveryMap>Tax Delivery Map</TaxDeliveryMap>
+  <Military>Military</Military>
+  <SetMap>Set Map</SetMap>
+  <ActivateResearch>Activate Research</ActivateResearch>
+  <PrisonerCaptureInfo>Prisoner: {0} has been enslaved and delivered to {1}</PrisonerCaptureInfo>
+  <GoodsReceived>Goods Received</GoodsReceived>
+  <GoodsReceivedFollowing>You have received the following goods from the {0} event:</GoodsReceivedFollowing>
+  <TaxPercentage>Tithe %</TaxPercentage>
+  <TheSettlement>The settlement</TheSettlement>
+  <HasBeenFormed> has been formed</HasBeenFormed>
+  <PlayerColony>Player Colony</PlayerColony>
+  <NotEnoughSilverForBill>You did not have enough silver to pay an outstanding bill from</NotEnoughSilverForBill>
+  <ConfiscatedTithes>They have confiscated your tithes in return</ConfiscatedTithes>
+  <OutstandingBills>Outstanding Bills</OutstandingBills>
+  <Name>Name</Name>
+  <DueDate>Due Date</DueDate>
+  <Amount>Amount</Amount>
+  <HasTithe>Has Tithe</HasTithe>
+  <PayReceiveSilver>Pay/Receive Silver</PayReceiveSilver>
+  <ResolveBill>Resolve Bill</ResolveBill>
+  <NotEnoughSilverOnMapToPayBill>You do not have enough silver on the current map to pay the bill</NotEnoughSilverOnMapToPayBill>
+  <SettleANewColony>Settle A New Colony</SettleANewColony>
+  <TravelTime>Travel Time</TravelTime>
+  <InitialCost>Initial Cost</InitialCost>
+  <Silver>Silver</Silver>
+  <BaseProductionStats>Base Production Stats</BaseProductionStats>
+  <Base>Base</Base>
+  <Modifier>Modifier</Modifier>
+  <Final>Final</Final>
+  <Settle>Settle</Settle>
+  <CaravanOnWay>A caravan is already on its way</CaravanOnWay>
+  <CaravanSentToLocation>A caravan has been sent to the location! They will arrive in</CaravanSentToLocation>
+  <NotEnoughSilverToSettle>You do not have enough silver on the current map to settle a new colony</NotEnoughSilverToSettle>
+  <CurrentOngoingEvents>Current Ongoing Events</CurrentOngoingEvents>
+  <TimeRemaining>Time Remaining</TimeRemaining>
+  <NewLand>New Land</NewLand>
+  <CustomizeFaction>Customize Faction</CustomizeFaction>
+  <FactionName>Faction Name</FactionName>
+  <FactionTitle>Faction Title</FactionTitle>
+  <FactionIcon>Faction Icon</FactionIcon>
+  <ButtonNotAvailable>This button is not available yet</ButtonNotAvailable>
+  <ConfirmChanges>Confirm Changes</ConfirmChanges>
+  <PlayerFaction>Player Faction</PlayerFaction>
+  <Bastion>The Bastion of Hope</Bastion>
+  <Food>Food</Food>
+  <Weapons>Weapons</Weapons>
+  <Animals>Animals</Animals>
+  <Logging>Logging</Logging>
+  <Mining>Mining</Mining>
+  <Researching>Researching</Researching>
+  <PolicyAlreadyEnacted>That policy has already been enacted</PolicyAlreadyEnacted>
+  <NotEnoughMoneyToEnact>You do not have enough silver on the current map to enact that policy</NotEnoughMoneyToEnact>
+  <AlreadyPolicyTypeBeingEnacted>There is already a policy of that type being enacted</AlreadyPolicyTypeBeingEnacted>
+  <AlreadyPolicyInSlot>There is already a policy being enacted in that slot</AlreadyPolicyInSlot>
+  <SettlementTax>Settlement Tax</SettlementTax>
+  <WeekOf>week of</WeekOf>
+  <TaxesBilled>Taxes have been billed</TaxesBilled>
+  <NoSettlementsToTax>No settlements to tax</NoSettlementsToTax>
+  <CouldNotFindMapOfCapital>Could not find map of capital</CouldNotFindMapOfCapital>
+  <ResearchGeneratedWaste>Research points generated by your faction has been wasted as you have no research selected</ResearchGeneratedWaste>
+  <TaxesFrom>Taxes from</TaxesFrom>
+  <HaveBeenDelivered>have been delivered</HaveBeenDelivered>
+  <HasBeenConstructedAt>has been constructed at</HasBeenConstructedAt>
+  <HasBeenEnactedAt>has been enacted at</HasBeenEnactedAt>
+  <EnactedInYourFaction>has been enacted in your faction</EnactedInYourFaction>
+  <ConstructBuilding>Construct Building</ConstructBuilding>
+  <Cost>Cost</Cost>
+  <Effect>Effect</Effect>
+  <Construct>Construct</Construct>
+  <Info>Info</Info>
+  <Built>Built</Built>
+  <Destroy>Destroy</Destroy>
+  <Build>Build</Build>
+  <WillBeConstructedIn>will be constructed in</WillBeConstructedIn>
+  <Enact>Enact</Enact>
+  <Enacted>Enacted</Enacted>
+  <Repeal>Repeal</Repeal>
+  <WillBeEnactedIn>will be enacted in</WillBeEnactedIn>
+  <EnactPolicy>Enact Policy</EnactPolicy>
+  <TitheList>Tithe List</TitheList>
+  <StackCount>Stack Count</StackCount>
+  <TotalValue>Total Value</TotalValue>
+  <CashSymbol>$</CashSymbol>
+  <SettlementManager>Settlement Manager</SettlementManager>
+  <CreateNewColony>Create New Colony</CreateNewColony>
+  <SelectTile>Select a tile to create the colony</SelectTile>
+  <SetAsFactionCapital>{0} has been set as the faction capital</SetAsFactionCapital>
+  <Colonies>Colonies</Colonies>
+  <Bills>Bills</Bills>
+  <Events>Events</Events>
+  <Settlement>Settlement</Settlement>
+  <Settlements>Settlements</Settlements>
+  <ColonyLevel>Colony Level</ColonyLevel>
+  <MilitaryLevel>Mil Level</MilitaryLevel>
+  <Unrest>Unrest</Unrest>
+  <Profit>Profit</Profit>
+  <Loyalty>Loyalty</Loyalty>
+  <TotalProduction>Total Production</TotalProduction>
+  <FactionHappiness>Faction Happiness</FactionHappiness>
+  <FactionLoyalty>Faction Loyalty</FactionLoyalty>
+  <FactionUnrest>Faction Unrest</FactionUnrest>
+  <FactionProsperity>Faction Prosperity</FactionProsperity>
+  <FactionHappinessDesc>The measure of the faction's overall happiness. A high happiness means that any internal conflict within the settlement will lean heavily to your favor.</FactionHappinessDesc>
+  <FactionLoyaltyDesc>The measure of the faction's overall loyalty. The loyalty of a settlement determines how willing the settlement is to listen to you. A high loyalty will reduce the chance of defection. </FactionLoyaltyDesc>
+  <FactionUnrestDesc>The measure of the faction's overall unrest. The higher unrest grows, the more likely dangerous events internal in your faction will spark. Let it grow too high, and a faction-wide revolt may grow.</FactionUnrestDesc>
+  <FactionProsperityDesc>The measure of the faction's overall prosperity. The prosperity of a town directly correlates with the production of resources. 50% prosperity = 50% production. If prosperity is damaged, it will slowly accumulate over time.</FactionProsperityDesc>
+  <Policies-Traits>Policies/Traits</Policies-Traits>
+  <TaxReports>Tax Reports</TaxReports>
+  <TotalFactionProduction>The total faction-wide production of the resource</TotalFactionProduction>
+  <EstimatedProfit>Est. Profit</EstimatedProfit>
+  <TimeTillTax>Time till tax</TimeTillTax>
+  <CustomizeSettlement>Customize Settlement</CustomizeSettlement>
+  <SettlementName>Settlement Name</SettlementName>
+  <Hamlet>hamlet</Hamlet>
+  <BuildingAlreadyType>There is already a building of that type</BuildingAlreadyType>
+  <NotEnoughSilverConstructBuilding>You do not have enough silver on the current map to construct that building</NotEnoughSilverConstructBuilding>
+  <BuildingBeingBuiltAlreadyType>There is already a building of that type being built</BuildingBeingBuiltAlreadyType>
+  <BuildingAlreadyConstructed>There is already a building being constructed there</BuildingAlreadyConstructed>
+  <UpgradeSettlement>Upgrade Settlement</UpgradeSettlement>
+  <CanBeUpgraded>can be upgraded for</CanBeUpgraded>
+  <UpgradeColonyDesc>Upgrading this colony will increase the max worker count before the cost of workers begins to rise by 3 workers. The military level of this colony will also increase by 1.</UpgradeColonyDesc>
+  <HasBeenUpgraded>has been upgraded to level</HasBeenUpgraded>
+  <AlreadyMaxLevel>is already max level</AlreadyMaxLevel>
+  <NotEnoughSilverUpgrade>The current map does not have enough silver to pay for the settlement upgrade.</NotEnoughSilverUpgrade>
+  <CannotBeUpgradedPastMax>This settlement cannot be upgraded past max level</CannotBeUpgradedPastMax>
+  <TownLog>Town Log</TownLog>
+  <UpgradeTown>Upgrade Town</UpgradeTown>
+  <GoToLocation>Go To Location</GoToLocation>
+  <AssignedWorkers>Assigned Workers</AssignedWorkers>
+  <IsTithe>Is Tithe</IsTithe>
+  <ProductionEfficiency>Production Efficiency</ProductionEfficiency>
+  <SettlementProductionOf>The total settlement production of the resource</SettlementProductionOf>
+  <Workers>Workers</Workers>
+  <Located>Located in the</Located>
+  <LandOf>land of a</LandOf>
+  <SettlementMilitaryLevel>Settlement Military Level</SettlementMilitaryLevel>
+  <SettlementHappiness>Settlement Happiness</SettlementHappiness>
+  <SettlementLoyalty>Settlement Loyalty</SettlementLoyalty>
+  <SettlementUnrest>Settlement Unrest</SettlementUnrest>
+  <SettlementProsperity>Settlement Prosperity</SettlementProsperity>
+  <SettlementMilitaryLevelDesc>The measure of the settlements's military level. The military level of a town directly affects the town's ability to defend itself as well as attack external threats</SettlementMilitaryLevelDesc>
+  <SettlementHappinessDesc>The measure of the Settlement's overall happiness. A high happiness means that any internal conflict within the settlement will lean heavily to your favor.</SettlementHappinessDesc>
+  <SettlementLoyaltyDesc>The measure of the Settlement's overall loyalty. The loyalty of a settlement determines how willing the settlement is to listen to you. A high loyalty will reduce the chance of defection.</SettlementLoyaltyDesc>
+  <SettlementUnrestDesc>The measure of the Settlement's overall unrest. The higher unrest grows, the more likely dangerous events internal in your Settlement will spark. Let it grow too high, and a Settlement-wide revolt may grow.</SettlementUnrestDesc>
+  <SettlementProsperityDesc>The measure of the Settlement's overall prosperity. The prosperity of a town directly correlates with the production of resources. 50% prosperity = 50% production. If prosperity is damaged, it will slowly accumulate over time.</SettlementProsperityDesc>
+  <BuildingUpgrades>Building Upgrades</BuildingUpgrades>
+  <AddedInFuture>This will be added to in the future</AddedInFuture>
+  <Production>Production</Production>
+  <TaxBase>Tax Base</TaxBase>
+  <Total>Total</Total>
+  <Income>Income</Income>
+  <Upkeep>Upkeep</Upkeep>
+  <CostPerWorker>Cost Per Worker</CostPerWorker>
+  <FactionTaxReports>Faction Tax Reports</FactionTaxReports>
+  <Date>Date</Date>
+  <Tithe>Tithe</Tithe>
+  <View>View</View>
+  <SettlementTaxCollection>Settlements Tax Collection</SettlementTaxCollection>
+  <Report>Report</Report>
+  <Reports>Reports</Reports>
+  <GoTo>Go To</GoTo>
+  <EstimatedValue>Est Value</EstimatedValue>
+  <DeleteSettlement>Delete Settlement</DeleteSettlement>
+  <AreYouSureRemove>Are you sure?</AreYouSureRemove>
+  <SettlementRemoved>The settlement {0} has been removed.</SettlementRemoved>
+  <FactionPoliciesAndTraits>Faction Policies and Traits</FactionPoliciesAndTraits>
+  <TaxLaw>Tax Law</TaxLaw>
+  <SocialPolicy>Social Policy</SocialPolicy>
+  <MilitaryPolicy>Military Policy</MilitaryPolicy>
+  <FactionTraits>Faction Traits</FactionTraits>
+  <AddTrait>Add Trait</AddTrait>
+</LanguageData>

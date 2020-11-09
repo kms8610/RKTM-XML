@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTH_ExtractBrainData.label>extract brain data</WTH_ExtractBrainData.label>
+  <WTH_ExtractBrainData.description>Extract all the data from a human brain using mechanoid technology. As you might expect from mechanoid technology, the operation doesn't really take into account the well-being of the patient. In other words, this technique cannot be applied without destroying the brain of the patient. More intelligent pawns will yield more data.</WTH_ExtractBrainData.description>
+  <WTH_ExtractBrainData.jobString>Extract brain data.</WTH_ExtractBrainData.jobString>
+  <WTH_Scrap_AdvancedMechanoidChip.label>scrap advanced mechanoid chip</WTH_Scrap_AdvancedMechanoidChip.label>
+  <WTH_Scrap_AdvancedMechanoidChip.description>Scrap advanced mechanoid chip</WTH_Scrap_AdvancedMechanoidChip.description>
+  <WTH_Scrap_AdvancedMechanoidChip.jobString>Scrapping</WTH_Scrap_AdvancedMechanoidChip.jobString>
+  <WTH_Craft_OverdriveModule.jobString>Crafting</WTH_Craft_OverdriveModule.jobString>
+  <WTH_Craft_OverdriveModule.label>craft overdrive module</WTH_Craft_OverdriveModule.label>
+  <WTH_Craft_OverdriveModule.description>Craft an overdrive module</WTH_Craft_OverdriveModule.description>
+  <WTH_Craft_SpeedModule.jobString>Crafting</WTH_Craft_SpeedModule.jobString>
+  <WTH_Craft_SpeedModule.label>craft speed module</WTH_Craft_SpeedModule.label>
+  <WTH_Craft_SpeedModule.description>Craft a speed module</WTH_Craft_SpeedModule.description>
+  <WTH_Craft_CargoModule.jobString>Crafting</WTH_Craft_CargoModule.jobString>
+  <WTH_Craft_CargoModule.label>craft cargo module</WTH_Craft_CargoModule.label>
+  <WTH_Craft_CargoModule.description>Craft a cargo module</WTH_Craft_CargoModule.description>
+  <WTH_Craft_OpticSensorModule.jobString>Crafting</WTH_Craft_OpticSensorModule.jobString>
+  <WTH_Craft_OpticSensorModule.label>craft optic sensor module</WTH_Craft_OpticSensorModule.label>
+  <WTH_Craft_OpticSensorModule.description>Craft an optic sensor module</WTH_Craft_OpticSensorModule.description>
+  <WTH_Craft_ArmorModule.jobString>Crafting</WTH_Craft_ArmorModule.jobString>
+  <WTH_Craft_ArmorModule.label>craft armor module</WTH_Craft_ArmorModule.label>
+  <WTH_Craft_ArmorModule.description>Craft an armor module</WTH_Craft_ArmorModule.description>
+  <WTH_Craft_FirefightingModule.jobString>Crafting</WTH_Craft_FirefightingModule.jobString>
+  <WTH_Craft_FirefightingModule.label>craft firefighting module</WTH_Craft_FirefightingModule.label>
+  <WTH_Craft_FirefightingModule.description>Craft a firefighting module</WTH_Craft_FirefightingModule.description>
+  <WTH_Craft_GrowingModule.jobString>Crafting</WTH_Craft_GrowingModule.jobString>
+  <WTH_Craft_GrowingModule.label>craft growing module</WTH_Craft_GrowingModule.label>
+  <WTH_Craft_GrowingModule.description>Craft a growing module</WTH_Craft_GrowingModule.description>
+  <WTH_Craft_CleaningModule.jobString>Crafting</WTH_Craft_CleaningModule.jobString>
+  <WTH_Craft_CleaningModule.label>craft cleaning module</WTH_Craft_CleaningModule.label>
+  <WTH_Craft_CleaningModule.description>Craft a cleaning module</WTH_Craft_CleaningModule.description>
+  <WTH_Craft_HaulingModule.jobString>Crafting</WTH_Craft_HaulingModule.jobString>
+  <WTH_Craft_HaulingModule.label>craft hauling module</WTH_Craft_HaulingModule.label>
+  <WTH_Craft_HaulingModule.description>Craft a hauling module</WTH_Craft_HaulingModule.description>
+  <WTH_Craft_AdditionalBatteryModule.jobString>Crafting</WTH_Craft_AdditionalBatteryModule.jobString>
+  <WTH_Craft_AdditionalBatteryModule.label>craft battery expansion module</WTH_Craft_AdditionalBatteryModule.label>
+  <WTH_Craft_AdditionalBatteryModule.description>Craft a battery expansion module</WTH_Craft_AdditionalBatteryModule.description>
+  <WTH_Craft_VanometricModule.jobString>Crafting</WTH_Craft_VanometricModule.jobString>
+  <WTH_Craft_VanometricModule.label>craft vanometric module</WTH_Craft_VanometricModule.label>
+  <WTH_Craft_VanometricModule.description>Craft a vanometric power cell module</WTH_Craft_VanometricModule.description>
+  <WTH_Craft_SelfDestructModule.jobString>Crafting</WTH_Craft_SelfDestructModule.jobString>
+  <WTH_Craft_SelfDestructModule.label>craft self-destruct module</WTH_Craft_SelfDestructModule.label>
+  <WTH_Craft_SelfDestructModule.description>Craft a self-destruct module</WTH_Craft_SelfDestructModule.description>
+  <WTH_Craft_TurretModule.jobString>Crafting</WTH_Craft_TurretModule.jobString>
+  <WTH_Craft_TurretModule.label>craft turret module</WTH_Craft_TurretModule.label>
+  <WTH_Craft_TurretModule.description>Craft a turret module</WTH_Craft_TurretModule.description>
+  <WTH_Craft_RepairModule.jobString>Crafting</WTH_Craft_RepairModule.jobString>
+  <WTH_Craft_RepairModule.label>craft repair module</WTH_Craft_RepairModule.label>
+  <WTH_Craft_RepairModule.description>Craft a repair module</WTH_Craft_RepairModule.description>
+  <WTH_Craft_RepairArm.jobString>Crafting</WTH_Craft_RepairArm.jobString>
+  <WTH_Craft_RepairArm.label>craft repair arm</WTH_Craft_RepairArm.label>
+  <WTH_Craft_RepairArm.description>Craft a repair arm</WTH_Craft_RepairArm.description>
+  <WTH_Craft_BeltModule.jobString>Crafting</WTH_Craft_BeltModule.jobString>
+  <WTH_Craft_BeltModule.label>craft belt module</WTH_Craft_BeltModule.label>
+  <WTH_Craft_BeltModule.description>Craft a belt module</WTH_Craft_BeltModule.description>
+  <WTH_HackMechanoid.label>hack mechanoid targeting device</WTH_HackMechanoid.label>
+  <WTH_HackMechanoid.description>Hacks the targeting device of a mechanoid so it targets your enemies instead of yourself</WTH_HackMechanoid.description>
+  <WTH_HackMechanoid.jobString>Hacking mechanoid</WTH_HackMechanoid.jobString>
+  <WTH_InduceEmergencySignal.label>try inducing an emergency signal</WTH_InduceEmergencySignal.label>
+  <WTH_InduceEmergencySignal.description>The colonist will deliberately try to trigger a self-defence mechanism in the mechanoid that transmits an emergency signal to nearby mechanoids when activated, attracting them. This is a good way of getting some extra mechanoid parts, but also a good way to get your base blown up. The operation is remarkably difficult, and even if it is performed successfully, the mechanoid will be damaged beyond repair.</WTH_InduceEmergencySignal.description>
+  <WTH_InduceEmergencySignal.jobString>Hacking mechanoid</WTH_InduceEmergencySignal.jobString>
+  <WTH_ImplantAI.label>implant AI</WTH_ImplantAI.label>
+  <WTH_ImplantAI.description>Implants the AI persona core into the mechanoid, allowing full control for combat purposes</WTH_ImplantAI.description>
+  <WTH_ImplantAI.jobString>Hacking mechanoid</WTH_ImplantAI.jobString>
+  <WTH_InstallOverdriveModule.label>install overdrive module</WTH_InstallOverdriveModule.label>
+  <WTH_InstallOverdriveModule.description>Install a overdrive module.</WTH_InstallOverdriveModule.description>
+  <WTH_InstallOverdriveModule.jobString>Installing overdrive module.</WTH_InstallOverdriveModule.jobString>
+  <WTH_InstallSpeedModule.label>install speed module</WTH_InstallSpeedModule.label>
+  <WTH_InstallSpeedModule.description>Install a speed module.</WTH_InstallSpeedModule.description>
+  <WTH_InstallSpeedModule.jobString>Installing speed module.</WTH_InstallSpeedModule.jobString>
+  <WTH_InstallCargoModule.label>install cargo module</WTH_InstallCargoModule.label>
+  <WTH_InstallCargoModule.description>Install a cargo module.</WTH_InstallCargoModule.description>
+  <WTH_InstallCargoModule.jobString>Installing cargo module.</WTH_InstallCargoModule.jobString>
+  <WTH_InstallOpticSensorModule.label>install optic sensor module</WTH_InstallOpticSensorModule.label>
+  <WTH_InstallOpticSensorModule.description>Install an optic sensor module.</WTH_InstallOpticSensorModule.description>
+  <WTH_InstallOpticSensorModule.jobString>Installing optic sensor module.</WTH_InstallOpticSensorModule.jobString>
+  <WTH_InstallArmorModule.label>install armor module</WTH_InstallArmorModule.label>
+  <WTH_InstallArmorModule.description>Install an armor module.</WTH_InstallArmorModule.description>
+  <WTH_InstallArmorModule.jobString>Installing armor module.</WTH_InstallArmorModule.jobString>
+  <WTH_InstallGrowingModule.label>install growing module</WTH_InstallGrowingModule.label>
+  <WTH_InstallGrowingModule.description>Install a growing module.</WTH_InstallGrowingModule.description>
+  <WTH_InstallGrowingModule.jobString>Installing growing module.</WTH_InstallGrowingModule.jobString>
+  <WTH_InstallFirefightingModule.label>install firefighting module</WTH_InstallFirefightingModule.label>
+  <WTH_InstallFirefightingModule.description>Install a firefighting module.</WTH_InstallFirefightingModule.description>
+  <WTH_InstallFirefightingModule.jobString>Installing firefighting module.</WTH_InstallFirefightingModule.jobString>
+  <WTH_InstallCleaningModule.label>install cleaning module</WTH_InstallCleaningModule.label>
+  <WTH_InstallCleaningModule.description>Install a cleaning module.</WTH_InstallCleaningModule.description>
+  <WTH_InstallCleaningModule.jobString>Installing cleaning module.</WTH_InstallCleaningModule.jobString>
+  <WTH_InstallHaulingModule.label>install hauling module</WTH_InstallHaulingModule.label>
+  <WTH_InstallHaulingModule.description>Install a hauling module.</WTH_InstallHaulingModule.description>
+  <WTH_InstallHaulingModule.jobString>Installing hauling module.</WTH_InstallHaulingModule.jobString>
+  <WTH_InstallRepairArm.label>install repair arm</WTH_InstallRepairArm.label>
+  <WTH_InstallRepairArm.description>Install a repair arm.</WTH_InstallRepairArm.description>
+  <WTH_InstallRepairArm.jobString>Installing repair arm.</WTH_InstallRepairArm.jobString>
+  <WTH_InstallTurretModule.label>install turret module</WTH_InstallTurretModule.label>
+  <WTH_InstallTurretModule.description>A module that provides both structural support and and interface for gun turrets and mortars. Any turret that can be uninstalled, can be interfaced with this module. While this is a powerful upgrade, turrets do draw extra power, and have a tendency of exploding when destroyed. Can only be installed on large mechanoids.</WTH_InstallTurretModule.description>
+  <WTH_InstallTurretModule.jobString>Modifying mechanoid</WTH_InstallTurretModule.jobString>
+  <WTH_InstallRepairModule.label>install repair module</WTH_InstallRepairModule.label>
+  <WTH_InstallRepairModule.description>A module that can be loaded with mechanoid parts, and is capable of redirecting the mechanoid's power supply to its internal mechanites. This activates the mechanites, which will repair the mechanoid using the parts, but renders the mechanoid incapable of doing anything during the process.</WTH_InstallRepairModule.description>
+  <WTH_InstallRepairModule.jobString>Modifying mechanoid</WTH_InstallRepairModule.jobString>
+  <WTH_InstallSelfDestruct.label>install self destruct option</WTH_InstallSelfDestruct.label>
+  <WTH_InstallSelfDestruct.description>Adds the ability to let the mechanoid self destruct by short-circuiting installed high explosive mortar shells. A plasteel casing prevents that the explosives go off unintentionally.</WTH_InstallSelfDestruct.description>
+  <WTH_InstallSelfDestruct.jobString>Modifying mechanoid</WTH_InstallSelfDestruct.jobString>
+  <WTH_InstallBeltModule.label>install belt module</WTH_InstallBeltModule.label>
+  <WTH_InstallBeltModule.description>Install a module that allows mechanoids to equip belts like shield belts and smokepop belts.</WTH_InstallBeltModule.description>
+  <WTH_InstallBeltModule.jobString>Modifying mechanoid</WTH_InstallBeltModule.jobString>
+  <WTH_InstallBatteryExpansionModule.label>install battery expansion module</WTH_InstallBatteryExpansionModule.label>
+  <WTH_InstallBatteryExpansionModule.description>Gives the mechanoid extra battery capacity at the cost of a small movement penalty.</WTH_InstallBatteryExpansionModule.description>
+  <WTH_InstallBatteryExpansionModule.jobString>Modifying mechanoid</WTH_InstallBatteryExpansionModule.jobString>
+  <WTH_InstallVanometricModule.label>install vanometric power cell module</WTH_InstallVanometricModule.label>
+  <WTH_InstallVanometricModule.description>Gives the mechanoid infinite power supply at the cost of a small movement penalty.</WTH_InstallVanometricModule.description>
+  <WTH_InstallVanometricModule.jobString>Modifying mechanoid</WTH_InstallVanometricModule.jobString>
+  <WTH_ShutDownMechanoid.label>shut down</WTH_ShutDownMechanoid.label>
+  <WTH_ShutDownMechanoid.description>Shuts down a mechanoid.</WTH_ShutDownMechanoid.description>
+  <WTH_ShutDownMechanoid.jobString>Shutting down mechanoid.</WTH_ShutDownMechanoid.jobString>
+</LanguageData>

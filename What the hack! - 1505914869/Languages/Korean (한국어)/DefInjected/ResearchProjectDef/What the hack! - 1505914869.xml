@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WTH_HackingBasics.label>mechanoid hacking basics</WTH_HackingBasics.label>
+  <WTH_HackingBasics.description>Gives access to the hacking table and the mechanoid platform. The hacking table can be used to hack into the targeting system of mechanoids, making sure they attack your enemy instead of your colony when activated. Also allows you to build mechanoid platforms, which are needed as a repair and as a power station for mechanoids.</WTH_HackingBasics.description>
+  <WTH_PortableChemfuelPlatform.label>Portable chemfuel charging platform</WTH_PortableChemfuelPlatform.label>
+  <WTH_PortableChemfuelPlatform.description>Allows the creation of portable chemfuel charging platforms, which supply your mechanoids with power while they explore the world. Can also be installed/uninstalled for a temporary power solution for your mechanoids.</WTH_PortableChemfuelPlatform.description>
+  <WTH_PortableDisassemblingBench.label>Portable disassembling bench</WTH_PortableDisassemblingBench.label>
+  <WTH_PortableDisassemblingBench.description>A sturdy and portable bench used for disassembling mechanoids during trips. Its tools don't depend on power, which is convenient for trips, but also makes it slightly less efficient.</WTH_PortableDisassemblingBench.description>
+  <WTH_MechanoidWorkshop.label>mechanoid workshop</WTH_MechanoidWorkshop.label>
+  <WTH_MechanoidWorkshop.description>Build a mechanoid workshop, which is used to construct all kinds of mechanoid related contraptions and upgrades, and also for scrapping advanced mechanoid parts.</WTH_MechanoidWorkshop.description>
+  <WTH_WorkModules.label>work modules</WTH_WorkModules.label>
+  <WTH_WorkModules.description>Several upgrade modules that make mechanoids capable of performing several simple tasks like hauling, cleaning, firefighting and growing. Mechanoids were designed for combat, and modifying them to let them perform simple chores is probably an insult to their creators.</WTH_WorkModules.description>
+  <WTH_SpeedModule.label>speed module</WTH_SpeedModule.label>
+  <WTH_SpeedModule.description>Upgrade module that aims to increase the speed of mechanoids, at the cost of a moderate amount of extra power consumption. Mechanoids are designed to run with a limited reactor capacity. To be energy efficient, their locomotion system is designed to run at a certain capped speed. With some hacking, and by adding some hardware, this speed can be increased above design specifications, without causing any damage to the hardware. The procedure does result in a higher power consumption.</WTH_SpeedModule.description>
+  <WTH_ArmorModule.label>armor module</WTH_ArmorModule.label>
+  <WTH_ArmorModule.description>Upgrade module that aims to increase the armor of mechanoids. Small layers of plasteel nano-fibers are inserted underneath the mechanoid's outer layer to protect critical parts. Increases sharp and blunt protection at the cost of a movement speed penalty.</WTH_ArmorModule.description>
+  <WTH_OpticSensorModule.label>optic sensor module</WTH_OpticSensorModule.label>
+  <WTH_OpticSensorModule.description>An upgrade module that aims to improve the sight of mechanoids. It drains a small amount of power. Mechanoid sensor technology is more advanced than the current state-of the art of human sensor technology. However, the sensors present on mechanoids roaming the planet generally have an age of hundreds of years. It is impressive that these sensors still function after ages of wearing, but they their quality does decay ovver time. Adding human-made sensors, despite them being inferior, can still improve the mechanoid's sight</WTH_OpticSensorModule.description>
+  <WTH_CargoModule.label>cargo module</WTH_CargoModule.label>
+  <WTH_CargoModule.description>An upgrade module that greatly boosts the carrying capacity of mechanoids. The size of the module is adjustable to the mechanoid for which it is used, yet it's still a bit bulky, imposing a small penalty to the manipulation stat of the mechanoid.</WTH_CargoModule.description>
+  <WTH_HackingRemoteControl.label>mechanoid controller belt</WTH_HackingRemoteControl.label>
+  <WTH_HackingRemoteControl.description>Learn how to control mechanoids directly with colonists using a mechanoid controller belt which can be crafted at the mechanoid workshop. Finally your non-violent colonists can participate in battle without feeling guilty. After all, it's the mechanoids doing the killing, not them, right?</WTH_HackingRemoteControl.description>
+  <WTH_RepairModule.label>Repair module</WTH_RepairModule.label>
+  <WTH_RepairModule.description>The repair module can be installed in the reactor of mechanoids. It can be loaded with mechanoid parts, and is capable of very rapidly drawing a large amount of power from the mechanoid, and redirecting it the the mech's internal mechanites. This activates the mechanites, which can repair damage consuming the parts, while slowing down the mechanoid temporarily.</WTH_RepairModule.description>
+  <WTH_RepairArm.label>Repair arm</WTH_RepairArm.label>
+  <WTH_RepairArm.description>Can be used to replace the arm of a mechanoid that has a repair module installed. This arm is capable of transferring mechanites charged by the repair module to other mechanoids, resulting in the other mechanoids being repaired. The arm is however not very suitable for combat.</WTH_RepairArm.description>
+  <WTH_SelfDestruct.label>Self destruct module</WTH_SelfDestruct.label>
+  <WTH_SelfDestruct.description>A simple upgrade, consisting of two mortar shells and a wire that short circuits when activated. A plasteel casing prevents that the explosives go off unintentionally. Let your mechs go with a bang!</WTH_SelfDestruct.description>
+  <WTH_TurretModule.label>Turret module</WTH_TurretModule.label>
+  <WTH_TurretModule.description>A module that provides both structural support and and interface for gun turrets and mortars. More research is required for installing each type of turret.</WTH_TurretModule.description>
+  <WTH_TurretModule_GunTurrets.label>Gun turret mounting</WTH_TurretModule_GunTurrets.label>
+  <WTH_TurretModule_GunTurrets.description>Learn how to mount gun turrets on the turret module. Any gun turret that can be uninstalled after building, can be installed on the turret module. This module can only be installed on large mechanoids.</WTH_TurretModule_GunTurrets.description>
+  <WTH_TurretModule_Mortars.label>Mortar mounting</WTH_TurretModule_Mortars.label>
+  <WTH_TurretModule_Mortars.description>Learn how to mount mortars on the turret module. Mortars still have to be operated manually by colonists and don't draw any power from the mechanoid. This upgrade has only a few benefits compared to using traditional mortars (quicker setup when raiding, less space needed). However, having a few mortars installed on mechanoids is a good way to impress your enemies.</WTH_TurretModule_Mortars.description>
+  <WTH_BatteryExpansionModule.label>Battery expansion module</WTH_BatteryExpansionModule.label>
+  <WTH_BatteryExpansionModule.description>A module that increases the total power a mechanoid can store, at the cost of a small movement penalty.</WTH_BatteryExpansionModule.description>
+  <WTH_OverdriveModule.label>overdrive module</WTH_OverdriveModule.label>
+  <WTH_OverdriveModule.description>Upgrade module that, when activated, overclocks the mechanoid, temporarily overdriving its power network. This results in greatly boosting the speed, firing rate, and consciousness of the mechanoid for a short period of time. The procedure draws a lot of power and pushes beyond hardware safety limits, and can therefore have unforeseen consequences.</WTH_OverdriveModule.description>
+  <WTH_VanometricModule.label>Vanometric power module</WTH_VanometricModule.label>
+  <WTH_VanometricModule.description>A module that contains a vanometric power cell to provide a mechanoid with an infinite power supply, at the cost of a small movement penalty.</WTH_VanometricModule.description>
+  <WTH_BeltModule.label>Belt interface module</WTH_BeltModule.label>
+  <WTH_BeltModule.description>A module installable on any hacked mechanoid, which acts as an interface to technically advanced belts like shield belts and smokepop belts normally worn by humanoids.</WTH_BeltModule.description>
+  <WTH_HackingAdvanced.label>AI implanting</WTH_HackingAdvanced.label>
+  <WTH_HackingAdvanced.description>Research the possibility to implant AI Persona Cores in hacked mechanoids, giving full control over them for combat purposes.</WTH_HackingAdvanced.description>
+  <WTH_InduceEmergencySignal.label>Attracting mechanoids</WTH_InduceEmergencySignal.label>
+  <WTH_InduceEmergencySignal.description>Makes it possible to let your colonists deliberately try to trigger a self-defence mechanism in a downed, non-hacked mechanoid. This mechanism then transmits an emergency signal to nearby mechanoids, attracting them. This is a reliable, but deadly way of getting some extra mechanoid parts.</WTH_InduceEmergencySignal.description>
+  <WTH_LRMSTuning.label>Hive data tracking</WTH_LRMSTuning.label>
+  <WTH_LRMSTuning.description>Allows the long range mineral scanner to scan for locations on the world with a high concentration of mechanoid parts. Of course the parts won't be just lying around. More likely they are attached to mechanoids. Live mechanoids.. 
+If you're looking for hive data, these sites with a lot of mechanoids are a good place to search.</WTH_LRMSTuning.description>
+  <WTH_RogueAI.label>Rogue AI</WTH_RogueAI.label>
+  <WTH_RogueAI.description>A potentially very powerful AI, based on mechanoid technology. By default, it has not developed a consciousness yet. To get a consciousness, it requires access to the knowledge found in mechanoid hive ships. With a consciousness it can become a powerful, but dangerous cyberweapon, with a unquenchable thirst for more data. 
+Without a consciousness, it still provides a small boost to the resource efficiency and repair speed of surrounding mechanoid platforms, as it is able to manage mechanites to cooperate in a more organised manner.</WTH_RogueAI.description>
+  <WTH_HiveshipHackingFacility.label>Hiveship hacking facility</WTH_HiveshipHackingFacility.label>
+  <WTH_HiveshipHackingFacility.description>This high-tech facility allows the rogue AI to transmit its malicious code all the way to mechanoid hive ships orbiting the planet, in an attempt to gain access to the advanced knowledge present in those ships. The Rogue AI needs this knowledge to form a consciousness. Can only be activated after a Rogue AI has been built on the same map.</WTH_HiveshipHackingFacility.description>
+  <WTH_ExtractBrainData.label>Human brain data extraction</WTH_ExtractBrainData.label>
+  <WTH_ExtractBrainData.description>Learn how to perform a gruesome surgery that is used to extracts all the data from a live human brain, and stores it using mechanoid technology. The more intelligent the owner of the brain, the more data can be extracted. This is a quick way to get data needed for the Rogue AI, but the more morally aware colonists certainly wouldn't like using it. 
+A more human-friendly alternative is to look for mechanoid infested sites on the world map using long range mineral scanner tuning.</WTH_ExtractBrainData.description>
+</LanguageData>

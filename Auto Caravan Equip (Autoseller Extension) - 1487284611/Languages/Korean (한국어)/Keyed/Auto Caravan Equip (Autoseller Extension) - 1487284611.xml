@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RWAutoSell.AEType>Current Type: {0}</RWAutoSell.AEType>
+  <RWAutoSell.AETGlob>Global</RWAutoSell.AETGlob>
+  <RWAutoSell.AETPer>Per Personnel</RWAutoSell.AETPer>
+  <RWAutoSell.MaxWeight>Max Weight</RWAutoSell.MaxWeight>
+  <RWAutoSell.Days>Days</RWAutoSell.Days>
+  <RWAutoSell.RouteDays>Use Route Days</RWAutoSell.RouteDays>
+  <RWAutoSell.ProcessLast>Process Last</RWAutoSell.ProcessLast>
+  <RWAutoSell.Caravan>Caravan</RWAutoSell.Caravan>
+  <RWAutoSell.App2Per>Apply to Personnel</RWAutoSell.App2Per>
+  <RWAutoSell.CaravanNodeDesc>Filter what items will be on this caravan</RWAutoSell.CaravanNodeDesc>
+  <RWAutoSell.App2PerNodeDesc>Filter which colonists or animals this rule will apply to, and multiply modifiers by whom is returned</RWAutoSell.App2PerNodeDesc>
+  <RWAutoSell.TabCaravanEquip>Caravan Equip</RWAutoSell.TabCaravanEquip>
+  <RWAutoSell.CaravanEquipReportTitle>Equipment Report</RWAutoSell.CaravanEquipReportTitle>
+  <RWAutoSell.AEComformFreeForm>FreeForm</RWAutoSell.AEComformFreeForm>
+  <RWAutoSell.AEComformGlobal>Set Global Items/Set Personnel</RWAutoSell.AEComformGlobal>
+  <RWAutoSell.AEComformPer>Set Specific Person Items</RWAutoSell.AEComformPer>
+  <RWAutoSell.AEComformLate>Set Late Global Items</RWAutoSell.AEComformLate>
+  <RWAutoSell.AEComform>Currently Conforms: {0}</RWAutoSell.AEComform>
+  <RWAutoSell.AENotComform>Does Not Conform: {0}</RWAutoSell.AENotComform>
+  <RWAutoSell.AEConformType>Conform To Type?</RWAutoSell.AEConformType>
+  <RWAutoSell.FilterGearWeapon>Equipped Weapon</RWAutoSell.FilterGearWeapon>
+  <RWAutoSell.FilterGearArmour>Equipped Armour</RWAutoSell.FilterGearArmour>
+  <RWAutoSell.FilterDiet>Diet</RWAutoSell.FilterDiet>
+  <RWAutoSell.FilterGearInventory>Colonist Inventory</RWAutoSell.FilterGearInventory>
+  <RWAutoSell.FGWeaponMelee>Show Melee Only</RWAutoSell.FGWeaponMelee>
+  <RWAutoSell.FGWeaponRanged>Show Ranged Only</RWAutoSell.FGWeaponRanged>
+  <RWAutoSell.FilterGrazerIs>Is Grazer</RWAutoSell.FilterGrazerIs>
+  <RWAEquip.NewPreset>New</RWAEquip.NewPreset>
+  <RWAEquip.PresetSelect>Choose Preset</RWAEquip.PresetSelect>
+  <RWAEquip.Presets>Presets Control</RWAEquip.Presets>
+  <RWAEquip.Active>Active</RWAEquip.Active>
+  <RWAEquip.InActive>Inactive</RWAEquip.InActive>
+  <RWAEquip.Select>Select</RWAEquip.Select>
+  <RWAEquip.Prefix>Prefix</RWAEquip.Prefix>
+  <RWAEquip.Contains>Contains</RWAEquip.Contains>
+  <RWAEquip.Default>Default New to Inactive</RWAEquip.Default>
+  <RWAEquip.Activate>Activate</RWAEquip.Activate>
+  <RWAEquip.TopNest>Chains: Activate from top</RWAEquip.TopNest>
+  <RWAEquip.FirstChain>Chains: Activate all from first</RWAEquip.FirstChain>
+  <RWAEquip.ActivateAll>Activate All</RWAEquip.ActivateAll>
+  <RWAEquip.SuspendAll>Suspend All</RWAEquip.SuspendAll>
+  <RWAEquip.NoChange>Use Current</RWAEquip.NoChange>
+  <RWAEquip.MapOptions>Equip Options</RWAEquip.MapOptions>
+  <RWAEquip.DoubleRouteDays>Double Route Days</RWAEquip.DoubleRouteDays>
+  <RWAEquip.ShowOnForm>Select Preset on Form Caravan</RWAEquip.ShowOnForm>
+  <RWAEquip.ApplyToPods>Apply to Pods</RWAEquip.ApplyToPods>
+  <RWAEquip.ApplyToSplit>Apply to Split</RWAEquip.ApplyToSplit>
+  <RWAEquip.ApplyToReform>Zero out and apply to Reform</RWAEquip.ApplyToReform>
+  <RWAEquip.AEMapBehaviours>Equip Behaviours</RWAEquip.AEMapBehaviours>
+  <RWAEquip.AEShoppingListBehaviours>Shopping List Behaviours</RWAEquip.AEShoppingListBehaviours>
+  <RWAEquip.WizCaravanComp>Append to the Caravan Composition</RWAEquip.WizCaravanComp>
+  <RWAEquip.WizCompRace>Composed of a type of animal.</RWAEquip.WizCompRace>
+  <RWAEquip.WizCompQuantity>Append upto this many.</RWAEquip.WizCompQuantity>
+  <RWAEquip.WizCompSelected>Composed of a specific people or animals.</RWAEquip.WizCompSelected>
+  <RWAEquip.WizItems>Load specific items into caravan</RWAEquip.WizItems>
+  <RWAEquip.WizItemPer>For each member of the caravan</RWAEquip.WizItemPer>
+  <RWAEquip.WizItemsHuman>that are humanoid</RWAEquip.WizItemsHuman>
+  <RWAEquip.WizItemsRoute>Append an amount based on the length of the route selected (Food only)</RWAEquip.WizItemsRoute>
+  <RWAEquip.WizItemsWeight>Append up to this amount of items in weight</RWAEquip.WizItemsWeight>
+  <RWAEquip.WizItemsRace>for a specific type of animal</RWAEquip.WizItemsRace>
+  <RWAEquip.WizItemsSelected>for those that I have specified</RWAEquip.WizItemsSelected>
+  <RWAEquip.WizItemCaravan>For each caravan</RWAEquip.WizItemCaravan>
+  <RWAEquip.Wizard>Wizard</RWAEquip.Wizard>
+  <RWAEquip.WizCaravanCompLab>Caravan Composition - </RWAEquip.WizCaravanCompLab>
+  <RWAEquip.WizItemsPerLab>Per Person Items - </RWAEquip.WizItemsPerLab>
+  <RWAEquip.WizItemsCaravanLab>Caravan Items - </RWAEquip.WizItemsCaravanLab>
+  <RWAEquip.WizPerLab> each {0}</RWAEquip.WizPerLab>
+  <RWAEquip.UseSharedMulti>Use Shared Multiplier</RWAEquip.UseSharedMulti>
+  <RWAEquip.RuleMulti>Multiplier ({0})</RWAEquip.RuleMulti>
+  <RWAEquip.Allx1>All x1</RWAEquip.Allx1>
+  <RWAEquip.SharedMulti>Shared Multipliers</RWAEquip.SharedMulti>
+  <RWAEquip.SetName>Name</RWAEquip.SetName>
+  <RWAEquip.AddMulti>Add Multiplier</RWAEquip.AddMulti>
+  <RWAEquip.Multi>Multiplier</RWAEquip.Multi>
+  <RWAEquip.UnNamedMulti>Unnamed Multiplier</RWAEquip.UnNamedMulti>
+</LanguageData>
