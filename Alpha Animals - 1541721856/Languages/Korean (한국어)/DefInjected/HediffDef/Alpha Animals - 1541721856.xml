@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_InvisibleArcticLion.label>stalking</AA_InvisibleArcticLion.label>
+  <AA_InvisibleArcticLion.description>This arctic lion is stalking its prey and... Hey, how are you reading this, you cheater??</AA_InvisibleArcticLion.description>
+  <AA_CrushingEverything.label>crushing everything on its path</AA_CrushingEverything.label>
+  <AA_CrushingEverything.description>If I were you, I wouldn't get in the path of a rampaging Summit Crab...</AA_CrushingEverything.description>
+  <AA_Nocturnal.label>nocturnal animal</AA_Nocturnal.label>
+  <AA_Nocturnal.description>Deprecated nocturnal animal Hediff. This shouldn't ever appear ingame.</AA_Nocturnal.description>
+  <AA_LockJawDisease.description>A painful and uncomfortable disease that inflamates the jaw, making it very hard to eat or talk. The disease will go away after it has been sucessfully treated a set number of times.</AA_LockJawDisease.description>
+  <AA_LockJawDisease.label>lockjaw disease</AA_LockJawDisease.label>
+  <AA_Paralysis.description>A fast acting toxin is coursing through this creature's veins, paralyzing his muscles. It will wear off after a while.</AA_Paralysis.description>
+  <AA_Paralysis.label>paralysis</AA_Paralysis.label>
+  <AA_Paralysis.stages.0.label>initial</AA_Paralysis.stages.0.label>
+  <AA_Paralysis.stages.1.label>stunned</AA_Paralysis.stages.1.label>
+  <AA_Paralysis.stages.2.label>very stunned</AA_Paralysis.stages.2.label>
+  <AA_Paralysis.stages.3.label>paralysed</AA_Paralysis.stages.3.label>
+  <AA_Electric.description>A dangerous electric shock. It might have damaged the heart, and the higher the intensity the hgher the possibility of a heart attack.</AA_Electric.description>
+  <AA_Electric.label>electric shock</AA_Electric.label>
+  <AA_Electric.stages.0.label>initial</AA_Electric.stages.0.label>
+  <AA_Electric.stages.1.label>shocked</AA_Electric.stages.1.label>
+  <AA_Electric.stages.2.label>very shocked</AA_Electric.stages.2.label>
+  <AA_Electric.stages.3.label>paralysed</AA_Electric.stages.3.label>
+  <AA_ToxicBuildup.description>Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.</AA_ToxicBuildup.description>
+  <AA_ToxicBuildup.label>toxic buildup</AA_ToxicBuildup.label>
+  <AA_ToxicBuildup.stages.0.label>initial</AA_ToxicBuildup.stages.0.label>
+  <AA_ToxicBuildup.stages.1.label>initial</AA_ToxicBuildup.stages.1.label>
+  <AA_ToxicBuildup.stages.2.label>minor</AA_ToxicBuildup.stages.2.label>
+  <AA_ToxicBuildup.stages.3.label>moderate</AA_ToxicBuildup.stages.3.label>
+  <AA_ToxicBuildup.stages.4.label>serious</AA_ToxicBuildup.stages.4.label>
+  <AA_ToxicBuildup.stages.5.label>extreme</AA_ToxicBuildup.stages.5.label>
+  <AA_AcidBuildup.label>acid burn</AA_AcidBuildup.label>
+  <AA_AcidBuildup.description>A splash of acid that continues to cause burn wounds for quite some time after the initial attack.</AA_AcidBuildup.description>
+  <AA_AcidBuildup.stages.0.label>minor, receiving burns</AA_AcidBuildup.stages.0.label>
+  <AA_AcidBuildup.stages.1.label>moderate, receiving burns</AA_AcidBuildup.stages.1.label>
+  <AA_AcidBuildup.stages.2.label>serious, receiving burns</AA_AcidBuildup.stages.2.label>
+  <AA_LowRest.description>This creature has very little need for sleep, and can stay awake for a long time.</AA_LowRest.description>
+  <AA_LowRest.label>needs very little sleep</AA_LowRest.label>
+  <AA_PsionicallyNuzzled.description>Blessed by an Animus Vox.</AA_PsionicallyNuzzled.description>
+  <AA_PsionicallyNuzzled.label>psionically nuzzled</AA_PsionicallyNuzzled.label>
+  <AA_GatheredResource.description>This colonist has recently gathered an animal resource.</AA_GatheredResource.description>
+  <AA_GatheredResource.label>gathered animal resource</AA_GatheredResource.label>
+  <AA_CorpseFeast.description>This Helixien slug has recently fed on human corpses. The tastiest meat.</AA_CorpseFeast.description>
+  <AA_CorpseFeast.label>feasted on human corpses</AA_CorpseFeast.label>
+  <AA_AteFinestClothes.description>This Angel Moth has recently consumed clothes of Legendary quality.</AA_AteFinestClothes.description>
+  <AA_AteFinestClothes.label>feasted on legendary clothing</AA_AteFinestClothes.label>
+  <AA_RechargingBatteries.description>This TetraSlug has recently recharged a nearby battery.</AA_RechargingBatteries.description>
+  <AA_RechargingBatteries.label>recharging batteries</AA_RechargingBatteries.label>
+  <AA_FertilizedTerrain.description>This Sand Squid has recently fertilized some sandy terrain.</AA_FertilizedTerrain.description>
+  <AA_FertilizedTerrain.label>fertilized terrain</AA_FertilizedTerrain.label>
+  <AA_SwarmlingImplantation.label>swarmling implantation</AA_SwarmlingImplantation.label>
+  <AA_SwarmlingImplantation.description>Affected by Swarmling implantation. If the disease is not properly treated, or if the creature dies when it is sufficiently advanced, Swarmling larvae will devour it from inside and hatch from its corpse.</AA_SwarmlingImplantation.description>
+  <AA_SwarmlingImplantation.stages.0.label>minor</AA_SwarmlingImplantation.stages.0.label>
+  <AA_SwarmlingImplantation.stages.1.label>major</AA_SwarmlingImplantation.stages.1.label>
+  <AA_SwarmlingImplantation.stages.2.label>extreme</AA_SwarmlingImplantation.stages.2.label>
+  <AA_SwarmlingImplantation.stages.3.label>extreme</AA_SwarmlingImplantation.stages.3.label>
+  <AA_AcidBurn.label>acid burn</AA_AcidBurn.label>
+  <AA_AcidBurn.labelNoun>an acid burn</AA_AcidBurn.labelNoun>
+  <AA_AcidBurn.description>An acid burn.</AA_AcidBurn.description>
+  <AA_AcidBurn.comps.0.labelTendedWell>bandaged</AA_AcidBurn.comps.0.labelTendedWell>
+  <AA_AcidBurn.comps.0.labelTendedWellInner>tended</AA_AcidBurn.comps.0.labelTendedWellInner>
+  <AA_AcidBurn.comps.0.labelSolidTendedWell>tended</AA_AcidBurn.comps.0.labelSolidTendedWell>
+  <AA_AcidBurn.comps.2.permanentLabel>acid burn scar</AA_AcidBurn.comps.2.permanentLabel>
+  <AA_AcidBurn.injuryProps.destroyedLabel>Corroded</AA_AcidBurn.injuryProps.destroyedLabel>
+  <AA_AcidBurn.injuryProps.destroyedOutLabel>Corroded</AA_AcidBurn.injuryProps.destroyedOutLabel>
+  <AA_Resurrection.label>rise from your grave!</AA_Resurrection.label>
+  <AA_Resurrection.description>This animal can survive up to 9 fatal wounds, coming back from the dead.</AA_Resurrection.description>
+  <AA_MimeHediff.label>hiding in plain sight</AA_MimeHediff.label>
+  <AA_MimeHediff.description>This colonist may not be a real person after all...</AA_MimeHediff.description>
+  <AA_CarryWeight1.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight1.description>
+  <AA_CarryWeight1.label>extra carry weight (awful)</AA_CarryWeight1.label>
+  <AA_CarryWeight2.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight2.description>
+  <AA_CarryWeight2.label>extra carry weight (poor)</AA_CarryWeight2.label>
+  <AA_CarryWeight3.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight3.description>
+  <AA_CarryWeight3.label>extra carry weight (normal)</AA_CarryWeight3.label>
+  <AA_CarryWeight4.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight4.description>
+  <AA_CarryWeight4.label>extra carry weight (good)</AA_CarryWeight4.label>
+  <AA_CarryWeight5.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight5.description>
+  <AA_CarryWeight5.label>extra carry weight (excellent)</AA_CarryWeight5.label>
+  <AA_CarryWeight6.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight6.description>
+  <AA_CarryWeight6.label>extra carry weight (masterwork)</AA_CarryWeight6.label>
+  <AA_CarryWeight7.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight7.description>
+  <AA_CarryWeight7.label>extra carry weight (legendary)</AA_CarryWeight7.label>
+  <AA_PermanentBurn.label>permanent burn</AA_PermanentBurn.label>
+  <AA_PermanentBurn.description>A permanent burn scar that cannot be treated.</AA_PermanentBurn.description>
+  <AA_PermanentBurn.labelNoun>a permanent burn</AA_PermanentBurn.labelNoun>
+  <AA_PermanentBurn.comps.1.permanentLabel>permanent burn</AA_PermanentBurn.comps.1.permanentLabel>
+  <AA_PermanentBurn.injuryProps.destroyedLabel>Burned off</AA_PermanentBurn.injuryProps.destroyedLabel>
+  <AA_PermanentBurn.injuryProps.destroyedOutLabel>Burned out</AA_PermanentBurn.injuryProps.destroyedOutLabel>
+  <AA_LightSustenance.description>This creature feeds on sunlight. Inadequate levels of light will kill it.</AA_LightSustenance.description>
+  <AA_LightSustenance.label>level of sunlight</AA_LightSustenance.label>
+  <AA_LightSustenance.stages.0.label>adequate light</AA_LightSustenance.stages.0.label>
+  <AA_LightSustenance.stages.1.label>poor light levels</AA_LightSustenance.stages.1.label>
+  <AA_LightSustenance.stages.2.label>very low light levels</AA_LightSustenance.stages.2.label>
+  <AA_LightSustenance.stages.3.label>lack of sunlight</AA_LightSustenance.stages.3.label>
+  <AA_LightSustenance.stages.4.label>extreme lack of sustenance</AA_LightSustenance.stages.4.label>
+  <AA_MutantLeg.description>This leg seems to be covered in a slick secretion that constantly drips from every pore. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantLeg.description>
+  <AA_MutantLeg.label>mutant leg</AA_MutantLeg.label>
+  <AA_MutantLeg.labelNoun>a mutant leg</AA_MutantLeg.labelNoun>
+  <AA_MutantArm.label>mutant arm</AA_MutantArm.label>
+  <AA_MutantArm.description>This arm twitches and bends in strange unnatural ways, as if it had a mind of its own. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantArm.description>
+  <AA_MutantArm.labelNoun>a mutant arm</AA_MutantArm.labelNoun>
+  <AA_MutantArm.comps.0.tools.0.label>fist</AA_MutantArm.comps.0.tools.0.label>
+  <AA_MutantEye.label>mutant eye</AA_MutantEye.label>
+  <AA_MutantEye.labelNoun>a mutant eye</AA_MutantEye.labelNoun>
+  <AA_MutantEye.description>This eye constantly blinks on its own, like a nervous tic, and a second set of vertical eyelids seems to be present behind the normal, human ones. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantEye.description>
+</LanguageData>

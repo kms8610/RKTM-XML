@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Incident_Aerofleets.label>colossal Aerofleet</AA_Incident_Aerofleets.label>
+  <AA_IncidentStalkingArcticLion.label>stalking arctic lion</AA_IncidentStalkingArcticLion.label>
+  <AA_IncidentBlizzariskClutchMother.label>blizzarisk clutch mother</AA_IncidentBlizzariskClutchMother.label>
+  <AA_IncidentDunealiskClutchMother.label>dunealisk clutch mother</AA_IncidentDunealiskClutchMother.label>
+  <AA_IncidentFeraliskClutchMother.label>feralisk clutch mother</AA_IncidentFeraliskClutchMother.label>
+  <AA_IncidentAnimaliskEnters.label>animalisk spotted</AA_IncidentAnimaliskEnters.label>
+  <AA_IncidentSummitCrab.label>summit crab</AA_IncidentSummitCrab.label>
+  <AA_CactipineDropPod.label>strange drop pod</AA_CactipineDropPod.label>
+  <AA_Incident_Gallatross.label>gallatross wanders</AA_Incident_Gallatross.label>
+  <AA_Incident_SkyMeteorite.label>sky meteorite</AA_Incident_SkyMeteorite.label>
+  <AA_Incident_Bumbledrones.label>bumbledrone migration</AA_Incident_Bumbledrones.label>
+  <AA_Incident_BlackHive.label>black hive attack</AA_Incident_BlackHive.label>
+  <AA_Incident_MechSappers.label>mechanoid sappers</AA_Incident_MechSappers.label>
+  <AA_MimeWandererJoin.label>wanderer join</AA_MimeWandererJoin.label>
+  <AA_MimeWandererJoin.letterLabel>Wanderer joins: {PAWN_nameDef}</AA_MimeWandererJoin.letterLabel>
+  <AA_MimeWandererJoin.letterText>A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.</AA_MimeWandererJoin.letterText>
+  <AA_ResourcePodCrash.label>alpha animal resource pod crash</AA_ResourcePodCrash.label>
+</LanguageData>

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Overgrown_DropPod.label>overgrown drop pod</AA_Overgrown_DropPod.label>
+  <AA_Overgrown_DropPod.description>This standard issue drop pod seems to have been modified to host a small self contained ecosystem. As soon as it impacted, strange creeping vines and weird creatures emerged from it. It seems to be some kind of terraforming machine.\n\nYou can destroy it to avoid release of hostile lifeforms into this region, or wait until its work is done to see what happens.</AA_Overgrown_DropPod.description>
+  <AA_BlackHiveMound.label>black hive mound</AA_BlackHiveMound.label>
+  <AA_BlackHiveMound.description>A hive of giant insects. This mound was used by the Black Hive to tunnel to this territory, and is now inert. It will erode in a few days.</AA_BlackHiveMound.description>
+  <AA_AncientAssembler.label>ancient mechanoid assembler</AA_AncientAssembler.label>
+  <AA_AncientAssembler.description>An ancient automated mechanoid factory. This machine seems to be almost derelict, but it still has a spark of energy inside.</AA_AncientAssembler.description>
+  <AA_SkySteelClumps.label>strange shiny mineral</AA_SkySteelClumps.label>
+  <AA_SkySteelClumps.description>This strange mineral is very hard and resilient. Perhaps you could find a way to extract useable materials from it.</AA_SkySteelClumps.description>
+  <AA_MutantLeg.label>mutant leg</AA_MutantLeg.label>
+  <AA_MutantLeg.description>This leg seems to be covered in a slick secretion that constantly drips from every pore. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantLeg.description>
+  <AA_MutantArm.label>mutant arm</AA_MutantArm.label>
+  <AA_MutantArm.description>This arm twitches and bends in strange unnatural ways, as if it had a mind of its own. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantArm.description>
+  <AA_MutantEye.label>mutant eye</AA_MutantEye.label>
+  <AA_MutantEye.description>This eye constantly blinks on its own, like a nervous tic, and a second set of vertical eyelids seems to be present behind the normal, human ones. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantEye.description>
+  <AA_BumbledroneQueenEggFertilized.label>bumbledrone egg (fert.)</AA_BumbledroneQueenEggFertilized.label>
+  <AA_BumbledroneQueenEggFertilized.description>Fertilized bumbledrone eggs. I... I wouldn't eat this. Yuck. If all goes well, it should hatch into a bumbledrone.</AA_BumbledroneQueenEggFertilized.description>
+  <AA_WildpodSpores.label>wildpod spore clump (fert.)</AA_WildpodSpores.label>
+  <AA_WildpodSpores.description>Fertilized wildpod spores. I... I wouldn't eat this. Yuck. If all goes well, it should hatch into a wildpod.</AA_WildpodSpores.description>
+  <AA_AgaripodSpores.label>agaripod spore clump (fert.)</AA_AgaripodSpores.label>
+  <AA_AgaripodSpores.description>Fertilized agaripod spores. I... I wouldn't eat this. Yuck. If all goes well, it should hatch into an agaripod.</AA_AgaripodSpores.description>
+  <AA_MycoidColossusSpores.label>mycoid colossus spore clump (fert.)</AA_MycoidColossusSpores.label>
+  <AA_MycoidColossusSpores.description>Fertilized mycoid colossus spores. I... I wouldn't eat this. Yuck. If all goes well, it should hatch into a mycoid colossus.</AA_MycoidColossusSpores.description>
+  <AA_WildpawnSpores.label>wildpawn spore clump (fert.)</AA_WildpawnSpores.label>
+  <AA_WildpawnSpores.description>Fertilized wildpawn spores. I... I wouldn't eat this. Yuck. If all goes well, it should hatch into a wildpawn.</AA_WildpawnSpores.description>
+  <AA_AgaripawnSpores.label>agaripawn spore clump (fert.)</AA_AgaripawnSpores.label>
+  <AA_AgaripawnSpores.description>Fertilized agaripawn spores. I... I wouldn't eat this. Yuck. If all goes well, it should hatch into an agaripawn.</AA_AgaripawnSpores.description>
+  <AA_IronhuskEggUnfertilized.label>ironhusk beetle egg (unfert.)</AA_IronhuskEggUnfertilized.label>
+  <AA_IronhuskEggUnfertilized.description>Unfertilized ironhusk beetle egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way...</AA_IronhuskEggUnfertilized.description>
+  <AA_IronhuskEggFertilized.label>ironhusk beetle egg (fert.)</AA_IronhuskEggFertilized.label>
+  <AA_IronhuskEggFertilized.description>Fertilized ironhusk beetle egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way... If all goes well, it should hatch into an ironhusk beetle.</AA_IronhuskEggFertilized.description>
+  <AA_MammothWormEggUnfertilized.label>mammoth worm egg (unfert.)</AA_MammothWormEggUnfertilized.label>
+  <AA_MammothWormEggUnfertilized.description>Unfertilized mammoth worm egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a worm egg, it is disgusting either way...</AA_MammothWormEggUnfertilized.description>
+  <AA_MammothWormEggFertilized.label>mammoth worm egg (fert.)</AA_MammothWormEggFertilized.label>
+  <AA_MammothWormEggFertilized.description>Fertilized mammoth worm egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a worm egg, it is disgusting either way... If all goes well, it should hatch into a mammoth worm.</AA_MammothWormEggFertilized.description>
+  <AA_CrepuscularBeetleEggUnfertilized.label>crepuscular beetle egg (unfert.)</AA_CrepuscularBeetleEggUnfertilized.label>
+  <AA_CrepuscularBeetleEggUnfertilized.description>Unfertilized crepuscular beetle egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way...</AA_CrepuscularBeetleEggUnfertilized.description>
+  <AA_CrepuscularBeetleEggFertilized.label>crepuscular beetle egg (fert.)</AA_CrepuscularBeetleEggFertilized.label>
+  <AA_CrepuscularBeetleEggFertilized.description>Fertilized crepuscular beetle egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way... If all goes well, it should hatch into a crepuscular beetle.</AA_CrepuscularBeetleEggFertilized.description>
+  <AA_GreatDevourerEggUnfertilized.label>great devourer egg (unfert.)</AA_GreatDevourerEggUnfertilized.label>
+  <AA_GreatDevourerEggUnfertilized.description>Unfertilized great devourer egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a worm egg, it is disgusting either way...</AA_GreatDevourerEggUnfertilized.description>
+  <AA_GreatDevourerEggFertilized.label>great devourer egg (fert.)</AA_GreatDevourerEggFertilized.label>
+  <AA_GreatDevourerEggFertilized.description>Fertilized great devourer egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a worm egg, it is disgusting either way... If all goes well, it should hatch into a great devourer.</AA_GreatDevourerEggFertilized.description>
+  <AA_MegalouseEggUnfertilized.label>megalouse egg (unfert.)</AA_MegalouseEggUnfertilized.label>
+  <AA_MegalouseEggUnfertilized.description>Unfertilized megalouse egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a louse egg, it is disgusting either way...</AA_MegalouseEggUnfertilized.description>
+  <AA_MegalouseEggFertilized.label>megalouse egg (fert.)</AA_MegalouseEggFertilized.label>
+  <AA_MegalouseEggFertilized.description>Fertilized megalouse egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a louse egg, it is disgusting either way... If all goes well, it should hatch into a megalouse.</AA_MegalouseEggFertilized.description>
+  <AA_BedBugEggUnfertilized.label>bedbug egg (unfert.)</AA_BedBugEggUnfertilized.label>
+  <AA_BedBugEggUnfertilized.description>Unfertilized bedbug egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way...</AA_BedBugEggUnfertilized.description>
+  <AA_BedBugEggFertilized.label>bedbug egg (fert.)</AA_BedBugEggFertilized.label>
+  <AA_BedBugEggFertilized.description>Fertilized bedbug egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way... If all goes well, it should hatch into a bedbug.</AA_BedBugEggFertilized.description>
+  <AA_AnimaliskEggFertilized.label>animalisk egg (fert.)</AA_AnimaliskEggFertilized.label>
+  <AA_AnimaliskEggFertilized.description>Fertilized drainer egg. If all goes well, it should hatch into an animalisk. It can be eaten raw, but it's much better cooked. Actually, it's a spider egg, it is disgusting either way...</AA_AnimaliskEggFertilized.description>
+  <AA_FeraliskEggUnfertilized.label>feralisk egg (unfert.)</AA_FeraliskEggUnfertilized.label>
+  <AA_FeraliskEggUnfertilized.description>Unfertilized feralisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way...</AA_FeraliskEggUnfertilized.description>
+  <AA_FeraliskEggFertilized.label>feralisk egg (fert.)</AA_FeraliskEggFertilized.label>
+  <AA_FeraliskEggFertilized.description>Fertilized feralisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a feralisk.</AA_FeraliskEggFertilized.description>
+  <AA_FeraliskSuperEggFertilized.label>charged feralisk egg (fert.)</AA_FeraliskSuperEggFertilized.label>
+  <AA_FeraliskSuperEggFertilized.description>Fertilized feralisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a feralisk. This egg seems to be developing at an alarmingly accelerated rate!</AA_FeraliskSuperEggFertilized.description>
+  <AA_DunealiskEggUnfertilized.label>dunealisk egg (unfert.)</AA_DunealiskEggUnfertilized.label>
+  <AA_DunealiskEggUnfertilized.description>Unfertilized dunealisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way...</AA_DunealiskEggUnfertilized.description>
+  <AA_DunealiskEggFertilized.label>dunealisk egg (fert.)</AA_DunealiskEggFertilized.label>
+  <AA_DunealiskEggFertilized.description>Fertilized dunealisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a dunealisk.</AA_DunealiskEggFertilized.description>
+  <AA_DunealiskSuperEggFertilized.label>charged dunealisk egg (fert.)</AA_DunealiskSuperEggFertilized.label>
+  <AA_DunealiskSuperEggFertilized.description>Fertilized dunealisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a dunealisk. This egg seems to be developing at an alarmingly accelerated rate!</AA_DunealiskSuperEggFertilized.description>
+  <AA_BlizzariskEggUnfertilized.label>blizzarisk egg (unfert.)</AA_BlizzariskEggUnfertilized.label>
+  <AA_BlizzariskEggUnfertilized.description>Unfertilized blizzarisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way...</AA_BlizzariskEggUnfertilized.description>
+  <AA_BlizzariskEggFertilized.label>blizzarisk egg (fert.)</AA_BlizzariskEggFertilized.label>
+  <AA_BlizzariskEggFertilized.description>Fertilized blizzarisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a blizzarisk.</AA_BlizzariskEggFertilized.description>
+  <AA_BlizzariskSuperEggFertilized.label>charged blizzarisk egg (fert.)</AA_BlizzariskSuperEggFertilized.label>
+  <AA_BlizzariskSuperEggFertilized.description>Fertilized blizzarisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a blizzarisk. This egg seems to be developing at an alarmingly accelerated rate!</AA_BlizzariskSuperEggFertilized.description>
+  <AA_JungleliskEggUnfertilized.label>junglelisk egg (unfert.)</AA_JungleliskEggUnfertilized.label>
+  <AA_JungleliskEggUnfertilized.description>Unfertilized junglelisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way...</AA_JungleliskEggUnfertilized.description>
+  <AA_JungleliskEggFertilized.label>junglelisk egg (fert.)</AA_JungleliskEggFertilized.label>
+  <AA_JungleliskEggFertilized.description>Fertilized junglelisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a junglelisk.</AA_JungleliskEggFertilized.description>
+  <AA_CinderliskEggUnfertilized.label>cinderlisk egg (unfert.)</AA_CinderliskEggUnfertilized.label>
+  <AA_CinderliskEggUnfertilized.description>Unfertilized cinderlisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way...</AA_CinderliskEggUnfertilized.description>
+  <AA_CinderliskEggFertilized.label>cinderlisk egg (fert.)</AA_CinderliskEggFertilized.label>
+  <AA_CinderliskEggFertilized.description>Fertilized cinderlisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a cinderlisk.</AA_CinderliskEggFertilized.description>
+  <AA_EggNightlingFertilized.label>nightling egg (fert.)</AA_EggNightlingFertilized.label>
+  <AA_EggNightlingFertilized.description>Fertilized nightling egg. If all goes well, it should hatch into a baby nightling. It can be eaten raw, but it's much better cooked.</AA_EggNightlingFertilized.description>
+  <AA_EggMeadowAveFertilized.label>meadow ave egg (fert.)</AA_EggMeadowAveFertilized.label>
+  <AA_EggMeadowAveFertilized.description>Fertilized meadow ave egg. If all goes well, it should hatch into a baby meadow ave. It can be eaten raw, but it's much better cooked.</AA_EggMeadowAveFertilized.description>
+  <AA_EggDesertAveFertilized.label>desert ave egg (fert.)</AA_EggDesertAveFertilized.label>
+  <AA_EggDesertAveFertilized.description>Fertilized desert ave egg. If all goes well, it should hatch into a baby desert ave. It can be eaten raw, but it's much better cooked.</AA_EggDesertAveFertilized.description>
+  <AA_EggNightAveFertilized.label>night ave egg (fert.)</AA_EggNightAveFertilized.label>
+  <AA_EggNightAveFertilized.description>Fertilized night ave egg. If all goes well, it should hatch into a baby night ave. It can be eaten raw, but it's much better cooked.</AA_EggNightAveFertilized.description>
+  <AA_EggRoyalAveFertilized.label>royal ave egg (fert.)</AA_EggRoyalAveFertilized.label>
+  <AA_EggRoyalAveFertilized.description>Fertilized royal ave egg. If all goes well, it should hatch into a baby royal ave. It can be eaten raw, but it's much better cooked.</AA_EggRoyalAveFertilized.description>
+  <AA_EggRoughPlatedMonitorFertilized.label>rough-plated monitor egg (fert.)</AA_EggRoughPlatedMonitorFertilized.label>
+  <AA_EggRoughPlatedMonitorFertilized.description>Fertilized rough-plated monitor egg. If all goes well, it should hatch into a baby rough-plated monitor. It can be eaten raw, but it's much better cooked. BE WARNED: Rough-plated Monitor eggs are violently unstable, and they explode when they hatch!</AA_EggRoughPlatedMonitorFertilized.description>
+  <AA_AtispecEggFertilized.label>atispec egg (fert.)</AA_AtispecEggFertilized.label>
+  <AA_AtispecEggFertilized.description>Fertilized atispec egg. If all goes well, it should hatch into a larval atispec. It can be eaten raw, but it's much better cooked.</AA_AtispecEggFertilized.description>
+  <AA_AngelMothEggFertilized.label>angel moth egg (fert.)</AA_AngelMothEggFertilized.label>
+  <AA_AngelMothEggFertilized.description>Fertilized angel moth egg. If all goes well, it should hatch into an angel moth larva. It can be eaten raw, but it's much better cooked.</AA_AngelMothEggFertilized.description>
+  <AA_DrainerEggFertilized.label>drainer egg (fert.)</AA_DrainerEggFertilized.label>
+  <AA_DrainerEggFertilized.description>Fertilized drainer egg. If all goes well, it should hatch into a drainer larva. It can be eaten raw, but it's much better cooked.</AA_DrainerEggFertilized.description>
+  <AA_FireWaspEggFertilized.label>fire wasp egg (fert.)</AA_FireWaspEggFertilized.label>
+  <AA_FireWaspEggFertilized.description>Fertilized fire wasp egg. If all goes well, it should hatch into a fire wasp. Fire Wasp Eggs radiate an incredible amount of heat, and they can be dangerous if left unchecked, and extremely uncomfortable to eat.</AA_FireWaspEggFertilized.description>
+  <AA_FireWaspEggUnfertilized.label>fire wasp egg (unfert.)</AA_FireWaspEggUnfertilized.label>
+  <AA_FireWaspEggUnfertilized.description>Unfertilized fire wasp egg. Fire Wasp Eggs radiate an incredible amount of heat, and they can be dangerous if left unchecked, and extremely uncomfortable to eat.</AA_FireWaspEggUnfertilized.description>
+  <AA_AerofleetMeat.label>aerofleet meat</AA_AerofleetMeat.label>
+  <AA_AerofleetMeat.description>Raw meat from an aerofleet.\n\nChewy, gelatinous and insipid. Similar in texture to a jellyfish.</AA_AerofleetMeat.description>
+  <AA_OcularJellyMeat.label>ocular jelly meat</AA_OcularJellyMeat.label>
+  <AA_OcularJellyMeat.description>Raw meat from an ocular jelly.\n\nChewy, gelatinous and insipid. Similar in texture to a jellyfish.</AA_OcularJellyMeat.description>
+  <AB_RawRedSlime.label>raw red slime</AB_RawRedSlime.label>
+  <AB_RawRedSlime.description>Raw red slime. This thing is edible. Barely.</AB_RawRedSlime.description>
+  <AA_CactusMeat.label>plant meat</AA_CactusMeat.label>
+  <AA_CactusMeat.description>This strange meat is part vegetable, part animal. Confusing, to say the least.</AA_CactusMeat.description>
+  <AA_BlackInsectJelly.label>black hive insect jelly</AA_BlackInsectJelly.label>
+  <AA_BlackInsectJelly.description>Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. This particular insect jelly is pitch black in colour and seems to be more nutritive than usual.</AA_BlackInsectJelly.description>
+  <AA_RandomStones.label>random stone</AA_RandomStones.label>
+  <AA_RandomStones.description>This should never appear ingame. If it does, it's a bug</AA_RandomStones.description>
+  <AA_RandomBricks.label>random bricks</AA_RandomBricks.label>
+  <AA_RandomBricks.description>This should never appear ingame. If it does, it's a bug</AA_RandomBricks.description>
+  <AA_CactipineQuill.label>medicinal cactipine quill</AA_CactipineQuill.label>
+  <AA_CactipineQuill.description>These quills are coated with a powerful anesthetic, and can be used as an alternative to herbal medicines. Not as powerful as industrial medicine, but useful in an emergency situation.</AA_CactipineQuill.description>
+  <AA_BlueMilk.label>blue milk</AA_BlueMilk.label>
+  <AA_BlueMilk.description>"Milk" from a frostbound behemoth. Very nutritive but the colour is more than a little unsettling.</AA_BlueMilk.description>
+  <AA_GowMilk.label>gow milk</AA_GowMilk.label>
+  <AA_GowMilk.description>Milk from a spined gow. Very nutritive but the reddish colour is a little unsettling.</AA_GowMilk.description>
+  <AA_DisgustingMealNutrientPaste.label>disgusting nutrient paste meal</AA_DisgustingMealNutrientPaste.label>
+  <AA_DisgustingMealNutrientPaste.description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. This paste is EVEN more disgusting than the paste produced by a nutrient paste dispenser, and people will just outright hate eating it. It was cheap, though!\n\nThis slurry is edible for carnivore and omnivore animals, but barely, and completely indigestible for herbivores.</AA_DisgustingMealNutrientPaste.description>
+  <AA_GallatrossHorn.label>gallatross horn</AA_GallatrossHorn.label>
+  <AA_GallatrossHorn.description>A Gallatross' horn. This rock-hard horn is very valuable, and given the dangers inherent in hunting a Gallatross, a scarce commodity.</AA_GallatrossHorn.description>
+  <AA_GallatrossHorn.tools.0.label>point</AA_GallatrossHorn.tools.0.label>
+  <AA_GallatrossHorn.tools.1.label>base</AA_GallatrossHorn.tools.1.label>
+  <GU_RedWood.label>red wood</GU_RedWood.label>
+  <GU_RedWood.description>This red tinged wood is oddly strong, and a sweet scent emanates from it. Less flammable than terrestrial wood, but quite ugly.</GU_RedWood.description>
+  <GU_RedWood.stuffProps.stuffAdjective>red wooden</GU_RedWood.stuffProps.stuffAdjective>
+  <GU_RedWood.tools.0.label>alien wood log</GU_RedWood.tools.0.label>
+  <AA_SkySteel.label>sky steel</AA_SkySteel.label>
+  <AA_SkySteel.description>A weird iron based compound found in a fallen asteroid. Stronger than normal steel, but a terrible insulator.</AA_SkySteel.description>
+  <AA_UraniumCrystals.label>unrefined uranium crystals</AA_UraniumCrystals.label>
+  <AA_UraniumCrystals.description>This crystal can be refined in a chemfuel refinery into uranium.</AA_UraniumCrystals.description>
+  <AA_AgariluxRawFungus.label>agarilux raw fungus</AA_AgariluxRawFungus.label>
+  <AA_AgariluxRawFungus.description>Raw Agarilux from a living Agaripod, they are very nice to eat, even when raw.</AA_AgariluxRawFungus.description>
+  <AA_RottingMoundItem.label>fermented rotting mound</AA_RottingMoundItem.label>
+  <AA_RottingMoundItem.description>This is a clump of rotting organic matter. It has begun fermenting and reeks of rot and alcohol.</AA_RottingMoundItem.description>
+  <AA_Leather_Aerofleet.label>aerofleet fur</AA_Leather_Aerofleet.label>
+  <AA_Leather_Aerofleet.description>A fuzzy, soft layer of pliable material. Not as tough as other types of leather, but a decent insulator.</AA_Leather_Aerofleet.description>
+  <AA_ArcticLion_Leather.label>arctic lion fur</AA_ArcticLion_Leather.label>
+  <AA_ArcticLion_Leather.description>White thick leather covered in a long, rugged mat of fur. Harvested from an arctic lion. This thick skin insulates and protects really well.</AA_ArcticLion_Leather.description>
+  <AA_SandLion_Leather.label>sand lion fur</AA_SandLion_Leather.label>
+  <AA_SandLion_Leather.description>Cream coloured thick leather covered in a long, rugged mat of fur. Harvested from a sand lion. This thick skin insulates from heat and protects really well.</AA_SandLion_Leather.description>
+  <Leather_Chitin.label>insect chitin</Leather_Chitin.label>
+  <Leather_Chitin.description>Hard overlapping scales of insectoid chitin. It is exceptionally durable in combat, but provides little protection from weather.</Leather_Chitin.description>
+  <Leather_IronChitin.label>iron chitin</Leather_IronChitin.label>
+  <Leather_IronChitin.description>Super hard overlapping scales of insectoid chitin. It seems to be reinforced with some kind of iron lattice.</Leather_IronChitin.description>
+  <Leather_RaptorPlates.label>raptor shrimp plates</Leather_RaptorPlates.label>
+  <Leather_RaptorPlates.description>Overlapping plates of hardened chitin. Really durable in combat, but provides little protection from weather.</Leather_RaptorPlates.description>
+  <Leather_Cactus.label>sentient plant skin</Leather_Cactus.label>
+  <Leather_Cactus.description>This strange material seems to be part animal hide, part living plant tissue. It traps cold water inside, acting as an incredibly good thermal insulator for hot climates.</Leather_Cactus.description>
+  <Leather_BlackChitin.label>black insect chitin</Leather_BlackChitin.label>
+  <Leather_BlackChitin.description>Hard overlapping scales of insectoid chitin. It is exceptionally durable in combat, but provides little protection from weather.</Leather_BlackChitin.description>
+  <Leather_Gallatross.label>gallatross leather</Leather_Gallatross.label>
+  <Leather_Gallatross.description>This furry hide is of exceptional quality. Probably one of the best possible leathers on the Rim.</Leather_Gallatross.description>
+  <Leather_Night.label>night leather</Leather_Night.label>
+  <Leather_Night.description>Thick leather, darker than the darkest night. This thick skin insulates and protects very well.</Leather_Night.description>
+  <AA_ChameleonYakWoolTemperate.label>chameleon yak wool, temperate</AA_ChameleonYakWoolTemperate.label>
+  <AA_ChameleonYakWoolTemperate.description>A coarse brown wool with long fibers. Quite strong and warm.</AA_ChameleonYakWoolTemperate.description>
+  <AA_ChameleonYakWoolWinter.label>chameleon yak wool, winter</AA_ChameleonYakWoolWinter.label>
+  <AA_ChameleonYakWoolWinter.description>A coarse white wool with long fibers. Quite strong and specifically adapted to extremely cold climates.</AA_ChameleonYakWoolWinter.description>
+  <AA_ChameleonYakWoolJungle.label>chameleon yak wool, jungle</AA_ChameleonYakWoolJungle.label>
+  <AA_ChameleonYakWoolJungle.description>A coarse green wool with long fibers intertwinned with a keratin like subtance. Super strong, but not very good for insulation.</AA_ChameleonYakWoolJungle.description>
+  <AA_ChameleonYakWoolDesert.label>chameleon yak wool, desert</AA_ChameleonYakWoolDesert.label>
+  <AA_ChameleonYakWoolDesert.description>A coarse tan wool with long fibers and a pseudo-crystalline lattice of organic support structures underneath. Quite strong, and very good at keeping the desert heat out.</AA_ChameleonYakWoolDesert.description>
+  <AA_CinderSilk.label>cindersilk</AA_CinderSilk.label>
+  <AA_CinderSilk.description>This silk is as strong as synthread, but it is also an excellent thermal insulator. It is completely non-flammable.</AA_CinderSilk.description>
+  <AA_MothSilk.label>moth silk</AA_MothSilk.label>
+  <AA_MothSilk.description>A very tough silk extracted from Angel moths. Very poor insulator.</AA_MothSilk.description>
+  <AA_SiegeTurret.label>siege turret</AA_SiegeTurret.label>
+  <AA_SiegeTurret.description>A huge turret that fires explosive warheads.</AA_SiegeTurret.description>
+  <AA_SiegeTurret.tools.0.label>barrel</AA_SiegeTurret.tools.0.label>
+  <AA_Bullet_Shell_Explosive.label>high-explosive shell</AA_Bullet_Shell_Explosive.label>
+  <AA_DemolisherCharges.label>demolisher charges</AA_DemolisherCharges.label>
+  <AA_DemolisherCharges.description>A huge turret that fires explosive warheads.</AA_DemolisherCharges.description>
+  <AA_Bullet_Shell_Demolisher.label>demolisher charge</AA_Bullet_Shell_Demolisher.label>
+  <AA_Flamethrower.label>flamethrower</AA_Flamethrower.label>
+  <AA_Flamethrower.description>A chemfuel flamethrower. Short range, but it will cause uncontrollable fires if you let the fireworms come near.</AA_Flamethrower.description>
+  <AA_Flamethrower.tools.0.label>barrel</AA_Flamethrower.tools.0.label>
+  <AA_FlamethrowerBullet.label>chemical fire</AA_FlamethrowerBullet.label>
+  <AA_CryogenicGun.label>cryogenic gun</AA_CryogenicGun.label>
+  <AA_CryogenicGun.description>A cryogenic gun.</AA_CryogenicGun.description>
+  <AA_CryogenicGun.tools.0.label>barrel</AA_CryogenicGun.tools.0.label>
+  <AA_CryoBullet.label>cryogenic pellet</AA_CryoBullet.label>
+  <AA_Bullet_Barb.label>barb</AA_Bullet_Barb.label>
+  <AA_PoisonBolt.label>poison spit</AA_PoisonBolt.label>
+  <AA_ToxicInk.label>toxic ink spit</AA_ToxicInk.label>
+  <AA_AcidBolt.label>acid spit</AA_AcidBolt.label>
+  <AA_RedPoisonBolt.label>red poison spit</AA_RedPoisonBolt.label>
+  <AA_Plasma.label>plasma burst</AA_Plasma.label>
+  <AA_Quill.label>quill</AA_Quill.label>
+  <AA_Bullet_VenomBarb.label>venomous barb</AA_Bullet_VenomBarb.label>
+  <AA_Bullet_Rock.label>rock</AA_Bullet_Rock.label>
+  <AA_FrostWeb.label>frost web</AA_FrostWeb.label>
+  <AA_FireWeb.label>fire web</AA_FireWeb.label>
+  <AA_AcidicWeb.label>acidic web</AA_AcidicWeb.label>
+  <AA_Web.label>web</AA_Web.label>
+  <AA_IncendiaryMote.label>fireball</AA_IncendiaryMote.label>
+  <AA_FireSpit.label>fire spit</AA_FireSpit.label>
+  <AA_Filth_BlueBlood.label>blue blood</AA_Filth_BlueBlood.label>
+  <AA_OcularGas.label>ocular gas</AA_OcularGas.label>
+  <AA_RedGas.label>red gas</AA_RedGas.label>
+  <AA_SandPuff.label>particulate sand</AA_SandPuff.label>
+  <AA_Filth_Slime.label>slime</AA_Filth_Slime.label>
+  <AA_Filth_RedSlime.label>red slime</AA_Filth_RedSlime.label>
+  <AA_SmokeInk.label>aerosolized toxic ink</AA_SmokeInk.label>
+  <AA_Heat_Ambrosia.label>heat resistant ambrosia bush</AA_Heat_Ambrosia.label>
+  <AA_Heat_Ambrosia.description>A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods.\n\nThis particular plant has been genetically modified to withstand low terrain fertility.</AA_Heat_Ambrosia.description>
+  <AA_RottingMound.label>fermented rotting mound</AA_RottingMound.label>
+  <AA_RottingMound.description>This is a clump of rotting organic matter. It has begun fermenting and reeks of rot and alcohol.</AA_RottingMound.description>
+  <AA_AlienGrass.label>alien grass</AA_AlienGrass.label>
+  <AA_AlienGrass.description>This grass is completely alien, probably not even 100% carbon based, and it seems to be decaying quickly from exposure to a terrestrial environment.</AA_AlienGrass.description>
+  <AA_RedLeaves.label>alien plant</AA_RedLeaves.label>
+  <AA_RedLeaves.description>This grass is completely alien, probably not even 100% carbon based, and it seems to be decaying quickly from exposure to a terrestrial environment.</AA_RedLeaves.description>
+  <AA_RedPlantsTall.label>alien plant</AA_RedPlantsTall.label>
+  <AA_RedPlantsTall.description>This grass is completely alien, probably not even 100% carbon based, and it seems to be decaying quickly from exposure to a terrestrial environment.</AA_RedPlantsTall.description>
+  <AA_AlienTree.label>alien tree</AA_AlienTree.label>
+  <AA_AlienTree.description>This tree is completely alien, probably not even 100% carbon based, and it seems to be decaying quickly from exposure to a terrestrial environment. Strange fruits resembling eyeballs hang from the tree, but they are probably not edible. Its wood releases a powerful, sweet scent. Perhaps it can be somehow useful?</AA_AlienTree.description>
+  <AA_AcanthamoebaGiganteaSmall.label>acanthamoeba gigantea, small</AA_AcanthamoebaGiganteaSmall.label>
+  <AA_AcanthamoebaGiganteaSmall.description>Literally the "giant spiked amoeba", this strange creature is a huge unicellular organism genetically modified to serve as a biological cleaning machine. Acanthamoebas will happily feed on most types of non-metallic trash, engorging themselves in the process.\n\nAfter a certain amount of feedings, Acanthamoebas will increase in size and, after reaching a threshold, they will split into two different individuals.</AA_AcanthamoebaGiganteaSmall.description>
+  <AA_AcanthamoebaGiganteaSmall.tools.0.label>pseudopods</AA_AcanthamoebaGiganteaSmall.tools.0.label>
+  <AA_AcanthamoebaGiganteaLarge.label>acanthamoeba gigantea, large</AA_AcanthamoebaGiganteaLarge.label>
+  <AA_AcanthamoebaGiganteaLarge.description>Literally the "giant spiked amoeba", this strange creature is a huge unicellular organism genetically modified to serve as a biological cleaning machine. Acanthamoebas will happily feed on most types of non-metallic trash, engorging themselves in the process.\n\nAfter a certain amount of feedings, Acanthamoebas will increase in size and, after reaching a threshold, they will split into two different individuals.</AA_AcanthamoebaGiganteaLarge.description>
+  <AA_AcanthamoebaGiganteaLarge.tools.0.label>pseudopods</AA_AcanthamoebaGiganteaLarge.tools.0.label>
+  <AA_AcanthamoebaGiganteaHuge.label>acanthamoeba gigantea, huge</AA_AcanthamoebaGiganteaHuge.label>
+  <AA_AcanthamoebaGiganteaHuge.description>Literally the "giant spiked amoeba", this strange creature is a huge unicellular organism genetically modified to serve as a biological cleaning machine. Acanthamoebas will happily feed on most types of non-metallic trash, engorging themselves in the process.\n\nAfter a certain amount of feedings, Acanthamoebas will increase in size and, after reaching a threshold, they will split into two different individuals.</AA_AcanthamoebaGiganteaHuge.description>
+  <AA_AcanthamoebaGiganteaHuge.tools.0.label>pseudopods</AA_AcanthamoebaGiganteaHuge.tools.0.label>
+  <AA_Aerofleet.label>aerofleet</AA_Aerofleet.label>
+  <AA_Aerofleet.description>A small, floating gelatinous creature. Propelled by the hydrogen it collects from water and various plant matter, these squishy creatures wander the lands, aimlessly bouncing off objects in their path.\n\nOne of the few rare creatures around here that strangely isn’t out for human blood. Well, isn’t that nice?\n\nAerofleets are genderless, and reproduce by strobilation, a form of asexual reproduction. As a floating creature, Aerofleets ignore terrain movement costs.</AA_Aerofleet.description>
+  <AA_Aerofleet.tools.1.label>tentacles</AA_Aerofleet.tools.1.label>
+  <AA_Aerofleet.comps.1.customString>Asexual fission in: </AA_Aerofleet.comps.1.customString>
+  <AA_ColossalAerofleet.label>colossal aerofleet</AA_ColossalAerofleet.label>
+  <AA_ColossalAerofleet.description>A huge, floating gelatinous creature. Propelled by the hydrogen it collects from water and various plant matter, these squishy creatures wander the lands, aimlessly bouncing off objects in their path.\n\nOne of the few rare creatures around here that strangely isn’t out for human blood. Well, isn’t that nice?\n\nThis Aerofleet has somehow grown to extreme size, and seems to be too old to reproduce. A small number of younger Aerofleets seem to be attracted to it and follow it everywhere.</AA_ColossalAerofleet.description>
+  <AA_ColossalAerofleet.tools.1.label>tentacles</AA_ColossalAerofleet.tools.1.label>
+  <AA_Agaripawn.label>agaripawn</AA_Agaripawn.label>
+  <AA_Agaripawn.description>The Agaripawn is a subspecies of the Wildpawn that has grown in the secluded environment of a Mycotic Jungle. It's body is covered by Agarilux mushrooms that seem to be in a state of symbiosis. Agaripawns are less resistant to gunfire than Agaripods, but retain the weakness to fire of their bigger brethren. Agaripawns reproduce asexually by releasing clumps of spores every few weeks, so their children are completely wild and independent from them, with no concept of parenthood.\n\nAlthough risky, the Agaripawn can be hunted or farmed for small amounts of edible raw agarilux, which can be eaten raw and lasts a bit more than regular fungus.</AA_Agaripawn.description>
+  <AA_Agaripawn.tools.0.label>left paw</AA_Agaripawn.tools.0.label>
+  <AA_Agaripawn.tools.1.label>right paw</AA_Agaripawn.tools.1.label>
+  <AA_Agaripawn.tools.3.label>head</AA_Agaripawn.tools.3.label>
+  <AA_Agaripawn.comps.0.customString>Dispersing spores in: </AA_Agaripawn.comps.0.customString>
+  <AA_Agaripod.label>agaripod</AA_Agaripod.label>
+  <AA_Agaripod.description>The Agaripod is a subspecies of the Wildpod that has grown in the secluded environment of a Mycotic Jungle. It's body is covered by Agarilux mushrooms that seem to be in a state of symbiosis. The Agaripod is almost impervious to gunfire, with bullets simply being absorbed into its mass without doing much damage, but very weak to fire. Interestingly, it reproduces asexually by releasing clumps of spores every few weeks, so its children are completely wild and independent from it, with no concept of parenthood.\n\nAlthough risky, the Agaripod can be hunted or farmed for decent amounts of edible raw agarilux, which can be eaten raw and lasts a bit more than regular fungus.</AA_Agaripod.description>
+  <AA_Agaripod.tools.0.label>left paw</AA_Agaripod.tools.0.label>
+  <AA_Agaripod.tools.1.label>right paw</AA_Agaripod.tools.1.label>
+  <AA_Agaripod.tools.3.label>head</AA_Agaripod.tools.3.label>
+  <AA_Agaripod.comps.0.customString>Dispersing spores in: </AA_Agaripod.comps.0.customString>
+  <AA_AngelMothLarva.label>angel moth larva</AA_AngelMothLarva.label>
+  <AA_AngelMothLarva.description>Angel moths are beautiful lepidopterans that undergo metamorphosis, similar to other more mundane moths. Angel moths are yet another example of a genetically engineered project of waste disposal being abandoned, and its subjects being released into the wild.\n\nThe larvae are quite timid and harmless, and they are content with munching on sparse vegetation. The adult form of the moth, however, is voracious, and it will mainly consume its favourite food: textiles –in particular wool, but many other natural fibres–. If no textiles are present they'll grudgingly devour grass. Although they can be used to get rid of unwanted clothing, it is hard to make them discriminate, as they are quite unruly creatures.\n\nAdult specimens produce a moth silk that can be harvested to use as a textile, though care must be taken to keep it out of other moths' reach, since they'll happily consume it too.</AA_AngelMothLarva.description>
+  <AA_AngelMothLarva.tools.0.label>head</AA_AngelMothLarva.tools.0.label>
+  <AA_AngelMoth.label>angel moth</AA_AngelMoth.label>
+  <AA_AngelMoth.description>Angel moths are beautiful lepidopterans that undergo metamorphosis, similar to other more mundane moths. Angel moths are yet another example of a genetically engineered project of waste disposal being abandoned, and its subjects being released into the wild.\n\nThe larvae are quite timid and harmless, and they are content with munching on sparse vegetation. The adult form of the moth, however, is voracious, and it will mainly consume its favourite food: textiles –in particular wool, but many other natural fibres–. If no textiles are present they'll grudgingly devour grass. Although they can be used to get rid of unwanted clothing, it is hard to make them discriminate, as they are quite unruly creatures.\n\nAdult specimens produce a moth silk that can be harvested to use as a textile, though care must be taken to keep it out of other moths' reach, since they'll happily consume it too.</AA_AngelMoth.description>
+  <AA_Animalisk.label>animalisk</AA_Animalisk.label>
+  <AA_Animalisk.description>The Animalisk is a psionically gifted variation of the Feralisk, most likely artificially mutated, adapted to living in the very rare Anima forests. Animalisks are the only herbivorous species of Lisks, so they aren't as dangerous to colonies as the rest of their kin. They are however very fond of Anima grass and Anima trees, and as such can be quite obnoxious if they are not quickly controlled.\n\nAnimalisks defend themselves by throwing spider webs at their harassers. These huge webs stun anyone they touch, allowing the Animalisk to close in and finish the kill with their fearsome venom laced fangs.</AA_Animalisk.description>
+  <AA_Animalisk.tools.0.label>left first leg</AA_Animalisk.tools.0.label>
+  <AA_Animalisk.tools.1.label>right first leg</AA_Animalisk.tools.1.label>
+  <AA_Animalisk.tools.3.label>head</AA_Animalisk.tools.3.label>
+  <AA_BlackScarab.label>black scarab</AA_BlackScarab.label>
+  <AA_BlackScarab.description>This large, genetically-engineered beetle is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. Black scarabs are little more than cannon fodder, released ahead of the main insectoid horde to draw enemy fire. A eusocial creature, it cannot reproduce individually.</AA_BlackScarab.description>
+  <AA_BlackScarab.tools.0.label>mandibles</AA_BlackScarab.tools.0.label>
+  <AA_BlackScarab.tools.1.label>head</AA_BlackScarab.tools.1.label>
+  <AA_BlackSpelopede.label>black spelopede</AA_BlackSpelopede.label>
+  <AA_BlackSpelopede.description>A medium-sized bioengineered insectoid the size of a sheep that is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.</AA_BlackSpelopede.description>
+  <AA_BlackSpelopede.tools.0.label>head claw</AA_BlackSpelopede.tools.0.label>
+  <AA_BlackSpelopede.tools.1.label>head</AA_BlackSpelopede.tools.1.label>
+  <AA_BlackSpider.label>blackspider</AA_BlackSpider.label>
+  <AA_BlackSpider.description>Not actually a spider, the  blackspider is a genetically-engineered giant insectoid the size of a bear. This creature is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters.</AA_BlackSpider.description>
+  <AA_BlackSpider.tools.0.label>head claw</AA_BlackSpider.tools.0.label>
+  <AA_BlackSpider.tools.1.label>head</AA_BlackSpider.tools.1.label>
+  <AA_AnimusVox.label>animus vox</AA_AnimusVox.label>
+  <AA_AnimusVox.description>The Animus Vox is a small canine with latent psionic abilities. Like all canines, it is quite intelligent for an animal, but not intelligent enough to properly use psionics. It will however quickly bond with human beings and reach with its mind to make happy everyone that treats it well.\n\nAnimus Voxes can often be seen on the Rim as pets, though some wander the wilderness, looking for someone to bond to.</AA_AnimusVox.description>
+  <AA_AnimusVox.tools.0.label>left claw</AA_AnimusVox.tools.0.label>
+  <AA_AnimusVox.tools.1.label>right claw</AA_AnimusVox.tools.1.label>
+  <AA_AnimusVox.tools.3.label>head</AA_AnimusVox.tools.3.label>
+  <AA_ArcticLion.label>arctic lion</AA_ArcticLion.label>
+  <AA_ArcticLion.description>These large descendants of the now almost extinct lion were specifically engineered as ambush units by the navy for extreme low temp environments. Its fur is prized throughout the black market for its unique light reflecting ability and its tough leather provides surprisingly high thermal insulation.\n\nEven though its danger and capabilities are common knowledge; many still attempt to bag its head. Those who try usually end up losing theirs.</AA_ArcticLion.description>
+  <AA_ArcticLion.tools.0.label>left claw</AA_ArcticLion.tools.0.label>
+  <AA_ArcticLion.tools.1.label>right claw</AA_ArcticLion.tools.1.label>
+  <AA_ArcticLion.tools.3.label>head</AA_ArcticLion.tools.3.label>
+  <AA_LarvalAtispec.label>larval atispec</AA_LarvalAtispec.label>
+  <AA_LarvalAtispec.description>Atispecs are strange semi-insectoid creatures that undergo a radical metamorphosis, similar to old terran butterflies. In their larval phase, atispecs are basically harmless: a medium sized grub that feeds on plants and usually ends up as some predator's meal. Tens of thousands of atispec larvae hatch every season, and less than a dozen make it to their adult form.\n\nAn adult Atispec, however, is an entirely different matter: huge, carnivorous and venomous. Adult Atispecs are flying predators with a voracious appetite, and quite intelligent. There have been attempts to domesticate the adult specimens, but is has been found that it is not quite cost-effective to grow them during their 2 year long vulnerable phase as larvae.</AA_LarvalAtispec.description>
+  <AA_LarvalAtispec.tools.0.label>head</AA_LarvalAtispec.tools.0.label>
+  <AA_Atispec.label>atispec</AA_Atispec.label>
+  <AA_Atispec.description>Atispecs are strange semi-insectoid creatures that undergo a radical metamorphosis, similar to old terran butterflies. In their larval phase, atispecs are basically harmless: a medium sized grub that feeds on plants and usually ends up as some predator's meal. Tens of thousands of atispec larvae hatch every season, and less than a dozen make it to their adult form.\n\nAn adult Atispec, however, is an entirely different matter: huge, carnivorous and venomous. Adult Atispecs are flying predators with a voracious appetite, and quite intelligent. There have been attempts to domesticate the adult specimens, but is has been found that it is not quite cost-effective to grow them during their 2 year long vulnerable phase as larvae.</AA_Atispec.description>
+  <AA_Atispec.tools.0.label>left claw</AA_Atispec.tools.0.label>
+  <AA_Atispec.tools.1.label>right claw</AA_Atispec.tools.1.label>
+  <AA_Barbslinger.label>barbslinger</AA_Barbslinger.label>
+  <AA_Barbslinger.description>A large genetically-modified scorpion. No one really knows where they came from, but judging by its ability to rip apart living things within reach and shish kebab those outside of it, it’s a monster made for war.</AA_Barbslinger.description>
+  <AA_Barbslinger.tools.0.label>left pincer</AA_Barbslinger.tools.0.label>
+  <AA_Barbslinger.tools.1.label>right pincer</AA_Barbslinger.tools.1.label>
+  <AA_Barbslinger.tools.3.label>head</AA_Barbslinger.tools.3.label>
+  <AA_BedBug.label>bedbug</AA_BedBug.label>
+  <AA_BedBug.description>These oversized alien insects are considered a pest and a nuisance in every world they manage to infest. While not particularly dangerous or powerful on their own, their bite carries a powerful toxin that paralyzes its prey, so one small bite is enough to down prey much larger than themselves. Thankfully, humans are way too large for them, unless they are somehow maddened beyond all reason... Hunters should be weary not to tackle a bedbug on their own!</AA_BedBug.description>
+  <AA_BedBug.tools.0.label>mandibles</AA_BedBug.tools.0.label>
+  <AA_BedBug.tools.1.label>head</AA_BedBug.tools.1.label>
+  <AA_Blizzarisk.label>blizzarisk</AA_Blizzarisk.label>
+  <AA_Blizzarisk.description>Someone once thought that creating supersized spiders for hyperweave-webs production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire. The Blizzarisk is a mutant variation of the Feralisk that has adapted to extremely cold climates.\n\nBlizzarisks attack by throwing spider webs at their prey. These huge webs both stun and freeze anyone they touch, allowing the Blizzarisk to close in and finish the kill with their fearsome venom laced fangs.</AA_Blizzarisk.description>
+  <AA_Blizzarisk.tools.0.label>left first leg</AA_Blizzarisk.tools.0.label>
+  <AA_Blizzarisk.tools.1.label>right first leg</AA_Blizzarisk.tools.1.label>
+  <AA_Blizzarisk.tools.3.label>head</AA_Blizzarisk.tools.3.label>
+  <AA_BlizzariskClutchMother.label>blizzarisk clutch mother</AA_BlizzariskClutchMother.label>
+  <AA_BlizzariskClutchMother.description>Someone once thought that creating supersized spiders for hyperweave-webs production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire. The Blizzarisk is a mutant variation of the Feralisk that has adapted to extremely cold climates\n\nBlizzarisks attack by throwing spider webs at their prey. These huge webs both stun and freeze anyone they touch, allowing the Blizzarisk to close in and finish the kill with their fearsome venom laced fangs.\n\nThis Blizzarisk seems to be of much larger size than usual, and is carrying a clutch of eggs on its back. This sounds like a recipe for disaster if not dealt with quickly.</AA_BlizzariskClutchMother.description>
+  <AA_BlizzariskClutchMother.tools.0.label>left first leg</AA_BlizzariskClutchMother.tools.0.label>
+  <AA_BlizzariskClutchMother.tools.1.label>right first leg</AA_BlizzariskClutchMother.tools.1.label>
+  <AA_BlizzariskClutchMother.tools.3.label>head</AA_BlizzariskClutchMother.tools.3.label>
+  <AA_BloodShrimp.label>blood shrimp</AA_BloodShrimp.label>
+  <AA_BloodShrimp.description>A smaller relative of the Raptor Shrimp, the Blood Shrimp lacks the impressive regenerative abilities of its larger counterpart. Blood Shrimp compensate this disadvantage by being faster and more agile.\n\nBlood Shrimps are vampiric, feeding on blood and being able to regenerate their wounds when drinking the blood of live animals.</AA_BloodShrimp.description>
+  <AA_BloodShrimp.tools.0.label>head</AA_BloodShrimp.tools.0.label>
+  <AA_BloodShrimp.tools.2.label>left blade</AA_BloodShrimp.tools.2.label>
+  <AA_BloodShrimp.tools.3.label>right blade</AA_BloodShrimp.tools.3.label>
+  <AA_BoulderMit.label>bouldermit</AA_BoulderMit.label>
+  <AA_BoulderMit.description>A large genetically-engineered crab which uses a boulder for a shell. It is alternatively known as the Atlas Crab throughout various colonized planets. These massive creatures sport incredible strength and are commonly seen carrying giant boulders that would normally crush living things and machinery alike. Legends tell of one such creature that has grown so large and so powerful that it had entire mountains for a home.\n\nDespite first impressions, it is quite peaceful, preferring to ignore any form of assault it may receive. Its predators are more likely to die of old age than to take down such an armored creature.</AA_BoulderMit.description>
+  <AA_BoulderMit.tools.1.label>head</AA_BoulderMit.tools.1.label>
+  <AA_SummitCrab.label>summit crab</AA_SummitCrab.label>
+  <AA_SummitCrab.description>Legends tell of a great bouldermit that had grown so large and so powerful that it had entire mountains for a home.\n\nThis one probably isn't the sole originator of such tales, but it is a fine example of a creature whose path you certainly don't want to cross.</AA_SummitCrab.description>
+  <AA_SummitCrab.tools.1.label>head</AA_SummitCrab.tools.1.label>
+  <AA_Bumbledrone.label>bumbledrone</AA_Bumbledrone.label>
+  <AA_Bumbledrone.description>The Bumbledrone is a mutant wasp-like creature, probably the result of ancient genetic engineering long ago released into the wild. On its own, a Bumbledrone isn't very powerful, more a nuisance than a threat, but if threatened in big numbers their stingers carry a very powerful toxin that could down even the biggest foe. "Luckily", since they are not carnivorous, they use this as a deterrent, rather than as a hunting method. As a floating creature, Bumbledrones ignore terrain movement costs.</AA_Bumbledrone.description>
+  <AA_Bumbledrone.tools.1.label>claws</AA_Bumbledrone.tools.1.label>
+  <AA_BumbledroneHierophant.label>bumbledrone hierophant</AA_BumbledroneHierophant.label>
+  <AA_BumbledroneHierophant.description>The Bumbledrone is a mutant wasp-like creature, probably the result of ancient genetic engineering long ago released into the wild. On its own, a Bumbledrone isn't very powerful, more a nuisance than a threat, but if threatened in big numbers their stingers carry a very powerful toxin that could down even the biggest foe. "Luckily", since they are not carnivorous, they use this as a deterrent, rather than as a hunting method. As a floating creature, Bumbledrones ignore terrain movement costs.\n\nThis bigger than average bumbledrone is called a "hierophant". Each bumbledrone colony has a few drones that develop further into powerful killing machines. Aside from their nasty venom, hierophants are armed with a pair of vicious claws that take quick care of any enemies of the colony.</AA_BumbledroneHierophant.description>
+  <AA_BumbledroneHierophant.tools.1.label>claws</AA_BumbledroneHierophant.tools.1.label>
+  <AA_BumbledroneQueen.label>bumbledrone queen</AA_BumbledroneQueen.label>
+  <AA_BumbledroneQueen.description>The Bumbledrone is a mutant wasp-like creature, probably the result of ancient genetic engineering long ago released into the wild. On its own, a Bumbledrone isn't very powerful, more a nuisance than a threat, but if threatened in big numbers their stingers carry a very powerful toxin that could down even the biggest foe. "Luckily", since they are not carnivorous, they use this as a deterrent, rather than as a hunting method.\n\nThis particular bumbledrone seems to be a "queen", so called because it seems to deposit eggs from which other bumbledrones may hatch. It tends to do this specially once it has settled into an environment it considers safe, so it might be a really useful asset to tame it.</AA_BumbledroneQueen.description>
+  <AA_BumbledroneQueen.tools.1.label>claws</AA_BumbledroneQueen.tools.1.label>
+  <AA_Cactipine.label>cactipine</AA_Cactipine.label>
+  <AA_Cactipine.description>In an effort to make deserts more viable for colonization, scientists introduced a variety of genetically modified creatures that are made to survive the melting heat and provide food to those who wished to live in such harsh conditions. One such creature is the Cactipine. Despite its name, it is actually a giant rat infused with the DNA of a cactus. It resulted in the specimen gaining sharp medical quills, hardened green skin, and a funny tasting "meat" that confused vegetarians and carnivores alike.</AA_Cactipine.description>
+  <AA_Cactipine.tools.0.label>left claw</AA_Cactipine.tools.0.label>
+  <AA_Cactipine.tools.1.label>right claw</AA_Cactipine.tools.1.label>
+  <AA_ChameleonYak.label>chameleon yak</AA_ChameleonYak.label>
+  <AA_ChameleonYak.description>The Chameleon Yak is a long-haired domesticated bovid that has evolved a fascinating survival mechanism involving camouflage, similar to the way a chameleon changes its skin colour in response to different stimuli. The Chameleon Yak takes this a step further, changing its very metabolism according to the environment it is inhabiting at the time.\n\nChameleon Yaks will change their temperature tolerance depending on their environment, and even produce different types of wool. This change occurs at the cellular level and is very fast, but doesn't harm the animal in the slightest.</AA_ChameleonYak.description>
+  <AA_ChameleonYak.tools.0.label>head</AA_ChameleonYak.tools.0.label>
+  <AA_ChameleonYak.tools.1.label>left hoof</AA_ChameleonYak.tools.1.label>
+  <AA_ChameleonYak.tools.2.label>right hoof</AA_ChameleonYak.tools.2.label>
+  <AA_ChemfuelMyrmidon.label>chemfuel myrmidon</AA_ChemfuelMyrmidon.label>
+  <AA_ChemfuelMyrmidon.description>This ant-like creature was created as a replacement for the ubiquitous boomalope. Chemfuel Myrmidons consume both meat and vegetables and ferment them into a powerful chemfuel mixture, which can be periodically extracted from the animal. Contrary to the Boomalope, Myrmidons are quite resistant to damage, specially damage caused by high temperatures. They are perfectly content living in red-hot semi liquid ground.\n\nUnfortunately, their irascible temperament didn't make them as popular as their more fragile predecessors.</AA_ChemfuelMyrmidon.description>
+  <AA_ChemfuelMyrmidon.tools.0.label>head claw</AA_ChemfuelMyrmidon.tools.0.label>
+  <AA_ChemfuelMyrmidon.tools.1.label>head</AA_ChemfuelMyrmidon.tools.1.label>
+  <AA_Cinderlisk.label>cinderlisk</AA_Cinderlisk.label>
+  <AA_Cinderlisk.description>Probably the most dangerous of the Feralisk variants, the Cinderlisk is a huge spider adapted to living close to the calderas of dormant volcanoes. Originally created to be exploited for their durable and heat-resistant silk, but once they escaped into the wild they began multiplying incontrollably.\n\nCinderlisks attack by throwing spider webs at their prey. These huge webs stun and burn anyone they touch, allowing the Cinderlisk to close in and finish the kill with their fearsome fangs. Their fangs are also burning-hot, so they tend to light things on fire.</AA_Cinderlisk.description>
+  <AA_Cinderlisk.tools.0.label>left first leg</AA_Cinderlisk.tools.0.label>
+  <AA_Cinderlisk.tools.1.label>right first leg</AA_Cinderlisk.tools.1.label>
+  <AA_Cinderlisk.tools.3.label>head</AA_Cinderlisk.tools.3.label>
+  <AA_CrepuscularBeetle.label>Crepuscular Beetle</AA_CrepuscularBeetle.label>
+  <AA_CrepuscularBeetle.description>A very large arthropod reminiscent of an oversized Hercules Beetle, the Crepuscular Beetle is a peaceful herbivore that originated from a mysterious Rimworld orbiting a very faint star, perpetually covered in darkness. This was the home planet of an elusive humanoid alien race known as the Forsakens, and Crepuscular Beetles were often used as domesticated beasts of burden.\n\nCrepuscular Beetles are active during dusk. They also don't need a lot of rest, expending much less time than other creatures to replenish their energies.</AA_CrepuscularBeetle.description>
+  <AA_CrepuscularBeetle.tools.0.label>head claw</AA_CrepuscularBeetle.tools.0.label>
+  <AA_CrepuscularBeetle.tools.1.label>head</AA_CrepuscularBeetle.tools.1.label>
+  <AA_CrystalMit.label>crystalmit</AA_CrystalMit.label>
+  <AA_CrystalMit.description>A Crystalmit is a Pebblemit that has been genetically modified to feed on minerals. Crystalmits have a partly silicon-based biology, so they can derive substenance from eating scattered rocks.\n\nCrystalmits were created as a quick way of removing rock rubble from mining operations, but wild ones may prove to be a nuisance for colonies who'd rather use rocks for something useful.</AA_CrystalMit.description>
+  <AA_CrystalMit.tools.1.label>head</AA_CrystalMit.tools.1.label>
+  <AA_DecayDrake.label>decay drake</AA_DecayDrake.label>
+  <AA_DecayDrake.description>Decay Drakes are large, winged flightless lizards that inhabit places with an abundance of vegetation. Even though the drakes are carnivorous, they release a nauseous cocktail of volatile pheromones that quickly accelerates the rotting process of plants, turning vegetation around them into mounds of fermented organic matter. They will consume these over hunting for fresh meat, and usually get incredibly drunk in the process. Interestingly, the creature has four separate livers in order to process the huge amounts of alcohol.\n\nIt is unclear whether the drakes are natural creatures or genetic experiments. They aren't easy to domesticate, but if they can be coerced to accept humans, they might be useful hunting companions, specially if provided with alcohol...\n\nHuman beings have been known to consume the rotting vegetation in desperate times, but most people would rather starve.</AA_DecayDrake.description>
+  <AA_DecayDrake.tools.0.label>left claw</AA_DecayDrake.tools.0.label>
+  <AA_DecayDrake.tools.1.label>right claw</AA_DecayDrake.tools.1.label>
+  <AA_DecayDrake.tools.2.label>razorfangs</AA_DecayDrake.tools.2.label>
+  <AA_DecayDrake.tools.3.label>head</AA_DecayDrake.tools.3.label>
+  <AA_DesertAve.label>desert ave</AA_DesertAve.label>
+  <AA_DesertAve.description>The Desert Ave is a large flightless bird adapted to living in very arid terrains. Large bony plates cover its neck, giving it a much needed defense both from predators and from the scalding heat of the desert sun. Compared to their more common Meadow Ave relatives, Desert Aves are less temperamental, but their slightly smaller size makes them less useful as pack animals.\n\nDesert Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Desert Aves move 50% faster when used as mounts).</AA_DesertAve.description>
+  <AA_DesertAve.tools.0.label>claws</AA_DesertAve.tools.0.label>
+  <AA_DesertAve.tools.2.label>head</AA_DesertAve.tools.2.label>
+  <AA_DevilSheep.label>devil sheep</AA_DevilSheep.label>
+  <AA_DevilSheep.description>A genetically engineered sheep capable of producing extremely strong and valuable red wool. Some see a simple livestock; others, a demonic entity of corruption. Don’t listen to its whispers. Like devilstrand mushrooms, these sheep take some time to grow the fabric, but they can be easily bred to increase production as needed.</AA_DevilSheep.description>
+  <AA_DevilSheep.tools.0.label>left hoof</AA_DevilSheep.tools.0.label>
+  <AA_DevilSheep.tools.1.label>right hoof</AA_DevilSheep.tools.1.label>
+  <AA_DevilSheep.tools.3.label>head</AA_DevilSheep.tools.3.label>
+  <AA_DrainerLarva.label>drainer larva</AA_DrainerLarva.label>
+  <AA_DrainerLarva.description>A mostly harmless, cat-sized lepidopteran with brightly coloured wings. Drainers were originally blue morpho butterflies that mutated due to exposure to high levels of radiation in some wretched planet of the Rim. Though they can feed on grass if there is no other food available, they are actually electrovores, feeding on any available source of electricity. Unfortunately for colonies on the Rim, this means batteries...\n\nDrainers undergo metamorphosis like most other lepidopterans, though their larval stage is pretty short, and doesn't have the energy draining abilities of the adults.</AA_DrainerLarva.description>
+  <AA_DrainerLarva.tools.0.label>head</AA_DrainerLarva.tools.0.label>
+  <AA_Drainer.label>drainer</AA_Drainer.label>
+  <AA_Drainer.description>A mostly harmless, cat-sized lepidopteran with brightly coloured wings. Drainers were originally blue morpho butterflies that mutated due to exposure to high levels of radiation in some wretched planet of the Rim. Though they can feed on grass if there is no other food available, they are actually electrovores, feeding on any available source of electricity. Unfortunately for colonies on the Rim, this means batteries...\n\nDrainers undergo metamorphosis like most other lepidopterans, though their larval stage is pretty short, and doesn't have the energy draining abilities of the adults.</AA_Drainer.description>
+  <AA_Dunealisk.label>dunealisk</AA_Dunealisk.label>
+  <AA_Dunealisk.description>Someone once thought that creating supersized spiders for synthread-web production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire. The Dunealisk is a mutant variation of the Feralisk that has adapted to extremely hot climates.\n\nDunealisks attack by throwing spider webs at their prey. These huge webs stun and burn anyone they touch, allowing the Dunealisk to close in and finish the kill with their fearsome venom laced fangs.</AA_Dunealisk.description>
+  <AA_Dunealisk.tools.0.label>left first leg</AA_Dunealisk.tools.0.label>
+  <AA_Dunealisk.tools.1.label>right first leg</AA_Dunealisk.tools.1.label>
+  <AA_Dunealisk.tools.3.label>head</AA_Dunealisk.tools.3.label>
+  <AA_DunealiskClutchMother.label>dunealisk clutch mother</AA_DunealiskClutchMother.label>
+  <AA_DunealiskClutchMother.description>Someone once thought that creating supersized spiders for synthread-web production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire. The Dunealisk is a mutant variation of the Feralisk that has adapted to extremely hot climates.\n\nDunealisks attack by throwing spider webs at their prey. These huge webs stun and burn anyone they touch, allowing the Dunealisk to close in and finish the kill with their fearsome venom laced fangs.\n\nThis Dunealisk seems to be of much larger size than usual, and is carrying a clutch of eggs on its back. This sounds like a recipe for disaster if not dealt with quickly.</AA_DunealiskClutchMother.description>
+  <AA_DunealiskClutchMother.tools.0.label>left first leg</AA_DunealiskClutchMother.tools.0.label>
+  <AA_DunealiskClutchMother.tools.1.label>right first leg</AA_DunealiskClutchMother.tools.1.label>
+  <AA_DunealiskClutchMother.tools.3.label>head</AA_DunealiskClutchMother.tools.3.label>
+  <AA_DuskRat.label>dusk rat</AA_DuskRat.label>
+  <AA_DuskRat.description>A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere.\n\nThis rat seems to be markedly different from other rats. It is a purely nocturnal animal, and it has four glowing eyes.</AA_DuskRat.description>
+  <AA_DuskRat.tools.0.label>left claw</AA_DuskRat.tools.0.label>
+  <AA_DuskRat.tools.1.label>right claw</AA_DuskRat.tools.1.label>
+  <AA_DuskRat.tools.3.label>head</AA_DuskRat.tools.3.label>
+  <AA_Feralisk.label>feralisk</AA_Feralisk.label>
+  <AA_Feralisk.description>Someone once thought that creating supersized spiders for synthread-web production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire.\n\nFeralisks attack by throwing spider webs at their prey. These huge webs stun anyone they touch, allowing the Feralisk to close in and finish the kill with their fearsome venom laced fangs.</AA_Feralisk.description>
+  <AA_Feralisk.tools.0.label>left first leg</AA_Feralisk.tools.0.label>
+  <AA_Feralisk.tools.1.label>right first leg</AA_Feralisk.tools.1.label>
+  <AA_Feralisk.tools.3.label>head</AA_Feralisk.tools.3.label>
+  <AA_FeraliskClutchMother.label>feralisk clutch mother</AA_FeraliskClutchMother.label>
+  <AA_FeraliskClutchMother.description>Someone once thought that creating supersized spiders for synthread-web production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire.\n\nFeralisks attack by throwing spider webs at their prey. These huge webs stun anyone they touch, allowing the Feralisk to close in and finish the kill with their fearsome venom laced fangs.\n\nThis Feralisk seems to be of much larger size than usual, and is carrying a clutch of eggs on its back. This sounds like a recipe for disaster if not dealt with quickly.</AA_FeraliskClutchMother.description>
+  <AA_FeraliskClutchMother.tools.0.label>left first leg</AA_FeraliskClutchMother.tools.0.label>
+  <AA_FeraliskClutchMother.tools.1.label>right first leg</AA_FeraliskClutchMother.tools.1.label>
+  <AA_FeraliskClutchMother.tools.3.label>head</AA_FeraliskClutchMother.tools.3.label>
+  <AA_FireWasp.label>fire wasp</AA_FireWasp.label>
+  <AA_FireWasp.description>Fire wasps are predatory creatures that feed on burning flesh and vegetation. The wasps themselves are not particularly dangerous for humans, though they may prey on small animals and pets. The danger comes from their eggs, whether fertilized or not: they constantly produce an intense heat, that might even cause fires in the vicinity. A single fire wasp egg unthinkingly placed in a refrigerator will be enough to spoil all the food inside.</AA_FireWasp.description>
+  <AA_FireWasp.tools.1.label>claws</AA_FireWasp.tools.1.label>
+  <AA_FissionMouse.label>fission mouse</AA_FissionMouse.label>
+  <AA_FissionMouse.description>Even though this creature is usually called a mouse, it has more traits in common with the banner-tailed kangaroo rat, such as a jumping bipedal locomotion.\n\nThe fission mouse is yet another example of human genetic engineering gone terribly wrong. Presumably, the objective was to make the mice more useful as laboratory animals by increasing their resistance and longevity. The unexpected result is a sterile creature with neither attribute, but a really strange side effect: when the animal dies, three duplicates are created, sharing all memories of its parent.\n\nRapid successive fission events are also harmful to the creature itself. If less than a few years pass between events, the mouse eventually perishes, unable to sustain its life cycle.</AA_FissionMouse.description>
+  <AA_FissionMouse.tools.0.label>left claw</AA_FissionMouse.tools.0.label>
+  <AA_FissionMouse.tools.1.label>right claw</AA_FissionMouse.tools.1.label>
+  <AA_FissionMouse.tools.3.label>head</AA_FissionMouse.tools.3.label>
+  <AA_FissionMouseSecond.label>fission mouse, second generation</AA_FissionMouseSecond.label>
+  <AA_FissionMouseSecond.description>Even though this creature is usually called a mouse, it has more traits in common with the banner-tailed kangaroo rat, such as a jumping bipedal locomotion.\n\nThe fission mouse is yet another example of human genetic engineering gone terribly wrong. Presumably, the objective was to make the mice more useful as laboratory animals by increasing their resistance and longevity. The unexpected result is a sterile creature with neither attribute, but a really unexpected side effect: when the animal dies, three duplicates are created, sharing all memories of its parent.\n\nRapid successive fission events are also harmful to the creature itself. If less than a few years pass between events, the mouse eventually perishes, unable to sustain its life cycle.\n\nThis fission mouse is of second generation, indicating the fission process has happened once recently, making it weaker.</AA_FissionMouseSecond.description>
+  <AA_FissionMouseSecond.tools.0.label>left claw</AA_FissionMouseSecond.tools.0.label>
+  <AA_FissionMouseSecond.tools.1.label>right claw</AA_FissionMouseSecond.tools.1.label>
+  <AA_FissionMouseSecond.tools.3.label>head</AA_FissionMouseSecond.tools.3.label>
+  <AA_FissionMouseThird.label>fission mouse, third generation</AA_FissionMouseThird.label>
+  <AA_FissionMouseThird.description>Even though this creature is usually called a mouse, it has more traits in common with the banner-tailed kangaroo rat, such as a jumping bipedal locomotion.\n\nThe fission mouse is yet another example of human genetic engineering gone terribly wrong. Presumably, the objective was to make the mice more useful as laboratory animals by increasing their resistance and longevity. The unexpected result is a sterile creature with neither attribute, but a really unexpected side effect: when the animal dies, three duplicates are created, sharing all memories of its parent.\n\nRapid successive fission events are also harmful to the creature itself. If less than a few years pass between events, the mouse eventually perishes, unable to sustain its life cycle.\n\nThis fission mouse is of third generation, indicating the fission process has happened twice recently, making it weaker. A third fission event will probably kill the creature for good.</AA_FissionMouseThird.description>
+  <AA_FissionMouseThird.tools.0.label>left claw</AA_FissionMouseThird.tools.0.label>
+  <AA_FissionMouseThird.tools.1.label>right claw</AA_FissionMouseThird.tools.1.label>
+  <AA_FissionMouseThird.tools.3.label>head</AA_FissionMouseThird.tools.3.label>
+  <AA_FrostAve.label>frost ave</AA_FrostAve.label>
+  <AA_FrostAve.description>The Frost Ave is a large flightless bird adapted to living in very cold terrains. A dense plumage covers all its body, keeping it warm and protected from intense winds. Compared to their more common Meadow Ave relatives, Frost Aves are ovoviviparous, a mode of reproduction in which embryos develop inside eggs that remain in the mother's body until they are ready to hatch. They are slightly larger than Meadow Aves\n\nFrost Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Frost Aves move 50% faster when used as mounts).</AA_FrostAve.description>
+  <AA_FrostAve.tools.0.label>claws</AA_FrostAve.tools.0.label>
+  <AA_FrostAve.tools.2.label>head</AA_FrostAve.tools.2.label>
+  <AA_FrostboundBehemoth.label>frostbound behemoth</AA_FrostboundBehemoth.label>
+  <AA_FrostboundBehemoth.description>This large arthropod seems to be a distant relative of the smaller Frostmite, sharing many similarities in its body plan, though none of their carrion eating habits. It is a creature adapted to extreme low temperatures, feeding on half inorganic vegetation present in the unnatural propane lakes. Its low metabolism makes it a very efficient creature, which allows it to survive in such environments.\n\nIt is generally peaceful, and produces a blueish liquid that can be used as a milk substitute, so they are considered a nice farm animal for cold climates. Also, Jedi love this milk.</AA_FrostboundBehemoth.description>
+  <AA_FrostboundBehemoth.tools.0.label>body</AA_FrostboundBehemoth.tools.0.label>
+  <AA_Frostling.label>frostling</AA_Frostling.label>
+  <AA_Frostling.description>Perhaps a distant offshoot or an evolutionary relative of the sleek Nightling, the Frostling is a predator adapted to extremely low temperatures. The Frostling is a nocturnal animal that preys on the strange creatures inhabiting the frozen wastes.</AA_Frostling.description>
+  <AA_Frostling.tools.0.label>left claw</AA_Frostling.tools.0.label>
+  <AA_Frostling.tools.1.label>right claw</AA_Frostling.tools.1.label>
+  <AA_Frostling.tools.3.label>head</AA_Frostling.tools.3.label>
+  <AA_Frostmite.label>frostmite</AA_Frostmite.label>
+  <AA_Frostmite.description>A large parasite usually found in cold places. They sweep the cold barren lands in search of corpses buried in the snow, eating the preserved flesh and leaving a ravaged skeleton in its place; devoid of their former identity.</AA_Frostmite.description>
+  <AA_Frostmite.tools.0.label>head-claw</AA_Frostmite.tools.0.label>
+  <AA_Frostmite.tools.2.label>head</AA_Frostmite.tools.2.label>
+  <AA_Gallatross.label>gallatross</AA_Gallatross.label>
+  <AA_Gallatross.description>Throughout every world,
+      Flow the tale of old,
+      A creature with untold might
+      And an immeasurable height.
+      Strength that machines can’t copy
+      Power that so-called gods call heresy.
+      Beware, beware would-be foes
+      Beware, the wrath of the Gallatross.</AA_Gallatross.description>
+  <AA_Gallatross.tools.0.label>horn</AA_Gallatross.tools.0.label>
+  <AA_Gallatross.tools.1.label>horn</AA_Gallatross.tools.1.label>
+  <AA_Gallatross.tools.3.label>head</AA_Gallatross.tools.3.label>
+  <AA_GallatrossMoribund.label>moribund gallatross</AA_GallatrossMoribund.label>
+  <AA_GallatrossMoribund.description>Gallatross are deeply intelligent creatures, and they can somehow ascertain when they are close to death. They'll then instinctively direct themselves to an arid shrubland known as the Gallatross Graveyard, and  die there alone, far from their group.\n\nOf course, the timescales involved are impressive for humans, and a Gallatross might expend as long as two decades roaming around a Graveyard.</AA_GallatrossMoribund.description>
+  <AA_GallatrossMoribund.tools.0.label>horn</AA_GallatrossMoribund.tools.0.label>
+  <AA_GallatrossMoribund.tools.1.label>horn</AA_GallatrossMoribund.tools.1.label>
+  <AA_GallatrossMoribund.tools.3.label>head</AA_GallatrossMoribund.tools.3.label>
+  <AA_Gigantelope.label>gigantelope</AA_Gigantelope.label>
+  <AA_Gigantelope.description>Gigantelopes were once designed as bigger, more powerful variants of the muffalo. An ideal pack beast that carries more weight than their body mass would usually allow. While they are mammals, Gigantelopes have pneumatized bones, meaning they have hollow spaces within them: pneumatized bones are strong, dense and sturdy without being heavy.\n\nThe gigantelope has a variable carrying capacity, set by their genome at birth, and colonies around the Rim have been breeding gigantelopes for decades to achieve the perfect specimen.</AA_Gigantelope.description>
+  <AA_Gigantelope.tools.0.label>head</AA_Gigantelope.tools.0.label>
+  <AA_Gigantelope.tools.1.label>left hoof</AA_Gigantelope.tools.1.label>
+  <AA_Gigantelope.tools.2.label>right hoof</AA_Gigantelope.tools.2.label>
+  <AA_GreatDevourer.label>great devourer</AA_GreatDevourer.label>
+  <AA_GreatDevourer.description>Great Devourers are armoured worms known for their unquenchable appetite. Once a Great Devourer arrives, it will proceed to gorge itself on small prey, and total ecosystem collapse is almost a certainty.\n\nLuckily, they won't attack large creatures, including humans, unless provoked. Their whole name is in fact a pun, since they are not very resilient and are easily dispatched. They have however slow regenerative capabilities.</AA_GreatDevourer.description>
+  <AA_GreatDevourer.tools.1.label>head</AA_GreatDevourer.tools.1.label>
+  <AA_GreenGoo.label>green goo</AA_GreenGoo.label>
+  <AA_GreenGoo.description>These amorphous, ambulatory masses of gelatinous fluid seem to be a mockery of life. Although they look like individuals, in reality they are part of a greater gelatinous superorganism, with only one objective: grow and expand.\n\nThey have been nicknamed green goo due to their ability to reproduce constantly, requiring very little substenance, and quickly filling all available ecological niches. In the field of eschatology, a grey goo is an end-of-the-world scenario involving molecular nanotechnology in which out-of-control self-replicating robots consume all biomass while building more of themselves. A green goo scenario, however, involves biological self-replicating entities. NOTE: due to gameplay constraints, green goo will only self-replicate until the map holds 40 creatures, cause I don't want to fry your computers.</AA_GreenGoo.description>
+  <AA_GreenGoo.tools.0.label>tentacles</AA_GreenGoo.tools.0.label>
+  <AA_GreenGoo.comps.0.customString>Cloning in: </AA_GreenGoo.comps.0.customString>
+  <AA_Groundrunner.label>groundrunner</AA_Groundrunner.label>
+  <AA_Groundrunner.description>A strange chimera between a bear and mole, Groundrunners originally came from Cave Worlds. They were used as walking heavy tools by the locals when they hit parts that plasteel can’t break, and for hauling large boulders that their owners can’t lift.\n\nDue to their domesticated origins, they are surprisingly docile and easy to tame. Their incredible strength and sharp claws allows them to break rocks with relative ease. But out here in the Rim, those claws are usually reserved for ripping power armors apart along with their wearers.\n\nGroundrunners will happily help your colonists mine rocks and minerals. They are however quite lazy and get distracted easily (this interaction requires the Groundrunner to be trained in Haul).</AA_Groundrunner.description>
+  <AA_Groundrunner.tools.0.label>left claw</AA_Groundrunner.tools.0.label>
+  <AA_Groundrunner.tools.1.label>right claw</AA_Groundrunner.tools.1.label>
+  <AA_Groundrunner.tools.3.label>head</AA_Groundrunner.tools.3.label>
+  <AA_Helixien.label>helixien</AA_Helixien.label>
+  <AA_Helixien.description>The Helixien Slug is a genetically modified strain of the Leopard Slug, intended as a fast corpse disposal aid. Aside from the obvious size alteration, the Helixien constantly secretes a foul-smelling, corrosive gas that produces an uncomfortable, itchy sensation in living beings. This gas is mostly harmless, unless it comes into contact with decaying organic matter: it greatly accelerates corpse rotting, liberating a black putrid liquid known as "purge fluid" or corpse bile. The helixien happily feeds on this liquid sludge, although it can also feed on other organic matter if needed.\n\nThe sight of a Helixien Slug is quite revolting, and watching one wallowing in a pile of human corpses is, to say the least, a deeply traumatizing experience.</AA_Helixien.description>
+  <AA_Helixien.tools.0.label>body</AA_Helixien.tools.0.label>
+  <AA_InfectedAerofleet.label>infected aerofleet</AA_InfectedAerofleet.label>
+  <AA_InfectedAerofleet.description>A small, floating gelatinous creature. Propelled by the hydrogen it collects from water and various plant matter, these squishy creatures wander the lands, aimlessly bouncing off objects in their path.\n\nThis Aerofleet seems to have been affected by prolonged exposure to the gases emanating from an ocular forest, and red pustules and blisters are appearing in its exterior membrane. Its hydrogen seems to be in the process of being turned into an acidic gas of unknown origins.\n\nAerofleets are genderless, and reproduce by strobilation, a form of asexual reproduction. As a floating creature, Aerofleets ignore terrain movement costs.</AA_InfectedAerofleet.description>
+  <AA_InfectedAerofleet.tools.1.label>tentacles</AA_InfectedAerofleet.tools.1.label>
+  <AA_InfectedAerofleet.comps.0.customString>Asexual fission in: </AA_InfectedAerofleet.comps.0.customString>
+  <AA_IronhuskBeetle.label>ironhusk beetle</AA_IronhuskBeetle.label>
+  <AA_IronhuskBeetle.description>Ironhusk beetles were genetically engineered by one of the myriad mining companies operating on the Rim. It's a peaceful farm animal that occasionally sheds metallic husks that can be used as steel, thus negating the need for heavy machinery in mining operations. As a downside, the beetle consumes a huge amount of wood from live trees.\n\nSadly, the mining company that created the Ironhusk beetles didn't account for this, and several planets on the Rim are now a barren ecological disaster.</AA_IronhuskBeetle.description>
+  <AA_IronhuskBeetle.tools.1.label>head</AA_IronhuskBeetle.tools.1.label>
+  <AA_Junglelisk.label>junglelisk</AA_Junglelisk.label>
+  <AA_Junglelisk.description>The Junglelisk is a mutant variation of the Feralisk, adapted to living in the deepest, darkest jungles of the Rim. Some even say that the Junglelisk is the original breed of spider from which all the others originate. They certainly reproduce fast enough for this to be the case, and female junglelisks can be fertilized once and store the genetic material to lay eggs for quite a long time.\n\nJunglelisks attack by throwing spider webs at their prey. These huge webs stun and cover with acid anyone they touch, allowing the Junglelisk to close in and finish the kill with their fearsome venom laced fangs.</AA_Junglelisk.description>
+  <AA_Junglelisk.tools.0.label>left first leg</AA_Junglelisk.tools.0.label>
+  <AA_Junglelisk.tools.1.label>right first leg</AA_Junglelisk.tools.1.label>
+  <AA_Junglelisk.tools.3.label>head</AA_Junglelisk.tools.3.label>
+  <AA_Lockjaw.label>lockjaw</AA_Lockjaw.label>
+  <AA_Lockjaw.description>A very large animal native to this planet’s tropical regions. Nicknamed Lockjaws both for their incredibly strong bite force and for the disease they transmit, which afflicts its victims with a moderate facial paralysis that makes eating extremely uncomfortable.\n\nDespite having a guillotine for a mouth, the Lockjaw does not seem to be an overly aggressive creature; Preferring to prey on the local wildlife rather than the local populace.</AA_Lockjaw.description>
+  <AA_Lockjaw.tools.1.label>head</AA_Lockjaw.tools.1.label>
+  <AA_MammothWorm.label>Mammoth Worm</AA_MammothWorm.label>
+  <AA_MammothWorm.description>An extremely large, genetically-engineered worm. Despite its incredibly intimidating size and arsenal, these huge creatures are rather quite peaceful. It was once part of the worker caste of an artificial ecosystem of insectoids designed to fight mechanoid invasions. It carried and moved things that its little cousins cannot.\n\nWhile generally peaceful, if provoked, it becomes a terrifying force that can rival those of mechanoid Centipedes.\n\nOriginally, the Mammoth Worm was specifically bred as a living siege engine to destroy mechanoid structures, and as such it can be extremely effective.\n\nMammoth Worms are also pretty good mounts, they will move slightly faster when mounted, and shrug off incoming projectiles (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Mammoth Worm move 25% faster when used as mounts and increase their armor by 50%).</AA_MammothWorm.description>
+  <AA_MammothWorm.tools.0.label>body</AA_MammothWorm.tools.0.label>
+  <AA_Mantrap.label>mantrap</AA_Mantrap.label>
+  <AA_Mantrap.description>Project Apricus was a classified scientific endeavour on one of the RimWorlds aiming to discover new ways to fight the Mechanoid menace using nature. The mantrap was created as an attempt to weaponize a mutated Dionaea muscipula (Venus flytrap) by implanting concentrated formic acid spit launchers on its jaws. This strong acid was theorically powerful enough to corrode the plasteel on Mechanoid carapaces.\n\nProject Apricus was invaded by a huge Mechanoid host shortly thereafter, most of its personnel slain, and most of the projects left to fend for themselves.</AA_Mantrap.description>
+  <AA_Mantrap.tools.0.label>razor barbs</AA_Mantrap.tools.0.label>
+  <AA_Mantrap.tools.2.label>head</AA_Mantrap.tools.2.label>
+  <AA_MeadowAve.label>meadow ave</AA_MeadowAve.label>
+  <AA_MeadowAve.description>A large flightless bird with colorful feathers. Mostly found in the plains eating fruits and berries, Meadow Aves naturally attract the eyes and hands of those who wander by. Many forget that underneath the majestic feathery coat is a wild animal with a razor sharp beak and claws to match.\n\nMeadow Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Meadow Aves move 50% faster when used as mounts).</AA_MeadowAve.description>
+  <AA_MeadowAve.tools.0.label>claws</AA_MeadowAve.tools.0.label>
+  <AA_MeadowAve.tools.2.label>head</AA_MeadowAve.tools.2.label>
+  <AA_MegaLouse.label>megalouse</AA_MegaLouse.label>
+  <AA_MegaLouse.description>A large genetically engineered pillbug. These creatures once served as the frontline skirmishers of an insectoid hive; A collection of genetically modified insects made as a weapon against Mechanoid invasions. Their job consisted of reducing lone Mechanoid infantry to swiss cheese; And they were good at it. Even the mighty Centipede was no match against the swarm of spikes.\n\nNowadays, they can be found roaming in packs that are a joke compared to their former numbers and with killer instincts that yearn to be reawakened once more.</AA_MegaLouse.description>
+  <AA_MegaLouse.tools.0.label>tusk</AA_MegaLouse.tools.0.label>
+  <AA_MegaLouse.tools.1.label>head</AA_MegaLouse.tools.1.label>
+  <AA_Metallovore.label>metallovore</AA_Metallovore.label>
+  <AA_Metallovore.description>Metallovores are repulsive creatures genetically modified to fill a very specific niche: eating metals. The writhing tentacles in the animal's mouth secrete an organic substance that is capable of quickly rusting and disolving most common metals, turning them into small flakes that serve as sustenance for the metallovore. They prefer small chunks of metal, since they can be more easily digested, but they will resort to digging into rocks in search of new metal if they can find none available.\n\nPresumably, they were created to get rid of scrap metal, but they are mostly found wild now.</AA_Metallovore.description>
+  <AA_Metallovore.tools.0.label>tentacle</AA_Metallovore.tools.0.label>
+  <AA_Metallovore.tools.1.label>body</AA_Metallovore.tools.1.label>
+  <AA_Mime.label>mime</AA_Mime.label>
+  <AA_Mime.description>Whereas most of the "alien" animals of the Rim are heavily genetically modified versions of Earth animals, the Mime is an absolute violation of all ethical principles: a ravenous, animalistic being created by genetically modifying humans.\n\nMimes are psionically gifted parasites, using their mental powers to disguise themselves as normal humans, infiltrating a human community and living among its members for weeks, months or even years. Their voracious appetites, however, cause them to constantly consume the easily available food provided by a stable colony. Only when food runs out will they resort to directly attacking their unwitting hosts.</AA_Mime.description>
+  <AA_Mime.tools.0.label>left fist</AA_Mime.tools.0.label>
+  <AA_Mime.tools.1.label>right fist</AA_Mime.tools.1.label>
+  <AA_Mime.tools.2.label>teeth</AA_Mime.tools.2.label>
+  <AA_Mime.tools.3.label>head</AA_Mime.tools.3.label>
+  <AA_MycoidColossus.label>mycoid colossus</AA_MycoidColossus.label>
+  <AA_MycoidColossus.description>The Mycoid Colossus is a variant of the Overgrown colossus native to a mycotic jungle.\n\nIt seems to be reptilian in nature, with cold blood, a slow metabolism, and a very weird body plan: it has six legs, two intertwined spines and six eyes. It has a symbiotic relationship with fungi, with several mutant Agarilux mushrooms growing on its back. These fungi trap insects and seem to provide substenance in a symbiotic relationship with the colossus. Weirdly enough, this colossus reproduces by sporulation, instead of being a viviparous creature, so its children are completely wild and independent from it, with no concept of parenthood.\n\nWhen tamed, the Mycoid Colossus can be periodically "trimmed" to obtain raw agarilux mushrooms.</AA_MycoidColossus.description>
+  <AA_MycoidColossus.tools.1.label>head</AA_MycoidColossus.tools.1.label>
+  <AA_MycoidColossus.comps.0.customString>Dispersing spores in: </AA_MycoidColossus.comps.0.customString>
+  <AA_Needlepost.label>needlepost</AA_Needlepost.label>
+  <AA_Needlepost.description>A cactus genetically modified to give it sentience. The first iteration of this creature was supposed to be a stationary tactical deterrent (the Whip Cactus), but having no intelligence or mobility crippled its effectiveness. With a little genetic engineering, it was given a mobile body, an infantile intelligence, and toxic barbs for good measure. The result backfired as commands proved ineffective. The facility was promptly overrun by the experiments; and a horde of angry cactuses escaped into the wilderness.\n\nNeedleposts can derive nutrition from very small amounts of rotting vegetables, but they need a huge amount of sunlight (or equivalent) over anything else. Nights won't affect them, but a solar eclipse is usually fatal to them.</AA_Needlepost.description>
+  <AA_Needlepost.tools.0.label>stings</AA_Needlepost.tools.0.label>
+  <AA_Needlepost.tools.2.label>head</AA_Needlepost.tools.2.label>
+  <AA_Needleroll.label>needleroll</AA_Needleroll.label>
+  <AA_Needleroll.description>Needlerolls are needleposts that have evolved to grow in the most arid and dry environments in the Rim.\n\nNeedleposts need almost no substenance, absorbing all the energy they need from sunlight and minute amounts of water that they extract from morning dew. Like needleposts, they need a huge amount of sunlight (or equivalent). Nights won't affect them, but a solar eclipse could be fatal to them.</AA_Needleroll.description>
+  <AA_Needleroll.tools.0.label>stings</AA_Needleroll.tools.0.label>
+  <AA_Needleroll.tools.2.label>head</AA_Needleroll.tools.2.label>
+  <AA_NightMule.label>nightmule</AA_NightMule.label>
+  <AA_NightMule.description>The Nightmule is a hardy pack beast, used for transporting loads or doing other heavy work. Nightmules originate from a RimWorld orbiting a very faint star -the native planet of an elusive alien spacies know as Forsakens- so they have adapted to environments with low sunlight. They were domesticated by the Forsakens millenia ago, and can be found roaming around some other planets in the Rim.\n\nNightmules are stronger than muffalos, though they produce a very low amount of milk, and no wool. Similar to the Nightling, another creature from the Forsakens' planet, their back is crowned by dangerous quills, though the Nightmule lacks the capacity to throw them as defensive weapons.</AA_NightMule.description>
+  <AA_NightMule.tools.0.label>horns</AA_NightMule.tools.0.label>
+  <AA_NightMule.tools.1.label>head</AA_NightMule.tools.1.label>
+  <AA_NightMule.tools.2.label>left hoof</AA_NightMule.tools.2.label>
+  <AA_NightMule.tools.3.label>right hoof</AA_NightMule.tools.3.label>
+  <AA_NightAve.label>night ave</AA_NightAve.label>
+  <AA_NightAve.description>A large flightless bird, black as night. It seems to share part of its phenotype with the Nightling, hinting that they both originate from the same planet: a RimWorld orbiting a very faint star -the native planet of an elusive alien species know as Forsakens-. Night Aves have adapted to environments with very low sunlight, and they are purely nocturnal animals.\n\nNight Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Night Aves move 50% faster when used as mounts).</AA_NightAve.description>
+  <AA_NightAve.tools.0.label>claws</AA_NightAve.tools.0.label>
+  <AA_NightAve.tools.2.label>head</AA_NightAve.tools.2.label>
+  <AA_Nightling.label>nightling</AA_Nightling.label>
+  <AA_Nightling.description>A sleek predatory beast with rows of quills on its back. The Nightling is a purely nocturnal hunter, hence its name, and isn't at all shy to prey on much larger animals, or people, than itself. Apart from its strong jaws, nightlings can throw the quills on their backs to overpower their prey.</AA_Nightling.description>
+  <AA_Nightling.tools.0.label>left claw</AA_Nightling.tools.0.label>
+  <AA_Nightling.tools.1.label>right claw</AA_Nightling.tools.1.label>
+  <AA_Nightling.tools.3.label>head</AA_Nightling.tools.3.label>
+  <AA_NightRam.label>nightram</AA_NightRam.label>
+  <AA_NightRam.description>The Nightram is a stubborn herbivore that shares much of its genome with the predatory Nightling, hinting at a common ancestor. They both originate from a RimWorld orbiting a very faint star -the native planet of an elusive alien species know as Forsakens- so they have adapted to environments with low sunlight. When found on other worlds, the Nightram are exclusively nocturnal, instinctively avoiding natural sunlight.\n\nNightrams are peaceful unless disturbed or threatened.</AA_NightRam.description>
+  <AA_NightRam.tools.0.label>horn</AA_NightRam.tools.0.label>
+  <AA_NightRam.tools.1.label>left hoof</AA_NightRam.tools.1.label>
+  <AA_NightRam.tools.2.label>right hoof</AA_NightRam.tools.2.label>
+  <AA_NightRam.tools.4.label>head</AA_NightRam.tools.4.label>
+  <AA_OcularJelly.label>ocular jelly</AA_OcularJelly.label>
+  <AA_OcularJelly.description>The Rim is filled with creatures that might be the product of either alien ecologies, or, more often, of ancient human genetic engineering gone awry. The ocular jelly, however, is so fundamentally weird that some scientists have speculated about a possible extra-dimensional origin. Or perhaps it is just some cruel, if elaborate, practical joke.\n\nIt seems to have some biological similarities with the Aerofleet, being filled with a buoyant gas, but its effects on terrestrial ecosystems are incredibly unusual: the creature releases clouds of a reddish gas that is harmless to animals. However, when flora is exposed to it, it mutates and turns into strange specimens that share 98% of its genome with the jelly. This flora is almost inedible, and its relationship with the ocular jelly remains as of yet unexplained. As a floating creature, Ocular Jellies ignore terrain movement costs.</AA_OcularJelly.description>
+  <AA_OcularJelly.tools.1.label>tentacles</AA_OcularJelly.tools.1.label>
+  <AA_OcularJelly.comps.0.customString>Asexual fission in: </AA_OcularJelly.comps.0.customString>
+  <AA_OvergrownColossus.label>overgrown colossus</AA_OvergrownColossus.label>
+  <AA_OvergrownColossus.description>The Overgrown Colossus is a very strange beast. This gargantuan beast is one of the few creatures in the Rim that wasn't directly or indirectly created by man's scientific curiosity, arising naturally in some remote swamp-filled planet.\n\nIt seems to be reptilian in nature, with cold blood, a slow metabolism, and a very weird body plan: it has six legs, two intertwined spines and six eyes. It has a symbiotic relationship with vegetation, with several small trees growing on its back. These trees do photosynthesis and help provide nutrients for the Colossus.\n\nWhen tamed, the Overgrown Colossus can be periodically "trimmed" to obtain wood.</AA_OvergrownColossus.description>
+  <AA_OvergrownColossus.tools.1.label>head</AA_OvergrownColossus.tools.1.label>
+  <AA_PebbleMit.label>pebblemit</AA_PebbleMit.label>
+  <AA_PebbleMit.description>Pebblemits are bouldermits that have evolved in Rimworlds rich in narrow, labyrinthine caves, where massive size is more a hindrance than an advantage.\n\nInstead of huge boulders, pebblemits use much smaller rocks as protection, slowly dragging them along the ground. Small blocks of stone periodically get loose from this rock, and they can be used as building materials.</AA_PebbleMit.description>
+  <AA_PebbleMit.tools.1.label>head</AA_PebbleMit.tools.1.label>
+  <AA_PhoenixOwlcat.label>phoenix owlcat</AA_PhoenixOwlcat.label>
+  <AA_PhoenixOwlcat.description>A genetically modified feline with avian characteristics, the Phoenix Owlcat was created as a durable alternative to fragile baseline cats. A loyal companion that isn't so easily hunted and slaughtered by the hostile lifeforms present on the planets of the Rim.\n\nThe ancient popular folklore of cats having nine lives was used as a pattern to create the Phoenix Owlcat: a swarm of powerful mechanites in its bloodstream is capable of saving it from up to 9 lethal wounds before being lost to decoherence.</AA_PhoenixOwlcat.description>
+  <AA_PhoenixOwlcat.tools.0.label>left claw</AA_PhoenixOwlcat.tools.0.label>
+  <AA_PhoenixOwlcat.tools.1.label>right claw</AA_PhoenixOwlcat.tools.1.label>
+  <AA_PhoenixOwlcat.tools.3.label>head</AA_PhoenixOwlcat.tools.3.label>
+  <AA_Plasmorph.label>plasmorph</AA_Plasmorph.label>
+  <AA_Plasmorph.description>This bizarre, mutant snail has a very strange way of defending itself against predators. Inside its armoured shell made of iron sulfide, specialized organs along the Plasmorph's body generate an electric discharge similar to those found in electric eels. This discharge is very low voltage, not powerful enough to damage most creatures. However, the Plasmorph uses it as a spark to ignite its own flammable spit, and lob it at its prey.\n\nSuch a strange mechanism is surely not natural, but what was its intended purpose is a mystery lost to the ages.</AA_Plasmorph.description>
+  <AA_Plasmorph.tools.0.label>eyestalk</AA_Plasmorph.tools.0.label>
+  <AA_Radyak.label>radyak</AA_Radyak.label>
+  <AA_Radyak.description>The radyak is a peaceful herbivore bred to thrive in high radiation environments. Its ruminant digestive tract is composed of six bionic stomachs, reinforced with a lead-lined biolattice designed to extract residual radioactive material from grass cells. This radioactive material is then deposited in crystal-like formations that pierce the hard skin of the creature. This crystals can be harvested periodically, and refined into uranium in a standard chemfuel refinery.\n\nThe technology behind creating such carefully engineered creatures is completely out of reach of most Rim societies, so a radyak is a valued acquisition indeed.</AA_Radyak.description>
+  <AA_Radyak.tools.0.label>head</AA_Radyak.tools.0.label>
+  <AA_Radyak.tools.1.label>left hoof</AA_Radyak.tools.1.label>
+  <AA_Radyak.tools.2.label>right hoof</AA_Radyak.tools.2.label>
+  <AA_RaptorShrimp.label>raptor shrimp</AA_RaptorShrimp.label>
+  <AA_RaptorShrimp.description>A large genetically modified creature, its origins unknown. They are known to make homes in tropical regions, instilling fear among the local inhabitants as those who pass through its territory are often reported to go missing; their bodies never found.\n\nThe few that survived an encounter with these monsters report bullets being shrugged off, limbs of their companions being torn apart, and the statement "The grass has eyes".\n\nRaptor shrimps have impressive regenerative capabilities, and shouldn't be considered dead until they absolutely, unmistakably, are.</AA_RaptorShrimp.description>
+  <AA_RaptorShrimp.tools.0.label>head</AA_RaptorShrimp.tools.0.label>
+  <AA_RaptorShrimp.tools.2.label>left blade</AA_RaptorShrimp.tools.2.label>
+  <AA_RaptorShrimp.tools.3.label>right blade</AA_RaptorShrimp.tools.3.label>
+  <AA_Ravager.label>ravager</AA_Ravager.label>
+  <AA_Ravager.description>This large, genetically-engineered insectoid was part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Ravager was conceived as a space-bound bioweapon. Drop pods filled to the brim with Ravagers would be launched towards unsuspecting mechanoid ships, and the fearsome insectoids would rip through the ship's plating and lay waste to any mechanoid inside. Ravagers proved to be too unreliable, though, and the geneline was scrapped.\n\nSeveral Ravagers can be seen today in derelict space ships, stations and asteroids. Luckily, they are adapted to life in space, so they don't mix with other insectoids in the Black Hive.</AA_Ravager.description>
+  <AA_Ravager.tools.0.label>triple maw</AA_Ravager.tools.0.label>
+  <AA_Ravager.tools.1.label>head</AA_Ravager.tools.1.label>
+  <AA_RayHound.label>ray-hound</AA_RayHound.label>
+  <AA_RayHound.description>Ray-hounds (&lt;i>Salvator Electricus&lt;/i>), also called Reptile Hounds, are a genetically engineered species based on the Argentine black and white tegu, with several traits from the common electric eel. The pair of fleshy tentacles extending from a ray-hound's skull are electrogenic, and are used by the animal as a defense mechanism against predators. In practice, Ray-hounds were created as an easily trainable biological defense against mechanoids, since an electrical discharge from a ray-hound's tentacles can easily disable electronic circuits.\n\nRay-hounds make amenable pets, as they tend to become acclimated to their owners and are generally quite docile as adults.</AA_RayHound.description>
+  <AA_RayHound.tools.0.label>left tentacle</AA_RayHound.tools.0.label>
+  <AA_RayHound.tools.1.label>right tentacle</AA_RayHound.tools.1.label>
+  <AA_RayHound.tools.3.label>head</AA_RayHound.tools.3.label>
+  <AA_Razorjack.label>razorjack</AA_Razorjack.label>
+  <AA_Razorjack.description>The Razorjack is a very aggressive and adaptable creature with a strange body plan: a dual-jawed mouth that leads to two separate but intertwined digestive systems, each of them adapted to consume different types of food. This arrangement makes them extremely energy-efficient, and require very little food. Although it might seem canine at first, its genome has more in common with rodents, with some alien genetic splicing thrown into the mix. Wounds caused by Razorjacks tend to get infected very easily.\n\nRazorjacks can live in the most desolate conditions, since their need for food is very low. The most ferocious Razorjacks are specially trained, bred and further mutated into fearsome warbeasts, known as Razortooth, used by Feral warlords as terrifying warhounds. (Original concept for the Razortooth by Rooki12k, in the Rimsenal: Feral mod)</AA_Razorjack.description>
+  <AA_Razorjack.tools.0.label>left claw</AA_Razorjack.tools.0.label>
+  <AA_Razorjack.tools.1.label>right claw</AA_Razorjack.tools.1.label>
+  <AA_Razorjack.tools.2.label>razorfangs</AA_Razorjack.tools.2.label>
+  <AA_Razorjack.tools.3.label>head</AA_Razorjack.tools.3.label>
+  <AA_RedGoo.label>red goo</AA_RedGoo.label>
+  <AA_RedGoo.description>This blob of bubbling organic matter seems to be an extension of the terrain itself, a disfigured excrescence given a semblance of life.\n\nThe red goo seem to thrive in the strangely alien environment of the ocular forest, nibbling on the aberrant vegetation and periodically cloning themselves. NOTE: due to gameplay constraints, red goo will only self-replicate until the map holds 15 creatures, cause I don't want to fry your computers.</AA_RedGoo.description>
+  <AA_RedGoo.tools.0.label>tentacles</AA_RedGoo.tools.0.label>
+  <AA_RedGoo.comps.0.customString>Cloning in: </AA_RedGoo.comps.0.customString>
+  <AA_RedSpore.label>red spore</AA_RedSpore.label>
+  <AA_RedSpore.description>Similar to the Ocular Jelly, this strange creature seems to be of extra-dimensional origin. It doesn't even seem to be carbon based, instead using gallium as the basis of its structure and life functions. This is considered physically impossible under normal circumstances, so the red spore must come from a place where the rules are wildly different from this Universe.\n\nThis fact makes the red spore inherently unstable, with a low lifespan, prone to violently explode and unable to reproduce normally. As a floating creature, Red Spores ignore terrain movement costs.</AA_RedSpore.description>
+  <AA_RedSpore.tools.0.label>tentacles</AA_RedSpore.tools.0.label>
+  <AA_RipperHound.label>ripper hound</AA_RipperHound.label>
+  <AA_RipperHound.description>Ripper Hounds were created as a purely biological defense against Insectoids, a genetically engineered species bred for hunting and defeating them. These hulking canines sport two viciously sharp claws specially designed to attach to chitinoid plates and rip them apart.\n\nDespite their fearsome appearance, Ripper Hounds can be extremely affectionate and loyal, and they love to be pet by those they trust.</AA_RipperHound.description>
+  <AA_RipperHound.tools.0.label>left claw</AA_RipperHound.tools.0.label>
+  <AA_RipperHound.tools.1.label>right claw</AA_RipperHound.tools.1.label>
+  <AA_RipperHound.tools.3.label>head</AA_RipperHound.tools.3.label>
+  <AA_RoughPlatedMonitor.label>rough-plated monitor</AA_RoughPlatedMonitor.label>
+  <AA_RoughPlatedMonitor.description>The Rough-Plated Monitor, &lt;i>Varanus Bracteatus&lt;/i>, is a large monitor lizard adapted to life in extreme conditions. Their whole body and metabolism are adapted to environments of higher than normal acidity, thriving around acidic volcanic lakes with a water pH of 2 to 3. This immunity to acid allows them to prey on other creatures that use acid to deter predators.\n\nThe Rough-plated Monitor lays eggs that have a tendency to suddenly explode in a dangerous splash of acid when hatching.</AA_RoughPlatedMonitor.description>
+  <AA_RoughPlatedMonitor.tools.0.label>left claw</AA_RoughPlatedMonitor.tools.0.label>
+  <AA_RoughPlatedMonitor.tools.1.label>right claw</AA_RoughPlatedMonitor.tools.1.label>
+  <AA_RoughPlatedMonitor.tools.2.label>fangs</AA_RoughPlatedMonitor.tools.2.label>
+  <AA_RoughPlatedMonitor.tools.3.label>head</AA_RoughPlatedMonitor.tools.3.label>
+  <AA_RoughPlatedMonitor.race.meatLabel>lizard meat</AA_RoughPlatedMonitor.race.meatLabel>
+  <AA_RoyalAve.label>royal ave</AA_RoyalAve.label>
+  <AA_RoyalAve.description>Royal Aves are large flightless birds with colorful feathers. Royal Aves were originally wild Meadow Aves that have been crossbred for generations to reduce their stubbornness and increase their fluffiness. Some of these prized pets get freed into the wild, a life that they are poorly adapted for. Plummage in Royal Aves is more flamboyant than usual: if lucky you might get your hands on the incredibly rare Rainbow Ave, which does nothing special besides from looking bizarre.\n\nRoyal Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Royal Aves move 50% faster when used as mounts).</AA_RoyalAve.description>
+  <AA_RoyalAve.tools.0.label>claws</AA_RoyalAve.tools.0.label>
+  <AA_RoyalAve.tools.2.label>head</AA_RoyalAve.tools.2.label>
+  <AA_SandLion.label>sand lion</AA_SandLion.label>
+  <AA_SandLion.description>The Sand Lion is a variant of the genetically modified arctic lion, specifically engineered as ambush units by the navy for extreme high temperature environments. Instead of a light reflecting pelt, the sand lion has the unique ability of constantly digging into sand, producing dense clouds of particulate matter that obscures line of sight of its prey, making it easier for the lion to attack them.\n\nDue to this ability, attacking a sand lion with guns is not really advisable, unless they are VERY big guns.</AA_SandLion.description>
+  <AA_SandLion.tools.0.label>left claw</AA_SandLion.tools.0.label>
+  <AA_SandLion.tools.1.label>right claw</AA_SandLion.tools.1.label>
+  <AA_SandLion.tools.3.label>head</AA_SandLion.tools.3.label>
+  <AA_SandSquid.label>sand squid</AA_SandSquid.label>
+  <AA_SandSquid.description>Despite their common name, sand squids are actually genetically modified creatures that incorporate features from both cephalopods and cone snails. Sand squids were created as cattle adapted to extremely water deprived environments, such as very dry deserts.\n\nThe sand squid constantly produces a sticky secretion that acts as a powerful fertilizer when mixed with common sand, allowing growth of crops in the middle of the desert. The squid can be trained to properly distribute its slime around the fields to increase terrain fertility even more. (NOTE: due to balance concerns, the squid will only do this if tamed, I don't want them to mess up the whole map when wild...)</AA_SandSquid.description>
+  <AA_SandSquid.tools.1.label>tentacle</AA_SandSquid.tools.1.label>
+  <AA_ShockGoat.label>shock goat</AA_ShockGoat.label>
+  <AA_ShockGoat.description>Shock goats are domesticated alien animals, renowned for their capacity to store static electricity on their bony structures, and releasing it as a defensive measure. Interestingly enough, the shock goat has characteristics common to many alien species, such as three pairs of eyes, and characteristics typical of Earth goats, such as the horns. This points to the conclusion that shock goats are actually a fertile cross-bred of two different creatures, created in the past by some human colony, and released in the wild for unknown reason.\n\nWhatever the mystery behind their origins, nowadays they are commonly seen in farming communities in several Rim worlds, because they produce decent amounts of milk.</AA_ShockGoat.description>
+  <AA_ShockGoat.tools.0.label>left hoof</AA_ShockGoat.tools.0.label>
+  <AA_ShockGoat.tools.1.label>right hoof</AA_ShockGoat.tools.1.label>
+  <AA_ShockGoat.tools.3.label>horns</AA_ShockGoat.tools.3.label>
+  <AA_Skyeel.label>arcturan sky eel</AA_Skyeel.label>
+  <AA_Skyeel.description>The Arcturan Sky Eel is a weird space-borne creature that inhabits the asteroids of a system's asteroid belt. They are usually not found on a planet's surface, unless they are somehow brought to it. The body of a sky eel is surprisingly light, and they have no problems flying through a terrestrial atmosphere. They also have electricity based defense mechanisms, and a faint regenerative ability.\n\nSky eels require very little sustenance, and they can be trained as simple, if somewhat affectionate, pets. As a floating creature, Sky Eels ignore terrain movement costs.</AA_Skyeel.description>
+  <AA_Skyeel.tools.1.label>head</AA_Skyeel.tools.1.label>
+  <AA_Slurrypede.label>slurrypede</AA_Slurrypede.label>
+  <AA_Slurrypede.description>Although rare, mechanoids have been known to capture prisoners, and the Slurrypede is their solution to feed them in the most efficient way possible. The Slurrypede is a modified bio-mechanoid capable of devouring almost anything and processing it into a homogeneous organic slurry. This slurry is edible for carnivore and omnivore animals, but barely, and completely indigestible for herbivores.\n\nSlurrypedes are docile, almost never hostile, and in case a mechanoid base is destroyed and one of them manages to survive, they tend to roam the wilderness aimlessly, consuming any organic material in their path and turning it into nutrient paste.</AA_Slurrypede.description>
+  <AA_Slurrypede.tools.0.label>head</AA_Slurrypede.tools.0.label>
+  <AA_SpinedGow.label>spined gow</AA_SpinedGow.label>
+  <AA_SpinedGow.description>Spined Gows are farm animals with cow and goat characteristics, bred to survive in extreme environments.\n\nSpined Gows are herbivorous, happy to graze in any grassy meadow. However, their neural spine sails provide a different and aditional type of sustenance: when the creature is near a geologically active terrain, such as liquid lava, the sail absorbs part of the intense radiating heat and converts it into chemical energy.\n\nSpìned Gows provide a very nutritious milk.</AA_SpinedGow.description>
+  <AA_SpinedGow.tools.0.label>head</AA_SpinedGow.tools.0.label>
+  <AA_SpinedGow.tools.1.label>left hoof</AA_SpinedGow.tools.1.label>
+  <AA_SpinedGow.tools.2.label>right hoof</AA_SpinedGow.tools.2.label>
+  <AA_Swarmling.label>swarmling</AA_Swarmling.label>
+  <AA_Swarmling.description>Human space colonization slowly disseminated the Old Earth genelines across the stars, with all kinds of terran animals being used to populate and terraform the strange new worlds. Some of these animals, however, were pests, hitching a ride inside spaceships and multiplying at the expense of humanity. Swarmlings were one of such pests. Historians of the Ordo Historia theorize that Swarmlings were one of humanity's first successful genetic engineering creations, bred to enrich the biosphere of Mars, until they hitched a ride aboard an interstellar-bound colony ship.\n\nSwarmlings are not very dangerous on their own, but... they are never on their own. They are an asexual species with a weird reproduction cycle: once they attack another creature, they implant larvae on it, and they hatch once the creature has died.</AA_Swarmling.description>
+  <AA_Swarmling.tools.0.label>left claw</AA_Swarmling.tools.0.label>
+  <AA_Swarmling.tools.1.label>right claw</AA_Swarmling.tools.1.label>
+  <AA_Swarmling.tools.3.label>head</AA_Swarmling.tools.3.label>
+  <AA_TarGuzzler.label>tar guzzler</AA_TarGuzzler.label>
+  <AA_TarGuzzler.description>This menacing-looking beast might seem to be a truly alien creature, but in reality it was artificially created as living waste disposal. The tar guzzler creeps along the parched mud with six strong tentacles, avidly searching for its favourite food: puddles of viscuous tar.\n\nTar guzzlers have a very limited intelligence, and -being disgusting creatures- they don't have any natural predators, so they are usually content to just be left alone.</AA_TarGuzzler.description>
+  <AA_TarGuzzler.tools.0.label>left claw</AA_TarGuzzler.tools.0.label>
+  <AA_TarGuzzler.tools.1.label>right claw</AA_TarGuzzler.tools.1.label>
+  <AA_TarGuzzler.tools.2.label>gaping maw</AA_TarGuzzler.tools.2.label>
+  <AA_TarGuzzler.tools.3.label>head</AA_TarGuzzler.tools.3.label>
+  <AA_TeratogenicOriginator.label>teratogenic originator</AA_TeratogenicOriginator.label>
+  <AA_TeratogenicOriginator.description>This amorphous, flesh coloured, translucent creature seems to lack everything but the most basic instincts, moving around slowly and sometimes devouring any plant it comes in contact with, incorporating it into its cytoplasm. There are some chunks of seemingly normal flesh floating inside it.\n\nTeratogenic Originators are basically an enormous clonal colony of pluripotent stem cells, capable of diferentiating into different tissues. They were engineered by a group of unethical scientists as a cheap way to create lab-grown limbs suitable for transplants, but the end results is less than ideal. These strange mutant limbs can be periodically excised from the creature and used at will.</AA_TeratogenicOriginator.description>
+  <AA_TeratogenicOriginator.tools.0.label>tentacles</AA_TeratogenicOriginator.tools.0.label>
+  <AA_TeratogenicOriginator.comps.0.customString>Cloning in: </AA_TeratogenicOriginator.comps.0.customString>
+  <AA_TetraSlug.label>tetra slug</AA_TetraSlug.label>
+  <AA_TetraSlug.description>These massive slugs are a common sight among Glitterworld controlled territories, where they lumber about as glorified power plants. Outside of one, they are deployed as a mobile power source for Glitterworld research expeditions. It is rare to see one without the iconic power cores that protrude from their backs, as their unique bodily chemical composition is capable of outputting power that far surpasses any known natural sources. Thus they are widely valued by every technologically developing civilization throughout the galaxy.\n\nWhile a gentle giant that would prefer to run away instead of fight, modified slugs come armored with plasteel shells, quad cores that can act as Tesla cannons, and a Tactical AI inserted within the brain that takes over and makes no hesitation to use all of its armament to obliterate any perceived threat within vicinity.\n\nProperly outfitted Tetraslugs will slowly recharge batteries on their vicinity.</AA_TetraSlug.description>
+  <AA_TetraSlug.tools.0.label>body</AA_TetraSlug.tools.0.label>
+  <AA_Thermadon.label>thermadon</AA_Thermadon.label>
+  <AA_Thermadon.description>The Thermadon is a large Blackspider that has been biologically augmented with volatile chemical glands. Originally, the Thermadon was bred by the long forgotten creators of the Black Hive as a fearsome fire-breathing shock trooper, using thermal grenades capable of affecting even fire-resistant Mechanoids, the primary objective of the Black Hive. Mechanoids however managed to adapt to these biological grenades quickly, and thus the Thermadon project was scrapped.\n\nApparently, some of them managed to escape into the wild.\n\nJust... don't attack this thing if your base is made of wood, mmkay?</AA_Thermadon.description>
+  <AA_Thermadon.tools.0.label>head claw</AA_Thermadon.tools.0.label>
+  <AA_Thermadon.tools.1.label>head</AA_Thermadon.tools.1.label>
+  <AA_Wildpawn.label>wildpawn</AA_Wildpawn.label>
+  <AA_Wildpawn.description>Wildpawns are a variant of the wildpods that have adapted to life outside of swamps and rainforests. Since they have less access to water and rotting vegetation, they grow much less, and are much less dangerous. Wildpawns are less resistant to gunfire, but retain the weakness to fire of their bigger brethren. Wildpawns reproduce asexually by releasing clumps of spores every few weeks, so its children are completely wild and independent from it, with no concept of parenthood.\n\nAlthough risky, the Wildpawns can be hunted or farmed for small amounts of edible raw fungus.</AA_Wildpawn.description>
+  <AA_Wildpawn.tools.0.label>left paw</AA_Wildpawn.tools.0.label>
+  <AA_Wildpawn.tools.1.label>right paw</AA_Wildpawn.tools.1.label>
+  <AA_Wildpawn.tools.3.label>head</AA_Wildpawn.tools.3.label>
+  <AA_Wildpawn.comps.0.customString>Dispersing spores in: </AA_Wildpawn.comps.0.customString>
+  <AA_Wildpod.label>wildpod</AA_Wildpod.label>
+  <AA_Wildpod.description>This lumbering mass of apparently decomposing plant matter is a Wildpod, a sentient mycoid creature native to some jungle infested planet on the Rim. The Wildpod is almost impervious to gunfire, with bullets simply being absorbed into its mass without doing much damage, but very weak to fire. Interestingly, it reproduces asexually by releasing clumps of spores every few weeks, so its children are completely wild and independent from it, with no concept of parenthood.\n\nAlthough risky, the Wildpod can be hunted or farmed for decent amounts of edible raw fungus.</AA_Wildpod.description>
+  <AA_Wildpod.tools.0.label>left paw</AA_Wildpod.tools.0.label>
+  <AA_Wildpod.tools.1.label>right paw</AA_Wildpod.tools.1.label>
+  <AA_Wildpod.tools.3.label>head</AA_Wildpod.tools.3.label>
+  <AA_Wildpod.comps.0.customString>Dispersing spores in: </AA_Wildpod.comps.0.customString>
+  <AA_Aura.label>aura</AA_Aura.label>
+  <AA_Aura.description>The Aura, also known as Avenging Angels, are angel-shaped mechanoids surrounded by a whirling cloud of six levitating metallic blades. They favour close combat, approaching their victims and engulfing them in an eviscerating whirlwind of slashing death. They also have the ability to regenerate their wounds with fast acting mechanites.\n\nNOTE: all Alpha Mechanoids can be disabled from raids, ships and clusters by Mod Options. This can be used even if they have already spawned.</AA_Aura.description>
+  <AA_Aura.tools.0.label>wing blade</AA_Aura.tools.0.label>
+  <AA_Aura.tools.1.label>head</AA_Aura.tools.1.label>
+  <AA_Daggersnout.label>daggersnout</AA_Daggersnout.label>
+  <AA_Daggersnout.description>The daggersnout is a fast, insectlike combat mechanoid armed with a vicious sharp blade on its head. It isn't as dangerous as other close-ranged mechanoids, such as scythers, but they usually appear in greater numbers.\n\nNOTE: all Alpha Mechanoids can be disabled from raids, ships and clusters by Mod Options. This can be used even if they have already spawned.</AA_Daggersnout.description>
+  <AA_Daggersnout.tools.0.label>snout blade</AA_Daggersnout.tools.0.label>
+  <AA_Daggersnout.tools.1.label>head</AA_Daggersnout.tools.1.label>
+  <AA_Demolisher.label>demolisher</AA_Demolisher.label>
+  <AA_Demolisher.description>The strange demolisher mechanoid looks like a weird amalgamation of a deep sea crab, a star-nosed mole and an armoured combat vehicle. Demolishers are armed with a very dangerous short range turret that fires demolisher charges, capable of blowing up even the strongest walls in two or three hits. Once they have ruptured a colony's outer defenses, their enormous plasteel reinforced claws can make short work of anyone foolish enough to stay in their way.\n\nNOTE: all Alpha Mechanoids can be disabled from raids, ships and clusters by Mod Options. This can be used even if they have already spawned.</AA_Demolisher.description>
+  <AA_Demolisher.tools.0.label>mechanoid claws</AA_Demolisher.tools.0.label>
+  <AA_Fireworm.label>fireworm</AA_Fireworm.label>
+  <AA_Fireworm.description>A huge mechanical worm armed with a dangerous chemfuel flamethrower. Their weapon has a very short range, so don't let a fireworm approach your defenses!\n\nThe fireworm superficially resembles a Frostbound Behemoth. A coincidence? Or perhaps mechanoids take living things as a blueprint for their units. If so, you wouldn't want to see what a biological scyther looks like...\n\nNOTE: all Alpha Mechanoids can be disabled from raids, ships and clusters by Mod Options. This can be used even if they have already spawned.</AA_Fireworm.description>
+  <AA_Fireworm.tools.0.label>head</AA_Fireworm.tools.0.label>
+  <AA_Goliath.label>goliath</AA_Goliath.label>
+  <AA_Goliath.description>The Goliath is a heavy combat mechanoid with a humanoid body plan. They are faster than centipedes, and are usually armed with heavy mechanoid weapons or needle guns.\n\nNOTE: all Alpha Mechanoids can be disabled from raids, ships and clusters by Mod Options. This can be used even if they have already spawned.</AA_Goliath.description>
+  <AA_Goliath.tools.0.label>head</AA_Goliath.tools.0.label>
+  <AA_Phalanx.label>phalanx</AA_Phalanx.label>
+  <AA_Phalanx.description>A bulking mechanoid based on a rhinoceros beetle body plan. The phalanx's plasteel carapace hides a very powerful cryogenic engine capable of constantly producing compacted pellets of supercooled gas. These are fired from an aperture at the mechanoid's head.\n\nThis cryo-weapon has a very low range, but it can be very dangerous for beings susceptible to frostbite.\n\nNOTE: all Alpha Mechanoids can be disabled from raids, ships and clusters by Mod Options. This can be used even if they have already spawned.</AA_Phalanx.description>
+  <AA_Phalanx.tools.0.label>head</AA_Phalanx.tools.0.label>
+  <AA_Siegebreaker.label>siegebreaker</AA_Siegebreaker.label>
+  <AA_Siegebreaker.description>The siegebreaker is a particularly dangerous tank-shaped mechanoid. Armed with a Siegebreaker Cannon that fires explosives shells, they can detect a hostile presence from hundreds of meters away, acting as unrelenting siege weapons that can obliterate even the strongest defense. Their movement is incredibly slow, and their cannon takes a very long time to recharge, but they should be treated as priority targets in most cases.\n\nNOTE: all Alpha Mechanoids can be disabled from raids, ships and clusters by Mod Options. This can be used even if they have already spawned.</AA_Siegebreaker.description>
+  <AA_Siegebreaker.tools.0.label>head</AA_Siegebreaker.tools.0.label>
+</LanguageData>
