@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RB_CentrifugeTemperateCombBulk.label>bulk extract from temperate comb</RB_CentrifugeTemperateCombBulk.label>
+  <RB_CentrifugeTemperateCombBulk.description>Centrifuges a temperate comb to bulk extract honey and wax</RB_CentrifugeTemperateCombBulk.description>
+  <RB_CentrifugeTemperateCombBulk.jobString>Extracting honey and wax</RB_CentrifugeTemperateCombBulk.jobString>
+  <RB_CentrifugeMildCombBulk.label>bulk extract from mild comb</RB_CentrifugeMildCombBulk.label>
+  <RB_CentrifugeMildCombBulk.description>Centrifuges a mild comb to bulk extract honey and wax</RB_CentrifugeMildCombBulk.description>
+  <RB_CentrifugeMildCombBulk.jobString>Extracting honey and wax</RB_CentrifugeMildCombBulk.jobString>
+  <RB_CentrifugeHybridCombBulk.label>bulk extract from hybrid comb</RB_CentrifugeHybridCombBulk.label>
+  <RB_CentrifugeHybridCombBulk.description>Centrifuges a hybrid comb to bulk extract honey and white wax</RB_CentrifugeHybridCombBulk.description>
+  <RB_CentrifugeHybridCombBulk.jobString>Extracting honey and white wax</RB_CentrifugeHybridCombBulk.jobString>
+  <RB_CentrifugeAmalgamCombBulk.label>bulk extract from amalgam comb</RB_CentrifugeAmalgamCombBulk.label>
+  <RB_CentrifugeAmalgamCombBulk.description>Centrifuges an amalgam comb to bulk extract blue honey and white wax</RB_CentrifugeAmalgamCombBulk.description>
+  <RB_CentrifugeAmalgamCombBulk.jobString>Extracting blue honey and white wax</RB_CentrifugeAmalgamCombBulk.jobString>
+  <RB_CentrifugeAlloyCombBulk.label>bulk extract from alloy comb</RB_CentrifugeAlloyCombBulk.label>
+  <RB_CentrifugeAlloyCombBulk.description>Centrifuges an alloy comb to bulk extract honey, wax and steel</RB_CentrifugeAlloyCombBulk.description>
+  <RB_CentrifugeAlloyCombBulk.jobString>Extracting honey, wax and steel</RB_CentrifugeAlloyCombBulk.jobString>
+  <RB_CentrifugeAdaptiveCombBulk.label>bulk extract from adaptive comb</RB_CentrifugeAdaptiveCombBulk.label>
+  <RB_CentrifugeAdaptiveCombBulk.description>Centrifuges an adaptive comb to bulk extract adaptive honey and wax</RB_CentrifugeAdaptiveCombBulk.description>
+  <RB_CentrifugeAdaptiveCombBulk.jobString>Extracting adaptive honey and wax</RB_CentrifugeAdaptiveCombBulk.jobString>
+  <RB_CentrifugeNeutroCombBulk.label>bulk extract from neutro comb</RB_CentrifugeNeutroCombBulk.label>
+  <RB_CentrifugeNeutroCombBulk.description>Centrifuges a neutro comb to bulk extract honey, wax and neutroamine</RB_CentrifugeNeutroCombBulk.description>
+  <RB_CentrifugeNeutroCombBulk.jobString>Extracting honey, wax and neutroamine</RB_CentrifugeNeutroCombBulk.jobString>
+  <RB_CentrifugeNutritiousCombBulk.label>bulk extract from nutritious comb</RB_CentrifugeNutritiousCombBulk.label>
+  <RB_CentrifugeNutritiousCombBulk.description>Centrifuges a nutritious comb to bulk extract honey, wax and meat</RB_CentrifugeNutritiousCombBulk.description>
+  <RB_CentrifugeNutritiousCombBulk.jobString>Extracting honey, wax and meat</RB_CentrifugeNutritiousCombBulk.jobString>
+  <RB_CentrifugeTechnologicalCombBulk.label>bulk extract from technological comb</RB_CentrifugeTechnologicalCombBulk.label>
+  <RB_CentrifugeTechnologicalCombBulk.description>Centrifuges a technological comb to bulk extract wax and Bio Interface Components</RB_CentrifugeTechnologicalCombBulk.description>
+  <RB_CentrifugeTechnologicalCombBulk.jobString>Extracting wax and Bio Interface Components</RB_CentrifugeTechnologicalCombBulk.jobString>
+  <RB_CentrifugeArcticCombBulk.label>bulk extract from arctic comb</RB_CentrifugeArcticCombBulk.label>
+  <RB_CentrifugeArcticCombBulk.description>Centrifuges an arctic comb to bulk extract honey, wax and ice pops</RB_CentrifugeArcticCombBulk.description>
+  <RB_CentrifugeArcticCombBulk.jobString>Extracting honey, wax and ice pops</RB_CentrifugeArcticCombBulk.jobString>
+  <RB_CentrifugeWoodlandCombBulk.label>bulk extract from woodland comb</RB_CentrifugeWoodlandCombBulk.label>
+  <RB_CentrifugeWoodlandCombBulk.description>Centrifuges a woodland comb to bulk extract honey, wax and wood logs</RB_CentrifugeWoodlandCombBulk.description>
+  <RB_CentrifugeWoodlandCombBulk.jobString>Extracting honey, wax and wood logs</RB_CentrifugeWoodlandCombBulk.jobString>
+  <RB_CentrifugeDesertCombBulk.label>bulk extract from desert comb</RB_CentrifugeDesertCombBulk.label>
+  <RB_CentrifugeDesertCombBulk.description>Centrifuges a desert comb to bulk extract honey, red wax and agave</RB_CentrifugeDesertCombBulk.description>
+  <RB_CentrifugeDesertCombBulk.jobString>Extracting honey, red wax and agave</RB_CentrifugeDesertCombBulk.jobString>
+  <RB_CentrifugeSwampCombBulk.label>bulk extract from swamp comb</RB_CentrifugeSwampCombBulk.label>
+  <RB_CentrifugeSwampCombBulk.description>Centrifuges a swamp comb to bulk extract honey, wax and mushrooms</RB_CentrifugeSwampCombBulk.description>
+  <RB_CentrifugeSwampCombBulk.jobString>Extracting honey, wax and mushrooms</RB_CentrifugeSwampCombBulk.jobString>
+  <RB_CentrifugeNocturnalCombBulk.label>bulk extract from nocturnal comb</RB_CentrifugeNocturnalCombBulk.label>
+  <RB_CentrifugeNocturnalCombBulk.description>Centrifuges a desert comb to bulk extract black honey and black wax</RB_CentrifugeNocturnalCombBulk.description>
+  <RB_CentrifugeNocturnalCombBulk.jobString>Extracting black honey and black wax</RB_CentrifugeNocturnalCombBulk.jobString>
+  <RB_CentrifugeArgentCombBulk.label>bulk extract from argent comb</RB_CentrifugeArgentCombBulk.label>
+  <RB_CentrifugeArgentCombBulk.description>Centrifuges an argent comb to bulk extract honey, brittle wax and silver</RB_CentrifugeArgentCombBulk.description>
+  <RB_CentrifugeArgentCombBulk.jobString>Extracting honey, brittle wax and silver</RB_CentrifugeArgentCombBulk.jobString>
+  <RB_CentrifugeAurumCombBulk.label>bulk extract from aurum comb</RB_CentrifugeAurumCombBulk.label>
+  <RB_CentrifugeAurumCombBulk.description>Centrifuges an aurum comb to bulk extract honey, brittle wax and gold</RB_CentrifugeAurumCombBulk.description>
+  <RB_CentrifugeAurumCombBulk.jobString>Extracting honey, brittle wax and gold</RB_CentrifugeAurumCombBulk.jobString>
+  <RB_CentrifugePreciousCombBulk.label>bulk extract from precious comb</RB_CentrifugePreciousCombBulk.label>
+  <RB_CentrifugePreciousCombBulk.description>Centrifuges a precious comb to bulk extract honey, brittle wax and jade</RB_CentrifugePreciousCombBulk.description>
+  <RB_CentrifugePreciousCombBulk.jobString>Extracting honey, brittle wax and jade</RB_CentrifugePreciousCombBulk.jobString>
+  <RB_CentrifugeRadioactiveCombBulk.label>bulk extract from radioactive comb</RB_CentrifugeRadioactiveCombBulk.label>
+  <RB_CentrifugeRadioactiveCombBulk.description>Centrifuges a radioactive comb to bulk extract honey, brittle wax and uranium</RB_CentrifugeRadioactiveCombBulk.description>
+  <RB_CentrifugeRadioactiveCombBulk.jobString>Extracting honey, brittle wax and uranium</RB_CentrifugeRadioactiveCombBulk.jobString>
+  <RB_CentrifugeTipsyCombBulk.label>bulk extract from tipsy comb</RB_CentrifugeTipsyCombBulk.label>
+  <RB_CentrifugeTipsyCombBulk.description>Centrifuges a tipsy comb to bulk extract honey, wax and wort</RB_CentrifugeTipsyCombBulk.description>
+  <RB_CentrifugeTipsyCombBulk.jobString>Extracting honey, wax and wort</RB_CentrifugeTipsyCombBulk.jobString>
+  <RB_CentrifugeLuxuriousCombBulk.label>bulk extract from luxurious comb</RB_CentrifugeLuxuriousCombBulk.label>
+  <RB_CentrifugeLuxuriousCombBulk.description>Centrifuges a luxurious comb to bulk extract honey, wax and ambrosia</RB_CentrifugeLuxuriousCombBulk.description>
+  <RB_CentrifugeLuxuriousCombBulk.jobString>Extracting honey, wax and ambrosia</RB_CentrifugeLuxuriousCombBulk.jobString>
+  <RB_CentrifugePsychicCombBulk.label>bulk extract from psychic comb</RB_CentrifugePsychicCombBulk.label>
+  <RB_CentrifugePsychicCombBulk.description>Centrifuges a psychic comb to bulk extract honey, wax and psychoid leaves</RB_CentrifugePsychicCombBulk.description>
+  <RB_CentrifugePsychicCombBulk.jobString>Extracting honey, wax and psychoid leaves</RB_CentrifugePsychicCombBulk.jobString>
+  <RB_CentrifugeStonerCombBulk.label>bulk extract from stoner comb</RB_CentrifugeStonerCombBulk.label>
+  <RB_CentrifugeStonerCombBulk.description>Centrifuges a stoner comb to bulk extract honey, wax and smokeleaf leaves</RB_CentrifugeStonerCombBulk.description>
+  <RB_CentrifugeStonerCombBulk.jobString>Extracting honey, wax and smokeleaf leaves</RB_CentrifugeStonerCombBulk.jobString>
+  <RB_CentrifugeAgriculturalCombBulk.label>bulk extract from agricultural comb</RB_CentrifugeAgriculturalCombBulk.label>
+  <RB_CentrifugeAgriculturalCombBulk.description>Centrifuges an agricultural comb to bulk extract honey, wax and vegetables</RB_CentrifugeAgriculturalCombBulk.description>
+  <RB_CentrifugeAgriculturalCombBulk.jobString>Extracting honey, wax and vegetables</RB_CentrifugeAgriculturalCombBulk.jobString>
+  <RB_CentrifugeBittersweetCombBulk.label>bulk extract from bittersweet comb</RB_CentrifugeBittersweetCombBulk.label>
+  <RB_CentrifugeBittersweetCombBulk.description>Centrifuges a bittersweet comb to bulk extract honey, wax and chocolate</RB_CentrifugeBittersweetCombBulk.description>
+  <RB_CentrifugeBittersweetCombBulk.jobString>Extracting honey, wax and chocolate</RB_CentrifugeBittersweetCombBulk.jobString>
+  <RB_CentrifugeLacticCombBulk.label>bulk extract from lactic comb</RB_CentrifugeLacticCombBulk.label>
+  <RB_CentrifugeLacticCombBulk.description>Centrifuges a lactic comb to bulk extract honey, wax and milk</RB_CentrifugeLacticCombBulk.description>
+  <RB_CentrifugeLacticCombBulk.jobString>Extracting honey, wax and milk</RB_CentrifugeLacticCombBulk.jobString>
+  <RB_CentrifugeEgglayingCombBulk.label>bulk extract from egglaying comb</RB_CentrifugeEgglayingCombBulk.label>
+  <RB_CentrifugeEgglayingCombBulk.description>Centrifuges a egglaying comb to bulk extract honey, wax and eggs</RB_CentrifugeEgglayingCombBulk.description>
+  <RB_CentrifugeEgglayingCombBulk.jobString>Extracting honey, wax and eggs</RB_CentrifugeEgglayingCombBulk.jobString>
+  <RB_CentrifugeInsectoidCombBulk.label>bulk extract from insectoid comb</RB_CentrifugeInsectoidCombBulk.label>
+  <RB_CentrifugeInsectoidCombBulk.description>Centrifuges an insectoid comb to bulk extract honey, wax and insect jelly</RB_CentrifugeInsectoidCombBulk.description>
+  <RB_CentrifugeInsectoidCombBulk.jobString>Extracting honey, wax and insect jelly</RB_CentrifugeInsectoidCombBulk.jobString>
+  <RB_CentrifugeElectronicCombBulk.label>bulk extract from electronic comb</RB_CentrifugeElectronicCombBulk.label>
+  <RB_CentrifugeElectronicCombBulk.description>Centrifuges an electronic comb to bulk extract honey, wax and industrial components</RB_CentrifugeElectronicCombBulk.description>
+  <RB_CentrifugeElectronicCombBulk.jobString>Extracting honey, wax and industrial components</RB_CentrifugeElectronicCombBulk.jobString>
+  <RB_CentrifugeOilyCombBulk.label>bulk extract from oily comb</RB_CentrifugeOilyCombBulk.label>
+  <RB_CentrifugeOilyCombBulk.description>Centrifuges an oily comb to bulk extract honey, wax and chemfuel</RB_CentrifugeOilyCombBulk.description>
+  <RB_CentrifugeOilyCombBulk.jobString>Extracting honey, wax and chemfuel</RB_CentrifugeOilyCombBulk.jobString>
+  <RB_CentrifugePlasticCombBulk.label>bulk extract from plastic comb</RB_CentrifugePlasticCombBulk.label>
+  <RB_CentrifugePlasticCombBulk.description>Centrifuges a plastic comb to bulk extract honey, wax and plasteel</RB_CentrifugePlasticCombBulk.description>
+  <RB_CentrifugePlasticCombBulk.jobString>Extracting honey, wax and plasteel</RB_CentrifugePlasticCombBulk.jobString>
+  <RB_CentrifugePetCombBulk.label>bulk extract from pet comb</RB_CentrifugePetCombBulk.label>
+  <RB_CentrifugePetCombBulk.description>Centrifuges a pet comb to bulk extract honey, wax and kibble</RB_CentrifugePetCombBulk.description>
+  <RB_CentrifugePetCombBulk.jobString>Extracting honey, wax and kibble</RB_CentrifugePetCombBulk.jobString>
+  <RB_CentrifugeStrawCombBulk.label>bulk extract from straw comb</RB_CentrifugeStrawCombBulk.label>
+  <RB_CentrifugeStrawCombBulk.description>Centrifuges a straw comb to bulk extract honey, wax and hay</RB_CentrifugeStrawCombBulk.description>
+  <RB_CentrifugeStrawCombBulk.jobString>Extracting honey, wax and hay</RB_CentrifugeStrawCombBulk.jobString>
+  <RB_CentrifugeWeavingCombBulk.label>bulk extract from weaving comb</RB_CentrifugeWeavingCombBulk.label>
+  <RB_CentrifugeWeavingCombBulk.description>Centrifuges a weaving comb to bulk extract honey, wax and cloth</RB_CentrifugeWeavingCombBulk.description>
+  <RB_CentrifugeWeavingCombBulk.jobString>Extracting honey, wax and cloth</RB_CentrifugeWeavingCombBulk.jobString>
+  <RB_CentrifugeTannerCombBulk.label>bulk extract from tanner comb</RB_CentrifugeTannerCombBulk.label>
+  <RB_CentrifugeTannerCombBulk.description>Centrifuges a tanner comb to bulk extract honey, wax and leather</RB_CentrifugeTannerCombBulk.description>
+  <RB_CentrifugeTannerCombBulk.jobString>Extracting honey, wax and leather</RB_CentrifugeTannerCombBulk.jobString>
+  <RB_CentrifugeWoolyCombBulk.label>bulk extract from wooly comb</RB_CentrifugeWoolyCombBulk.label>
+  <RB_CentrifugeWoolyCombBulk.description>Centrifuges a wooly comb to bulk extract honey, wax and wool</RB_CentrifugeWoolyCombBulk.description>
+  <RB_CentrifugeWoolyCombBulk.jobString>Extracting honey, wax and wool</RB_CentrifugeWoolyCombBulk.jobString>
+  <RB_CentrifugeHighCombBulk.label>bulk extract from high comb</RB_CentrifugeHighCombBulk.label>
+  <RB_CentrifugeHighCombBulk.description>Centrifuges a high comb to bulk extract honey, wax and yayo</RB_CentrifugeHighCombBulk.description>
+  <RB_CentrifugeHighCombBulk.jobString>Extracting honey, wax and yayo</RB_CentrifugeHighCombBulk.jobString>
+  <RB_CentrifugeLuciferCombBulk.label>bulk extract from lucifer comb</RB_CentrifugeLuciferCombBulk.label>
+  <RB_CentrifugeLuciferCombBulk.description>Centrifuges a lucifer comb to bulk extract honey, wax and luciferium</RB_CentrifugeLuciferCombBulk.description>
+  <RB_CentrifugeLuciferCombBulk.jobString>Extracting honey, wax and luciferium</RB_CentrifugeLuciferCombBulk.jobString>
+  <RB_CentrifugeCulinaryCombBulk.label>bulk extract from culinary comb</RB_CentrifugeCulinaryCombBulk.label>
+  <RB_CentrifugeCulinaryCombBulk.description>Centrifuges a culinary comb to bulk extract honey, wax and nutrient paste</RB_CentrifugeCulinaryCombBulk.description>
+  <RB_CentrifugeCulinaryCombBulk.jobString>Extracting honey, wax and nutrient paste</RB_CentrifugeCulinaryCombBulk.jobString>
+  <RB_CentrifugeChefCombBulk.label>bulk extract from chef comb</RB_CentrifugeChefCombBulk.label>
+  <RB_CentrifugeChefCombBulk.description>Centrifuges a chef comb to bulk extract honey, wax and fine meals</RB_CentrifugeChefCombBulk.description>
+  <RB_CentrifugeChefCombBulk.jobString>Extracting honey, wax and fine meals</RB_CentrifugeChefCombBulk.jobString>
+  <RB_CentrifugeMedicinalCombBulk.label>bulk extract from medicinal comb</RB_CentrifugeMedicinalCombBulk.label>
+  <RB_CentrifugeMedicinalCombBulk.description>Centrifuges a medicinal comb to bulk extract honey, wax and herbal medicine</RB_CentrifugeMedicinalCombBulk.description>
+  <RB_CentrifugeMedicinalCombBulk.jobString>Extracting honey, wax and herbal medicine</RB_CentrifugeMedicinalCombBulk.jobString>
+  <RB_CentrifugeSurgeonCombBulk.label>bulk extract from surgeon comb</RB_CentrifugeSurgeonCombBulk.label>
+  <RB_CentrifugeSurgeonCombBulk.description>Centrifuges a surgeon comb to bulk extract honey, wax and ultratech medicine</RB_CentrifugeSurgeonCombBulk.description>
+  <RB_CentrifugeSurgeonCombBulk.jobString>Extracting honey, wax and ultratech medicine</RB_CentrifugeSurgeonCombBulk.jobString>
+  <RB_CentrifugeSyntheticCombBulk.label>bulk extract from synthetic comb</RB_CentrifugeSyntheticCombBulk.label>
+  <RB_CentrifugeSyntheticCombBulk.description>Centrifuges a synthetic comb to bulk extract honey, wax and synthread</RB_CentrifugeSyntheticCombBulk.description>
+  <RB_CentrifugeSyntheticCombBulk.jobString>Extracting honey, wax and synthread</RB_CentrifugeSyntheticCombBulk.jobString>
+  <RB_CentrifugeHyperCombBulk.label>bulk extract from hyper comb</RB_CentrifugeHyperCombBulk.label>
+  <RB_CentrifugeHyperCombBulk.description>Centrifuges a hyper comb to bulk extract honey, wax and hyperweave</RB_CentrifugeHyperCombBulk.description>
+  <RB_CentrifugeHyperCombBulk.jobString>Extracting honey, wax and hyperweave</RB_CentrifugeHyperCombBulk.jobString>
+  <RB_CentrifugeNitroCombBulk.label>bulk extract from nitro comb</RB_CentrifugeNitroCombBulk.label>
+  <RB_CentrifugeNitroCombBulk.description>Centrifuges a nitro comb to bulk extract honey, wax and explosive shells</RB_CentrifugeNitroCombBulk.description>
+  <RB_CentrifugeNitroCombBulk.jobString>Extracting honey, wax and explosive shells</RB_CentrifugeNitroCombBulk.jobString>
+  <RB_CentrifugeAnyComb.jobString>Extracting from any available combs.</RB_CentrifugeAnyComb.jobString>
+  <RB_CentrifugeAnyComb.label>extract from any comb</RB_CentrifugeAnyComb.label>
+  <RB_CentrifugeAnyComb.description>Centrifuges any available comb to extract honey, wax and other products.</RB_CentrifugeAnyComb.description>
+  <RB_CentrifugeTemperateComb.label>extract from temperate comb</RB_CentrifugeTemperateComb.label>
+  <RB_CentrifugeTemperateComb.description>Centrifuges a temperate comb to extract honey and wax</RB_CentrifugeTemperateComb.description>
+  <RB_CentrifugeTemperateComb.jobString>Extracting honey and wax</RB_CentrifugeTemperateComb.jobString>
+  <RB_CentrifugeMildComb.label>extract from mild comb</RB_CentrifugeMildComb.label>
+  <RB_CentrifugeMildComb.description>Centrifuges a mild comb to extract honey and wax</RB_CentrifugeMildComb.description>
+  <RB_CentrifugeMildComb.jobString>Extracting honey and wax</RB_CentrifugeMildComb.jobString>
+  <RB_CentrifugeHybridComb.label>extract from hybrid comb</RB_CentrifugeHybridComb.label>
+  <RB_CentrifugeHybridComb.description>Centrifuges a hybrid comb to extract honey and white wax</RB_CentrifugeHybridComb.description>
+  <RB_CentrifugeHybridComb.jobString>Extracting honey and white wax</RB_CentrifugeHybridComb.jobString>
+  <RB_CentrifugeAmalgamComb.label>extract from amalgam comb</RB_CentrifugeAmalgamComb.label>
+  <RB_CentrifugeAmalgamComb.description>Centrifuges an amalgam comb to extract blue honey and white wax</RB_CentrifugeAmalgamComb.description>
+  <RB_CentrifugeAmalgamComb.jobString>Extracting blue honey and white wax</RB_CentrifugeAmalgamComb.jobString>
+  <RB_CentrifugeAlloyComb.label>extract from alloy comb</RB_CentrifugeAlloyComb.label>
+  <RB_CentrifugeAlloyComb.description>Centrifuges an alloy comb to extract honey, wax and steel</RB_CentrifugeAlloyComb.description>
+  <RB_CentrifugeAlloyComb.jobString>Extracting honey, wax and steel</RB_CentrifugeAlloyComb.jobString>
+  <RB_CentrifugeAdaptiveComb.label>extract from adaptive comb</RB_CentrifugeAdaptiveComb.label>
+  <RB_CentrifugeAdaptiveComb.description>Centrifuges an adaptive comb to extract adaptive honey and wax</RB_CentrifugeAdaptiveComb.description>
+  <RB_CentrifugeAdaptiveComb.jobString>Extracting adaptive honey and wax</RB_CentrifugeAdaptiveComb.jobString>
+  <RB_CentrifugeNeutroComb.label>extract from neutro comb</RB_CentrifugeNeutroComb.label>
+  <RB_CentrifugeNeutroComb.description>Centrifuges a neutro comb to extract honey, wax and neutroamine</RB_CentrifugeNeutroComb.description>
+  <RB_CentrifugeNeutroComb.jobString>Extracting honey, wax and neutroamine</RB_CentrifugeNeutroComb.jobString>
+  <RB_CentrifugeNutritiousComb.label>extract from nutritious comb</RB_CentrifugeNutritiousComb.label>
+  <RB_CentrifugeNutritiousComb.description>Centrifuges a nutritious comb to extract honey, wax and meat</RB_CentrifugeNutritiousComb.description>
+  <RB_CentrifugeNutritiousComb.jobString>Extracting honey, wax and meat</RB_CentrifugeNutritiousComb.jobString>
+  <RB_CentrifugeTechnologicalComb.label>extract from technological comb</RB_CentrifugeTechnologicalComb.label>
+  <RB_CentrifugeTechnologicalComb.description>Centrifuges a technological comb to extract wax and Bio Interface Components</RB_CentrifugeTechnologicalComb.description>
+  <RB_CentrifugeTechnologicalComb.jobString>Extracting wax and Bio Interface Components</RB_CentrifugeTechnologicalComb.jobString>
+  <RB_CentrifugeArcticComb.label>extract from arctic comb</RB_CentrifugeArcticComb.label>
+  <RB_CentrifugeArcticComb.description>Centrifuges an arctic comb to extract honey, wax and ice pops</RB_CentrifugeArcticComb.description>
+  <RB_CentrifugeArcticComb.jobString>Extracting honey, wax and ice pops</RB_CentrifugeArcticComb.jobString>
+  <RB_CentrifugeWoodlandComb.label>extract from woodland comb</RB_CentrifugeWoodlandComb.label>
+  <RB_CentrifugeWoodlandComb.description>Centrifuges a woodland comb to extract honey, wax and wood logs</RB_CentrifugeWoodlandComb.description>
+  <RB_CentrifugeWoodlandComb.jobString>Extracting honey, wax and wood logs</RB_CentrifugeWoodlandComb.jobString>
+  <RB_CentrifugeDesertComb.label>extract from desert comb</RB_CentrifugeDesertComb.label>
+  <RB_CentrifugeDesertComb.description>Centrifuges a desert comb to extract honey, red wax and agave</RB_CentrifugeDesertComb.description>
+  <RB_CentrifugeDesertComb.jobString>Extracting honey, red wax and agave</RB_CentrifugeDesertComb.jobString>
+  <RB_CentrifugeSwampComb.label>extract from swamp comb</RB_CentrifugeSwampComb.label>
+  <RB_CentrifugeSwampComb.description>Centrifuges a swamp comb to extract honey, wax and mushrooms</RB_CentrifugeSwampComb.description>
+  <RB_CentrifugeSwampComb.jobString>Extracting honey, wax and mushrooms</RB_CentrifugeSwampComb.jobString>
+  <RB_CentrifugeNocturnalComb.label>extract from nocturnal comb</RB_CentrifugeNocturnalComb.label>
+  <RB_CentrifugeNocturnalComb.description>Centrifuges a desert comb to extract black honey and black wax</RB_CentrifugeNocturnalComb.description>
+  <RB_CentrifugeNocturnalComb.jobString>Extracting black honey and black wax</RB_CentrifugeNocturnalComb.jobString>
+  <RB_CentrifugeArgentComb.label>extract from argent comb</RB_CentrifugeArgentComb.label>
+  <RB_CentrifugeArgentComb.description>Centrifuges an argent comb to extract honey, brittle wax and silver</RB_CentrifugeArgentComb.description>
+  <RB_CentrifugeArgentComb.jobString>Extracting honey, brittle wax and silver</RB_CentrifugeArgentComb.jobString>
+  <RB_CentrifugeAurumComb.label>extract from aurum comb</RB_CentrifugeAurumComb.label>
+  <RB_CentrifugeAurumComb.description>Centrifuges an aurum comb to extract honey, brittle wax and gold</RB_CentrifugeAurumComb.description>
+  <RB_CentrifugeAurumComb.jobString>Extracting honey, brittle wax and gold</RB_CentrifugeAurumComb.jobString>
+  <RB_CentrifugePreciousComb.label>extract from precious comb</RB_CentrifugePreciousComb.label>
+  <RB_CentrifugePreciousComb.description>Centrifuges a precious comb to extract honey, brittle wax and jade</RB_CentrifugePreciousComb.description>
+  <RB_CentrifugePreciousComb.jobString>Extracting honey, brittle wax and jade</RB_CentrifugePreciousComb.jobString>
+  <RB_CentrifugeRadioactiveComb.label>extract from radioactive comb</RB_CentrifugeRadioactiveComb.label>
+  <RB_CentrifugeRadioactiveComb.description>Centrifuges a radioactive comb to extract honey, brittle wax and uranium</RB_CentrifugeRadioactiveComb.description>
+  <RB_CentrifugeRadioactiveComb.jobString>Extracting honey, brittle wax and uranium</RB_CentrifugeRadioactiveComb.jobString>
+  <RB_CentrifugeTipsyComb.label>extract from tipsy comb</RB_CentrifugeTipsyComb.label>
+  <RB_CentrifugeTipsyComb.description>Centrifuges a tipsy comb to extract honey, wax and wort</RB_CentrifugeTipsyComb.description>
+  <RB_CentrifugeTipsyComb.jobString>Extracting honey, wax and wort</RB_CentrifugeTipsyComb.jobString>
+  <RB_CentrifugeLuxuriousComb.label>extract from luxurious comb</RB_CentrifugeLuxuriousComb.label>
+  <RB_CentrifugeLuxuriousComb.description>Centrifuges a luxurious comb to extract honey, wax and ambrosia</RB_CentrifugeLuxuriousComb.description>
+  <RB_CentrifugeLuxuriousComb.jobString>Extracting honey, wax and ambrosia</RB_CentrifugeLuxuriousComb.jobString>
+  <RB_CentrifugePsychicComb.label>extract from psychic comb</RB_CentrifugePsychicComb.label>
+  <RB_CentrifugePsychicComb.description>Centrifuges a psychic comb to extract honey, wax and psychoid leaves</RB_CentrifugePsychicComb.description>
+  <RB_CentrifugePsychicComb.jobString>Extracting honey, wax and psychoid leaves</RB_CentrifugePsychicComb.jobString>
+  <RB_CentrifugeStonerComb.label>extract from stoner comb</RB_CentrifugeStonerComb.label>
+  <RB_CentrifugeStonerComb.description>Centrifuges a stoner comb to extract honey, wax and smokeleaf leaves</RB_CentrifugeStonerComb.description>
+  <RB_CentrifugeStonerComb.jobString>Extracting honey, wax and smokeleaf leaves</RB_CentrifugeStonerComb.jobString>
+  <RB_CentrifugeAgriculturalComb.label>extract from agricultural comb</RB_CentrifugeAgriculturalComb.label>
+  <RB_CentrifugeAgriculturalComb.description>Centrifuges an agricultural comb to extract honey, wax and vegetables</RB_CentrifugeAgriculturalComb.description>
+  <RB_CentrifugeAgriculturalComb.jobString>Extracting honey, wax and vegetables</RB_CentrifugeAgriculturalComb.jobString>
+  <RB_CentrifugeBittersweetComb.label>extract from bittersweet comb</RB_CentrifugeBittersweetComb.label>
+  <RB_CentrifugeBittersweetComb.description>Centrifuges a bittersweet comb to extract honey, wax and chocolate</RB_CentrifugeBittersweetComb.description>
+  <RB_CentrifugeBittersweetComb.jobString>Extracting honey, wax and chocolate</RB_CentrifugeBittersweetComb.jobString>
+  <RB_CentrifugeLacticComb.label>extract from lactic comb</RB_CentrifugeLacticComb.label>
+  <RB_CentrifugeLacticComb.description>Centrifuges a lactic comb to extract honey, wax and milk</RB_CentrifugeLacticComb.description>
+  <RB_CentrifugeLacticComb.jobString>Extracting honey, wax and milk</RB_CentrifugeLacticComb.jobString>
+  <RB_CentrifugeEgglayingComb.label>extract from egglaying comb</RB_CentrifugeEgglayingComb.label>
+  <RB_CentrifugeEgglayingComb.description>Centrifuges a egglaying comb to extract honey, wax and eggs</RB_CentrifugeEgglayingComb.description>
+  <RB_CentrifugeEgglayingComb.jobString>Extracting honey, wax and eggs</RB_CentrifugeEgglayingComb.jobString>
+  <RB_CentrifugeInsectoidComb.label>extract from insectoid comb</RB_CentrifugeInsectoidComb.label>
+  <RB_CentrifugeInsectoidComb.description>Centrifuges an insectoid comb to extract honey, wax and insect jelly</RB_CentrifugeInsectoidComb.description>
+  <RB_CentrifugeInsectoidComb.jobString>Extracting honey, wax and insect jelly</RB_CentrifugeInsectoidComb.jobString>
+  <RB_CentrifugeElectronicComb.label>extract from electronic comb</RB_CentrifugeElectronicComb.label>
+  <RB_CentrifugeElectronicComb.description>Centrifuges an electronic comb to extract honey, wax and industrial components</RB_CentrifugeElectronicComb.description>
+  <RB_CentrifugeElectronicComb.jobString>Extracting honey, wax and industrial components</RB_CentrifugeElectronicComb.jobString>
+  <RB_CentrifugeOilyComb.label>extract from oily comb</RB_CentrifugeOilyComb.label>
+  <RB_CentrifugeOilyComb.description>Centrifuges an oily comb to extract honey, wax and chemfuel</RB_CentrifugeOilyComb.description>
+  <RB_CentrifugeOilyComb.jobString>Extracting honey, wax and chemfuel</RB_CentrifugeOilyComb.jobString>
+  <RB_CentrifugePlasticComb.label>extract from plastic comb</RB_CentrifugePlasticComb.label>
+  <RB_CentrifugePlasticComb.description>Centrifuges a plastic comb to extract honey, wax and plasteel</RB_CentrifugePlasticComb.description>
+  <RB_CentrifugePlasticComb.jobString>Extracting honey, wax and plasteel</RB_CentrifugePlasticComb.jobString>
+  <RB_CentrifugePetComb.label>extract from pet comb</RB_CentrifugePetComb.label>
+  <RB_CentrifugePetComb.description>Centrifuges a pet comb to extract honey, wax and kibble</RB_CentrifugePetComb.description>
+  <RB_CentrifugePetComb.jobString>Extracting honey, wax and kibble</RB_CentrifugePetComb.jobString>
+  <RB_CentrifugeStrawComb.label>extract from straw comb</RB_CentrifugeStrawComb.label>
+  <RB_CentrifugeStrawComb.description>Centrifuges a straw comb to extract honey, wax and hay</RB_CentrifugeStrawComb.description>
+  <RB_CentrifugeStrawComb.jobString>Extracting honey, wax and hay</RB_CentrifugeStrawComb.jobString>
+  <RB_CentrifugeWeavingComb.label>extract from weaving comb</RB_CentrifugeWeavingComb.label>
+  <RB_CentrifugeWeavingComb.description>Centrifuges a weaving comb to extract honey, wax and cloth</RB_CentrifugeWeavingComb.description>
+  <RB_CentrifugeWeavingComb.jobString>Extracting honey, wax and cloth</RB_CentrifugeWeavingComb.jobString>
+  <RB_CentrifugeTannerComb.label>extract from tanner comb</RB_CentrifugeTannerComb.label>
+  <RB_CentrifugeTannerComb.description>Centrifuges a tanner comb to extract honey, wax and leather</RB_CentrifugeTannerComb.description>
+  <RB_CentrifugeTannerComb.jobString>Extracting honey, wax and leather</RB_CentrifugeTannerComb.jobString>
+  <RB_CentrifugeWoolyComb.label>extract from wooly comb</RB_CentrifugeWoolyComb.label>
+  <RB_CentrifugeWoolyComb.description>Centrifuges a wooly comb to extract honey, wax and wool</RB_CentrifugeWoolyComb.description>
+  <RB_CentrifugeWoolyComb.jobString>Extracting honey, wax and wool</RB_CentrifugeWoolyComb.jobString>
+  <RB_CentrifugeHighComb.label>extract from high comb</RB_CentrifugeHighComb.label>
+  <RB_CentrifugeHighComb.description>Centrifuges a high comb to extract honey, wax and yayo</RB_CentrifugeHighComb.description>
+  <RB_CentrifugeHighComb.jobString>Extracting honey, wax and yayo</RB_CentrifugeHighComb.jobString>
+  <RB_CentrifugeLuciferComb.label>extract from lucifer comb</RB_CentrifugeLuciferComb.label>
+  <RB_CentrifugeLuciferComb.description>Centrifuges a lucifer comb to extract honey, wax and luciferium</RB_CentrifugeLuciferComb.description>
+  <RB_CentrifugeLuciferComb.jobString>Extracting honey, wax and luciferium</RB_CentrifugeLuciferComb.jobString>
+  <RB_CentrifugeCulinaryComb.label>extract from culinary comb</RB_CentrifugeCulinaryComb.label>
+  <RB_CentrifugeCulinaryComb.description>Centrifuges a culinary comb to extract honey, wax and nutrient paste</RB_CentrifugeCulinaryComb.description>
+  <RB_CentrifugeCulinaryComb.jobString>Extracting honey, wax and nutrient paste</RB_CentrifugeCulinaryComb.jobString>
+  <RB_CentrifugeChefComb.label>extract from chef comb</RB_CentrifugeChefComb.label>
+  <RB_CentrifugeChefComb.description>Centrifuges a chef comb to extract honey, wax and fine meals</RB_CentrifugeChefComb.description>
+  <RB_CentrifugeChefComb.jobString>Extracting honey, wax and fine meals</RB_CentrifugeChefComb.jobString>
+  <RB_CentrifugeMedicinalComb.label>extract from medicinal comb</RB_CentrifugeMedicinalComb.label>
+  <RB_CentrifugeMedicinalComb.description>Centrifuges a medicinal comb to extract honey, wax and herbal medicine</RB_CentrifugeMedicinalComb.description>
+  <RB_CentrifugeMedicinalComb.jobString>Extracting honey, wax and herbal medicine</RB_CentrifugeMedicinalComb.jobString>
+  <RB_CentrifugeSurgeonComb.label>extract from surgeon comb</RB_CentrifugeSurgeonComb.label>
+  <RB_CentrifugeSurgeonComb.description>Centrifuges a surgeon comb to extract honey, wax and ultratech medicine</RB_CentrifugeSurgeonComb.description>
+  <RB_CentrifugeSurgeonComb.jobString>Extracting honey, wax and ultratech medicine</RB_CentrifugeSurgeonComb.jobString>
+  <RB_CentrifugeSyntheticComb.label>extract from synthetic comb</RB_CentrifugeSyntheticComb.label>
+  <RB_CentrifugeSyntheticComb.description>Centrifuges a synthetic comb to extract honey, wax and synthread</RB_CentrifugeSyntheticComb.description>
+  <RB_CentrifugeSyntheticComb.jobString>Extracting honey, wax and synthread</RB_CentrifugeSyntheticComb.jobString>
+  <RB_CentrifugeHyperComb.label>extract from hyper comb</RB_CentrifugeHyperComb.label>
+  <RB_CentrifugeHyperComb.description>Centrifuges a hyper comb to extract honey, wax and hyperweave</RB_CentrifugeHyperComb.description>
+  <RB_CentrifugeHyperComb.jobString>Extracting honey, wax and hyperweave</RB_CentrifugeHyperComb.jobString>
+  <RB_CentrifugeNitroComb.label>extract from nitro comb</RB_CentrifugeNitroComb.label>
+  <RB_CentrifugeNitroComb.description>Centrifuges a nitro comb to extract honey, wax and explosive shells</RB_CentrifugeNitroComb.description>
+  <RB_CentrifugeNitroComb.jobString>Extracting honey, wax and explosive shells</RB_CentrifugeNitroComb.jobString>
+  <RB_PreserveMeat.label>preserve meat with honey</RB_PreserveMeat.label>
+  <RB_PreserveMeat.description>Use honey to preserve small roasted pieces of meat, avoiding meat spoilage.</RB_PreserveMeat.description>
+  <RB_PreserveMeat.jobString>Cooking preserved meat.</RB_PreserveMeat.jobString>
+  <RB_PreserveVegetables.label>preserve vegetables with honey</RB_PreserveVegetables.label>
+  <RB_PreserveVegetables.description>Use honey to preserve small roasted pieces of vegetables, avoiding food spoilage.</RB_PreserveVegetables.description>
+  <RB_PreserveVegetables.jobString>Cooking preserved vegetables.</RB_PreserveVegetables.jobString>
+  <RB_CookHoneyMealSimple.label>cook simple honey meal</RB_CookHoneyMealSimple.label>
+  <RB_CookHoneyMealSimple.description>Cook a straightforward honey meal from one ingredient.</RB_CookHoneyMealSimple.description>
+  <RB_CookHoneyMealSimple.jobString>Cooking simple honey meal.</RB_CookHoneyMealSimple.jobString>
+  <RB_CookHoneyMealSimpleBulk.label>bulk cook 4 simple honey meal</RB_CookHoneyMealSimpleBulk.label>
+  <RB_CookHoneyMealSimpleBulk.description>Bulk cook 4 straightforward honey meals from one ingredient. There is a bit of ingredient waste involved in this, though.</RB_CookHoneyMealSimpleBulk.description>
+  <RB_CookHoneyMealSimpleBulk.jobString>Cooking 4 simple honey meals.</RB_CookHoneyMealSimpleBulk.jobString>
+  <RB_CookHoneyMealFine.label>cook fine honey meal</RB_CookHoneyMealFine.label>
+  <RB_CookHoneyMealFine.description>Cook a somewhat complex meal from a combination of honey and plant ingredients.</RB_CookHoneyMealFine.description>
+  <RB_CookHoneyMealFine.jobString>Cooking fine honey meal.</RB_CookHoneyMealFine.jobString>
+  <RB_CookHoneyMealFineBulk.label>bulk cook 4 fine honey meals</RB_CookHoneyMealFineBulk.label>
+  <RB_CookHoneyMealFineBulk.description>Bulk Cook 4 somewhat complex meals from a combination of honey and plant ingredients. There is a bit of ingredient waste involved in this, though.</RB_CookHoneyMealFineBulk.description>
+  <RB_CookHoneyMealFineBulk.jobString>Cooking 4 fine honey meals.</RB_CookHoneyMealFineBulk.jobString>
+  <RB_CookHoneyMealLavish.label>cook lavish honey meal</RB_CookHoneyMealLavish.label>
+  <RB_CookHoneyMealLavish.description>Cook a very complex meal from a combination of honey and plant ingredients. Much of the ingredients are wasted.</RB_CookHoneyMealLavish.description>
+  <RB_CookHoneyMealLavish.jobString>Cooking lavish honey meal.</RB_CookHoneyMealLavish.jobString>
+  <RB_CookHoneyMealLavishBulk.label>bulk cook 4 lavish honey meals</RB_CookHoneyMealLavishBulk.label>
+  <RB_CookHoneyMealLavishBulk.description>Builk Cook 4 very complex meals from a combination of honey and plant ingredients. Much of the ingredients are wasted.</RB_CookHoneyMealLavishBulk.description>
+  <RB_CookHoneyMealLavishBulk.jobString>Cooking lavish honey meals.</RB_CookHoneyMealLavishBulk.jobString>
+  <AA_Make_Kibble_Bees.label>make kibble from bees</AA_Make_Kibble_Bees.label>
+  <AA_Make_Kibble_Bees.description>Make animal kibble by processing bee biomass. Turns any combination of 50 queens and drones into kibble. useful to get rid of any excess bees you are producing. You monster.</AA_Make_Kibble_Bees.description>
+  <AA_Make_Kibble_Bees.jobString>Making kibble.</AA_Make_Kibble_Bees.jobString>
+  <RB_MeadMust.label>make mead must</RB_MeadMust.label>
+  <RB_MeadMust.description>Make mead must from honey.</RB_MeadMust.description>
+  <RB_MeadMust.jobString>Making mead must.</RB_MeadMust.jobString>
+  <RB_WaxToChemfuel.label>make chemfuel from wax</RB_WaxToChemfuel.label>
+  <RB_WaxToChemfuel.description>Make a batch of chemfuel from wax. This is a very inefficient method of getting chemfuel, but useful to get rid of unwanted beeswax.</RB_WaxToChemfuel.description>
+  <RB_WaxToChemfuel.jobString>Refining chemfuel from wax.</RB_WaxToChemfuel.jobString>
+  <RB_CreateTier4Research.label>create tier 4 bee research</RB_CreateTier4Research.label>
+  <RB_CreateTier4Research.description>Research bee combinations to create tier 4 bees. This research is random and you may get duplicate results.</RB_CreateTier4Research.description>
+  <RB_CreateTier4Research.jobString>Researching bees</RB_CreateTier4Research.jobString>
+  <RB_CreateTier5Research.label>create tier 5 bee research</RB_CreateTier5Research.label>
+  <RB_CreateTier5Research.description>Research bee combinations to create tier 5 bees. This research is random and you may get duplicate results.</RB_CreateTier5Research.description>
+  <RB_CreateTier5Research.jobString>Researching bees</RB_CreateTier5Research.jobString>
+  <RB_ExtracTemperateHive.label>extract from temperate hive</RB_ExtracTemperateHive.label>
+  <RB_ExtracTemperateHive.description>Gently extract bees, queen bees and combs from a wild temperate beehive</RB_ExtracTemperateHive.description>
+  <RB_ExtracTemperateHive.jobString>Extracting bees</RB_ExtracTemperateHive.jobString>
+  <RB_ExtracMildHive.label>extract from mild hive</RB_ExtracMildHive.label>
+  <RB_ExtracMildHive.description>Gently extract bees, queen bees and combs from a wild mild beehive</RB_ExtracMildHive.description>
+  <RB_ExtracMildHive.jobString>Extracting bees</RB_ExtracMildHive.jobString>
+</LanguageData>
