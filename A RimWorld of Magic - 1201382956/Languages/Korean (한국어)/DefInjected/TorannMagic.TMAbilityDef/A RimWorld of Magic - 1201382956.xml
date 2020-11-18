@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_Artifact_Conviction.label>Conviction</TM_Artifact_Conviction.label>
+  <TM_Artifact_Conviction.description>Overpower a pawn with conviction to join your cause. This power will exact a heavy toll on the caster.
+		
+Use of Conviction will destroy the orb.</TM_Artifact_Conviction.description>
+  <TM_CompVerb.label>secondary targeter</TM_CompVerb.label>
+  <TM_CompVerb.description>verb used in secondary targeting</TM_CompVerb.description>
+  <TM_Shadow.label>Shadow</TM_Shadow.label>
+  <TM_Shadow.description>Creates a shadow aura around the caster that periodically buffs an ally.
+		
+Shadow: Arcane augmentation that assists the worker improving their physical capacity but causes a mood decrease.
+
+Application Frequency: 	80-90s
+Duration:	500-600s
+Manipulation, Sight, Hearing, Blood filtration: +10%
+Moving, Consciousness:	+5%
+Mood decrease: -3
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Shadow.description>
+  <TM_Shadow_I.label>Shadow</TM_Shadow_I.label>
+  <TM_Shadow_I.description>Creates a shadow aura around the caster that periodically buffs an ally.
+		
+Shadow: Arcane augmentation that assists the worker improving their physical capacity but causes a mood decrease.
+
+Application Frequency: 	80-90s
+Duration:	500-600s
+Manipulation, Sight, Hearing, Talking: +20%
+Moving, Consciousness, Metabolism, Blood filtration: +10%
+Mood decrease:	-4
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Shadow_I.description>
+  <TM_Shadow_II.label>Shadow</TM_Shadow_II.label>
+  <TM_Shadow_II.description>Creates a shadow aura around the caster that periodically buffs an ally.
+		
+Shadow: Arcane augmentation that assists the worker improving their physical capacity but causes a mood decrease.
+	
+Application Frequency: 	80-90s	
+Duration:	1100-1250s
+Manipulation, Sight, Hearing, Talking: +25%
+Moving, Metabolism, Blood filtration: +15%
+Consciousness: 	+10%
+Mood decrease:	-6
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Shadow_II.description>
+  <TM_Shadow_III.label>Shadow</TM_Shadow_III.label>
+  <TM_Shadow_III.description>Creates a shadow aura around the caster that periodically buffs an ally.
+		
+Shadow: Arcane augmentation that assists the worker improving their physical capacity but causes a mood decrease.
+	
+Application Frequency: 	80-90s	
+Duration:	1100-1250s
+Manipulation, Sight, Hearing, Talking: +25%
+Moving, Metabolism, Blood filtration: +20%
+Consciousness: 	+15%
+Mood decrease:	-8
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Shadow_III.description>
+  <TM_MagicMissile.label>Magic Missile</TM_MagicMissile.label>
+  <TM_MagicMissile.description>Fire a wave of magic missiles at enemies.
+		
+Chance to confuse: 3%
+Casting time: 2.5s
+Range: 24
+Projectiles: 14 over 2.8s
+Damage: 4</TM_MagicMissile.description>
+  <TM_MagicMissile_I.label>Magic Missile</TM_MagicMissile_I.label>
+  <TM_MagicMissile_I.description>Fire a wave of magic missiles at enemies.
+		
+Chance to confuse: 5%
+Casting time: 2s
+Range: 28
+Projectiles: 17 over 2.83s
+Damage: 5</TM_MagicMissile_I.description>
+  <TM_MagicMissile_II.label>Magic Missile</TM_MagicMissile_II.label>
+  <TM_MagicMissile_II.description>Fire a wave of magic missiles at enemies.
+		
+Chance to confuse: 7%
+Casting time: 1.5s
+Range: 32
+Projectiles: 20 over 2.67s
+Damage: 6</TM_MagicMissile_II.description>
+  <TM_MagicMissile_III.label>Magic Missile</TM_MagicMissile_III.label>
+  <TM_MagicMissile_III.description>Fire a wave of magic missiles at enemies.
+		
+Chance to confuse: 9%
+Casting time: 1s
+Range: 36
+Projectiles: 24 over 2.4s
+Damage: 7</TM_MagicMissile_III.description>
+  <TM_Teleport.label>Teleport</TM_Teleport.label>
+  <TM_Teleport.description>Mass teleport spell. Creates a temporary method of long range transport; be warned, the portal collapses after a brief period causing a feedback explosion at the point the portal was created.</TM_Teleport.description>
+  <TM_Blink.label>Blink</TM_Blink.label>
+  <TM_Blink.description>Instantly moves the caster to the target location.
+		
+Casting time: .5s
+Recharge time: 10s
+Range: 30</TM_Blink.description>
+  <TM_Blink_I.label>Blink</TM_Blink_I.label>
+  <TM_Blink_I.description>Instantly moves the caster to the target location.
+		
+Casting time: .3s
+Recharge time: 8s
+Range: 50</TM_Blink_I.description>
+  <TM_Blink_II.label>Blink</TM_Blink_II.label>
+  <TM_Blink_II.description>Instantly moves the caster to the target location.
+		
+Casting time: .1s
+Recharge time: 6s
+Range: 70</TM_Blink_II.description>
+  <TM_Blink_III.label>Blink</TM_Blink_III.label>
+  <TM_Blink_III.description>Instantly moves the caster to the target location.
+		
+Casting time: 0s
+Recharge time: 5s
+Range: 90</TM_Blink_III.description>
+  <TM_Summon.label>Summon</TM_Summon.label>
+  <TM_Summon.description>Summon objects to the casters location.
+		
+Casting time: 3s
+Recharge time: 20s
+Range: 70</TM_Summon.description>
+  <TM_Summon_I.label>Summon</TM_Summon_I.label>
+  <TM_Summon_I.description>Summon objects to the casters location.
+		
+Casting time: 2.7s
+Recharge time: 18s
+Range: 80</TM_Summon_I.description>
+  <TM_Summon_II.label>Summon</TM_Summon_II.label>
+  <TM_Summon_II.description>Summon objects to the casters location.
+		
+Casting time: 2.5s
+Recharge time: 16s
+Range: 90</TM_Summon_II.description>
+  <TM_Summon_III.label>Summon</TM_Summon_III.label>
+  <TM_Summon_III.description>Summon objects to the casters location.
+		
+Casting time: 2.4s
+Recharge time: 15s
+Range: 100</TM_Summon_III.description>
+  <TM_FoldReality.label>Gateway</TM_FoldReality.label>
+  <TM_FoldReality.description>Folds reality to open a gateway to another player controlled location and instantly moves all pawns and items in a 7 cell radius around the target cell to the caster.</TM_FoldReality.description>
+  <TM_BardTraining.label>Bard Training</TM_BardTraining.label>
+  <TM_BardTraining.description>Hone the skills of a bard by undergoing training in performing arts, comedy, socializing, and inspiration. Each level will change the bard's trait to reflect their skill level.
+	
+Ranks:
+Entertainer: Social impact +10%, Negotiation +20%, Trade +10%,
+Pain threshold -10%, carrying capacity -10, work speed -10%
+
+Performer: Social impact +20%, Negotiation +30%, Trade +15%,
+Pain threshold -12%, carrying capacity -15, work speed -12%
+
+Minstrel: Social impact +30%, Negotiation +35%, Trade +20%,
+Pain threshold -14%, carrying capacity -18, work speed -14%
+
+Bard: Social impact +35%, Negotiation +40%, Trade +25%,
+Pain threshold -15%, carrying capacity -20, work speed -15%</TM_BardTraining.description>
+  <TM_Entertain.label>Entertain</TM_Entertain.label>
+  <TM_Entertain.description>Entertain fellow colonists using a variety of methods. This skill has two components, a passive skill and an active skill. The passive skill allows the bard to entertain other colonists in passing conversation.
+
+This command toggles the active skill on or off.
+	
+Activating the ability casts a net over the colony and allows the bard to detect troubled pawns and attempt to entertain them. The bard will gain experience points as a mage when active entertaining is successful. Keeping this ability active reduces max mana by 30. The bard performs entertainment as a type of job, and will perform entertainment based on the priority of the "Warden" work type.</TM_Entertain.description>
+  <TM_Inspire.label>Inspire</TM_Inspire.label>
+  <TM_Inspire.description>The bard inspires other nearby pawns. This ability is always active.</TM_Inspire.description>
+  <TM_Lullaby.label>Lullaby</TM_Lullaby.label>
+  <TM_Lullaby.description>Projects an emotionally soothing wave that washes away concerns and consciousness that can put any creatures in the target area to sleep. Does not work on mechanoids.</TM_Lullaby.description>
+  <TM_Lullaby_I.label>Lullaby (I)</TM_Lullaby_I.label>
+  <TM_Lullaby_I.description>Projects an emotionally soothing wave that washes away concerns and consciousness that can put any creatures in the target area to sleep.</TM_Lullaby_I.description>
+  <TM_Lullaby_II.label>Lullaby (II)</TM_Lullaby_II.label>
+  <TM_Lullaby_II.description>Projects an emotionally soothing wave that washes away concerns and consciousness that can put any creatures in the target area to sleep.</TM_Lullaby_II.description>
+  <TM_Lullaby_III.label>Lullaby</TM_Lullaby_III.label>
+  <TM_Lullaby_III.description>Projects an emotionally soothing wave that washes away concerns and consciousness that can put any creatures in the target area to sleep.</TM_Lullaby_III.description>
+  <TM_BattleHymn.label>Battle Hymn</TM_BattleHymn.label>
+  <TM_BattleHymn.description>Play a rousing battle hymn to motivate and empower nearby allies. Each verse of the hymn adds to the effect and will further bolster the combat power of allies. Every verse consumes 9% additional mana (reduced through training). 
+	
+Battle Hymn has a small chance to cause inspirations that will further boost combat abilities. 
+	
+Use the skill to activate or deactivate the ability.</TM_BattleHymn.description>
+  <TM_BladeFocus.label>Blade training</TM_BladeFocus.label>
+  <TM_BladeFocus.description>Training that improves technique and skill with melee weapons and raises the status of the bladedancer. Each level will change the trait of the bladedancer to reflect their skill level.
+
+Ranks:
+Bladesman: Speed +0.15c/s, MBT -3%, Hit chance +3%, Dodge +5%, Shooting Acc. -20%, Global Workspeed -10%
+Blademaster: Speed +0.2c/s, MBT -5%, Hit chance +6%, Dodge +10%, Shooting Acc. -25%, Global Workspeed -8%
+Bladedancer: Speed +0.3c/s, MBT -8%, Hit chance +10%, Dodge +15%, Shooting Acc. -28%, Global Workspeed -6%, Pain threshold +5%
+Legendary Bladedancer: Speed +0.4c/s, MBT -10%, Hit chance +15%, Dodge +20%, Shooting Acc. -30%, Global Workspeed -5%, Pain threshold +10%</TM_BladeFocus.description>
+  <TM_BladeArt.label>Body Training</TM_BladeArt.label>
+  <TM_BladeArt.description>Training that enhances physical capabilities.
+
+Level 0: Moving +10%, Manipulation +10%
+Level 1: Moving +15%, Manipulation +15%
+Level 2: Moving +20%, Manipulation +20%, Breathing +10%
+Level 3: Moving +25%, Manipulation +25%, Breathing +15%, Blood pumping +10%, Blood filtration +10%</TM_BladeArt.description>
+  <TM_BladeSpin.label>Blade Spin</TM_BladeSpin.label>
+  <TM_BladeSpin.description>The blademaster seems to blur for a split second, striking all nearby targets in a flurry of steel.</TM_BladeSpin.description>
+  <TM_SeismicSlash.label>Seismic Slash</TM_SeismicSlash.label>
+  <TM_SeismicSlash.description>Harnessing the emotionless soul of the blade, the bladedancer unleashes a strike that rends the fabric of space along a line.</TM_SeismicSlash.description>
+  <TM_PhaseStrike.label>Phase Strike</TM_PhaseStrike.label>
+  <TM_PhaseStrike.description>Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.
+
+Warmup: .3s
+Cooldown: 25s
+Range: 30</TM_PhaseStrike.description>
+  <TM_PhaseStrike_I.label>Phase Strike (I)</TM_PhaseStrike_I.label>
+  <TM_PhaseStrike_I.description>Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.
+	
+Warmup: .2s
+Cooldown: 23s
+Range: 35</TM_PhaseStrike_I.description>
+  <TM_PhaseStrike_II.label>Phase Strike (II)</TM_PhaseStrike_II.label>
+  <TM_PhaseStrike_II.description>Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.
+		
+Warmup: .1s
+Cooldown: 21s
+Range: 40</TM_PhaseStrike_II.description>
+  <TM_PhaseStrike_III.label>Phase Strike (III)</TM_PhaseStrike_III.label>
+  <TM_PhaseStrike_III.description>Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.
+
+Warmup: 0s
+Cooldown: 20s
+Range: 45</TM_PhaseStrike_III.description>
+  <TM_BloodGift.label>Blood Sacrifice</TM_BloodGift.label>
+  <TM_BloodGift.description>Combines blood and mana into a hybrid form of power used to perform blood magic. The use of blood sacrifice inflicts several deep cuts to allow ready access to blood and combines it with mana to generate an immediate amount of blood magic power.
+	
+Blood mages can slowly generate blood magic power from open, bleeding wounds without the use of mana, and can also train to use fresh, exposed blood near them to fuel blood magic.
+
+A blood mage will slowly lose blood magic power when they are no longer bleeding.</TM_BloodGift.description>
+  <TM_IgniteBlood.label>Ignite Blood</TM_IgniteBlood.label>
+  <TM_IgniteBlood.description>Ignites and burns any exposed blood in an intense flash fire. Fire will continue to spread to nearby blood.</TM_IgniteBlood.description>
+  <TM_BloodForBlood.label>Blood For Blood</TM_BloodForBlood.label>
+  <TM_BloodForBlood.description>Curses a targets blood to heat and accelerate until it seeps from every pore of its victim. This curse has several affects. 
+
+The blood that's expelled from the target becomes a mist that the caster absorbs as restorative energy and uses it to mend wounds and replenish blood reserves. This ability will slowly heal scars and other permanent injuries of the caster.
+
+The wounds and injuries of a target will also be healed as the blood exits their body. The target loses a portion of their blood each pulse and, like any wound, can result in incapacitation or death if they lose too much blood.
+
+The transfer and healing rate is increased for both caster and victim depending on how much the victim is bleeding. The effects are the same when used on friendly or enemy pawns, but will trigger an outrage if used to down or slay an allied or neutral pawn.</TM_BloodForBlood.description>
+  <TM_BloodShield.label>Blood Shield</TM_BloodShield.label>
+  <TM_BloodShield.description>Surrounds a target in a barrier formed from the blood energy of the caster. The energy from the shield will slowly regenerate the pawn it is protecting. Any damage done to the shield disperses some of this energy but also causes a burst of healing on the protected pawn.
+		
+A portion of damage absorbed by the shield will be inflicted on the caster due to the blood link - this includes the gradual healing. As long as the blood mage supporting the shield has blood magic power, any returned damage will detract from this blood power, but if the blood mage is out of blood magic power, returned damage will cause physical harm to the blood mage.
+		
+Blood mages cannot form a blood shield on themselves.</TM_BloodShield.description>
+  <TM_Rend.label>Rend</TM_Rend.label>
+  <TM_Rend.description>Causes the victims blood to violently reject its host and erupt from multiple wounds, resulting in massive hemorrhaging.
+		
+Range: 35
+Radius: 3
+Max Targets: 3
+Cooldown: 40
+Cast Time: 1.5s</TM_Rend.description>
+  <TM_Rend_I.label>Rend I</TM_Rend_I.label>
+  <TM_Rend_I.description>Causes the victims blood to violently reject its host and erupt from multiple wounds, resulting in massive hemorrhaging.
+		
+Range: 38
+Radius: 4
+Max Targets: 4
+Cooldown: 30
+Cast Time: 1.3s</TM_Rend_I.description>
+  <TM_Rend_II.label>Rend (II)</TM_Rend_II.label>
+  <TM_Rend_II.description>Causes the victims blood to violently reject its host and erupt from multiple wounds, resulting in massive hemorrhaging.
+		
+Range: 41
+Radius: 4
+Max Targets: 5
+Cooldown: 20 
+Cast Time: 1.1s</TM_Rend_II.description>
+  <TM_Rend_III.label>Rend</TM_Rend_III.label>
+  <TM_Rend_III.description>Causes the victims blood to violently reject its host and erupt from multiple wounds, resulting in massive hemorrhaging.
+		
+Range: 44
+Radius: 5
+Max Targets: 5
+Cooldown: 10
+Cast Time: 1s</TM_Rend_III.description>
+  <TM_BloodMoon.label>Blood Moon</TM_BloodMoon.label>
+  <TM_BloodMoon.description>Surrounds an area in blood magic, calling forth demons of rage and terror to prey on enemies within.</TM_BloodMoon.description>
+  <TM_BloodMoon_I.label>Blood Moon I</TM_BloodMoon_I.label>
+  <TM_BloodMoon_I.description>Surrounds an area in blood magic, calling forth demons of rage and terror to prey on enemies within.</TM_BloodMoon_I.description>
+  <TM_BloodMoon_II.label>Blood Moon II</TM_BloodMoon_II.label>
+  <TM_BloodMoon_II.description>Surrounds an area in blood magic, calling forth demons of rage and terror to prey on enemies within.</TM_BloodMoon_II.description>
+  <TM_BloodMoon_III.label>Blood Moon III</TM_BloodMoon_III.label>
+  <TM_BloodMoon_III.description>Surrounds an area in blood magic, calling forth demons of rage and terror to prey on enemies within.</TM_BloodMoon_III.description>
+  <TM_LightLance.label>Light Lance</TM_LightLance.label>
+  <TM_LightLance.description>Focus light into an intense beam that burns everything along its path. This ability is empowered by stored light.</TM_LightLance.description>
+  <TM_Sunfire.label>Sunfire</TM_Sunfire.label>
+  <TM_Sunfire.description>The target area is laced with burning slashes of light. This ability is empowered by stored light.
+
+Cast time: 3s
+Range: 50
+Cooldown: 60s
+Radius: 5
+Count: 13</TM_Sunfire.description>
+  <TM_Sunfire_I.label>Sunfire (I)</TM_Sunfire_I.label>
+  <TM_Sunfire_I.description>The target area is laced with burning slashes of light. This ability is empowered by stored light.
+
+Cast time: 2.7s
+Range: 55
+Cooldown: 55s
+Radius: 6
+Count: 14</TM_Sunfire_I.description>
+  <TM_Sunfire_II.label>Sunfire (II)</TM_Sunfire_II.label>
+  <TM_Sunfire_II.description>The target area is laced with burning slashes of light. This ability is empowered by stored light.
+
+Cast time: 2.4s
+Range: 60
+Cooldown: 50s
+Radius: 7
+Count: 15</TM_Sunfire_II.description>
+  <TM_Sunfire_III.label>Sunfire (III)</TM_Sunfire_III.label>
+  <TM_Sunfire_III.description>The target area is laced with burning slashes of light. This ability is empowered by stored light.
+
+Cast time: 2.2s
+Range: 65
+Cooldown: 45s
+Radius: 8
+Count: 16</TM_Sunfire_III.description>
+  <TM_LightBurst.label>Light Burst</TM_LightBurst.label>
+  <TM_LightBurst.description>Creates flashes of light that blind and disorient pawns caught in the blast. Disoriented pawns will be unable to distinguish between friend and foe and may fire on nearby friendly pawns. This ability is empowered by stored light.</TM_LightBurst.description>
+  <TM_LightSkip.label>Light Skip</TM_LightSkip.label>
+  <TM_LightSkip.description>The caster rides a wave of light for near-instant travel. Neither the caster's position or target's position can be roofed.</TM_LightSkip.description>
+  <TM_LightSkipMass.label>Mass Light Skip</TM_LightSkipMass.label>
+  <TM_LightSkipMass.description>The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported.</TM_LightSkipMass.description>
+  <TM_LightSkipGlobal.label>Global Light Skip</TM_LightSkipGlobal.label>
+  <TM_LightSkipGlobal.description>The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported.</TM_LightSkipGlobal.description>
+  <TM_Refraction.label>Refraction</TM_Refraction.label>
+  <TM_Refraction.description>Creates a wall of light that affects projectiles as they pass through the wall. Enemy projectiles may be offset from their intended targets. Friendly projectiles may use a portion of the light energy to create a mirrored reflection of the projectile. The wall will last about 25 seconds or until it runs out of energy. This ability is empowered by stored light.</TM_Refraction.description>
+  <TM_SpiritOfLight.label>Spirit Of Light</TM_SpiritOfLight.label>
+  <TM_SpiritOfLight.description>Summons a Spirit of Light that aids and protects the caster. This ability requires 60 mana to sustain and reduces mana regeneration by 75%. Use this ability again to dismiss the spirit. The SoL is able to store light energy and uses light energy to perform actions.
+		
+The Spirit of Light works autonomously to aid the caster and will perform the following actions:
+o Deflects attacks
+o Cauterizes wounds of downed pawns
+o Attacks enemies (only when drafted)
+o Improve mood of nearby allies
+o Create a burst of joy
+o Protects the caster's dreams</TM_SpiritOfLight.description>
+  <TM_SoL_CreateLight.label>Create Light</TM_SoL_CreateLight.label>
+  <TM_SoL_CreateLight.description>Directs the Spirit of Light to create light at an area. This reduces the Spirit's light regeneration by 70%. Use this ability again at any location to dismiss the light.</TM_SoL_CreateLight.description>
+  <TM_SoL_Equalize.label>Equalize</TM_SoL_Equalize.label>
+  <TM_SoL_Equalize.description>Equalizes the light energy between the Spirit of Light and caster.</TM_SoL_Equalize.description>
+  <TM_ChaosTradition.label>Chaos Tradition</TM_ChaosTradition.label>
+  <TM_ChaosTradition.description>Chaos Tradition is the practice in which chaos mages redefines their thought process to exchange their available magic abilities. True to its name, the abilities learned cannot be controlled and will be randomly selected. Every ability cast by a chaos mage has a chance to be affected by arcane fluctuations.</TM_ChaosTradition.description>
+  <TM_Prediction.label>Prediction</TM_Prediction.label>
+  <TM_Prediction.description>Enables Prediction - a conscious effort dedicated to deciphering future events. Prediction has two components.
+	
+The first component is a self-awareness and intuition that makes the chronomancer uncannily difficult to harm, however, this splits the attention of the chronomancer and reduces their physical acuity and speed.
+
+The second component focuses on the prediction of significant events. Indicators such as flight of birds, a cloud of dust, a sound in the wind are highlighted to the chronomancer and woven together into a tapestry depicting a possible future.
+
+Neither method is infallible, but practice can improve the accuracy of prediction and reduce the focus required to sustain it.
+
+This ability reduces mana regeneration by 50%.</TM_Prediction.description>
+  <TM_AlterFate.label>Alter Fate</TM_AlterFate.label>
+  <TM_AlterFate.description>Alter the flow of time to avoid predicted disasters. This ability relies on accurate Predictions to shape the future. Highly skilled chronomancers can revert environmental conditions even after they occur.
+	
+Alter Fate is most effective against environmental conditions. This ability can backfire, however, causing the event to change, become more severe, or trigger the infamous "butterfly effect."</TM_AlterFate.description>
+  <TM_AccelerateTime.label>Accelerate Time</TM_AccelerateTime.label>
+  <TM_AccelerateTime.description>Accelerate Time applies a field around the target where all physical matter rapidly ages.
+
+When applied to inanimate objects, the effect is instant and will deteriorate items significantly; this can cause an item to disassemble into its base components. There is no area of effect for this function, only the object at the center will be affected.
+
+Living tissue will resist instant change, and requires a more gradual approach. Any living pawn affected will have increased movement and manipulation speed. Neutral elements (plants) will experience rapid growth.
+
+When use at a location or on a hostile enemy, all enemies in the area will be cursed with rapid aging. This will drain rest and energy from the target, accelerate other health conditions, and may inflict age related ailments.
+
+When used on friendly pawns, there is no area of effect, only the primary target will be affected. The aging process for friendly pawns is much more gradual, and may be canceled by Reverse Time.</TM_AccelerateTime.description>
+  <TM_ReverseTime.label>Reverse Time</TM_ReverseTime.label>
+  <TM_ReverseTime.description>Reverse Time applies a field around the target where all physical matter reverses its natural decay. Reversing the effects of time is more difficult - it requires more energy than accelerating time and can only be applied to a single target at a time.
+
+When applied to inanimate objects, the effect is instant and will regenerate items and restore material to a previous state. Reverse Time can be used to restore rotting food, decaying equipment, and tainted material.
+
+Living tissue will resist instant change and requires a more gradual approach. Any living pawn affected will have decreased movement and manipulation speed and their biological aging will reverse. This can remove many ailments that were caused recently as the tissue is restored to a state prior to the ailment; this includes wounds, diseases, and age related ailments that occurred within the window of time reversal.
+
+Reverse Time can be dispelled by countering the effects with Accelerate Time.</TM_ReverseTime.description>
+  <TM_ChronostaticField.label>Chronostatic Field</TM_ChronostaticField.label>
+  <TM_ChronostaticField.description>Chronostatic Field (also referred to as a time bubble) places all living creatures within the effected area out of phase with the flow of time. Interaction with affected creatures is impossible until they are returned to the natural flow of time.
+
+Radius: 3
+Range: 40
+Cast time: 1s</TM_ChronostaticField.description>
+  <TM_ChronostaticField_I.label>Chronostatic Field (I)</TM_ChronostaticField_I.label>
+  <TM_ChronostaticField_I.description>Chronostatic Field (also referred to as a time bubble) places all living creatures within the effected area out of phase with the flow of time. Interaction with affected creatures is impossible until they are returned to the natural flow of time.
+
+Radius: 3.5
+Range: 44
+Cast time: .8s</TM_ChronostaticField_I.description>
+  <TM_ChronostaticField_II.label>Chronostatic Field (II)</TM_ChronostaticField_II.label>
+  <TM_ChronostaticField_II.description>Chronostatic Field (also referred to as a time bubble) places all living creatures within the effected area out of phase with the flow of time. Interaction with affected creatures is impossible until they are returned to the natural flow of time.
+
+Radius: 4
+Range: 48
+Cast time: .6s</TM_ChronostaticField_II.description>
+  <TM_ChronostaticField_III.label>Chronostatic Field (III)</TM_ChronostaticField_III.label>
+  <TM_ChronostaticField_III.description>Chronostatic Field (also referred to as a time bubble) places all living creatures within the effected area out of phase with the flow of time. Interaction with affected creatures is impossible until they are returned to the natural flow of time.
+
+Radius: 4.5
+Range: 50
+Cast time: .5s</TM_ChronostaticField_III.description>
+  <TM_TimeMark.label>Time Mark</TM_TimeMark.label>
+  <TM_TimeMark.description>The chronomancer is able to capture their status at a specific point in time and return themselves to that point. This ability does not change time or affect anything else besides the chronomancer. The chronomancer will retain any memories they have at the time recall is activated; automated activation from a killing blow can inflict mental breaks since the chronomancer will remember their death.
+
+Recall has a limited effective span (~1 day) before the time marker expires and must be re-applied. When the time marker is active, max MP is reduced by 40 mana and mana regeneration is decreased by 30%.
+
+When set to autocast, the chronomancer will attempt to maintain a recall marker at all times - this does not affect activation triggers (downed/dead) which will always trigger if the skill is learned and time is marked.
+
+To maintain physical cohesion during a recall, the caster will retain all conditions with permanence (missing or added body parts, permanent injuries).  All chronomancer spells are reset following a Recall except Recall itself.</TM_TimeMark.description>
+  <TM_Recall.label>Recall</TM_Recall.label>
+  <TM_Recall.description>Returns the caster to a previous point in time. Cannot be used without an active time marker.</TM_Recall.description>
+  <TM_ProvisionerAura.label>Provisioner</TM_ProvisionerAura.label>
+  <TM_ProvisionerAura.description>Use ability to toggle the Provisioner Aura: improves rest and reduces hunger of nearby pawns. Can be improved to repair equipment, increase natural healing rates, and boost energy regeneration. This aura requires 60 stamina to maintain.</TM_ProvisionerAura.description>
+  <TM_TaskMasterAura.label>Task Master</TM_TaskMasterAura.label>
+  <TM_TaskMasterAura.description>Use ability to toggle the Task Master Aura: increases work speed, eating speed, and carrying capacity but causes pawns to be less social. Pawns under the scrutiny of a Task Master will acquire a mood penalty. This aura requires 70 stamina to maintain.</TM_TaskMasterAura.description>
+  <TM_CommanderAura.label>Commander</TM_CommanderAura.label>
+  <TM_CommanderAura.description>Use ability to toggle the Commander Aura: improves the mood of all nearby pawns but decreases their productivity. While this aura is enabled, the Commander will seek out pawns that have broken down due to mental stress and give them a motivational speech to overcome a breakdown. Pawns that overcome a mental break in this manner will not gain Catharsis. This aura requires 80 stamina to maintain.</TM_CommanderAura.description>
+  <TM_StayAlert.label>Stay Alert!</TM_StayAlert.label>
+  <TM_StayAlert.description>Issues the command for all nearby pawns to stay on high alert. Affected pawns will instantly gain rest and have increased sight. 
+
+Cooldown: 120s
+Max Targets: 10
+Range: 14
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_StayAlert.description>
+  <TM_StayAlert_I.label>Stay Alert!</TM_StayAlert_I.label>
+  <TM_StayAlert_I.description>Issues the command for all nearby pawns to stay on high alert. Affected pawns will instantly gain rest and have increased sight.
+	
+Cooldown: 110s
+Max Targets: 12
+Range: 16
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_StayAlert_I.description>
+  <TM_StayAlert_II.label>Stay Alert!</TM_StayAlert_II.label>
+  <TM_StayAlert_II.description>Issues the command for all nearby pawns to stay on high alert. Affected pawns will instantly gain rest and have increased sight.
+
+Cooldown: 100s
+Max Targets: 14
+Range: 18
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_StayAlert_II.description>
+  <TM_StayAlert_III.label>Stay Alert!</TM_StayAlert_III.label>
+  <TM_StayAlert_III.description>Issues the command for all nearby pawns to stay on high alert. Affected pawns will instantly gain rest and have increased sight.
+
+Cooldown: 90s
+Max Targets: 15
+Range: 20
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_StayAlert_III.description>
+  <TM_MoveOut.label>Move Out!</TM_MoveOut.label>
+  <TM_MoveOut.description>Issues the command for all nearby pawns to move out. Affected pawns will instantly gain increased movement and prevents pawns from being staggered or stunned. Pawns have reduced movement at the end of the command to recover their energy.
+
+Cooldown: 120s
+Max Targets: 10
+Range: 14
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_MoveOut.description>
+  <TM_MoveOut_I.label>Move Out!</TM_MoveOut_I.label>
+  <TM_MoveOut_I.description>Issues the command for all nearby pawns to move out. Affected pawns will instantly gain increased movement and cannot be staggered or stunned. Pawns suffer reduced movement at the end of the command to recover their energy.
+	
+Cooldown: 110s
+Max Targets: 12
+Range: 16
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_MoveOut_I.description>
+  <TM_MoveOut_II.label>Move Out!</TM_MoveOut_II.label>
+  <TM_MoveOut_II.description>Issues the command for all nearby pawns to move out. Affected pawns will instantly gain increased movement and cannot be staggered or stunned. Pawns suffer reduced movement at the end of the command to recover their energy.
+
+Cooldown: 100s
+Max Targets: 14
+Range: 18
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_MoveOut_II.description>
+  <TM_MoveOut_III.label>Move Out!</TM_MoveOut_III.label>
+  <TM_MoveOut_III.description>Issues the command for all nearby pawns to move out. Affected pawns will instantly gain increased movement and cannot be staggered or stunned. Pawns suffer reduced movement at the end of the command to recover their energy.
+
+Cooldown: 90s
+Max Targets: 15
+Range: 20
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_MoveOut_III.description>
+  <TM_HoldTheLine.label>Hold The Line!</TM_HoldTheLine.label>
+  <TM_HoldTheLine.description>Issues the command for all nearby pawns to hold the line. Affected pawns will gain damage resistance, pain tolerance, mental stability, and increased fire rate but will have reduced movement.
+
+Cooldown: 200s
+Max Targets: 7
+Range: 10
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_HoldTheLine.description>
+  <TM_HoldTheLine_I.label>Hold The Line!</TM_HoldTheLine_I.label>
+  <TM_HoldTheLine_I.description>Issues the command for all nearby pawns to hold the line. Affected pawns will gain damage resistance, pain tolerance, mental stability, and increased fire rate but will have reduced movement.
+
+Cooldown: 180s
+Max Targets: 8
+Range: 12
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_HoldTheLine_I.description>
+  <TM_HoldTheLine_II.label>Hold The Line!</TM_HoldTheLine_II.label>
+  <TM_HoldTheLine_II.description>Issues the command for all nearby pawns to hold the line. Affected pawns will gain damage resistance, pain tolerance, mental stability, and increased fire rate but will have reduced movement.
+
+Cooldown: 160s
+Max Targets: 9
+Range: 14
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_HoldTheLine_II.description>
+  <TM_HoldTheLine_III.label>Hold The Line!</TM_HoldTheLine_III.label>
+  <TM_HoldTheLine_III.description>Issues the command for all nearby pawns to hold the line. Affected pawns will gain damage resistance, pain tolerance, mental stability, and increased fire rate but will have reduced movement.
+
+Cooldown: 150s
+Max Targets: 10
+Range: 15
+
+Pawns may reject commands if the commander's social skill is below 10; a social skill of 5 would have a 50% chance to be rejected by each pawn in range.
+Commands cause a mood debuff; each command increases the severity of the debuff.
+Commands do not affect the commander.</TM_HoldTheLine_III.description>
+  <TM_Shroud.label>Shroud of Darkness</TM_Shroud.label>
+  <TM_Shroud.description>The Shroud of Darkness is a cloak of tangible malice and fear that consumes nearby energy.
+	
+The Shroud has many different functions and is a crucial component of the death knight's training. Foremost, the cloak provides a defensive bonus against all damage types and slightly increases weapon damage.
+
+It's also able to solidify and retaliate against an attack using spirit damage.
+
+Last, but not least, the Shroud is able to nullify projectiles near the death knight by consuming them in a void.  Projectiles launched from less than 6 cells away will never be nullified.
+
+All of these functions are enhanced as hate levels grow and must have a sufficient level of hate to function at all.</TM_Shroud.description>
+  <TM_WaveOfFear.label>Wave of Fear</TM_WaveOfFear.label>
+  <TM_WaveOfFear.description>Release a wave of fear that sends enemies cowering. Wave of Fear also applies a significant debuff to dark/light defense, movement, and slows attack speeds.
+	
+Hate is not required to use this ability, but it's effective range is greatly increased by hate levels.</TM_WaveOfFear.description>
+  <TM_Spite.label>Spite</TM_Spite.label>
+  <TM_Spite.description>Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
+		
+Cast time: 1s
+Cooldown : 5s
+Range: 21</TM_Spite.description>
+  <TM_Spite_I.label>Spite I</TM_Spite_I.label>
+  <TM_Spite_I.description>Release harnessed hatred and project a wave of spite at a target.  Spite must have hate to be used.
+		
+Cast time: .8s
+Cooldown : 4s
+Range: 24</TM_Spite_I.description>
+  <TM_Spite_II.label>Spite II</TM_Spite_II.label>
+  <TM_Spite_II.description>Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
+		
+Cast time: .6s
+Cooldown : 3s
+Range: 27</TM_Spite_II.description>
+  <TM_Spite_III.label>Spite III</TM_Spite_III.label>
+  <TM_Spite_III.description>Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
+		
+Cast time: .4s
+Cooldown : 2s
+Range: 30</TM_Spite_III.description>
+  <TM_LifeSteal.label>Life Steal</TM_LifeSteal.label>
+  <TM_LifeSteal.description>Leach spirit from enemies struck in melee combat to restore life and energy to the death knight.</TM_LifeSteal.description>
+  <TM_GraveBlade.label>Grave Blade</TM_GraveBlade.label>
+  <TM_GraveBlade.description>Spirit blades strike from the grave.
+
+Range: 35
+Cast time: 1.6s
+Radius: 3.0</TM_GraveBlade.description>
+  <TM_GraveBlade_I.label>Grave Blade I</TM_GraveBlade_I.label>
+  <TM_GraveBlade_I.description>Spirit blades strike from the grave.
+
+Range: 38
+Cast time: 1.4s
+Radius: 3.4</TM_GraveBlade_I.description>
+  <TM_GraveBlade_II.label>Grave Blade II</TM_GraveBlade_II.label>
+  <TM_GraveBlade_II.description>Spirit blades strike from the grave.
+
+Range: 41
+Cast time: 1.2s
+Radius: 3.8</TM_GraveBlade_II.description>
+  <TM_GraveBlade_III.label>Grave Blade III</TM_GraveBlade_III.label>
+  <TM_GraveBlade_III.description>Spirit blades strike from the grave.
+
+Range: 44
+Cast time: 1s
+Radius: 4.2</TM_GraveBlade_III.description>
+  <TM_SoulBond.label>SoulBond</TM_SoulBond.label>
+  <TM_SoulBond.description>Demons, or those possessing the power of a demon, can creates a soul bond (soul contract) with another pawn who will sustain (or host) the bond. The bond provides energy from the soul of the host to the demonkin, in exchange, the emotions of the host are washed away in bliss. The soul bond also creates a link that allows the demonkin to travel to, or summon, the host.
+		
+The soul bond contract may be canceled at any time by the demonkin by re-using the ability on the current host. Creating a soul bond with another host will cancel any previous contracts. The contract will also end if either party dies or is destroyed. 
+
+Succubi and Warlocks form distinct types of soul bonds - warlocks bonds are mentally reciprocal while a succubus bonds are physical in nature. Demonkin can only sustain a single bond; hosts can only sustain a single bond of each type (mental/physical).</TM_SoulBond.description>
+  <TM_ShadowCall.label>Shadow Call</TM_ShadowCall.label>
+  <TM_ShadowCall.description>Commands the soul of a bonded host to travel to your location.</TM_ShadowCall.description>
+  <TM_ShadowStep.label>Shadow Step</TM_ShadowStep.label>
+  <TM_ShadowStep.description>Step through shadow to the location of your soul bonded host.</TM_ShadowStep.description>
+  <TM_ShadowBolt.label>Shadow Bolt</TM_ShadowBolt.label>
+  <TM_ShadowBolt.description>Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 2s
+Cooldown : 20s
+Range: 40</TM_ShadowBolt.description>
+  <TM_ShadowBolt_I.label>Shadow Bolt</TM_ShadowBolt_I.label>
+  <TM_ShadowBolt_I.description>Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.8s
+Cooldown : 18s
+Range: 45</TM_ShadowBolt_I.description>
+  <TM_ShadowBolt_II.label>Shadow Bolt</TM_ShadowBolt_II.label>
+  <TM_ShadowBolt_II.description>Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.6s
+Cooldown : 16s
+Range: 50</TM_ShadowBolt_II.description>
+  <TM_ShadowBolt_III.label>Shadow Bolt</TM_ShadowBolt_III.label>
+  <TM_ShadowBolt_III.description>Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.5s
+Cooldown : 15s
+Range: 55</TM_ShadowBolt_III.description>
+  <TM_Dominate.label>Dominate</TM_Dominate.label>
+  <TM_Dominate.description>Command the shadow to envelope your enemies in a living nightmare that will surround them in their greatest fears. Nearby enemies close enough to witness the fear in a dominated pawn may also succumb to fear and allow the shadow to dominate their own mind.
+		
+Warlocks and Succubi dominate their foes in different ways. Warlocks will attempt to break the mind of their enemies, while a succubus will reduce the physical prowess of their victims.</TM_Dominate.description>
+  <TM_Attraction.label>Attraction</TM_Attraction.label>
+  <TM_Attraction.description>Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 3s
+Range: 40
+Cooldown: 60</TM_Attraction.description>
+  <TM_Attraction_I.label>Attraction</TM_Attraction_I.label>
+  <TM_Attraction_I.description>Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2.6s
+Range: 45
+Cooldown: 55</TM_Attraction_I.description>
+  <TM_Attraction_II.label>Attraction</TM_Attraction_II.label>
+  <TM_Attraction_II.description>Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2.3s
+Range: 50
+Cooldown: 50</TM_Attraction_II.description>
+  <TM_Attraction_III.label>Attraction</TM_Attraction_III.label>
+  <TM_Attraction_III.description>Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2s
+Range: 55
+Cooldown: 45</TM_Attraction_III.description>
+  <TM_Repulsion.label>Repulsion</TM_Repulsion.label>
+  <TM_Repulsion.description>The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: 1s
+Range: 40
+Cooldown: 30s
+Radius: 5</TM_Repulsion.description>
+  <TM_Repulsion_I.label>Repulsion</TM_Repulsion_I.label>
+  <TM_Repulsion_I.description>The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .8s
+Range: 47
+Cooldown: 25s
+Radius: 6</TM_Repulsion_I.description>
+  <TM_Repulsion_II.label>Repulsion</TM_Repulsion_II.label>
+  <TM_Repulsion_II.description>The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .6s
+Range: 54
+Cooldown: 20s
+Radius: 7</TM_Repulsion_II.description>
+  <TM_Repulsion_III.label>Repulsion</TM_Repulsion_III.label>
+  <TM_Repulsion_III.description>The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .5s
+Range: 60
+Cooldown: 15s
+Radius: 8</TM_Repulsion_III.description>
+  <TM_Scorn.label>Scorn</TM_Scorn.label>
+  <TM_Scorn.description>The succubus uses her demonic powers to partially transform into a winged demon, launching herself towards a distant location to crush her foes in a torrent of dark fury.
+		
+A succubus will retain her partial demon form for a short period after using this ability, granting her improved physical capacities and a damage shield.</TM_Scorn.description>
+  <TM_PsychicShock.label>Psychic Shock</TM_PsychicShock.label>
+  <TM_PsychicShock.description>The Warlock removes all mental barriers and projects a powerful wave of psychic energy. Any pawns caught in the wave will be bombarded by psychic power and will briefly be subjected to the will of the Warlock. 
+		
+The Warlock who will use the minds of others to propagate the psychic wave. The Warlock will also attempt to destroy the mind of any enemy touched by psychic energy. Being subjected to this mental assault will disorient pawns for a short period and may even disorient the warlock if he is affected by reflected psychic energy. Psychic Shock receives a bonus based on the psychic sensitivity of the warlock and may fail to affect pawns with reduced psychic sensitivity.</TM_PsychicShock.description>
+  <TM_SummonDemon.label>Summon Demon</TM_SummonDemon.label>
+  <TM_SummonDemon.description>Manifest true demonic power through the manipulation of both physical and mental soul bonds. This dark power exacts a heavy toll and its use should only be considered under dire circumstances.
+ 
+The summoning is initiated when a Succubus anchors the physical offering and is completed when a Warlock finalizes the terms of the demonic contract.</TM_SummonDemon.description>
+  <TM_Poison.label>Poison</TM_Poison.label>
+  <TM_Poison.description>Fast acting toxin that works its way into the targets bloodstream. The more a target moves, the more lethal the poison becomes. Poison is ineffective against mechanoids.</TM_Poison.description>
+  <TM_SootheAnimal.label>Beguile Animal</TM_SootheAnimal.label>
+  <TM_SootheAnimal.description>Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.
+		
+Range: 65
+Recharge: 80s
+Max Targets: 3
+AoE Size: 5</TM_SootheAnimal.description>
+  <TM_SootheAnimal_I.label>Beguile Animal (I)</TM_SootheAnimal_I.label>
+  <TM_SootheAnimal_I.description>Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.
+		
+Range: 70
+Recharge: 75s
+Max Targets: 4
+AoE Size: 6</TM_SootheAnimal_I.description>
+  <TM_SootheAnimal_II.label>Beguile Animal (II)</TM_SootheAnimal_II.label>
+  <TM_SootheAnimal_II.description>Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.
+		
+Range: 75
+Recharge: 68s
+Max Targets: 5
+AoE Size: 7</TM_SootheAnimal_II.description>
+  <TM_SootheAnimal_III.label>Beguile Animal (III)</TM_SootheAnimal_III.label>
+  <TM_SootheAnimal_III.description>Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.
+		
+Range: 80
+Recharge: 60s
+Max Targets: 6
+AoE Size: 8</TM_SootheAnimal_III.description>
+  <TM_Regenerate.label>Regenerate</TM_Regenerate.label>
+  <TM_Regenerate.description>Regeneration acts as a natural curative over time and will restore even grievous wounds with continued application. Base regeneration restores 4 health to 1 wound every 5 seconds. Only cures physical injuries and will not restore or heal destroyed body parts.</TM_Regenerate.description>
+  <TM_CureDisease.label>Cure Disease</TM_CureDisease.label>
+  <TM_CureDisease.description>Potential to cure most diseases and infections.</TM_CureDisease.description>
+  <TM_RegrowLimb.label>Regrowth</TM_RegrowLimb.label>
+  <TM_RegrowLimb.description>Creates the Seed of Life required to regrow body parts. Regrowth surgeries will only appear as an option when all components of regrowth are within resource zones: 1x Seed of Life , mana potions, and medicine, then select the body part to regrow in the patient's surgery tab.  Ensure this druid (or another with this spell) performs the surgery and the druid has 90 mana or more at the time the surgery is performed.</TM_RegrowLimb.description>
+  <TM_Elemental_Icebolt.label>elemental icebolt</TM_Elemental_Icebolt.label>
+  <TM_Elemental_Icebolt.description>Bolt of ice specially created to shatter into glass like shards upon impact, causing severe bleeding and damage in a small area.</TM_Elemental_Icebolt.description>
+  <TM_Elemental_Firebolt.label>Firebolt</TM_Elemental_Firebolt.label>
+  <TM_Elemental_Firebolt.description>Bolt of  magic fire. Sets fire to the target.</TM_Elemental_Firebolt.description>
+  <TM_EnchantedBody.label>Enchanted Body</TM_EnchantedBody.label>
+  <TM_EnchantedBody.description>Grows extra limbs to improve manipulation and increases fighting speed. This enchantment tends to make the enchanter look quite horrifying and can alarm other pawns. This spell is sustained and reduces max mp by 20 and mana regeneration by 30%.
+	
+Using this ability while the enchantment is active will dispel the enchantment. Only one enchantment type may be active at a given time.
+
+*All Enchanted Body skills apply to Enchanted Aura</TM_EnchantedBody.description>
+  <TM_EnchantedAura.label>Enchanted Aura</TM_EnchantedAura.label>
+  <TM_EnchantedAura.description>Radiates a charming aura that disarms social barriers and improves social interaction and opinions. This spell is sustained and reduces max mp by 20 and mana regeneration by 30%.
+	
+Using this ability while the enchantment is active will dispel the enchantment. Only one enchantment type may be active at a given time.</TM_EnchantedAura.description>
+  <TM_Transmutate.label>Transmutate</TM_Transmutate.label>
+  <TM_Transmutate.description>Transmutates one material into another material of equal or greater value. The amount of new material created from the old material is based on the value of the old material; some material will be consumed in the conversion process.
+
+This ability only works on raw resources (silver, steel, furs, cloth, etc) and bricks by default, but can be upgraded to transmutate other material.
+
+Check skill descriptions for additional details.</TM_Transmutate.description>
+  <TM_EnchanterStone.label>Enchanter's Stone</TM_EnchanterStone.label>
+  <TM_EnchanterStone.description>Creates an artifact out of raw material and imbues it with magical properties. An enchanter can have as many artifacts as they wish, but each artifact reduces max MP by 20.
+	
+The benefits of the artifact are granted to the pawn that has the item equipped. Artifacts have unique equipment slots.
+
+This ability is used on raw resources such as stone chunks, steel, or silver - see skill descriptions for a full list of resources that can be used to create an enchanter's stone.</TM_EnchanterStone.description>
+  <TM_DismissEnchanterStones.label>Dismiss Enchanter Stone</TM_DismissEnchanterStones.label>
+  <TM_DismissEnchanterStones.description>Destroys the oldest enchanter's stone</TM_DismissEnchanterStones.description>
+  <TM_EnchantWeapon.label>Enchant Weapon</TM_EnchantWeapon.label>
+  <TM_EnchantWeapon.description>Enchant a melee weapon equipped by a target pawn. Enchanted weapons gain elemental properties. 
+
+Fire enchantment deals additional burn damage and may set the target on fire
+Ice enchantment reduces the efficiency of the struck bodypart
+Lightning enchantment may stun the enemy.
+Dark enchantment may blind the enemy.
+		
+Enchanted weapons require an allotment of mana equal to the casting cost to sustain. The number of weapon enchantments is limited only by the enchanter mana capacity.
+
+The enchantment will only remain active as long as the pawn holds the enchanted weapon. If it is dropped or swapped for another weapon, the enchantment will disperse. Weapon enchantments only affect melee weapons.</TM_EnchantWeapon.description>
+  <TM_DispelEnchantWeapon.label>Dispel Weapon Enchantment</TM_DispelEnchantWeapon.label>
+  <TM_DispelEnchantWeapon.description>Removes all weapon enchantments maintained by this enchanter.</TM_DispelEnchantWeapon.description>
+  <TM_Polymorph.label>Polymorph</TM_Polymorph.label>
+  <TM_Polymorph.description>Transforms pawns in the target area into random beasts. The polymorphed creature will still retain enough of its original self to recognize, and be enraged by, its predicament. Allies can be controlled (drafted), but will still exhibit 'animal' behavior without a specific task.
+		
+Allies may be polymorphed, but most will be upset by the altercation. Enchanters cannot use this method to polymorph themselves.
+
+Use of polymorph on a creature already affected by polymorph will end the existing polymorph enchantment. The polymorph enchantment is broken if the polymorph creature dies.
+
+When a target is polymorphed, their new form does not retain any pre-existing injuries, however, when they return to their original form they will have all their original injuries in addition to any injuries sustained while polymorphed.
+
+Max targets: 4
+Radius: 3
+Range: 36
+Cast time: 3s</TM_Polymorph.description>
+  <TM_Polymorph_I.label>Polymorph (I)</TM_Polymorph_I.label>
+  <TM_Polymorph_I.description>Transforms pawns in the target area into random beasts. The polymorphed creature will still retain enough of its original self to recognize, and be enraged by, its predicament. Allies can be controlled (drafted), but will still exhibit 'animal' behavior without a specific task.
+		
+Allies may be polymorphed, but most will be upset by the altercation. Enchanters cannot use this method to polymorph themselves.
+
+Use of polymorph on a creature already affected by polymorph will end the existing polymorph enchantment. The polymorph enchantment is broken if the polymorph creature dies.
+
+When a target is polymorphed, their new form does not retain any pre-existing injuries, however, when they return to their original form they will have all their original injuries in addition to any injuries sustained while polymorphed.
+
+Max targets: 5
+Radius: 3
+Range: 38
+Cast time: 2.8s</TM_Polymorph_I.description>
+  <TM_Polymorph_II.label>Polymorph (II)</TM_Polymorph_II.label>
+  <TM_Polymorph_II.description>Transforms pawns in the target area into random beasts. The polymorphed creature will still retain enough of its original self to recognize, and be enraged by, its predicament. Allies can be controlled (drafted), but will still exhibit 'animal' behavior without a specific task.
+		
+Allies may be polymorphed, but most will be upset by the altercation. Enchanters cannot use this method to polymorph themselves.
+
+Use of polymorph on a creature already affected by polymorph will end the existing polymorph enchantment. The polymorph enchantment is broken if the polymorph creature dies.
+
+When a target is polymorphed, their new form does not retain any pre-existing injuries, however, when they return to their original form they will have all their original injuries in addition to any injuries sustained while polymorphed.
+
+Max targets: 5
+Radius: 4
+Range: 40
+Cast time: 2.6s</TM_Polymorph_II.description>
+  <TM_Polymorph_III.label>Polymorph</TM_Polymorph_III.label>
+  <TM_Polymorph_III.description>Transforms pawns in the target area into random beasts. The polymorphed creature will still retain enough of its original self to recognize, and be enraged by, its predicament. Allies can be controlled (drafted), but will still exhibit 'animal' behavior without a specific task.
+		
+Allies may be polymorphed, but most will be upset by the altercation. Enchanters cannot use this method to polymorph themselves.
+
+Use of polymorph on a creature already affected by polymorph will end the existing polymorph enchantment. The polymorph enchantment is broken if the polymorph creature dies.
+
+When a target is polymorphed, their new form does not retain any pre-existing injuries, however, when they return to their original form they will have all their original injuries in addition to any injuries sustained while polymorphed.
+
+Max targets: 6
+Radius: 4
+Range: 42
+Cast time: 2.4s</TM_Polymorph_III.description>
+  <TM_Shapeshift.label>Shapeshift</TM_Shapeshift.label>
+  <TM_Shapeshift.description>Shapeshift into a random creature. The enchanter will retain their sense of self and will retain control of their actions. Damage suffered while shape shifted will be transferred in equal proportions to the enchanter after returning to their original form.
+	
+Shapeshifting is not without minor side effects; shapeshifting into an animal will cause the enchanter to inherit instincts and behavior of the animal, if they haven't been given specific instructions, they will wander or do other random tasks an animal would normally do.</TM_Shapeshift.description>
+  <TM_ShapeshiftDW.label>Shapeshift: Dire Wolf</TM_ShapeshiftDW.label>
+  <TM_ShapeshiftDW.description>Shapeshift into a dire wolf. The enchanter will retain their sense of self and remain in control of most of their actions. Damage suffered while shape shifted will be transferred in equal proportions to the enchanter after returning to their original form.
+	
+Shapeshifting is not without minor side effects; shapeshifting into an animal will cause the enchanter to inherit instincts and behavior of the animal, if they haven't been given specific instructions, they will wander or do other random tasks an animal would normally do.
+	
+Dire wolves are unique animals with a special connection to magic. While in dire wolf form, enchanters can exert small quantities of magic to allow the dire wolf to briefly phase in and out of reality.</TM_ShapeshiftDW.description>
+  <TM_Disguise.label>Deception</TM_Disguise.label>
+  <TM_Disguise.description>The faceless manipulates light and motion to make their form appear meaningless to any observer; on a subconscious level, any observer will cognitively dismiss the faceless as an unimportant, harmless object, essentially making the faceless invisible.
+	
+Disguise will not fool any pawn that already sees the faceless as a threat.</TM_Disguise.description>
+  <TM_Mimic.label>Mimic</TM_Mimic.label>
+  <TM_Mimic.description>The faceless copies a random ability from a mage or fighter. Only one ability may be stored at a time. The ability is retained after use; reusing Mimic will replace the stored ability.</TM_Mimic.description>
+  <TM_Reversal.label>Reversal</TM_Reversal.label>
+  <TM_Reversal.description>Reverses the kinetic energy of all melee and projectile attacks for a brief period. The faceless will take no damage from these attacks. Direct application and explosive attacks cannot be reversed.</TM_Reversal.description>
+  <TM_Transpose.label>Transpose</TM_Transpose.label>
+  <TM_Transpose.description>Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .8s
+Range: 40
+Cooldown: 15</TM_Transpose.description>
+  <TM_Transpose_I.label>Transpose I</TM_Transpose_I.label>
+  <TM_Transpose_I.description>Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .6s
+Range: 44
+Cooldown: 13</TM_Transpose_I.description>
+  <TM_Transpose_II.label>Transpose II</TM_Transpose_II.label>
+  <TM_Transpose_II.description>Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .4s
+Range: 47
+Cooldown: 11</TM_Transpose_II.description>
+  <TM_Transpose_III.label>Transpose III</TM_Transpose_III.label>
+  <TM_Transpose_III.description>Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .2s
+Range: 50
+Cooldown: 9</TM_Transpose_III.description>
+  <TM_Possess.label>Possess</TM_Possess.label>
+  <TM_Possess.description>Like a puppet master, the faceless applies of the mind and body to cause extreme self-doubt on a target pawn - allowing them to control their target through mental suggestion and coercion. 
+		
+Nearby enemies are unlikely to immediately detect the possession unless they see suspicious activity. If detected, neutral and friendly factions will consider aggressive actions from a possessed pawn as an act of hostility.
+
+Only creatures with a human-like mind capable of self-doubt can be possessed.</TM_Possess.description>
+  <TM_MedicalSupply.label>Resupply</TM_MedicalSupply.label>
+  <TM_MedicalSupply.description>Resupply the Field Medic's medical supplies.
+
+The Field Medic will use one item from target stockpile and convert it into personal medical supplies he can use to fuel his abilities.
+
+The amount of supply gained is equal to 20 times the medical potency of the item squared:
+medicine - 20 medical supplies
+herbal medicine - 4.9 medical supplies
+glitterworld medicine - 51.2 medical supplies
+
+The Field Medic can train to convert his equipment back into common medicine</TM_MedicalSupply.description>
+  <TM_Emergency.label>Emergency</TM_Emergency.label>
+  <TM_Emergency.description>The Field Medic rushes to aid their patients.
+
+The Field Medic gains increased base movement speed, tending speed and tending quality as well as reduced pain for a 30 seconds.</TM_Emergency.description>
+  <TM_Medigel.label>Medigel</TM_Medigel.label>
+  <TM_Medigel.description>Applies a healing gel to the wounds of a target that speeds recovery and fights infection. Wounds will be healed slowly over time. Medigel slightly reduces the pain of wounds.</TM_Medigel.description>
+  <TM_CombatDrugs.label>Combat Drugs</TM_CombatDrugs.label>
+  <TM_CombatDrugs.description>Gives combat drugs to an ally
+
+The Field Medic throws a syringe of improvised combat drugs to an ally.
+The effects are always positive but may vary.</TM_CombatDrugs.description>
+  <TM_RayofHope.label>Ray of Hope</TM_RayofHope.label>
+  <TM_RayofHope.description>Creates an aura of hope around the caster that periodically buffs an ally.
+		
+Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+	
+Application Frequency: 	80-90s	
+Duration:  200-223s
+Manipulation, Moving:  +10%
+Blood pumping: 	+10%
+Consciousness: 	+5%
+Mood increase:	+4
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope.description>
+  <TM_RayofHope_I.label>Ray of Hope</TM_RayofHope_I.label>
+  <TM_RayofHope_I.description>Creates an aura of hope around the caster that periodically buffs an ally.
+		
+Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+	
+Application Frequency: 	80-90s	
+Duration: 200-223s
+Manipulation, Moving: +15%
+Consciousness, Blood pumping: +10%
+Mood increase:	+5
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope_I.description>
+  <TM_RayofHope_II.label>Ray of Hope</TM_RayofHope_II.label>
+  <TM_RayofHope_II.description>Creates an aura of hope around the caster that periodically buffs an ally.
+		
+Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+	
+Application Frequency: 80-90s	
+Duration: 500-600s
+Manipulation, Moving: +20%
+Consciousness, Blood pumping: +10%
+Mood increase:	+6
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope_II.description>
+  <TM_RayofHope_III.label>Ray of Hope</TM_RayofHope_III.label>
+  <TM_RayofHope_III.description>Creates an aura of hope around the caster that periodically buffs an ally.
+		
+Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+	
+Application Frequency: 	80-90s	
+Duration:	500-600s
+Manipulation, Moving:  +25%
+Consciousness, Blood pumping: +10%
+Mood increase:	+7
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope_III.description>
+  <TM_Firebolt.label>Firebolt</TM_Firebolt.label>
+  <TM_Firebolt.description>Launches a bolt of super-heated magma that damages and can set fire to the target.</TM_Firebolt.description>
+  <TM_Fireball.label>Fireball</TM_Fireball.label>
+  <TM_Fireball.description>Throws a massive, slow moving fireball. Wreaks havoc and creates a fiery explosion at the target area.</TM_Fireball.description>
+  <TM_Fireclaw.label>Fireclaw</TM_Fireclaw.label>
+  <TM_Fireclaw.description>Create streaming tendrils of fire that rake across your enemies, leaving destruction and fire in its wake.</TM_Fireclaw.description>
+  <TM_Firestorm.label>Firestorm</TM_Firestorm.label>
+  <TM_Firestorm.description>Calls forth the full fury of elemental fire in a meteor storm of death and destruction.</TM_Firestorm.description>
+  <TM_Stoneskin.label>Stoneskin</TM_Stoneskin.label>
+  <TM_Stoneskin.description>Applies stoneskin to the target pawn. Each charge of stoneskin absorbs a single attack, regardless of how powerful, or weak, the attack is. Stoneskin is an unsubstantial defense, meaning the defensive measures it employs are not physical and will not interfere with the combat capabilities of its ward.
+		
+Stoneskin requires a constant reserve of mana to maintain, each application will reduce the casters maximum mana by 15. The caster can only maintain a limited number of stoneskin instances regardless of how much mana the caster has available.
+
+Applying stoneskin to a target that already has stoneskin will remove all charges of stoneskin on the target and dissipate the spell (returning mana reserves back to the caster).</TM_Stoneskin.description>
+  <TM_DispelStoneskin.label>Dispel Stoneskin</TM_DispelStoneskin.label>
+  <TM_DispelStoneskin.description>Dispels all instances of stoneskin maintained by this pawn.</TM_DispelStoneskin.description>
+  <TM_Encase.label>Encase</TM_Encase.label>
+  <TM_Encase.description>Encloses a target area in a ring of stone, effective at isolating sections of the battlefield.
+
+Radius: 3
+Range: 50
+Cast time: 1.5s</TM_Encase.description>
+  <TM_Encase_I.label>Encase I</TM_Encase_I.label>
+  <TM_Encase_I.description>Encloses a target area in a ring of stone, effective at isolating sections of the battlefield.
+		
+Radius: 4
+Range: 55
+Cast time: 1.3s</TM_Encase_I.description>
+  <TM_Encase_II.label>Encase II</TM_Encase_II.label>
+  <TM_Encase_II.description>Encloses a target area in a ring of stone, effective at isolating sections of the battlefield.
+		
+Radius: 5
+Range: 60
+Cast time: 1.1s</TM_Encase_II.description>
+  <TM_Encase_III.label>Encase III</TM_Encase_III.label>
+  <TM_Encase_III.description>Encloses a target area in a ring of stone, effective at isolating sections of the battlefield.
+		
+Radius: 6
+Range: 65
+Cast time: 1.0s</TM_Encase_III.description>
+  <TM_EarthSprites.label>Earth Sprites</TM_EarthSprites.label>
+  <TM_EarthSprites.description>Calls forth earth sprites to transform the terrain. Sprites appear as flecks of light and can easily be missed by the inattentive, but they are diligent workers capable of breaking rock or stone down into its base component or increase the richness and fertility of soil. 
+		
+Once summoned, they will continue to work on the terrain, even moving to nearby area's, until dismissed by the geomancer. Earth sprites only understand basic instructions and will move randomly to a new area to continue their work; if no nearby area needs work, the summoning will end. If earth sprites are summoned into an area named "earth sprites" then they will only move to nearby cells within this area.
+
+In exchange for their efforts, earth sprites expect a steady and substantial supply of mana. If the geomancer fails to meet this request, the earth sprites will fade away. Each geomancer can only request the help of a single earth sprite, regardless of how much mana they have.</TM_EarthSprites.description>
+  <TM_DismissEarthSprites.label>Dismiss Earth Sprites</TM_DismissEarthSprites.label>
+  <TM_DismissEarthSprites.description>Dismisses a active earth sprite.</TM_DismissEarthSprites.description>
+  <TM_EarthernHammer.label>Earthern Hammer</TM_EarthernHammer.label>
+  <TM_EarthernHammer.description>The geomancer manipulates the laws of gravity to catapult massive stones from the surrounding earth. The amount of gravitational energy reversed is finite; nearby surface stones require minimal energy while subterranean stones require significantly more.
+		
+The first, and every third stone after, will always be subterranean unless there is insufficient gravitational energy in which case the geomancer will attempt to use the remaining energy throwing nearby stones. The extreme shift in gravity will temporarily disorient the geomancer.</TM_EarthernHammer.description>
+  <TM_Sentinel.label>Sentinel</TM_Sentinel.label>
+  <TM_Sentinel.description>Creates a stone sentinel to defend an area. Sentinels will remain dormant until an enemy is within range, then they will break free of their stone prison to defend their terrain.
+		
+Using this ability on a dormant sentinel will dismiss the sentinel. Each sentinel reduces max MP by 20.
+
+*Aesthetic note: sentinels will always face away from the caster.</TM_Sentinel.description>
+  <TM_ShatterSentinel.label>Shatter Sentinel</TM_ShatterSentinel.label>
+  <TM_ShatterSentinel.description>All sentinels maintained by this pawn are shattered in a violent eruption.</TM_ShatterSentinel.description>
+  <TM_Meteor.label>Meteor</TM_Meteor.label>
+  <TM_Meteor.description>Collects rock, dust, and debris from the atmosphere and space and forms it into a meteorite. The geomancer directs its descent to bury a target location.
+		
+The core of the meteorite is always composed of valuable material.
+
+Radius: 2
+Cast time: 5s</TM_Meteor.description>
+  <TM_Meteor_I.label>Meteor I</TM_Meteor_I.label>
+  <TM_Meteor_I.description>Collects rock, dust, and debris from the atmosphere and space and forms it into a meteorite. The geomancer directs its descent to bury a target location.
+		
+The core of the meteorite is always composed of valuable material.
+
+Radius: 3
+Cast time: 4.6s</TM_Meteor_I.description>
+  <TM_Meteor_II.label>Meteor II</TM_Meteor_II.label>
+  <TM_Meteor_II.description>Collects rock, dust, and debris from the atmosphere and space and forms it into a meteorite. The geomancer directs its descent to bury a target location.
+		
+The core of the meteorite is always composed of valuable material.
+
+Radius: 4
+Cast time: 4.2s</TM_Meteor_II.description>
+  <TM_Meteor_III.label>Meteor III</TM_Meteor_III.label>
+  <TM_Meteor_III.description>Collects rock, dust, and debris from the atmosphere and space and forms it into a meteorite. The geomancer directs its descent to bury a target location.
+		
+The core of the meteorite is always composed of valuable material.
+
+Radius: 5
+Cast time: 3.8s</TM_Meteor_III.description>
+  <TM_Sprint.label>Sprint</TM_Sprint.label>
+  <TM_Sprint.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint.description>
+  <TM_Sprint_I.label>Sprint</TM_Sprint_I.label>
+  <TM_Sprint_I.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint_I.description>
+  <TM_Sprint_II.label>Sprint</TM_Sprint_II.label>
+  <TM_Sprint_II.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint_II.description>
+  <TM_Sprint_III.label>Sprint</TM_Sprint_III.label>
+  <TM_Sprint_III.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint_III.description>
+  <TM_Fortitude.label>Fortitude</TM_Fortitude.label>
+  <TM_Fortitude.description>Mitigates a set amount of damage each hit.
+Base mitigation: 2</TM_Fortitude.description>
+  <TM_Grapple.label>Grapple</TM_Grapple.label>
+  <TM_Grapple.description>Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.
+		
+Casting time: 1s
+Range: 12</TM_Grapple.description>
+  <TM_Grapple_I.label>Grapple</TM_Grapple_I.label>
+  <TM_Grapple_I.description>Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.
+Casting time: .6s
+Range: 14</TM_Grapple_I.description>
+  <TM_Grapple_II.label>Grapple</TM_Grapple_II.label>
+  <TM_Grapple_II.description>Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.
+		
+Casting time: .4s
+Range: 17</TM_Grapple_II.description>
+  <TM_Grapple_III.label>Grapple</TM_Grapple_III.label>
+  <TM_Grapple_III.description>Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.
+		
+Casting time: .2s
+Range: 20</TM_Grapple_III.description>
+  <TM_Cleave.label>Cleave</TM_Cleave.label>
+  <TM_Cleave.description>Executes a powerful, sweeping blow that can strike multiple enemies adjacent to the target. As long as the gladiator has enough stamina, this ability works automatically whenever the gladiator performs a melee attack. Cleave chance is calculated from weapon mass - heavier weapons are more likely to cleave.</TM_Cleave.description>
+  <TM_Whirlwind.label>Whirlwind</TM_Whirlwind.label>
+  <TM_Whirlwind.description>The Gladiator launches into a frenzied attack, dancing forward in a furious whirlwind of steel and death.</TM_Whirlwind.description>
+  <TM_Soothe.label>Soothing Breeze</TM_Soothe.label>
+  <TM_Soothe.description>Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus.
+	
+Application Frequency: 	80-90s	
+Duration:	200-223s
+Manipulation:	+10%
+Consciousness:	+5%
+Mood increase:	+2
+Rest, Hunger and Pain: 	-10%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe.description>
+  <TM_Soothe_I.label>Soothing Breeze</TM_Soothe_I.label>
+  <TM_Soothe_I.description>Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus.
+	
+Application Frequency: 	80-90s	
+Duration:	200-223s
+Manipulation: 	+15%
+Consciousness: 	+10%
+Mood increase:	+3
+Rest, Hunger and Pain: 	-15%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_I.description>
+  <TM_Soothe_II.label>Soothing Breeze</TM_Soothe_II.label>
+  <TM_Soothe_II.description>Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus
+	
+Application Frequency: 	80-90s	
+Duration:	500-600s
+Manipulation: 	+20%
+Consciousness 	+15%
+Mood increase:	+4
+Rest, Hunger and Pain: 	-20%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_II.description>
+  <TM_Soothe_III.label>Soothing Breeze</TM_Soothe_III.label>
+  <TM_Soothe_III.description>Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus
+	
+Application Frequency: 	80-90s	
+Duration:	500-600s
+Manipulation: 	+25%
+Consciousness: 	+20%
+Mood increase:	+5
+Rest, Hunger and Pain:	-25%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_III.description>
+  <TM_FrostRay.label>Frost Ray</TM_FrostRay.label>
+  <TM_FrostRay.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 15s
+Range: 28
+Shots: 1</TM_FrostRay.description>
+  <TM_FrostRay_I.label>Frost Ray</TM_FrostRay_I.label>
+  <TM_FrostRay_I.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 12s
+Range: 30
+Shots: 1</TM_FrostRay_I.description>
+  <TM_FrostRay_II.label>Frost Ray</TM_FrostRay_II.label>
+  <TM_FrostRay_II.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 10s
+Range: 32
+Shots: 2</TM_FrostRay_II.description>
+  <TM_FrostRay_III.label>Frost Ray</TM_FrostRay_III.label>
+  <TM_FrostRay_III.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 10s
+Range: 34
+Shots: 3</TM_FrostRay_III.description>
+  <TM_Snowball.label>Snowball</TM_Snowball.label>
+  <TM_Snowball.description>Launch a massive ball of ice and snow that damages and freezes a large area upon impact.</TM_Snowball.description>
+  <TM_Icebolt.label>Icebolt</TM_Icebolt.label>
+  <TM_Icebolt.description>Launches a bolt of ice specially created to shatter into glass-like shards upon impact, causing damage and severe bleeding.</TM_Icebolt.description>
+  <TM_Rainmaker.label>Rainmaker</TM_Rainmaker.label>
+  <TM_Rainmaker.description>Alters the conditions in the atmosphere causing it to rain. If it's already raining, this ability will stop the rain.</TM_Rainmaker.description>
+  <TM_Blizzard.label>Blizzard</TM_Blizzard.label>
+  <TM_Blizzard.description>Calls forth a deadly blizzard to bury your enemies in ice.</TM_Blizzard.description>
+  <TM_AMP.label>AMP</TM_AMP.label>
+  <TM_AMP.description>Blessing: Augmented by Magical Power - aka "AMP."  Short term augmentation that drastically increases physical capacity at the cost of increased stress on the body.
+
+Duration: 		30-40s
+Physical capacity: 	~+30%
+Physical demand: 	+40%
+Pain:		-20%</TM_AMP.description>
+  <TM_AMP_I.label>AMP</TM_AMP_I.label>
+  <TM_AMP_I.description>Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		30-40s
+Physical capacity: 	~+50%
+Physical demand: 	+60%
+Pain:		-20%</TM_AMP_I.description>
+  <TM_AMP_II.label>AMP</TM_AMP_II.label>
+  <TM_AMP_II.description>Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		50-60s
+Physical capacity: 	~+65%
+Physical demand: 	+60%
+Pain:		-30%</TM_AMP_II.description>
+  <TM_AMP_III.label>AMP</TM_AMP_III.label>
+  <TM_AMP_III.description>Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		50-60s
+Physical capacity: 	~+80%
+Physical demand: 	+100%
+Pain:		-40%</TM_AMP_III.description>
+  <TM_LightningCloud.label>Lightning Cloud</TM_LightningCloud.label>
+  <TM_LightningCloud.description>Creates an area charged with lightning. Damages and stuns anything in its mists.</TM_LightningCloud.description>
+  <TM_LightningBolt.label>Lightning Bolt</TM_LightningBolt.label>
+  <TM_LightningBolt.description>Launch a bolt of lightning to strike your target.</TM_LightningBolt.description>
+  <TM_LightningStorm.label>Lightning Storm</TM_LightningStorm.label>
+  <TM_LightningStorm.description>Create a fierce, but uncontrolled, lightning storm over the target location.</TM_LightningStorm.description>
+  <TM_EyeOfTheStorm.label>Eye of the Storm</TM_EyeOfTheStorm.label>
+  <TM_EyeOfTheStorm.description>Release a ball of pure electrical energy that annihilates everything it its path.</TM_EyeOfTheStorm.description>
+  <TM_Chi.label>Ch'i</TM_Chi.label>
+  <TM_Chi.description>Ch'i, or spirit, is the life force that resides in all living things. Monks cultivate and harness this force to perform their art. Balancing the rhythm and flow of Ch'i takes time and is generally gained through dedicated meditation.</TM_Chi.description>
+  <TM_ChiBurst.label>Ch'i Burst</TM_ChiBurst.label>
+  <TM_ChiBurst.description>Projects an enormous amount of ch'i into a target area, overloading and disrupting the energy of all pawns within the area of effect.
+
+Ch'i Burst will interrupt fighter and mage abilities and will cause harm based on the amount of energy disrupted. This affects chi, mana, blood magic, stamina, hate and psionic energy.
+
+Has a low chance to disrupt the mental state of any pawn. Can be resisted.</TM_ChiBurst.description>
+  <TM_MindOverBody.label>Mind Over Body</TM_MindOverBody.label>
+  <TM_MindOverBody.description>Mental conditioning that enhances the monk's control over their physical capabilities and improves resilience to both physical and mental stress. Damage mitigation is reduced by the weight (in kg) of armor worn.
+
+Mind Over Body is a passive buff that improves consciousness, moving, manipulation, melee hit chance, dodge chance, armor penetration, mental break and pain thresholds.</TM_MindOverBody.description>
+  <TM_Meditate.label>Meditate</TM_Meditate.label>
+  <TM_Meditate.description>Meditation restores the life force of the monk and is a vital component of maintaining a strong level of Ch'i.
+	
+Any physical or mental ailments must be purged before meditation can generate Ch'i. If the monk is afflicted (wounds, disease, poor mood, drug addictions), meditation will focus Ch'i in an effort to remove the affliction. Afflictions can only be purged while in a meditative state.</TM_Meditate.description>
+  <TM_TigerStrike.label>Tiger Strike</TM_TigerStrike.label>
+  <TM_TigerStrike.description>A melee attack that delivers multiple, rapid blows against a single opponent. Must be within melee range and unarmed to perform this attack.
+
+Activated ability (12 chi): delivers 4 attacks in rapid succession.  Tiger Strike can be further trained to add additional attacks that can stun, drain energy, or deliver a precision strike that destroys vital organs.
+
+Passive ability (8 stamina): deliver multiple hits against an opponent; attacks may be any type (physical, stun, drain, vital) that is trained. Tiger Strike has a chance to trigger on any normal attack or itself.</TM_TigerStrike.description>
+  <TM_DragonStrike.label>Dragon Strike</TM_DragonStrike.label>
+  <TM_DragonStrike.description>A leap attack that allows the monk to rapidly close on an opponent. 
+
+Activated ability (8 chi): leap through the air and deliver a powerful flying kick against an distant opponent. The closer an opponent is, the more damage Dragon Strike deals. If an opponent is within 5 cells, this attack will also knock the target back. 
+
+Passive ability (10 stamina): performs a round-house kick that strikes multiple opponents. Dragon Strike has a chance to trigger on any normal attack when multiple enemies are near the target.</TM_DragonStrike.description>
+  <TM_ThunderStrike.label>Thunder Strike</TM_ThunderStrike.label>
+  <TM_ThunderStrike.description>Supercharges an attack with enough ch'i to generate lightning.</TM_ThunderStrike.description>
+  <TM_RaiseUndead.label>Raise Undead</TM_RaiseUndead.label>
+  <TM_RaiseUndead.description>Raise undead from corpses. Only works on biological creatures that were once living. 
+
+Undead will remain under the Necromancers control indefinitely. Each undead human will incur a mana upkeep cost of 30% of base mana regeneration. Undead animals incur an upkeep cost of 15% for every 100 combat power.
+
+There is no limit to the number of undead a necromancer may control, however, when the necromancer no longer has mana to maintain undead, they will automatically be consumed until the number of active undead is reduced to a manageable amount.</TM_RaiseUndead.description>
+  <TM_DismissUndead.label>Dismiss Undead</TM_DismissUndead.label>
+  <TM_DismissUndead.description>Dismisses an undead.</TM_DismissUndead.description>
+  <TM_DeathMark.label>Death Mark</TM_DeathMark.label>
+  <TM_DeathMark.description>Mark a victim with a curse that causes their life to flash before their eyes. Cursed victims will lose focus and the will to fight, reducing the attack rate. Marking targets for death empowers Death Bolt. Does not work on mechanoids.
+		
+Max Targets: 4
+Cast Time: 3s
+Cooldown: 120s
+Range: 34</TM_DeathMark.description>
+  <TM_DeathMark_I.label>Death Mark (I)</TM_DeathMark_I.label>
+  <TM_DeathMark_I.description>Mark a victim with a curse that causes their life to flash before their eyes. Cursed victims will lose focus and the will to fight, reducing the attack rate. Marking targets for death empowers Death Bolt. Does not work on mechanoids.
+		
+Max Targets: 5
+Cast Time: 2.5s
+Cooldown: 90s
+Range: 38</TM_DeathMark_I.description>
+  <TM_DeathMark_II.label>Death Mark (II)</TM_DeathMark_II.label>
+  <TM_DeathMark_II.description>Mark a victim with a curse that causes their life to flash before their eyes. Cursed victims will lose focus and the will to fight, reducing the attack rate. Marking targets for death empowers Death Bolt. Does not work on mechanoids.
+		
+Max Targets: 6
+Cast Time: 2s
+Cooldown: 60s
+Range: 42</TM_DeathMark_II.description>
+  <TM_DeathMark_III.label>Death Mark (III)</TM_DeathMark_III.label>
+  <TM_DeathMark_III.description>Mark a victim with a curse that causes their life to flash before their eyes. Cursed victims will lose focus and the will to fight, reducing the attack rate. Marking targets for death empowers Death Bolt. Does not work on mechanoids.
+		
+Max Targets: 7
+Cast Time: 1.8s
+Cooldown: 45s
+Range: 46</TM_DeathMark_III.description>
+  <TM_FogOfTorment.label>Fog of Torment</TM_FogOfTorment.label>
+  <TM_FogOfTorment.description>Creates a fog that causes pain and suffering to every living creature within. Undead within the fog are slowly healed and suffer no penalties from the fog.</TM_FogOfTorment.description>
+  <TM_ConsumeCorpse.label>Consume Corpse</TM_ConsumeCorpse.label>
+  <TM_ConsumeCorpse.description>Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)
+		
+Mana Cost: 3%
+Range: 50
+Cooldown: 20s
+Cast Time: 2s</TM_ConsumeCorpse.description>
+  <TM_ConsumeCorpse_I.label>Consume Corpse (I)</TM_ConsumeCorpse_I.label>
+  <TM_ConsumeCorpse_I.description>Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)
+		
+Mana Cost: 2.5%
+Range: 60
+Cooldown: 18s
+Cast Time: 1.8s</TM_ConsumeCorpse_I.description>
+  <TM_ConsumeCorpse_II.label>Consume Corpse (II)</TM_ConsumeCorpse_II.label>
+  <TM_ConsumeCorpse_II.description>Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)
+		
+Mana Cost: 2%
+Range: 70
+Cooldown: 16s
+Cast Time: 1.5s</TM_ConsumeCorpse_II.description>
+  <TM_ConsumeCorpse_III.label>Consume Corpse (III)</TM_ConsumeCorpse_III.label>
+  <TM_ConsumeCorpse_III.description>Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)
+		
+Mana Cost: 1.5%
+Range: 80
+Cooldown: 15s
+Cast Time: 1.2s</TM_ConsumeCorpse_III.description>
+  <TM_CorpseExplosion.label>Corpse Explosion</TM_CorpseExplosion.label>
+  <TM_CorpseExplosion.description>Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.
+		
+Mana Cost: 20%
+Range: 40
+Cooldown: 10s
+Cast time: 2s</TM_CorpseExplosion.description>
+  <TM_CorpseExplosion_I.label>Corpse Explosion (I)</TM_CorpseExplosion_I.label>
+  <TM_CorpseExplosion_I.description>Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.
+		
+Mana Cost: 22%
+Range: 50
+Cooldown: 7s
+Cast time: 1.5s</TM_CorpseExplosion_I.description>
+  <TM_CorpseExplosion_II.label>Corpse Explosion (II)</TM_CorpseExplosion_II.label>
+  <TM_CorpseExplosion_II.description>Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.
+		
+Mana Cost: 24%
+Range: 60
+Cooldown: 5s
+Cast time: 1s</TM_CorpseExplosion_II.description>
+  <TM_CorpseExplosion_III.label>Corpse Explosion (III)</TM_CorpseExplosion_III.label>
+  <TM_CorpseExplosion_III.description>Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.
+		
+Mana Cost: 25%
+Range: 70
+Cooldown: 4s
+Cast time: .5s</TM_CorpseExplosion_III.description>
+  <TM_LichForm.label>Lich Form</TM_LichForm.label>
+  <TM_LichForm.description>Transforms the necromancer into an undead lich gaining an immortal existence and arcane power. Once used, there is no return.
+		
+Benefits: 
+Maximum Mana: +50
+Mana Regeneration: +50%
+Gains unnatural immunities to diseases, resistances to damage, health regeneration, and no longer needs food or rest.
+Gains ability: Flight
+Gains ability: Death Bolt
+
+Penalties:
+Can no longer perform work involving Caring, Social, Animals, Firefighting, Artistic, or Dumb Labor.
+Loses all passion for work except fighting and research.
+Reduced learning speed by 40% and global work speed by 75%
+Movement speed: -2.0 c/s</TM_LichForm.description>
+  <TM_DeathBolt.label>Death Bolt</TM_DeathBolt.label>
+  <TM_DeathBolt.description>Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.
+
+Explosion Radius: 1.6m
+Cooldown: 15s
+Bolts: 2
+Range: 40</TM_DeathBolt.description>
+  <TM_DeathBolt_I.label>Death Bolt (I)</TM_DeathBolt_I.label>
+  <TM_DeathBolt_I.description>Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.
+
+Explosion Radius: 2m
+Cooldown: 14s
+Bolts: 2
+Range 40</TM_DeathBolt_I.description>
+  <TM_DeathBolt_II.label>Death Bolt (II)</TM_DeathBolt_II.label>
+  <TM_DeathBolt_II.description>Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.
+
+Explosion Radius: 2m
+Cooldown: 13s
+Bolts: 3
+Range 40</TM_DeathBolt_II.description>
+  <TM_DeathBolt_III.label>Death Bolt (III)</TM_DeathBolt_III.label>
+  <TM_DeathBolt_III.description>Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.
+
+Explosion Radius: 2.4m
+Cooldown: 12s
+Bolts: 3
+Range: 50</TM_DeathBolt_III.description>
+  <TM_Heal.label>Heal</TM_Heal.label>
+  <TM_Heal.description>Invokes holy power to heal the wounds of a target. Base heal restores 8 health for up to 3 wounds. Cannot heal injuries of missing bodyparts.</TM_Heal.description>
+  <TM_Shield.label>Shield</TM_Shield.label>
+  <TM_Shield.description>Protects the paladin from damage for 50s or until the shield is broken.
+Absorbs up to 100 damage.</TM_Shield.description>
+  <TM_Shield_I.label>Shield</TM_Shield_I.label>
+  <TM_Shield_I.description>Protects the paladin from damage for 50s or until the shield is broken.
+Absorbs up to 120 damage.
+Reduces recharge to 30s.</TM_Shield_I.description>
+  <TM_Shield_II.label>Shield</TM_Shield_II.label>
+  <TM_Shield_II.description>Protects the paladin from damage for 50s or until the shield is broken.
+Absorbs up to 135 damage.
+Reduces recharge to 27s.</TM_Shield_II.description>
+  <TM_Shield_III.label>Shield</TM_Shield_III.label>
+  <TM_Shield_III.description>Protects the paladin from damage for 50s or until the shield is broken.
+Absorbs up to 150 damage.
+Reduces recharge to 25s.</TM_Shield_III.description>
+  <TM_ValiantCharge.label>Valiant Charge</TM_ValiantCharge.label>
+  <TM_ValiantCharge.description>The Paladin is flies with the wings of an angel to fly to a distant location, shattering the ground with holy power upon landing.</TM_ValiantCharge.description>
+  <TM_Overwhelm.label>Overwhelm</TM_Overwhelm.label>
+  <TM_Overwhelm.description>Holy power is unleashed from the paladin, overwhelming the physical and mental senses of any nearby creatures.</TM_Overwhelm.description>
+  <TM_HolyWrath.label>Holy Wrath</TM_HolyWrath.label>
+  <TM_HolyWrath.description>Calls forth holy wrath upon the land.</TM_HolyWrath.description>
+  <TM_AdvancedHeal.label>Advanced Heal</TM_AdvancedHeal.label>
+  <TM_AdvancedHeal.description>Invokes holy power to greatly heal the wounds of a target. Base heal restores 14 health for up to 3 wounds. Will immediately seal the bleeding of wounds from missing bodyparts.</TM_AdvancedHeal.description>
+  <TM_Purify.label>Purify</TM_Purify.label>
+  <TM_Purify.description>Invokes holy power to purify scars on the body, mind, and soul.</TM_Purify.description>
+  <TM_HealingCircle.label>Healing Circle</TM_HealingCircle.label>
+  <TM_HealingCircle.description>Creates a field of light that heals friendly pawns within. Base ability heals 1 wound by 10 health for each pawn healed. Cannot heal injuries of missing bodyparts.
+		
+Circle radius: 3
+Range: 30</TM_HealingCircle.description>
+  <TM_HealingCircle_I.label>Healing Circle (I)</TM_HealingCircle_I.label>
+  <TM_HealingCircle_I.description>Creates a field of light that heals friendly pawns within. Base ability heals 1 wound by 10 health for each pawn healed. Cannot heal injuries of missing bodyparts.
+		
+Circle radius: 4
+Range: 35</TM_HealingCircle_I.description>
+  <TM_HealingCircle_II.label>Healing Circle (II)</TM_HealingCircle_II.label>
+  <TM_HealingCircle_II.description>Creates a field of light that heals friendly pawns within. Base ability heals 1 wound by 10 health for each pawn healed. Cannot heal injuries of missing bodyparts.
+		
+Circle radius: 5.5
+Range: 40</TM_HealingCircle_II.description>
+  <TM_HealingCircle_III.label>Healing Circle (III)</TM_HealingCircle_III.label>
+  <TM_HealingCircle_III.description>Creates a field of light that heals friendly pawns within. Base ability heals 1 wound by 10 health for each pawn healed. Cannot heal injuries of missing bodyparts.
+		
+Circle radius: 7
+Range: 45</TM_HealingCircle_III.description>
+  <TM_BestowMight.label>Bestow Might</TM_BestowMight.label>
+  <TM_BestowMight.description>Blesses a single target with greatly increased physical power. 
+		
+Duration: 		30-40s
+Physical capacity: 	+40%
+Physical demand: 	+50%
+Pain:		-40%</TM_BestowMight.description>
+  <TM_BestowMight_I.label>Bestow Might (I)</TM_BestowMight_I.label>
+  <TM_BestowMight_I.description>Blesses a single target with greatly increased physical power.
+		
+Duration: 		50-60s
+Physical capacity: 	+60%
+Physical demand: 	+60%
+Pain:		-50%</TM_BestowMight_I.description>
+  <TM_BestowMight_II.label>Bestow Might (II)</TM_BestowMight_II.label>
+  <TM_BestowMight_II.description>Blesses a single target with greatly increased physical power.
+		
+Duration: 		50-60s
+Physical capacity: 	+80%
+Physical demand: 	+70%
+Pain:		-60%</TM_BestowMight_II.description>
+  <TM_BestowMight_III.label>Bestow Might (III)</TM_BestowMight_III.label>
+  <TM_BestowMight_III.description>Blesses a single target with greatly increased physical power.
+		
+Duration: 		100-115s
+Physical capacity: 	~+100%
+Physical demand: 	+100%
+Pain:		-70%</TM_BestowMight_III.description>
+  <TM_Resurrection.label>Resurrection</TM_Resurrection.label>
+  <TM_Resurrection.description>Resurrection restores the life of a recently deceased pawn. This places an immense demand on the Priest and resurrected pawn and both will be weak for several days while their strength recovers. Resurrection comes at a price; the resurrected pawn will forfeit up to 20% of their skills and may develop detrimental health conditions.</TM_Resurrection.description>
+  <TM_PsionicAugmentation.label>Psionic Augmentation</TM_PsionicAugmentation.label>
+  <TM_PsionicAugmentation.description>Psionic power is a physical manifestation of mental energy in the form of kinetic or potential energy. A Psionic is able to utilize this power most efficiently by directing it throughout their body to reinforce physical action.
+	
+A well trained psionic is able to achieve incredible physical feats using a blend of psionic and physical strength. Psionic augmentation becomes second nature and occurs naturally both in and out of combat.</TM_PsionicAugmentation.description>
+  <TM_PsionicBarrier.label>Psionic Barrier</TM_PsionicBarrier.label>
+  <TM_PsionicBarrier.description>The Psionic forms a psychic barrier that repels kinetic energy in a small area around the user. Using this ability requires constant concentration in order to maintain the barrier and the Psionic will be unable to perform any other action while this is active.
+
+This ability requires 2 points to level.</TM_PsionicBarrier.description>
+  <TM_PsionicBarrier_Projected.label>Psionic Barrier</TM_PsionicBarrier_Projected.label>
+  <TM_PsionicBarrier_Projected.description>The Psionic forms a psychic barrier that repels kinetic energy in a small area around the user. Using this ability requires constant concentration in order to maintain the barrier and the Psionic will be unable to perform any other action while this is active.
+
+This barrier can be projected to a designation location.</TM_PsionicBarrier_Projected.description>
+  <TM_PsionicBlast.label>Psionic Blast</TM_PsionicBlast.label>
+  <TM_PsionicBlast.description>Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
+		
+Cast time: 	2s
+Cooldown:	12s
+Range:		28</TM_PsionicBlast.description>
+  <TM_PsionicBlast_I.label>Psionic Blast I</TM_PsionicBlast_I.label>
+  <TM_PsionicBlast_I.description>Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
+		
+Cast time: 	1.6s
+Cooldown:	10s
+Range:		34</TM_PsionicBlast_I.description>
+  <TM_PsionicBlast_II.label>Psionic Blast II</TM_PsionicBlast_II.label>
+  <TM_PsionicBlast_II.description>Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
+		
+Cast time: 	1.2s
+Cooldown:	8s
+Range:		40</TM_PsionicBlast_II.description>
+  <TM_PsionicBlast_III.label>Psionic Blast III</TM_PsionicBlast_III.label>
+  <TM_PsionicBlast_III.description>Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
+		
+Cast time: 	.8s
+Cooldown:	6s
+Range:		46</TM_PsionicBlast_III.description>
+  <TM_PsionicDash.label>Psionic Dash</TM_PsionicDash.label>
+  <TM_PsionicDash.description>The Psionic infuses their body with an overwhelming amount of energy and uses it to propel themselves in a rapid burst of movement. Each step emits shockwaves of energy.</TM_PsionicDash.description>
+  <TM_PsionicStorm.label>Psionic Storm</TM_PsionicStorm.label>
+  <TM_PsionicStorm.description>The Psionic lets down all mental barriers and unleashes their unrestrained psionic power. Due to the nature of this attack, the psionic will expend a tremendous amount of energy and will be left vulnerable, unable to exert psionic power, for a period following the attack.</TM_PsionicStorm.description>
+  <TM_RangerTraining.label>Ranger Training</TM_RangerTraining.label>
+  <TM_RangerTraining.description>Training that the ranger's professional skills. Each level will increase the ranger trait to reflect the skill of the ranger.
+	
+Ranks:
+Woodsman: Speed +0.15c/s, Aiming Delay -15%, Immunity Gain +20%, Comf. Temperature +-10C., Toxic Sensitivity -10%
+Tame and train animal +5%, butchering speed +5%, smelting and construction speed -10%
+
+Hunter: Speed +0.2c/s, Aiming Delay -20%, Immunity Gain +25%, Comf. Temperature +-15C., Toxic Sensitivity -15%
+Tame and train animal +8%, butchering speed +10%, smelting and construction speed -15%
+
+Scout: Speed +0.25c/s, Aiming Delay -30%, Immunity Gain +30%, Comf. Temperature +-18C., Toxic Sensitivity -20%
+Tame and train animal +10%, butchering speed +15%, smelting and construction speed -18%
+
+Ranger: Speed +0.3c/s, Aiming Delay -40%, Immunity Gain +35%, Comf. Temperature +-25C., Toxic Sensitivity -25%
+Tame and train animal +12%, butchering speed +20%, smelting and construction speed -20%</TM_RangerTraining.description>
+  <TM_BowTraining.label>Bow Training</TM_BowTraining.label>
+  <TM_BowTraining.description>Training that increases damage and accuracy when using a bow.
+	
+Level 0: Hearing and Sight +20%, +20% bow damage
+Level 1: Hearing and Sight +40%, +40% bow damage
+Level 2: Hearing and Sight +60%, Breathing +15%, +60% bow damage
+Level 3: Hearing and Sight +80%, Breathing +25%, Blood filtration +10%, +80% bow damage</TM_BowTraining.description>
+  <TM_PoisonTrap.label>Poison Trap</TM_PoisonTrap.label>
+  <TM_PoisonTrap.description>The ranger uses a dose of druidic poison to arm a wooden trap. Traps last indefinitely, but a ranger is only able to deploy a limited number at a time.
+
+Enemies caught in the poison will take 1-8 poison damage every 0.66 seconds. Poison damage also applies a slowing effect. Traps will never be triggered by animals.</TM_PoisonTrap.description>
+  <TM_AnimalFriend.label>Animal Bond</TM_AnimalFriend.label>
+  <TM_AnimalFriend.description>At home in the wild, the ranger is able to form a bond with creatures of the wild. 
+		
+Rangers are only able to form a single bond and maintaining the bond reduces the ranger's max stamina by 30; making a new bond breaks an existing bond and will cause the animal with a broken bond to leave forever. Failed attempts may cause the animal to turn manhunter. When using animal bond on the bonded animal may allow the animal to remain in the colony - the chance the animal remains is based on its wildness and how long it had a bond with the ranger.
+
+The increase in physical capability applies to the animal kin only, in return, the bonded animal will assist the ranger in whatever capacity the animal is capable.
+A bond can be removed by using this ability on a bonded creature.</TM_AnimalFriend.description>
+  <TM_ArrowStorm.label>Arrow Storm</TM_ArrowStorm.label>
+  <TM_ArrowStorm.description>Fire a volley of 5 arrows at a target.
+Range: 32</TM_ArrowStorm.description>
+  <TM_ArrowStorm_I.label>Arrow Storm (I)</TM_ArrowStorm_I.label>
+  <TM_ArrowStorm_I.description>Fire a volley of 6 arrows at a target.
+Range: 34</TM_ArrowStorm_I.description>
+  <TM_ArrowStorm_II.label>Arrow Storm (II)</TM_ArrowStorm_II.label>
+  <TM_ArrowStorm_II.description>Fire a rapid volley of 7 arrows at a target.
+Range: 36</TM_ArrowStorm_II.description>
+  <TM_ArrowStorm_III.label>Arrow Storm (III)</TM_ArrowStorm_III.label>
+  <TM_ArrowStorm_III.description>Fire a rapid volley of 8 arrows at a target.
+Range: 38</TM_ArrowStorm_III.description>
+  <TM_ShadowWalk.label>Shadow Walk</TM_ShadowWalk.label>
+  <TM_ShadowWalk.description>Move unseen to instantly reappear in the shadow of another pawn.</TM_ShadowWalk.description>
+  <TM_ShadowStrike.label>Shadow Strike</TM_ShadowStrike.label>
+  <TM_ShadowStrike.description>Instantly moves the attacker behind the target and delivers a devastating, single target attack. The attacker gains 5s of haste. The attacker will return to the location they initiated the attack after 5 seconds. This attack may perform critical hits for 3x damage - chance decreases as the weapon gets heavier. Ranged weapons will never deliver critical hits.</TM_ShadowStrike.description>
+  <TM_Nightshade.label>Nightshade</TM_Nightshade.label>
+  <TM_Nightshade.description>Coat your weapons or projectiles in nightshade toxin. Each attack will apply a portion of the nightshade toxin. Ranged attacks apply toxin 40% as efficiently as melee attacks. Affected victims suffer from hallucinations and shortness of breath and will take organ damage if toxicity levels become severe.
+		
+This ability requires 30 stamina to maintain and reduces stamina regeneration by 50%.</TM_Nightshade.description>
+  <TM_VeilOfShadows.label>Veil of Shadows</TM_VeilOfShadows.label>
+  <TM_VeilOfShadows.description>Throw a concoction that cloaks the caster and surrounding area in smoke and shadows. Caster gains Cloak of Shadows (invisibility). The shadow cloud will prevent targeting from automated system and reduces the accuracy of ranged attacks by 60%.</TM_VeilOfShadows.description>
+  <TM_Totems.label>Totems</TM_Totems.label>
+  <TM_Totems.description>Totems are a form of magic that anchors an elemental spirit to the physical world allowing it to influence objects near the totem. This ability increases control over all types of totems.</TM_Totems.description>
+  <TM_SummonTotemLightning.label>Totem: Lightning</TM_SummonTotemLightning.label>
+  <TM_SummonTotemLightning.description>Creates a lightning totem at the target location. Lasts 1 game hr and discharges electrical bolts at enemies within 40m every 2-3 seconds.</TM_SummonTotemLightning.description>
+  <TM_SummonTotemEarth.label>Totem: Earth</TM_SummonTotemEarth.label>
+  <TM_SummonTotemEarth.description>Creates an earth totem at the target location. Lasts 1 game hour and causes tremors every 3-4 seconds that stagger all pawns within 5 cells.</TM_SummonTotemEarth.description>
+  <TM_SummonTotemHealing.label>Totem: Healing</TM_SummonTotemHealing.label>
+  <TM_SummonTotemHealing.description>Creates a healing totem at the target location. Lasts 1 game hour and periodically heals nearby pawns.</TM_SummonTotemHealing.description>
+  <TM_ChainLightning.label>Chain Lightning</TM_ChainLightning.label>
+  <TM_ChainLightning.description>A powerful bolt of lightning that forks after striking its first target.</TM_ChainLightning.description>
+  <TM_Enrage.label>Enrage</TM_Enrage.label>
+  <TM_Enrage.description>Places a hex on a target that causes their emotions (Mood) to become fuel for battle rage. The hex will burn itself out once all emotions have been consumed. Hostile targets will immediately become berserk if their mind is susceptible.
+
+An enraged pawn gains increased movement and manipulation, increased pain resistance, cannot be staggered, and increases melee damage by the percent equal to the severity of enrage (20-50% damage bonus).</TM_Enrage.description>
+  <TM_Hex.label>Hex</TM_Hex.label>
+  <TM_Hex.description>Hex (I) - places a hex on pawns, additional effects may be applied to hexed targets. Wears off after 6 game hours.
+
+Max targets: 4
+Radius: 3
+Range: 36
+Cast time: 1s</TM_Hex.description>
+  <TM_Hex_I.label>Hex</TM_Hex_I.label>
+  <TM_Hex_I.description>Hex (II) - places a hex on pawns, additional effects may be applied to hexed targets. Wears off after 6 game hours.
+
+Max targets: 5
+Radius: 3
+Range: 40
+Cast time: .8s</TM_Hex_I.description>
+  <TM_Hex_II.label>Hex</TM_Hex_II.label>
+  <TM_Hex_II.description>Hex (III) - places a hex on pawns, additional effects may be applied to hexed targets. Wears off after 6 game hours.
+
+Max targets: 5
+Radius: 4
+Range: 43
+Cast time: .7s</TM_Hex_II.description>
+  <TM_Hex_III.label>Hex</TM_Hex_III.label>
+  <TM_Hex_III.description>Hex (IV) - places a hex on pawns, additional effects may be applied to hexed targets. Wears off after 6 game hours.
+
+Max targets: 6
+Radius: 4
+Range: 45
+Cast time: .6s</TM_Hex_III.description>
+  <TM_Hex_Pain.label>Pain (Hex)</TM_Hex_Pain.label>
+  <TM_Hex_Pain.description>All hexed pawns suffer extreme pain.</TM_Hex_Pain.description>
+  <TM_Hex_CriticalFail.label>Critical Fail (Hex)</TM_Hex_CriticalFail.label>
+  <TM_Hex_CriticalFail.description>Places a short lived curse on all hexed targets that causes extremely bad luck.</TM_Hex_CriticalFail.description>
+  <TM_Hex_MentalAssault.label>Mental Assault (Hex)</TM_Hex_MentalAssault.label>
+  <TM_Hex_MentalAssault.description>Causes all hexed targets to experience a dramatic and, potentially, overwhelming surge of emotions.</TM_Hex_MentalAssault.description>
+  <TM_SpiritWolves.label>Spirit Wolves</TM_SpiritWolves.label>
+  <TM_SpiritWolves.description>Manifests a charging pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns; once trained spirit damage can also be used to hex enemies. Spirit wolves are able to distinguish friend from foe.
+
+Range: 50
+Cast time: 3s
+Cooldown: 120s</TM_SpiritWolves.description>
+  <TM_SpiritWolves_I.label>Spirit Wolves (I)</TM_SpiritWolves_I.label>
+  <TM_SpiritWolves_I.description>Manifests a charging pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns; once trained spirit damage can also be used to hex enemies. Spirit wolves are able to distinguish friend from foe
+
+Range: 55
+Cast time: 2.7s
+Cooldown: 110s</TM_SpiritWolves_I.description>
+  <TM_SpiritWolves_II.label>Spirit Wolves (II)</TM_SpiritWolves_II.label>
+  <TM_SpiritWolves_II.description>Manifests a charging pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns; once trained spirit damage can also be used to hex enemies. Spirit wolves are able to distinguish friend from foe
+
+Range: 60
+Cast time: 2.5s
+Cooldown: 100s</TM_SpiritWolves_II.description>
+  <TM_SpiritWolves_III.label>Spirit Wolves (III)</TM_SpiritWolves_III.label>
+  <TM_SpiritWolves_III.description>Manifests a charging pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns; once trained spirit damage can also be used to hex enemies. Spirit wolves are able to distinguish friend from foe
+		
+Range: 65
+Cast time: 2.4s
+Cooldown: 90s</TM_SpiritWolves_III.description>
+  <TM_GuardianSpirit.label>Guardian Spirit</TM_GuardianSpirit.label>
+  <TM_GuardianSpirit.description>Summons a guardian spirit. Guardian spirits manifest as powerful animals with unique strengths and abilities.
+
+Spirit Bear - represents defense and fortitude; will issue a challenging roar against any that think to ignore this dangerous beast
+
+Spirit Mongoose - represents cunning and agility; able to slip through the spirit realm to deliver a lethal, hidden attack
+
+Spirit Crow - represents magic and insight; will place a hex on enemies and enhances the wisdom of its ward
+		
+Once determined, a guardian spirit type remains the same, however, this can be forcibly changed using a scroll of spirit binding.</TM_GuardianSpirit.description>
+  <TM_DismissGuardianSpirit.label>Dismiss Guardian Spirit</TM_DismissGuardianSpirit.label>
+  <TM_DismissGuardianSpirit.description>Releases the guardian spirit to return to the spirit realm.</TM_DismissGuardianSpirit.description>
+  <TM_SniperFocus.label>Sniper Training</TM_SniperFocus.label>
+  <TM_SniperFocus.description>Training that improves technique and status as sniper. Each level will change the trait of the sniper to reflect their skill level.
+	
+Ranks:
+Sharpshooter: Speed +0.1c/s, Aiming Delay -10%, Shooting Acc. +2%, Research and work speed -10%, tame and train animal -10%
+Sniper: Speed +0.15c/s, Aiming Delay -15%, Shooting Acc. +4%, Research and work speed -13%, tame and train animal -13%
+Master Sniper: Speed +0.2c/s, Aiming Delay -22%, Shooting Acc. +6%, Research and work speed -15%, tame and train animal -15%
+Legendary Sniper: Speed +0.25c/s, Aiming Delay -30%, Shooting Acc. +8%, Research and work speed -16%, tame and train animal -16%</TM_SniperFocus.description>
+  <TM_Headshot.label>Headshot</TM_Headshot.label>
+  <TM_Headshot.description>A lethal shot that targets a vital bodypart like the head or heart. Effective on non-humanoids and humanoids alike. Headshot success chance is reduced against targets with thick armor protecting their vital organs.</TM_Headshot.description>
+  <TM_DisablingShot.label>Disabling Shot</TM_DisablingShot.label>
+  <TM_DisablingShot.description>A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 20
+Firing Delay: 2.5s
+Recharge 45s</TM_DisablingShot.description>
+  <TM_DisablingShot_I.label>Disabling Shot (I)</TM_DisablingShot_I.label>
+  <TM_DisablingShot_I.description>A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 22
+Firing Delay: 2.3s
+Recharge 43s</TM_DisablingShot_I.description>
+  <TM_DisablingShot_II.label>Disabling Shot (II)</TM_DisablingShot_II.label>
+  <TM_DisablingShot_II.description>A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 25
+Firing Delay: 2.1s
+Recharge 41s</TM_DisablingShot_II.description>
+  <TM_DisablingShot_III.label>Disabling Shot (III)</TM_DisablingShot_III.label>
+  <TM_DisablingShot_III.description>A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 27
+Firing Delay: 2s
+Recharge 40s</TM_DisablingShot_III.description>
+  <TM_AntiArmor.label>Anti-Armor</TM_AntiArmor.label>
+  <TM_AntiArmor.description>The sniper carries anti armor rounds for those special occasions. When this ammunition shatters, it releases nanites that will shred any armor they make contact with. Relatively ineffective against soft targets but does extra damage to armored targets, as long as the resistance on impact activates the nanites. Armored targets may be any mechanoid or a target with a Sharp armor rating above 100%.</TM_AntiArmor.description>
+  <TM_Heater.label>Magical heater</TM_Heater.label>
+  <TM_Heater.description>Creates a dimensional pocket that taps into the Plane of Fire, generating constant heat in a confined area. The heater must be sustained by the mage - reduces max mana by 25 while active.</TM_Heater.description>
+  <TM_DismissHeater.label>Dismiss Heater</TM_DismissHeater.label>
+  <TM_DismissHeater.description>Dismisses a magical heater</TM_DismissHeater.description>
+  <TM_Cooler.label>Magical cooler</TM_Cooler.label>
+  <TM_Cooler.description>Creates a dimensional pocket that taps into the Plane of Ice, reducing heat in a confined area. The cooler must be sustained by the mage - reduces max mana by 25 while active.</TM_Cooler.description>
+  <TM_DismissCooler.label>Dismiss Cooler</TM_DismissCooler.label>
+  <TM_DismissCooler.description>Dismisses a magical cooler</TM_DismissCooler.description>
+  <TM_PowerNode.label>Arcane Power Node</TM_PowerNode.label>
+  <TM_PowerNode.description>Creates an energy node that slowly releases arcane energy in the form of electricity. Can be used as a power source. The power node must be sustained by the mage - reduces max mana by 25 and mana regen by 25% while active.</TM_PowerNode.description>
+  <TM_DismissPowerNode.label>Dismiss Power Node</TM_DismissPowerNode.label>
+  <TM_DismissPowerNode.description>Dismisses an arcane power node</TM_DismissPowerNode.description>
+  <TM_Sunlight.label>Sun Light</TM_Sunlight.label>
+  <TM_Sunlight.description>Creates a beacon of sunlight strong enough to grow plants. The beacon must be sustained by the mage - reduces max mana by 40 and mana regeneration by 40% while active.</TM_Sunlight.description>
+  <TM_DismissSunlight.label>Dismiss Sun Light</TM_DismissSunlight.label>
+  <TM_DismissSunlight.description>Dismisses a Sun Light</TM_DismissSunlight.description>
+  <TM_DryGround.label>Dry Ground</TM_DryGround.label>
+  <TM_DryGround.description>Infuses the ground with heat, evaporating most of the moisture from a patch of ground. Only works on muddy ground.</TM_DryGround.description>
+  <TM_WetGround.label>Moisturize Ground</TM_WetGround.label>
+  <TM_WetGround.description>Infuses sand with water, creating usable soil.</TM_WetGround.description>
+  <TM_ChargeBattery.label>Charge Battery</TM_ChargeBattery.label>
+  <TM_ChargeBattery.description>Converts raw magic power into electrical energy. This spell can only be used on batteries. Generates 400Wd.</TM_ChargeBattery.description>
+  <TM_SmokeCloud.label>Smoke Cloud</TM_SmokeCloud.label>
+  <TM_SmokeCloud.description>Draws in and ignites water and dirt particles in the air to create a smoke screen that temporarily conceals the area.</TM_SmokeCloud.description>
+  <TM_Extinguish.label>Extinguish</TM_Extinguish.label>
+  <TM_Extinguish.description>Removes the fire element from the target location, instantly extinguishing undesired fires.</TM_Extinguish.description>
+  <TM_EMP.label>EMP</TM_EMP.label>
+  <TM_EMP.description>Generate a burst of electromagnetic radiation at a target site, disabling mechanoids for a short period.</TM_EMP.description>
+  <TM_TransferMana.label>Transfer Mana</TM_TransferMana.label>
+  <TM_TransferMana.description>Transfers magical energy from one caster to another. Recipients that are not magic users will receive significant, if random, physical augmentation for a short period. Can be harmful, even lethal, at extreme levels.</TM_TransferMana.description>
+  <TM_SiphonMana.label>Siphon Mana</TM_SiphonMana.label>
+  <TM_SiphonMana.description>Siphons magical energy from another caster. Recipients that are not magic users will have physical capacities drained instead. Can be lethal if too much life force is drained.</TM_SiphonMana.description>
+  <TM_ManaShield.label>Mana Shield</TM_ManaShield.label>
+  <TM_ManaShield.description>Summons a protective barrier that draws power from the caster's mana. Damage absorption rate is 1dmg to 1 mana. The barrier breaks when the caster has insufficient mana to absorb an attack.  
+
+Casting the spell when a barrier is active will remove the barrier. Can be used in conjunction with shield belts. Does not impede spell casting of any type.</TM_ManaShield.description>
+  <TM_ArcaneBarrier.label>Arcane Barrier</TM_ArcaneBarrier.label>
+  <TM_ArcaneBarrier.description>Creates an arcane barrier at the target location that is horizontal to the caster. The barrier lasts 60 seconds.</TM_ArcaneBarrier.description>
+  <TM_Flight.label>Flight</TM_Flight.label>
+  <TM_Flight.description>Quickly fly to a target location.</TM_Flight.description>
+  <TM_FertileLands.label>Fertile Lands</TM_FertileLands.label>
+  <TM_FertileLands.description>Infuses an area of land with power from the druid that increases its fertility. This ability must be maintained and reduces mana regeneration by 40%. The druid is limited to one area.</TM_FertileLands.description>
+  <TM_DismissFertileLands.label>End Fertile Lands</TM_DismissFertileLands.label>
+  <TM_DismissFertileLands.description>Releases the druid's power infusing the land with fertility.</TM_DismissFertileLands.description>
+  <TM_SpellMending.label>Spell Mending</TM_SpellMending.label>
+  <TM_SpellMending.description>Cast an enchantment upon a person that slowly reconstructs their equipment at a molecular level. Spell mending requires a the equipment to be worn in order to extract 'memories' from the wearer to perform the reconstruction. This places a physical strain on the affected pawn and will slow their physical activities. Spell mending dissipates after several hours.</TM_SpellMending.description>
+  <TM_CauterizeWound.label>Cauterize Wounds</TM_CauterizeWound.label>
+  <TM_CauterizeWound.description>The fire mage invokes elemental fire to instantly cauterize wounds on a patient. However, this process is likely to leave burn scars.</TM_CauterizeWound.description>
+  <TM_TeachMagic.label>Mentor Magic</TM_TeachMagic.label>
+  <TM_TeachMagic.description>Mentor a mage of lesser level to increase their magic skill. 
+		
+Mentored mages will gain class XP.  The amount of XP gained depends on the social status and difference in levels between the two mages.</TM_TeachMagic.description>
+  <TM_TeachMight.label>Combat Training</TM_TeachMight.label>
+  <TM_TeachMight.description>Train a fighter of lesser level to increase their combat skill. 
+		
+Trained fighters will gain class XP.  The amount of XP gained depends on the social status and difference in levels between the two fighters.</TM_TeachMight.description>
+  <TM_Blur.label>Blur</TM_Blur.label>
+  <TM_Blur.description>Additional 20% chance to avoid all attacks by distorting light around the caster. Requires 20 mana to sustain and reduces mana regeneration by 10%. Re-use the ability to deactivate blur.</TM_Blur.description>
+  <TM_BlankMind.label>Blank Mind</TM_BlankMind.label>
+  <TM_BlankMind.description>Wipes the memories of a pawn and breaks them out of any mental state but will induce a brief period of confusion as they gather their wits. When used on enemies, it will apply a mental freeze, stunning the enemy for a brief period.
+		
+AoE effects are only applied when the primary target is not a friendly pawn. Friendly pawns will lose both good and bad memories.</TM_BlankMind.description>
+  <TM_DirtDevil.label>Dirt Devil</TM_DirtDevil.label>
+  <TM_DirtDevil.description>Create a small vacuum of elemental air that seeks out and vaporizes dirt and debris.</TM_DirtDevil.description>
+  <TM_MechaniteReprogramming.label>Reprogram Mechanites</TM_MechaniteReprogramming.label>
+  <TM_MechaniteReprogramming.description>Reprograms fibrous or sensory mechanites to harmonize with a hosts biological systems. The result will significantly reduce the strain on the host while the mechanites are active.</TM_MechaniteReprogramming.description>
+  <TM_ArcaneBolt.label>Arcane Bolt</TM_ArcaneBolt.label>
+  <TM_ArcaneBolt.description>Launches a bolt of raw arcane energy. This ability will slowly grow in power based on the casters magic level.
+
+Arcane Bolt is inefficient because of the unrefined nature of the spell, but it can be learned and cast by any mage capable of violence.</TM_ArcaneBolt.description>
+  <TM_ThrowingKnife.label>Throwing Knife</TM_ThrowingKnife.label>
+  <TM_ThrowingKnife.description>A ranged attack using a concealed throwing knife, designed to complement any equipped weapon system.</TM_ThrowingKnife.description>
+  <TM_PommelStrike.label>Pommel Strike</TM_PommelStrike.label>
+  <TM_PommelStrike.description>A melee attack that delivers a non-lethal blow dealing minor damage and stunning the target for a short period. 
+	
+This ability can instantly down a target pawn; the more pain the target is in, the more likely the blow will knock down the target instead of stun.
+
+Autocast only triggers when the target has 80% or greater chance of being downed from this attack.</TM_PommelStrike.description>
+  <TM_LightningTrap.label>Lightning Trap</TM_LightningTrap.label>
+  <TM_LightningTrap.description>Elemental lightning is charged inside a hardened arcane shell and placed as a trap. Arcane strands that activate the spell are extended around the trap and trigger when disturbed by enemies. Traps last indefinitely, but a mage is only able to sustain a single trap.</TM_LightningTrap.description>
+  <TM_DismissLightningTrap.label>Dismiss Lightning Trap</TM_DismissLightningTrap.label>
+  <TM_DismissLightningTrap.description>Dismisses a lightning trap</TM_DismissLightningTrap.description>
+  <TM_Invisibility.label>Invisibility</TM_Invisibility.label>
+  <TM_Invisibility.description>Become invisible for 20 seconds. Any overt interaction will immediately break the spell. Clears caster from all hostile targeting.</TM_Invisibility.description>
+  <TM_BriarPatch.label>Briar Patch</TM_BriarPatch.label>
+  <TM_BriarPatch.description>Creates a hazard made of thorny vines. Any movement over the affected area will be slowed, and creatures moving through the briar patch may take minor damage.</TM_BriarPatch.description>
+  <TM_MageLight.label>Magelight</TM_MageLight.label>
+  <TM_MageLight.description>Creates a small orb of light that banishes the darkness. Magelight will remain in the proximity of the casting mage. This spell has an upkeep cost of 10 mana and 5% mana regen.
+
+Magelight grants a 20% vision bonus; only the caster benefits from this bonus.
+
+Magelight can be dispelled by using this ability on the caster.</TM_MageLight.description>
+  <TM_Legion.label>Legion</TM_Legion.label>
+  <TM_Legion.description>Copy an ability from another fighter. All bonuses and restrictions of the copied ability apply. Only one ability may be stored at a time.</TM_Legion.description>
+  <TM_TempestStrike.label>Tempest Strike</TM_TempestStrike.label>
+  <TM_TempestStrike.description>Launch multiple attacks in rapid succession. Each attack consumes 20 stamina. Tempest Strike will end when the fighter has insufficient stamina or after 5 attacks.
+	
+Melee weapons generate blades of energy.
+	
+This attack only works when the weapon equipped is not normally consumed after use.</TM_TempestStrike.description>
+  <TM_Ignite.label>Ignite</TM_Ignite.label>
+  <TM_Ignite.description>Concentrates and enormous amount of heat at a focus point and then releases it. The released heat can ignite nearby creatures and will always set fire to corpses. The released heat will also dramatically increase the room temperature for any enclosed area.</TM_Ignite.description>
+  <TM_SnapFreeze.label>Snap Freeze</TM_SnapFreeze.label>
+  <TM_SnapFreeze.description>Removes almost all heat at a focus point causing a snap freeze of any living object. Creatures may suffer from frostbite and most plant life will die. The removal of heat will also dramatically decrease the room temperature for any enclosed area.</TM_SnapFreeze.description>
+  <TM_Explosion.label>Explosion!</TM_Explosion.label>
+  <TM_Explosion.description>Blackness shrouded in light, frenzied blaze clad in night, in the name of the crimson demons, let the collapse of thine origin manifest. Summon before me the root of thy power, hidden within the blossoming kingdom of demise. Explosion!</TM_Explosion.description>
+  <TM_Taunt.label>Taunt</TM_Taunt.label>
+  <TM_Taunt.description>Taunts nearby targets to attack this pawn.</TM_Taunt.description>
+  <TM_SummonMinion.label>Summon Minion</TM_SummonMinion.label>
+  <TM_SummonMinion.description>Summons minions to assist in daily tasks.</TM_SummonMinion.description>
+  <TM_DismissMinion.label>Dismiss Minion</TM_DismissMinion.label>
+  <TM_DismissMinion.description>Dismisses a summoned minion.</TM_DismissMinion.description>
+  <TM_SummonPylon.label>Summon defense pylon</TM_SummonPylon.label>
+  <TM_SummonPylon.description>Summons and manifests magical energy to form an automated defense turret that is tethered to a physical location.  The turret channels arcane current into a focal point that emits bursts of raw energy.  When the tether holding the turret to the physical world dissipates, the turret will harmlessly dissolve back into magical energy.  If the turret is destroyed, this event can be more destructive.</TM_SummonPylon.description>
+  <TM_SummonExplosive.label>Summon explosive</TM_SummonExplosive.label>
+  <TM_SummonExplosive.description>Creates a mine out of compressed, raw mana and tethers it to a physical location.  The mine will harmlessly dissolve if the tether runs out of energy that is holding the mine.</TM_SummonExplosive.description>
+  <TM_SummonElemental.label>Summon Elemental</TM_SummonElemental.label>
+  <TM_SummonElemental.description>Calls forth a monstrous elemental from a plane of power to crush your foes.  These beings will defend a location and immediately engage an enemy if one is nearby.  However, if there are no enemies, they tend to get bored rather quickly and will wander from their summoned position.  They will not do such menial tasks as "hauling" or "cleaning," as these are the jobs of lesser beings.  Due to the power of the summoning, the elemental can only exist in this realm for a short time.  The type of elemental is random.</TM_SummonElemental.description>
+  <TM_SummonPoppi.label>Summon Poppi</TM_SummonPoppi.label>
+  <TM_SummonPoppi.description>Summon a pack of vicious poppi straight from the gates of insanity. This pack of poppi are rabid and will eagerly tear into enemy formations.</TM_SummonPoppi.description>
+  <TM_PistolSpec.label>Pistol Specialization</TM_PistolSpec.label>
+  <TM_PistolSpec.description>Weapon Specialization: Pistol
+
+This specialization improves all aspects of pistols: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.
+
+Super Soldiers with a specialized pistol equipped gain a unique "double tap" talent which will occasionally ignore cooldown and immediately begin another shot burst; this talent consumes stamina when it occurs.</TM_PistolSpec.description>
+  <TM_PistolWhip.label>Pistol Whip</TM_PistolWhip.label>
+  <TM_PistolWhip.description>A sudden attack using the pistol stock as a blunt weapon; successful attacks will stun a target, leaving them dazed for a short period, and may also disarm them.</TM_PistolWhip.description>
+  <TM_RifleSpec.label>Rifle Specialization</TM_RifleSpec.label>
+  <TM_RifleSpec.description>Weapon Specialization: Rifle 
+
+This specialization improves all aspects of rifles: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.</TM_RifleSpec.description>
+  <TM_SuppressingFire.label>Suppressing Fire</TM_SuppressingFire.label>
+  <TM_SuppressingFire.description>Suppress enemy positions with a storm of bullets.</TM_SuppressingFire.description>
+  <TM_Mk203GL.label>Mk203_GL</TM_Mk203GL.label>
+  <TM_Mk203GL.description>Fires a grenade using the Mk203 under-barrel grenade launcher.</TM_Mk203GL.description>
+  <TM_ShotgunSpec.label>Shotgun Specialization</TM_ShotgunSpec.label>
+  <TM_ShotgunSpec.description>Weapon Specialization: Shotgun 
+
+This specialization improves all aspects of shotguns: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.</TM_ShotgunSpec.description>
+  <TM_Buckshot.label>Buckshot</TM_Buckshot.label>
+  <TM_Buckshot.description>A shotgun shell that fires multiple pellets. The sheer volume of rounds discharged can be devastating at short range, but disperses rapidly.</TM_Buckshot.description>
+  <TM_BreachingCharge.label>Breaching charge</TM_BreachingCharge.label>
+  <TM_BreachingCharge.description>Throws a specialized explosive that excels at destroying structures or stopping enemy clusters. Deals 30x damage to structures.</TM_BreachingCharge.description>
+  <TM_CQC.label>CQC</TM_CQC.label>
+  <TM_CQC.description>Close Quarters Combat (CQC) is common training for Soldiers that allows them to smoothly execute a vicious combo attack against an enemy in melee range.</TM_CQC.description>
+  <TM_FirstAid.label>Self Aid</TM_FirstAid.label>
+  <TM_FirstAid.description>Self Aid is possible for Super Soldiers as a result of the genetic enhancements they acquire from the serum. This ability allows them to consciously focus energy to rapid tend wounds. Self Aid is unable to tend grievous wounds, such as missing body parts.</TM_FirstAid.description>
+  <TM_60mmMortar.label>60mm Mortar</TM_60mmMortar.label>
+  <TM_60mmMortar.description>Soften up enemy targets before a fight even begins with a personal mortar system. The 60mm Mortar can easily be transported by a Super Soldier and quickly deployed to launch 3-rounds of indirect fire.</TM_60mmMortar.description>
+  <TM_GearRepair.label>Gear Repair</TM_GearRepair.label>
+  <TM_GearRepair.description>Activates or deactivates the sustained combat skill Gear Repair - slowly repairs equipped apparel and weapons. Requires 20 Stamina to sustain.</TM_GearRepair.description>
+  <TM_InnerHealing.label>Inner Healing</TM_InnerHealing.label>
+  <TM_InnerHealing.description>Activates or deactivates the sustained combat skill Inner Healing - sacrifices physical energy to increase healing rate and disease immunity. Requires 10 Stamina to sustain.</TM_InnerHealing.description>
+  <TM_HeavyBlow.label>Heavy Blow</TM_HeavyBlow.label>
+  <TM_HeavyBlow.description>Activates or deactivates the sustained combat skill Heavy Blow - increases damage of all attacks by 20%. Requires 30 Stamina to sustain.</TM_HeavyBlow.description>
+  <TM_StrongBack.label>Strong Back</TM_StrongBack.label>
+  <TM_StrongBack.description>Activates or deactivates the sustained combat skill Strong Back - increases carry capacity by 40 and inventory capacity by 50% but causes a 10% increase in exhaustion rate. Requires 20 Stamina to sustain.</TM_StrongBack.description>
+  <TM_ThickSkin.label>Thick Skin</TM_ThickSkin.label>
+  <TM_ThickSkin.description>Activates or deactivates the sustained combat skill Thick Skin - increases all armor values by 10% and improves temperature thresholds slightly. Requires 30 Stamina to sustain and reduces stamina regeneration by 15%.</TM_ThickSkin.description>
+  <TM_FightersFocus.label>Fighters Focus</TM_FightersFocus.label>
+  <TM_FightersFocus.description>Activates or deactivates the sustained combat skill Fighters Focus - increases mental break threshold by 5% and pain threshold by 20%. Requires 15 Stamina to sustain.</TM_FightersFocus.description>
+  <TM_BurningFury.label>Burning Fury</TM_BurningFury.label>
+  <TM_BurningFury.description>Activates or deactivates the sustained combat skill Burning Fury.
+	
+Burning Fury causes periodic burning damage to nearby enemies as well as the caster. It also cauterizes bleeding wounds and applies a combat enhancement on the caster.
+
+Burning Fury:
+Movement +10%
+Breathing +40%
+Blood pumping +40%
+Pain threshold +40%
+Armor (Heat) +100%
+
+While active, the caster cannot be staggered and will reduce all incoming damage by 35%.
+
+This ability actively consumes stamina, and will automatically cancel once the caster's stamina reaches 0.</TM_BurningFury.description>
+  <TM_TechnoBit.label>Techno-Bit</TM_TechnoBit.label>
+  <TM_TechnoBit.description>The techno-bit is a small, autonomous orb that assists the technomancer in many tasks and provides the technomancer with additional support capabilities. The techno-bit assist can be toggled and will not perform any task while disabled.
+	
+Undrafted: the techno-bit assists in crafting, mining and construction tasks. It will also repair nearby buildings, androids, and mechanoids.
+
+Drafted: uses its anti-gravity system to propel small, time delayed explosives at the technomancer's target.  Performs accelerated repairs to nearby robotic pawns or buildings.</TM_TechnoBit.description>
+  <TM_TechnoTurret.label>Mark-IV Turret</TM_TechnoTurret.label>
+  <TM_TechnoTurret.description>Deploys and establishes a neural link to the Mark-IV turret. The Mark-IV is remotely controlled by the caster. After the turret is deployed,any activity or movement by the caster will break the neural link and miniaturize the Mark-IV weapon system. Rockets and mortars consume mana per shot.
+
+The Mark-IV will automatically miniaturize itself when it takes critical damage and can cause neural feedback to the technomancer manning the system.</TM_TechnoTurret.description>
+  <TM_TechnoWeapon.label>Engineer Weapon</TM_TechnoWeapon.label>
+  <TM_TechnoWeapon.description>The technomancer applies their knowledge of engineering and magic to create a modified version of an existing weapon.  This weapon is molded out of raw mana and physically anchored to the technomancer as an extension of their body.
+Because of this, the weapon will disintegrate if separated from the technomancer.  This weapon will be automatically equipped by the technomancer once created.
+
+Weapon specialists also have access to modified ammunition and nano stimulants for improved combat capabilities.
+
+To create a techno weapon: target a weapon on the ground. Targeted weapon must be ranged, with an industrial or higher tech level, and use standard firing action.</TM_TechnoWeapon.description>
+  <TM_NanoStimulant.label>Nano Stimulant</TM_NanoStimulant.label>
+  <TM_NanoStimulant.description>An injection of nanites that temporarily enhances the combat capabilities of the user. This stimulant is specially synthesized by the technomancer for their own unique biological and genetic makeup. It isn't chemically addictive, but is harmful for any other pawn. 
+
+The nanites are fueled by mana and energy within the body and will rapidly cause fatigue. 
+
+When the nanites burn out, they will form platelets to cauterize and stop bleeding and even heal small wounds. Use of nano stimulants will accelerate any active disease or infection.</TM_NanoStimulant.description>
+  <TM_TechnoShield.label>Kinetic Shield</TM_TechnoShield.label>
+  <TM_TechnoShield.description>Surrounds the target in a kinetic field that repels inbound projectiles. The kinetic shield is able to deflect projectiles depending on their kinetic energy, heavier projectiles are more difficult to deflect and will penetrate low powered shields. 
+		
+The amount of kinetic energy involved in a deflection is determined by the amount of damage that would be caused by the projectile.</TM_TechnoShield.description>
+  <TM_Sabotage.label>Sabotage</TM_Sabotage.label>
+  <TM_Sabotage.description>Sabotage overrides the targets mechanical failsafes, logic functions, and any other exploitable system within a small area. The effects of sabotage can range from reduced mechanical performance, temporary shutdown, self destruction, catastrophic failure and even loss of ability to determine friend from foe.
+
+Can be applied to: batteries, power generators, turrets, robots, androids, and mechanoids.</TM_Sabotage.description>
+  <TM_Overdrive.label>Overdrive</TM_Overdrive.label>
+  <TM_Overdrive.description>Overdrive the targeted mechanical, electrical, or AI system with fabricated nanites that pushes the system beyond its limits. Overdrive will cause damage to the system periodically.
+
+Can be applied to: power generators, turrets, robots, androids, and mechanoids.</TM_Overdrive.description>
+  <TM_OrbitalStrike.label>Orbital Strike</TM_OrbitalStrike.label>
+  <TM_OrbitalStrike.description>Hack into a network of orbital bombardment satellites and enter a target designation. By using random, arcane signatures to mask their activity, technomancers can continually manipulate advanced systems without being positively identified and locked out.
+		
+Range: 70
+Warmup: 3s
+Radius: 2.5</TM_OrbitalStrike.description>
+  <TM_OrbitalStrike_I.label>Orbital Strike I</TM_OrbitalStrike_I.label>
+  <TM_OrbitalStrike_I.description>Hack into a network of orbital bombardment satellites and enter a target designation. By using random, arcane signatures to mask their activity, technomancers can continually manipulate advanced systems without being positively identified and locked out.
+		
+Range: 80
+Warmup: 2.1s
+Radius: 4.2</TM_OrbitalStrike_I.description>
+  <TM_OrbitalStrike_II.label>Orbital Strike II</TM_OrbitalStrike_II.label>
+  <TM_OrbitalStrike_II.description>Hack into a network of orbital bombardment satellites and enter a target designation. By using random, arcane signatures to mask their activity, technomancers can continually manipulate advanced systems without being positively identified and locked out.
+		
+Range: 90
+Warmup: 1.8s
+Radius: 5.0</TM_OrbitalStrike_II.description>
+  <TM_OrbitalStrike_III.label>Orbital Strike III</TM_OrbitalStrike_III.label>
+  <TM_OrbitalStrike_III.description>Hack into a network of orbital bombardment satellites and enter a target designation. By using random, arcane signatures to mask their activity, technomancers can continually manipulate advanced systems without being positively identified and locked out.
+		
+Range: 100
+Warmup: 1.6s
+Radius: 5.6</TM_OrbitalStrike_III.description>
+  <TM_WandererCraft.label>The Wanderer</TM_WandererCraft.label>
+  <TM_WandererCraft.description>Increase attributes through hard work and creativity. See skills for more details.</TM_WandererCraft.description>
+  <TM_Cantrips.label>Cantrips</TM_Cantrips.label>
+  <TM_Cantrips.description>Wandering mages do not have class specific abilities, instead, they excel at general spells or cantrips. 
+	
+Cantrips are discarded by most mages as mere conveniences which require no additional skill training, but the wanderer takes another approach. By investing time and effort into understanding cantrips, the wanderer is able to improve almost all general abilities in utility, power, and efficiency. 
+
+See skills for more details.</TM_Cantrips.description>
+  <TM_WayfarerCraft.label>The Wayfarer</TM_WayfarerCraft.label>
+  <TM_WayfarerCraft.description>Increase attributes through training and hard work. See skills for more details.</TM_WayfarerCraft.description>
+  <TM_FieldTraining.label>Combat Training</TM_FieldTraining.label>
+  <TM_FieldTraining.description>Wayfarers do not have class specific abilities, instead, they excel at general combat. 
+
+General combat techniques are discarded by most fighters as supplementary skills which require no additional skill training. The wayfarer takes another approach; by investing time and effort into understanding these combat skills, the wayfarer is able to improve almost all general abilities in utility, power, and efficiency. 
+
+See skills for more details.</TM_FieldTraining.description>
+</LanguageData>

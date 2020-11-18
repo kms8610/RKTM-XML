@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_HeatWaveMR.label>Alteration: heatwave</TM_HeatWaveMR.label>
+  <TM_HeatWaveMR.description>A heat wave envelops the map
+Casters: 3
+Mana: 50 ea.
+Fail chance: 5%
+Fail backlash: 0</TM_HeatWaveMR.description>
+  <TM_HeatWaveMR.jobString>summoning heat wave</TM_HeatWaveMR.jobString>
+  <TM_ColdSnapMR.label>Alteration: cold snap</TM_ColdSnapMR.label>
+  <TM_ColdSnapMR.description>A cold snap envelops the map
+Casters: 3
+Mana: 50 ea.
+Fail chance: 5%
+Fail backlash: 0</TM_ColdSnapMR.description>
+  <TM_ColdSnapMR.jobString>summoning cold wave</TM_ColdSnapMR.jobString>
+  <TM_NameWindMR.label>Alteration: name of the wind</TM_NameWindMR.label>
+  <TM_NameWindMR.description>causes high wind speeds across the map for several days
+Casters: 1
+Mana: 40 ea.
+Fail chance: 10%
+Fail backlash: 6</TM_NameWindMR.description>
+  <TM_NameWindMR.jobString>summoning wind</TM_NameWindMR.jobString>
+  <TM_PsychicSootheMR.label>Alteration: psychic soothe</TM_PsychicSootheMR.label>
+  <TM_PsychicSootheMR.description>Create soothing psychic emanations
+Casters: 3
+Mana: 50 ea.
+Fail chance: 25%
+Fail backlash: 10</TM_PsychicSootheMR.description>
+  <TM_PsychicSootheMR.jobString>creating psychic soothe</TM_PsychicSootheMR.jobString>
+  <TM_HealingRainMR.label>Alteration: healing rain</TM_HealingRainMR.label>
+  <TM_HealingRainMR.description>The map is washed in healing rain
+Casters: 1
+Mana: 60 ea.
+Fail chance: 20%
+Fail backlash: 10</TM_HealingRainMR.description>
+  <TM_HealingRainMR.jobString>forming healing rain</TM_HealingRainMR.jobString>
+  <TM_NaturesGiftMR.label>Alteration: nature's gift</TM_NaturesGiftMR.label>
+  <TM_NaturesGiftMR.description>Causes random events to occur
+Casters: 3
+Mana: 40 ea.
+Fail chance: 25%
+Fail backlash: 12</TM_NaturesGiftMR.description>
+  <TM_NaturesGiftMR.jobString>altering event chance</TM_NaturesGiftMR.jobString>
+  <TM_CallOfTheWildMR.label>Alteration: call of the wild</TM_CallOfTheWildMR.label>
+  <TM_CallOfTheWildMR.description>Draws the attention of wild animals
+Casters: 2
+Mana: 60 ea.
+Fail chance: 20%
+Fail backlash: 12</TM_CallOfTheWildMR.description>
+  <TM_CallOfTheWildMR.jobString>altering event chance</TM_CallOfTheWildMR.jobString>
+  <TM_TerrestrialBeaconMR.label>Alteration: terrestrial beacon</TM_TerrestrialBeaconMR.label>
+  <TM_TerrestrialBeaconMR.description>Alters the flight path of falling objects to land nearby
+Casters: 2
+Mana: 60 ea.
+Fail chance: 25%
+Fail backlash: 12</TM_TerrestrialBeaconMR.description>
+  <TM_TerrestrialBeaconMR.jobString>altering event chance</TM_TerrestrialBeaconMR.jobString>
+  <TM_MeteorFallMR.label>Conjuration: attract meteors</TM_MeteorFallMR.label>
+  <TM_MeteorFallMR.description>Causes multiple meteors to impact nearby
+Casters: 3
+Mana: 60 ea.
+Fail chance: 15%
+Fail backlash: 0</TM_MeteorFallMR.description>
+  <TM_MeteorFallMR.jobString>summoning meteors</TM_MeteorFallMR.jobString>
+  <TM_CreateSkeletonMR.label>Conjuration: skeleton</TM_CreateSkeletonMR.label>
+  <TM_CreateSkeletonMR.description>Creates an animated skeleton from a single corpses; the skeleton will defend the colony for 5 days or until destroyed.
+Casters: 1
+Mana: 50 ea.
+Fail chance: 10%
+Fail backlash: 8</TM_CreateSkeletonMR.description>
+  <TM_CreateSkeletonMR.jobString>animating skeleton</TM_CreateSkeletonMR.jobString>
+  <TM_CreateGiantSkeletonMR.label>Conjuration: giant skeleton</TM_CreateGiantSkeletonMR.label>
+  <TM_CreateGiantSkeletonMR.description>Creates a giant, animated skeleton from a pile of corpses; the skeleton will defend the colony for 5 days or until destroyed.
+Casters: 4
+Mana: 50 ea.
+Fail chance: 25%
+Fail backlash: 12</TM_CreateGiantSkeletonMR.description>
+  <TM_CreateGiantSkeletonMR.jobString>animating skeleton</TM_CreateGiantSkeletonMR.jobString>
+  <TM_RuunbledMR.label>Conjuration: mystic weapon</TM_RuunbledMR.label>
+  <TM_RuunbledMR.description>Summons a mystic weapon
+Casters: 3
+Mana: 60 ea.
+Fail chance: 50%
+Fail backlash: 10</TM_RuunbledMR.description>
+  <TM_RuunbledMR.jobString>summoning a mystic weapon</TM_RuunbledMR.jobString>
+  <TM_ArcaneAugmentationMR.label>Enchantment: arcane augmentation</TM_ArcaneAugmentationMR.label>
+  <TM_ArcaneAugmentationMR.description>Applies numerous arcane buffs to colonists.
+Casters: 3
+Target max: 10
+Mana: 40 ea.
+Fail chance: 15%
+Fail backlash: 6</TM_ArcaneAugmentationMR.description>
+  <TM_ArcaneAugmentationMR.jobString>applying arcane augmentations</TM_ArcaneAugmentationMR.jobString>
+  <TM_BlightWildlifeMR.label>Enchantment: blight wildlife</TM_BlightWildlifeMR.label>
+  <TM_BlightWildlifeMR.description>Blights all wildlife with the plague.
+Casters: 3
+Mana: 40 ea.
+Fail chance: 15%
+Fail backlash: 6</TM_BlightWildlifeMR.description>
+  <TM_BlightWildlifeMR.jobString>hexing wildlife</TM_BlightWildlifeMR.jobString>
+  <TM_BeastialRageMR.label>Enchantment: predator's rage</TM_BeastialRageMR.label>
+  <TM_BeastialRageMR.description>Enrage predator beasts on the map and nudge their rage towards your enemies.
+Casters: 2
+Mana: 40 ea.
+Fail chance: 35%
+Fail backlash: 10</TM_BeastialRageMR.description>
+  <TM_BeastialRageMR.jobString>enraging predators</TM_BeastialRageMR.jobString>
+  <TM_ArcaneInspirationMR.label>Enchantment: arcane inspiration</TM_ArcaneInspirationMR.label>
+  <TM_ArcaneInspirationMR.description>searches arcane revelations for inspiration
+Casters: 1
+Mana: 50 ea.
+Fail chance: 15%
+Fail backlash: 6</TM_ArcaneInspirationMR.description>
+  <TM_ArcaneInspirationMR.jobString>delving into the arcane</TM_ArcaneInspirationMR.jobString>
+  <TM_DivineBlessingMR.label>Enchantment: divine blessing</TM_DivineBlessingMR.label>
+  <TM_DivineBlessingMR.description>Beseech a higher power to show mercy to ailing pawns
+Casters: 3
+Mana: 60 ea.
+Fail chance: 40%
+Fail backlash: 0</TM_DivineBlessingMR.description>
+  <TM_DivineBlessingMR.jobString>seeking divine blessing</TM_DivineBlessingMR.jobString>
+  <TM_SummonDemonMR.label>Conjuration: summon demon *challenge*</TM_SummonDemonMR.label>
+  <TM_SummonDemonMR.description>Combat a demonic enemy
+Casters: 6
+Mana: 40 ea.
+Fail chance: 20%
+Fail backlash: 20</TM_SummonDemonMR.description>
+  <TM_SummonDemonMR.jobString>summoning demon</TM_SummonDemonMR.jobString>
+  <TM_SummonWanderingLichMR.label>Conjuration: summon wandering lich *challenge*</TM_SummonWanderingLichMR.label>
+  <TM_SummonWanderingLichMR.description>Draw the attention of a wandering lich
+Casters: 6
+Mana: 40 ea.
+Fail chance: 20%
+Fail backlash: 20</TM_SummonWanderingLichMR.description>
+  <TM_SummonWanderingLichMR.jobString>summoning lich</TM_SummonWanderingLichMR.jobString>
+</LanguageData>

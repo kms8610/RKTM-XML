@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FlyingObject_Spinning.label>flying object that spins</FlyingObject_Spinning.label>
+  <FlyingObject_SpinningBone.label>flying object that spins</FlyingObject_SpinningBone.label>
+  <FlyingObject_Advanced.label>flying object that does lots of stuff</FlyingObject_Advanced.label>
+  <Projectile_Default.label>default</Projectile_Default.label>
+  <Buff_Shadow.label>Shadow</Buff_Shadow.label>
+  <Projectile_MagicMissile.label>Magic Missile</Projectile_MagicMissile.label>
+  <Projectile_Teleport.label>Teleport</Projectile_Teleport.label>
+  <Projectile_Blink.label>Blink</Projectile_Blink.label>
+  <Projectile_Summon.label>Summon</Projectile_Summon.label>
+  <TM_SummonedPawn.label>flying object</TM_SummonedPawn.label>
+  <MovingObject.label>moving object</MovingObject.label>
+  <Projectile_FoldReality.label>fold reality</Projectile_FoldReality.label>
+  <TM_Projectile_Bard.label>bard projectile</TM_Projectile_Bard.label>
+  <Projectile_BladeFocus.label>Blade focus</Projectile_BladeFocus.label>
+  <Projectile_BladeArt.label>Body Training</Projectile_BladeArt.label>
+  <Projectile_BladeSpin.label>Blade Spin</Projectile_BladeSpin.label>
+  <Projectile_SeismicSlash.label>Seismic Slash</Projectile_SeismicSlash.label>
+  <Projectile_PhaseStrike.label>Phase Strike</Projectile_PhaseStrike.label>
+  <Projectile_IgniteBlood.label>Ignite blood</Projectile_IgniteBlood.label>
+  <Projectile_BloodMoon.label>projectile bloodmoon</Projectile_BloodMoon.label>
+  <Projectile_BloodMoon_I.label>Blood Moon projectile</Projectile_BloodMoon_I.label>
+  <Projectile_BloodMoon_II.label>BloodMoon projectile</Projectile_BloodMoon_II.label>
+  <Projectile_BloodMoon_III.label>BloodMoon projectile</Projectile_BloodMoon_III.label>
+  <Projectile_LightLance.label>light lance</Projectile_LightLance.label>
+  <FlyingObject_LightLance.label>light lance</FlyingObject_LightLance.label>
+  <Projectile_Sunfire.label>sunfire</Projectile_Sunfire.label>
+  <Projectile_Sunfire_I.label>sunfire</Projectile_Sunfire_I.label>
+  <Projectile_Sunfire_II.label>sunfire</Projectile_Sunfire_II.label>
+  <Projectile_Sunfire_III.label>sunfire</Projectile_Sunfire_III.label>
+  <Projectile_LightSkip.label>light skip</Projectile_LightSkip.label>
+  <Projectile_LightSkipMass.label>mass light skip</Projectile_LightSkipMass.label>
+  <Projectile_Refraction.label>refraction</Projectile_Refraction.label>
+  <Projectile_SpiritOfLight.label>spirit of light</Projectile_SpiritOfLight.label>
+  <FlyingObject_SpiritOfLight.label>spirit of light</FlyingObject_SpiritOfLight.label>
+  <Projectile_LightLaser.label>light lancet</Projectile_LightLaser.label>
+  <Projectile_CreateLight.label>create light</Projectile_CreateLight.label>
+  <Projectile_AccelerateTime.label>accelerate time</Projectile_AccelerateTime.label>
+  <Projectile_ChronostaticField.label>time bubble</Projectile_ChronostaticField.label>
+  <Projectile_ChronostaticField_I.label>time bubble</Projectile_ChronostaticField_I.label>
+  <Projectile_ChronostaticField_II.label>time bubble</Projectile_ChronostaticField_II.label>
+  <Projectile_ChronostaticField_III.label>time bubble</Projectile_ChronostaticField_III.label>
+  <FlyingObject_TimeDelay.label>time bubble</FlyingObject_TimeDelay.label>
+  <Projectile_WaveOfFear.label>Wave of Fear</Projectile_WaveOfFear.label>
+  <Projectile_Spite.label>spite</Projectile_Spite.label>
+  <Projectile_GraveBlade.label>Grave Blade</Projectile_GraveBlade.label>
+  <Projectile_GraveBlade_I.label>Grave Blade</Projectile_GraveBlade_I.label>
+  <Projectile_GraveBlade_II.label>Grave Blade</Projectile_GraveBlade_II.label>
+  <Projectile_GraveBlade_III.label>Grave Blade</Projectile_GraveBlade_III.label>
+  <Projectile_Warlock.label>default projectile</Projectile_Warlock.label>
+  <Projectile_ShadowBolt.label>shadow bolt</Projectile_ShadowBolt.label>
+  <FlyingObject_ShadowBolt.label>shadow bolt</FlyingObject_ShadowBolt.label>
+  <Projectile_Attraction.label>attraction</Projectile_Attraction.label>
+  <Projectile_Repulsion.label>repulsion</Projectile_Repulsion.label>
+  <Projectile_Repulsion_I.label>repulsion</Projectile_Repulsion_I.label>
+  <Projectile_Repulsion_II.label>repulsion</Projectile_Repulsion_II.label>
+  <Projectile_Repulsion_III.label>repulsion</Projectile_Repulsion_III.label>
+  <Projectile_Scorn.label>scorn</Projectile_Scorn.label>
+  <Projectile_PsychicShock.label>psychic shock</Projectile_PsychicShock.label>
+  <Projectile_SummonDemon.label>summon demon</Projectile_SummonDemon.label>
+  <FlyingObject_DemonFlight.label>flying object</FlyingObject_DemonFlight.label>
+  <FlyingObject_DemonBolt.label>demon flames</FlyingObject_DemonBolt.label>
+  <Projectile_Poison.label>poison</Projectile_Poison.label>
+  <Projectile_SootheAnimal.label>beguile animal</Projectile_SootheAnimal.label>
+  <Projectile_Regenerate.label>regenerate</Projectile_Regenerate.label>
+  <Projectile_CureDisease.label>cure disease</Projectile_CureDisease.label>
+  <Projectile_RegrowLimb.label>regrow limb</Projectile_RegrowLimb.label>
+  <Projectile_Elemental_Icebolt.label>elemental icebolt</Projectile_Elemental_Icebolt.label>
+  <Projectile_Elemental_Firebolt.label>elemental firebolt</Projectile_Elemental_Firebolt.label>
+  <TM_Faceless_Projectile.label>invite projectile</TM_Faceless_Projectile.label>
+  <Projectile_Possess.label>possess projectile</Projectile_Possess.label>
+  <Buff_RayofHope.label>Ray of Hope</Buff_RayofHope.label>
+  <Projectile_Firebolt.label>Firebolt</Projectile_Firebolt.label>
+  <Projectile_Fireball.label>fireball</Projectile_Fireball.label>
+  <Projectile_Fireclaw.label>Fireclaw</Projectile_Fireclaw.label>
+  <Projectile_Firestorm.label>Firestorm</Projectile_Firestorm.label>
+  <Projectile_Geomancer.label>default projectile</Projectile_Geomancer.label>
+  <Projectile_Encase.label>encase projectile</Projectile_Encase.label>
+  <Projectile_Encase_I.label>encase projectile</Projectile_Encase_I.label>
+  <Projectile_Encase_II.label>encase projectile</Projectile_Encase_II.label>
+  <Projectile_Encase_III.label>encase projectile</Projectile_Encase_III.label>
+  <Projectile_EarthernHammer.label>earthern hammer</Projectile_EarthernHammer.label>
+  <Projectile_Sentinel.label>sentinel projectile</Projectile_Sentinel.label>
+  <TM_Gladiator_Sprint.label>Sprint</TM_Gladiator_Sprint.label>
+  <TM_Gladiator_Fortitude.label>Fortitude</TM_Gladiator_Fortitude.label>
+  <Projectile_Grapple.label>Grappling Hook</Projectile_Grapple.label>
+  <Projectile_Cleave.label>Cleave</Projectile_Cleave.label>
+  <FlyingObject_Whirlwind.label>flying object</FlyingObject_Whirlwind.label>
+  <Projectile_Whirlwind.label>Whirlwind</Projectile_Whirlwind.label>
+  <Buff_Soothe.label>Soothing Breeze</Buff_Soothe.label>
+  <Laser_FrostRay.label>Frost Ray</Laser_FrostRay.label>
+  <Projectile_Snowball.label>Snowball</Projectile_Snowball.label>
+  <Projectile_Icebolt.label>Icebolt</Projectile_Icebolt.label>
+  <Projectile_Rainmaker.label>Rainmaker</Projectile_Rainmaker.label>
+  <Projectile_Blizzard.label>Blizzard</Projectile_Blizzard.label>
+  <Buff_AMP.label>AMP</Buff_AMP.label>
+  <Projectile_LightningCloud.label>Lightning Cloud</Projectile_LightningCloud.label>
+  <Laser_LightningBolt.label>Lightning Bolt</Laser_LightningBolt.label>
+  <Projectile_LightningStorm.label>Lightning Storm</Projectile_LightningStorm.label>
+  <FlyingObject_EyeOfTheStorm.label>flying object</FlyingObject_EyeOfTheStorm.label>
+  <Projectile_EyeOfTheStorm.label>Eye of the Storm</Projectile_EyeOfTheStorm.label>
+  <FlyingObject_DragonStrike.label>dragon strike</FlyingObject_DragonStrike.label>
+  <Projectile_DragonStrike.label>dragon strike</Projectile_DragonStrike.label>
+  <Projectile_ThunderStrike.label>thunder strike</Projectile_ThunderStrike.label>
+  <Projectile_RaiseUndead.label>Raise undead</Projectile_RaiseUndead.label>
+  <Projectile_DeathMark.label>Death mark</Projectile_DeathMark.label>
+  <Projectile_FogOfTorment.label>fog of torment</Projectile_FogOfTorment.label>
+  <Projectile_ConsumeCorpse.label>consume corpse</Projectile_ConsumeCorpse.label>
+  <Projectile_CorpseExplosion.label>corpse explosion</Projectile_CorpseExplosion.label>
+  <Projectile_DeathBolt.label>deathbolt</Projectile_DeathBolt.label>
+  <Projectile_DeathBolt_I.label>deathbolt</Projectile_DeathBolt_I.label>
+  <Projectile_DeathBolt_II.label>deathbolt</Projectile_DeathBolt_II.label>
+  <Projectile_DeathBolt_III.label>deathbolt</Projectile_DeathBolt_III.label>
+  <FlyingObject_DeathBolt.label>explosion</FlyingObject_DeathBolt.label>
+  <TM_Paladin_Heal.label>Heal</TM_Paladin_Heal.label>
+  <TM_Paladin_Shield.label>Shield</TM_Paladin_Shield.label>
+  <FlyingObject_ValiantCharge.label>flying object</FlyingObject_ValiantCharge.label>
+  <Projectile_ValiantCharge.label>Whirlwind</Projectile_ValiantCharge.label>
+  <TM_Paladin_Overwhelm.label>Overwhelm</TM_Paladin_Overwhelm.label>
+  <Projectile_HolyWrath.label>holy wrath</Projectile_HolyWrath.label>
+  <TM_Projectile_Priest.label>priest projectile</TM_Projectile_Priest.label>
+  <TM_Projectile_HealingCircle.label>healing circle</TM_Projectile_HealingCircle.label>
+  <TM_Projectile_HealingCircle_I.label>healing circle</TM_Projectile_HealingCircle_I.label>
+  <TM_Projectile_HealingCircle_II.label>healing circle</TM_Projectile_HealingCircle_II.label>
+  <TM_Projectile_HealingCircle_III.label>healing circle</TM_Projectile_HealingCircle_III.label>
+  <Projectile_Resurrection.label>resurrection</Projectile_Resurrection.label>
+  <FlyingObject_PsionicLeap.label>psionic leap</FlyingObject_PsionicLeap.label>
+  <TM_Psionic_Projectile.label>psionic projectile</TM_Psionic_Projectile.label>
+  <TM_Projectile_PsionicBarrier.label>psionic barrier</TM_Projectile_PsionicBarrier.label>
+  <TM_Projectile_PsionicBlast.label>psionic blast</TM_Projectile_PsionicBlast.label>
+  <FlyingObject_PsionicDash.label>psionic dash</FlyingObject_PsionicDash.label>
+  <Projectile_PsionicDash.label>psionic dash</Projectile_PsionicDash.label>
+  <FlyingObject_PsionicStorm.label>psi storm</FlyingObject_PsionicStorm.label>
+  <Projectile_PsionicStorm.label>PsionicStorm</Projectile_PsionicStorm.label>
+  <FlyingObject_PsiStorm.label>psi storm</FlyingObject_PsiStorm.label>
+  <Projectile_Ranger.label>default ranger projectile</Projectile_Ranger.label>
+  <Projectile_ArrowStorm.label>arrow storm</Projectile_ArrowStorm.label>
+  <Projectile_ShadowStrike.label>Shadow strike</Projectile_ShadowStrike.label>
+  <Projectile_Lightning.label>lightning</Projectile_Lightning.label>
+  <Projectile_ChainLightning.label>chain lightning</Projectile_ChainLightning.label>
+  <Projectile_SpiritWolves.label>spirit wolves</Projectile_SpiritWolves.label>
+  <Projectile_SpiritWolves_I.label>spirit wolves</Projectile_SpiritWolves_I.label>
+  <Projectile_SpiritWolves_II.label>spirit wolves</Projectile_SpiritWolves_II.label>
+  <Projectile_SpiritWolves_III.label>spirit wolves</Projectile_SpiritWolves_III.label>
+  <FlyingObject_SpiritWolves.label>spirit wolves</FlyingObject_SpiritWolves.label>
+  <Projectile_SniperFocus.label>Sniper focus</Projectile_SniperFocus.label>
+  <Projectile_Headshot.label>Headshot</Projectile_Headshot.label>
+  <Projectile_DisablingShot.label>Disabling shot</Projectile_DisablingShot.label>
+  <Projectile_AntiArmor.label>Anti-Armor</Projectile_AntiArmor.label>
+  <Projectile_TM_SpawnThing.label>spawn magical item</Projectile_TM_SpawnThing.label>
+  <Projectile_Heater.label>spawn magic heater</Projectile_Heater.label>
+  <Projectile_Cooler.label>spawn magic cooler</Projectile_Cooler.label>
+  <Projectile_PowerNode.label>spawn arcane power node</Projectile_PowerNode.label>
+  <Projectile_Sunlight.label>spawn magic light</Projectile_Sunlight.label>
+  <Projectile_DryGround.label>dry ground</Projectile_DryGround.label>
+  <Projectile_WetGround.label>moisturize ground</Projectile_WetGround.label>
+  <Projectile_ChargeBattery.label>charge battery</Projectile_ChargeBattery.label>
+  <Projectile_SmokeCloud.label>smoke cloud</Projectile_SmokeCloud.label>
+  <Projectile_Extinguish.label>extinguish</Projectile_Extinguish.label>
+  <Projectile_EMP.label>EMP</Projectile_EMP.label>
+  <Projectile_TransferMana.label>transfer mana</Projectile_TransferMana.label>
+  <Projectile_SiphonMana.label>siphon mana</Projectile_SiphonMana.label>
+  <FlyingObject_Flight.label>flying object</FlyingObject_Flight.label>
+  <Projectile_Flight.label>flight</Projectile_Flight.label>
+  <Projectile_FertileLands.label>fertile lands</Projectile_FertileLands.label>
+  <Projectile_DirtDevil.label>dirt devil</Projectile_DirtDevil.label>
+  <FlyingObject_DirtDevil.label>flying object</FlyingObject_DirtDevil.label>
+  <Projectile_ArcaneBolt.label>arcane bolt</Projectile_ArcaneBolt.label>
+  <Projectile_ThrowingKnife.label>Throwing Knife</Projectile_ThrowingKnife.label>
+  <FlyingObject_LightningTrap.label>lightning</FlyingObject_LightningTrap.label>
+  <Projectile_BriarPatch.label>briar patch</Projectile_BriarPatch.label>
+  <Projectile_TempestStrike.label>Tempest strike</Projectile_TempestStrike.label>
+  <Projectile_Explosion.label>explosion</Projectile_Explosion.label>
+  <Projectile_SummonMinion.label>summon minion</Projectile_SummonMinion.label>
+  <Projectile_SummonPylon.label>summon defense pylon</Projectile_SummonPylon.label>
+  <Projectile_SummonExplosive.label>summon explosive trap</Projectile_SummonExplosive.label>
+  <Projectile_SummonElemental.label>summon elemental</Projectile_SummonElemental.label>
+  <Projectile_SummonPoppi.label>summon poppi</Projectile_SummonPoppi.label>
+  <Projectile_Mk203GL.label>Grenade</Projectile_Mk203GL.label>
+  <Projectile_Buckshot.label>buckshot pellet</Projectile_Buckshot.label>
+  <Projectile_BreachingCharge.label>breaching charge</Projectile_BreachingCharge.label>
+  <TM_PistolSpec_Base0.label>pistol spec weapon</TM_PistolSpec_Base0.label>
+  <TM_PistolSpec_Base0.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base0.description>
+  <TM_PistolSpec_Base0.tools.0.label>pistol whip</TM_PistolSpec_Base0.tools.0.label>
+  <TM_PistolSpec_Base1.label>pistol spec weapon</TM_PistolSpec_Base1.label>
+  <TM_PistolSpec_Base1.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base1.description>
+  <TM_PistolSpec_Base1.tools.0.label>pistol whip</TM_PistolSpec_Base1.tools.0.label>
+  <TM_PistolSpec_Base2.label>pistol spec weapon</TM_PistolSpec_Base2.label>
+  <TM_PistolSpec_Base2.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base2.description>
+  <TM_PistolSpec_Base2.tools.0.label>pistol whip</TM_PistolSpec_Base2.tools.0.label>
+  <TM_PistolSpec_Base3.label>pistol spec weapon</TM_PistolSpec_Base3.label>
+  <TM_PistolSpec_Base3.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base3.description>
+  <TM_PistolSpec_Base3.tools.0.label>pistol whip</TM_PistolSpec_Base3.tools.0.label>
+  <TM_PistolSpec_Base4.label>pistol spec weapon</TM_PistolSpec_Base4.label>
+  <TM_PistolSpec_Base4.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base4.description>
+  <TM_PistolSpec_Base4.tools.0.label>pistol whip</TM_PistolSpec_Base4.tools.0.label>
+  <TM_PistolSpec_Base5.label>pistol spec weapon</TM_PistolSpec_Base5.label>
+  <TM_PistolSpec_Base5.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base5.description>
+  <TM_PistolSpec_Base5.tools.0.label>pistol whip</TM_PistolSpec_Base5.tools.0.label>
+  <TM_PistolSpec_Base6.label>pistol spec weapon</TM_PistolSpec_Base6.label>
+  <TM_PistolSpec_Base6.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base6.description>
+  <TM_PistolSpec_Base6.tools.0.label>pistol whip</TM_PistolSpec_Base6.tools.0.label>
+  <TM_PistolSpec_Base7.label>pistol spec weapon</TM_PistolSpec_Base7.label>
+  <TM_PistolSpec_Base7.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base7.description>
+  <TM_PistolSpec_Base7.tools.0.label>pistol whip</TM_PistolSpec_Base7.tools.0.label>
+  <TM_PistolSpec_Base8.label>pistol spec weapon</TM_PistolSpec_Base8.label>
+  <TM_PistolSpec_Base8.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base8.description>
+  <TM_PistolSpec_Base8.tools.0.label>pistol whip</TM_PistolSpec_Base8.tools.0.label>
+  <TM_PistolSpec_Base9.label>pistol spec weapon</TM_PistolSpec_Base9.label>
+  <TM_PistolSpec_Base9.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base9.description>
+  <TM_PistolSpec_Base9.tools.0.label>pistol whip</TM_PistolSpec_Base9.tools.0.label>
+  <TM_PistolSpec_Base10.label>pistol spec weapon</TM_PistolSpec_Base10.label>
+  <TM_PistolSpec_Base10.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base10.description>
+  <TM_PistolSpec_Base10.tools.0.label>pistol whip</TM_PistolSpec_Base10.tools.0.label>
+  <TM_PistolSpec_Base11.label>pistol spec weapon</TM_PistolSpec_Base11.label>
+  <TM_PistolSpec_Base11.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base11.description>
+  <TM_PistolSpec_Base11.tools.0.label>pistol whip</TM_PistolSpec_Base11.tools.0.label>
+  <TM_PistolSpec_Base12.label>pistol spec weapon</TM_PistolSpec_Base12.label>
+  <TM_PistolSpec_Base12.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base12.description>
+  <TM_PistolSpec_Base12.tools.0.label>pistol whip</TM_PistolSpec_Base12.tools.0.label>
+  <TM_PistolSpec_Base13.label>pistol spec weapon</TM_PistolSpec_Base13.label>
+  <TM_PistolSpec_Base13.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base13.description>
+  <TM_PistolSpec_Base13.tools.0.label>pistol whip</TM_PistolSpec_Base13.tools.0.label>
+  <TM_PistolSpec_Base14.label>pistol spec weapon</TM_PistolSpec_Base14.label>
+  <TM_PistolSpec_Base14.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base14.description>
+  <TM_PistolSpec_Base14.tools.0.label>pistol whip</TM_PistolSpec_Base14.tools.0.label>
+  <TM_PistolSpec_Base15.label>pistol spec weapon</TM_PistolSpec_Base15.label>
+  <TM_PistolSpec_Base15.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base15.description>
+  <TM_PistolSpec_Base15.tools.0.label>pistol whip</TM_PistolSpec_Base15.tools.0.label>
+  <TM_PistolSpec_Base16.label>pistol spec weapon</TM_PistolSpec_Base16.label>
+  <TM_PistolSpec_Base16.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base16.description>
+  <TM_PistolSpec_Base16.tools.0.label>pistol whip</TM_PistolSpec_Base16.tools.0.label>
+  <TM_PistolSpec_Base17.label>pistol spec weapon</TM_PistolSpec_Base17.label>
+  <TM_PistolSpec_Base17.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base17.description>
+  <TM_PistolSpec_Base17.tools.0.label>pistol whip</TM_PistolSpec_Base17.tools.0.label>
+  <TM_PistolSpec_Base18.label>pistol spec weapon</TM_PistolSpec_Base18.label>
+  <TM_PistolSpec_Base18.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base18.description>
+  <TM_PistolSpec_Base18.tools.0.label>pistol whip</TM_PistolSpec_Base18.tools.0.label>
+  <TM_PistolSpec_Base19.label>pistol spec weapon</TM_PistolSpec_Base19.label>
+  <TM_PistolSpec_Base19.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base19.description>
+  <TM_PistolSpec_Base19.tools.0.label>pistol whip</TM_PistolSpec_Base19.tools.0.label>
+  <TM_RifleSpec_Base0.label>rifle spec weapon</TM_RifleSpec_Base0.label>
+  <TM_RifleSpec_Base0.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base0.description>
+  <TM_RifleSpec_Base0.tools.0.label>rifle stock</TM_RifleSpec_Base0.tools.0.label>
+  <TM_RifleSpec_Base1.label>rifle spec weapon</TM_RifleSpec_Base1.label>
+  <TM_RifleSpec_Base1.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base1.description>
+  <TM_RifleSpec_Base1.tools.0.label>rifle stock</TM_RifleSpec_Base1.tools.0.label>
+  <TM_RifleSpec_Base2.label>rifle spec weapon</TM_RifleSpec_Base2.label>
+  <TM_RifleSpec_Base2.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base2.description>
+  <TM_RifleSpec_Base2.tools.0.label>rifle stock</TM_RifleSpec_Base2.tools.0.label>
+  <TM_RifleSpec_Base3.label>rifle spec weapon</TM_RifleSpec_Base3.label>
+  <TM_RifleSpec_Base3.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base3.description>
+  <TM_RifleSpec_Base3.tools.0.label>rifle stock</TM_RifleSpec_Base3.tools.0.label>
+  <TM_RifleSpec_Base4.label>rifle spec weapon</TM_RifleSpec_Base4.label>
+  <TM_RifleSpec_Base4.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base4.description>
+  <TM_RifleSpec_Base4.tools.0.label>rifle stock</TM_RifleSpec_Base4.tools.0.label>
+  <TM_RifleSpec_Base5.label>rifle spec weapon</TM_RifleSpec_Base5.label>
+  <TM_RifleSpec_Base5.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base5.description>
+  <TM_RifleSpec_Base5.tools.0.label>rifle stock</TM_RifleSpec_Base5.tools.0.label>
+  <TM_RifleSpec_Base6.label>rifle spec weapon</TM_RifleSpec_Base6.label>
+  <TM_RifleSpec_Base6.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base6.description>
+  <TM_RifleSpec_Base6.tools.0.label>rifle stock</TM_RifleSpec_Base6.tools.0.label>
+  <TM_RifleSpec_Base7.label>rifle spec weapon</TM_RifleSpec_Base7.label>
+  <TM_RifleSpec_Base7.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base7.description>
+  <TM_RifleSpec_Base7.tools.0.label>rifle stock</TM_RifleSpec_Base7.tools.0.label>
+  <TM_RifleSpec_Base8.label>rifle spec weapon</TM_RifleSpec_Base8.label>
+  <TM_RifleSpec_Base8.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base8.description>
+  <TM_RifleSpec_Base8.tools.0.label>rifle stock</TM_RifleSpec_Base8.tools.0.label>
+  <TM_RifleSpec_Base9.label>rifle spec weapon</TM_RifleSpec_Base9.label>
+  <TM_RifleSpec_Base9.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base9.description>
+  <TM_RifleSpec_Base9.tools.0.label>rifle stock</TM_RifleSpec_Base9.tools.0.label>
+  <TM_RifleSpec_Base10.label>rifle spec weapon</TM_RifleSpec_Base10.label>
+  <TM_RifleSpec_Base10.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base10.description>
+  <TM_RifleSpec_Base10.tools.0.label>rifle stock</TM_RifleSpec_Base10.tools.0.label>
+  <TM_RifleSpec_Base11.label>rifle spec weapon</TM_RifleSpec_Base11.label>
+  <TM_RifleSpec_Base11.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base11.description>
+  <TM_RifleSpec_Base11.tools.0.label>rifle stock</TM_RifleSpec_Base11.tools.0.label>
+  <TM_RifleSpec_Base12.label>rifle spec weapon</TM_RifleSpec_Base12.label>
+  <TM_RifleSpec_Base12.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base12.description>
+  <TM_RifleSpec_Base12.tools.0.label>rifle stock</TM_RifleSpec_Base12.tools.0.label>
+  <TM_RifleSpec_Base13.label>rifle spec weapon</TM_RifleSpec_Base13.label>
+  <TM_RifleSpec_Base13.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base13.description>
+  <TM_RifleSpec_Base13.tools.0.label>rifle stock</TM_RifleSpec_Base13.tools.0.label>
+  <TM_RifleSpec_Base14.label>rifle spec weapon</TM_RifleSpec_Base14.label>
+  <TM_RifleSpec_Base14.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base14.description>
+  <TM_RifleSpec_Base14.tools.0.label>rifle stock</TM_RifleSpec_Base14.tools.0.label>
+  <TM_RifleSpec_Base15.label>rifle spec weapon</TM_RifleSpec_Base15.label>
+  <TM_RifleSpec_Base15.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base15.description>
+  <TM_RifleSpec_Base15.tools.0.label>rifle stock</TM_RifleSpec_Base15.tools.0.label>
+  <TM_RifleSpec_Base16.label>rifle spec weapon</TM_RifleSpec_Base16.label>
+  <TM_RifleSpec_Base16.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base16.description>
+  <TM_RifleSpec_Base16.tools.0.label>rifle stock</TM_RifleSpec_Base16.tools.0.label>
+  <TM_RifleSpec_Base17.label>rifle spec weapon</TM_RifleSpec_Base17.label>
+  <TM_RifleSpec_Base17.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base17.description>
+  <TM_RifleSpec_Base17.tools.0.label>rifle stock</TM_RifleSpec_Base17.tools.0.label>
+  <TM_RifleSpec_Base18.label>rifle spec weapon</TM_RifleSpec_Base18.label>
+  <TM_RifleSpec_Base18.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base18.description>
+  <TM_RifleSpec_Base18.tools.0.label>rifle stock</TM_RifleSpec_Base18.tools.0.label>
+  <TM_RifleSpec_Base19.label>rifle spec weapon</TM_RifleSpec_Base19.label>
+  <TM_RifleSpec_Base19.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base19.description>
+  <TM_RifleSpec_Base19.tools.0.label>rifle stock</TM_RifleSpec_Base19.tools.0.label>
+  <TM_ShotgunSpec_Base0.label>shotgun spec weapon</TM_ShotgunSpec_Base0.label>
+  <TM_ShotgunSpec_Base0.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base0.description>
+  <TM_ShotgunSpec_Base0.tools.0.label>weapon smash</TM_ShotgunSpec_Base0.tools.0.label>
+  <TM_ShotgunSpec_Base1.label>shotgun spec weapon</TM_ShotgunSpec_Base1.label>
+  <TM_ShotgunSpec_Base1.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base1.description>
+  <TM_ShotgunSpec_Base1.tools.0.label>weapon smash</TM_ShotgunSpec_Base1.tools.0.label>
+  <TM_ShotgunSpec_Base2.label>shotgun spec weapon</TM_ShotgunSpec_Base2.label>
+  <TM_ShotgunSpec_Base2.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base2.description>
+  <TM_ShotgunSpec_Base2.tools.0.label>weapon smash</TM_ShotgunSpec_Base2.tools.0.label>
+  <TM_ShotgunSpec_Base3.label>shotgun spec weapon</TM_ShotgunSpec_Base3.label>
+  <TM_ShotgunSpec_Base3.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base3.description>
+  <TM_ShotgunSpec_Base3.tools.0.label>weapon smash</TM_ShotgunSpec_Base3.tools.0.label>
+  <TM_ShotgunSpec_Base4.label>shotgun spec weapon</TM_ShotgunSpec_Base4.label>
+  <TM_ShotgunSpec_Base4.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base4.description>
+  <TM_ShotgunSpec_Base4.tools.0.label>weapon smash</TM_ShotgunSpec_Base4.tools.0.label>
+  <TM_ShotgunSpec_Base5.label>shotgun spec weapon</TM_ShotgunSpec_Base5.label>
+  <TM_ShotgunSpec_Base5.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base5.description>
+  <TM_ShotgunSpec_Base5.tools.0.label>weapon smash</TM_ShotgunSpec_Base5.tools.0.label>
+  <TM_ShotgunSpec_Base6.label>shotgun spec weapon</TM_ShotgunSpec_Base6.label>
+  <TM_ShotgunSpec_Base6.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base6.description>
+  <TM_ShotgunSpec_Base6.tools.0.label>weapon smash</TM_ShotgunSpec_Base6.tools.0.label>
+  <TM_ShotgunSpec_Base7.label>shotgun spec weapon</TM_ShotgunSpec_Base7.label>
+  <TM_ShotgunSpec_Base7.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base7.description>
+  <TM_ShotgunSpec_Base7.tools.0.label>weapon smash</TM_ShotgunSpec_Base7.tools.0.label>
+  <TM_ShotgunSpec_Base8.label>shotgun spec weapon</TM_ShotgunSpec_Base8.label>
+  <TM_ShotgunSpec_Base8.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base8.description>
+  <TM_ShotgunSpec_Base8.tools.0.label>weapon smash</TM_ShotgunSpec_Base8.tools.0.label>
+  <TM_ShotgunSpec_Base9.label>shotgun spec weapon</TM_ShotgunSpec_Base9.label>
+  <TM_ShotgunSpec_Base9.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base9.description>
+  <TM_ShotgunSpec_Base9.tools.0.label>weapon smash</TM_ShotgunSpec_Base9.tools.0.label>
+  <TM_ShotgunSpec_Base10.label>shotgun spec weapon</TM_ShotgunSpec_Base10.label>
+  <TM_ShotgunSpec_Base10.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base10.description>
+  <TM_ShotgunSpec_Base10.tools.0.label>weapon smash</TM_ShotgunSpec_Base10.tools.0.label>
+  <TM_ShotgunSpec_Base11.label>shotgun spec weapon</TM_ShotgunSpec_Base11.label>
+  <TM_ShotgunSpec_Base11.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base11.description>
+  <TM_ShotgunSpec_Base11.tools.0.label>weapon smash</TM_ShotgunSpec_Base11.tools.0.label>
+  <TM_ShotgunSpec_Base12.label>shotgun spec weapon</TM_ShotgunSpec_Base12.label>
+  <TM_ShotgunSpec_Base12.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base12.description>
+  <TM_ShotgunSpec_Base12.tools.0.label>weapon smash</TM_ShotgunSpec_Base12.tools.0.label>
+  <TM_ShotgunSpec_Base13.label>shotgun spec weapon</TM_ShotgunSpec_Base13.label>
+  <TM_ShotgunSpec_Base13.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base13.description>
+  <TM_ShotgunSpec_Base13.tools.0.label>weapon smash</TM_ShotgunSpec_Base13.tools.0.label>
+  <TM_ShotgunSpec_Base14.label>shotgun spec weapon</TM_ShotgunSpec_Base14.label>
+  <TM_ShotgunSpec_Base14.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base14.description>
+  <TM_ShotgunSpec_Base14.tools.0.label>weapon smash</TM_ShotgunSpec_Base14.tools.0.label>
+  <TM_ShotgunSpec_Base15.label>shotgun spec weapon</TM_ShotgunSpec_Base15.label>
+  <TM_ShotgunSpec_Base15.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base15.description>
+  <TM_ShotgunSpec_Base15.tools.0.label>weapon smash</TM_ShotgunSpec_Base15.tools.0.label>
+  <TM_ShotgunSpec_Base16.label>shotgun spec weapon</TM_ShotgunSpec_Base16.label>
+  <TM_ShotgunSpec_Base16.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base16.description>
+  <TM_ShotgunSpec_Base16.tools.0.label>weapon smash</TM_ShotgunSpec_Base16.tools.0.label>
+  <TM_ShotgunSpec_Base17.label>shotgun spec weapon</TM_ShotgunSpec_Base17.label>
+  <TM_ShotgunSpec_Base17.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base17.description>
+  <TM_ShotgunSpec_Base17.tools.0.label>weapon smash</TM_ShotgunSpec_Base17.tools.0.label>
+  <TM_ShotgunSpec_Base18.label>shotgun spec weapon</TM_ShotgunSpec_Base18.label>
+  <TM_ShotgunSpec_Base18.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base18.description>
+  <TM_ShotgunSpec_Base18.tools.0.label>weapon smash</TM_ShotgunSpec_Base18.tools.0.label>
+  <TM_ShotgunSpec_Base19.label>shotgun spec weapon</TM_ShotgunSpec_Base19.label>
+  <TM_ShotgunSpec_Base19.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base19.description>
+  <TM_ShotgunSpec_Base19.tools.0.label>weapon smash</TM_ShotgunSpec_Base19.tools.0.label>
+  <Projectile_Sustained.label>sustained ability</Projectile_Sustained.label>
+  <Projectile_TMFragGrenade.label>mini frag grenade</Projectile_TMFragGrenade.label>
+  <Projectile_TMEMPGrenade.label>mini frag grenade</Projectile_TMEMPGrenade.label>
+  <Projectile_TechnoTurret.label>Mark-IV projectile</Projectile_TechnoTurret.label>
+  <Bullet_ES_Fire.label>elemental shot - fire</Bullet_ES_Fire.label>
+  <Bullet_ES_Ice.label>elemental shot - ice</Bullet_ES_Ice.label>
+  <Bullet_ES_Lit.label>elemental shot - lightning</Bullet_ES_Lit.label>
+  <Projectile_Sabotage.label>sabotage projectile</Projectile_Sabotage.label>
+  <Projectile_OrbitalStrike.label>orbital strike</Projectile_OrbitalStrike.label>
+  <Projectile_OrbitalStrike_I.label>orbital strike</Projectile_OrbitalStrike_I.label>
+  <Projectile_OrbitalStrike_II.label>orbital strike</Projectile_OrbitalStrike_II.label>
+  <Projectile_OrbitalStrike_III.label>orbital strike</Projectile_OrbitalStrike_III.label>
+  <TM_TechnoWeapon_Base0.label>techno weapon</TM_TechnoWeapon_Base0.label>
+  <TM_TechnoWeapon_Base0.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base0.description>
+  <TM_TechnoWeapon_Base0.tools.0.label>weapon smash</TM_TechnoWeapon_Base0.tools.0.label>
+  <TM_TechnoWeapon_Base1.label>techno weapon</TM_TechnoWeapon_Base1.label>
+  <TM_TechnoWeapon_Base1.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base1.description>
+  <TM_TechnoWeapon_Base1.tools.0.label>weapon smash</TM_TechnoWeapon_Base1.tools.0.label>
+  <TM_TechnoWeapon_Base2.label>techno weapon</TM_TechnoWeapon_Base2.label>
+  <TM_TechnoWeapon_Base2.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base2.description>
+  <TM_TechnoWeapon_Base2.tools.0.label>weapon smash</TM_TechnoWeapon_Base2.tools.0.label>
+  <TM_TechnoWeapon_Base3.label>techno weapon</TM_TechnoWeapon_Base3.label>
+  <TM_TechnoWeapon_Base3.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base3.description>
+  <TM_TechnoWeapon_Base3.tools.0.label>weapon smash</TM_TechnoWeapon_Base3.tools.0.label>
+  <TM_TechnoWeapon_Base4.label>techno weapon</TM_TechnoWeapon_Base4.label>
+  <TM_TechnoWeapon_Base4.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base4.description>
+  <TM_TechnoWeapon_Base4.tools.0.label>weapon smash</TM_TechnoWeapon_Base4.tools.0.label>
+  <TM_TechnoWeapon_Base5.label>techno weapon</TM_TechnoWeapon_Base5.label>
+  <TM_TechnoWeapon_Base5.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base5.description>
+  <TM_TechnoWeapon_Base5.tools.0.label>weapon smash</TM_TechnoWeapon_Base5.tools.0.label>
+  <TM_TechnoWeapon_Base6.label>techno weapon</TM_TechnoWeapon_Base6.label>
+  <TM_TechnoWeapon_Base6.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base6.description>
+  <TM_TechnoWeapon_Base6.tools.0.label>weapon smash</TM_TechnoWeapon_Base6.tools.0.label>
+  <TM_TechnoWeapon_Base7.label>techno weapon</TM_TechnoWeapon_Base7.label>
+  <TM_TechnoWeapon_Base7.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base7.description>
+  <TM_TechnoWeapon_Base7.tools.0.label>weapon smash</TM_TechnoWeapon_Base7.tools.0.label>
+  <TM_TechnoWeapon_Base8.label>techno weapon</TM_TechnoWeapon_Base8.label>
+  <TM_TechnoWeapon_Base8.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base8.description>
+  <TM_TechnoWeapon_Base8.tools.0.label>weapon smash</TM_TechnoWeapon_Base8.tools.0.label>
+  <TM_TechnoWeapon_Base9.label>techno weapon</TM_TechnoWeapon_Base9.label>
+  <TM_TechnoWeapon_Base9.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base9.description>
+  <TM_TechnoWeapon_Base9.tools.0.label>weapon smash</TM_TechnoWeapon_Base9.tools.0.label>
+  <TM_LightPodLeaving.label>light beam (leaving)</TM_LightPodLeaving.label>
+  <TM_LightPodIncoming.label>light beam (incoming)</TM_LightPodIncoming.label>
+  <TM_ActiveLightPod.label>light pod</TM_ActiveLightPod.label>
+  <TM_Firestorm_Large.label>firestorm (large)</TM_Firestorm_Large.label>
+  <TM_Firestorm_Small.label>firestorm (small)</TM_Firestorm_Small.label>
+  <TM_Firestorm_Tiny.label>firestorm (tiny)</TM_Firestorm_Tiny.label>
+  <TM_Blizzard_Tiny.label>blizzard(tiny)</TM_Blizzard_Tiny.label>
+  <TM_Blizzard_Small.label>blizzard(small)</TM_Blizzard_Small.label>
+  <TM_Blizzard_Large.label>Blizzard (large)</TM_Blizzard_Large.label>
+  <TM_ArrowStorm.label>arrow storm</TM_ArrowStorm.label>
+  <TM_ScornLeaving.label>scorn leaving</TM_ScornLeaving.label>
+  <TM_ScornIncoming.label>scorn incoming</TM_ScornIncoming.label>
+  <TM_Meteorite.label>meteorite</TM_Meteorite.label>
+  <TM_Meteorite_I.label>meteorite</TM_Meteorite_I.label>
+  <TM_Meteorite_II.label>meteorite</TM_Meteorite_II.label>
+  <TM_Meteorite_III.label>meteorite</TM_Meteorite_III.label>
+  <Fog_Torment.label>fog of torment</Fog_Torment.label>
+  <Fog_Poison.label>ranger poison trap</Fog_Poison.label>
+  <Fog_Shadows.label>shadow fog</Fog_Shadows.label>
+  <TM_DemonR.race.meatLabel>demon flesh</TM_DemonR.race.meatLabel>
+  <TM_DemonR.label>Demon</TM_DemonR.label>
+  <TM_DemonR.description>Released from the pits of hell, this demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.</TM_DemonR.description>
+  <TM_DemonR.tools.0.label>left claw</TM_DemonR.tools.0.label>
+  <TM_DemonR.tools.1.label>right claw</TM_DemonR.tools.1.label>
+  <TM_DemonR.tools.2.label>hoof</TM_DemonR.tools.2.label>
+  <TM_LesserDemonR.race.meatLabel>demon flesh</TM_LesserDemonR.race.meatLabel>
+  <TM_LesserDemonR.label>Lesser Demon</TM_LesserDemonR.label>
+  <TM_LesserDemonR.description>Released from the pits of hell, this lesser demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.</TM_LesserDemonR.description>
+  <TM_LesserDemonR.tools.0.label>left claw</TM_LesserDemonR.tools.0.label>
+  <TM_LesserDemonR.tools.1.label>right claw</TM_LesserDemonR.tools.1.label>
+  <TM_LesserDemonR.tools.2.label>hoof</TM_LesserDemonR.tools.2.label>
+  <TM_Dire_WolfR.label>dire wolf</TM_Dire_WolfR.label>
+  <TM_Dire_WolfR.description>Dire wolves roam the north in great packs and fear neither man nor megasloth. A savage predator armed with razor sharp teeth and a coat like steel thread, dire wolves are as fierce as any known creature. They are often tied to mythical lore and are said to possess a unique link to arcane powers.</TM_Dire_WolfR.description>
+  <TM_Dire_WolfR.tools.0.label>left claw</TM_Dire_WolfR.tools.0.label>
+  <TM_Dire_WolfR.tools.1.label>right claw</TM_Dire_WolfR.tools.1.label>
+  <TM_Dire_WolfR.tools.3.label>head</TM_Dire_WolfR.tools.3.label>
+  <TM_Dire_WolfR.race.meatLabel>wolfmeat</TM_Dire_WolfR.race.meatLabel>
+  <TM_LesserEarth_ElementalR.race.meatLabel>elemental dust</TM_LesserEarth_ElementalR.race.meatLabel>
+  <TM_LesserEarth_ElementalR.label>Lesser Earth Elemental</TM_LesserEarth_ElementalR.label>
+  <TM_LesserEarth_ElementalR.description>The earth elemental is a lumbering, stubborn creature made of living stone.  Its hide appears to be made out of rock and crystal with patches of mud and soil where the joints should be.  This creature is the most steadfast of all elementals, able to weather a storm of blows.  While this is a lesser elemental, it still dwarfs most humanoids and possesses a remarkable ability to defend its master.</TM_LesserEarth_ElementalR.description>
+  <TM_LesserEarth_ElementalR.tools.0.label>left arm</TM_LesserEarth_ElementalR.tools.0.label>
+  <TM_LesserEarth_ElementalR.tools.1.label>right arm</TM_LesserEarth_ElementalR.tools.1.label>
+  <TM_LesserEarth_ElementalR.tools.2.label>horn</TM_LesserEarth_ElementalR.tools.2.label>
+  <TM_Earth_ElementalR.race.meatLabel>elemental dust</TM_Earth_ElementalR.race.meatLabel>
+  <TM_Earth_ElementalR.label>Earth Elemental</TM_Earth_ElementalR.label>
+  <TM_Earth_ElementalR.description>The earth elemental is a lumbering, stubborn creature made of living stone.  Its hide appears to be made out of rock and crystal with patches of mud and soil where the joints should be.  This creature is the most steadfast of all elementals, able to weather a storm of blows.  This creature puts modern tanks to shame with its invincible skin.</TM_Earth_ElementalR.description>
+  <TM_Earth_ElementalR.tools.0.label>left arm</TM_Earth_ElementalR.tools.0.label>
+  <TM_Earth_ElementalR.tools.1.label>right arm</TM_Earth_ElementalR.tools.1.label>
+  <TM_Earth_ElementalR.tools.2.label>horn</TM_Earth_ElementalR.tools.2.label>
+  <TM_GreaterEarth_ElementalR.race.meatLabel>elemental dust</TM_GreaterEarth_ElementalR.race.meatLabel>
+  <TM_GreaterEarth_ElementalR.label>Greater Earth Elemental</TM_GreaterEarth_ElementalR.label>
+  <TM_GreaterEarth_ElementalR.description>The earth elemental is a lumbering, stubborn monstrosity made of living stone.  Its hide appears to be made out of rock and crystal with patches of mud and soil where the joints should be. Its mouth is a cavern and there appear to be small trees or shrubs growing atop its back as if it is wearing a cloak of vegetation. This creature is the most steadfast of all elementals, able to weather a storm of blows, and this elemental is a master of its element.  The power of this creature will literally crush your foes, the only chance they have is to run.</TM_GreaterEarth_ElementalR.description>
+  <TM_GreaterEarth_ElementalR.tools.0.label>left arm</TM_GreaterEarth_ElementalR.tools.0.label>
+  <TM_GreaterEarth_ElementalR.tools.1.label>right arm</TM_GreaterEarth_ElementalR.tools.1.label>
+  <TM_GreaterEarth_ElementalR.tools.2.label>horn</TM_GreaterEarth_ElementalR.tools.2.label>
+  <TM_LesserFire_ElementalR.race.meatLabel>elemental dust</TM_LesserFire_ElementalR.race.meatLabel>
+  <TM_LesserFire_ElementalR.label>Lesser Fire Elemental</TM_LesserFire_ElementalR.label>
+  <TM_LesserFire_ElementalR.description>Fire elementals are vicious creatures of living flame.  They are quick and cruel in nature, specializing in destruction.  The fire elemental appears to be a mixture of oily and molten substances wreathed in flames and ash, its skin is almost fluid looking, as if it is constantly melting and reforming.  Lesser in nature, the glint in the eyes of this being are the only warning enemies will have before being consumed in its rage.</TM_LesserFire_ElementalR.description>
+  <TM_LesserFire_ElementalR.tools.0.label>left arm</TM_LesserFire_ElementalR.tools.0.label>
+  <TM_LesserFire_ElementalR.tools.1.label>right arm</TM_LesserFire_ElementalR.tools.1.label>
+  <TM_LesserFire_ElementalR.tools.2.label>horn</TM_LesserFire_ElementalR.tools.2.label>
+  <TM_Fire_ElementalR.race.meatLabel>elemental dust</TM_Fire_ElementalR.race.meatLabel>
+  <TM_Fire_ElementalR.label>Fire Elemental</TM_Fire_ElementalR.label>
+  <TM_Fire_ElementalR.description>Fire elementals are vicious creatures of living flame.  They are quick and cruel in nature, specializing in destruction.  The fire elemental appears to be a mixture of oily and molten substances wreathed in flames and ash, its skin is almost fluid looking, as if it is constantly melting and reforming.  The creature bears what looks to be a wicked grin... enemies should be wary of playing with this fire.</TM_Fire_ElementalR.description>
+  <TM_Fire_ElementalR.tools.0.label>left arm</TM_Fire_ElementalR.tools.0.label>
+  <TM_Fire_ElementalR.tools.1.label>right arm</TM_Fire_ElementalR.tools.1.label>
+  <TM_Fire_ElementalR.tools.2.label>horn</TM_Fire_ElementalR.tools.2.label>
+  <TM_GreaterFire_ElementalR.race.meatLabel>elemental dust</TM_GreaterFire_ElementalR.race.meatLabel>
+  <TM_GreaterFire_ElementalR.label>Greater Fire Elemental</TM_GreaterFire_ElementalR.label>
+  <TM_GreaterFire_ElementalR.description>Fire elementals are vicious creatures of living flame.  They are quick and cruel in nature, knowing only destruction.  The fire elemental appears to be a mixture of oily and molten substances wreathed in flames and ash.  Its skin is almost fluid looking, as if it is constantly melting and reforming.  Before you stands a prince of destruction, wearing a crown of flame upon its brow and its chest is adorned with plate of obsidian writhing in flames.  It stares at you with its single, glinting eye ready to unleash its malice.</TM_GreaterFire_ElementalR.description>
+  <TM_GreaterFire_ElementalR.tools.0.label>left arm</TM_GreaterFire_ElementalR.tools.0.label>
+  <TM_GreaterFire_ElementalR.tools.1.label>right arm</TM_GreaterFire_ElementalR.tools.1.label>
+  <TM_GreaterFire_ElementalR.tools.2.label>horn</TM_GreaterFire_ElementalR.tools.2.label>
+  <TM_LesserWater_ElementalR.race.meatLabel>elemental dust</TM_LesserWater_ElementalR.race.meatLabel>
+  <TM_LesserWater_ElementalR.label>Lesser Water Elemental</TM_LesserWater_ElementalR.label>
+  <TM_LesserWater_ElementalR.description>Water elementals are creatures of living water.  They embody the spirit of unbound patience and solitude.  They appear as a swirling mass of water, sometimes seeming to take the shape of a creature or object with bits of flotsam occasionally surfacing.  They are always in motion and seem to glide or sway when moving.  The creature before you is a smaller form, but will relentlessly overcome even the strongest opponent.</TM_LesserWater_ElementalR.description>
+  <TM_LesserWater_ElementalR.tools.0.label>left arm</TM_LesserWater_ElementalR.tools.0.label>
+  <TM_LesserWater_ElementalR.tools.1.label>right arm</TM_LesserWater_ElementalR.tools.1.label>
+  <TM_LesserWater_ElementalR.tools.2.label>horn</TM_LesserWater_ElementalR.tools.2.label>
+  <TM_Water_ElementalR.race.meatLabel>elemental dust</TM_Water_ElementalR.race.meatLabel>
+  <TM_Water_ElementalR.label>Water Elemental</TM_Water_ElementalR.label>
+  <TM_Water_ElementalR.description>Water elementals are creatures of living water.  They embody the spirit of unbound patience and solitude.  They appear as a swirling mass of water, sometimes seeming to take the shape of a creature or object with bits of flotsam occasionally surfacing.  They are always in motion and seem to glide or sway when moving.  The elemental before you appears almost serene, but you sense a hidden danger lurking just below the surface.</TM_Water_ElementalR.description>
+  <TM_Water_ElementalR.tools.0.label>left arm</TM_Water_ElementalR.tools.0.label>
+  <TM_Water_ElementalR.tools.1.label>right arm</TM_Water_ElementalR.tools.1.label>
+  <TM_Water_ElementalR.tools.2.label>horn</TM_Water_ElementalR.tools.2.label>
+  <TM_GreaterWater_ElementalR.race.meatLabel>elemental dust</TM_GreaterWater_ElementalR.race.meatLabel>
+  <TM_GreaterWater_ElementalR.label>Greater Water Elemental</TM_GreaterWater_ElementalR.label>
+  <TM_GreaterWater_ElementalR.description>Water elementals are creatures of living water.  They embody the spirit of unbound patience and solitude.  They appear as a swirling mass of water, sometimes seeming to take the shape of a creature or object with bits of flotsam occasionally surfacing.  They are always in motion and seem to glide or sway when moving.  This enormous elemental before you has whirlpools for eyes and moves like a crashing wave.</TM_GreaterWater_ElementalR.description>
+  <TM_GreaterWater_ElementalR.tools.0.label>left arm</TM_GreaterWater_ElementalR.tools.0.label>
+  <TM_GreaterWater_ElementalR.tools.1.label>right arm</TM_GreaterWater_ElementalR.tools.1.label>
+  <TM_GreaterWater_ElementalR.tools.2.label>horn</TM_GreaterWater_ElementalR.tools.2.label>
+  <TM_LesserWind_ElementalR.race.meatLabel>elemental dust</TM_LesserWind_ElementalR.race.meatLabel>
+  <TM_LesserWind_ElementalR.label>Lesser Wind Elemental</TM_LesserWind_ElementalR.label>
+  <TM_LesserWind_ElementalR.description>Air elementals are beings of living wind and possess unnatural speed and agility.  The physical manifestation of the air elemental appears to rapidly shift; sometimes a hazy smoke, other times a biting whirlwind.  The air currents seem to form an barely perceptible outline of a humanoid form.  While lesser in nature, this elemental will rain vicious, stinging attacks upon its enemies.</TM_LesserWind_ElementalR.description>
+  <TM_LesserWind_ElementalR.tools.0.label>left arm</TM_LesserWind_ElementalR.tools.0.label>
+  <TM_LesserWind_ElementalR.tools.1.label>right arm</TM_LesserWind_ElementalR.tools.1.label>
+  <TM_LesserWind_ElementalR.tools.2.label>horn</TM_LesserWind_ElementalR.tools.2.label>
+  <TM_Wind_ElementalR.race.meatLabel>elemental dust</TM_Wind_ElementalR.race.meatLabel>
+  <TM_Wind_ElementalR.label>Wind Elemental</TM_Wind_ElementalR.label>
+  <TM_Wind_ElementalR.description>Air elementals are beings of living wind and possess unnatural speed and agility.  The physical manifestation of the air elemental appears to rapidly shift; sometimes a hazy smoke, other times a biting whirlwind.  The air currents seem to form an barely perceptible outline of a humanoid form.  This creature possesses the power of a storm and will not hesitate to bring it to bear on its enemies.</TM_Wind_ElementalR.description>
+  <TM_Wind_ElementalR.tools.0.label>left arm</TM_Wind_ElementalR.tools.0.label>
+  <TM_Wind_ElementalR.tools.1.label>right arm</TM_Wind_ElementalR.tools.1.label>
+  <TM_Wind_ElementalR.tools.2.label>horn</TM_Wind_ElementalR.tools.2.label>
+  <TM_GreaterWind_ElementalR.race.meatLabel>elemental dust</TM_GreaterWind_ElementalR.race.meatLabel>
+  <TM_GreaterWind_ElementalR.label>Greater Wind Elemental</TM_GreaterWind_ElementalR.label>
+  <TM_GreaterWind_ElementalR.description>Air elementals are beings of living wind and possess unnatural speed and agility.  The physical manifestation of the air elemental appears to rapidly shift; sometimes a hazy smoke, other times a biting whirlwind.  The air currents seem to form an barely perceptible outline of a humanoid form.  There is no doubt that this elemental is a supreme being capable of unleashing the fury of a storm.</TM_GreaterWind_ElementalR.description>
+  <TM_GreaterWind_ElementalR.tools.0.label>left arm</TM_GreaterWind_ElementalR.tools.0.label>
+  <TM_GreaterWind_ElementalR.tools.1.label>right arm</TM_GreaterWind_ElementalR.tools.1.label>
+  <TM_GreaterWind_ElementalR.tools.2.label>horn</TM_GreaterWind_ElementalR.tools.2.label>
+  <TM_MinionR.race.meatLabel>mystery meat</TM_MinionR.race.meatLabel>
+  <TM_MinionR.label>minion</TM_MinionR.label>
+  <TM_MinionR.description>Minions are mischievous, lazy, cruel cowards that come from a miserable plane of existence.  They appear as a floating meatball with a giant eye.  They have stubby, little arms a mouth that seems transfixed in a nasty smile, and two or three horns.
+It's not clear how they float, though one can only assume it has something to do with the hot, putrid stench that follows them everywhere.
+Their usefulness is open for debate; they possess little in terms of combat ability and would sooner flee than fight.  They -can- do simple tasks such as hauling and cleaning (though they seem to have a different definition of "clean").  However, it seems more likely to find them lounging near the television or smoking a joint (or both) than doing anything productive.
+They can be summoned by gullible... er, trained mages, and, in return for giving them a break from their "pit fiend of a boss," they are willing to "help out" around the place.
+Occasionally, they express the desire to hit things and can (usually) be convinced to hit some nearby rocks.
+If things get too tough for them or they get bored, they'll flee back to wherever they came.</TM_MinionR.description>
+  <TM_MinionR.tools.0.label>horns</TM_MinionR.tools.0.label>
+  <TM_MinionR.tools.1.label>bite</TM_MinionR.tools.1.label>
+  <TM_GreaterMinionR.race.meatLabel>mystery meat</TM_GreaterMinionR.race.meatLabel>
+  <TM_GreaterMinionR.label>greater minion</TM_GreaterMinionR.label>
+  <TM_GreaterMinionR.description>Minions are mischievous, lazy, cruel cowards that come from a miserable plane of existence.  They appear as a floating meatball with a giant eye.  They have stubby, little arms a mouth that seems transfixed in a nasty smile, and two or three horns.
+It's not clear how they float, though one can only assume it has something to do with the hot, putrid stench that follows them everywhere.
+Their usefulness is open for debate; they possess little in terms of combat ability and would sooner flee than fight.  They -can- do simple tasks such as hauling and cleaning (though they seem to have a different definition of "clean"). However, it seems more likely to find them lounging near the television or smoking a joint (or both) than doing anything productive.
+They can be summoned by gullible... er, trained mages, and, in return for giving them a break from their "pit fiend of a boss," they are willing to "help out" around the place.
+Occasionally, they express the desire to hit things and can (usually) be convinced to hit some nearby rocks.
+If things get too tough for them or they get bored, they'll flee back to wherever they came.</TM_GreaterMinionR.description>
+  <TM_GreaterMinionR.tools.0.label>horns</TM_GreaterMinionR.tools.0.label>
+  <TM_GreaterMinionR.tools.1.label>bite</TM_GreaterMinionR.tools.1.label>
+  <TM_Lesser_SentinelR.race.meatLabel>stone</TM_Lesser_SentinelR.race.meatLabel>
+  <TM_Lesser_SentinelR.label>Lesser Sentinel</TM_Lesser_SentinelR.label>
+  <TM_Lesser_SentinelR.description>This once inanimate stone is now viciously defending its terrain. Limbs that once seemed fused together as the same stone are now mobile... and tearing through earth and flesh alike.</TM_Lesser_SentinelR.description>
+  <TM_Lesser_SentinelR.tools.0.label>claws</TM_Lesser_SentinelR.tools.0.label>
+  <TM_Lesser_SentinelR.tools.1.label>teeth</TM_Lesser_SentinelR.tools.1.label>
+  <TM_SentinelR.race.meatLabel>stone</TM_SentinelR.race.meatLabel>
+  <TM_SentinelR.label>Sentinel</TM_SentinelR.label>
+  <TM_SentinelR.description>This once inanimate stone is now viciously defending its terrain. Limbs that once seemed fused together as the same stone are now mobile... and tearing through earth and flesh alike.</TM_SentinelR.description>
+  <TM_SentinelR.tools.0.label>claws</TM_SentinelR.tools.0.label>
+  <TM_SentinelR.tools.1.label>teeth</TM_SentinelR.tools.1.label>
+  <TM_Greater_SentinelR.race.meatLabel>stone</TM_Greater_SentinelR.race.meatLabel>
+  <TM_Greater_SentinelR.label>Greater Sentinel</TM_Greater_SentinelR.label>
+  <TM_Greater_SentinelR.description>This once inanimate stone is now viciously defending its terrain. Limbs that once seemed fused together as the same stone are now mobile... and tearing through earth and flesh alike.</TM_Greater_SentinelR.description>
+  <TM_Greater_SentinelR.tools.0.label>claws</TM_Greater_SentinelR.tools.0.label>
+  <TM_Greater_SentinelR.tools.1.label>teeth</TM_Greater_SentinelR.tools.1.label>
+  <TM_SkeletonLichR.label>skeleton lich</TM_SkeletonLichR.label>
+  <TM_SkeletonLichR.description>The withered and faded bones of an ancient lich embodied by the spirit of malevolence and hatred; whoever, or whatever, this being once was is no more; its sole purpose is to destroy all life and replace it with undeath.</TM_SkeletonLichR.description>
+  <TM_SkeletonLichR.tools.0.label>left hand</TM_SkeletonLichR.tools.0.label>
+  <TM_SkeletonLichR.tools.1.label>right hand</TM_SkeletonLichR.tools.1.label>
+  <TM_SkeletonLichR.tools.2.label>death stare</TM_SkeletonLichR.tools.2.label>
+  <TM_GiantSkeletonR.label>Giant skeleton</TM_GiantSkeletonR.label>
+  <TM_GiantSkeletonR.description>An enormous skeleton; this abomination was either created from the bones of a giant creature or by combining the bones of lesser creatures. This skeleton is animated by necromancy and embodied by a vengeful spirit that has wandered the world for ages - long enough to develop a simple, single-minded hate for life.</TM_GiantSkeletonR.description>
+  <TM_GiantSkeletonR.tools.0.label>left fist</TM_GiantSkeletonR.tools.0.label>
+  <TM_GiantSkeletonR.tools.1.label>right fist</TM_GiantSkeletonR.tools.1.label>
+  <TM_GiantSkeletonR.tools.2.label>teeth</TM_GiantSkeletonR.tools.2.label>
+  <TM_SkeletonR.label>Skeleton</TM_SkeletonR.label>
+  <TM_SkeletonR.description>Physical husks of creatures raised through the power of necromancy; their sole instinct is to obey their master and destroy all life.</TM_SkeletonR.description>
+  <TM_SkeletonR.tools.0.label>left fist</TM_SkeletonR.tools.0.label>
+  <TM_SkeletonR.tools.1.label>right fist</TM_SkeletonR.tools.1.label>
+  <TM_SkeletonR.tools.2.label>teeth</TM_SkeletonR.tools.2.label>
+  <TM_SpiritBearR.label>spirit bear</TM_SpiritBearR.label>
+  <TM_SpiritBearR.description>The spirit bear is emblematic of stability and strength. This animal has been admired throughout time as a powerful inspiration for those who need courage to stand up against adversity. The spirit bear is a powerful guide to support physical strength and constitution and will actively protect its young.</TM_SpiritBearR.description>
+  <TM_SpiritBearR.tools.0.label>left paw</TM_SpiritBearR.tools.0.label>
+  <TM_SpiritBearR.tools.1.label>right paw</TM_SpiritBearR.tools.1.label>
+  <TM_SpiritBearR.tools.2.label>mauled</TM_SpiritBearR.tools.2.label>
+  <TM_SpiritBearR.tools.3.label>head</TM_SpiritBearR.tools.3.label>
+  <TM_SpiritMongooseR.label>spirit mongoose</TM_SpiritMongooseR.label>
+  <TM_SpiritMongooseR.description>The mongoose spirit animal is clever and adaptable. It represents an insatiable curiosity about the world around them while possessing the wherewithal to know to look before they leap. The mongoose uses their cunning and agility to quickly deliver lethal strikes against an enemy or swiftly deliver resources. The mongoose is also the most playful of spirit animals.</TM_SpiritMongooseR.description>
+  <TM_SpiritMongooseR.tools.0.label>left claw</TM_SpiritMongooseR.tools.0.label>
+  <TM_SpiritMongooseR.tools.1.label>right claw</TM_SpiritMongooseR.tools.1.label>
+  <TM_SpiritMongooseR.tools.3.label>head</TM_SpiritMongooseR.tools.3.label>
+  <TM_SpiritCrowR.label>spirit crow</TM_SpiritCrowR.label>
+  <TM_SpiritCrowR.description>The crow is a spirit animal associated with life mysteries and magic. The spirit crow provides insight and means of supporting intentions. It is also a sign of fortune, though not always good fortune. If the crow has chosen you as your spirit or totem animal, it supports you in developing the power of sight, transformation, and connection with magic and will assist in these endeavors.</TM_SpiritCrowR.description>
+  <TM_SpiritCrowR.tools.0.label>claws</TM_SpiritCrowR.tools.0.label>
+  <TM_SpiritCrowR.tools.1.label>beak</TM_SpiritCrowR.tools.1.label>
+  <TM_SpiritCrowR.tools.2.label>head</TM_SpiritCrowR.tools.2.label>
+  <FlyingObject_Leap.label>leap</FlyingObject_Leap.label>
+  <TM_Poppi.label>poppi</TM_Poppi.label>
+  <TM_Poppi.description>Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.</TM_Poppi.description>
+  <TM_Poppi.tools.0.label>snuggle</TM_Poppi.tools.0.label>
+  <MagicArtifact_RerollSpiritBond.comps.0.useLabel>Use</MagicArtifact_RerollSpiritBond.comps.0.useLabel>
+  <MagicArtifact_RerollSpiritBond.label>Scroll of Spirit Binding</MagicArtifact_RerollSpiritBond.label>
+  <MagicArtifact_RerollSpiritBond.description>This scroll may be used to change a spirit bond. The new bond will randomly select a new spirit type to bond.</MagicArtifact_RerollSpiritBond.description>
+  <TableGemcutting.label>gemcrafting table</TableGemcutting.label>
+  <TableGemcutting.description>A workbench used for refining enchanting stones</TableGemcutting.description>
+  <TableMagicPrinter.label>scribing table</TableMagicPrinter.label>
+  <TableMagicPrinter.description>A printing press used to make books and scrolls.</TableMagicPrinter.description>
+  <TableArcaneForge.label>arcane forge</TableArcaneForge.label>
+  <TableArcaneForge.description>The arcane forge allows a mage to wield raw arcane power to create material objects. 
+	
+Scientifically, the arcane forge might be described as a matter fabricator, though the exact mechanics have yet to be determined.  Only those possessing the ability to manipulate arcane power are able to use the arcane forge.
+
+Using the arcane forge dramatically increases crafting speed but consumes mana.  Items of quality are determined by the mage's intelligence skill and class level.</TableArcaneForge.description>
+  <TableMagicCircle.label>magic circle</TableMagicCircle.label>
+  <TableMagicCircle.description>The magic circle is a construct that amplifies magic by aligning the physical and arcane into a focal point. While it may seem simple, the circle is outlined with elaborate runes and constructed with detailed precision.
+
+Mages can use the magic circle to augment their power or combine their energy with other mages to create unique, powerful effects. The circle may accomodate up to six mages.
+
+The type of material used in construction directly affects the quality of the magic circle.
+Stone (any): no bonuses
+Steel: no bonus
+Wood: no bonus
+Jade: success chance +30%
+Silver: refunds 25% of material cost
+Plasteel: event points +15%, duration +10%
+Gold: event points +20%, duration +20%, refunds 15% of material cost
+Uranium: duration and success chance +20%
+Arcalleum: success chance +15%, refunds 25% of mana cost
+
+*Admin note: the circle will fuel itself when it detects mages capable of performing the ritual.</TableMagicCircle.description>
+  <TableSmallMagicCircle.label>magic focal point</TableSmallMagicCircle.label>
+  <TableSmallMagicCircle.description>Arcane focal points are the byproduct of research into magical ley lines and arcane interconnectivity. The focal point allows a mage to visualize their connection to gaia and other other mages, allowing them greater interaction with nature, order, and chaos. The focal point can link the arcane power of two mages to perform powerful rituals.
+
+The type of material used in construction directly affects the quality of the magic circle.
+Stone (any): no bonuses
+Steel: no bonus
+Wood: no bonus
+Jade: success chance +15%
+Silver: refunds 15% of material cost
+Plasteel: event points +15%
+Gold: event points +10%, duration +15%, refunds 10% of material cost
+Uranium: duration and success chance +10%
+Arcalleum: success chance +10%, refunds 10% of mana cost
+
+*Admin note: the circle will fuel itself when it detects mages capable of performing the ritual. Mages can not be forced to work at the focal point, but will perform rituals when conditions are met.</TableSmallMagicCircle.description>
+  <TM_Teleporter.label>Teleporter</TM_Teleporter.label>
+  <TM_Teleporter.description>A portal platform used to contain teleport pods.</TM_Teleporter.description>
+  <TM_Teleporter_I.label>Teleporter (I)</TM_Teleporter_I.label>
+  <TM_Teleporter_I.description>A portal platform used to contain teleport pods.</TM_Teleporter_I.description>
+  <TM_Teleporter_II.label>Teleporter (II)</TM_Teleporter_II.label>
+  <TM_Teleporter_II.description>A portal platform used to contain teleport pods.</TM_Teleporter_II.description>
+  <TM_Teleporter_III.label>Teleporter (III)</TM_Teleporter_III.label>
+  <TM_Teleporter_III.description>A portal platform used to contain teleport pods.</TM_Teleporter_III.description>
+  <TM_TeleportPod.label>Teleport Pod</TM_TeleportPod.label>
+  <TM_TeleportPod.description>Large flat cylinder used by warlocks to rapidly transport between locations.</TM_TeleportPod.description>
+  <TM_TeleportPod_I.label>Teleport Pod (I)</TM_TeleportPod_I.label>
+  <TM_TeleportPod_I.description>Large flat cylinder used by warlocks to rapidly transport between locations.</TM_TeleportPod_I.description>
+  <TM_TeleportPod_II.label>Teleport Pod (II)</TM_TeleportPod_II.label>
+  <TM_TeleportPod_II.description>Large flat cylinder used by warlocks to rapidly transport between locations.</TM_TeleportPod_II.description>
+  <TM_TeleportPod_III.label>Teleport Pod (III)</TM_TeleportPod_III.label>
+  <TM_TeleportPod_III.description>Large flat cylinder used by warlocks to rapidly transport between locations.</TM_TeleportPod_III.description>
+  <Portfuel.label>portfuel</Portfuel.label>
+  <Portfuel.description>Arcane energy bottled for fuel. Used to charge portals.</Portfuel.description>
+  <TM_Heater.label>magical heater</TM_Heater.label>
+  <TM_Heater.description>An active dimensional tap into the Plane of Fire that can be used to heat confined spaces. Can also be used for various cooking or cremating tasks. Remains as long as it is sustained by a mage.</TM_Heater.description>
+  <TM_Cooler.label>magical cooler</TM_Cooler.label>
+  <TM_Cooler.description>An active dimensional tap into the Plane of Ice that can be used to cool confined spaces.</TM_Cooler.description>
+  <TM_PowerNode.label>Arcane power node</TM_PowerNode.label>
+  <TM_PowerNode.description>An arcane energy node that provides power as long as it is sustained by a mage.</TM_PowerNode.description>
+  <TM_Sunlight.label>sun light</TM_Sunlight.label>
+  <TM_Sunlight.description>A dimensional pocket emitting a continous source of light strong enough to grow crops.</TM_Sunlight.description>
+  <TM_Sentinel.label>Sentinel</TM_Sentinel.label>
+  <TM_Sentinel.description>This statue is made of stone and shaped to look like a terrifying creature. The statue is smaller than an average person and has the look of a rough cut and quality, though, you notice the eyes, ears, and claws seems to have finer detail.
+	
+As you drawn near the statue, an eerie glint from the eyes of the stone sentinel seems to follow you, and you get the feeling that you are being watched.</TM_Sentinel.description>
+  <TM_MageLightTD.label>magelight</TM_MageLightTD.label>
+  <TM_MageLightTD.description>A light source created by a mage.</TM_MageLightTD.description>
+  <TM_LightPod.label>Light Beam</TM_LightPod.label>
+  <TM_LightPod.description>Transportation along a beam of light.</TM_LightPod.description>
+  <TM_PoisonTrap.label>Poison Trap</TM_PoisonTrap.label>
+  <TM_PoisonTrap.description>A trap created from sticks and twine, it blends seamlessly with the terrain to the untrained eye, but is scented to be an unmistakable warning to animals. Particles of druidic poison are discharged into the air when a victim triggers the trap. The poison is toxic and serves to both injure and disable the victim.</TM_PoisonTrap.description>
+  <TM_Trap_Lightning.label>Lightning Trap</TM_Trap_Lightning.label>
+  <TM_Trap_Lightning.description>A trap created by containing elemental lightning inside an arcane barrier; it releases it's bottled energy whenever an enemy disturbs a nearby arcane strand.</TM_Trap_Lightning.description>
+  <TM_ManaMine.label>Mana Mine</TM_ManaMine.label>
+  <TM_ManaMine.description>A powerful explosive created by compressing mana and matter. Tendrils of psychic power extend from the mine; when a victim disturbs the psychic strand, it collapses the containment field and detonates the mine.  2.4m explosive radius.</TM_ManaMine.description>
+  <TM_ManaMine_I.label>Mana Mine</TM_ManaMine_I.label>
+  <TM_ManaMine_I.description>A powerful explosive created by compressing mana and matter. Tendrils of psychic power extend from the mine; when a victim disturbs the psychic strand, it collapses the containment field and detonates the mine.  2.9m explosive radius.</TM_ManaMine_I.description>
+  <TM_ManaMine_II.label>Mana Mine</TM_ManaMine_II.label>
+  <TM_ManaMine_II.description>A powerful explosive created by compressing mana and matter. Tendrils of psychic power extend from the mine; when a victim disturbs the psychic strand, it collapses the containment field and detonates the mine.  3.8m explosive radius.</TM_ManaMine_II.description>
+  <TM_ManaMine_III.label>Mana Mine</TM_ManaMine_III.label>
+  <TM_ManaMine_III.description>A powerful explosive created by compressing mana and matter. Tendrils of psychic power extend from the mine; when a victim disturbs the psychic strand, it collapses the containment field and detonates the mine.  4.7m explosive radius.</TM_ManaMine_III.description>
+  <DefensePylon.label>magical defense pylon</DefensePylon.label>
+  <DefensePylon.description>A magical defense pylon. Created by materializing magical energy to form a base, and then channeling arcane current into a focal point that emits bursts of raw energy.</DefensePylon.description>
+  <Launcher_DefensePylon.label>energy focus point</Launcher_DefensePylon.label>
+  <Launcher_DefensePylon.description>Focal point of an arcane defense pylon, capable of collecting and emitting bursts of raw magical energy.</Launcher_DefensePylon.description>
+  <Bullet_DefensePylon.label>focused magical energy</Bullet_DefensePylon.label>
+  <DefensePylon_I.label>magical defense pylon (I)</DefensePylon_I.label>
+  <DefensePylon_I.description>A magical defense pylon. Created by materializing magical energy to form a base, and then channeling arcane current into a focal point that emits bursts of raw energy.</DefensePylon_I.description>
+  <Launcher_DefensePylon_I.label>energy focus point</Launcher_DefensePylon_I.label>
+  <Launcher_DefensePylon_I.description>Focal point of an arcane defense pylon, capable of collecting and emitting bursts of raw magical energy.</Launcher_DefensePylon_I.description>
+  <DefensePylon_II.label>magical defense pylon (II)</DefensePylon_II.label>
+  <DefensePylon_II.description>A magical defense pylon. Created by materializing magical energy to form a base, and then channeling arcane current into a focal point that emits bursts of raw energy.</DefensePylon_II.description>
+  <Launcher_DefensePylon_II.label>energy focus point</Launcher_DefensePylon_II.label>
+  <Launcher_DefensePylon_II.description>Focal point of an arcane defense pylon, capable of collecting and emitting bursts of raw magical energy.</Launcher_DefensePylon_II.description>
+  <DefensePylon_III.label>magical defense pylon (III)</DefensePylon_III.label>
+  <DefensePylon_III.description>A magical defense pylon. Created by materializing magical energy to form a base, and then channeling arcane current into a focal point that emits bursts of raw energy.</DefensePylon_III.description>
+  <Launcher_DefensePylon_III.label>energy focus point</Launcher_DefensePylon_III.label>
+  <Launcher_DefensePylon_III.description>Focal point of an arcane defense pylon, capable of collecting and emitting bursts of raw magical energy.</Launcher_DefensePylon_III.description>
+  <TM_ArcaneBarrier.label>arcane barrier</TM_ArcaneBarrier.label>
+  <TM_ArcaneBarrier.description>An impassable wall made from solidified arcane power. Provides protection or creates an impassable barrier.</TM_ArcaneBarrier.description>
+  <TM_TechnoTurret_Base.label>Mark-IV</TM_TechnoTurret_Base.label>
+  <TM_TechnoTurret_Base.description>The Mark-IV is a deployable turret that provides the firepower of a heavy weapon system. It uses miniaturization to allow the user to easily transport the system when not in use. The key component of the Mark-IV is the matter converter that uses raw energy to repair and resupply the turret when in a miniaturized state, allowing a nominal energy to matter conversion. However, even using plasteel and hyperweave to strengthen the weapon system, the material was simply unable to withstand the pressure placed on it during the conversion process and was high susceptible to breakdown and component failure.
+	
+Technomancers have since adapted the system and use their control over arcane energy to provide the turret with ammunition while deployed and energy for repairs and the miniaturization process.
+
+Due to its weight, the Mark-IV cannot be moved while deployed.</TM_TechnoTurret_Base.description>
+  <TM_TechnoTurret_Base_RL.label>Mark-IV</TM_TechnoTurret_Base_RL.label>
+  <TM_TechnoTurret_Base_RL.description>The Mark-IV is a deployable turret that provides the firepower of a heavy weapon system. It uses miniaturization to allow the user to easily transport the system when not in use. The key component of the Mark-IV is the matter converter that uses raw energy to repair and resupply the turret when in a miniaturized state, allowing a nominal energy to matter conversion. However, even using plasteel and hyperweave to strengthen the weapon system, the material was simply unable to withstand the pressure placed on it during the conversion process and was high susceptible to breakdown and component failure.
+	
+Technomancers have since adapted the system and use their control over arcane energy to provide the turret with ammunition while deployed and energy for repairs and the miniaturization process.
+
+Due to its weight, the Mark-IV cannot be moved while deployed.</TM_TechnoTurret_Base_RL.description>
+  <TM_TechnoTurret_Base_RL_MTR.label>Mark-IV</TM_TechnoTurret_Base_RL_MTR.label>
+  <TM_TechnoTurret_Base_RL_MTR.description>The Mark-IV is a deployable turret that provides the firepower of a heavy weapon system. It uses miniaturization to allow the user to easily transport the system when not in use. The key component of the Mark-IV is the matter converter that uses raw energy to repair and resupply the turret when in a miniaturized state, allowing a nominal energy to matter conversion. However, even using plasteel and hyperweave to strengthen the weapon system, the material was simply unable to withstand the pressure placed on it during the conversion process and was high susceptible to breakdown and component failure.
+	
+Technomancers have since adapted the system and use their control over arcane energy to provide the turret with ammunition while deployed and energy for repairs and the miniaturization process.
+
+Due to its weight, the Mark-IV cannot be moved while deployed.</TM_TechnoTurret_Base_RL_MTR.description>
+  <Bullet_Mark-IV.label>Mark-IV round</Bullet_Mark-IV.label>
+  <Gun_Mark-IV.label>Mark-IV weapon system</Gun_Mark-IV.label>
+  <Gun_Mark-IV.description>Mark-IV weapon system barrel and firing controls.</Gun_Mark-IV.description>
+  <Gun_Mark-IV_RL.label>Mark-IV weapon system</Gun_Mark-IV_RL.label>
+  <Gun_Mark-IV_RL.description>Mark-IV weapon system barrel and firing controls.</Gun_Mark-IV_RL.description>
+  <Gun_Mark-IV_RL_MTR.label>Mark-IV weapon system</Gun_Mark-IV_RL_MTR.label>
+  <Gun_Mark-IV_RL_MTR.description>Mark-IV weapon system barrel and firing controls.</Gun_Mark-IV_RL_MTR.description>
+  <FlyingObject_RocketSmall.label>small rocket</FlyingObject_RocketSmall.label>
+  <Bullet_Shell_TechnoTurretExplosive.label>HE shell</Bullet_Shell_TechnoTurretExplosive.label>
+  <TM_60mmMortar_Base.label>60mm Mortar Tube</TM_60mmMortar_Base.label>
+  <TM_60mmMortar_Base.description>60mm Mortar is a personally transportable and deployable indirect fire system. Due to the weight of the system, the shells are typically distributed for transport. The system is intended for indirect fire and only amateurs attempt to use the system for direct lay as it is both inaccurate and exposes the mortar-man. 
+	
+	The range and firepower of the system are limited compared to stationary systems due the containment capacity of the mortar tube and the blast cartridge.</TM_60mmMortar_Base.description>
+  <FlyingObject_60mmMortar.label>60mm mortar</FlyingObject_60mmMortar.label>
+  <TM_LightningTotem.label>Lightning Totem</TM_LightningTotem.label>
+  <TM_LightningTotem.description>A shamanic totem decorated with elaborate, eccentric carvings and crackling with elemental lightning.</TM_LightningTotem.description>
+  <TM_HealingTotem.label>Healing Totem</TM_HealingTotem.label>
+  <TM_HealingTotem.description>A shamanic totem decorated with flowing, complimentary shapes. The healing totem is able to attract friendly spirits who will restore vigor and health to nearby allies.</TM_HealingTotem.description>
+  <TM_EarthTotem.label>Earth Totem</TM_EarthTotem.label>
+  <TM_EarthTotem.description>A shamanic totem decorated with symmetric carvings and exudes a sense of solidarity. The totem's connection to the earth allows it to cause seismic waves that stagger nearby enemies.</TM_EarthTotem.description>
+  <TM_ArcaneCapacitor.label>Arcane Capacitor</TM_ArcaneCapacitor.label>
+  <TM_ArcaneCapacitor.description>The Arcane Capacitor is able to store mana as a form of potential energy that mages can draw upon at a later time. Mages assigned to magic tasks will charge the battery until it reaches its set fill level. A mage will only perform this task if their mana level is above 90% of their maximum.
+
+The arcane capacitor will discharge mana to any undrafted pawn in range if the mana ratio of the capacitor is greater than 250% of the mage. Drafted mages will forcibly draw mana from the capacitor until the capacitor is empty or the mage has 90% or more mana.
+
+Some mana is lost during the discharging process.
+Efficiency: 71%</TM_ArcaneCapacitor.description>
+  <TM_DimensionalManaPocket.label>Dimensional Mana Pocket</TM_DimensionalManaPocket.label>
+  <TM_DimensionalManaPocket.description>The dimensional mana pocket stores a tremendous amount of mana and has a large distribution coverage area but is slower than the arcane capacitor to redistribute mana when it's needed
+	
+Mages assigned to magic tasks will store mana in the dimensional pocket until it reaches its set fill level. A mage will only perform this task if their mana level is above 90% of their maximum.
+
+The dimensional pocket will discharge mana to any undrafted pawn in range if their mana is below 40% and to any drafted mage with mana lower than 80%.
+
+Some mana is lost during both the charging and discharging process.
+Efficiency: 80%</TM_DimensionalManaPocket.description>
+  <TM_Portal.label>Portal</TM_Portal.label>
+  <TM_Portal.description>Instant travel between two portals.</TM_Portal.description>
+  <TM_ElementalRift.label>Elemental rift</TM_ElementalRift.label>
+  <TM_ElementalRift.description>rift caused by rogue elementals.</TM_ElementalRift.description>
+  <SeedofRegrowth.label>Seed of Regrowth</SeedofRegrowth.label>
+  <SeedofRegrowth.description>A seed required by a druid to begin the limb regrowth process. A druid must be trained in the art of regrowth to use this magical item successfully.</SeedofRegrowth.description>
+  <TM_EStone_maxMP_minor.label>Minor Arcane Gem of Holding</TM_EStone_maxMP_minor.label>
+  <TM_EStone_maxMP_minor.description>A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 5%.</TM_EStone_maxMP_minor.description>
+  <TM_EStone_maxMP.label>Arcane Gem of Holding</TM_EStone_maxMP.label>
+  <TM_EStone_maxMP.description>A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 10%.</TM_EStone_maxMP.description>
+  <TM_EStone_maxMP_major.label>Major Arcane Gem of Holding</TM_EStone_maxMP_major.label>
+  <TM_EStone_maxMP_major.description>A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 15%.</TM_EStone_maxMP_major.description>
+  <TM_EStone_mpRegenRate_minor.label>Minor Arcane Gem of Regeneration</TM_EStone_mpRegenRate_minor.label>
+  <TM_EStone_mpRegenRate_minor.description>A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 5%.</TM_EStone_mpRegenRate_minor.description>
+  <TM_EStone_mpRegenRate.label>Arcane Gem of Regeneration</TM_EStone_mpRegenRate.label>
+  <TM_EStone_mpRegenRate.description>A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 10%.</TM_EStone_mpRegenRate.description>
+  <TM_EStone_mpRegenRate_major.label>Major Arcane Gem of Regeneration</TM_EStone_mpRegenRate_major.label>
+  <TM_EStone_mpRegenRate_major.description>A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 15%.</TM_EStone_mpRegenRate_major.description>
+  <TM_EStone_mpCost_minor.label>Minor Arcane Gem of Conservation</TM_EStone_mpCost_minor.label>
+  <TM_EStone_mpCost_minor.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 3%.</TM_EStone_mpCost_minor.description>
+  <TM_EStone_mpCost.label>Arcane Gem of Conservation</TM_EStone_mpCost.label>
+  <TM_EStone_mpCost.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 5%.</TM_EStone_mpCost.description>
+  <TM_EStone_mpCost_major.label>Major Arcane Gem of Conservation</TM_EStone_mpCost_major.label>
+  <TM_EStone_mpCost_major.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 7%.</TM_EStone_mpCost_major.description>
+  <TM_EStone_coolDown_minor.label>Minor Arcane Gem of Acceleration</TM_EStone_coolDown_minor.label>
+  <TM_EStone_coolDown_minor.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 3%.</TM_EStone_coolDown_minor.description>
+  <TM_EStone_coolDown.label>Arcane Gem of Acceleration</TM_EStone_coolDown.label>
+  <TM_EStone_coolDown.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 5%.</TM_EStone_coolDown.description>
+  <TM_EStone_coolDown_major.label>Major Arcane Gem of Acceleration</TM_EStone_coolDown_major.label>
+  <TM_EStone_coolDown_major.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 7%.</TM_EStone_coolDown_major.description>
+  <TM_EStone_xpGain_minor.label>Minor Arcane Gem of Learning</TM_EStone_xpGain_minor.label>
+  <TM_EStone_xpGain_minor.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 5%.</TM_EStone_xpGain_minor.description>
+  <TM_EStone_xpGain.label>Arcane Gem of Learning</TM_EStone_xpGain.label>
+  <TM_EStone_xpGain.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 10%.</TM_EStone_xpGain.description>
+  <TM_EStone_xpGain_major.label>Major Arcane Gem of Learning</TM_EStone_xpGain_major.label>
+  <TM_EStone_xpGain_major.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 15%.</TM_EStone_xpGain_major.description>
+  <TM_EStone_arcaneRes_minor.label>Minor Arcane Gem of Resistance</TM_EStone_arcaneRes_minor.label>
+  <TM_EStone_arcaneRes_minor.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 10%.</TM_EStone_arcaneRes_minor.description>
+  <TM_EStone_arcaneRes.label>Arcane Gem of Resistance</TM_EStone_arcaneRes.label>
+  <TM_EStone_arcaneRes.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 20%.</TM_EStone_arcaneRes.description>
+  <TM_EStone_arcaneRes_major.label>Major Arcane Gem of Resistance</TM_EStone_arcaneRes_major.label>
+  <TM_EStone_arcaneRes_major.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 30%.</TM_EStone_arcaneRes_major.description>
+  <TM_EStone_arcaneDmg_minor.label>Minor Arcane Gem of Force</TM_EStone_arcaneDmg_minor.label>
+  <TM_EStone_arcaneDmg_minor.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 4%.</TM_EStone_arcaneDmg_minor.description>
+  <TM_EStone_arcaneDmg.label>Arcane Gem of Force</TM_EStone_arcaneDmg.label>
+  <TM_EStone_arcaneDmg.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 8%.</TM_EStone_arcaneDmg.description>
+  <TM_EStone_arcaneDmg_major.label>Major Arcane Gem of Force</TM_EStone_arcaneDmg_major.label>
+  <TM_EStone_arcaneDmg_major.description>A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 12%.</TM_EStone_arcaneDmg_major.description>
+  <TM_EStone_wonder_minor.label>Minor Arcane Gem of Wonder</TM_EStone_wonder_minor.label>
+  <TM_EStone_wonder_minor.description>A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting minor bonuses to all enchantment categories.</TM_EStone_wonder_minor.description>
+  <TM_EStone_wonder.label>Arcane Gem of Wonder</TM_EStone_wonder.label>
+  <TM_EStone_wonder.description>A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting moderate bonuses to all enchantment categories.</TM_EStone_wonder.description>
+  <TM_EStone_wonder_major.label>Major Arcane Gem of Wonder</TM_EStone_wonder_major.label>
+  <TM_EStone_wonder_major.description>A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting major bonuses to all enchantment categories.</TM_EStone_wonder_major.description>
+  <RawMagicyte.label>unrefined magicyte</RawMagicyte.label>
+  <RawMagicyte.description>A stone that seems to wrap itself in a dull, glassy surface, as if a mysterious power has cloaked itself in the center of the stone. Seemingly composed of the same stone it was cut from, this fairly unremarkable stone shimmers slightly, even in the dark, and it emits an energy signature that mages can detect when touching the stone.
+	
+Raw Magicyte can be refined to make a variety of enchanting gems at the gemcutting table.</RawMagicyte.description>
+  <TM_Manaweave.label>manaweave</TM_Manaweave.label>
+  <TM_Manaweave.description>Manaweave is cloth that has been fused with magicyte and meticulously imbued with arcane symbols. Manaweave inherits many of the physical properties of cloth, but acquires an additional reactive response to physical force. What makes the fabric unique is its ability to act as a conductor of mana that enhances the effects of enchantments and naturally grants protection against light and dark magic. 
+
+Extremely difficult and taxing to create, only a talented and knowledgeable mage can make this material.</TM_Manaweave.description>
+  <TM_Arcalleum.label>arcalleum</TM_Arcalleum.label>
+  <TM_Arcalleum.description>A metal alloy consisting of steel, jade, silver and magicyte. Its unique composition gives it mystical properties that increased elasticity and creates reverberations of any magical energy transferred through it. The elasticity of the alloy makes it an excellent choice for blunt protection, but is sub-standard for use in bladed weapons. Arcalleum is difficult to create and requires a forge capable of liquefying and combining all ingredients of the alloy.
+	
+	While arcalluem is sought after for its enhanced defensive properties, it is also prized by fighters and mages alike for its power to nullify the cooldown of any ability. Each kg of arcalleum worn increases the chance an ability cooldown is nullified after use by 1% (50% max).</TM_Arcalleum.description>
+  <TM_Demonhide.label>demonhide</TM_Demonhide.label>
+  <TM_Demonhide.description>The skin of a demon. This material is incredibly tough with a micro-porous material mesh able to rapidly diffuse heat and cushion impact blows better than most non-metals. The blood of a demon is resistant to magic and leather made from the hide of a demon absorbs some of this resistance. Any enchantments carved into demonhide are naturally augmented. There are only two downsides to this material - the first is that it can only be acquired from the carcass of a demon, which makes it both rare and costly; the second is that it makes a terrible insulator.</TM_Demonhide.description>
+  <TM_Demonscale.label>demonscale</TM_Demonscale.label>
+  <TM_Demonscale.description>Pried from the body of a demon, these scales offer a lightweight and versatile defense against all forms of attack. Demon scale excels as a natural barrier to magic and is an excellent inhibitor to heat and fire; a warrior with enough armor crafted from demon scale may even become immune to all but the most intense fire. Demon scale can be smelted, and weapons forged from this refined metal make excellent bladed weapons. Enchantments etched into demon scale equipment are naturally augmented.</TM_Demonscale.description>
+  <BookOfQuestion.comps.0.useLabel>Read</BookOfQuestion.comps.0.useLabel>
+  <BookOfQuestion.label>Arcane Script: ???</BookOfQuestion.label>
+  <BookOfQuestion.description>Teaches a gifted pawn how to harness magical powers...</BookOfQuestion.description>
+  <Torn_BookOfInnerFire.comps.0.useLabel>Read</Torn_BookOfInnerFire.comps.0.useLabel>
+  <Torn_BookOfInnerFire.label>Torn Script: Fire</Torn_BookOfInnerFire.label>
+  <Torn_BookOfInnerFire.description>Teaches a gifted pawn how to harness elements of fire.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, fire spells.</Torn_BookOfInnerFire.description>
+  <Torn_BookOfHeartOfFrost.comps.0.useLabel>Read</Torn_BookOfHeartOfFrost.comps.0.useLabel>
+  <Torn_BookOfHeartOfFrost.label>Torn Script: Ice</Torn_BookOfHeartOfFrost.label>
+  <Torn_BookOfHeartOfFrost.description>Teaches a gifted pawn how to harness elemental ice and water.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, ice mage spells.</Torn_BookOfHeartOfFrost.description>
+  <Torn_BookOfStormBorn.comps.0.useLabel>Read</Torn_BookOfStormBorn.comps.0.useLabel>
+  <Torn_BookOfStormBorn.label>Torn Script: Lightning</Torn_BookOfStormBorn.label>
+  <Torn_BookOfStormBorn.description>Teaches a gifted pawn how to harness elements of lightning.  
+This arcane script is incomplete and the reader may not be able to learn some, or any,  lightning spells.</Torn_BookOfStormBorn.description>
+  <Torn_BookOfArcanist.comps.0.useLabel>Read</Torn_BookOfArcanist.comps.0.useLabel>
+  <Torn_BookOfArcanist.label>Torn Script: Power</Torn_BookOfArcanist.label>
+  <Torn_BookOfArcanist.description>Teaches a gifted pawn how to harness arcane powers.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, arcane spells.</Torn_BookOfArcanist.description>
+  <Torn_BookOfValiant.comps.0.useLabel>Read</Torn_BookOfValiant.comps.0.useLabel>
+  <Torn_BookOfValiant.label>Torn Script: Paladin</Torn_BookOfValiant.label>
+  <Torn_BookOfValiant.description>Teaches a gifted pawn how to harness holy powers.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, holy spells.</Torn_BookOfValiant.description>
+  <Torn_BookOfSummoner.comps.0.useLabel>Read</Torn_BookOfSummoner.comps.0.useLabel>
+  <Torn_BookOfSummoner.label>Torn Script: Summoning</Torn_BookOfSummoner.label>
+  <Torn_BookOfSummoner.description>Teaches a gifted pawn how to summon and interact with elements across dimensions.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, summoning spells.</Torn_BookOfSummoner.description>
+  <Torn_BookOfNature.comps.0.useLabel>Read</Torn_BookOfNature.comps.0.useLabel>
+  <Torn_BookOfNature.label>Torn Script: Nature</Torn_BookOfNature.label>
+  <Torn_BookOfNature.description>Teaches a gifted pawn how to harness elements of nature.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, druid spells.</Torn_BookOfNature.description>
+  <Torn_BookOfUndead.comps.0.useLabel>Read</Torn_BookOfUndead.comps.0.useLabel>
+  <Torn_BookOfUndead.label>Torn Script: Necromancy</Torn_BookOfUndead.label>
+  <Torn_BookOfUndead.description>Teaches a gifted pawn how to manipulate forces of life and death. *Note: The necromancer may become a lich at a later stage, lichs are incapable of all activity except fighting and research. Many other magic classes dislike necromancers. Choose carefully.
+This arcane script is incomplete and the reader may not be able to learn some, or any, necromancer spells.</Torn_BookOfUndead.description>
+  <Torn_BookOfPriest.comps.0.useLabel>Read</Torn_BookOfPriest.comps.0.useLabel>
+  <Torn_BookOfPriest.label>Torn Script: Priest</Torn_BookOfPriest.label>
+  <Torn_BookOfPriest.description>Teaches a gifted pawn how to confer powers of life and healing. Priests are incapable of violence and these skills will be disabled.
+This arcane script is incomplete and the reader may not be able to learn some, or any, priest spells.</Torn_BookOfPriest.description>
+  <Torn_BookOfBard.comps.0.useLabel>Read</Torn_BookOfBard.comps.0.useLabel>
+  <Torn_BookOfBard.label>Torn Script: Bard</Torn_BookOfBard.label>
+  <Torn_BookOfBard.description>Teaches a gifted pawn how to become a professional bard. Bards are incapable of dumb labor and this work type will be disabled.
+This arcane script is incomplete and the reader may not be able to learn some, or any, bard abilities.</Torn_BookOfBard.description>
+  <Torn_BookOfDemons.comps.0.useLabel>Read</Torn_BookOfDemons.comps.0.useLabel>
+  <Torn_BookOfDemons.label>Torn Script: Demonology</Torn_BookOfDemons.label>
+  <Torn_BookOfDemons.description>Details the process to enter an agreement with a demon to gain power. This contract binds the patron, in a literal sense, with demonic essence that affects their genetic makeup. This binding affects males and females differently. Demons will only agree to the contract if the user is magically gifted. 
+	
+*Note scribbled at the bottom of the first page* This script is not clear on exactly what the demon gets out of the agreement... use with caution.
+
+This arcane script is incomplete and does not explain the full contract process; the result might not immediately provide full access to all abilities.</Torn_BookOfDemons.description>
+  <Torn_BookOfEarth.comps.0.useLabel>Read</Torn_BookOfEarth.comps.0.useLabel>
+  <Torn_BookOfEarth.label>Torn Script: Geomancy</Torn_BookOfEarth.label>
+  <Torn_BookOfEarth.description>Teaches a gifted pawn to combine physical law, elements, and the arcane.
+This arcane script is incomplete and the reader may not be able to learn some, or any, geomancer abilities.</Torn_BookOfEarth.description>
+  <Torn_BookOfMagitech.comps.0.useLabel>Read</Torn_BookOfMagitech.comps.0.useLabel>
+  <Torn_BookOfMagitech.label>Torn Script: Technomancy</Torn_BookOfMagitech.label>
+  <Torn_BookOfMagitech.description>Teaches a gifted pawn in the ways of the Technomancer, able to see the connection between science and magic.
+This arcane script is incomplete and the reader will not learn any supporting technomancer abilities, but may still select their primary technomancy path.</Torn_BookOfMagitech.description>
+  <Torn_BookOfHemomancy.comps.0.useLabel>Read</Torn_BookOfHemomancy.comps.0.useLabel>
+  <Torn_BookOfHemomancy.label>Torn Script: Hemomancy</Torn_BookOfHemomancy.label>
+  <Torn_BookOfHemomancy.description>Teaches a gifted pawn how to become a hemomancer, or blood mage, and use the power of blood to fuel their magic.
+This arcane script is incomplete and the reader may not be able to learn some, or any, blood mage abilities.</Torn_BookOfHemomancy.description>
+  <Torn_BookOfEnchanter.comps.0.useLabel>Read</Torn_BookOfEnchanter.comps.0.useLabel>
+  <Torn_BookOfEnchanter.label>Torn Script: Enchanter</Torn_BookOfEnchanter.label>
+  <Torn_BookOfEnchanter.description>Teaches a gifted pawn how to become an enchanter, able to manipulate matter and material to serve their purpose.
+This arcane script is incomplete and the reader may not be able to learn some, or any, enchanter abilities.</Torn_BookOfEnchanter.description>
+  <Torn_BookOfChronomancer.comps.0.useLabel>Read</Torn_BookOfChronomancer.comps.0.useLabel>
+  <Torn_BookOfChronomancer.label>Torn Script: Chronomancy</Torn_BookOfChronomancer.label>
+  <Torn_BookOfChronomancer.description>Teaches a gifted pawn how to become a chronomancer, able to see and manipulate realities across time.
+This arcane script is incomplete and the reader may not be able to learn some, or any, chronomancer abilities.</Torn_BookOfChronomancer.description>
+  <Torn_BookOfChaos.comps.0.useLabel>Read</Torn_BookOfChaos.comps.0.useLabel>
+  <Torn_BookOfChaos.label>Torn Script: Chaos</Torn_BookOfChaos.label>
+  <Torn_BookOfChaos.description>Teaches a gifted pawn chaos tradition.</Torn_BookOfChaos.description>
+  <Torn_BookOfTheSun.comps.0.useLabel>Read</Torn_BookOfTheSun.comps.0.useLabel>
+  <Torn_BookOfTheSun.label>Torn Script: Brightmage</Torn_BookOfTheSun.label>
+  <Torn_BookOfTheSun.description>Teaches a gifted pawn how to become a brightmage. Brightmages manipulate the power of sunlight to create intense, destructive magic.</Torn_BookOfTheSun.description>
+  <Torn_BookOfShamanism.comps.0.useLabel>Read</Torn_BookOfShamanism.comps.0.useLabel>
+  <Torn_BookOfShamanism.label>Torn Script: Shaman</Torn_BookOfShamanism.label>
+  <Torn_BookOfShamanism.description>Teaches a gifted pawn how to become a shaman; a tribal leader focused on ritualistic magic to create powerful curses and enchantments, and extends their influence through totems.</Torn_BookOfShamanism.description>
+  <BookOfInnerFire.comps.0.useLabel>Read</BookOfInnerFire.comps.0.useLabel>
+  <BookOfInnerFire.label>Arcane Tome: Fire</BookOfInnerFire.label>
+  <BookOfInnerFire.description>Teaches a gifted pawn how to harness elements of fire.</BookOfInnerFire.description>
+  <BookOfHeartOfFrost.comps.0.useLabel>Read</BookOfHeartOfFrost.comps.0.useLabel>
+  <BookOfHeartOfFrost.label>Arcane Tome: Ice</BookOfHeartOfFrost.label>
+  <BookOfHeartOfFrost.description>Teaches a gifted pawn how to harness elemental ice and water.</BookOfHeartOfFrost.description>
+  <BookOfStormBorn.comps.0.useLabel>Read</BookOfStormBorn.comps.0.useLabel>
+  <BookOfStormBorn.label>Arcane Tome: Lightning</BookOfStormBorn.label>
+  <BookOfStormBorn.description>Teaches a gifted pawn how to harness elements of lightning.</BookOfStormBorn.description>
+  <BookOfArcanist.comps.0.useLabel>Read</BookOfArcanist.comps.0.useLabel>
+  <BookOfArcanist.label>Arcane Tome: Power</BookOfArcanist.label>
+  <BookOfArcanist.description>Teaches a gifted pawn how to harness arcane powers.</BookOfArcanist.description>
+  <BookOfValiant.comps.0.useLabel>Read</BookOfValiant.comps.0.useLabel>
+  <BookOfValiant.label>Divine Tome: Paladin</BookOfValiant.label>
+  <BookOfValiant.description>Teaches a gifted pawn how to become a Paladin.</BookOfValiant.description>
+  <BookOfSummoner.comps.0.useLabel>Read</BookOfSummoner.comps.0.useLabel>
+  <BookOfSummoner.label>Arcane Tome: Summoning</BookOfSummoner.label>
+  <BookOfSummoner.description>Teaches a gifted pawn how to become a Summoner.</BookOfSummoner.description>
+  <BookOfDruid.comps.0.useLabel>Read</BookOfDruid.comps.0.useLabel>
+  <BookOfDruid.label>Arcane Tome: Nature</BookOfDruid.label>
+  <BookOfDruid.description>Teaches a gifted pawn how to become a Druid.</BookOfDruid.description>
+  <BookOfNecromancer.comps.0.useLabel>Read</BookOfNecromancer.comps.0.useLabel>
+  <BookOfNecromancer.label>Arcane Tome: Necromancer</BookOfNecromancer.label>
+  <BookOfNecromancer.description>Teaches a gifted pawn how to become a Necromancer. *Note: The necromancer may become a lich at a later stage, lichs are incapable of all activity except fighting and research. Many other magic classes dislike necromancers. Choose carefully.</BookOfNecromancer.description>
+  <BookOfPriest.comps.0.useLabel>Read</BookOfPriest.comps.0.useLabel>
+  <BookOfPriest.label>Arcane Tome: Priest</BookOfPriest.label>
+  <BookOfPriest.description>Teaches a gifted pawn how to become a Priest. Priests are incapable of violence and these skills will be disabled.</BookOfPriest.description>
+  <BookOfBard.comps.0.useLabel>Read</BookOfBard.comps.0.useLabel>
+  <BookOfBard.label>Arcane Tome: Bard</BookOfBard.label>
+  <BookOfBard.description>Teaches a gifted pawn how to become a Bard. Bards are incapable of dumb labor and this work type will be disabled.</BookOfBard.description>
+  <BookOfDemons.comps.0.useLabel>Read</BookOfDemons.comps.0.useLabel>
+  <BookOfDemons.label>Arcane Tome: Demonology</BookOfDemons.label>
+  <BookOfDemons.description>Details the process to enter an agreement with a demon to gain power. This contract binds the patron, in a literal sense, with demonic essence that affects their genetic makeup. This binding affects males and females differently. Demons will only agree to the contract if the user is magically gifted. 
+	
+*Note scribbled at the bottom of the first page* This script is not clear on exactly what the demon gets out of the agreement... use with caution.</BookOfDemons.description>
+  <BookOfEarth.comps.0.useLabel>Read</BookOfEarth.comps.0.useLabel>
+  <BookOfEarth.label>Arcane Tome: Earth</BookOfEarth.label>
+  <BookOfEarth.description>Teaches a gifted pawn mastery of the earth, combining and altering physical laws and its elements with the arcane.</BookOfEarth.description>
+  <BookOfMagitech.comps.0.useLabel>Read</BookOfMagitech.comps.0.useLabel>
+  <BookOfMagitech.label>Arcane Tome: Technomancy</BookOfMagitech.label>
+  <BookOfMagitech.description>Teaches a gifted pawn in the ways of the Technomancer, able to see the connection between science and magic.</BookOfMagitech.description>
+  <BookOfHemomancy.comps.0.useLabel>Read</BookOfHemomancy.comps.0.useLabel>
+  <BookOfHemomancy.label>Arcane Tome: Hemomancy</BookOfHemomancy.label>
+  <BookOfHemomancy.description>Teaches a gifted pawn how to become a hemomancer, or blood mage, and use the power of blood to fuel their magic.</BookOfHemomancy.description>
+  <BookOfEnchanter.comps.0.useLabel>Read</BookOfEnchanter.comps.0.useLabel>
+  <BookOfEnchanter.label>Arcane Tome: Enchanter</BookOfEnchanter.label>
+  <BookOfEnchanter.description>Teaches a gifted pawn how to become an enchanter, able to manipulate matter and material to serve their purpose.</BookOfEnchanter.description>
+  <BookOfChronomancer.comps.0.useLabel>Read</BookOfChronomancer.comps.0.useLabel>
+  <BookOfChronomancer.label>Arcane Tome: Chronomancer</BookOfChronomancer.label>
+  <BookOfChronomancer.description>Teaches a gifted pawn how to become a chronomancer, able to see and manipulate realities across time.</BookOfChronomancer.description>
+  <BookOfChaos.comps.0.useLabel>Read</BookOfChaos.comps.0.useLabel>
+  <BookOfChaos.label>Arcane Tome: Chaos Mage</BookOfChaos.label>
+  <BookOfChaos.description>Teaches a gifted pawn how to become a chaos mage - adaptable to any and all classes of magic.</BookOfChaos.description>
+  <BookOfTheSun.comps.0.useLabel>Read</BookOfTheSun.comps.0.useLabel>
+  <BookOfTheSun.label>Arcane Tome: Brightmage</BookOfTheSun.label>
+  <BookOfTheSun.description>Teaches a gifted pawn how to become a brightmage. Brightmages manipulate the power of sunlight to create intense, destructive magic.</BookOfTheSun.description>
+  <BookOfShamanism.comps.0.useLabel>Read</BookOfShamanism.comps.0.useLabel>
+  <BookOfShamanism.label>Arcane Tome: Shaman</BookOfShamanism.label>
+  <BookOfShamanism.description>Teaches a gifted pawn how to become a shaman; a tribal leader focused on ritualistic magic to create powerful curses and enchantments, and extends their influence through totems.</BookOfShamanism.description>
+  <BookOfGladiator.comps.0.useLabel>Read</BookOfGladiator.comps.0.useLabel>
+  <BookOfGladiator.label>Combat Form: Gladiator</BookOfGladiator.label>
+  <BookOfGladiator.description>Teaches a physically adept pawn how to train in the Gladiator combat form.</BookOfGladiator.description>
+  <BookOfPsionic.comps.0.useLabel>Read</BookOfPsionic.comps.0.useLabel>
+  <BookOfPsionic.label>Combat Power: Psionic</BookOfPsionic.label>
+  <BookOfPsionic.description>Teaches a physically adept pawn how to harness psionic power.
+
+*there is a footnote at the bottom of the page etched in charcoal: "seems only those with high psychic sensitivity can learn to manipulate psionic energy... either that or find a way to jump start psychic activity"</BookOfPsionic.description>
+  <BookOfFaceless.comps.0.useLabel>Read</BookOfFaceless.comps.0.useLabel>
+  <BookOfFaceless.label>Combat Form: Faceless</BookOfFaceless.label>
+  <BookOfFaceless.description>Teaches a physically adept pawn how to adapt their form and fighting style to any situation.</BookOfFaceless.description>
+  <BookOfSniper.comps.0.useLabel>Read</BookOfSniper.comps.0.useLabel>
+  <BookOfSniper.label>Combat Style: Sniper</BookOfSniper.label>
+  <BookOfSniper.description>Teaches a physically adept pawn how to train as a sniper.</BookOfSniper.description>
+  <BookOfBladedancer.comps.0.useLabel>Read</BookOfBladedancer.comps.0.useLabel>
+  <BookOfBladedancer.label>Combat Style: Bladedancer</BookOfBladedancer.label>
+  <BookOfBladedancer.description>Teaches a physically adept pawn how to train as a Bladedancer</BookOfBladedancer.description>
+  <BookOfRanger.comps.0.useLabel>Read</BookOfRanger.comps.0.useLabel>
+  <BookOfRanger.label>Combat Style: Ranger</BookOfRanger.label>
+  <BookOfRanger.description>Teaches a physically adept pawn how to train as a Ranger</BookOfRanger.description>
+  <BookOfDeathKnight.comps.0.useLabel>Read</BookOfDeathKnight.comps.0.useLabel>
+  <BookOfDeathKnight.label>Combat Style: Death Knight</BookOfDeathKnight.label>
+  <BookOfDeathKnight.description>Teaches a physically adept pawn to embrace the inevitable and become a death knight.</BookOfDeathKnight.description>
+  <BookOfMonk.comps.0.useLabel>Read</BookOfMonk.comps.0.useLabel>
+  <BookOfMonk.label>Combat Style: Monk</BookOfMonk.label>
+  <BookOfMonk.description>Teaches a physically adept pawn to hone their mind and body into a lethal weapon.</BookOfMonk.description>
+  <BookOfCommander.comps.0.useLabel>Read</BookOfCommander.comps.0.useLabel>
+  <BookOfCommander.label>Combat Style: Commander</BookOfCommander.label>
+  <BookOfCommander.description>Teaches a physically adept pawn how to become a charismatic leader.</BookOfCommander.description>
+  <BookOfSuperSoldier.comps.0.useLabel>Inject</BookOfSuperSoldier.comps.0.useLabel>
+  <BookOfSuperSoldier.label>Serum: Super Soldier</BookOfSuperSoldier.label>
+  <BookOfSuperSoldier.description>Inject a pawn with a serum that enhances their physical abilities. Incapacitates a pawn for a couple days while the serum takes affect and develops over several stages. The serum takes about 100 days to fully develop. Any pawn may take SS Serum, but only physically adept pawns may acquire the Super Soldier trait. This serum will reduce magical potency and potential.</BookOfSuperSoldier.description>
+  <BookOfShadow.comps.0.useLabel>Read</BookOfShadow.comps.0.useLabel>
+  <BookOfShadow.label>Arcane Tome: Shadow</BookOfShadow.label>
+  <BookOfShadow.description>In the dead of night, fear reveals itself in the blade's reflection - the shadow awakens.</BookOfShadow.description>
+  <SpellOf_ArcaneBolt.comps.0.useLabel>Read</SpellOf_ArcaneBolt.comps.0.useLabel>
+  <SpellOf_ArcaneBolt.label>Mage Spell: Arcane Bolt</SpellOf_ArcaneBolt.label>
+  <SpellOf_ArcaneBolt.description>Teaches a magic user how to forcefully project arcane energy.</SpellOf_ArcaneBolt.description>
+  <SpellOf_Blink.comps.0.useLabel>Read</SpellOf_Blink.comps.0.useLabel>
+  <SpellOf_Blink.label>Mage Spell: Blink</SpellOf_Blink.label>
+  <SpellOf_Blink.description>Teaches a magic user how arcane forces are interconnected, allowing the mage to rapidly move short distances.</SpellOf_Blink.description>
+  <SpellOf_Blur.comps.0.useLabel>Read</SpellOf_Blur.comps.0.useLabel>
+  <SpellOf_Blur.label>Mage Spell: Blur</SpellOf_Blur.label>
+  <SpellOf_Blur.description>Teaches a magic user how to distort the light around their body.</SpellOf_Blur.description>
+  <SpellOf_Cooler.comps.0.useLabel>Read</SpellOf_Cooler.comps.0.useLabel>
+  <SpellOf_Cooler.label>Mage Spell: Magic Cooler</SpellOf_Cooler.label>
+  <SpellOf_Cooler.description>Teaches an arcane user how to create a temporary window into the plane of ice, creating a temporary cooling source.</SpellOf_Cooler.description>
+  <SpellOf_DirtDevil.comps.0.useLabel>Read</SpellOf_DirtDevil.comps.0.useLabel>
+  <SpellOf_DirtDevil.label>Mage Spell: Dirt Devil</SpellOf_DirtDevil.label>
+  <SpellOf_DirtDevil.description>Teaches a magic user how to create a whirlwind that seeks out and cleans filth inside the home area.</SpellOf_DirtDevil.description>
+  <SpellOf_EMP.comps.0.useLabel>Read</SpellOf_EMP.comps.0.useLabel>
+  <SpellOf_EMP.label>Mage Spell: EMP</SpellOf_EMP.label>
+  <SpellOf_EMP.description>Teaches a magic user how to generate an EMP burst at a target location.</SpellOf_EMP.description>
+  <SpellOf_Extinguish.comps.0.useLabel>Read</SpellOf_Extinguish.comps.0.useLabel>
+  <SpellOf_Extinguish.label>Mage Spell: Extinguish</SpellOf_Extinguish.label>
+  <SpellOf_Extinguish.description>Teaches a magic user how to remove the element of fire at a target location, dispersing fires.</SpellOf_Extinguish.description>
+  <SpellOf_Heal.comps.0.useLabel>Read</SpellOf_Heal.comps.0.useLabel>
+  <SpellOf_Heal.label>Mage Spell: Heal</SpellOf_Heal.label>
+  <SpellOf_Heal.description>Teaches a magic user how to delicately manipulate arcane forces to heal injuries.</SpellOf_Heal.description>
+  <SpellOf_Heater.comps.0.useLabel>Read</SpellOf_Heater.comps.0.useLabel>
+  <SpellOf_Heater.label>Mage Spell: Magic Heater</SpellOf_Heater.label>
+  <SpellOf_Heater.description>Teaches a magic user how to create a temporary window into the plane of fire, creating a temporary heat source.</SpellOf_Heater.description>
+  <SpellOf_Ignite.comps.0.useLabel>Read</SpellOf_Ignite.comps.0.useLabel>
+  <SpellOf_Ignite.label>Mage Spell: Ignite</SpellOf_Ignite.label>
+  <SpellOf_Ignite.description>Teaches a magic user how to concentrate heat at a target location.</SpellOf_Ignite.description>
+  <SpellOf_MageLight.comps.0.useLabel>Read</SpellOf_MageLight.comps.0.useLabel>
+  <SpellOf_MageLight.label>Mage Spell: Mage Light</SpellOf_MageLight.label>
+  <SpellOf_MageLight.description>Teaches a magic user how to create a small orb of light.</SpellOf_MageLight.description>
+  <SpellOf_PowerNode.comps.0.useLabel>Read</SpellOf_PowerNode.comps.0.useLabel>
+  <SpellOf_PowerNode.label>Mage Spell: Power Node</SpellOf_PowerNode.label>
+  <SpellOf_PowerNode.description>Teaches a magic user how to create a contained power node that converts arcane energy into electrical power. Place next to existing power grid. Supplies 600 power.</SpellOf_PowerNode.description>
+  <SpellOf_Rain.comps.0.useLabel>Read</SpellOf_Rain.comps.0.useLabel>
+  <SpellOf_Rain.label>Mage Spell: Rain</SpellOf_Rain.label>
+  <SpellOf_Rain.description>Teaches a magic user how to harness energy in the atmosphere to induce a brief rain.</SpellOf_Rain.description>
+  <SpellOf_SnapFreeze.comps.0.useLabel>Read</SpellOf_SnapFreeze.comps.0.useLabel>
+  <SpellOf_SnapFreeze.label>Mage Spell: Snap Freeze</SpellOf_SnapFreeze.label>
+  <SpellOf_SnapFreeze.description>Teaches a magic user how to remove all heat at a target location.</SpellOf_SnapFreeze.description>
+  <SpellOf_SmokeCloud.comps.0.useLabel>Read</SpellOf_SmokeCloud.comps.0.useLabel>
+  <SpellOf_SmokeCloud.label>Mage Spell: Smoke Cloud</SpellOf_SmokeCloud.label>
+  <SpellOf_SmokeCloud.description>Teaches a magic user how to ignite particles in the air to create a smokescreen, temporarily concealing a target area.</SpellOf_SmokeCloud.description>
+  <SpellOf_Sunlight.comps.0.useLabel>Read</SpellOf_Sunlight.comps.0.useLabel>
+  <SpellOf_Sunlight.label>Mage Spell: Sun Light</SpellOf_Sunlight.label>
+  <SpellOf_Sunlight.description>Teaches a magic user how to create a dimensional pocket that emits a steady stream of sunlight strong enough to grow plants. Sun Light must be sustained by the mage that creates it and will reduce maximum mana and mana regeneration rate.</SpellOf_Sunlight.description>
+  <SpellOf_ChargeBattery.comps.0.useLabel>Read</SpellOf_ChargeBattery.comps.0.useLabel>
+  <SpellOf_ChargeBattery.label>Lightning Spell: Charge Battery</SpellOf_ChargeBattery.label>
+  <SpellOf_ChargeBattery.description>Teaches a lightning mage how to charge a battery by infusing it with magical energy.
+Produces 400Wd adjusted by ability power.</SpellOf_ChargeBattery.description>
+  <SpellOf_CauterizeWound.comps.0.useLabel>Read</SpellOf_CauterizeWound.comps.0.useLabel>
+  <SpellOf_CauterizeWound.label>Fire Spell: Cauterize Wound</SpellOf_CauterizeWound.label>
+  <SpellOf_CauterizeWound.description>Teaches a fire mage how to use elemental fire to instantly clean and close wounds - may leave burn scars.</SpellOf_CauterizeWound.description>
+  <SpellOf_DryGround.comps.0.useLabel>Read</SpellOf_DryGround.comps.0.useLabel>
+  <SpellOf_DryGround.label>Fire Spell: Dry Ground</SpellOf_DryGround.label>
+  <SpellOf_DryGround.description>Teaches a fire mage how to infuse the earth with heat, evaporating most of the water from a small patch of earth.</SpellOf_DryGround.description>
+  <SpellOf_WetGround.comps.0.useLabel>Read</SpellOf_WetGround.comps.0.useLabel>
+  <SpellOf_WetGround.label>Ice Spell: Moisturize Ground</SpellOf_WetGround.label>
+  <SpellOf_WetGround.description>Teaches an ice mage how to infuse the earth with moisture and nutrients, transforming sand into usable soil.</SpellOf_WetGround.description>
+  <SpellOf_Invisibility.comps.0.useLabel>Read</SpellOf_Invisibility.comps.0.useLabel>
+  <SpellOf_Invisibility.label>Mage Spell: Invisibility</SpellOf_Invisibility.label>
+  <SpellOf_Invisibility.description>Teaches a magic user how to manipulate light and become invisible.</SpellOf_Invisibility.description>
+  <SpellOf_LightningTrap.comps.0.useLabel>Read</SpellOf_LightningTrap.comps.0.useLabel>
+  <SpellOf_LightningTrap.label>Mage Spell: Lightning Trap</SpellOf_LightningTrap.label>
+  <SpellOf_LightningTrap.description>Teaches a magic user how to create a trap that discharges bolts of lightning.</SpellOf_LightningTrap.description>
+  <SpellOf_ManaShield.comps.0.useLabel>Read</SpellOf_ManaShield.comps.0.useLabel>
+  <SpellOf_ManaShield.label>Mage Spell: Mana Shield</SpellOf_ManaShield.label>
+  <SpellOf_ManaShield.description>Teaches a magic user how to form a protective mana barrier to prevent physical harm.</SpellOf_ManaShield.description>
+  <SpellOf_SpellMending.comps.0.useLabel>Read</SpellOf_SpellMending.comps.0.useLabel>
+  <SpellOf_SpellMending.label>Mage Spell: Spell Mending</SpellOf_SpellMending.label>
+  <SpellOf_SpellMending.description>Teaches a magic user how to reconstruct and repair worn equipment on a pawn.</SpellOf_SpellMending.description>
+  <SpellOf_SiphonMana.comps.0.useLabel>Read</SpellOf_SiphonMana.comps.0.useLabel>
+  <SpellOf_SiphonMana.label>Mage Spell: Siphon Mana</SpellOf_SiphonMana.label>
+  <SpellOf_SiphonMana.description>Teaches a magic user how to siphon mana from another mage.  If used on a being that does not possess mana, their physical traits will be drained instead (no mana will be gained).  Effect is potentially lethal in extreme cases.</SpellOf_SiphonMana.description>
+  <SpellOf_SummonMinion.comps.0.useLabel>Read</SpellOf_SummonMinion.comps.0.useLabel>
+  <SpellOf_SummonMinion.label>Mage Spell: Summon Minion</SpellOf_SummonMinion.label>
+  <SpellOf_SummonMinion.description>Teaches a magic user how to summon an otherworldly minion to assist in basic tasks.</SpellOf_SummonMinion.description>
+  <SpellOf_Teleport.comps.0.useLabel>Read</SpellOf_Teleport.comps.0.useLabel>
+  <SpellOf_Teleport.label>Mage Spell: Teleport</SpellOf_Teleport.label>
+  <SpellOf_Teleport.description>Teaches a magic user how to manipulate energy using arcane dimensions, allowing the mage to create a portal for rapid transport.</SpellOf_Teleport.description>
+  <SpellOf_TransferMana.comps.0.useLabel>Read</SpellOf_TransferMana.comps.0.useLabel>
+  <SpellOf_TransferMana.label>Mage Spell: Transfer Mana</SpellOf_TransferMana.label>
+  <SpellOf_TransferMana.description>Teaches a magic user how to transfer mana to another mage.  If raw mana is infused into a non-mage recepient, their physical traits will be temporarily augmented.</SpellOf_TransferMana.description>
+  <SpellOf_BlankMind.comps.0.useLabel>Read</SpellOf_BlankMind.comps.0.useLabel>
+  <SpellOf_BlankMind.label>Enchanter Spell: Blank Mind</SpellOf_BlankMind.label>
+  <SpellOf_BlankMind.description>Teaches an enchanter how to wipe memories and break a pawn out of a mental state or cause a long duration stun on enemies.</SpellOf_BlankMind.description>
+  <SpellOf_BriarPatch.comps.0.useLabel>Read</SpellOf_BriarPatch.comps.0.useLabel>
+  <SpellOf_BriarPatch.label>Druid Spell: Briar Patch</SpellOf_BriarPatch.label>
+  <SpellOf_BriarPatch.description>Teaches a Druid how to rapidly grow a hazard made of thorny vines.</SpellOf_BriarPatch.description>
+  <SpellOf_FertileLands.comps.0.useLabel>Read</SpellOf_FertileLands.comps.0.useLabel>
+  <SpellOf_FertileLands.label>Druid Spell: Fertile Lands</SpellOf_FertileLands.label>
+  <SpellOf_FertileLands.description>Teaches a druid how to bless an area of land with fertile growth.</SpellOf_FertileLands.description>
+  <SpellOf_MechaniteReprogramming.comps.0.useLabel>Read</SpellOf_MechaniteReprogramming.comps.0.useLabel>
+  <SpellOf_MechaniteReprogramming.label>Technomancer Spell: Mechanite Reprogramming</SpellOf_MechaniteReprogramming.label>
+  <SpellOf_MechaniteReprogramming.description>Teaches a technomancer how to reprogramming fibrous or sensory mechanites in a way that enhances the attributes of the host.</SpellOf_MechaniteReprogramming.description>
+  <SpellOf_Overdrive.comps.0.useLabel>Read</SpellOf_Overdrive.comps.0.useLabel>
+  <SpellOf_Overdrive.label>Technomancer Spell: Overdrive</SpellOf_Overdrive.label>
+  <SpellOf_Overdrive.description>Teaches a technomancer user how to over-clock or bypass security features of mechanical, electrical, and robotic devices causing it to perform at a drastically increased rate for a short period.</SpellOf_Overdrive.description>
+  <SpellOf_Sabotage.comps.0.useLabel>Read</SpellOf_Sabotage.comps.0.useLabel>
+  <SpellOf_Sabotage.label>Technomancer Spell: Sabotage</SpellOf_Sabotage.label>
+  <SpellOf_Sabotage.description>Teaches a technomancer user how to create a feedback loop in almost any mechanic system, causing it to catastrophically malfunction.</SpellOf_Sabotage.description>
+  <SpellOf_TechnoShield.comps.0.useLabel>Read</SpellOf_TechnoShield.comps.0.useLabel>
+  <SpellOf_TechnoShield.label>Technomancer Spell: Kinetic Shield</SpellOf_TechnoShield.label>
+  <SpellOf_TechnoShield.description>Teaches a technomancer user how to create a uni-directional force field around a target, capable of repelling inbound projectiles or increasing the velocity of outbound projectiles.</SpellOf_TechnoShield.description>
+  <SpellOf_BattleHymn.comps.0.useLabel>Read</SpellOf_BattleHymn.comps.0.useLabel>
+  <SpellOf_BattleHymn.label>Bard Spell: Battle Hymn</SpellOf_BattleHymn.label>
+  <SpellOf_BattleHymn.description>Teaches a bard how to perform Battle Hymn.</SpellOf_BattleHymn.description>
+  <SpellOf_Blizzard.comps.0.useLabel>Read</SpellOf_Blizzard.comps.0.useLabel>
+  <SpellOf_Blizzard.label>Ice Spell: Blizzard</SpellOf_Blizzard.label>
+  <SpellOf_Blizzard.description>Teaches an ice mage how to call forth a blizzard to bury your foes in a hail of ice and snow.</SpellOf_Blizzard.description>
+  <SpellOf_BloodMoon.comps.0.useLabel>Read</SpellOf_BloodMoon.comps.0.useLabel>
+  <SpellOf_BloodMoon.label>Blood Mage Spell: Blood Moon</SpellOf_BloodMoon.label>
+  <SpellOf_BloodMoon.description>Teaches a blood mage how to summon a vicious pack of blood demons.</SpellOf_BloodMoon.description>
+  <SpellOf_EyeOfTheStorm.comps.0.useLabel>Read</SpellOf_EyeOfTheStorm.comps.0.useLabel>
+  <SpellOf_EyeOfTheStorm.label>Lightning Spell: Eye of the Storm</SpellOf_EyeOfTheStorm.label>
+  <SpellOf_EyeOfTheStorm.description>Teaches a lightning mage how to contain the raw fury of a lightning storm into a small sphere and project it along a set path.</SpellOf_EyeOfTheStorm.description>
+  <SpellOf_Firestorm.comps.0.useLabel>Read</SpellOf_Firestorm.comps.0.useLabel>
+  <SpellOf_Firestorm.label>Fire Spell: Firestorm</SpellOf_Firestorm.label>
+  <SpellOf_Firestorm.description>Teaches a fire mage how to wield the full fury of the fire element to scorch the earth with a firestorm.</SpellOf_Firestorm.description>
+  <SpellOf_FoldReality.comps.0.useLabel>Read</SpellOf_FoldReality.comps.0.useLabel>
+  <SpellOf_FoldReality.label>Arcane Spell: Gateway</SpellOf_FoldReality.label>
+  <SpellOf_FoldReality.description>Teaches an arcane mage how to fold reality in order to open a temporary window between colonies.</SpellOf_FoldReality.description>
+  <SpellOf_GuardianSpirit.comps.0.useLabel>Read</SpellOf_GuardianSpirit.comps.0.useLabel>
+  <SpellOf_GuardianSpirit.label>Shaman Spell: Guardian Spirit</SpellOf_GuardianSpirit.label>
+  <SpellOf_GuardianSpirit.description>Teaches a shaman how to call forth their guardian spirit.</SpellOf_GuardianSpirit.description>
+  <SpellOf_HolyWrath.comps.0.useLabel>Read</SpellOf_HolyWrath.comps.0.useLabel>
+  <SpellOf_HolyWrath.label>Paladin Spell: Holy Wrath</SpellOf_HolyWrath.label>
+  <SpellOf_HolyWrath.description>Teaches a paladin how to call forth the wrath of the gods.</SpellOf_HolyWrath.description>
+  <SpellOf_LichForm.comps.0.useLabel>Read</SpellOf_LichForm.comps.0.useLabel>
+  <SpellOf_LichForm.label>Necromancer Spell: Lich Form</SpellOf_LichForm.label>
+  <SpellOf_LichForm.description>Teaches a necromancer how to transform into a lich.</SpellOf_LichForm.description>
+  <SpellOf_Meteor.comps.0.useLabel>Read</SpellOf_Meteor.comps.0.useLabel>
+  <SpellOf_Meteor.label>Geomancer Spell: Meteor</SpellOf_Meteor.label>
+  <SpellOf_Meteor.description>Teaches a geomancer how to summon a massive meteor to bury an area in rock and debris.</SpellOf_Meteor.description>
+  <SpellOf_OrbitalStrike.comps.0.useLabel>Read</SpellOf_OrbitalStrike.comps.0.useLabel>
+  <SpellOf_OrbitalStrike.label>Technomancer Spell: Orbital Strike</SpellOf_OrbitalStrike.label>
+  <SpellOf_OrbitalStrike.description>Teaches a technomancer how to access ancient satellites and orbital systems and use them to launch an orbital strike.</SpellOf_OrbitalStrike.description>
+  <SpellOf_PsychicShock.comps.0.useLabel>Read</SpellOf_PsychicShock.comps.0.useLabel>
+  <SpellOf_PsychicShock.label>Warlock Spell: Psychic Shock</SpellOf_PsychicShock.label>
+  <SpellOf_PsychicShock.description>Teaches a Warlock how to use his psychic powers to emit powerful psychic shock that overwhelms and reverberates from nearby pawn.</SpellOf_PsychicShock.description>
+  <SpellOf_Recall.comps.0.useLabel>Read</SpellOf_Recall.comps.0.useLabel>
+  <SpellOf_Recall.label>Chronomancer Spell: Recall</SpellOf_Recall.label>
+  <SpellOf_Recall.description>Teaches a chronomancer how to recall their physical being to a past condition.</SpellOf_Recall.description>
+  <SpellOf_RegrowLimb.comps.0.useLabel>Read</SpellOf_RegrowLimb.comps.0.useLabel>
+  <SpellOf_RegrowLimb.label>Druid Spell: Regrow Limb</SpellOf_RegrowLimb.label>
+  <SpellOf_RegrowLimb.description>Teaches a druid how to regrow limbs by combining nature, arcane powers, and medical science.</SpellOf_RegrowLimb.description>
+  <SpellOf_Resurrection.comps.0.useLabel>Read</SpellOf_Resurrection.comps.0.useLabel>
+  <SpellOf_Resurrection.label>Priest Spell: Resurrection</SpellOf_Resurrection.label>
+  <SpellOf_Resurrection.description>Teaches a priest how to restore the spark of life to the recently deceased.</SpellOf_Resurrection.description>
+  <SpellOf_Scorn.comps.0.useLabel>Read</SpellOf_Scorn.comps.0.useLabel>
+  <SpellOf_Scorn.label>Succubus Spell: Scorn</SpellOf_Scorn.label>
+  <SpellOf_Scorn.description>Teaches a succubus how to unleash the full malice harbored by their demon heart.</SpellOf_Scorn.description>
+  <SpellOf_Shapeshift.comps.0.useLabel>Read</SpellOf_Shapeshift.comps.0.useLabel>
+  <SpellOf_Shapeshift.label>Enchanter Spell: Shapeshift</SpellOf_Shapeshift.label>
+  <SpellOf_Shapeshift.description>Teaches an enchanter how to perform shapeshifting on themselves without losing their identity.</SpellOf_Shapeshift.description>
+  <SpellOf_SummonPoppi.comps.0.useLabel>Read</SpellOf_SummonPoppi.comps.0.useLabel>
+  <SpellOf_SummonPoppi.label>Summoner Spell: Summon Poppi</SpellOf_SummonPoppi.label>
+  <SpellOf_SummonPoppi.description>Teaches a summoner how to summon a band of cute and cuddly poppi.</SpellOf_SummonPoppi.description>
+  <SpellOf_SpiritOfLight.comps.0.useLabel>Read</SpellOf_SpiritOfLight.comps.0.useLabel>
+  <SpellOf_SpiritOfLight.label>Brightmage Spell: Spirit Of Light</SpellOf_SpiritOfLight.label>
+  <SpellOf_SpiritOfLight.description>Teaches a Brightmage how to summon a Spirit of Light.</SpellOf_SpiritOfLight.description>
+  <SkillOf_ThrowingKnife.comps.0.useLabel>Read</SkillOf_ThrowingKnife.comps.0.useLabel>
+  <SkillOf_ThrowingKnife.label>Fighter Skill: Throwing Knife</SkillOf_ThrowingKnife.label>
+  <SkillOf_ThrowingKnife.description>Teaches a fighter class the Throwing Knife skill. Non-violent pawns cannot learn this skill.</SkillOf_ThrowingKnife.description>
+  <SkillOf_BurningFury.comps.0.useLabel>Read</SkillOf_BurningFury.comps.0.useLabel>
+  <SkillOf_BurningFury.label>Fighter Skill: Burning Fury</SkillOf_BurningFury.label>
+  <SkillOf_BurningFury.description>Teaches a fighter class how to activate the Burning Fury aura. Non-violent pawns cannot learn this skill.</SkillOf_BurningFury.description>
+  <SkillOf_FightersFocus.comps.0.useLabel>Read</SkillOf_FightersFocus.comps.0.useLabel>
+  <SkillOf_FightersFocus.label>Fighter Skill: Fighters Focus</SkillOf_FightersFocus.label>
+  <SkillOf_FightersFocus.description>Teaches a fighter class how to dedicate an allotment of stamina to withstand greater mental and physical stress.</SkillOf_FightersFocus.description>
+  <SkillOf_GearRepair.comps.0.useLabel>Read</SkillOf_GearRepair.comps.0.useLabel>
+  <SkillOf_GearRepair.label>Fighter Skill: Gear Repair</SkillOf_GearRepair.label>
+  <SkillOf_GearRepair.description>Teaches a fighter class how to dedicate an allotment of stamina to maintaining and repairing worn equipment.</SkillOf_GearRepair.description>
+  <SkillOf_HeavyBlow.comps.0.useLabel>Read</SkillOf_HeavyBlow.comps.0.useLabel>
+  <SkillOf_HeavyBlow.label>Fighter Skill: Heavy Blow</SkillOf_HeavyBlow.label>
+  <SkillOf_HeavyBlow.description>Teaches a fighter class how to dedicate an allotment of stamina to increase the power of each attack.</SkillOf_HeavyBlow.description>
+  <SkillOf_InnerHealing.comps.0.useLabel>Read</SkillOf_InnerHealing.comps.0.useLabel>
+  <SkillOf_InnerHealing.label>Fighter Skill: Inner Healing</SkillOf_InnerHealing.label>
+  <SkillOf_InnerHealing.description>Teaches a fighter class how to dedicate an allotment of stamina and physical energy to increase healing rate and improve disease immunity.</SkillOf_InnerHealing.description>
+  <SkillOf_Legion.comps.0.useLabel>Read</SkillOf_Legion.comps.0.useLabel>
+  <SkillOf_Legion.label>Fighter Skill: Legion</SkillOf_Legion.label>
+  <SkillOf_Legion.description>Teaches a fighter how to replicate the combat abilities of another fighter class.</SkillOf_Legion.description>
+  <SkillOf_PommelStrike.comps.0.useLabel>Read</SkillOf_PommelStrike.comps.0.useLabel>
+  <SkillOf_PommelStrike.label>Fighter Skill: Pommel Strike</SkillOf_PommelStrike.label>
+  <SkillOf_PommelStrike.description>Teaches a fighter class how to perform a non-lethal blow to stun or knock-out a target.</SkillOf_PommelStrike.description>
+  <SkillOf_Sprint.comps.0.useLabel>Read</SkillOf_Sprint.comps.0.useLabel>
+  <SkillOf_Sprint.label>Fighter Skill: Sprint</SkillOf_Sprint.label>
+  <SkillOf_Sprint.description>Teaches a fighter class how to dedicate an allotment of stamina to sustain an increased movement rate.</SkillOf_Sprint.description>
+  <SkillOf_StrongBack.comps.0.useLabel>Read</SkillOf_StrongBack.comps.0.useLabel>
+  <SkillOf_StrongBack.label>Fighter Skill: Strong Back</SkillOf_StrongBack.label>
+  <SkillOf_StrongBack.description>Teaches a fighter class how to dedicate an allotment of stamina to increase carrying and inventory capacities.</SkillOf_StrongBack.description>
+  <SkillOf_Taunt.comps.0.useLabel>Read</SkillOf_Taunt.comps.0.useLabel>
+  <SkillOf_Taunt.label>Fighter Skill: Taunt</SkillOf_Taunt.label>
+  <SkillOf_Taunt.description>Teaches a fighter class how to taunt nearby enemies.</SkillOf_Taunt.description>
+  <SkillOf_TempestStrike.comps.0.useLabel>Read</SkillOf_TempestStrike.comps.0.useLabel>
+  <SkillOf_TempestStrike.label>Fighter Skill: Tempest Strike</SkillOf_TempestStrike.label>
+  <SkillOf_TempestStrike.description>Teaches a fighter class a technique to strike in rapid succession using their weapon.</SkillOf_TempestStrike.description>
+  <SkillOf_ThickSkin.comps.0.useLabel>Read</SkillOf_ThickSkin.comps.0.useLabel>
+  <SkillOf_ThickSkin.label>Fighter Skill: Thick Skin</SkillOf_ThickSkin.label>
+  <SkillOf_ThickSkin.description>Teaches a fighter class how to dedicate an allotment of stamina to increase armor values and temperature threshold.</SkillOf_ThickSkin.description>
+  <GemstoneOfInsight_Magic.comps.0.useLabel>Use</GemstoneOfInsight_Magic.comps.0.useLabel>
+  <GemstoneOfInsight_Magic.label>Gem of Arcane Insight</GemstoneOfInsight_Magic.label>
+  <GemstoneOfInsight_Magic.description>Imbues the user with an arcane spirit, granting them the "magically gifted" trait. 
+	
+**Note: use of this item will replace a random trait if the user has more than 7 traits and cannot be used by a pawn with existing magic or fighter traits**</GemstoneOfInsight_Magic.description>
+  <GemstoneOfInsight_Might.comps.0.useLabel>Use</GemstoneOfInsight_Might.comps.0.useLabel>
+  <GemstoneOfInsight_Might.label>Gem of Physical Insight</GemstoneOfInsight_Might.label>
+  <GemstoneOfInsight_Might.description>Imbues the user with the spirit of a warrior, granting them the "physically adept" trait.	
+
+**Note: use of this item will replace a random trait if the user has more than 7 traits and cannot be used by a pawn with existing magic or fighter traits**</GemstoneOfInsight_Might.description>
+  <TM_ElephantSpear.label>elephant spear</TM_ElephantSpear.label>
+  <TM_ElephantSpear.description>The elephant spear is crafted using the tusks of an elephant, and is typically a status symbol reserved for head hunters or leaders of a tribe. The shaft is engraved with minor enchantments, further boosting the combat abilities of the user.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +10%
+Damage Boost: +10%
+Arcane Resistance: +20%</TM_ElephantSpear.description>
+  <TM_ElephantSpear.tools.0.label>shaft</TM_ElephantSpear.tools.0.label>
+  <TM_ElephantSpear.tools.1.label>point</TM_ElephantSpear.tools.1.label>
+  <TM_ElephantSpear.tools.2.label>slash</TM_ElephantSpear.tools.2.label>
+  <TM_ElephantTusk.label>elephant tusk</TM_ElephantTusk.label>
+  <TM_ElephantTusk.description>This elephant tusk has been fashioned into a long knife useful in close combat for both piercing and slashing attacks. The hilt is wrapped in leather to and has a small counter-balance to improve handling, and the light weight of the blade allow for quick attacks. However, the low weight and softer blade make it a poor choice against a heavily armored opponent.</TM_ElephantTusk.description>
+  <TM_ElephantTusk.tools.0.label>handle</TM_ElephantTusk.tools.0.label>
+  <TM_ElephantTusk.tools.1.label>point</TM_ElephantTusk.tools.1.label>
+  <TM_ElephantTusk.tools.2.label>edge</TM_ElephantTusk.tools.2.label>
+  <Projectile_ElephantBow.label>Elephant bow bolt</Projectile_ElephantBow.label>
+  <TM_ElephantBow.label>Elephant Bow</TM_ElephantBow.label>
+  <TM_ElephantBow.description>A bow shaped from elephant tusks. The tusks are hallowed out to decrease rigidity and reduce weight and softened by soaking it in a magicyte compound that increases suppleness. The elephant bow offers significant improvements in range and accuracy for distant targets over the greatbow, though it is slightly more difficult to handle.
+	
+The elephant bow is engraved with minor enchantments and is a preferred weapon by many experienced rangers and hunters.
+
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +5%
+Energy Regen: +5%
+Damage Boost: +10%
+Ability Cooldown: -10%</TM_ElephantBow.description>
+  <TM_ElephantBow.tools.0.label>limb</TM_ElephantBow.tools.0.label>
+  <TM_ThrumboAxe.label>thrumbo axe</TM_ThrumboAxe.label>
+  <TM_ThrumboAxe.description>An axe crafted using thrumbo horns that are fused together with a clasp made from magicyte. This clasp stores arcane potential and transfers it as physical force when the axe is swung, allowing it to deliver mighty blows capable of cleaving through multiple opponents. The shaft is also etched with magical runes to augment the wielder's power.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +10%
+Damage Boost: +20%
+Arcane Resistance: +30%
+Cleaving Strike</TM_ThrumboAxe.description>
+  <TM_ThrumboAxe.tools.0.label>handle</TM_ThrumboAxe.tools.0.label>
+  <TM_ThrumboAxe.tools.1.label>cleave</TM_ThrumboAxe.tools.1.label>
+  <TM_ThrumboAxe.tools.2.label>horns</TM_ThrumboAxe.tools.2.label>
+  <TM_ThrumboSaber.label>thrumbo saber</TM_ThrumboSaber.label>
+  <TM_ThrumboSaber.description>A razor sharp blade forged from the horn of a thrumbo and infused with arcane energy. The thrumbo saber is lighter than metal blades and it's edge can cut through all but the thickest armor. Many masters of the blade favor this weapon as it is designed for speed and lethality. Further enchantments may also quicken the users, doubling their attack rate for a short period.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Ability Cooldown: -10%
+Damage Boost: +10%
+Haste on hit (25%)</TM_ThrumboSaber.description>
+  <TM_ThrumboSaber.tools.0.label>pommel</TM_ThrumboSaber.tools.0.label>
+  <TM_ThrumboSaber.tools.1.label>stab</TM_ThrumboSaber.tools.1.label>
+  <TM_ThrumboSaber.tools.2.label>edge</TM_ThrumboSaber.tools.2.label>
+  <TM_Ruunbled.label>Ruunbled</TM_Ruunbled.label>
+  <TM_Ruunbled.description>This a massive blade is etched in intricate runes from hilt to tip. It is forged in a material unknown to you, with a razor sharp edge and weighing only a fraction of what the size infers. Despite its size, the weapon is easy to handle, and practically hums with power. You can only fathom the origins of this weapon - perhaps crafted in ancient technologies that were lost to time or fabricated with some mysterious power. The only hint is small word written in a stylish script and imprinted into the hilt with the name "Ruunbled." You are not sure if this is a manufacturing company, the name of its maker, or the name of the blade itself. Whichever it is, there is no doubt that this weapon represents the pinnacle of its class.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Ability Cooldown: -20%
+Energy Costs: -20%
+Damage Boost: +25%
+Arcane Resistance: +25%
+Haste on hit (20%)
+Deflection (30%)
+Cleaving Strike</TM_Ruunbled.description>
+  <TM_Ruunbled.tools.0.label>pommel</TM_Ruunbled.tools.0.label>
+  <TM_Ruunbled.tools.1.label>stab</TM_Ruunbled.tools.1.label>
+  <TM_Ruunbled.tools.2.label>edge</TM_Ruunbled.tools.2.label>
+  <Projectile_ThrumArrow.label>Thrum bow bolt</Projectile_ThrumArrow.label>
+  <TM_ThrumBow.label>Thrum Bow</TM_ThrumBow.label>
+  <TM_ThrumBow.description>A bow shaped from the horn of a Thrumbo. The horn is hallowed out to decrease the weight and softened by soaking it in a magicyte compound that adds a surprising suppleness to the horn. The bow is further enhanced with embedded enchantments and arcane engravings that travel the length of the bow. The bow is said to be almost sentient, able to determine the intended target through a mental link with the wielder. Arrows fired from this bow almost always hit their intended target. This effect does have a tendency to delude the users own capability, however.
+
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +20%
+Energy Regen: +10%
+Damage Boost: +20%
+Ability Cooldown: -10%
+Class XP Gain: -20%</TM_ThrumBow.description>
+  <TM_ThrumBow.tools.0.label>limb</TM_ThrumBow.tools.0.label>
+  <TM_DemonFang.label>demon's fang</TM_DemonFang.label>
+  <TM_DemonFang.description>A deadly short blade that can inflict nightshade toxin. The Demon's Fang is light-weight with quick attacks and will benefit from the type of material used in it's crafting. However, the raw damage of this weapon is lower than other high-tier weapons. Due to the nature of it's crafting, it does benefit from several hefty enchantments that will augment it's user's skills.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -10%
+Ability Cooldown: -15%
+Damage Boost: +25%
+Nightshade Toxin on hit (20%)</TM_DemonFang.description>
+  <TM_DemonFang.tools.0.label>stab</TM_DemonFang.tools.0.label>
+  <TM_DemonFang.tools.1.label>edge</TM_DemonFang.tools.1.label>
+  <Projectile_FireWand.label>fire wand</Projectile_FireWand.label>
+  <TM_FireWand.label>Wand of Fire</TM_FireWand.label>
+  <TM_FireWand.description>A wand able to slowly convert nearby arcane energy into elemental fire. Wands are used as focusing tools to harness innate power more than as a weapon itself.
+	
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +5%
+Energy Regen: +5%
+Damage Boost: +15%</TM_FireWand.description>
+  <TM_FireWand.tools.0.label>wand</TM_FireWand.tools.0.label>
+  <Projectile_IceWand.label>ice wand</Projectile_IceWand.label>
+  <TM_IceWand.label>Wand of Ice</TM_IceWand.label>
+  <TM_IceWand.description>A wand able to slowly convert nearby arcane energy into elemental ice. Wands are used as focusing tools to harness innate power more than as a weapon itself.
+	
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +5%
+Energy Regen: +5%
+Damage Boost: +15%</TM_IceWand.description>
+  <TM_IceWand.tools.0.label>wand</TM_IceWand.tools.0.label>
+  <Projectile_LightningWand.label>lightning wand</Projectile_LightningWand.label>
+  <TM_LightningWand.label>Wand of Lightning</TM_LightningWand.label>
+  <TM_LightningWand.description>A wand able to slowly convert nearby arcane energy into elemental lightning. Wands are used as focusing tools to harness innate power more than as a weapon itself.
+
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +5%
+Energy Regen: +5%
+Damage Boost: +15%</TM_LightningWand.description>
+  <TM_LightningWand.tools.0.label>wand</TM_LightningWand.tools.0.label>
+  <TM_DefenderStaff.label>Staff of the Defender</TM_DefenderStaff.label>
+  <TM_DefenderStaff.description>A staff crafted from an ancient design bearing a palpable aura of wisdom. This staff is able to tap into the spirit realm and allow the wielder to communicate with their ancestral spirits who can manifest their power in the form of a physical barrier. The energy to perform this action comes from the spirits themselves and does not draw energy from the user, though the spirits require time to rest between requests.
+
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +30%
+Energy Regen: +20%
+Arcane Resistance: +20%
+
+Augmentation adds ability: Arcane Barrier</TM_DefenderStaff.description>
+  <TM_DefenderStaff.tools.0.label>rod</TM_DefenderStaff.tools.0.label>
+  <TM_DefenderStaff.tools.1.label>staff head</TM_DefenderStaff.tools.1.label>
+  <Projectile_BlazingPower.label>blazing power</Projectile_BlazingPower.label>
+  <TM_BlazingPowerStaff.label>Staff of Blazing Power</TM_BlazingPowerStaff.label>
+  <TM_BlazingPowerStaff.description>A staff that creates a mental link with the wielder to harness focused energy that can be used to launch a stream of blazing projectiles or create a hardened barrier around the wielder that can deflect projectiles. Mages gain tremendous boosts to magical spells while wielding this staff but to a mundane pawn it is nothing but a blunt weapon.
+
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +20%
+Energy Regen: +10%
+Damage Boost: +40%</TM_BlazingPowerStaff.description>
+  <TM_BlazingPowerStaff.tools.0.label>rod</TM_BlazingPowerStaff.tools.0.label>
+  <TM_BlazingPowerStaff.tools.1.label>staff head</TM_BlazingPowerStaff.tools.1.label>
+  <Projectile_SeerRing_Fire.label>elemental fire</Projectile_SeerRing_Fire.label>
+  <Seer_FireRing.label>Ring of Elemental Fire</Seer_FireRing.label>
+  <Seer_FireRing.description>An ancient artifact bound to the wielder allowing elemental currents to flow through the host. If the host is separated from the ring, the contract binding it to this realm is nullified, destroying the artifact.</Seer_FireRing.description>
+  <Seer_FireRing.tools.0.label>elemental fist</Seer_FireRing.tools.0.label>
+  <Projectile_SeerRing_Ice.label>elemental ice</Projectile_SeerRing_Ice.label>
+  <Seer_IceRing.label>Ring of Elemental Ice</Seer_IceRing.label>
+  <Seer_IceRing.description>An ancient artifact bound to the wielder allowing elemental currents to flow through the host. If the host is separated from the ring, the contract binding it to this realm is nullified, destroying the artifact.</Seer_IceRing.description>
+  <Seer_IceRing.tools.0.label>elemental fist</Seer_IceRing.tools.0.label>
+  <Laser_SeerRing_Lightning.label>elemental lightning</Laser_SeerRing_Lightning.label>
+  <Seer_LightningRing.label>Ring of Elemental Lightning</Seer_LightningRing.label>
+  <Seer_LightningRing.description>An ancient artifact bound to the wielder allowing elemental currents to flow through the host. If the host is separated from the ring, the contract binding it to this realm is nullified, destroying the artifact.</Seer_LightningRing.description>
+  <Seer_LightningRing.tools.0.label>elemental fist</Seer_LightningRing.tools.0.label>
+  <ManaPotion.label>Mana Potion</ManaPotion.label>
+  <ManaPotion.description>A magical supplement that allows arcane users to rapidly recover mana. Mana potions work by acting as a natural suppressant to the bodies mana absorption resistances \n\nUsers are warned, bypassing natural resistances can cause mental and sensory damage.</ManaPotion.description>
+  <ManaPotion.ingestible.ingestCommandString>Consume {0}</ManaPotion.ingestible.ingestCommandString>
+  <ManaPotion.ingestible.ingestReportString>Consuming {0}.</ManaPotion.ingestible.ingestReportString>
+  <TM_MaestersCloak.label>Wanderer's Cloak</TM_MaestersCloak.label>
+  <TM_MaestersCloak.description>A cloak designed for traveling mages that provides protection against the elements and improves energy recovery rates. The method of infusing arcane gemstones into the fabric during crafting yields unparalleled enchantment effectiveness.
+	
+This cloak is enchanted and provides additional benefits to trained mages:
+Max Energy: +12%
+Ability Cooldown: -20%
+Arcane Resistance: +5%</TM_MaestersCloak.description>
+  <DemonLordCloak.label>Cloak of Supremacy</DemonLordCloak.label>
+  <DemonLordCloak.description>A cloak heavily augmented by arcane power believed to have been first made for a black knight acting as the ambassador for an astral demon. The fabric is difficult to focus on in a way that can only be described as "visual noise" and the folds of cloth move in an unnatural way as if unrestrained by natural law. Those few who have worn this cloak in battle swear that it possesses a consciousness of its own and tell stories of the cloth shielding them from certain destruction.  Others claim those observations were nothing but hallucinations by deranged fools. Because of these claims, it is rumored that the cloak possesses the ability to completely mitigate attacks against the wearer, but no one has been able to reproduce these results with any reliability.
+
+Robes of Supremacy are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +40%
+Energy Regen: +40%
+Ability Cooldown: -20%
+
+Augmented by Phantom Shift: 20% chance to avoid an attack</DemonLordCloak.description>
+  <DarkRobe.label>Mage Robe</DarkRobe.label>
+  <DarkRobe.description>Robes worn by the heralds of magic. Wearers of this robe demonstrate a willingness to make physical sacrifices to increase their innate power.
+	
+Mage robes are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +17.5%
+Energy Regen: +10%
+Ability Cooldown: -15%
+Energy Costs: -15%
+Class XP Gain: +10%
+Arcane Res: +10%</DarkRobe.description>
+  <AncientMail.label>Ancient Mail</AncientMail.label>
+  <AncientMail.description>Chain mail forged with an ancient design that provides above average physical defense. The design of the armor includes a symmetrical etching of arcane runes that bestow the wearer with enhanced power. Once crafted, these runes will attract an ancient spirit to embody the mail and grants the wearer a chance to cause additional arcane damage following any attack; however, this comes at a price - all abilities will require more energy to use, and the bearer is beset with nightmares that slowly break down mental resistances.
+	
+Ancient mail is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +8%
+Energy Regen: +10%
+Energy Costs: +15%
+Arcane Resistance: +20%
+
+Augmented by Arcane Spectre: 50% chance to deal 20% bonus damage</AncientMail.description>
+  <RoyalArmor.label>Armor of the Valiant</RoyalArmor.label>
+  <RoyalArmor.description>A breastplate etched in holy symbols that is designed to protect vital areas without restricting movement. Said to have been worn by holy warriors of a bygone age who maintained peace with justice and compassion in equal measure. It is unknown what became of this order, though it is hard to believe it had anything to do with their skill in armor craft.
+
+Armor of the Valiant is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -10%
+Class XP Gain: +10%</RoyalArmor.description>
+  <ArchMageRobe.label>Robes of the Archmage</ArchMageRobe.label>
+  <ArchMageRobe.description>Robes designed by a superior race that are meant for the highest class of magic users who are worthy of additional power and insight. These lightweight, flowing robes seem to propel the wearer as if carried by a great winged beast.
+
+Robes of the Archmage are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +25%
+Energy Regen: +20%
+Ability Cooldown: -20%
+Energy Costs: -10%
+Class XP Gain: +25%
+Arcane Res: +10%</ArchMageRobe.description>
+  <TM_WizardHat.label>Wizard Hat</TM_WizardHat.label>
+  <TM_WizardHat.description>A classic hat styled for any wizard or witch. This hat has secret carrying compartments and also has social and drug production bonuses.
+
+The Wizard Hat is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +5%
+Arcane Power: +5%</TM_WizardHat.description>
+  <ArcaneHood.label>Arcane Hood</ArcaneHood.label>
+  <ArcaneHood.description>A hood preferred by mages for its magical properties, light weight, and comfort. The method of infusing fabric with enchantments prior to weaving the hood returns improved enchanting results.
+
+The Arcane Hood is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +10%
+Energy Regen: +10%
+Arcane Resistance: +10%</ArcaneHood.description>
+  <HoodOfMadness.label>Hood of Madness</HoodOfMadness.label>
+  <HoodOfMadness.description>A dark cowl that has a reputation of being cursed, though its magical properties are undeniable. Those who don this hood gain the ability to see manifestations of arcane energy and learn things they otherwise wouldn't. The hood's appearance and fear of revealed secrets lead most to distrust those who wear this hood. Likewise, those who see through the eyes of this hood begin to distrust those around them.
+
+The Hood of Madness is enchanted and provides additional benefits to trained mages and fighters:
+Class XP Gain: +30%
+Arcane Resistance: 30%</HoodOfMadness.description>
+  <RoyalHelm.label>Helm of the Valiant</RoyalHelm.label>
+  <RoyalHelm.description>A barbute shaped helm designed to maximize protection without restricting vision or voice. These helmets are a complementary piece to the Armor of the Valiant set and further enhance a wearers arcane capabilities while also providing noteworthy physical protection.
+
+Helm of the Valiant is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -5%
+Class XP Gain: +10%</RoyalHelm.description>
+  <ParagonHelm.label>Paragon's Helm</ParagonHelm.label>
+  <ParagonHelm.description>A heavily enchanted helm meant to identify elite warriors of the Valiant.
+
+Paragon's Helm is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -5%
+Class XP Gain: +15%
+Max Energy: +5%
+Arcane Res: +10%</ParagonHelm.description>
+  <TM_Artifact_Silver.label>Quicksilver Pendant</TM_Artifact_Silver.label>
+  <TM_Artifact_Silver.description>A pendant enchanted with silver essence. Known as a quicksilver pendant, this expensive artifact is said to grant increased agility to its wearer.</TM_Artifact_Silver.description>
+  <TM_Artifact_Slate.label>Pendant of Mending</TM_Artifact_Slate.label>
+  <TM_Artifact_Slate.description>A pendant enchanted with the essence of slate. The slate pendant of mending will slowly recover the durability of all worn equipment.</TM_Artifact_Slate.description>
+  <TM_Artifact_Medicine.label>Charm of Health</TM_Artifact_Medicine.label>
+  <TM_Artifact_Medicine.description>This charm improves the health of the bearer, granting improved immunity to diseases and helps wounds heal faster.</TM_Artifact_Medicine.description>
+  <TM_Artifact_Limestone.label>Cat Eye Pendant</TM_Artifact_Limestone.label>
+  <TM_Artifact_Limestone.description>A pendant enchanted with the essence of limestone. The wearer gains improved eyesight and can see in the dark. This pendant emits a soft glow.</TM_Artifact_Limestone.description>
+  <TM_Artifact_Granite.label>Ring of Labor</TM_Artifact_Granite.label>
+  <TM_Artifact_Granite.description>A ring enchanted with the essence of granite. This ring grants the bearer increased carrying capacity and manipulation.</TM_Artifact_Granite.description>
+  <TM_Artifact_Marble.label>Mind Ward Pendant</TM_Artifact_Marble.label>
+  <TM_Artifact_Marble.description>A pendant enchanted with the essence of marble. This pendant improves its bearers mental state and provides a mental anchor. The pendant occasionally allows its bearer to break out of mental states.</TM_Artifact_Marble.description>
+  <TM_Artifact_Sandstone.label>Charm of Rest</TM_Artifact_Sandstone.label>
+  <TM_Artifact_Sandstone.description>A pendant enchanted with the essence of sandstone. This pendant improves its wearers quality of rest and prevents passerby's to disturb their slumber.</TM_Artifact_Sandstone.description>
+  <TM_Artifact_Steel.label>Amulet of Protection</TM_Artifact_Steel.label>
+  <TM_Artifact_Steel.description>A pendant enchanted with the essence of steel. This pendant magically improves its wearers defenses.</TM_Artifact_Steel.description>
+  <TM_Artifact_Iron.label>Amulet of Minor Protection</TM_Artifact_Iron.label>
+  <TM_Artifact_Iron.description>A pendant enchanted with the essence of iron. This pendant magically improves its wearers defenses.</TM_Artifact_Iron.description>
+  <TM_Artifact_Jade.label>Ring of Arcane Recovery</TM_Artifact_Jade.label>
+  <TM_Artifact_Jade.description>A ring enchanted with the essence of jade. This ring increases the rate its wearer recovers from arcane weakness.</TM_Artifact_Jade.description>
+  <TM_Artifact_Gold.label>Ring of Authority</TM_Artifact_Gold.label>
+  <TM_Artifact_Gold.description>A ring enchanted with the essence of gold. This ring increases the wearers negotiation skills.</TM_Artifact_Gold.description>
+  <TM_Artifact_Magicyte.label>Ring of Knowledge</TM_Artifact_Magicyte.label>
+  <TM_Artifact_Magicyte.description>A ring enchanted with the essence of magicyte. This ring improves learning speed.</TM_Artifact_Magicyte.description>
+  <TM_Artifact_Wood.label>Ring of the Pathfinder</TM_Artifact_Wood.label>
+  <TM_Artifact_Wood.description>A ring enchanted with the essence of wood. The wearer of this ring will not be slowed by terrain and has improved foraging while in a caravan.</TM_Artifact_Wood.description>
+  <TM_Artifact_BracersOfThePacifist.label>Bracers of the Pacifist</TM_Artifact_BracersOfThePacifist.label>
+  <TM_Artifact_BracersOfThePacifist.description>These bracers appear to be little more than thin cloth wrapped in leather, but their unremarkable appearance is belied by remarkable power. This item can only be worn by a pawn that has rejected violence.
+
+Enchantments:
+Max Energy +40%
+Energy Regen +40%
+Arcane Resistance +50%
+Arcane Recovery - decreases time to recover from arcane weakness</TM_Artifact_BracersOfThePacifist.description>
+  <TM_Artifact_BracersOfDefense.label>Bracers of Defense</TM_Artifact_BracersOfDefense.label>
+  <TM_Artifact_BracersOfDefense.description>Bracers crafted into hardened material that allow the wearer to block physical attacks. 40% block chance.
+
+Enchantments:
+Arcane Resistance 10%</TM_Artifact_BracersOfDefense.description>
+  <TM_Artifact_BracersOfDeflection.label>Bracers of Deflection</TM_Artifact_BracersOfDeflection.label>
+  <TM_Artifact_BracersOfDeflection.description>Bracers crafted into reactive material that allow the wearer to block attacks and deflect projectiles. 30% block chance, all blocked attacks are deflected against enemies within 8 cells.
+
+Enchantments:
+Arcane Resistance 10%</TM_Artifact_BracersOfDeflection.description>
+  <TM_Artifact_RingOfKeenIntellect.label>Ring of Keen Intellect</TM_Artifact_RingOfKeenIntellect.label>
+  <TM_Artifact_RingOfKeenIntellect.description>A ring that expands the mind and heightens mental acuity but increases mental stress.
+
+Enchantments:
+XP Gain +25%</TM_Artifact_RingOfKeenIntellect.description>
+  <TM_Artifact_RingOfBlood.label>Ring of Blood</TM_Artifact_RingOfBlood.label>
+  <TM_Artifact_RingOfBlood.description>A ring inset with a dark stone; currents of deep red and black swirl beneath its surface. This type of ring was first created by an ancient vampire to increase blood reserves and can be used by a blood mage to store blood magic.
+
+The Ring of Blood's power depends on the fame of its bearer and will grow with each human downed or killed.</TM_Artifact_RingOfBlood.description>
+  <TM_Artifact_RingOfEternalBlue.label>Ring of the Eternal Blue</TM_Artifact_RingOfEternalBlue.label>
+  <TM_Artifact_RingOfEternalBlue.description>A ring that seems to pulse with a soft blue light. This ring increases psychic sensitivity and reciprocates the psychic sensitivity of its bearer.
+
+The Ring of Eternal Blue will increase a psionic's energy proportionally with their psychic sensitivity.</TM_Artifact_RingOfEternalBlue.description>
+  <TM_Artifact_RingOfMalice.label>Ring of Malice</TM_Artifact_RingOfMalice.label>
+  <TM_Artifact_RingOfMalice.description>This ring gives off a dark aura and is perpetually cold to touch. The Ring of Malice increases the idle and maximum hate levels of a death knight.
+
+The Ring of Malice's power depends on the fame of its bearer and will grow with each wound taken or inflicted.</TM_Artifact_RingOfMalice.description>
+  <TM_Artifact_OrbOfConviction.label>Orb Of Conviction</TM_Artifact_OrbOfConviction.label>
+  <TM_Artifact_OrbOfConviction.description>Also known as the Traitors Trinket, Orb of Insanity, and Mind Thief - the Orb of Conviction is a powerful and dangerous artifact. When filled with the conviction and magic of a caster, it can be used to press that conviction upon another.
+	
+If successful, the target will immediately join the casters faction, but will be affected by psychic shock.
+
+Only the most powerful mages can direct the power of this artifact; even then, it will exact a heavy price. The orb will implode once the spell has been cast and can only be used once.</TM_Artifact_OrbOfConviction.description>
+  <TM_Artifact_OrbOfSouls.label>Orb of Souls (empty)</TM_Artifact_OrbOfSouls.label>
+  <TM_Artifact_OrbOfSouls.description>The Orb of Souls is a powerful and dangerous artifact. It requires no external power and can extract the soul of a pawn possessing traits.
+	
+If successful, the Orb of Souls will absorb all traits from the target; the target will lose the absorbed traits. The process is almost always lethal.
+
+Once filled, the Orb of Souls can be used to transfers the absorbed traits into another human-like pawn.</TM_Artifact_OrbOfSouls.description>
+  <TM_Artifact_OrbOfSouls_Full.label>Orb of Souls (filled)</TM_Artifact_OrbOfSouls_Full.label>
+  <TM_Artifact_OrbOfSouls_Full.description>The Orb of Souls is a powerful and dangerous artifact. This orb has absorbed traits and can be used to infuse these traits into a human-like pawn.
+
+Conflicting traits can never transfer into the target pawn. If the pawn possesses over 7 traits, then there is a 75% chance that a random, existing trait will be replaced with the trait being infused.
+
+The orb will implode and be destroyed once the traits have been released.</TM_Artifact_OrbOfSouls_Full.description>
+  <TM_Artifact_OrbOfEternal.label>Orb of the Eternal</TM_Artifact_OrbOfEternal.label>
+  <TM_Artifact_OrbOfEternal.description>A single use infusion of magical energy prepared to heal wounds, restore limbs, and cure diseases. The healing energy will target and heal the single worst health condition affecting someone at any given time.
+
+Orbs of the Eternal have been used by mages, rulers, and the elite to prolong life. These orbs are valuable and rare due mostly to the secrecy surrounding the process of crafting an orb.</TM_Artifact_OrbOfEternal.description>
+  <TM_Artifact_OrbOfEternal.comps.0.useLabel>Use orb of the eternal</TM_Artifact_OrbOfEternal.comps.0.useLabel>
+  <TM_Artifact_NecroticOrb.label>Necrotic Orb</TM_Artifact_NecroticOrb.label>
+  <TM_Artifact_NecroticOrb.description>An artifact that enhances the necrotic energy required to sustain the undead. The Necrotic Orb functions much like a battery; when equipped by a pawn that is sustaining undead, it absorbs energy from a necromancer as if it were an undead itself, however, it also reduces the total upkeep cost to sustain undead by 25%. When no energy is available from a necromancer, it will disperse energy to sustain undead.
+	
+Only one orb may be equipped by a pawn. Orbs only take affect when equipped by a pawn sustaining undead.</TM_Artifact_NecroticOrb.description>
+  <UnfinishedGem.label>unfinished gem</UnfinishedGem.label>
+  <TM_Plant_Pomanasyrrium.label>pomanasyrrium bush</TM_Plant_Pomanasyrrium.label>
+  <TM_Plant_Pomanasyrrium.description>The pomanasyrrium plant is steeped in lore as having mythical properties to grant wisdom, insight, and clarity to those who consume its fruit.  However, it is difficult to grow and does not the level of yield found in other cultivated plants so it is not favored by growers or farmers. 
+	
+The fruit it produces, known more commonly as pomona, can be consumed raw and is quite tasty but has a low nutrient value. Like ambrosia, it causes a slight euphoric sensation and promotes a sense of mental well-being.</TM_Plant_Pomanasyrrium.description>
+  <TM_RawPomanasyrrium.label>pomana fruit</TM_RawPomanasyrrium.label>
+  <TM_RawPomanasyrrium.description>A fist sized fruit with hues ranging from sunset orange to dusky violet, pomona is primarily considered a delicacy due to its commonality and is usually enjoyed raw as a desert.  When consumed raw, it generates a mild euphoric sensation of mental well-being and has been found to open up mental pathways, expanding consciousness.</TM_RawPomanasyrrium.description>
+  <TM_RawPomanaMash.label>mashed pomana</TM_RawPomanaMash.label>
+  <TM_RawPomanaMash.description>A bitter and unappetizing byproduct when extracting syrrium from raw pomonasyrrium. This byproduct retains some nutritional value but is largely left for animal consumption or as a nutrient base for meals.</TM_RawPomanaMash.description>
+  <TM_Syrrium.label>syrrium</TM_Syrrium.label>
+  <TM_Syrrium.description>Syrrium is distilled from pomana through a process boiling the mashed fruit which separates the syrrium from the pomana. Syrrium induces a much more intense effect than raw pomana when consumed. The chemical effects qualify the liquid as a drug and can cause mild chemical dependency, however, the its more addictive lure is when some begin to feel less capable without the drug and consume syrrium to maintain their confidence and mental balance.
+
+The claims that pomanasyrrium grant insight and clarity is disregarded by most as lore or fantasy, however, research into its chemistry has revealed that these effects are indeed real, at least for mages. The benefits of syrrium are considered the primary reason to cultivate pomanasyrrium. When properly refined, the effects of syrrium have been found to expand a mages access to mana, accelerating its ebb and flow, and decreasing the effort required when exerting arcane power. These effects will not stack with benefits gained by consuming the raw fruit.</TM_Syrrium.description>
+  <TM_Syrrium.ingestible.ingestCommandString>Drink {0}</TM_Syrrium.ingestible.ingestCommandString>
+  <TM_Syrrium.ingestible.ingestReportString>Drinking {0}.</TM_Syrrium.ingestible.ingestReportString>
+  <TM_Plant_Paracyte.label>Paracyte thornbush</TM_Plant_Paracyte.label>
+  <TM_Plant_Paracyte.description>The paracyte thornbush is a genetically engineered plant that absorbs mana through a process of arcane transpiration and collects it into a chrysalis. As the plant matures, the chrysalis hardens into magicyte which can be harvested.  The rest of the plant consists of almost glass-like thorns and rigid stems. 
+	
+Paracyte is difficult to grow and only skilled herbalists are able to plant and harvest it safely, but for all it's difficulties, it has a delicate beauty and gives off an ethereal glow that reflects light along its crystalline edges.
+
+NOTE: Paracyte plants will lower mana regen for all mages on the map if the number of paracyte plants exceeds the soft cap. Check mod settings for the soft cap value. Paracyte plans have no effect on mana regen when the total count on the map is lower than the soft cap.</TM_Plant_Paracyte.description>
+  <TM_Plant_Briar.label>thorny vines</TM_Plant_Briar.label>
+  <TM_Plant_Briar.description>A hazard of tangled, woody shoots covered in wicked thorns that slow down anyone moving over them. The thorns are razor sharp and can pierce even thick clothing.</TM_Plant_Briar.description>
+  <UnfinishedArcane.comps.0.useLabel>Write</UnfinishedArcane.comps.0.useLabel>
+  <UnfinishedArcane.label>Unfinished Torn Script</UnfinishedArcane.label>
+  <UnfinishedArcane.description>An arcane script ready to be filled with the secrets of unlocking magical powers...
+		
+Use a trained mage to record their arcane secrets in the book. The book can then be used to teach another, gifted pawn how to become the same class. Torn scripts will promote a gifted pawn to a magic class but will start with a random set of class abilities.
+
+Magically Gifted pawns can journal their theories and experiments in this book and learn to become a random magic class.</UnfinishedArcane.description>
+  <UnfinishedAdvArcane.comps.0.useLabel>Write</UnfinishedAdvArcane.comps.0.useLabel>
+  <UnfinishedAdvArcane.label>Unfinished Arcane Book</UnfinishedAdvArcane.label>
+  <UnfinishedAdvArcane.description>A arcane tome ready to be filled with the secrets of unlocking magical powers...
+		
+Use a trained mage to record their arcane secrets in the book. The book can then be used to teach another, gifted pawn how to become the same class. Arcane Tomes will promote a gifted pawn to a magic class and all class abilities except the master ability.
+
+Gifted pawns can journal their theories and experiments in this book and learn to become a random magic class.</UnfinishedAdvArcane.description>
+  <UnfinishedMartial.comps.0.useLabel>Write</UnfinishedMartial.comps.0.useLabel>
+  <UnfinishedMartial.label>Unfinished Martial Book</UnfinishedMartial.label>
+  <UnfinishedMartial.description>A book ready to be filled with the secrets of unlocking martial powers...
+
+Use a trained fighter to record their combat techniques in the book. The book can then be used to teach another pawn this combat technique.
+
+Physically adept pawns can journal their research and training in this book to develop the concepts of a random fighter class.</UnfinishedMartial.description>
+</LanguageData>

@@ -98,6 +98,15 @@
   <GoodsReceived>Goods Received</GoodsReceived>
   <GoodsReceivedFollowing>You have received the following goods from the {0} event:</GoodsReceivedFollowing>
   <TaxPercentage>Tithe %</TaxPercentage>
+  <ResearchLevel>Check Tech Level</ResearchLevel>
+  <ReachedMaxLevel>reached max level</ReachedMaxLevel>
+  <FCShipBasics>Ship Basics</FCShipBasics>
+  <FCFabrication>Fabrication</FCFabrication>
+  <FCElectricity>Electricity</FCElectricity>
+  <FCSmithing>Smithing</FCSmithing>
+  <CurrentResearchLevel>Your current tech level is {0}. To reach the next tech level you must research {1}</CurrentResearchLevel>
+  <AllowedRaces>Allowed Races</AllowedRaces>
+  <CannotHaveLessThanOneRace>Cannot have less than one race in your faction</CannotHaveLessThanOneRace>
   <TheSettlement>The settlement</TheSettlement>
   <HasBeenFormed> has been formed</HasBeenFormed>
   <PlayerColony>Player Colony</PlayerColony>

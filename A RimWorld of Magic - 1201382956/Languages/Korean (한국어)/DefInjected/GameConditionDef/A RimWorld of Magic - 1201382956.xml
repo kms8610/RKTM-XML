@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ManaDrain.label>mana drain</ManaDrain.label>
+  <ManaDrain.description>The planet's celestial alignment is causing an ebb in mana.  All creatures attuned with magical powers will slowly lose power.</ManaDrain.description>
+  <ManaDrain.endMessage>Magic is returning to normal.</ManaDrain.endMessage>
+  <ManaDrain.letterText>The planet's celestial alignment is shifting, causing an ebb in mana.\n\nAll creatures attuned with magical powers will slowly lose mana and will become physically ill if they have no mana remaining.</ManaDrain.letterText>
+  <ManaSurge.label>mana surge</ManaSurge.label>
+  <ManaSurge.description>The planet's celestial alignment is causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.</ManaSurge.description>
+  <ManaSurge.endMessage>Magic is returning to normal.</ManaSurge.endMessage>
+  <ManaSurge.letterText>The planet's celestial alignment has shifted, causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.</ManaSurge.letterText>
+  <ElementalAssault.label>elemental assault</ElementalAssault.label>
+  <ElementalAssault.description>Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms</ElementalAssault.description>
+  <ElementalAssault.endMessage>The rift has closed.</ElementalAssault.endMessage>
+  <ElementalAssault.letterText>Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms\n\nDestroy the rift to end this nightmare!</ElementalAssault.letterText>
+  <WanderingLich.label>Wandering lich</WanderingLich.label>
+  <WanderingLich.description>An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.</WanderingLich.description>
+  <WanderingLich.endMessage>The lich's assault it ending.</WanderingLich.endMessage>
+  <WanderingLich.letterText>An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.</WanderingLich.letterText>
+  <DarkClouds.label>dark clouds</DarkClouds.label>
+  <DarkClouds.description>A foreboding shadow has been cast over the land; there is an ominous presence in the dark shadow of these clouds that curses the living.</DarkClouds.description>
+  <DarkClouds.endMessage>The dark clouds are dispersing.</DarkClouds.endMessage>
+  <DarkClouds.letterText>A foreboding shadow has been cast over the land; there is an ominous presence in the dark shadow of these clouds that curses the living.</DarkClouds.letterText>
+  <DarkThunderstorm.label>Violent Storm</DarkThunderstorm.label>
+  <DarkThunderstorm.description>There is a malicious energy hidden within these dark clouds.</DarkThunderstorm.description>
+  <DarkThunderstorm.endMessage>The violent thunderstorm is receding.</DarkThunderstorm.endMessage>
+  <TargetedPredatorInsanity.label>predator insanity</TargetedPredatorInsanity.label>
+  <TargetedPredatorInsanity.description>A psychic pulse enrages nearby predators... and nudges them towards aggressive humans.</TargetedPredatorInsanity.description>
+  <TargetedPredatorInsanity.endMessage>The predator pulse fades.</TargetedPredatorInsanity.endMessage>
+  <TargetedPredatorInsanity.letterText>You have enraged all nearby predators and focused them on your enemies. Be warned, the enraged animals will continue to hunt even after your enemies are gone.</TargetedPredatorInsanity.letterText>
+  <DivineBlessing.label>divine blessing</DivineBlessing.label>
+  <DivineBlessing.description>A higher power answers your plea for mercy.</DivineBlessing.description>
+  <DivineBlessing.endMessage>The benevolent presence fades away.</DivineBlessing.endMessage>
+  <DivineBlessing.letterText>Your plea for mercy has been answered by a higher power. Various blessings have been bestowed to contest existing ailments.</DivineBlessing.letterText>
+  <DemonAssault.label>demon attack</DemonAssault.label>
+  <DemonAssault.description>The end is nigh - rampaging demons are attacking your colony!\nLike a herald to impending doom, fire and ash have begun falling from the skies.\n\nThese infernal beings have an assortment of attacks and challenging tactics.\nHowever, demons are unable to remain in this realm for extended periods and will be force to return to their hellish plane in about 3 hours. Defeat or outlast this nightmare.\nThere is very little time to prepare.\n\nGood luck!</DemonAssault.description>
+  <DemonAssault.endMessage>The demons have returned to their infernal plane.</DemonAssault.endMessage>
+  <DemonAssault.letterText>The end is nigh - rampaging demons are attacking your colony!\nLike a herald to impending doom, fire and ash have begun falling from the skies.\n\nThese infernal beings have an assortment of attacks and challenging tactics.\nHowever, demons are unable to remain in this realm for extended periods and will be force to return to their hellish plane in about 3 hours. Defeat or outlast this nightmare.\nThere is very little time to prepare.\n\nGood luck!</DemonAssault.letterText>
+</LanguageData>

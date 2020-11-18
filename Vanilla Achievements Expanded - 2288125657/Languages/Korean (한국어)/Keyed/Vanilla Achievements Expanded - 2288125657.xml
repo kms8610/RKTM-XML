@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAE>Vanilla Achievements Expanded</VAE>
+  <DebugWriter>Enable DebugWriter</DebugWriter>
+  <DebugWriterConfirmation>Are you sure you want to enable the DebugWriter? This will significantly decrease performance in return for Achievement related data. This should only be enabled to track valuable information for debugging.</DebugWriterConfirmation>
+  <GenerateLogInfo>Write to File</GenerateLogInfo>
+  <GenerateLogInfoTooltip>Push achievement related logs to file. For debugging purposes only.</GenerateLogInfoTooltip>
+  <SuccessfulWriteToFile>Successfully pushed achievement logs to AchievementLog.txt</SuccessfulWriteToFile>
+  <SideBarInfo>Unlock achievements and earn Storyteller points which you can redeem for various events.</SideBarInfo>
+  <StorytellerPoints>Storyteller Points</StorytellerPoints>
+  <PointsRedeem>Redeem Points</PointsRedeem>
+  <PointsAvailable>Available: {0}</PointsAvailable>
+  <PointsEarned>Total earnt: {0}</PointsEarned>
+  <UnlockedDevMode>Unlocked with DevMode</UnlockedDevMode>
+  <AchievementLocked>Locked</AchievementLocked>
+  <AchievementsUnlocked>Achievements Unlocked: {0}</AchievementsUnlocked>
+  <AchievementsTotalUnlocked>Total Achievements Unlocked: {0}</AchievementsTotalUnlocked>
+  <AchievementUnlocked>Achievement Unlocked!</AchievementUnlocked>
+  <FailedRewardEvent>Failed to redeem reward {0}</FailedRewardEvent>
+  <FailedTargetFinder>Must have map loaded or IncidentTarget object selected on World Map</FailedTargetFinder>
+  <NoValidMap>Must be purchased with PlayerHome map in view.</NoValidMap>
+  <IncidentNotAvailable>Incident not available right now.</IncidentNotAvailable>
+  <NotEnoughPoints>Not Enough Points</NotEnoughPoints>
+  <RandomQuestRewardItemLetter>Quest Item</RandomQuestRewardItemLetter>
+  <RandomQuestRewardItem>Random quest item dropped!</RandomQuestRewardItem>
+</LanguageData>

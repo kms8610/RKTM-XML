@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdvancedPowerArm.label>advanced power arm</AdvancedPowerArm.label>
+  <AdvancedPowerArm.labelNoun>an advanced power arm</AdvancedPowerArm.labelNoun>
+  <AdvancedPowerArm.comps.0.tools.0.label>fist</AdvancedPowerArm.comps.0.tools.0.label>
+  <AdvancedBionicArm.label>advanced bionic arm</AdvancedBionicArm.label>
+  <AdvancedBionicArm.labelNoun>an advanced bionic arm</AdvancedBionicArm.labelNoun>
+  <AdvancedBionicArm.comps.0.tools.0.label>fist</AdvancedBionicArm.comps.0.tools.0.label>
+  <AdvancedBionicLeg.label>advanced bionic leg</AdvancedBionicLeg.label>
+  <AdvancedBionicLeg.labelNoun>an advanced bionic leg</AdvancedBionicLeg.labelNoun>
+  <AdvancedBionicHand.label>advanced bionic hand</AdvancedBionicHand.label>
+  <AdvancedBionicHand.labelNoun>an advanced bionic hand</AdvancedBionicHand.labelNoun>
+  <AdvancedBionicHand.comps.0.tools.0.label>fist</AdvancedBionicHand.comps.0.tools.0.label>
+  <AdvancedBionicFoot.label>advanced bionic foot</AdvancedBionicFoot.label>
+  <AdvancedBionicFoot.labelNoun>an advanced bionic foot</AdvancedBionicFoot.labelNoun>
+  <AdvancedBionicEar.label>advanced bionic ear</AdvancedBionicEar.label>
+  <AdvancedBionicEar.labelNoun>an advanced bionic ear</AdvancedBionicEar.labelNoun>
+  <AdvancedBionicEye.label>advanced bionic eye</AdvancedBionicEye.label>
+  <AdvancedBionicEye.labelNoun>an advanced bionic eye</AdvancedBionicEye.labelNoun>
+  <AdvancedBionicSpine.label>advanced bionic spine</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.labelNoun>an advanced bionic spine</AdvancedBionicSpine.labelNoun>
+  <ExoskeletonSuit.label>exoskeleton suit</ExoskeletonSuit.label>
+  <ExoskeletonSuit.labelNoun>an exoskeleton suit</ExoskeletonSuit.labelNoun>
+  <ArchotechEye.label>archotech eye</ArchotechEye.label>
+  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
+  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+  <PowerArm.label>power arm</PowerArm.label>
+  <PowerArm.labelNoun>a bionic power arm</PowerArm.labelNoun>
+  <PowerArm.comps.0.tools.0.label>fist</PowerArm.comps.0.tools.0.label>
+  <BionicHand.label>bionic hand</BionicHand.label>
+  <BionicHand.labelNoun>a bionic hand</BionicHand.labelNoun>
+  <BionicHand.comps.0.tools.0.label>fist</BionicHand.comps.0.tools.0.label>
+  <BionicFoot.label>bionic foot</BionicFoot.label>
+  <BionicFoot.labelNoun>a bionic foot</BionicFoot.labelNoun>
+  <BionicJaw.label>bionic jaw</BionicJaw.label>
+  <BionicJaw.labelNoun>a bionic jaw</BionicJaw.labelNoun>
+  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
+  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+  <BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
+  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+  <Stomach.label>stomach transplant</Stomach.label>
+  <Stomach.stages.0.label>mild rejection</Stomach.stages.0.label>
+  <Stomach.stages.1.label>moderate rejection</Stomach.stages.1.label>
+  <Stomach.stages.2.label>serious rejection</Stomach.stages.2.label>
+  <Stomach.stages.3.label>deadly rejection</Stomach.stages.3.label>
+  <Heart.label>heart transplant</Heart.label>
+  <Heart.stages.0.label>mild rejection</Heart.stages.0.label>
+  <Heart.stages.1.label>moderate rejection</Heart.stages.1.label>
+  <Heart.stages.2.label>serious rejection</Heart.stages.2.label>
+  <Heart.stages.3.label>deadly rejection</Heart.stages.3.label>
+  <Liver.label>liver transplant</Liver.label>
+  <Liver.stages.0.label>mild rejection</Liver.stages.0.label>
+  <Liver.stages.1.label>moderate rejection</Liver.stages.1.label>
+  <Liver.stages.2.label>serious rejection</Liver.stages.2.label>
+  <Liver.stages.3.label>deadly rejection</Liver.stages.3.label>
+  <Kidney.label>kidney transplant</Kidney.label>
+  <Kidney.stages.0.label>mild rejection</Kidney.stages.0.label>
+  <Kidney.stages.1.label>moderate rejection</Kidney.stages.1.label>
+  <Kidney.stages.2.label>serious rejection</Kidney.stages.2.label>
+  <Kidney.stages.3.label>deadly rejection</Kidney.stages.3.label>
+  <Lung.label>lung transplant</Lung.label>
+  <Lung.stages.0.label>mild rejection</Lung.stages.0.label>
+  <Lung.stages.1.label>moderate rejection</Lung.stages.1.label>
+  <Lung.stages.2.label>serious rejection</Lung.stages.2.label>
+  <Lung.stages.3.label>deadly rejection</Lung.stages.3.label>
+  <ChronicKidneyDisease.label>chronic kidney disease</ChronicKidneyDisease.label>
+  <ChronicKidneyDisease.stages.0.label>minor</ChronicKidneyDisease.stages.0.label>
+  <ChronicKidneyDisease.stages.1.label>minor</ChronicKidneyDisease.stages.1.label>
+  <ChronicKidneyDisease.stages.2.label>moderate</ChronicKidneyDisease.stages.2.label>
+  <ChronicKidneyDisease.stages.3.label>major</ChronicKidneyDisease.stages.3.label>
+  <ChronicKidneyDisease.stages.4.label>extreme</ChronicKidneyDisease.stages.4.label>
+  <CongenitalHeartDefect.label>congenital heart defect</CongenitalHeartDefect.label>
+  <CongenitalHeartDefect.stages.0.label>moderate</CongenitalHeartDefect.stages.0.label>
+  <CongenitalHeartDefect.stages.1.label>major</CongenitalHeartDefect.stages.1.label>
+  <ChronicStomachDisorder.label>chronic stomach disorder</ChronicStomachDisorder.label>
+  <PegLeg.label>peg leg</PegLeg.label>
+  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
+  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+  <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>a simple prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>a simple prosthetic arm</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+  <SpinalFusion.label>spinal fusion</SpinalFusion.label>
+  <SpinalFusion.labelNoun>a fused spine</SpinalFusion.labelNoun>
+  <HookHand.label>hook hand</HookHand.label>
+  <HookHand.labelNoun>a simple hook hand</HookHand.labelNoun>
+  <HookHand.comps.0.tools.0.label>fist</HookHand.comps.0.tools.0.label>
+  <SimpleProstheticHand.label>simple prosthetic hand</SimpleProstheticHand.label>
+  <SimpleProstheticHand.labelNoun>a simple prosthetic hand</SimpleProstheticHand.labelNoun>
+  <SimpleProstheticHand.comps.0.tools.0.label>fist</SimpleProstheticHand.comps.0.tools.0.label>
+  <SimpleProstheticFoot.label>simple prosthetic foot</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.labelNoun>a simple prosthetic foot</SimpleProstheticFoot.labelNoun>
+  <ArtificialNose.label>artificial nose</ArtificialNose.label>
+  <ArtificialNose.labelNoun>an artificial nose</ArtificialNose.labelNoun>
+  <ArtificialPelvis.label>artificial pelvis</ArtificialPelvis.label>
+  <ArtificialPelvis.labelNoun>an artificial pelvis</ArtificialPelvis.labelNoun>
+  <ArtificialHumerus.label>artificial humerus</ArtificialHumerus.label>
+  <ArtificialHumerus.labelNoun>an artificial humerus</ArtificialHumerus.labelNoun>
+  <ArtificialRadius.label>artificial radius</ArtificialRadius.label>
+  <ArtificialRadius.labelNoun>an artificial radius</ArtificialRadius.labelNoun>
+  <ArtificialTibia.label>artificial tibia</ArtificialTibia.label>
+  <ArtificialTibia.labelNoun>an artificial tibia</ArtificialTibia.labelNoun>
+  <ArtificialFemur.label>artificial femur</ArtificialFemur.label>
+  <ArtificialFemur.labelNoun>an artificial femur</ArtificialFemur.labelNoun>
+  <ArtificialClavicle.label>artificial clavicle</ArtificialClavicle.label>
+  <ArtificialClavicle.labelNoun>an artificial clavicle</ArtificialClavicle.labelNoun>
+  <ArtificialRibcage.label>artificial ribcage</ArtificialRibcage.label>
+  <ArtificialRibcage.labelNoun>an artificial ribcage</ArtificialRibcage.labelNoun>
+  <ArtificialSternum.label>artificial sternum</ArtificialSternum.label>
+  <ArtificialSternum.labelNoun>an artificial sternum</ArtificialSternum.labelNoun>
+  <Neurostimulator.label>neurostimulator</Neurostimulator.label>
+  <Hyporegulator.label>hyporegulator</Hyporegulator.label>
+  <Cortexaugmentor.label>cortexaugmentor</Cortexaugmentor.label>
+  <SyntheticLung.label>synthetic lung</SyntheticLung.label>
+  <SyntheticLiver.label>synthetic liver</SyntheticLiver.label>
+  <SyntheticKidney.label>synthetic kidney</SyntheticKidney.label>
+  <SyntheticHeart.label>synthetic heart</SyntheticHeart.label>
+  <SyntheticStomach.label>synthetic stomach</SyntheticStomach.label>
+  <AdvancedPowerArm.description>An installed advanced power arm.</AdvancedPowerArm.description>
+  <AdvancedBionicArm.description>An installed advanced bionic arm.</AdvancedBionicArm.description>
+  <AdvancedBionicLeg.description>An installed advanced bionic leg.</AdvancedBionicLeg.description>
+  <AdvancedBionicHand.description>An installed advanced bionic hand.</AdvancedBionicHand.description>
+  <AdvancedBionicFoot.description>An installed advanced bionic foot.</AdvancedBionicFoot.description>
+  <AdvancedBionicEar.description>An installed advanced bionic ear.</AdvancedBionicEar.description>
+  <AdvancedBionicEye.description>An installed advanced bionic eye.</AdvancedBionicEye.description>
+  <AdvancedBionicSpine.description>An installed advanced bionic spine.</AdvancedBionicSpine.description>
+  <ExoskeletonSuit.description>An installed exoskeleton suit.</ExoskeletonSuit.description>
+  <ArchotechEye.description>An installed archotech eye.</ArchotechEye.description>
+  <ArchotechArm.description>An installed archotech arm.</ArchotechArm.description>
+  <ArchotechLeg.description>An installed archotech leg.</ArchotechLeg.description>
+  <PowerArm.description>An installed bionic power arm.</PowerArm.description>
+  <BionicHand.description>An installed bionic hand.</BionicHand.description>
+  <BionicFoot.description>An installed bionic foot.</BionicFoot.description>
+  <BionicJaw.description>An installed bionic jaw</BionicJaw.description>
+  <BionicEar.description>An installed bionic ear.</BionicEar.description>
+  <BionicEye.description>An installed bionic eye.</BionicEye.description>
+  <BionicArm.description>An installed bionic arm.</BionicArm.description>
+  <BionicLeg.description>An installed bionic leg.</BionicLeg.description>
+  <BionicSpine.description>An installed bionic spine.</BionicSpine.description>
+  <Stomach.description>A transplanted stomach.</Stomach.description>
+  <Heart.description>A transplanted heart.</Heart.description>
+  <Liver.description>A transplanted liver.</Liver.description>
+  <Kidney.description>A transplanted kidney.</Kidney.description>
+  <Lung.description>A transplanted lung.</Lung.description>
+  <ChronicKidneyDisease.description>Degenerative kidney disease. Will eventually lead to kidney failure.</ChronicKidneyDisease.description>
+  <CongenitalHeartDefect.description>A genetic heart defect that impairs the normal function of the heart.</CongenitalHeartDefect.description>
+  <ChronicStomachDisorder.description>A chronic disorder of the stomach that causes discomfort and digestive issues.</ChronicStomachDisorder.description>
+  <WoodenFoot.description>An installed wooden foot.</WoodenFoot.description>
+  <CochlearImplant.description>An installed cochlear implant</CochlearImplant.description>
+  <SimpleProstheticLeg.description>An installed prosthetic leg</SimpleProstheticLeg.description>
+  <SimpleProstheticArm.description>An installed prosthetic arm</SimpleProstheticArm.description>
+  <SpinalFusion.description>A fused spine</SpinalFusion.description>
+  <HookHand.description>A installed hook hand</HookHand.description>
+  <SimpleProstheticHand.description>An installed prosthetic hand</SimpleProstheticHand.description>
+  <SimpleProstheticFoot.description>An installed prosthetic foot</SimpleProstheticFoot.description>
+  <ArtificialNose.description>An installed artifical nose</ArtificialNose.description>
+  <ArtificialPelvis.description>An installed artificial pelvis</ArtificialPelvis.description>
+  <ArtificialHumerus.description>An installed artificial humerus</ArtificialHumerus.description>
+  <ArtificialRadius.description>An installed artificial radius</ArtificialRadius.description>
+  <ArtificialTibia.description>An installed artificial tibia</ArtificialTibia.description>
+  <ArtificialFemur.description>An installed artificial femur</ArtificialFemur.description>
+  <ArtificialClavicle.description>An installed artificial clavicle</ArtificialClavicle.description>
+  <ArtificialRibcage.description>An installed artificial ribcage</ArtificialRibcage.description>
+  <ArtificialSternum.description>An installed artificial sternum</ArtificialSternum.description>
+  <Neurostimulator.labelNoun>a neurostimulator</Neurostimulator.labelNoun>
+  <Neurostimulator.description>An installed neurostimulator.</Neurostimulator.description>
+  <Hyporegulator.labelNoun>a hyporegulator</Hyporegulator.labelNoun>
+  <Hyporegulator.description>An installed hyporegulator.</Hyporegulator.description>
+  <Cortexaugmentor.labelNoun>A cortexaugmentor</Cortexaugmentor.labelNoun>
+  <Cortexaugmentor.description>An installed cortexaugmentor.</Cortexaugmentor.description>
+  <SyntheticLung.labelNoun>a synthetic lung</SyntheticLung.labelNoun>
+  <SyntheticLung.description>An installed synthetic lung.</SyntheticLung.description>
+  <SyntheticLiver.labelNoun>a synthetic liver</SyntheticLiver.labelNoun>
+  <SyntheticLiver.description>An installed synthetic liver.</SyntheticLiver.description>
+  <SyntheticKidney.labelNoun>a synthetic kidney</SyntheticKidney.labelNoun>
+  <SyntheticKidney.description>An installed synthetic kidney.</SyntheticKidney.description>
+  <SyntheticHeart.labelNoun>a synthetic heart</SyntheticHeart.labelNoun>
+  <SyntheticHeart.description>An installed synthetic heart.</SyntheticHeart.description>
+  <SyntheticStomach.labelNoun>a synthetic stomach</SyntheticStomach.labelNoun>
+  <SyntheticStomach.description>An installed synthetic stomach.</SyntheticStomach.description>
+</LanguageData>

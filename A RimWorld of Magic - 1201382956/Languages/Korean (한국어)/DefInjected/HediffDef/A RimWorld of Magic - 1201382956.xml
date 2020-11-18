@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_StandardRegrowth.label>Regrown Part</TM_StandardRegrowth.label>
+  <TM_StandardRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_StandardRegrowth.description>
+  <TM_StandardRegrowth.stages.0.label>regrown</TM_StandardRegrowth.stages.0.label>
+  <TM_StandardRegrowth.stages.1.label>forming</TM_StandardRegrowth.stages.1.label>
+  <TM_StandardRegrowth.stages.2.label>stub</TM_StandardRegrowth.stages.2.label>
+  <TM_ArmRegrowth.label>Regrown Arm</TM_ArmRegrowth.label>
+  <TM_ArmRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_ArmRegrowth.description>
+  <TM_ArmRegrowth.comps.1.tools.0.label>regrown arm</TM_ArmRegrowth.comps.1.tools.0.label>
+  <TM_ArmRegrowth.stages.0.label>stub</TM_ArmRegrowth.stages.0.label>
+  <TM_ArmRegrowth.stages.1.label>fledgling</TM_ArmRegrowth.stages.1.label>
+  <TM_ArmRegrowth.stages.2.label>regrown</TM_ArmRegrowth.stages.2.label>
+  <TM_ArmRegrowth.stages.3.label>wild</TM_ArmRegrowth.stages.3.label>
+  <TM_HandRegrowth.label>Regrown Hand</TM_HandRegrowth.label>
+  <TM_HandRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_HandRegrowth.description>
+  <TM_HandRegrowth.comps.1.tools.0.label>regrown hand</TM_HandRegrowth.comps.1.tools.0.label>
+  <TM_HandRegrowth.stages.0.label>stub</TM_HandRegrowth.stages.0.label>
+  <TM_HandRegrowth.stages.1.label>fledgling</TM_HandRegrowth.stages.1.label>
+  <TM_HandRegrowth.stages.2.label>regrown</TM_HandRegrowth.stages.2.label>
+  <TM_HandRegrowth.stages.3.label>wild</TM_HandRegrowth.stages.3.label>
+  <TM_FingerRegrowth.label>Regrown Finger</TM_FingerRegrowth.label>
+  <TM_FingerRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_FingerRegrowth.description>
+  <TM_FingerRegrowth.stages.0.label>finger stub</TM_FingerRegrowth.stages.0.label>
+  <TM_FingerRegrowth.stages.1.label>regrown</TM_FingerRegrowth.stages.1.label>
+  <TM_ToeRegrowth.label>Regrown Toe</TM_ToeRegrowth.label>
+  <TM_ToeRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_ToeRegrowth.description>
+  <TM_ToeRegrowth.stages.0.label>toe stub</TM_ToeRegrowth.stages.0.label>
+  <TM_ToeRegrowth.stages.1.label>regrown</TM_ToeRegrowth.stages.1.label>
+  <TM_EyeRegrowth.label>Regrown Eye</TM_EyeRegrowth.label>
+  <TM_EyeRegrowth.description>The magical entwining of nature and flesh will regrow this eye over several days.</TM_EyeRegrowth.description>
+  <TM_EyeRegrowth.stages.0.label>milky</TM_EyeRegrowth.stages.0.label>
+  <TM_EyeRegrowth.stages.1.label>hazy</TM_EyeRegrowth.stages.1.label>
+  <TM_EyeRegrowth.stages.2.label>regrown</TM_EyeRegrowth.stages.2.label>
+  <TM_EyeRegrowth.stages.3.label>enhanced</TM_EyeRegrowth.stages.3.label>
+  <TM_EarRegrowth.label>Regrown Ear</TM_EarRegrowth.label>
+  <TM_EarRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_EarRegrowth.description>
+  <TM_EarRegrowth.stages.0.label>forming</TM_EarRegrowth.stages.0.label>
+  <TM_EarRegrowth.stages.1.label>developing</TM_EarRegrowth.stages.1.label>
+  <TM_EarRegrowth.stages.2.label>regrown</TM_EarRegrowth.stages.2.label>
+  <TM_EarRegrowth.stages.3.label>enhanced</TM_EarRegrowth.stages.3.label>
+  <TM_LegRegrowth.label>Regrown Leg</TM_LegRegrowth.label>
+  <TM_LegRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_LegRegrowth.description>
+  <TM_LegRegrowth.stages.0.label>stub</TM_LegRegrowth.stages.0.label>
+  <TM_LegRegrowth.stages.1.label>fledgling</TM_LegRegrowth.stages.1.label>
+  <TM_LegRegrowth.stages.2.label>regrown</TM_LegRegrowth.stages.2.label>
+  <TM_LegRegrowth.stages.3.label>wild</TM_LegRegrowth.stages.3.label>
+  <TM_FootRegrowth.label>Regrown Foot</TM_FootRegrowth.label>
+  <TM_FootRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_FootRegrowth.description>
+  <TM_FootRegrowth.stages.0.label>stub</TM_FootRegrowth.stages.0.label>
+  <TM_FootRegrowth.stages.1.label>fledgling</TM_FootRegrowth.stages.1.label>
+  <TM_FootRegrowth.stages.2.label>regrown</TM_FootRegrowth.stages.2.label>
+  <TM_FootRegrowth.stages.3.label>wild</TM_FootRegrowth.stages.3.label>
+  <TM_JawRegrowth.label>Regrown Jaw</TM_JawRegrowth.label>
+  <TM_JawRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_JawRegrowth.description>
+  <TM_JawRegrowth.stages.0.label>forming</TM_JawRegrowth.stages.0.label>
+  <TM_JawRegrowth.stages.1.label>developing</TM_JawRegrowth.stages.1.label>
+  <TM_JawRegrowth.stages.2.label>regrown</TM_JawRegrowth.stages.2.label>
+  <TM_JawRegrowth.stages.3.label>enhanced</TM_JawRegrowth.stages.3.label>
+  <TM_HeartRegrowth.label>Heart of the Wild</TM_HeartRegrowth.label>
+  <TM_HeartRegrowth.description>The magical entwining of nature and flesh will regrow or enhance a heart over several days.</TM_HeartRegrowth.description>
+  <TM_HeartRegrowth.stages.0.label>re-forming</TM_HeartRegrowth.stages.0.label>
+  <TM_HeartRegrowth.stages.1.label>new development</TM_HeartRegrowth.stages.1.label>
+  <TM_HeartRegrowth.stages.2.label>melding</TM_HeartRegrowth.stages.2.label>
+  <TM_HeartRegrowth.stages.3.label>entwined</TM_HeartRegrowth.stages.3.label>
+  <TM_HeartRegrowth.stages.4.label>heart of the wild</TM_HeartRegrowth.stages.4.label>
+  <TM_LungRegrowth.label>Regrown Lung</TM_LungRegrowth.label>
+  <TM_LungRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_LungRegrowth.description>
+  <TM_LungRegrowth.stages.0.label>forming</TM_LungRegrowth.stages.0.label>
+  <TM_LungRegrowth.stages.1.label>developing</TM_LungRegrowth.stages.1.label>
+  <TM_LungRegrowth.stages.2.label>regrown</TM_LungRegrowth.stages.2.label>
+  <TM_LungRegrowth.stages.3.label>enhanced</TM_LungRegrowth.stages.3.label>
+  <TM_KidneyRegrowth.label>Regrown Kidney</TM_KidneyRegrowth.label>
+  <TM_KidneyRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_KidneyRegrowth.description>
+  <TM_KidneyRegrowth.stages.0.label>forming</TM_KidneyRegrowth.stages.0.label>
+  <TM_KidneyRegrowth.stages.1.label>developing</TM_KidneyRegrowth.stages.1.label>
+  <TM_KidneyRegrowth.stages.2.label>regrown</TM_KidneyRegrowth.stages.2.label>
+  <TM_KidneyRegrowth.stages.3.label>enhanced</TM_KidneyRegrowth.stages.3.label>
+  <TM_LiverRegrowth.label>Regrown Liver</TM_LiverRegrowth.label>
+  <TM_LiverRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_LiverRegrowth.description>
+  <TM_LiverRegrowth.stages.0.label>forming</TM_LiverRegrowth.stages.0.label>
+  <TM_LiverRegrowth.stages.1.label>developing</TM_LiverRegrowth.stages.1.label>
+  <TM_LiverRegrowth.stages.2.label>regrown</TM_LiverRegrowth.stages.2.label>
+  <TM_LiverRegrowth.stages.3.label>enhanced</TM_LiverRegrowth.stages.3.label>
+  <TM_StomachRegrowth.label>Regrown Stomach</TM_StomachRegrowth.label>
+  <TM_StomachRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_StomachRegrowth.description>
+  <TM_StomachRegrowth.stages.0.label>forming</TM_StomachRegrowth.stages.0.label>
+  <TM_StomachRegrowth.stages.1.label>developing</TM_StomachRegrowth.stages.1.label>
+  <TM_StomachRegrowth.stages.2.label>regrown</TM_StomachRegrowth.stages.2.label>
+  <TM_SpineRegrowth.label>Spine Meld</TM_SpineRegrowth.label>
+  <TM_SpineRegrowth.description>The magical entwining of nature and flesh will meld to form a powerful spine in several days.</TM_SpineRegrowth.description>
+  <TM_SpineRegrowth.stages.0.label>forming</TM_SpineRegrowth.stages.0.label>
+  <TM_SpineRegrowth.stages.1.label>new growth</TM_SpineRegrowth.stages.1.label>
+  <TM_SpineRegrowth.stages.2.label>melding</TM_SpineRegrowth.stages.2.label>
+  <TM_SpineRegrowth.stages.3.label>entwined</TM_SpineRegrowth.stages.3.label>
+  <TM_HamstringHD.label>Slowed</TM_HamstringHD.label>
+  <TM_HamstringHD.description>Reduces movement speed.</TM_HamstringHD.description>
+  <TM_HamstringHD.stages.0.label>I</TM_HamstringHD.stages.0.label>
+  <TM_HamstringHD.stages.1.label>II</TM_HamstringHD.stages.1.label>
+  <TM_HamstringHD.stages.2.label>III</TM_HamstringHD.stages.2.label>
+  <TM_Poison_HD.label>Poison</TM_Poison_HD.label>
+  <TM_Poison_HD.description>Damage caused by poison.</TM_Poison_HD.description>
+  <TM_Poison_HD.comps.0.labelTendedWell>bandaged</TM_Poison_HD.comps.0.labelTendedWell>
+  <TM_Poison_HD.comps.0.labelTendedWellInner>sutured</TM_Poison_HD.comps.0.labelTendedWellInner>
+  <TM_Poison_HD.comps.0.labelSolidTendedWell>set</TM_Poison_HD.comps.0.labelSolidTendedWell>
+  <TM_Poison_HD.comps.1.permanentLabel>withered away</TM_Poison_HD.comps.1.permanentLabel>
+  <TM_Poison_HD.injuryProps.destroyedLabel>withered</TM_Poison_HD.injuryProps.destroyedLabel>
+  <TM_Poison_HD.injuryProps.destroyedOutLabel>withered</TM_Poison_HD.injuryProps.destroyedOutLabel>
+  <TM_Poisoned_HD.label>Poisoned</TM_Poisoned_HD.label>
+  <TM_Poisoned_HD.description>Side effects of poison.</TM_Poisoned_HD.description>
+  <TM_Poisoned_HD.stages.0.label>minor</TM_Poisoned_HD.stages.0.label>
+  <TM_Poisoned_HD.stages.1.label>moderate</TM_Poisoned_HD.stages.1.label>
+  <TM_Poisoned_HD.stages.2.label>major</TM_Poisoned_HD.stages.2.label>
+  <TM_SunderArmorHD.label>Sunder Armor</TM_SunderArmorHD.label>
+  <TM_SunderArmorHD.description>Reduces armor rating.</TM_SunderArmorHD.description>
+  <TM_SunderArmorHD.stages.0.label>I</TM_SunderArmorHD.stages.0.label>
+  <TM_SunderArmorHD.stages.1.label>II</TM_SunderArmorHD.stages.1.label>
+  <TM_SunderArmorHD.stages.2.label>III</TM_SunderArmorHD.stages.2.label>
+  <TM_Tranquilizer_HD.label>Sedated</TM_Tranquilizer_HD.label>
+  <TM_Tranquilizer_HD.description>Effects of a tranquilizer.</TM_Tranquilizer_HD.description>
+  <TM_Tranquilizer_HD.stages.0.label>Slowed</TM_Tranquilizer_HD.stages.0.label>
+  <TM_Tranquilizer_HD.stages.1.label>Sedated</TM_Tranquilizer_HD.stages.1.label>
+  <TM_Tranquilizer_HD.stages.2.label>Paralytic</TM_Tranquilizer_HD.stages.2.label>
+  <TM_Slow_HD.label>Slowed</TM_Slow_HD.label>
+  <TM_Slow_HD.description>Effects of an ability that reduces physical and mental agility.</TM_Slow_HD.description>
+  <TM_Slow_HD.stages.0.label>minor</TM_Slow_HD.stages.0.label>
+  <TM_Slow_HD.stages.1.label>major</TM_Slow_HD.stages.1.label>
+  <TM_Slow_HD.stages.2.label>extreme</TM_Slow_HD.stages.2.label>
+  <TM_Movement.label>arcane speed</TM_Movement.label>
+  <TM_Movement.description>Arcane power that augments a pawns movement speed.</TM_Movement.description>
+  <TM_Movement.stages.0.label>I</TM_Movement.stages.0.label>
+  <TM_Movement.stages.1.label>II</TM_Movement.stages.1.label>
+  <TM_Movement.stages.2.label>III</TM_Movement.stages.2.label>
+  <TM_Movement.stages.3.label>IV</TM_Movement.stages.3.label>
+  <TM_Movement.stages.4.label>V</TM_Movement.stages.4.label>
+  <TM_Manipulation.label>arcane dexterity</TM_Manipulation.label>
+  <TM_Manipulation.description>Arcane power that augments dexterity (manipulation).</TM_Manipulation.description>
+  <TM_Manipulation.stages.0.label>I</TM_Manipulation.stages.0.label>
+  <TM_Manipulation.stages.1.label>II</TM_Manipulation.stages.1.label>
+  <TM_Manipulation.stages.2.label>III</TM_Manipulation.stages.2.label>
+  <TM_Manipulation.stages.3.label>IV</TM_Manipulation.stages.3.label>
+  <TM_Manipulation.stages.4.label>V</TM_Manipulation.stages.4.label>
+  <TM_Breathing.label>infused oxygen</TM_Breathing.label>
+  <TM_Breathing.description>Arcane power that enhances the efficiency and capacity of breathing.</TM_Breathing.description>
+  <TM_Breathing.stages.0.label>I</TM_Breathing.stages.0.label>
+  <TM_Breathing.stages.1.label>II</TM_Breathing.stages.1.label>
+  <TM_Breathing.stages.2.label>III</TM_Breathing.stages.2.label>
+  <TM_Breathing.stages.3.label>IV</TM_Breathing.stages.3.label>
+  <TM_Breathing.stages.4.label>V</TM_Breathing.stages.4.label>
+  <TM_Sight.label>arcane vision</TM_Sight.label>
+  <TM_Sight.description>Arcane power that augments vision.</TM_Sight.description>
+  <TM_Sight.stages.0.label>I</TM_Sight.stages.0.label>
+  <TM_Sight.stages.1.label>II</TM_Sight.stages.1.label>
+  <TM_Sight.stages.2.label>III</TM_Sight.stages.2.label>
+  <TM_Sight.stages.3.label>IV</TM_Sight.stages.3.label>
+  <TM_Sight.stages.4.label>V</TM_Sight.stages.4.label>
+  <TM_AntiMovement.label>arcane slow</TM_AntiMovement.label>
+  <TM_AntiMovement.description>Arcane power that reduces movement.</TM_AntiMovement.description>
+  <TM_AntiMovement.stages.0.label>I</TM_AntiMovement.stages.0.label>
+  <TM_AntiMovement.stages.1.label>II</TM_AntiMovement.stages.1.label>
+  <TM_AntiMovement.stages.2.label>III</TM_AntiMovement.stages.2.label>
+  <TM_AntiMovement.stages.3.label>IV</TM_AntiMovement.stages.3.label>
+  <TM_AntiMovement.stages.4.label>overwhelmed</TM_AntiMovement.stages.4.label>
+  <TM_AntiManipulation.label>arcane cripple</TM_AntiManipulation.label>
+  <TM_AntiManipulation.description>Arcane power that reduces dexterity (manipulation).</TM_AntiManipulation.description>
+  <TM_AntiManipulation.stages.0.label>I</TM_AntiManipulation.stages.0.label>
+  <TM_AntiManipulation.stages.1.label>II</TM_AntiManipulation.stages.1.label>
+  <TM_AntiManipulation.stages.2.label>III</TM_AntiManipulation.stages.2.label>
+  <TM_AntiManipulation.stages.3.label>IV</TM_AntiManipulation.stages.3.label>
+  <TM_AntiManipulation.stages.4.label>overwhelmed</TM_AntiManipulation.stages.4.label>
+  <TM_AntiBreathing.label>arcane suffocation</TM_AntiBreathing.label>
+  <TM_AntiBreathing.description>Arcane power that diminishes the circulation of air.</TM_AntiBreathing.description>
+  <TM_AntiBreathing.stages.0.label>I</TM_AntiBreathing.stages.0.label>
+  <TM_AntiBreathing.stages.1.label>II</TM_AntiBreathing.stages.1.label>
+  <TM_AntiBreathing.stages.2.label>III</TM_AntiBreathing.stages.2.label>
+  <TM_AntiBreathing.stages.3.label>IV</TM_AntiBreathing.stages.3.label>
+  <TM_AntiBreathing.stages.4.label>overwhelmed</TM_AntiBreathing.stages.4.label>
+  <TM_AntiSight.label>arcane blind</TM_AntiSight.label>
+  <TM_AntiSight.description>Arcane power that decreases sight.</TM_AntiSight.description>
+  <TM_AntiSight.stages.0.label>I</TM_AntiSight.stages.0.label>
+  <TM_AntiSight.stages.1.label>II</TM_AntiSight.stages.1.label>
+  <TM_AntiSight.stages.2.label>III</TM_AntiSight.stages.2.label>
+  <TM_AntiSight.stages.3.label>IV</TM_AntiSight.stages.3.label>
+  <TM_AntiSight.stages.4.label>overwhelmed</TM_AntiSight.stages.4.label>
+  <TM_MuteHD.label>Magically Mute</TM_MuteHD.label>
+  <TM_MuteHD.description>A curse that prevents the use of magical abilities.</TM_MuteHD.description>
+  <TM_ArtifactMendingHD.label>Mending</TM_ArtifactMendingHD.label>
+  <TM_ArtifactMendingHD.description>Mends and repairs equipped apparel and weapons.</TM_ArtifactMendingHD.description>
+  <TM_ArtifactHealthHD.label>Improved Health</TM_ArtifactHealthHD.label>
+  <TM_ArtifactHealthHD.description>Increases natural healing.</TM_ArtifactHealthHD.description>
+  <TM_ArtifactCatEyesHD.label>Dark Sight</TM_ArtifactCatEyesHD.label>
+  <TM_ArtifactCatEyesHD.description>Improves sight and grants minor night vision.</TM_ArtifactCatEyesHD.description>
+  <TM_ArtifactStrengthHD.label>Strength of Stone</TM_ArtifactStrengthHD.label>
+  <TM_ArtifactStrengthHD.description>An enchantment that increases manipulation.</TM_ArtifactStrengthHD.description>
+  <TM_ArtifactMindHD.label>Mind Ward</TM_ArtifactMindHD.label>
+  <TM_ArtifactMindHD.description>A unique talisman that helps a pawn compartmentalize their emotions to quickly recover from a mental breakdown.</TM_ArtifactMindHD.description>
+  <TM_ArtifactRenewalHD.label>Renewal</TM_ArtifactRenewalHD.label>
+  <TM_ArtifactRenewalHD.description>Improves the quality of sleep.</TM_ArtifactRenewalHD.description>
+  <TM_ArtifactArcaneRecoveryHD.label>Arcane Recovery</TM_ArtifactArcaneRecoveryHD.label>
+  <TM_ArtifactArcaneRecoveryHD.description>Increases the recovery rate from Arcane Weakness; does not reduce the amount of Arcane Weakness acquired.</TM_ArtifactArcaneRecoveryHD.description>
+  <TM_ArtifactPathfindingHD.label>Pathfinding</TM_ArtifactPathfindingHD.label>
+  <TM_ArtifactPathfindingHD.description>A talisman that uncannily ascertains an easy path across any obstacle; bypasses the movement penalty for obstacles and terrain.</TM_ArtifactPathfindingHD.description>
+  <TM_ArtifactBlockHD.label>Blocking</TM_ArtifactBlockHD.label>
+  <TM_ArtifactBlockHD.description>Blocks physical attacks; prevents damage from successfully blocked attacks.</TM_ArtifactBlockHD.description>
+  <TM_ArtifactDeflectHD.label>Deflective Blocking</TM_ArtifactDeflectHD.label>
+  <TM_ArtifactDeflectHD.description>Blocks attacks and can deflect projectiles to nearby enemies; prevents damage from a successfully deflected attack.</TM_ArtifactDeflectHD.description>
+  <TM_Artifact_BloodBoostHD.label>Blood Boost</TM_Artifact_BloodBoostHD.label>
+  <TM_Artifact_BloodBoostHD.description>Increases the maximum blood magic available to a blood mage.</TM_Artifact_BloodBoostHD.description>
+  <TM_Artifact_PsionicBoostHD.label>Psionic Boost</TM_Artifact_PsionicBoostHD.label>
+  <TM_Artifact_PsionicBoostHD.description>Increases the maximum psionic energy available to a psionic.</TM_Artifact_PsionicBoostHD.description>
+  <TM_Artifact_HateBoostHD.label>Hate Boost</TM_Artifact_HateBoostHD.label>
+  <TM_Artifact_HateBoostHD.description>Increases the maximum hate available to a death knight.</TM_Artifact_HateBoostHD.description>
+  <TM_TraitInfusionHD.label>Trait Infusion</TM_TraitInfusionHD.label>
+  <TM_TraitInfusionHD.description>A pawn has gained traits through magical infusion; this will affect their sense of self.</TM_TraitInfusionHD.description>
+  <TM_LullabyHD.label>Lullaby</TM_LullabyHD.label>
+  <TM_LullabyHD.description>Reduces the consciousness of a pawn.</TM_LullabyHD.description>
+  <TM_LullabyHD.stages.0.label>I</TM_LullabyHD.stages.0.label>
+  <TM_LullabyHD.stages.1.label>II</TM_LullabyHD.stages.1.label>
+  <TM_LullabyHD.stages.2.label>III</TM_LullabyHD.stages.2.label>
+  <TM_LullabyHD.stages.3.label>IV</TM_LullabyHD.stages.3.label>
+  <TM_InspirationalHD.label>Inspirational</TM_InspirationalHD.label>
+  <TM_InspirationalHD.description>Causes others to gain inspirations.</TM_InspirationalHD.description>
+  <TM_InspirationalHD.stages.0.label>Bard</TM_InspirationalHD.stages.0.label>
+  <TM_EntertainingHD.label>Entertaining</TM_EntertainingHD.label>
+  <TM_EntertainingHD.description>Actively seeks out other pawns to cheer up and entertain.</TM_EntertainingHD.description>
+  <TM_EntertainingHD.stages.0.label>Bard</TM_EntertainingHD.stages.0.label>
+  <TM_SingBattleHymnHD.label>battle chant</TM_SingBattleHymnHD.label>
+  <TM_SingBattleHymnHD.description>Chanting a resounding battle hymn to spur allies to victory.</TM_SingBattleHymnHD.description>
+  <TM_SingBattleHymnHD.stages.0.label>Bard</TM_SingBattleHymnHD.stages.0.label>
+  <TM_BattleHymnHD.label>Battle Hymn</TM_BattleHymnHD.label>
+  <TM_BattleHymnHD.description>Inspired and energized by a battle hymn.</TM_BattleHymnHD.description>
+  <TM_BattleHymnHD.stages.0.label>I</TM_BattleHymnHD.stages.0.label>
+  <TM_BattleHymnHD.stages.1.label>II</TM_BattleHymnHD.stages.1.label>
+  <TM_BattleHymnHD.stages.2.label>III</TM_BattleHymnHD.stages.2.label>
+  <TM_BattleHymnHD.stages.3.label>IV</TM_BattleHymnHD.stages.3.label>
+  <TM_BattleHymnHD.stages.4.label>V</TM_BattleHymnHD.stages.4.label>
+  <TM_BattleHymnHD.stages.5.label>VI</TM_BattleHymnHD.stages.5.label>
+  <TM_BattleHymnHD.stages.6.label>VII</TM_BattleHymnHD.stages.6.label>
+  <TM_BattleHymnHD.stages.7.label>VIII</TM_BattleHymnHD.stages.7.label>
+  <TM_BattleHymnHD.stages.8.label>IX</TM_BattleHymnHD.stages.8.label>
+  <TM_BattleHymnHD.stages.9.label>X</TM_BattleHymnHD.stages.9.label>
+  <TM_BloodHD.label>Blood Magic</TM_BloodHD.label>
+  <TM_BloodHD.description>Accounts for the blood power of a blood mage.</TM_BloodHD.description>
+  <TM_RendHD.label>Hemorrhaging</TM_RendHD.label>
+  <TM_RendHD.description>A horrendous wound causing massive bleeding.</TM_RendHD.description>
+  <TM_BloodForBloodHD.label>Blood Drain</TM_BloodForBloodHD.label>
+  <TM_BloodForBloodHD.description>Transfers blood from this target to a blood mage. Heals wounds in the process.</TM_BloodForBloodHD.description>
+  <TM_BloodShieldHD.label>Blood Shield</TM_BloodShieldHD.label>
+  <TM_BloodShieldHD.description>Enveloped in a protective bubble of life energy; energy from each blow to the Blood Shield restores health to the protected pawn.</TM_BloodShieldHD.description>
+  <TM_LightCapacitanceHD.label>Light power</TM_LightCapacitanceHD.label>
+  <TM_LightCapacitanceHD.description>The amount of stored light power available to a mage - acts as a catalyst for light magic.</TM_LightCapacitanceHD.description>
+  <TM_LightBurstHD.label>Blinding Flash</TM_LightBurstHD.label>
+  <TM_LightBurstHD.description>Pain, blindness and disorientation as a result of intense light effecting sensory organs. Disoriented pawns are unable to distinguish enemies from allies.</TM_LightBurstHD.description>
+  <TM_LightBurstHD.stages.0.label>dim vision</TM_LightBurstHD.stages.0.label>
+  <TM_LightBurstHD.stages.1.label>blinded</TM_LightBurstHD.stages.1.label>
+  <TM_LightBurstHD.stages.2.label>disoriented</TM_LightBurstHD.stages.2.label>
+  <TM_ChaosTraditionHD.label>Chaotic Flux</TM_ChaosTraditionHD.label>
+  <TM_ChaosTraditionHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ChaosTraditionHD.description>
+  <TM_ChaosTraditionHD.stages.0.label>I</TM_ChaosTraditionHD.stages.0.label>
+  <TM_ChaosTraditionHD.stages.1.label>II</TM_ChaosTraditionHD.stages.1.label>
+  <TM_ChaosTraditionHD.stages.2.label>III</TM_ChaosTraditionHD.stages.2.label>
+  <TM_ChaoticMindHD.label>Chaotic Mind</TM_ChaoticMindHD.label>
+  <TM_ChaoticMindHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ChaoticMindHD.description>
+  <TM_ChaoticMindHD.stages.0.label>thought</TM_ChaoticMindHD.stages.0.label>
+  <TM_ControlledChaosHD.label>Controlled Chaos</TM_ControlledChaosHD.label>
+  <TM_ControlledChaosHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ControlledChaosHD.description>
+  <TM_ControlledChaosHD.stages.0.label>CHAOS</TM_ControlledChaosHD.stages.0.label>
+  <TM_AccelerateTimeHD.label>Aging</TM_AccelerateTimeHD.label>
+  <TM_AccelerateTimeHD.description>Rapidly ages a pawn. Any other conditions affecting the pawn will also accelerate their natural tendencies. Pawns aged beyond their typical lifespan are frequently beset by age related illnesses or conditions.</TM_AccelerateTimeHD.description>
+  <TM_AccelerateTimeHD.stages.0.label>I</TM_AccelerateTimeHD.stages.0.label>
+  <TM_AccelerateTimeHD.stages.1.label>II</TM_AccelerateTimeHD.stages.1.label>
+  <TM_AccelerateTimeHD.stages.2.label>III</TM_AccelerateTimeHD.stages.2.label>
+  <TM_AccelerateTimeHD.stages.3.label>IV</TM_AccelerateTimeHD.stages.3.label>
+  <TM_ReverseTimeBadHD.label>Reverse Aging</TM_ReverseTimeBadHD.label>
+  <TM_ReverseTimeBadHD.description>Rapidly reverses the age of a pawn. Any other conditions affecting the pawn will also reverse their natural tendencies. Conditions reversed beyond the point in time that they were acquired will cease to exist. Pawns reversed before the point int time that they were spawned will also cease to exist.</TM_ReverseTimeBadHD.description>
+  <TM_ReverseTimeBadHD.stages.0.label>I</TM_ReverseTimeBadHD.stages.0.label>
+  <TM_ReverseTimeBadHD.stages.1.label>II</TM_ReverseTimeBadHD.stages.1.label>
+  <TM_ReverseTimeBadHD.stages.2.label>III</TM_ReverseTimeBadHD.stages.2.label>
+  <TM_ReverseTimeBadHD.stages.3.label>IV</TM_ReverseTimeBadHD.stages.3.label>
+  <TM_ReverseTimeHD.label>Reverse Aging</TM_ReverseTimeHD.label>
+  <TM_ReverseTimeHD.description>Rapidly reverses the age of a pawn. Any other conditions affecting the pawn will also reverse their natural tendencies. Conditions reversed beyond the point in time that they were acquired will cease to exist. Pawns reversed before the point int time that they were spawned will also cease to exist.</TM_ReverseTimeHD.description>
+  <TM_ReverseTimeHD.stages.0.label>I</TM_ReverseTimeHD.stages.0.label>
+  <TM_ReverseTimeHD.stages.1.label>II</TM_ReverseTimeHD.stages.1.label>
+  <TM_ReverseTimeHD.stages.2.label>III</TM_ReverseTimeHD.stages.2.label>
+  <TM_ReverseTimeHD.stages.3.label>IV</TM_ReverseTimeHD.stages.3.label>
+  <TM_PredictionHD.label>Prediction</TM_PredictionHD.label>
+  <TM_PredictionHD.description>Allows the prediction of future events or actions.
+	
+	Admin note: this ability predicts and delays any event. Some mods use these types of events as triggers for effects or outcomes, this can cause errors if the situation changes and certain objects, items, or conditions are no longer valid when a predicted event occurs.</TM_PredictionHD.description>
+  <TM_PredictionHD.stages.0.label>I</TM_PredictionHD.stages.0.label>
+  <TM_PredictionHD.stages.1.label>II</TM_PredictionHD.stages.1.label>
+  <TM_PredictionHD.stages.2.label>III</TM_PredictionHD.stages.2.label>
+  <TM_PredictionHD.stages.3.label>IV</TM_PredictionHD.stages.3.label>
+  <TM_PredictionHD.stages.4.label>V</TM_PredictionHD.stages.4.label>
+  <TM_PredictionHD.stages.5.label>VI</TM_PredictionHD.stages.5.label>
+  <TM_TauntHD.label>Taunted!</TM_TauntHD.label>
+  <TM_TauntHD.description>This pawn has been taunted and will focus their attacks on the offending pawn.</TM_TauntHD.description>
+  <TM_ProvisionerAuraHD.label>Provisioner Aura</TM_ProvisionerAuraHD.label>
+  <TM_ProvisionerAuraHD.description>Improves the availability of provisions for nearby pawns.</TM_ProvisionerAuraHD.description>
+  <TM_TaskMasterAuraHD.label>Task Master Aura</TM_TaskMasterAuraHD.label>
+  <TM_TaskMasterAuraHD.description>Manages the tasks and priorities of nearby pawns, increasing diligence but reduces mood.</TM_TaskMasterAuraHD.description>
+  <TM_CommanderAuraHD.label>Commander Aura</TM_CommanderAuraHD.label>
+  <TM_CommanderAuraHD.description>Inspires nearby pawns with charisma and leadership.</TM_CommanderAuraHD.description>
+  <TM_StayAlertHD.label>Alert</TM_StayAlertHD.label>
+  <TM_StayAlertHD.description>Received an order to invigorate alert levels.</TM_StayAlertHD.description>
+  <TM_MoveOutHD.label>Double Time</TM_MoveOutHD.label>
+  <TM_MoveOutHD.description>Received an order to move quickly.</TM_MoveOutHD.description>
+  <TM_MoveOutHD.stages.0.label>Recovering</TM_MoveOutHD.stages.0.label>
+  <TM_HoldTheLineHD.label>Defensive stance</TM_HoldTheLineHD.label>
+  <TM_HoldTheLineHD.description>Received an order to hold position and fight bravely.</TM_HoldTheLineHD.description>
+  <TM_HTLShieldHD.label>HTL Shield</TM_HTLShieldHD.label>
+  <TM_HTLShieldHD.description>Increased fortitude from being ordered to hold the line.</TM_HTLShieldHD.description>
+  <TM_CommanderHD.label>Emotionally Inspired (I)</TM_CommanderHD.label>
+  <TM_CommanderHD.description>Inspired by a Commander.</TM_CommanderHD.description>
+  <TM_CommanderHD.stages.0.label>Commander</TM_CommanderHD.stages.0.label>
+  <TM_CommanderHD_I.label>Emotionally Inspired (II)</TM_CommanderHD_I.label>
+  <TM_CommanderHD_I.description>Inspired by a Commander.</TM_CommanderHD_I.description>
+  <TM_CommanderHD_II.label>Emotionally Inspired (III)</TM_CommanderHD_II.label>
+  <TM_CommanderHD_II.description>Inspired by a Commander.</TM_CommanderHD_II.description>
+  <TM_CommanderHD_III.label>Emotionally Inspired (IV)</TM_CommanderHD_III.label>
+  <TM_CommanderHD_III.description>Inspired by a Commander.</TM_CommanderHD_III.description>
+  <TM_ProvisionerHD.label>Provisions</TM_ProvisionerHD.label>
+  <TM_ProvisionerHD.description>Acquired supplies and information from a Commander.</TM_ProvisionerHD.description>
+  <TM_ProvisionerHD.stages.0.label>I</TM_ProvisionerHD.stages.0.label>
+  <TM_ProvisionerHD.stages.1.label>II</TM_ProvisionerHD.stages.1.label>
+  <TM_ProvisionerHD.stages.2.label>III</TM_ProvisionerHD.stages.2.label>
+  <TM_ProvisionerHD.stages.3.label>IV</TM_ProvisionerHD.stages.3.label>
+  <TM_TaskMasterHD.label>Task Master</TM_TaskMasterHD.label>
+  <TM_TaskMasterHD.description>Tasks and priorities are being controlled by a Commander.</TM_TaskMasterHD.description>
+  <TM_TaskMasterHD.stages.0.label>I</TM_TaskMasterHD.stages.0.label>
+  <TM_TaskMasterHD.stages.1.label>II</TM_TaskMasterHD.stages.1.label>
+  <TM_TaskMasterHD.stages.2.label>III</TM_TaskMasterHD.stages.2.label>
+  <TM_TaskMasterHD.stages.3.label>IV</TM_TaskMasterHD.stages.3.label>
+  <TM_HateHD.label>Hate</TM_HateHD.label>
+  <TM_HateHD.description>Accounts for the unique energy and abilities utilized by a death knight.</TM_HateHD.description>
+  <TM_HateHD_I.label>Hate</TM_HateHD_I.label>
+  <TM_HateHD_I.description>Accounts for the unique energy and abilities utilized by a death knight.</TM_HateHD_I.description>
+  <TM_HateHD_II.label>Hate</TM_HateHD_II.label>
+  <TM_HateHD_II.description>Accounts for the unique energy and abilities utilized by a death knight.</TM_HateHD_II.description>
+  <TM_HateHD_III.label>Hate</TM_HateHD_III.label>
+  <TM_HateHD_III.description>Accounts for the unique energy and abilities utilized by a death knight.</TM_HateHD_III.description>
+  <TM_HateHD_IV.label>Hate</TM_HateHD_IV.label>
+  <TM_HateHD_IV.description>Accounts for the unique energy and abilities utilized by a death knight.</TM_HateHD_IV.description>
+  <TM_HateHD_V.label>Hate</TM_HateHD_V.label>
+  <TM_HateHD_V.description>Accounts for the unique energy and abilities utilized by a death knight.</TM_HateHD_V.description>
+  <TM_WaveOfFearHD.label>Wave of Fear</TM_WaveOfFearHD.label>
+  <TM_WaveOfFearHD.description>Affected by a terrible and debilitating fear.</TM_WaveOfFearHD.description>
+  <TM_WaveOfFearHD.stages.0.label>I</TM_WaveOfFearHD.stages.0.label>
+  <TM_WaveOfFearHD.stages.1.label>II</TM_WaveOfFearHD.stages.1.label>
+  <TM_WaveOfFearHD.stages.2.label>III</TM_WaveOfFearHD.stages.2.label>
+  <TM_WaveOfFearHD.stages.3.label>IV</TM_WaveOfFearHD.stages.3.label>
+  <TM_ShadowHD.label>Shadow</TM_ShadowHD.label>
+  <TM_ShadowHD.description>Shadow damage.</TM_ShadowHD.description>
+  <TM_ShadowHD.comps.0.labelTendedWell>bandaged</TM_ShadowHD.comps.0.labelTendedWell>
+  <TM_ShadowHD.comps.0.labelTendedWellInner>sutured</TM_ShadowHD.comps.0.labelTendedWellInner>
+  <TM_ShadowHD.comps.0.labelSolidTendedWell>set</TM_ShadowHD.comps.0.labelSolidTendedWell>
+  <TM_ShadowHD.comps.1.permanentLabel>touched by shadow</TM_ShadowHD.comps.1.permanentLabel>
+  <TM_ShadowHD.injuryProps.destroyedLabel>withered</TM_ShadowHD.injuryProps.destroyedLabel>
+  <TM_ShadowHD.injuryProps.destroyedOutLabel>disintegrated</TM_ShadowHD.injuryProps.destroyedOutLabel>
+  <TM_GravitySlowHD.label>Gravity Well</TM_GravitySlowHD.label>
+  <TM_GravitySlowHD.description>Slowed by an unnatural gravitational attraction.</TM_GravitySlowHD.description>
+  <TM_GravitySlowHD.stages.0.label>slowed</TM_GravitySlowHD.stages.0.label>
+  <TM_SoulBondPhysicalHD.label>Soul Bond</TM_SoulBondPhysicalHD.label>
+  <TM_SoulBondPhysicalHD.description>Soul bonded to a Succubus.</TM_SoulBondPhysicalHD.description>
+  <TM_SoulBondPhysicalHD.stages.0.label>I</TM_SoulBondPhysicalHD.stages.0.label>
+  <TM_SoulBondPhysicalHD.stages.1.label>II</TM_SoulBondPhysicalHD.stages.1.label>
+  <TM_SoulBondPhysicalHD.stages.2.label>III</TM_SoulBondPhysicalHD.stages.2.label>
+  <TM_SoulBondPhysicalHD.stages.3.label>IV</TM_SoulBondPhysicalHD.stages.3.label>
+  <TM_SDSoulBondPhysicalHD.label>Soul Bond</TM_SDSoulBondPhysicalHD.label>
+  <TM_SDSoulBondPhysicalHD.description>Maintaining a soul bond contract with another pawn.</TM_SDSoulBondPhysicalHD.description>
+  <TM_SDSoulBondPhysicalHD.stages.0.label>I</TM_SDSoulBondPhysicalHD.stages.0.label>
+  <TM_SDSoulBondPhysicalHD.stages.1.label>II</TM_SDSoulBondPhysicalHD.stages.1.label>
+  <TM_SDSoulBondPhysicalHD.stages.2.label>III</TM_SDSoulBondPhysicalHD.stages.2.label>
+  <TM_SDSoulBondPhysicalHD.stages.3.label>IV</TM_SDSoulBondPhysicalHD.stages.3.label>
+  <TM_SoulBondMentalHD.label>Soul Bond</TM_SoulBondMentalHD.label>
+  <TM_SoulBondMentalHD.description>Soul bonded to a Warlock.</TM_SoulBondMentalHD.description>
+  <TM_SoulBondMentalHD.stages.0.label>I</TM_SoulBondMentalHD.stages.0.label>
+  <TM_SoulBondMentalHD.stages.1.label>II</TM_SoulBondMentalHD.stages.1.label>
+  <TM_SoulBondMentalHD.stages.2.label>III</TM_SoulBondMentalHD.stages.2.label>
+  <TM_SoulBondMentalHD.stages.3.label>IV</TM_SoulBondMentalHD.stages.3.label>
+  <TM_WDSoulBondMentalHD.label>Soul Bond</TM_WDSoulBondMentalHD.label>
+  <TM_WDSoulBondMentalHD.description>Maintaining a contract with another pawn that bonds their soul with mine.</TM_WDSoulBondMentalHD.description>
+  <TM_WDSoulBondMentalHD.stages.0.label>I</TM_WDSoulBondMentalHD.stages.0.label>
+  <TM_WDSoulBondMentalHD.stages.1.label>II</TM_WDSoulBondMentalHD.stages.1.label>
+  <TM_WDSoulBondMentalHD.stages.2.label>III</TM_WDSoulBondMentalHD.stages.2.label>
+  <TM_WDSoulBondMentalHD.stages.3.label>IV</TM_WDSoulBondMentalHD.stages.3.label>
+  <TM_WDDominateHD.label>Dominate I</TM_WDDominateHD.label>
+  <TM_WDDominateHD.description>Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.</TM_WDDominateHD.description>
+  <TM_WDDominateHD.stages.0.label>fading</TM_WDDominateHD.stages.0.label>
+  <TM_WDDominateHD.stages.1.label>withdrawing</TM_WDDominateHD.stages.1.label>
+  <TM_WDDominateHD.stages.2.label>enveloping</TM_WDDominateHD.stages.2.label>
+  <TM_WDDominateHD.stages.3.label>overwhelming</TM_WDDominateHD.stages.3.label>
+  <TM_WDDominateHD_I.label>Dominate II</TM_WDDominateHD_I.label>
+  <TM_WDDominateHD_I.description>Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.</TM_WDDominateHD_I.description>
+  <TM_WDDominateHD_I.stages.0.label>fading</TM_WDDominateHD_I.stages.0.label>
+  <TM_WDDominateHD_I.stages.1.label>withdrawing</TM_WDDominateHD_I.stages.1.label>
+  <TM_WDDominateHD_I.stages.2.label>enveloping</TM_WDDominateHD_I.stages.2.label>
+  <TM_WDDominateHD_I.stages.3.label>overwhelming</TM_WDDominateHD_I.stages.3.label>
+  <TM_WDDominateHD_II.label>Dominate III</TM_WDDominateHD_II.label>
+  <TM_WDDominateHD_II.description>Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.</TM_WDDominateHD_II.description>
+  <TM_WDDominateHD_II.stages.0.label>fading</TM_WDDominateHD_II.stages.0.label>
+  <TM_WDDominateHD_II.stages.1.label>withdrawing</TM_WDDominateHD_II.stages.1.label>
+  <TM_WDDominateHD_II.stages.2.label>enveloping</TM_WDDominateHD_II.stages.2.label>
+  <TM_WDDominateHD_II.stages.3.label>overwhelming</TM_WDDominateHD_II.stages.3.label>
+  <TM_WDDominateHD_III.label>Dominate IV</TM_WDDominateHD_III.label>
+  <TM_WDDominateHD_III.description>Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.</TM_WDDominateHD_III.description>
+  <TM_WDDominateHD_III.stages.0.label>fading</TM_WDDominateHD_III.stages.0.label>
+  <TM_WDDominateHD_III.stages.1.label>withdrawing</TM_WDDominateHD_III.stages.1.label>
+  <TM_WDDominateHD_III.stages.2.label>enveloping</TM_WDDominateHD_III.stages.2.label>
+  <TM_WDDominateHD_III.stages.3.label>overwhelming</TM_WDDominateHD_III.stages.3.label>
+  <TM_SDDominateHD.label>Dominate I</TM_SDDominateHD.label>
+  <TM_SDDominateHD.description>Under the effects of a succubus dominatrix - stunts all physical actions.</TM_SDDominateHD.description>
+  <TM_SDDominateHD.stages.0.label>fading</TM_SDDominateHD.stages.0.label>
+  <TM_SDDominateHD.stages.1.label>withdrawing</TM_SDDominateHD.stages.1.label>
+  <TM_SDDominateHD.stages.2.label>enveloping</TM_SDDominateHD.stages.2.label>
+  <TM_SDDominateHD.stages.3.label>overwhelming</TM_SDDominateHD.stages.3.label>
+  <TM_SDDominateHD_I.label>Dominate II</TM_SDDominateHD_I.label>
+  <TM_SDDominateHD_I.description>Under the effects of a succubus dominatrix - stunts all physical actions.</TM_SDDominateHD_I.description>
+  <TM_SDDominateHD_I.stages.0.label>fading</TM_SDDominateHD_I.stages.0.label>
+  <TM_SDDominateHD_I.stages.1.label>withdrawing</TM_SDDominateHD_I.stages.1.label>
+  <TM_SDDominateHD_I.stages.2.label>enveloping</TM_SDDominateHD_I.stages.2.label>
+  <TM_SDDominateHD_I.stages.3.label>overwhelming</TM_SDDominateHD_I.stages.3.label>
+  <TM_SDDominateHD_II.label>Dominate III</TM_SDDominateHD_II.label>
+  <TM_SDDominateHD_II.description>Under the effects of a succubus dominatrix - stunts all physical actions.</TM_SDDominateHD_II.description>
+  <TM_SDDominateHD_II.stages.0.label>fading</TM_SDDominateHD_II.stages.0.label>
+  <TM_SDDominateHD_II.stages.1.label>withdrawing</TM_SDDominateHD_II.stages.1.label>
+  <TM_SDDominateHD_II.stages.2.label>enveloping</TM_SDDominateHD_II.stages.2.label>
+  <TM_SDDominateHD_II.stages.3.label>overwhelming</TM_SDDominateHD_II.stages.3.label>
+  <TM_SDDominateHD_III.label>Dominate IV</TM_SDDominateHD_III.label>
+  <TM_SDDominateHD_III.description>Under the effects of a succubus dominatrix - stunts all physical actions.</TM_SDDominateHD_III.description>
+  <TM_SDDominateHD_III.stages.0.label>fading</TM_SDDominateHD_III.stages.0.label>
+  <TM_SDDominateHD_III.stages.1.label>withdrawing</TM_SDDominateHD_III.stages.1.label>
+  <TM_SDDominateHD_III.stages.2.label>enveloping</TM_SDDominateHD_III.stages.2.label>
+  <TM_SDDominateHD_III.stages.3.label>overwhelming</TM_SDDominateHD_III.stages.3.label>
+  <TM_VitalityDrainHD.label>Vitality Drain</TM_VitalityDrainHD.label>
+  <TM_VitalityDrainHD.description>Physically drained but mentally relaxed through intimacy with a succubus.</TM_VitalityDrainHD.description>
+  <TM_VitalityDrainHD.stages.0.label>Succubus</TM_VitalityDrainHD.stages.0.label>
+  <TM_VitalityBoostHD.label>Vitality Boost</TM_VitalityBoostHD.label>
+  <TM_VitalityBoostHD.description>Physical boost acquired by draining the energy from a pawn during intimacy.</TM_VitalityBoostHD.description>
+  <TM_DemonHD.label>Demonic Flames</TM_DemonHD.label>
+  <TM_DemonHD.description>Demonic flames that swirl and writhe around the form of a demon.</TM_DemonHD.description>
+  <TM_DemonicPriceHD.label>Soul Consumption</TM_DemonicPriceHD.label>
+  <TM_DemonicPriceHD.description>Flames of destruction that will never cease until they consume the soul of this pawn.</TM_DemonicPriceHD.description>
+  <TM_DemonScornHD.label>Demon's Scorn</TM_DemonScornHD.label>
+  <TM_DemonScornHD.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD.description>
+  <TM_DemonScornHD.stages.0.label>I</TM_DemonScornHD.stages.0.label>
+  <TM_DemonScornHD_I.label>Demon's Scorn</TM_DemonScornHD_I.label>
+  <TM_DemonScornHD_I.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD_I.description>
+  <TM_DemonScornHD_I.stages.0.label>II</TM_DemonScornHD_I.stages.0.label>
+  <TM_DemonScornHD_II.label>Demon's Scorn</TM_DemonScornHD_II.label>
+  <TM_DemonScornHD_II.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD_II.description>
+  <TM_DemonScornHD_II.stages.0.label>III</TM_DemonScornHD_II.stages.0.label>
+  <TM_DemonScornHD_III.label>Demon's Scorn</TM_DemonScornHD_III.label>
+  <TM_DemonScornHD_III.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD_III.description>
+  <TM_DemonScornHD_III.stages.0.label>IV</TM_DemonScornHD_III.stages.0.label>
+  <TM_EnchantedBodyHD.label>Enchanted Body</TM_EnchantedBodyHD.label>
+  <TM_EnchantedBodyHD.description>Creation of enchanted body parts to enhance physical capability.</TM_EnchantedBodyHD.description>
+  <TM_EnchantedBodyHD.stages.0.label>Arm</TM_EnchantedBodyHD.stages.0.label>
+  <TM_EnchantedBodyHD.stages.1.label>Two Arms</TM_EnchantedBodyHD.stages.1.label>
+  <TM_EnchantedBodyHD.stages.2.label>Arms and Eye</TM_EnchantedBodyHD.stages.2.label>
+  <TM_EnchantedBodyHD.stages.3.label>Arms and Eye ++</TM_EnchantedBodyHD.stages.3.label>
+  <TM_EnchantedAuraHD.label>Enchanted Aura</TM_EnchantedAuraHD.label>
+  <TM_EnchantedAuraHD.description>An enchanted aspect surrounds the pawn enhancing qualities considered for beauty, endearment, and attraction.</TM_EnchantedAuraHD.description>
+  <TM_EnchantedAuraHD.stages.0.label>I</TM_EnchantedAuraHD.stages.0.label>
+  <TM_EnchantedAuraHD.stages.1.label>II</TM_EnchantedAuraHD.stages.1.label>
+  <TM_EnchantedAuraHD.stages.2.label>III</TM_EnchantedAuraHD.stages.2.label>
+  <TM_EnchantedAuraHD.stages.3.label>IV</TM_EnchantedAuraHD.stages.3.label>
+  <TM_ShapeshiftHD.label>Shapeshifter</TM_ShapeshiftHD.label>
+  <TM_ShapeshiftHD.description>Improves the power of any animal form taken by a shape shifter.</TM_ShapeshiftHD.description>
+  <TM_ShapeshiftHD.stages.0.label>I</TM_ShapeshiftHD.stages.0.label>
+  <TM_ShapeshiftHD.stages.1.label>II</TM_ShapeshiftHD.stages.1.label>
+  <TM_ShapeshiftHD.stages.2.label>III</TM_ShapeshiftHD.stages.2.label>
+  <TM_ShapeshiftHD.stages.3.label>IV</TM_ShapeshiftHD.stages.3.label>
+  <TM_WeaponEnchantment_FireHD.label>Enchanted Weapon</TM_WeaponEnchantment_FireHD.label>
+  <TM_WeaponEnchantment_FireHD.description>Enchants the currently equipped weapon with elemental fire that can burn or set fire to an object. This enchantment will end if the weapon is unequipped or swapped.</TM_WeaponEnchantment_FireHD.description>
+  <TM_WeaponEnchantment_FireHD.stages.0.label>Fire (I)</TM_WeaponEnchantment_FireHD.stages.0.label>
+  <TM_WeaponEnchantment_FireHD.stages.1.label>Fire (II)</TM_WeaponEnchantment_FireHD.stages.1.label>
+  <TM_WeaponEnchantment_FireHD.stages.2.label>Fire (III)</TM_WeaponEnchantment_FireHD.stages.2.label>
+  <TM_WeaponEnchantment_FireHD.stages.3.label>Fire (IV)</TM_WeaponEnchantment_FireHD.stages.3.label>
+  <TM_WeaponEnchantment_IceHD.label>Enchanted Weapon</TM_WeaponEnchantment_IceHD.label>
+  <TM_WeaponEnchantment_IceHD.description>Enchants the currently equipped weapon with elemental ice that inflicts frostbite. This enchantment will end if the weapon is unequipped or swapped.</TM_WeaponEnchantment_IceHD.description>
+  <TM_WeaponEnchantment_IceHD.stages.0.label>Ice (I)</TM_WeaponEnchantment_IceHD.stages.0.label>
+  <TM_WeaponEnchantment_IceHD.stages.1.label>Ice (II)</TM_WeaponEnchantment_IceHD.stages.1.label>
+  <TM_WeaponEnchantment_IceHD.stages.2.label>Ice (III)</TM_WeaponEnchantment_IceHD.stages.2.label>
+  <TM_WeaponEnchantment_IceHD.stages.3.label>Ice (IV)</TM_WeaponEnchantment_IceHD.stages.3.label>
+  <TM_WeaponEnchantment_LitHD.label>Enchanted Weapon</TM_WeaponEnchantment_LitHD.label>
+  <TM_WeaponEnchantment_LitHD.description>Enchants the currently equipped weapon with elemental lightning that sends stunning shockwaves through an object. This enchantment will end if the weapon is unequipped or swapped.</TM_WeaponEnchantment_LitHD.description>
+  <TM_WeaponEnchantment_LitHD.stages.0.label>Stun (I)</TM_WeaponEnchantment_LitHD.stages.0.label>
+  <TM_WeaponEnchantment_LitHD.stages.1.label>Stun (II)</TM_WeaponEnchantment_LitHD.stages.1.label>
+  <TM_WeaponEnchantment_LitHD.stages.2.label>Stun (III)</TM_WeaponEnchantment_LitHD.stages.2.label>
+  <TM_WeaponEnchantment_LitHD.stages.3.label>Stun (IV)</TM_WeaponEnchantment_LitHD.stages.3.label>
+  <TM_WeaponEnchantment_DarkHD.label>Enchanted Weapon</TM_WeaponEnchantment_DarkHD.label>
+  <TM_WeaponEnchantment_DarkHD.description>Enchants the currently equipped weapon with a touch of darkness that causes blindness. This enchantment will end if the weapon is unequipped or swapped.</TM_WeaponEnchantment_DarkHD.description>
+  <TM_WeaponEnchantment_DarkHD.stages.0.label>Dark (I)</TM_WeaponEnchantment_DarkHD.stages.0.label>
+  <TM_WeaponEnchantment_DarkHD.stages.1.label>Dark (II)</TM_WeaponEnchantment_DarkHD.stages.1.label>
+  <TM_WeaponEnchantment_DarkHD.stages.2.label>Dark (III)</TM_WeaponEnchantment_DarkHD.stages.2.label>
+  <TM_WeaponEnchantment_DarkHD.stages.3.label>Dark (IV)</TM_WeaponEnchantment_DarkHD.stages.3.label>
+  <TM_DisguiseHD.label>Deception</TM_DisguiseHD.label>
+  <TM_DisguiseHD.description>Wrapped in a clever disguise to deceive opponents.</TM_DisguiseHD.description>
+  <TM_DisguiseHD.stages.0.label>I</TM_DisguiseHD.stages.0.label>
+  <TM_DisguiseHD_I.label>Deception</TM_DisguiseHD_I.label>
+  <TM_DisguiseHD_I.description>Wrapped in a clever disguise to deceive opponents.</TM_DisguiseHD_I.description>
+  <TM_DisguiseHD_I.stages.0.label>II</TM_DisguiseHD_I.stages.0.label>
+  <TM_DisguiseHD_II.label>Deception</TM_DisguiseHD_II.label>
+  <TM_DisguiseHD_II.description>Wrapped in a clever disguise to deceive opponents.</TM_DisguiseHD_II.description>
+  <TM_DisguiseHD_II.stages.0.label>III</TM_DisguiseHD_II.stages.0.label>
+  <TM_DisguiseHD_III.label>Deception</TM_DisguiseHD_III.label>
+  <TM_DisguiseHD_III.description>Wrapped in a clever disguise to deceive opponents.</TM_DisguiseHD_III.description>
+  <TM_DisguiseHD_III.stages.0.label>IV</TM_DisguiseHD_III.stages.0.label>
+  <TM_ReversalHD.label>Reversal Stance</TM_ReversalHD.label>
+  <TM_ReversalHD.description>Turns the energy of attack back on the attacker.</TM_ReversalHD.description>
+  <TM_ReversalHD.stages.0.label>I</TM_ReversalHD.stages.0.label>
+  <TM_PossessionHD.label>Possessed</TM_PossessionHD.label>
+  <TM_PossessionHD.description>Actions are being influenced by a master of deception.</TM_PossessionHD.description>
+  <TM_PossessionHD.stages.0.label>I</TM_PossessionHD.stages.0.label>
+  <TM_PossessionHD_I.label>Possessed</TM_PossessionHD_I.label>
+  <TM_PossessionHD_I.description>Actions are being influenced by a master of deception.</TM_PossessionHD_I.description>
+  <TM_PossessionHD_I.stages.0.label>II</TM_PossessionHD_I.stages.0.label>
+  <TM_PossessionHD_II.label>Possessed</TM_PossessionHD_II.label>
+  <TM_PossessionHD_II.description>Actions are being influenced by a master of deception.</TM_PossessionHD_II.description>
+  <TM_PossessionHD_II.stages.0.label>III</TM_PossessionHD_II.stages.0.label>
+  <TM_PossessionHD_III.label>Possessed</TM_PossessionHD_III.label>
+  <TM_PossessionHD_III.description>Actions are being influenced by a master of deception.</TM_PossessionHD_III.description>
+  <TM_PossessionHD_III.stages.0.label>IV</TM_PossessionHD_III.stages.0.label>
+  <TM_CoOpPossessionHD.label>Possessed</TM_CoOpPossessionHD.label>
+  <TM_CoOpPossessionHD.description>Actions are being influenced by a master of deception.</TM_CoOpPossessionHD.description>
+  <TM_CoOpPossessionHD.stages.0.label>I</TM_CoOpPossessionHD.stages.0.label>
+  <TM_CoOpPossessionHD_I.label>Possessed</TM_CoOpPossessionHD_I.label>
+  <TM_CoOpPossessionHD_I.description>Actions are being influenced by a master of deception.</TM_CoOpPossessionHD_I.description>
+  <TM_CoOpPossessionHD_I.stages.0.label>II</TM_CoOpPossessionHD_I.stages.0.label>
+  <TM_CoOpPossessionHD_II.label>Possessed</TM_CoOpPossessionHD_II.label>
+  <TM_CoOpPossessionHD_II.description>Actions are being influenced by a master of deception.</TM_CoOpPossessionHD_II.description>
+  <TM_CoOpPossessionHD_II.stages.0.label>III</TM_CoOpPossessionHD_II.stages.0.label>
+  <TM_CoOpPossessionHD_III.label>Possessed</TM_CoOpPossessionHD_III.label>
+  <TM_CoOpPossessionHD_III.description>Actions are being influenced by a master of deception.</TM_CoOpPossessionHD_III.description>
+  <TM_CoOpPossessionHD_III.stages.0.label>IV</TM_CoOpPossessionHD_III.stages.0.label>
+  <TM_DisorientedVomit.label>disoriented</TM_DisorientedVomit.label>
+  <TM_DisorientedVomit.description>Disoriented after swapping positions with another pawn.</TM_DisorientedVomit.description>
+  <TM_DisorientedVomit.stages.0.label>I</TM_DisorientedVomit.stages.0.label>
+  <TM_MedicalSupplyHD.label>Medical Supplies</TM_MedicalSupplyHD.label>
+  <TM_MedicalSupplyHD.description>Accounts for the medical supplies equipped by a Field Medic.</TM_MedicalSupplyHD.description>
+  <TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>medical supplies are not meant to regen</TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>
+  <TM_EmergencyHD.label>Emergency</TM_EmergencyHD.label>
+  <TM_EmergencyHD.description>I'll do my best.</TM_EmergencyHD.description>
+  <TM_EmergencyHD.stages.0.label>I</TM_EmergencyHD.stages.0.label>
+  <TM_MedigelHD.label>Medigel</TM_MedigelHD.label>
+  <TM_MedigelHD.description>Medigel increases healing rates and fights infections.</TM_MedigelHD.description>
+  <TM_MedigelHD.stages.0.label>I</TM_MedigelHD.stages.0.label>
+  <TM_CombatDrugsPain_HD.label>Combat Drugs (painkiller)</TM_CombatDrugsPain_HD.label>
+  <TM_CombatDrugsPain_HD.description>Combat drugs reducing pain</TM_CombatDrugsPain_HD.description>
+  <TM_CombatDrugsMoving_HD.label>Combat Drugs (movement)</TM_CombatDrugsMoving_HD.label>
+  <TM_CombatDrugsMoving_HD.description>Combat drugs enhancing movement</TM_CombatDrugsMoving_HD.description>
+  <TM_CombatDrugsAwareness_HD.label>Combat Drugs (awareness)</TM_CombatDrugsAwareness_HD.label>
+  <TM_CombatDrugsAwareness_HD.description>Combat drugs enhancing awareness</TM_CombatDrugsAwareness_HD.description>
+  <TM_CombatDrugsAccuracy_HD.label>Combat Drugs (accuracy)</TM_CombatDrugsAccuracy_HD.label>
+  <TM_CombatDrugsAccuracy_HD.description>Combat drugs enhancing accuracy</TM_CombatDrugsAccuracy_HD.description>
+  <TM_StoneskinHD.label>Stoneskin</TM_StoneskinHD.label>
+  <TM_StoneskinHD.description>Each charge nullifies the damage from a single attack.</TM_StoneskinHD.description>
+  <TM_ChiHD.label>Ch'i</TM_ChiHD.label>
+  <TM_ChiHD.description>Accounts for the unique energy utilized by a Monk.</TM_ChiHD.description>
+  <TM_MindOverBodyHD.label>Mind over body</TM_MindOverBodyHD.label>
+  <TM_MindOverBodyHD.description>Reinforces physical power by overcoming the limitations of the body.</TM_MindOverBodyHD.description>
+  <TM_MindOverBodyHD.stages.0.label>I</TM_MindOverBodyHD.stages.0.label>
+  <TM_MindOverBodyHD.stages.1.label>II</TM_MindOverBodyHD.stages.1.label>
+  <TM_MindOverBodyHD.stages.2.label>III</TM_MindOverBodyHD.stages.2.label>
+  <TM_MindOverBodyHD.stages.3.label>IV</TM_MindOverBodyHD.stages.3.label>
+  <TM_UndeadHD.label>Undead</TM_UndeadHD.label>
+  <TM_UndeadHD.description>A pawn animated by necrotic energy. This pawn possesses no intent of its own, and requires continual direction and energy from a necromancer.</TM_UndeadHD.description>
+  <TM_UndeadHD.stages.0.label>I</TM_UndeadHD.stages.0.label>
+  <TM_UndeadHD.stages.1.label>II</TM_UndeadHD.stages.1.label>
+  <TM_UndeadHD.stages.2.label>III</TM_UndeadHD.stages.2.label>
+  <TM_UndeadHD.stages.3.label>IV</TM_UndeadHD.stages.3.label>
+  <TM_LichHD.label>Lich</TM_LichHD.label>
+  <TM_LichHD.description>A pawn that has achieved immortality by severing their connection to the cycle of life and death.</TM_LichHD.description>
+  <TM_LichHD.stages.0.label>Undead</TM_LichHD.stages.0.label>
+  <TM_UndeadAnimalHD.label>Undead</TM_UndeadAnimalHD.label>
+  <TM_UndeadAnimalHD.description>A pawn animated by necrotic energy. This pawn possesses no intent of its own, and requires continual direction and energy from a necromancer.</TM_UndeadAnimalHD.description>
+  <TM_UndeadAnimalHD.stages.0.label>I</TM_UndeadAnimalHD.stages.0.label>
+  <TM_UndeadAnimalHD.stages.1.label>II</TM_UndeadAnimalHD.stages.1.label>
+  <TM_UndeadAnimalHD.stages.2.label>III</TM_UndeadAnimalHD.stages.2.label>
+  <TM_UndeadAnimalHD.stages.3.label>IV</TM_UndeadAnimalHD.stages.3.label>
+  <TM_DeathMarkHD.label>Death Mark</TM_DeathMarkHD.label>
+  <TM_DeathMarkHD.description>Marked by death, this pawn will soon die and be reanimated as an undead. (not used)</TM_DeathMarkHD.description>
+  <TM_DeathMarkCurse.label>Death Mark</TM_DeathMarkCurse.label>
+  <TM_DeathMarkCurse.description>Marked by death, this pawn is unable to focus on the present due to their focus on their inevitable death.</TM_DeathMarkCurse.description>
+  <TM_DeathMarkCurse.stages.0.label>clumsy</TM_DeathMarkCurse.stages.0.label>
+  <TM_DeathMarkCurse.stages.1.label>fumbling</TM_DeathMarkCurse.stages.1.label>
+  <TM_DeathMarkCurse.stages.2.label>cursed</TM_DeathMarkCurse.stages.2.label>
+  <TM_TormentHD.label>Torment</TM_TormentHD.label>
+  <TM_TormentHD.description>Pain induced by dark energy.</TM_TormentHD.description>
+  <TM_TormentHD.comps.0.labelTendedWell>bandaged</TM_TormentHD.comps.0.labelTendedWell>
+  <TM_TormentHD.comps.0.labelTendedWellInner>sutured</TM_TormentHD.comps.0.labelTendedWellInner>
+  <TM_TormentHD.comps.0.labelSolidTendedWell>set</TM_TormentHD.comps.0.labelSolidTendedWell>
+  <TM_TormentHD.comps.1.permanentLabel>rotten</TM_TormentHD.comps.1.permanentLabel>
+  <TM_TormentHD.injuryProps.destroyedLabel>melted off</TM_TormentHD.injuryProps.destroyedLabel>
+  <TM_TormentHD.injuryProps.destroyedOutLabel>melted</TM_TormentHD.injuryProps.destroyedOutLabel>
+  <TM_DeathBoltHD.label>death bolt</TM_DeathBoltHD.label>
+  <TM_DeathBoltHD.description>Destructive energy that kills all living things.</TM_DeathBoltHD.description>
+  <TM_DeathBoltHD.comps.0.labelTendedWell>bandaged</TM_DeathBoltHD.comps.0.labelTendedWell>
+  <TM_DeathBoltHD.comps.0.labelTendedWellInner>sutured</TM_DeathBoltHD.comps.0.labelTendedWellInner>
+  <TM_DeathBoltHD.comps.0.labelSolidTendedWell>set</TM_DeathBoltHD.comps.0.labelSolidTendedWell>
+  <TM_DeathBoltHD.comps.1.permanentLabel>melted</TM_DeathBoltHD.comps.1.permanentLabel>
+  <TM_DeathBoltHD.injuryProps.destroyedLabel>melted off</TM_DeathBoltHD.injuryProps.destroyedLabel>
+  <TM_DeathBoltHD.injuryProps.destroyedOutLabel>melted</TM_DeathBoltHD.injuryProps.destroyedOutLabel>
+  <TM_Torment_HD.label>Tormented</TM_Torment_HD.label>
+  <TM_Torment_HD.description>Painfully tormented by dark magic.</TM_Torment_HD.description>
+  <TM_Torment_HD.stages.0.label>pain</TM_Torment_HD.stages.0.label>
+  <TM_Torment_HD.stages.1.label>agony</TM_Torment_HD.stages.1.label>
+  <TM_Torment_HD.stages.2.label>torment</TM_Torment_HD.stages.2.label>
+  <TM_UndeadStageHD.label>Body stage</TM_UndeadStageHD.label>
+  <TM_UndeadStageHD.description>The current stage of undead.</TM_UndeadStageHD.description>
+  <TM_UndeadStageHD.stages.0.label>Rotting</TM_UndeadStageHD.stages.0.label>
+  <TM_UndeadStageHD.stages.1.label>Dessicated</TM_UndeadStageHD.stages.1.label>
+  <TM_BrittleBonesHD.label>Brittle bones</TM_BrittleBonesHD.label>
+  <TM_BrittleBonesHD.description>Occurs when exposed to extremely cold temperatures and causes bones and ligaments to become brittle which reduces movement and manipulation. Undead with this condition require 50% additional mana to sustain.</TM_BrittleBonesHD.description>
+  <TM_BrittleBonesHD.stages.0.label>I</TM_BrittleBonesHD.stages.0.label>
+  <TM_BrittleBonesHD.stages.1.label>II</TM_BrittleBonesHD.stages.1.label>
+  <TM_BrittleBonesHD.stages.2.label>III</TM_BrittleBonesHD.stages.2.label>
+  <TM_SlaggedHD.label>Slagged</TM_SlaggedHD.label>
+  <TM_SlaggedHD.description>Occurs when exposed to extremely hot temperatures and causes organic matter to decompose and even melt. Undead affected by this condition require 50% more mana to sustain.</TM_SlaggedHD.description>
+  <TM_SlaggedHD.stages.0.label>I</TM_SlaggedHD.stages.0.label>
+  <TM_SlaggedHD.stages.1.label>II</TM_SlaggedHD.stages.1.label>
+  <TM_SlaggedHD.stages.2.label>III</TM_SlaggedHD.stages.2.label>
+  <TM_PsionicHD.label>Psionic Energy</TM_PsionicHD.label>
+  <TM_PsionicHD.description>Accounts for the unique energy of a Psionic.</TM_PsionicHD.description>
+  <TM_PsionicInjuryHD.label>Psionic</TM_PsionicInjuryHD.label>
+  <TM_PsionicInjuryHD.description>Injury caused by psionic power.</TM_PsionicInjuryHD.description>
+  <TM_PsionicInjuryHD.comps.0.labelTendedWell>bandaged</TM_PsionicInjuryHD.comps.0.labelTendedWell>
+  <TM_PsionicInjuryHD.comps.0.labelTendedWellInner>sutured</TM_PsionicInjuryHD.comps.0.labelTendedWellInner>
+  <TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>set</TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>
+  <TM_PsionicInjuryHD.comps.1.permanentLabel>destroyed by psionic power</TM_PsionicInjuryHD.comps.1.permanentLabel>
+  <TM_PsionicInjuryHD.injuryProps.destroyedLabel>blasted off</TM_PsionicInjuryHD.injuryProps.destroyedLabel>
+  <TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>blasted out</TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>
+  <TM_PsionicSpeedHD.label>psionic speed</TM_PsionicSpeedHD.label>
+  <TM_PsionicSpeedHD.description>Enhanced speed through psionic augmentation.</TM_PsionicSpeedHD.description>
+  <TM_PsionicSpeedHD.stages.0.label>I</TM_PsionicSpeedHD.stages.0.label>
+  <TM_PsionicSpeedHD_I.label>psionic speed</TM_PsionicSpeedHD_I.label>
+  <TM_PsionicSpeedHD_I.description>Enhanced speed through psionic augmentation.</TM_PsionicSpeedHD_I.description>
+  <TM_PsionicSpeedHD_I.stages.0.label>II</TM_PsionicSpeedHD_I.stages.0.label>
+  <TM_PsionicSpeedHD_II.label>psionic speed</TM_PsionicSpeedHD_II.label>
+  <TM_PsionicSpeedHD_II.description>Enhanced speed through psionic augmentation.</TM_PsionicSpeedHD_II.description>
+  <TM_PsionicSpeedHD_II.stages.0.label>III</TM_PsionicSpeedHD_II.stages.0.label>
+  <TM_PsionicSpeedHD_III.label>psionic speed</TM_PsionicSpeedHD_III.label>
+  <TM_PsionicSpeedHD_III.description>Enhanced speed through psionic augmentation.</TM_PsionicSpeedHD_III.description>
+  <TM_PsionicSpeedHD_III.stages.0.label>IV</TM_PsionicSpeedHD_III.stages.0.label>
+  <TM_PsionicManipulationHD.label>psionic manipulation</TM_PsionicManipulationHD.label>
+  <TM_PsionicManipulationHD.description>Enhanced dexterity through psionic augmentation.</TM_PsionicManipulationHD.description>
+  <TM_PsionicManipulationHD.stages.0.label>I</TM_PsionicManipulationHD.stages.0.label>
+  <TM_PsionicManipulationHD_I.label>psionic manipulation</TM_PsionicManipulationHD_I.label>
+  <TM_PsionicManipulationHD_I.description>Enhanced dexterity through psionic augmentation.</TM_PsionicManipulationHD_I.description>
+  <TM_PsionicManipulationHD_I.stages.0.label>II</TM_PsionicManipulationHD_I.stages.0.label>
+  <TM_PsionicManipulationHD_II.label>psionic manipulation</TM_PsionicManipulationHD_II.label>
+  <TM_PsionicManipulationHD_II.description>Enhanced dexterity through psionic augmentation.</TM_PsionicManipulationHD_II.description>
+  <TM_PsionicManipulationHD_II.stages.0.label>III</TM_PsionicManipulationHD_II.stages.0.label>
+  <TM_PsionicManipulationHD_III.label>psionic manipulation</TM_PsionicManipulationHD_III.label>
+  <TM_PsionicManipulationHD_III.description>Enhanced dexterity through psionic augmentation.</TM_PsionicManipulationHD_III.description>
+  <TM_PsionicManipulationHD_III.stages.0.label>IV</TM_PsionicManipulationHD_III.stages.0.label>
+  <TM_ShadowCloakHD.label>Shadow Cloak</TM_ShadowCloakHD.label>
+  <TM_ShadowCloakHD.description>Cloaked in shadows.</TM_ShadowCloakHD.description>
+  <TM_ShadowCloakHD.stages.1.label>I</TM_ShadowCloakHD.stages.1.label>
+  <TM_ShadowCloakHD.stages.2.label>II</TM_ShadowCloakHD.stages.2.label>
+  <TM_ShadowCloakHD.stages.3.label>III</TM_ShadowCloakHD.stages.3.label>
+  <TM_ShadowCloakHD.stages.4.label>IV</TM_ShadowCloakHD.stages.4.label>
+  <TM_ShadowCloakHD.stages.5.label>V</TM_ShadowCloakHD.stages.5.label>
+  <TM_NightshadeHD.label>Nightshade coating</TM_NightshadeHD.label>
+  <TM_NightshadeHD.description>Applies nightshade toxin to weapons and ammunition.</TM_NightshadeHD.description>
+  <TM_HasteHD.label>Haste</TM_HasteHD.label>
+  <TM_HasteHD.description>Attack rate is doubled.</TM_HasteHD.description>
+  <TM_NightshadeToxinHD.label>Nightshade toxin</TM_NightshadeToxinHD.label>
+  <TM_NightshadeToxinHD.description>Afflicted with nightshade toxin causing blindness and difficulty breathing.</TM_NightshadeToxinHD.description>
+  <TM_NightshadeToxinHD.stages.1.label>I</TM_NightshadeToxinHD.stages.1.label>
+  <TM_NightshadeToxinHD.stages.2.label>II</TM_NightshadeToxinHD.stages.2.label>
+  <TM_NightshadeToxinHD.stages.3.label>III</TM_NightshadeToxinHD.stages.3.label>
+  <TM_NightshadeToxinHD.stages.4.label>IV</TM_NightshadeToxinHD.stages.4.label>
+  <TM_NightshadeToxinHD.stages.5.label>V</TM_NightshadeToxinHD.stages.5.label>
+  <TM_EnrageHD.label>Enrage</TM_EnrageHD.label>
+  <TM_EnrageHD.description>Consume all positive emotions as fuel for physical power, the spell will fade once all happiness is burned off. While under this curse, a pawn is cannot be staggered, has increased pain resistance, attack speed, and melee damage.</TM_EnrageHD.description>
+  <TM_EnrageHD.stages.0.label>I</TM_EnrageHD.stages.0.label>
+  <TM_EnrageHD.stages.1.label>II</TM_EnrageHD.stages.1.label>
+  <TM_EnrageHD.stages.2.label>III</TM_EnrageHD.stages.2.label>
+  <TM_EnrageHD.stages.3.label>IV</TM_EnrageHD.stages.3.label>
+  <TM_EnrageHD.stages.4.label>V</TM_EnrageHD.stages.4.label>
+  <TM_HexHD.label>Hexed</TM_HexHD.label>
+  <TM_HexHD.description>Under the effects of a hex.</TM_HexHD.description>
+  <TM_PainHD.label>Pain</TM_PainHD.label>
+  <TM_PainHD.description>An injury cursed with extreme pain.</TM_PainHD.description>
+  <TM_PainHD.comps.0.labelTendedWell>bandaged</TM_PainHD.comps.0.labelTendedWell>
+  <TM_PainHD.comps.0.labelTendedWellInner>sutured</TM_PainHD.comps.0.labelTendedWellInner>
+  <TM_PainHD.comps.0.labelSolidTendedWell>set</TM_PainHD.comps.0.labelSolidTendedWell>
+  <TM_PainHD.comps.1.permanentLabel>withered</TM_PainHD.comps.1.permanentLabel>
+  <TM_PainHD.injuryProps.destroyedLabel>withered away</TM_PainHD.injuryProps.destroyedLabel>
+  <TM_PainHD.injuryProps.destroyedOutLabel>withered away</TM_PainHD.injuryProps.destroyedOutLabel>
+  <TM_Hex_CriticalFailHD.label>Unlucky</TM_Hex_CriticalFailHD.label>
+  <TM_Hex_CriticalFailHD.description>Cursed with dangerously bad luck.</TM_Hex_CriticalFailHD.description>
+  <TM_SpiritBondHD.label>Spirit Bond</TM_SpiritBondHD.label>
+  <TM_SpiritBondHD.description>Represents the bond this animal spirit shares with a shaman. Increases physical attributes and enhances healing.</TM_SpiritBondHD.description>
+  <TM_SpiritBondHD.stages.0.label>I</TM_SpiritBondHD.stages.0.label>
+  <TM_SpiritBondHD.stages.1.label>II</TM_SpiritBondHD.stages.1.label>
+  <TM_SpiritBondHD.stages.2.label>III</TM_SpiritBondHD.stages.2.label>
+  <TM_SpiritBondHD.stages.3.label>IV</TM_SpiritBondHD.stages.3.label>
+  <TM_CrowInsightHD.label>Crows Insight</TM_CrowInsightHD.label>
+  <TM_CrowInsightHD.description>Insight gained from the spirit crow - enhances research speed and psychic sensitivity.</TM_CrowInsightHD.description>
+  <TM_CrowInsightHD.stages.0.label>I</TM_CrowInsightHD.stages.0.label>
+  <TM_CrowInsightHD.stages.1.label>II</TM_CrowInsightHD.stages.1.label>
+  <TM_CrowInsightHD.stages.2.label>III</TM_CrowInsightHD.stages.2.label>
+  <TM_CrowInsightHD.stages.3.label>IV</TM_CrowInsightHD.stages.3.label>
+  <TM_BirdflightHD.label>flying</TM_BirdflightHD.label>
+  <TM_BirdflightHD.description>Increased movement while flying.</TM_BirdflightHD.description>
+  <TM_HediffGearRepair.label>Gear Repair</TM_HediffGearRepair.label>
+  <TM_HediffGearRepair.description>Maintenance and care of equipment.</TM_HediffGearRepair.description>
+  <TM_HediffGearRepair.stages.0.label>I</TM_HediffGearRepair.stages.0.label>
+  <TM_HediffInnerHealing.label>Inner Healing</TM_HediffInnerHealing.label>
+  <TM_HediffInnerHealing.description>Improves natural healing.</TM_HediffInnerHealing.description>
+  <TM_HediffInnerHealing.stages.0.label>I</TM_HediffInnerHealing.stages.0.label>
+  <TM_HediffHeavyBlow.label>Heavy Blow</TM_HediffHeavyBlow.label>
+  <TM_HediffHeavyBlow.description>Increases damage dealt with each physical strike.</TM_HediffHeavyBlow.description>
+  <TM_HediffHeavyBlow.stages.0.label>I</TM_HediffHeavyBlow.stages.0.label>
+  <TM_HediffHeavyBlow.stages.1.label>II</TM_HediffHeavyBlow.stages.1.label>
+  <TM_HediffHeavyBlow.stages.2.label>III</TM_HediffHeavyBlow.stages.2.label>
+  <TM_HediffHeavyBlow.stages.3.label>IV</TM_HediffHeavyBlow.stages.3.label>
+  <TM_HediffStrongBack.label>Strong Back</TM_HediffStrongBack.label>
+  <TM_HediffStrongBack.description>Increases carrying capacity by 40 and inventory capacity by 50%.</TM_HediffStrongBack.description>
+  <TM_HediffStrongBack.stages.0.label>I</TM_HediffStrongBack.stages.0.label>
+  <TM_HediffStrongBack.stages.1.label>II</TM_HediffStrongBack.stages.1.label>
+  <TM_HediffStrongBack.stages.2.label>III</TM_HediffStrongBack.stages.2.label>
+  <TM_HediffThickSkin.label>Thick Skin</TM_HediffThickSkin.label>
+  <TM_HediffThickSkin.description>Hardens skin, making it tougher.</TM_HediffThickSkin.description>
+  <TM_HediffThickSkin.stages.0.label>I</TM_HediffThickSkin.stages.0.label>
+  <TM_HediffThickSkin.stages.1.label>II</TM_HediffThickSkin.stages.1.label>
+  <TM_HediffThickSkin.stages.2.label>III</TM_HediffThickSkin.stages.2.label>
+  <TM_HediffThickSkin.stages.3.label>IV</TM_HediffThickSkin.stages.3.label>
+  <TM_HediffFightersFocus.label>Fighters Focus</TM_HediffFightersFocus.label>
+  <TM_HediffFightersFocus.description>Mental focus for fighters.</TM_HediffFightersFocus.description>
+  <TM_HediffFightersFocus.stages.0.label>I</TM_HediffFightersFocus.stages.0.label>
+  <TM_HediffFightersFocus.stages.1.label>II</TM_HediffFightersFocus.stages.1.label>
+  <TM_HediffSprint.label>Sprint</TM_HediffSprint.label>
+  <TM_HediffSprint.description>Move faster.</TM_HediffSprint.description>
+  <TM_HediffSprint.stages.0.label>I</TM_HediffSprint.stages.0.label>
+  <TM_HediffSprint.stages.1.label>II</TM_HediffSprint.stages.1.label>
+  <TM_HediffSprint.stages.2.label>III</TM_HediffSprint.stages.2.label>
+  <TM_HediffSprint.stages.3.label>IV</TM_HediffSprint.stages.3.label>
+  <TM_BurningFuryHD.label>Burning Fury</TM_BurningFuryHD.label>
+  <TM_BurningFuryHD.description>Emits a shield of raw energy that both deflects attacks and inflicts harm on nearby enemies.</TM_BurningFuryHD.description>
+  <TM_BurningFuryHD.stages.0.label>I</TM_BurningFuryHD.stages.0.label>
+  <TM_TechnoShieldHD.label>kinetic shield</TM_TechnoShieldHD.label>
+  <TM_TechnoShieldHD.description>A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.</TM_TechnoShieldHD.description>
+  <TM_TechnoShieldHD_I.label>kinetic shield</TM_TechnoShieldHD_I.label>
+  <TM_TechnoShieldHD_I.description>A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.</TM_TechnoShieldHD_I.description>
+  <TM_TechnoShieldHD_II.label>kinetic shield</TM_TechnoShieldHD_II.label>
+  <TM_TechnoShieldHD_II.description>A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.</TM_TechnoShieldHD_II.description>
+  <TM_TechnoShieldHD_III.label>kinetic shield</TM_TechnoShieldHD_III.label>
+  <TM_TechnoShieldHD_III.description>A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.</TM_TechnoShieldHD_III.description>
+  <TM_TechnoBitHD.label>Techno Bit</TM_TechnoBitHD.label>
+  <TM_TechnoBitHD.description>A small, floating sphere that assists the Technomancer.</TM_TechnoBitHD.description>
+  <TM_BitAssistHD.label>bit assist</TM_BitAssistHD.label>
+  <TM_BitAssistHD.description>Assistance provided by the Techno Bit.</TM_BitAssistHD.description>
+  <TM_BitAssistHD.stages.0.label>I</TM_BitAssistHD.stages.0.label>
+  <TM_BitAssistHD.stages.1.label>II</TM_BitAssistHD.stages.1.label>
+  <TM_BitAssistHD.stages.2.label>III</TM_BitAssistHD.stages.2.label>
+  <TM_BitAssistHD.stages.3.label>IV</TM_BitAssistHD.stages.3.label>
+  <TM_BitAssistHD.stages.4.label>V</TM_BitAssistHD.stages.4.label>
+  <TM_BitAssistHD.stages.5.label>VI</TM_BitAssistHD.stages.5.label>
+  <TM_BitAssistHD.stages.6.label>VII</TM_BitAssistHD.stages.6.label>
+  <TM_BitAssistHD.stages.7.label>VIII</TM_BitAssistHD.stages.7.label>
+  <TM_BitAssistHD.stages.8.label>IX</TM_BitAssistHD.stages.8.label>
+  <TM_BitAssistHD.stages.9.label>X</TM_BitAssistHD.stages.9.label>
+  <TM_BitAssistHD.stages.10.label>XI</TM_BitAssistHD.stages.10.label>
+  <TM_BitAssistHD.stages.11.label>XII</TM_BitAssistHD.stages.11.label>
+  <TM_BitAssistHD.stages.12.label>XIII</TM_BitAssistHD.stages.12.label>
+  <TM_BitAssistHD.stages.13.label>XIV</TM_BitAssistHD.stages.13.label>
+  <TM_BitAssistHD.stages.14.label>XV</TM_BitAssistHD.stages.14.label>
+  <TM_NanoStimulantWithdrawalHD.label>stim withdrawal</TM_NanoStimulantWithdrawalHD.label>
+  <TM_NanoStimulantWithdrawalHD.description>Withdrawal after the effects of the nano stim wear off.</TM_NanoStimulantWithdrawalHD.description>
+  <TM_OverdriveHD.label>overdrive</TM_OverdriveHD.label>
+  <TM_OverdriveHD.description>Overclocked electronics and machinery are performing at hazardous rates.</TM_OverdriveHD.description>
+  <TM_OverdriveHD.stages.0.label>I</TM_OverdriveHD.stages.0.label>
+  <TM_OverdriveHD.stages.1.label>II</TM_OverdriveHD.stages.1.label>
+  <TM_OverdriveHD.stages.2.label>III</TM_OverdriveHD.stages.2.label>
+  <TM_OverdriveHD.stages.3.label>IV</TM_OverdriveHD.stages.3.label>
+  <TM_OverdriveHD_I.label>overdrive</TM_OverdriveHD_I.label>
+  <TM_OverdriveHD_I.description>Overclocked electronics and machinery are performing at hazardous rates.</TM_OverdriveHD_I.description>
+  <TM_OverdriveHD_I.stages.0.label>I</TM_OverdriveHD_I.stages.0.label>
+  <TM_OverdriveHD_I.stages.1.label>II</TM_OverdriveHD_I.stages.1.label>
+  <TM_OverdriveHD_I.stages.2.label>III</TM_OverdriveHD_I.stages.2.label>
+  <TM_OverdriveHD_I.stages.3.label>IV</TM_OverdriveHD_I.stages.3.label>
+  <TM_OverdriveHD_II.label>overdrive</TM_OverdriveHD_II.label>
+  <TM_OverdriveHD_II.description>Overclocked electronics and machinery are performing at hazardous rates.</TM_OverdriveHD_II.description>
+  <TM_OverdriveHD_II.stages.0.label>I</TM_OverdriveHD_II.stages.0.label>
+  <TM_OverdriveHD_II.stages.1.label>II</TM_OverdriveHD_II.stages.1.label>
+  <TM_OverdriveHD_II.stages.2.label>III</TM_OverdriveHD_II.stages.2.label>
+  <TM_OverdriveHD_II.stages.3.label>IV</TM_OverdriveHD_II.stages.3.label>
+  <TM_OverdriveHD_III.label>overdrive</TM_OverdriveHD_III.label>
+  <TM_OverdriveHD_III.description>Overclocked electronics and machinery are performing at hazardous rates.</TM_OverdriveHD_III.description>
+  <TM_OverdriveHD_III.stages.0.label>I</TM_OverdriveHD_III.stages.0.label>
+  <TM_OverdriveHD_III.stages.1.label>II</TM_OverdriveHD_III.stages.1.label>
+  <TM_OverdriveHD_III.stages.2.label>III</TM_OverdriveHD_III.stages.2.label>
+  <TM_OverdriveHD_III.stages.3.label>IV</TM_OverdriveHD_III.stages.3.label>
+  <TM_NanoStimulantHD.label>nano stimulant</TM_NanoStimulantHD.label>
+  <TM_NanoStimulantHD.description>Combat enhancing stimulant; followed by a brief withdrawal period.</TM_NanoStimulantHD.description>
+  <TM_NanoStimulantHD.stages.0.label>I</TM_NanoStimulantHD.stages.0.label>
+  <TM_NanoStimulantHD.stages.1.label>II</TM_NanoStimulantHD.stages.1.label>
+  <TM_NanoStimulantHD.stages.2.label>III</TM_NanoStimulantHD.stages.2.label>
+  <TM_NanoStimulantHD.stages.3.label>IV</TM_NanoStimulantHD.stages.3.label>
+  <TM_NanoStimulantHD.stages.4.label>V</TM_NanoStimulantHD.stages.4.label>
+  <TM_NanoStimulantHD.stages.5.label>VI</TM_NanoStimulantHD.stages.5.label>
+  <TM_NanoStimulantHD.stages.6.label>VII</TM_NanoStimulantHD.stages.6.label>
+  <TM_NanoStimulantHD.stages.7.label>VIII</TM_NanoStimulantHD.stages.7.label>
+  <TM_NanoStimulantHD.stages.8.label>IX</TM_NanoStimulantHD.stages.8.label>
+  <TM_NanoStimulantHD.stages.9.label>X</TM_NanoStimulantHD.stages.9.label>
+  <TM_NanoStimulantHD.stages.10.label>XI</TM_NanoStimulantHD.stages.10.label>
+  <TM_NanoStimulantHD.stages.11.label>XII</TM_NanoStimulantHD.stages.11.label>
+  <TM_NanoStimulantHD.stages.12.label>XIII</TM_NanoStimulantHD.stages.12.label>
+  <TM_NanoStimulantHD.stages.13.label>XIV</TM_NanoStimulantHD.stages.13.label>
+  <TM_NanoStimulantHD.stages.14.label>XV</TM_NanoStimulantHD.stages.14.label>
+  <TM_ReprogrammedFibMechanites_HD.label>reprogrammed fibrous mechanites</TM_ReprogrammedFibMechanites_HD.label>
+  <TM_ReprogrammedFibMechanites_HD.description>Fibrous mechanites reprogrammed to cause less stress on the host.</TM_ReprogrammedFibMechanites_HD.description>
+  <TM_ReprogrammedFibMechanites_HD.stages.0.label>mechanite augmentation (physical)</TM_ReprogrammedFibMechanites_HD.stages.0.label>
+  <TM_ReprogrammedFibMechanites_HD.stages.1.label>mechanite augmentation (physical)</TM_ReprogrammedFibMechanites_HD.stages.1.label>
+  <TM_ReprogrammedSenMechanites_HD.label>reprogrammed sensory mechanites</TM_ReprogrammedSenMechanites_HD.label>
+  <TM_ReprogrammedSenMechanites_HD.description>Sensory mechanites reprogrammed to cause less stress on the host.</TM_ReprogrammedSenMechanites_HD.description>
+  <TM_ReprogrammedSenMechanites_HD.stages.0.label>mechanite augmentation (sensory)</TM_ReprogrammedSenMechanites_HD.stages.0.label>
+  <TM_ReprogrammedSenMechanites_HD.stages.1.label>mechanite augmentation (sensory)</TM_ReprogrammedSenMechanites_HD.stages.1.label>
+  <TM_Uncertainty.label>Uncertain Future</TM_Uncertainty.label>
+  <TM_Uncertainty.description>Used to control mage promotions.</TM_Uncertainty.description>
+  <TM_SoothingBreeze_AuraHD.label>Soothing Aura</TM_SoothingBreeze_AuraHD.label>
+  <TM_SoothingBreeze_AuraHD.description>An aura that generates and bestows a soothing presence on nearby pawns.</TM_SoothingBreeze_AuraHD.description>
+  <TM_SoothingBreeze_AuraHD.stages.0.label>I</TM_SoothingBreeze_AuraHD.stages.0.label>
+  <TM_SoothingBreeze_AuraHD.stages.1.label>II</TM_SoothingBreeze_AuraHD.stages.1.label>
+  <TM_SoothingBreeze_AuraHD.stages.2.label>III</TM_SoothingBreeze_AuraHD.stages.2.label>
+  <TM_SoothingBreeze_AuraHD.stages.3.label>IV</TM_SoothingBreeze_AuraHD.stages.3.label>
+  <SoothingBreeze.label>Soothing Breeze</SoothingBreeze.label>
+  <SoothingBreeze.description>A soothing presence that calms the spirit.</SoothingBreeze.description>
+  <SoothingBreeze.stages.0.label>I</SoothingBreeze.stages.0.label>
+  <SoothingBreeze_I.label>Soothing Breeze</SoothingBreeze_I.label>
+  <SoothingBreeze_I.description>A soothing presence that calms the spirit.</SoothingBreeze_I.description>
+  <SoothingBreeze_I.stages.0.label>II</SoothingBreeze_I.stages.0.label>
+  <SoothingBreeze_II.label>Soothing Breeze</SoothingBreeze_II.label>
+  <SoothingBreeze_II.description>A soothing presence that calms the spirit.</SoothingBreeze_II.description>
+  <SoothingBreeze_II.stages.0.label>III</SoothingBreeze_II.stages.0.label>
+  <SoothingBreeze_III.label>Soothing Breeze</SoothingBreeze_III.label>
+  <SoothingBreeze_III.description>A soothing presence that calms the spirit.</SoothingBreeze_III.description>
+  <SoothingBreeze_III.stages.0.label>IV</SoothingBreeze_III.stages.0.label>
+  <TM_RayOfHope_AuraHD.label>Aura of Hope</TM_RayOfHope_AuraHD.label>
+  <TM_RayOfHope_AuraHD.description>An aura that generates and bestows an uplifting presence.</TM_RayOfHope_AuraHD.description>
+  <TM_RayOfHope_AuraHD.stages.0.label>I</TM_RayOfHope_AuraHD.stages.0.label>
+  <TM_RayOfHope_AuraHD.stages.1.label>II</TM_RayOfHope_AuraHD.stages.1.label>
+  <TM_RayOfHope_AuraHD.stages.2.label>III</TM_RayOfHope_AuraHD.stages.2.label>
+  <TM_RayOfHope_AuraHD.stages.3.label>IV</TM_RayOfHope_AuraHD.stages.3.label>
+  <RayofHope.label>Ray of Hope</RayofHope.label>
+  <RayofHope.description>An uplifting presence that enlivens the spirit.</RayofHope.description>
+  <RayofHope.stages.0.label>I</RayofHope.stages.0.label>
+  <RayofHope_I.label>Ray of Hope</RayofHope_I.label>
+  <RayofHope_I.description>An uplifting presence that enlivens the spirit.</RayofHope_I.description>
+  <RayofHope_I.stages.0.label>II</RayofHope_I.stages.0.label>
+  <RayofHope_II.label>Ray of Hope</RayofHope_II.label>
+  <RayofHope_II.description>An uplifting presence that enlivens the spirit.</RayofHope_II.description>
+  <RayofHope_II.stages.0.label>III</RayofHope_II.stages.0.label>
+  <RayofHope_III.label>Ray of Hope</RayofHope_III.label>
+  <RayofHope_III.description>An uplifting presence that enlivens the spirit.</RayofHope_III.description>
+  <RayofHope_III.stages.0.label>IV</RayofHope_III.stages.0.label>
+  <AMP_I.label>AMP</AMP_I.label>
+  <AMP_I.description>A burst of energy that amplifies physical attributes.</AMP_I.description>
+  <AMP_I.stages.0.label>I</AMP_I.stages.0.label>
+  <AMP_II.label>AMP</AMP_II.label>
+  <AMP_II.description>A burst of energy that amplifies physical attributes.</AMP_II.description>
+  <AMP_II.stages.0.label>II</AMP_II.stages.0.label>
+  <AMP_III.label>AMP</AMP_III.label>
+  <AMP_III.description>A burst of energy that amplifies physical attributes.</AMP_III.description>
+  <AMP_III.stages.0.label>III</AMP_III.stages.0.label>
+  <TM_Shadow_AuraHD.label>Shadow Aura</TM_Shadow_AuraHD.label>
+  <TM_Shadow_AuraHD.description>An aura that generates and bestows a shadowy presence.</TM_Shadow_AuraHD.description>
+  <TM_Shadow_AuraHD.stages.0.label>I</TM_Shadow_AuraHD.stages.0.label>
+  <TM_Shadow_AuraHD.stages.1.label>II</TM_Shadow_AuraHD.stages.1.label>
+  <TM_Shadow_AuraHD.stages.2.label>III</TM_Shadow_AuraHD.stages.2.label>
+  <TM_Shadow_AuraHD.stages.3.label>IV</TM_Shadow_AuraHD.stages.3.label>
+  <Shadow.label>Arcane Shadow</Shadow.label>
+  <Shadow.description>A shadowy presence that precipitates action.</Shadow.description>
+  <Shadow_I.label>Arcane Shadow</Shadow_I.label>
+  <Shadow_I.description>A shadowy presence that precipitates action.</Shadow_I.description>
+  <Shadow_I.stages.0.label>I</Shadow_I.stages.0.label>
+  <Shadow_II.label>Arcane Shadow</Shadow_II.label>
+  <Shadow_II.description>A shadowy presence that precipitates action.</Shadow_II.description>
+  <Shadow_II.stages.0.label>II</Shadow_II.stages.0.label>
+  <Shadow_III.label>Arcane Shadow</Shadow_III.label>
+  <Shadow_III.description>A shadowy presence that precipitates action.</Shadow_III.description>
+  <Shadow_III.stages.0.label>III</Shadow_III.stages.0.label>
+  <BestowMightHD.label>Bestow Might</BestowMightHD.label>
+  <BestowMightHD.description>A mighty combat boon.</BestowMightHD.description>
+  <BestowMightHD.stages.0.label>I</BestowMightHD.stages.0.label>
+  <BestowMightHD_I.label>Bestow Might</BestowMightHD_I.label>
+  <BestowMightHD_I.description>A mighty combat boon.</BestowMightHD_I.description>
+  <BestowMightHD_I.stages.0.label>II</BestowMightHD_I.stages.0.label>
+  <BestowMightHD_II.label>Bestow Might</BestowMightHD_II.label>
+  <BestowMightHD_II.description>A mighty combat boon.</BestowMightHD_II.description>
+  <BestowMightHD_II.stages.0.label>III</BestowMightHD_II.stages.0.label>
+  <BestowMightHD_III.label>Bestow Might</BestowMightHD_III.label>
+  <BestowMightHD_III.description>A mighty combat boon.</BestowMightHD_III.description>
+  <BestowMightHD_III.stages.0.label>IV</BestowMightHD_III.stages.0.label>
+  <TM_RangerBondHD.label>Ranger Bond</TM_RangerBondHD.label>
+  <TM_RangerBondHD.description>Represents the bond this animal shares with a Ranger. Increases physical attributes and enhances healing.</TM_RangerBondHD.description>
+  <TM_RangerBondHD.stages.0.label>I</TM_RangerBondHD.stages.0.label>
+  <TM_RangerBondHD.stages.1.label>II</TM_RangerBondHD.stages.1.label>
+  <TM_RangerBondHD.stages.2.label>III</TM_RangerBondHD.stages.2.label>
+  <TM_RangerBondHD.stages.3.label>IV</TM_RangerBondHD.stages.3.label>
+  <TM_HediffShield.label>Shield</TM_HediffShield.label>
+  <TM_HediffShield.description>Absorbs damage.</TM_HediffShield.description>
+  <TM_HediffSprint_I.label>Sprint (I)</TM_HediffSprint_I.label>
+  <TM_HediffSprint_I.description>Increases movement.</TM_HediffSprint_I.description>
+  <TM_HediffSprint_II.label>Sprint (II)</TM_HediffSprint_II.label>
+  <TM_HediffSprint_II.description>Increases movement.</TM_HediffSprint_II.description>
+  <TM_HediffSprint_III.label>Sprint (III)</TM_HediffSprint_III.label>
+  <TM_HediffSprint_III.description>Increases movement.</TM_HediffSprint_III.description>
+  <TM_HediffInvulnerable.label>Invulnerable</TM_HediffInvulnerable.label>
+  <TM_HediffInvulnerable.description>Prevents damage while active.</TM_HediffInvulnerable.description>
+  <TM_HediffTimedInvulnerable.label>Invulnerable</TM_HediffTimedInvulnerable.label>
+  <TM_HediffTimedInvulnerable.description>Prevents damage while active.</TM_HediffTimedInvulnerable.description>
+  <TM_HediffFortitude.label>Fortitude</TM_HediffFortitude.label>
+  <TM_HediffFortitude.description>Mitigates all damage by a set amount.</TM_HediffFortitude.description>
+  <TM_ManaShieldHD.label>Mana Shield</TM_ManaShieldHD.label>
+  <TM_ManaShieldHD.description>Sacrifices magical energy to absorb damage.</TM_ManaShieldHD.description>
+  <TM_Blind.label>Blinded</TM_Blind.label>
+  <TM_Blind.description>Reduces sight.</TM_Blind.description>
+  <TM_Blind.stages.0.label>I</TM_Blind.stages.0.label>
+  <TM_Blind.stages.1.label>II</TM_Blind.stages.1.label>
+  <TM_Blind.stages.2.label>III</TM_Blind.stages.2.label>
+  <TM_Regeneration.label>Regeneration</TM_Regeneration.label>
+  <TM_Regeneration.description>Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed.</TM_Regeneration.description>
+  <TM_Regeneration_I.label>Regeneration (I)</TM_Regeneration_I.label>
+  <TM_Regeneration_I.description>Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed.</TM_Regeneration_I.description>
+  <TM_Regeneration_II.label>Regeneration (II)</TM_Regeneration_II.label>
+  <TM_Regeneration_II.description>Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed.</TM_Regeneration_II.description>
+  <TM_Regeneration_III.label>Regeneration (III)</TM_Regeneration_III.label>
+  <TM_Regeneration_III.description>Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed.</TM_Regeneration_III.description>
+  <TM_BladeArtHD.label>Bladedancer</TM_BladeArtHD.label>
+  <TM_BladeArtHD.description>Bladedancer stat boon.</TM_BladeArtHD.description>
+  <TM_BladeArtHD.stages.0.label>I</TM_BladeArtHD.stages.0.label>
+  <TM_BladeArtHD.stages.1.label>II</TM_BladeArtHD.stages.1.label>
+  <TM_BladeArtHD.stages.2.label>III</TM_BladeArtHD.stages.2.label>
+  <TM_BladeArtHD.stages.3.label>IV</TM_BladeArtHD.stages.3.label>
+  <TM_BowTrainingHD.label>Bow Mastery</TM_BowTrainingHD.label>
+  <TM_BowTrainingHD.description>Ranger stat and bow enhancement boon.</TM_BowTrainingHD.description>
+  <TM_BowTrainingHD.stages.0.label>I</TM_BowTrainingHD.stages.0.label>
+  <TM_BowTrainingHD.stages.1.label>II</TM_BowTrainingHD.stages.1.label>
+  <TM_BowTrainingHD.stages.2.label>III</TM_BowTrainingHD.stages.2.label>
+  <TM_BowTrainingHD.stages.3.label>IV</TM_BowTrainingHD.stages.3.label>
+  <SpellMendingHD.label>Spell Mending</SpellMendingHD.label>
+  <SpellMendingHD.description>Rapidly repairs equipped apparel and weapons.</SpellMendingHD.description>
+  <SpellMendingHD.stages.0.label>active</SpellMendingHD.stages.0.label>
+  <SpellMendingHD.stages.1.label>enhanced</SpellMendingHD.stages.1.label>
+  <TM_ResurrectionHD.label>Resurrection weakness</TM_ResurrectionHD.label>
+  <TM_ResurrectionHD.description>Result of being resurrected through magic.</TM_ResurrectionHD.description>
+  <TM_ResurrectionHD.stages.0.label>I</TM_ResurrectionHD.stages.0.label>
+  <TM_ResurrectionHD.stages.1.label>II</TM_ResurrectionHD.stages.1.label>
+  <TM_ResurrectionHD.stages.2.label>III</TM_ResurrectionHD.stages.2.label>
+  <TM_DeathReversalHD.label>Returned from Death</TM_DeathReversalHD.label>
+  <TM_DeathReversalHD.description>The backlash resulting from reversing death.</TM_DeathReversalHD.description>
+  <TM_DeathReversalHD.stages.0.label>I</TM_DeathReversalHD.stages.0.label>
+  <TM_DeathReversalHD.stages.1.label>II</TM_DeathReversalHD.stages.1.label>
+  <TM_DeathReversalHD.stages.2.label>III</TM_DeathReversalHD.stages.2.label>
+  <TM_DiseaseImmunityHD.label>Disease Immunity</TM_DiseaseImmunityHD.label>
+  <TM_DiseaseImmunityHD.description>Increases natural disease immunity rates.</TM_DiseaseImmunityHD.description>
+  <TM_DiseaseImmunityHD.stages.0.label>I</TM_DiseaseImmunityHD.stages.0.label>
+  <TM_DiseaseImmunity2HD.label>Disease Immunity</TM_DiseaseImmunity2HD.label>
+  <TM_DiseaseImmunity2HD.description>Increases natural disease immunity rates.</TM_DiseaseImmunity2HD.description>
+  <TM_DiseaseImmunity2HD.stages.0.label>II</TM_DiseaseImmunity2HD.stages.0.label>
+  <TM_BlurHD.label>Blur</TM_BlurHD.label>
+  <TM_BlurHD.description>Manipulates possibility to avoid damage.</TM_BlurHD.description>
+  <TM_InvisibilityHD.label>Invisibility</TM_InvisibilityHD.label>
+  <TM_InvisibilityHD.description>Causes the affected pawn to become invisible and untargetable by nearby enemies.</TM_InvisibilityHD.description>
+  <TM_InvisibilityHD.stages.0.label>I</TM_InvisibilityHD.stages.0.label>
+  <TM_MageLightHD.label>Magelight</TM_MageLightHD.label>
+  <TM_MageLightHD.description>A small light sustained by magic.</TM_MageLightHD.description>
+  <TM_FrostSlowHD.label>Slow</TM_FrostSlowHD.label>
+  <TM_FrostSlowHD.description>Slowed limbs affected by frost.</TM_FrostSlowHD.description>
+  <TM_FrostSlowHD.stages.0.label>frost</TM_FrostSlowHD.stages.0.label>
+  <TM_CoolHD.label>Heat Protection</TM_CoolHD.label>
+  <TM_CoolHD.description>A small boon that cools and increases resistance to high temperatures.</TM_CoolHD.description>
+  <TM_CoolHD.stages.0.label>Cooler</TM_CoolHD.stages.0.label>
+  <TM_RefreshedHD.label>Refreshed</TM_RefreshedHD.label>
+  <TM_RefreshedHD.description>Refreshes a pawn, reducing weariness.</TM_RefreshedHD.description>
+  <TM_RefreshedHD.stages.0.label>Cooler</TM_RefreshedHD.stages.0.label>
+  <TM_WarmHD.label>Cold Protection</TM_WarmHD.label>
+  <TM_WarmHD.description>A small boon that heats and increases resilience to cold temperatures</TM_WarmHD.description>
+  <TM_WarmHD.stages.0.label>Heater</TM_WarmHD.stages.0.label>
+  <TM_ShockTherapyHD.label>Shock Therapy</TM_ShockTherapyHD.label>
+  <TM_ShockTherapyHD.description>Trains the mind to improve behavior.</TM_ShockTherapyHD.description>
+  <TM_ShockTherapyHD.stages.0.label>Power Node</TM_ShockTherapyHD.stages.0.label>
+  <TM_JoltHD.label>Jolt</TM_JoltHD.label>
+  <TM_JoltHD.description>A small boon that increases physical energy.</TM_JoltHD.description>
+  <TM_JoltHD.stages.0.label>I</TM_JoltHD.stages.0.label>
+  <TM_JoltHD.stages.1.label>II</TM_JoltHD.stages.1.label>
+  <TM_JoltHD.stages.2.label>III</TM_JoltHD.stages.2.label>
+  <TM_EnergyRegenHD.label>Energy Regeneration</TM_EnergyRegenHD.label>
+  <TM_EnergyRegenHD.description>Increases energy regeneration rates as a multiple of the buff's severity.</TM_EnergyRegenHD.description>
+  <TM_SS_SerumHD.label>SS Serum</TM_SS_SerumHD.label>
+  <TM_SS_SerumHD.description>A chemical enhancing physical abilities and magical resistance; reduces magical power and energy regeneration. The potency of the chemical increases in 3 stages and takes 100 days to fully mature. Pawns will recover consciousness 2 days after taking the serum.</TM_SS_SerumHD.description>
+  <TM_SS_SerumHD.stages.0.label>Stage 0</TM_SS_SerumHD.stages.0.label>
+  <TM_SS_SerumHD.stages.1.label>Stage 1</TM_SS_SerumHD.stages.1.label>
+  <TM_SS_SerumHD.stages.2.label>Stage 2</TM_SS_SerumHD.stages.2.label>
+  <TM_SS_SerumHD.stages.3.label>Stage 3</TM_SS_SerumHD.stages.3.label>
+  <TM_HediffEnchantment_maxEnergy.label>Max Energy:</TM_HediffEnchantment_maxEnergy.label>
+  <TM_HediffEnchantment_maxEnergy.description>Energy capacity enchantment.</TM_HediffEnchantment_maxEnergy.description>
+  <TM_HediffEnchantment_coolDown.label>Cool Down:</TM_HediffEnchantment_coolDown.label>
+  <TM_HediffEnchantment_coolDown.description>Enchantment that reduces the time to re-use an ability.</TM_HediffEnchantment_coolDown.description>
+  <TM_HediffEnchantment_energyCost.label>Energy Cost:</TM_HediffEnchantment_energyCost.label>
+  <TM_HediffEnchantment_energyCost.description>Enchantment that reduces the energy cost to use abilities.</TM_HediffEnchantment_energyCost.description>
+  <TM_HediffEnchantment_energyRegen.label>Energy Regen:</TM_HediffEnchantment_energyRegen.label>
+  <TM_HediffEnchantment_energyRegen.description>Enchantment that increases the energy regeneration.</TM_HediffEnchantment_energyRegen.description>
+  <TM_HediffEnchantment_xpGain.label>XP Gain:</TM_HediffEnchantment_xpGain.label>
+  <TM_HediffEnchantment_xpGain.description>Enchantment improves experience gain.</TM_HediffEnchantment_xpGain.description>
+  <TM_HediffEnchantment_dmgResistance.label>Ability Resistance:</TM_HediffEnchantment_dmgResistance.label>
+  <TM_HediffEnchantment_dmgResistance.description>Ability to resist magical effects and reduces damage from magical attacks.</TM_HediffEnchantment_dmgResistance.description>
+  <TM_HediffEnchantment_dmgBonus.label>Ability Power:</TM_HediffEnchantment_dmgBonus.label>
+  <TM_HediffEnchantment_dmgBonus.description>Increases the effects of abilities.</TM_HediffEnchantment_dmgBonus.description>
+  <TM_HediffEnchantment_arcalleumCooldown.label>Arcalleum Cooldown</TM_HediffEnchantment_arcalleumCooldown.label>
+  <TM_HediffEnchantment_arcalleumCooldown.description>An enchantment that can instantly refresh the cooldown of an ability.</TM_HediffEnchantment_arcalleumCooldown.description>
+  <TM_HediffEnchantment_maxMP.label>Max Mana:</TM_HediffEnchantment_maxMP.label>
+  <TM_HediffEnchantment_maxMP.description>Mana capacity enchantment.</TM_HediffEnchantment_maxMP.description>
+  <TM_HediffEnchantment_maxSP.label>Max Stamina:</TM_HediffEnchantment_maxSP.label>
+  <TM_HediffEnchantment_maxSP.description>Stamina capacity enchantment.</TM_HediffEnchantment_maxSP.description>
+  <TM_HediffEnchantment_spCoolDown.label>Ability CoolDown:</TM_HediffEnchantment_spCoolDown.label>
+  <TM_HediffEnchantment_spCoolDown.description>Enchantment that reduces the cooldown time of combat abilities.</TM_HediffEnchantment_spCoolDown.description>
+  <TM_HediffEnchantment_mpCost.label>Mana Cost:</TM_HediffEnchantment_mpCost.label>
+  <TM_HediffEnchantment_mpCost.description>Enchantment that modifies the mana cost of abilities.</TM_HediffEnchantment_mpCost.description>
+  <TM_HediffEnchantment_spCost.label>Stamina Cost:</TM_HediffEnchantment_spCost.label>
+  <TM_HediffEnchantment_spCost.description>Enchantment that modifies the stamina cost of abilities.</TM_HediffEnchantment_spCost.description>
+  <TM_HediffEnchantment_mpRegenRate.label>Mana Regen:</TM_HediffEnchantment_mpRegenRate.label>
+  <TM_HediffEnchantment_mpRegenRate.description>Mana regeneration enchantment.</TM_HediffEnchantment_mpRegenRate.description>
+  <TM_HediffEnchantment_spRegenRate.label>Stamina Regen:</TM_HediffEnchantment_spRegenRate.label>
+  <TM_HediffEnchantment_spRegenRate.description>Stamina regeneration enchantment.</TM_HediffEnchantment_spRegenRate.description>
+  <TM_HediffEnchantment_arcaneRes.label>Arcane Resistance:</TM_HediffEnchantment_arcaneRes.label>
+  <TM_HediffEnchantment_arcaneRes.description>Ability to resist magical effects and reduces damage from magical attacks.</TM_HediffEnchantment_arcaneRes.description>
+  <TM_HediffEnchantment_arcaneDmg.label>Magic Bonus:</TM_HediffEnchantment_arcaneDmg.label>
+  <TM_HediffEnchantment_arcaneDmg.description>Increases the effects of magic abilities.</TM_HediffEnchantment_arcaneDmg.description>
+  <TM_HediffEnchantment_combatDmg.label>Combat Bonus:</TM_HediffEnchantment_combatDmg.label>
+  <TM_HediffEnchantment_combatDmg.description>Increases the effects of combat abilities.</TM_HediffEnchantment_combatDmg.description>
+  <TM_HediffEnchantment_arcaneSpectre.label>Arcane Spectre</TM_HediffEnchantment_arcaneSpectre.label>
+  <TM_HediffEnchantment_arcaneSpectre.description>An enchantment that can add bonus spirit damage to any attack.</TM_HediffEnchantment_arcaneSpectre.description>
+  <TM_HediffEnchantment_phantomShift.label>Phantom Shift</TM_HediffEnchantment_phantomShift.label>
+  <TM_HediffEnchantment_phantomShift.description>An enchantment that shifts all damage from an attack to the nether.</TM_HediffEnchantment_phantomShift.description>
+  <TM_HediffEnchantment_fireImmunity.label>Fire Immunity</TM_HediffEnchantment_fireImmunity.label>
+  <TM_HediffEnchantment_fireImmunity.description>Can still take fire based damage, but can no longer catch fire.</TM_HediffEnchantment_fireImmunity.description>
+  <TM_ArcaneHD.labelNounPretty>{0} in the {1}</TM_ArcaneHD.labelNounPretty>
+  <TM_ArcaneHD.label>arcane</TM_ArcaneHD.label>
+  <TM_ArcaneHD.description>Destructive arcane power</TM_ArcaneHD.description>
+  <TM_ArcaneHD.comps.0.labelTendedWell>bandaged</TM_ArcaneHD.comps.0.labelTendedWell>
+  <TM_ArcaneHD.comps.0.labelTendedWellInner>sutured</TM_ArcaneHD.comps.0.labelTendedWellInner>
+  <TM_ArcaneHD.comps.0.labelSolidTendedWell>set</TM_ArcaneHD.comps.0.labelSolidTendedWell>
+  <TM_ArcaneHD.comps.1.permanentLabel>destroyed by arcane power</TM_ArcaneHD.comps.1.permanentLabel>
+  <TM_ArcaneHD.injuryProps.destroyedLabel>blasted off</TM_ArcaneHD.injuryProps.destroyedLabel>
+  <TM_ArcaneHD.injuryProps.destroyedOutLabel>blasted out</TM_ArcaneHD.injuryProps.destroyedOutLabel>
+  <TM_ThrumboCleave.labelNounPretty>{0} in the {1}</TM_ThrumboCleave.labelNounPretty>
+  <TM_ThrumboCleave.label>cleave</TM_ThrumboCleave.label>
+  <TM_ThrumboCleave.description>An attack powerful enough to shear through multiple objects.</TM_ThrumboCleave.description>
+  <TM_ThrumboCleave.labelNoun>a massive wound</TM_ThrumboCleave.labelNoun>
+  <TM_ThrumboCleave.comps.0.labelTendedWell>bandaged</TM_ThrumboCleave.comps.0.labelTendedWell>
+  <TM_ThrumboCleave.comps.0.labelTendedWellInner>sutured</TM_ThrumboCleave.comps.0.labelTendedWellInner>
+  <TM_ThrumboCleave.comps.0.labelSolidTendedWell>set</TM_ThrumboCleave.comps.0.labelSolidTendedWell>
+  <TM_ThrumboCleave.comps.2.permanentLabel>scar</TM_ThrumboCleave.comps.2.permanentLabel>
+  <TM_ThrumboCleave.injuryProps.destroyedLabel>Sliced off</TM_ThrumboCleave.injuryProps.destroyedLabel>
+  <TM_ThrumboCleave.injuryProps.destroyedOutLabel>Sliced out</TM_ThrumboCleave.injuryProps.destroyedOutLabel>
+  <TM_BlazingPowerHD.labelNounPretty>{0} in the {1}</TM_BlazingPowerHD.labelNounPretty>
+  <TM_BlazingPowerHD.label>Blazing Power</TM_BlazingPowerHD.label>
+  <TM_BlazingPowerHD.description>Arcane power directed through a focusing vessel.</TM_BlazingPowerHD.description>
+  <TM_BlazingPowerHD.comps.0.labelTendedWell>bandaged</TM_BlazingPowerHD.comps.0.labelTendedWell>
+  <TM_BlazingPowerHD.comps.0.labelTendedWellInner>sutured</TM_BlazingPowerHD.comps.0.labelTendedWellInner>
+  <TM_BlazingPowerHD.comps.0.labelSolidTendedWell>set</TM_BlazingPowerHD.comps.0.labelSolidTendedWell>
+  <TM_BlazingPowerHD.comps.1.permanentLabel>destroyed by blazing power</TM_BlazingPowerHD.comps.1.permanentLabel>
+  <TM_BlazingPowerHD.injuryProps.destroyedLabel>destroyed</TM_BlazingPowerHD.injuryProps.destroyedLabel>
+  <TM_BlazingPowerHD.injuryProps.destroyedOutLabel>destroyed</TM_BlazingPowerHD.injuryProps.destroyedOutLabel>
+  <TM_Holy.labelNounPretty>{0} in the {1}</TM_Holy.labelNounPretty>
+  <TM_Holy.label>Holy Wrath</TM_Holy.label>
+  <TM_Holy.description>Belief made into destructive energy.</TM_Holy.description>
+  <TM_Holy.comps.0.labelTendedWell>bandaged</TM_Holy.comps.0.labelTendedWell>
+  <TM_Holy.comps.0.labelTendedWellInner>sutured</TM_Holy.comps.0.labelTendedWellInner>
+  <TM_Holy.comps.0.labelSolidTendedWell>set</TM_Holy.comps.0.labelSolidTendedWell>
+  <TM_Holy.comps.1.permanentLabel>destroyed by holy power</TM_Holy.comps.1.permanentLabel>
+  <TM_Holy.injuryProps.destroyedLabel>burned off</TM_Holy.injuryProps.destroyedLabel>
+  <TM_Holy.injuryProps.destroyedOutLabel>burned out</TM_Holy.injuryProps.destroyedOutLabel>
+  <TM_SpiritHD.labelNounPretty>{0} in the {1}</TM_SpiritHD.labelNounPretty>
+  <TM_SpiritHD.label>Spirit</TM_SpiritHD.label>
+  <TM_SpiritHD.description>Harmful spiritual energy.</TM_SpiritHD.description>
+  <TM_SpiritHD.comps.0.labelTendedWell>bandaged</TM_SpiritHD.comps.0.labelTendedWell>
+  <TM_SpiritHD.comps.0.labelTendedWellInner>sutured</TM_SpiritHD.comps.0.labelTendedWellInner>
+  <TM_SpiritHD.comps.0.labelSolidTendedWell>set</TM_SpiritHD.comps.0.labelSolidTendedWell>
+  <TM_SpiritHD.comps.1.permanentLabel>drained of spirit</TM_SpiritHD.comps.1.permanentLabel>
+  <TM_SpiritHD.injuryProps.destroyedLabel>lifeless</TM_SpiritHD.injuryProps.destroyedLabel>
+  <TM_SpiritHD.injuryProps.destroyedOutLabel>lifeless</TM_SpiritHD.injuryProps.destroyedOutLabel>
+  <TM_MagicMissile.labelNounPretty>{0} in the {1}</TM_MagicMissile.labelNounPretty>
+  <TM_MagicMissile.label>Magic Missile</TM_MagicMissile.label>
+  <TM_MagicMissile.description>Arcane energy projected in small, focused bursts.</TM_MagicMissile.description>
+  <TM_MagicMissile.comps.0.labelTendedWell>bandaged</TM_MagicMissile.comps.0.labelTendedWell>
+  <TM_MagicMissile.comps.0.labelTendedWellInner>sutured</TM_MagicMissile.comps.0.labelTendedWellInner>
+  <TM_MagicMissile.comps.0.labelSolidTendedWell>set</TM_MagicMissile.comps.0.labelSolidTendedWell>
+  <TM_MagicMissile.comps.1.permanentLabel>touched by the arcane</TM_MagicMissile.comps.1.permanentLabel>
+  <TM_MagicMissile.injuryProps.destroyedLabel>sliced off</TM_MagicMissile.injuryProps.destroyedLabel>
+  <TM_MagicMissile.injuryProps.destroyedOutLabel>cut out</TM_MagicMissile.injuryProps.destroyedOutLabel>
+  <TM_ManaMine.labelNounPretty>{0} in the {1}</TM_ManaMine.labelNounPretty>
+  <TM_ManaMine.label>mana explosion</TM_ManaMine.label>
+  <TM_ManaMine.description>Explosive release of contained mana.</TM_ManaMine.description>
+  <TM_ManaMine.comps.0.labelTendedWell>bandaged</TM_ManaMine.comps.0.labelTendedWell>
+  <TM_ManaMine.comps.0.labelTendedWellInner>sutured</TM_ManaMine.comps.0.labelTendedWellInner>
+  <TM_ManaMine.comps.0.labelSolidTendedWell>set</TM_ManaMine.comps.0.labelSolidTendedWell>
+  <TM_ManaMine.comps.1.permanentLabel>destroyed by a mana explosion</TM_ManaMine.comps.1.permanentLabel>
+  <TM_ManaMine.injuryProps.destroyedLabel>blasted off</TM_ManaMine.injuryProps.destroyedLabel>
+  <TM_ManaMine.injuryProps.destroyedOutLabel>burned out</TM_ManaMine.injuryProps.destroyedOutLabel>
+  <TM_Firebolt.labelNounPretty>{0} in the {1}</TM_Firebolt.labelNounPretty>
+  <TM_Firebolt.label>Firebolt</TM_Firebolt.label>
+  <TM_Firebolt.description>Projected bolt of elemental fire.</TM_Firebolt.description>
+  <TM_Firebolt.comps.0.labelTendedWell>bandaged</TM_Firebolt.comps.0.labelTendedWell>
+  <TM_Firebolt.comps.0.labelTendedWellInner>sutured</TM_Firebolt.comps.0.labelTendedWellInner>
+  <TM_Firebolt.comps.0.labelSolidTendedWell>set</TM_Firebolt.comps.0.labelSolidTendedWell>
+  <TM_Firebolt.comps.1.permanentLabel>burn scar</TM_Firebolt.comps.1.permanentLabel>
+  <TM_Firebolt.injuryProps.destroyedLabel>burned</TM_Firebolt.injuryProps.destroyedLabel>
+  <TM_Firebolt.injuryProps.destroyedOutLabel>burned out</TM_Firebolt.injuryProps.destroyedOutLabel>
+  <TM_LightningCloud.labelNounPretty>{0} in the {1}</TM_LightningCloud.labelNounPretty>
+  <TM_LightningCloud.label>Lightning</TM_LightningCloud.label>
+  <TM_LightningCloud.description>Ambient electrical discharge caused by condensing charged particles.</TM_LightningCloud.description>
+  <TM_LightningCloud.comps.0.labelTendedWell>bandaged</TM_LightningCloud.comps.0.labelTendedWell>
+  <TM_LightningCloud.comps.0.labelTendedWellInner>sutured</TM_LightningCloud.comps.0.labelTendedWellInner>
+  <TM_LightningCloud.comps.0.labelSolidTendedWell>set</TM_LightningCloud.comps.0.labelSolidTendedWell>
+  <TM_LightningCloud.comps.1.permanentLabel>electrocuted</TM_LightningCloud.comps.1.permanentLabel>
+  <TM_LightningCloud.injuryProps.destroyedLabel>melted</TM_LightningCloud.injuryProps.destroyedLabel>
+  <TM_LightningCloud.injuryProps.destroyedOutLabel>burned out</TM_LightningCloud.injuryProps.destroyedOutLabel>
+  <TM_Lightning.labelNounPretty>{0} in the {1}</TM_Lightning.labelNounPretty>
+  <TM_Lightning.label>Lightning</TM_Lightning.label>
+  <TM_Lightning.description>A powerful bolt of electricity.</TM_Lightning.description>
+  <TM_Lightning.comps.0.labelTendedWell>bandaged</TM_Lightning.comps.0.labelTendedWell>
+  <TM_Lightning.comps.0.labelTendedWellInner>sutured</TM_Lightning.comps.0.labelTendedWellInner>
+  <TM_Lightning.comps.0.labelSolidTendedWell>set</TM_Lightning.comps.0.labelSolidTendedWell>
+  <TM_Lightning.comps.1.permanentLabel>struck by lightning</TM_Lightning.comps.1.permanentLabel>
+  <TM_Lightning.injuryProps.destroyedLabel>melted</TM_Lightning.injuryProps.destroyedLabel>
+  <TM_Lightning.injuryProps.destroyedOutLabel>burned out</TM_Lightning.injuryProps.destroyedOutLabel>
+  <FrostRay.labelNounPretty>{0} in the {1}</FrostRay.labelNounPretty>
+  <FrostRay.label>frostray</FrostRay.label>
+  <FrostRay.description>Super-cooled bolt of energy.</FrostRay.description>
+  <FrostRay.comps.0.labelTendedWell>bandaged</FrostRay.comps.0.labelTendedWell>
+  <FrostRay.comps.0.labelTendedWellInner>sutured</FrostRay.comps.0.labelTendedWellInner>
+  <FrostRay.comps.0.labelSolidTendedWell>set</FrostRay.comps.0.labelSolidTendedWell>
+  <FrostRay.comps.1.permanentLabel>frostbite scar</FrostRay.comps.1.permanentLabel>
+  <FrostRay.injuryProps.destroyedLabel>frozen off</FrostRay.injuryProps.destroyedLabel>
+  <FrostRay.injuryProps.destroyedOutLabel>Shattered</FrostRay.injuryProps.destroyedOutLabel>
+  <Snowball.labelNounPretty>{0} in the {1}</Snowball.labelNounPretty>
+  <Snowball.label>snowball</Snowball.label>
+  <Snowball.description>Packed ice and snow.</Snowball.description>
+  <Snowball.comps.0.labelTendedWell>bandaged</Snowball.comps.0.labelTendedWell>
+  <Snowball.comps.0.labelTendedWellInner>sutured</Snowball.comps.0.labelTendedWellInner>
+  <Snowball.comps.0.labelSolidTendedWell>set</Snowball.comps.0.labelSolidTendedWell>
+  <Snowball.comps.1.permanentLabel>frostbite scar</Snowball.comps.1.permanentLabel>
+  <Snowball.injuryProps.destroyedLabel>frozen off</Snowball.injuryProps.destroyedLabel>
+  <Snowball.injuryProps.destroyedOutLabel>Shattered</Snowball.injuryProps.destroyedOutLabel>
+  <Blizzard.labelNounPretty>{0} in the {1}</Blizzard.labelNounPretty>
+  <Blizzard.label>blizzard</Blizzard.label>
+  <Blizzard.description>A storm of ice and snow.</Blizzard.description>
+  <Blizzard.comps.0.labelTendedWell>bandaged</Blizzard.comps.0.labelTendedWell>
+  <Blizzard.comps.0.labelTendedWellInner>sutured</Blizzard.comps.0.labelTendedWellInner>
+  <Blizzard.comps.0.labelSolidTendedWell>set</Blizzard.comps.0.labelSolidTendedWell>
+  <Blizzard.comps.1.permanentLabel>destroyed in blizzard</Blizzard.comps.1.permanentLabel>
+  <Blizzard.injuryProps.destroyedLabel>frozen</Blizzard.injuryProps.destroyedLabel>
+  <Blizzard.injuryProps.destroyedOutLabel>shattered</Blizzard.injuryProps.destroyedOutLabel>
+  <Iceshard.labelNounPretty>{0} in the {1}</Iceshard.labelNounPretty>
+  <Iceshard.label>iceshard</Iceshard.label>
+  <Iceshard.description>A projected bolt of ice formed with razor sharp edges.</Iceshard.description>
+  <Iceshard.comps.0.labelTendedWell>bandaged</Iceshard.comps.0.labelTendedWell>
+  <Iceshard.comps.0.labelTendedWellInner>sutured</Iceshard.comps.0.labelTendedWellInner>
+  <Iceshard.comps.0.labelSolidTendedWell>set</Iceshard.comps.0.labelSolidTendedWell>
+  <Iceshard.comps.1.permanentLabel>iceshard scar</Iceshard.comps.1.permanentLabel>
+  <Iceshard.injuryProps.destroyedLabel>Shredded</Iceshard.injuryProps.destroyedLabel>
+  <Iceshard.injuryProps.destroyedOutLabel>Torn to shreds</Iceshard.injuryProps.destroyedOutLabel>
+  <TM_GrapplingHook.labelNounPretty>{0} in the {1}</TM_GrapplingHook.labelNounPretty>
+  <TM_GrapplingHook.label>Grappling Hook</TM_GrapplingHook.label>
+  <TM_GrapplingHook.description>Pulls targets close.</TM_GrapplingHook.description>
+  <TM_GrapplingHook.comps.0.labelTendedWell>bandaged</TM_GrapplingHook.comps.0.labelTendedWell>
+  <TM_GrapplingHook.comps.0.labelTendedWellInner>sutured</TM_GrapplingHook.comps.0.labelTendedWellInner>
+  <TM_GrapplingHook.comps.0.labelSolidTendedWell>set</TM_GrapplingHook.comps.0.labelSolidTendedWell>
+  <TM_GrapplingHook.comps.2.permanentLabel>torn off</TM_GrapplingHook.comps.2.permanentLabel>
+  <TM_GrapplingHook.injuryProps.destroyedLabel>torn off</TM_GrapplingHook.injuryProps.destroyedLabel>
+  <TM_GrapplingHook.injuryProps.destroyedOutLabel>torn out</TM_GrapplingHook.injuryProps.destroyedOutLabel>
+  <TM_Whirlwind_Knockdown.labelNounPretty>{0} in the {1}</TM_Whirlwind_Knockdown.labelNounPretty>
+  <TM_Whirlwind_Knockdown.label>Whirlwind Knockdown</TM_Whirlwind_Knockdown.label>
+  <TM_Whirlwind_Knockdown.description>Overwhelmed from a flurry of attacks.</TM_Whirlwind_Knockdown.description>
+  <TM_Whirlwind_Knockdown.comps.0.labelTendedWell>bandaged</TM_Whirlwind_Knockdown.comps.0.labelTendedWell>
+  <TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>sutured</TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>
+  <TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>set</TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>
+  <TM_Whirlwind_Knockdown.comps.2.permanentLabel>sliced off</TM_Whirlwind_Knockdown.comps.2.permanentLabel>
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>sliced off</TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>cut out</TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>
+  <TM_DisablingShot_HD.labelNounPretty>{0} in the {1}</TM_DisablingShot_HD.labelNounPretty>
+  <TM_DisablingShot_HD.label>disabling shot</TM_DisablingShot_HD.label>
+  <TM_DisablingShot_HD.description>A projectile designed to disable rather than kill.</TM_DisablingShot_HD.description>
+  <TM_DisablingShot_HD.comps.0.labelTendedWell>bandaged</TM_DisablingShot_HD.comps.0.labelTendedWell>
+  <TM_DisablingShot_HD.comps.0.labelTendedWellInner>sutured</TM_DisablingShot_HD.comps.0.labelTendedWellInner>
+  <TM_DisablingShot_HD.comps.0.labelSolidTendedWell>set</TM_DisablingShot_HD.comps.0.labelSolidTendedWell>
+  <TM_DisablingShot_HD.comps.2.permanentLabel>shot off</TM_DisablingShot_HD.comps.2.permanentLabel>
+  <TM_DisablingShot_HD.injuryProps.destroyedLabel>shot off</TM_DisablingShot_HD.injuryProps.destroyedLabel>
+  <TM_DisablingShot_HD.injuryProps.destroyedOutLabel>shot out</TM_DisablingShot_HD.injuryProps.destroyedOutLabel>
+  <TM_arcaneSpectre.labelNounPretty>{0} in the {1}</TM_arcaneSpectre.labelNounPretty>
+  <TM_arcaneSpectre.label>spirit cut</TM_arcaneSpectre.label>
+  <TM_arcaneSpectre.description>Spirit damage from a spectre.</TM_arcaneSpectre.description>
+  <TM_arcaneSpectre.labelNoun>a cut</TM_arcaneSpectre.labelNoun>
+  <TM_arcaneSpectre.comps.0.labelTendedWell>bandaged</TM_arcaneSpectre.comps.0.labelTendedWell>
+  <TM_arcaneSpectre.comps.0.labelTendedWellInner>sutured</TM_arcaneSpectre.comps.0.labelTendedWellInner>
+  <TM_arcaneSpectre.comps.0.labelSolidTendedWell>set</TM_arcaneSpectre.comps.0.labelSolidTendedWell>
+  <TM_arcaneSpectre.comps.2.permanentLabel>pale scar</TM_arcaneSpectre.comps.2.permanentLabel>
+  <TM_arcaneSpectre.injuryProps.destroyedLabel>Cut off</TM_arcaneSpectre.injuryProps.destroyedLabel>
+  <TM_arcaneSpectre.injuryProps.destroyedOutLabel>Cut out</TM_arcaneSpectre.injuryProps.destroyedOutLabel>
+  <TM_BloodyCutHD.labelNounPretty>{0} in the {1}</TM_BloodyCutHD.labelNounPretty>
+  <TM_BloodyCutHD.label>bloody cut</TM_BloodyCutHD.label>
+  <TM_BloodyCutHD.description>A deep cut that bleeds profusely.</TM_BloodyCutHD.description>
+  <TM_BloodyCutHD.labelNoun>a bloody cut</TM_BloodyCutHD.labelNoun>
+  <TM_BloodyCutHD.comps.0.labelTendedWell>bandaged</TM_BloodyCutHD.comps.0.labelTendedWell>
+  <TM_BloodyCutHD.comps.0.labelTendedWellInner>sutured</TM_BloodyCutHD.comps.0.labelTendedWellInner>
+  <TM_BloodyCutHD.comps.0.labelSolidTendedWell>set</TM_BloodyCutHD.comps.0.labelSolidTendedWell>
+  <TM_BloodyCutHD.comps.2.permanentLabel>cut scar</TM_BloodyCutHD.comps.2.permanentLabel>
+  <TM_BloodyCutHD.injuryProps.destroyedLabel>Cut off</TM_BloodyCutHD.injuryProps.destroyedLabel>
+  <TM_BloodyCutHD.injuryProps.destroyedOutLabel>Cut out</TM_BloodyCutHD.injuryProps.destroyedOutLabel>
+  <TM_DisablingBlowHD.labelNounPretty>{0} in the {1}</TM_DisablingBlowHD.labelNounPretty>
+  <TM_DisablingBlowHD.label>disabling blow</TM_DisablingBlowHD.label>
+  <TM_DisablingBlowHD.description>A melee blow meant to disable rather than kill.</TM_DisablingBlowHD.description>
+  <TM_DisablingBlowHD.comps.0.labelTendedWell>bandaged</TM_DisablingBlowHD.comps.0.labelTendedWell>
+  <TM_DisablingBlowHD.comps.0.labelTendedWellInner>sutured</TM_DisablingBlowHD.comps.0.labelTendedWellInner>
+  <TM_DisablingBlowHD.comps.0.labelSolidTendedWell>set</TM_DisablingBlowHD.comps.0.labelSolidTendedWell>
+  <TM_DisablingBlowHD.comps.2.permanentLabel>smashed</TM_DisablingBlowHD.comps.2.permanentLabel>
+  <TM_DisablingBlowHD.injuryProps.destroyedLabel>smashed</TM_DisablingBlowHD.injuryProps.destroyedLabel>
+  <TM_DisablingBlowHD.injuryProps.destroyedOutLabel>crushed</TM_DisablingBlowHD.injuryProps.destroyedOutLabel>
+  <TM_ChiBurnHD.labelNounPretty>{0} in the {1}</TM_ChiBurnHD.labelNounPretty>
+  <TM_ChiBurnHD.label>Chi burn</TM_ChiBurnHD.label>
+  <TM_ChiBurnHD.description>Damage sustained from a burst of ch'i energy.</TM_ChiBurnHD.description>
+  <TM_ChiBurnHD.comps.0.labelTendedWell>bandaged</TM_ChiBurnHD.comps.0.labelTendedWell>
+  <TM_ChiBurnHD.comps.0.labelTendedWellInner>sutured</TM_ChiBurnHD.comps.0.labelTendedWellInner>
+  <TM_ChiBurnHD.comps.0.labelSolidTendedWell>set</TM_ChiBurnHD.comps.0.labelSolidTendedWell>
+  <TM_ChiBurnHD.comps.1.permanentLabel>destroyed</TM_ChiBurnHD.comps.1.permanentLabel>
+  <TM_ChiBurnHD.injuryProps.destroyedLabel>burned</TM_ChiBurnHD.injuryProps.destroyedLabel>
+  <TM_ChiBurnHD.injuryProps.destroyedOutLabel>disintegrated</TM_ChiBurnHD.injuryProps.destroyedOutLabel>
+  <TM_ChiFistHD.labelNounPretty>{0} in the {1}</TM_ChiFistHD.labelNounPretty>
+  <TM_ChiFistHD.label>strike</TM_ChiFistHD.label>
+  <TM_ChiFistHD.description>A melee strike from a monk.</TM_ChiFistHD.description>
+  <TM_ChiFistHD.comps.0.labelTendedWell>tended</TM_ChiFistHD.comps.0.labelTendedWell>
+  <TM_ChiFistHD.comps.0.labelTendedWellInner>sutured</TM_ChiFistHD.comps.0.labelTendedWellInner>
+  <TM_ChiFistHD.comps.0.labelSolidTendedWell>set</TM_ChiFistHD.comps.0.labelSolidTendedWell>
+  <TM_ChiFistHD.comps.1.permanentLabel>destroyed</TM_ChiFistHD.comps.1.permanentLabel>
+  <TM_ChiFistHD.injuryProps.destroyedLabel>broken</TM_ChiFistHD.injuryProps.destroyedLabel>
+  <TM_ChiFistHD.injuryProps.destroyedOutLabel>removed</TM_ChiFistHD.injuryProps.destroyedOutLabel>
+  <TM_ToxinHD.labelNounPretty>{0} in the {1}</TM_ToxinHD.labelNounPretty>
+  <TM_ToxinHD.label>toxin</TM_ToxinHD.label>
+  <TM_ToxinHD.labelNoun>toxin</TM_ToxinHD.labelNoun>
+  <TM_ToxinHD.description>damage from toxins.</TM_ToxinHD.description>
+  <TM_ToxinHD.comps.0.labelTendedWell>tended</TM_ToxinHD.comps.0.labelTendedWell>
+  <TM_ToxinHD.comps.0.labelTendedWellInner>tended</TM_ToxinHD.comps.0.labelTendedWellInner>
+  <TM_ToxinHD.comps.0.labelSolidTendedWell>tended</TM_ToxinHD.comps.0.labelSolidTendedWell>
+  <TM_ToxinHD.comps.2.permanentLabel>toxic tissue</TM_ToxinHD.comps.2.permanentLabel>
+  <TM_ToxinHD.injuryProps.destroyedLabel>destroyed</TM_ToxinHD.injuryProps.destroyedLabel>
+  <TM_LightDD.labelNounPretty>{0} in the {1}</TM_LightDD.labelNounPretty>
+  <TM_LightDD.label>Light</TM_LightDD.label>
+  <TM_LightDD.description>Destructive energy from the domain of light.</TM_LightDD.description>
+  <TM_LightDD.comps.0.labelTendedWell>bandaged</TM_LightDD.comps.0.labelTendedWell>
+  <TM_LightDD.comps.0.labelTendedWellInner>sutured</TM_LightDD.comps.0.labelTendedWellInner>
+  <TM_LightDD.comps.0.labelSolidTendedWell>set</TM_LightDD.comps.0.labelSolidTendedWell>
+  <TM_LightDD.comps.1.permanentLabel>burned by light</TM_LightDD.comps.1.permanentLabel>
+  <TM_LightDD.injuryProps.destroyedLabel>burned away</TM_LightDD.injuryProps.destroyedLabel>
+  <TM_LightDD.injuryProps.destroyedOutLabel>burned out</TM_LightDD.injuryProps.destroyedOutLabel>
+  <TM_ArcaneWeakness.label>arcane weakness</TM_ArcaneWeakness.label>
+  <TM_ArcaneWeakness.description>Arcane Weakness is a byproduct of casting magical abilities. Minor abilities with a mana cost less than 25 will not incur Arcane Weakness. The amount of Arcane Weakness that will affect a mage is relative to the mana cost of the ability.</TM_ArcaneWeakness.description>
+  <TM_ArcaneWeakness.stages.0.label>weakened</TM_ArcaneWeakness.stages.0.label>
+  <TM_ArcaneWeakness.stages.1.label>drained</TM_ArcaneWeakness.stages.1.label>
+  <TM_ArcaneWeakness.stages.2.label>severely ill</TM_ArcaneWeakness.stages.2.label>
+  <TM_ArcaneWeakness.stages.3.label>catatonic</TM_ArcaneWeakness.stages.3.label>
+  <TM_ArcaneWeakness.stages.4.label>near death</TM_ArcaneWeakness.stages.4.label>
+  <TM_Confused.label>Confused</TM_Confused.label>
+  <TM_Confused.description>Frequently causes a target to become confused.</TM_Confused.description>
+  <TM_Confused.stages.0.label>Wandering confused</TM_Confused.stages.0.label>
+  <TM_ManaSickness.label>mana sickness</TM_ManaSickness.label>
+  <TM_ManaSickness.description>Mana sickness affects mages when they have 0 mana and their regeneration is negative. Mana sickness will eventually kill a mage if it is not reversed. Players may evaluate a mage's mana regeneration in the Magic Tab while hovering over the Mana regeneration value to display a tooltip showing contributors affecting mana regeneration.</TM_ManaSickness.description>
+  <TM_ManaSickness.stages.0.label>weakened</TM_ManaSickness.stages.0.label>
+  <TM_ManaSickness.stages.1.label>ailing</TM_ManaSickness.stages.1.label>
+  <TM_ManaSickness.stages.2.label>near death</TM_ManaSickness.stages.2.label>
+  <TM_ArcaneSickness.label>arcane sickness</TM_ArcaneSickness.label>
+  <TM_ArcaneSickness.description>A sickness caused by tainted magic.</TM_ArcaneSickness.description>
+  <TM_ArcaneSickness.stages.0.label>minor</TM_ArcaneSickness.stages.0.label>
+  <TM_ArcaneSickness.stages.1.label>minor</TM_ArcaneSickness.stages.1.label>
+  <TM_ArcaneSickness.stages.2.label>moderate</TM_ArcaneSickness.stages.2.label>
+  <TM_ArcaneSickness.stages.3.label>major</TM_ArcaneSickness.stages.3.label>
+  <TM_ArcaneSickness.stages.4.label>extreme</TM_ArcaneSickness.stages.4.label>
+  <TM_ArcaneSickness.stages.5.label>extreme</TM_ArcaneSickness.stages.5.label>
+  <TM_Terror.label>Terror</TM_Terror.label>
+  <TM_Terror.description>A raw display of magical power is inducing fear in this pawn.</TM_Terror.description>
+  <TM_Terror.stages.0.label>Uneasy</TM_Terror.stages.0.label>
+  <TM_Terror.stages.1.label>Panicked</TM_Terror.stages.1.label>
+  <TM_Terror.stages.2.label>Terrified</TM_Terror.stages.2.label>
+  <TM_EnlightenedHD.label>Enlightened</TM_EnlightenedHD.label>
+  <TM_EnlightenedHD.description>Consciousness increased as a result of inspirational enlightenment.</TM_EnlightenedHD.description>
+  <TM_MagicUserHD.label>magic user</TM_MagicUserHD.label>
+  <TM_MagicUserHD.description>Hediff required for magic users.</TM_MagicUserHD.description>
+  <TM_MagicUserHD.stages.0.label>hidden</TM_MagicUserHD.stages.0.label>
+  <TM_MightUserHD.label>might user</TM_MightUserHD.label>
+  <TM_MightUserHD.description>Hediff required for might users.</TM_MightUserHD.description>
+  <TM_MightUserHD.stages.0.label>hidden</TM_MightUserHD.stages.0.label>
+  <ManaPotionHigh.label>arcane high</ManaPotionHigh.label>
+  <ManaPotionHigh.description>Consciousness is raised by consuming liquid mana.</ManaPotionHigh.description>
+  <ManaPotionTolerance.label>mana potion tolerance</ManaPotionTolerance.label>
+  <ManaPotionTolerance.description>Natural adjustment to normalize the effects of consuming liquid mana.</ManaPotionTolerance.description>
+  <ManaPotionAddiction.label>mana potion addiction</ManaPotionAddiction.label>
+  <ManaPotionAddiction.description>The urge to consume mana potions has developed into a need.</ManaPotionAddiction.description>
+  <ManaPotionAddiction.stages.1.label>withdrawal</ManaPotionAddiction.stages.1.label>
+  <TM_PomanaSenseHD.label>pomana sense</TM_PomanaSenseHD.label>
+  <TM_PomanaSenseHD.description>Relaxation and heightened senses from consuming raw pomana fruit.</TM_PomanaSenseHD.description>
+  <TM_SyrriumSenseHD.label>syrrium sense</TM_SyrriumSenseHD.label>
+  <TM_SyrriumSenseHD.description>Heightened senses resulting from consuming condensed pomanasyrrium.</TM_SyrriumSenseHD.description>
+  <TM_SyrriumTolerance.label>syrrium tolerance</TM_SyrriumTolerance.label>
+  <TM_SyrriumTolerance.description>Natural adjustment to normalize the effects of consuming condensed pomanasyrrium.</TM_SyrriumTolerance.description>
+  <TM_SyrriumAddiction.label>syrrium addiction</TM_SyrriumAddiction.label>
+  <TM_SyrriumAddiction.description>The urge to feel the effects of syrrium have developed into a need.</TM_SyrriumAddiction.description>
+  <TM_SyrriumAddiction.stages.1.label>withdrawal</TM_SyrriumAddiction.stages.1.label>
+</LanguageData>

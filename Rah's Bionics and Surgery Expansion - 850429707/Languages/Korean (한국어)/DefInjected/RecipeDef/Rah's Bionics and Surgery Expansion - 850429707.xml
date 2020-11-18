@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallSpinalFusion.label>spinal fusion</InstallSpinalFusion.label>
+  <InstallSpinalFusion.description>Fuses the spine.</InstallSpinalFusion.description>
+  <InstallSpinalFusion.jobString>Fusing the spine.</InstallSpinalFusion.jobString>
+  <InstallHumerus.label>install humerus</InstallHumerus.label>
+  <InstallHumerus.description>Installs humerus</InstallHumerus.description>
+  <InstallHumerus.jobString>Installing humerus</InstallHumerus.jobString>
+  <InstallRadius.label>install radius</InstallRadius.label>
+  <InstallRadius.description>Installs radius</InstallRadius.description>
+  <InstallRadius.jobString>Installing radius</InstallRadius.jobString>
+  <InstallTibia.label>install tibia</InstallTibia.label>
+  <InstallTibia.description>Installs tibia</InstallTibia.description>
+  <InstallTibia.jobString>Installing tibia</InstallTibia.jobString>
+  <InstallFemur.label>install femur</InstallFemur.label>
+  <InstallFemur.description>Installs femur</InstallFemur.description>
+  <InstallFemur.jobString>Installing femur</InstallFemur.jobString>
+  <InstallClavicle.label>install clavicle</InstallClavicle.label>
+  <InstallClavicle.description>Installs clavicle</InstallClavicle.description>
+  <InstallClavicle.jobString>Installing clavicle</InstallClavicle.jobString>
+  <InstallSternum.label>install sternum</InstallSternum.label>
+  <InstallSternum.description>Installs Sternum</InstallSternum.description>
+  <InstallSternum.jobString>Installing Sternum</InstallSternum.jobString>
+  <InstallRibcage.label>install ribcage</InstallRibcage.label>
+  <InstallRibcage.description>Installs Ribcage</InstallRibcage.description>
+  <InstallRibcage.jobString>Installing Ribcage</InstallRibcage.jobString>
+  <InstallAdvancedPowerArm.label>install advanced power arm</InstallAdvancedPowerArm.label>
+  <InstallAdvancedPowerArm.description>Installs advanced power arm.</InstallAdvancedPowerArm.description>
+  <InstallAdvancedPowerArm.jobString>Installing advanced power arm.</InstallAdvancedPowerArm.jobString>
+  <InstallAdvancedBionicArm.label>install advanced bionic arm</InstallAdvancedBionicArm.label>
+  <InstallAdvancedBionicArm.description>Installs advanced bionic arm.</InstallAdvancedBionicArm.description>
+  <InstallAdvancedBionicArm.jobString>Installing advanced bionic arm.</InstallAdvancedBionicArm.jobString>
+  <InstallAdvancedBionicLeg.label>install advanced bionic leg</InstallAdvancedBionicLeg.label>
+  <InstallAdvancedBionicLeg.description>Installs advanced bionic leg.</InstallAdvancedBionicLeg.description>
+  <InstallAdvancedBionicLeg.jobString>Installing advanced bionic leg.</InstallAdvancedBionicLeg.jobString>
+  <InstallAdvancedBionicHand.label>install advanced bionic hand</InstallAdvancedBionicHand.label>
+  <InstallAdvancedBionicHand.description>Installs advanced bionic hand.</InstallAdvancedBionicHand.description>
+  <InstallAdvancedBionicHand.jobString>Installing advanced bionic hand.</InstallAdvancedBionicHand.jobString>
+  <InstallAdvancedBionicFoot.label>install advanced bionic foot</InstallAdvancedBionicFoot.label>
+  <InstallAdvancedBionicFoot.description>Installs bionic foot.</InstallAdvancedBionicFoot.description>
+  <InstallAdvancedBionicFoot.jobString>Installing advanced bionic foot.</InstallAdvancedBionicFoot.jobString>
+  <InstallAdvancedBionicEye.label>install advanced bionic eye</InstallAdvancedBionicEye.label>
+  <InstallAdvancedBionicEye.description>Installs advanced bionic eye.</InstallAdvancedBionicEye.description>
+  <InstallAdvancedBionicEye.jobString>Installing advanced bionic eye.</InstallAdvancedBionicEye.jobString>
+  <InstallAdvancedBionicEar.label>install advanced bionic ear implant</InstallAdvancedBionicEar.label>
+  <InstallAdvancedBionicEar.description>Installs an advanced bionic ear.</InstallAdvancedBionicEar.description>
+  <InstallAdvancedBionicEar.jobString>Installing an advanced bionic ear.</InstallAdvancedBionicEar.jobString>
+  <InstallAdvancedBionicSpine.label>install advanced bionic spine</InstallAdvancedBionicSpine.label>
+  <InstallAdvancedBionicSpine.description>Installs advanced bionic spine.</InstallAdvancedBionicSpine.description>
+  <InstallAdvancedBionicSpine.jobString>Installing advanced bionic spine.</InstallAdvancedBionicSpine.jobString>
+  <InstallExoskeletonSuit.label>install exoskeleton suit</InstallExoskeletonSuit.label>
+  <InstallExoskeletonSuit.description>Installs exoskeleton suit.</InstallExoskeletonSuit.description>
+  <InstallExoskeletonSuit.jobString>Installing exoskeleton suit.</InstallExoskeletonSuit.jobString>
+  <MakeAdvancedBionicEye.label>Upgrade bionic eye</MakeAdvancedBionicEye.label>
+  <MakeAdvancedBionicEye.description>Upgrades a bionic eye.</MakeAdvancedBionicEye.description>
+  <MakeAdvancedBionicEye.jobString>Upgrading bionic part.</MakeAdvancedBionicEye.jobString>
+  <MakeAdvancedPowerArm.label>Upgrade power arm</MakeAdvancedPowerArm.label>
+  <MakeAdvancedPowerArm.description>Upgrades a power arm. Highly lethal and effective in combat.\n\nDo not install on an unstable subject, as this might cause unwanted death and destruction.</MakeAdvancedPowerArm.description>
+  <MakeAdvancedPowerArm.jobString>Upgrading bionic part.</MakeAdvancedPowerArm.jobString>
+  <MakeAdvancedBionicArm.label>Upgrade bionic arm</MakeAdvancedBionicArm.label>
+  <MakeAdvancedBionicArm.description>Upgrades a bionic arm.</MakeAdvancedBionicArm.description>
+  <MakeAdvancedBionicArm.jobString>Upgrading bionic part.</MakeAdvancedBionicArm.jobString>
+  <MakeAdvancedBionicHand.label>Upgrade bionic hand</MakeAdvancedBionicHand.label>
+  <MakeAdvancedBionicHand.description>Upgrades a bionic hand.</MakeAdvancedBionicHand.description>
+  <MakeAdvancedBionicHand.jobString>Upgrading bionic part.</MakeAdvancedBionicHand.jobString>
+  <MakeAdvancedBionicFoot.label>Upgrade bionic foot</MakeAdvancedBionicFoot.label>
+  <MakeAdvancedBionicFoot.description>Upgrades a bionic foot.</MakeAdvancedBionicFoot.description>
+  <MakeAdvancedBionicFoot.jobString>Upgrading bionic part.</MakeAdvancedBionicFoot.jobString>
+  <MakeAdvancedBionicLeg.label>Upgrade bionic leg</MakeAdvancedBionicLeg.label>
+  <MakeAdvancedBionicLeg.description>Upgrades a bionic leg.</MakeAdvancedBionicLeg.description>
+  <MakeAdvancedBionicLeg.jobString>Upgrading bionic part.</MakeAdvancedBionicLeg.jobString>
+  <MakeAdvancedBionicEar.label>Upgrade bionic ear</MakeAdvancedBionicEar.label>
+  <MakeAdvancedBionicEar.description>Upgrades a bionic ear.</MakeAdvancedBionicEar.description>
+  <MakeAdvancedBionicEar.jobString>Upgrading bionic part.</MakeAdvancedBionicEar.jobString>
+  <MakeAdvancedBionicSpine.label>Upgrade bionic spine</MakeAdvancedBionicSpine.label>
+  <MakeAdvancedBionicSpine.description>Upgrades a bionic spine.</MakeAdvancedBionicSpine.description>
+  <MakeAdvancedBionicSpine.jobString>Upgrading bionic part.</MakeAdvancedBionicSpine.jobString>
+  <MakeExoskeletonSuit.label>Craft exoskeleton suit</MakeExoskeletonSuit.label>
+  <MakeExoskeletonSuit.description>Crafts an exoskeleton suit from steel, plasteel and components.</MakeExoskeletonSuit.description>
+  <MakeExoskeletonSuit.jobString>Crafting bionic part.</MakeExoskeletonSuit.jobString>
+  <InstallPowerArm.label>install power arm</InstallPowerArm.label>
+  <InstallPowerArm.description>Installs power arm.</InstallPowerArm.description>
+  <InstallPowerArm.jobString>Installing power arm.</InstallPowerArm.jobString>
+  <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
+  <InstallBionicArm.description>Installs bionic arm.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
+  <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Installs bionic leg.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
+  <InstallBionicEye.label>install bionic eye</InstallBionicEye.label>
+  <InstallBionicEye.description>Installs bionic eye.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Installing bionic eye.</InstallBionicEye.jobString>
+  <InstallBionicHand.label>install bionic hand</InstallBionicHand.label>
+  <InstallBionicHand.description>Installs bionic hand.</InstallBionicHand.description>
+  <InstallBionicHand.jobString>Installing bionic hand.</InstallBionicHand.jobString>
+  <InstallBionicFoot.label>install bionic foot</InstallBionicFoot.label>
+  <InstallBionicFoot.description>Installs bionic foot.</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>Installing bionic foot.</InstallBionicFoot.jobString>
+  <InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
+  <InstallBionicEar.description>Installs a bionic ear.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>Installing a bionic ear implant.</InstallBionicEar.jobString>
+  <InstallBionicJaw.label>install bionic jaw</InstallBionicJaw.label>
+  <InstallBionicJaw.description>Installs a bionic jaw.</InstallBionicJaw.description>
+  <InstallBionicJaw.jobString>Installing a bionic jaw implant.</InstallBionicJaw.jobString>
+  <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
+  <InstallBionicSpine.description>Installs a bionic spine.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>Installing a bionic spine.</InstallBionicSpine.jobString>
+  <MakePowerArm.label>craft power arm</MakePowerArm.label>
+  <MakePowerArm.description>Attaching a power claw to a bionic arm is not as easy as it sounds, but damn is it awesome! Lethal and effective in combat.\n\nDo not install on an unstable subject, as this might cause unwanted death and destruction.</MakePowerArm.description>
+  <MakePowerArm.jobString>Crafting bionic part.</MakePowerArm.jobString>
+  <MakePowerClaw.label>Create power claw</MakePowerClaw.label>
+  <MakePowerClaw.description>Turn raw materials into a power claw.</MakePowerClaw.description>
+  <MakePowerClaw.jobString>Crafting power claw.</MakePowerClaw.jobString>
+  <MakeBionicEye.label>Craft bionic eye</MakeBionicEye.label>
+  <MakeBionicEye.description>Crafts a bionic eye from plasteel.</MakeBionicEye.description>
+  <MakeBionicEye.jobString>Crafting bionic part.</MakeBionicEye.jobString>
+  <MakeBionicEar.label>Craft bionic ear</MakeBionicEar.label>
+  <MakeBionicEar.description>Crafts a bionic ear from plasteel.</MakeBionicEar.description>
+  <MakeBionicEar.jobString>Crafting bionic part.</MakeBionicEar.jobString>
+  <MakeBionicArm.label>Craft bionic arm</MakeBionicArm.label>
+  <MakeBionicArm.description>Crafts a bionic arm from plasteel and components.</MakeBionicArm.description>
+  <MakeBionicArm.jobString>Crafting bionic part.</MakeBionicArm.jobString>
+  <MakeBionicLeg.label>Craft bionic leg</MakeBionicLeg.label>
+  <MakeBionicLeg.description>Crafts a bionic leg from plasteel and components.</MakeBionicLeg.description>
+  <MakeBionicLeg.jobString>Crafting bionic part.</MakeBionicLeg.jobString>
+  <MakeBionicHand.label>Craft bionic hand</MakeBionicHand.label>
+  <MakeBionicHand.description>Crafts a bionic hand from plasteel and components.</MakeBionicHand.description>
+  <MakeBionicHand.jobString>Crafting bionic part.</MakeBionicHand.jobString>
+  <MakeBionicFoot.label>Craft bionic foot</MakeBionicFoot.label>
+  <MakeBionicFoot.description>Crafts a bionic foot from plasteel and components.</MakeBionicFoot.description>
+  <MakeBionicFoot.jobString>Crafting bionic part.</MakeBionicFoot.jobString>
+  <MakeBionicJaw.label>Craft bionic jaw</MakeBionicJaw.label>
+  <MakeBionicJaw.description>Crafts a bionic jaw from steel and plasteel.\n\nStats:\nTalking: 15%\nEating: 15%</MakeBionicJaw.description>
+  <MakeBionicJaw.jobString>Crafting bionic part.</MakeBionicJaw.jobString>
+  <MakeBionicSpine.label>Craft bionic spine</MakeBionicSpine.label>
+  <MakeBionicSpine.description>Crafts a bionic spine from steel and plasteel.</MakeBionicSpine.description>
+  <MakeBionicSpine.jobString>Crafting bionic part.</MakeBionicSpine.jobString>
+  <InstallSimpleProstheticHeart.label>n/a</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>n/a</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>n/a</InstallSimpleProstheticHeart.jobString>
+  <InstallBionicStomach.label>n/a</InstallBionicStomach.label>
+  <InstallBionicStomach.description>n/a</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>n/a</InstallBionicStomach.jobString>
+  <InstallBionicHeart.label>n/a</InstallBionicHeart.label>
+  <InstallBionicHeart.description>n/a</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>n/a</InstallBionicHeart.jobString>
+  <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Installs heart.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
+  <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Installs liver.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>
+  <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Installs kidney.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>
+  <InstallNaturalLung.label>install lung</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Installs lung.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>
+  <InstallNaturalStomach.label>install stomach</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>Installs stomach.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>Installing stomach.</InstallNaturalStomach.jobString>
+  <CureInjuryBurn.label>cure burn</CureInjuryBurn.label>
+  <CureInjuryBurn.description>Cure burn.</CureInjuryBurn.description>
+  <CureInjuryBurn.jobString>Curing burn.</CureInjuryBurn.jobString>
+  <CureInjuryCrush.label>cure crush</CureInjuryCrush.label>
+  <CureInjuryCrush.description>Cure crush.</CureInjuryCrush.description>
+  <CureInjuryCrush.jobString>Curing crush.</CureInjuryCrush.jobString>
+  <CureInjuryCrack.label>cure crack</CureInjuryCrack.label>
+  <CureInjuryCrack.description>Cure crack.</CureInjuryCrack.description>
+  <CureInjuryCrack.jobString>Curing crack.</CureInjuryCrack.jobString>
+  <CureInjuryCut.label>cure cut</CureInjuryCut.label>
+  <CureInjuryCut.description>Cure cut.</CureInjuryCut.description>
+  <CureInjuryCut.jobString>Curing cut.</CureInjuryCut.jobString>
+  <CureInjurySurgicalCut.label>cure surgical cut</CureInjurySurgicalCut.label>
+  <CureInjurySurgicalCut.description>Cure surgical cut.</CureInjurySurgicalCut.description>
+  <CureInjurySurgicalCut.jobString>Curing surgical cut.</CureInjurySurgicalCut.jobString>
+  <CureInjuryScratch.label>cure scratch</CureInjuryScratch.label>
+  <CureInjuryScratch.description>Cure scratch.</CureInjuryScratch.description>
+  <CureInjuryScratch.jobString>Curing scratch.</CureInjuryScratch.jobString>
+  <CureInjuryBite.label>cure bite</CureInjuryBite.label>
+  <CureInjuryBite.description>Cure bite.</CureInjuryBite.description>
+  <CureInjuryBite.jobString>Curing bite.</CureInjuryBite.jobString>
+  <CureInjuryStab.label>cure stab</CureInjuryStab.label>
+  <CureInjuryStab.description>Cure stab.</CureInjuryStab.description>
+  <CureInjuryStab.jobString>Curing stab.</CureInjuryStab.jobString>
+  <CureInjuryGunshot.label>cure gunshot</CureInjuryGunshot.label>
+  <CureInjuryGunshot.description>Cure gunshot.</CureInjuryGunshot.description>
+  <CureInjuryGunshot.jobString>Curing gunshot.</CureInjuryGunshot.jobString>
+  <CureInjuryShredded.label>cure shredded</CureInjuryShredded.label>
+  <CureInjuryShredded.description>Cure shredded.</CureInjuryShredded.description>
+  <CureInjuryShredded.jobString>Curing shredded.</CureInjuryShredded.jobString>
+  <CureInjuryBruise.label>cure bruise</CureInjuryBruise.label>
+  <CureInjuryBruise.description>Cure bruise.</CureInjuryBruise.description>
+  <CureInjuryBruise.jobString>Curing bruise.</CureInjuryBruise.jobString>
+  <CureInjuryFrostbite.label>cure frostbite</CureInjuryFrostbite.label>
+  <CureInjuryFrostbite.description>Cure frostbite.</CureInjuryFrostbite.description>
+  <CureInjuryFrostbite.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s frostbite.</CureInjuryFrostbite.successfullyRemovedHediffMessage>
+  <CureInjuryFrostbite.jobString>Curing frostbite.</CureInjuryFrostbite.jobString>
+  <InstallWoodenFoot.label>install wooden foot</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Installs wooden foot.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
+  <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
+  <InstallSimpleProstheticLeg.label>install simple prosthetic leg</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Installs simple prosthetic leg.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Installing simple prosthetic leg.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticArm.label>install simple prosthetic arm</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Installs simple prosthetic arm.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Installing simple prosthetic arm.</InstallSimpleProstheticArm.jobString>
+  <InstallHookHand.label>install hook hand</InstallHookHand.label>
+  <InstallHookHand.description>Installs a hook hand.</InstallHookHand.description>
+  <InstallHookHand.jobString>Installing a hook hand.</InstallHookHand.jobString>
+  <InstallSimpleProstheticHand.label>install simple prosthetic hand</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Installs a simple prosthetic hand.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Installing simple prosthetic hand.</InstallSimpleProstheticHand.jobString>
+  <InstallSimpleProstheticFoot.label>install simple prosthetic foot</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Installs a simple prosthetic foot.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Installing simple prosthetic foot.</InstallSimpleProstheticFoot.jobString>
+  <InstallArtificialNose.label>install artificial nose</InstallArtificialNose.label>
+  <InstallArtificialNose.description>Installs artificial nose.</InstallArtificialNose.description>
+  <InstallArtificialNose.jobString>Installing artificial nose.</InstallArtificialNose.jobString>
+  <InstallArtificialPelvis.label>install artifical pelvis</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.description>Installs artifical pelvis.</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.jobString>Installing artifical pelvis.</InstallArtificialPelvis.jobString>
+  <MakeArtificialBone.label>Craft artificial bone</MakeArtificialBone.label>
+  <MakeArtificialBone.description>Crafts an artifical bone from plasteel and steel.</MakeArtificialBone.description>
+  <MakeArtificialBone.jobString>Crafting artifical bone.</MakeArtificialBone.jobString>
+  <MakeSimpleProstheticLeg.label>Craft simple prosthetic leg</MakeSimpleProstheticLeg.label>
+  <MakeSimpleProstheticLeg.description>Crafts a simple prosthetic leg from steel and components.</MakeSimpleProstheticLeg.description>
+  <MakeSimpleProstheticLeg.jobString>Crafting prosthesis.</MakeSimpleProstheticLeg.jobString>
+  <MakeSimpleProstheticArm.label>Craft simple prosthetic arm</MakeSimpleProstheticArm.label>
+  <MakeSimpleProstheticArm.description>Crafts a simple prosthetic arm from steel and components.</MakeSimpleProstheticArm.description>
+  <MakeSimpleProstheticArm.jobString>Crafting prosthesis.</MakeSimpleProstheticArm.jobString>
+  <MakeSimpleProstheticHand.label>craft simple prosthetic hand</MakeSimpleProstheticHand.label>
+  <MakeSimpleProstheticHand.description>Crafts a simple prosthetic hand from steel and components.</MakeSimpleProstheticHand.description>
+  <MakeSimpleProstheticHand.jobString>Crafting prosthesis.</MakeSimpleProstheticHand.jobString>
+  <MakeSimpleProstheticFoot.label>craft simple prosthetic foot</MakeSimpleProstheticFoot.label>
+  <MakeSimpleProstheticFoot.description>Crafts a simple prosthetic foot from steel and components.</MakeSimpleProstheticFoot.description>
+  <MakeSimpleProstheticFoot.jobString>Crafting prosthesis.</MakeSimpleProstheticFoot.jobString>
+  <MakeCochlearImplant.label>Craft cochlear implant</MakeCochlearImplant.label>
+  <MakeCochlearImplant.description>Crafts a cochlear implant from steel and components.</MakeCochlearImplant.description>
+  <MakeCochlearImplant.jobString>Crafting prosthesis.</MakeCochlearImplant.jobString>
+  <MakeArtificialNose.label>craft artificial nose</MakeArtificialNose.label>
+  <MakeArtificialNose.description>Crafts an artificial nose from plasteel.</MakeArtificialNose.description>
+  <MakeArtificialNose.jobString>Crafting prosthesis.</MakeArtificialNose.jobString>
+  <MakeArtificialPelvis.label>craft artificial pelvis</MakeArtificialPelvis.label>
+  <MakeArtificialPelvis.description>Crafts an artificial pelvis from steel and plasteel.</MakeArtificialPelvis.description>
+  <MakeArtificialPelvis.jobString>Crafting prosthesis.</MakeArtificialPelvis.jobString>
+  <InstallNeurostimulator.label>install neurostimulator</InstallNeurostimulator.label>
+  <InstallNeurostimulator.description>Installs neurostimulator.</InstallNeurostimulator.description>
+  <InstallNeurostimulator.jobString>Installing neurostimulator.</InstallNeurostimulator.jobString>
+  <InstallHyporegulator.label>install hyporegulator</InstallHyporegulator.label>
+  <InstallHyporegulator.description>Installs hyporegulator.</InstallHyporegulator.description>
+  <InstallHyporegulator.jobString>Installing hyporegulator.</InstallHyporegulator.jobString>
+  <InstallCortexaugmentor.label>install cortexaugmentor</InstallCortexaugmentor.label>
+  <InstallCortexaugmentor.description>Installs cortexaugmentor.</InstallCortexaugmentor.description>
+  <InstallCortexaugmentor.jobString>Installing cortexaugmentor.</InstallCortexaugmentor.jobString>
+  <InstallJoywire.label>install joywire</InstallJoywire.label>
+  <InstallJoywire.description>Installs joywire.</InstallJoywire.description>
+  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
+  <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+  <InstallSyntheticLung.label>install synthetic lung</InstallSyntheticLung.label>
+  <InstallSyntheticLung.description>Installs synthetic lung.</InstallSyntheticLung.description>
+  <InstallSyntheticLung.jobString>Installing synthetic lung.</InstallSyntheticLung.jobString>
+  <InstallSyntheticStomach.label>install synthetic stomach</InstallSyntheticStomach.label>
+  <InstallSyntheticStomach.description>Installs a synthetic stomach.</InstallSyntheticStomach.description>
+  <InstallSyntheticStomach.jobString>Installing synthetic stomach.</InstallSyntheticStomach.jobString>
+  <InstallSyntheticLiver.label>install synthetic liver</InstallSyntheticLiver.label>
+  <InstallSyntheticLiver.description>Installs a synthetic liver.</InstallSyntheticLiver.description>
+  <InstallSyntheticLiver.jobString>Installing synthetic liver.</InstallSyntheticLiver.jobString>
+  <InstallSyntheticKidney.label>install synthetic kidney</InstallSyntheticKidney.label>
+  <InstallSyntheticKidney.description>Installs a synthetic kidney.</InstallSyntheticKidney.description>
+  <InstallSyntheticKidney.jobString>Installing synthetic kidney.</InstallSyntheticKidney.jobString>
+  <InstallSyntheticHeart.label>install synthetic heart</InstallSyntheticHeart.label>
+  <InstallSyntheticHeart.description>Installs an artificial heart.</InstallSyntheticHeart.description>
+  <InstallSyntheticHeart.jobString>Installing an artificial heart.</InstallSyntheticHeart.jobString>
+  <MakeNeurostimulator.label>Create neurostimulator</MakeNeurostimulator.label>
+  <MakeNeurostimulator.description>Creates a neurostimulator. Requires an AI persona core.\n\nHighly advanced brain implant that attempts to enhance the consciousness of the subject. Comes with numerous side effects like headaches and loss of language.\n\nSome personality changes may occur. Only recommended for brain damaged colonists.</MakeNeurostimulator.description>
+  <MakeNeurostimulator.jobString>Creating implant.</MakeNeurostimulator.jobString>
+  <MakeHyporegulator.label>Create hyporegulator</MakeHyporegulator.label>
+  <MakeHyporegulator.description>Creates a hyporegulator. Requires an AI persona core.\n\nHighly advanced brain implant that attempts to enhance the mental and physical resilience of the subject. The implant is placed into the hypothalamus which increases the effectiveness of the HPA axis and the body's thermoregulation.</MakeHyporegulator.description>
+  <MakeHyporegulator.jobString>Creating implant.</MakeHyporegulator.jobString>
+  <MakeCortexaugmentor.label>Create cortexaugmentor</MakeCortexaugmentor.label>
+  <MakeCortexaugmentor.description>Creates a cortexaugmentor. Requires an AI persona core.\n\nHighly advanced brain implant that attempts to enhance the general intelligence of the subject. The implant is placed into the prefrontal cortex which increases cognitive abilities such as language and learning speed.</MakeCortexaugmentor.description>
+  <MakeCortexaugmentor.jobString>Creating implant.</MakeCortexaugmentor.jobString>
+  <MakeJoywire.label>Craft joywire</MakeJoywire.label>
+  <MakeJoywire.description>Creates a joywire. Needs gold and plasteel for high quality circuitry.</MakeJoywire.description>
+  <MakeJoywire.jobString>Creating implant.</MakeJoywire.jobString>
+  <MakePainstopper.label>Craft painstopper</MakePainstopper.label>
+  <MakePainstopper.description>Creates a painstopper implant. Needs gold and plasteel for high quality circuitry.</MakePainstopper.description>
+  <MakePainstopper.jobString>Creating implant.</MakePainstopper.jobString>
+  <MakeSyntheticLung.label>Create synthetic lung</MakeSyntheticLung.label>
+  <MakeSyntheticLung.description>Creates a synthetic lung from hyperweave and plasteel</MakeSyntheticLung.description>
+  <MakeSyntheticLung.jobString>Creating synthetic organ.</MakeSyntheticLung.jobString>
+  <MakeSyntheticStomach.label>Create synthetic stomach</MakeSyntheticStomach.label>
+  <MakeSyntheticStomach.description>Creates a synthetic stomach from hyperweave and plasteel</MakeSyntheticStomach.description>
+  <MakeSyntheticStomach.jobString>Creating synthetic organ.</MakeSyntheticStomach.jobString>
+  <MakeSyntheticLiver.label>Create synthetic liver</MakeSyntheticLiver.label>
+  <MakeSyntheticLiver.description>Creates a synthetic liver from hyperweave and plasteel</MakeSyntheticLiver.description>
+  <MakeSyntheticLiver.jobString>Creating synthetic organ.</MakeSyntheticLiver.jobString>
+  <MakeSyntheticKidney.label>Create synthetic kidney</MakeSyntheticKidney.label>
+  <MakeSyntheticKidney.description>Creates a synthetic kidney from hyperweave and plasteel</MakeSyntheticKidney.description>
+  <MakeSyntheticKidney.jobString>Creating synthetic organ.</MakeSyntheticKidney.jobString>
+  <MakeSyntheticHeart.label>Create synthetic heart</MakeSyntheticHeart.label>
+  <MakeSyntheticHeart.description>Creates a synthetic heart from hyperweave and plasteel.</MakeSyntheticHeart.description>
+  <MakeSyntheticHeart.jobString>Creating synthetic organ.</MakeSyntheticHeart.jobString>
+</LanguageData>

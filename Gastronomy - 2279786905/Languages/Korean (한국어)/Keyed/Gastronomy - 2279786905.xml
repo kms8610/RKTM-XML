@@ -4,6 +4,7 @@
   <ShowAlertNoDedicatedWaiterDesc>Show a warning when you're opened, but no waiter is set to work at that time.</ShowAlertNoDedicatedWaiterDesc>
   <MustPlaceOnTable>Must be placed on a table.</MustPlaceOnTable>
   <MustPlaceOnFreeSurface>Must be placed on clear surface.</MustPlaceOnFreeSurface>
+  <MessageIncomeToday>Your restaurant has earned {0} today.</MessageIncomeToday>
   <TabRegister>Register</TabRegister>
   <TabRegisterOpened>Opened</TabRegisterOpened>
   <TabRegisterOpenedTooltip>When checked, patrons can make orders during business hours.</TabRegisterOpenedTooltip>
@@ -21,6 +22,8 @@
   <TabRegisterNeedsCooking>Orders need cooking:</TabRegisterNeedsCooking>
   <TabRegisterStocked>Stocked meals:</TabRegisterStocked>
   <TabRegisterDebts>Unpaid bills:</TabRegisterDebts>
+  <TabRegisterEarnedYesterday>Earned yesterday:</TabRegisterEarnedYesterday>
+  <TabRegisterEarnedToday>Earned today:</TabRegisterEarnedToday>
   <CommandToggleDining>Dining</CommandToggleDining>
   <CommandToggleDiningDesc>When enabled, this location can be used for dining.</CommandToggleDiningDesc>
   <CommandSetDeco>Change Decoration</CommandSetDeco>

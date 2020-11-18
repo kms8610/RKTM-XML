@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEE_IceAge.label>ice age</VEE_IceAge.label>
+  <VEE_IceAge.letterLabel>Ice Age</VEE_IceAge.letterLabel>
+  <VEE_IceAge.letterText>Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.
+
+Flora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years. (Visual changes will only appear upon saving/reloading the current save)</VEE_IceAge.letterText>
+  <VEE_GlobalWarming.label>global warming</VEE_GlobalWarming.label>
+  <VEE_GlobalWarming.letterLabel>Global Warming</VEE_GlobalWarming.letterLabel>
+  <VEE_GlobalWarming.letterText>Global temperatures have suddenly risen to dangerous levels.
+
+Flora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years. (Visual changes will only appear upon saving/reloading the current save)</VEE_GlobalWarming.letterText>
+  <VEE_PsychicRain.label>psychic rain</VEE_PsychicRain.label>
+  <VEE_PsychicRain.letterLabel>Psychic Rain</VEE_PsychicRain.letterLabel>
+  <VEE_PsychicRain.letterText>A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.
+
+A seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.
+
+It will last anywhere between a season to several years.</VEE_PsychicRain.letterText>
+  <VEE_LongNight.label>long night</VEE_LongNight.label>
+  <VEE_LongNight.letterLabel>Long Night</VEE_LongNight.letterLabel>
+  <VEE_LongNight.letterText>A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.
+
+Terrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.
+
+It will last anywhere between a season to several years.</VEE_LongNight.letterText>
+  <VEE_PsychicBloom.label>psychic bloom</VEE_PsychicBloom.label>
+  <VEE_PsychicBloom.letterLabel>Psychic Bloom</VEE_PsychicBloom.letterLabel>
+  <VEE_PsychicBloom.letterText>A strong psychic pulse emitted by a long forgotten entity changed the very genetical structure of local flora. Whilst the sky filled with a seemingly endless auroras, colourful flowers started sprouting everywhere. 
+
+All pawns will gain a positive mood buff for the time of the event. The rapidly spreading flowers will overgrow everything, including your fields. 
+
+It will last anywhere between a few days to a season.</VEE_PsychicBloom.letterText>
+  <VEE_HailStorm.label>hail storm</VEE_HailStorm.label>
+  <VEE_HailStorm.letterLabel>Hail Storm</VEE_HailStorm.letterLabel>
+  <VEE_HailStorm.letterText>A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets.</VEE_HailStorm.letterText>
+  <VEE_MeteoriteShower.label>meteorite shower</VEE_MeteoriteShower.label>
+  <VEE_MeteoriteShower.letterLabel>Meteorite Shower</VEE_MeteoriteShower.letterLabel>
+  <VEE_MeteoriteShower.letterText>Several large meteorites have struck ground in the area. They left behind large lumps of resources.</VEE_MeteoriteShower.letterText>
+  <VEE_AnimalPodCrash.label>animal transport pod crash</VEE_AnimalPodCrash.label>
+  <VEE_WandererJoinTraitor.label>wanderer join</VEE_WandererJoinTraitor.label>
+  <VEE_WandererJoinTraitor.letterLabel>Wanderer joins</VEE_WandererJoinTraitor.letterLabel>
+  <VEE_WandererJoinTraitor.letterText>A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.</VEE_WandererJoinTraitor.letterText>
+  <VEE_SpaceBattle.label>space battle</VEE_SpaceBattle.label>
+  <VEE_SpaceBattle.letterLabel>Space Battle</VEE_SpaceBattle.letterLabel>
+  <VEE_SpaceBattle.letterText>Several massive spaceships have engaged in combat in the planet’s orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires.</VEE_SpaceBattle.letterText>
+  <VEE_ShuttleCrash.label>shuttle crash</VEE_ShuttleCrash.label>
+  <VEE_Earthquake.label>earthquake</VEE_Earthquake.label>
+  <VEE_Cargopodsweapons.label>cargo pods (weapons)</VEE_Cargopodsweapons.label>
+  <VEE_Cargopodsapparel.label>cargo pods (apparel)</VEE_Cargopodsapparel.label>
+  <VEE_CaravanAnimalsWanderIn.label>caravan animals wander in</VEE_CaravanAnimalsWanderIn.label>
+  <VEE_CropSprout.label>crop sprout</VEE_CropSprout.label>
+  <VEE_BattleAnimalsWanderIn.label>battle animals wander in</VEE_BattleAnimalsWanderIn.label>
+  <VEE_Drought.label>drought</VEE_Drought.label>
+  <VEE_Drought.letterLabel>Drought</VEE_Drought.letterLabel>
+  <VEE_Drought.letterText>An unusual drought has set in.
+
+Drought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can.</VEE_Drought.letterText>
+  <VEE_WildMenWanderIn.label>wild men wander in</VEE_WildMenWanderIn.label>
+  <VEE_HuntingParty.label>hunting party</VEE_HuntingParty.label>
+  <RaidEnemyPurple.label>enemy raid ice age</RaidEnemyPurple.label>
+  <ManhunterPackPurple.label>manhunter pack</ManhunterPackPurple.label>
+  <AnimalInsanityMassPurple.label>mass animal insanity</AnimalInsanityMassPurple.label>
+</LanguageData>
