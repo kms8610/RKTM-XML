@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Grot_Base_Child.title>Grotling</Grot_Base_Child.title>
+  <Grot_Base_Child.titleShort>Grotling</Grot_Base_Child.titleShort>
+  <Grot_Base_Child.baseDescription>[PAWN_nameDef] is a Grotling, an infantile Gretchin, often confused with Snotlings, barely suitable for menial tasks.</Grot_Base_Child.baseDescription>
+  <Grot_Base.title>Grot Slave</Grot_Base.title>
+  <Grot_Base.titleShort>Slave</Grot_Base.titleShort>
+  <Grot_Base.baseDescription>[PAWN_nameDef] is a Grot, the backbone of Ork society. Most menial tasks are performed by [PAWN_pronoun] kind.</Grot_Base.baseDescription>
+  <Grot_Orderly.title>Grot orderly</Grot_Orderly.title>
+  <Grot_Orderly.titleShort>Orderly</Grot_Orderly.titleShort>
+  <Grot_Orderly.baseDescription>[PAWN_nameDef] is a orderly. With an knack for knowing which bitz go where when it comes to stickin da boyz back togeather.</Grot_Orderly.baseDescription>
+  <Grot_Tinkerer.title>Grot Tinkerer</Grot_Tinkerer.title>
+  <Grot_Tinkerer.titleShort>Tinkerer</Grot_Tinkerer.titleShort>
+  <Grot_Tinkerer.baseDescription>[PAWN_nameDef] is a Tinkerer. With an knack for knowing which bitz go where when it comes to teknology.</Grot_Tinkerer.baseDescription>
+  <Grot_TroubleMaker.title>Grot Trouble Maker</Grot_TroubleMaker.title>
+  <Grot_TroubleMaker.titleShort>Trouble Maker</Grot_TroubleMaker.titleShort>
+  <Grot_TroubleMaker.baseDescription>[PAWN_nameDef] is a Trouble Maker. With an knack for knowing how to whip iz mates into a frenzy.</Grot_TroubleMaker.baseDescription>
+  <Ork_Base_Child.title>yoof</Ork_Base_Child.title>
+  <Ork_Base_Child.baseDescription>[PAWN_nameDef] is Ork. As such, war is his only passion, with most basic menial tasks being performed only to fuel the warmachine.</Ork_Base_Child.baseDescription>
+  <Ork_Smart_Child.title>yoof</Ork_Smart_Child.title>
+  <Ork_Smart_Child.baseDescription>[PAWN_nameDef] is Ork. As such, war is his only passion, with most basic menial tasks being performed only to fuel the warmachine.</Ork_Smart_Child.baseDescription>
+  <Ork_Boy_Shoota.title>sharpshooter</Ork_Boy_Shoota.title>
+  <Ork_Boy_Shoota.titleShort>Snipa</Ork_Boy_Shoota.titleShort>
+  <Ork_Boy_Shoota.baseDescription>[PAWN_nameDef] has a knack for actually hitting a target when using projectiles. [PAWN_pronoun] is more accurate than your average ork.</Ork_Boy_Shoota.baseDescription>
+  <Ork_Boy_Slugga.title>Slugga</Ork_Boy_Slugga.title>
+  <Ork_Boy_Slugga.titleShort>Slugga</Ork_Boy_Slugga.titleShort>
+  <Ork_Boy_Slugga.baseDescription>[PAWN_nameDef]'s is motto is: Less talk, moar DAKKA! [PAWN_pronoun] loves to shoot, it doesnt matter what, although the result is less accurate than your average ork.</Ork_Boy_Slugga.baseDescription>
+  <Ork_Boy_Choppa.title>Choppa</Ork_Boy_Choppa.title>
+  <Ork_Boy_Choppa.titleShort>Choppa</Ork_Boy_Choppa.titleShort>
+  <Ork_Boy_Choppa.baseDescription>[PAWN_nameDef] is earning his place in Ork society by being a terrific close-range fighter.</Ork_Boy_Choppa.baseDescription>
+  <Ork_Boy_Brewer.title>Brewer</Ork_Boy_Brewer.title>
+  <Ork_Boy_Brewer.titleShort>Brewer</Ork_Boy_Brewer.titleShort>
+  <Ork_Boy_Brewer.baseDescription>[PAWN_nameDef] has developed a rare talent among orks in that he's smart enough to brew stuff. Being an Ork, the result still tastes horrible and may be lethal to non-Orks. </Ork_Boy_Brewer.baseDescription>
+  <Ork_Boy_Shouter.title>Shouta</Ork_Boy_Shouter.title>
+  <Ork_Boy_Shouter.titleShort>Shouta</Ork_Boy_Shouter.titleShort>
+  <Ork_Boy_Shouter.baseDescription>[PAWN_nameDef] is infamous for his booming voice, being able to call out enemies over half a mile away.</Ork_Boy_Shouter.baseDescription>
+  <Ork_Boy_Herda.title>Herda</Ork_Boy_Herda.title>
+  <Ork_Boy_Herda.titleShort>Herda</Ork_Boy_Herda.titleShort>
+  <Ork_Boy_Herda.baseDescription>[PAWN_nameDef] is known for his skill in handling squigs and other animals. Skill in this case often means beating the poor thing until it submits.</Ork_Boy_Herda.baseDescription>
+  <Ork_Boy_Mad.title>Madboy</Ork_Boy_Mad.title>
+  <Ork_Boy_Mad.titleShort>Madboy</Ork_Boy_Mad.titleShort>
+  <Ork_Boy_Mad.baseDescription>[PAWN_nameDef] is a madboy. With an intellect as thick as [PAWN_pronoun] skull, only the most basic tasks are suitable for this specimen.</Ork_Boy_Mad.baseDescription>
+  <OrkMekboy.title>Mekboy</OrkMekboy.title>
+  <OrkMekboy.titleShort>Mekboy</OrkMekboy.titleShort>
+  <OrkMekboy.baseDescription>[PAWN_nameDef] is a mekboy. With an knack for knowing which bitz go where when it comes to teknology.</OrkMekboy.baseDescription>
+  <Ork_Boy_Doc.title>Mad doc</Ork_Boy_Doc.title>
+  <Ork_Boy_Doc.titleShort>Mad doc</Ork_Boy_Doc.titleShort>
+  <Ork_Boy_Doc.baseDescription>[PAWN_nameDef] is a mad doc. With an knack for knowing which bitz go where when it comes to stickin da boyz back togeather.</Ork_Boy_Doc.baseDescription>
+  <Ork_Nob_Crusher.title>Crusher Nob</Ork_Nob_Crusher.title>
+  <Ork_Nob_Crusher.titleShort>Crusher</Ork_Nob_Crusher.titleShort>
+  <Ork_Nob_Crusher.baseDescription>[PAWN_nameDef] is a Nob, Bigger and badder than the average Ork, having survived countless battles and has proven his worth by viciously pummeling his opponents into the dirt.</Ork_Nob_Crusher.baseDescription>
+  <Ork_Nob_Mek.title>Mek</Ork_Nob_Mek.title>
+  <Ork_Nob_Mek.titleShort>Mek</Ork_Nob_Mek.titleShort>
+  <Ork_Nob_Mek.baseDescription>[PAWN_nameDef] has proven his worth and achieved the rank of mek. With an knack for knowing which bitz go where when it comes to teknology.</Ork_Nob_Mek.baseDescription>
+  <Ork_Nob_Flash.title>Flash Git</Ork_Nob_Flash.title>
+  <Ork_Nob_Flash.titleShort>Flash</Ork_Nob_Flash.titleShort>
+  <Ork_Nob_Flash.baseDescription>[PAWN_nameDef] is a Nob, Bigger and badder than the average Ork, having survived countless battles.\n\n Known as a Flash Git for his fixation with the biggest and badest weapon he can get his hands on</Ork_Nob_Flash.baseDescription>
+  <Ork_Nob_Devastator.title>Devistata</Ork_Nob_Devastator.title>
+  <Ork_Nob_Devastator.titleShort>Devistata</Ork_Nob_Devastator.titleShort>
+  <Ork_Nob_Devastator.baseDescription>[PAWN_nameDef] is a Nob, Bigger and badder than the average Ork, having survived countless battles. Known as a "Devistata" due to a perticular proclivity for pyrotechnics.</Ork_Nob_Devastator.baseDescription>
+  <Ork_Boss_Nob.title>Boss</Ork_Boss_Nob.title>
+  <Ork_Boss_Nob.titleShort>Boss</Ork_Boss_Nob.titleShort>
+  <Ork_Boss_Nob.baseDescription>[PAWN_nameDef] has achieved the rank of boss by being the bigger and tougher all his competition.</Ork_Boss_Nob.baseDescription>
+  <Ork_Boss_Mek.title>Big Mek</Ork_Boss_Mek.title>
+  <Ork_Boss_Mek.titleShort>Big Mek</Ork_Boss_Mek.titleShort>
+  <Ork_Boss_Mek.baseDescription>[PAWN_nameDef] has proven his worth and achieved the rank of BigMek. With an knack for knowing which bitz go where when it comes to teknology.</Ork_Boss_Mek.baseDescription>
+  <Ork_Weird_Child.title>Weird Runt</Ork_Weird_Child.title>
+  <Ork_Weird_Child.baseDescription>[PAWN_nameDef] is Ork. As such, war is his only passion, with most basic menial tasks being performed only to fuel the warmachine.</Ork_Weird_Child.baseDescription>
+  <Ork_Boy_Weird.title>Weirdboy</Ork_Boy_Weird.title>
+  <Ork_Boy_Weird.titleShort>Weirdboy</Ork_Boy_Weird.titleShort>
+  <Ork_Boy_Weird.baseDescription>[PAWN_nameDef] is a Weirdboy. an ork of unusual mental capacity and is more intelligent than your average Ork</Ork_Boy_Weird.baseDescription>
+  <Ork_Nob_Weird.title>Weirdboy Nob</Ork_Nob_Weird.title>
+  <Ork_Nob_Weird.titleShort>Weirdboy Nob</Ork_Nob_Weird.titleShort>
+  <Ork_Nob_Weird.baseDescription>[PAWN_nameDef] is a Weirdboy Nob, Bigger and badder than the average Ork, having survived countless battles.\n\n An Ork of unusual mental capacity and is far more intelligent than your average Ork.</Ork_Nob_Weird.baseDescription>
+  <Ork_Boss_Weird.title>Prophet of Waaaaargh!</Ork_Boss_Weird.title>
+  <Ork_Boss_Weird.titleShort>Prophet</Ork_Boss_Weird.titleShort>
+  <Ork_Boss_Weird.baseDescription>[PAWN_nameDef] is beholden to no tribe nor lord, only the whisperings of the Greenskin gods in his addled mind a Weirdboy Prophet of Waaaaargh!, hearld of Gork and Mork. an Immense Ork, Bigger and badder than even a Nob, having survived countless battles and almost a Warboss in his own right.</Ork_Boss_Weird.baseDescription>
+</LanguageData>
