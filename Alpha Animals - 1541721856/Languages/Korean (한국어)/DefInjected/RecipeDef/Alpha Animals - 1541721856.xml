@@ -12,4 +12,46 @@
   <AA_InstallMutantEye.label>install mutant eye</AA_InstallMutantEye.label>
   <AA_InstallMutantEye.description>Install a mutant eye.</AA_InstallMutantEye.description>
   <AA_InstallMutantEye.jobString>Installing mutant eye.</AA_InstallMutantEye.jobString>
+  <AB_InstallSimpleTentacle.label>install simple prosthetic tentacle</AB_InstallSimpleTentacle.label>
+  <AB_InstallSimpleTentacle.description>Installs simple prosthetic tentacle.</AB_InstallSimpleTentacle.description>
+  <AB_InstallSimpleTentacle.jobString>Installing simple prosthetic tentacle.</AB_InstallSimpleTentacle.jobString>
+  <AB_InstallBionicTentacle.label>install bionic tentacle</AB_InstallBionicTentacle.label>
+  <AB_InstallBionicTentacle.description>Installs bionic tentacle.</AB_InstallBionicTentacle.description>
+  <AB_InstallBionicTentacle.jobString>Installing bionic tentacle.</AB_InstallBionicTentacle.jobString>
+  <AA_InstallBionicMotionDetector.label>install bionic motion detector</AA_InstallBionicMotionDetector.label>
+  <AA_InstallBionicMotionDetector.description>Installs bionic motion detector. Requires a min skill in medicine of 8.</AA_InstallBionicMotionDetector.description>
+  <AA_InstallBionicMotionDetector.jobString>Installing bionic motion detector.</AA_InstallBionicMotionDetector.jobString>
+  <AB_InstallSimpleBuoyancy.label>install simple buoyancy mechanism</AB_InstallSimpleBuoyancy.label>
+  <AB_InstallSimpleBuoyancy.description>Installs simple buoyancy mechanism.</AB_InstallSimpleBuoyancy.description>
+  <AB_InstallSimpleBuoyancy.jobString>Installing simple buoyancy mechanism.</AB_InstallSimpleBuoyancy.jobString>
+  <AA_InstallBionicBuoyancy.label>install bionic buoyancy mechanism</AA_InstallBionicBuoyancy.label>
+  <AA_InstallBionicBuoyancy.description>Installs bionic buoyancy mechanism. Requires a min skill in medicine of 8.</AA_InstallBionicBuoyancy.description>
+  <AA_InstallBionicBuoyancy.jobString>Installing bionic buoyancy mechanism.</AA_InstallBionicBuoyancy.jobString>
+  <AB_InstallSimpleShell.label>install simple prosthetic shell</AB_InstallSimpleShell.label>
+  <AB_InstallSimpleShell.description>Installs simple prosthetic shell.</AB_InstallSimpleShell.description>
+  <AB_InstallSimpleShell.jobString>Installing simple prosthetic shell.</AB_InstallSimpleShell.jobString>
+  <AA_InstallBionicShell.label>install bionic shell</AA_InstallBionicShell.label>
+  <AA_InstallBionicShell.description>Installs bionic shell. Requires a min skill in medicine of 8.</AA_InstallBionicShell.description>
+  <AA_InstallBionicShell.jobString>Installing bionic shell.</AA_InstallBionicShell.jobString>
+  <AB_InstallSimpleWing.label>install simple prosthetic wing</AB_InstallSimpleWing.label>
+  <AB_InstallSimpleWing.description>Installs simple prosthetic wing.</AB_InstallSimpleWing.description>
+  <AB_InstallSimpleWing.jobString>Installing simple prosthetic wing.</AB_InstallSimpleWing.jobString>
+  <AA_InstallBionicWing.label>install bionic wing</AA_InstallBionicWing.label>
+  <AA_InstallBionicWing.description>Installs bionic wing. Requires a min skill in medicine of 8.</AA_InstallBionicWing.description>
+  <AA_InstallBionicWing.jobString>Installing bionic wing.</AA_InstallBionicWing.jobString>
+  <AB_InstallSimpleClaw.label>install simple prosthetic claw</AB_InstallSimpleClaw.label>
+  <AB_InstallSimpleClaw.description>Installs simple prosthetic claw.</AB_InstallSimpleClaw.description>
+  <AB_InstallSimpleClaw.jobString>Installing simple prosthetic claw.</AB_InstallSimpleClaw.jobString>
+  <AA_InstallBionicClaw.label>install bionic claw</AA_InstallBionicClaw.label>
+  <AA_InstallBionicClaw.description>Installs bionic claw. Requires a min skill in medicine of 8.</AA_InstallBionicClaw.description>
+  <AA_InstallBionicClaw.jobString>Installing bionic claw.</AA_InstallBionicClaw.jobString>
+  <AA_InstallGooAcidifier.label>install goo acidifier</AA_InstallGooAcidifier.label>
+  <AA_InstallGooAcidifier.description>Install a goo acidifier.</AA_InstallGooAcidifier.description>
+  <AA_InstallGooAcidifier.jobString>Installing goo acidifier.</AA_InstallGooAcidifier.jobString>
+  <RB_MakeSynthreadCloth.label>weave eleven synthread cloth from silk</RB_MakeSynthreadCloth.label>
+  <RB_MakeSynthreadCloth.description>weave synthread cloth from Synthread Silk and plasteel thread. \n\nMakes 11 cloth.</RB_MakeSynthreadCloth.description>
+  <RB_MakeSynthreadCloth.jobString>weaving synthread cloth.</RB_MakeSynthreadCloth.jobString>
+  <RB_MakeHyperweaveCloth.label>weave fifteen hyperweave cloth from silk</RB_MakeHyperweaveCloth.label>
+  <RB_MakeHyperweaveCloth.description>weave hyperweave cloth from hyperweave Silk and plasteel thread. \n\nMakes 15 cloth.</RB_MakeHyperweaveCloth.description>
+  <RB_MakeHyperweaveCloth.jobString>weaving hyperweave cloth.</RB_MakeHyperweaveCloth.jobString>
 </LanguageData>

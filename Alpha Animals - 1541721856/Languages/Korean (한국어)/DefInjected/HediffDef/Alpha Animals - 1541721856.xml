@@ -105,4 +105,33 @@
   <AA_MutantEye.label>mutant eye</AA_MutantEye.label>
   <AA_MutantEye.labelNoun>a mutant eye</AA_MutantEye.labelNoun>
   <AA_MutantEye.description>This eye constantly blinks on its own, like a nervous tic, and a second set of vertical eyelids seems to be present behind the normal, human ones. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantEye.description>
+  <AA_ProstheticTentacle.label>simple prosthetic tentacle</AA_ProstheticTentacle.label>
+  <AA_ProstheticTentacle.description>A simple prosthetic tentacle.</AA_ProstheticTentacle.description>
+  <AA_ProstheticTentacle.comps.0.tools.0.label>prosthetic tentacle</AA_ProstheticTentacle.comps.0.tools.0.label>
+  <AA_BionicTentacle.label>bionic tentacle</AA_BionicTentacle.label>
+  <AA_BionicTentacle.description>A bionic tentacle.</AA_BionicTentacle.description>
+  <AA_BionicTentacle.comps.0.tools.0.label>bionic tentacle</AA_BionicTentacle.comps.0.tools.0.label>
+  <AA_BionicMotionDetector.label>bionic motion detector</AA_BionicMotionDetector.label>
+  <AA_BionicMotionDetector.description>Improved bionic motion detector for animals. This motion detector replaces echolocation organs and vibration sensors.</AA_BionicMotionDetector.description>
+  <AA_ProstheticBuoyancyMechanism.label>simple prosthetic buoyancy mechanism</AA_ProstheticBuoyancyMechanism.label>
+  <AA_ProstheticBuoyancyMechanism.description>Simple prosthetic buoyancy mechanism. Should be able to replace hydrogen sacs and other exotic organs keeping hovering creatures in the air.</AA_ProstheticBuoyancyMechanism.description>
+  <AA_BionicBuoyancyMechanism.label>bionic buoyancy mechanism</AA_BionicBuoyancyMechanism.label>
+  <AA_BionicBuoyancyMechanism.description>Improved bionic buoyancy mechanism for animals. Should be able to replace hydrogen sacs and other exotic organs keeping hovering creatures in the air.</AA_BionicBuoyancyMechanism.description>
+  <AA_ProstheticShell.label>simple prosthetic shell</AA_ProstheticShell.label>
+  <AA_ProstheticShell.description>Simple prosthetic shell. Should be able to replace carapaces and shells.</AA_ProstheticShell.description>
+  <AA_BionicShell.label>bionic shell</AA_BionicShell.label>
+  <AA_BionicShell.description>Improved bionic shell for animals. Should be able to replace carapaces and shells.</AA_BionicShell.description>
+  <AA_ProstheticWing.label>simple prosthetic wing</AA_ProstheticWing.label>
+  <AA_ProstheticWing.description>Simple prosthetic wing. Should be able to replace any type of wing.</AA_ProstheticWing.description>
+  <AA_BionicWing.label>bionic wing</AA_BionicWing.label>
+  <AA_BionicWing.description>Improved bionic wing for animals. Should be able to replace any type of wing.</AA_BionicWing.description>
+  <AB_SimpleProstheticClaw.label>simple prosthetic claw</AB_SimpleProstheticClaw.label>
+  <AB_SimpleProstheticClaw.description>Simple prosthetic claw. Fits animals with sharpened claws.</AB_SimpleProstheticClaw.description>
+  <AB_SimpleProstheticClaw.comps.0.tools.0.label>simple prosthetic claw</AB_SimpleProstheticClaw.comps.0.tools.0.label>
+  <AB_BionicClaw.label>bionic claw</AB_BionicClaw.label>
+  <AB_BionicClaw.description>Improved bionic claw. Fits animals with sharpened claws.</AB_BionicClaw.description>
+  <AB_BionicClaw.comps.0.tools.0.label>bionic claw</AB_BionicClaw.comps.0.tools.0.label>
+  <AA_GooAcidifier.label>goo acidifier</AA_GooAcidifier.label>
+  <AA_GooAcidifier.labelNoun>a goo acidifier</AA_GooAcidifier.labelNoun>
+  <AA_GooAcidifier.description>A goo acidifier increases the acidity of a goo's internal organs, making it explode as soon as it is downed. Basically transforms goos into biological suicide bombers.</AA_GooAcidifier.description>
 </LanguageData>
