@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VTE_TechnophobeTantrum.label>technophobe tantrum</VTE_TechnophobeTantrum.label>
+  <VTE_TechnophobeTantrum.recoveryMessage>{0} is no longer in a technophobe tantrum.</VTE_TechnophobeTantrum.recoveryMessage>
+  <VTE_TechnophobeTantrum.beginLetter>{0} has flown into a technophobe tantrum.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on technology.</VTE_TechnophobeTantrum.beginLetter>
+  <VTE_TechnophobeTantrum.baseInspectLine>Mental state: technophobe tantrum</VTE_TechnophobeTantrum.baseInspectLine>
+  <VTE_PanicFreezing.label>panic freezing</VTE_PanicFreezing.label>
+  <VTE_PanicFreezing.beginLetterLabel>flee</VTE_PanicFreezing.beginLetterLabel>
+  <VTE_PanicFreezing.beginLetter>{0} is freezing in panic.</VTE_PanicFreezing.beginLetter>
+  <VTE_PanicFreezing.recoveryMessage>{0} is no longer freezing in panic.</VTE_PanicFreezing.recoveryMessage>
+  <VTE_PanicFreezing.baseInspectLine>Mental state: freezing in panic</VTE_PanicFreezing.baseInspectLine>
+  <VTE_Kleptomaniac.label>kleptomaniac</VTE_Kleptomaniac.label>
+  <VTE_Kleptomaniac.beginLetterLabel>Kleptomaniac</VTE_Kleptomaniac.beginLetterLabel>
+  <VTE_Kleptomaniac.beginLetter>{0} is stealing items from visitors.</VTE_Kleptomaniac.beginLetter>
+  <VTE_Kleptomaniac.recoveryMessage>{0} is no longer stealing items from visitors.</VTE_Kleptomaniac.recoveryMessage>
+  <VTE_Kleptomaniac.baseInspectLine>Mental state: Kleptomaniac</VTE_Kleptomaniac.baseInspectLine>
+</LanguageData>
