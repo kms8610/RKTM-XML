@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SwampFever.label>swamp fever</SwampFever.label>
+  <SwampFever.description>An infectious disease similar to malaria often carried by horses and other domestic animals.</SwampFever.description>
+  <SwampFever.stages.0.label>minor</SwampFever.stages.0.label>
+  <SwampFever.stages.1.label>minor</SwampFever.stages.1.label>
+  <SwampFever.stages.2.label>major</SwampFever.stages.2.label>
+  <SwampFever.stages.3.label>extreme</SwampFever.stages.3.label>
+  <RatPlagueMain.label>plague</RatPlagueMain.label>
+  <RatPlagueMain.description>An infectious disease caused by bacteria from rat bites.</RatPlagueMain.description>
+  <RatPlagueMain.stages.0.label>minor</RatPlagueMain.stages.0.label>
+  <RatPlagueMain.stages.1.label>major</RatPlagueMain.stages.1.label>
+  <RatPlagueMain.stages.2.label>extreme</RatPlagueMain.stages.2.label>
+  <RatPlagueMain.stages.3.label>extreme</RatPlagueMain.stages.3.label>
+  <VenomPoisoning.label>venom poisoning</VenomPoisoning.label>
+  <VenomPoisoning.description>Poisoning due to large amounts of snake venom entering an animals bloodstream. Can be treated using an antivenom created through synthesising the very venom that caused the poisoning.</VenomPoisoning.description>
+  <VenomPoisoning.stages.0.label>initial</VenomPoisoning.stages.0.label>
+  <VenomPoisoning.stages.1.label>minor</VenomPoisoning.stages.1.label>
+  <VenomPoisoning.stages.2.label>moderate</VenomPoisoning.stages.2.label>
+  <VenomPoisoning.stages.3.label>major</VenomPoisoning.stages.3.label>
+  <VenomPoisoning.stages.4.label>extreme</VenomPoisoning.stages.4.label>
+  <SpelopedeSickness.label>spelopede sickness</SpelopedeSickness.label>
+  <SpelopedeSickness.description>A minor sickness caused due to the small amounts of venom delivered through a spelopede's attack.</SpelopedeSickness.description>
+  <SpelopedeSickness.stages.0.label>minor</SpelopedeSickness.stages.0.label>
+  <SpelopedeSickness.stages.1.label>moderate</SpelopedeSickness.stages.1.label>
+  <SpelopedeSickness.stages.2.label>major</SpelopedeSickness.stages.2.label>
+  <SpelopedeSickness.stages.3.label>extreme</SpelopedeSickness.stages.3.label>
+  <MegaSpiderParalysis.label>megaspider paralysis</MegaSpiderParalysis.label>
+  <MegaSpiderParalysis.description>Paralysis caused through prolonged and large quantities of megaspider venom in an animal's bloodstream. Extremely dangerous and well know to many tribes as uncureable though for glitterworlds it's merely an annoyance, more advanced research is clearly needed to stop it.</MegaSpiderParalysis.description>
+  <MegaSpiderParalysis.stages.0.label>minor</MegaSpiderParalysis.stages.0.label>
+  <MegaSpiderParalysis.stages.1.label>moderate</MegaSpiderParalysis.stages.1.label>
+  <MegaSpiderParalysis.stages.2.label>major</MegaSpiderParalysis.stages.2.label>
+  <MegaSpiderParalysis.stages.3.label>extreme</MegaSpiderParalysis.stages.3.label>
+  <SnakeVenom.label>snake venom</SnakeVenom.label>
+  <SnakeVenom.description>Venom that has begun to build up in the bloodstream due to a snake attack. Too much venom and poisoning could incur which can be fatal if left untreated.</SnakeVenom.description>
+  <SnakeVenom.stages.0.label>initial</SnakeVenom.stages.0.label>
+  <SnakeVenom.stages.1.label>initial</SnakeVenom.stages.1.label>
+  <SnakeVenom.stages.2.label>minor</SnakeVenom.stages.2.label>
+  <SnakeVenom.stages.3.label>moderate</SnakeVenom.stages.3.label>
+  <SnakeVenom.stages.4.label>serious</SnakeVenom.stages.4.label>
+  <SnakeVenom.stages.5.label>extreme</SnakeVenom.stages.5.label>
+  <MegaScarabVenom.label>megascarab venom</MegaScarabVenom.label>
+  <MegaScarabVenom.description>Venom that has begun to build up in the bloodstream due to a megascarab attack. Large amounts of venom need to build up before any real issues are caused and even then it's often a minor annoyance at for most that experience it.</MegaScarabVenom.description>
+  <MegaScarabVenom.stages.0.label>initial</MegaScarabVenom.stages.0.label>
+  <MegaScarabVenom.stages.1.label>initial</MegaScarabVenom.stages.1.label>
+  <MegaScarabVenom.stages.2.label>minor</MegaScarabVenom.stages.2.label>
+  <MegaScarabVenom.stages.3.label>moderate</MegaScarabVenom.stages.3.label>
+  <MegaScarabVenom.stages.4.label>serious</MegaScarabVenom.stages.4.label>
+  <MegaScarabVenom.stages.5.label>extreme</MegaScarabVenom.stages.5.label>
+  <SpelopedeVenom.label>spelopede venom</SpelopedeVenom.label>
+  <SpelopedeVenom.description>Venom that has begun to build up in the bloodstream due to a spelopede attack. Large quantities can cause sickness, though this sickness is never fatal and is usually nothing more than minor sickness for a day or two.</SpelopedeVenom.description>
+  <SpelopedeVenom.stages.0.label>initial</SpelopedeVenom.stages.0.label>
+  <SpelopedeVenom.stages.1.label>initial</SpelopedeVenom.stages.1.label>
+  <SpelopedeVenom.stages.2.label>minor</SpelopedeVenom.stages.2.label>
+  <SpelopedeVenom.stages.3.label>moderate</SpelopedeVenom.stages.3.label>
+  <SpelopedeVenom.stages.4.label>serious</SpelopedeVenom.stages.4.label>
+  <SpelopedeVenom.stages.5.label>extreme</SpelopedeVenom.stages.5.label>
+  <MegaSpiderVenom.label>megaspider venom</MegaSpiderVenom.label>
+  <MegaSpiderVenom.description>Venom that has begun to build up in the bloodstream due to a megaspider attack. Too much venom and paralysis could incur, one of the most dangerous illness known to this rimworld.</MegaSpiderVenom.description>
+  <MegaSpiderVenom.stages.0.label>initial</MegaSpiderVenom.stages.0.label>
+  <MegaSpiderVenom.stages.1.label>initial</MegaSpiderVenom.stages.1.label>
+  <MegaSpiderVenom.stages.2.label>minor</MegaSpiderVenom.stages.2.label>
+  <MegaSpiderVenom.stages.3.label>moderate</MegaSpiderVenom.stages.3.label>
+  <MegaSpiderVenom.stages.4.label>serious</MegaSpiderVenom.stages.4.label>
+  <MegaSpiderVenom.stages.5.label>extreme</MegaSpiderVenom.stages.5.label>
+  <RatPlague.label>rat germs</RatPlague.label>
+  <RatPlague.description>Germs caused by rat bites, it often carries disease - plague being the most common.</RatPlague.description>
+  <RatPlague.stages.0.label>initial</RatPlague.stages.0.label>
+  <RatPlague.stages.1.label>initial</RatPlague.stages.1.label>
+  <RatPlague.stages.2.label>minor</RatPlague.stages.2.label>
+  <RatPlague.stages.3.label>moderate</RatPlague.stages.3.label>
+  <RatPlague.stages.4.label>serious</RatPlague.stages.4.label>
+  <RatPlague.stages.5.label>extreme</RatPlague.stages.5.label>
+</LanguageData>

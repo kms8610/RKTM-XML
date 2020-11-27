@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EggAdderFertilized.label>adder egg (fert.)</EggAdderFertilized.label>
+  <EggAdderFertilized.description>Fertilized adder egg. If all goes well, it should hatch into a baby adder. It can be eaten raw, but it's much better cooked.</EggAdderFertilized.description>
+  <EggBlackDesertCobraFertilized.label>black desert cobra egg (fert.)</EggBlackDesertCobraFertilized.label>
+  <EggBlackDesertCobraFertilized.description>Fertilized black desert cobra egg. If all goes well, it should hatch into a baby black desert cobra. It can be eaten raw, but it's much better cooked.</EggBlackDesertCobraFertilized.description>
+  <SnakeVenomVile.label>snake venom vial</SnakeVenomVile.label>
+  <SnakeVenomVile.description>Pure, deadly, snake venom harvested from either a venom gland or a tamed snake. You could use this to synthesize a cure or to create poisonous weapons; use it wisely...</SnakeVenomVile.description>
+  <MegaSpiderVenomVile.label>megaspider venom vial</MegaSpiderVenomVile.label>
+  <MegaSpiderVenomVile.description>Megaspider venom in a bottle. With the technical know how you could fabricate a cure for megaspider paralysis.</MegaSpiderVenomVile.description>
+  <SnakeVenomGland.label>snake venom gland</SnakeVenomGland.label>
+  <SnakeVenomGland.description>The venom gland from a snake. With a bit of work, you could extract the poison from it at a butcher table.</SnakeVenomGland.description>
+  <MegaSpiderVenomGland.label>megaspider venom gland</MegaSpiderVenomGland.label>
+  <MegaSpiderVenomGland.description>The venom gland from a megaspider. With a bit of work and technical know, you could extract the poison from it at a butcher table.</MegaSpiderVenomGland.description>
+  <SnakeVenomVaccine.label>snake venom antivenom</SnakeVenomVaccine.label>
+  <SnakeVenomVaccine.description>A reversed engineered vial of snake venom which will instantly cure anybody or anything afflicted with snake venom. This, however, is not powerful enough to deal with the venom from giant insects, for that you'll need a more potent medicine.</SnakeVenomVaccine.description>
+  <SnakeVenomVaccine.comps.0.useLabel>Use snake venom antivenom</SnakeVenomVaccine.comps.0.useLabel>
+  <MegaSpiderVenomVaccine.label>megaspider venom antivenom</MegaSpiderVenomVaccine.label>
+  <MegaSpiderVenomVaccine.description>An antivenom for instantly curing people afflicted with paralysis and venom from megaspiders.</MegaSpiderVenomVaccine.description>
+  <MegaSpiderVenomVaccine.comps.0.useLabel>Use megaspider antivenom</MegaSpiderVenomVaccine.comps.0.useLabel>
+  <SnakeVenomHealingVapours.label>snake venom healing vapours</SnakeVenomHealingVapours.label>
+  <SnakeVenomHealingVapours.description>A basic version of the snake venom antivenom, it requires a lot more resources to be built but gets the job done nonetheless.</SnakeVenomHealingVapours.description>
+  <SnakeVenomHealingVapours.comps.0.useLabel>Use snake venom healing vapours</SnakeVenomHealingVapours.comps.0.useLabel>
+  <Adder.label>adder</Adder.label>
+  <Adder.description>A smaller green striped snake that spawns in more temperate climates.</Adder.description>
+  <Adder.tools.0.label>venom</Adder.tools.0.label>
+  <Adder.tools.1.label>head</Adder.tools.1.label>
+  <Adder.race.meatLabel>adder flesh</Adder.race.meatLabel>
+  <BlackDesertCobra.label>black desert cobra</BlackDesertCobra.label>
+  <BlackDesertCobra.description>A large black snake that spawns in more very hot and dry climates.</BlackDesertCobra.description>
+  <BlackDesertCobra.tools.0.label>venom</BlackDesertCobra.tools.0.label>
+  <BlackDesertCobra.tools.1.label>head</BlackDesertCobra.tools.1.label>
+  <BlackDesertCobra.race.meatLabel>black desert cobra flesh</BlackDesertCobra.race.meatLabel>
+</LanguageData>
