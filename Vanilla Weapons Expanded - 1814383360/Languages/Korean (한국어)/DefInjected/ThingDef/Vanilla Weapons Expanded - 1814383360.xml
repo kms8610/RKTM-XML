@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gas_OPToxin.label>Toxin Gas</Gas_OPToxin.label>
+  <Mote_Firetrail.label>Mote</Mote_Firetrail.label>
+  <Mote_Smoketrail.label>Mote</Mote_Smoketrail.label>
+  <Mote_FTSmoketrail.label>Mote</Mote_FTSmoketrail.label>
+  <Mote_GreenSmoketrail.label>Mote</Mote_GreenSmoketrail.label>
+  <VWE_ToxicGasCloud.label>toxic gas</VWE_ToxicGasCloud.label>
+  <VWE_SmokeCloud.label>smoke cloud</VWE_SmokeCloud.label>
+  <VWE_SmokeGrenade.label>smoke grenades</VWE_SmokeGrenade.label>
+  <VWE_SmokeGrenade.description>Old school condensed smoke canister that explodes into a smoke wall on impact.</VWE_SmokeGrenade.description>
+  <VWE_SmokeGrenade.verbs.0.label>throw smoke grenade</VWE_SmokeGrenade.verbs.0.label>
+  <VWE_Projectile_SmokeGrenade.label>smoke grenade</VWE_Projectile_SmokeGrenade.label>
+  <VWE_ToxicGrenade.label>toxic grenades</VWE_ToxicGrenade.label>
+  <VWE_ToxicGrenade.description>Charge powered lethal gas canister causing severe toxic buildup over a very short period of time.</VWE_ToxicGrenade.description>
+  <VWE_ToxicGrenade.verbs.0.label>throw toxic grenade</VWE_ToxicGrenade.verbs.0.label>
+  <VWE_Projectile_ToxicGrenade.label>toxic grenade</VWE_Projectile_ToxicGrenade.label>
+  <VWE_FlashGrenade.label>flash grenades</VWE_FlashGrenade.label>
+  <VWE_FlashGrenade.description>A flash grenade. Temporarily stuns organic enemies allowing users to close the distance.</VWE_FlashGrenade.description>
+  <VWE_FlashGrenade.verbs.0.label>throw flash grenade</VWE_FlashGrenade.verbs.0.label>
+  <VWE_Projectile_FlashGrenade.label>flash grenade</VWE_Projectile_FlashGrenade.label>
+  <VWE_MeleeWeapon_Shovel.label>shovel</VWE_MeleeWeapon_Shovel.label>
+  <VWE_MeleeWeapon_Shovel.description>Commonly used across the battlefield to dig trenches, this small portable shovel is an excellent close range weapon.</VWE_MeleeWeapon_Shovel.description>
+  <VWE_MeleeWeapon_Shovel.tools.0.label>handle</VWE_MeleeWeapon_Shovel.tools.0.label>
+  <VWE_MeleeWeapon_Shovel.tools.1.label>head</VWE_MeleeWeapon_Shovel.tools.1.label>
+  <VWE_MeleeWeapon_Baton.label>baton</VWE_MeleeWeapon_Baton.label>
+  <VWE_MeleeWeapon_Baton.description>A short peacekeeping baton commonly used by prison guards and urbworld militia.</VWE_MeleeWeapon_Baton.description>
+  <VWE_MeleeWeapon_Baton.tools.0.label>handle</VWE_MeleeWeapon_Baton.tools.0.label>
+  <VWE_MeleeWeapon_Baton.tools.1.label>head</VWE_MeleeWeapon_Baton.tools.1.label>
+  <VWE_MeleeWeapon_CombatKnife.label>combat knife</VWE_MeleeWeapon_CombatKnife.label>
+  <VWE_MeleeWeapon_CombatKnife.description>One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nCombat knife is a standard issue melee weapon for most of the military forces.</VWE_MeleeWeapon_CombatKnife.description>
+  <VWE_MeleeWeapon_CombatKnife.tools.0.label>handle</VWE_MeleeWeapon_CombatKnife.tools.0.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.1.label>blade</VWE_MeleeWeapon_CombatKnife.tools.1.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.2.label>point</VWE_MeleeWeapon_CombatKnife.tools.2.label>
+  <VWE_MeleeWeapon_Wrench.label>wrench</VWE_MeleeWeapon_Wrench.label>
+  <VWE_MeleeWeapon_Wrench.description>A universal instrument to make even the sturdiest things work.\n\nAids with construction and breaking down Mechanoid constructs.</VWE_MeleeWeapon_Wrench.description>
+  <VWE_MeleeWeapon_Wrench.tools.0.label>handle</VWE_MeleeWeapon_Wrench.tools.0.label>
+  <VWE_MeleeWeapon_Wrench.tools.1.label>head</VWE_MeleeWeapon_Wrench.tools.1.label>
+  <VWE_MeleeWeapon_Cleaver.label>cleaver</VWE_MeleeWeapon_Cleaver.label>
+  <VWE_MeleeWeapon_Cleaver.description>One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nThis type of knife is commonly used by chefs to cut meat and bones alike.</VWE_MeleeWeapon_Cleaver.description>
+  <VWE_MeleeWeapon_Cleaver.tools.0.label>handle</VWE_MeleeWeapon_Cleaver.tools.0.label>
+  <VWE_MeleeWeapon_Cleaver.tools.1.label>blade</VWE_MeleeWeapon_Cleaver.tools.1.label>
+  <VWE_MeleeWeapon_Scalpel.label>scalpel</VWE_MeleeWeapon_Scalpel.label>
+  <VWE_MeleeWeapon_Scalpel.description>One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.\n\nThis blade is commonly used by surgeons due to it's extreme sharpness.</VWE_MeleeWeapon_Scalpel.description>
+  <VWE_MeleeWeapon_Scalpel.tools.0.label>blade</VWE_MeleeWeapon_Scalpel.tools.0.label>
+  <VWE_MeleeWeapon_Scalpel.tools.1.label>point</VWE_MeleeWeapon_Scalpel.tools.1.label>
+  <VWE_MeleeWeapon_Pickaxe.label>pickaxe</VWE_MeleeWeapon_Pickaxe.label>
+  <VWE_MeleeWeapon_Pickaxe.description>This basic invention is effective as a weapon, while being a tool at the same time. Needs some muscles to work with, but makes digging through mountains overall more comfortable.\n\nThe shape of the head allows to pierce thicker armor.</VWE_MeleeWeapon_Pickaxe.description>
+  <VWE_MeleeWeapon_Pickaxe.tools.0.label>handle</VWE_MeleeWeapon_Pickaxe.tools.0.label>
+  <VWE_MeleeWeapon_Pickaxe.tools.1.label>point</VWE_MeleeWeapon_Pickaxe.tools.1.label>
+  <VWE_MeleeWeapon_Hammer.label>hammer</VWE_MeleeWeapon_Hammer.label>
+  <VWE_MeleeWeapon_Hammer.description>A hammer is a tool that consists of a heavy piece of metal or stone at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall.\n\nThis basic invention is effective as a weapon, while being a tool at the same time. Needs some muscles to work with, but lets you construct with more ease.</VWE_MeleeWeapon_Hammer.description>
+  <VWE_MeleeWeapon_Hammer.tools.0.label>handle</VWE_MeleeWeapon_Hammer.tools.0.label>
+  <VWE_MeleeWeapon_Hammer.tools.1.label>head</VWE_MeleeWeapon_Hammer.tools.1.label>
+  <VWE_MeleeWeapon_BattleAxe.label>battle axe</VWE_MeleeWeapon_BattleAxe.label>
+  <VWE_MeleeWeapon_BattleAxe.description>A mighty weapon on the battlefield in the right kind of hands. Made to cut through flesh and bones alike.\n\nFavored by the Berserker clans, the battle axe is a weapon usually used by medieval knights. With a powerful swing it is capable of eliminating most enemies in close quarters.</VWE_MeleeWeapon_BattleAxe.description>
+  <VWE_MeleeWeapon_BattleAxe.tools.0.label>handle</VWE_MeleeWeapon_BattleAxe.tools.0.label>
+  <VWE_MeleeWeapon_BattleAxe.tools.1.label>blade</VWE_MeleeWeapon_BattleAxe.tools.1.label>
+  <VWE_MeleeWeapon_Halberd.label>halberd</VWE_MeleeWeapon_Halberd.label>
+  <VWE_MeleeWeapon_Halberd.description>Halberd is a pike fitted with a light axe head. Due to the spear-like sharp tip, it's a great tool against armored enemies.\n\nUsed to fight down horse-mounted warriors in medieval times thanks to its its extraordinary length.</VWE_MeleeWeapon_Halberd.description>
+  <VWE_MeleeWeapon_Halberd.tools.0.label>handle</VWE_MeleeWeapon_Halberd.tools.0.label>
+  <VWE_MeleeWeapon_Halberd.tools.1.label>blade</VWE_MeleeWeapon_Halberd.tools.1.label>
+  <VWE_MeleeWeapon_Halberd.tools.2.label>point</VWE_MeleeWeapon_Halberd.tools.2.label>
+  <VWE_MeleeWeapon_Axe.label>hatchet</VWE_MeleeWeapon_Axe.label>
+  <VWE_MeleeWeapon_Axe.description>An axe head fastened to a handle. Suitable for one hand, due to the shape of a wedge it doesn't require significant force to cut armor and flesh.</VWE_MeleeWeapon_Axe.description>
+  <VWE_MeleeWeapon_Axe.tools.0.label>handle</VWE_MeleeWeapon_Axe.tools.0.label>
+  <VWE_MeleeWeapon_Axe.tools.1.label>blade</VWE_MeleeWeapon_Axe.tools.1.label>
+  <Gun_TripleRocket.label>triple rocket launcher</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>A single-use rocket launcher that fires a cluster of three large-bore explosive rockets. Good against smalll groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.0.label>barrel</Gun_TripleRocket.tools.0.label>
+  <Gun_DoomsdayRocket.label>doomsday rocket launcher</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.0.label>barrel</Gun_DoomsdayRocket.tools.0.label>
+  <VWE_Gun_RocketLauncher.label>rocket launcher</VWE_Gun_RocketLauncher.label>
+  <VWE_Gun_RocketLauncher.description>Fires a single mortar shell at high accuracy.</VWE_Gun_RocketLauncher.description>
+  <VWE_Gun_RocketLauncher.tools.0.label>barrel</VWE_Gun_RocketLauncher.tools.0.label>
+  <VWE_Bow_Compound.label>compound bow</VWE_Bow_Compound.label>
+  <VWE_Bow_Compound.description>A modern day bow using levers system to fire an arrow over long distances.\n\nDue to the silencing mechanism, this bow doesn't emit any considerable sound upon firing, which makes it useful in hunting.</VWE_Bow_Compound.description>
+  <VWE_Bow_Compound.tools.0.label>limb</VWE_Bow_Compound.tools.0.label>
+  <VWE_Arrow_Compound.label>compound bow arrow</VWE_Arrow_Compound.label>
+  <VWE_Bullet_HandCannon.label>hand cannon bullet</VWE_Bullet_HandCannon.label>
+  <VWE_Gun_HandCannon.label>Hand Cannon</VWE_Gun_HandCannon.label>
+  <VWE_Gun_HandCannon.description>Slow firing revolver firing large caliber projectiles over long distances.</VWE_Gun_HandCannon.description>
+  <VWE_Gun_HandCannon.tools.0.label>grip</VWE_Gun_HandCannon.tools.0.label>
+  <VWE_Gun_HandCannon.tools.1.label>barrel</VWE_Gun_HandCannon.tools.1.label>
+  <VWE_Bullet_CombatHandgun.label>combat handgun bullet</VWE_Bullet_CombatHandgun.label>
+  <VWE_CombatHandgun.label>combat handgun</VWE_CombatHandgun.label>
+  <VWE_CombatHandgun.description>Semi-automatic pistol designed for personal defense. The advanced counter-recoil system allows this weapon to be fired significantly faster than a standard autopistol.</VWE_CombatHandgun.description>
+  <VWE_CombatHandgun.tools.0.label>grip</VWE_CombatHandgun.tools.0.label>
+  <VWE_CombatHandgun.tools.1.label>barrel</VWE_CombatHandgun.tools.1.label>
+  <VWE_Bullet_SawedOffShotgun.label>shotgun blast</VWE_Bullet_SawedOffShotgun.label>
+  <VWE_SawedOffShotgun.label>sawed-off Shotgun</VWE_SawedOffShotgun.label>
+  <VWE_SawedOffShotgun.description>Short double-barreled shotgun. Whilst not having the same range as a standard shotgun, this weapon fires two barrels in quick successions.</VWE_SawedOffShotgun.description>
+  <VWE_SawedOffShotgun.tools.0.label>grip</VWE_SawedOffShotgun.tools.0.label>
+  <VWE_SawedOffShotgun.tools.1.label>barrel</VWE_SawedOffShotgun.tools.1.label>
+  <VWE_Bullet_GrenadeLauncher.label>frag grenade</VWE_Bullet_GrenadeLauncher.label>
+  <VWE_Gun_GrenadeLauncher.label>grenade launcher</VWE_Gun_GrenadeLauncher.label>
+  <VWE_Gun_GrenadeLauncher.description>A military issue grenade launcher intended for anti-infantry use.</VWE_Gun_GrenadeLauncher.description>
+  <VWE_Gun_GrenadeLauncher.tools.0.label>stock</VWE_Gun_GrenadeLauncher.tools.0.label>
+  <VWE_Gun_GrenadeLauncher.tools.1.label>barrel</VWE_Gun_GrenadeLauncher.tools.1.label>
+  <VWE_Gun_Flamethrower.label>flamethrower</VWE_Gun_Flamethrower.label>
+  <VWE_Gun_Flamethrower.description>Mechanical incendiary device designed to release a controllable stream of burning chemfuel.</VWE_Gun_Flamethrower.description>
+  <VWE_Gun_Flamethrower.tools.0.label>stock</VWE_Gun_Flamethrower.tools.0.label>
+  <VWE_Gun_Flamethrower.tools.1.label>barrel</VWE_Gun_Flamethrower.tools.1.label>
+  <VWE_Bullet_Flamethrower.label>flamethrower fuel</VWE_Bullet_Flamethrower.label>
+  <VWE_Gun_FireExtinguisher.label>fire extinguisher</VWE_Gun_FireExtinguisher.label>
+  <VWE_Gun_FireExtinguisher.description>Filled with a multi-purpose flame supressant, this item can be used to extinguish any kind of fire encountered in the field.</VWE_Gun_FireExtinguisher.description>
+  <VWE_Gun_FireExtinguisher.tools.0.label>canister</VWE_Gun_FireExtinguisher.tools.0.label>
+  <VWE_Bullet_FireExtinguisher.label>flame suppresant</VWE_Bullet_FireExtinguisher.label>
+  <VWE_Bullet_SemiAutomaticRifle.label>semi-automatic rifle bullet</VWE_Bullet_SemiAutomaticRifle.label>
+  <VWE_Gun_SemiAutomaticRifle.label>semi-automatic rifle</VWE_Gun_SemiAutomaticRifle.label>
+  <VWE_Gun_SemiAutomaticRifle.description>Semi-automatic model of a standard bolt action rifle. Whilst not as accurate and powerful as the predecessor, it makes up with fast firing speed.</VWE_Gun_SemiAutomaticRifle.description>
+  <VWE_Gun_SemiAutomaticRifle.tools.0.label>stock</VWE_Gun_SemiAutomaticRifle.tools.0.label>
+  <VWE_Gun_SemiAutomaticRifle.tools.1.label>barrel</VWE_Gun_SemiAutomaticRifle.tools.1.label>
+  <VWE_Bullet_LeverActionRifle.label>lever-action rifle bullet</VWE_Bullet_LeverActionRifle.label>
+  <VWE_Gun_LeverActionRifle.label>lever-action rifle</VWE_Gun_LeverActionRifle.label>
+  <VWE_Gun_LeverActionRifle.description>A rifle that uses a lever located around the trigger guard area to load fresh cartridges. Whilst not as powerful as other rifles, this gun allows for rapid reload.\n\nUsed widely around the western worlds for the ability to be shot single-handedly on the horseback.</VWE_Gun_LeverActionRifle.description>
+  <VWE_Gun_LeverActionRifle.tools.0.label>stock</VWE_Gun_LeverActionRifle.tools.0.label>
+  <VWE_Gun_LeverActionRifle.tools.1.label>barrel</VWE_Gun_LeverActionRifle.tools.1.label>
+  <VWE_Bullet_LightSMG.label>light SMG pistol bullet</VWE_Bullet_LightSMG.label>
+  <VWE_Gun_LightSMG.label>light SMG</VWE_Gun_LightSMG.label>
+  <VWE_Gun_LightSMG.description>Open bolt lightweight submachine gun with improved cooling, allowing for longer bursts before weapon needs to be cooled.</VWE_Gun_LightSMG.description>
+  <VWE_Gun_LightSMG.tools.0.label>grip</VWE_Gun_LightSMG.tools.0.label>
+  <VWE_Gun_LightSMG.tools.1.label>barrel</VWE_Gun_LightSMG.tools.1.label>
+  <VWE_Bullet_SMG.label>smg bullet</VWE_Bullet_SMG.label>
+  <VWE_Gun_SMG.label>SMG</VWE_Gun_SMG.label>
+  <VWE_Gun_SMG.description>A compact submachine gun. Whilst it doesn't have long range of fire, it deals significant damage in close range.</VWE_Gun_SMG.description>
+  <VWE_Gun_SMG.tools.0.label>grip</VWE_Gun_SMG.tools.0.label>
+  <VWE_Gun_SMG.tools.1.label>barrel</VWE_Gun_SMG.tools.1.label>
+  <VWE_Bullet_HMG.label>HMG bullet</VWE_Bullet_HMG.label>
+  <VWE_Gun_HMG.label>HMG</VWE_Gun_HMG.label>
+  <VWE_Gun_HMG.description>A water-cooled type of machine gun. It's heavy and unwieldy, but delivers tremendous amount of damage thanks to armor piercing ammunition. Belt-fed ammunition ensures continuous volley of bullets as long as the person firing them is strong enough to hold the gun.</VWE_Gun_HMG.description>
+  <VWE_Gun_HMG.tools.0.label>stock</VWE_Gun_HMG.tools.0.label>
+  <VWE_Gun_HMG.tools.1.label>barrel</VWE_Gun_HMG.tools.1.label>
+  <VWE_Bullet_ServiceRifle.label>assault rifle bullet</VWE_Bullet_ServiceRifle.label>
+  <VWE_Gun_ServiceRifle.label>service rifle</VWE_Gun_ServiceRifle.label>
+  <VWE_Gun_ServiceRifle.description>A versatile and rugged assault rifle widely used around the galaxy by militia forces and mercenaries.\n\nNot as powerful as an assault rifle, but deliver 4 shot bursts.</VWE_Gun_ServiceRifle.description>
+  <VWE_Gun_ServiceRifle.tools.0.label>stock</VWE_Gun_ServiceRifle.tools.0.label>
+  <VWE_Gun_ServiceRifle.tools.1.label>barrel</VWE_Gun_ServiceRifle.tools.1.label>
+  <VWE_Bullet_BattleRifle.label>assault rifle bullet</VWE_Bullet_BattleRifle.label>
+  <VWE_Gun_BattleRifle.label>battle rifle</VWE_Gun_BattleRifle.label>
+  <VWE_Gun_BattleRifle.description>A semi-automatic rifle commonly used by special forces due to it's range and accuracy.\n\nSlightly longer range and higher damage than an Assault Rifle, but only fires two round bursts.</VWE_Gun_BattleRifle.description>
+  <VWE_Gun_BattleRifle.tools.0.label>stock</VWE_Gun_BattleRifle.tools.0.label>
+  <VWE_Gun_BattleRifle.tools.1.label>barrel</VWE_Gun_BattleRifle.tools.1.label>
+  <VWE_Bullet_Carbine.label>carbine bullet</VWE_Bullet_Carbine.label>
+  <VWE_Gun_Carbine.label>carbine</VWE_Gun_Carbine.label>
+  <VWE_Gun_Carbine.description>Short bullpup carbine, used often in close quarters urban combat.\n\nWhilst it's accurate at close range, due to the short stock it is incapable of firing accurately at rifle range.</VWE_Gun_Carbine.description>
+  <VWE_Gun_Carbine.tools.0.label>stock</VWE_Gun_Carbine.tools.0.label>
+  <VWE_Gun_Carbine.tools.1.label>barrel</VWE_Gun_Carbine.tools.1.label>
+  <Bullet_MarksmanRifle.label>marksman rifle bullet</Bullet_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.label>marksman rifle</VWE_Gun_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.description>A designated marksman rifle.\n\nWhilst it shares similarities with a standard bolt-action rifle, it trades off it's damage for firing two shots in quick succession.</VWE_Gun_MarksmanRifle.description>
+  <VWE_Gun_MarksmanRifle.tools.0.label>stock</VWE_Gun_MarksmanRifle.tools.0.label>
+  <VWE_Gun_MarksmanRifle.tools.1.label>barrel</VWE_Gun_MarksmanRifle.tools.1.label>
+  <Bullet_AntiMaterialRifle.label>anti-material impact shell</Bullet_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.label>anti-material rifle</VWE_Gun_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.description>Being a .50 caliber rifle, this weapon was designed to fight enemy armored equipment.\n\nUsed widely around the rim in mechanoid warzones, this weapon is also useful against infantry, allowing for a 1-hit kill.</VWE_Gun_AntiMaterialRifle.description>
+  <VWE_Gun_AntiMaterialRifle.tools.0.label>stock</VWE_Gun_AntiMaterialRifle.tools.0.label>
+  <VWE_Gun_AntiMaterialRifle.tools.1.label>barrel</VWE_Gun_AntiMaterialRifle.tools.1.label>
+  <VWE_Bow_Crossbow.label>crossbow</VWE_Bow_Crossbow.label>
+  <VWE_Bow_Crossbow.description>A crossbow is a type of ranged weapon in similar principle to a bow, consisting of a bow-like assembly mounted horizontally on a main frame, which is handheld in a similar fashion to the stock of a long gun.\n\nThis weapon attempt of early mankind can send a bolt even through strongest metal.</VWE_Bow_Crossbow.description>
+  <VWE_Bow_Crossbow.tools.0.label>limb</VWE_Bow_Crossbow.tools.0.label>
+  <VWE_Arrow_Bolt.label>crossbow bolt</VWE_Arrow_Bolt.label>
+  <VWE_Gun_Musket.label>musket</VWE_Gun_Musket.label>
+  <VWE_Gun_Musket.description>An ancient pattern musket. As one of the first of its kind, it only has short range and low fire rate.</VWE_Gun_Musket.description>
+  <VWE_Gun_Musket.tools.0.label>stock</VWE_Gun_Musket.tools.0.label>
+  <VWE_Gun_Musket.tools.1.label>barrel</VWE_Gun_Musket.tools.1.label>
+  <Bullet_Leadball.label>lead ball</Bullet_Leadball.label>
+  <VWE_Gun_Flintlock.label>flintlock</VWE_Gun_Flintlock.label>
+  <VWE_Gun_Flintlock.description>This pistol features a smoothbore barrel and a long, wooden grip ending in a knob. As its name implies, the flintlock pistol is operated by a flintlock mechanism.</VWE_Gun_Flintlock.description>
+  <VWE_Gun_Flintlock.tools.0.label>stock</VWE_Gun_Flintlock.tools.0.label>
+  <VWE_Gun_Flintlock.tools.1.label>barrel</VWE_Gun_Flintlock.tools.1.label>
+  <VWE_Throwing_Knives.label>throwing knives</VWE_Throwing_Knives.label>
+  <VWE_Throwing_Knives.description>A set of well balanced knives, perfect for throwing.</VWE_Throwing_Knives.description>
+  <VWE_Throwing_Knives.tools.0.label>handle</VWE_Throwing_Knives.tools.0.label>
+  <VWE_Throwing_Knives.tools.1.label>blade</VWE_Throwing_Knives.tools.1.label>
+  <VWE_Throwing_Knives.tools.2.label>point</VWE_Throwing_Knives.tools.2.label>
+  <VWE_FlyingBlade.label>small knife</VWE_FlyingBlade.label>
+  <VWE_Tool_Whip.label>Whip</VWE_Tool_Whip.label>
+  <VWE_Tool_Whip.description>A traditional tool used for striking animals to aid guidance and earn obedience.\n\nCan be used on people.</VWE_Tool_Whip.description>
+  <VWE_Tool_Whip.tools.0.label>edge</VWE_Tool_Whip.tools.0.label>
+  <VWE_WhipSlash.label>whip slash</VWE_WhipSlash.label>
+  <VWE_Throwing_Rocks.label>throwing rocks</VWE_Throwing_Rocks.label>
+  <VWE_Throwing_Rocks.description>A handful of rocks. Can inflict minor injuries in close range. Doesn't drop on death. Simple but effective.</VWE_Throwing_Rocks.description>
+  <VWE_Throwing_Rocks.tools.0.label>edge</VWE_Throwing_Rocks.tools.0.label>
+  <VWE_Rock.label>small rock</VWE_Rock.label>
+  <VWE_Bow_Long.label>long bow</VWE_Bow_Long.label>
+  <VWE_Bow_Long.description>Longbow is a massive long range neolithic weapon, capable of firing a powerful arrow over extremely long distances.\n\nArrows fired from this bow fly overhead, avoiding getting stopped by obstacles.</VWE_Bow_Long.description>
+  <VWE_Bow_Long.tools.0.label>limb</VWE_Bow_Long.tools.0.label>
+  <VWE_Arrow_Long.label>longbow arrow</VWE_Arrow_Long.label>
+  <VWE_Bullet_ChargePistol.label>charge pistol shot</VWE_Bullet_ChargePistol.label>
+  <VWE_Gun_ChargePistol.label>charge pistol</VWE_Gun_ChargePistol.label>
+  <VWE_Gun_ChargePistol.description>A charged-shot pistol. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nThis three round burst pistol is a very effective sidearm deployed across all regiments of imperial commandos.</VWE_Gun_ChargePistol.description>
+  <VWE_Gun_ChargePistol.tools.0.label>barrel</VWE_Gun_ChargePistol.tools.0.label>
+  <VWE_Bullet_ChargeShotgun.label>charge shotgun blast</VWE_Bullet_ChargeShotgun.label>
+  <VWE_Gun_ChargeShotgun.label>charge shotgun</VWE_Gun_ChargeShotgun.label>
+  <VWE_Gun_ChargeShotgun.description>A charged-shot slug thrower. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nDeadly in close range, this shotgun has been banned by the imperial military for inflicting unmeasurable pain.</VWE_Gun_ChargeShotgun.description>
+  <VWE_Gun_ChargeShotgun.tools.0.label>barrel</VWE_Gun_ChargeShotgun.tools.0.label>
+  <VWE_Bullet_ChargeSMG.label>rapid charge shot</VWE_Bullet_ChargeSMG.label>
+  <VWE_Gun_ChargeSMG.label>charge SMG</VWE_Gun_ChargeSMG.label>
+  <VWE_Gun_ChargeSMG.description>A charged-shot submachine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nFires rapidly but requires to close the distance between the target.</VWE_Gun_ChargeSMG.description>
+  <VWE_Gun_ChargeSMG.tools.0.label>barrel</VWE_Gun_ChargeSMG.tools.0.label>
+  <VWE_Bullet_ChargeLMG.label>charge LMG shot</VWE_Bullet_ChargeLMG.label>
+  <VWE_Gun_ChargeLMG.label>charge LMG</VWE_Gun_ChargeLMG.label>
+  <VWE_Gun_ChargeLMG.description>A charged-shot light machine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCharge light machine gun fires a volley of projectiles at extreme speed which makes it ideal for area denial.</VWE_Gun_ChargeLMG.description>
+  <VWE_Gun_ChargeLMG.tools.0.label>barrel</VWE_Gun_ChargeLMG.tools.0.label>
+  <VWE_Bullet_ChargeSniperRifle.label>charge sniper shot</VWE_Bullet_ChargeSniperRifle.label>
+  <VWE_Gun_ChargeSniperRifle.label>charge sniper rifle</VWE_Gun_ChargeSniperRifle.label>
+  <VWE_Gun_ChargeSniperRifle.description>A charged-shot triple barreled sniper rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nDue to three separate barrels firing simultaneously, weapon power is reduced and rate of fire is decreased.</VWE_Gun_ChargeSniperRifle.description>
+  <VWE_Gun_ChargeSniperRifle.tools.0.label>stock</VWE_Gun_ChargeSniperRifle.tools.0.label>
+  <VWE_Gun_ChargeSniperRifle.tools.1.label>barrel</VWE_Gun_ChargeSniperRifle.tools.1.label>
+  <VWE_Bullet_ChargeMinigun.label>charge minigun shot</VWE_Bullet_ChargeMinigun.label>
+  <VWE_Gun_ChargeMinigun.label>charge minigun</VWE_Gun_ChargeMinigun.label>
+  <VWE_Gun_ChargeMinigun.description>A charged-shot minigun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCapable of covering the entire area in volley of anti-armor rounds, this minigun is often used by glitterworld mercenaries during their infamous raids.</VWE_Gun_ChargeMinigun.description>
+  <VWE_Gun_ChargeMinigun.tools.0.label>stock</VWE_Gun_ChargeMinigun.tools.0.label>
+  <VWE_Gun_ChargeMinigun.tools.1.label>barrel</VWE_Gun_ChargeMinigun.tools.1.label>
+  <VWE_Gun_ChargeRocketLauncher.label>charge rocket launcher</VWE_Gun_ChargeRocketLauncher.label>
+  <VWE_Gun_ChargeRocketLauncher.description>Fires a single anti grain shell at precise accuracy due to laser targeting. The warhead explodes in the air, releasing a wave of deadly electroshock.</VWE_Gun_ChargeRocketLauncher.description>
+  <VWE_Gun_ChargeRocketLauncher.tools.0.label>barrel</VWE_Gun_ChargeRocketLauncher.tools.0.label>
+  <VWE_Rocket_AntiGrain.label>antigrain rocket</VWE_Rocket_AntiGrain.label>
+</LanguageData>
