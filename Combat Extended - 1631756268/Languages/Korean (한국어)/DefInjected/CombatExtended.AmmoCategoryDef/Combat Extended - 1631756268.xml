@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Charged.label>charge</Charged.label>
+  <Charged.description>The charged particle coating disrupts armor and tissue in equal measure.</Charged.description>
+  <ChargedAP.label>concentrated charge</ChargedAP.label>
+  <ChargedAP.labelShort>conc.</ChargedAP.labelShort>
+  <ChargedAP.description>Focuses charged particles around the tip of the core for improved armor penetration at the cost of stopping power.</ChargedAP.description>
+  <Ionized.label>ion charge</Ionized.label>
+  <Ionized.labelShort>ion</Ionized.labelShort>
+  <Ionized.description>Designed to combat mechanoids, the round creates an electrical current on impact, disrupting electronic systems temporarily.</Ionized.description>
+  <IncendiaryFuel.label>incendiary</IncendiaryFuel.label>
+  <IncendiaryFuel.description>Filled with incendiary agent that ignites after impact.</IncendiaryFuel.description>
+  <NapalmFuel.label>jellied chemfuel</NapalmFuel.label>
+  <NapalmFuel.description>Highly flammable liquid, burns over time and catches nearby objects on fire.</NapalmFuel.description>
+  <JelliedPrometheumFuel.label>jellied prometheum</JelliedPrometheumFuel.label>
+  <JelliedPrometheumFuel.description>Advanced pyrophoric compound in gel-form. Self-ignites on contact with air, sticks to skin and seeps into openings, burning even mechanoids.</JelliedPrometheumFuel.description>
+  <ThermobaricFuel.label>thermobaric</ThermobaricFuel.label>
+  <ThermobaricFuel.description>Filled with high-explosive aerosol that causes a large explosion and ignites flammable materials.</ThermobaricFuel.description>
+  <FoamFuel.label>foam</FoamFuel.label>
+  <FoamFuel.description>Special round designed for civilian fire-fighting purposes. Filled with fire-retardant foam to suppress fires in a large area.</FoamFuel.description>
+  <Antigrain.label>antigrain warhead</Antigrain.label>
+  <Antigrain.description>A tiny ultra-tech warhead usually used by spacecraft or glitterworld war machines. Powered by a grain of antimatter, it creates a huge explosion and starts fires around the target.</Antigrain.description>
+  <RadiationIonising.label>radioactive (ionising)</RadiationIonising.label>
+  <RadiationIonising.labelShort>stone</RadiationIonising.labelShort>
+  <RadiationIonising.description>Contains ionising gamma radiation that significantly impairs consciousness, and is a carcinogen.</RadiationIonising.description>
+  <ForsakenArrow.label>forsaken arrow</ForsakenArrow.label>
+  <ForsakenArrow.labelShort>forsaken</ForsakenArrow.labelShort>
+  <ForsakenArrow.description>Designed to be fired from a forsaken bow.</ForsakenArrow.description>
+  <Plasma.label>Plasma</Plasma.label>
+  <Plasma.labelShort>plasma</Plasma.labelShort>
+  <Plasma.description>Highly-energized ionized gas capable of devastating burn effects.</Plasma.description>
+  <RailgunSabot.label>Railgun sabot</RailgunSabot.label>
+  <RailgunSabot.labelShort>Sabot</RailgunSabot.labelShort>
+  <RailgunSabot.description>Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.</RailgunSabot.description>
+  <FullMetalJacket.label>full metal jacket</FullMetalJacket.label>
+  <FullMetalJacket.labelShort>FMJ</FullMetalJacket.labelShort>
+  <FullMetalJacket.description>The soft lead core is encased in a harder metal coating, combining a medium amount of stopping power and armor penetration.</FullMetalJacket.description>
+  <ArmorPiercing.label>armor-piercing</ArmorPiercing.label>
+  <ArmorPiercing.labelShort>AP</ArmorPiercing.labelShort>
+  <ArmorPiercing.description>Features a hardened steel penetrator core for increased armor penetration.</ArmorPiercing.description>
+  <HollowPoint.label>hollow point</HollowPoint.label>
+  <HollowPoint.labelShort>HP</HollowPoint.labelShort>
+  <HollowPoint.description>A hollowed out tip causes the bullet to expand on impact, increasing tissue damage at the cost of armor penetration.</HollowPoint.description>
+  <Sabot.label>armor-piercing discarding sabot</Sabot.label>
+  <Sabot.labelShort>Sabot</Sabot.labelShort>
+  <Sabot.description>Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.</Sabot.description>
+  <IncendiaryAP.label>armor-piercing incendiary</IncendiaryAP.label>
+  <IncendiaryAP.labelShort>AP-I</IncendiaryAP.labelShort>
+  <IncendiaryAP.description>Filled with an incendiary compound that ignites on impact, doing additional damage and increasing armor penetration.</IncendiaryAP.description>
+  <ExplosiveAP.label>armor-piercing high-explosive</ExplosiveAP.label>
+  <ExplosiveAP.labelShort>AP-HE</ExplosiveAP.labelShort>
+  <ExplosiveAP.description>Filled with high-explosives that detonate on impact for additional damage.</ExplosiveAP.description>
+  <TranqNonLethal.label>tranquilizer</TranqNonLethal.label>
+  <TranqNonLethal.description>Special round designed for non-lethal engagements of targets. Filled with fast-acting sedatives and tipped with a hypodermic needle.</TranqNonLethal.description>
+  <GrenadeHE.label>high-explosive</GrenadeHE.label>
+  <GrenadeHE.labelShort>HE</GrenadeHE.labelShort>
+  <GrenadeHE.description>The high-explosive charge detonates on impact, scattering lethal shell fragments in a large area.</GrenadeHE.description>
+  <GrenadeEMP.label>EMP</GrenadeEMP.label>
+  <GrenadeEMP.description>Creates an electro-magnetic burst on impact, temporarily disrupting electronic systems and Mechanoids.</GrenadeEMP.description>
+  <GrenadeIncendiary.label>Incendiary</GrenadeIncendiary.label>
+  <GrenadeIncendiary.description>Filled with incendiary agent. The agent is dispersed on impact, covering the area in flames.</GrenadeIncendiary.description>
+  <Smoke.label>Smoke</Smoke.label>
+  <Smoke.description>Filled with a smoke-producing agent. Explodes on impact to generate a thick smokescreen.</Smoke.description>
+  <BallistaBolt.label>Ballista Bolt</BallistaBolt.label>
+  <BallistaBolt.description>A steel tip attached to a long and fletched wooden pole, packing a very strong punch against scarcely armored targets.</BallistaBolt.description>
+  <BallistaBoltHeavy.label>Heavy Ballista Bolt</BallistaBoltHeavy.label>
+  <BallistaBoltHeavy.description>Fitted with a heavy steel tip to defeat the toughest of targets.</BallistaBoltHeavy.description>
+  <BallistaBoltArmorPiercing.label>Armor-Piercing Ballista Bolt</BallistaBoltArmorPiercing.label>
+  <BallistaBoltArmorPiercing.description>Fitted with a streamlined and hardened steel tip to punch through armored targets.</BallistaBoltArmorPiercing.description>
+  <TomahawkLAM.label>Tomahawk Missile</TomahawkLAM.label>
+  <TomahawkLAM.labelShort>Tomahawk Missile</TomahawkLAM.labelShort>
+  <TomahawkLAM.description>Long-range, all-weather, jet-powered, surface-launched subsonic cruise missile designed to attack land targets.</TomahawkLAM.description>
+  <Javelin.label>javelin</Javelin.label>
+  <Javelin.description>A heavy steel tip attached to a long wooden pole, packing a very strong punch against scarcely armored targets.</Javelin.description>
+  <Kunai.label>kunai</Kunai.label>
+  <Kunai.description>Originally a Japanese farming instrument, similar in use to a hand-shovel, the kunai is a multi-purpose tool useful in both ranged and melee combat.</Kunai.description>
+  <StoneArrow.label>stone arrow</StoneArrow.label>
+  <StoneArrow.labelShort>stone</StoneArrow.labelShort>
+  <StoneArrow.description>A sharpened stone is attached as an arrow head. Cuts exposed tissue fairly well but is ineffective against any kind of armor.</StoneArrow.description>
+  <SteelArrow.label>steel arrow</SteelArrow.label>
+  <SteelArrow.labelShort>steel</SteelArrow.labelShort>
+  <SteelArrow.description>The arrow head is made from steel to enhance armor penetration.</SteelArrow.description>
+  <PlasteelArrow.label>plasteel arrow</PlasteelArrow.label>
+  <PlasteelArrow.labelShort>plasteel</PlasteelArrow.labelShort>
+  <PlasteelArrow.description>Fitted with a plasteel head to maximize armor penetration.</PlasteelArrow.description>
+  <StoneSlingBullet.label>stone sling bullet</StoneSlingBullet.label>
+  <StoneSlingBullet.labelShort>stone</StoneSlingBullet.labelShort>
+  <StoneSlingBullet.description>A streamlined stone designed to fly far and hit hard. Not particularly effective against armor.</StoneSlingBullet.description>
+  <SteelSlingBullet.label>steel sling bullet</SteelSlingBullet.label>
+  <SteelSlingBullet.labelShort>steel</SteelSlingBullet.labelShort>
+  <SteelSlingBullet.description>A refined sling bullet made out of steel to enhance armor penetration.</SteelSlingBullet.description>
+  <PlasteelSlingBullet.label>plasteel sling bullet</PlasteelSlingBullet.label>
+  <PlasteelSlingBullet.labelShort>plasteel</PlasteelSlingBullet.labelShort>
+  <PlasteelSlingBullet.description>A highly-refined sling bullet made out of plasteel to maximize penetration.</PlasteelSlingBullet.description>
+  <StoneCrossbowBolt.label>stone crossbow bolt</StoneCrossbowBolt.label>
+  <StoneCrossbowBolt.labelShort>stone</StoneCrossbowBolt.labelShort>
+  <StoneCrossbowBolt.description>A sharpened stone is attached to a wooden shaft. Cuts exposed tissue fairly well but isn't very effective against armor.</StoneCrossbowBolt.description>
+  <SteelCrossbowBolt.label>steel crossbow bolt</SteelCrossbowBolt.label>
+  <SteelCrossbowBolt.labelShort>steel</SteelCrossbowBolt.labelShort>
+  <SteelCrossbowBolt.description>The head of the crossbow bolt is made from steel to enhance armor penetration.</SteelCrossbowBolt.description>
+  <PlasteelCrossbowBolt.label>plasteel crossbow bolt</PlasteelCrossbowBolt.label>
+  <PlasteelCrossbowBolt.labelShort>plasteel</PlasteelCrossbowBolt.labelShort>
+  <PlasteelCrossbowBolt.description>The head of the crossbow bolt is made from plasteel to maximize armor penetration.</PlasteelCrossbowBolt.description>
+  <VenomArrow.label>venom arrow</VenomArrow.label>
+  <VenomArrow.labelShort>venom</VenomArrow.labelShort>
+  <VenomArrow.description>The arrow head is made from steel and coated in toxin.</VenomArrow.description>
+  <FlameArrow.label>flame arrow</FlameArrow.label>
+  <FlameArrow.labelShort>flame</FlameArrow.labelShort>
+  <FlameArrow.description>Steel open cage arrowhead containing incendiary components for setting targets alight.</FlameArrow.description>
+  <RocketHEAT.label>high-explosive anti-tank</RocketHEAT.label>
+  <RocketHEAT.labelShort>HEAT</RocketHEAT.labelShort>
+  <RocketHEAT.description>Shaped charge warhead. Detonates on impact, creating a super-heated stream of molten metal that punches through enemy armor.</RocketHEAT.description>
+  <RocketThermobaric.label>thermobaric</RocketThermobaric.label>
+  <RocketThermobaric.description>Disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects.</RocketThermobaric.description>
+  <RocketFrag.label>fragmentation</RocketFrag.label>
+  <RocketFrag.labelShort>Frag</RocketFrag.labelShort>
+  <RocketFrag.description>Designed to explode into a cloud of deadly shrapnel, shredding soft targets in a large area.</RocketFrag.description>
+  <RocketHE.label>High Explosive</RocketHE.label>
+  <RocketHE.labelShort>HE</RocketHE.labelShort>
+  <RocketHE.description>Designed to explode, damaging targets in a large area.</RocketHE.description>
+  <BuckShot.label>buckshot</BuckShot.label>
+  <BuckShot.labelShort>buck</BuckShot.labelShort>
+  <BuckShot.description>Filled with several buckshot pellets which spread in a tight pattern.</BuckShot.description>
+  <BirdShot.label>birdshot</BirdShot.label>
+  <BirdShot.labelShort>bird</BirdShot.labelShort>
+  <BirdShot.description>Filled with a large number of very small birdshot pellets which spread over a large area.</BirdShot.description>
+  <Slug.label>slug</Slug.label>
+  <Slug.description>The single large projectile offers better damage potential and armor penetration compared to regular shot but is inaccurate over large distances.</Slug.description>
+  <Beanbag.label>beanbag</Beanbag.label>
+  <Beanbag.labelShort>bean</Beanbag.labelShort>
+  <Beanbag.description>Non-lethal rubber round originally designed for riot control. Accurate over short ranges only. Designed to temporarily incapacitate a target, it does not cause bleeding or damage to internal organs.</Beanbag.description>
+  <ElectroSlug.label>EMP</ElectroSlug.label>
+  <ElectroSlug.description>Designed to combat mechanoids, the projectile is accurate over short range only and delivers an electro-magnetic pulse on impact, temporarily disabling electronics.</ElectroSlug.description>
+</LanguageData>

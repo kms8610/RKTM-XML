@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WornBulk.label>worn bulk</WornBulk.label>
+  <WornBulk.description>How bulky this apparel is to wear.</WornBulk.description>
+  <ArmorRating_Electric.label>Armor - Electric </ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>The chance to affect electricity-related damage like EMP pulses and burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor forms a percentage reduction of damage.</ArmorRating_Electric.description>
+  <ElectricDamageMultiplier.label>electric damage</ElectricDamageMultiplier.label>
+  <ElectricDamageMultiplier.description>A multiplier on damage from electric-type attacks for weapons made of this material.</ElectricDamageMultiplier.description>
+  <Bulk.label>bulk</Bulk.label>
+  <Bulk.description>The amount of inventory space an item takes up when carried in bag or pocket.</Bulk.description>
+  <AmmoCaliber.label>caliber</AmmoCaliber.label>
+  <AmmoCaliber.description>The guns which accept this type of ammo.</AmmoCaliber.description>
+  <AimingAccuracy.label>aiming accuracy</AimingAccuracy.label>
+  <AimingAccuracy.description>How well a shooter can lead moving targets and estimate range in combination with the weapon's aiming efficiency.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.\n\nAiming accuracy influences the the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%.</AimingAccuracy.description>
+  <ReloadSpeed.label>reload speed</ReloadSpeed.label>
+  <ReloadSpeed.description>The speed at which firearms are reloaded.</ReloadSpeed.description>
+  <Suppressability.label>suppressability</Suppressability.label>
+  <Suppressability.description>How susceptible this person is to suppression. Loss of consciousness and certain drugs can lower this value, making it harder to suppress this person.</Suppressability.description>
+  <AverageSharpArmor.label>armor coverage</AverageSharpArmor.label>
+  <AverageSharpArmor.description>The average value of armor coverage across this person's body. Higher values will make them more confident against low-penetration projectiles.</AverageSharpArmor.description>
+  <AverageSharpArmor.formatString>{0} mm RHA</AverageSharpArmor.formatString>
+  <MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.description>Armor penetration in melee. Determines how much damage is lost to enemy armor.</MeleeArmorPenetration.description>
+  <MeleeCritChance.label>melee critical chance</MeleeCritChance.label>
+  <MeleeCritChance.description>Base chance to critically hit a target in melee.\n\nThe final chance depends on the opponent's critical skill and equal opponents will always have a 10% chance to crit.</MeleeCritChance.description>
+  <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
+  <MeleeParryChance.label>melee parry chance</MeleeParryChance.label>
+  <MeleeParryChance.description>Base chance to parry a melee attack. When a parry is performed the equipped weapon or shield will take damage instead of the wielder. If the parrying pawn passes a critical chance check they will automatically riposte their attacker.\n\nThe final chance depends on the opponent's parry skill and equal opponents will always have a 20% chance to parry.</MeleeParryChance.description>
+  <UnarmedDamage.label>unarmed damage bonus</UnarmedDamage.label>
+  <UnarmedDamage.description>Additional damage done in unarmed combat.</UnarmedDamage.description>
+  <BodyPartSharpArmor.description>Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs.</BodyPartSharpArmor.description>
+  <BodyPartSharpArmor.label>body part RHA</BodyPartSharpArmor.label>
+  <BodyPartSharpArmor.formatString>{0} mm RHA</BodyPartSharpArmor.formatString>
+  <BodyPartBluntArmor.description>Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs.</BodyPartBluntArmor.description>
+  <BodyPartBluntArmor.label>body part MPa</BodyPartBluntArmor.label>
+  <BodyPartBluntArmor.formatString>{0} MPa</BodyPartBluntArmor.formatString>
+  <SmokeSensitivity.label>smoke sensitivity</SmokeSensitivity.label>
+  <SmokeSensitivity.description>Multiplier on the impact of smoke inhalation on this creature.</SmokeSensitivity.description>
+  <CarryWeight.label>carry weight</CarryWeight.label>
+  <CarryWeight.description>The amount of weight this creature can carry in pockets, bags or otherwise attached to its body.</CarryWeight.description>
+  <CarryWeight.formatString>{0} kg</CarryWeight.formatString>
+  <CarryBulk.label>bulk capacity</CarryBulk.label>
+  <CarryBulk.description>The volume of items this creature can carry in pockets, bags or otherwise attached to its body.</CarryBulk.description>
+  <StuffPower_Armor_Electric.label>Armor - Electric</StuffPower_Armor_Electric.label>
+  <StuffPower_Armor_Electric.description>Armor against electric damage like EMPs.</StuffPower_Armor_Electric.description>
+  <MeleeDamage.label>melee damage</MeleeDamage.label>
+  <MeleeDamage.description>Damage ranges for each of this weapon's tools.</MeleeDamage.description>
+  <MeleePenetrationFactor.label>melee armor penetration factor</MeleePenetrationFactor.label>
+  <MeleePenetrationFactor.description>Capability to penetrate armor on a melee strike. This multiplier is applied to all melee attacks made with this weapon.\n\nThe base value is determined by the tool used.</MeleePenetrationFactor.description>
+  <MeleeCounterParryBonus.label>melee counter parry bonus</MeleeCounterParryBonus.label>
+  <MeleeCounterParryBonus.description>When attacking an opponent with this weapon, the opponent's parry chance is divided by this value.\n\nThis is applied prior to determining the final parry chance.</MeleeCounterParryBonus.description>
+  <SightsEfficiency.label>sights efficiency</SightsEfficiency.label>
+  <SightsEfficiency.description>How good the sights on this weapon are. Quality sights reduce range errors and improve target leading. This is multiplied against the aiming accuracy of the shooter to calculate the amount of range and lead error.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.</SightsEfficiency.description>
+  <ShotSpread.label>spread</ShotSpread.label>
+  <ShotSpread.description>Inherent projectile spread. This represents the inherent inaccuracy of the gun and causes random conical deviation that is not influenced by skill.</ShotSpread.description>
+  <ShotSpread.formatString>{0}°</ShotSpread.formatString>
+  <SwayFactor.label>weapon sway</SwayFactor.label>
+  <SwayFactor.description>How difficult the gun is to keep steady. \n\nThe total sway is calculated as:\n(4.5 - shooting accuracy) * weapon sway factor\n\nAiming accuracy influences the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%.</SwayFactor.description>
+  <Caliber.label>caliber</Caliber.label>
+  <Caliber.description>The types of ammo this gun accepts.</Caliber.description>
+  <MagazineCapacity.label>magazine capacity</MagazineCapacity.label>
+  <MagazineCapacity.description>How many projectiles this weapon's magazine holds and how long it takes to reload it.</MagazineCapacity.description>
+  <ammoConsumedPerShotCount.label>ammo consumed per shot</ammoConsumedPerShotCount.label>
+  <ammoConsumedPerShotCount.description>How many units of ammunition this gun consumes for each individual shot.\n\nThis applies to guns with multiple barrels that fire simultaneously with each pull of the trigger, or exotic energy weapons that use up different amounts of energy from a power cell.</ammoConsumedPerShotCount.description>
+</LanguageData>

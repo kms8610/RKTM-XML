@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ammo_Flamethrower_Napalm.description>Fuel for use with a flamethrower.</Ammo_Flamethrower_Napalm.description>
+  <Ammo_Flamethrower_Napalm.label>jellied chemfuel</Ammo_Flamethrower_Napalm.label>
+  <Ammo_Flamethrower_Prometheum.description>Fuel for use with a flamethrower.</Ammo_Flamethrower_Prometheum.description>
+  <Ammo_Flamethrower_Prometheum.label>jellied prometheum</Ammo_Flamethrower_Prometheum.label>
+  <Bullet_Flamethrower_Napalm.label>jellied chemfuel stream</Bullet_Flamethrower_Napalm.label>
+  <Bullet_Flamethrower_Prometheum.label>jellied prometheum stream</Bullet_Flamethrower_Prometheum.label>
+  <Fragment_Large.label>large fragments</Fragment_Large.label>
+  <Fragment_Small.label>small fragments</Fragment_Small.label>
+  <Fragment_Shell.label>shell fragments</Fragment_Shell.label>
+  <Fragment_GrenadeFrag.label>grenade fragments</Fragment_GrenadeFrag.label>
+  <Fragment_RocketFrag.label>rocket fragments</Fragment_RocketFrag.label>
+  <Ammo_12GaugeCharged.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_12GaugeCharged.description>
+  <Ammo_12GaugeCharged.label>12 gauge charged shell</Ammo_12GaugeCharged.label>
+  <Ammo_12GaugeCharged_Slug.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_12GaugeCharged_Slug.description>
+  <Ammo_12GaugeCharged_Slug.label>12 gauge charged shell (Slug)</Ammo_12GaugeCharged_Slug.label>
+  <Ammo_12GaugeCharged_Ion.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_12GaugeCharged_Ion.description>
+  <Ammo_12GaugeCharged_Ion.label>12 gauge charged shell (Ion slug)</Ammo_12GaugeCharged_Ion.label>
+  <Bullet_12GaugeCharged.label>charge shot pellet</Bullet_12GaugeCharged.label>
+  <Bullet_12GaugeCharged_Slug.label>charge shot (Slug)</Bullet_12GaugeCharged_Slug.label>
+  <Bullet_12GaugeCharged_Ion.label>charge shot (Ion slug)</Bullet_12GaugeCharged_Ion.label>
+  <Ammo_12mmRailgun_Sabot.label>12mm Railgun cartridge (Sabot)</Ammo_12mmRailgun_Sabot.label>
+  <Ammo_12mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for large-caliber railgun weapons.</Ammo_12mmRailgun_Sabot.description>
+  <Bullet_12mmRailgun_Sabot.label>12mm Railgun bullet (Sabot)</Bullet_12mmRailgun_Sabot.label>
+  <Ammo_12x64mmCharged.description>Mechanoid-built high-caliber charged shot ammo used in heavy weapons.</Ammo_12x64mmCharged.description>
+  <Ammo_12x64mmCharged.label>12x64mm Charged cartridge</Ammo_12x64mmCharged.label>
+  <Bullet_12x64mmCharged.label>12x64mm Charged bullet</Bullet_12x64mmCharged.label>
+  <Ammo_15x65mmDiffusingCharged_Buck.description>Mechanoid-built cartridge designed to split upon firing.</Ammo_15x65mmDiffusingCharged_Buck.description>
+  <Ammo_15x65mmDiffusingCharged_Buck.label>15x65mm Diffusing Charged cartridge</Ammo_15x65mmDiffusingCharged_Buck.label>
+  <Bullet_15x65mmDiffusingCharged_Buck.label>diffusing charged shot</Bullet_15x65mmDiffusingCharged_Buck.label>
+  <Ammo_30x64mmFuel_Incendiary.description>Container holding fuel for incendiary shot firearms.</Ammo_30x64mmFuel_Incendiary.description>
+  <Ammo_30x64mmFuel_Incendiary.label>30x64mm fuel cell (Incendiary)</Ammo_30x64mmFuel_Incendiary.label>
+  <Ammo_30x64mmFuel_Thermobaric.description>Container holding fuel for incendiary shot firearms.</Ammo_30x64mmFuel_Thermobaric.description>
+  <Ammo_30x64mmFuel_Thermobaric.label>30x64mm fuel cell (Thermobaric)</Ammo_30x64mmFuel_Thermobaric.label>
+  <Ammo_30x64mmFuel_Foam.description>Container holding fuel for incendiary shot firearms.</Ammo_30x64mmFuel_Foam.description>
+  <Ammo_30x64mmFuel_Foam.label>30x64mm fuel cell (Foam)</Ammo_30x64mmFuel_Foam.label>
+  <Bullet_30x64mmFuel_Incendiary.label>incendiary bolt</Bullet_30x64mmFuel_Incendiary.label>
+  <Bullet_30x64mmFuel_Thermobaric.label>thermobaric bolt</Bullet_30x64mmFuel_Thermobaric.label>
+  <Bullet_30x64mmFuel_Foam.label>foam bolt</Bullet_30x64mmFuel_Foam.label>
+  <Ammo_5x35mmCharged.description>Mechanoid-built charged shot ammo designed for high-velocity fire and armor penetration.</Ammo_5x35mmCharged.description>
+  <Ammo_5x35mmCharged.label>5x35mm Charged cartridge</Ammo_5x35mmCharged.label>
+  <Bullet_5x35mmCharged.label>5x35mm Charged bullet</Bullet_5x35mmCharged.label>
+  <Ammo_60x225mmGamma_Standard.description>Shell containing large amounts of ionising gamma radiation.</Ammo_60x225mmGamma_Standard.description>
+  <Ammo_60x225mmGamma_Standard.label>60x225mm Gamma Shell (Standard)</Ammo_60x225mmGamma_Standard.label>
+  <Bullet_60x225mmGamma_Standard.label>radiation cannon shell</Bullet_60x225mmGamma_Standard.label>
+  <Ammo_6mmRailgun_Sabot.label>6mm Railgun cartridge (Sabot)</Ammo_6mmRailgun_Sabot.label>
+  <Ammo_6mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_6mmRailgun_Sabot.description>
+  <Bullet_6mmRailgun_Sabot.label>6mm Railgun bullet (Sabot)</Bullet_6mmRailgun_Sabot.label>
+  <Ammo_6x18mmCharged.description>Charged shot ammo used by advanced SMG designs.</Ammo_6x18mmCharged.description>
+  <Ammo_6x18mmCharged.label>6x18mm Charged cartridge</Ammo_6x18mmCharged.label>
+  <Ammo_6x18mmCharged_AP.description>Charged shot ammo used by advanced SMG designs.</Ammo_6x18mmCharged_AP.description>
+  <Ammo_6x18mmCharged_AP.label>6x18mm Charged cartridge (Conc.)</Ammo_6x18mmCharged_AP.label>
+  <Ammo_6x18mmCharged_Ion.description>Charged shot ammo used by advanced SMG designs.</Ammo_6x18mmCharged_Ion.description>
+  <Ammo_6x18mmCharged_Ion.label>6x18mm Charged cartridge (Ion)</Ammo_6x18mmCharged_Ion.label>
+  <Bullet_6x18mmCharged.label>6x18mm Charged bullet</Bullet_6x18mmCharged.label>
+  <Bullet_6x18mmCharged_AP.label>6x18mm Charged bullet (Conc.)</Bullet_6x18mmCharged_AP.label>
+  <Bullet_6x18mmCharged_Ion.label>6x18mm Charged bullet (Ion)</Bullet_6x18mmCharged_Ion.label>
+  <Ammo_6x24mmCharged.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged.description>
+  <Ammo_6x24mmCharged.label>6x24mm Charged cartridge</Ammo_6x24mmCharged.label>
+  <Ammo_6x24mmCharged_AP.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged_AP.description>
+  <Ammo_6x24mmCharged_AP.label>6x24mm Charged cartridge (Conc.)</Ammo_6x24mmCharged_AP.label>
+  <Ammo_6x24mmCharged_Ion.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged_Ion.description>
+  <Ammo_6x24mmCharged_Ion.label>6x24mm Charged cartridge (Ion)</Ammo_6x24mmCharged_Ion.label>
+  <Bullet_6x24mmCharged.label>6x24mm Charged bullet</Bullet_6x24mmCharged.label>
+  <Bullet_6x24mmCharged_AP.label>6x24mm Charged bullet (Conc.)</Bullet_6x24mmCharged_AP.label>
+  <Bullet_6x24mmCharged_Ion.label>6x24mm Charged bullet (Ion)</Bullet_6x24mmCharged_Ion.label>
+  <Ammo_70mmMechanoidGrenade_HE.description>Low velocity, large bore grenade fired from mechanoid grenade launchers.</Ammo_70mmMechanoidGrenade_HE.description>
+  <Ammo_70mmMechanoidGrenade_HE.label>70mm mechanoid grenade (HE)</Ammo_70mmMechanoidGrenade_HE.label>
+  <Ammo_70mmMechanoidGrenade_EMP.description>Low velocity, large bore grenade fired from mechanoid grenade launchers.</Ammo_70mmMechanoidGrenade_EMP.description>
+  <Ammo_70mmMechanoidGrenade_EMP.label>70mm mechanoid grenade (EMP)</Ammo_70mmMechanoidGrenade_EMP.label>
+  <Bullet_70mmMechanoidGrenade_HE.label>70mm mechanoid grenade (HE)</Bullet_70mmMechanoidGrenade_HE.label>
+  <Bullet_70mmMechanoidGrenade_EMP.label>70mm mechanoid grenade (EMP)</Bullet_70mmMechanoidGrenade_EMP.label>
+  <Ammo_80x256mmFuel_Thermobaric.description>Large fuel container for incendiary shot cannons.</Ammo_80x256mmFuel_Thermobaric.description>
+  <Ammo_80x256mmFuel_Thermobaric.label>80x256mm fuel cell (Thermobaric)</Ammo_80x256mmFuel_Thermobaric.label>
+  <Bullet_80x256mmFuel_Thermobaric.label>80x256mm fuel shell (Thermobaric)</Bullet_80x256mmFuel_Thermobaric.label>
+  <Ammo_8mmRailgun_Sabot.label>8mm Railgun cartridge (Sabot)</Ammo_8mmRailgun_Sabot.label>
+  <Ammo_8mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols.</Ammo_8mmRailgun_Sabot.description>
+  <Bullet_8mmRailgun_Sabot.label>8mm Railgun bullet (Sabot)</Bullet_8mmRailgun_Sabot.label>
+  <Ammo_8x35mmCharged.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged.description>
+  <Ammo_8x35mmCharged.label>8x35mm Charged cartridge</Ammo_8x35mmCharged.label>
+  <Ammo_8x35mmCharged_AP.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged_AP.description>
+  <Ammo_8x35mmCharged_AP.label>8x35mm Charged cartridge (Conc.)</Ammo_8x35mmCharged_AP.label>
+  <Ammo_8x35mmCharged_Ion.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged_Ion.description>
+  <Ammo_8x35mmCharged_Ion.label>8x35mm Charged cartridge (Ion)</Ammo_8x35mmCharged_Ion.label>
+  <Bullet_8x35mmCharged.label>8x35mm Charged bullet</Bullet_8x35mmCharged.label>
+  <Bullet_8x35mmCharged_AP.label>8x35mm Charged bullet (Conc.)</Bullet_8x35mmCharged_AP.label>
+  <Bullet_8x35mmCharged_Ion.label>8x35mm Charged bullet (Ion)</Bullet_8x35mmCharged_Ion.label>
+  <Ammo_PlasmaCellHeavy.label>Plasma Heavy Power Cell</Ammo_PlasmaCellHeavy.label>
+  <Ammo_PlasmaCellHeavy.description>Plasma containment power cell optimized for heavy weapons</Ammo_PlasmaCellHeavy.description>
+  <Bullet_PlasmaCellHeavy.label>Plasma Bolt</Bullet_PlasmaCellHeavy.label>
+  <Ammo_PlasmaCellPistol.label>Plasma Pistol Power Cell</Ammo_PlasmaCellPistol.label>
+  <Ammo_PlasmaCellPistol.description>Plasma containment power cell optimized for pistols</Ammo_PlasmaCellPistol.description>
+  <Bullet_PlasmaCellPistol.label>Plasma Bolt</Bullet_PlasmaCellPistol.label>
+  <Ammo_PlasmaCellRifle.label>Plasma Rifle Power Cell</Ammo_PlasmaCellRifle.label>
+  <Ammo_PlasmaCellRifle.description>Plasma containment power cell optimized for rifles</Ammo_PlasmaCellRifle.description>
+  <Bullet_PlasmaCellRifle.label>Plasma Bolt</Bullet_PlasmaCellRifle.label>
+  <Ammo_20x42mmGrenade_HE.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_HE.description>
+  <Ammo_20x42mmGrenade_HE.label>20x42mm grenade (HE)</Ammo_20x42mmGrenade_HE.label>
+  <Ammo_20x42mmGrenade_EMP.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_EMP.description>
+  <Ammo_20x42mmGrenade_EMP.label>20x42mm grenade (EMP)</Ammo_20x42mmGrenade_EMP.label>
+  <Ammo_20x42mmGrenade_Smoke.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_Smoke.description>
+  <Ammo_20x42mmGrenade_Smoke.label>20x42mm grenade (Smoke)</Ammo_20x42mmGrenade_Smoke.label>
+  <Bullet_20x42mmGrenade_HE.label>20mm grenade (HE)</Bullet_20x42mmGrenade_HE.label>
+  <Bullet_20x42mmGrenade_EMP.label>20mm grenade (EMP)</Bullet_20x42mmGrenade_EMP.label>
+  <Bullet_20x42mmGrenade_Smoke.label>20mm grenade (Smoke)</Bullet_20x42mmGrenade_Smoke.label>
+  <Ammo_25x40mmGrenade_HE.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_25x40mmGrenade_HE.description>
+  <Ammo_25x40mmGrenade_HE.label>25x40mm grenade (HE)</Ammo_25x40mmGrenade_HE.label>
+  <Ammo_25x40mmGrenade_EMP.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_25x40mmGrenade_EMP.description>
+  <Ammo_25x40mmGrenade_EMP.label>25x40mm grenade (EMP)</Ammo_25x40mmGrenade_EMP.label>
+  <Ammo_25x40mmGrenade_Smoke.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_25x40mmGrenade_Smoke.description>
+  <Ammo_25x40mmGrenade_Smoke.label>25x40mm grenade (Smoke)</Ammo_25x40mmGrenade_Smoke.label>
+  <Bullet_25x40mmGrenade_HE.label>25mm grenade</Bullet_25x40mmGrenade_HE.label>
+  <Bullet_25x40mmGrenade_EMP.label>25mm grenade</Bullet_25x40mmGrenade_EMP.label>
+  <Bullet_25x40mmGrenade_Smoke.label>25mm grenade (Smoke)</Bullet_25x40mmGrenade_Smoke.label>
+  <Ammo_25x59mmGrenade_HEAT.description>Specialized high-velocity grenade developed anti-materiel purposes.</Ammo_25x59mmGrenade_HEAT.description>
+  <Ammo_25x59mmGrenade_HEAT.label>25x59mm grenade (HEAT)</Ammo_25x59mmGrenade_HEAT.label>
+  <Ammo_25x59mmGrenade_HE.description>Specialized high-velocity grenade developed anti-materiel purposes.</Ammo_25x59mmGrenade_HE.description>
+  <Ammo_25x59mmGrenade_HE.label>25x59mm grenade (HE)</Ammo_25x59mmGrenade_HE.label>
+  <Ammo_25x59mmGrenade_EMP.description>Specialized high-velocity grenade developed anti-materiel purposes.</Ammo_25x59mmGrenade_EMP.description>
+  <Ammo_25x59mmGrenade_EMP.label>25x59mm grenade (EMP)</Ammo_25x59mmGrenade_EMP.label>
+  <Ammo_25x59mmGrenade_Smoke.description>Specialized high-velocity grenade developed anti-materiel purposes.</Ammo_25x59mmGrenade_Smoke.description>
+  <Ammo_25x59mmGrenade_Smoke.label>25x59mm grenade (Smoke)</Ammo_25x59mmGrenade_Smoke.label>
+  <Bullet_25x59mmGrenade_HEAT.label>25x59mm grenade</Bullet_25x59mmGrenade_HEAT.label>
+  <Bullet_25x59mmGrenade_HE.label>25x59mm grenade</Bullet_25x59mmGrenade_HE.label>
+  <Bullet_25x59mmGrenade_EMP.label>25x59mm grenade</Bullet_25x59mmGrenade_EMP.label>
+  <Bullet_25x59mmGrenade_Smoke.label>25x59mm grenade (Smoke)</Bullet_25x59mmGrenade_Smoke.label>
+  <Ammo_30x29mmGrenade_HE.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_HE.description>
+  <Ammo_30x29mmGrenade_HE.label>30x29mm grenade (HE)</Ammo_30x29mmGrenade_HE.label>
+  <Ammo_30x29mmGrenade_EMP.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_EMP.description>
+  <Ammo_30x29mmGrenade_EMP.label>30x29mm grenade (EMP)</Ammo_30x29mmGrenade_EMP.label>
+  <Ammo_30x29mmGrenade_Smoke.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_Smoke.description>
+  <Ammo_30x29mmGrenade_Smoke.label>30x29mm grenade (Smoke)</Ammo_30x29mmGrenade_Smoke.label>
+  <Bullet_30x29mmGrenade_HE.label>30x29mm grenade (HE)</Bullet_30x29mmGrenade_HE.label>
+  <Bullet_30x29mmGrenade_EMP.label>30x29mm grenade (EMP)</Bullet_30x29mmGrenade_EMP.label>
+  <Bullet_30x29mmGrenade_Smoke.label>30x29mm grenade (Smoke)</Bullet_30x29mmGrenade_Smoke.label>
+  <Ammo_35x32mmSRGrenade_HE.description>High velocity grenade fired from handheld grenade launchers.</Ammo_35x32mmSRGrenade_HE.description>
+  <Ammo_35x32mmSRGrenade_HE.label>35x32mmSR grenade (HE)</Ammo_35x32mmSRGrenade_HE.label>
+  <Ammo_35x32mmSRGrenade_EMP.description>High velocity grenade fired from handheld grenade launchers.</Ammo_35x32mmSRGrenade_EMP.description>
+  <Ammo_35x32mmSRGrenade_EMP.label>35x32mmSR grenade (EMP)</Ammo_35x32mmSRGrenade_EMP.label>
+  <Ammo_35x32mmSRGrenade_Smoke.description>High velocity grenade fired from handheld grenade launchers.</Ammo_35x32mmSRGrenade_Smoke.description>
+  <Ammo_35x32mmSRGrenade_Smoke.label>35x32mmSR grenade (Smoke)</Ammo_35x32mmSRGrenade_Smoke.label>
+  <Bullet_35x32mmSRGrenade_HE.label>35x32mmSR grenade (HE)</Bullet_35x32mmSRGrenade_HE.label>
+  <Bullet_35x32mmSRGrenade_EMP.label>35x32mmSR grenade (EMP)</Bullet_35x32mmSRGrenade_EMP.label>
+  <Bullet_35x32mmSRGrenade_Smoke.label>35x32mmSR grenade (Smoke)</Bullet_35x32mmSRGrenade_Smoke.label>
+  <Ammo_40x46mmGrenade_HE.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_HE.description>
+  <Ammo_40x46mmGrenade_HE.label>40x46mm grenade (HE)</Ammo_40x46mmGrenade_HE.label>
+  <Ammo_40x46mmGrenade_EMP.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_EMP.description>
+  <Ammo_40x46mmGrenade_EMP.label>40x46mm grenade (EMP)</Ammo_40x46mmGrenade_EMP.label>
+  <Ammo_40x46mmGrenade_Smoke.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Smoke.description>
+  <Ammo_40x46mmGrenade_Smoke.label>40x46mm grenade (Smoke)</Ammo_40x46mmGrenade_Smoke.label>
+  <Bullet_40x46mmGrenade_HE.label>40x46mm grenade (HE)</Bullet_40x46mmGrenade_HE.label>
+  <Bullet_40x46mmGrenade_EMP.label>40x46mm grenade (EMP)</Bullet_40x46mmGrenade_EMP.label>
+  <Bullet_40x46mmGrenade_Smoke.label>40x46mm grenade (Smoke)</Bullet_40x46mmGrenade_Smoke.label>
+  <Ammo_40x47mmGrenade_HE.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x47mmGrenade_HE.description>
+  <Ammo_40x47mmGrenade_HE.label>40x47mm grenade (HE)</Ammo_40x47mmGrenade_HE.label>
+  <Ammo_40x47mmGrenade_EMP.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x47mmGrenade_EMP.description>
+  <Ammo_40x47mmGrenade_EMP.label>40x47mm grenade (EMP)</Ammo_40x47mmGrenade_EMP.label>
+  <Ammo_40x47mmGrenade_Smoke.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x47mmGrenade_Smoke.description>
+  <Ammo_40x47mmGrenade_Smoke.label>40x47mm grenade (Smoke)</Ammo_40x47mmGrenade_Smoke.label>
+  <Bullet_40x47mmGrenade_HE.label>40x47mm grenade (HE)</Bullet_40x47mmGrenade_HE.label>
+  <Bullet_40x47mmGrenade_EMP.label>40x47mm grenade (EMP)</Bullet_40x47mmGrenade_EMP.label>
+  <Bullet_40x47mmGrenade_Smoke.label>40x47mm grenade (Smoke)</Bullet_40x47mmGrenade_Smoke.label>
+  <Ammo_40x53mmGrenade_HE.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_HE.description>
+  <Ammo_40x53mmGrenade_HE.label>40x53mm grenade (HE)</Ammo_40x53mmGrenade_HE.label>
+  <Ammo_40x53mmGrenade_EMP.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_EMP.description>
+  <Ammo_40x53mmGrenade_EMP.label>40x53mm grenade (EMP)</Ammo_40x53mmGrenade_EMP.label>
+  <Ammo_40x53mmGrenade_Smoke.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_Smoke.description>
+  <Ammo_40x53mmGrenade_Smoke.label>40x53mm grenade (Smoke)</Ammo_40x53mmGrenade_Smoke.label>
+  <Bullet_40x53mmGrenade_HE.label>40x53mm grenade (HE)</Bullet_40x53mmGrenade_HE.label>
+  <Bullet_40x53mmGrenade_EMP.label>40x53mm grenade (EMP)</Bullet_40x53mmGrenade_EMP.label>
+  <Bullet_40x53mmGrenade_Smoke.label>40x53mm grenade (Smoke)</Bullet_40x53mmGrenade_Smoke.label>
+  <Ammo_40x53mmVOG25Grenade_HE.description>Low velocity caseless grenade fired from handheld grenade launchers.</Ammo_40x53mmVOG25Grenade_HE.description>
+  <Ammo_40x53mmVOG25Grenade_HE.label>40x53mm VOG-25 grenade (HE)</Ammo_40x53mmVOG25Grenade_HE.label>
+  <Ammo_40x53mmVOG25Grenade_EMP.description>Low velocity caseless grenade fired from handheld grenade launchers.</Ammo_40x53mmVOG25Grenade_EMP.description>
+  <Ammo_40x53mmVOG25Grenade_EMP.label>40x53mm VOG-25 grenade (EMP)</Ammo_40x53mmVOG25Grenade_EMP.label>
+  <Ammo_40x53mmVOG25Grenade_Smoke.description>Low velocity caseless grenade fired from handheld grenade launchers.</Ammo_40x53mmVOG25Grenade_Smoke.description>
+  <Ammo_40x53mmVOG25Grenade_Smoke.label>40x53mmVOG25 grenade (Smoke)</Ammo_40x53mmVOG25Grenade_Smoke.label>
+  <Bullet_40x53mmVOG25Grenade_HE.label>40x53mm VOG-25 grenade (HE)</Bullet_40x53mmVOG25Grenade_HE.label>
+  <Bullet_40x53mmVOG25Grenade_EMP.label>40x53mm VOG-25 grenade (EMP)</Bullet_40x53mmVOG25Grenade_EMP.label>
+  <Bullet_40x53mmVOG25Grenade_Smoke.label>40x53mmVOG25 grenade (Smoke)</Bullet_40x53mmVOG25Grenade_Smoke.label>
+  <Ammo_50mmGS50Grenade_HE.description>Specialized high-velocity grenades with polymer casing and stabilizing fins.</Ammo_50mmGS50Grenade_HE.description>
+  <Ammo_50mmGS50Grenade_HE.label>50mm GO-SO grenade (HE)</Ammo_50mmGS50Grenade_HE.label>
+  <Ammo_50mmGS50Grenade_EMP.description>Specialized high-velocity grenades with polymer casing and stabilizing fins.</Ammo_50mmGS50Grenade_EMP.description>
+  <Ammo_50mmGS50Grenade_EMP.label>50mm EM-50 grenade (EMP)</Ammo_50mmGS50Grenade_EMP.label>
+  <Ammo_50mmGS50Grenade_Smoke.description>Specialized high-velocity grenades with polymer casing and stabilizing fins.</Ammo_50mmGS50Grenade_Smoke.description>
+  <Ammo_50mmGS50Grenade_Smoke.label>50mmGS50 grenade (Smoke)</Ammo_50mmGS50Grenade_Smoke.label>
+  <Bullet_50mmGS50Grenade_HE.label>50mm grenade</Bullet_50mmGS50Grenade_HE.label>
+  <Bullet_50mmGS50Grenade_EMP.label>50mm grenade</Bullet_50mmGS50Grenade_EMP.label>
+  <Bullet_50mmGS50Grenade_Smoke.label>50mmGS50 grenade (Smoke)</Bullet_50mmGS50Grenade_Smoke.label>
+  <Ammo_83mmPIATGrenade_HEAT.description>Large spigot grenade designed to be fired at tanks.</Ammo_83mmPIATGrenade_HEAT.description>
+  <Ammo_83mmPIATGrenade_HEAT.label>83mm PIAT grenade (HEAT)</Ammo_83mmPIATGrenade_HEAT.label>
+  <Ammo_83mmPIATGrenade_HE.description>Large spigot grenade designed to be fired at tanks.</Ammo_83mmPIATGrenade_HE.description>
+  <Ammo_83mmPIATGrenade_HE.label>83mm PIAT grenade (HE)</Ammo_83mmPIATGrenade_HE.label>
+  <Ammo_83mmPIATGrenade_EMP.description>Large spigot grenade designed to be fired at tanks.</Ammo_83mmPIATGrenade_EMP.description>
+  <Ammo_83mmPIATGrenade_EMP.label>83mm PIAT grenade (EMP)</Ammo_83mmPIATGrenade_EMP.label>
+  <Bullet_83mmPIATGrenade_HEAT.label>83mm PIAT grenade (HEAT)</Bullet_83mmPIATGrenade_HEAT.label>
+  <Bullet_83mmPIATGrenade_HE.label>83mm PIAT grenade (HE)</Bullet_83mmPIATGrenade_HE.label>
+  <Bullet_83mmPIATGrenade_EMP.label>83mm PIAT grenade (EMP)</Bullet_83mmPIATGrenade_EMP.label>
+  <Ammo_127x108mm_FMJ.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_127x108mm_FMJ.description>
+  <Ammo_127x108mm_FMJ.label>12.7x108mm cartridge (FMJ)</Ammo_127x108mm_FMJ.label>
+  <Ammo_127x108mm_Incendiary.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_127x108mm_Incendiary.description>
+  <Ammo_127x108mm_Incendiary.label>12.7x108mm cartridge (AP-I)</Ammo_127x108mm_Incendiary.label>
+  <Ammo_127x108mm_HE.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_127x108mm_HE.description>
+  <Ammo_127x108mm_HE.label>12.7x108mm cartridge (HE)</Ammo_127x108mm_HE.label>
+  <Ammo_127x108mm_Sabot.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_127x108mm_Sabot.description>
+  <Ammo_127x108mm_Sabot.label>12.7x108mm cartridge (Sabot)</Ammo_127x108mm_Sabot.label>
+  <Bullet_127x108mm_FMJ.label>12.7x108mm bullet (FMJ)</Bullet_127x108mm_FMJ.label>
+  <Bullet_127x108mm_Incendiary.label>12.7x108mm bullet (AP-I)</Bullet_127x108mm_Incendiary.label>
+  <Bullet_127x108mm_HE.label>12.7x108mm bullet (HE)</Bullet_127x108mm_HE.label>
+  <Bullet_127x108mm_Sabot.label>12.7x108mm bullet (Sabot)</Bullet_127x108mm_Sabot.label>
+  <Ammo_132x92mmSRTuF_FMJ.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_FMJ.description>
+  <Ammo_132x92mmSRTuF_FMJ.label>13.2x92mmSR TuF cartridge (FMJ)</Ammo_132x92mmSRTuF_FMJ.label>
+  <Ammo_132x92mmSRTuF_Incendiary.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_Incendiary.description>
+  <Ammo_132x92mmSRTuF_Incendiary.label>13.2x92mmSR TuF cartridge (AP-I)</Ammo_132x92mmSRTuF_Incendiary.label>
+  <Ammo_132x92mmSRTuF_HE.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_HE.description>
+  <Ammo_132x92mmSRTuF_HE.label>13.2x92mmSR TuF cartridge (HE)</Ammo_132x92mmSRTuF_HE.label>
+  <Ammo_132x92mmSRTuF_Sabot.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_Sabot.description>
+  <Ammo_132x92mmSRTuF_Sabot.label>13.2x92mmSR TuF cartridge (Sabot)</Ammo_132x92mmSRTuF_Sabot.label>
+  <Bullet_132x92mmSRTuF_FMJ.label>13.2mm TuF bullet (FMJ)</Bullet_132x92mmSRTuF_FMJ.label>
+  <Bullet_132x92mmSRTuF_Incendiary.label>13.2x92mmSR TuF bullet (AP-I)</Bullet_132x92mmSRTuF_Incendiary.label>
+  <Bullet_132x92mmSRTuF_HE.label>13.2x92mmSR TuF bullet (HE)</Bullet_132x92mmSRTuF_HE.label>
+  <Bullet_132x92mmSRTuF_Sabot.label>13.2x92mmSR TuF bullet (Sabot)</Bullet_132x92mmSRTuF_Sabot.label>
+  <Ammo_145x114mm_FMJ.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_FMJ.description>
+  <Ammo_145x114mm_FMJ.label>14.5x114mm cartridge (FMJ)</Ammo_145x114mm_FMJ.label>
+  <Ammo_145x114mm_Incendiary.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_Incendiary.description>
+  <Ammo_145x114mm_Incendiary.label>14.5x114mm cartridge (AP-I)</Ammo_145x114mm_Incendiary.label>
+  <Ammo_145x114mm_HE.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_HE.description>
+  <Ammo_145x114mm_HE.label>14.5x114mm cartridge (HE)</Ammo_145x114mm_HE.label>
+  <Ammo_145x114mm_Sabot.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_Sabot.description>
+  <Ammo_145x114mm_Sabot.label>14.5x114mm cartridge (Sabot)</Ammo_145x114mm_Sabot.label>
+  <Bullet_145x114mm_FMJ.label>14.5x114mm bullet (FMJ)</Bullet_145x114mm_FMJ.label>
+  <Bullet_145x114mm_Incendiary.label>14.5x114mm bullet (AP-I)</Bullet_145x114mm_Incendiary.label>
+  <Bullet_145x114mm_HE.label>14.5x114mm bullet (HE)</Bullet_145x114mm_HE.label>
+  <Bullet_145x114mm_Sabot.label>14.5x114mm bullet (Sabot)</Bullet_145x114mm_Sabot.label>
+  <Ammo_152x169mm_FMJ.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_FMJ.description>
+  <Ammo_152x169mm_FMJ.label>15.2x169mm cartridge (FMJ)</Ammo_152x169mm_FMJ.label>
+  <Ammo_152x169mm_Incendiary.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_Incendiary.description>
+  <Ammo_152x169mm_Incendiary.label>15.2x169mm cartridge (AP-I)</Ammo_152x169mm_Incendiary.label>
+  <Ammo_152x169mm_HE.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_HE.description>
+  <Ammo_152x169mm_HE.label>15.2x169mm cartridge (HE)</Ammo_152x169mm_HE.label>
+  <Ammo_152x169mm_Sabot.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_Sabot.description>
+  <Ammo_152x169mm_Sabot.label>15.2x169mm cartridge (Sabot)</Ammo_152x169mm_Sabot.label>
+  <Bullet_152x169mm_FMJ.label>15.2x169mm bullet (FMJ)</Bullet_152x169mm_FMJ.label>
+  <Bullet_152x169mm_Incendiary.label>15.2x169mm bullet (AP-I)</Bullet_152x169mm_Incendiary.label>
+  <Bullet_152x169mm_HE.label>15.2x169mm bullet (HE)</Bullet_152x169mm_HE.label>
+  <Bullet_152x169mm_Sabot.label>15.2x169mm bullet (Sabot)</Bullet_152x169mm_Sabot.label>
+  <Ammo_2Bore_FMJ.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_FMJ.description>
+  <Ammo_2Bore_FMJ.label>2-Bore cartridge (FMJ)</Ammo_2Bore_FMJ.label>
+  <Ammo_2Bore_Incendiary.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_Incendiary.description>
+  <Ammo_2Bore_Incendiary.label>2-Bore cartridge (AP-I)</Ammo_2Bore_Incendiary.label>
+  <Ammo_2Bore_HE.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_HE.description>
+  <Ammo_2Bore_HE.label>2-Bore cartridge (HE)</Ammo_2Bore_HE.label>
+  <Ammo_2Bore_Sabot.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_Sabot.description>
+  <Ammo_2Bore_Sabot.label>2-Bore cartridge (Sabot)</Ammo_2Bore_Sabot.label>
+  <Bullet_2Bore_FMJ.label>2-Bore bullet (FMJ)</Bullet_2Bore_FMJ.label>
+  <Bullet_2Bore_Incendiary.label>2-Bore bullet (AP-I)</Bullet_2Bore_Incendiary.label>
+  <Bullet_2Bore_HE.label>2-Bore bullet (HE)</Bullet_2Bore_HE.label>
+  <Bullet_2Bore_Sabot.label>2-Bore bullet (Sabot)</Bullet_2Bore_Sabot.label>
+  <Ammo_20x102mmNATO_FMJ.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_FMJ.description>
+  <Ammo_20x102mmNATO_FMJ.label>20x102mm NATO cartridge (FMJ)</Ammo_20x102mmNATO_FMJ.label>
+  <Ammo_20x102mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_Incendiary.description>
+  <Ammo_20x102mmNATO_Incendiary.label>20x102mm NATO cartridge (AP-I)</Ammo_20x102mmNATO_Incendiary.label>
+  <Ammo_20x102mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_HE.description>
+  <Ammo_20x102mmNATO_HE.label>20x102mm NATO cartridge (HE)</Ammo_20x102mmNATO_HE.label>
+  <Ammo_20x102mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_Sabot.description>
+  <Ammo_20x102mmNATO_Sabot.label>20x102mm NATO cartridge (Sabot)</Ammo_20x102mmNATO_Sabot.label>
+  <Bullet_20x102mmNATO_FMJ.label>20x102mm NATO bullet (FMJ)</Bullet_20x102mmNATO_FMJ.label>
+  <Bullet_20x102mmNATO_Incendiary.label>20x102mm NATO bullet (AP-I)</Bullet_20x102mmNATO_Incendiary.label>
+  <Bullet_20x102mmNATO_HE.label>20x102mm NATO bullet (HE)</Bullet_20x102mmNATO_HE.label>
+  <Bullet_20x102mmNATO_Sabot.label>20x102mm NATO bullet (Sabot)</Bullet_20x102mmNATO_Sabot.label>
+  <Ammo_20x110mmHispano_FMJ.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x110mmHispano_FMJ.description>
+  <Ammo_20x110mmHispano_FMJ.label>20x110mm Hispano cartridge (FMJ)</Ammo_20x110mmHispano_FMJ.label>
+  <Ammo_20x110mmHispano_Incendiary.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x110mmHispano_Incendiary.description>
+  <Ammo_20x110mmHispano_Incendiary.label>20x110mm Hispano cartridge (AP-I)</Ammo_20x110mmHispano_Incendiary.label>
+  <Ammo_20x110mmHispano_HE.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x110mmHispano_HE.description>
+  <Ammo_20x110mmHispano_HE.label>20x110mm Hispano cartridge (HE)</Ammo_20x110mmHispano_HE.label>
+  <Ammo_20x110mmHispano_Sabot.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x110mmHispano_Sabot.description>
+  <Ammo_20x110mmHispano_Sabot.label>20x110mm Hispano cartridge (Sabot)</Ammo_20x110mmHispano_Sabot.label>
+  <Bullet_20x110mmHispano_FMJ.label>20mm Hispano bullet (FMJ)</Bullet_20x110mmHispano_FMJ.label>
+  <Bullet_20x110mmHispano_Incendiary.label>20mm Hispano bullet (AP-I)</Bullet_20x110mmHispano_Incendiary.label>
+  <Bullet_20x110mmHispano_HE.label>20mm Hispano bullet (HE)</Bullet_20x110mmHispano_HE.label>
+  <Bullet_20x110mmHispano_Sabot.label>14.5x114mm bullet (Sabot)</Bullet_20x110mmHispano_Sabot.label>
+  <Ammo_20x128mmOerlikon_FMJ.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x128mmOerlikon_FMJ.description>
+  <Ammo_20x128mmOerlikon_FMJ.label>20x128mm Oerlikon cartridge (FMJ)</Ammo_20x128mmOerlikon_FMJ.label>
+  <Ammo_20x128mmOerlikon_Incendiary.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x128mmOerlikon_Incendiary.description>
+  <Ammo_20x128mmOerlikon_Incendiary.label>20x128mm Oerlikon cartridge (AP-I)</Ammo_20x128mmOerlikon_Incendiary.label>
+  <Ammo_20x128mmOerlikon_HE.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x128mmOerlikon_HE.description>
+  <Ammo_20x128mmOerlikon_HE.label>20x128mm Oerlikon cartridge (HE)</Ammo_20x128mmOerlikon_HE.label>
+  <Ammo_20x128mmOerlikon_Sabot.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x128mmOerlikon_Sabot.description>
+  <Ammo_20x128mmOerlikon_Sabot.label>20x128mm Oerlikon cartridge (Sabot)</Ammo_20x128mmOerlikon_Sabot.label>
+  <Bullet_20x128mmOerlikon_FMJ.label>20x128mm Oerlikon bullet (FMJ)</Bullet_20x128mmOerlikon_FMJ.label>
+  <Bullet_20x128mmOerlikon_Incendiary.label>20mm Oerlikon bullet (AP-I)</Bullet_20x128mmOerlikon_Incendiary.label>
+  <Bullet_20x128mmOerlikon_HE.label>20mm Oerlikon bullet (HE)</Bullet_20x128mmOerlikon_HE.label>
+  <Bullet_20x128mmOerlikon_Sabot.label>20x128mm Oerlikon bullet (Sabot)</Bullet_20x128mmOerlikon_Sabot.label>
+  <Ammo_20x138mmB_FMJ.description>A medium caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x138mmB_FMJ.description>
+  <Ammo_20x138mmB_FMJ.label>20x138mmB cartridge (FMJ)</Ammo_20x138mmB_FMJ.label>
+  <Ammo_20x138mmB_Incendiary.description>A medium caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x138mmB_Incendiary.description>
+  <Ammo_20x138mmB_Incendiary.label>20x138mmB cartridge (AP-I)</Ammo_20x138mmB_Incendiary.label>
+  <Ammo_20x138mmB_HE.description>A medium caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x138mmB_HE.description>
+  <Ammo_20x138mmB_HE.label>20x138mmB cartridge (HE)</Ammo_20x138mmB_HE.label>
+  <Ammo_20x138mmB_Sabot.description>A medium caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x138mmB_Sabot.description>
+  <Ammo_20x138mmB_Sabot.label>20x138mmB cartridge (Sabot)</Ammo_20x138mmB_Sabot.label>
+  <Bullet_20x138mmB_FMJ.label>20x138mmB bullet (FMJ)</Bullet_20x138mmB_FMJ.label>
+  <Bullet_20x138mmB_Incendiary.label>20x138mmB bullet (AP-I)</Bullet_20x138mmB_Incendiary.label>
+  <Bullet_20x138mmB_HE.label>20x138mmB bullet (HE)</Bullet_20x138mmB_HE.label>
+  <Bullet_20x138mmB_Sabot.label>20x138mmB bullet (Sabot)</Bullet_20x138mmB_Sabot.label>
+  <Ammo_20x82mmMauser_FMJ.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x82mmMauser_FMJ.description>
+  <Ammo_20x82mmMauser_FMJ.label>20x82mm Mauser cartridge (FMJ)</Ammo_20x82mmMauser_FMJ.label>
+  <Ammo_20x82mmMauser_Incendiary.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x82mmMauser_Incendiary.description>
+  <Ammo_20x82mmMauser_Incendiary.label>20x82mm Mauser cartridge (AP-I)</Ammo_20x82mmMauser_Incendiary.label>
+  <Ammo_20x82mmMauser_HE.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x82mmMauser_HE.description>
+  <Ammo_20x82mmMauser_HE.label>20x82mm Mauser cartridge (HE)</Ammo_20x82mmMauser_HE.label>
+  <Ammo_20x82mmMauser_Sabot.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x82mmMauser_Sabot.description>
+  <Ammo_20x82mmMauser_Sabot.label>20x82mm Mauser cartridge (Sabot)</Ammo_20x82mmMauser_Sabot.label>
+  <Bullet_20x82mmMauser_FMJ.label>20mm Mauser bullet (FMJ)</Bullet_20x82mmMauser_FMJ.label>
+  <Bullet_20x82mmMauser_Incendiary.label>20mm Mauser bullet (AP-I)</Bullet_20x82mmMauser_Incendiary.label>
+  <Bullet_20x82mmMauser_HE.label>20mm Mauser bullet (HE)</Bullet_20x82mmMauser_HE.label>
+  <Bullet_20x82mmMauser_Sabot.label>20mm Mauser bullet (Sabot)</Bullet_20x82mmMauser_Sabot.label>
+  <Ammo_20x99mmRShVAK_FMJ.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x99mmRShVAK_FMJ.description>
+  <Ammo_20x99mmRShVAK_FMJ.label>20x99mmR ShVAK cartridge (FMJ)</Ammo_20x99mmRShVAK_FMJ.label>
+  <Ammo_20x99mmRShVAK_Incendiary.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x99mmRShVAK_Incendiary.description>
+  <Ammo_20x99mmRShVAK_Incendiary.label>20x99mmR ShVAK cartridge (AP-I)</Ammo_20x99mmRShVAK_Incendiary.label>
+  <Ammo_20x99mmRShVAK_HE.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x99mmRShVAK_HE.description>
+  <Ammo_20x99mmRShVAK_HE.label>20x99mmR ShVAK cartridge (HE)</Ammo_20x99mmRShVAK_HE.label>
+  <Ammo_20x99mmRShVAK_Sabot.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x99mmRShVAK_Sabot.description>
+  <Ammo_20x99mmRShVAK_Sabot.label>20x99mmR ShVAK cartridge (Sabot)</Ammo_20x99mmRShVAK_Sabot.label>
+  <Bullet_20x99mmRShVAK_FMJ.label>20mmR ShVAK bullet (FMJ)</Bullet_20x99mmRShVAK_FMJ.label>
+  <Bullet_20x99mmRShVAK_Incendiary.label>20mmR ShVAK bullet (AP-I)</Bullet_20x99mmRShVAK_Incendiary.label>
+  <Bullet_20x99mmRShVAK_HE.label>20mmR ShVAK bullet (HE)</Bullet_20x99mmRShVAK_HE.label>
+  <Bullet_20x99mmRShVAK_Sabot.label>20mmR ShVAK bullet (Sabot)</Bullet_20x99mmRShVAK_Sabot.label>
+  <Ammo_25x137mmNATO_FMJ.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_FMJ.description>
+  <Ammo_25x137mmNATO_FMJ.label>25x137mm NATO cartridge (FMJ)</Ammo_25x137mmNATO_FMJ.label>
+  <Ammo_25x137mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_Incendiary.description>
+  <Ammo_25x137mmNATO_Incendiary.label>25x137mm NATO cartridge (AP-I)</Ammo_25x137mmNATO_Incendiary.label>
+  <Ammo_25x137mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_HE.description>
+  <Ammo_25x137mmNATO_HE.label>25x137mm NATO cartridge (HE)</Ammo_25x137mmNATO_HE.label>
+  <Ammo_25x137mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_Sabot.description>
+  <Ammo_25x137mmNATO_Sabot.label>25x137mm NATO cartridge (Sabot)</Ammo_25x137mmNATO_Sabot.label>
+  <Bullet_25x137mmNATO_FMJ.label>25x137mm NATO bullet (FMJ)</Bullet_25x137mmNATO_FMJ.label>
+  <Bullet_25x137mmNATO_Incendiary.label>25x137mm NATO bullet (AP-I)</Bullet_25x137mmNATO_Incendiary.label>
+  <Bullet_25x137mmNATO_HE.label>25x137mm NATO bullet (HE)</Bullet_25x137mmNATO_HE.label>
+  <Bullet_25x137mmNATO_Sabot.label>25x137mm NATO bullet (Sabot)</Bullet_25x137mmNATO_Sabot.label>
+  <Ammo_300WinchesterMagnum_FMJ.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_FMJ.description>
+  <Ammo_300WinchesterMagnum_FMJ.label>.300 Winchester Magnum cartridge (FMJ)</Ammo_300WinchesterMagnum_FMJ.label>
+  <Ammo_300WinchesterMagnum_Incendiary.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_Incendiary.description>
+  <Ammo_300WinchesterMagnum_Incendiary.label>.300 Winchester Magnum cartridge (AP-I)</Ammo_300WinchesterMagnum_Incendiary.label>
+  <Ammo_300WinchesterMagnum_HE.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_HE.description>
+  <Ammo_300WinchesterMagnum_HE.label>.300 Winchester Magnum cartridge (HE)</Ammo_300WinchesterMagnum_HE.label>
+  <Ammo_300WinchesterMagnum_Sabot.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_Sabot.description>
+  <Ammo_300WinchesterMagnum_Sabot.label>.300 Winchester Magnum cartridge (Sabot)</Ammo_300WinchesterMagnum_Sabot.label>
+  <Bullet_300WinchesterMagnum_FMJ.label>.300 Winchester Magnum bullet (FMJ)</Bullet_300WinchesterMagnum_FMJ.label>
+  <Bullet_300WinchesterMagnum_Incendiary.label>.300 Winchester Magnum bullet (AP-I)</Bullet_300WinchesterMagnum_Incendiary.label>
+  <Bullet_300WinchesterMagnum_HE.label>.300 Winchester Magnum bullet (HE)</Bullet_300WinchesterMagnum_HE.label>
+  <Bullet_300WinchesterMagnum_Sabot.label>.300 Winchester Magnum bullet (Sabot)</Bullet_300WinchesterMagnum_Sabot.label>
+  <Ammo_30x173mmNATO_FMJ.description>Large caliber cartridge used by autocannons.</Ammo_30x173mmNATO_FMJ.description>
+  <Ammo_30x173mmNATO_FMJ.label>30x173mm NATO cartridge (FMJ)</Ammo_30x173mmNATO_FMJ.label>
+  <Ammo_30x173mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_30x173mmNATO_Incendiary.description>
+  <Ammo_30x173mmNATO_Incendiary.label>30x173mm NATO cartridge (AP-I)</Ammo_30x173mmNATO_Incendiary.label>
+  <Ammo_30x173mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_30x173mmNATO_HE.description>
+  <Ammo_30x173mmNATO_HE.label>30x173mm NATO cartridge (HE)</Ammo_30x173mmNATO_HE.label>
+  <Ammo_30x173mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_30x173mmNATO_Sabot.description>
+  <Ammo_30x173mmNATO_Sabot.label>30x173mm NATO cartridge (Sabot)</Ammo_30x173mmNATO_Sabot.label>
+  <Bullet_30x173mmNATO_FMJ.label>30x173mm NATO bullet (FMJ)</Bullet_30x173mmNATO_FMJ.label>
+  <Bullet_30x173mmNATO_Incendiary.label>30x173mm NATO bullet (AP-I)</Bullet_30x173mmNATO_Incendiary.label>
+  <Bullet_30x173mmNATO_HE.label>30x173mm NATO bullet (HE)</Bullet_30x173mmNATO_HE.label>
+  <Bullet_30x173mmNATO_Sabot.label>30x173mm NATO bullet (Sabot)</Bullet_30x173mmNATO_Sabot.label>
+  <Ammo_338Lapua_FMJ.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_FMJ.description>
+  <Ammo_338Lapua_FMJ.label>.338 Lapua Magnum cartridge (FMJ)</Ammo_338Lapua_FMJ.label>
+  <Ammo_338Lapua_Incendiary.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Incendiary.description>
+  <Ammo_338Lapua_Incendiary.label>.338 Lapua Magnum cartridge (AP-I)</Ammo_338Lapua_Incendiary.label>
+  <Ammo_338Lapua_HE.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_HE.description>
+  <Ammo_338Lapua_HE.label>.338 Lapua Magnum cartridge (HE)</Ammo_338Lapua_HE.label>
+  <Ammo_338Lapua_Sabot.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Sabot.description>
+  <Ammo_338Lapua_Sabot.label>.338 Lapua Magnum cartridge (Sabot)</Ammo_338Lapua_Sabot.label>
+  <Bullet_338Lapua_FMJ.label>.338 Lapua Magnum bullet (FMJ)</Bullet_338Lapua_FMJ.label>
+  <Bullet_338Lapua_Incendiary.label>.338 Lapua Magnum bullet (AP-I)</Bullet_338Lapua_Incendiary.label>
+  <Bullet_338Lapua_HE.label>.338 Lapua Magnum bullet (HE)</Bullet_338Lapua_HE.label>
+  <Bullet_338Lapua_Sabot.label>.338 Lapua Magnum bullet (Sabot)</Bullet_338Lapua_Sabot.label>
+  <Ammo_338Norma_FMJ.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_FMJ.description>
+  <Ammo_338Norma_FMJ.label>.338 Norma Magnum cartridge (FMJ)</Ammo_338Norma_FMJ.label>
+  <Ammo_338Norma_Incendiary.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_Incendiary.description>
+  <Ammo_338Norma_Incendiary.label>.338 Norma Magnum cartridge (AP-I)</Ammo_338Norma_Incendiary.label>
+  <Ammo_338Norma_HE.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_HE.description>
+  <Ammo_338Norma_HE.label>.338 Norma Magnum cartridge (HE)</Ammo_338Norma_HE.label>
+  <Ammo_338Norma_Sabot.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_Sabot.description>
+  <Ammo_338Norma_Sabot.label>.338 Norma Magnum cartridge (Sabot)</Ammo_338Norma_Sabot.label>
+  <Bullet_338Norma_FMJ.label>.338 Norma Magnum bullet (FMJ)</Bullet_338Norma_FMJ.label>
+  <Bullet_338Norma_Incendiary.label>.338 Norma Magnum bullet (AP-I)</Bullet_338Norma_Incendiary.label>
+  <Bullet_338Norma_HE.label>.338 Norma Magnum bullet (HE)</Bullet_338Norma_HE.label>
+  <Bullet_338Norma_Sabot.label>.338 Norma Magnum bullet (Sabot)</Bullet_338Norma_Sabot.label>
+  <Ammo_408CheyenneTactical_FMJ.description>Large cartridge developed for military long-range sniper rifles.</Ammo_408CheyenneTactical_FMJ.description>
+  <Ammo_408CheyenneTactical_FMJ.label>.408 Cheyenne Tactical cartridge (FMJ)</Ammo_408CheyenneTactical_FMJ.label>
+  <Ammo_408CheyenneTactical_Incendiary.description>Large cartridge developed for military long-range sniper rifles.</Ammo_408CheyenneTactical_Incendiary.description>
+  <Ammo_408CheyenneTactical_Incendiary.label>.408 Cheyenne Tactical cartridge (AP-I)</Ammo_408CheyenneTactical_Incendiary.label>
+  <Ammo_408CheyenneTactical_HE.description>Large cartridge developed for military long-range sniper rifles.</Ammo_408CheyenneTactical_HE.description>
+  <Ammo_408CheyenneTactical_HE.label>.408 Cheyenne Tactical cartridge (HE)</Ammo_408CheyenneTactical_HE.label>
+  <Ammo_408CheyenneTactical_Sabot.description>Large cartridge developed for military long-range sniper rifles.</Ammo_408CheyenneTactical_Sabot.description>
+  <Ammo_408CheyenneTactical_Sabot.label>.408 Cheyenne Tactical cartridge (Sabot)</Ammo_408CheyenneTactical_Sabot.label>
+  <Bullet_408CheyenneTactical_FMJ.label>.408 Cheyenne Tactical bullet (FMJ)</Bullet_408CheyenneTactical_FMJ.label>
+  <Bullet_408CheyenneTactical_Incendiary.label>.408 Cheyenne Tactical bullet (AP-I)</Bullet_408CheyenneTactical_Incendiary.label>
+  <Bullet_408CheyenneTactical_HE.label>.408 Cheyenne Tactical bullet (HE)</Bullet_408CheyenneTactical_HE.label>
+  <Bullet_408CheyenneTactical_Sabot.label>.408 Cheyenne Tactical bullet (Sabot)</Bullet_408CheyenneTactical_Sabot.label>
+  <Ammo_470NitroExpress_FMJ.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_FMJ.description>
+  <Ammo_470NitroExpress_FMJ.label>.470 Nitro Express cartridge (FMJ)</Ammo_470NitroExpress_FMJ.label>
+  <Ammo_470NitroExpress_Incendiary.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_Incendiary.description>
+  <Ammo_470NitroExpress_Incendiary.label>.470 Nitro Express cartridge (AP-I)</Ammo_470NitroExpress_Incendiary.label>
+  <Ammo_470NitroExpress_HE.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_HE.description>
+  <Ammo_470NitroExpress_HE.label>.470 Nitro Express cartridge (HE)</Ammo_470NitroExpress_HE.label>
+  <Ammo_470NitroExpress_Sabot.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_Sabot.description>
+  <Ammo_470NitroExpress_Sabot.label>.470 Nitro Express cartridge (Sabot)</Ammo_470NitroExpress_Sabot.label>
+  <Bullet_470NitroExpress_FMJ.label>.470 Nitro Express bullet (FMJ)</Bullet_470NitroExpress_FMJ.label>
+  <Bullet_470NitroExpress_Incendiary.label>.470 Nitro Express bullet (AP-I)</Bullet_470NitroExpress_Incendiary.label>
+  <Bullet_470NitroExpress_HE.label>.470 Nitro Express bullet (HE)</Bullet_470NitroExpress_HE.label>
+  <Bullet_470NitroExpress_Sabot.label>.470 Nitro Express bullet (Sabot)</Bullet_470NitroExpress_Sabot.label>
+  <Ammo_50BMG_FMJ.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_50BMG_FMJ.description>
+  <Ammo_50BMG_FMJ.label>.50 BMG cartridge (FMJ)</Ammo_50BMG_FMJ.label>
+  <Ammo_50BMG_Incendiary.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_50BMG_Incendiary.description>
+  <Ammo_50BMG_Incendiary.label>.50 BMG cartridge (AP-I)</Ammo_50BMG_Incendiary.label>
+  <Ammo_50BMG_HE.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_50BMG_HE.description>
+  <Ammo_50BMG_HE.label>.50 BMG cartridge (AP-HE)</Ammo_50BMG_HE.label>
+  <Ammo_50BMG_Sabot.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_50BMG_Sabot.description>
+  <Ammo_50BMG_Sabot.label>.50 BMG cartridge (Sabot)</Ammo_50BMG_Sabot.label>
+  <Bullet_50BMG_FMJ.label>.50 BMG bullet (FMJ)</Bullet_50BMG_FMJ.label>
+  <Bullet_50BMG_Incendiary.label>.50 BMG bullet (AP-I)</Bullet_50BMG_Incendiary.label>
+  <Bullet_50BMG_HE.label>.50 BMG bullet (AP-HE)</Bullet_50BMG_HE.label>
+  <Bullet_50BMG_Sabot.label>.50 BMG bullet (Sabot)</Bullet_50BMG_Sabot.label>
+  <Ammo_55Boys_FMJ.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_FMJ.description>
+  <Ammo_55Boys_FMJ.label>.55 Boys cartridge (FMJ)</Ammo_55Boys_FMJ.label>
+  <Ammo_55Boys_Incendiary.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_Incendiary.description>
+  <Ammo_55Boys_Incendiary.label>.55 Boys cartridge (AP-I)</Ammo_55Boys_Incendiary.label>
+  <Ammo_55Boys_HE.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_HE.description>
+  <Ammo_55Boys_HE.label>.55 Boys cartridge (HE)</Ammo_55Boys_HE.label>
+  <Ammo_55Boys_Sabot.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_Sabot.description>
+  <Ammo_55Boys_Sabot.label>.55 Boys cartridge (Sabot)</Ammo_55Boys_Sabot.label>
+  <Bullet_55Boys_FMJ.label>.55 Boys bullet (FMJ)</Bullet_55Boys_FMJ.label>
+  <Bullet_55Boys_Incendiary.label>.55 Boys bullet (AP-I)</Bullet_55Boys_Incendiary.label>
+  <Bullet_55Boys_HE.label>.55 Boys bullet (HE)</Bullet_55Boys_HE.label>
+  <Bullet_55Boys_Sabot.label>.55 Boys bullet (Sabot)</Bullet_55Boys_Sabot.label>
+  <Ammo_600NitroExpress_FMJ.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_FMJ.description>
+  <Ammo_600NitroExpress_FMJ.label>.600 Nitro Express cartridge (FMJ)</Ammo_600NitroExpress_FMJ.label>
+  <Ammo_600NitroExpress_Incendiary.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_Incendiary.description>
+  <Ammo_600NitroExpress_Incendiary.label>.600 Nitro Express cartridge (AP-I)</Ammo_600NitroExpress_Incendiary.label>
+  <Ammo_600NitroExpress_HE.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_HE.description>
+  <Ammo_600NitroExpress_HE.label>.600 Nitro Express cartridge (HE)</Ammo_600NitroExpress_HE.label>
+  <Ammo_600NitroExpress_Sabot.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_Sabot.description>
+  <Ammo_600NitroExpress_Sabot.label>.600 Nitro Express cartridge (Sabot)</Ammo_600NitroExpress_Sabot.label>
+  <Bullet_600NitroExpress_FMJ.label>.600 Nitro Express bullet (FMJ)</Bullet_600NitroExpress_FMJ.label>
+  <Bullet_600NitroExpress_Incendiary.label>.600 Nitro Express bullet (AP-I)</Bullet_600NitroExpress_Incendiary.label>
+  <Bullet_600NitroExpress_HE.label>.600 Nitro Express bullet (HE)</Bullet_600NitroExpress_HE.label>
+  <Bullet_600NitroExpress_Sabot.label>.600 Nitro Express bullet (Sabot)</Bullet_600NitroExpress_Sabot.label>
+  <Ammo_950JDJ_FMJ.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_950JDJ_FMJ.description>
+  <Ammo_950JDJ_FMJ.label>.950 JDJ cartridge (FMJ)</Ammo_950JDJ_FMJ.label>
+  <Ammo_50JDJ_Incendiary.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_50JDJ_Incendiary.description>
+  <Ammo_50JDJ_Incendiary.label>.950 JDJ cartridge (AP-I)</Ammo_50JDJ_Incendiary.label>
+  <Ammo_50JDJ_HE.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_50JDJ_HE.description>
+  <Ammo_50JDJ_HE.label>.950 JDJ cartridge (HE)</Ammo_50JDJ_HE.label>
+  <Ammo_50JDJ_Sabot.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_50JDJ_Sabot.description>
+  <Ammo_50JDJ_Sabot.label>.950 JDJ cartridge (Sabot)</Ammo_50JDJ_Sabot.label>
+  <Bullet_950JDJ_FMJ.label>.950 JDJ bullet (FMJ)</Bullet_950JDJ_FMJ.label>
+  <Bullet_50JDJ_Incendiary.label>.950 JDJ bullet (AP-I)</Bullet_50JDJ_Incendiary.label>
+  <Bullet_50JDJ_HE.label>.950 JDJ bullet (HE)</Bullet_50JDJ_HE.label>
+  <Bullet_50JDJ_Sabot.label>.950 JDJ bullet (Sabot)</Bullet_50JDJ_Sabot.label>
+  <Ammo_CrossbowBolt_Stone.description>A crossbow bolt.</Ammo_CrossbowBolt_Stone.description>
+  <Ammo_CrossbowBolt_Stone.label>crossbow bolt</Ammo_CrossbowBolt_Stone.label>
+  <Ammo_CrossbowBolt_Steel.description>A crossbow bolt.</Ammo_CrossbowBolt_Steel.description>
+  <Ammo_CrossbowBolt_Steel.label>crossbow bolt (steel)</Ammo_CrossbowBolt_Steel.label>
+  <Ammo_CrossbowBolt_Plasteel.description>A crossbow bolt.</Ammo_CrossbowBolt_Plasteel.description>
+  <Ammo_CrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Ammo_CrossbowBolt_Plasteel.label>
+  <Ammo_CrossbowBolt_Venom.description>A crossbow bolt.</Ammo_CrossbowBolt_Venom.description>
+  <Ammo_CrossbowBolt_Venom.label>crossbow bolt (venom)</Ammo_CrossbowBolt_Venom.label>
+  <Ammo_CrossbowBolt_Flame.description>A crossbow bolt.</Ammo_CrossbowBolt_Flame.description>
+  <Ammo_CrossbowBolt_Flame.label>crossbow bolt (flame)</Ammo_CrossbowBolt_Flame.label>
+  <Projectile_CrossbowBolt_Stone.label>crossbow bolt (stone)</Projectile_CrossbowBolt_Stone.label>
+  <Projectile_CrossbowBolt_Steel.label>crossbow bolt (steel)</Projectile_CrossbowBolt_Steel.label>
+  <Projectile_CrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Projectile_CrossbowBolt_Plasteel.label>
+  <Projectile_CrossbowBolt_Venom.label>crossbow bolt (venom)</Projectile_CrossbowBolt_Venom.label>
+  <Projectile_CrossbowBolt_Flame.label>crossbow bolt (flame)</Projectile_CrossbowBolt_Flame.label>
+  <Ammo_MusketBall.description>A paper cartridge sealed with wax containing a round projectile and black powder, fired by early, smoothbore firearms.</Ammo_MusketBall.description>
+  <Ammo_MusketBall.label>Musket ball</Ammo_MusketBall.label>
+  <Bullet_FastMusketBall.label>lead ball</Bullet_FastMusketBall.label>
+  <Bullet_SlowMusketBall.label>lead ball</Bullet_SlowMusketBall.label>
+  <Ammo_Arrow_Stone.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Stone.description>
+  <Ammo_Arrow_Stone.label>arrow (stone)</Ammo_Arrow_Stone.label>
+  <Ammo_Arrow_Steel.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Steel.description>
+  <Ammo_Arrow_Steel.label>arrow (steel)</Ammo_Arrow_Steel.label>
+  <Ammo_Arrow_Plasteel.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Plasteel.description>
+  <Ammo_Arrow_Plasteel.label>arrow (plasteel)</Ammo_Arrow_Plasteel.label>
+  <Ammo_Arrow_Venom.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Venom.description>
+  <Ammo_Arrow_Venom.label>arrow (venom)</Ammo_Arrow_Venom.label>
+  <Ammo_Arrow_Flame.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Flame.description>
+  <Ammo_Arrow_Flame.label>arrow (flame)</Ammo_Arrow_Flame.label>
+  <Projectile_Arrow_Stone.label>arrow (stone)</Projectile_Arrow_Stone.label>
+  <Projectile_Arrow_Steel.label>arrow (steel)</Projectile_Arrow_Steel.label>
+  <Projectile_Arrow_Plasteel.label>arrow (plasteel)</Projectile_Arrow_Plasteel.label>
+  <Projectile_Arrow_Venom.label>arrow (venom)</Projectile_Arrow_Venom.label>
+  <Projectile_Arrow_Flame.label>arrow (flame)</Projectile_Arrow_Flame.label>
+  <Projectile_StreamlinedArrow_Stone.label>streamlined arrow (stone)</Projectile_StreamlinedArrow_Stone.label>
+  <Projectile_StreamlinedArrow_Steel.label>streamlined arrow (steel)</Projectile_StreamlinedArrow_Steel.label>
+  <Projectile_StreamlinedArrow_Plasteel.label>streamlined arrow (plasteel)</Projectile_StreamlinedArrow_Plasteel.label>
+  <Projectile_StreamlinedArrow_Venom.label>streamlined arrow (venom)</Projectile_StreamlinedArrow_Venom.label>
+  <Projectile_StreamlinedArrow_Flame.label>streamlined arrow (flame)</Projectile_StreamlinedArrow_Flame.label>
+  <Ammo_GreatArrow_Stone.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Stone.description>
+  <Ammo_GreatArrow_Stone.label>great arrow (stone)</Ammo_GreatArrow_Stone.label>
+  <Ammo_GreatArrow_Steel.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Steel.description>
+  <Ammo_GreatArrow_Steel.label>great arrow (steel)</Ammo_GreatArrow_Steel.label>
+  <Ammo_GreatArrow_Plasteel.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Plasteel.description>
+  <Ammo_GreatArrow_Plasteel.label>great arrow (plasteel)</Ammo_GreatArrow_Plasteel.label>
+  <Ammo_GreatArrow_Venom.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Venom.description>
+  <Ammo_GreatArrow_Venom.label>great arrow (venom)</Ammo_GreatArrow_Venom.label>
+  <Ammo_GreatArrow_Flame.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Flame.description>
+  <Ammo_GreatArrow_Flame.label>great arrow (flame)</Ammo_GreatArrow_Flame.label>
+  <Projectile_GreatArrow_Stone.label>great arrow (stone)</Projectile_GreatArrow_Stone.label>
+  <Projectile_GreatArrow_Steel.label>great arrow (steel)</Projectile_GreatArrow_Steel.label>
+  <Projectile_GreatArrow_Plasteel.label>great arrow (plasteel)</Projectile_GreatArrow_Plasteel.label>
+  <Projectile_GreatArrow_Venom.label>great arrow (venom)</Projectile_GreatArrow_Venom.label>
+  <Projectile_GreatArrow_Flame.label>great arrow (flame)</Projectile_GreatArrow_Flame.label>
+  <Pilum_Thrown.label>pilum (thrown)</Pilum_Thrown.label>
+  <Pilum_Fired.label>pilum (fired)</Pilum_Fired.label>
+  <Ammo_SlingBullet_Stone.description>An aerodynamic stone or metal pellet. Perfect for being launched by a sling.</Ammo_SlingBullet_Stone.description>
+  <Ammo_SlingBullet_Stone.label>sling bullet (stone)</Ammo_SlingBullet_Stone.label>
+  <Ammo_SlingBullet_Steel.description>An aerodynamic stone or metal pellet. Perfect for being launched by a sling.</Ammo_SlingBullet_Steel.description>
+  <Ammo_SlingBullet_Steel.label>sling bullet (steel)</Ammo_SlingBullet_Steel.label>
+  <Projectile_SlingBullet_Stone.label>sling bullet (stone)</Projectile_SlingBullet_Stone.label>
+  <Projectile_SlingBullet_Steel.label>sling bullet (steel)</Projectile_SlingBullet_Steel.label>
+  <Ammo_10mmAuto_FMJ.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_FMJ.description>
+  <Ammo_10mmAuto_FMJ.label>10mm Auto cartridge (FMJ)</Ammo_10mmAuto_FMJ.label>
+  <Ammo_10mmAuto_AP.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_AP.description>
+  <Ammo_10mmAuto_AP.label>10mm Auto cartridge (AP)</Ammo_10mmAuto_AP.label>
+  <Ammo_10mmAuto_HP.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_HP.description>
+  <Ammo_10mmAuto_HP.label>10mm Auto cartridge (HP)</Ammo_10mmAuto_HP.label>
+  <Bullet_10mmAuto_FMJ.label>10mm Auto bullet (FMJ)</Bullet_10mmAuto_FMJ.label>
+  <Bullet_10mmAuto_AP.label>10mm Auto bullet (AP)</Bullet_10mmAuto_AP.label>
+  <Bullet_10mmAuto_HP.label>10mm Auto bullet (HP)</Bullet_10mmAuto_HP.label>
+  <Ammo_13mmGyrojet_FMJ.description>Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder.</Ammo_13mmGyrojet_FMJ.description>
+  <Ammo_13mmGyrojet_FMJ.label>13mm Gyrojet rocket (FMJ)</Ammo_13mmGyrojet_FMJ.label>
+  <Ammo_13mmGyrojet_AP.description>Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder.</Ammo_13mmGyrojet_AP.description>
+  <Ammo_13mmGyrojet_AP.label>13mm Gyrojet rocket (AP)</Ammo_13mmGyrojet_AP.label>
+  <Ammo_13mmGyrojet_HP.description>Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder.</Ammo_13mmGyrojet_HP.description>
+  <Ammo_13mmGyrojet_HP.label>13mm Gyrojet rocket (HP)</Ammo_13mmGyrojet_HP.label>
+  <Bullet_13mmGyrojet_FMJ.label>13mm Gyrojet bullet (FMJ)</Bullet_13mmGyrojet_FMJ.label>
+  <Bullet_13mmGyrojet_AP.label>13mm Gyrojet bullet (AP)</Bullet_13mmGyrojet_AP.label>
+  <Bullet_13mmGyrojet_HP.label>13mm Gyrojet bullet (HP)</Bullet_13mmGyrojet_HP.label>
+  <Ammo_22LR_FMJ.description>Low caliber handgun cartridge massively lacking in stopping power.</Ammo_22LR_FMJ.description>
+  <Ammo_22LR_FMJ.label>.22 LR cartridge (FMJ)</Ammo_22LR_FMJ.label>
+  <Ammo_22LR_AP.description>Low caliber handgun cartridge massively lacking in stopping power.</Ammo_22LR_AP.description>
+  <Ammo_22LR_AP.label>.22 LR cartridge (AP)</Ammo_22LR_AP.label>
+  <Ammo_22LR_HP.description>Low caliber handgun cartridge massively lacking in stopping power.</Ammo_22LR_HP.description>
+  <Ammo_22LR_HP.label>.22 LR cartridge (HP)</Ammo_22LR_HP.label>
+  <Bullet_22LR_FMJ.label>.22 LR bullet (FMJ)</Bullet_22LR_FMJ.label>
+  <Bullet_22LR_AP.label>.22 LR bullet (AP)</Bullet_22LR_AP.label>
+  <Bullet_22LR_HP.label>.22 LR bullet (HP)</Bullet_22LR_HP.label>
+  <Ammo_22Short_FMJ.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_FMJ.description>
+  <Ammo_22Short_FMJ.label>.22 Short cartridge</Ammo_22Short_FMJ.label>
+  <Ammo_22Short_AP.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_AP.description>
+  <Ammo_22Short_AP.label>.22 Short cartridge (AP)</Ammo_22Short_AP.label>
+  <Ammo_22Short_HP.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_HP.description>
+  <Ammo_22Short_HP.label>.22 Short cartridge (HP)</Ammo_22Short_HP.label>
+  <Bullet_22Short_FMJ.label>.22 Short bullet</Bullet_22Short_FMJ.label>
+  <Bullet_22Short_AP.label>.22 Short bullet (AP)</Bullet_22Short_AP.label>
+  <Bullet_22Short_HP.label>.22 Short bullet (HP)</Bullet_22Short_HP.label>
+  <Ammo_25ACP_FMJ.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_25ACP_FMJ.description>
+  <Ammo_25ACP_FMJ.label>.25 ACP cartridge (FMJ)</Ammo_25ACP_FMJ.label>
+  <Ammo_25ACP_AP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_25ACP_AP.description>
+  <Ammo_25ACP_AP.label>.25 ACP cartridge (AP)</Ammo_25ACP_AP.label>
+  <Ammo_25ACP_HP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_25ACP_HP.description>
+  <Ammo_25ACP_HP.label>.25 ACP cartridge (HP)</Ammo_25ACP_HP.label>
+  <Bullet_25ACP_FMJ.label>.25 ACP bullet (FMJ)</Bullet_25ACP_FMJ.label>
+  <Bullet_25ACP_AP.label>.25 ACP bullet (AP)</Bullet_25ACP_AP.label>
+  <Bullet_25ACP_HP.label>.25 ACP bullet (HP)</Bullet_25ACP_HP.label>
+  <Ammo_32ACP_FMJ.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_32ACP_FMJ.description>
+  <Ammo_32ACP_FMJ.label>.32 ACP cartridge (FMJ)</Ammo_32ACP_FMJ.label>
+  <Ammo_32ACP_AP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_32ACP_AP.description>
+  <Ammo_32ACP_AP.label>.32 ACP cartridge (AP)</Ammo_32ACP_AP.label>
+  <Ammo_32ACP_HP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_32ACP_HP.description>
+  <Ammo_32ACP_HP.label>.32 ACP cartridge (HP)</Ammo_32ACP_HP.label>
+  <Bullet_32ACP_FMJ.label>.32 ACP bullet (FMJ)</Bullet_32ACP_FMJ.label>
+  <Bullet_32ACP_AP.label>.32 ACP bullet (AP)</Bullet_32ACP_AP.label>
+  <Bullet_32ACP_HP.label>.32 ACP bullet (HP)</Bullet_32ACP_HP.label>
+  <Ammo_357Magnum_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_357Magnum_FMJ.description>
+  <Ammo_357Magnum_FMJ.label>.357 Magnum cartridge (FMJ)</Ammo_357Magnum_FMJ.label>
+  <Ammo_357Magnum_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_357Magnum_AP.description>
+  <Ammo_357Magnum_AP.label>.357 Magnum cartridge (AP)</Ammo_357Magnum_AP.label>
+  <Ammo_357Magnum_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_357Magnum_HP.description>
+  <Ammo_357Magnum_HP.label>.357 Magnum cartridge (HP)</Ammo_357Magnum_HP.label>
+  <Bullet_357Magnum_FMJ.label>.357 Magnum bullet (FMJ)</Bullet_357Magnum_FMJ.label>
+  <Bullet_357Magnum_AP.label>.357 Magnum bullet (AP)</Bullet_357Magnum_AP.label>
+  <Bullet_357Magnum_HP.label>.357 Magnum bullet (HP)</Bullet_357Magnum_HP.label>
+  <Ammo_357SIG_FMJ.description>A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders.</Ammo_357SIG_FMJ.description>
+  <Ammo_357SIG_FMJ.label>.357 SIG cartridge (FMJ)</Ammo_357SIG_FMJ.label>
+  <Ammo_357SIG_AP.description>A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders.</Ammo_357SIG_AP.description>
+  <Ammo_357SIG_AP.label>.357 SIG cartridge (AP)</Ammo_357SIG_AP.label>
+  <Ammo_357SIG_HP.description>A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders.</Ammo_357SIG_HP.description>
+  <Ammo_357SIG_HP.label>.357 SIG cartridge (HP)</Ammo_357SIG_HP.label>
+  <Bullet_357SIG_FMJ.label>.357 SIG bullet (FMJ)</Bullet_357SIG_FMJ.label>
+  <Bullet_357SIG_AP.label>.357 SIG bullet (AP)</Bullet_357SIG_AP.label>
+  <Bullet_357SIG_HP.label>.357 SIG bullet (HP)</Bullet_357SIG_HP.label>
+  <Ammo_380ACP_FMJ.description>Common pistol cartridge used by a handguns and SMGs.</Ammo_380ACP_FMJ.description>
+  <Ammo_380ACP_FMJ.label>.380 ACP cartridge (FMJ)</Ammo_380ACP_FMJ.label>
+  <Ammo_380ACP_AP.description>Common pistol cartridge used by a handguns and SMGs.</Ammo_380ACP_AP.description>
+  <Ammo_380ACP_AP.label>.380 ACP cartridge (AP)</Ammo_380ACP_AP.label>
+  <Ammo_380ACP_HP.description>Common pistol cartridge used by a handguns and SMGs.</Ammo_380ACP_HP.description>
+  <Ammo_380ACP_HP.label>.380 ACP cartridge (HP)</Ammo_380ACP_HP.label>
+  <Bullet_380ACP_FMJ.label>.380 ACP bullet (FMJ)</Bullet_380ACP_FMJ.label>
+  <Bullet_380ACP_AP.label>.380 ACP bullet (AP)</Bullet_380ACP_AP.label>
+  <Bullet_380ACP_HP.label>.380 ACP bullet (HP)</Bullet_380ACP_HP.label>
+  <Ammo_38ACP_FMJ.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_38ACP_FMJ.description>
+  <Ammo_38ACP_FMJ.label>.38 ACP cartridge (FMJ)</Ammo_38ACP_FMJ.label>
+  <Ammo_38ACP_AP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_38ACP_AP.description>
+  <Ammo_38ACP_AP.label>.38 ACP cartridge (AP)</Ammo_38ACP_AP.label>
+  <Ammo_38ACP_HP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_38ACP_HP.description>
+  <Ammo_38ACP_HP.label>.38 ACP cartridge (HP)</Ammo_38ACP_HP.label>
+  <Bullet_38ACP_FMJ.label>.38 ACP bullet (FMJ)</Bullet_38ACP_FMJ.label>
+  <Bullet_38ACP_AP.label>.38 ACP bullet (AP)</Bullet_38ACP_AP.label>
+  <Bullet_38ACP_HP.label>.38 ACP bullet (HP)</Bullet_38ACP_HP.label>
+  <Ammo_38Special_FMJ.description>Ancient low-power revolver cartridge renowned for its manageability.</Ammo_38Special_FMJ.description>
+  <Ammo_38Special_FMJ.label>.38 Special cartridge (FMJ)</Ammo_38Special_FMJ.label>
+  <Ammo_38Special_AP.description>Ancient low-power revolver cartridge renowned for its manageability.</Ammo_38Special_AP.description>
+  <Ammo_38Special_AP.label>.38 Special cartridge (AP)</Ammo_38Special_AP.label>
+  <Ammo_38Special_HP.description>Ancient low-power revolver cartridge renowned for its manageability.</Ammo_38Special_HP.description>
+  <Ammo_38Special_HP.label>.38 Special cartridge (HP)</Ammo_38Special_HP.label>
+  <Bullet_38Special_FMJ.label>.38 Special bullet (FMJ)</Bullet_38Special_FMJ.label>
+  <Bullet_38Special_AP.label>.38 Special bullet (AP)</Bullet_38Special_AP.label>
+  <Bullet_38Special_HP.label>.38 Special bullet (HP)</Bullet_38Special_HP.label>
+  <Ammo_40SW_FMJ.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_FMJ.description>
+  <Ammo_40SW_FMJ.label>.40 SW cartridge (FMJ)</Ammo_40SW_FMJ.label>
+  <Ammo_40SW_AP.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_AP.description>
+  <Ammo_40SW_AP.label>.40 SW cartridge (AP)</Ammo_40SW_AP.label>
+  <Ammo_40SW_HP.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_HP.description>
+  <Ammo_40SW_HP.label>.40 SW cartridge (HP)</Ammo_40SW_HP.label>
+  <Bullet_40SW_FMJ.label>.40 SW bullet (FMJ)</Bullet_40SW_FMJ.label>
+  <Bullet_40SW_AP.label>.40 SW bullet (AP)</Bullet_40SW_AP.label>
+  <Bullet_40SW_HP.label>.40 SW bullet (HP)</Bullet_40SW_HP.label>
+  <Ammo_41Rimfire_FMJ.label>.41 Rimfire cartridge (FMJ)</Ammo_41Rimfire_FMJ.label>
+  <Ammo_41Rimfire_AP.description>Ultra-light cartridge for use in derringer pistols.</Ammo_41Rimfire_AP.description>
+  <Ammo_41Rimfire_AP.label>.41 Rimfire cartridge (AP)</Ammo_41Rimfire_AP.label>
+  <Ammo_41Rimfire_HP.description>Ultra-light cartridge for use in derringer pistols.</Ammo_41Rimfire_HP.description>
+  <Ammo_41Rimfire_HP.label>.41 Rimfire cartridge (HP)</Ammo_41Rimfire_HP.label>
+  <Bullet_41Rimfire_FMJ.label>.41 Rimfire bullet (FMJ)</Bullet_41Rimfire_FMJ.label>
+  <Bullet_41Rimfire_AP.label>.41 Rimfire bullet (AP)</Bullet_41Rimfire_AP.label>
+  <Bullet_41Rimfire_HP.label>.41 Rimfire bullet (HP)</Bullet_41Rimfire_HP.label>
+  <Ammo_44Magnum_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_FMJ.description>
+  <Ammo_44Magnum_FMJ.label>.44 Magnum cartridge (FMJ)</Ammo_44Magnum_FMJ.label>
+  <Ammo_44Magnum_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_AP.description>
+  <Ammo_44Magnum_AP.label>.44 Magnum cartridge (AP)</Ammo_44Magnum_AP.label>
+  <Ammo_44Magnum_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_HP.description>
+  <Ammo_44Magnum_HP.label>.44 Magnum cartridge (HP)</Ammo_44Magnum_HP.label>
+  <Bullet_44Magnum_FMJ.label>.44 Magnum bullet (FMJ)</Bullet_44Magnum_FMJ.label>
+  <Bullet_44Magnum_AP.label>.44 Magnum bullet (AP)</Bullet_44Magnum_AP.label>
+  <Bullet_44Magnum_HP.label>.44 Magnum bullet (HP)</Bullet_44Magnum_HP.label>
+  <Ammo_454Casull_FMJ.description>A lengthened and reinforced .45 Colt cartridge. Very potent.</Ammo_454Casull_FMJ.description>
+  <Ammo_454Casull_FMJ.label>.454 Casull cartridge (FMJ)</Ammo_454Casull_FMJ.label>
+  <Ammo_454Casull_AP.description>A lengthened and reinforced .45 Colt cartridge. Very potent.</Ammo_454Casull_AP.description>
+  <Ammo_454Casull_AP.label>.454 Casull cartridge (AP)</Ammo_454Casull_AP.label>
+  <Ammo_454Casull_HP.description>A lengthened and reinforced .45 Colt cartridge. Very potent.</Ammo_454Casull_HP.description>
+  <Ammo_454Casull_HP.label>.454 Casull cartridge (HP)</Ammo_454Casull_HP.label>
+  <Bullet_454Casull_FMJ.label>.454 Casull bullet (FMJ)</Bullet_454Casull_FMJ.label>
+  <Bullet_454Casull_AP.label>.454 Casull bullet (AP)</Bullet_454Casull_AP.label>
+  <Bullet_454Casull_HP.label>.454 Casull bullet (HP)</Bullet_454Casull_HP.label>
+  <Ammo_455Webley_FMJ.description>Low-velocity handgun cartridge most commonly used in top break revolvers.</Ammo_455Webley_FMJ.description>
+  <Ammo_455Webley_FMJ.label>.455 Webley cartridge (FMJ)</Ammo_455Webley_FMJ.label>
+  <Ammo_455Webley_AP.description>Low-velocity handgun cartridge most commonly used in top break revolvers.</Ammo_455Webley_AP.description>
+  <Ammo_455Webley_AP.label>.455 Webley cartridge (AP)</Ammo_455Webley_AP.label>
+  <Ammo_455Webley_HP.description>Low-velocity handgun cartridge most commonly used in top break revolvers.</Ammo_455Webley_HP.description>
+  <Ammo_455Webley_HP.label>.455 Webley cartridge (HP)</Ammo_455Webley_HP.label>
+  <Bullet_455Webley_FMJ.label>.455 Webley bullet (FMJ)</Bullet_455Webley_FMJ.label>
+  <Bullet_455Webley_AP.label>.455 Webley bullet (AP)</Bullet_455Webley_AP.label>
+  <Bullet_455Webley_HP.label>.455 Webley bullet (HP)</Bullet_455Webley_HP.label>
+  <Ammo_45ACP_FMJ.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_FMJ.description>
+  <Ammo_45ACP_FMJ.label>.45 ACP cartridge (FMJ)</Ammo_45ACP_FMJ.label>
+  <Ammo_45ACP_AP.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_AP.description>
+  <Ammo_45ACP_AP.label>.45 ACP cartridge (AP)</Ammo_45ACP_AP.label>
+  <Ammo_45ACP_HP.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_HP.description>
+  <Ammo_45ACP_HP.label>.45 ACP cartridge (HP)</Ammo_45ACP_HP.label>
+  <Bullet_45ACP_FMJ.label>.45 ACP bullet (FMJ)</Bullet_45ACP_FMJ.label>
+  <Bullet_45ACP_AP.label>.45 ACP bullet (AP)</Bullet_45ACP_AP.label>
+  <Bullet_45ACP_HP.label>.45 ACP bullet (HP)</Bullet_45ACP_HP.label>
+  <Ammo_45Colt_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_FMJ.description>
+  <Ammo_45Colt_FMJ.label>.45 Colt cartridge (FMJ)</Ammo_45Colt_FMJ.label>
+  <Ammo_45Colt_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_AP.description>
+  <Ammo_45Colt_AP.label>.45 Colt cartridge (AP)</Ammo_45Colt_AP.label>
+  <Ammo_45Colt_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_HP.description>
+  <Ammo_45Colt_HP.label>.45 Colt cartridge (HP)</Ammo_45Colt_HP.label>
+  <Bullet_45Colt_FMJ.label>.45 Colt bullet (FMJ)</Bullet_45Colt_FMJ.label>
+  <Bullet_45Colt_AP.label>.45 Colt bullet (AP)</Bullet_45Colt_AP.label>
+  <Bullet_45Colt_HP.label>.45 Colt bullet (HP)</Bullet_45Colt_HP.label>
+  <Ammo_46x30mm_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_46x30mm_FMJ.description>
+  <Ammo_46x30mm_FMJ.label>4.6x30mm cartridge (FMJ)</Ammo_46x30mm_FMJ.label>
+  <Ammo_46x30mm_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_46x30mm_AP.description>
+  <Ammo_46x30mm_AP.label>4.6x30mm cartridge (AP)</Ammo_46x30mm_AP.label>
+  <Ammo_46x30mm_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_46x30mm_HP.description>
+  <Ammo_46x30mm_HP.label>4.6x30mm cartridge (HP)</Ammo_46x30mm_HP.label>
+  <Bullet_46x30mm_FMJ.label>4.6x30mm bullet (FMJ)</Bullet_46x30mm_FMJ.label>
+  <Bullet_46x30mm_AP.label>4.6x30mm bullet (AP)</Bullet_46x30mm_AP.label>
+  <Bullet_46x30mm_HP.label>4.6x30mm bullet (HP)</Bullet_46x30mm_HP.label>
+  <Ammo_500SWMagnum_FMJ.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed.</Ammo_500SWMagnum_FMJ.description>
+  <Ammo_500SWMagnum_FMJ.label>.500 S&amp;W Magnum cartridge (FMJ)</Ammo_500SWMagnum_FMJ.label>
+  <Ammo_500SWMagnum_AP.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed.</Ammo_500SWMagnum_AP.description>
+  <Ammo_500SWMagnum_AP.label>.500 S&amp;W Magnum cartridge (AP)</Ammo_500SWMagnum_AP.label>
+  <Ammo_500SWMagnum_HP.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed.</Ammo_500SWMagnum_HP.description>
+  <Ammo_500SWMagnum_HP.label>.500 S&amp;W Magnum cartridge (HP)</Ammo_500SWMagnum_HP.label>
+  <Bullet_500SWMagnum_FMJ.label>.500 Smith Wessen Magnum bullet (FMJ)</Bullet_500SWMagnum_FMJ.label>
+  <Bullet_500SWMagnum_AP.label>.500 Smith Wessen Magnum bullet (AP)</Bullet_500SWMagnum_AP.label>
+  <Bullet_500SWMagnum_HP.label>.500 Smith Wessen Magnum bullet (HP)</Bullet_500SWMagnum_HP.label>
+  <Ammo_50AE_FMJ.description>This high-powered cartridge is one of the largest calibers found in handguns.</Ammo_50AE_FMJ.description>
+  <Ammo_50AE_FMJ.label>.50 AE cartridge (FMJ)</Ammo_50AE_FMJ.label>
+  <Ammo_50AE_AP.description>This high-powered cartridge is one of the largest calibers found in handguns.</Ammo_50AE_AP.description>
+  <Ammo_50AE_AP.label>.50 AE cartridge (AP)</Ammo_50AE_AP.label>
+  <Ammo_50AE_HP.description>This high-powered cartridge is one of the largest calibers found in handguns.</Ammo_50AE_HP.description>
+  <Ammo_50AE_HP.label>.50 AE cartridge (HP)</Ammo_50AE_HP.label>
+  <Bullet_50AE_FMJ.label>.50 AE bullet (FMJ)</Bullet_50AE_FMJ.label>
+  <Bullet_50AE_AP.label>.50 AE bullet (AP)</Bullet_50AE_AP.label>
+  <Bullet_50AE_HP.label>.50 AE bullet (HP)</Bullet_50AE_HP.label>
+  <Ammo_58x21mmDAP92_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_FMJ.description>
+  <Ammo_58x21mmDAP92_FMJ.label>5.8x21mm DAP92 cartridge (FMJ)</Ammo_58x21mmDAP92_FMJ.label>
+  <Ammo_58x21mmDAP92_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_AP.description>
+  <Ammo_58x21mmDAP92_AP.label>5.8x21mm DAP92 cartridge (AP)</Ammo_58x21mmDAP92_AP.label>
+  <Ammo_58x21mmDAP92_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_HP.description>
+  <Ammo_58x21mmDAP92_HP.label>5.8x21mm DAP92 cartridge (HP)</Ammo_58x21mmDAP92_HP.label>
+  <Bullet_58x21mmDAP92_FMJ.label>5.8mm DAP92 bullet (FMJ)</Bullet_58x21mmDAP92_FMJ.label>
+  <Bullet_58x21mmDAP92_AP.label>5.8mm DAP92 bullet (AP)</Bullet_58x21mmDAP92_AP.label>
+  <Bullet_58x21mmDAP92_HP.label>5.8mm DAP92 bullet (HP)</Bullet_58x21mmDAP92_HP.label>
+  <Ammo_762x25mmTokarev_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_FMJ.description>
+  <Ammo_762x25mmTokarev_FMJ.label>7.62x25mm Tokarev cartridge (FMJ)</Ammo_762x25mmTokarev_FMJ.label>
+  <Ammo_762x25mmTokarev_AP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_AP.description>
+  <Ammo_762x25mmTokarev_AP.label>7.62x25mm Tokarev cartridge (AP)</Ammo_762x25mmTokarev_AP.label>
+  <Ammo_762x25mmTokarev_HP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_HP.description>
+  <Ammo_762x25mmTokarev_HP.label>7.62x25mm Tokarev cartridge (HP)</Ammo_762x25mmTokarev_HP.label>
+  <Bullet_762x25mmTokarev_FMJ.label>7.62mm Tokarev bullet (FMJ)</Bullet_762x25mmTokarev_FMJ.label>
+  <Bullet_762x25mmTokarev_AP.label>7.62mm Tokarev bullet (AP)</Bullet_762x25mmTokarev_AP.label>
+  <Bullet_762x25mmTokarev_HP.label>7.62mm Tokarev bullet (HP)</Bullet_762x25mmTokarev_HP.label>
+  <Ammo_762x38mmR_FMJ.description>Uncommon rimmed pistol cartridge with the bullet seated further down the casing.</Ammo_762x38mmR_FMJ.description>
+  <Ammo_762x38mmR_FMJ.label>7.62x38mmR cartridge (FMJ)</Ammo_762x38mmR_FMJ.label>
+  <Ammo_762x38mmR_AP.description>Uncommon rimmed pistol cartridge with the bullet seated further down the casing.</Ammo_762x38mmR_AP.description>
+  <Ammo_762x38mmR_AP.label>7.62x38mmR cartridge (AP)</Ammo_762x38mmR_AP.label>
+  <Ammo_762x38mmR_HP.description>Uncommon rimmed pistol cartridge with the bullet seated further down the casing.</Ammo_762x38mmR_HP.description>
+  <Ammo_762x38mmR_HP.label>7.62x38mmR cartridge (HP)</Ammo_762x38mmR_HP.label>
+  <Bullet_762x38mmR_FMJ.label>7.62mmR pistol bullet (FMJ)</Bullet_762x38mmR_FMJ.label>
+  <Bullet_762x38mmR_AP.label>7.62mm Tokarev bullet (AP)</Bullet_762x38mmR_AP.label>
+  <Bullet_762x38mmR_HP.label>7.62mm Tokarev bullet (HP)</Bullet_762x38mmR_HP.label>
+  <Ammo_763x25mmMauser_FMJ.description>Uncommon pistol cartridge used by a few handguns.</Ammo_763x25mmMauser_FMJ.description>
+  <Ammo_763x25mmMauser_FMJ.label>7.63x25mm Mauser cartridge (FMJ)</Ammo_763x25mmMauser_FMJ.label>
+  <Ammo_763x25mmMauser_AP.description>Uncommon pistol cartridge used by a few handguns.</Ammo_763x25mmMauser_AP.description>
+  <Ammo_763x25mmMauser_AP.label>7.63x25mm Mauser cartridge (AP)</Ammo_763x25mmMauser_AP.label>
+  <Ammo_763x25mmMauser_HP.description>Uncommon pistol cartridge used by a few handguns.</Ammo_763x25mmMauser_HP.description>
+  <Ammo_763x25mmMauser_HP.label>7.63x25mm Mauser cartridge (HP)</Ammo_763x25mmMauser_HP.label>
+  <Bullet_763x25mmMauser_FMJ.label>7.63mm Mauser bullet (FMJ)</Bullet_763x25mmMauser_FMJ.label>
+  <Bullet_763x25mmMauser_AP.label>7.63mm Mauser bullet (AP)</Bullet_763x25mmMauser_AP.label>
+  <Bullet_763x25mmMauser_HP.label>7.63mm Mauser bullet (HP)</Bullet_763x25mmMauser_HP.label>
+  <Ammo_765x20mmLongue_FMJ.description>Uncommon rimless pistol cartridge used by vintage handguns and submachine guns.</Ammo_765x20mmLongue_FMJ.description>
+  <Ammo_765x20mmLongue_FMJ.label>7.65x20mm Longue cartridge (FMJ)</Ammo_765x20mmLongue_FMJ.label>
+  <Ammo_765x20mmLongue_AP.description>Uncommon rimless pistol cartridge used by vintage handguns and submachine guns.</Ammo_765x20mmLongue_AP.description>
+  <Ammo_765x20mmLongue_AP.label>7.65x20mm Longue cartridge (AP)</Ammo_765x20mmLongue_AP.label>
+  <Ammo_765x20mmLongue_HP.description>Uncommon rimless pistol cartridge used by vintage handguns and submachine guns.</Ammo_765x20mmLongue_HP.description>
+  <Ammo_765x20mmLongue_HP.label>7.65x20mm Longue cartridge (HP)</Ammo_765x20mmLongue_HP.label>
+  <Bullet_765x20mmLongue_FMJ.label>7.63mm Longue bullet (FMJ)</Bullet_765x20mmLongue_FMJ.label>
+  <Bullet_765x20mmLongue_AP.label>7.65x20mm Longue bullet (AP)</Bullet_765x20mmLongue_AP.label>
+  <Bullet_765x20mmLongue_HP.label>7.65x20mm Longue bullet (HP)</Bullet_765x20mmLongue_HP.label>
+  <Ammo_8x22mmNambu_FMJ.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_FMJ.description>
+  <Ammo_8x22mmNambu_FMJ.label>8x22mm Nambu cartridge (FMJ)</Ammo_8x22mmNambu_FMJ.label>
+  <Ammo_8x22mmNambu_AP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_AP.description>
+  <Ammo_8x22mmNambu_AP.label>8x22mm Nambu cartridge (AP)</Ammo_8x22mmNambu_AP.label>
+  <Ammo_8x22mmNambu_HP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_HP.description>
+  <Ammo_8x22mmNambu_HP.label>8x22mm Nambu cartridge (HP)</Ammo_8x22mmNambu_HP.label>
+  <Bullet_8x22mmNambu_FMJ.label>8mm Nambu bullet (FMJ)</Bullet_8x22mmNambu_FMJ.label>
+  <Bullet_8x22mmNambu_AP.label>8x22mm Nambu bullet (AP)</Bullet_8x22mmNambu_AP.label>
+  <Bullet_8x22mmNambu_HP.label>8x22mm Nambu bullet (HP)</Bullet_8x22mmNambu_HP.label>
+  <Ammo_9x18mmMakarov_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x18mmMakarov_FMJ.description>
+  <Ammo_9x18mmMakarov_FMJ.label>9x18mm Makarov cartridge (FMJ)</Ammo_9x18mmMakarov_FMJ.label>
+  <Ammo_9x18mmMakarov_AP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x18mmMakarov_AP.description>
+  <Ammo_9x18mmMakarov_AP.label>9x18mm Makarov cartridge (AP)</Ammo_9x18mmMakarov_AP.label>
+  <Ammo_9x18mmMakarov_HP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x18mmMakarov_HP.description>
+  <Ammo_9x18mmMakarov_HP.label>9x18mm Makarov cartridge (HP)</Ammo_9x18mmMakarov_HP.label>
+  <Bullet_9x18mmMakarov_FMJ.label>9mm Makarov bullet (FMJ)</Bullet_9x18mmMakarov_FMJ.label>
+  <Bullet_9x18mmMakarov_AP.label>9mm Makarov bullet (AP)</Bullet_9x18mmMakarov_AP.label>
+  <Bullet_9x18mmMakarov_HP.label>9mm Makarov bullet (HP)</Bullet_9x18mmMakarov_HP.label>
+  <Ammo_9x19mmPara_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x19mmPara_FMJ.description>
+  <Ammo_9x19mmPara_FMJ.label>9x19mm Para cartridge (FMJ)</Ammo_9x19mmPara_FMJ.label>
+  <Ammo_9x19mmPara_AP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x19mmPara_AP.description>
+  <Ammo_9x19mmPara_AP.label>9x19mm Para cartridge (AP)</Ammo_9x19mmPara_AP.label>
+  <Ammo_9x19mmPara_HP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x19mmPara_HP.description>
+  <Ammo_9x19mmPara_HP.label>9x19mm Para cartridge (HP)</Ammo_9x19mmPara_HP.label>
+  <Bullet_9x19mmPara_FMJ.label>9mm Para bullet (FMJ)</Bullet_9x19mmPara_FMJ.label>
+  <Bullet_9x19mmPara_AP.label>9mm Para bullet (AP)</Bullet_9x19mmPara_AP.label>
+  <Bullet_9x19mmPara_HP.label>9mm Para bullet (HP)</Bullet_9x19mmPara_HP.label>
+  <Ammo_9x21mmGyurza_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_9x21mmGyurza_FMJ.description>
+  <Ammo_9x21mmGyurza_FMJ.label>9x21mm Gyurza cartridge (FMJ)</Ammo_9x21mmGyurza_FMJ.label>
+  <Ammo_9x21mmGyurza_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_9x21mmGyurza_AP.description>
+  <Ammo_9x21mmGyurza_AP.label>9x21mm Gyurza cartridge (AP)</Ammo_9x21mmGyurza_AP.label>
+  <Ammo_9x21mmGyurza_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_9x21mmGyurza_HP.description>
+  <Ammo_9x21mmGyurza_HP.label>9x21mm Gyurza cartridge (HP)</Ammo_9x21mmGyurza_HP.label>
+  <Bullet_9x21mmGyurza_FMJ.label>9mm Gyurza bullet (FMJ)</Bullet_9x21mmGyurza_FMJ.label>
+  <Bullet_9x21mmGyurza_AP.label>9mm Gyurza bullet (AP)</Bullet_9x21mmGyurza_AP.label>
+  <Bullet_9x21mmGyurza_HP.label>9mm Gyurza bullet (HP)</Bullet_9x21mmGyurza_HP.label>
+  <Ammo_FN57x28mm_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_FN57x28mm_FMJ.description>
+  <Ammo_FN57x28mm_FMJ.label>FN 5.7x28mm cartridge (FMJ)</Ammo_FN57x28mm_FMJ.label>
+  <Ammo_FN57x28mm_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_FN57x28mm_AP.description>
+  <Ammo_FN57x28mm_AP.label>FN 5.7x28mm cartridge (AP)</Ammo_FN57x28mm_AP.label>
+  <Ammo_FN57x28mm_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_FN57x28mm_HP.description>
+  <Ammo_FN57x28mm_HP.label>FN 5.7x28mm cartridge (HP)</Ammo_FN57x28mm_HP.label>
+  <Bullet_FN57x28mm_FMJ.label>FN 5.7mm bullet (FMJ)</Bullet_FN57x28mm_FMJ.label>
+  <Bullet_FN57x28mm_AP.label>FN 5.7mm bullet (AP)</Bullet_FN57x28mm_AP.label>
+  <Bullet_FN57x28mm_HP.label>FN 5.7mm bullet (HP)</Bullet_FN57x28mm_HP.label>
+  <Ammo_127x55mmAR_FMJ.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mmAR_FMJ.description>
+  <Ammo_127x55mmAR_FMJ.label>12.7x55mm AR cartridge (FMJ)</Ammo_127x55mmAR_FMJ.label>
+  <Ammo_127x55mmAR_AP.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mmAR_AP.description>
+  <Ammo_127x55mmAR_AP.label>12.7x55mm AR cartridge (AP)</Ammo_127x55mmAR_AP.label>
+  <Ammo_127x55mmAR_HP.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mmAR_HP.description>
+  <Ammo_127x55mmAR_HP.label>12.7x55mm AR cartridge (HP)</Ammo_127x55mmAR_HP.label>
+  <Ammo_127x55mmAR_Incendiary.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mmAR_Incendiary.description>
+  <Ammo_127x55mmAR_Incendiary.label>12.7x55mm AR cartridge (AP-I)</Ammo_127x55mmAR_Incendiary.label>
+  <Ammo_127x55mmAR_HE.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mmAR_HE.description>
+  <Ammo_127x55mmAR_HE.label>12.7x55mm AR cartridge (HE)</Ammo_127x55mmAR_HE.label>
+  <Ammo_127x55mmAR_Sabot.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mmAR_Sabot.description>
+  <Ammo_127x55mmAR_Sabot.label>12.7x55mm AR cartridge (Sabot)</Ammo_127x55mmAR_Sabot.label>
+  <Bullet_127x55mmAR_FMJ.label>12.7mm AR bullet (FMJ)</Bullet_127x55mmAR_FMJ.label>
+  <Bullet_127x55mmAR_AP.label>12.7mm AR bullet (AP)</Bullet_127x55mmAR_AP.label>
+  <Bullet_127x55mmAR_HP.label>12.7mm AR bullet (HP)</Bullet_127x55mmAR_HP.label>
+  <Bullet_127x55mmAR_Incendiary.label>12.7mm AR bullet (AP-I)</Bullet_127x55mmAR_Incendiary.label>
+  <Bullet_127x55mmAR_HE.label>12.7mm AR bullet (HE)</Bullet_127x55mmAR_HE.label>
+  <Bullet_127x55mmAR_Sabot.label>12.7mm AR bullet (Sabot)</Bullet_127x55mmAR_Sabot.label>
+  <Ammo_127x55mmSniper_FMJ.description>High caliber subsonic sniper rifle cartridge designed for suppressed weapons.</Ammo_127x55mmSniper_FMJ.description>
+  <Ammo_127x55mmSniper_FMJ.label>12.7x55mm Sniper cartridge (FMJ)</Ammo_127x55mmSniper_FMJ.label>
+  <Ammo_127x55mmSniper_AP.description>High caliber subsonic sniper rifle cartridge designed for suppressed weapons.</Ammo_127x55mmSniper_AP.description>
+  <Ammo_127x55mmSniper_AP.label>12.7x55mm Sniper cartridge (AP)</Ammo_127x55mmSniper_AP.label>
+  <Ammo_127x55mmSniper_HP.description>High caliber subsonic sniper rifle cartridge designed for suppressed weapons.</Ammo_127x55mmSniper_HP.description>
+  <Ammo_127x55mmSniper_HP.label>12.7x55mm Sniper cartridge (HP)</Ammo_127x55mmSniper_HP.label>
+  <Bullet_127x55mmSniper_FMJ.label>12.7mm Sniper bullet (FMJ)</Bullet_127x55mmSniper_FMJ.label>
+  <Bullet_127x55mmSniper_AP.label>12.7mm Sniper bullet (AP)</Bullet_127x55mmSniper_AP.label>
+  <Bullet_127x55mmSniper_HP.label>12.7mm Sniper bullet (HP)</Bullet_127x55mmSniper_HP.label>
+  <Ammo_3006Springfield_FMJ.description>Large rifle bullet used in machine guns and battle rifles.</Ammo_3006Springfield_FMJ.description>
+  <Ammo_3006Springfield_FMJ.label>.30-06 Springfield cartridge (FMJ)</Ammo_3006Springfield_FMJ.label>
+  <Ammo_3006Springfield_AP.description>Large rifle bullet used in machine guns and battle rifles.</Ammo_3006Springfield_AP.description>
+  <Ammo_3006Springfield_AP.label>.30-06 Springfield cartridge (AP)</Ammo_3006Springfield_AP.label>
+  <Ammo_3006Springfield_HP.description>Large rifle bullet used in machine guns and battle rifles.</Ammo_3006Springfield_HP.description>
+  <Ammo_3006Springfield_HP.label>.30-06 Springfield cartridge (HP)</Ammo_3006Springfield_HP.label>
+  <Ammo_3006Springfield_Incendiary.description>Large rifle bullet used in machine guns and battle rifles.</Ammo_3006Springfield_Incendiary.description>
+  <Ammo_3006Springfield_Incendiary.label>.30-06 Springfield cartridge (AP-I)</Ammo_3006Springfield_Incendiary.label>
+  <Ammo_3006Springfield_HE.description>Large rifle bullet used in machine guns and battle rifles.</Ammo_3006Springfield_HE.description>
+  <Ammo_3006Springfield_HE.label>.30-06 Springfield cartridge (HE)</Ammo_3006Springfield_HE.label>
+  <Ammo_3006Springfield_Sabot.description>Large rifle bullet used in machine guns and battle rifles.</Ammo_3006Springfield_Sabot.description>
+  <Ammo_3006Springfield_Sabot.label>.30-06 Springfield cartridge (Sabot)</Ammo_3006Springfield_Sabot.label>
+  <Bullet_3006Springfield_FMJ.label>.30-06 Springfield cartridge (FMJ)</Bullet_3006Springfield_FMJ.label>
+  <Bullet_3006Springfield_AP.label>.30-06 Springfield cartridge (AP)</Bullet_3006Springfield_AP.label>
+  <Bullet_3006Springfield_HP.label>.30-06 Springfield cartridge (HP)</Bullet_3006Springfield_HP.label>
+  <Bullet_3006Springfield_Incendiary.label>.30-06 Springfield bullet (AP-I)</Bullet_3006Springfield_Incendiary.label>
+  <Bullet_3006Springfield_HE.label>.30-06 Springfield bullet (HE)</Bullet_3006Springfield_HE.label>
+  <Bullet_3006Springfield_Sabot.label>.30-06 Springfield bullet (Sabot)</Bullet_3006Springfield_Sabot.label>
+  <Ammo_300AACBlackout_FMJ.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_FMJ.description>
+  <Ammo_300AACBlackout_FMJ.label>.300 AAC Blackout cartridge (FMJ)</Ammo_300AACBlackout_FMJ.label>
+  <Ammo_300AACBlackout_AP.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_AP.description>
+  <Ammo_300AACBlackout_AP.label>.300 AAC Blackout cartridge (AP)</Ammo_300AACBlackout_AP.label>
+  <Ammo_300AACBlackout_HP.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_HP.description>
+  <Ammo_300AACBlackout_HP.label>.300 AAC Blackout cartridge (HP)</Ammo_300AACBlackout_HP.label>
+  <Ammo_300AACBlackout_Incendiary.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_Incendiary.description>
+  <Ammo_300AACBlackout_Incendiary.label>.300 AAC Blackout cartridge (AP-I)</Ammo_300AACBlackout_Incendiary.label>
+  <Ammo_300AACBlackout_HE.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_HE.description>
+  <Ammo_300AACBlackout_HE.label>.300 AAC Blackout cartridge (HE)</Ammo_300AACBlackout_HE.label>
+  <Ammo_300AACBlackout_Sabot.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_Sabot.description>
+  <Ammo_300AACBlackout_Sabot.label>.300 AAC Blackout cartridge (Sabot)</Ammo_300AACBlackout_Sabot.label>
+  <Bullet_300AACBlackout_FMJ.label>.300 AAC Blackout bullet (FMJ)</Bullet_300AACBlackout_FMJ.label>
+  <Bullet_300AACBlackout_AP.label>.300 AAC Blackout bullet (AP)</Bullet_300AACBlackout_AP.label>
+  <Bullet_300AACBlackout_HP.label>.300 AAC Blackout bullet (HP)</Bullet_300AACBlackout_HP.label>
+  <Bullet_300AACBlackout_Incendiary.label>.300 AAC Blackout bullet (AP-I)</Bullet_300AACBlackout_Incendiary.label>
+  <Bullet_300AACBlackout_HE.label>.300 AAC Blackout bullet (HE)</Bullet_300AACBlackout_HE.label>
+  <Bullet_300AACBlackout_Sabot.label>.300 AAC Blackout bullet (Sabot)</Bullet_300AACBlackout_Sabot.label>
+  <Ammo_303British_FMJ.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_FMJ.description>
+  <Ammo_303British_FMJ.label>.303 British cartridge (FMJ)</Ammo_303British_FMJ.label>
+  <Ammo_303British_AP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_AP.description>
+  <Ammo_303British_AP.label>.303 British cartridge (AP)</Ammo_303British_AP.label>
+  <Ammo_303British_HP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_HP.description>
+  <Ammo_303British_HP.label>.303 British cartridge (HP)</Ammo_303British_HP.label>
+  <Ammo_303British_Incendiary.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_Incendiary.description>
+  <Ammo_303British_Incendiary.label>.303 British cartridge (AP-I)</Ammo_303British_Incendiary.label>
+  <Ammo_303British_HE.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_HE.description>
+  <Ammo_303British_HE.label>.303 British cartridge (HE)</Ammo_303British_HE.label>
+  <Ammo_303British_Sabot.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_Sabot.description>
+  <Ammo_303British_Sabot.label>.303 British cartridge (Sabot)</Ammo_303British_Sabot.label>
+  <Bullet_303British_FMJ.label>.303 British bullet (FMJ)</Bullet_303British_FMJ.label>
+  <Bullet_303British_AP.label>.303 British bullet (AP)</Bullet_303British_AP.label>
+  <Bullet_303British_HP.label>.303 British bullet (HP)</Bullet_303British_HP.label>
+  <Bullet_303British_Incendiary.label>.303 British bullet (AP-I)</Bullet_303British_Incendiary.label>
+  <Bullet_303British_HE.label>.303 British bullet (HE)</Bullet_303British_HE.label>
+  <Bullet_303British_Sabot.label>.303 British bullet (Sabot)</Bullet_303British_Sabot.label>
+  <Ammo_30Carbine_FMJ.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_FMJ.description>
+  <Ammo_30Carbine_FMJ.label>.30 Carbine cartridge (FMJ)</Ammo_30Carbine_FMJ.label>
+  <Ammo_30Carbine_AP.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_AP.description>
+  <Ammo_30Carbine_AP.label>.30 Carbine cartridge (AP)</Ammo_30Carbine_AP.label>
+  <Ammo_30Carbine_HP.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_HP.description>
+  <Ammo_30Carbine_HP.label>.30 Carbine cartridge (HP)</Ammo_30Carbine_HP.label>
+  <Ammo_30Carbine_Incendiary.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_Incendiary.description>
+  <Ammo_30Carbine_Incendiary.label>.30 Carbine cartridge (AP-I)</Ammo_30Carbine_Incendiary.label>
+  <Ammo_30Carbine_HE.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_HE.description>
+  <Ammo_30Carbine_HE.label>.30 Carbine cartridge (HE)</Ammo_30Carbine_HE.label>
+  <Ammo_30Carbine_Sabot.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_Sabot.description>
+  <Ammo_30Carbine_Sabot.label>.30 Carbine cartridge (Sabot)</Ammo_30Carbine_Sabot.label>
+  <Bullet_30Carbine_FMJ.label>.30 Carbine bullet (FMJ)</Bullet_30Carbine_FMJ.label>
+  <Bullet_30Carbine_AP.label>.30 Carbine bullet (AP)</Bullet_30Carbine_AP.label>
+  <Bullet_30Carbine_HP.label>.30 Carbine bullet (HP)</Bullet_30Carbine_HP.label>
+  <Bullet_30Carbine_Incendiary.label>.30 Carbine bullet (AP-I)</Bullet_30Carbine_Incendiary.label>
+  <Bullet_30Carbine_HE.label>.30 Carbine bullet (HE)</Bullet_30Carbine_HE.label>
+  <Bullet_30Carbine_Sabot.label>.30 Carbine bullet (Sabot)</Bullet_30Carbine_Sabot.label>
+  <Ammo_44-40Winchester_FMJ.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_FMJ.description>
+  <Ammo_44-40Winchester_FMJ.label>.44-40 Winchester cartridge (FMJ)</Ammo_44-40Winchester_FMJ.label>
+  <Ammo_44-40Winchester_AP.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_AP.description>
+  <Ammo_44-40Winchester_AP.label>.44-40 Winchester cartridge (AP)</Ammo_44-40Winchester_AP.label>
+  <Ammo_44-40Winchester_HP.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_HP.description>
+  <Ammo_44-40Winchester_HP.label>.44-40 Winchester cartridge (HP)</Ammo_44-40Winchester_HP.label>
+  <Ammo_44-40Winchester_Incendiary.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_Incendiary.description>
+  <Ammo_44-40Winchester_Incendiary.label>.44-40 Winchester cartridge (AP-I)</Ammo_44-40Winchester_Incendiary.label>
+  <Ammo_44-40Winchester_HE.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_HE.description>
+  <Ammo_44-40Winchester_HE.label>.44-40 Winchester cartridge (HE)</Ammo_44-40Winchester_HE.label>
+  <Ammo_44-40Winchester_Sabot.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_Sabot.description>
+  <Ammo_44-40Winchester_Sabot.label>.44-40 Winchester cartridge (Sabot)</Ammo_44-40Winchester_Sabot.label>
+  <Bullet_44-40Winchester_FMJ.label>.44-40 Winchester bullet (FMJ)</Bullet_44-40Winchester_FMJ.label>
+  <Bullet_44-40Winchester_AP.label>.44-40 Winchester bullet (AP)</Bullet_44-40Winchester_AP.label>
+  <Bullet_44-40Winchester_HP.label>.44-40 Winchester bullet (HP)</Bullet_44-40Winchester_HP.label>
+  <Bullet_44-40Winchester_Incendiary.label>.44-40 Winchester bullet (AP-I)</Bullet_44-40Winchester_Incendiary.label>
+  <Bullet_44-40Winchester_HE.label>.44-40 Winchester bullet (HE)</Bullet_44-40Winchester_HE.label>
+  <Bullet_44-40Winchester_Sabot.label>.44-40 Winchester bullet (Sabot)</Bullet_44-40Winchester_Sabot.label>
+  <Ammo_4570Gov_FMJ.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_FMJ.description>
+  <Ammo_4570Gov_FMJ.label>.45-70 Government cartridge (FMJ)</Ammo_4570Gov_FMJ.label>
+  <Ammo_4570Gov_AP.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_AP.description>
+  <Ammo_4570Gov_AP.label>.45-70 Government cartridge (AP)</Ammo_4570Gov_AP.label>
+  <Ammo_4570Gov_HP.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_HP.description>
+  <Ammo_4570Gov_HP.label>.45-70 Government cartridge (HP)</Ammo_4570Gov_HP.label>
+  <Ammo_4570Gov_Incendiary.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_Incendiary.description>
+  <Ammo_4570Gov_Incendiary.label>.45-70 Government cartridge (AP-I)</Ammo_4570Gov_Incendiary.label>
+  <Ammo_4570Gov_HE.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_HE.description>
+  <Ammo_4570Gov_HE.label>.45-70 Government cartridge (HE)</Ammo_4570Gov_HE.label>
+  <Ammo_4570Gov_Sabot.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_Sabot.description>
+  <Ammo_4570Gov_Sabot.label>.45-70 Government cartridge (Sabot)</Ammo_4570Gov_Sabot.label>
+  <Bullet_4570Gov_FMJ.label>.45-70 Government cartridge (FMJ)</Bullet_4570Gov_FMJ.label>
+  <Bullet_4570Gov_AP.label>.45-70 Government cartridge (AP)</Bullet_4570Gov_AP.label>
+  <Bullet_4570Gov_HP.label>.45-70 Government cartridge (HP)</Bullet_4570Gov_HP.label>
+  <Bullet_4570Gov_Incendiary.label>.45-70 bullet (AP-I)</Bullet_4570Gov_Incendiary.label>
+  <Bullet_4570Gov_HE.label>.45-70 bullet (HE)</Bullet_4570Gov_HE.label>
+  <Bullet_4570Gov_Sabot.label>.45-70 bullet (Sabot)</Bullet_4570Gov_Sabot.label>
+  <Ammo_473x33mmCaseless_FMJ.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_FMJ.description>
+  <Ammo_473x33mmCaseless_FMJ.label>4.73x33mm Caseless cartridge (FMJ)</Ammo_473x33mmCaseless_FMJ.label>
+  <Ammo_473x33mmCaseless_AP.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_AP.description>
+  <Ammo_473x33mmCaseless_AP.label>4.73x33mm Caseless cartridge (AP)</Ammo_473x33mmCaseless_AP.label>
+  <Ammo_473x33mmCaseless_HP.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_HP.description>
+  <Ammo_473x33mmCaseless_HP.label>4.73x33mm Caseless cartridge (HP)</Ammo_473x33mmCaseless_HP.label>
+  <Ammo_473x33mmCaseless_Incendiary.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_Incendiary.description>
+  <Ammo_473x33mmCaseless_Incendiary.label>4.73x33mm Caseless cartridge (AP-I)</Ammo_473x33mmCaseless_Incendiary.label>
+  <Ammo_473x33mmCaseless_HE.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_HE.description>
+  <Ammo_473x33mmCaseless_HE.label>4.73x33mm Caseless cartridge (HE)</Ammo_473x33mmCaseless_HE.label>
+  <Ammo_473x33mmCaseless_Sabot.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_Sabot.description>
+  <Ammo_473x33mmCaseless_Sabot.label>4.73x33mm Caseless cartridge (Sabot)</Ammo_473x33mmCaseless_Sabot.label>
+  <Bullet_473x33mmCaseless_FMJ.label>4.73mm Caseless bullet (FMJ)</Bullet_473x33mmCaseless_FMJ.label>
+  <Bullet_473x33mmCaseless_AP.label>4.73mm Caseless bullet (AP)</Bullet_473x33mmCaseless_AP.label>
+  <Bullet_473x33mmCaseless_HP.label>4.73mm Caseless bullet (HP)</Bullet_473x33mmCaseless_HP.label>
+  <Bullet_473x33mmCaseless_Incendiary.label>4.73mm Caseless bullet (AP-I)</Bullet_473x33mmCaseless_Incendiary.label>
+  <Bullet_473x33mmCaseless_HE.label>4.73mm Caseless bullet (HE)</Bullet_473x33mmCaseless_HE.label>
+  <Bullet_473x33mmCaseless_Sabot.label>4.73mm Caseless bullet (Sabot)</Bullet_473x33mmCaseless_Sabot.label>
+  <Ammo_545x39mmSoviet_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_FMJ.description>
+  <Ammo_545x39mmSoviet_FMJ.label>5.45x39mm Soviet cartridge (FMJ)</Ammo_545x39mmSoviet_FMJ.label>
+  <Ammo_545x39mmSoviet_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_AP.description>
+  <Ammo_545x39mmSoviet_AP.label>5.45x39mm Soviet cartridge (AP)</Ammo_545x39mmSoviet_AP.label>
+  <Ammo_545x39mmSoviet_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_HP.description>
+  <Ammo_545x39mmSoviet_HP.label>5.45x39mm Soviet cartridge (HP)</Ammo_545x39mmSoviet_HP.label>
+  <Ammo_545x39mmSoviet_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_Incendiary.description>
+  <Ammo_545x39mmSoviet_Incendiary.label>5.45x39mm Soviet cartridge (AP-I)</Ammo_545x39mmSoviet_Incendiary.label>
+  <Ammo_545x39mmSoviet_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_HE.description>
+  <Ammo_545x39mmSoviet_HE.label>5.45x39mm Soviet cartridge (HE)</Ammo_545x39mmSoviet_HE.label>
+  <Ammo_545x39mmSoviet_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_Sabot.description>
+  <Ammo_545x39mmSoviet_Sabot.label>5.45x39mm Soviet cartridge (Sabot)</Ammo_545x39mmSoviet_Sabot.label>
+  <Bullet_545x39mmSoviet_FMJ.label>5.45mm Soviet bullet (FMJ)</Bullet_545x39mmSoviet_FMJ.label>
+  <Bullet_545x39mmSoviet_AP.label>5.45mm Soviet bullet (AP)</Bullet_545x39mmSoviet_AP.label>
+  <Bullet_545x39mmSoviet_HP.label>5.45mm Soviet bullet (HP)</Bullet_545x39mmSoviet_HP.label>
+  <Bullet_545x39mmSoviet_Incendiary.label>5.45mm Soviet bullet (AP-I)</Bullet_545x39mmSoviet_Incendiary.label>
+  <Bullet_545x39mmSoviet_HE.label>5.45mm Soviet bullet (HE)</Bullet_545x39mmSoviet_HE.label>
+  <Bullet_545x39mmSoviet_Sabot.label>5.45mm Soviet bullet (Sabot)</Bullet_545x39mmSoviet_Sabot.label>
+  <Ammo_556x45mmNATO_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_FMJ.description>
+  <Ammo_556x45mmNATO_FMJ.label>5.56x45mm NATO cartridge (FMJ)</Ammo_556x45mmNATO_FMJ.label>
+  <Ammo_556x45mmNATO_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_AP.description>
+  <Ammo_556x45mmNATO_AP.label>5.56x45mm NATO cartridge (AP)</Ammo_556x45mmNATO_AP.label>
+  <Ammo_556x45mmNATO_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HP.description>
+  <Ammo_556x45mmNATO_HP.label>5.56x45mm NATO cartridge (HP)</Ammo_556x45mmNATO_HP.label>
+  <Ammo_556x45mmNATO_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_Incendiary.description>
+  <Ammo_556x45mmNATO_Incendiary.label>5.56x45mm NATO cartridge (AP-I)</Ammo_556x45mmNATO_Incendiary.label>
+  <Ammo_556x45mmNATO_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HE.description>
+  <Ammo_556x45mmNATO_HE.label>5.56x45mm NATO cartridge (HE)</Ammo_556x45mmNATO_HE.label>
+  <Ammo_556x45mmNATO_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_Sabot.description>
+  <Ammo_556x45mmNATO_Sabot.label>5.56x45mm NATO cartridge (Sabot)</Ammo_556x45mmNATO_Sabot.label>
+  <Bullet_556x45mmNATO_FMJ.label>5.56mm NATO bullet (FMJ)</Bullet_556x45mmNATO_FMJ.label>
+  <Bullet_556x45mmNATO_AP.label>5.56mm NATO bullet (AP)</Bullet_556x45mmNATO_AP.label>
+  <Bullet_556x45mmNATO_HP.label>5.56mm NATO bullet (HP)</Bullet_556x45mmNATO_HP.label>
+  <Bullet_556x45mmNATO_Incendiary.label>5.56mm NATO bullet (AP-I)</Bullet_556x45mmNATO_Incendiary.label>
+  <Bullet_556x45mmNATO_HE.label>5.56mm NATO bullet (HE)</Bullet_556x45mmNATO_HE.label>
+  <Bullet_556x45mmNATO_Sabot.label>5.56mm NATO bullet (Sabot)</Bullet_556x45mmNATO_Sabot.label>
+  <Ammo_5656Spencer_FMJ.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_FMJ.description>
+  <Ammo_5656Spencer_FMJ.label>56-56 Spencer cartridge (FMJ)</Ammo_5656Spencer_FMJ.label>
+  <Ammo_5656Spencer_AP.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_AP.description>
+  <Ammo_5656Spencer_AP.label>.56-56 Spencer cartridge (AP)</Ammo_5656Spencer_AP.label>
+  <Ammo_5656Spencer_HP.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_HP.description>
+  <Ammo_5656Spencer_HP.label>.56-56 Spencer cartridge (HP)</Ammo_5656Spencer_HP.label>
+  <Ammo_5656Spencer_Incendiary.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_Incendiary.description>
+  <Ammo_5656Spencer_Incendiary.label>.56-56 Spencer cartridge (AP-I)</Ammo_5656Spencer_Incendiary.label>
+  <Ammo_5656Spencer_HE.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_HE.description>
+  <Ammo_5656Spencer_HE.label>.56-56 Spencer cartridge (HE)</Ammo_5656Spencer_HE.label>
+  <Ammo_5656Spencer_Sabot.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_Sabot.description>
+  <Ammo_5656Spencer_Sabot.label>.56-56 Spencer cartridge (Sabot)</Ammo_5656Spencer_Sabot.label>
+  <Bullet_5656Spencer_FMJ.label>.56-56 Spencer bullet (FMJ)</Bullet_5656Spencer_FMJ.label>
+  <Bullet_5656Spencer_AP.label>.56-56 Spencer bullet (AP)</Bullet_5656Spencer_AP.label>
+  <Bullet_5656Spencer_HP.label>.56-56 Spencer bullet (HP)</Bullet_5656Spencer_HP.label>
+  <Bullet_5656Spencer_Incendiary.label>.56-56 Spencer bullet (AP-I)</Bullet_5656Spencer_Incendiary.label>
+  <Bullet_5656Spencer_HE.label>.56-56 Spencer bullet (HE)</Bullet_5656Spencer_HE.label>
+  <Bullet_5656Spencer_Sabot.label>.56-56 Spencer bullet (Sabot)</Bullet_5656Spencer_Sabot.label>
+  <Ammo_58x42mmDBP10_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_FMJ.description>
+  <Ammo_58x42mmDBP10_FMJ.label>5.8x42mm DBP10 cartridge (FMJ)</Ammo_58x42mmDBP10_FMJ.label>
+  <Ammo_58x42mmDBP10_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_AP.description>
+  <Ammo_58x42mmDBP10_AP.label>5.8x42mm DBP10 cartridge (AP)</Ammo_58x42mmDBP10_AP.label>
+  <Ammo_58x42mmDBP10_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_HP.description>
+  <Ammo_58x42mmDBP10_HP.label>5.8x42mm DBP10 cartridge (HP)</Ammo_58x42mmDBP10_HP.label>
+  <Ammo_58x42mmDBP10_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_Incendiary.description>
+  <Ammo_58x42mmDBP10_Incendiary.label>5.8x42mm DBP10 cartridge (AP-I)</Ammo_58x42mmDBP10_Incendiary.label>
+  <Ammo_58x42mmDBP10_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_HE.description>
+  <Ammo_58x42mmDBP10_HE.label>5.8x42mm DBP10 cartridge (HE)</Ammo_58x42mmDBP10_HE.label>
+  <Ammo_58x42mmDBP10_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_Sabot.description>
+  <Ammo_58x42mmDBP10_Sabot.label>5.8x42mm DBP10 cartridge (Sabot)</Ammo_58x42mmDBP10_Sabot.label>
+  <Bullet_58x42mmDBP10_FMJ.label>5.8mm DBP10 bullet (FMJ)</Bullet_58x42mmDBP10_FMJ.label>
+  <Bullet_58x42mmDBP10_AP.label>5.8mm DBP10 bullet (AP)</Bullet_58x42mmDBP10_AP.label>
+  <Bullet_58x42mmDBP10_HP.label>5.8mm DBP10 bullet (HP)</Bullet_58x42mmDBP10_HP.label>
+  <Bullet_58x42mmDBP10_Incendiary.label>5.8mm DBP10 bullet (AP-I)</Bullet_58x42mmDBP10_Incendiary.label>
+  <Bullet_58x42mmDBP10_HE.label>5.8mm DBP10 bullet (HE)</Bullet_58x42mmDBP10_HE.label>
+  <Bullet_58x42mmDBP10_Sabot.label>5.8mm DBP10 bullet (Sabot)</Bullet_58x42mmDBP10_Sabot.label>
+  <Ammo_65x50mmSRArisaka_FMJ.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_FMJ.description>
+  <Ammo_65x50mmSRArisaka_FMJ.label>6.5x50mmSR Arisaka cartridge (FMJ)</Ammo_65x50mmSRArisaka_FMJ.label>
+  <Ammo_65x50mmSRArisaka_AP.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_AP.description>
+  <Ammo_65x50mmSRArisaka_AP.label>6.5x50mmSR Arisaka cartridge (AP)</Ammo_65x50mmSRArisaka_AP.label>
+  <Ammo_65x50mmSRArisaka_HP.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_HP.description>
+  <Ammo_65x50mmSRArisaka_HP.label>6.5x50mmSR Arisaka cartridge (HP)</Ammo_65x50mmSRArisaka_HP.label>
+  <Ammo_65x50mmSRArisaka_Incendiary.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_Incendiary.description>
+  <Ammo_65x50mmSRArisaka_Incendiary.label>6.5x50mmSR cartridge (AP-I)</Ammo_65x50mmSRArisaka_Incendiary.label>
+  <Ammo_65x50mmSRArisaka_HE.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_HE.description>
+  <Ammo_65x50mmSRArisaka_HE.label>6.5x50mmSR cartridge (HE)</Ammo_65x50mmSRArisaka_HE.label>
+  <Ammo_65x50mmSRArisaka_Sabot.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_Sabot.description>
+  <Ammo_65x50mmSRArisaka_Sabot.label>6.5x50mmSR cartridge (Sabot)</Ammo_65x50mmSRArisaka_Sabot.label>
+  <Bullet_65x50mmSRArisaka_FMJ.label>6.5mmSR Arisaka bullet (FMJ)</Bullet_65x50mmSRArisaka_FMJ.label>
+  <Bullet_65x50mmSRArisaka_AP.label>6.5mmSR Arisaka bullet (AP)</Bullet_65x50mmSRArisaka_AP.label>
+  <Bullet_65x50mmSRArisaka_HP.label>6.5mmSR Arisaka bullet (HP)</Bullet_65x50mmSRArisaka_HP.label>
+  <Bullet_65x50mmSRArisaka_Incendiary.label>6.5mmSR Arisaka bullet (AP-I)</Bullet_65x50mmSRArisaka_Incendiary.label>
+  <Bullet_65x50mmSRArisaka_HE.label>6.5mmSR Arisaka bullet (HE)</Bullet_65x50mmSRArisaka_HE.label>
+  <Bullet_65x50mmSRArisaka_Sabot.label>6.5mmSR Arisaka bullet (Sabot)</Bullet_65x50mmSRArisaka_Sabot.label>
+  <Ammo_792x57mmMauser_FMJ.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_FMJ.description>
+  <Ammo_792x57mmMauser_FMJ.label>7.92x57mm Mauser cartridge (FMJ)</Ammo_792x57mmMauser_FMJ.label>
+  <Ammo_792x57mmMauser_AP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_AP.description>
+  <Ammo_792x57mmMauser_AP.label>7.92x57mm Mauser cartridge (AP)</Ammo_792x57mmMauser_AP.label>
+  <Ammo_792x57mmMauser_HP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_HP.description>
+  <Ammo_792x57mmMauser_HP.label>7.92x57mm Mauser cartridge (HP)</Ammo_792x57mmMauser_HP.label>
+  <Ammo_792x57mmMauser_Incendiary.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_Incendiary.description>
+  <Ammo_792x57mmMauser_Incendiary.label>7.92x57mm Mauser cartridge (AP-I)</Ammo_792x57mmMauser_Incendiary.label>
+  <Ammo_792x57mmMauser_HE.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_HE.description>
+  <Ammo_792x57mmMauser_HE.label>7.92x57mm Mauser cartridge (HE)</Ammo_792x57mmMauser_HE.label>
+  <Ammo_792x57mmMauser_Sabot.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_Sabot.description>
+  <Ammo_792x57mmMauser_Sabot.label>7.92x57mm Mauser cartridge (Sabot)</Ammo_792x57mmMauser_Sabot.label>
+  <Bullet_792x57mmMauser_FMJ.label>7.92mm Mauser bullet (FMJ)</Bullet_792x57mmMauser_FMJ.label>
+  <Bullet_792x57mmMauser_AP.label>7.92mm Mauser bullet (AP)</Bullet_792x57mmMauser_AP.label>
+  <Bullet_792x57mmMauser_HP.label>7.92mm Mauser bullet (HP)</Bullet_792x57mmMauser_HP.label>
+  <Bullet_792x57mmMauser_Incendiary.label>7.92x57mm Mauser bullet (AP-I)</Bullet_792x57mmMauser_Incendiary.label>
+  <Bullet_792x57mmMauser_HE.label>7.92x57mm Mauser bullet (HE)</Bullet_792x57mmMauser_HE.label>
+  <Bullet_792x57mmMauser_Sabot.label>7.92x57mm Mauser bullet (Sabot)</Bullet_792x57mmMauser_Sabot.label>
+  <Ammo_792x94mmPatronen_FMJ.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_FMJ.description>
+  <Ammo_792x94mmPatronen_FMJ.label>7.92x94mm Patronen cartridge (FMJ)</Ammo_792x94mmPatronen_FMJ.label>
+  <Ammo_792x94mmPatronen_Incendiary.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_Incendiary.description>
+  <Ammo_792x94mmPatronen_Incendiary.label>7.92x94mm Patronen cartridge (AP-I)</Ammo_792x94mmPatronen_Incendiary.label>
+  <Ammo_792x94mmPatronen_HE.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_HE.description>
+  <Ammo_792x94mmPatronen_HE.label>7.92x94mm Patronen cartridge (HE)</Ammo_792x94mmPatronen_HE.label>
+  <Ammo_792x94mmPatronen_Sabot.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_Sabot.description>
+  <Ammo_792x94mmPatronen_Sabot.label>7.92x94mm Patronen cartridge (Sabot)</Ammo_792x94mmPatronen_Sabot.label>
+  <Bullet_792x94mmPatronen_FMJ.label>7.92x94mm Patronen bullet (FMJ)</Bullet_792x94mmPatronen_FMJ.label>
+  <Bullet_792x94mmPatronen_Incendiary.label>7.92x94mm Patronen bullet (AP-I)</Bullet_792x94mmPatronen_Incendiary.label>
+  <Bullet_792x94mmPatronen_HE.label>7.92x94mm Patronen bullet (HE)</Bullet_792x94mmPatronen_HE.label>
+  <Bullet_792x94mmPatronen_Sabot.label>7.92x94mm Patronen bullet (Sabot)</Bullet_792x94mmPatronen_Sabot.label>
+  <Ammo_75x54mmFrench_FMJ.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_FMJ.description>
+  <Ammo_75x54mmFrench_FMJ.label>7.5x54mm French cartridge (FMJ)</Ammo_75x54mmFrench_FMJ.label>
+  <Ammo_75x54mmFrench_AP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_AP.description>
+  <Ammo_75x54mmFrench_AP.label>7.5x54mm French cartridge (AP)</Ammo_75x54mmFrench_AP.label>
+  <Ammo_75x54mmFrench_HP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_HP.description>
+  <Ammo_75x54mmFrench_HP.label>7.5x54mm French cartridge (HP)</Ammo_75x54mmFrench_HP.label>
+  <Ammo_75x54mmFrench_Incendiary.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_Incendiary.description>
+  <Ammo_75x54mmFrench_Incendiary.label>7.5x54mm French cartridge (AP-I)</Ammo_75x54mmFrench_Incendiary.label>
+  <Ammo_75x54mmFrench_HE.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_HE.description>
+  <Ammo_75x54mmFrench_HE.label>7.5x54mm French cartridge (HE)</Ammo_75x54mmFrench_HE.label>
+  <Ammo_75x54mmFrench_Sabot.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_Sabot.description>
+  <Ammo_75x54mmFrench_Sabot.label>7.5x54mm French cartridge (Sabot)</Ammo_75x54mmFrench_Sabot.label>
+  <Bullet_75x54mmFrench_FMJ.label>7.5mm French bullet (FMJ)</Bullet_75x54mmFrench_FMJ.label>
+  <Bullet_75x54mmFrench_AP.label>7.5mm French bullet (AP)</Bullet_75x54mmFrench_AP.label>
+  <Bullet_75x54mmFrench_HP.label>7.5mm French bullet (HP)</Bullet_75x54mmFrench_HP.label>
+  <Bullet_75x54mmFrench_Incendiary.label>7.5mm French bullet (AP-I)</Bullet_75x54mmFrench_Incendiary.label>
+  <Bullet_75x54mmFrench_HE.label>7.5mm French bullet (HE)</Bullet_75x54mmFrench_HE.label>
+  <Bullet_75x54mmFrench_Sabot.label>7.5mm French bullet (Sabot)</Bullet_75x54mmFrench_Sabot.label>
+  <Ammo_762x39mmSoviet_FMJ.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_FMJ.description>
+  <Ammo_762x39mmSoviet_FMJ.label>7.62x39mm Soviet cartridge (FMJ)</Ammo_762x39mmSoviet_FMJ.label>
+  <Ammo_762x39mmSoviet_AP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_AP.description>
+  <Ammo_762x39mmSoviet_AP.label>7.62x39mm Soviet cartridge (AP)</Ammo_762x39mmSoviet_AP.label>
+  <Ammo_762x39mmSoviet_HP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_HP.description>
+  <Ammo_762x39mmSoviet_HP.label>7.62x39mm Soviet cartridge (HP)</Ammo_762x39mmSoviet_HP.label>
+  <Ammo_762x39mmSoviet_Incendiary.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_Incendiary.description>
+  <Ammo_762x39mmSoviet_Incendiary.label>7.62x39mm Soviet cartridge (AP-I)</Ammo_762x39mmSoviet_Incendiary.label>
+  <Ammo_762x39mmSoviet_HE.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_HE.description>
+  <Ammo_762x39mmSoviet_HE.label>7.62x39mm Soviet cartridge (HE)</Ammo_762x39mmSoviet_HE.label>
+  <Ammo_762x39mmSoviet_Sabot.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_Sabot.description>
+  <Ammo_762x39mmSoviet_Sabot.label>7.62x39mm Soviet cartridge (Sabot)</Ammo_762x39mmSoviet_Sabot.label>
+  <Bullet_762x39mmSoviet_FMJ.label>7.62mm Soviet bullet (FMJ)</Bullet_762x39mmSoviet_FMJ.label>
+  <Bullet_762x39mmSoviet_AP.label>7.62mm Soviet bullet (AP)</Bullet_762x39mmSoviet_AP.label>
+  <Bullet_762x39mmSoviet_HP.label>7.62mm Soviet bullet (HP)</Bullet_762x39mmSoviet_HP.label>
+  <Bullet_762x39mmSoviet_Incendiary.label>7.62mm Soviet bullet (AP-I)</Bullet_762x39mmSoviet_Incendiary.label>
+  <Bullet_762x39mmSoviet_HE.label>7.62mm Soviet bullet (HE)</Bullet_762x39mmSoviet_HE.label>
+  <Bullet_762x39mmSoviet_Sabot.label>7.62mm Soviet bullet (Sabot)</Bullet_762x39mmSoviet_Sabot.label>
+  <Ammo_762x51mmNATO_FMJ.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_FMJ.description>
+  <Ammo_762x51mmNATO_FMJ.label>7.62x51mm NATO cartridge (FMJ)</Ammo_762x51mmNATO_FMJ.label>
+  <Ammo_762x51mmNATO_AP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_AP.description>
+  <Ammo_762x51mmNATO_AP.label>7.62x51mm NATO cartridge (AP)</Ammo_762x51mmNATO_AP.label>
+  <Ammo_762x51mmNATO_HP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_HP.description>
+  <Ammo_762x51mmNATO_HP.label>7.62x51mm NATO cartridge (HP)</Ammo_762x51mmNATO_HP.label>
+  <Ammo_762x51mmNATO_Incendiary.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_Incendiary.description>
+  <Ammo_762x51mmNATO_Incendiary.label>7.62x51mm NATO cartridge (AP-I)</Ammo_762x51mmNATO_Incendiary.label>
+  <Ammo_762x51mmNATO_HE.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_HE.description>
+  <Ammo_762x51mmNATO_HE.label>7.62x51mm NATO cartridge (HE)</Ammo_762x51mmNATO_HE.label>
+  <Ammo_762x51mmNATO_Sabot.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_Sabot.description>
+  <Ammo_762x51mmNATO_Sabot.label>7.62x51mm NATO cartridge (Sabot)</Ammo_762x51mmNATO_Sabot.label>
+  <Bullet_762x51mmNATO_FMJ.label>7.62mm NATO bullet (FMJ)</Bullet_762x51mmNATO_FMJ.label>
+  <Bullet_762x51mmNATO_AP.label>7.62mm NATO bullet (AP)</Bullet_762x51mmNATO_AP.label>
+  <Bullet_762x51mmNATO_HP.label>7.62mm NATO bullet (HP)</Bullet_762x51mmNATO_HP.label>
+  <Bullet_762x51mmNATO_Incendiary.label>7.62mm NATO bullet (AP-I)</Bullet_762x51mmNATO_Incendiary.label>
+  <Bullet_762x51mmNATO_HE.label>7.62mm NATO bullet (HE)</Bullet_762x51mmNATO_HE.label>
+  <Bullet_762x51mmNATO_Sabot.label>7.62mm NATO bullet (Sabot)</Bullet_762x51mmNATO_Sabot.label>
+  <Ammo_762x54mmR_FMJ.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_FMJ.description>
+  <Ammo_762x54mmR_FMJ.label>7.62x54mmR cartridge (FMJ)</Ammo_762x54mmR_FMJ.label>
+  <Ammo_762x54mmR_AP.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_AP.description>
+  <Ammo_762x54mmR_AP.label>7.62x54mmR cartridge (AP)</Ammo_762x54mmR_AP.label>
+  <Ammo_762x54mmR_HP.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_HP.description>
+  <Ammo_762x54mmR_HP.label>7.62x54mmR cartridge (HP)</Ammo_762x54mmR_HP.label>
+  <Ammo_762x54mmR_Incendiary.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_Incendiary.description>
+  <Ammo_762x54mmR_Incendiary.label>7.62x54mmR cartridge (AP-I)</Ammo_762x54mmR_Incendiary.label>
+  <Ammo_762x54mmR_HE.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_HE.description>
+  <Ammo_762x54mmR_HE.label>7.62x54mmR cartridge (HE)</Ammo_762x54mmR_HE.label>
+  <Ammo_762x54mmR_Sabot.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_Sabot.description>
+  <Ammo_762x54mmR_Sabot.label>7.62x54mmR cartridge (Sabot)</Ammo_762x54mmR_Sabot.label>
+  <Bullet_762x54mmR_FMJ.label>7.62mmR bullet (FMJ)</Bullet_762x54mmR_FMJ.label>
+  <Bullet_762x54mmR_AP.label>7.62mmR bullet (AP)</Bullet_762x54mmR_AP.label>
+  <Bullet_762x54mmR_HP.label>7.62mmR bullet (HP)</Bullet_762x54mmR_HP.label>
+  <Bullet_762x54mmR_Incendiary.label>7.62mmR bullet (AP-I)</Bullet_762x54mmR_Incendiary.label>
+  <Bullet_762x54mmR_HE.label>7.62mmR bullet (HE)</Bullet_762x54mmR_HE.label>
+  <Bullet_762x54mmR_Sabot.label>7.62mmR bullet (Sabot)</Bullet_762x54mmR_Sabot.label>
+  <Ammo_77x58mmArisaka_FMJ.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_77x58mmArisaka_FMJ.description>
+  <Ammo_77x58mmArisaka_FMJ.label>7.7x58mm Arisaka cartridge (FMJ)</Ammo_77x58mmArisaka_FMJ.label>
+  <Ammo_77x58mmArisaka_AP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_77x58mmArisaka_AP.description>
+  <Ammo_77x58mmArisaka_AP.label>7.7x58mm Arisaka cartridge (AP)</Ammo_77x58mmArisaka_AP.label>
+  <Ammo_77x58mmArisaka_HP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_77x58mmArisaka_HP.description>
+  <Ammo_77x58mmArisaka_HP.label>7.7x58mm Arisaka cartridge (HP)</Ammo_77x58mmArisaka_HP.label>
+  <Ammo_77x58mmArisaka_Incendiary.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_77x58mmArisaka_Incendiary.description>
+  <Ammo_77x58mmArisaka_Incendiary.label>7.7x58mm Arisaka cartridge (AP-I)</Ammo_77x58mmArisaka_Incendiary.label>
+  <Ammo_77x58mmArisaka_HE.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_77x58mmArisaka_HE.description>
+  <Ammo_77x58mmArisaka_HE.label>7.7x58mm Arisaka cartridge (HE)</Ammo_77x58mmArisaka_HE.label>
+  <Ammo_77x58mmArisaka_Sabot.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_77x58mmArisaka_Sabot.description>
+  <Ammo_77x58mmArisaka_Sabot.label>7.7x58mm Arisaka cartridge (Sabot)</Ammo_77x58mmArisaka_Sabot.label>
+  <Bullet_77x58mmArisaka_FMJ.label>7.7mm Arisaka bullet (FMJ)</Bullet_77x58mmArisaka_FMJ.label>
+  <Bullet_77x58mmArisaka_AP.label>7.7x58mm Arisaka bullet (AP)</Bullet_77x58mmArisaka_AP.label>
+  <Bullet_77x58mmArisaka_HP.label>7.7x58mm Arisaka bullet (HP)</Bullet_77x58mmArisaka_HP.label>
+  <Bullet_77x58mmArisaka_Incendiary.label>7.7x58mm Arisaka bullet (AP-I)</Bullet_77x58mmArisaka_Incendiary.label>
+  <Bullet_77x58mmArisaka_HE.label>7.7x58mm Arisaka bullet (HE)</Bullet_77x58mmArisaka_HE.label>
+  <Bullet_77x58mmArisaka_Sabot.label>7.7x58mm Arisaka bullet (Sabot)</Bullet_77x58mmArisaka_Sabot.label>
+  <Ammo_792x33mmKurz_FMJ.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_FMJ.description>
+  <Ammo_792x33mmKurz_FMJ.label>7.92x33mm Kurz cartridge (FMJ)</Ammo_792x33mmKurz_FMJ.label>
+  <Ammo_792x33mmKurz_AP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_AP.description>
+  <Ammo_792x33mmKurz_AP.label>7.92x33mm Kurz cartridge (AP)</Ammo_792x33mmKurz_AP.label>
+  <Ammo_792x33mmKurz_HP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_HP.description>
+  <Ammo_792x33mmKurz_HP.label>7.92x33mm Kurz cartridge (HP)</Ammo_792x33mmKurz_HP.label>
+  <Ammo_792x33mmKurz_Incendiary.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_Incendiary.description>
+  <Ammo_792x33mmKurz_Incendiary.label>7.92x33mm Kurz cartridge (AP-I)</Ammo_792x33mmKurz_Incendiary.label>
+  <Ammo_792x33mmKurz_HE.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_HE.description>
+  <Ammo_792x33mmKurz_HE.label>7.92x33mm Kurz cartridge (HE)</Ammo_792x33mmKurz_HE.label>
+  <Ammo_792x33mmKurz_Sabot.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_Sabot.description>
+  <Ammo_792x33mmKurz_Sabot.label>7.92x33mm Kurz cartridge (Sabot)</Ammo_792x33mmKurz_Sabot.label>
+  <Bullet_792x33mmKurz_FMJ.label>7.92mm Kurz bullet (FMJ)</Bullet_792x33mmKurz_FMJ.label>
+  <Bullet_792x33mmKurz_AP.label>7.92mm Kurz bullet (AP)</Bullet_792x33mmKurz_AP.label>
+  <Bullet_792x33mmKurz_HP.label>7.92mm Kurz bullet (HP)</Bullet_792x33mmKurz_HP.label>
+  <Bullet_792x33mmKurz_Incendiary.label>7.92mm Kurz bullet (AP-I)</Bullet_792x33mmKurz_Incendiary.label>
+  <Bullet_792x33mmKurz_HE.label>7.92mm Kurz bullet (HE)</Bullet_792x33mmKurz_HE.label>
+  <Bullet_792x33mmKurz_Sabot.label>7.92mm Kurz bullet (Sabot)</Bullet_792x33mmKurz_Sabot.label>
+  <Ammo_8x50mmRLebel_FMJ.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_FMJ.description>
+  <Ammo_8x50mmRLebel_FMJ.label>8x50mmR Lebel cartridge (FMJ)</Ammo_8x50mmRLebel_FMJ.label>
+  <Ammo_8x50mmRLebel_AP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_AP.description>
+  <Ammo_8x50mmRLebel_AP.label>8x50mmR Lebel cartridge (AP)</Ammo_8x50mmRLebel_AP.label>
+  <Ammo_8x50mmRLebel_HP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_HP.description>
+  <Ammo_8x50mmRLebel_HP.label>8x50mmR Lebel cartridge (HP)</Ammo_8x50mmRLebel_HP.label>
+  <Ammo_8x50mmRLebel_Incendiary.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_Incendiary.description>
+  <Ammo_8x50mmRLebel_Incendiary.label>8x50mmR Lebel cartridge (AP-I)</Ammo_8x50mmRLebel_Incendiary.label>
+  <Ammo_8x50mmRLebel_HE.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_HE.description>
+  <Ammo_8x50mmRLebel_HE.label>8x50mmR Lebel cartridge (HE)</Ammo_8x50mmRLebel_HE.label>
+  <Ammo_8x50mmRLebel_Sabot.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_Sabot.description>
+  <Ammo_8x50mmRLebel_Sabot.label>8x50mmR Lebel cartridge (Sabot)</Ammo_8x50mmRLebel_Sabot.label>
+  <Bullet_8x50mmRLebel_FMJ.label>8mmR Lebel bullet (FMJ)</Bullet_8x50mmRLebel_FMJ.label>
+  <Bullet_8x50mmRLebel_AP.label>8mmR Lebel bullet (AP)</Bullet_8x50mmRLebel_AP.label>
+  <Bullet_8x50mmRLebel_HP.label>8mmR Lebel bullet (HP)</Bullet_8x50mmRLebel_HP.label>
+  <Bullet_8x50mmRLebel_Incendiary.label>8mmR Lebel bullet (AP-I)</Bullet_8x50mmRLebel_Incendiary.label>
+  <Bullet_8x50mmRLebel_HE.label>8mmR Lebel bullet (HE)</Bullet_8x50mmRLebel_HE.label>
+  <Bullet_8x50mmRLebel_Sabot.label>8mmR Lebel bullet (Sabot)</Bullet_8x50mmRLebel_Sabot.label>
+  <Ammo_9x39mmSoviet_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_9x39mmSoviet_FMJ.description>
+  <Ammo_9x39mmSoviet_FMJ.label>9x39mm Soviet cartridge (FMJ)</Ammo_9x39mmSoviet_FMJ.label>
+  <Ammo_9x39mmSoviet_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_9x39mmSoviet_AP.description>
+  <Ammo_9x39mmSoviet_AP.label>9x39mm Soviet cartridge (AP)</Ammo_9x39mmSoviet_AP.label>
+  <Ammo_9x39mmSoviet_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_9x39mmSoviet_HP.description>
+  <Ammo_9x39mmSoviet_HP.label>9x39mm Soviet cartridge (HP)</Ammo_9x39mmSoviet_HP.label>
+  <Ammo_9x39mmSoviet_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_9x39mmSoviet_Incendiary.description>
+  <Ammo_9x39mmSoviet_Incendiary.label>9x39mm Soviet cartridge (AP-I)</Ammo_9x39mmSoviet_Incendiary.label>
+  <Ammo_9x39mmSoviet_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_9x39mmSoviet_HE.description>
+  <Ammo_9x39mmSoviet_HE.label>9x39mm Soviet cartridge (HE)</Ammo_9x39mmSoviet_HE.label>
+  <Ammo_9x39mmSoviet_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_9x39mmSoviet_Sabot.description>
+  <Ammo_9x39mmSoviet_Sabot.label>9x39mm Soviet cartridge (Sabot)</Ammo_9x39mmSoviet_Sabot.label>
+  <Bullet_9x39mmSoviet_FMJ.label>9mm Soviet bullet (FMJ)</Bullet_9x39mmSoviet_FMJ.label>
+  <Bullet_9x39mmSoviet_AP.label>9mm Soviet bullet (AP)</Bullet_9x39mmSoviet_AP.label>
+  <Bullet_9x39mmSoviet_HP.label>9mm Soviet bullet (HP)</Bullet_9x39mmSoviet_HP.label>
+  <Bullet_9x39mmSoviet_Incendiary.label>9mm Soviet bullet (AP-I)</Bullet_9x39mmSoviet_Incendiary.label>
+  <Bullet_9x39mmSoviet_HE.label>9mm Soviet bullet (HE)</Bullet_9x39mmSoviet_HE.label>
+  <Bullet_9x39mmSoviet_Sabot.label>9mm Soviet bullet (Sabot)</Bullet_9x39mmSoviet_Sabot.label>
+  <Bullet_127mmJavelinMissile.label>FGM-148 Javelin missile</Bullet_127mmJavelinMissile.label>
+  <Ammo_130mmType63_HE.description>130mm heavy rocket typically used in multi-barrel rocket artillery launchers.</Ammo_130mmType63_HE.description>
+  <Ammo_130mmType63_HE.label>130mm Type 63 Rocket (HE)</Ammo_130mmType63_HE.label>
+  <Bullet_130mmType63_HE.label>130mm Type 63 Rocket (HE)</Bullet_130mmType63_HE.label>
+  <Bullet_150mmMBTLAWMissile.label>MBT LAW missile</Bullet_150mmMBTLAWMissile.label>
+  <Ammo_20mmFliegerfaust_HE.description>Outdated 20mm rocket designed to be fired in volleys at airplanes.</Ammo_20mmFliegerfaust_HE.description>
+  <Ammo_20mmFliegerfaust_HE.label>20mm Fliegerfaust (HE)</Ammo_20mmFliegerfaust_HE.label>
+  <Bullet_20mmFliegerfaust_HE.label>20mm Fliegerfaust rocket (HE)</Bullet_20mmFliegerfaust_HE.label>
+  <Ammo_70mmAPKWS_HEAT.description>70mm laser-guided munition known as the Advanced Precision Kill Weapon System (APKWS), based on Hydra 70 unguided rockets.</Ammo_70mmAPKWS_HEAT.description>
+  <Ammo_70mmAPKWS_HEAT.label>70mm APKWS Rocket (HEAT)</Ammo_70mmAPKWS_HEAT.label>
+  <Bullet_70mmAPKWS_HEAT.label>70mm APKWS Rocket (HEAT)</Bullet_70mmAPKWS_HEAT.label>
+  <Ammo_83mmSMAW_HEAT.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_HEAT.description>
+  <Ammo_83mmSMAW_HEAT.label>83mm SMAW rocket (HEAT)</Ammo_83mmSMAW_HEAT.label>
+  <Ammo_83mmSMAW_HE.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_HE.description>
+  <Ammo_83mmSMAW_HE.label>83mm SMAW rocket (HE)</Ammo_83mmSMAW_HE.label>
+  <Ammo_83mmSMAW_Thermobaric.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_Thermobaric.description>
+  <Ammo_83mmSMAW_Thermobaric.label>83mm SMAW rocket (Thermobaric)</Ammo_83mmSMAW_Thermobaric.label>
+  <Bullet_83mmSMAW_HEAT.label>83mm SMAW rocket (HEAT)</Bullet_83mmSMAW_HEAT.label>
+  <Bullet_83mmSMAW_HE.label>83mm SMAW rocket (HE)</Bullet_83mmSMAW_HE.label>
+  <Bullet_83mmSMAW_Thermobaric.label>83mm SMAW rocket (Thermobaric)</Bullet_83mmSMAW_Thermobaric.label>
+  <Bullet_84mmAT4_HEAT.label>AT4 rocket</Bullet_84mmAT4_HEAT.label>
+  <Ammo_84x246mmR_HEAT.description>Recoilless cartridge designed for use with the Carl Gustav rifle.</Ammo_84x246mmR_HEAT.description>
+  <Ammo_84x246mmR_HEAT.label>84x246mmR cartridge (HEAT)</Ammo_84x246mmR_HEAT.label>
+  <Ammo_84x246mmR_HE.description>Recoilless cartridge designed for use with the Carl Gustav rifle.</Ammo_84x246mmR_HE.description>
+  <Ammo_84x246mmR_HE.label>84x246mmR cartridge (HE)</Ammo_84x246mmR_HE.label>
+  <Bullet_84x246mmR_HEAT.label>84x246mmR shell (HEAT)</Bullet_84x246mmR_HEAT.label>
+  <Bullet_84x246mmR_HE.label>84x246mmR shell (HE)</Bullet_84x246mmR_HE.label>
+  <Ammo_88mmRPzB_HEAT.description>Outdated 88mm rocket.</Ammo_88mmRPzB_HEAT.description>
+  <Ammo_88mmRPzB_HEAT.label>88mm RPzB Rocket (HEAT)</Ammo_88mmRPzB_HEAT.label>
+  <Bullet_88mmRPzB_HEAT.label>88mm RPzB rocket (HEAT)</Bullet_88mmRPzB_HEAT.label>
+  <Bullet_90mmMATADOR.label>90mm MATADOR missile</Bullet_90mmMATADOR.label>
+  <Ammo_M6_HEAT.description>Outdated 60mm rocket-propelled grenade designed for the M1 Bazooka.</Ammo_M6_HEAT.description>
+  <Ammo_M6_HEAT.label>M6 Rocket (HEAT)</Ammo_M6_HEAT.label>
+  <Bullet_M6_HEAT.label>M6 rocket (HEAT)</Bullet_M6_HEAT.label>
+  <Ammo_M6A1_HEAT.description>Outdated 60mm rocket-propelled grenade designed for the M1A1 Bazooka.</Ammo_M6A1_HEAT.description>
+  <Ammo_M6A1_HEAT.label>M6A1 Rocket (HEAT)</Ammo_M6A1_HEAT.label>
+  <Bullet_M6A1_HEAT.label>M6A1 rocket (HEAT)</Bullet_M6A1_HEAT.label>
+  <Ammo_M6A3_HEAT.description>Outdated 60mm rocket-propelled grenade designed for the M9 Bazooka.</Ammo_M6A3_HEAT.description>
+  <Ammo_M6A3_HEAT.label>M6A3 Rocket (HEAT)</Ammo_M6A3_HEAT.label>
+  <Ammo_M6A3_Incendiary.description>Outdated 60mm rocket-propelled grenade designed for the M9 Bazooka.</Ammo_M6A3_Incendiary.description>
+  <Ammo_M6A3_Incendiary.label>M6A3 Rocket (Incendiary)</Ammo_M6A3_Incendiary.label>
+  <Bullet_M6A3_HEAT.label>M6A3 rocket (HEAT)</Bullet_M6A3_HEAT.label>
+  <Bullet_M6A3_Incendiary.label>M6A3 rocket (Incendiary)</Bullet_M6A3_Incendiary.label>
+  <Bullet_M72LAW.label>M72 LAW grenade</Bullet_M72LAW.label>
+  <Ammo_M74_Incendiary.description>66mm incendiary rocket based upon the rocket used in the M72 LAW, for use in the quadruple-tubed M202 FLASH.</Ammo_M74_Incendiary.description>
+  <Ammo_M74_Incendiary.label>M74 Rocket (Incendiary)</Ammo_M74_Incendiary.label>
+  <Bullet_M74_Incendiary.label>M74 Rocket (Incendiary)</Bullet_M74_Incendiary.label>
+  <Bullet_RPG28Klyukva.label>RPG-28 grenade</Bullet_RPG28Klyukva.label>
+  <Ammo_RPG32Rocket_HEAT.description>Rocket-propelled grenade designed for the RPG-32 launcher. After being fired, a rocket motor kicks in to propel the grenade further.</Ammo_RPG32Rocket_HEAT.description>
+  <Ammo_RPG32Rocket_HEAT.label>RPG-32 grenade (HEAT)</Ammo_RPG32Rocket_HEAT.label>
+  <Ammo_RPG32Rocket_Thermobaric.description>Rocket-propelled grenade designed for the RPG-32 launcher. After being fired, a rocket motor kicks in to propel the grenade further.</Ammo_RPG32Rocket_Thermobaric.description>
+  <Ammo_RPG32Rocket_Thermobaric.label>RPG-32 grenade (Thermobaric)</Ammo_RPG32Rocket_Thermobaric.label>
+  <Bullet_RPG32Rocket_HEAT.label>RPG-32 grenade (HEAT)</Bullet_RPG32Rocket_HEAT.label>
+  <Bullet_RPG32Rocket_Thermobaric.label>RPG-32 grenade (Thermobaric)</Bullet_RPG32Rocket_Thermobaric.label>
+  <Ammo_RPG7Grenade_HEAT.description>Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_HEAT.description>
+  <Ammo_RPG7Grenade_HEAT.label>RPG-7 grenade (HEAT)</Ammo_RPG7Grenade_HEAT.label>
+  <Ammo_RPG7Grenade_Thermobaric.description>Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_Thermobaric.description>
+  <Ammo_RPG7Grenade_Thermobaric.label>RPG-7 grenade (Thermobaric)</Ammo_RPG7Grenade_Thermobaric.label>
+  <Ammo_RPG7Grenade_Frag.description>Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_Frag.description>
+  <Ammo_RPG7Grenade_Frag.label>RPG-7 grenade (Frag)</Ammo_RPG7Grenade_Frag.label>
+  <Bullet_RPG7Grenade_HEAT.label>RPG-7 grenade (HEAT)</Bullet_RPG7Grenade_HEAT.label>
+  <Bullet_RPG7Grenade_Thermobaric.label>RPG-7 grenade (Thermobaric)</Bullet_RPG7Grenade_Thermobaric.label>
+  <Bullet_RPG7Grenade_Frag.label>RPG-7 grenade (Frag)</Bullet_RPG7Grenade_Frag.label>
+  <Bullet_RPO_A_Grenade.label>RPO-A grenade</Bullet_RPO_A_Grenade.label>
+  <Bullet_RPO_Z_Grenade.label>RPO-Z grenade</Bullet_RPO_Z_Grenade.label>
+  <Bullet_RPO_D_Grenade.label>RPO-D grenade</Bullet_RPO_D_Grenade.label>
+  <Ammo_SPG9Grenade_HEAT.description>Rocket-assisted projectile for use with the SPG-9 launcher.</Ammo_SPG9Grenade_HEAT.description>
+  <Ammo_SPG9Grenade_HEAT.label>SPG-9 grenade (HEAT)</Ammo_SPG9Grenade_HEAT.label>
+  <Ammo_SPG9Grenade_Frag.description>Rocket-assisted projectile for use with the SPG-9 launcher.</Ammo_SPG9Grenade_Frag.description>
+  <Ammo_SPG9Grenade_Frag.label>SPG-9 grenade (Frag)</Ammo_SPG9Grenade_Frag.label>
+  <Bullet_SPG9Grenade_HEAT.label>SPG-9 grenade (HEAT)</Bullet_SPG9Grenade_HEAT.label>
+  <Bullet_SPG9Grenade_Frag.label>SPG-9 grenade (Frag)</Bullet_SPG9Grenade_Frag.label>
+  <Ammo_TomahawkLAM.description>Long-range, all-weather, jet-powered, surface-launched subsonic cruise missile designed to attack land targets.</Ammo_TomahawkLAM.description>
+  <Ammo_TomahawkLAM.label>Tomahawk Missile</Ammo_TomahawkLAM.label>
+  <Bullet_TomahawkLAM.label>Tomahawk Missile</Bullet_TomahawkLAM.label>
+  <Ammo_100x695mmRCannonShell_HEAT.description>Large cannon shells, typically used by D-10 tank guns.</Ammo_100x695mmRCannonShell_HEAT.description>
+  <Ammo_100x695mmRCannonShell_HEAT.label>100x695mmR cannon shell (HEAT)</Ammo_100x695mmRCannonShell_HEAT.label>
+  <Ammo_100x695mmRCannonShell_HE.description>Large cannon shells, typically used by D-10 tank guns.</Ammo_100x695mmRCannonShell_HE.description>
+  <Ammo_100x695mmRCannonShell_HE.label>100x695mmR cannon shell (HE)</Ammo_100x695mmRCannonShell_HE.label>
+  <Bullet_100x695mmRCannonShell_HEAT.label>100x695mmR cannon shell (HEAT)</Bullet_100x695mmRCannonShell_HEAT.label>
+  <Bullet_100x695mmRCannonShell_HE.label>100x695mmR cannon shell (HE)</Bullet_100x695mmRCannonShell_HE.label>
+  <Ammo_120mmCannonShell_HEAT.description>Large cannon shells, typically used by 120mm smoothbore tank guns.</Ammo_120mmCannonShell_HEAT.description>
+  <Ammo_120mmCannonShell_HEAT.label>120mm cannon shell (HEAT)</Ammo_120mmCannonShell_HEAT.label>
+  <Ammo_120mmCannonShell_HE.description>Large cannon shells, typically used by 120mm smoothbore tank guns.</Ammo_120mmCannonShell_HE.description>
+  <Ammo_120mmCannonShell_HE.label>120mm cannon shell (HE)</Ammo_120mmCannonShell_HE.label>
+  <Bullet_120mmCannonShell_HEAT.label>120mm cannon shell (HEAT)</Bullet_120mmCannonShell_HEAT.label>
+  <Bullet_120mmCannonShell_HE.label>120mm cannon shell (HE)</Bullet_120mmCannonShell_HE.label>
+  <Ammo_155mmHowitzerShell_HE.description>Large cannon shell used by howitzers.</Ammo_155mmHowitzerShell_HE.description>
+  <Ammo_155mmHowitzerShell_HE.label>155mm Howitzer shell (HE)</Ammo_155mmHowitzerShell_HE.label>
+  <Bullet_155mmHowitzerShell_HE.label>155mm Howitzer shell (HE)</Bullet_155mmHowitzerShell_HE.label>
+  <Ammo_28cmSpgrShell_HE.description>Very large obsolete cannon shell used in naval battleship turrets.</Ammo_28cmSpgrShell_HE.description>
+  <Ammo_28cmSpgrShell_HE.label>28cm Spgr. shell (HE)</Ammo_28cmSpgrShell_HE.label>
+  <Bullet_28cmSpgrShell_HE.label>28cm Spgr. shell (HE)</Bullet_28cmSpgrShell_HE.label>
+  <Ammo_40x365mmBofors_HE.description>Large caliber cartridge used by autocannons and anti-aircraft cannons.</Ammo_40x365mmBofors_HE.description>
+  <Ammo_40x365mmBofors_HE.label>40x365mm Bofors cartridge (HE)</Ammo_40x365mmBofors_HE.label>
+  <Ammo_40x365mmBofors_AP.description>Large caliber cartridge used by autocannons and anti-aircraft cannons.</Ammo_40x365mmBofors_AP.description>
+  <Ammo_40x365mmBofors_AP.label>40x365mm Bofors cartridge (AP)</Ammo_40x365mmBofors_AP.label>
+  <Bullet_40x365mmBofors_HE.label>40x365mm Bofors bullet (HE)</Bullet_40x365mmBofors_HE.label>
+  <Bullet_40x365mmBofors_AP.label>40x365mm Bofors bullet (AP)</Bullet_40x365mmBofors_AP.label>
+  <Ammo_50mmType89MortarShell_HE.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_HE.description>
+  <Ammo_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (HE)</Ammo_50mmType89MortarShell_HE.label>
+  <Bullet_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (HE)</Bullet_50mmType89MortarShell_HE.label>
+  <Ammo_57x483mmBofors_HE.description>Large caliber cartridge used by naval artillery cannons.</Ammo_57x483mmBofors_HE.description>
+  <Ammo_57x483mmBofors_HE.label>57x483mm Bofors cartridge (HE)</Ammo_57x483mmBofors_HE.label>
+  <Bullet_57x483mmBofors_HE.label>57x483mm Bofors bullet (HE)</Bullet_57x483mmBofors_HE.label>
+  <Shell_60mmMortar_HE.label>60mm mortar shell (HE)</Shell_60mmMortar_HE.label>
+  <Shell_60mmMortar_Incendiary.label>60mm mortar shell (Incendiary)</Shell_60mmMortar_Incendiary.label>
+  <Shell_60mmMortar_EMP.label>60mm mortar shell (EMP)</Shell_60mmMortar_EMP.label>
+  <Shell_60mmMortar_Firefoam.label>60mm mortar shell (Foam)</Shell_60mmMortar_Firefoam.label>
+  <Shell_60mmMortar_Smoke.label>60mm mortar shell (Smoke)</Shell_60mmMortar_Smoke.label>
+  <Bullet_60mmMortarShell_HE.label>60mm mortar shell (HE)</Bullet_60mmMortarShell_HE.label>
+  <Bullet_60mmMortarShell_Incendiary.label>60mm mortar shell (Incendiary)</Bullet_60mmMortarShell_Incendiary.label>
+  <Bullet_60mmMortarShell_EMP.label>60mm mortar shell (EMP)</Bullet_60mmMortarShell_EMP.label>
+  <Bullet_60mmMortarShell_Firefoam.label>60mm mortar shell (Foam)</Bullet_60mmMortarShell_Firefoam.label>
+  <Bullet_60mmMortarShell_60mmMortar_Smoke.label>60mm mortar shell (Smoke)</Bullet_60mmMortarShell_60mmMortar_Smoke.label>
+  <Ammo_762x385mmRCannonShell_HE.description>Light cannon shell used in field guns.</Ammo_762x385mmRCannonShell_HE.description>
+  <Ammo_762x385mmRCannonShell_HE.label>76.2x385mmR Cannon shell (HE)</Ammo_762x385mmRCannonShell_HE.label>
+  <Ammo_762x385mmRCannonShell_EMP.description>Light cannon shell used in field guns.</Ammo_762x385mmRCannonShell_EMP.description>
+  <Ammo_762x385mmRCannonShell_EMP.label>76.2x385mmR Cannon shell (EMP)</Ammo_762x385mmRCannonShell_EMP.label>
+  <Bullet_762x385mmRCannonShell_HE.label>76.2x385mmR Cannon shell (HE)</Bullet_762x385mmRCannonShell_HE.label>
+  <Bullet_762x385mmRCannonShell_EMP.label>76.2x385mmR Cannon shell (EMP)</Bullet_762x385mmRCannonShell_EMP.label>
+  <Shell_HighExplosive.label>81mm mortar shell (HE)</Shell_HighExplosive.label>
+  <Shell_Incendiary.label>81mm mortar shell (Incendiary)</Shell_Incendiary.label>
+  <Shell_EMP.label>81mm mortar shell (EMP)</Shell_EMP.label>
+  <Shell_Firefoam.label>81mm mortar shell (Foam)</Shell_Firefoam.label>
+  <Shell_Smoke.label>81mm mortar shell (Smoke)</Shell_Smoke.label>
+  <Shell_AntigrainWarhead.description>Low-velocity shell designed to be fired from a mortar.</Shell_AntigrainWarhead.description>
+  <Shell_AntigrainWarhead.label>81mm mortar shell (Anti)</Shell_AntigrainWarhead.label>
+  <Bullet_81mmMortarShell_HE.label>81mm mortar shell (HE)</Bullet_81mmMortarShell_HE.label>
+  <Bullet_81mmMortarShell_Incendiary.label>81mm mortar shell (Incendiary)</Bullet_81mmMortarShell_Incendiary.label>
+  <Bullet_81mmMortarShell_EMP.label>81mm mortar shell (EMP)</Bullet_81mmMortarShell_EMP.label>
+  <Bullet_81mmMortarShell_Firefoam.label>81mm mortar shell (Foam)</Bullet_81mmMortarShell_Firefoam.label>
+  <Bullet_81mmMortarShell_Smoke.label>81mm mortar shell (Smoke)</Bullet_81mmMortarShell_Smoke.label>
+  <Bullet_81mmMortarShell_Antigrain.label>81mm mortar shell (Anti)</Bullet_81mmMortarShell_Antigrain.label>
+  <Ammo_90mmCannonShell_HEAT.description>Relatively small cannon shell.</Ammo_90mmCannonShell_HEAT.description>
+  <Ammo_90mmCannonShell_HEAT.label>90mm cannon shell (HEAT)</Ammo_90mmCannonShell_HEAT.label>
+  <Ammo_90mmCannonShell_HE.description>Relatively small cannon shell.</Ammo_90mmCannonShell_HE.description>
+  <Ammo_90mmCannonShell_HE.label>90mm cannon shell (HE)</Ammo_90mmCannonShell_HE.label>
+  <Ammo_90mmCannonShell_EMP.description>Relatively small cannon shell.</Ammo_90mmCannonShell_EMP.description>
+  <Ammo_90mmCannonShell_EMP.label>90mm cannon shell (EMP)</Ammo_90mmCannonShell_EMP.label>
+  <Bullet_90mmCannonShell_HEAT.label>90mm cannon shell (HEAT)</Bullet_90mmCannonShell_HEAT.label>
+  <Bullet_90mmCannonShell_HE.label>90mm cannon shell (HE)</Bullet_90mmCannonShell_HE.label>
+  <Bullet_90mmCannonShell_EMP.label>90mm cannon shell (EMP)</Bullet_90mmCannonShell_EMP.label>
+  <Ammo_12Gauge_Buck.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Buck.description>
+  <Ammo_12Gauge_Buck.label>12 gauge shell (Buck)</Ammo_12Gauge_Buck.label>
+  <Ammo_12Gauge_Slug.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Slug.description>
+  <Ammo_12Gauge_Slug.label>12 gauge shell (Slug)</Ammo_12Gauge_Slug.label>
+  <Ammo_12Gauge_Beanbag.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Beanbag.description>
+  <Ammo_12Gauge_Beanbag.label>12 gauge shell (Bean)</Ammo_12Gauge_Beanbag.label>
+  <Ammo_12Gauge_ElectroSlug.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_ElectroSlug.description>
+  <Ammo_12Gauge_ElectroSlug.label>12 gauge shell (EMP)</Ammo_12Gauge_ElectroSlug.label>
+  <Bullet_12Gauge_Buck.label>buckshot pellet</Bullet_12Gauge_Buck.label>
+  <Bullet_12Gauge_Slug.label>shotgun slug</Bullet_12Gauge_Slug.label>
+  <Bullet_12Gauge_Beanbag.label>beanbag</Bullet_12Gauge_Beanbag.label>
+  <Bullet_12Gauge_ElectroSlug.label>EMP slug</Bullet_12Gauge_ElectroSlug.label>
+  <Ammo_20Gauge_Buck.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Buck.description>
+  <Ammo_20Gauge_Buck.label>20 gauge shell (Buck)</Ammo_20Gauge_Buck.label>
+  <Ammo_20Gauge_Slug.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Slug.description>
+  <Ammo_20Gauge_Slug.label>20 gauge shell (Slug)</Ammo_20Gauge_Slug.label>
+  <Ammo_20Gauge_Beanbag.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Beanbag.description>
+  <Ammo_20Gauge_Beanbag.label>20 gauge shell (Bean)</Ammo_20Gauge_Beanbag.label>
+  <Ammo_20Gauge_ElectroSlug.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_ElectroSlug.description>
+  <Ammo_20Gauge_ElectroSlug.label>20 gauge shell (EMP)</Ammo_20Gauge_ElectroSlug.label>
+  <Bullet_20Gauge_Buck.label>buckshot pellet</Bullet_20Gauge_Buck.label>
+  <Bullet_20Gauge_Slug.label>shotgun slug</Bullet_20Gauge_Slug.label>
+  <Bullet_20Gauge_Beanbag.label>beanbag</Bullet_20Gauge_Beanbag.label>
+  <Bullet_20Gauge_ElectroSlug.label>EMP slug</Bullet_20Gauge_ElectroSlug.label>
+  <Ammo_23x75mmR_Buck.description>Large 6.27 gauge shotgun caliber designed to be fired by the KS-23 shotgun.</Ammo_23x75mmR_Buck.description>
+  <Ammo_23x75mmR_Buck.label>23x75mmR shell (Buck)</Ammo_23x75mmR_Buck.label>
+  <Ammo_23x75mmR_Slug.description>Large 6.27 gauge shotgun caliber designed to be fired by the KS-23 shotgun.</Ammo_23x75mmR_Slug.description>
+  <Ammo_23x75mmR_Slug.label>23x75mmR shell (Slug)</Ammo_23x75mmR_Slug.label>
+  <Ammo_23x75mmR_Beanbag.description>Large 6.27 gauge shotgun caliber designed to be fired by the KS-23 shotgun.</Ammo_23x75mmR_Beanbag.description>
+  <Ammo_23x75mmR_Beanbag.label>23x75mmR shell (Bean)</Ammo_23x75mmR_Beanbag.label>
+  <Ammo_23x75mmR_ElectroSlug.description>Large 6.27 gauge shotgun caliber designed to be fired by the KS-23 shotgun.</Ammo_23x75mmR_ElectroSlug.description>
+  <Ammo_23x75mmR_ElectroSlug.label>23x75mmR shell (EMP)</Ammo_23x75mmR_ElectroSlug.label>
+  <Bullet_23x75mmR_Buck.label>buckshot pellet</Bullet_23x75mmR_Buck.label>
+  <Bullet_23x75mmR_Slug.label>shotgun slug</Bullet_23x75mmR_Slug.label>
+  <Bullet_23x75mmR_Beanbag.label>beanbag</Bullet_23x75mmR_Beanbag.label>
+  <Bullet_23x75mmR_ElectroSlug.label>EMP slug</Bullet_23x75mmR_ElectroSlug.label>
+  <Ammo_410Bore_Buck.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_Buck.description>
+  <Ammo_410Bore_Buck.label>.410 Bore shell (Buck)</Ammo_410Bore_Buck.label>
+  <Bullet_410Bore_Buck.label>buckshot pellet</Bullet_410Bore_Buck.label>
+  <BarbedWire.label>barbed wire</BarbedWire.label>
+  <BarbedWire.description>Cheap defence system that slows down enemies.</BarbedWire.description>
+  <Embrasure.label>embrasure</Embrasure.label>
+  <Embrasure.description>A wall with a firing port to allow shooting from relative safety.</Embrasure.description>
+  <AmmoBench.label>loading bench</AmmoBench.label>
+  <AmmoBench.description>A workstation for handloading ammo.</AmmoBench.description>
+  <Turret_Blaster.label>charge blaster auto-turret</Turret_Blaster.label>
+  <Turret_Blaster.description>Automatic turret equipped with a charge blaster.</Turret_Blaster.description>
+  <Turret_Heavy.label>heavy auto-turret</Turret_Heavy.label>
+  <Turret_Heavy.description>Plated automatic turret with large caliber machine gun. Very resistant to damage.</Turret_Heavy.description>
+  <Turret_M240B.label>M240B</Turret_M240B.label>
+  <Turret_M240B.description>M240B medium machine gun mounted on a tripod.</Turret_M240B.description>
+  <Turret_KPV.label>KPV machine gun</Turret_KPV.label>
+  <Turret_KPV.description>KPV heavy machine gun mounted on a tripod.</Turret_KPV.description>
+  <Turret_AGSThirty.label>AGS-30</Turret_AGSThirty.label>
+  <Turret_AGSThirty.description>Lightweight automatic grenade launcher.</Turret_AGSThirty.description>
+  <Turret_Flak.label>90mm flak turret</Turret_Flak.label>
+  <Turret_Flak.description>Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles.</Turret_Flak.description>
+  <Prometheum.label>prometheum</Prometheum.label>
+  <Prometheum.description>Military-grade incendiary agent, ignites on contact with oxygen. The raw resource is used to craft incendiary ammo of all kinds.</Prometheum.description>
+  <FSX.label>FSX</FSX.label>
+  <FSX.description>High-explosive chemical extracted from Boomalope sacks, it is used in a variety of industrial and military applications.</FSX.description>
+  <MinifiedTurret_Blaster.label>charge blaster turret</MinifiedTurret_Blaster.label>
+  <MinifiedTurret_Heavy.label>heavy turret</MinifiedTurret_Heavy.label>
+  <MinifiedTurret_M240B.label>M240B</MinifiedTurret_M240B.label>
+  <MinifiedTurret_KPV.label>KPV</MinifiedTurret_KPV.label>
+  <MinifiedTurret_Flak.label>90mm flak turret</MinifiedTurret_Flak.label>
+  <MinifiedTurret_AGSThirty.label>AGS-30</MinifiedTurret_AGSThirty.label>
+  <UnfinishedAmmo.label>Unfinished ammo batch</UnfinishedAmmo.label>
+  <UnfinishedArrows.label>Unfinished arrow batch</UnfinishedArrows.label>
+  <UnfinishedTurretGun.label>Unfinished turret gun</UnfinishedTurretGun.label>
+  <MinifiedTurretGun.label>improvised turret</MinifiedTurretGun.label>
+  <Apparel_TacVest.label>tactical vest</Apparel_TacVest.label>
+  <Apparel_TacVest.description>A loadbearing vest with a number of pouches to store magazines and other equipment.\n\nSpeeds up reloading but is quite bulky to wear.</Apparel_TacVest.description>
+  <Apparel_Backpack.label>backpack</Apparel_Backpack.label>
+  <Apparel_Backpack.description>A comfortable and spacious backpack for storing all kinds of items.</Apparel_Backpack.description>
+  <Apparel_TribalBackpack.label>tribal backpack</Apparel_TribalBackpack.label>
+  <Apparel_TribalBackpack.description>Primitive backpack made from animal furs, useful for storing items when travelling.</Apparel_TribalBackpack.description>
+  <Apparel_Bascinet.label>bascinet</Apparel_Bascinet.label>
+  <Apparel_Bascinet.description>A medieval helmet that provides full coverage of the head. Somewhat protective, but restricts the wearer's field of view which affects attack accuracy.</Apparel_Bascinet.description>
+  <Apparel_GasMask.label>gas mask</Apparel_GasMask.label>
+  <Apparel_GasMask.description>Sealed rubber mask with a filter attached. Will protect against smoke inhalation and airborne toxins</Apparel_GasMask.description>
+  <Apparel_ImprovGasMask.label>improvised gas mask</Apparel_ImprovGasMask.label>
+  <Apparel_ImprovGasMask.description>Crude gas mask fashioned from thick cloth and charcoal. Provides some limited protection against smoke and airborne toxins</Apparel_ImprovGasMask.description>
+  <Apparel_MeleeShield.label>melee shield</Apparel_MeleeShield.label>
+  <Apparel_MeleeShield.description>Simple shield that can block simple projectiles and hits with melee weapons.</Apparel_MeleeShield.description>
+  <Apparel_BallisticShield.label>ballistic shield</Apparel_BallisticShield.label>
+  <Apparel_BallisticShield.description>A heavy shield designed to protect against gunfire. It can cover most of the wearer's body but restricts use of two-handed weapons. Its heavy weight and bulk make it unwieldy in combat.</Apparel_BallisticShield.description>
+  <Apparel_CompositeVest.label>composite vest</Apparel_CompositeVest.label>
+  <Apparel_CompositeVest.description>A vest with armor plates inserted on the chest and back. The composite ceramics offer better protection than steel but aren't as durable.</Apparel_CompositeVest.description>
+  <ExplosionCE.label>explosion</ExplosionCE.label>
+  <FilthPrometheum.label>Prometheum puddle</FilthPrometheum.label>
+  <FilthPrometheum.description>A puddle of pyrophoric Prometheum.</FilthPrometheum.description>
+  <Gas_BlackSmoke.label>black smoke</Gas_BlackSmoke.label>
+  <ArtilleryMarker.label>artillery marker</ArtilleryMarker.label>
+  <Proj_GrenadeFlashbang.label>flashbang grenade</Proj_GrenadeFlashbang.label>
+  <Weapon_GrenadeFlashbang.label>flashbang grenade</Weapon_GrenadeFlashbang.label>
+  <Weapon_GrenadeFlashbang.description>Pyrotechnic charge designed to produce a blinding flash of light and loud noise, temporarily blinding and disorienting anyone nearby.</Weapon_GrenadeFlashbang.description>
+  <Weapon_GrenadeFlashbang.verbs.0.label>throw flashbang grenade</Weapon_GrenadeFlashbang.verbs.0.label>
+  <Proj_GrenadeStickBomb.label>stick bomb</Proj_GrenadeStickBomb.label>
+  <Weapon_GrenadeStickBomb.label>stick bomb</Weapon_GrenadeStickBomb.label>
+  <Weapon_GrenadeStickBomb.description>Primitive fuse-lit explosive. A favorite of tribals who use these to fight technologically advanced enemies with heavy armor.</Weapon_GrenadeStickBomb.description>
+  <Weapon_GrenadeStickBomb.verbs.0.label>throw stick bomb</Weapon_GrenadeStickBomb.verbs.0.label>
+  <Proj_GrenadeSmoke.label>smoke grenade</Proj_GrenadeSmoke.label>
+  <Weapon_GrenadeSmoke.label>smoke grenade</Weapon_GrenadeSmoke.label>
+  <Weapon_GrenadeSmoke.description>Releases a large cloud of defensive smoke, providing concealment against gunfire.</Weapon_GrenadeSmoke.description>
+  <Weapon_GrenadeSmoke.verbs.0.label>throw smoke grenade</Weapon_GrenadeSmoke.verbs.0.label>
+  <Proj_GrenadeFirefoam.label>firefoam grenade</Proj_GrenadeFirefoam.label>
+  <Weapon_GrenadeFirefoam.label>firefoam grenade</Weapon_GrenadeFirefoam.label>
+  <Weapon_GrenadeFirefoam.description>Special firefighting grenade. Releases a cloud of firefoam upon impact.</Weapon_GrenadeFirefoam.description>
+  <Weapon_GrenadeFirefoam.verbs.0.label>throw firefoam grenade</Weapon_GrenadeFirefoam.verbs.0.label>
+  <CE_GrenadeLauncher.label>grenade launcher</CE_GrenadeLauncher.label>
+  <CE_GrenadeLauncher.description>A simple, locally produced break-action grenade launcher, capable of firing a variety of different projectiles.</CE_GrenadeLauncher.description>
+  <CE_GrenadeLauncher.tools.0.label>stock</CE_GrenadeLauncher.tools.0.label>
+  <CE_GrenadeLauncher.tools.1.label>barrel</CE_GrenadeLauncher.tools.1.label>
+  <CE_GrenadeLauncher.tools.2.label>muzzle</CE_GrenadeLauncher.tools.2.label>
+  <CE_ExplosiveBoltProjector.label>explosive bolt projector</CE_ExplosiveBoltProjector.label>
+  <CE_ExplosiveBoltProjector.description>A low-velocity, high-trajectory fire support system deployed by mechanoid Pikeman. While inaccurate and slow-firing, it remains a potent weapon against static targets.</CE_ExplosiveBoltProjector.description>
+  <CE_ExplosiveBoltProjector.tools.0.label>barrel</CE_ExplosiveBoltProjector.tools.0.label>
+  <Pila.label>javelins</Pila.label>
+  <Pila.description>A throwing spear which may be thrown on its own or using an atlatl.</Pila.description>
+  <Pila.tools.0.label>shaft</Pila.tools.0.label>
+  <Pila.tools.1.label>point</Pila.tools.1.label>
+  <Bullet_Dummy.label>dummy bullet</Bullet_Dummy.label>
+  <Gun_BinocularsRadio.label>binoculars</Gun_BinocularsRadio.label>
+  <Gun_BinocularsRadio.description>A pair of binoculars and a portable radio. Useful to coordinate artillery strikes.\n\nUsing this on a target will mark it, removing the indirect fire penalty from any artillery pieces targeting it. Additionally, any directed fire will use the aiming accuracy and efficiency of the spotter, rather than the artillery operator to determine final accuracy.</Gun_BinocularsRadio.description>
+  <Gun_BlasterTurret.label>blaster turret gun</Gun_BlasterTurret.label>
+  <Gun_BlasterTurret.description>Charge blaster attached to a turret mount.</Gun_BlasterTurret.description>
+  <Gun_HeavyTurret.label>heavy turret gun</Gun_HeavyTurret.label>
+  <Gun_HeavyTurret.description>Large caliber gun on a turret mount.</Gun_HeavyTurret.description>
+  <Gun_KPV.label>KPV machine gun</Gun_KPV.label>
+  <Gun_KPV.description>Heavy machine gun for use against light vehicles.</Gun_KPV.description>
+  <Gun_M240B.label>M240B machine gun</Gun_M240B.label>
+  <Gun_M240B.description>M240B machine gun mounted on a tripod.</Gun_M240B.description>
+  <Gun_FlakTurret.label>Flak gun</Gun_FlakTurret.label>
+  <Gun_FlakTurret.description>90mm Flak cannon on a stationary emplacement.</Gun_FlakTurret.description>
+  <Gun_AGSThirty.label>AGS-30 grenade launcher</Gun_AGSThirty.label>
+  <Gun_AGSThirty.description>AGS-30 attached to a tripod.</Gun_AGSThirty.description>
+  <PlantBlazebulb.label>Blazebulb</PlantBlazebulb.label>
+  <PlantBlazebulb.description>Genetically engineered plant designed to yield pyrophoric compounds for use in incendiary weapons.\n\nGreat care must be taken in cultivating these as the incendiary compounds inside the bulbs can self-ignite at temperatures above 28°C/82F, requiring constant cooling to maintain optimal growth temperatures.</PlantBlazebulb.description>
+  <Bullet_ChargeMortarShell.label>charge mortar shell</Bullet_ChargeMortarShell.label>
+  <CombatExtended_MechAmmoBeacon.label>mech ammo beacon</CombatExtended_MechAmmoBeacon.label>
+  <CombatExtended_MechAmmoBeacon.description>A mechanoid ammunition drop beacon. When activated, it calls in ammunition to land in drop pods nearby.</CombatExtended_MechAmmoBeacon.description>
+  <Gun_ChargeBlasterHeavyTurret.label>heavy charge blaster turret gun</Gun_ChargeBlasterHeavyTurret.label>
+  <Gun_ChargeBlasterHeavyTurret.description>Heavy charge blaster on a turret mount.</Gun_ChargeBlasterHeavyTurret.description>
+  <Gun_InfernoCannonTurret.label>incendiary cannon turret gun</Gun_InfernoCannonTurret.label>
+  <Gun_InfernoCannonTurret.description>An incendiary-shot mini-artillery device on a turret mount.</Gun_InfernoCannonTurret.description>
+</LanguageData>

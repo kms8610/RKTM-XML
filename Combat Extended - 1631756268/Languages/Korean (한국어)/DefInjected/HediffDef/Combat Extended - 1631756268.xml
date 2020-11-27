@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WearingGasMask.label>wearing gas mask</WearingGasMask.label>
+  <WearingGasMask.description>Wearing a gas mask</WearingGasMask.description>
+  <WearingGasMask.stages.0.label>wearing</WearingGasMask.stages.0.label>
+  <SmokeInhalation.label>smoke inhalation</SmokeInhalation.label>
+  <SmokeInhalation.description>Inhaled Smoke</SmokeInhalation.description>
+  <SmokeInhalation.stages.0.label>initial</SmokeInhalation.stages.0.label>
+  <SmokeInhalation.stages.1.label>initial</SmokeInhalation.stages.1.label>
+  <SmokeInhalation.stages.2.label>minor</SmokeInhalation.stages.2.label>
+  <SmokeInhalation.stages.3.label>moderate</SmokeInhalation.stages.3.label>
+  <SmokeInhalation.stages.4.label>serious</SmokeInhalation.stages.4.label>
+  <SmokeInhalation.stages.5.label>extreme</SmokeInhalation.stages.5.label>
+  <VenomBuildup.label>venom buildup</VenomBuildup.label>
+  <VenomBuildup.description>Venom building up</VenomBuildup.description>
+  <VenomBuildup.stages.0.label>initial</VenomBuildup.stages.0.label>
+  <VenomBuildup.stages.1.label>initial</VenomBuildup.stages.1.label>
+  <VenomBuildup.stages.2.label>minor</VenomBuildup.stages.2.label>
+  <VenomBuildup.stages.3.label>moderate</VenomBuildup.stages.3.label>
+  <VenomBuildup.stages.4.label>serious</VenomBuildup.stages.4.label>
+  <VenomBuildup.stages.5.label>extreme</VenomBuildup.stages.5.label>
+  <MuscleSpasms.label>muscle spasms</MuscleSpasms.label>
+  <MuscleSpasms.description>Muscle Spasms</MuscleSpasms.description>
+  <MuscleSpasms.stages.0.label>trivial</MuscleSpasms.stages.0.label>
+  <MuscleSpasms.stages.1.label>minor</MuscleSpasms.stages.1.label>
+  <MuscleSpasms.stages.2.label>moderate</MuscleSpasms.stages.2.label>
+  <MuscleSpasms.stages.3.label>severe</MuscleSpasms.stages.3.label>
+  <MuscleSpasms.stages.4.label>extreme</MuscleSpasms.stages.4.label>
+  <PrometheumSoaked.label>Prometheum-soaked</PrometheumSoaked.label>
+  <PrometheumSoaked.description>Soaked in Prometheum</PrometheumSoaked.description>
+  <PrometheumSoaked.stages.0.label>minor</PrometheumSoaked.stages.0.label>
+  <PrometheumSoaked.stages.1.label>dripping</PrometheumSoaked.stages.1.label>
+  <PrometheumSoaked.stages.2.label>soaked</PrometheumSoaked.stages.2.label>
+  <PrometheumSoaked.stages.3.label>drenched</PrometheumSoaked.stages.3.label>
+  <Tranquilizer.label>tranquilizer</Tranquilizer.label>
+  <Tranquilizer.description>the effects of a tranquilizer dart</Tranquilizer.description>
+  <BruiseBeanbag.label>beanbag bruise</BruiseBeanbag.label>
+  <BruiseBeanbag.labelNoun>a beanbag bruise</BruiseBeanbag.labelNoun>
+  <CrackBeanbag.label>beanbag crack</CrackBeanbag.label>
+  <CrackBeanbag.labelNoun>a beanbag crack</CrackBeanbag.labelNoun>
+  <VenomousBite.label>venomous bite</VenomousBite.label>
+  <VenomousBite.labelNoun>a venomous bite wound</VenomousBite.labelNoun>
+  <VenomousScratch.label>venomous scratch</VenomousScratch.label>
+  <VenomousScratch.labelNoun>a venomous scratch wound</VenomousScratch.labelNoun>
+  <VenomousArrow.label>venomous wound</VenomousArrow.label>
+  <VenomousArrow.labelNoun>a venomous arrow wound</VenomousArrow.labelNoun>
+  <ElectricalBurn.label>electrical burn</ElectricalBurn.label>
+  <Blast.label>blasted</Blast.label>
+  <Blast.description>Blasted</Blast.description>
+  <Blast.comps.0.labelTendedWell>bandaged</Blast.comps.0.labelTendedWell>
+  <Blast.comps.0.labelTendedWellInner>sutured</Blast.comps.0.labelTendedWellInner>
+  <Blast.comps.0.labelSolidTendedWell>set</Blast.comps.0.labelSolidTendedWell>
+  <Blast.comps.2.permanentLabel>old blast injury</Blast.comps.2.permanentLabel>
+  <Blast.comps.2.instantlyPermanentLabel>permanent blast injury</Blast.comps.2.instantlyPermanentLabel>
+  <Blast.injuryProps.destroyedLabel>Torn off</Blast.injuryProps.destroyedLabel>
+  <Blast.injuryProps.destroyedOutLabel>Torn out</Blast.injuryProps.destroyedOutLabel>
+</LanguageData>
