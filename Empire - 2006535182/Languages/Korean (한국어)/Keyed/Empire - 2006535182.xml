@@ -109,6 +109,13 @@
   <CannotHaveLessThanOneRace>Cannot have less than one race in your faction</CannotHaveLessThanOneRace>
   <SettlementNotBeingAttacked>Settlement is not under attack</SettlementNotBeingAttacked>
   <MedievalTechOnly>Medieval Tech Only</MedievalTechOnly>
+  <ForeignMilitarySwitch>The military forces of {0} have been sent to defend {1}</ForeignMilitarySwitch>
+  <FCMilitarySentCapture>The military forces of {0} have been sent to capture {1}</FCMilitarySentCapture>
+  <FCMilitarySentRaid>The military forces of {0} have been sent to raid {1}</FCMilitarySentRaid>
+  <FCMilitaryCooldown>The military forces of {0} are ready to be used again</FCMilitaryCooldown>
+  <FCSettlementFormed>Settlement Formed</FCSettlementFormed>
+  <FreeWorkers>Free Workers</FreeWorkers>
+  <ToggleAutoDefend>Automatically defending attacked settlements: {0}</ToggleAutoDefend>
   <TheSettlement>The settlement</TheSettlement>
   <HasBeenFormed> has been formed</HasBeenFormed>
   <PlayerColony>Player Colony</PlayerColony>
