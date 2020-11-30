@@ -361,6 +361,7 @@
   <TM_ShotgunSpec_Base19.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base19.description>
   <TM_ShotgunSpec_Base19.tools.0.label>weapon smash</TM_ShotgunSpec_Base19.tools.0.label>
   <Projectile_Sustained.label>sustained ability</Projectile_Sustained.label>
+  <Projectile_TM_BitTechLaser.label>tech micro laser</Projectile_TM_BitTechLaser.label>
   <Projectile_TMFragGrenade.label>mini frag grenade</Projectile_TMFragGrenade.label>
   <Projectile_TMEMPGrenade.label>mini frag grenade</Projectile_TMEMPGrenade.label>
   <Projectile_TechnoTurret.label>Mark-IV projectile</Projectile_TechnoTurret.label>
@@ -577,6 +578,11 @@ If things get too tough for them or they get bored, they'll flee back to whereve
   <TM_SpiritCrowR.tools.0.label>claws</TM_SpiritCrowR.tools.0.label>
   <TM_SpiritCrowR.tools.1.label>beak</TM_SpiritCrowR.tools.1.label>
   <TM_SpiritCrowR.tools.2.label>head</TM_SpiritCrowR.tools.2.label>
+  <TM_SpiritWolfR.label>spirit wolf</TM_SpiritWolfR.label>
+  <TM_SpiritWolfR.description>Spirit wolves coalesce in the physical realm at the behest of a powerful shaman. Wolves are a dangerous mammal alone but are a force to be feared when hunting in a pack. The spirit wolf will fade back into the ether after a brief period or if it is defeated.</TM_SpiritWolfR.description>
+  <TM_SpiritWolfR.tools.0.label>left claw</TM_SpiritWolfR.tools.0.label>
+  <TM_SpiritWolfR.tools.1.label>right claw</TM_SpiritWolfR.tools.1.label>
+  <TM_SpiritWolfR.tools.3.label>head</TM_SpiritWolfR.tools.3.label>
   <FlyingObject_Leap.label>leap</FlyingObject_Leap.label>
   <TM_Poppi.label>poppi</TM_Poppi.label>
   <TM_Poppi.description>Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.</TM_Poppi.description>
@@ -1043,6 +1049,9 @@ Produces 400Wd adjusted by ability power.</SpellOf_ChargeBattery.description>
   <SpellOf_CauterizeWound.comps.0.useLabel>Read</SpellOf_CauterizeWound.comps.0.useLabel>
   <SpellOf_CauterizeWound.label>Fire Spell: Cauterize Wound</SpellOf_CauterizeWound.label>
   <SpellOf_CauterizeWound.description>Teaches a fire mage how to use elemental fire to instantly clean and close wounds - may leave burn scars.</SpellOf_CauterizeWound.description>
+  <SpellOf_Discord.comps.0.useLabel>Read</SpellOf_Discord.comps.0.useLabel>
+  <SpellOf_Discord.label>Bard Spell: Discord</SpellOf_Discord.label>
+  <SpellOf_Discord.description>Teaches a bard how to distort the mental harmony of a target pawn.</SpellOf_Discord.description>
   <SpellOf_DryGround.comps.0.useLabel>Read</SpellOf_DryGround.comps.0.useLabel>
   <SpellOf_DryGround.label>Fire Spell: Dry Ground</SpellOf_DryGround.label>
   <SpellOf_DryGround.description>Teaches a fire mage how to infuse the earth with heat, evaporating most of the water from a small patch of earth.</SpellOf_DryGround.description>
@@ -1058,6 +1067,9 @@ Produces 400Wd adjusted by ability power.</SpellOf_ChargeBattery.description>
   <SpellOf_ManaShield.comps.0.useLabel>Read</SpellOf_ManaShield.comps.0.useLabel>
   <SpellOf_ManaShield.label>Mage Spell: Mana Shield</SpellOf_ManaShield.label>
   <SpellOf_ManaShield.description>Teaches a magic user how to form a protective mana barrier to prevent physical harm.</SpellOf_ManaShield.description>
+  <SpellOf_ShieldOther.comps.0.useLabel>Read</SpellOf_ShieldOther.comps.0.useLabel>
+  <SpellOf_ShieldOther.label>Holy Caster Spell: Shield Other</SpellOf_ShieldOther.label>
+  <SpellOf_ShieldOther.description>Teaches a holy caster (paladin, priest, etc) how to shield another from damage.</SpellOf_ShieldOther.description>
   <SpellOf_SpellMending.comps.0.useLabel>Read</SpellOf_SpellMending.comps.0.useLabel>
   <SpellOf_SpellMending.label>Mage Spell: Spell Mending</SpellOf_SpellMending.label>
   <SpellOf_SpellMending.description>Teaches a magic user how to reconstruct and repair worn equipment on a pawn.</SpellOf_SpellMending.description>

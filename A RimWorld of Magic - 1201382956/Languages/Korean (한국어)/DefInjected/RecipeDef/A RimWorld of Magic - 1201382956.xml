@@ -51,6 +51,9 @@ Class XP Gain: -20%</ArcaneForge_ThrumBow.description>
   <ArcaneForge_Replication_Restore.label>Forge replication</ArcaneForge_Replication_Restore.label>
   <ArcaneForge_Replication_Restore.description>Storage data for details and designs of replicated objects.</ArcaneForge_Replication_Restore.description>
   <ArcaneForge_Replication_Restore.jobString>replicating</ArcaneForge_Replication_Restore.jobString>
+  <ArcaneForge_ChunkToMagicyte.jobString>Infusing chunk with mana.</ArcaneForge_ChunkToMagicyte.jobString>
+  <ArcaneForge_ChunkToMagicyte.label>Infuse chunk</ArcaneForge_ChunkToMagicyte.label>
+  <ArcaneForge_ChunkToMagicyte.description>Infuses stone chunks with mana to create magicyte</ArcaneForge_ChunkToMagicyte.description>
   <CutMinorMPGem.label>minor gem of holding</CutMinorMPGem.label>
   <CutMinorMPGem.description>Cut and refine raw magicyte into an enchanting gem able to maintain reserves of mana.</CutMinorMPGem.description>
   <CutMinorMPGem.jobString>cut minor gem of holding</CutMinorMPGem.jobString>

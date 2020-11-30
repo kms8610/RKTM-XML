@@ -707,29 +707,29 @@ The summoning is initiated when a Succubus anchors the physical offering and is 
 		
 Range: 65
 Recharge: 80s
-Max Targets: 3
-AoE Size: 5</TM_SootheAnimal.description>
+Max Targets: 4
+AoE Size: 7</TM_SootheAnimal.description>
   <TM_SootheAnimal_I.label>Beguile Animal (I)</TM_SootheAnimal_I.label>
   <TM_SootheAnimal_I.description>Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.
 		
 Range: 70
 Recharge: 75s
-Max Targets: 4
-AoE Size: 6</TM_SootheAnimal_I.description>
+Max Targets: 6
+AoE Size: 8</TM_SootheAnimal_I.description>
   <TM_SootheAnimal_II.label>Beguile Animal (II)</TM_SootheAnimal_II.label>
   <TM_SootheAnimal_II.description>Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.
 		
 Range: 75
 Recharge: 68s
-Max Targets: 5
-AoE Size: 7</TM_SootheAnimal_II.description>
+Max Targets: 7
+AoE Size: 9</TM_SootheAnimal_II.description>
   <TM_SootheAnimal_III.label>Beguile Animal (III)</TM_SootheAnimal_III.label>
   <TM_SootheAnimal_III.description>Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.
 		
 Range: 80
 Recharge: 60s
-Max Targets: 6
-AoE Size: 8</TM_SootheAnimal_III.description>
+Max Targets: 7
+AoE Size: 10</TM_SootheAnimal_III.description>
   <TM_Regenerate.label>Regenerate</TM_Regenerate.label>
   <TM_Regenerate.description>Regeneration acts as a natural curative over time and will restore even grievous wounds with continued application. Base regeneration restores 4 health to 1 wound every 5 seconds. Only cures physical injuries and will not restore or heal destroyed body parts.</TM_Regenerate.description>
   <TM_CureDisease.label>Cure Disease</TM_CureDisease.label>
@@ -895,53 +895,56 @@ The Field Medic gains increased base movement speed, tending speed and tending q
 
 The Field Medic throws a syringe of improvised combat drugs to an ally.
 The effects are always positive but may vary.</TM_CombatDrugs.description>
-  <TM_RayofHope.label>Ray of Hope</TM_RayofHope.label>
-  <TM_RayofHope.description>Creates an aura of hope around the caster that periodically buffs an ally.
+  <TM_RayofHope.label>Inner Fire</TM_RayofHope.label>
+  <TM_RayofHope.description>Creates an aura of warmth around the caster that periodically reinforces the spirit of an ally.
 		
-Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+Inner Fire: Arcane augmentation that kindles an inner fire, increasing a pawn's endurance and resistances.
 	
 Application Frequency: 	80-90s	
 Duration:  200-223s
-Manipulation, Moving:  +10%
-Blood pumping: 	+10%
-Consciousness: 	+5%
-Mood increase:	+4
+Rest and hunger needs: -10%
+Natural healing: +20%
+Mental break resistance: +3%
+Cold resistance: +6c
 
 Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope.description>
-  <TM_RayofHope_I.label>Ray of Hope</TM_RayofHope_I.label>
-  <TM_RayofHope_I.description>Creates an aura of hope around the caster that periodically buffs an ally.
+  <TM_RayofHope_I.label>Inner Fire</TM_RayofHope_I.label>
+  <TM_RayofHope_I.description>Creates an aura of warmth around the caster that periodically reinforces the spirit of an ally.
 		
-Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+Inner Fire: Arcane augmentation that kindles an inner fire, increasing a pawn's endurance and resistances.
 	
 Application Frequency: 	80-90s	
-Duration: 200-223s
-Manipulation, Moving: +15%
-Consciousness, Blood pumping: +10%
-Mood increase:	+5
+Duration:  200-223s
+Rest and hunger needs: -14%
+Natural healing: +25%
+Mental break resistance: +4%
+Cold resistance: +8c
 
 Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope_I.description>
-  <TM_RayofHope_II.label>Ray of Hope</TM_RayofHope_II.label>
-  <TM_RayofHope_II.description>Creates an aura of hope around the caster that periodically buffs an ally.
+  <TM_RayofHope_II.label>Inner Fire</TM_RayofHope_II.label>
+  <TM_RayofHope_II.description>Creates an aura of warmth around the caster that periodically reinforces the spirit of an ally.
 		
-Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
-	
-Application Frequency: 80-90s	
-Duration: 500-600s
-Manipulation, Moving: +20%
-Consciousness, Blood pumping: +10%
-Mood increase:	+6
-
-Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope_II.description>
-  <TM_RayofHope_III.label>Ray of Hope</TM_RayofHope_III.label>
-  <TM_RayofHope_III.description>Creates an aura of hope around the caster that periodically buffs an ally.
-		
-Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+Inner Fire: Arcane augmentation that kindles an inner fire, increasing a pawn's endurance and resistances.
 	
 Application Frequency: 	80-90s	
-Duration:	500-600s
-Manipulation, Moving:  +25%
-Consciousness, Blood pumping: +10%
-Mood increase:	+7
+Duration:  500-600s
+Rest and hunger needs: -17%
+Natural healing: +28%
+Mental break resistance: +4%
+Cold resistance: +9c
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope_II.description>
+  <TM_RayofHope_III.label>Inner Fire</TM_RayofHope_III.label>
+  <TM_RayofHope_III.description>Creates an aura of warmth around the caster that periodically reinforces the spirit of an ally.
+		
+Inner Fire: Arcane augmentation that kindles an inner fire, increasing a pawn's endurance and resistances.
+	
+Application Frequency: 	80-90s	
+Duration:  500-600
+Rest and hunger needs: -20%
+Natural healing: +30%
+Mental break resistance: +5%
+Cold resistance: +10c
 
 Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_RayofHope_III.description>
   <TM_Firebolt.label>Firebolt</TM_Firebolt.label>
@@ -1042,26 +1045,26 @@ Cast time: 3.8s</TM_Meteor_III.description>
   <TM_Sprint_III.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint_III.description>
   <TM_Fortitude.label>Fortitude</TM_Fortitude.label>
   <TM_Fortitude.description>Mitigates a set amount of damage each hit.
-Base mitigation: 2</TM_Fortitude.description>
+Base mitigation: 5</TM_Fortitude.description>
   <TM_Grapple.label>Grapple</TM_Grapple.label>
   <TM_Grapple.description>Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.
 		
 Casting time: 1s
-Range: 12</TM_Grapple.description>
+Range: 15</TM_Grapple.description>
   <TM_Grapple_I.label>Grapple</TM_Grapple_I.label>
   <TM_Grapple_I.description>Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.
 Casting time: .6s
-Range: 14</TM_Grapple_I.description>
+Range: 17</TM_Grapple_I.description>
   <TM_Grapple_II.label>Grapple</TM_Grapple_II.label>
   <TM_Grapple_II.description>Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.
 		
 Casting time: .4s
-Range: 17</TM_Grapple_II.description>
+Range: 20</TM_Grapple_II.description>
   <TM_Grapple_III.label>Grapple</TM_Grapple_III.label>
   <TM_Grapple_III.description>Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.
 		
 Casting time: .2s
-Range: 20</TM_Grapple_III.description>
+Range: 23</TM_Grapple_III.description>
   <TM_Cleave.label>Cleave</TM_Cleave.label>
   <TM_Cleave.description>Executes a powerful, sweeping blow that can strike multiple enemies adjacent to the target. As long as the gladiator has enough stamina, this ability works automatically whenever the gladiator performs a melee attack. Cleave chance is calculated from weapon mass - heavier weapons are more likely to cleave.</TM_Cleave.description>
   <TM_Whirlwind.label>Whirlwind</TM_Whirlwind.label>
@@ -1073,10 +1076,9 @@ Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and 
 	
 Application Frequency: 	80-90s	
 Duration:	200-223s
-Manipulation:	+10%
-Consciousness:	+5%
+Consciousness:	+10%
 Mood increase:	+2
-Rest, Hunger and Pain: 	-10%
+Rest and pain: 	-10%
 
 Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe.description>
   <TM_Soothe_I.label>Soothing Breeze</TM_Soothe_I.label>
@@ -1086,10 +1088,9 @@ Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and 
 	
 Application Frequency: 	80-90s	
 Duration:	200-223s
-Manipulation: 	+15%
-Consciousness: 	+10%
+Consciousness: 	+12%
 Mood increase:	+3
-Rest, Hunger and Pain: 	-15%
+Rest and pain: 	-12%
 
 Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_I.description>
   <TM_Soothe_II.label>Soothing Breeze</TM_Soothe_II.label>
@@ -1099,10 +1100,9 @@ Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and 
 	
 Application Frequency: 	80-90s	
 Duration:	500-600s
-Manipulation: 	+20%
-Consciousness 	+15%
+Consciousness 	+14%
 Mood increase:	+4
-Rest, Hunger and Pain: 	-20%
+Rest and pain: 	-14%
 
 Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_II.description>
   <TM_Soothe_III.label>Soothing Breeze</TM_Soothe_III.label>
@@ -1112,10 +1112,9 @@ Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and 
 	
 Application Frequency: 	80-90s	
 Duration:	500-600s
-Manipulation: 	+25%
-Consciousness: 	+20%
+Consciousness: 	+15%
 Mood increase:	+5
-Rest, Hunger and Pain:	-25%
+Rest and pain:	-15%
 
 Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_III.description>
   <TM_FrostRay.label>Frost Ray</TM_FrostRay.label>
@@ -1353,6 +1352,50 @@ Explosion Radius: 2.4m
 Cooldown: 12s
 Bolts: 3
 Range: 50</TM_DeathBolt_III.description>
+  <TM_P_RayofHope.label>Ray of Hope</TM_P_RayofHope.label>
+  <TM_P_RayofHope.description>Creates an aura of hope around the caster that periodically buffs an ally.
+		
+Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+	
+Application Frequency: 	80-90s	
+Duration:  200-223s
+Manipulation, Moving:  +15%
+Mood increase:	+3
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_P_RayofHope.description>
+  <TM_P_RayofHope_I.label>Ray of Hope</TM_P_RayofHope_I.label>
+  <TM_P_RayofHope_I.description>Creates an aura of hope around the caster that periodically buffs an ally.
+		
+Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+	
+Application Frequency: 	80-90s	
+Duration: 200-223s
+Manipulation, Moving: +18%
+Mood increase:	+4
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_P_RayofHope_I.description>
+  <TM_P_RayofHope_II.label>Ray of Hope</TM_P_RayofHope_II.label>
+  <TM_P_RayofHope_II.description>Creates an aura of hope around the caster that periodically buffs an ally.
+		
+Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+	
+Application Frequency: 80-90s	
+Duration: 500-600s
+Manipulation, Moving: +20%
+Mood increase:	+5
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_P_RayofHope_II.description>
+  <TM_P_RayofHope_III.label>Ray of Hope</TM_P_RayofHope_III.label>
+  <TM_P_RayofHope_III.description>Creates an aura of hope around the caster that periodically buffs an ally.
+		
+Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
+	
+Application Frequency: 	80-90s	
+Duration:	500-600s
+Manipulation, Moving:  +22%
+Mood increase:	+5
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_P_RayofHope_III.description>
   <TM_Heal.label>Heal</TM_Heal.label>
   <TM_Heal.description>Invokes holy power to heal the wounds of a target. Base heal restores 8 health for up to 3 wounds. Cannot heal injuries of missing bodyparts.</TM_Heal.description>
   <TM_Shield.label>Shield</TM_Shield.label>
@@ -1360,7 +1403,7 @@ Range: 50</TM_DeathBolt_III.description>
 Absorbs up to 100 damage.</TM_Shield.description>
   <TM_Shield_I.label>Shield</TM_Shield_I.label>
   <TM_Shield_I.description>Protects the paladin from damage for 50s or until the shield is broken.
-Absorbs up to 120 damage.
+Absorbs up to 125 damage.
 Reduces recharge to 30s.</TM_Shield_I.description>
   <TM_Shield_II.label>Shield</TM_Shield_II.label>
   <TM_Shield_II.description>Protects the paladin from damage for 50s or until the shield is broken.
@@ -1574,25 +1617,25 @@ Cast time: .6s</TM_Hex_III.description>
   <TM_Hex_MentalAssault.label>Mental Assault (Hex)</TM_Hex_MentalAssault.label>
   <TM_Hex_MentalAssault.description>Causes all hexed targets to experience a dramatic and, potentially, overwhelming surge of emotions.</TM_Hex_MentalAssault.description>
   <TM_SpiritWolves.label>Spirit Wolves</TM_SpiritWolves.label>
-  <TM_SpiritWolves.description>Manifests a charging pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns; once trained spirit damage can also be used to hex enemies. Spirit wolves are able to distinguish friend from foe.
+  <TM_SpiritWolves.description>Manifests a pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns.
 
 Range: 50
 Cast time: 3s
 Cooldown: 120s</TM_SpiritWolves.description>
   <TM_SpiritWolves_I.label>Spirit Wolves (I)</TM_SpiritWolves_I.label>
-  <TM_SpiritWolves_I.description>Manifests a charging pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns; once trained spirit damage can also be used to hex enemies. Spirit wolves are able to distinguish friend from foe
+  <TM_SpiritWolves_I.description>Manifests a pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns.
 
 Range: 55
 Cast time: 2.7s
 Cooldown: 110s</TM_SpiritWolves_I.description>
   <TM_SpiritWolves_II.label>Spirit Wolves (II)</TM_SpiritWolves_II.label>
-  <TM_SpiritWolves_II.description>Manifests a charging pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns; once trained spirit damage can also be used to hex enemies. Spirit wolves are able to distinguish friend from foe
+  <TM_SpiritWolves_II.description>Manifests a pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns.
 
 Range: 60
 Cast time: 2.5s
 Cooldown: 100s</TM_SpiritWolves_II.description>
   <TM_SpiritWolves_III.label>Spirit Wolves (III)</TM_SpiritWolves_III.label>
-  <TM_SpiritWolves_III.description>Manifests a charging pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns; once trained spirit damage can also be used to hex enemies. Spirit wolves are able to distinguish friend from foe
+  <TM_SpiritWolves_III.description>Manifests a pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns.
 		
 Range: 65
 Cast time: 2.4s
@@ -1645,6 +1688,10 @@ Firing Delay: 2s
 Recharge 40s</TM_DisablingShot_III.description>
   <TM_AntiArmor.label>Anti-Armor</TM_AntiArmor.label>
   <TM_AntiArmor.description>The sniper carries anti armor rounds for those special occasions. When this ammunition shatters, it releases nanites that will shred any armor they make contact with. Relatively ineffective against soft targets but does extra damage to armored targets, as long as the resistance on impact activates the nanites. Armored targets may be any mechanoid or a target with a Sharp armor rating above 100%.</TM_AntiArmor.description>
+  <TM_ShadowSlayer.label>Shadow Slayer</TM_ShadowSlayer.label>
+  <TM_ShadowSlayer.description>A trained sniper is an expert at stealth and positioning, and knows the right time and place to strike. 
+
+The shadow slayer cloaking field is a long duration form of invisibility. Unlike normal cloaking technology, this stealth field relies heavily on a form of predictive cloaking that rapidly wears off when the user performs rapid or violent actions (such as firing a weapon).</TM_ShadowSlayer.description>
   <TM_Heater.label>Magical heater</TM_Heater.label>
   <TM_Heater.description>Creates a dimensional pocket that taps into the Plane of Fire, generating constant heat in a confined area. The heater must be sustained by the mage - reduces max mana by 25 while active.</TM_Heater.description>
   <TM_DismissHeater.label>Dismiss Heater</TM_DismissHeater.label>
@@ -1749,10 +1796,18 @@ This attack only works when the weapon equipped is not normally consumed after u
   <TM_Ignite.description>Concentrates and enormous amount of heat at a focus point and then releases it. The released heat can ignite nearby creatures and will always set fire to corpses. The released heat will also dramatically increase the room temperature for any enclosed area.</TM_Ignite.description>
   <TM_SnapFreeze.label>Snap Freeze</TM_SnapFreeze.label>
   <TM_SnapFreeze.description>Removes almost all heat at a focus point causing a snap freeze of any living object. Creatures may suffer from frostbite and most plant life will die. The removal of heat will also dramatically decrease the room temperature for any enclosed area.</TM_SnapFreeze.description>
+  <TM_Discord.label>Discord</TM_Discord.label>
+  <TM_Discord.description>A channeled ability that continually assaults the senses of the victim with random and jarring signals. This sensory overload will gradually weaken mental stability and eventually the mental harmony of the target will collapse altogether. The results of this ability vary, but will grow stronger with each iteration. 
+		
+Effects include dizziness, nausea, vision and hearing loss, vomiting, inability to determine friend from foe, can no longer maths, dislike of other pawns, loss of motor skills, loss of reason, urge to discuss politics, paroxysm, brain hemorrhaging and cranial detonation. Results may vary when targeting friendly pawns. Consult your therapist channel before using.</TM_Discord.description>
   <TM_Explosion.label>Explosion!</TM_Explosion.label>
   <TM_Explosion.description>Blackness shrouded in light, frenzied blaze clad in night, in the name of the crimson demons, let the collapse of thine origin manifest. Summon before me the root of thy power, hidden within the blossoming kingdom of demise. Explosion!</TM_Explosion.description>
   <TM_Taunt.label>Taunt</TM_Taunt.label>
   <TM_Taunt.description>Taunts nearby targets to attack this pawn.</TM_Taunt.description>
+  <TM_ShieldOther.label>Shield Other</TM_ShieldOther.label>
+  <TM_ShieldOther.description>Protects the target from damage for 60s or until the shield is broken.
+Absorbs up to 80 damage.
+The shield absorbs an additional .5 damage for each level of the caster.</TM_ShieldOther.description>
   <TM_SummonMinion.label>Summon Minion</TM_SummonMinion.label>
   <TM_SummonMinion.description>Summons minions to assist in daily tasks.</TM_SummonMinion.description>
   <TM_DismissMinion.label>Dismiss Minion</TM_DismissMinion.label>
@@ -1830,7 +1885,7 @@ This ability actively consumes stamina, and will automatically cancel once the c
 	
 Undrafted: the techno-bit assists in crafting, mining and construction tasks. It will also repair nearby buildings, androids, and mechanoids.
 
-Drafted: uses its anti-gravity system to propel small, time delayed explosives at the technomancer's target.  Performs accelerated repairs to nearby robotic pawns or buildings.</TM_TechnoBit.description>
+Drafted: uses an internal focus-LED to fire micro lasers at the technomancers target. Performs accelerated repairs to nearby robotic pawns or buildings.</TM_TechnoBit.description>
   <TM_TechnoTurret.label>Mark-IV Turret</TM_TechnoTurret.label>
   <TM_TechnoTurret.description>Deploys and establishes a neural link to the Mark-IV turret. The Mark-IV is remotely controlled by the caster. After the turret is deployed,any activity or movement by the caster will break the neural link and miniaturize the Mark-IV weapon system. Rockets and mortars consume mana per shot.
 

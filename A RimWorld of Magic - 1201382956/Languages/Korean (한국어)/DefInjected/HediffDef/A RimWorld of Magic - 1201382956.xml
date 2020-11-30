@@ -239,6 +239,18 @@
   <TM_BattleHymnHD.stages.7.label>VIII</TM_BattleHymnHD.stages.7.label>
   <TM_BattleHymnHD.stages.8.label>IX</TM_BattleHymnHD.stages.8.label>
   <TM_BattleHymnHD.stages.9.label>X</TM_BattleHymnHD.stages.9.label>
+  <TM_DiscordHD.label>Discord</TM_DiscordHD.label>
+  <TM_DiscordHD.description>Under mental duress.</TM_DiscordHD.description>
+  <TM_DiscordHD.stages.0.label>mental haze</TM_DiscordHD.stages.0.label>
+  <TM_DiscordHD.stages.1.label>distortion</TM_DiscordHD.stages.1.label>
+  <TM_DiscordHD.stages.2.label>unstable</TM_DiscordHD.stages.2.label>
+  <TM_DiscordHD.stages.3.label>insanity</TM_DiscordHD.stages.3.label>
+  <TM_DiscordSafeHD.label>Discord</TM_DiscordSafeHD.label>
+  <TM_DiscordSafeHD.description>Under mental duress.</TM_DiscordSafeHD.description>
+  <TM_DiscordSafeHD.stages.0.label>mental haze</TM_DiscordSafeHD.stages.0.label>
+  <TM_DiscordSafeHD.stages.1.label>distortion</TM_DiscordSafeHD.stages.1.label>
+  <TM_DiscordSafeHD.stages.2.label>unstable</TM_DiscordSafeHD.stages.2.label>
+  <TM_DiscordSafeHD.stages.3.label>overwhelmed</TM_DiscordSafeHD.stages.3.label>
   <TM_BloodHD.label>Blood Magic</TM_BloodHD.label>
   <TM_BloodHD.description>Accounts for the blood power of a blood mage.</TM_BloodHD.description>
   <TM_RendHD.label>Hemorrhaging</TM_RendHD.label>
@@ -840,6 +852,24 @@
   <SoothingBreeze_III.label>Soothing Breeze</SoothingBreeze_III.label>
   <SoothingBreeze_III.description>A soothing presence that calms the spirit.</SoothingBreeze_III.description>
   <SoothingBreeze_III.stages.0.label>IV</SoothingBreeze_III.stages.0.label>
+  <TM_InnerFire_AuraHD.label>Aura of Warmth</TM_InnerFire_AuraHD.label>
+  <TM_InnerFire_AuraHD.description>An aura that generates and bestows warmth and confidence.</TM_InnerFire_AuraHD.description>
+  <TM_InnerFire_AuraHD.stages.0.label>I</TM_InnerFire_AuraHD.stages.0.label>
+  <TM_InnerFire_AuraHD.stages.1.label>II</TM_InnerFire_AuraHD.stages.1.label>
+  <TM_InnerFire_AuraHD.stages.2.label>III</TM_InnerFire_AuraHD.stages.2.label>
+  <TM_InnerFire_AuraHD.stages.3.label>IV</TM_InnerFire_AuraHD.stages.3.label>
+  <InnerFireHD.label>Inner Fire</InnerFireHD.label>
+  <InnerFireHD.description>Fortifies the spirit, giving the pawn increased endurance and resistances.</InnerFireHD.description>
+  <InnerFireHD.stages.0.label>I</InnerFireHD.stages.0.label>
+  <InnerFire_IHD.label>Inner Fire</InnerFire_IHD.label>
+  <InnerFire_IHD.description>Fortifies the spirit, giving the pawn increased endurance and resistances.</InnerFire_IHD.description>
+  <InnerFire_IHD.stages.0.label>II</InnerFire_IHD.stages.0.label>
+  <InnerFire_IIHD.label>Inner Fire</InnerFire_IIHD.label>
+  <InnerFire_IIHD.description>Fortifies the spirit, giving the pawn increased endurance and resistances.</InnerFire_IIHD.description>
+  <InnerFire_IIHD.stages.0.label>III</InnerFire_IIHD.stages.0.label>
+  <InnerFire_IIIHD.label>Inner Fire</InnerFire_IIIHD.label>
+  <InnerFire_IIIHD.description>Fortifies the spirit, giving the pawn increased endurance and resistances.</InnerFire_IIIHD.description>
+  <InnerFire_IIIHD.stages.0.label>IV</InnerFire_IIIHD.stages.0.label>
   <TM_RayOfHope_AuraHD.label>Aura of Hope</TM_RayOfHope_AuraHD.label>
   <TM_RayOfHope_AuraHD.description>An aura that generates and bestows an uplifting presence.</TM_RayOfHope_AuraHD.description>
   <TM_RayOfHope_AuraHD.stages.0.label>I</TM_RayOfHope_AuraHD.stages.0.label>
@@ -904,6 +934,8 @@
   <TM_RangerBondHD.stages.3.label>IV</TM_RangerBondHD.stages.3.label>
   <TM_HediffShield.label>Shield</TM_HediffShield.label>
   <TM_HediffShield.description>Absorbs damage.</TM_HediffShield.description>
+  <TM_MagicShieldHD.label>Shield</TM_MagicShieldHD.label>
+  <TM_MagicShieldHD.description>Absorbs damage.</TM_MagicShieldHD.description>
   <TM_HediffSprint_I.label>Sprint (I)</TM_HediffSprint_I.label>
   <TM_HediffSprint_I.description>Increases movement.</TM_HediffSprint_I.description>
   <TM_HediffSprint_II.label>Sprint (II)</TM_HediffSprint_II.label>
@@ -998,6 +1030,10 @@
   <TM_SS_SerumHD.stages.1.label>Stage 1</TM_SS_SerumHD.stages.1.label>
   <TM_SS_SerumHD.stages.2.label>Stage 2</TM_SS_SerumHD.stages.2.label>
   <TM_SS_SerumHD.stages.3.label>Stage 3</TM_SS_SerumHD.stages.3.label>
+  <TM_ShadowSlayerCloakHD.label>Shadow Slayer Cloak</TM_ShadowSlayerCloakHD.label>
+  <TM_ShadowSlayerCloakHD.description>Shadow slayer cloaking field is active - performing actions that the predictive engine is unable to track will rapidly erode the cloaking field.</TM_ShadowSlayerCloakHD.description>
+  <TM_SeverityHasteHD.label>Haste</TM_SeverityHasteHD.label>
+  <TM_SeverityHasteHD.description>Attack rate is doubled.</TM_SeverityHasteHD.description>
   <TM_HediffEnchantment_maxEnergy.label>Max Energy:</TM_HediffEnchantment_maxEnergy.label>
   <TM_HediffEnchantment_maxEnergy.description>Energy capacity enchantment.</TM_HediffEnchantment_maxEnergy.description>
   <TM_HediffEnchantment_coolDown.label>Cool Down:</TM_HediffEnchantment_coolDown.label>
