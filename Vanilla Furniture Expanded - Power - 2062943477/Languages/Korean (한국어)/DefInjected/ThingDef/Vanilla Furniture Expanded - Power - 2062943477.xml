@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_AdvancedWindTurbine.label>advanced wind turbine</VFE_AdvancedWindTurbine.label>
+  <VFE_AdvancedWindTurbine.description>A spacertech, advanced wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</VFE_AdvancedWindTurbine.description>
+  <VFE_AdvancedSolarGenerator.label>advanced solar generator</VFE_AdvancedSolarGenerator.label>
+  <VFE_AdvancedSolarGenerator.description>This spacertech solar generator is capable of extracting significantly more energy from sunlight. Does not work in the dark or under artificial light.</VFE_AdvancedSolarGenerator.description>
+  <VFE_AdvancedWatermillGenerator.label>advanced watermill generator</VFE_AdvancedWatermillGenerator.label>
+  <VFE_AdvancedWatermillGenerator.description>A spacertech building that produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.</VFE_AdvancedWatermillGenerator.description>
+  <VPE_AdvancedGeothermalGenerator.label>advanced geothermal generator</VPE_AdvancedGeothermalGenerator.label>
+  <VPE_AdvancedGeothermalGenerator.description>This advanced, spacertech generator produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</VPE_AdvancedGeothermalGenerator.description>
+  <VFE_LargeBattery.label>large battery</VFE_LargeBattery.label>
+  <VFE_LargeBattery.description>Stores large amounts of electricity for later use. Charged large batteries explode when exposed to rain or fire.</VFE_LargeBattery.description>
+  <VFE_SmallBattery.label>small battery</VFE_SmallBattery.label>
+  <VFE_SmallBattery.description>Stores small amount of electricity for later use. Charged batteries explode when exposed to rain or fire.</VFE_SmallBattery.description>
+  <VFE_AdvancedBattery.label>advanced battery</VFE_AdvancedBattery.label>
+  <VFE_AdvancedBattery.description>Stores electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged advanced batteries are waterproof and don't explode when exposed to rain.</VFE_AdvancedBattery.description>
+  <VFE_LargeAdvancedBattery.label>large advanced battery</VFE_LargeAdvancedBattery.label>
+  <VFE_LargeAdvancedBattery.description>Stores large amounts of electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain.</VFE_LargeAdvancedBattery.description>
+  <VPE_ChemfuelPump.label>chemfuel pump</VPE_ChemfuelPump.label>
+  <VPE_ChemfuelPump.description>An industrial style pump capable of extracting chemfuel from underground pockets. After the chemfuel is fully extracted, chemfuel pump can be safely deconstructed.</VPE_ChemfuelPump.description>
+  <VPE_GasPipe.label>gas pipe</VPE_GasPipe.label>
+  <VPE_GasPipe.description>A pipe that transmits helixien gas.</VPE_GasPipe.description>
+  <VPE_GasPipeSub.label>subterranean gas pipe</VPE_GasPipeSub.label>
+  <VPE_GasPipeSub.description>A pipe that transmits helixien gas. This pipe is hidden from view and is protected from gas explosions. Much more expensive to build than regular pipes</VPE_GasPipeSub.description>
+  <VPE_GasPipeValve.label>gas pipe valve</VPE_GasPipeValve.label>
+  <VPE_GasPipeValve.description>Switches gas flow on/off.</VPE_GasPipeValve.description>
+  <VPE_GasTank.label>gas tank</VPE_GasTank.label>
+  <VPE_GasTank.description>A large steel tank for gas storage. Will explode if damaged.</VPE_GasTank.description>
+  <VPE_HelixienPump.label>helixien pump</VPE_HelixienPump.label>
+  <VPE_HelixienPump.description>An extractor machine mounted on helixien gas geyser. Self-powered, this machine pumps out valuable gas and needs to be connected to other gas-based utilities using the pipe network.</VPE_HelixienPump.description>
+  <VPE_HelixienGenerator.label>helixien gas powered generator</VPE_HelixienGenerator.label>
+  <VPE_HelixienGenerator.description>Produces power by consuming helixien gas. Must be connected to a gas pipe network.</VPE_HelixienGenerator.description>
+  <VPE_IndustrialHelixienGenerator.label>industrial helixien gas powered generator</VPE_IndustrialHelixienGenerator.label>
+  <VPE_IndustrialHelixienGenerator.description>Produces a large amount of power by consuming helixien gas. Must be connected to a gas pipe network.</VPE_IndustrialHelixienGenerator.description>
+  <VPE_GasCrematorium.label>helixien gas crematorium</VPE_GasCrematorium.label>
+  <VPE_GasCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures. Operates on helixien gas.</VPE_GasCrematorium.description>
+  <VPE_GasSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Operates on helixien gas.</VPE_GasSmelter.description>
+  <VPE_GasSmelter.label>helixien gas smelter</VPE_GasSmelter.label>
+  <VPE_GasStove.label>helixien gas stove</VPE_GasStove.label>
+  <VPE_GasStove.description>A gas-powered stove with an attached countertop for preparing meals.</VPE_GasStove.description>
+  <VPE_GasDrill.label>gas powered excavator</VPE_GasDrill.label>
+  <VPE_GasDrill.description>A deep-crust drilling excavator for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely.</VPE_GasDrill.description>
+  <VPE_GasCooler.label>gas cooler</VPE_GasCooler.label>
+  <VPE_GasCooler.description>An air-cooling machine that releases cooled air around itself. Can be used to create a walk-in freezer. Cannot be adjusted and will automatically lower temperature slightly below zero.</VPE_GasCooler.description>
+  <VPE_GasHeater.label>gas heater</VPE_GasHeater.label>
+  <VPE_GasHeater.description>A device that converts helixien gas into radiated heat. It can automatically turn itself on or off to reach a specific target temperature.</VPE_GasHeater.description>
+  <VPE_GasSunLamp.label>gas sun lamp</VPE_GasSunLamp.label>
+  <VPE_GasSunLamp.description>An industrial lamp which lights an area brightly enough to grow crops, but consumes a medium amount of helixien gas. Automatically turns itself off at night.</VPE_GasSunLamp.description>
+  <VPE_GasSunLamp.comps.2.offMessage>Off for plant resting period</VPE_GasSunLamp.comps.2.offMessage>
+  <VPE_GasSmithy.label>helixien gas smithy</VPE_GasSmithy.label>
+  <VPE_GasSmithy.description>A gas-powered station for smithing non-mechanical weapons and tools.</VPE_GasSmithy.description>
+  <VPE_GasLamp.label>standing gas lamp</VPE_GasLamp.label>
+  <VPE_GasLamp.description>A gas-powered standing lamp that lights an area. People need light to move and work at full speed. Needs to be connected to the helixien gas network. Can be safely placed outdoors.</VPE_GasLamp.description>
+  <VPE_GasFloodlight.label>gas floodlight</VPE_GasFloodlight.label>
+  <VPE_GasFloodlight.description>A gas-powered tall floodlight that lights a massive area. People need light to move and work at full speed. It doesn’t shine bright enough to grow crops. Needs to be connected to the helixien gas network. Can be safely placed outdoors.</VPE_GasFloodlight.description>
+  <VPE_GasBiofuelRefinery.label>gas-powered refinery</VPE_GasBiofuelRefinery.label>
+  <VPE_GasBiofuelRefinery.description>Refines biological matter like wood or plant matter into chemfuel. Needs to be connected to the helixien gas network.</VPE_GasBiofuelRefinery.description>
+  <VPE_GasVent.label>helixien gas vent</VPE_GasVent.label>
+  <VPE_GasVent.description>A wall-mounted vent capable of releasing toxic compounds of helixien gas into the targeted area. It drains helixien gas supply rapidly, and dissipates quickly. It needs a gas valve installed in the same network to limit the flow of gas. Helixien gas is very volatile and will travel with wind.</VPE_GasVent.description>
+  <VPE_GasPodLauncher.label>gas-operated pod launcher</VPE_GasPodLauncher.label>
+  <VPE_GasPodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. Requires connection to a helixien gas system.</VPE_GasPodLauncher.description>
+  <VPE_LightningRod.label>lightning rod</VPE_LightningRod.label>
+  <VPE_LightningRod.description>An advanced technology allows this device to harness the power of lightning and place it as a ready-to-use charge in the batteries.</VPE_LightningRod.description>
+  <VPE_HelixienGeyser.label>helixien gas geyser</VPE_HelixienGeyser.label>
+  <VPE_HelixienGeyser.description>A natural source of high-pressure gas. Helixien gas pumps can be built on top to extract the gas.</VPE_HelixienGeyser.description>
+  <VPE_ChemfuelPond.label>chemfuel pond</VPE_ChemfuelPond.label>
+  <VPE_ChemfuelPond.description>A natural source of chemfuel, more common in arid biomes. A chemfuel pump can be installed here to extract the chemfuel. The pond will run out eventually.</VPE_ChemfuelPond.description>
+  <VPE_NuclearGenerator.label>nuclear reactor</VPE_NuclearGenerator.label>
+  <VPE_NuclearGenerator.description>A large nuclear reactor repurposed from a ship power core. Consumes uranium to produce large amounts of power. Can be overloaded, resulting in even larger power output at the cost of local radiation.\n\nNuclear reactor will quickly overheat and should be cooled at all times.\n\nCannot be placed outdoors.</VPE_NuclearGenerator.description>
+  <VFE_PortableWoodFiredGenerator.label>portable wood-fired generator</VFE_PortableWoodFiredGenerator.label>
+  <VFE_PortableWoodFiredGenerator.description>Produces a small amount of power by consuming wood. Must be periodically loaded with wood fuel by hand. This generator is light enough to be carried around.</VFE_PortableWoodFiredGenerator.description>
+  <VFE_PortableChemfuelPoweredGenerator.label>portable chemfuel powered generator</VFE_PortableChemfuelPoweredGenerator.label>
+  <VFE_PortableChemfuelPoweredGenerator.description>Produces a small amount of power by consuming chemfuel. Must be periodically refueled by hand. This generator is light enough to be carried around.</VFE_PortableChemfuelPoweredGenerator.description>
+  <VFE_IndustrialWoodFiredGenerator.label>industrial wood-fired generator</VFE_IndustrialWoodFiredGenerator.label>
+  <VFE_IndustrialWoodFiredGenerator.description>Produces a large amount of power by consuming wood. Must be periodically loaded with wood fuel by hand.</VFE_IndustrialWoodFiredGenerator.description>
+  <VFE_IndustrialChemfuelPoweredGenerator.label>industrial chemfuel powered generator</VFE_IndustrialChemfuelPoweredGenerator.label>
+  <VFE_IndustrialChemfuelPoweredGenerator.description>Produces a large amount of power by consuming chemfuel. Must be periodically refueled by hand.</VFE_IndustrialChemfuelPoweredGenerator.description>
+  <VFE_TidalGenerator.label>tidal generator</VFE_TidalGenerator.label>
+  <VFE_TidalGenerator.description>Produces electricity from moving masses of water, particularly tides. Must be placed on water.</VFE_TidalGenerator.description>
+  <VFE_SmallVanometricPowerCell.label>small vanometric power cell</VFE_SmallVanometricPowerCell.label>
+  <VFE_SmallVanometricPowerCell.description>Generates a very small amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam.</VFE_SmallVanometricPowerCell.description>
+  <VFE_LargeVanometricPowerCell.label>large vanometric power cell</VFE_LargeVanometricPowerCell.label>
+  <VFE_LargeVanometricPowerCell.description>Generates a large amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam.</VFE_LargeVanometricPowerCell.description>
+  <VPE_ArchotechViolenceGenerator.label>archotech violence generator</VPE_ArchotechViolenceGenerator.label>
+  <VPE_ArchotechViolenceGenerator.description>This device taps into psychic energy leaving the bodies of surrounding humanoids, changing it directly into usable energy. This technology is developed by archotechs, and is beyond even most glitterworld societies.</VPE_ArchotechViolenceGenerator.description>
+  <Gas_Helixien.label>helixien gas</Gas_Helixien.label>
+  <Gas_Helixien.description>highly flammable, and highly toxic.</Gas_Helixien.description>
+</LanguageData>
