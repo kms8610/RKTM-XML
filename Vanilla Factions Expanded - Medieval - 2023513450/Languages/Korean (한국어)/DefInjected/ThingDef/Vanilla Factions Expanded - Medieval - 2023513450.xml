@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_Wine.label>wine</VFEM_Wine.label>
+  <VFEM_Wine.description>A large bottle of a strong alcoholic beverage that is made from fermented grapes. Excessive consumption can lead to alcohol blackouts and, over time, addiction.</VFEM_Wine.description>
+  <VFEM_Wine.ingestible.ingestCommandString>Drink {0}</VFEM_Wine.ingestible.ingestCommandString>
+  <VFEM_Wine.ingestible.ingestReportString>Drinking {0}.</VFEM_Wine.ingestible.ingestReportString>
+  <VFEM_Wine.tools.0.label>bottle</VFEM_Wine.tools.0.label>
+  <VFEM_Wine.tools.1.label>neck</VFEM_Wine.tools.1.label>
+  <VFEM_Must.label>grape must</VFEM_Must.label>
+  <VFEM_Must.description>Un-fermented wine. This substance needs to ferment in a wine barrel before it becomes drinkable wine.</VFEM_Must.description>
+  <VFEM_WineBarrel.label>wine barrel</VFEM_WineBarrel.label>
+  <VFEM_WineBarrel.description>A barrel for fermenting raw must into wine.</VFEM_WineBarrel.description>
+  <VFEM_CobblestoneWall.label>cobblestone wall</VFEM_CobblestoneWall.label>
+  <VFEM_RawGrapes.label>grapes</VFEM_RawGrapes.label>
+  <VFEM_RawGrapes.description>Raw grapes. Nice to eat, even when raw. Grapes can also be made into must which can then be used to make wine.</VFEM_RawGrapes.description>
+  <VFEM_Apparel_PlateHelmetLight.label>light plate helmet</VFEM_Apparel_PlateHelmetLight.label>
+  <VFEM_Apparel_PlateHelmetLight.description>A lightweight medieval helmet that provides moderate protection against sharp attacks. Not effective against blunt weapons. Slighty restricts the wearer's field of vision.</VFEM_Apparel_PlateHelmetLight.description>
+  <VFEM_Apparel_PlateHelmetHeavy.label>heavy plate helmet</VFEM_Apparel_PlateHelmetHeavy.label>
+  <VFEM_Apparel_PlateHelmetHeavy.description>A bulky medieval helmet that provides full-head coverage. Offers a considerable amount of protection but restricts the wearer's field of vision.</VFEM_Apparel_PlateHelmetHeavy.description>
+  <VFEM_Apparel_PlateArmorHeavy.label>heavy plate armor</VFEM_Apparel_PlateArmorHeavy.label>
+  <VFEM_Apparel_PlateArmorHeavy.description>Overlapping solid plates of armor covering the entire body from neck to feet. The plates have been reinforced which offers significantly more protection, but at the cost of mobility.</VFEM_Apparel_PlateArmorHeavy.description>
+  <VFEM_Apparel_Tabard.label>tabard</VFEM_Apparel_Tabard.label>
+  <VFEM_Apparel_Tabard.description>A garment that is worn over armour by medieval militia which depicts their kingdom's coat of arms.</VFEM_Apparel_Tabard.description>
+  <VFEM_Shield_Kite.tools.0.label>base</VFEM_Shield_Kite.tools.0.label>
+  <VFEM_Shield_Kite.tools.1.label>centre</VFEM_Shield_Kite.tools.1.label>
+  <VFEM_Shield_Kite.label>kite shield</VFEM_Shield_Kite.label>
+  <VFEM_Shield_Kite.description>A large wooden shield, with the front decoratively covered by leather. Offers a moderate amount of protection against melee and ranged attacks.</VFEM_Shield_Kite.description>
+  <VFEM_Shield_Heater.tools.0.label>base</VFEM_Shield_Heater.tools.0.label>
+  <VFEM_Shield_Heater.tools.1.label>centre</VFEM_Shield_Heater.tools.1.label>
+  <VFEM_Shield_Heater.label>heater shield</VFEM_Shield_Heater.label>
+  <VFEM_Shield_Heater.description>A heavy medium-sized steel shield, with the front decoratively covered by leather. Offers a significant amount of protection against melee and ranged attacks.</VFEM_Shield_Heater.description>
+  <VFEM_MeleeWeapon_Claymore.label>claymore</VFEM_MeleeWeapon_Claymore.label>
+  <VFEM_MeleeWeapon_Claymore.description>An ancient two-handed weapon, very rarely seen in use on the rim. Very effective at slashing and stabbing.</VFEM_MeleeWeapon_Claymore.description>
+  <VFEM_MeleeWeapon_Claymore.tools.0.label>handle</VFEM_MeleeWeapon_Claymore.tools.0.label>
+  <VFEM_MeleeWeapon_Claymore.tools.1.label>point</VFEM_MeleeWeapon_Claymore.tools.1.label>
+  <VFEM_MeleeWeapon_Claymore.tools.2.label>edge</VFEM_MeleeWeapon_Claymore.tools.2.label>
+  <VFEM_MeleeWeapon_HeavyMace.label>heavy mace</VFEM_MeleeWeapon_HeavyMace.label>
+  <VFEM_MeleeWeapon_HeavyMace.description>A heavy mace consisting of a shaft and a heavy ball adorned with spikes. Very effective at piercing plate armor, this weapon is often used by more vicious knights and mercenaries.</VFEM_MeleeWeapon_HeavyMace.description>
+  <VFEM_MeleeWeapon_HeavyMace.tools.0.label>handle</VFEM_MeleeWeapon_HeavyMace.tools.0.label>
+  <VFEM_MeleeWeapon_HeavyMace.tools.1.label>head</VFEM_MeleeWeapon_HeavyMace.tools.1.label>
+  <VFEM_Bow_HeavyCrossbow.label>heavy crossbow</VFEM_Bow_HeavyCrossbow.label>
+  <VFEM_Bow_HeavyCrossbow.description>A heavy crossbow has a similar principle to a bow, consisting of a bow-like assembly mounted horizontally on a sturdy frame, which is handheld in a similar fashion to the stock of a long gun.\n\nThis heavy bolt thrower fires devastating bolts, capable of piercing several layers of metal.</VFEM_Bow_HeavyCrossbow.description>
+  <VFEM_Bow_HeavyCrossbow.tools.0.label>limb</VFEM_Bow_HeavyCrossbow.tools.0.label>
+  <VFEM_Arrow_HeavyBolt.label>heavy crossbow bolt</VFEM_Arrow_HeavyBolt.label>
+  <VFEM_Plant_Grape.label>grape plant</VFEM_Plant_Grape.label>
+  <VFEM_Plant_Grape.description>A medium-sized vine that yields grapes when harvested - an essential ingredient in the production of wine that also tastes nice when eaten raw. Takes a long time to initially grow but can be harvested repeatedly in a single lifespan.</VFEM_Plant_Grape.description>
+</LanguageData>
