@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ComAil.Name>Common Ailments</ComAil.Name>
+  <ComAil.DoAilments>Allow Common Ailments:</ComAil.DoAilments>
+  <ComAil.DoSymptoms>Allow more severe illnesses to use Common Ailments as symptoms:</ComAil.DoSymptoms>
+  <ComAil.DoMsgs>Send notification messages:</ComAil.DoMsgs>
+  <ComAil.NegHealthSound>Use "Negative Health" sound for notification messages:</ComAil.NegHealthSound>
+  <ComAil.CAStartDays>Number of game days before ailments begin [Default 60]:</ComAil.CAStartDays>
+  <ComAil.CAFrequency>Frequency in game hours to check for ailments [Default 24]:</ComAil.CAFrequency>
+  <ComAil.CAChance>Base % chance to contract an ailment [Default 10]:</ComAil.CAChance>
+  <ComAil.DoSTI>Apply sexually transmitted infections (STIs):</ComAil.DoSTI>
+  <ComAil.CASTIChance>Base % chance to contract an STI [Default 10]:</ComAil.CASTIChance>
+  <ComAil.CASTIOffset>Offset to contract an STI (more negative = less chance): [Default -50]:</ComAil.CASTIOffset>
+  <ComAil.CanAddScenario>Allow Common Ailments to be added to scenarios:</ComAil.CanAddScenario>
+  <ComAil.ChangeValueTip>(Changes to this setting will be applied after restarting Rimworld)</ComAil.ChangeValueTip>
+  <ComAil.Symptomatic>Common Ailments added potential symptomatic behaviour to {0} maladies.</ComAil.Symptomatic>
+  <ComAil.Confirmation> has contracted a common ailment of </ComAil.Confirmation>
+  <ComAil.CureMsg>{0}'s ailment of {1} has been cured.</ComAil.CureMsg>
+</LanguageData>
