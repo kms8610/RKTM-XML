@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ReviaBloodSigil.label>blood sigil</ReviaBloodSigil.label>
+  <ReviaBloodSigil.description>A place to dedicate offerings to the blood god.</ReviaBloodSigil.description>
+  <ReviaSacrificeSpot.label>sacrifice spot</ReviaSacrificeSpot.label>
+  <ReviaSacrificeSpot.description>A place to sacrifice humanlikes to the blood god.</ReviaSacrificeSpot.description>
+  <ReviaBloodRune.label>Blood Rune</ReviaBloodRune.label>
+  <ReviaBloodRune.description>A symbol of Skarne, carefully carved on an ornate disc. Vibrating with inner hatred.</ReviaBloodRune.description>
+  <ReviaBloodRuneBlank.label>Blood Rune (inert)</ReviaBloodRuneBlank.label>
+  <ReviaBloodRuneBlank.description>A symbol of Skarne, carefully carved on an ornate disc.</ReviaBloodRuneBlank.description>
+  <ReviaRaceBloodstone.label>bloodstone</ReviaRaceBloodstone.label>
+  <ReviaRaceBloodstone.description>A blessing given by the Revian pantheon. Supposedly confers divine favour on the user.</ReviaRaceBloodstone.description>
+  <ReviaRaceBloodstone.comps.0.useLabel>Make offering</ReviaRaceBloodstone.comps.0.useLabel>
+  <ReviaGreaterBloodRune.label>Greater Blood Rune</ReviaGreaterBloodRune.label>
+  <ReviaGreaterBloodRune.description>A symbol of Skarne, carefully carved on a richly decorated disc. Pulsing with a malevolent, bloodthirsty spirit.</ReviaGreaterBloodRune.description>
+  <ReviaGreaterBloodRuneBlank.label>Greater Blood Rune (inert)</ReviaGreaterBloodRuneBlank.label>
+  <ReviaGreaterBloodRuneBlank.description>A symbol of Skarne, carefully carved on a richly decorated disc.</ReviaGreaterBloodRuneBlank.description>
+  <ReviaLesserBloodRune.label>Lesser Blood Rune</ReviaLesserBloodRune.label>
+  <ReviaLesserBloodRune.description>A symbol of Skarne, carefully carved on a simple disc. Pulsing with inner aggression.</ReviaLesserBloodRune.description>
+  <ReviaLesserBloodRuneBlank.label>Lesser Blood Rune (inert)</ReviaLesserBloodRuneBlank.label>
+  <ReviaLesserBloodRuneBlank.description>A symbol of Skarne, carefully carved on a simple disc.</ReviaLesserBloodRuneBlank.description>
+  <ReviaRacePalestone.label>palestone</ReviaRacePalestone.label>
+  <ReviaRacePalestone.description>A lesser blessing given by the Revian pantheon. Supposedly confers divine favour on the user.</ReviaRacePalestone.description>
+  <ReviaRacePalestone.comps.0.useLabel>Make offering</ReviaRacePalestone.comps.0.useLabel>
+  <ReviaRaceRedHaze.label>Red Haze</ReviaRaceRedHaze.label>
+  <ReviaRaceRedHaze.description>A scarlet powder made from ground-up bloodstones. When taken, it is said that the user is given a small portion of Skarne's undying rage.</ReviaRaceRedHaze.description>
+  <ReviaRaceRedHaze.ingestible.ingestCommandString>Consume {0}</ReviaRaceRedHaze.ingestible.ingestCommandString>
+  <ReviaRaceRedHaze.ingestible.ingestReportString>Consuming {0}</ReviaRaceRedHaze.ingestible.ingestReportString>
+  <ReviaBlessedSerratedDagger.label>Crimson Blossom</ReviaBlessedSerratedDagger.label>
+  <ReviaBlessedSerratedDagger.description>A cruel sawtoothed dagger bearing a bloodthirsty spirit.</ReviaBlessedSerratedDagger.description>
+  <ReviaBlessedSerratedDagger.tools.0.label>handle</ReviaBlessedSerratedDagger.tools.0.label>
+  <ReviaBlessedSerratedDagger.tools.1.label>point</ReviaBlessedSerratedDagger.tools.1.label>
+  <ReviaBlessedSerratedDagger.tools.2.label>edge</ReviaBlessedSerratedDagger.tools.2.label>
+  <ReviaBlessedSerratedScythe.label>Vermillion Tide</ReviaBlessedSerratedScythe.label>
+  <ReviaBlessedSerratedScythe.description>A cruel scythe with a razor sharp blade. A murderous spirit resides within it.</ReviaBlessedSerratedScythe.description>
+  <ReviaBlessedSerratedScythe.tools.0.label>handle</ReviaBlessedSerratedScythe.tools.0.label>
+  <ReviaBlessedSerratedScythe.tools.1.label>edge</ReviaBlessedSerratedScythe.tools.1.label>
+  <ReviaBlessedSerratedSword.label>Red Inquisitor</ReviaBlessedSerratedSword.label>
+  <ReviaBlessedSerratedSword.description>A cruel sword with a serrated blade, containing a hateful spirit.</ReviaBlessedSerratedSword.description>
+  <ReviaBlessedSerratedSword.tools.0.label>handle</ReviaBlessedSerratedSword.tools.0.label>
+  <ReviaBlessedSerratedSword.tools.1.label>point</ReviaBlessedSerratedSword.tools.1.label>
+  <ReviaBlessedSerratedSword.tools.2.label>edge</ReviaBlessedSerratedSword.tools.2.label>
+  <ReviaChainSword.label>shredder</ReviaChainSword.label>
+  <ReviaChainSword.description>A weaponised chainsaw with hardened plasteel teeth. The teeth are angled outwards to maximise wound size.</ReviaChainSword.description>
+  <ReviaChainSword.tools.0.label>handle</ReviaChainSword.tools.0.label>
+  <ReviaChainSword.tools.1.label>teeth</ReviaChainSword.tools.1.label>
+  <ReviaFlechetteCannon.label>shard cannon</ReviaFlechetteCannon.label>
+  <ReviaFlechetteCannon.description>A large-bore shotgun that fires plasteel-coated uranium shards at the enemy. Highly dangerous at close range, and is also equipped with a heavy-duty bayonet.</ReviaFlechetteCannon.description>
+  <ReviaFlechetteCannon.tools.0.label>stock</ReviaFlechetteCannon.tools.0.label>
+  <ReviaFlechetteCannon.tools.1.label>bayonet</ReviaFlechetteCannon.tools.1.label>
+  <ReviaFlechetteCannonShard.label>flechette</ReviaFlechetteCannonShard.label>
+  <ReviaRepeatingCrossbow.label>repeating crossbow</ReviaRepeatingCrossbow.label>
+  <ReviaRepeatingCrossbow.description>A repeating crossbow made with complex mechanical parts.</ReviaRepeatingCrossbow.description>
+  <ReviaRepeatingCrossbow.tools.0.label>stock</ReviaRepeatingCrossbow.tools.0.label>
+  <ReviaRepeatingCrossbowBolt.label>Repeating crossbow bolt</ReviaRepeatingCrossbowBolt.label>
+  <ReviaSerratedDagger.label>eviscerator</ReviaSerratedDagger.label>
+  <ReviaSerratedDagger.description>A cruel sawtoothed dagger with a single-edged blade. Designed to tear tissue and cause grievous bleeding wounds.</ReviaSerratedDagger.description>
+  <ReviaSerratedDagger.tools.0.label>handle</ReviaSerratedDagger.tools.0.label>
+  <ReviaSerratedDagger.tools.1.label>point</ReviaSerratedDagger.tools.1.label>
+  <ReviaSerratedDagger.tools.2.label>edge</ReviaSerratedDagger.tools.2.label>
+  <ReviaSerratedScythe.label>harvester</ReviaSerratedScythe.label>
+  <ReviaSerratedScythe.description>A cruel scythe with a razor sharp blade. Designed to inflict severe bleeding and grievous wounds.</ReviaSerratedScythe.description>
+  <ReviaSerratedScythe.tools.0.label>handle</ReviaSerratedScythe.tools.0.label>
+  <ReviaSerratedScythe.tools.1.label>edge</ReviaSerratedScythe.tools.1.label>
+  <ReviaSerratedSword.label>scourge</ReviaSerratedSword.label>
+  <ReviaSerratedSword.description>A cruel sword with a serrated blade. Designed to inflict severe bleeding and grievous wounds.</ReviaSerratedSword.description>
+  <ReviaSerratedSword.tools.0.label>handle</ReviaSerratedSword.tools.0.label>
+  <ReviaSerratedSword.tools.1.label>point</ReviaSerratedSword.tools.1.label>
+  <ReviaSerratedSword.tools.2.label>edge</ReviaSerratedSword.tools.2.label>
+  <ReviaThrowingKnife.label>throwing knife</ReviaThrowingKnife.label>
+  <ReviaThrowingKnife.description>A balanced throwing knife.</ReviaThrowingKnife.description>
+  <ReviaThrowingKnife.tools.0.label>point</ReviaThrowingKnife.tools.0.label>
+  <ReviaThrowingKnifeThrown.label>thrown knife</ReviaThrowingKnifeThrown.label>
+</LanguageData>
