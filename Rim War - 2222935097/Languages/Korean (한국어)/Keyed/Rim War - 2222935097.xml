@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RW_RimWar>Rim War</RW_RimWar>
+  <RW_dev_createTrader>Dev: Create Trader</RW_dev_createTrader>
+  <RW_EstimatedTimeToDestination>Estimated time to destination: {0} days</RW_EstimatedTimeToDestination>
+  <RW_WarObjectInspectString>{0} {1} {2}</RW_WarObjectInspectString>
+  <RW_SettlerInspectString>{0} {1}</RW_SettlerInspectString>
+  <RW_SettlementPoints>Settlement points: {0}</RW_SettlementPoints>
+  <RW_WarbandName>Warband of {0}</RW_WarbandName>
+  <RW_ScoutName>Scouting party of {0}</RW_ScoutName>
+  <RW_TraderName>Trading Caravan of {0}</RW_TraderName>
+  <RW_SettlerName>Settler of {0}</RW_SettlerName>
+  <RW_DiplomatName>Diplomat of {0}</RW_DiplomatName>
+  <RW_CombatPower>Combat power: {0}</RW_CombatPower>
+  <RW_Capitol>Faction Capitol</RW_Capitol>
+  <RW_AggressionDefense>Min. amount for AI Aggression: {0}</RW_AggressionDefense>
+  <RW_AggressionPoints>Aggression amount: {0}</RW_AggressionPoints>
+  <RW_FactionPower>Faction power: {0}</RW_FactionPower>
+  <RW_FactionBehavior>Behavior type: {0}</RW_FactionBehavior>
+  <RW_SettlementCount>Settlements: {0}</RW_SettlementCount>
+  <RW_WarObjectCount>Roaming Agents: {0}</RW_WarObjectCount>
+  <RW_AttributeDisplay>Combat ({0})
+Movement ({1})
+Growth ({2})</RW_AttributeDisplay>
+  <RW_RivalFaction>**Rival**</RW_RivalFaction>
+  <RW_Relations>Relations</RW_Relations>
+  <RW_Events>Events</RW_Events>
+  <RW_Performance>Performance</RW_Performance>
+  <RW_NoEvents>No events</RW_NoEvents>
+  <RW_AllyTo>Ally of {0}</RW_AllyTo>
+  <RW_NeutralTo>Neutral to {0}</RW_NeutralTo>
+  <RW_randomizeFactionBehavior>Random Faction behavior</RW_randomizeFactionBehavior>
+  <RW_randomizeFactionBehaviorInfo>Core game factions have a pre-defined behavior - eg Outlander Civil will always have a Cautious behavior, Rough Tribes will always be warmonger's etc; this is set in the RimWarDef.xml file. Enabling this setting randomizes all faction behavior regardless of what's defined in the RimWarDef.xml file.
+
+**Only applies at the start of a new game**</RW_randomizeFactionBehaviorInfo>
+  <RW_storytellerBasedDifficulty>RimWar difficulty uses game difficulty</RW_storytellerBasedDifficulty>
+  <RW_storytellerBasedDifficultyInfo>This option associates RimWar difficulty with the game difficulty. Higher difficulty increases rate of growth of AI settlements, AI aggression, and the combat power of units sent to attack the player. Disabling this makes the challenge Rim War units present more or less severe than game difficulty.</RW_storytellerBasedDifficultyInfo>
+  <RW_maxFactionSettlements>Max Faction Settlements</RW_maxFactionSettlements>
+  <RW_maxFactionSettlementsInfo>Factions will no longer create settlers if they have more settlements than this limit; this does not prevent a faction from capturing enemy settlements. Increasing this will raise overall global population and activity and will favor expansionist faction behavior; may decrease performance.</RW_maxFactionSettlementsInfo>
+  <RW_rimwarDifficulty>Rim War Difficulty</RW_rimwarDifficulty>
+  <RW_eventFrequency>Global Event Frequency</RW_eventFrequency>
+  <RW_eventFrequencyInfo>Modifies how frequently the RimWar manager attempts an action (create a unit, update statistics, etc). Increases global activity and will make the world more "alive." This does not change how often settlements attempt actions. Decreasing this will reduce the overall game difficulty and improve performance.</RW_eventFrequencyInfo>
+  <RW_maxScanRange>Max Settlement Scan Range</RW_maxScanRange>
+  <RW_maxScanRangeInfo>The maximum activity range of a settlement. Increasing this will diversify settlement actions as they will have more options. Decreasing this may improve performance, but decreasing this excessively may prevent settlements from performing any action if no other settlement or unit is in range.</RW_maxScanRangeInfo>
+  <RW_scanRange>Settlement Scan Range (adjusted by settlement points).</RW_scanRange>
+  <RW_scanRangeInfo>Modifies the activity range of a settlement; effective range is determined by this setting and the settlements power and has an upper limit determined by the Max Scan Range. This setting should be reasonably related to the max scan range for best results.</RW_scanRangeInfo>
+  <RW_createDiplomats>Diplomats Enabled</RW_createDiplomats>
+  <RW_settlementEventFrequency>Settlement Event Frequency (game hrs):</RW_settlementEventFrequency>
+  <RW_settlementEventFrequencyInfo>Determines how often a single settlement may perform an action. Lowering the game hours between potential events will increase overall Rim War activity. Increasing this may also increase game difficulty and reduce performance. Faction capitol's can generate events 50% more often then a normal settlement.</RW_settlementEventFrequencyInfo>
+  <RW_settlementScanFrequency>Settlement Scan Update Frequency (game hrs):</RW_settlementScanFrequency>
+  <RW_settlementScanFrequencyInfo>Determines how often a settlement evaluates other world objects within range. This never needs to be lower than settlement event frequency. Increasing the number of game hours between scans may improve performance but may also introduce strange or oblivious AI behavior.</RW_settlementScanFrequencyInfo>
+  <RW_warobjectActionFrequency>Mobile Object Action Frequency (seconds):</RW_warobjectActionFrequency>
+  <RW_warobjectActionFrequencyInfo>Determines how often Rim War units search surrounding tiles for other units or settlements. Scouts and Warbands may attack nearby units or caravans based on this scan; traders may perform trades. Decreasing the time between scans will make units more aware of their surroundings but will also make caravan travel more dangerous. More frequent scans will decrease performance.</RW_warobjectActionFrequencyInfo>
+  <RW_maxScanObjects>Max Objects Scanned per Event</RW_maxScanObjects>
+  <RW_forceRandomObject>Replace Scans with Random Selection</RW_forceRandomObject>
+  <RW_forceRandomObjectInfo>When this option is disabled, settlements will only take action within a certain radius. When this option is enabled, actions taken may be against any other object on the map. Performance may increase when random selection is enabled since no additional distance filtering occurs, but it may result in caravans or war parties traveling across the entire map. This option is only recommended if factions are clustered or separated by large distances (usually as a result of modded faction control).</RW_forceRandomObjectInfo>
+  <RW_maxFactionObjects>Max Faction Objects</RW_maxFactionObjects>
+  <RW_objectMovementMultiplier>Mobile Object Move Speed</RW_objectMovementMultiplier>
+  <RW_objectMovementMultiplierInfo>Changes how fast Rim War units will travel across the map. Increasing this may improve performance since units will not exist as long. Does not apply to the player caravan.</RW_objectMovementMultiplierInfo>
+  <RW_rwdUpdateFrequency>Settlement Growth Frequency (game hrs):</RW_rwdUpdateFrequency>
+  <RW_rwdUpdateFrequencyInfo>Directly affects how quickly settlements grow; frequency of growth. This will influence how quickly the world matures (combat power) and may make the game more difficult if AI neighbors are hostile.</RW_rwdUpdateFrequencyInfo>
+  <RW_alertRange>Player Alert radius:</RW_alertRange>
+  <RW_alertRangeInfo>Shows an alert whenever a Rim War related entity is within range of player settlements. Setting the radius to 0 will disable this alert. Decreasing this setting will improve performance.</RW_alertRangeInfo>
+  <RW_letterNotificationRange>Letter notification range:</RW_letterNotificationRange>
+  <RW_letterNotificationRangeInfo>Generate a warning letter whenever a hostile force is approaching and targeting the players settlement. Setting the radius to 0 will disable letter notifications.</RW_letterNotificationRangeInfo>
+  <RW_restrictEvents>Restrict events</RW_restrictEvents>
+  <RW_restrictEventsInfo>Restricts Rim War actions from occurring randomly. When disabled, the storyteller will continue to generate random raids, caravans, and any other events associated with Rim War global objects.</RW_restrictEventsInfo>
+  <RW_heatOffset>Aggression offset</RW_heatOffset>
+  <RW_heatOffsetInfo>Controls how many aggression points are generated when attacking the player. Aggression calculations are based on game (or RimWar) difficulty. Lowering this setting allows the AI to attack the player more often, while raising this value will decrease the frequency of attacks. This setting is applied *per AI settlement* and will not limit the number of times the player can be attacked; proximity to enemy settlements and the relative strength of those settlements is still the primary determining factor.</RW_heatOffsetInfo>
+  <RW_heatFrequency>Aggression reduction every {0} game hour</RW_heatFrequency>
+  <RW_heatFrequencyInfo>Controls how quickly aggression points are reduced. Lowering this setting allows the AI to attack the player more often, while raising this value will decrease the frequency of attacks. This setting is applied *per AI settlement* and will not limit the number of times the player can be attacked; proximity to enemy settlements and the relative strength of those settlements is still the primary determining factor.</RW_heatFrequencyInfo>
+  <RW_randomRival>Random Rival</RW_randomRival>
+  <RW_randomRivalInfo>Completely randomizes the player's rival faction, which may result in the rival being a friendly faction. When it is disabled, the rival faction will always be a faction permanently hostile to the player.</RW_randomRivalInfo>
+  <RW_playerVSworld>Player vs All</RW_playerVSworld>
+  <RW_playerVSworldInfo>(Hard) Choosing this starting option will reduce relations with all other factions and any faction with -80 or lower will immediately go to war with the player.</RW_playerVSworldInfo>
+  <RW_randomizeFactionRelations>Randomize Faction Relations</RW_randomizeFactionRelations>
+  <RW_randomizeFactionRelationsInfo>Randomizes relations between all factions. No default values are used. Factions permanently hostile to the player will remain hostile. Invisible factions are not affected. Faction relations are randomized after the game begins.</RW_randomizeFactionRelationsInfo>
+  <RW_useRimWarVictory>Add Rim War Rival and Victory Condition</RW_useRimWarVictory>
+  <RW_useRimWarVictoryInfo>Adds a new victory condition to destroy an enemy faction. The faction is currently randomly selected from permanently hostile factions.
+
+**Only applies at the start of a new game**</RW_useRimWarVictoryInfo>
+  <RW_randomizeFactionAttributes>Randomize Faction Attributes</RW_randomizeFactionAttributes>
+  <RW_randomizeFactionAttributesInfo>Factions have random attributes that increases or decreases their combat power, movement speed, and growth speed.</RW_randomizeFactionAttributesInfo>
+  <RW_SendTrader>Send Trader</RW_SendTrader>
+  <RW_SendTraderDesc>Requests an allied town to send a trader to another settlement.</RW_SendTraderDesc>
+  <RW_NotEnoughPointsToSendUnit>Not enough points to send {2} {0} / {1}</RW_NotEnoughPointsToSendUnit>
+  <RW_SendWarband>Send Warband</RW_SendWarband>
+  <RW_SendWarbandDesc>Requests an allied town to mobilize a warband. Warbands may target settlements or other units.</RW_SendWarbandDesc>
+  <RW_SendScout>Send Scout</RW_SendScout>
+  <RW_SendScoutDesc>Requests an allied town to mobilize a scouting party. Scouts may target settlements or other units.</RW_SendScoutDesc>
+  <RW_LaunchWarband>Launch Warband</RW_LaunchWarband>
+  <RW_LaunchWarbandDesc>Requests an allied town to launch a Warband. Warbands may target settlements or other units.</RW_LaunchWarbandDesc>
+  <RW_SendCannotReach>Beyond range</RW_SendCannotReach>
+  <RW_DestinationSettlementOnly>Destination must be settlement</RW_DestinationSettlementOnly>
+  <RW_DestinationHostile>Destination is hostile</RW_DestinationHostile>
+  <RW_FactionIncapableOfTech>{0} does not have the technology</RW_FactionIncapableOfTech>
+  <RW_InvalidTarget>Invalid target</RW_InvalidTarget>
+  <RW_InvalidRWD>Invalid Rim War Faction</RW_InvalidRWD>
+  <RW_NoTownForRequest>Cannot provide military assistance due to lack sufficient resources</RW_NoTownForRequest>
+  <RW_RequestAddition>Will depart from {0} and arrive in ~{1} days</RW_RequestAddition>
+  <RW_RequestScout>Request Scout reinforcements (-{0} relations cost}
+Will depart from {1} with {3} combat power and arrive in ~{2} days</RW_RequestScout>
+  <RW_RequestWarband>Request Warband reinforcements (-{0} relations cost)
+Will depart from {1} with {3} combat power and arrive in ~{2} days</RW_RequestWarband>
+  <RW_RequestLaunchedWarband>Request an airborne Warband for immediate assistance (-{0} relations cost)
+Will depart from {1} with {3} combat power and arrive in ~{2} days</RW_RequestLaunchedWarband>
+  <RW_DeclareWarWarning>Declaring war on a faction has the following affects:
+ - opposing faction will be set to max hostility and cannot be reduced while at war
+ - opposing faction will be more likely to act aggressively towards your faction
+ - any allied factions will act more aggressively towards this faction
+ 
+War may be ended with a declaration of peace, however, this option will only become available if the NPC faction is willing to engage in diplomacy.</RW_DeclareWarWarning>
+  <RW_DeclarePeaceInfo>Peace becomes available when faction standing is -75 or higher. 
+Current standing: {0}</RW_DeclarePeaceInfo>
+  <RW_DeclarePeaceWarning>Declaring peace will end the war with this faction.
+ - enemy armies marching on your or allied settlements will return to base
+ - allied factions will end aggressive actions towards this faction</RW_DeclarePeaceWarning>
+  <RW_DeclareAllianceInfo>A formal alliance may be made with a faction when the faction is an ally, and the faction may not be hostile to any other allied faction.
+ 
+ This option is currently unavailable due to the following reasons:
+{0}</RW_DeclareAllianceInfo>
+  <RW_DeclareAllianceWarning>Declaring a formal alliance with a faction has the following affects:
+  - player pays {0} in tribute; this will automatically be deducted if an alliance is declared
+  - sets relations to maximum between you and any other allied faction
+  - allied factions will send more and larger trade caravans, unless...
+  - allied factions will focus their resources on the destruction of factions you are at war with
+ 
+ A formal alliance will be ended by any hostile action that reduces relations with this faction below Ally</RW_DeclareAllianceWarning>
+  <RW_Reason_NotAlly>Not an ally</RW_Reason_NotAlly>
+  <RW_Reason_NotEnoughTribute>Not enough silver for tribute: {0} / {1}</RW_Reason_NotEnoughTribute>
+  <RW_Reason_HostileTo>Hostile to {0}</RW_Reason_HostileTo>
+  <RW_Reason_AlreadyAllied>Already allied</RW_Reason_AlreadyAllied>
+  <RW_NearbyWarObjects>Nearby activity</RW_NearbyWarObjects>
+  <RW_NearbyWarObjectsDesc>Faction activity has been observed near your settlement: {0}</RW_NearbyWarObjectsDesc>
+  <RW_Attacking>attacking</RW_Attacking>
+  <RW_Scouting>scouting</RW_Scouting>
+  <RW_ReturningTo>returning to</RW_ReturningTo>
+  <RW_Trading>trading with</RW_Trading>
+  <RW_Diplomacy>engaging in diplomacy with</RW_Diplomacy>
+  <RW_EstablishingSettlement>establishing a new settlement</RW_EstablishingSettlement>
+  <RW_AttackWarObject>Attack {0}</RW_AttackWarObject>
+  <RW_EngageWarObject>Interact with {0}</RW_EngageWarObject>
+  <RW_engagingWarObject>Interacting with {0}</RW_engagingWarObject>
+  <RW_LetterBattle>Field Battle</RW_LetterBattle>
+  <RW_LetterBattleText>{0} with a combat power of {1} {2} {3} with a combat power of {4}.</RW_LetterBattleText>
+  <RW_LetterSettlementBattle>Settlement Assault</RW_LetterSettlementBattle>
+  <RW_LetterSettlementBattleText>{0} with combat power of {1} {4} {2} with combat power of {3}.</RW_LetterSettlementBattleText>
+  <RW_LetterTradeEvent>Trade Event</RW_LetterTradeEvent>
+  <RW_LetterTradeEventText>{0} with a trade power of {1} {2} with {3} a trade power of {4}.</RW_LetterTradeEventText>
+  <RW_LetterSettlementEvent>Settlement Established</RW_LetterSettlementEvent>
+  <RW_LetterSettlementEventText>{0} has established a new settlement with {1} points.</RW_LetterSettlementEventText>
+  <RW_LetterApproachingThreatEvent>Hostile force spotted</RW_LetterApproachingThreatEvent>
+  <RW_LetterApproachingThreatEventText>A hostile {0} with {1} combat power is marching towards {2}.
+{3}.</RW_LetterApproachingThreatEventText>
+  <RW_LetterPlayerSettlementBattle>Assault on Player Colony</RW_LetterPlayerSettlementBattle>
+  <RW_LetterSettlementDefense>Defending Settlement</RW_LetterSettlementDefense>
+  <RW_CaravanAmbush>{0} ambushed</RW_CaravanAmbush>
+  <RW_CaravanAmbushedText>{0} was ambushed by {1} with {2} combat power.</RW_CaravanAmbushedText>
+  <RW_RaidedPlayer>{0} assaulted the player settlement {1} with a combat power of {2}.</RW_RaidedPlayer>
+  <RW_ReinforcedSettlement>Nearby warriors from {0} are rallying to defend {1}.</RW_ReinforcedSettlement>
+  <RW_LetterPlayerSettlementReinforcement>Assault on Player Colony</RW_LetterPlayerSettlementReinforcement>
+  <RW_ReinforcedPlayer>{0} reinforced the player settlement {1} with a combat force of {2} power.</RW_ReinforcedPlayer>
+  <RW_CaravanTrade>Caravan Trade</RW_CaravanTrade>
+  <RW_CaravanTradeText>{0} traded with {1}</RW_CaravanTradeText>
+  <RW_SettlementTrade>Settlement Trade</RW_SettlementTrade>
+  <RW_SettlementTradeText>{0} traded with {1}</RW_SettlementTradeText>
+  <RW_CaravanMeeting_TradeUnwilling>{0} views you with open hostility and is unwilling to trade.</RW_CaravanMeeting_TradeUnwilling>
+  <RW_CaravanMeeting_FactionIncapableOfTrade>There are no traders defined for this faction - trading is administratively disabled to prevent errors.</RW_CaravanMeeting_FactionIncapableOfTrade>
+  <RW_CaravanDemand_Friendly>{0} caravan has encountered a group of {1} {2} from {3}. They are on a mission and impatiently await your request.</RW_CaravanDemand_Friendly>
+  <RW_CaravanDemand_GiveDisabled>{0}</RW_CaravanDemand_GiveDisabled>
+  <RW_Attack_Verbatum>Attack</RW_Attack_Verbatum>
+  <RW_TilesAway_Verbatum> tiles away</RW_TilesAway_Verbatum>
+  <RW_UnitCamped>Camped (Resting)</RW_UnitCamped>
+  <RW_CaravanDemand_DefendColony>Request: defend colony; cost {0} silver</RW_CaravanDemand_DefendColony>
+  <RW_CaravanDemand_DefendColonyDisabledDistance>too far</RW_CaravanDemand_DefendColonyDisabledDistance>
+  <RW_CaravanDemand_DefendColonyDisabled>cannot afford ({0})</RW_CaravanDemand_DefendColonyDisabled>
+  <RW_CaravanDemand_AttackSettlement>Request: attack settlement {1}
+cost {0} silver</RW_CaravanDemand_AttackSettlement>
+  <RW_CaravanDemand_AttackSettlementNone>no enemy settlement nearby</RW_CaravanDemand_AttackSettlementNone>
+  <RW_CaravanDemand_AttackSettlementDisabled>cannot afford ({0})</RW_CaravanDemand_AttackSettlementDisabled>
+  <RW_CaravanMeeting_TradeWithColony>Request: trade with colony; cost {0} silver</RW_CaravanMeeting_TradeWithColony>
+  <RW_CaravanMeeting_TradeWithColonyDisabledDistance>too far</RW_CaravanMeeting_TradeWithColonyDisabledDistance>
+  <RW_CaravanMeeting_TradeWithColonyDisabled>cannot afford ({0})</RW_CaravanMeeting_TradeWithColonyDisabled>
+  <RW_VictoryChallengeLabel>RimWar Victory Challenge</RW_VictoryChallengeLabel>
+  <RW_VictoryChallengeMessage>Your arrival to the Rim has sparked the ire of the {0}.  They are a ruthless faction that has fractured the solidarity of the planet - there can be no lasting peace as long as they remain. Your presence poses a threat to their schemes and they will hunt you until only one of you remains.
+
+Eliminate the {0} by destroying all their settlements to achieve victory.</RW_VictoryChallengeMessage>
+  <RW_VictoryAchieved>Victory!
+
+News has spread far and wide of your victory over the vile {0} that has brought peace to the Rim.
+
+Your victory is no small feat; the grit and dedication demonstrated during your Rim War will forever be remembered in the annals of history.
+
+(RimWar statistics coming soon!)</RW_VictoryAchieved>
+  <RW_DiplomacyLetter>Diplomacy action: {0}</RW_DiplomacyLetter>
+  <RW_DiplomacyLabel_War>War</RW_DiplomacyLabel_War>
+  <RW_DiplomacyLabel_Peace>Peace</RW_DiplomacyLabel_Peace>
+  <RW_DiplomacyLabel_Alliance>Alliance</RW_DiplomacyLabel_Alliance>
+  <RW_DiplomacyLabel_EndAlliance>Broken Alliance</RW_DiplomacyLabel_EndAlliance>
+  <RW_DeclareWar>{0} has declared war on {1} and will not rest until victorious.</RW_DeclareWar>
+  <RW_DeclarePeace>{0} has ended their long standing war with {1} established a peace treaty.</RW_DeclarePeace>
+  <RW_DeclareAlliance>{0} has forged an alliance with {1}.</RW_DeclareAlliance>
+  <RW_DeclareAllianceEnd>{0} has ended their alliance with {1}.</RW_DeclareAllianceEnd>
+</LanguageData>
