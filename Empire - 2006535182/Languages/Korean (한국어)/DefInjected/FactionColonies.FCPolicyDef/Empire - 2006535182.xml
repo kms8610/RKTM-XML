@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <militaristic.label>Militaristic</militaristic.label>
+  <militaristic.desc>A militaristic society, one who seeks glory in blood and death for their cause.</militaristic.desc>
+  <militaristic.positiveEffects.0>- +20% combat modifier when using your faction's military forces</militaristic.positiveEffects.0>
+  <militaristic.positiveEffects.1>- Once per five days, you can deploy a second squad from a single settlement by paying 20% of the squad's cost in Silver</militaristic.positiveEffects.1>
+  <militaristic.positiveEffects.2>- When creating a new settlement, it will start with a Barracks</militaristic.positiveEffects.2>
+  <militaristic.positiveEffects.3>- All military buildings cost 100 less upkeep</militaristic.positiveEffects.3>
+  <militaristic.negativeEffects>
+			
+		</militaristic.negativeEffects>
+  <pacifist.label>Pacifist</pacifist.label>
+  <pacifist.desc>A pacifist society that seeks to avoid conflict when and where possible.</pacifist.desc>
+  <pacifist.positiveEffects.0>- Once per five days, can send a diplomatic envoy to another faction to attempt to improve relations</pacifist.positiveEffects.0>
+  <pacifist.positiveEffects.1>- Deaths of members of your faction will not cause unrest to rise or happiness to reduce</pacifist.positiveEffects.1>
+  <pacifist.negativeEffects.0>- Cannot use military forces to raid or to capture other faction's settlements</pacifist.negativeEffects.0>
+  <authoritarian.label>Authoritarian</authoritarian.label>
+  <authoritarian.desc>A authoritarian society that seeks to hold control over its members by whatever means necessary.</authoritarian.desc>
+  <authoritarian.positiveEffects.0>- Can send your military to raid another faction's settlement to enslave members of their faction instead of ordinary raiding</authoritarian.positiveEffects.0>
+  <authoritarian.positiveEffects.1>- You can spend silver to increase the loyalty of a settlement</authoritarian.positiveEffects.1>
+  <authoritarian.negativeEffects.0>- Loyalty starts at 70%</authoritarian.negativeEffects.0>
+  <egalitarian.label>Egalitarian</egalitarian.label>
+  <egalitarian.desc>A egalatarian society is one that seeks equality amongst all.</egalitarian.desc>
+  <egalitarian.positiveEffects.0>- Can reduce base tax by 20% for two tax periods to drastically boost happiness and prosperity</egalitarian.positiveEffects.0>
+  <egalitarian.positiveEffects.1>- Receives a base tax bonus of (1% per 10% happiness)</egalitarian.positiveEffects.1>
+  <egalitarian.negativeEffects.0>- Happiness starts at 60%</egalitarian.negativeEffects.0>
+  <isolationist.label>Isolationist</isolationist.label>
+  <isolationist.desc>An isolationist society is one that seeks to stay reclusive amongst the world's politics and interactions.</isolationist.desc>
+  <isolationist.positiveEffects.0>- The time to upgrade settlements and construct buildings is reduced by 50%</isolationist.positiveEffects.0>
+  <isolationist.positiveEffects.1>- Every settlement receives an extra +2 to worker softcap per level of the settlement</isolationist.positiveEffects.1>
+  <isolationist.negativeEffects.0>- The cost to create new settlements is increased by 100%</isolationist.negativeEffects.0>
+  <isolationist.negativeEffects.1>- Cannot use your military forces to capture other faction's settlements</isolationist.negativeEffects.1>
+  <expansionist.label>Expansionist</expansionist.label>
+  <expansionist.desc>An expansionist society is one that seeks to spread their glory across the entirety of the realm.</expansionist.desc>
+  <expansionist.positiveEffects.0>- Your first settlement is free</expansionist.positiveEffects.0>
+  <expansionist.positiveEffects.1>- Once per year, starting after your first year, the cost to create a new settlement is reduced by 50%</expansionist.positiveEffects.1>
+  <expansionist.positiveEffects.2>- Settlements that you construct start at level 2</expansionist.positiveEffects.2>
+  <expansionist.negativeEffects>
+			
+		</expansionist.negativeEffects>
+  <technocratic.label>Technocratic</technocratic.label>
+  <technocratic.desc>A technocratic society is one that seeks the furthering of knowledge and continuous improvement.</technocratic.desc>
+  <technocratic.positiveEffects.0>- All research produced by your settlements is doubled</technocratic.positiveEffects.0>
+  <technocratic.positiveEffects.1>- Can send items that you have not completed the research for or are above your tech level to your settlements to be reverse-engineered, giving you their value in research points</technocratic.positiveEffects.1>
+  <technocratic.negativeEffects>
+			
+		</technocratic.negativeEffects>
+  <feudal.label>Feudal</feudal.label>
+  <feudal.desc>A feudal society is one that supports a feudal contract, binding the society to a liege in return for protection.</feudal.desc>
+  <feudal.positiveEffects.0>- Once per season, can request for an experienced mercenary from your faction to join your colony</feudal.positiveEffects.0>
+  <feudal.positiveEffects.1>- All tithes received have their value increased by 20%</feudal.positiveEffects.1>
+  <feudal.negativeEffects.0>- Failing to protect your settlements against a raid causes loyalty to drop significantly</feudal.negativeEffects.0>
+  <empty.label>No trait</empty.label>
+  <empty.positiveEffects>
+			
+		</empty.positiveEffects>
+  <empty.negativeEffects>
+			
+		</empty.negativeEffects>
+  <resilient.label>Resilient</resilient.label>
+  <resilient.positiveEffects.0>- Reduce prosperity loss by 50% when attacked</resilient.positiveEffects.0>
+  <resilient.positiveEffects.1>- Cannot lose buildings or settlement levels upon a failed defense</resilient.positiveEffects.1>
+  <resilient.negativeEffects>
+			
+		</resilient.negativeEffects>
+  <raiders.label>Raiders</raiders.label>
+  <raiders.positiveEffects.0>- Increases the value of loot by 20% when raiding</raiders.positiveEffects.0>
+  <raiders.positiveEffects.1>- Military forces are available 1 day sooner after using them to raid</raiders.positiveEffects.1>
+  <raiders.negativeEffects>
+			
+		</raiders.negativeEffects>
+  <defenseInDepth.label>Defense In Depth</defenseInDepth.label>
+  <defenseInDepth.positiveEffects.0>- Military forces receive a +2 level bonus to combat when defending</defenseInDepth.positiveEffects.0>
+  <defenseInDepth.negativeEffects>
+			
+		</defenseInDepth.negativeEffects>
+  <industrious.label>Industrious</industrious.label>
+  <industrious.positiveEffects.0>- 5% chance every time a settlement is billed to receive a significant boost in revenue</industrious.positiveEffects.0>
+  <industrious.negativeEffects>
+			
+		</industrious.negativeEffects>
+  <roadBuilders.label>Road Builders</roadBuilders.label>
+  <roadBuilders.positiveEffects.0>- Authomatically unlocks the first road technology</roadBuilders.positiveEffects.0>
+  <roadBuilders.positiveEffects.1>- Roads are constructed in 33% of the require time</roadBuilders.positiveEffects.1>
+  <roadBuilders.positiveEffects.2>- Roads will also be constructed to connect to allied faction's settlements</roadBuilders.positiveEffects.2>
+  <roadBuilders.negativeEffects>
+			
+		</roadBuilders.negativeEffects>
+  <mercantile.label>Mercantile</mercantile.label>
+  <mercantile.positiveEffects.0>- A random trade caravan will arrive to your capital every 3-5 days</mercantile.positiveEffects.0>
+  <mercantile.negativeEffects>
+			
+		</mercantile.negativeEffects>
+  <innovative.label>Innovative</innovative.label>
+  <innovative.positiveEffects.0>- Settlements passively generate research points equal to 5% of their total profit</innovative.positiveEffects.0>
+  <innovative.negativeEffects>
+			
+		</innovative.negativeEffects>
+  <lucky.label>Lucky</lucky.label>
+  <lucky.positiveEffects.0>- Negative random Empire events have a 20% chance to be re-rolled in exchange for a new event</lucky.positiveEffects.0>
+  <lucky.negativeEffects>
+			
+		</lucky.negativeEffects>
+</LanguageData>
