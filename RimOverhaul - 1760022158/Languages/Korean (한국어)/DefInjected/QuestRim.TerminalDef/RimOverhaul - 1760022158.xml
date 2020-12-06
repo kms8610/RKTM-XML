@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DoomsdaySecurityTerminal.InitialText>Last login: Fri Dec 16 13:17:25 EET 2019 on ttyS0 
+Welcome to ExplasaSystems 5.3 (BG/SS5 FastUse 13.2)
+
+--> Documentation: /help
+
+di@di:~$ free
+\ttotal\tused\tfree\tshared\tbuffers\tcached
+Mem:\t5993740\t5793484\t200256\t0\t606504\t3259708
+-/+ buffers/cache:\t1927272\t4066468
+Swap:\t9764860\t268\t9764592
+
+--> WvDial: Provider version 1.5
+--> Security systems: active
+--> Energo systems: deactivated
+AWQ0 V1 E1 S0=0 C1 D2 +FCLASS=0
+
+--> Terminal initialization
+--> Generic di 3.0.0.0-14 #24 SMP
+Waiting for commands ......\n</DoomsdaySecurityTerminal.InitialText>
+</LanguageData>

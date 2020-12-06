@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RelationChangeDialog>Relationship with {0} changed to {1}</RelationChangeDialog>
+  <TabCokeFurnace>Furnace</TabCokeFurnace>
+  <CheckRecipes>Make: {0}</CheckRecipes>
+  <CockeFurnace_Ingedients>Ingredients</CockeFurnace_Ingedients>
+  <CokeFurnace_CarryItem>Carry {0} ({1} left)</CokeFurnace_CarryItem>
+  <CokeFurnace_CarryItem_NoItem> (not enough in )</CokeFurnace_CarryItem_NoItem>
+  <CokeFurnace_StartFire>Set fire</CokeFurnace_StartFire>
+  <CokeFurnace_off>Off</CokeFurnace_off>
+  <CokeFurnace_Started>The furnace is active. Disable it by right-clicking the selected colonists.</CokeFurnace_Started>
+  <CokeFurnace_Active>Active. {0} days left.</CokeFurnace_Active>
+  <CokeFurnace_Inactive>Inactive.</CokeFurnace_Inactive>
+  <CokeFurnace_TakeItem>DONE</CokeFurnace_TakeItem>
+  <CokeFurnace_TakeItem2>Get {0}</CokeFurnace_TakeItem2>
+  <CokeFurnace_NoIng> (not enough ingredients)</CokeFurnace_NoIng>
+  <CokeFurnace_NoFuel> (no fuel)</CokeFurnace_NoFuel>
+  <CokeFurnace_IngInfo>Required item to create {0}.\n\n{1} is required in the amount of {2} (loaded {3}).\nSelect a colonist and right-click on the furnace and select the ingredient to load.</CokeFurnace_IngInfo>
+  <CokeFurnace_ResultInfo>As a result, you will get {0} in the amount of {1} pcs.\n\nTo start coking, load the necessary ingredients into the furnace, then select the colonist, right-click on the furnace and select 'Set fire'. Progress can be seen below.</CokeFurnace_ResultInfo>
+  <MustPlaceOnGasWell>Can only be built on a gas well.</MustPlaceOnGasWell>
+  <CompGasWell_GasReserve>Gas reserves: {0}</CompGasWell_GasReserve>
+  <GasPlant_ActiveInfo>Active</GasPlant_ActiveInfo>
+  <GasPlant_ActiveInfoOFF>Not active. There is no gas coolers or power.</GasPlant_ActiveInfoOFF>
+  <GasPlant_GasWellInfo>\nGas Well reserves: {0}</GasPlant_GasWellInfo>
+  <GasCooler_ActiveInfo>Storage: {0} / {1}\nCooling speed: {2}</GasCooler_ActiveInfo>
+  <GasCooler_ActiveInfoNoTankers>\nThere are no pipes leading to the gas tankers</GasCooler_ActiveInfoNoTankers>
+  <GasCooler_ActiveInfoNoInNet>\nNo inlet pipes</GasCooler_ActiveInfoNoInNet>
+  <CompGasTank_Storage>Liquefied natural gas: {0} / {1}</CompGasTank_Storage>
+  <GasStation_Info>Storage: {0} / {1}</GasStation_Info>
+  <GasBill_NotEnoughGas>not enough gas ({0})</GasBill_NotEnoughGas>
+  <CokeFurnace_infinity>Infinity</CokeFurnace_infinity>
+  <CokeFurnace_Notinfinity>Number</CokeFurnace_Notinfinity>
+  <CaravanArrivalAction_AttackCaravanAI_Label>Attack</CaravanArrivalAction_AttackCaravanAI_Label>
+  <CaravanArrivalAction_AttackCaravanAI_ReportString>Attacking {0}</CaravanArrivalAction_AttackCaravanAI_ReportString>
+  <TryStartQuestDialog>Check quests</TryStartQuestDialog>
+  <QuestFail>Quest {0} failed</QuestFail>
+  <QuestSuccess>Quest {0} completed</QuestSuccess>
+  <QuestTimeout>Time to complete the quest {0} has expired</QuestTimeout>
+  <UnlimitedTime>Time left: unlimited</UnlimitedTime>
+  <QuestTimer>Time left: {0} days</QuestTimer>
+  <JumpToLocation>Jump to location ({0})</JumpToLocation>
+  <QuestRewards>Reward</QuestRewards>
+  <AdditionalQuestContent>Additionally</AdditionalQuestContent>
+  <OpenCommsGeo>Use console</OpenCommsGeo>
+  <OpenCommsGeoNoPower>Use console [no power]</OpenCommsGeoNoPower>
+  <EventsCommTab>Active events</EventsCommTab>
+  <QuestsCommTab>Quests</QuestsCommTab>
+  <InteractionCommTab>Communication</InteractionCommTab>
+  <RelatedEventCom>Related event: {0}</RelatedEventCom>
+  <FactionComm>Faction: {0}</FactionComm>
+  <NoEventComm>Related event: no</NoEventComm>
+  <NoFactionComm>Faction: no</NoFactionComm>
+  <HelpingFactionsList>\nHelp: </HelpingFactionsList>
+  <SupportFullDoomsday>Help is fully staffed. You can not recruit more factions.</SupportFullDoomsday>
+  <NoHelpDoomsday>Will not help</NoHelpDoomsday>
+  <UnknownDoomsdayStatus>Not known</UnknownDoomsdayStatus>
+  <HelpDoomsday>Will help</HelpDoomsday>
+  <DiscussWithOtherFactions>Discuss the event with other factions.</DiscussWithOtherFactions>
+  <DoomsdayCardLabel>End of the world</DoomsdayCardLabel>
+  <DoomsdayDesc>The {0} faction has acquired an Archotech Doomsday weapon and demand a ransom payment. We can try to gather enough silver to meet their demands, or maybe other factions will be able to help conduct a raid on their base?</DoomsdayDesc>
+  <InteractionInterTab>Communication</InteractionInterTab>
+  <MessagesInterTab>Mail</MessagesInterTab>
+  <AllianceInterTab>Alliances and Coalitions</AllianceInterTab>
+  <RelationsWithPlayer>Relation with player: {0} ({1})
+Trust in the player: {2}</RelationsWithPlayer>
+  <FactionInteractionDef>Faction: {0}</FactionInteractionDef>
+  <AdditionalContent>Additional Information</AdditionalContent>
+  <CommOption_GetHelp_Label>Ask for help (Remaining: {0})</CommOption_GetHelp_Label>
+  <Help_AskResoucesTitle>Resources Sent</Help_AskResoucesTitle>
+  <Help_AskResouces>The {0} faction answers the call for aid and sends you what resources they could. {1}</Help_AskResouces>
+  <Help_AskPowerTitle>Help was sent</Help_AskPowerTitle>
+  <Help_AskPower>The faction {0} answers the call to arms and sends you a group of fighters to support your settlement.</Help_AskPower>
+  <UsingCaravan>The faction technology does not allow it to use cargo pods, they have sent a caravan by land.</UsingCaravan>
+  <UsingCapsules>Support was sent by cargo pods.</UsingCapsules>
+  <GiftHasBeenDroppedTitle>Resources Delivered</GiftHasBeenDroppedTitle>
+  <GiftHasBeenDropped>Resources have been dropped close to your colony.</GiftHasBeenDropped>
+  <AssistCaravan_GifterArrivedTitle>Friendly squad arrived</AssistCaravan_GifterArrivedTitle>
+  <AssistCaravan_GifterArrived>A friendly squad arrived at your request. They will leave things near your colony.</AssistCaravan_GifterArrived>
+  <ClimateBombTitle>Climate bomb</ClimateBombTitle>
+  <ClimateBombDesc>We've discovered the location of an armed climate bomb. Who built it and why it was left on this planet is not clear, but we need to neutralize it. If we don't and allow it to detonate, the next few seasons will be very chaotic. \n\nWe need to assemble a strong combat force, there will likely be enemies defending it.
+	</ClimateBombDesc>
+  <Comm_MassiveFireTitle>Massive fires</Comm_MassiveFireTitle>
+  <Comm_MassiveFireDesc>A forest fire has been spotted raging near our settlement and it is spreading quickly, threatening nearby territories including our own. \nWe can hope for rain or try to put it out ourselves.</Comm_MassiveFireDesc>
+  <Comm_ShipCrashTitle>Ship crash</Comm_ShipCrashTitle>
+  <Comm_ShipCrashDesc>A space ship was spotted breaking apart in atmosphere. It appears to be general purpose traveler's ship. Segments of the ship separate and diverge onto their own crash courses, likely cargo and living compartments of various sizes. \nThe ship's parts have scattered all over the planet. Ship plating is often constructed with plasteel and may have left some of the contents intact. You can travel to the crash sites and attempt to salvage what you can, but many others will have also seen the crash and will surely want to claim some of it for themselves.</Comm_ShipCrashDesc>
+  <Comm_SiegeCampTitle>Siege Camp</Comm_SiegeCampTitle>
+  <Comm_SiegeCampDesc>Not far from us a camp of rogue militants is spotted. They can be seen building long range mortars directed towards us. They will attack us in short intervals, simultaneously fortifying their position and increasing their combat power. We need to destroy them as soon as possible, before they become too big of a problem.</Comm_SiegeCampDesc>
+  <EmailMessage_From>From: {0}</EmailMessage_From>
+  <EmailMessage_To>To: {0}</EmailMessage_To>
+  <EmailMessageReceivedTitle>Message received</EmailMessageReceivedTitle>
+  <EmailMessageReceived>You have received a message from {0} on the topic {1}. You can view it via the Geoscape Mailbox.</EmailMessageReceived>
+  <DeleteMessage>Delete message</DeleteMessage>
+  <ScoutingComp_InfoTitle>Greetings, I am sending you information our intelligence officers have gathered for your settlement. The report indicates possible dangers and estimated time until occurence.\n\n</ScoutingComp_InfoTitle>
+  <ScoutingComp_ThreatKnown>(Threat: {0})</ScoutingComp_ThreatKnown>
+  <ScoutingComp_ThreatUnknown>(Threat level unknown)</ScoutingComp_ThreatUnknown>
+  <ScoutingComp_CommingTime> estimated time of arrival {0} (days)</ScoutingComp_CommingTime>
+  <ScoutingComp_NoThreatsInfoTitle>Greetings, our field scounts have finally returned. They did not detect any looming threats.</ScoutingComp_NoThreatsInfoTitle>
+  <ScoutingComp_Subject>Intelligence report</ScoutingComp_Subject>
+  <CommOption_SubscribeScout_Label>Intelligence agreement</CommOption_SubscribeScout_Label>
+  <CommOption_SubscribeScout_SubTitle>Intelligence agreement\n\nBy signing the agreement, the faction with which it was signed will share any relevant intelligence reports via Geoscape Mailbox which may contain information on impending threats\n\n</CommOption_SubscribeScout_SubTitle>
+  <CommOption_SubscribeScout_SubAlready>[Agreement has already been signed: {0} days to go]</CommOption_SubscribeScout_SubAlready>
+  <CommOption_SubscribeScout_SubButton>Sign Agreement</CommOption_SubscribeScout_SubButton>
+  <CommOption_SubscribeScout_SubAlreadyOption>already signed</CommOption_SubscribeScout_SubAlreadyOption>
+  <CommOption_SubscribeScout_SubGoodWillOption>at least 80 reputation required</CommOption_SubscribeScout_SubGoodWillOption>
+  <CommOption_ExitNode>Cancel</CommOption_ExitNode>
+  <QuestPawn_Title>Greetings! What would you like to discuss?</QuestPawn_Title>
+  <QuestPawn_Line1>{0} from the faction {1} ({2}: {3})</QuestPawn_Line1>
+  <QuestPawn_Line1_Player>{0}</QuestPawn_Line1_Player>
+  <TakeQuestFromPawn>Take quest</TakeQuestFromPawn>
+  <TakeQuestFromPawnLetter>Quest "{0}" taken.</TakeQuestFromPawnLetter>
+  <TakeQuestFromPawnLetterDesc>You have taken the quest "{0}". Additional information on the task can be seen in the Geoscape.\n----------------\n{1}</TakeQuestFromPawnLetterDesc>
+  <Pocahontas_CardLabel>Discuss Interfactional Exchange</Pocahontas_CardLabel>
+  <CommOption_PawnOfferYes_Label>Accept {0}</CommOption_PawnOfferYes_Label>
+  <CommOption_PawnOfferYesTitle>Recruitment</CommOption_PawnOfferYesTitle>
+  <CommOption_PawnOfferYes>You have accepted the offer. The settler {0} has joined your colony. Relations with the {1} faction are also improved.</CommOption_PawnOfferYes>
+  <PawnInfo>{PAWN_gender ? He : She}, {PAWN_kind}. {PAWN_possessive} name is {PAWN_nameDef}, and {PAWN_pronoun} {PAWN_title}.</PawnInfo>
+  <CommOption_DeclineQuest_Label>Decline</CommOption_DeclineQuest_Label>
+  <CommOption_DeclineDialog_Label>Decline</CommOption_DeclineDialog_Label>
+  <ActualOnlyThisMap>The offer is relevant while the guest is with you.</ActualOnlyThisMap>
+  <TimerInfo>The offer is valid {0} days.</TimerInfo>
+  <CommunicationDialog_PocahontasTitle>Offer declined</CommunicationDialog_PocahontasTitle>
+  <CommunicationDialog_Pocahontas>You did not accept the co-residence proposal. Seeing this as an insult, your relationship with the {0} faction has been reduced.</CommunicationDialog_Pocahontas>
+  <InspectString_Timer>{0} days left</InspectString_Timer>
+  <EnterToMapQuest_Option>Start quest</EnterToMapQuest_Option>
+  <Quest_KillLeaderTitle>Victory</Quest_KillLeaderTitle>
+  <Quest_KillLeaderDesc>The enemy leader is dead, you can form a caravan to leave.</Quest_KillLeaderDesc>
+  <LeaderStillAlive>The enemy leader is still alive. ({0})</LeaderStillAlive>
+  <QuestOption_IncreaseReward_Label>Try to increase the reward ({0} - {1}) </QuestOption_IncreaseReward_Label>
+  <QuestOption_IncreaseReward_Level>Insufficient skill level {0}, required {1} (actual {2})</QuestOption_IncreaseReward_Level>
+  <OrderedTargetStillAlive>The target is still alive. ({0})</OrderedTargetStillAlive>
+  <Quest_KillOrderTitle>Order completed</Quest_KillOrderTitle>
+  <Quest_KillOrderDesc>You have completed the contract, eliminating {0}.</Quest_KillOrderDesc>
+  <Quest_KillOrderTargetInfo>Target: {0}\nRewards:\n {1}</Quest_KillOrderTargetInfo>
+  <CommOption_NonAgressionPact_Label>Non-Aggression pact ({0})</CommOption_NonAgressionPact_Label>
+  <CommOption_NonAgressionPact_NotEnoughSilver>Not enough silver ({0} required, {1} available)</CommOption_NonAgressionPact_NotEnoughSilver>
+  <CommOption_NonAgressionPact_SuccessTitle>Pact signed</CommOption_NonAgressionPact_SuccessTitle>
+  <CommOption_NonAgressionPact_Success>A Non-Aggression Pact with faction {0} has been signed. Your negotiator's skill level {1} allowed them to reach a deal for a duration of {2} days. During this time, the faction {0} will not raid your settlement.</CommOption_NonAgressionPact_Success>
+  <NonAfressionPackCompTitle>Pact Expired</NonAfressionPackCompTitle>
+  <NonAfressionPackComp>The Non-Aggression Pact with the faction {0} is over. Now they may attack you again.</NonAfressionPackComp>
+  <CommunicationComponent_CommunicationDialogTimer>Notification</CommunicationComponent_CommunicationDialogTimer>
+  <NoFactionComm_D>Faction: unknown</NoFactionComm_D>
+  <CokeFurnace_MultiplierLabel>Multiplier: </CokeFurnace_MultiplierLabel>
+  <DrawAllianceMainPage_AllianceTitle>Alliances</DrawAllianceMainPage_AllianceTitle>
+  <DrawAllianceMainPage_CoalitionTitle>Coalitions</DrawAllianceMainPage_CoalitionTitle>
+  <DrawAllianceMainPage_AllianceCreateButton>Create an Alliance</DrawAllianceMainPage_AllianceCreateButton>
+  <DrawAllianceMainPage_CoalitioneCreateButton>Create a coalition</DrawAllianceMainPage_CoalitioneCreateButton>
+  <DrawAllianceCard_OwnerInfo>Founder: {0}
+goal: {1}
+Fractions: {2}</DrawAllianceCard_OwnerInfo>
+  <Alliance_PlayerAlreadyHaveOne>You already have an alliance; you can’t establish a few.</Alliance_PlayerAlreadyHaveOne>
+  <DrawAllianceCard_Manage>control</DrawAllianceCard_Manage>
+  <GlobalFactionManager_NewAllianceTitle>New Alliance Founded</GlobalFactionManager_NewAllianceTitle>
+  <GlobalFactionManager_NewAllianceDesc>Fraction {0} founded an alliance whose goal {1}</GlobalFactionManager_NewAllianceDesc>
+  <AllianceNameAllias>Alliance: {0}</AllianceNameAllias>
+  <AllianceManager_KickButton>exclude</AllianceManager_KickButton>
+  <AllianceManager_TrustFactionLevel>The trust: {0}</AllianceManager_TrustFactionLevel>
+  <CommOption_InviteToAlliance_Label>Invite to Alliance</CommOption_InviteToAlliance_Label>
+  <CommOption_InviteToAlliance_NoAlliance>You do not have an active alliance</CommOption_InviteToAlliance_NoAlliance>
+  <CommOption_InviteToAlliance_AlreadyInAlliance>Already an Alliance Member</CommOption_InviteToAlliance_AlreadyInAlliance>
+  <AllianceManager_DrawRightBlock_Title>Information</AllianceManager_DrawRightBlock_Title>
+  <AllianceManager_Goal>{0} - {1}</AllianceManager_Goal>
+  <CommOption_InviteToAlliance_Wait>The faction is not ready for negotiations. Wait more {0} days.</CommOption_InviteToAlliance_Wait>
+  <CommOption_InviteToAlliance_NeedAAlly>Friendship or Neutrality Required to Invite a Faction to the Alliance</CommOption_InviteToAlliance_NeedAAlly>
+  <CommOption_InviteToAlliance_NeedTrust>The faction’s confidence level is too low for them to join your alliance. (minimum required {0})</CommOption_InviteToAlliance_NeedTrust>
+  <TrustFactionInformation>The level of trust shows how much the faction trusts you. Confidence can be enhanced by successfully completing fractions.</TrustFactionInformation>
+  <CommOption_InviteToAlliance_AnyHostileInAlliance>Your alliance has a faction (s) that are at odds with this.</CommOption_InviteToAlliance_AnyHostileInAlliance>
+  <Alliance_AddFactionTitle>{0} joins the alliance</Alliance_AddFactionTitle>
+  <Alliance_AddFactionDesc>After negotiations, the faction {0} joins your alliance.</Alliance_AddFactionDesc>
+  <AllianceRemoveFactionTitle>{0} leaves the alliance</AllianceRemoveFactionTitle>
+  <Alliance_RemoveFactionDesc>Fraction {0} leaves the alliance for a reason: {1}
+All current agreements were broken.</Alliance_RemoveFactionDesc>
+  <AllianceRemoveReason_Kick>agreement break</AllianceRemoveReason_Kick>
+  <AllianceRemoveReason_LowTrust>low confidence</AllianceRemoveReason_LowTrust>
+  <AllianceRemoveReason_None>not indicated</AllianceRemoveReason_None>
+  <AllianceManager_AvaliableQuests>Assignments from Alliance Members</AllianceManager_AvaliableQuests>
+  <AllianceManager_QuestLabel>{0} ({1})</AllianceManager_QuestLabel>
+  <AllianceInformation>Alliance: {0}</AllianceInformation>
+  <NoAllianceAlias>not</NoAllianceAlias>
+  <Alliance_Quest_ResearchSharing_StartedTitle>You arrived at the place</Alliance_Quest_ResearchSharing_StartedTitle>
+  <Alliance_Quest_ResearchSharing_StartedDesc>You have arrived at your destination. Exchange of experience will take 2 days, after which you will receive research points and your colonist.</Alliance_Quest_ResearchSharing_StartedDesc>
+  <CaravanArrivalAction_StartResearchSharing_Already>already started</CaravanArrivalAction_StartResearchSharing_Already>
+  <AllianceManager_ActiveAgreements>Agreement</AllianceManager_ActiveAgreements>
+  <TradeSchedulingAgreementWindow_SelectFactionLabel>Select the faction with which the agreement will be concluded.</TradeSchedulingAgreementWindow_SelectFactionLabel>
+  <TradeSchedulingAgreementWindow_SelectSettlementLabel>Select settlements for supplies</TradeSchedulingAgreementWindow_SelectSettlementLabel>
+  <TradeSchedulingAgreementWindow_SelectedSettlement>Settlement: {0}, travel time {1} (days)</TradeSchedulingAgreementWindow_SelectedSettlement>
+  <TradeSchedulingAgreementWindow_DaysLabelHolder>days on the road</TradeSchedulingAgreementWindow_DaysLabelHolder>
+  <Alliance_CanSignAgreement_NoTargetGoal>Unable to enter into alliance current goal</Alliance_CanSignAgreement_NoTargetGoal>
+  <Alliance_CanSignAgreement_NoSlots>Active agreement limit reached ({0})</Alliance_CanSignAgreement_NoSlots>
+  <Alliance_AddAgreement_False>Unable to sign agreement, reason: {0}</Alliance_AddAgreement_False>
+  <Alliance_CanSignAgreement_AlreadyActive>This agreement is already active.</Alliance_CanSignAgreement_AlreadyActive>
+  <TradeSchedulingAgreementWindow_SelectItems>Select items for agreement. When concluding an agreement, a standard discount of 20% is used (the price is already formatted).
+	You can increase the discount by up to 50% by investing in trust.</TradeSchedulingAgreementWindow_SelectItems>
+  <TradeSchedulingAgreementWindow_DrawGood_Good>{0} ({1}$ a piece)</TradeSchedulingAgreementWindow_DrawGood_Good>
+  <TradeSchedulingAgreementWindow_TrustAdditionalLabel>Extra trust (max {0}): </TradeSchedulingAgreementWindow_TrustAdditionalLabel>
+  <TradeSchedulingAgreementWindow_TrustAdditionaRecalculate>Recalculation of prices</TradeSchedulingAgreementWindow_TrustAdditionaRecalculate>
+  <TradeSchedulingAgreementWindow_ResultInfo>Final transaction price: {0}$
+{1}
+	
+Collecting items will take time, and in the end they will be delivered via {2} days.
+
+Cost of agreement (in trust): {3} (extra {4} for discount)</TradeSchedulingAgreementWindow_ResultInfo>
+  <TradeSchedulingAgreementWindow_CaravanDelivery>Delivery method: caravan. Travel time of the caravan from the settlement to you takes {0} days.</TradeSchedulingAgreementWindow_CaravanDelivery>
+  <TradeSchedulingAgreementWindow_CapsuleDelivery>Delivery method: capsules. No extra time required.</TradeSchedulingAgreementWindow_CapsuleDelivery>
+  <TradeSchedulingAgreementWindow_CreateAgreement>To sign an agreement</TradeSchedulingAgreementWindow_CreateAgreement>
+  <TradeSchedulingAgreementWindow_NotEnoughSilver>not enough silver ({0})</TradeSchedulingAgreementWindow_NotEnoughSilver>
+  <TradeSchedulingAgreementWindow_NotEnoughTrust>not enough trust (имеется {0}, required {1})</TradeSchedulingAgreementWindow_NotEnoughTrust>
+  <TradeSchedulingAgreementWindow_CantSignRightNow>Unable to sign agreement. Cause: {0}</TradeSchedulingAgreementWindow_CantSignRightNow>
+  <TradeSchedulingAgreementWindow_ZeroCost>no products selected</TradeSchedulingAgreementWindow_ZeroCost>
+  <TradeSchedulingAgreement_CreateSucessTitle>Agreement signed</TradeSchedulingAgreement_CreateSucessTitle>
+  <TradeSchedulingAgreement_CreateSucessDesc>You have signed an agreement with the faction {0}. Goods worth {1} silver will be delivered from {2} via {3} days.</TradeSchedulingAgreement_CreateSucessDesc>
+  <DeliveryItems_Title>Items delivered</DeliveryItems_Title>
+  <DeliveryItems_Desc>Trade agreement items delivered</DeliveryItems_Desc>
+  <Alliance_CanSignAgreement_MinMembersRequired>not enough members in the alliance ({0} required)</Alliance_CanSignAgreement_MinMembersRequired>
+  <TradeSchedulingAgreementCompProperties_SkilLDisabled>current negotiator cannot make an agreement, choose another</TradeSchedulingAgreementCompProperties_SkilLDisabled>
+  <TradeSchedulingAgreementComp_CaravanFormedTitle>Allied caravan formed</TradeSchedulingAgreementComp_CaravanFormedTitle>
+  <TradeSchedulingAgreementComp_CaravanFormedDesc>An allied caravan is formed and sent to you.</TradeSchedulingAgreementComp_CaravanFormedDesc>
+  <AllianceManager_WarManagerButton>War management</AllianceManager_WarManagerButton>
+  <WarManager_Factions>goal: {0}
+Attack: {1} ({2})
+Defend: {3} ({4})</WarManager_Factions>
+  <WarManager_NoAlliance>no alliance</WarManager_NoAlliance>
+  <CommOption_MakeWar_Label>Declare war or armistice</CommOption_MakeWar_Label>
+  <MakeWarWindow_DrawWarModeTitle>Declare war faction {0}</MakeWarWindow_DrawWarModeTitle>
+  <MakeWarWindow_DrawWarMode_SelectWarGoal>goal: {0}</MakeWarWindow_DrawWarMode_SelectWarGoal>
+  <MakeWarWindow_DrawWarMode_MakeWar>To declare a war {0}</MakeWarWindow_DrawWarMode_MakeWar>
+  <MakeWarWindow_WarNameLabel>War name</MakeWarWindow_WarNameLabel>
+  <MakeWarWindow_EmptyName>The name of the war is required</MakeWarWindow_EmptyName>
+  <War_WarIsStartedTitle>War has begun: {0}</War_WarIsStartedTitle>
+  <War_WarIsStartedDesc>The faction {0} ({1}) started the war with {2} ({3}) called {4}. Her goal is {5}</War_WarIsStartedDesc>
+  <CommOption_InviteToAlliance_InWar>You are at war with this faction</CommOption_InviteToAlliance_InWar>
+  <MakeWarWindow_DrawDefendModeTitle>{0} with fraction {1}</MakeWarWindow_DrawDefendModeTitle>
+  <MakeWarWindow_DrawDefendModeDesc>goal: {0}
+-------------------
+{1}
+</MakeWarWindow_DrawDefendModeDesc>
+  <WarManager_DrawWarInfo_WarMembers>Defenders ({0})
+----------------</WarManager_DrawWarInfo_WarMembers>
+  <MakeWarWindow_DrawDefendModeTruce>Conclude a truce</MakeWarWindow_DrawDefendModeTruce>
+  <MakeWarWindow_DrawDefendModeCantTruce>It is impossible to conclude a peace treaty now. Wait a while.</MakeWarWindow_DrawDefendModeCantTruce>
+  <War_EndWarTitle>{0} over</War_EndWarTitle>
+  <War_EndWarDesc>{0}, which {1} announced {2} is over.</War_EndWarDesc>
+  <CommOption_MakeWar_InAlliance>You cannot declare war on a member of your alliance</CommOption_MakeWar_InAlliance>
+  <CommOption_SubscribeScout_CantSub>You cannot sign an agreement because you are at war with a faction</CommOption_SubscribeScout_CantSub>
+  <CommOption_NonAgressionPact_CantSign>You cannot sign an agreement because you are at war with a faction</CommOption_NonAgressionPact_CantSign>
+  <Winner_Assaulters>attackers</Winner_Assaulters>
+  <Winner_Defenders>defending</Winner_Defenders>
+  <Winner_Draw>draw</Winner_Draw>
+  <Winner_None>unknown</Winner_None>
+  <WarGoalWorker_Destruction_YouWinTitle>Victory in the war</WarGoalWorker_Destruction_YouWinTitle>
+  <WarGoalWorker_Destruction_YouWinDesc>You won the war {0}, destroying all the enemy settlements, which earned additional trust in the eyes of your allies.</WarGoalWorker_Destruction_YouWinDesc>
+  <WarGoalWorker_Destruction_YouLoseTitle>Defeat in war</WarGoalWorker_Destruction_YouLoseTitle>
+  <WarGoalWorker_Destruction_YouLoseDesc>You lost the war {0} because you lost absolutely all your settlements. The game is over.</WarGoalWorker_Destruction_YouLoseDesc>
+  <War_LongEventStarting>Starting a war ...</War_LongEventStarting>
+  <CaravanArrivalAction_AIBackToHome_Label>Coming back home</CaravanArrivalAction_AIBackToHome_Label>
+  <CaravanArrivalAction_AIAttackSettlement_EnemyArmyTitle>The enemy is advancing</CaravanArrivalAction_AIAttackSettlement_EnemyArmyTitle>
+  <CaravanArrivalAction_AIAttackSettlement_EnemyArmyDesc>The enemy army {0} is advancing, take a position!</CaravanArrivalAction_AIAttackSettlement_EnemyArmyDesc>
+  <DefenseContractCompProperties_FactionTechLevelLack>The fraction level {0} is too low ({1}) to use transport capsules. (minimum of {2} required)</DefenseContractCompProperties_FactionTechLevelLack>
+  <DefenseContractCompWindow_ContractDuration>Duration of contract (days)</DefenseContractCompWindow_ContractDuration>
+  <DefenseContractCompWindow_CostRangeSlider>Type of support</DefenseContractCompWindow_CostRangeSlider>
+  <DefenseContractCompWindow_ShowExamplePawns>Show sample fighters</DefenseContractCompWindow_ShowExamplePawns>
+  <FightersLevel_RegularFighers>Regular fighters</FightersLevel_RegularFighers>
+  <FightersLevel_EliteFighters>Elite fighters</FightersLevel_EliteFighters>
+  <FightersLevel_Officiers>Officers</FightersLevel_Officiers>
+  <DefenseContractCompWindow_SelectFaction>Fraction: {0}</DefenseContractCompWindow_SelectFaction>
+  <DefenseContractCompWindow_LowTechLevel>(the level of development of the fraction is insufficient)</DefenseContractCompWindow_LowTechLevel>
+  <DefenseContractCompWindow_ResultInfo>Trust cost for {0} days: {1}
+Support Type {2}: {3}
+Total: {4} trust</DefenseContractCompWindow_ResultInfo>
+  <DefenseContractCompWindow_CreateAgreement_NoTrust>Lack of trust</DefenseContractCompWindow_CreateAgreement_NoTrust>
+  <DefenseContractCompWindow_CreateAgreement>To sign an agreement</DefenseContractCompWindow_CreateAgreement>
+  <DefenseContractCompWindow_CreatedTitle>Defense contract signed</DefenseContractCompWindow_CreatedTitle>
+  <DefenseContractCompWindow_CreatedDesc>Within {0} days, if you are attacked, faction {1} will send reinforcements to you.</DefenseContractCompWindow_CreatedDesc>
+  <DefenseContractComp_HelpTitle>Leg-up!</DefenseContractComp_HelpTitle>
+  <DefenseContractComp_HelpDesc>{0} send help! They will leave in 1 day</DefenseContractComp_HelpDesc>
+  <DefenseContractComp_EndTitle>Defensive contract completed</DefenseContractComp_EndTitle>
+  <DefenseContractComp_EndDesc>The duration of the defensive contract with {0} has come to an end. They will no longer send help in case of an attack on you</DefenseContractComp_EndDesc>
+  <DS_InstallCommand_Title>Build {0}</DS_InstallCommand_Title>
+  <DS_InstallCommand_Desc>Build new object</DS_InstallCommand_Desc>
+  <Supernova_label>Supernova explosion</Supernova_label>
+  <SupernovaExp_low>Several hundred thousand light-years, a supernova explosion occurred. It will not cause any harm and will be visible from all over the planet, which will allow you to watch a beautiful sight</SupernovaExp_low>
+  <SupernovaExp_medium>Several tens of thousands of light years away, a supernova explosion occurred. Expect a small meteor shower and an increase in temperature.</SupernovaExp_medium>
+  <SupernovaExp_high>Several thousand light years away, a supernova explosion occurred. Expect heavy meteor showers, a very strong temperature increase and long days.</SupernovaExp_high>
+  <SupernovaExp_ultra>Several hundred light-years, a supernova explosion occurred. Expect heavy meteor showers, long days, a very strong temperature increase. Also, an explosion is likely to destroy part of the atmosphere.</SupernovaExp_ultra>
+  <HiveCreaturesCount>Individuals: </HiveCreaturesCount>
+  <HiveLevel>Level: </HiveLevel>
+  <ShipCargo_Food_ExpandLabel>Part of the ship</ShipCargo_Food_ExpandLabel>
+  <ShipCargo_Food_Description>Part of the cargo hold</ShipCargo_Food_Description>
+  <ShipSite_LeaveCommandLabel>Leave</ShipSite_LeaveCommandLabel>
+  <ShipSite_LeaveCommandDesc>Form the caravan and leave</ShipSite_LeaveCommandDesc>
+  <CaravanEnteredShipCrash>Caravan arrived to</CaravanEnteredShipCrash>
+  <ShipCargo_Mining_ExpandLabel>Part of the ship</ShipCargo_Mining_ExpandLabel>
+  <ShipCargo_Mining_Description>Part of the cargo hold</ShipCargo_Mining_Description>
+  <ShipPartTimeout>\nProbably the wreckage will be looted in (days):</ShipPartTimeout>
+  <ShipCargo_Complex_ExpandLabel>Part of the ship</ShipCargo_Complex_ExpandLabel>
+  <ShipCargo_Complex_Description>Part of the manufacturing section</ShipCargo_Complex_Description>
+  <EnemyOnTheMap>There are still enemies on the map. You can not form a caravan now.</EnemyOnTheMap>
+  <Ship_Living_ExpandLabel>Part of the ship</Ship_Living_ExpandLabel>
+  <Ship_Living_Description>Part of the crew quarters</Ship_Living_Description>
+  <Ship_Armory_ExpandLabel>Part of the ship</Ship_Armory_ExpandLabel>
+  <Ship_Armory_Description>Part of the ship's armory</Ship_Armory_Description>
+  <FireSpreadIs>The fire will intensify in (days): </FireSpreadIs>
+  <CaravanEnteredMassiveFire>Caravan arrived to</CaravanEnteredMassiveFire>
+  <DetonationIn>Automatic detonation after (days):</DetonationIn>
+  <DisarmingProgress>Disarming progress: </DisarmingProgress>
+  <DisarmAction>Start the disarming process</DisarmAction>
+  <SuccessDisarming>Bomb cleared</SuccessDisarming>
+  <SuccessDisarmingDesc>The climate bomb was cleared successfully. In the dismantling process, an element was found that seems to be the main source of energy.
+  Your colonists were able to steal it. With it, you me be able to create a new source of energy.</SuccessDisarmingDesc>
+  <BombDisarmed>Bomb defused</BombDisarmed>
+  <DefusingInfo>Attempt to disarm the bomb.\n\nYour colonists report that trying to defuse the bomb is likely to send an alert signal that will attract a large defense force.\n\nGet ready for battle!</DefusingInfo>
+  <Earthshake>Earthquake over</Earthshake>
+  <EarthshakeDesc>The earthquake is over. Magnitude:</EarthshakeDesc>
+  <ZeroPointReactorDestablished>Zero Point Reactor Destabilized</ZeroPointReactorDestablished>
+  <ZeroPointReactorDestablishedDesc>The zero point reactor has destabilized and is about to fail. The vacuum core is pulling in nearby creatures!</ZeroPointReactorDestablishedDesc>
+  <ZPRNeedMorePumps>\n- Vacuum pumps required: </ZPRNeedMorePumps>
+  <ZPRWorking>Active.</ZPRWorking>
+  <ZPRNoActiveLabel>Inactive:</ZPRNoActiveLabel>
+  <ZPRHasRoofs>\n- Roof required</ZPRHasRoofs>
+  <ZPRNeedRoom>\n- Room required</ZPRNeedRoom>
+  <SiegeCampUpdateTimer>\nDays to upgrade:</SiegeCampUpdateTimer>
+  <SiegeCampLevel>Camp difficulty:</SiegeCampLevel>
+  <YourAttackWasRepelledTitle>Your attack failed</YourAttackWasRepelledTitle>
+  <YourAttackWasRepelledDesc>Your attack on the enemy camp failed. They will likely rebuild their defenses and the surviving colonists are probably dead or to be sold into slavery.</YourAttackWasRepelledDesc>
+  <AttackIsNotRepelled>You can not leave now. The attack is not yet repelled.</AttackIsNotRepelled>
+  <TimerDaysToAttack>Days to attack {0}</TimerDaysToAttack>
+  <ThreatLevel>\nThreat level: {0}</ThreatLevel>
+  <AttackFriendlySettlementLetter1>A scout from the friendly settlement {0} reports that one of the enemy settlements is preparing an attack on them. They ask you for help. Unfortunately, the level of threat is not known.
+(To help the settlement, send a caravan to it and repel the attack)</AttackFriendlySettlementLetter1>
+  <AttackFriendlySettlementLetter2>A scout from the friendly settlement {0} reports that one of the enemy settlements is preparing an attack on them. They ask you for help. Threat Level: {1}
+(To help the settlement, send a caravan to it and repel the attack)</AttackFriendlySettlementLetter2>
+  <AttackedFriendlySettlementDefendHelp>You have arrived. Set up a defense, the settlers here are at your disposal. Remember that you need to save as many lives as possible!
+</AttackedFriendlySettlementDefendHelp>
+  <AttackedFriendlySettlementDefendVictory>You fended off the attack.\n{0} Thank you. You were able to save {1} settlers, for which you get a reward:\n {2} \n\n You can pick it up when you form a caravan.</AttackedFriendlySettlementDefendVictory>
+  <AttackedFriendlySettlementDefendLoseWithHelp>You fought off the attack, but you could not save a single friendly settler.\nYou simply have no one to give a reward, and all that will remain here is a ruin.
+</AttackedFriendlySettlementDefendLoseWithHelp>
+  <AttackedFriendlySettlementLoseWithoutHelp>You didn’t help settlement {0}, your relationship has lowered.</AttackedFriendlySettlementLoseWithoutHelp>
+  <RaidStartDefendTitle>The attack has begun!</RaidStartDefendTitle>
+  <RaidStartDefend>Enemies are attacking, get ready!</RaidStartDefend>
+  <EnergyChargeCapacity>Charge: {0} / {1}</EnergyChargeCapacity>
+  <InactiveNoHelmet>\nInactive. Missing helmet.</InactiveNoHelmet>
+  <InactiveMk1>Inactive</InactiveMk1>
+  <EnergyChargeCapacity2>Capacity</EnergyChargeCapacity2>
+  <Station>Station</Station>
+  <UnloadArmor>Disable armor from the station</UnloadArmor>
+  <LoadArmor>Connect armor to the station</LoadArmor>
+  <NoAvaliableArmors>No available armor</NoAvaliableArmors>
+  <NotEnoughSpace>Not enough space for armor. Free up more space around the station.</NotEnoughSpace>
+  <NoArmorInStation>Station is not active. Missing armor.</NoArmorInStation>
+  <CoreType>Core</CoreType>
+  <ChargeSpeed>Charging speed: {0}</ChargeSpeed>
+  <EnabledCharging>Actively. Charging</EnabledCharging>
+  <FullCharge>Reactor charge limit reached</FullCharge>
+  <NoPowerRightNow>▬► NO POWER ◄▬</NoPowerRightNow>
+  <NoCore>Core missing</NoCore>
+  <NoAvaliableCores>No cores available</NoAvaliableCores>
+  <ColdFusionCore>Cold fusion</ColdFusionCore>
+  <ArcReactorCore>Arc</ArcReactorCore>
+  <WeaponDeactivated>The Doomsday weapon has been deactivated</WeaponDeactivated>
+  <PlanetWillBeDestroyed>The planet will be destroyed in (days): </PlanetWillBeDestroyed>
+  <PlayerSilverCount>Silver player: {0}</PlayerSilverCount>
+  <FactionGift>Silver from factions: {0}</FactionGift>
+  <GiveRansom>Pay a ransom</GiveRansom>
+  <NotEnoughSilverDoom>Pay a ransom [Not enough silver]</NotEnoughSilverDoom>
+  <PaidSuccessDoom>Ransom paid</PaidSuccessDoom>
+  <RansomCompleteTitle>Ransom paid</RansomCompleteTitle>
+  <RansomComplete>The enemy commander laughs loudly over the radio. So be it, they will not blow up the planet. The laughter subsides as they quickly pack up and disappear without a trace. Perhaps this is not the end.</RansomComplete>
+  <PlanetDestroyed>At once everyone covers their ears in pain. It is as if a million lightning bolts struck in the same place at once - a small artificial star is born just beyond the world's atmosphere. Everyone stumbles as the planet begins to move, plunging into blinding orb of light. As the last remnants of hope shatter, so too does the planet's surface, cracks of the world's molten blood erupt and spread across the surface like crimson rivers.
+The apocalyptic machine emits a column of bright light, a leash leading the planet to its grave. The atmosphere ignites in a cleansing flame that provides a quick death, perhaps quicker than is truly deserved. The fragments of this broken world will be an everlasting monument to the folly of man. While most others in the universe will see it as a lesson, some may see it as potential.
+</PlanetDestroyed>
+  <ArsonOut>The arsonists leave</ArsonOut>
+  <DoomsdayEnterSiteHelp>You have come to an enemy base. Somewhere hidden doomsday weapon. It must be found, de-energized and destroyed, but first you have to clear the base.</DoomsdayEnterSiteHelp>
+  <DeEnergizedStatus>Power level: {0}</DeEnergizedStatus>
+  <ShildsOffDommsdayTitle>Energy Shield Disabled</ShildsOffDommsdayTitle>
+  <DeactiveEnergyShieldDoom>Turn off energy shield</DeactiveEnergyShieldDoom>
+  <ShildsOffDommsday>You were able to turn off the energy barrier protecting the device. Now you need to disable the final security system.</ShildsOffDommsday>
+  <SecurityNonActiveDoomsday>\nSecurity Systems: Disabled</SecurityNonActiveDoomsday>
+  <SecurityActiveDoomsday>\nSecurity Systems: Enabled</SecurityActiveDoomsday>
+  <DisableSecuritySystems>Disable security systems</DisableSecuritySystems>
+  <DoomsdayContrAttackTitle>Counterattack</DoomsdayContrAttackTitle>
+  <DoomsdayContrAttack>Counterattack incoming!</DoomsdayContrAttack>
+  <HelpCommand>command information</HelpCommand>
+  <ClearCommand>clear console</ClearCommand>
+  <DoomsdatTerminal_SecurityCommand>Access to security systems</DoomsdatTerminal_SecurityCommand>
+  <DoomsdayTerminal_UsersCommand>User management system</DoomsdayTerminal_UsersCommand>
+  <DoomsdayTerminal_AddNewUsers>--> Add new user: /users add *username* *password*</DoomsdayTerminal_AddNewUsers>
+  <DoomsdayTerminal_RemoveUsers>--> Delete user: /users delete *username* *password*</DoomsdayTerminal_RemoveUsers>
+  <DoomsdayTerminal_NoAccess>No access</DoomsdayTerminal_NoAccess>
+  <DoomsdayTerminal_WrongArguments>Invalid Arguments</DoomsdayTerminal_WrongArguments>
+  <DoomsdayTerminal_WrongPassword>Wrong password</DoomsdayTerminal_WrongPassword>
+  <DoomsdayTerminal_LoginCommand>Sign in. Format: /login *username* *password*</DoomsdayTerminal_LoginCommand>
+  <DoomsdayTerminal_LogginSuccess>You are logged in as {0}</DoomsdayTerminal_LogginSuccess>
+  <DoomsdayTerminal_LogginFail>Failed login attempt. Check username and password.</DoomsdayTerminal_LogginFail>
+  <DoomsdayTerminal_ActiveUsers>Active users:</DoomsdayTerminal_ActiveUsers>
+  <DoomsdayTerminal_LogoutCommand>Sign out</DoomsdayTerminal_LogoutCommand>
+  <DoomsdayTerminal_LoginFirst>Please login first</DoomsdayTerminal_LoginFirst>
+  <DoomsdayTerminal_LogoutOk>You have successfully logged out.</DoomsdayTerminal_LogoutOk>
+  <DoomsdayTerminal_HackUsers>%^3Embedding instructions... !#%1@5)(26w\nTo use HackTools 1.0, run /users hack</DoomsdayTerminal_HackUsers>
+  <DoomsdayTerminal_UsersHack>Activation module HackTools 1.0\nActivation successful.\nSearch for vulnerabilities ... Found an administrative email.
+Decryption email ...
+
+From: ExFeral
+To: AktunOba
+
+It seems the boss is still going to use the weapon for blackmail.
+Hell, he's gonna blow this world up.
+Of course I'm not against scoring heap of silver, but I also live here! I tried to persuade him to be rational, but his greed is driving him crazy.
+I want to play it safe if in case things get out of hand, but I can't just write out the password here and risk someone else finding this letter.
+The password is the answer to this riddle, one I've told you many times, you should have no problems solving it.
+"You enter a dark kitchen with no power. There is a candle, a kerosene lamp, and a gas stove. What will you light first?"
+One word. Use it to log in as Feral.
+</DoomsdayTerminal_UsersHack>
+  <DoomsdayTerminal_UsersHackAnser>Match</DoomsdayTerminal_UsersHackAnser>
+  <DoomsdayTerminal_AlreadyLogged>You are already logged in. Use /logout.</DoomsdayTerminal_AlreadyLogged>
+  <DoomsdayTerminal_SecurityFirst>Enter the security password. /security *password*
+*(5$#LKki*6 HackTools 1.0 --> Memory dump /security dump ^I21%$$*1%p0rfgw
+  </DoomsdayTerminal_SecurityFirst>
+  <DoomsdayTerminal_HackToolsSecurity>
+Inject HackTools 1.0
+--> Meta OK
+--> Memory OK
+--> Memory dump...</DoomsdayTerminal_HackToolsSecurity>
+  <DoomsdayTerminal_SecurityAccessGranted>Security System Access Granted.
+Commands:
+--> /security disable
+--> /security enable
+</DoomsdayTerminal_SecurityAccessGranted>
+  <DoomsdayTerminal_SecurityNoPower>Power is off, deactivation of protection systems is not possible.</DoomsdayTerminal_SecurityNoPower>
+  <DoomsdayTerminal_SecurityPowerOk>Power on.</DoomsdayTerminal_SecurityPowerOk>
+  <DoomsdayTerminal_SecurityPowerInfoPassive>Welcome to the energy management section.
+ 
+-->Energy shield: inactive
+-->Power: off
+
+RETROS BIOS-4.02.000 T2EE5/E7.E8
+Root (5A8)
+
+RUN IN PASSIVE MODE, TO DISABLE --> /security energy activemode</DoomsdayTerminal_SecurityPowerInfoPassive>
+  <DoomsdayTerminal_ActiveModeEnable>Enabling Active Mode ...
+
+ExplasaSystems 5.3 (BG/SS5 FastUse 13.2)
+Energy RETROS RBIOS-4.02.000 T2EE5/E7.E8
+...
+...
+Initializing user mode ...
+Activating internal systems ...
+Systems are active.
+
+
+RUN IN ACTIVE MODE
+</DoomsdayTerminal_ActiveModeEnable>
+  <DoomsdayTerminal_SecurityPowerInfoActive>Welcome to the energy management section.
+ 
+-->Energy shield: inactive
+-->Power: off
+
+RETROS RBIOS-4.02.000 T2EE5/E7.E8
+Root (5A8)
+
+RUN IN ACTIVE MODE
+COMMANDS:
+--> /security energy shields
+--> /security energy on</DoomsdayTerminal_SecurityPowerInfoActive>
+  <DoomsdayTerminal_ActiveModeReq>Not available in passive mode.</DoomsdayTerminal_ActiveModeReq>
+  <DoomsdayTerminal_ShieldsOff>Energy shield system control disabled.</DoomsdayTerminal_ShieldsOff>
+  <DoomsdayTerminal_PowerActivating>Switching magnetic resistors --> OK
+Redirecting energy to the control shaft --> OK</DoomsdayTerminal_PowerActivating>
+  <DoomsdayTerminal_SecurityDisabled>Disable Security Systems --> OK</DoomsdayTerminal_SecurityDisabled>
+  <SecurityDoomsdayOffTitle>Security Systems disabled</SecurityDoomsdayOffTitle>
+  <SecurityDoomsdayOff>You were able to disable the security systems of doomsday weapon. Now you can safely destroy it.</SecurityDoomsdayOff>
+  <GameCondition_SpaceBattleTitle>A space battle is occuring in low orbit, watch out for debris.</GameCondition_SpaceBattleTitle>
+  <Building_TribalCrack_OptionInactive>Impossible to destroy, the selected colonist has no grenades.</Building_TribalCrack_OptionInactive>
+  <Building_TribalCrack_Option>Go down the tunnel and blow it up</Building_TribalCrack_Option>
+  <TribalCrack_InfoTitle>Mission started</TribalCrack_InfoTitle>
+  <TribalCrack_InfoDesc>The settler {0} went into the tunnel. Planting a bomb and exploding will take about {1} days. At this time, the settler will be unavailable.</TribalCrack_InfoDesc>
+  <Building_TribalCrack_Title>Тribal tunnelers</Building_TribalCrack_Title>
+  <Building_TribalCrack_Desc>{0} destroyed the tunnel connecting you with the Tribal settlement.</Building_TribalCrack_Desc>
+  <Building_TribalCrack_DoDestroyAction>Fill up the hole with your hands</Building_TribalCrack_DoDestroyAction>
+  <Building_TribalCrack_Info>Buried: {0}</Building_TribalCrack_Info>
+  <GameCondition_HighMutantPopulation_AttackTitle>Mutant Attack</GameCondition_HighMutantPopulation_AttackTitle>
+  <GameCondition_HighMutantPopulation_AttackDesc>Mutants attack your settlement</GameCondition_HighMutantPopulation_AttackDesc>
+  <Corrosium_InspectString>Damage Received: {0}%</Corrosium_InspectString>
+  <RimOverhaul_UseCommand>Use</RimOverhaul_UseCommand>
+  <CompChargeableWeapon_ChargeLabel>Charge: {0}%</CompChargeableWeapon_ChargeLabel>
+  <CompChargeableWeapon_ChargeDesc>The charge of the item. When it ends, the item will lose most of its strength.</CompChargeableWeapon_ChargeDesc>
+  <FairPlace_GetInspectString>Time left: {0} days</FairPlace_GetInspectString>
+  <EnterToMap_Option>Enter to {0}</EnterToMap_Option>
+  <Fair_EndTitle>Fair is over</Fair_EndTitle>
+  <Fair_EndDesc>The fair has been completed, thanks for participating!</Fair_EndDesc>
+  <Competitions_Label>Start the competition</Competitions_Label>
+  <Competitions_ReportString>Start the competition</Competitions_ReportString>
+  <NotEnoughtSkillForComp>There are no settlers with a sufficient skill level in the caravan</NotEnoughtSkillForComp>
+  <Competitions_DayResultTitle>{0} day results
+Leadership holds {1} (fraction {2}) \n</Competitions_DayResultTitle>
+  <Competitions_DayResultTitle2>{0} day results</Competitions_DayResultTitle2>
+  <Competitions_WinnerDesc>The {0} faction represented by {2} won the {0} competition. He won with a score of {3}.
+
+The reward was {4} silver and a rewarding experience to skill.</Competitions_WinnerDesc>
+  <Competitions_WinnerTitle>Competition Results</Competitions_WinnerTitle>
+  <Competitions_JustEndTitle>The competition is over</Competitions_JustEndTitle>
+  <Competitions_JustEndDesc>Competition in {0} is over. You did not attend.</Competitions_JustEndDesc>
+  <EnterToCompetitions>Participate</EnterToCompetitions>
+  <Competitions_EnterToCompetitionsTitle>Competitions begin!</Competitions_EnterToCompetitionsTitle>
+  <Competitions_EnterToCompetitionsDesc>Competitions begin!
+	
+The competition lasts 3 days, every day you will receive statistics where you can track the place of your representative in the score table</Competitions_EnterToCompetitionsDesc>
+  <WorldObject_Competitions_ScorePlaceHolder>(points)</WorldObject_Competitions_ScorePlaceHolder>
+  <WorldObject_Competitions_YouPlaceHolder>your representative</WorldObject_Competitions_YouPlaceHolder>
+  <CommOption_CompetitionsPaid>To bribe judges (600 silver)</CommOption_CompetitionsPaid>
+  <Competitions_AlreadyPaid>You have already bribed the judges</Competitions_AlreadyPaid>
+  <Competitions_JudgPaidTitle>Judges successfully bribed</Competitions_JudgPaidTitle>
+  <Competitions_JudgPaidDesc>You have successfully bribed the judges. This will give you an extra 7 points.</Competitions_JudgPaidDesc>
+  <Competitions_NeedToStartForPaid>First you need to come to the competition</Competitions_NeedToStartForPaid>
+  <Competitions_JudgePaidFailTitle>Judge inspection</Competitions_JudgePaidFailTitle>
+  <Competitions_JudgePaidFailDesc>As a result of the inspection of the judges, it turned out that you bribed them. This will worsen relations with participating factions..</Competitions_JudgePaidFailDesc>
+  <Competitions_JudgePaidReason>judging</Competitions_JudgePaidReason>
+  <MassBurialPlace_WhyAffect>plunder of graves</MassBurialPlace_WhyAffect>
+  <Quest_PrisonShipAccident_PlaceLabel>Escaped prisoners</Quest_PrisonShipAccident_PlaceLabel>
+  <Quest_PrisonShipAccident_PlaceLabel2>Prison place of transfer</Quest_PrisonShipAccident_PlaceLabel2>
+  <TransferPrisoners>Hand prisoners</TransferPrisoners>
+  <CaravanArrivalAction_TransferPrisoners_SuccessTitle>Prisoner transferred</CaravanArrivalAction_TransferPrisoners_SuccessTitle>
+  <CaravanArrivalAction_TransferPrisoners_SuccessDesc>ЗPrisoner {0} successfully transferred. {1} paid you {2} (sent to your base)</CaravanArrivalAction_TransferPrisoners_SuccessDesc>
+  <Quest_PrisonShipAccident_NCTitle>Prisoners are gone</Quest_PrisonShipAccident_NCTitle>
+  <Quest_PrisonShipAccident_NCDesc>You did not capture a single prisoner, they most likely have already scattered across the planet.</Quest_PrisonShipAccident_NCDesc>
+  <CaravanBattlePlacePlace_BattleStarted>The battle has begun</CaravanBattlePlacePlace_BattleStarted>
+  <CaravanBattlePlacePlace_BattleDescription>Your caravan {0} has fought with {1}. If you leave the map, you will be considered losers and some of your settlers may be killed when trying to escape. The victory will be considered the complete destruction of the enemy forces.</CaravanBattlePlacePlace_BattleDescription>
+  <CaravanBattlePlacePlace_Battle_WinnerAITitle>You lose</CaravanBattlePlacePlace_Battle_WinnerAITitle>
+  <CaravanBattlePlacePlace_Battle_WinnerAIDesc>The enemy won in this battle</CaravanBattlePlacePlace_Battle_WinnerAIDesc>
+  <CaravanBattlePlacePlace_Battle_WinnerPlayerTitle>You won</CaravanBattlePlacePlace_Battle_WinnerPlayerTitle>
+  <CaravanBattlePlacePlace_Battle_WinnerPlayerDesc>You were able to defeat the enemy and win the battle!</CaravanBattlePlacePlace_Battle_WinnerPlayerDesc>
+  <CaravanBattlePlacePlace_Deserting>{0} was killed while escaping from the battlefield</CaravanBattlePlacePlace_Deserting>
+  <QuestPrefix>Quest</QuestPrefix>
+  <Quest_RequiredItems>Requested resources</Quest_RequiredItems>
+  <Quest_HelpItems_Site>Resource delivery site.</Quest_HelpItems_Site>
+  <HowToCheckReqList>To view a list of required items, open detailed information.</HowToCheckReqList>
+  <HelpResourcesDescriptionTitle>Faction {0} requested resources. We need to send a caravan with the necessary supplies to this point in order to deliver them.
+
+List of required resources:</HelpResourcesDescriptionTitle>
+  <GiveItemsSuccessTitle>Resources delivered.</GiveItemsSuccessTitle>
+  <GiveItemsSuccess>You have successfully delivered the requested resources. The reward was sent to your base via cargo pods.</GiveItemsSuccess>
+  <GiveItemsSuccess2>You have successfully delievered the resources. The award was given to your caravan.</GiveItemsSuccess2>
+  <NotEnoughItemsToQuest>Not enough items</NotEnoughItemsToQuest>
+  <GiveItemsOption>Deliver resources</GiveItemsOption>
+  <Quest_HelpItems_Label>Request for resources</Quest_HelpItems_Label>
+  <Quest_HelpItems_Description>The leader of the {0} faction contacts you and tells you that they are going to expand their settlement, but they don’t have enough available resources. They request some resources from you and in exchange they will give what supplies they have in abundance. \nWe can form a caravan with the necessary items and send it to them.
+</Quest_HelpItems_Description>
+  <HowToGivePawns>To assist the settlement, send a caravan with the required number of pawns ({0}) to the construction site. \nConstruction time: {1}</HowToGivePawns>
+  <Quest_BuildNewBase_Label>Construction of a new settlement</Quest_BuildNewBase_Label>
+  <Quest_BuildNewBase_Description>The faction {0} is requesting aid in moving one of their settlements. They explain that their current location has run low on natural resources and poor soil fertility has rendered is unsustainable. They have enough supplies stockpiled, but do not have enough capable construction workers and request that you send assistance. \n\nConstruction may take several days and during this time your colonists will be unavailable. Upon completion of construction you will be rewarded and your colonists will be returned.
+</Quest_BuildNewBase_Description>
+  <Quest_BuildNewBase_Place>Construction site {0}</Quest_BuildNewBase_Place>
+  <NotEnoughPawnsToHelp>Not enough colonistss in the caravan</NotEnoughPawnsToHelp>
+  <HelpStartedTitle>Construction started</HelpStartedTitle>
+  <HelpStarted>Your caravan has arrived at the construction site of the new settlement. According to preliminary calculations, construction will take {0} days, after which your colonists will be returned.</HelpStarted>
+  <BuildingAlreadyStarted>Construction has already begun</BuildingAlreadyStarted>
+  <Quest_HelpWithBuilding_Option>To help</Quest_HelpWithBuilding_Option>
+  <PawnsRequired>Pawns required: {0}</PawnsRequired>
+  <BuildingSeccessEndTitle>Construction completed</BuildingSeccessEndTitle>
+  <BuildingSeccessEnd>Construction of the settlement for {0} is over. They are grateful and inform you that they will be willing to return the favor by providing supplies or military aid. (You can make requests through the Geoscape)
+</BuildingSeccessEnd>
+  <Quest_AttackFriendlySettlement_CardLabel>Attack on a friendly settlement</Quest_AttackFriendlySettlement_CardLabel>
+  <Quest_AttackFriendlySettlement_Description>The leader of the {0} allied faction {1} reports that their scouts have spotted an approaching enemy raid on their settlement. They explain that most of their fighters are away on a classified mission and request combat assistance. \nIf you help them repel this attack, they will be able to provide you with intelligence information from time to time. \n\nTo help repel the attack, form a caravan with everything you need and head to the rally point on the map. \nThe reward depends on the number of surviving settlers of the allied settlement.
+</Quest_AttackFriendlySettlement_Description>
+  <ScoutComp_GiveTitle>Intelligence agreement</ScoutComp_GiveTitle>
+  <ScoutComp_Give>You have signed an intelligence agreement with the {0} faction. They will provide intelligence data every {1} days for {2} days that may contain information about imminent threats, but warn that it may not always be completely accurate.</ScoutComp_Give>
+  <ScoutComp_AlreadyGiveTitle>Intelligence agreement</ScoutComp_AlreadyGiveTitle>
+  <ScoutComp_AlreadyGive>An intelligence agreement with faction {0} has already been signed, so it has been extended for {1} days.</ScoutComp_AlreadyGive>
+  <Quest_MissingPeople_CardLabel>Missing settlers</Quest_MissingPeople_CardLabel>
+  <Quest_MissingPeople_Description>The leader of the faction {0} contacted us and reported that a small group of their settlers went on a journey to gather resources but has not returned. Their journey was estimated to take {1} days, but more than {2} days have already passed. Attempts to get in touch have failed and they are worried that the settlers might have gotten lost or been attacked. \nThey should enough food for about {3} days, after which they will starve. He asks us to find the missing settlers and return them home.</Quest_MissingPeople_Description>
+  <Quest_MissingPeople_PlaceLabel>Potential Settlers Place</Quest_MissingPeople_PlaceLabel>
+  <Quest_MissingPeople_PlaceLabelSaved>People destination</Quest_MissingPeople_PlaceLabelSaved>
+  <Quest_MissingPeople_InspectString>Potential place for lost settlers. \nFood will run out in: {0} (days)</Quest_MissingPeople_InspectString>
+  <Quest_MissingPeople_InspectString2>House of missing settlers. \nTime to deliver settlers: {0} (days)</Quest_MissingPeople_InspectString2>
+  <Quest_CheckMissingPeople_Action>Inspect the place</Quest_CheckMissingPeople_Action>
+  <Quest_MissingPeople_CheckFailTitle>Nothing found</Quest_MissingPeople_CheckFailTitle>
+  <Quest_MissingPeople_CheckFail>We've find signs of the missing settlers, but nobody is here. There are fresh tracks leading away from the site, we should follow them. (A new destination is marked on the map)</Quest_MissingPeople_CheckFail>
+  <Quest_MissingPeople_EnterToMapTitle>Missing settlers</Quest_MissingPeople_EnterToMapTitle>
+  <Quest_MissingPeople_EnterToMap>Entering the territory we quickly spot the small camp of missing settlers. They are weak, but not ready to give up. While preparing to leave, a group of hostiles appear on the horizon. We will have to fight our way out and protect the settlers we came to rescue.</Quest_MissingPeople_EnterToMap>
+  <Quest_MissingPeople_Stage2Title>Caravan formed and ready to move</Quest_MissingPeople_Stage2Title>
+  <Quest_MissingPeople_Stage2>We were able to repel the attack, now we must escort the settlers home within {0} days. If we do not deliver them in time, we will be condemned as scavenging thieves taking advantage of the situation. (Take the caravan to the marked settlement base)</Quest_MissingPeople_Stage2>
+  <Quest_MissingPeople_End>You arrived at the Allied settlement.\n</Quest_MissingPeople_End>
+  <Quest_MissingPeople_EndFull>\nYou managed to bring all the settlers alive, for which the faction {0} is very grateful to you.</Quest_MissingPeople_EndFull>
+  <Quest_MissingPeople_EndPart>\nYou tell the story of what difficulties you faced, that those who died did not do so in vain and the rest should be proud of them.</Quest_MissingPeople_EndPart>
+  <Quest_MissingPeople_Fiasko>\nYou came with nothing but excuses. The leader of the {0} faction is very upset. You try to explain, but with nothing to show for it they simply shake their head and walk away.</Quest_MissingPeople_Fiasko>
+  <Quest_MissingPeople_EndQuest>Quest result</Quest_MissingPeople_EndQuest>
+  <Quest_CheckMissingPeople_Action2>Transfer settlers</Quest_CheckMissingPeople_Action2>
+  <Quest_MissingPeople_ThiefTitle>Prosecution</Quest_MissingPeople_ThiefTitle>
+  <Quest_MissingPeople_Thief>You did not return the surviving settlers in time, those that were rescued left you to return on their own. They told their leader about this and he accused you of harboring the settlers against their will. The agreement between you has been broken.</Quest_MissingPeople_Thief>
+  <Quest_TradeRequestComp_CardLabel>Trade request</Quest_TradeRequestComp_CardLabel>
+  <Quest_BanditCamp_CardLabel>Bandit camp</Quest_BanditCamp_CardLabel>
+  <Quest_KillLeader_CardLabel>Order to kill an enemy leader</Quest_KillLeader_CardLabel>
+  <Quest_KillLeader_Description>{0} talks about the enemy leader-dictator {1} from faction {2}, who has made threats against their settlement and asks you to eliminate them. Your target's location is marked on the world map.
+News of an assassination attempt will not stay secret for long and will spread quickly, you must strike soon.</Quest_KillLeader_Description>
+  <Quest_KillLeader_PlaceLabel>Target location</Quest_KillLeader_PlaceLabel>
+  <Quest_SuppressionRebellion_CardLabel>Suppression of insurgency</Quest_SuppressionRebellion_CardLabel>
+  <Quest_SuppressionRebellion_Description>The faction {0} has problems with rebellion from within. The insurgents demand independence and have commited reckless and volent acts for their cause, resulting in civilian fatalities. The soldiers of {0} faction were able to push them from the settlement, but they are gaining strength and will attack again.
+We can help suppress insurgency or stand aside and let the conflict resolve itself. In the end, if the rebels win, a new faction will be formed.</Quest_SuppressionRebellion_Description>
+  <Quest_SuppressionRebellion_PlaceLabel>The location of the insurgents</Quest_SuppressionRebellion_PlaceLabel>
+  <Quest_SuppressionRebellion_Dia>You have entered the territory. In the distance you see a group of insurgents preparing to attack.
+
+You can complete the quest in two ways.
+
+You can do kill all the insurgents. In this case, you can salvage whatever supplies are lef tin the camp.
+Or you can try to incapacitate as many as possible, they are still under the jurisdiction of the {0} faction. You will be rewarded for doing so.
+
+In any case, the task will be considered successful.</Quest_SuppressionRebellion_Dia>
+  <Quest_SuppressionRebellionFailTitle>Suppression of the insurgency failed</Quest_SuppressionRebellionFailTitle>
+  <Quest_SuppressionRebellionDesc>The attempt to suppress the insurgency was unsuccessful and they were able to defeat you.
+They will have already gone to attempt their coup, the outcome is no longer in your hands.</Quest_SuppressionRebellionDesc>
+  <Quest_SuppressionRebellionWinTitle>Victory</Quest_SuppressionRebellionWinTitle>
+  <Quest_SuppressionRebellionWinDesc>You were able to defeat the insurgents and spared the lives of {0} of them, for which the {1} faction decided to add another {2} silver to your reward.
+--------------
+{3}</Quest_SuppressionRebellionWinDesc>
+  <Quest_SuppressionRebellionRebelWinTitle>The insurgents won</Quest_SuppressionRebellionRebelWinTitle>
+  <Quest_SuppressionRebellionRebelWinDesc>The insurgents were able to defeat the soldiers from the settlement {0}. {1}
+This led to a change of leadership and a new political regime has taken over.</Quest_SuppressionRebellionRebelWinDesc>
+  <Quest_SuppressionRebelplayerAffect>The insurgents will remember that your settlement tried to stop them, because of that your relationship has worsened.</Quest_SuppressionRebelplayerAffect>
+  <Quest_SuppressionRebelNonplayerAffect>Your settlement did not participate in this.</Quest_SuppressionRebelNonplayerAffect>
+  <Quest_SuppressionRebellionNewFactionTitle>The insurgents lost</Quest_SuppressionRebellionNewFactionTitle>
+  <Quest_SuppressionRebellionNewFactionDesc>The rebels could not defeat the {0}, the rebellious survivors formed their own splinter faction and called themselves {1}</Quest_SuppressionRebellionNewFactionDesc>
+  <CaravanArrivalAction_EnterToRebelMap_AlreadyStart>The insurgency has already begun</CaravanArrivalAction_EnterToRebelMap_AlreadyStart>
+  <Quest_KillOrder_CardLabel>Kill order</Quest_KillOrder_CardLabel>
+  <Quest_KillOrder_Description>{0} requests to eliminate {1} from {2} faction for silver. He marked the target's location on the world map.</Quest_KillOrder_Description>
+  <Quest_KillOrder_PlaceLabel>Target location</Quest_KillOrder_PlaceLabel>
+  <MEM_Settings_General>Event configuration</MEM_Settings_General>
+  <EventActive>Active?</EventActive>
+  <General_Title>General settings</General_Title>
+  <General_Desc>General settings</General_Desc>
+  <UseNewMapSizes_title>Activate additional world sizes</UseNewMapSizes_title>
+  <UseNewMapSizes>Activate additional world sizes (game reload required)</UseNewMapSizes>
+  <MinParts_title>Min parts</MinParts_title>
+  <MinParts>Minimum generated parts scattered around the map</MinParts>
+  <MaxParts_title>Max parts</MaxParts_title>
+  <MaxParts>Maximum generated parts scattered around the map</MaxParts>
+  <ShipCargo_Mining_MinSupply_title>Minimum mining crates</ShipCargo_Mining_MinSupply_title>
+  <ShipCargo_Mining_MinSupply>Minimum generated mining crates</ShipCargo_Mining_MinSupply>
+  <ShipCargo_Mining_MaxSupply_title>Maximum mining crates</ShipCargo_Mining_MaxSupply_title>
+  <ShipCargo_Mining_MaxSupply>Maximum generated mining crates</ShipCargo_Mining_MaxSupply>
+  <ShipCargo_Food_MinSupply_title>Minimum food crates</ShipCargo_Food_MinSupply_title>
+  <ShipCargo_Food_MinSupply>Minimum generated parts scattered around the map</ShipCargo_Food_MinSupply>
+  <ShipCargo_Food_MaxSupply_title>Maximum food crates</ShipCargo_Food_MaxSupply_title>
+  <ShipCargo_Food_MaxSupply>Maximum generated parts scattered around the map</ShipCargo_Food_MaxSupply>
+  <ShipCargo_Complex_MinSupply_title>Minimum complex crates</ShipCargo_Complex_MinSupply_title>
+  <ShipCargo_Complex_MinSupply>Minimum generated parts scattered around the map</ShipCargo_Complex_MinSupply>
+  <ShipCargo_Complex_MaxSupply_title>Maximum complex crates</ShipCargo_Complex_MaxSupply_title>
+  <ShipCargo_Complex_MaxSupply>Maximum generated parts scattered around the map</ShipCargo_Complex_MaxSupply>
+  <ShipCargo_Armory_MinSupply_title>Minimum weapons and apparels crates</ShipCargo_Armory_MinSupply_title>
+  <ShipCargo_Armory_MinSupply>Minimum generated parts scattered around the map</ShipCargo_Armory_MinSupply>
+  <ShipCargo_Armory_MaxSupply_title>Maximum weapons and apparels crates</ShipCargo_Armory_MaxSupply_title>
+  <ShipCargo_Armory_MaxSupply>Maximum generated parts scattered around the map</ShipCargo_Armory_MaxSupply>
+  <ShipCargo_Living_MinSupply_title>Minimum pawns crates</ShipCargo_Living_MinSupply_title>
+  <ShipCargo_Living_MinSupply>Minimum generated parts scattered around the map</ShipCargo_Living_MinSupply>
+  <ShipCargo_Living_MaxSupply_title>Maximum pawns crates</ShipCargo_Living_MaxSupply_title>
+  <ShipCargo_Living_MaxSupply>Maximum generated parts scattered around the map</ShipCargo_Living_MaxSupply>
+  <EnablePositive_title>Activate positive constellations (1 - yes, 0 - no)</EnablePositive_title>
+  <EnablePositive>Activate positive constellations (1 - yes, 0 - no)</EnablePositive>
+  <EnableNegative_title>Activate negative constellations (1 - yes, 0 - no)</EnableNegative_title>
+  <EnableNegative>Activate negative constellations (1 - yes, 0 - no)</EnableNegative>
+  <RaidEnemyWithAnimals_Title>Raid with animals</RaidEnemyWithAnimals_Title>
+  <RaidEnemyWithAnimals_Desc>Raid with animals</RaidEnemyWithAnimals_Desc>
+  <DoMapChange_title>Change biomes to the desert gradually (1/0)</DoMapChange_title>
+  <DoMapChange>If active (1), then every few days random tiles will change their biome to the desert</DoMapChange>
+  <Temperature_title>Temperature</Temperature_title>
+  <Temperature>Temperature</Temperature>
+</LanguageData>

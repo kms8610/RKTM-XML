@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GetHydrogen.label>Make hydrogen cylinder</GetHydrogen.label>
+  <GetHydrogen.description>Convert liquefied natural gas to hydrogen.</GetHydrogen.description>
+  <GetHydrogen.jobString>Gets hydrogen</GetHydrogen.jobString>
+  <GetLeqGasCycl.label>Make liquefied natural gas cylinder</GetLeqGasCycl.label>
+  <GetLeqGasCycl.description>Make a cylinder and fill it with liquefied natural gas</GetLeqGasCycl.description>
+  <GetLeqGasCycl.jobString>Makes a liquefied natural gas cylinder</GetLeqGasCycl.jobString>
+  <GetFuelfromCoal.label>Synthesize Chemical Fuel</GetFuelfromCoal.label>
+  <GetFuelfromCoal.description>Synthesize Chemical Fuel</GetFuelfromCoal.description>
+  <GetFuelfromCoal.jobString>Receives chemical fuel</GetFuelfromCoal.jobString>
+  <SmeltingIronIngots.label>Smelt iron ingots</SmeltingIronIngots.label>
+  <SmeltingIronIngots.description>Melt iron ore to get iron ingots.</SmeltingIronIngots.description>
+  <SmeltingIronIngots.jobString>Smelts ingots</SmeltingIronIngots.jobString>
+  <SmeltingCopperIngots.label>Smelt copper ingots</SmeltingCopperIngots.label>
+  <SmeltingCopperIngots.description>Melt copper ore to get copper ingots.</SmeltingCopperIngots.description>
+  <SmeltingCopperIngots.jobString>Smelts ingots</SmeltingCopperIngots.jobString>
+  <SmeltingNickelIngots.label>Smelt nickel ore</SmeltingNickelIngots.label>
+  <SmeltingNickelIngots.description>Melt nickel ore to get nickel ingots and cobalt ingots.</SmeltingNickelIngots.description>
+  <SmeltingNickelIngots.jobString>Smelts ingots</SmeltingNickelIngots.jobString>
+  <SmeltingPalladiumIngot.label>Smelt Palladium Ingots</SmeltingPalladiumIngot.label>
+  <SmeltingPalladiumIngot.description>Smelting a palladium ingots by combining nickel, silver and copper</SmeltingPalladiumIngot.description>
+  <SmeltingPalladiumIngot.jobString>Smelts ingots</SmeltingPalladiumIngot.jobString>
+  <SmeltingTiliumIngot.label>Smelt Tilium Ingots</SmeltingTiliumIngot.label>
+  <SmeltingTiliumIngot.description>Getting tilium ingots</SmeltingTiliumIngot.description>
+  <SmeltingTiliumIngot.jobString>Smelts ingots</SmeltingTiliumIngot.jobString>
+  <SmeltingTitanIngots.label>Smelt titan ingots</SmeltingTitanIngots.label>
+  <SmeltingTitanIngots.description>Melt ilmenite ore to get titan ingots.</SmeltingTitanIngots.description>
+  <SmeltingTitanIngots.jobString>Smelts ingots</SmeltingTitanIngots.jobString>
+  <SmeltingChorium.label>Smelt chormium</SmeltingChorium.label>
+  <SmeltingChorium.description>Melt chormium by combining iron and coke coal</SmeltingChorium.description>
+  <SmeltingChorium.jobString>Smelts ingots</SmeltingChorium.jobString>
+  <BurnWoodToCoal.label>Make charcoal</BurnWoodToCoal.label>
+  <BurnWoodToCoal.description>Get charcoal by burning wood</BurnWoodToCoal.description>
+  <BurnWoodToCoal.jobString>Making charcoal</BurnWoodToCoal.jobString>
+  <SmeltingPlasteel.label>Smelt plasteel</SmeltingPlasteel.label>
+  <SmeltingPlasteel.description>Get plasteel by combining steel, titan and cobalt</SmeltingPlasteel.description>
+  <SmeltingPlasteel.jobString>Smelting plasteel</SmeltingPlasteel.jobString>
+  <SmeltingSteel.label>Smelt steel</SmeltingSteel.label>
+  <SmeltingSteel.description>Get steel by combining iron ingot and coal</SmeltingSteel.description>
+  <SmeltingSteel.jobString>Smelting steel</SmeltingSteel.jobString>
+  <SmeltingSteelBig.label>Smelt steel (x10)</SmeltingSteelBig.label>
+  <SmeltingSteelBig.description>Get steel by combining iron ingot and coal (x10)</SmeltingSteelBig.description>
+  <SmeltingSteelBig.jobString>Smelting steel</SmeltingSteelBig.jobString>
+  <BurnCoalToCokeCoal.label>Make coke coal</BurnCoalToCokeCoal.label>
+  <BurnCoalToCokeCoal.description>Get coke coal by burning coal</BurnCoalToCokeCoal.description>
+  <BurnCoalToCokeCoal.jobString>Making coke coal</BurnCoalToCokeCoal.jobString>
+  <SmeltingTungsten.label>Get tungsten</SmeltingTungsten.label>
+  <SmeltingTungsten.description>Get tungsten ingots</SmeltingTungsten.description>
+  <SmeltingTungsten.jobString>Making tungsten ingots</SmeltingTungsten.jobString>
+  <Make_CatapultProjectile.label>make catapult projectile</Make_CatapultProjectile.label>
+  <Make_CatapultProjectile.description>Make a projectile for a catapult</Make_CatapultProjectile.description>
+  <Make_CatapultProjectile.jobString>makes projectile for catapult</Make_CatapultProjectile.jobString>
+  <Make_BallistaProjectile.label>make ballista projectile</Make_BallistaProjectile.label>
+  <Make_BallistaProjectile.description>Make a projectile for a ballista</Make_BallistaProjectile.description>
+  <Make_BallistaProjectile.jobString>makes projectile for ballista</Make_BallistaProjectile.jobString>
+</LanguageData>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ResearchSharing.label>Exchange of research experience</ResearchSharing.label>
+  <ResearchSharing.letterLabel>Exchange of research experience</ResearchSharing.letterLabel>
+  <ResearchSharing.letterText>Fraction {0} offers to exchange experience in research. Send any colonist with a research level above {1} to the nearest settlement {0} (it will be marked on the map).
+The exchange of research will take about two days, at which time your colonist will be unavailable, and when the exchange of experience is completed, you will receive {2} points for the current study.</ResearchSharing.letterText>
+  <AttackAlliedSettlement.label>Attack on an Allied Settlement</AttackAlliedSettlement.label>
+  <AttackAlliedSettlement.letterLabel>Assault on a settlement</AttackAlliedSettlement.letterLabel>
+  <AttackAlliedSettlement.letterText>The union settlement {0} of the faction {1} was attacked by {2}.
+{0} asks you for help.
+Inaction can undermine your alliance relationship.</AttackAlliedSettlement.letterText>
+  <Disease_Fibrodysplasia.label>Mass Fibrodysplasia</Disease_Fibrodysplasia.label>
+  <Disease_Fibrodysplasia.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Fibrodysplasia.letterText>
+  <Disease_NeurofibromatousWorms.label>Mass neurofibromatous worms</Disease_NeurofibromatousWorms.label>
+  <Disease_NeurofibromatousWorms.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_NeurofibromatousWorms.letterText>
+  <Supernova.label>Supernova explosion</Supernova.label>
+  <Supernova.letterLabel>Super nova</Supernova.letterLabel>
+  <Supernova.letterText>Super nova explosion</Supernova.letterText>
+  <SuperHeatWave.label>Super heat wave</SuperHeatWave.label>
+  <SuperHeatWave.letterLabel>Super hot</SuperHeatWave.letterLabel>
+  <SuperHeatWave.letterText>Very strong thermal covered the planet. It will be very hot.</SuperHeatWave.letterText>
+  <BoulderMassHit.label>Meteor rain</BoulderMassHit.label>
+  <BoulderMassHit.letterLabel>Meteor Rain</BoulderMassHit.letterLabel>
+  <BoulderMassHit.letterText>Meteor shower, all in the shelter!</BoulderMassHit.letterText>
+  <Endlessday.label>Endless day</Endlessday.label>
+  <Endlessday.letterLabel>Endlessday</Endlessday.letterLabel>
+  <Endlessday.letterText>Because of the powerful flash of a star on the planet now is the day. And nothing else.</Endlessday.letterText>
+  <LeanAtmosphere.label>Lean atmosphere</LeanAtmosphere.label>
+  <LeanAtmosphere.letterLabel>Lean atmosphere</LeanAtmosphere.letterLabel>
+  <LeanAtmosphere.letterText>As a result of the powerful release of a large amount of energy, the atmosphere of the planet is not far from the atmosphere. This will lower the temperature at night and raise during the day. In addition, there will now be an increased background radiation.</LeanAtmosphere.letterText>
+  <RadiationFon.label>Increased radiation background</RadiationFon.label>
+  <RadiationFon.letterLabel>Radiation</RadiationFon.letterLabel>
+  <RadiationFon.letterText>There is no part of the atmosphere on the planet, which is why the radiation from the stars is stronger.</RadiationFon.letterText>
+  <NoSun.label>No sun</NoSun.label>
+  <NoSun.letterLabel>No Sun</NoSun.letterLabel>
+  <NoSun.letterText>There is no star in your star system. Endless night and cold.</NoSun.letterText>
+  <DenseAtmosphere.label>Dense atmosphere</DenseAtmosphere.label>
+  <DenseAtmosphere.letterLabel>Dense atmosphere</DenseAtmosphere.letterLabel>
+  <DenseAtmosphere.letterText>The planet is very dense atmosphere, which leads to the greenhouse effect.</DenseAtmosphere.letterText>
+  <IceStorm.label>Ice Storm</IceStorm.label>
+  <IceStorm.letterLabel>Ice Storm</IceStorm.letterLabel>
+  <IceStorm.letterText>An ice storm overtook you. This storm carries incredible low temperatures and ice fragments. Do not leave the house</IceStorm.letterText>
+  <HeavyAir.label>Heavy air</HeavyAir.label>
+  <HeavyAir.letterLabel>Heavy air</HeavyAir.letterLabel>
+  <HeavyAir.letterText>Air flows brought a large amount of heavy gases, they make breathing difficult and poison the body, you need to wait a couple of days</HeavyAir.letterText>
+  <MechanoidPortal.label>Mechanoid portal</MechanoidPortal.label>
+  <MechanoidPortal.letterLabel>Mechanoid portal!</MechanoidPortal.letterLabel>
+  <MechanoidPortal.letterText>A mysterious fragment has fallen from the sky, which generates a teleport from this appearance of a mechano-weapon. The portal itself is not destroyed, but if you break the generator, then the portal will disappear.</MechanoidPortal.letterText>
+  <BeetleRush.label>Hive!</BeetleRush.label>
+  <BeetleRush.letterLabel>Hive!</BeetleRush.letterLabel>
+  <BeetleRush.letterText>Cave beetles dug a tunnel out of their hive. They will go out until you close the passage.</BeetleRush.letterText>
+  <DestroyRoad.label>Undermining the road</DestroyRoad.label>
+  <DestroyRoad.letterLabel>Undermining the road</DestroyRoad.letterLabel>
+  <DestroyRoad.letterText>A small detachment of robbers blew one of the roads.</DestroyRoad.letterText>
+  <ShipCrash.label>Ship wrech</ShipCrash.label>
+  <ShipCrash.letterLabel>Ship wrech</ShipCrash.letterLabel>
+  <ShipCrash.letterText>Unknown ship crashed. Many pieces were scattered around the planet. You can research them to get resources or find new technologies.</ShipCrash.letterText>
+  <SandStorm.label>Sand storm</SandStorm.label>
+  <SandStorm.letterLabel>Sand storm</SandStorm.letterLabel>
+  <SandStorm.letterText>A sandstorm is coming. During this time, will be reduced visibility, speed.</SandStorm.letterText>
+  <ClimateBomb.label>Climate bomb detected</ClimateBomb.label>
+  <ClimateBomb.letterLabel>Climate bomb detected</ClimateBomb.letterLabel>
+  <ClimateBomb.letterText>Location detected climate bomb. Who laid it - is unknown, but one thing is clear: if it is not defused, the climate will go craz</ClimateBomb.letterText>
+  <ClimateChaos.label>Climate chaos</ClimateChaos.label>
+  <ClimateChaos.letterLabel>Climate chaos</ClimateChaos.letterLabel>
+  <ClimateChaos.letterText>Due to the powerful release of energy, a climatic shift has occurred. The constant change of weather and weather disasters.</ClimateChaos.letterText>
+  <IonizedAtmosphere.label>Ionized atmosphere</IonizedAtmosphere.label>
+  <IonizedAtmosphere.letterLabel>Ionized atmosphere</IonizedAtmosphere.letterLabel>
+  <IonizedAtmosphere.letterText>The ionosphere layer is significantly larger than ever. This increases the chance of thunderstorms.</IonizedAtmosphere.letterText>
+  <RimOverhaul_Earthquake.label>Earthquake</RimOverhaul_Earthquake.label>
+  <RimOverhaul_Earthquake.letterLabel>Earthquake!</RimOverhaul_Earthquake.letterLabel>
+  <RimOverhaul_Earthquake.letterText>An earthquake began, everyone in the shelter!</RimOverhaul_Earthquake.letterText>
+  <SiegeCamp.label>Siege camp</SiegeCamp.label>
+  <SiegeCamp.letterLabel>Siege camp</SiegeCamp.letterLabel>
+  <SiegeCamp.letterText>The enemy camp was set up near your settlement. They will raid and bombard your settlement until you destroy them.</SiegeCamp.letterText>
+  <AttackFriendlySettlement.label>Attack on a friendly settlement</AttackFriendlySettlement.label>
+  <AttackFriendlySettlement.letterLabel>Attack on a friendly settlement</AttackFriendlySettlement.letterLabel>
+  <AttackFriendlySettlement.letterText>A friendly settlement scout reports that one of the hostile factions is preparing an attack on them. They ask you for help in defense.</AttackFriendlySettlement.letterText>
+  <Constellations.label>Constellations</Constellations.label>
+  <Constellations.letterLabel>Constellations</Constellations.letterLabel>
+  <Constellations.letterText>Constellations</Constellations.letterText>
+  <MineralMeteorite.label>Mineral meteorite</MineralMeteorite.label>
+  <MineralMeteorite.letterLabel>Mineral meteorite</MineralMeteorite.letterLabel>
+  <MineralMeteorite.letterText>A large meteorite consisting of minerals entered the atmosphere.</MineralMeteorite.letterText>
+  <DropAnimalInsanity.label>Mineral meteorite</DropAnimalInsanity.label>
+  <DropAnimalInsanity.letterLabel>Landing insanity animals</DropAnimalInsanity.letterLabel>
+  <DropAnimalInsanity.letterText>Enemy settlement sent capsules with crazy animals.</DropAnimalInsanity.letterText>
+  <HungryCannibalRaid.label>Hungry cannibal raid</HungryCannibalRaid.label>
+  <HungryCannibalRaid.letterLabel>Hungry cannibals!</HungryCannibalRaid.letterLabel>
+  <HungryCannibalRaid.letterText>A tribe of cannibals attacks the settlement from all sides! They don't need captives, they need human meat</HungryCannibalRaid.letterText>
+  <DoomsdayUltimatum.label>Doomsday Ultimatum</DoomsdayUltimatum.label>
+  <DoomsdayUltimatum.letterLabel>Doomsday Ultimatum</DoomsdayUltimatum.letterLabel>
+  <DoomsdayUltimatum.letterText>The enemy faction reports that it has a weapon capable of destroying the planet. She makes demands: 50,000 silver.
+You can start collecting silver together with other factions or organize an assault.</DoomsdayUltimatum.letterText>
+  <Arsonists.label>Arsonists</Arsonists.label>
+  <Arsonists.letterLabel>Arsonists</Arsonists.letterLabel>
+  <Arsonists.letterText>Several fighters of the enemy faction have arrived to burn your forest.</Arsonists.letterText>
+  <UnifiedRaid.label>Unified raid</UnifiedRaid.label>
+  <UnifiedRaid.letterLabel>Unified raid</UnifiedRaid.letterLabel>
+  <UnifiedRaid.letterText>Two hostile groups decided to join forces and attack the colony.</UnifiedRaid.letterText>
+  <Quest_ResourceHelp.label>Request for resources</Quest_ResourceHelp.label>
+  <Quest_ResourceHelp.letterLabel>Request for resources</Quest_ResourceHelp.letterLabel>
+  <Quest_ResourceHelp.letterText>One of the factions is requesting resources to build their settlement.
+
+You can contact them via geocape.
+		</Quest_ResourceHelp.letterText>
+  <Quest_BuildNewBase.label>Build a new base</Quest_BuildNewBase.label>
+  <Quest_BuildNewBase.letterLabel>Request for resources</Quest_BuildNewBase.letterLabel>
+  <Quest_BuildNewBase.letterText>The {0} faction is going to build a new base, and it needs help in the form of manpower. They ask you for several colonists for a couple of days.
+
+You can contact them via geocape.
+		</Quest_BuildNewBase.letterText>
+  <Quest_MissingPeople.label>Missing people</Quest_MissingPeople.label>
+  <Quest_MissingPeople.letterLabel>Missing people</Quest_MissingPeople.letterLabel>
+  <Quest_MissingPeople.letterText>The leader of the faction {0} contacted us and reported that a couple of days ago a small group of their settlers went on a journey to get resources. Estimated time of their journey was estimated at {1} days. More than {2} days passed, but the settlers never returned. Attempts to get in touch have failed and they are worried that the settlers might get lost or be attacked. \nThe food intakes they had enough will last for about {3} days, after which they will starve. He asks us to find the missing settlers and return them to them.
+		</Quest_MissingPeople.letterText>
+  <Psychogas.label>Psychogas</Psychogas.label>
+  <Psychogas.letterLabel>Psychogas</Psychogas.letterLabel>
+  <Psychogas.letterText>Someone has released tons of mind-altering chemicals into the air, so everyone who is in the open air will lose their sanity.</Psychogas.letterText>
+  <RaidEnemyWithAnimals.label>enemy raid</RaidEnemyWithAnimals.label>
+  <Disease_ZeroMechanites.label>Zero mechanites</Disease_ZeroMechanites.label>
+  <Disease_ZeroMechanites.letterLabel>Disease (Zero mechanites)</Disease_ZeroMechanites.letterLabel>
+  <SummerSolstice.label>Summer solstice</SummerSolstice.label>
+  <SummerSolstice.letterLabel>Summer solstice</SummerSolstice.letterLabel>
+  <SummerSolstice.letterText>The longest day. Your colonists got a positive charge!</SummerSolstice.letterText>
+  <Pocahontas.label>Pocahontas</Pocahontas.label>
+  <Pocahontas.letterLabel>Pocahontas</Pocahontas.letterLabel>
+  <Pocahontas.letterText>Settlement {0} from faction {1} offers you {2} to live together. \nIf you accept their offer, {2} will live with you, and you will also improve the relationship between you.
+If you refuse, the relationship between you will deteriorate.
+
+{2} is described as:
+{3}
+
+
+{4}
+		</Pocahontas.letterText>
+  <SeaAir.label>Sea air</SeaAir.label>
+  <SeaAir.letterLabel>Sea air</SeaAir.letterLabel>
+  <SeaAir.letterText>Blowing unusually fresh sea air! The settlers feel much better!</SeaAir.letterText>
+  <MountainAir.label>Mountain air</MountainAir.label>
+  <MountainAir.letterLabel>Mountain air</MountainAir.letterLabel>
+  <MountainAir.letterText>A breath of fresh mountain air</MountainAir.letterText>
+  <AmbushTwoFactions.label>Shooting of two factions</AmbushTwoFactions.label>
+  <AmbushTwoFactions.letterText>{0} got into a shootout between factions {1} and {2}</AmbushTwoFactions.letterText>
+  <AmbushTwoFactions.letterLabel>Shooting of two factions</AmbushTwoFactions.letterLabel>
+  <Quest_KillLeader.label>Order to kill an enemy leader</Quest_KillLeader.label>
+  <Quest_KillLeader.letterLabel>Order to kill an enemy leader</Quest_KillLeader.letterLabel>
+  <Quest_KillLeader.letterText>{0} talks about the enemy leader-dictator {1} from faction {2}, who may threaten of their settlement and asks you to eliminate it. He marked the place on the world map.
+The information that an assassination attempt is being prepared for him could already have been scattered around all edges of the world, therefore, it is necessary to act as soon as possible.
+
+You can contact them via geocape.
+		</Quest_KillLeader.letterText>
+  <Quest_SuppressionRebellion.label>Suppression of insurgency</Quest_SuppressionRebellion.label>
+  <Quest_SuppressionRebellion.letterLabel>Suppression of insurgency</Quest_SuppressionRebellion.letterLabel>
+  <Quest_SuppressionRebellion.letterText>{0} said that in the settlement of {1} faction of {2} insurgency began. The rebels demand independence. They staged multiple pogroms, killed several civilians. The soldiers of the settlement of {1} were able to push them away from the settlement, but they are gaining strength and will attack again.
+{0} asks you to help suppress the rebellion.
+
+You can contact them via geocape.
+		</Quest_SuppressionRebellion.letterText>
+  <RimOverhaul_SpaceBattle.label>Space battle</RimOverhaul_SpaceBattle.label>
+  <RimOverhaul_SpaceBattle.letterLabel>Space battle</RimOverhaul_SpaceBattle.letterLabel>
+  <RimOverhaul_SpaceBattle.letterText>Two unknown factions staged a space battle near your planet. During this time, the spaceships will fall on the planet, in which there may be something interesting, as well as
+overshoot shells may fall.</RimOverhaul_SpaceBattle.letterText>
+  <Quest_KillOrder.label>Kill order</Quest_KillOrder.label>
+  <Quest_KillOrder.letterLabel>Kill order</Quest_KillOrder.letterLabel>
+  <Quest_KillOrder.letterText>{0} requests to eliminate {1} from {2} faction for silver. He marked the place on the world map.
+
+You can contact them via geocape.
+		</Quest_KillOrder.letterText>
+  <ConcantrationCamp.label>Concentration camp</ConcantrationCamp.label>
+  <ConcantrationCamp.letterLabel>Concentration camp</ConcantrationCamp.letterLabel>
+  <ConcantrationCamp.letterText>Unknown person contacts you. Out of breath, but still having the strength, he tells you about a concentration camp set up by pirates. He quickly sends you the coordinates and asks to help him and the others get out of it.
+
+You can see event in geocape.
+		</ConcantrationCamp.letterText>
+  <TunnelRats.label>Tunnel rats</TunnelRats.label>
+  <TunnelRats.letterLabel>Tunnel rats</TunnelRats.letterLabel>
+  <TunnelRats.letterText>The Aboriginal faction dug a tunnel to your base. They will climb out of it until you bury it.
+
+(to bury the tunnel, equip the pawn with grenades, select it and click RMB on the tunnel)
+		</TunnelRats.letterText>
+  <HighMutantPopulation.label>High mutant population</HighMutantPopulation.label>
+  <HighMutantPopulation.letterLabel>High mutant population</HighMutantPopulation.letterLabel>
+  <HighMutantPopulation.letterText>The population of mutants has sharply increased on the planet. They do not need prisoners, they only want one thing - to kill.
+Until the population drops, the risk of mutant attacks is very high.</HighMutantPopulation.letterText>
+  <Fair.label>Fair!</Fair.label>
+  <Fair.letterLabel>Fair!</Fair.letterLabel>
+  <Fair.letterText>You were invited to a fair where there will be a lot of traders (from factions whose relations are either neutral or friendly).
+
+You can see event in geocape.
+		</Fair.letterText>
+  <ExplosiveFever.label>Explosive fever!</ExplosiveFever.label>
+  <ExplosiveFever.letterLabel>Fair!</ExplosiveFever.letterLabel>
+  <ExplosiveFever.letterText>The Boomalops in these places spread explosive fever. If it cannot be cured in time, then the infected part may explode!</ExplosiveFever.letterText>
+  <GlacialPeriod.label>Glacial period</GlacialPeriod.label>
+  <GlacialPeriod.letterLabel>Glacial period</GlacialPeriod.letterLabel>
+  <GlacialPeriod.letterText>The glacial period begins on the planet. Every few days the temperature will drop and the whole planet will turn into a glacier.</GlacialPeriod.letterText>
+  <ActiveStar.label>Active star</ActiveStar.label>
+  <ActiveStar.letterLabel>Active star</ActiveStar.letterLabel>
+  <ActiveStar.letterText>The main star in your system is very active, it throws out powerful bursts of energy that cause fever and burns to everyone who is in the open during a burst.</ActiveStar.letterText>
+  <Competitions.label>Competitions</Competitions.label>
+  <Competitions.letterLabel>Competitions</Competitions.letterLabel>
+  <Competitions.letterText>Competitions on {0} have begun. The winner will receive a reward in the amount of {1}.
+
+To participate in the competition you need a settler with skill {0} not lower than {2} level. Form a caravan and send it to the competitions mark.
+
+You can also bribe the judges, which will give you extra points (use the geoscape). However, the fact that you bribed judges can be revealed and then relations with other factions will be reduced.</Competitions.letterText>
+  <MassBurial.label>Mass burial</MassBurial.label>
+  <MassBurial.letterLabel>Mass burial</MassBurial.letterLabel>
+  <MassBurial.letterText>Your caravan has discovered an mass grave. According to the patch of one of the corpses, it is clear that this is the burial of the fraction {0}.
+
+If you enter it, then your relationship with the faction will be reduced, and they will most likely send a group.</MassBurial.letterText>
+  <PlaceBattle.label>Place of battle</PlaceBattle.label>
+  <PlaceBattle.letterLabel>Place of battle</PlaceBattle.letterLabel>
+  <PlaceBattle.letterText>Not far from the settlement is visible black, thick smoke. This seems to be the site of a recent battle.
+You can see what is there and rob the remaining corpses, but you need to be careful, because there can be enemies.</PlaceBattle.letterText>
+  <Quest_PrisonShipAccident.label>Prison ship accident</Quest_PrisonShipAccident.label>
+  <Quest_PrisonShipAccident.letterLabel>Prison ship accident</Quest_PrisonShipAccident.letterLabel>
+  <Quest_PrisonShipAccident.letterText>An accident occurred on a galactic security prison ship, as a result of which several capsules with prisoners fell onto the planet.
+You can find and catch them, then return them to the ship and get a reward, or try to recruit them. But, probably, they will have many bad traits, such as cannibalism, psychopath and others.
+
+You can contact them via geocape.</Quest_PrisonShipAccident.letterText>
+</LanguageData>
