@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Morph.label>morph</Morph.label>
-  <PawnmorpherSlave.label>slave</PawnmorpherSlave.label>
-  <PMEnclaveVillager.label>enclave villager</PMEnclaveVillager.label>
-  <PMEnclaveTown_Guard.label>enclave guard</PMEnclaveTown_Guard.label>
-  <PMEnclaveTown_Trader.label>enclave trader</PMEnclaveTown_Trader.label>
-  <PMEnclaveTown_Councilman.label>enclave councilman</PMEnclaveTown_Councilman.label>
-  <PMEnclaveTown_Councilman.labelPlural>enclave councilmen</PMEnclaveTown_Councilman.labelPlural>
-  <PMEnclaveMercenary.label>enclave freedom fighter</PMEnclaveMercenary.label>
-  <PMEnclaveMercenary.labelPlural>enclave freedom fighters</PMEnclaveMercenary.labelPlural>
-  <PMEnclaveHeavyMercenary.label>enclave guerilla</PMEnclaveHeavyMercenary.label>
-  <PMEnclaveHeavyMercenary.labelPlural>enclave guerillas</PMEnclaveHeavyMercenary.labelPlural>
-  <PMEnclaveEliteMercenary.label>enclave enforcer</PMEnclaveEliteMercenary.label>
-  <PMEnclaveEliteMercenary.labelPlural>enclave enforcers</PMEnclaveEliteMercenary.labelPlural>
-  <EtherHellhound.label>hellhound</EtherHellhound.label>
-  <EtherHellhound.lifeStages.0.label>warg puppy</EtherHellhound.lifeStages.0.label>
-  <EtherHellhound.lifeStages.0.labelPlural>warg puppies</EtherHellhound.lifeStages.0.labelPlural>
   <Chaocow.label>Chaocow</Chaocow.label>
   <Chaocow.labelMale>Chaobull</Chaocow.labelMale>
   <Chaocow.labelFemale>Chaocow</Chaocow.labelFemale>
@@ -61,4 +45,20 @@
   <ChaofusionRhino.labelFemale>Chaofusion</ChaofusionRhino.labelFemale>
   <ChaofusionRhino.lifeStages.0.label>foal</ChaofusionRhino.lifeStages.0.label>
   <ChaofusionRhino.lifeStages.0.labelPlural>foals</ChaofusionRhino.lifeStages.0.labelPlural>
+  <Morph.label>morph</Morph.label>
+  <PawnmorpherSlave.label>slave</PawnmorpherSlave.label>
+  <PMEnclaveVillager.label>enclave villager</PMEnclaveVillager.label>
+  <PMEnclaveTown_Guard.label>enclave guard</PMEnclaveTown_Guard.label>
+  <PMEnclaveTown_Trader.label>enclave trader</PMEnclaveTown_Trader.label>
+  <PMEnclaveTown_Councilman.label>enclave councilman</PMEnclaveTown_Councilman.label>
+  <PMEnclaveTown_Councilman.labelPlural>enclave councilmen</PMEnclaveTown_Councilman.labelPlural>
+  <PMEnclaveMercenary.label>enclave freedom fighter</PMEnclaveMercenary.label>
+  <PMEnclaveMercenary.labelPlural>enclave freedom fighters</PMEnclaveMercenary.labelPlural>
+  <PMEnclaveHeavyMercenary.label>enclave guerilla</PMEnclaveHeavyMercenary.label>
+  <PMEnclaveHeavyMercenary.labelPlural>enclave guerillas</PMEnclaveHeavyMercenary.labelPlural>
+  <PMEnclaveEliteMercenary.label>enclave enforcer</PMEnclaveEliteMercenary.label>
+  <PMEnclaveEliteMercenary.labelPlural>enclave enforcers</PMEnclaveEliteMercenary.labelPlural>
+  <EtherHellhound.label>hellhound</EtherHellhound.label>
+  <EtherHellhound.lifeStages.0.label>warg puppy</EtherHellhound.lifeStages.0.label>
+  <EtherHellhound.lifeStages.0.labelPlural>warg puppies</EtherHellhound.lifeStages.0.labelPlural>
 </LanguageData>

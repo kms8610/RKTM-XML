@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RecruitSapientFormerHuman.label>recruit former human</RecruitSapientFormerHuman.label>
-  <RecruitSapientFormerHuman.verb>recruit</RecruitSapientFormerHuman.verb>
-  <RecruitSapientFormerHuman.gerund>recruiting</RecruitSapientFormerHuman.gerund>
-  <DoBillsProduceMutagen.label>synthesize mutagen</DoBillsProduceMutagen.label>
-  <DoBillsProduceMutagen.verb>produce mutagen</DoBillsProduceMutagen.verb>
-  <DoBillsProduceMutagen.gerund>producing mutagen at</DoBillsProduceMutagen.gerund>
   <DoBillsProduceSyringes.label>making syringes</DoBillsProduceSyringes.label>
   <DoBillsProduceSyringes.verb>produce syringe</DoBillsProduceSyringes.verb>
   <DoBillsProduceSyringes.gerund>producing syringe at</DoBillsProduceSyringes.gerund>
   <PM_TransformPrisoner.label>transform prisoners</PM_TransformPrisoner.label>
   <PM_TransformPrisoner.verb>transform</PM_TransformPrisoner.verb>
   <PM_TransformPrisoner.gerund>transforming</PM_TransformPrisoner.gerund>
+  <PM_OperateMutationSequencer.label>operate mutation sequencer scanner</PM_OperateMutationSequencer.label>
+  <PM_OperateMutationSequencer.verb>sequencing</PM_OperateMutationSequencer.verb>
+  <PM_OperateMutationSequencer.gerund>sequencing at</PM_OperateMutationSequencer.gerund>
+  <RecruitSapientFormerHuman.label>recruit former human</RecruitSapientFormerHuman.label>
+  <RecruitSapientFormerHuman.verb>recruit</RecruitSapientFormerHuman.verb>
+  <RecruitSapientFormerHuman.gerund>recruiting</RecruitSapientFormerHuman.gerund>
+  <DoBillsProduceMutagen.label>synthesize mutagen</DoBillsProduceMutagen.label>
+  <DoBillsProduceMutagen.verb>produce mutagen</DoBillsProduceMutagen.verb>
+  <DoBillsProduceMutagen.gerund>producing mutagen at</DoBillsProduceMutagen.gerund>
 </LanguageData>

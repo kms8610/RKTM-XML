@@ -7,6 +7,7 @@
   <CentrifugeNormalYield>Normal Yield</CentrifugeNormalYield>
   <CentrifugeRunningText>{0} done</CentrifugeRunningText>
   <MutaniteCentrifugeNotActive>inactive, need: {0} more {1}</MutaniteCentrifugeNotActive>
+  <PMMutaniteCentrifugeNotActive>inactive, {0} filled</PMMutaniteCentrifugeNotActive>
   <MutaniteCentrifugeReadyToStart>ready to start</MutaniteCentrifugeReadyToStart>
   <NotEnoughStorageSpaceToTagPK>there is not enough storage to tag {0}</NotEnoughStorageSpaceToTagPK>
   <AlreadyTaggedAnimal>{0} already in genetic database</AlreadyTaggedAnimal>
@@ -141,7 +142,7 @@
   <PMTagGizmoLabel>Tag Animal</PMTagGizmoLabel>
   <PMTagGizmoDescription>tag an animal</PMTagGizmoDescription>
   <CannotTagFormerHuman>Due to mechanite contamination, this animal cannot be tagged</CannotTagFormerHuman>
-  <PMMutationTagged>{num} mutations gathered from {animal}</PMMutationTagged>
+  <PMMutationTagged>mutation "{mutation}" sequenced from {animal}</PMMutationTagged>
   <PMNothingTaggable>{animal} has nothing worth recording</PMNothingTaggable>
   <PMMutationNotEnoughSpace>{animal} has mutations that can be recorded but not enough space to store them</PMMutationNotEnoughSpace>
   <PMAnimalAddedToDatabase>{animal} added to the genebank database</PMAnimalAddedToDatabase>

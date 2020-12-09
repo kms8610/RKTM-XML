@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <EtherThrumboSnout.label>thrumbo snout</EtherThrumboSnout.label>
+  <EtherThrumboSnout.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze.</EtherThrumboSnout.description>
+  <EtherThrumboSnout.stages.0.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze, though talking is much harder.</EtherThrumboSnout.stages.0.description>
+  <EtherThrumboSnout.stages.0.label>bestial</EtherThrumboSnout.stages.0.label>
+  <EtherThrumboSnout.stages.1.labelOverride>pressing out</EtherThrumboSnout.stages.1.labelOverride>
+  <EtherThrumboSnout.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherThrumboSnout.stages.1.description>
+  <EtherThrumboSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze.</EtherThrumboSnout.stages.2.description>
+  <EtherThrumboSnout.stages.3.label>adapted</EtherThrumboSnout.stages.3.label>
+  <EtherThrumboSnout.stages.3.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze. Adaptation has removed most of the difficulty with speaking.</EtherThrumboSnout.stages.3.description>
+  <EtherThrumboSnout.stages.4.label>paragon</EtherThrumboSnout.stages.4.label>
+  <EtherThrumboSnout.stages.4.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze. Further adaptation has brought out the wise thrumbo inside.</EtherThrumboSnout.stages.4.description>
+  <EtherThrumboSnout.comps.0.tools.0.label>teeth</EtherThrumboSnout.comps.0.tools.0.label>
+  <EtherThrumboEar.label>thrumbic</EtherThrumboEar.label>
+  <EtherThrumboEar.description>I didn't know thrumbos had ears, but [PAWN_nameDef] has put that question to rest. Yes, they do — white-furred, rounded and beautiful.</EtherThrumboEar.description>
+  <EtherThrumboTail.label>thrumbo tail</EtherThrumboTail.label>
+  <EtherThrumboTail.description>A fluffy thrumbo tail, coated in supple, sleek fur.</EtherThrumboTail.description>
+  <EtherThrumboHorn.label>thrumbohorn</EtherThrumboHorn.label>
+  <EtherThrumboHorn.description>A razor-sharp thrumbo horn decorates [PAWN_nameDef]'s head.</EtherThrumboHorn.description>
+  <EtherThrumboHorn.stages.0.label>dull</EtherThrumboHorn.stages.0.label>
+  <EtherThrumboHorn.stages.0.description>A sharp thrumbo horn decorates [PAWN_nameDef]'s head. It has grown dull and rough. While still a formidable weapon, it makes [PAWN_objective] look misshapen and sickly.</EtherThrumboHorn.stages.0.description>
+  <EtherThrumboHorn.stages.2.label>shiny</EtherThrumboHorn.stages.2.label>
+  <EtherThrumboHorn.stages.2.description>A razor-sharp thrumbo horn decorates [PAWN_nameDef]'s head. It has also has taken on a pearly white sheen, charming those around [PAWN_objective] with its beauty.</EtherThrumboHorn.stages.2.description>
+  <EtherThrumboHorn.comps.0.tools.0.label>point</EtherThrumboHorn.comps.0.tools.0.label>
+  <EtherThrumboHorn.comps.0.tools.1.label>base</EtherThrumboHorn.comps.0.tools.1.label>
   <EtherWing.label>wing</EtherWing.label>
   <EtherWing.description>An avian wing.</EtherWing.description>
   <EtherWing.stages.0.label>unfamiliar</EtherWing.stages.0.label>
@@ -917,40 +941,4 @@
   <EtherWolfMuzzle.stages.4.label>paragon</EtherWolfMuzzle.stages.4.label>
   <EtherWolfMuzzle.stages.4.description>An imposing snout graces [PAWN_nameDef]'s face, like that of a great canine. [PAWN_possessive] teeth are pointed to suit, so eating is easier. Animals seem to find [PAWN_possessive] intimidating and are less likely to disobey [PAWN_possessive].</EtherWolfMuzzle.stages.4.description>
   <EtherWolfMuzzle.comps.0.tools.0.label>teeth</EtherWolfMuzzle.comps.0.tools.0.label>
-  <ThrumboFur.label>thick fur</ThrumboFur.label>
-  <ThrumboFur.description>A heavy coat of fur drapes across this limb, insulating a lot of heat.</ThrumboFur.description>
-  <ThrumboFur.stages.0.labelOverride>light hair</ThrumboFur.stages.0.labelOverride>
-  <ThrumboFur.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</ThrumboFur.stages.0.description>
-  <ThrumboFur.stages.1.labelOverride>thin fur</ThrumboFur.stages.1.labelOverride>
-  <ThrumboFur.stages.1.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</ThrumboFur.stages.1.description>
-  <ThrumboFur.stages.2.labelOverride>fur patches</ThrumboFur.stages.2.labelOverride>
-  <ThrumboFur.stages.2.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</ThrumboFur.stages.2.description>
-  <ThrumboFur.stages.3.labelOverride>dense fur</ThrumboFur.stages.3.labelOverride>
-  <ThrumboFur.stages.3.description>The fur has become denser on [PAWN_nameDef]'s limb, making the skin underneath hard to see.</ThrumboFur.stages.3.description>
-  <ThrumboFur.stages.4.labelOverride>thickly furred</ThrumboFur.stages.4.labelOverride>
-  <ThrumboFur.stages.4.description>The fur drapes [PAWN_nameDef]'s limb entirely. It's quite heavy and rather warm.</ThrumboFur.stages.4.description>
-  <EtherThrumboSnout.label>thrumbo snout</EtherThrumboSnout.label>
-  <EtherThrumboSnout.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze.</EtherThrumboSnout.description>
-  <EtherThrumboSnout.stages.0.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze, though talking is much harder.</EtherThrumboSnout.stages.0.description>
-  <EtherThrumboSnout.stages.0.label>bestial</EtherThrumboSnout.stages.0.label>
-  <EtherThrumboSnout.stages.1.labelOverride>pressing out</EtherThrumboSnout.stages.1.labelOverride>
-  <EtherThrumboSnout.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</EtherThrumboSnout.stages.1.description>
-  <EtherThrumboSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze.</EtherThrumboSnout.stages.2.description>
-  <EtherThrumboSnout.stages.3.label>adapted</EtherThrumboSnout.stages.3.label>
-  <EtherThrumboSnout.stages.3.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze. Adaptation has removed most of the difficulty with speaking.</EtherThrumboSnout.stages.3.description>
-  <EtherThrumboSnout.stages.4.label>paragon</EtherThrumboSnout.stages.4.label>
-  <EtherThrumboSnout.stages.4.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze. Further adaptation has brought out the wise thrumbo inside.</EtherThrumboSnout.stages.4.description>
-  <EtherThrumboSnout.comps.0.tools.0.label>teeth</EtherThrumboSnout.comps.0.tools.0.label>
-  <EtherThrumboEar.label>thrumbic</EtherThrumboEar.label>
-  <EtherThrumboEar.description>I didn't know thrumbos had ears, but [PAWN_nameDef] has put that question to rest. Yes, they do — white-furred, rounded and beautiful.</EtherThrumboEar.description>
-  <EtherThrumboTail.label>thrumbo tail</EtherThrumboTail.label>
-  <EtherThrumboTail.description>A fluffy thrumbo tail, coated in supple, sleek fur.</EtherThrumboTail.description>
-  <EtherThrumboHorn.label>thrumbohorn</EtherThrumboHorn.label>
-  <EtherThrumboHorn.description>A razor-sharp thrumbo horn decorates [PAWN_nameDef]'s head.</EtherThrumboHorn.description>
-  <EtherThrumboHorn.stages.0.label>dull</EtherThrumboHorn.stages.0.label>
-  <EtherThrumboHorn.stages.0.description>A sharp thrumbo horn decorates [PAWN_nameDef]'s head. It has grown dull and rough. While still a formidable weapon, it makes [PAWN_objective] look misshapen and sickly.</EtherThrumboHorn.stages.0.description>
-  <EtherThrumboHorn.stages.2.label>shiny</EtherThrumboHorn.stages.2.label>
-  <EtherThrumboHorn.stages.2.description>A razor-sharp thrumbo horn decorates [PAWN_nameDef]'s head. It has also has taken on a pearly white sheen, charming those around [PAWN_objective] with its beauty.</EtherThrumboHorn.stages.2.description>
-  <EtherThrumboHorn.comps.0.tools.0.label>point</EtherThrumboHorn.comps.0.tools.0.label>
-  <EtherThrumboHorn.comps.0.tools.1.label>base</EtherThrumboHorn.comps.0.tools.1.label>
 </LanguageData>
