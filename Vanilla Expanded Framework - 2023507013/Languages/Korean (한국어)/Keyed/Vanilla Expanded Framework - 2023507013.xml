@@ -69,6 +69,8 @@
   <IP_TempRangeInThisMachine>. This fermenter needs a temperature between {0} and {1} ºC</IP_TempRangeInThisMachine>
   <IP_TogglePause>Pause / Restart</IP_TogglePause>
   <IP_TogglePauseDesc>Pause / Restart this machine's processing</IP_TogglePauseDesc>
+  <IP_OverThreshold> Waiting for output to clear. Output limit is {0}</IP_OverThreshold>
+  <IP_NoRecipesHere>No modded recipes found for this factory</IP_NoRecipesHere>
   <VanillaFactionsExpanded.EquipShield>Equip {0} as shield</VanillaFactionsExpanded.EquipShield>
   <VanillaFactionsExpanded.EquipWarningShieldUnusable>(unusable with {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
   <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} will be unusable)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
