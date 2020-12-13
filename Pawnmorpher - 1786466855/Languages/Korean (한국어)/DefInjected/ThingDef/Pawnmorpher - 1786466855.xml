@@ -96,7 +96,7 @@
   <PM_SlurryPipe.label>slurry pipe</PM_SlurryPipe.label>
   <PM_SlurryPipe.description>A pipe that transmits slurry gas.</PM_SlurryPipe.description>
   <MutaniteCentrifuge.label>mutanite centrifuge</MutaniteCentrifuge.label>
-  <MutaniteCentrifuge.description>When mutagenic resources are placed next to it in hoppers, the centrifuge compresses the mechanites extracted from them into mutanite. Consumes a lot of power. Resources are placed in the side chambers and separated into their individual components via centrifuge, before the mechanites are strained out through a morphsilk filter and pumped into the large chamber for slow compression.\n\nThe process is quite lossy. The ratios are:\n Slurry - 10:1\n Chookmorph eggs - 30:1 \n Cowmorph milk - 30:1\n Chaobulb seedpods - 40:1</MutaniteCentrifuge.description>
+  <MutaniteCentrifuge.description>When mutagenic slurry is piped in, the centrifuge compresses the mechanites extracted from them into mutanite. Consumes a lot of power. Resources are placed in the side chambers and separated into their individual components via centrifuge, before the mechanites are strained out through a morphsilk filter and pumped into the large chamber for slow compression.\n\nThe process is quite lossy.</MutaniteCentrifuge.description>
   <Gas_Mutagen.label>mutagen cloud</Gas_Mutagen.label>
   <Mutarifle.label>mutarifle</Mutarifle.label>
   <Mutarifle.description>A rifle that fires balls of jellied mutanite, which mutate on contact.</Mutarifle.description>
@@ -281,8 +281,6 @@
   <CrashedMutagenicShipPart.label>ship part (mutagenic)</CrashedMutagenicShipPart.label>
   <CrashedMutagenicShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to have mutagenic effects.</CrashedMutagenicShipPart.description>
   <CrashedMutagenicShipPartIncoming.label>crashed ship part (incoming)</CrashedMutagenicShipPartIncoming.label>
-  <MutagenHopper.label>mutagen hopper</MutagenHopper.label>
-  <MutagenHopper.description>Holds resources for use by machines like nutrient paste dispensers.</MutagenHopper.description>
   <MutagenLab.label>mutagen lab</MutagenLab.label>
   <MutagenLab.description>A work bench equipped with more advanced components for creating and reverse-engineering mechanite mutagens.</MutagenLab.description>
   <TrapIED_TF.label>IED mutagen trap</TrapIED_TF.label>
