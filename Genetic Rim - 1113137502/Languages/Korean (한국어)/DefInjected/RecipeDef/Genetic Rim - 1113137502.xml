@@ -729,4 +729,16 @@
   <GR_InstallIguanaScales.label>&lt;color=#E89D1B>install iguana scales&lt;/color></GR_InstallIguanaScales.label>
   <GR_InstallIguanaScales.description>Installs iguana scales.</GR_InstallIguanaScales.description>
   <GR_InstallIguanaScales.jobString>Installing iguana scales.</GR_InstallIguanaScales.jobString>
+  <GR_PulpBones.label>extract organic pulp from bones</GR_PulpBones.label>
+  <GR_PulpBones.description>Extract organic pulp from bones. You can get bones from butchering living creatures.</GR_PulpBones.description>
+  <GR_PulpBones.jobString>Extracting Pulp</GR_PulpBones.jobString>
+  <GR_RecombineDroneGenome.label>recombine drone genome</GR_RecombineDroneGenome.label>
+  <GR_RecombineDroneGenome.description>Recombine normal insectoid genetic material to get specialized Drone Genomes.</GR_RecombineDroneGenome.description>
+  <GR_RecombineDroneGenome.jobString>Recombining Drone Genome</GR_RecombineDroneGenome.jobString>
+  <GR_RecombineWarriorGenome.label>recombine warrior genome</GR_RecombineWarriorGenome.label>
+  <GR_RecombineWarriorGenome.description>Recombine normal insectoid genetic material to get specialized Warrior Genomes.</GR_RecombineWarriorGenome.description>
+  <GR_RecombineWarriorGenome.jobString>Recombining Drone Genome</GR_RecombineWarriorGenome.jobString>
+  <GR_RecombineRoyalGenome.label>recombine royal genome</GR_RecombineRoyalGenome.label>
+  <GR_RecombineRoyalGenome.description>Recombine normal insectoid genetic material to get specialized Royal Genomes.</GR_RecombineRoyalGenome.description>
+  <GR_RecombineRoyalGenome.jobString>Recombining Drone Genome</GR_RecombineRoyalGenome.jobString>
 </LanguageData>
