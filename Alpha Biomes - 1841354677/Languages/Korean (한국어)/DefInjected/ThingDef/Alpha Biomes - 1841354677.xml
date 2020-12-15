@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AB_PsychotropicFungus.label>psychotropic Fungus</AB_PsychotropicFungus.label>
+  <AB_PsychotropicFungus.description>These fungi taste funny and produce a potent mood-increasing chemical high. However, if eaten too often, they can generate a mild addiction.</AB_PsychotropicFungus.description>
+  <AB_RawRimeNodules.label>raw rime nodules</AB_RawRimeNodules.label>
+  <AB_RawRimeNodules.description>The sacs of a very strange plant, partly inorganic, that seems to extract propane from the surrounding landscape and store it as an energy source. These sacs can be consumed as a very mild euphoric.</AB_RawRimeNodules.description>
+  <AB_GallatrossBones.label>gallatross bones</AB_GallatrossBones.label>
+  <AB_GallatrossBones.description>This ribcage once belonged to a living Gallatross of truly exceptional size. Note: if you have the Rim of Madness - Bones mod installed, you can deconstruct these into useable bones.</AB_GallatrossBones.description>
+  <AB_AncientGallatrossSkull.label>ancient gallatross skull</AB_AncientGallatrossSkull.label>
+  <AB_AncientGallatrossSkull.description>This skull belonged to an exceptionally huge Gallatross. Look at the size of this thing! Note: if you have the Rim of Madness - Bones mod installed, you can deconstruct these into useable bones.</AB_AncientGallatrossSkull.description>
+  <AB_AncientBone.label>ancient bone</AB_AncientBone.label>
+  <AB_AncientBone.description>This fosilized bone might have belonged to an exceptionally large Gallatross. Note: if you have the Rim of Madness - Bones mod installed, you can deconstruct these into useable bones.</AB_AncientBone.description>
+  <AB_AncientBrokenBone.label>ancient shattered bone</AB_AncientBrokenBone.label>
+  <AB_AncientBrokenBone.description>This fosilized bone might have belonged to an exceptionally large Gallatross. Note: if you have the Rim of Madness - Bones mod installed, you can deconstruct these into useable bones.</AB_AncientBrokenBone.description>
+  <AB_AncientVerticalBone.label>ancient bones</AB_AncientVerticalBone.label>
+  <AB_AncientVerticalBone.description>These fosilized bones might have belonged to an exceptionally large Gallatross. Note: if you have the Rim of Madness - Bones mod installed, you can deconstruct these into useable bones.</AB_AncientVerticalBone.description>
+  <AB_HugeGallatrossSkeleton.label>huge gallatross skeleton</AB_HugeGallatrossSkeleton.label>
+  <AB_HugeGallatrossSkeleton.description>These fosilized bones might have belonged to an exceptionally large Gallatross. Note: if you have the Rim of Madness - Bones mod installed, you can deconstruct these into useable bones.</AB_HugeGallatrossSkeleton.description>
+  <AB_AbandonedShipPart.label>long abandoned ship part</AB_AbandonedShipPart.label>
+  <AB_AbandonedShipPart.description>A mysterious crashed piece of a spaceship. This was probably full of mechanoids once, but it seems to have been left abandoned for a while. Perhaps it could be salvaged for raw materials.</AB_AbandonedShipPart.description>
+  <AB_TarHole.label>tar hole</AB_TarHole.label>
+  <AB_TarHole.description>A natural hole in the mud connecting to an underground tar reservoir. This will periodically spray fresh tar in the vicinity.</AB_TarHole.description>
+  <AB_BumbledroneHive.label>bumbledrone hive</AB_BumbledroneHive.label>
+  <AB_BumbledroneHive.description>A huge mound of hardened organic matter that communicates with an extensive underground hive. Bumbledrones will periodically exit this hive to gather food for the bumbledrone colony. Bumbledrones surrounding a hive are particularly aggressive, so it's best to give them some space.</AB_BumbledroneHive.description>
+  <AB_AlcyoniteSolar.label>alcyonite solar generator</AB_AlcyoniteSolar.label>
+  <AB_AlcyoniteSolar.description>Uses alcyonite solar cells to extract electricity from the sun. Produces extra electricity if an alien red fog is present. Does not work in the dark or under artificial light.</AB_AlcyoniteSolar.description>
+  <AB_OcularGasSpewer.label>ocular gas spewer</AB_OcularGasSpewer.label>
+  <AB_OcularGasSpewer.description>This device needs a small amount of electricity to condense atmospheric gases and spew a large cloud of ocular gas. This gas blocks ranged attacks greatly, working as a constant smokepop belt.</AB_OcularGasSpewer.description>
+  <AB_AlienComplianceCenter.label>alien compliance center</AB_AlienComplianceCenter.label>
+  <AB_AlienComplianceCenter.description>An experimental device that emmanates strange waves making everyone love the truly alien weather.</AB_AlienComplianceCenter.description>
+  <AB_CoreSampleDrill.label>core sample drill</AB_CoreSampleDrill.label>
+  <AB_CoreSampleDrill.description>The core sample drill allows you to acquire standard rock types not usually present in a particular biome. It needs to drill pretty deep to do so, and thus it costs quite a lot to build.</AB_CoreSampleDrill.description>
+  <AB_PropanePump.label>propane pump</AB_PropanePump.label>
+  <AB_PropanePump.description>Extracts propane from a liquid propane lake and refines it into usable fuel. This obviously won't work in most biomes.</AB_PropanePump.description>
+  <AB_PropaneStove.label>propane stove</AB_PropaneStove.label>
+  <AB_PropaneStove.description>A propane-fueled stove with an attached countertop for preparing meals.</AB_PropaneStove.description>
+  <AB_PropaneHeater.label>propane heater</AB_PropaneHeater.label>
+  <AB_PropaneHeater.description>A device that burns propane fuel and turns it into heat. It can automatically turn itself on or off to reach a specific target temperature.</AB_PropaneHeater.description>
+  <AB_ExoticSmelterOcular.description>Extracts usable metal from exotic rock chunks and other strange material.</AB_ExoticSmelterOcular.description>
+  <AB_ExoticSmelterOcular.label>exotic smelter (ocular forest)</AB_ExoticSmelterOcular.label>
+  <AB_ExoticSmelterPropane.description>Extracts usable metal from exotic rock chunks and other strange material.</AB_ExoticSmelterPropane.description>
+  <AB_ExoticSmelterPropane.label>exotic smelter (propane lakes)</AB_ExoticSmelterPropane.label>
+  <AB_ExoticSmelterTar.description>Extracts usable metal from exotic rock chunks and other strange material.</AB_ExoticSmelterTar.description>
+  <AB_ExoticSmelterTar.label>exotic smelter (tar pits)</AB_ExoticSmelterTar.label>
+  <AB_ExoticDoor.label>exotic door</AB_ExoticDoor.label>
+  <AB_ExoticDoor.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. This was built using exotic materials.</AB_ExoticDoor.description>
+  <AB_ExoticAutoDoor.label>exotic autodoor</AB_ExoticAutoDoor.label>
+  <AB_ExoticAutoDoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down. This was built using exotic materials.</AB_ExoticAutoDoor.description>
+  <AB_ExoticWall.label>exotic wall</AB_ExoticWall.label>
+  <AB_ExoticWall.description>An impassable wall. Capable of holding up a roof. These were built using exotic materials.</AB_ExoticWall.description>
+  <AB_ExoticColumn.label>exotic column</AB_ExoticColumn.label>
+  <AB_ExoticColumn.description>A column capable of holding a roof. Does not block sight or movement and looks quite nice.  This was built using exotic materials.</AB_ExoticColumn.description>
+  <AB_TarPump.label>tar pump</AB_TarPump.label>
+  <AB_TarPump.description>Extracts tar from a natural tar hole and transforms the tar into chemfuel.</AB_TarPump.description>
+  <AB_TrapIED_Tar.label>IED Tar trap</AB_TrapIED_Tar.label>
+  <AB_TrapIED_Tar.description>A pair of tar shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. Creates a puddle of tar that is very difficult to move across. It is also very difficult to remove, and tends to also remove other floors because it sticks to them and ruins them. All things considered, I wouldn't detonate one of this in my kitchen.</AB_TrapIED_Tar.description>
+  <AB_SlimeMeal.label>slime meal</AB_SlimeMeal.label>
+  <AB_SlimeMeal.description>These hardened chunks of slime can be used as a last chance alternative to starvation. Barely edible, and absolutely disgusting.</AB_SlimeMeal.description>
+  <VCEF_AbyssalEel.label>abyssal eel</VCEF_AbyssalEel.label>
+  <VCEF_AbyssalEel.description>Raw abyssal eel. This elongated fish has adapted to life at very low temperatures. Abyssal eel have an incredibly slow metabolism, only needing to feed every few weeks.</VCEF_AbyssalEel.description>
+  <VCEF_AbyssalEel.tools.0.label>abyssal eel</VCEF_AbyssalEel.tools.0.label>
+  <VCEF_BloodLeech.label>blood leech</VCEF_BloodLeech.label>
+  <VCEF_BloodLeech.description>Raw blood leech. This bright red lamprey-like creature feeds almost exclusively on the blood of larger aquatic organisms, although it is not adverse to taking a bite from some terrestrial ones that come near the water. It tastes metallic and unappealing.</VCEF_BloodLeech.description>
+  <VCEF_BloodLeech.tools.0.label>blood leech</VCEF_BloodLeech.tools.0.label>
+  <VCEF_BorealSardine.label>boreal sardine</VCEF_BorealSardine.label>
+  <VCEF_BorealSardine.description>Raw boreal sardine. This small, oily forage fish in the herring family is well adapted to very cold climates.</VCEF_BorealSardine.description>
+  <VCEF_BorealSardine.tools.0.label>boreal sardine</VCEF_BorealSardine.tools.0.label>
+  <VCEF_DuskySprat.label>dusky sprat</VCEF_DuskySprat.label>
+  <VCEF_DuskySprat.description>Raw dusky sprat. The dusky sprat is a nocturnal marine forage fish, although they can also be found in freshwater estuaries. Like most forage fishes, dusky sprats are highly active, small, oily fish. They travel in large schools with other fish and swim continuously throughout the night.</VCEF_DuskySprat.description>
+  <VCEF_DuskySprat.tools.0.label>dusky sprat</VCEF_DuskySprat.tools.0.label>
+  <VCEF_ForsakenAnglerfish.label>forsaken anglerfish</VCEF_ForsakenAnglerfish.label>
+  <VCEF_ForsakenAnglerfish.description>Raw forsaken anglerfish. Anglerfish are bony fish named for their characteristic mode of predation, a bioluminiscent lure that attracts and guides prey into its mouth. This anglerfish has a dark scale tone that allows it to camouflage perfectly in the dark brackish waters.</VCEF_ForsakenAnglerfish.description>
+  <VCEF_ForsakenAnglerfish.tools.0.label>forsaken anglerfish</VCEF_ForsakenAnglerfish.tools.0.label>
+  <VCEF_FrigidSwimmer.label>frigid swimmer</VCEF_FrigidSwimmer.label>
+  <VCEF_FrigidSwimmer.description>Raw frigid swimmer. A large species of fish with a voracious appetite. It has adapted to low temperatures, and feeds mainly on other small fish like boreal sardines.</VCEF_FrigidSwimmer.description>
+  <VCEF_FrigidSwimmer.tools.0.label>frigid swimmer</VCEF_FrigidSwimmer.tools.0.label>
+  <VCEF_GiantPolarPrawn.label>giant polar prawn</VCEF_GiantPolarPrawn.label>
+  <VCEF_GiantPolarPrawn.description>Raw giant polar prawn. A medium sized aquatic crustacean with an exoskeleton and ten legs.</VCEF_GiantPolarPrawn.description>
+  <VCEF_GiantPolarPrawn.tools.0.label>giant polar prawn</VCEF_GiantPolarPrawn.tools.0.label>
+  <VCEF_HabdakLongfin.label>habdak longfin</VCEF_HabdakLongfin.label>
+  <VCEF_HabdakLongfin.description>Raw habdak longfin. A large species of pelagic fish. They are found mostly in tropical seas.</VCEF_HabdakLongfin.description>
+  <VCEF_HabdakLongfin.tools.0.label>habdak longfin</VCEF_HabdakLongfin.tools.0.label>
+  <VCEF_Jellyfungus.label>jellyfungus</VCEF_Jellyfungus.label>
+  <VCEF_Jellyfungus.description>Raw jellyfungus. This strange organism seems to be part jellyfish and part fungus. Its taste has been described as "mushroom sprinkled with salty water".</VCEF_Jellyfungus.description>
+  <VCEF_Jellyfungus.tools.0.label>jellyfungus</VCEF_Jellyfungus.tools.0.label>
+  <VCEF_MudSplasherCarp.label>mud splasher carp</VCEF_MudSplasherCarp.label>
+  <VCEF_MudSplasherCarp.description>Raw mud splasher carp. A species of oily freshwater fish from the family Cyprinidae. These carps are fond of mud-saturated waters, where they remain motionless, buried in the mud, and wait for prey to come within ambush distance before pouncing.</VCEF_MudSplasherCarp.description>
+  <VCEF_MudSplasherCarp.tools.0.label>mud splasher carp</VCEF_MudSplasherCarp.tools.0.label>
+  <VCEF_MutantFlatfish.label>mutant flatfish</VCEF_MutantFlatfish.label>
+  <VCEF_MutantFlatfish.description>Raw mutant flatfish. A relative of the oceanic sole, this three-eyed flatfish is a bottom-dwelling species feeding on small crustaceans and other invertebrates. It inhabits both saltwater and brackish waters.</VCEF_MutantFlatfish.description>
+  <VCEF_MutantFlatfish.tools.0.label>mutant flatfish</VCEF_MutantFlatfish.tools.0.label>
+  <VCEF_OcularFish.label>ocular fish</VCEF_OcularFish.label>
+  <VCEF_OcularFish.description>Raw ocular fish. A completely alien breed of fish. Its single, huge yellowed eye seems to be looking in all directions simultaneously.</VCEF_OcularFish.description>
+  <VCEF_OcularFish.tools.0.label>ocular fish</VCEF_OcularFish.tools.0.label>
+  <VCEF_PinkBlobfish.label>pink blobfish</VCEF_PinkBlobfish.label>
+  <VCEF_PinkBlobfish.description>Raw pink blobfish. Usually considered one of the ugliest fish in the Rim, the pink blobfish's quasi-humanoid features give it a very strange tragicomical visage.</VCEF_PinkBlobfish.description>
+  <VCEF_PinkBlobfish.tools.0.label>pink blobfish</VCEF_PinkBlobfish.tools.0.label>
+  <VCEF_PropaneBag.label>propane bag</VCEF_PropaneBag.label>
+  <VCEF_PropaneBag.description>Raw propane bag. These jellyfish have a propane-based metabolism, and are able to survive, and even thrive, in unbelievably extreme conditions. They are not very edible, though, and consuming them could lead to experiencing some painful stomach cramps.</VCEF_PropaneBag.description>
+  <VCEF_PropaneBag.tools.0.label>propane bag</VCEF_PropaneBag.tools.0.label>
+  <VCEF_ShadowFry.label>shadow fry</VCEF_ShadowFry.label>
+  <VCEF_ShadowFry.description>Raw shadow fry. Small river fish that move in large schools around fishing banks and near riverbanks, tending to hide from sunlight in darkened crevices.</VCEF_ShadowFry.description>
+  <VCEF_ShadowFry.tools.0.label>shadow fry</VCEF_ShadowFry.tools.0.label>
+  <VCEF_Slimefish.label>slimefish</VCEF_Slimefish.label>
+  <VCEF_Slimefish.description>Raw slimefish. A bottom-dwelling species that feeds by filtering the organic residue found in slimy ponds. Chewy, gelatinous and insipid. Similar in texture to gelatin.</VCEF_Slimefish.description>
+  <VCEF_Slimefish.tools.0.label>slimefish</VCEF_Slimefish.tools.0.label>
+  <VCEF_Spiderfish.label>spiderfish</VCEF_Spiderfish.label>
+  <VCEF_Spiderfish.description>Raw spiderfish. This strange mutant creature seems to be part fish, part spider. It weaves intricate spider webs underwater, trapping its prey and weaving cocoons around it.</VCEF_Spiderfish.description>
+  <VCEF_Spiderfish.tools.0.label>spiderfish</VCEF_Spiderfish.tools.0.label>
+  <VCEF_Spinyfish.label>spinyfish</VCEF_Spinyfish.label>
+  <VCEF_Spinyfish.description>Raw spinyfish. This fish has protruding spines that it uses as a defensive measure. It doesn't have much meat, but what it does have is quite tasty.</VCEF_Spinyfish.description>
+  <VCEF_Spinyfish.tools.0.label>spinyfish</VCEF_Spinyfish.tools.0.label>
+  <VCEF_Sturgeon.label>sturgeon</VCEF_Sturgeon.label>
+  <VCEF_Sturgeon.description>Raw sturgeon. Sturgeons are huge ,long-lived fishes with distinctive characteristics, such as a caudal fin similar to those of sharks, and an elongated, spindle-like body that is smooth-skinned, scaleless, and armored with five lateral rows of bony plates called scutes.</VCEF_Sturgeon.description>
+  <VCEF_Sturgeon.tools.0.label>sturgeon</VCEF_Sturgeon.tools.0.label>
+  <AB_PinkRawFungus.label>pink fungus</AB_PinkRawFungus.label>
+  <AB_PinkRawFungus.description>Raw fungus. This variety lasts a longer time without rotting, making it more valuable.</AB_PinkRawFungus.description>
+  <AB_BlueRawFungus.label>blue fungus</AB_BlueRawFungus.label>
+  <AB_BlueRawFungus.description>Even though these mushrooms look weird, they are very nice to eat, even when raw.</AB_BlueRawFungus.description>
+  <AB_PurpleRawFungus.label>purple fungus</AB_PurpleRawFungus.label>
+  <AB_PurpleRawFungus.description>Raw fungus. These particular fungi are more nutritive than usual, but there is a greater chance for them to cause food poisoning.</AB_PurpleRawFungus.description>
+  <AB_RawSlime.label>slime</AB_RawSlime.label>
+  <AB_RawSlime.description>Raw slime. This thing is edible. Barely.</AB_RawSlime.description>
+  <AB_RawCrystalHorn.label>crystal horn</AB_RawCrystalHorn.label>
+  <AB_RawCrystalHorn.description>Raw Crystal Horn. Only partially organic: part of its structure is clearly crystalline. Edible, but uncomfortably crunchy.</AB_RawCrystalHorn.description>
+  <AB_RawFrostLeaf.label>frost leaf</AB_RawFrostLeaf.label>
+  <AB_RawFrostLeaf.description>These translucent plants seem to be able to grow almost anywhere, even in some snow covered areas. They can be dried in a fire and used to feed herbivore animals efficiently.</AB_RawFrostLeaf.description>
+  <AB_RawTentacularFruit.label>tentacular fruit</AB_RawTentacularFruit.label>
+  <AB_RawTentacularFruit.description>The blue nodules grow at the end of each branch / tentacle of a tentacular plant, and they produce an eerie rattling sound from time to time.</AB_RawTentacularFruit.description>
+  <AB_RawIashiphus.label>iashiphus fruit</AB_RawIashiphus.label>
+  <AB_RawIashiphus.description>The fleshy bright red fruit of an iashiphus plant.</AB_RawIashiphus.description>
+  <AB_RawBrownBarrelCactus.label>brown barrel cactus</AB_RawBrownBarrelCactus.label>
+  <AB_RawBrownBarrelCactus.description>The water-filled bulbs of a brown barrel cactus. Quite tasteless.</AB_RawBrownBarrelCactus.description>
+  <AB_RawSugarFamewort.label>sugar famewort</AB_RawSugarFamewort.label>
+  <AB_RawSugarFamewort.description>These soft bulbs are exceptionally sweet, an ideal condiment for any dish.</AB_RawSugarFamewort.description>
+  <AB_RawBloodBouquet.label>blood bouquet</AB_RawBloodBouquet.label>
+  <AB_RawBloodBouquet.description>These fruit seem to be as hard as the trunk of the plant they are harvested from, and equally covered in spines. The inner flesh of the fruit tastes like blood-drenched meat, and herbivore animals will refuse to consume it.</AB_RawBloodBouquet.description>
+  <AB_BumbledroneFood.label>bumbledrone jelly</AB_BumbledroneFood.label>
+  <AB_BumbledroneFood.description>This blob of organic matter is produced by bumbledrone caretakers, a caste of bumbledrones that never leaves the subterranean part of the hives. It provides sustenance for bumbledrones who need to leave the hive for any reason, such as foraging or hunting.</AB_BumbledroneFood.description>
+  <AB_Shell_Tar.label>tar shell</AB_Shell_Tar.label>
+  <AB_Shell_Tar.description>A shell filled with concentrated asphalt. Can be fired from mortars or installed as a trap. Creates a puddle of tar that is very difficult to move across. It is also very difficult to remove, and tends to also remove other floors because it sticks to them and ruins them. All things considered, I wouldn't detonate one of this in my kitchen.</AB_Shell_Tar.description>
+  <AB_Bullet_Shell_Tar.label>tar shell</AB_Bullet_Shell_Tar.label>
+  <AB_AlcyoniteChunk.label>alcyonite chunk</AB_AlcyoniteChunk.label>
+  <AB_AlcyoniteChunk.description>Alcyonite is a very rare variation of the almandite gemstone. Really strong, able to easily cut steel, yet malleable and with interesting piezoelectric capabilities.</AB_AlcyoniteChunk.description>
+  <AB_CrystalWood.label>crystalline wood</AB_CrystalWood.label>
+  <AB_CrystalWood.description>These brittle crystalline strands can be extracted from crystal flowers. Not flammable, but not strong at all.</AB_CrystalWood.description>
+  <AB_CrystalWood.stuffProps.stuffAdjective>crystalline</AB_CrystalWood.stuffProps.stuffAdjective>
+  <AB_CrystalWood.tools.0.label>crystalline wood log</AB_CrystalWood.tools.0.label>
+  <GU_RedWood.label>red wood</GU_RedWood.label>
+  <GU_RedWood.description>This red tinged wood is oddly strong, and a sweet scent emanates from it. Less flammable than terrestrial wood, but quite ugly.</GU_RedWood.description>
+  <GU_RedWood.stuffProps.stuffAdjective>red wooden</GU_RedWood.stuffProps.stuffAdjective>
+  <GU_RedWood.tools.0.label>red wood log</GU_RedWood.tools.0.label>
+  <AB_MushroomWoodLog.label>mushroom stalks</AB_MushroomWoodLog.label>
+  <AB_MushroomWoodLog.description>These mushroom stalks have been hardened by age until they are almost as firm as a low quality wood. Very flammable, and not very resistant.</AB_MushroomWoodLog.description>
+  <AB_MushroomWoodLog.stuffProps.stuffAdjective>mushroom stalk</AB_MushroomWoodLog.stuffProps.stuffAdjective>
+  <AB_MushroomWoodLog.tools.0.label>mushroom stalk</AB_MushroomWoodLog.tools.0.label>
+  <AB_CrystallineMatrix.label>crystalline matrix</AB_CrystallineMatrix.label>
+  <AB_CrystallineMatrix.description>A fine lattice of exotic alien crystals. This structure is incredibly good at maintaining a constant temperature.</AB_CrystallineMatrix.description>
+  <AB_CordaxResin.label>cordax resin</AB_CordaxResin.label>
+  <AB_CordaxResin.description>Dried chunks of cordax resin. A viscous slurry of organic compounds, this nectar-like liquid is used by the carnivorous Keening Cordax plant to trap insects. It is extremely sticky and can be processed into a very efficient sealant.</AB_CordaxResin.description>
+  <AB_ProcessedResin.label>processed resin</AB_ProcessedResin.label>
+  <AB_ProcessedResin.description>This resin has been processed from raw Keening Cordax resin. It is extremely sticky and can be used as a very efficient sealant.</AB_ProcessedResin.description>
+  <AB_AsphaltBucket.label>asphalt bucket</AB_AsphaltBucket.label>
+  <AB_AsphaltBucket.description>Asphalt, or bitumen, is a sticky, black and highly viscous liquid or semi-solid, composed almost entirely of petroleum. It is present in most crude petroleums and in some natural deposits, such as tar pits.\n\nAsphalt can be used to build tarmac roads, greatly increasing movement in difficult terrains.</AB_AsphaltBucket.description>
+  <AB_Propane.label>propane fuel tank</AB_Propane.label>
+  <AB_Propane.description>A versatile fuel. Can be converted into chemfuel at a refinery, or used as fuel for propane specific buildings, such as heaters or stoves. Insert inane and trite King of the Hill joke here (yes, I have heard them all, you are not original).</AB_Propane.description>
+  <AB_SlagRubble.label>scattered slag</AB_SlagRubble.label>
+  <AB_Filth_Tar.label>tar puddle</AB_Filth_Tar.label>
+  <AB_Filth_Tar.description>A puddle of flammable tar.</AB_Filth_Tar.description>
+  <AB_MycoticSpores.label>virulent mycotic spores</AB_MycoticSpores.label>
+  <AB_OcularGas.label>ocular gas</AB_OcularGas.label>
+  <GU_RoseQuartz.label>rose quartz</GU_RoseQuartz.label>
+  <GU_RoseQuartz.description>A hard, pinkish looking mineral deposit.</GU_RoseQuartz.description>
+  <GU_SmoothedQuartz.label>smoothed quartz</GU_SmoothedQuartz.label>
+  <GU_SmoothedQuartz.description>A hard, pinkish looking mineral deposit. The layers have been polished to a flat, smooth surface.</GU_SmoothedQuartz.description>
+  <GU_ChunkRoseQuartz.description>A chunk of rock. It's possible to cut usable stone blocks from it.</GU_ChunkRoseQuartz.description>
+  <GU_ChunkRoseQuartz.label>rose quartz chunk</GU_ChunkRoseQuartz.label>
+  <GU_BlocksRoseQuartz.description>Blocks of solid rose quartz.</GU_BlocksRoseQuartz.description>
+  <GU_BlocksRoseQuartz.label>rose quartz blocks</GU_BlocksRoseQuartz.label>
+  <GU_BlocksRoseQuartz.stuffProps.stuffAdjective>rose quartz</GU_BlocksRoseQuartz.stuffProps.stuffAdjective>
+  <AB_Cragstone.label>cragstone</AB_Cragstone.label>
+  <AB_Cragstone.description>A dark-hued, homogeneous metamorphic rock. These rocks seem to be attracting the darkness surrounding them.</AB_Cragstone.description>
+  <AB_SmoothedCragstone.label>smoothed cragstone</AB_SmoothedCragstone.label>
+  <AB_SmoothedCragstone.description>A dark-hued, homogeneous metamorphic rock. These rocks seem to be attracting the darkness surrounding them.</AB_SmoothedCragstone.description>
+  <AB_ChunkCragstone.description>A chunk of rock. It's possible to cut usable stone blocks from it.</AB_ChunkCragstone.description>
+  <AB_ChunkCragstone.label>cragstone chunk</AB_ChunkCragstone.label>
+  <AB_BlocksCragstone.description>Blocks of solid cragstone.</AB_BlocksCragstone.description>
+  <AB_BlocksCragstone.label>cragstone blocks</AB_BlocksCragstone.label>
+  <AB_BlocksCragstone.stuffProps.stuffAdjective>cragstone</AB_BlocksCragstone.stuffProps.stuffAdjective>
+  <AB_Obsidianstone.label>obsidian</AB_Obsidianstone.label>
+  <AB_Obsidianstone.description>Obsidian is a naturally occurring volcanic glass formed as an extrusive igneous rock, produced when lava from a volcano cools rapidly with minimal crystal growth. Obsidian is hard, brittle, and amorphous; it therefore fractures with very sharp edges.</AB_Obsidianstone.description>
+  <AB_SmoothedObsidian.label>smoothed obsidian</AB_SmoothedObsidian.label>
+  <AB_SmoothedObsidian.description>Obsidian is a naturally occurring volcanic glass formed as an extrusive igneous rock, produced when lava from a volcano cools rapidly with minimal crystal growth. Obsidian is hard, brittle, and amorphous; it therefore fractures with very sharp edges.</AB_SmoothedObsidian.description>
+  <AB_ChunkObsidian.description>A chunk of rock. It's possible to cut usable stone blocks from it.</AB_ChunkObsidian.description>
+  <AB_ChunkObsidian.label>obsidian chunk</AB_ChunkObsidian.label>
+  <AB_BlocksObsidian.description>Blocks of solid obsidian.</AB_BlocksObsidian.description>
+  <AB_BlocksObsidian.label>obsidian blocks</AB_BlocksObsidian.label>
+  <AB_BlocksObsidian.stuffProps.stuffAdjective>obsidian</AB_BlocksObsidian.stuffProps.stuffAdjective>
+  <AB_Mudstone.label>mudstone</AB_Mudstone.label>
+  <AB_Mudstone.description>Mudstone, a type of mudrock, is a fine-grained sedimentary rock whose original constituents were clays or muds. Mudstone looks like hardened clay and, depending upon the circumstances under which it was formed, it may show cracks or fissures, like a sun-baked clay deposit.</AB_Mudstone.description>
+  <AB_SmoothedMudstone.label>smoothed mudstone</AB_SmoothedMudstone.label>
+  <AB_SmoothedMudstone.description>Mudstone, a type of mudrock, is a fine-grained sedimentary rock whose original constituents were clays or muds. Mudstone looks like hardened clay and, depending upon the circumstances under which it was formed, it may show cracks or fissures, like a sun-baked clay deposit.</AB_SmoothedMudstone.description>
+  <AB_ChunkMudstone.description>A chunk of rock. It's possible to cut usable stone blocks from it.</AB_ChunkMudstone.description>
+  <AB_ChunkMudstone.label>mudstone chunk</AB_ChunkMudstone.label>
+  <AB_BlocksMudstone.description>Blocks of solid mudstone.</AB_BlocksMudstone.description>
+  <AB_BlocksMudstone.label>mudstone blocks</AB_BlocksMudstone.label>
+  <AB_BlocksMudstone.stuffProps.stuffAdjective>mudstone</AB_BlocksMudstone.stuffProps.stuffAdjective>
+  <AB_SlimeStone.label>hardened slime</AB_SlimeStone.label>
+  <AB_SlimeStone.description>This is a hardened slime deposit. Not very useful... This "rock" produces chunks, but they can't be turned into blocks like other types of rock.</AB_SlimeStone.description>
+  <AB_SmoothedSlimeStone.label>smoothed slime</AB_SmoothedSlimeStone.label>
+  <AB_SmoothedSlimeStone.description>This is a hardened slime deposit. Not very useful... This "rock" produces chunks, but they can't be turned into blocks like other types of rock.</AB_SmoothedSlimeStone.description>
+  <AB_ChunkSlimeStone.description>This is a hardened slime chunk. Not very useful... Maybe it can be deconstructed into little pieces of hardened slime, and then... eaten. Yuck.</AB_ChunkSlimeStone.description>
+  <AB_ChunkSlimeStone.label>hardened slime chunk</AB_ChunkSlimeStone.label>
+  <GU_AncientMetals.label>ancient metal</GU_AncientMetals.label>
+  <GU_AncientMetals.description>These ancient metal walls have been here for a while. They can be mined to acquire steel chunks.</GU_AncientMetals.description>
+  <AB_SmoothedAncientMetals.label>smoothed ancient metal</AB_SmoothedAncientMetals.label>
+  <AB_SmoothedAncientMetals.description>These ancient metal walls have been here for a while. They can be mined to acquire steel chunks.</AB_SmoothedAncientMetals.description>
+  <AB_WeaponPoisonDart.label>dribbling cap poison dart</AB_WeaponPoisonDart.label>
+  <AB_WeaponPoisonDart.description>This small poison dart has been filled with the pungent resin flowing from a dribbling cap fungus. It is an extremely potent neurotoxin, causing immediate paralysis, and eventually, death.</AB_WeaponPoisonDart.description>
+  <AB_WeaponPoisonDart.verbs.0.label>throw poison dart</AB_WeaponPoisonDart.verbs.0.label>
+  <AB_WeaponPoisonDartProjectile.label>poison dart</AB_WeaponPoisonDartProjectile.label>
+  <AB_CrystalHorn.label>crystal horn</AB_CrystalHorn.label>
+  <AB_CrystalHorn.description>This strange flower seems to be only partially organic. Part of its structure is clearly crystalline, and it appears to be unaffected, or even bolstered, by the extremely cold climate. It might even be edible.\n\nPlant details: Crystal horn is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.25. It grows in low temperatures (above -70ºC) and needs no light. Can be harvested for raw crystal horn.</AB_CrystalHorn.description>
+  <AB_FrostLeaf.label>frost leaf</AB_FrostLeaf.label>
+  <AB_FrostLeaf.description>These translucent plants seem to be able to grow almost anywhere, even in some snow covered areas. They can be dried in a fire and used to feed herbivore animals efficiently. \n\nPlant details: Frost leaf is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0. It grows in low temperatures (above -70ºC) and needs no light. Can be harvested for raw frost leaf.</AB_FrostLeaf.description>
+  <AB_RimeNodules.label>rime nodules</AB_RimeNodules.label>
+  <AB_RimeNodules.description>A very strange plant, partly inorganic, that seems to extract propane from the surrounding landscape and store it as an energy source in rime-bound chemical sacs. These sacs can be consumed as a very mild euphoric.\n\nPlant details: Rime nodules is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0. It grows in low temperatures (above -70ºC) and needs no light. Can be harvested for raw rime nodules.</AB_RimeNodules.description>
+  <AB_CrystalFlower.label>crystal flower</AB_CrystalFlower.label>
+  <AB_CrystalFlower.description>A tall, translucent flower that seems to be partially inorganic.\n\nPlant details: Crystal flowers are a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.25. It grows in low temperatures (above -70ºC) and needs no light. Can be harvested for crystalline wood.</AB_CrystalFlower.description>
+  <AB_FlashFrozenTree.label>flash frozen tree</AB_FlashFrozenTree.label>
+  <AB_FlashFrozenTree.description>This tree, which probably started growing in a rare period of summer heat, has been frozen in place by the extreme temperatures, its leaves crystallized by the toxic propane compounds. A small amount of wood can be extracted from it, but it is likely that more of them won't appear as time passes.\n\nPlant details: Flash frozen trees appear in the wild but they don't regrow, ever. They need minimum terrain fertility of 0. Can be harvested for normal wood.</AB_FlashFrozenTree.description>
+  <AB_BrownBarrelCactus.label>brown barrel cactus</AB_BrownBarrelCactus.label>
+  <AB_BrownBarrelCactus.description>The brown barrel cactus, Ferocactus Brunetus, is an extremophile plant that thrives in low-water and poor sunlight conditions. Its strange brown colour is derived from an almost complete lack of chlorophyll. Instead, the plant extracts much of its sustenance from mineral deposits.\n\nPlant details: brown barrel cactus is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.05. It needs no light. It is non-flammable. Can be harvested for raw brown barrel cactus, edible but almost tasteless.</AB_BrownBarrelCactus.description>
+  <AB_TinkleGrass.label>tinkle grass</AB_TinkleGrass.label>
+  <AB_TinkleGrass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</AB_TinkleGrass.description>
+  <AB_FirevineTree.label>firevine tree</AB_FirevineTree.label>
+  <AB_FirevineTree.description>Firevine trees are pyrophitic plants that are able to survive wildfires due to a clever layer of thermal insulation provided by their fire retardant bark. They can be directly burned without sustaining damage to their vital tissues. In fact, their seeds require fire to sprout, so they are only found in fire-prone areas, such as active volcanic zones.\n\nPlant details: Firevine trees are a cultivated plant that also appear in the wild, and they need minimum terrain fertility of 0.05. They are non-flammable. Can be harvested for normal wood.</AB_FirevineTree.description>
+  <AB_GiantStikehr.label>giant stikehr</AB_GiantStikehr.label>
+  <AB_GiantStikehr.description>A giant alien mushroom that glows in the strange darkening mist. Contrary to the smaller domesticated strands, the giant Stikehr can grow in light environments, as long as it is protected by the Forsaken mists. Its stalk is so hardened that it can be considered wood for all intents and purposes. \n\nPlant details: Giant Stikehr is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.7. It needs no light, and produces 50% light on its own, not enough to grow other plants around it. Can be harvested for normal wood.</AB_GiantStikehr.description>
+  <AB_GiantSeptimum.label>giant septimum</AB_GiantSeptimum.label>
+  <AB_GiantSeptimum.description>This Septimum plant has grown to an enormous size, with a flowering top as large as a person. Domesticated septimum plants are used as a source of Ultima fibers, but this exemplar is way too old and its fibers are too hard to be used in a practical way.\n\nPlant details: Giant Septimum is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.7. It needs no light.</AB_GiantSeptimum.description>
+  <AB_GlowingGrass.label>grass</AB_GlowingGrass.label>
+  <AB_GlowingGrass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</AB_GlowingGrass.description>
+  <AB_WildRadagast.label>wild radagast</AB_WildRadagast.label>
+  <AB_WildRadagast.description>This twisting alien plant grows small glowing berries. Although not edible, they can be used to manufacture some interesting chemical compounds. (This plant only yields its fruit if you are using the Forsakens mod).\n\nPlant details: Wild Radagast is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.7. It needs no light, and produces 50% light on its own, not enough to grow other plants around it.</AB_WildRadagast.description>
+  <AB_GiantGamma.label>giant gamma</AB_GiantGamma.label>
+  <AB_GiantGamma.description>Like many other flora from the Forsakens native planet, this huge globular plant is bioluminescent. Smaller specimens can be used as a decorative light source, whereas this wild exemplar emits so much light that it can be used as a natural sunlamp to grow regular plants. Note that light-sensitive plants such as domesticated Stikehr and mushrooms should be kept far away from them.\n\nPlant details: Giant Gamma is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.7. It needs no light, and produces 100% light on its own, which is enough to grow other plants around it.</AB_GiantGamma.description>
+  <AB_TangleTea.label>tangle tea</AB_TangleTea.label>
+  <AB_TangleTea.description>This strange plant seems to be of alien origins. It doesn't seem to be fit for human consumption. Its common name alludes to the tea-bag shape of its flowers, and the fact that its sap is a very sticky substance.</AB_TangleTea.description>
+  <AB_EuphorbiaRimworldia.label>euphorbia rimworldia</AB_EuphorbiaRimworldia.label>
+  <AB_EuphorbiaRimworldia.description>A plant of the euphorbia genus, commonly called spurges. This plant has adapted to arid climates and stores a lot of water inside their spine-covered leaves.</AB_EuphorbiaRimworldia.description>
+  <AB_DeadBowerTree.label>dead bower tree</AB_DeadBowerTree.label>
+  <AB_DeadBowerTree.description>Despite its common name, the dead bower tree is not truly dead, just exceptionally adapted to survival in arid weather. The tree produces huge leaves every few decades. These leaves harness energy via photosynthesis, and this chemical energy is stored in brown coloured chemical postules that act as natural batteries. The tree then uses that energy slowly over the following years, only producing more leaves when it is depleted.</AB_DeadBowerTree.description>
+  <AB_RedBugloss.label>red bugloss</AB_RedBugloss.label>
+  <AB_RedBugloss.description>One of the weirdest plants from Earth, genetically modified to thrive in wet, warm environments.</AB_RedBugloss.description>
+  <AB_Gomphoeria.label>gomphoeria</AB_Gomphoeria.label>
+  <AB_Gomphoeria.description>An unusually tall plant with bright, pink nodules. Its nodules are slightly toxic for humans, and it produces a strange, rotten fruit smell, so it is considered absolutely inedible.</AB_Gomphoeria.description>
+  <AB_Aaklac.label>aaklac</AB_Aaklac.label>
+  <AB_Aaklac.description>A rare, huge flower which can be found in the deepest jungles. Its quite striking colour and nice smell makes it popular in gardening, if it can be extracted from the deep jungle, of course.</AB_Aaklac.description>
+  <AB_JungleTree.label>deep jungle tree</AB_JungleTree.label>
+  <AB_JungleTree.description>This jungle tree is not of terrestrial origins, originating from the deepest crevices of an alien jungle.</AB_JungleTree.description>
+  <AB_SessileMechanoid.label>sessile mechanoid tree</AB_SessileMechanoid.label>
+  <AB_SessileMechanoid.description>This thing was once a tree. Mechanoids repurposed its cells into a half-tree, half-mechanoid abomination, serving an unknown purpose. Perhaps a bit of wood could be extracted from it.</AB_SessileMechanoid.description>
+  <AB_HardyGrass.label>hardy grass</AB_HardyGrass.label>
+  <AB_HardyGrass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</AB_HardyGrass.description>
+  <AB_Glowstool.label>glowstool</AB_Glowstool.label>
+  <AB_Glowstool.description>A small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked. This glowstool variant has adapted to outside life, but produces very few edible caps when harvested.\n\nPlant details: Glowstool is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for raw fungus.</AB_Glowstool.description>
+  <AB_LilacBeacon.label>lilac beacon</AB_LilacBeacon.label>
+  <AB_LilacBeacon.description>The lilac beacon is a tall mushroom with a bright purple cap. It is much more nutritive than other fungi, but it has a greater risk of being hard on the stomach. This variant has adapted to outside life, but produces very few edible caps when harvested.\n\nPlant details: Lilac beacon is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for purple raw fungus.</AB_LilacBeacon.description>
+  <AB_WitchesOyster.label>witches' oyster</AB_WitchesOyster.label>
+  <AB_WitchesOyster.description>A small, ramified fungal colony with a pungent aroma. A witches' oyster produces caps that take quite a long time to deteriorate.\n\nPlant details: Witches' Oyster is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for pink raw fungus.</AB_WitchesOyster.description>
+  <AB_AgaricusDomeCap.label>agaricus domecap</AB_AgaricusDomeCap.label>
+  <AB_AgaricusDomeCap.description>Everything about this fungus screams "I'm toxic, stay away from me". Of course this doesn't stop some enterprising individuals from consuming it as a drug. The agaricus domecap is a psychotropic fungus, and should be consumed with extreme precaution, if at all.\n\nPlant details: Agaricus domecap is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for psychotropic fungus.</AB_AgaricusDomeCap.description>
+  <AB_Agarilux.label>agarilux</AB_Agarilux.label>
+  <AB_Agarilux.description>An enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. This agarilux variant has adapted to outside life, but produces very few edible caps when harvested.\n\nPlant details: Agarilux is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for purple raw fungus.</AB_Agarilux.description>
+  <AB_GiantAgarilux.label>giant agarilux</AB_GiantAgarilux.label>
+  <AB_GiantAgarilux.description>A colossal purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. Its stalk has been hardened, giving it a firmness similar to a weak wood.\n\nPlant details: Giant Agarilux is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for mushroom stalks.</AB_GiantAgarilux.description>
+  <AB_ArbuscularMycorrhiza.label>arbuscular mycorrhiza</AB_ArbuscularMycorrhiza.label>
+  <AB_ArbuscularMycorrhiza.description>A mycorrhiza is a symbiotic association between a fungus and a plant. This particular organism is highly advanced, and the two symbionts have almost fused into a single creature that keeps the supporting structures of the original tree (the trunk) and the caps and mycelium of the original fungus. A small quantity of wood can be harvested from its trunk.\n\nPlant details: Arbuscular mycorrhiza is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for normal wood.</AB_ArbuscularMycorrhiza.description>
+  <AB_DribblingCap.label>dribbling cap</AB_DribblingCap.label>
+  <AB_DribblingCap.description>A huge pink mushroom, constantly dribbling a pungent, resin-like substance. This substance is a potent neurotoxin that could potentially be extracted and used as a weapon.\n\nPlant details: Dribbling cap is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for powerful single use poison darts.</AB_DribblingCap.description>
+  <AB_RecurvedStropharia.label>recurved stropharia</AB_RecurvedStropharia.label>
+  <AB_RecurvedStropharia.description>A big greyish mushroom. Its size and glowing protrusions make this fungus beautiful to look at. Its stalk has been hardened, giving it a firmness similar to a weak wood.\n\nPlant details: Recurved stropharia is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for mushroom stalks.</AB_RecurvedStropharia.description>
+  <AB_SlimyPholiota.label>slimy pholiota</AB_SlimyPholiota.label>
+  <AB_SlimyPholiota.description>A blueish-pink mushroom, secreting a slimy substance that attracts insects. This substance paralyzes the insects, and eventually kills them, being used by the fungus as fertilizer. Strangely enough, the slimy substance gives this fungus a very rich taste, and it can even be consumed raw.\n\nPlant details: Slimy pholiota is a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.95. Can be harvested for blue raw fungus.</AB_SlimyPholiota.description>
+  <AB_GlowingAgarilux.label>glowing agarilux</AB_GlowingAgarilux.label>
+  <AB_GlowingAgarilux.description>An enormous purple mushroom, glowing in darkness with a faint purple luminiscence. Its size and glowing protrusions make this fungus beautiful to look at. This agarilux variant has adapted to outside life, but produces very few edible caps when harvested.\n\nPlant details: Glowing agarilux is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.95. Can be harvested for raw purple fungus.</AB_GlowingAgarilux.description>
+  <AB_Bryolux.label>bryolux</AB_Bryolux.label>
+  <AB_Bryolux.description>A blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it. This bryolux variant has adapted to outside life.</AB_Bryolux.description>
+  <AB_AgariluxPrime.label>Agarilux Prime</AB_AgariluxPrime.label>
+  <AB_AgariluxPrime.description>An unbelievably large exemplar of Agarilux. This myconic colony has adapted perfectly to its environment, releasing large clouds of extremely dangerous spores that fill the air surrounding it. These spores attack both other fungi and roaming animals, and after they inevitably suffocate, the Agarilux Prime extends prehensile hyphae to feed on their rotting corpses.\n\nThe Agarilux Prime can be cut just like any other plant, but unless the person doing the cutting is perfectly protected against the toxic spores, it will probably prove to be a one-way mission. Or mortars... I guess mortars will work too.</AB_AgariluxPrime.description>
+  <AB_Slimecasia.label>slimecasia</AB_Slimecasia.label>
+  <AB_Slimecasia.description>Although at first sight this seems to be an independent plant, its roots are intricately interconnected with the rest of the gelatinous superorganism.</AB_Slimecasia.description>
+  <AB_SlimyFern.label>slimy fern</AB_SlimyFern.label>
+  <AB_SlimyFern.description>Although at first sight this seems to be an independent plant, its roots are intricately interconnected with the rest of the gelatinous superorganism.</AB_SlimyFern.description>
+  <AB_TallSlimyGrass.label>tall slimy grass</AB_TallSlimyGrass.label>
+  <AB_TallSlimyGrass.description>Wild tall grass. Slows down anyone moving over it.</AB_TallSlimyGrass.description>
+  <AB_SlimyTree.label>slimy tree</AB_SlimyTree.label>
+  <AB_SlimyTree.description>This tree doesn't seem to be entirely solid. Upon further examination, it isn't an independent entity, its roots fusing seamlessly with the hardened gelatinous ground.</AB_SlimyTree.description>
+  <AB_LargeSlimyTree.label>large slimy tree</AB_LargeSlimyTree.label>
+  <AB_LargeSlimyTree.description>This tree doesn't seem to be entirely solid. Upon further examination, it isn't an independent entity, its roots fusing seamlessly with the hardened gelatinous ground.</AB_LargeSlimyTree.description>
+  <AB_GreenRockFern.label>green rock fern</AB_GreenRockFern.label>
+  <AB_GreenRockFern.description>A wild tall fern. Slows down anyone moving over it.</AB_GreenRockFern.description>
+  <AB_Iashiphus.label>iashiphus</AB_Iashiphus.label>
+  <AB_Iashiphus.description>This vivid green plant seem to be related to cacti. Though it's fleshy bark is not edible, it produces flowers than can be consumed by humans.\n\nPlant details: Iashiphus is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.7. Can be harvested for raw iashiphus fruit.</AB_Iashiphus.description>
+  <AB_SugarFamewort.label>sugar famewort</AB_SugarFamewort.label>
+  <AB_SugarFamewort.description>The sugar famewort grows in areas with a high concentration of pollinating insects. It generates a sweet nectar that attracts these insects, and they disperse its pollen when they feed on it.\n\nPlant details: Sugar Famewort is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.7. Can be harvested for raw sugar famewort.</AB_SugarFamewort.description>
+  <AB_RavenNettle.label>raven nettle</AB_RavenNettle.label>
+  <AB_RavenNettle.description>Tangled, thorny, woody shoots covered with leaves. Raven nettle grows in clusters, and slows down anyone moving over it.</AB_RavenNettle.description>
+  <AB_FanPalm.label>fan palm</AB_FanPalm.label>
+  <AB_FanPalm.description>This exuberant palm grows in areas with a rich soil surrounding the tar pits.\n\nPlant details: Fan palms are a cultivated plant that also appear in the wild, and it needs minimum terrain fertility of 0.85. Can be harvested for normal wood.</AB_FanPalm.description>
+  <AB_KeeningCordax.label>keening cordax</AB_KeeningCordax.label>
+  <AB_KeeningCordax.description>The keening cordax is a carnivore plant so called for the high-pitched sound that it makes during the day. Its huge openings are filled with a smelly, sticky substance that attracts all kinds of small insects. These insects get stuck to this organic glue, and inevitably perish, serving as food for the plant.\n\nThis sticky substance, known as cordax resin, can be used as a very efficient sealant.\n\nPlant details: Keening cordax is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.7. Can be harvested for cordax resin.</AB_KeeningCordax.description>
+  <AB_TarPuddle.label>tar puddle</AB_TarPuddle.label>
+  <AB_TarPuddle.description>This is a puddle of fresh tar. No animal would eat this, right?</AB_TarPuddle.description>
+  <AB_AlienGrass.label>alien grass</AB_AlienGrass.label>
+  <AB_AlienGrass.description>This grass is completely alien, probably not even 100% carbon based. Not very edible for terrestrial creatures.</AB_AlienGrass.description>
+  <AB_RedLeaves.label>alien plant</AB_RedLeaves.label>
+  <AB_RedLeaves.description>This grass is completely alien, probably not even 100% carbon based. Not very edible for terrestrial creatures.</AB_RedLeaves.description>
+  <AB_RedPlantsTall.label>alien plant</AB_RedPlantsTall.label>
+  <AB_RedPlantsTall.description>This grass is completely alien, probably not even 100% carbon based. Not very edible for terrestrial creatures.</AB_RedPlantsTall.description>
+  <AB_AlienTree.label>alien tree</AB_AlienTree.label>
+  <AB_AlienTree.description>This tree is completely alien, probably not even 100% carbon based, and it seems to be struggling to grow from exposure to a terrestrial environment. Strange fruits resembling eyeballs hang from the tree, but they are probably not edible. Its wood releases a powerful, sweet scent. Perhaps its wood can be somehow useful.\n\nPlant details: Alien Trees are a cultivated plant that also appears in the wild, and it needs minimum terrain fertility of 0.05. Can be harvested for Red Wood.</AB_AlienTree.description>
+  <AB_HalfAlienTree.label>half transformed alien tree</AB_HalfAlienTree.label>
+  <AB_HalfAlienTree.description>A strange infection seems to be transforming this regular oak into an alien tree. It still retains its trunk and its leaves, though they are beginning to transform into pulsating red structures that don't seem to be able to survive in this universe. This tree might be useful to harvest a small amount of real wood.\n\nPlant details: Half transformed alien trees are a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.05. Can be harvested for normal wood.</AB_HalfAlienTree.description>
+  <AB_TentacularPlant.label>tentacular aberration</AB_TentacularPlant.label>
+  <AB_TentacularPlant.description>This tree is completely alien. The blue nodules at the end of each branch / tentacle produce an eerie rattling sound from time to time.\n\nPlant details: Tentacular aberrations are a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.05. Can be harvested for tentacular fruit.</AB_TentacularPlant.description>
+  <AB_GlobularPlant.label>globular aberration</AB_GlobularPlant.label>
+  <AB_GlobularPlant.description>A sickly pink orb supported by a network of gnarled branches. A reddish sap constantly drips from its wood, and seems to keep insects at bay.\n\nPlant details: Globular aberrations are a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.05. Can be harvested for red wood.</AB_GlobularPlant.description>
+  <AB_BloodBouquet.label>blood bouquet</AB_BloodBouquet.label>
+  <AB_BloodBouquet.description>A spiny plant with some kind of fruit hanging from its top. The fruit seems to be as hard as the trunk itself, and equally covered in spines.\n\nPlant details: Blood bouquet is a wild plant that cannot be cultivated, and it needs minimum terrain fertility of 0.05. Can be harvested for raw blood bouquet.</AB_BloodBouquet.description>
+</LanguageData>
