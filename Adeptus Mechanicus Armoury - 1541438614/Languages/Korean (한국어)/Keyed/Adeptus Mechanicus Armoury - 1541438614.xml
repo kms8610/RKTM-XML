@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OG_Geneseed_Details>Geneseed Details\nIntegrity: {0}, Stability: {1}, Mutation: {2}</OG_Geneseed_Details>
+  <OG_Geneseed_NoDetails>Geneseed Details\nUNKNOWN</OG_Geneseed_NoDetails>
+  <OG_Geneseed_ImplantationStagesLabel>{0} Astarte Transformation Implant Stage: {1}</OG_Geneseed_ImplantationStagesLabel>
+  <OG_Geneseed_ImplantationStagesDesc>Geneseed Organ implantation, it is through this process that the Imperiums finest warriors, the Adeptus Astartes are created.\n\nImplantation Stage: {0}\nThis Stage Implants: {1}</OG_Geneseed_ImplantationStagesDesc>
+  <OG_Geneseed_ImplantationLabel>{0} Astarte Transformation Implant: {1}</OG_Geneseed_ImplantationLabel>
+  <OG_Geneseed_ImplantationDesc>Geneseed Organ implantation, it is through this process that the Imperiums finest warriors, the Adeptus Astartes are created.\n\nImplantation Stage: {0}\nThis Stage Implants: {1}</OG_Geneseed_ImplantationDesc>
+  <AMAA_ModName>Astartes</AMAA_ModName>
+  <OGAA_ChapterEnabled>Enabled</OGAA_ChapterEnabled>
+  <OGAA_ChapterHidden>Hidden</OGAA_ChapterHidden>
+  <OGAA_ChapterStartActive>Start Active</OGAA_ChapterStartActive>
+  <OGAA_ChapterActiveChance>Chance</OGAA_ChapterActiveChance>
+  <AMAA_AstarteChapterSettings>Astarte Chapter Settings</AMAA_AstarteChapterSettings>
+  <AMAA_AstarteAvailableChapters>Available Astartes Chapters</AMAA_AstarteAvailableChapters>
+  <AMAA_AllowAdeptusAstartes>Adeptus Astartes: Hidden Faction</AMAA_AllowAdeptusAstartes>
+  <AMAA_AllowAdeptusAstartesDesc>Allows forces of the Adeptus Astartes to spawn in new games</AMAA_AllowAdeptusAstartesDesc>
+  <AMAA_AstarteUseOrgans>Astartes Organs Required</AMAA_AstarteUseOrgans>
+  <AMAA_AstarteUseOrgansToolTip>Astartes transformation requires organs</AMAA_AstarteUseOrgansToolTip>
+  <AMAA_AstarteEasyMode>Easy Astartes Mode</AMAA_AstarteEasyMode>
+  <AMAA_AstarteEasyModeToolTip>Vastly reduced the difficulty of creating Astartes</AMAA_AstarteEasyModeToolTip>
+  <AMAA_AstarteMaleOnly>Male Only</AMAA_AstarteMaleOnly>
+  <AMAA_AstarteMaleOnlyToolTip>Allow creation of Female Astartes if disabled</AMAA_AstarteMaleOnlyToolTip>
+  <AMAA_AstarteAgeMatters>Age Matters</AMAA_AstarteAgeMatters>
+  <AMAA_AstarteAgeMattersToolTip>If enabled, pawns older than {0} or younger than {1} are less likely to survive the transformation process</AMAA_AstarteAgeMattersToolTip>
+  <LetterLabelAMXBEldarUpdate> Adeptus Mechanicus: Xenobiologis Eldar Update </LetterLabelAMXBEldarUpdate>
+  <AMXBEldarUpdate> 
+  - added update notice
+  
+  </AMXBEldarUpdate>
+  <AM_ModSeries>Adeptus Mechanicus</AM_ModSeries>
+  <AMA_ModName>Armoury</AMA_ModName>
+  <AMA_ShowSpecialRules>Special Rules: General</AMA_ShowSpecialRules>
+  <AMA_ShowSpecialRulesDesc>Shows Options related to general special rules.</AMA_ShowSpecialRulesDesc>
+  <AMA_AllowDeepStrike>Enable "DeepStrike" special rule</AMA_AllowDeepStrike>
+  <AMA_AllowDeepStrikeDesc>"DeepStrike" enables units with this special rule to deploy directly into the heat of battle.</AMA_AllowDeepStrikeDesc>
+  <AMA_DeepStrikeType_Drop>Drop pods</AMA_DeepStrikeType_Drop>
+  <AMA_DeepStrikeType_Flight>Flight</AMA_DeepStrikeType_Flight>
+  <AMA_DeepStrikeType_Tunnel>Tunnels</AMA_DeepStrikeType_Tunnel>
+  <AMA_DeepStrikeType_Teleport>Teleporters</AMA_DeepStrikeType_Teleport>
+  <AMA_AllowInfiltrate>Enable "Infiltrate" special rule</AMA_AllowInfiltrate>
+  <AMA_AllowInfiltrateDesc>"Infiltrate" enables units with this special rule to deploy in hidden positions ahead of the main force.</AMA_AllowInfiltrateDesc>
+  <AMA_ShowWeaponSpecialRules>Special Rules: Weapons</AMA_ShowWeaponSpecialRules>
+  <AMA_ShowWeaponSpecialRulesDesc>Shows Options related to weapon special rules</AMA_ShowWeaponSpecialRulesDesc>
+  <AMA_AllowRapidFire>Enable "Rapid Fire" special rule</AMA_AllowRapidFire>
+  <AMA_AllowRapidFireDesc>Weapons with the "Rapid Fire" special rule shoot twice as many rounds per burst and cooldown is reduced by half when a target is with half of its max range.</AMA_AllowRapidFireDesc>
+  <AMA_AllowGetsHot>Enable "Gets Hot" special rule</AMA_AllowGetsHot>
+  <AMA_AllowGetsHotDesc>Weapons with the "Gets Hot" special rule have a chance to overheat when fired, this can have varios results, from light burn damage to the weapon exploding.</AMA_AllowGetsHotDesc>
+  <AMA_AllowJams>Enable "Jams" special rule</AMA_AllowJams>
+  <AMA_AllowJamsDesc>Weapons with the "Jams" special rule have a chance to jam each time its fired, interupting its burst and forcing it into an extended cooldown, this jam can damage the weapon.</AMA_AllowJamsDesc>
+  <AMA_AllowMultiShot>Enable "Multi Shot" special rule</AMA_AllowMultiShot>
+  <AMA_AllowMultiShotDesc>Weapons with the "Multi Shot" special rule function like shotguns, firing a cluster of projectiles each time its fired.</AMA_AllowMultiShotDesc>
+  <AMA_AllowUserEffects>Enable "User Effect" special rule</AMA_AllowUserEffects>
+  <AMA_AllowUserEffectsDesc>Weapons with the "User Effect" special rule have a negative effect that have a chance to affect the user each time a weapon is fired/used.</AMA_AllowUserEffectsDesc>
+  <AMA_AllowForceWeaponEffect>Enable "Force Weapon" special rule</AMA_AllowForceWeaponEffect>
+  <AMA_AllowForceWeaponEffectDesc>Weapons with the "Force Weapon" special rule when wielded by a psyker(Psychically Sensitive) can instantly kill or down their target with a single hit.</AMA_AllowForceWeaponEffectDesc>
+  <AMA_AllowRendingMeleeEffect>Enable Melee "Rending" special rule</AMA_AllowRendingMeleeEffect>
+  <AMA_AllowRendingMeleeEffectDesc>Weapons with the Melee "Rending" special rules attacks have a chance to ignore all armour</AMA_AllowRendingMeleeEffectDesc>
+  <AMA_AllowRendingRangedEffect>Enable Ranged "Rending" special rule</AMA_AllowRendingRangedEffect>
+  <AMA_AllowRendingRangedEffectDesc>Weapons with the Ranged "Rending" special rules projectiles have a chance to ignore all armour</AMA_AllowRendingRangedEffectDesc>
+  <AMA_ShowAllowedWeapons>Enabled Weaponry</AMA_ShowAllowedWeapons>
+  <AMA_ShowAllowedWeaponsDesc>Shows Options related to weapons</AMA_ShowAllowedWeaponsDesc>
+  <AMA_AllowImperialWeapons>Imperial Weaponry</AMA_AllowImperialWeapons>
+  <AMA_AllowImperialWeaponsDesc>Allows Imperial Weaponry to spawn (Required for Imperial Factions to spawn)</AMA_AllowImperialWeaponsDesc>
+  <AMA_AllowMechanicusWeapons>Mechanicus Weaponry</AMA_AllowMechanicusWeapons>
+  <AMA_AllowMechanicusWeaponsDesc>Allows Mechanicus Weaponry to spawn (Required for Mechanicus Factions to spawn)</AMA_AllowMechanicusWeaponsDesc>
+  <AMA_AllowChaosWeapons>Chaos Weaponry</AMA_AllowChaosWeapons>
+  <AMA_AllowChaosWeaponsDesc>Allows Chaos Weaponry to spawn (Required for Chaos Factions to spawn)</AMA_AllowChaosWeaponsDesc>
+  <AMA_AllowEldarWeapons>Eldar Weaponry</AMA_AllowEldarWeapons>
+  <AMA_AllowEldarWeaponsDesc>Allows Eldar Weaponry to spawn (Required for Eldar Weaponry Factions to spawn)</AMA_AllowEldarWeaponsDesc>
+  <AMA_AllowDarkEldarWeapons>Dark Eldar Weaponry</AMA_AllowDarkEldarWeapons>
+  <AMA_AllowDarkEldarWeaponsDesc>Allows Dark Eldar Weaponry to spawn (Required for Dark Eldar Factions to spawn)</AMA_AllowDarkEldarWeaponsDesc>
+  <AMA_AllowTauWeapons>Tau Weaponry</AMA_AllowTauWeapons>
+  <AMA_AllowTauWeaponsDesc>Allows Tau Weaponry to spawn (Required for Tau Factions to spawn)</AMA_AllowTauWeaponsDesc>
+  <AMA_AllowOrkWeapons>Ork Weaponry</AMA_AllowOrkWeapons>
+  <AMA_AllowOrkWeaponsDesc>Allows Ork Weaponry to spawn (Required for Ork Factions to spawn)</AMA_AllowOrkWeaponsDesc>
+  <AMA_AllowNecronWeapons>Necron Weaponry</AMA_AllowNecronWeapons>
+  <AMA_AllowNecronWeaponsDesc>Allows Necron Weaponry to spawn (Required for Necron Factions to spawn)</AMA_AllowNecronWeaponsDesc>
+  <AMA_AllowTyranidWeapons>Tyranid Weaponry</AMA_AllowTyranidWeapons>
+  <AMA_AllowTyranidWeaponsDesc>Allows Tyranid Weaponry to spawn (Required for Tyranid Factions to spawn)</AMA_AllowTyranidWeaponsDesc>
+  <AMA_SpecialRules>Special Rules:</AMA_SpecialRules>
+  <AMA_Hotshot>Hotshot</AMA_Hotshot>
+  <AMA_Overcharged>Overcharged</AMA_Overcharged>
+  <AMA_Combi>Combi-Weapon</AMA_Combi>
+  <AMA_HeavyWeapon>Heavy Weapon</AMA_HeavyWeapon>
+  <AMA_TwinLinked>Twin-Linked</AMA_TwinLinked>
+  <AMA_TwinLinkedDesc>Fires two projectiles per shot</AMA_TwinLinkedDesc>
+  <AMA_RapidFire>Rapid Fire</AMA_RapidFire>
+  <AMA_RapidFireDesc>Full Firing Cycle time reduced from {5} to {6} when firing at targets within {4} cells.\nWarmup reduced by {0}% ({1} seconds) and Cooldown by {2}% ({3} seconds).</AMA_RapidFireDesc>
+  <AMA_GetsHot>Gets Hot!</AMA_GetsHot>
+  <AMA_GetsHotDesc>This {0} is {1} and has a {2} chance to overheat per shot fired.</AMA_GetsHotDesc>
+  <AMA_GetsHotWeaponDamage> Overheats cause {0} damage to the {1}.</AMA_GetsHotWeaponDamage>
+  <AMA_GetsHotCrit>it has a {0} chance to critically overheat, causing more damage to user and weapon.</AMA_GetsHotCrit>
+  <AMA_GetsHotCritExplosion>Critical overheats have a {0} chance of cuasing the weapon to explode.</AMA_GetsHotCritExplosion>
+  <AMA_Jams>Jams</AMA_Jams>
+  <AMA_JamsDesc>This {0} is {1} and has a {2} chance to jam per shot fired.</AMA_JamsDesc>
+  <AMA_JamsWeaponDamage> Jamming causes {0} damage to the {1}.</AMA_JamsWeaponDamage>
+  <AMA_Scatter>Scatter-shot</AMA_Scatter>
+  <AMA_ScatterDesc>Fires {0} perjectiles per shot</AMA_ScatterDesc>
+  <AMA_Melta>Melta</AMA_Melta>
+  <AMA_MeltaDesc>Damage Vs Buildings and AP doubled when firing at targets within {0} cells.</AMA_MeltaDesc>
+  <AMA_Volkite>Volkite</AMA_Volkite>
+  <AMA_VolkiteDesc>AP begins to drop off when firing at targets over {0} cells.</AMA_VolkiteDesc>
+  <AMA_Gauss>Gauss</AMA_Gauss>
+  <AMA_GaussDesc>has a {0} chance to ignore all armour</AMA_GaussDesc>
+  <AMA_Haywire>Haywire</AMA_Haywire>
+  <AMA_HaywireDesc>Additional EMP damage.</AMA_HaywireDesc>
+  <AMA_Tesla>Tesla</AMA_Tesla>
+  <AMA_TeslaDesc>Bolt can arc to up to 3 nearby targets.</AMA_TeslaDesc>
+  <AMA_ConversionBeam>Conversion Beam</AMA_ConversionBeam>
+  <AMA_ConversionBeamDesc>Damage and AP increase the further the target is away.</AMA_ConversionBeamDesc>
+  <OG_ToggleFireModeCommandLabel>Switch to: {0}</OG_ToggleFireModeCommandLabel>
+  <OG_Toggle_Wargear>Equip Slot</OG_Toggle_Wargear>
+  <OG_Toggle_Hood>Toggle Hood</OG_Toggle_Hood>
+  <OG_Toggle_Goggle>Toggle Goggles</OG_Toggle_Goggle>
+  <OG_Customize>Customize</OG_Customize>
+  <AMA_Rending_Shot>Rending shot</AMA_Rending_Shot>
+  <AMA_Rending_ShotDesc>has a {0} chance to ignore all armour</AMA_Rending_ShotDesc>
+  <AMA_Rending_Strike>Rending strike</AMA_Rending_Strike>
+  <AMA_Force_Strike>{0} has been {1} by a Force strike!</AMA_Force_Strike>
+  <AMA_Distorting_Shot>Distorting: Warp Rift</AMA_Distorting_Shot>
+  <AMA_Phased_Out>the shot passes harmlessly through the {1}</AMA_Phased_Out>
+  <AMA_DeepStrike_Incomming>{0} Deep Strike detected!</AMA_DeepStrike_Incomming>
+  <AMA_DeepStrike_Incomming_Letter>A group of {0} are joining the battle via Deep Strike using {1}!</AMA_DeepStrike_Incomming_Letter>
+  <AMA_Infiltrators_Revealed>{0} Infiltrators revealed!</AMA_Infiltrators_Revealed>
+  <AMA_Infiltrators_Revealed_Letter>A group of {0} infiltrating were revealed!</AMA_Infiltrators_Revealed_Letter>
+  <AM_PlaceWorker_OnTopOfWalls>Can only be placed on Walls or Smoothed Stone</AM_PlaceWorker_OnTopOfWalls>
+  <OG_GrowerCraftingProgress>Status</OG_GrowerCraftingProgress>
+  <OG_GrowerStatus>Status</OG_GrowerStatus>
+  <OG_GrowerStatus_Idle>Idle</OG_GrowerStatus_Idle>
+  <OG_GrowerStatus_Filling>Filling for</OG_GrowerStatus_Filling>
+  <OG_GrowerStatus_Crafting>Growing</OG_GrowerStatus_Crafting>
+  <OG_GrowerStatus_Finished>Finished</OG_GrowerStatus_Finished>
+  <OG_GrowerIngredientsNeeded>Need</OG_GrowerIngredientsNeeded>
+  <OG_GrowerIngredientsFilled>Filled</OG_GrowerIngredientsFilled>
+  <OG_VatGrowerProduct>Product</OG_VatGrowerProduct>
+  <OG_VatGrowerScientistMaintence>Researcher maintence</OG_VatGrowerScientistMaintence>
+  <OG_VatGrowerDoctorMaintence>Doctoring maintence</OG_VatGrowerDoctorMaintence>
+  <OG_VatGrowerStartCraftingGizmoLabel>Start growing</OG_VatGrowerStartCraftingGizmoLabel>
+  <OG_VatGrowerStartCraftingGizmoDescription>Selects a organ to grow and then start filling the vat with the needed ingredients.</OG_VatGrowerStartCraftingGizmoDescription>
+  <OG_VatGrowerStartCraftingFloatMenuDisabled>{0} (Require research: {1})</OG_VatGrowerStartCraftingFloatMenuDisabled>
+  <OG_VatGrowerStopCraftingGizmoLabel>Stop growing</OG_VatGrowerStopCraftingGizmoLabel>
+  <OG_VatGrowerStopCraftingGizmoDescription>Stops the growing process. Refunds inserted ingredients if the process was not started.</OG_VatGrowerStopCraftingGizmoDescription>
+  <OG_CustomNameCompGizmoLabel>Set custom name</OG_CustomNameCompGizmoLabel>
+  <OG_CustomNameCompGizmoDescription>Sets a custom name which can be easily indentifiable.</OG_CustomNameCompGizmoDescription>
+  <OG_VatGrowerGenomesHint>No available genomes. Get them by making 'Genome Sequencers' in machining tables, then use them.</OG_VatGrowerGenomesHint>
+  <OG_CustomNameCompDialogTitle>Set custom name for {0}</OG_CustomNameCompDialogTitle>
+  <OG_GenomeSequencerDescription_Name>Source name</OG_GenomeSequencerDescription_Name>
+  <OG_GenomeSequencerDescription_Race>Race</OG_GenomeSequencerDescription_Race>
+  <OG_GenomeSequencerDescription_Gender>Gender</OG_GenomeSequencerDescription_Gender>
+  <OG_GenomeSequencerDescription_Traits>Traits</OG_GenomeSequencerDescription_Traits>
+  <OG_GenomeSequencerSalvage>Salvage genome from corpse ({0} chance)</OG_GenomeSequencerSalvage>
+  <OG_AlertMaintenceRequiredLabel>Vat maintence required</OG_AlertMaintenceRequiredLabel>
+  <OG_AlertMaintenceRequiredExplanation>These growers require maintence or they will lose what they are growing and materials will be wasted!\n\nSend a doctor or researcher to maintain at once.</OG_AlertMaintenceRequiredExplanation>
+  <OG_MessageGrowingDone>Growing {0} is done.</OG_MessageGrowingDone>
+  <OG_LetterHumanlikeGrownLabel>Vatgrown clone made</OG_LetterHumanlikeGrownLabel>
+  <OG_LetterHumanlikeGrownDescription>Welcome vatgrown clone {0} to the colony!\n\nYou can either train them up from scratch with the help of their natural affinities or apply a Brain scan template on them to give them a skillset right away.</OG_LetterHumanlikeGrownDescription>
+  <OG_BrainScanningRejectInput>{0} was rejected due to no valid bed could be found.</OG_BrainScanningRejectInput>
+  <OG_BrainScanningApplyTemplate>Apply brain scan template</OG_BrainScanningApplyTemplate>
+  <OG_BrainScanningFloatMenuLabel>Apply brain scan template to {0}</OG_BrainScanningFloatMenuLabel>
+  <OG_BrainScanningFloatMenuLabelDisabled>{0} (No bed)</OG_BrainScanningFloatMenuLabelDisabled>
+  <OG_BrainScanDescription_BackshortChild>Childhood backstory</OG_BrainScanDescription_BackshortChild>
+  <OG_BrainScanDescription_BackshortAdult>Adulthood backstory</OG_BrainScanDescription_BackshortAdult>
+  <OG_BrainScanDescription_Skills>Stored skills</OG_BrainScanDescription_Skills>
+  <OG_BrainScanDescription_Training>Stored training</OG_BrainScanDescription_Training>
+  <MechanoidEngram_Label>{0} Engram</MechanoidEngram_Label>
+  <MechanoidEngram_Desc>This engram produces a {0}.</MechanoidEngram_Desc>
+  <OG_ApparelTool>Inbuilt Melee Weapon</OG_ApparelTool>
+  <OG_ApparelToolDesc>Inbuilt Melee Weapon: {0}.</OG_ApparelToolDesc>
+  <VG_ContainsIngredient>Contains {0} / {1} {2}.</VG_ContainsIngredient>
+  <VG_ContainsProduct>Contains {0} / {1} {2}.</VG_ContainsProduct>
+  <VG_NoIngredient>need ingredients</VG_NoIngredient>
+  <VG_IdealSafeFermentingTemperature>Ideal (safe) fermenting temp</VG_IdealSafeFermentingTemperature>
+  <VG_Finished>Finished</VG_Finished>
+  <VG_Ideal>Ideal</VG_Ideal>
+  <VG_Safe>Safe</VG_Safe>
+  <AdeptusMechanicus.FactionTitle>New faction: {FactionName}</AdeptusMechanicus.FactionTitle>
+  <AdeptusMechanicus.ModInfo>This faction is added by {ModName} and not currently present in your game.</AdeptusMechanicus.ModInfo>
+  <AdeptusMechanicus.AnUnknownMod>an unknown mod</AdeptusMechanicus.AnUnknownMod>
+  <AdeptusMechanicus.HiddenFactionInfo>This is a hidden faction and won't show up in your faction list.</AdeptusMechanicus.HiddenFactionInfo>
+  <AdeptusMechanicus.RequiredFactionInfo>It is marked as required by {ModName}.</AdeptusMechanicus.RequiredFactionInfo>
+  <AdeptusMechanicus.NonSpawningFactionInfo>This faction is marked as non-spawning and you should probably just ignore it.</AdeptusMechanicus.NonSpawningFactionInfo>
+  <AdeptusMechanicus.FactionSelectOption>Please select how to proceed:</AdeptusMechanicus.FactionSelectOption>
+  <AdeptusMechanicus.FactionButtonAdd>Add the faction</AdeptusMechanicus.FactionButtonAdd>
+  <AdeptusMechanicus.FactionButtonAddFull>Add the faction with settlements</AdeptusMechanicus.FactionButtonAddFull>
+  <AdeptusMechanicus.FactionButtonRemove>Remove the faction</AdeptusMechanicus.FactionButtonRemove>
+  <AdeptusMechanicus.FactionButtonRemoveFull>Remove the faction and settlements</AdeptusMechanicus.FactionButtonRemoveFull>
+  <AdeptusMechanicus.FactionButtonSkip>Do nothing</AdeptusMechanicus.FactionButtonSkip>
+  <AdeptusMechanicus.FactionButtonIgnore>Don't ask for this faction again</AdeptusMechanicus.FactionButtonIgnore>
+  <AdeptusMechanicus.FactionMessageFailed>Failed to add the faction.</AdeptusMechanicus.FactionMessageFailed>
+  <AdeptusMechanicus.FactionMessageFailedFull>Failed to create a faction with settlements.</AdeptusMechanicus.FactionMessageFailedFull>
+  <AdeptusMechanicus.FactionMessageSuccessFull>Added {FactionName} with {Amount} settlements.</AdeptusMechanicus.FactionMessageSuccessFull>
+  <AdeptusMechanicus.FactionMessageSuccess>Added {FactionName}.</AdeptusMechanicus.FactionMessageSuccess>
+  <AdeptusMechanicus.FactionSettlementsToSpawn>Settlements to spawn (recommended are {0}): {1}</AdeptusMechanicus.FactionSettlementsToSpawn>
+  <AdeptusMechanicus.FactionMinDistance>The minimum distance from player bases (recommended are {0}): {1}</AdeptusMechanicus.FactionMinDistance>
+  <AdeptusMechanicus.FactionButtonSpawn>Spawn</AdeptusMechanicus.FactionButtonSpawn>
+  <AdeptusMechanicus.FactionButtonCancel>Cancel</AdeptusMechanicus.FactionButtonCancel>
+  <DB_Deployed>Deployed</DB_Deployed>
+  <DB_Retracted>Retracted</DB_Retracted>
+  <DB_ToggleModeCommandLabel>Mode Toggle</DB_ToggleModeCommandLabel>
+  <DB_ToggleModeCommandDesc>Toggles this barriacdes mode.</DB_ToggleModeCommandDesc>
+  <LetterLabelAMArmouryUpdate> Adeptus Mechanicus: Armoury Update </LetterLabelAMArmouryUpdate>
+  <AMArmouryUpdate> 
+	Total overhaul and rewrite of weapon special rules (no longer requires custom verbs).
+	Large internal restructure, renaming to match conventions, this may cause issues with some items in save files.
+	Retextures of most weapons to try to bring them more inline with RimWorlds Style.
+	Retexture Servo-Skull.
+	Added New weapons (Grot Blasta, Dakka Deffgun, Beamy Deffgun, Rokkit Launcha, Kombi-Burna, Kombi-Rokkit, Burna, Scorcha, Entrenching tool, Vanahime, Lucius Pattern Lasgun, Exitus Pistol, Exitus Rifle, Heavy Gauss Cannon, Tesla Carbine, Twin-Linked Tesla Carbine, Twin-Linked Gauss Blaster, Particle Projector, Synaptic Disintergrator, Kroot Pistol, Kroot Hunter Rifle, Reaper Chaingun, Traitor Missile Launcher, Volkite Serpenta, Volkite Charger, Volkite Caliver, Conversion Beamer, Flechette Blaster, Hand Flamer)
+	Added Imperial Tempest Scion Carapace Armour
+	Added Mod Options: for most features in the mod, including race and weapon special rules, weapon spawning.
+	Added Deep Strike functionality: Allows units with this ability to stay in reserve and deploy directly into the action during the battle.
+	Added Infiltrator functionality: Allows units with this ability to deploy ahead of the main force at the start of a battle.
+	Added Drop Pod Overrides: Allows faction specific Droppods or alternate methods of insertion.
+	Added Twin Linked special rule: Weapons marked with this are now the same profile as normal versions, but fire 2 shots at a time.
+	Added Rending Special rule: Weapons marked with the Rending Rule have a chance to ignore all armour(Melee Weapons: only select verbs attacks are rending)(Ranged Weapons: Only the marked verbs attacks are rending)
+	Added Arcing Special rule: Necron Tesla Weapons have a chance to jump to up to 3 extra nearby targets
+	Added Volkite Special rule: Volkite Weapons AP begins to falloff at over half range.
+	Added Conversion Beamer Special rule: Conversion Beam Weapons do more damage to targets the further they are away (base damage + distance to target).
+	Added Random Weapon Graphics: Allows weapons to choose from a list of graphics, giving more visual variety (Grot Blasta ,Choppas, Autopistol, LasPistol, LasGun, LongLas, Lucius LasGun).
+	Added Quality Based Weapon Grapgics: Allows weapons to use different graphics dependant on quality(Imperial Power Sword)
+	Added Move Through Cover special rule: Units with this rule do not take a movement penalty when moving though most terrain types (Pathfinding remains unchanged currently however).
+	Added Ranged Hediff Verbs: allows hediffs to give ranged attacks.
+	Added Hediff Shields: Allows hediffs to give shields.
+	Added Compasite Apparel: Allows apparel to render secondry parts, such as pauldrons and backpacks.
+	Added Extras Apparel: Special apparel for drawing extra wargear peices equipped by pawns.
+	Swapped from using JecsTools lasers to RimLaser Lasers (Thanks AUTOMATIC!)
+	Added Extra Functionality to RimLasers, including randomized and animated laser textures, and lightning beam effects.
+	Added smoke trails to Flamer projectiles and Bolts.
+	Added compatability patch between JecsTools OverSizedWeapons, ActivateableEffects ands Roolo's Dual Wield, these should now correctly display.
+	Probobly a bunch of other crap i cant remember too.
+  </AMArmouryUpdate>
+  <AME_ModName>Eldar</AME_ModName>
+  <AMO_ModName>Orkz</AMO_ModName>
+  <AMO_FungusOptions>Fungus Spawn Chance:</AMO_FungusOptions>
+  <AMO_FungusOptionsToolTip>&lt;b>&lt;color=orange>Orkoid Fungus&lt;/color>&lt;/b> spawnrate options/nBase chance to spawn a Pawn when harvested</AMO_FungusOptionsToolTip>
+  <AMO_CocoonOptions>Cocoon Spawn Chance:</AMO_CocoonOptions>
+  <AMO_CocoonOptionsToolTip>&lt;b>&lt;color=orange>Orkoid Cocoon&lt;/color>&lt;/b> spawnrate options/nBase chance to spawn a Pawn when harvested</AMO_CocoonOptionsToolTip>
+  <AMO_Squig>Squig weight:</AMO_Squig>
+  <AMO_SquigToolTip>Controls how often a &lt;b>&lt;color=orange>Squig&lt;/color>&lt;/b> is spawned when fungus harvested</AMO_SquigToolTip>
+  <AMO_Snot>Snotling weight:</AMO_Snot>
+  <AMO_SnotToolTip>Controls how often a &lt;b>&lt;color=orange>Snotling&lt;/color>&lt;/b> is spawned when fungus harvested</AMO_SnotToolTip>
+  <AMO_Grot>Grot weight:</AMO_Grot>
+  <AMO_GrotToolTip>Controls how often a &lt;b>&lt;color=orange>Grot&lt;/color>&lt;/b> is spawned when fungus harvested</AMO_GrotToolTip>
+  <AMO_Ork>Ork weight:</AMO_Ork>
+  <AMO_OrkToolTip>Controls how often a &lt;b>&lt;color=orange>Ork&lt;/color>&lt;/b> is spawned when fungus harvested</AMO_OrkToolTip>
+  <AMO_Chance>weight:</AMO_Chance>
+  <OG_AMXO_NonOrkoidTamer>Only Orks and Grots can tame {0}'s</OG_AMXO_NonOrkoidTamer>
+  <OGOrk_FungalHarvest_SuccessMessage>{0} found a newly emerged {1} while harvesting fungus</OGOrk_FungalHarvest_SuccessMessage>
+  <OGOrk_FungalHarvest_FailMessage>found nothing of interest</OGOrk_FungalHarvest_FailMessage>
+  <LetterLabelAMXBOrkzUpdate> Adeptus Mechanicus: Xenobiologis Orkz Update </LetterLabelAMXBOrkzUpdate>
+  <AMXBOrkzUpdate> 
+  - Added update notice
+  - Added Orkoid Fungi
+	All Orkoid races are symbiotic with species of fungus. In fact, all of them grow from the same spores - depending on conditions the same spore may grow to a mighty Warboss or a harmless fungi. 
+	In this way, Orkoids are not just a race, but a whole ecosystem in itself. When Orks invade new worlds, this ecosystem grows. It is widely known that once a world is invaded by Orks, it is never entirely free from them again. Ork spores grow in the wilderness, giving birth to a new forms of Orkoid life. 
+	
+	Different forms of Orkoid Fungus play essential roles in Ork society. Ork Settlements are surrounded by great patches of the fungi. Cultivated by Snotlings, they are a primal source of food in Ork society.
+  - Added Orkoid Fungal Cocoon Incedent
+  </AMXBOrkzUpdate>
+  <AMK_ModName>Kroot</AMK_ModName>
+  <OGKroot_Genetic_Absorb_Add>{0} gained the {1} trait from {2}'s corpse</OGKroot_Genetic_Absorb_Add>
+  <OGKroot_Genetic_Absorb_Replace>{0} gained the {1} trait from {2}'s corpse, it replaced their {3} trait</OGKroot_Genetic_Absorb_Replace>
+  <AMT_ModName>Tau</AMT_ModName>
+  <LetterLabelAMXBTauUpdate> Adeptus Mechanicus: Xenobiologis Tau Update </LetterLabelAMXBTauUpdate>
+  <AMXBTauUpdate> 
+  - added update notice
+  
+  </AMXBTauUpdate>
+  <AMV_ModName>Vespid</AMV_ModName>
+  <AMXB_ModName>Xenobiologis</AMXB_ModName>
+  <AMXB_NotYetAvailable>: Not Yet Available</AMXB_NotYetAvailable>
+  <AMXB_Faction>: Faction</AMXB_Faction>
+  <AMXB_HiddenFaction>: Hidden Faction</AMXB_HiddenFaction>
+  <AMXB_Auxiliaries>: Auxiliaries</AMXB_Auxiliaries>
+  <AMXB_AllowedRaces>Enabled Races.</AMXB_AllowedRaces>
+  <AMXB_RaceOptions>Race Options.</AMXB_RaceOptions>
+  <AMXB_ForceRelations>Logical Racial Relations</AMXB_ForceRelations>
+  <AMXB_ForceRelationsDesc>Forces racial relations to match Lore more closely</AMXB_ForceRelationsDesc>
+  <AMXB_ShowImperium>Show Imperial Forces</AMXB_ShowImperium>
+  <AMXB_ShowImperiumDesc>Forces of the Imperium</AMXB_ShowImperiumDesc>
+  <AMXB_AllowAdeptusAstartes>Adeptus Astartes</AMXB_AllowAdeptusAstartes>
+  <AMXB_AllowAdeptusAstartesDesc>Allows forces of the Adeptus Astartes to spawn in new games</AMXB_AllowAdeptusAstartesDesc>
+  <AMXB_AllowAdeptusMechanicus>Adeptus Mechanicus</AMXB_AllowAdeptusMechanicus>
+  <AMXB_AllowAdeptusMechanicusDesc>Allows forces of the Adeptus Mechanicus to spawn in new games</AMXB_AllowAdeptusMechanicusDesc>
+  <AMXB_AllowAdeptusMilitarum>Adeptus Militarum</AMXB_AllowAdeptusMilitarum>
+  <AMXB_AllowAdeptusMilitarumDesc>Allows forces of the Adeptus Militarum to spawn in new games</AMXB_AllowAdeptusMilitarumDesc>
+  <AMXB_AllowAdeptusSororitas>Adeptus Sororitas</AMXB_AllowAdeptusSororitas>
+  <AMXB_AllowAdeptusSororitasDesc>Allows forces of the Adeptus Sororitas to spawn in new games</AMXB_AllowAdeptusSororitasDesc>
+  <AMXB_ShowChaos>Show Chaos Forces</AMXB_ShowChaos>
+  <AMXB_AllowChaos>Forces of Chaos</AMXB_AllowChaos>
+  <AMXB_AllowChaosDesc>Forces of Chaos</AMXB_AllowChaosDesc>
+  <AMXB_AllowChaosMarine>Chaos Space Marines</AMXB_AllowChaosMarine>
+  <AMXB_AllowChaosMarineDesc>Allows forces of the Chaos Space Marines to spawn in new games</AMXB_AllowChaosMarineDesc>
+  <AMXB_AllowChaosMechanicus>Dark Mechanicus</AMXB_AllowChaosMechanicus>
+  <AMXB_AllowChaosMechanicusDesc>Allows forces of the Dark Mechanicus to spawn in new games</AMXB_AllowChaosMechanicusDesc>
+  <AMXB_AllowChaosGuard>Traitor Guardsmen</AMXB_AllowChaosGuard>
+  <AMXB_AllowChaosGuardDesc>Allows forces of the Traitor Guardsmen to spawn in new games</AMXB_AllowChaosGuardDesc>
+  <AMXB_AllowChaosDeamons>Chaos Deamons</AMXB_AllowChaosDeamons>
+  <AMXB_AllowChaosDeamonsDesc>Allows forces of the Chaos Deamons to spawn in new games</AMXB_AllowChaosDeamonsDesc>
+  <AMXB_AllowChaosDeamonicIncursion>Deamonic Incusion incident</AMXB_AllowChaosDeamonicIncursion>
+  <AMXB_AllowChaosDeamonicIncursionDesc>Deamonic Incusion incident</AMXB_AllowChaosDeamonicIncursionDesc>
+  <AMXB_AllowChaosDeamonicInfestation>Deamonic Infestation incident</AMXB_AllowChaosDeamonicInfestation>
+  <AMXB_AllowChaosDeamonicInfestationDesc>Deamonic Infestation incident</AMXB_AllowChaosDeamonicInfestationDesc>
+  <AMXB_EndTimesChaosDeamonIntergration>End Times Daemonic Intergration</AMXB_EndTimesChaosDeamonIntergration>
+  <AMXB_EndTimesChaosDeamonIntergrationDesc>Enables intergration between Xenobiologis and Rimhammer: The End Times for Chaos Deamons</AMXB_EndTimesChaosDeamonIntergrationDesc>
+  <AMXB_EndTimesChaosDeamonIntergration_GreatPortal>Great Portal Intergration</AMXB_EndTimesChaosDeamonIntergration_GreatPortal>
+  <AMXB_EndTimesChaosDeamonIntergration_GreatPortalDesc>Adds Xenobiologis Chaos Deamons to End Times Great Portals</AMXB_EndTimesChaosDeamonIntergration_GreatPortalDesc>
+  <AMXB_EndTimesChaosDeamonIntergration_SmallPortal>Small Portal Intergration</AMXB_EndTimesChaosDeamonIntergration_SmallPortal>
+  <AMXB_EndTimesChaosDeamonIntergration_SmallPortalDesc>Adds Xenobiologis Chaos Deamons to End Times Small Portals</AMXB_EndTimesChaosDeamonIntergration_SmallPortalDesc>
+  <AMXB_AllowWarpstorm>Warpstorm incident</AMXB_AllowWarpstorm>
+  <AMXB_AllowWarpstormDesc>Warpstorm incident</AMXB_AllowWarpstormDesc>
+  <AMXB_ShowDarkEldar>Show Dark Eldar Forces</AMXB_ShowDarkEldar>
+  <AMXB_AllowDarkEldar>Dark Eldar</AMXB_AllowDarkEldar>
+  <AMXB_AllowDarkEldarDesc>Allows forces of the Dark Eldar to spawn in new games</AMXB_AllowDarkEldarDesc>
+  <AMXB_ShowEldar>Show Eldar Forces</AMXB_ShowEldar>
+  <AMXB_AllowEldarCraftworld>Craftworld Eldar</AMXB_AllowEldarCraftworld>
+  <AMXB_AllowEldarCraftworldDesc>Allows forces of the Craftworld Eldar</AMXB_AllowEldarCraftworldDesc>
+  <AMXB_AllowEldarWraithguard>Wraithgaurd</AMXB_AllowEldarWraithguard>
+  <AMXB_AllowEldarWraithguardDesc>Give Craftworld Eldar Access to Wraithgaurd units</AMXB_AllowEldarWraithguardDesc>
+  <AMXB_AllowEldarExodite>Exodite Eldar</AMXB_AllowEldarExodite>
+  <AMXB_AllowEldarExoditeDesc>Adds an Exodite Eldar population to the planet</AMXB_AllowEldarExoditeDesc>
+  <AMXB_AllowEldarHarlequinn>Harlequinn Eldar</AMXB_AllowEldarHarlequinn>
+  <AMXB_AllowEldarHarlequinnDesc>Harlequinn Eldar are known to frequent this planet</AMXB_AllowEldarHarlequinnDesc>
+  <AMXB_ShowNecron>Show Necron Forces</AMXB_ShowNecron>
+  <AMXB_AllowNecron>Necron</AMXB_AllowNecron>
+  <AMXB_AllowNecronDesc>Necron</AMXB_AllowNecronDesc>
+  <AMXB_AllowNecronWellBeBack>We'll be Back special rule</AMXB_AllowNecronWellBeBack>
+  <AMXB_AllowNecronWellBeBackDesc>Enables Necron We'll be Back special rule</AMXB_AllowNecronWellBeBackDesc>
+  <AMXB_AllowNecronMonolith>Monolith incident</AMXB_AllowNecronMonolith>
+  <AMXB_AllowNecronMonolithDesc>Monolith incident</AMXB_AllowNecronMonolithDesc>
+  <AMXB_ShowOrk>Show Ork Forces</AMXB_ShowOrk>
+  <AMXB_AllowOrk>Orkz</AMXB_AllowOrk>
+  <AMXB_AllowOrkDesc>Orkz: Ork/Feral Orkz Factions and Ork Rok incident</AMXB_AllowOrkDesc>
+  <AMXB_AllowOrkTek>Tek Orkz</AMXB_AllowOrkTek>
+  <AMXB_AllowOrkTekDesc>Tek Orkz to spawn in new games</AMXB_AllowOrkTekDesc>
+  <AMXB_AllowOrkFeral>Feral Orkz</AMXB_AllowOrkFeral>
+  <AMXB_AllowOrkFeralDesc>Feral Orkz to spawn in new games</AMXB_AllowOrkFeralDesc>
+  <AMXB_AllowOrkRok>Ork Rok incident</AMXB_AllowOrkRok>
+  <AMXB_AllowOrkRokDesc>Ork Rok incident</AMXB_AllowOrkRokDesc>
+  <AMXB_ShowTau>Show Tau Empire Forces</AMXB_ShowTau>
+  <AMXB_AllowTau>Tau: Faction</AMXB_AllowTau>
+  <AMXB_AllowTauDesc>Tau to spawn in new games: Enables Tau Faction</AMXB_AllowTauDesc>
+  <AMXB_AllowGueVesa>Gue'Vesa</AMXB_AllowGueVesa>
+  <AMXB_AllowGueVesaDesc>Allows Gue'Vesa to spawn as part of the Tau Empire</AMXB_AllowGueVesaDesc>
+  <AMXB_AllowKrootAuxiliaries>Kroot</AMXB_AllowKrootAuxiliaries>
+  <AMXB_AllowKrootAuxiliariesDesc>Allows Kroot to spawn as part of the Tau Empire</AMXB_AllowKrootAuxiliariesDesc>
+  <AMXB_AllowKroot>Kroot</AMXB_AllowKroot>
+  <AMXB_AllowKrootDesc>Allows Independant Kroot Factions to spawn during world generation</AMXB_AllowKrootDesc>
+  <AMXB_AllowVespid>Vespid</AMXB_AllowVespid>
+  <AMXB_AllowVespidDesc>Allows Vespid to spawn as part of the Tau Empire</AMXB_AllowVespidDesc>
+  <AMXB_AllowVespidAuxiliaries>Vespid</AMXB_AllowVespidAuxiliaries>
+  <AMXB_AllowVespidAuxiliariesDesc>Allows Independant Vespid Factions to spawn during world generation</AMXB_AllowVespidAuxiliariesDesc>
+  <AMXB_ShowTyranid>Show Tyranids Forces</AMXB_ShowTyranid>
+  <AMXB_AllowTyranid>Tyranids</AMXB_AllowTyranid>
+  <AMXB_AllowTyranidDesc>Tyranids to spawn in new games</AMXB_AllowTyranidDesc>
+  <AMXB_AllowTyranidInfestation>Tyranid Infestation</AMXB_AllowTyranidInfestation>
+  <AMXB_AllowTyranidInfestationDesc>Allows Tyranid Infestations</AMXB_AllowTyranidInfestationDesc>
+  <LetterLabelAMXenoBiologiesUpdate> Adeptus Mechanicus: Xenobiologis Update </LetterLabelAMXenoBiologiesUpdate>
+  <AMXenoBiologiespdate> Adeptus Mechanicus: Xenobiologis Update
+  - Added update notice.
+  - Finaly figured out how to fix the multiple meat entries.
+  - Added Humanlike Mechanicus Pawns (Tech-Priest and Skitarii are now humanlikes with armour).
+  - Disabled Siege's for all non Humanlike races.
+  </AMXenoBiologiespdate>
+</LanguageData>

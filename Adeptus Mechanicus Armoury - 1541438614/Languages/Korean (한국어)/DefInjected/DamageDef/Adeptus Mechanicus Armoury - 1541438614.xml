@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OGGrenadeFrag.label>frag grenade</OGGrenadeFrag.label>
+  <OGGrenadeFrag.deathMessage>{0} has been killed by a grenade.</OGGrenadeFrag.deathMessage>
+  <OGGrenadeExtinguish.label>Extinguish grenade</OGGrenadeExtinguish.label>
+  <OGGrenadeExtinguish.deathMessage>{0} has been killed by a grenade.</OGGrenadeExtinguish.deathMessage>
+  <OGGrenadePlasma.label>plasma grenade</OGGrenadePlasma.label>
+  <OGGrenadePlasma.deathMessage>{0} has been killed by a grenade.</OGGrenadePlasma.deathMessage>
+  <OGGrenadeKrak.label>krak grenade</OGGrenadeKrak.label>
+  <OGGrenadeKrak.deathMessage>{0} has been killed by a grenade.</OGGrenadeKrak.deathMessage>
+  <OGGrenadeMelta.label>melta bomb</OGGrenadeMelta.label>
+  <OGGrenadeMelta.deathMessage>{0} has burned to death.</OGGrenadeMelta.deathMessage>
+  <OGGrenadeEMP.label>EMP grenade</OGGrenadeEMP.label>
+  <OGGrenadeEMP.deathMessage>{0} has been Electrocuted.</OGGrenadeEMP.deathMessage>
+  <OGGrenadePhoton.label>photon grenade</OGGrenadePhoton.label>
+  <OGGrenadePhoton.deathMessage>{0} has been stunned to death.</OGGrenadePhoton.deathMessage>
+  <OG_Stab.label>stab</OG_Stab.label>
+  <OG_Stab.deathMessage>{0} has been stabbed to death.</OG_Stab.deathMessage>
+  <OG_Power_Cut.label>powered cut</OG_Power_Cut.label>
+  <OG_Power_Cut.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Cut.deathMessage>
+  <OG_Power_Stab.label>powered stab</OG_Power_Stab.label>
+  <OG_Power_Stab.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Stab.deathMessage>
+  <OG_Power_Blunt.label>powered blunt</OG_Power_Blunt.label>
+  <OG_Power_Blunt.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Blunt.deathMessage>
+  <EM.label>EMP</EM.label>
+  <EM.deathMessage>{0} has been EMPed to death.</EM.deathMessage>
+  <OG_Toxic_Cut.label>toxic cut</OG_Toxic_Cut.label>
+  <OG_Toxic_Stab.label>toxic cut</OG_Toxic_Stab.label>
+  <OG_Toxic_Stab.deathMessage>{0} has been stabbed to death.</OG_Toxic_Stab.deathMessage>
+  <OG_Plague_Cut.label>plague cut</OG_Plague_Cut.label>
+  <OG_Plague_Stab.label>plague stab</OG_Plague_Stab.label>
+  <OG_Plague_Stab.deathMessage>{0} has been stabbed to death.</OG_Plague_Stab.deathMessage>
+  <OG_Force_Cut.label>force cut</OG_Force_Cut.label>
+  <OG_Force_Cut.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Cut.deathMessage>
+  <OG_Force_Stab.label>force stab</OG_Force_Stab.label>
+  <OG_Force_Stab.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Stab.deathMessage>
+  <OG_Force_Blunt.label>force blunt</OG_Force_Blunt.label>
+  <OG_Force_Blunt.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Blunt.deathMessage>
+  <OG_Witchblade_Cut.label>witchblade cut</OG_Witchblade_Cut.label>
+  <OG_Witchblade_Cut.deathMessage>{0} was ended by a Witchblade.</OG_Witchblade_Cut.deathMessage>
+  <OG_Witchblade_Stab.label>witchblade stab</OG_Witchblade_Stab.label>
+  <OG_Witchblade_Stab.deathMessage>{0} was ended by a Witchblade.</OG_Witchblade_Stab.deathMessage>
+  <OG_Imperial_Thunderhammer.label>ThunderHammer</OG_Imperial_Thunderhammer.label>
+  <OG_Imperial_Thunderhammer.deathMessage>{0} has been struck down!</OG_Imperial_Thunderhammer.deathMessage>
+  <OG_Pacify_Blunt.label>Pacification</OG_Pacify_Blunt.label>
+  <OG_Pacify_Blunt.deathMessage>{0} shouldnt have resisted...</OG_Pacify_Blunt.deathMessage>
+  <OG_Pacify_Poke.label>Pacification</OG_Pacify_Poke.label>
+  <OG_Pacify_Poke.deathMessage>{0} shouldnt have resisted...</OG_Pacify_Poke.deathMessage>
+  <OGElectrical.label>Electrical</OGElectrical.label>
+  <OGElectrical.deathMessage>{0} has been Electrocuted.</OGElectrical.deathMessage>
+  <OGIWebber.label>Webber</OGIWebber.label>
+  <OGIWebber.deathMessage>{0} has been Electrocuted.</OGIWebber.deathMessage>
+  <OGENeuroDisruptor.label>Neuro Disruptor</OGENeuroDisruptor.label>
+  <OGENeuroDisruptor.deathMessage>{0}'s mind was melted by a Neuro Disruptor.</OGENeuroDisruptor.deathMessage>
+  <OG_ForceStrike.label>force strike</OG_ForceStrike.label>
+  <OG_ForceStrike.deathMessage>{0} was slain by a force strike.</OG_ForceStrike.deathMessage>
+  <OG_Warpfire.label>warpfire</OG_Warpfire.label>
+  <OG_Warpfire.deathMessage>{0} was corrupted by warpfire!</OG_Warpfire.deathMessage>
+  <OG_Chaos_Deamon_Warpfire.label>warpfire</OG_Chaos_Deamon_Warpfire.label>
+  <OG_Chaos_Deamon_Warpfire.deathMessage>{0} was corrupted by warpfire!</OG_Chaos_Deamon_Warpfire.deathMessage>
+  <OG_Chaos_Deamon_WarpfireDeath.label>Warp Rift Blast</OG_Chaos_Deamon_WarpfireDeath.label>
+  <OG_Chaos_Deamon_WarpfireDeath.deathMessage>{0} was lost to the warp.</OG_Chaos_Deamon_WarpfireDeath.deathMessage>
+  <OG_WarpStormStrike.label>Warp Rift Blast</OG_WarpStormStrike.label>
+  <OG_WarpStormStrike.deathMessage>{0} was lost to the warp.</OG_WarpStormStrike.deathMessage>
+  <OGCSonic.label>Sonic</OGCSonic.label>
+  <OGCSonic.deathMessage>{0} has been claimed by Slaanesh.</OGCSonic.deathMessage>
+  <OGCRAC.label>reaper autocannon</OGCRAC.label>
+  <OGCRAC.deathMessage>{0} has been taken by the Dark Gods.</OGCRAC.deathMessage>
+  <OGESplinter.label>Splinter</OGESplinter.label>
+  <OGESplinter.deathMessage>{0} was cut to ribbons.</OGESplinter.deathMessage>
+  <OGDEPlas.label>Disintergrator</OGDEPlas.label>
+  <OGDEPlas.deathMessage>{0} was disintergrated.</OGDEPlas.deathMessage>
+  <OGDEStinger.label>Stinger</OGDEStinger.label>
+  <OGDEStinger.deathMessage>{0} was torn to shreds by needles.</OGDEStinger.deathMessage>
+  <OGEStingerBlast.label>Stinger Toxin Blast</OGEStingerBlast.label>
+  <OGEStingerBlast.deathMessage>{0} exploaded in a shower of gore.</OGEStingerBlast.deathMessage>
+  <OGDELance.label>Lance</OGDELance.label>
+  <OGDELance.deathMessage>{0} was slain by a Brightlance.</OGDELance.deathMessage>
+  <OGDEShredder.label>Mono-filament Mesh </OGDEShredder.label>
+  <OGDEShredder.deathMessage>{0} was reduced to a pulp.</OGDEShredder.deathMessage>
+  <OGEShuriken.label>Shuriken</OGEShuriken.label>
+  <OGEShuriken.deathMessage>{0} was cut to ribbons.</OGEShuriken.deathMessage>
+  <OGEPlas.label>Starfire</OGEPlas.label>
+  <OGEPlas.deathMessage>{0}'s death was forseen.</OGEPlas.deathMessage>
+  <OG_E_Distortion_Damage.label>Warp Rift</OG_E_Distortion_Damage.label>
+  <OG_E_Distortion_Damage.deathMessage>{0} was torn to shreds by a warp rift.</OG_E_Distortion_Damage.deathMessage>
+  <OG_E_Distortion_Damage_Blast.label>Warp Rift Blast</OG_E_Distortion_Damage_Blast.label>
+  <OG_E_Distortion_Damage_Blast.deathMessage>{0} was lost to the warp.</OG_E_Distortion_Damage_Blast.deathMessage>
+  <OGELance.label>Lance</OGELance.label>
+  <OGELance.deathMessage>{0} was slain by a lance of pure energy.</OGELance.deathMessage>
+  <OGEDeathspinner.label>Mono-filament Mesh </OGEDeathspinner.label>
+  <OGEDeathspinner.deathMessage>{0} was reduced to a pulp.</OGEDeathspinner.deathMessage>
+  <OGFlamer.label>flame</OGFlamer.label>
+  <OGFlamer.deathMessage>{0} was purified with by Fire!</OGFlamer.deathMessage>
+  <OGIPlasma.label>plasma</OGIPlasma.label>
+  <OGIPlasma.deathMessage>{0} has been given the Emperors Justice.</OGIPlasma.deathMessage>
+  <OGIPlasmaCannon.label>plasma cannon</OGIPlasmaCannon.label>
+  <OGIPlasmaCannon.deathMessage>{0} has been given the Emperors Justice.</OGIPlasmaCannon.deathMessage>
+  <OGIMelta.label>melta</OGIMelta.label>
+  <OGIMelta.deathMessage>{0} has been given the Emperors Justice.</OGIMelta.deathMessage>
+  <OGILas.label>laser</OGILas.label>
+  <OGILas.deathMessage>{0} has been given the Emperors Justice.</OGILas.deathMessage>
+  <OGIVolkite.label>volkite</OGIVolkite.label>
+  <OGIVolkite.deathMessage>{0} has been given the Emperors Justice.</OGIVolkite.deathMessage>
+  <OGIConversion.label>conversion beam</OGIConversion.label>
+  <OGIConversion.deathMessage>{0} has been given the Emperors Justice.</OGIConversion.deathMessage>
+  <OGILasC.label>laser</OGILasC.label>
+  <OGILasC.deathMessage>{0} has been given the Emperors Justice.</OGILasC.deathMessage>
+  <OGIAuto.label>autogun</OGIAuto.label>
+  <OGIAuto.deathMessage>{0} has been given the Emperors Justice.</OGIAuto.deathMessage>
+  <OGIAutoRubber.label>autogun</OGIAutoRubber.label>
+  <OGIAutoRubber.deathMessage>{0} has been given the Emperors Justice.</OGIAutoRubber.deathMessage>
+  <OGIBoltStd.label>standard bolt</OGIBoltStd.label>
+  <OGIBoltStd.deathMessage>{0} has been given the Emperors Justice.</OGIBoltStd.deathMessage>
+  <OGIBoltDragonfire.label>dragonfire bolt</OGIBoltDragonfire.label>
+  <OGIBoltDragonfire.deathMessage>{0} has been given the Emperors Justice.</OGIBoltDragonfire.deathMessage>
+  <OGIBoltHellfire.label>hellfire bolt</OGIBoltHellfire.label>
+  <OGIBoltHellfire.deathMessage>{0} has been given the Emperors Justice.</OGIBoltHellfire.deathMessage>
+  <OGIBoltKraken.label>kraken bolt</OGIBoltKraken.label>
+  <OGIBoltKraken.deathMessage>{0} has been given the Emperors Justice.</OGIBoltKraken.deathMessage>
+  <OGIBoltVengeance.label>vengeance bolt</OGIBoltVengeance.label>
+  <OGIBoltVengeance.deathMessage>{0} has been given the Emperors Justice.</OGIBoltVengeance.deathMessage>
+  <OGIBomb.label>bomb</OGIBomb.label>
+  <OGIBomb.deathMessage>{0} has been given the Emperors Justice.</OGIBomb.deathMessage>
+  <OGIRadium.label>radium round</OGIRadium.label>
+  <OGIRadium.deathMessage>{0} would have died anyway.</OGIRadium.deathMessage>
+  <OGIGalvanic.label>galvanic discharge</OGIGalvanic.label>
+  <OGIGalvanic.deathMessage>{0} caught a Galvanic round.</OGIGalvanic.deathMessage>
+  <OGITransuranic.label>transuranic</OGITransuranic.label>
+  <OGITransuranic.deathMessage>{0} was taken by a Transuranic bolt.</OGITransuranic.deathMessage>
+  <OGIArc.label>Arc</OGIArc.label>
+  <OGIArc.deathMessage>{0} has been Electrocuted.</OGIArc.deathMessage>
+  <OG_N_Gauss_Damage.label>Gauss</OG_N_Gauss_Damage.label>
+  <OG_N_Gauss_Damage.deathMessage>{0} was Flayed to death.</OG_N_Gauss_Damage.deathMessage>
+  <OG_N_Particle_Damage.label>Particle</OG_N_Particle_Damage.label>
+  <OG_N_Particle_Damage.deathMessage>{0} was Flayed to death.</OG_N_Particle_Damage.deathMessage>
+  <OG_N_Tesla_Damage.label>Tesla</OG_N_Tesla_Damage.label>
+  <OG_N_Tesla_Damage.deathMessage>{0} was Flayed to death.</OG_N_Tesla_Damage.deathMessage>
+  <OG_N_Tesla_Arc_Damage.label>Tesla</OG_N_Tesla_Arc_Damage.label>
+  <OG_N_Tesla_Arc_Damage.deathMessage>{0} was Flayed to death.</OG_N_Tesla_Arc_Damage.deathMessage>
+  <OGTPlasmaPulse.label>plasma pulse</OGTPlasmaPulse.label>
+  <OGTPlasmaPulse.deathMessage>{0} has perished for the Greater Good.</OGTPlasmaPulse.deathMessage>
+  <OGTIon.label>ion beam</OGTIon.label>
+  <OGTIon.deathMessage>{0} has perished for the Greater Good.</OGTIon.deathMessage>
+  <OGTRailgun.label>Railgun Slug</OGTRailgun.label>
+  <OGTRailgun.deathMessage>{0} has perished for the Greater Good.</OGTRailgun.deathMessage>
+  <OGTKroot.label>Kroot Slug</OGTKroot.label>
+  <OGTKroot.deathMessage>{0} has perished for the Greater Good.</OGTKroot.deathMessage>
+  <OGTNeutron.label>Neutron blast</OGTNeutron.label>
+  <OGTNeutron.deathMessage>{0} has perished for the Greater Good.</OGTNeutron.deathMessage>
+</LanguageData>

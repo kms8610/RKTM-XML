@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.0>name(p=0.01)->Tanith First and Only</OG_NamerFaction_Militarum.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.1>name->[MilitarumRegiment]</OG_NamerFaction_Militarum.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.2>MilitarumRegiment(p=0.1)->[Ordinal] [HomeWorld] [RegimentType]</OG_NamerFaction_Militarum.rulePack.rulesStrings.2>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.3>MilitarumRegiment(p=0.1)->[HomeWorld] [Ordinal] [RegimentType]</OG_NamerFaction_Militarum.rulePack.rulesStrings.3>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.4>MilitarumRegiment->[Ordinal] [PredefinedRegiment]</OG_NamerFaction_Militarum.rulePack.rulesStrings.4>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.5>RegimentType->[RegimentTypes]</OG_NamerFaction_Militarum.rulePack.rulesStrings.5>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.6>RegimentType(p=0.1)->[RegimentTypes] `[AstraMilitarum_Regiment_Monikers]`</OG_NamerFaction_Militarum.rulePack.rulesStrings.6>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.7>RegimentTypes->[RegimentTypesCommon]</OG_NamerFaction_Militarum.rulePack.rulesStrings.7>
+  <OG_NamerFaction_Militarum.rulePack.rulesStrings.8>RegimentTypes(p=0.1)->[RegimentTypesUncommon]</OG_NamerFaction_Militarum.rulePack.rulesStrings.8>
+  <OG_NamerFaction_Militarum_Cadian.rulePack.rulesStrings.0>name->Cadian [Ordinal] Regiment</OG_NamerFaction_Militarum_Cadian.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Militarum_Cadian.rulePack.rulesStrings.1>name->[Ordinal] Cadian Regiment</OG_NamerFaction_Militarum_Cadian.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Militarum_Cadian.rulePack.rulesStrings.2>r_name->[Ordinal] Cadian Shock Troops</OG_NamerFaction_Militarum_Cadian.rulePack.rulesStrings.2>
+  <OG_NamerFaction_Militarum_Cadian.rulePack.rulesStrings.3>r_name->Cadian [Ordinal] Shock Troops</OG_NamerFaction_Militarum_Cadian.rulePack.rulesStrings.3>
+  <OG_NamerFaction_Militarum_Armageddon.rulePack.rulesStrings.0>name->[Ordinal] Armageddon Steel Legion</OG_NamerFaction_Militarum_Armageddon.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Militarum_Armageddon.rulePack.rulesStrings.1>r_name->Armageddon [Ordinal] Ash Wastes Militia</OG_NamerFaction_Militarum_Armageddon.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Militarum_Armageddon.rulePack.rulesStrings.2>r_name->Armageddon [Ordinal] "Ork Hunters"</OG_NamerFaction_Militarum_Armageddon.rulePack.rulesStrings.2>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.0>r_name(p=12)->[townname_wordgen]</OG_NamerBases_Militarum.rulePack.rulesStrings.0>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.1>r_name(p=4)->[townname_combo]</OG_NamerBases_Militarum.rulePack.rulesStrings.1>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.2>r_name->[townname_near]</OG_NamerBases_Militarum.rulePack.rulesStrings.2>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.3>topicalnoun->[Vegetable]</OG_NamerBases_Militarum.rulePack.rulesStrings.3>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.4>topicalnoun->[Game]</OG_NamerBases_Militarum.rulePack.rulesStrings.4>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.5>topicalnoun->[BodyPart]</OG_NamerBases_Militarum.rulePack.rulesStrings.5>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.6>townname_combo->[topicalnoun] [TerrainFeature]</OG_NamerBases_Militarum.rulePack.rulesStrings.6>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.7>townname_combo->[topicalnoun] [OGIGBaseNames]</OG_NamerBases_Militarum.rulePack.rulesStrings.7>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.8>townname_combo->[OGIGBaseNames]'s [TerrainFeature]</OG_NamerBases_Militarum.rulePack.rulesStrings.8>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.9>townname_combo->[TerrainFeature] [OGIGBaseNames]</OG_NamerBases_Militarum.rulePack.rulesStrings.9>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.10>townname_combo(p=3)->[Character]'s [TerrainFeature]</OG_NamerBases_Militarum.rulePack.rulesStrings.10>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.11>townname_combo(p=3)->[Character]'s [OGIGBaseNames]</OG_NamerBases_Militarum.rulePack.rulesStrings.11>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.12>townname_near->[nearnameinitial]-at-the-[TerrainFeature]</OG_NamerBases_Militarum.rulePack.rulesStrings.12>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.13>townname_near->[nearnameinitial]-by-the-[TerrainFeature]</OG_NamerBases_Militarum.rulePack.rulesStrings.13>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.14>townname_near->[nearnameinitial]-on-the-[TerrainFeature]</OG_NamerBases_Militarum.rulePack.rulesStrings.14>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.15>nearnameinitial->[townname_wordgen]</OG_NamerBases_Militarum.rulePack.rulesStrings.15>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.16>townname_wordgen(p=2)->[SylE][SylE]</OG_NamerBases_Militarum.rulePack.rulesStrings.16>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.17>townname_wordgen(p=2)->[SylE][SylE][SylE]</OG_NamerBases_Militarum.rulePack.rulesStrings.17>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.18>townname_wordgen(p=2)->[SylE][OGIGBaseNames]</OG_NamerBases_Militarum.rulePack.rulesStrings.18>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.19>townname_wordgen(p=2)->[OGIGBaseNames] [SylE][SylE]</OG_NamerBases_Militarum.rulePack.rulesStrings.19>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.20>townname_wordgen->[OGIGBaseNames] [TerrainFeature]</OG_NamerBases_Militarum.rulePack.rulesStrings.20>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.21>townname_wordgen->[OGIGBaseNames] [topicalnoun]</OG_NamerBases_Militarum.rulePack.rulesStrings.21>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.22>townend->Stronghold</OG_NamerBases_Militarum.rulePack.rulesStrings.22>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.23>townend->Guard Outpost</OG_NamerBases_Militarum.rulePack.rulesStrings.23>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.24>townend->Garrison</OG_NamerBases_Militarum.rulePack.rulesStrings.24>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.25>townend->Fortress</OG_NamerBases_Militarum.rulePack.rulesStrings.25>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.26>townend->Fort</OG_NamerBases_Militarum.rulePack.rulesStrings.26>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.27>townend->Citadel</OG_NamerBases_Militarum.rulePack.rulesStrings.27>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.28>townend->Bastion</OG_NamerBases_Militarum.rulePack.rulesStrings.28>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.29>townend->Redoubt</OG_NamerBases_Militarum.rulePack.rulesStrings.29>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.30>townend->Emplacement</OG_NamerBases_Militarum.rulePack.rulesStrings.30>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.31>townend->Front</OG_NamerBases_Militarum.rulePack.rulesStrings.31>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.32>townend->Station</OG_NamerBases_Militarum.rulePack.rulesStrings.32>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.33>townend->Field</OG_NamerBases_Militarum.rulePack.rulesStrings.33>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.34>townend->Bunker</OG_NamerBases_Militarum.rulePack.rulesStrings.34>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.35>townend->Staging Ground</OG_NamerBases_Militarum.rulePack.rulesStrings.35>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.36>townend->Communications Relay</OG_NamerBases_Militarum.rulePack.rulesStrings.36>
+  <OG_NamerBases_Militarum.rulePack.rulesStrings.37>townend->Barracks</OG_NamerBases_Militarum.rulePack.rulesStrings.37>
+  <NamerRaceNameMale.rulePack.rulesStrings.0>r_name(p=6)->[NameRaceNameMaleFirst] '[NameRaceNameMaleNick]' [NameRaceNameUnisexLast]</NamerRaceNameMale.rulePack.rulesStrings.0>
+  <NamerRaceNameMale.rulePack.rulesStrings.1>r_name(p=5)->[NameRaceNameMaleFirst] '[NameRaceNameUnisexNick]' [NameRaceNameUnisexLast]</NamerRaceNameMale.rulePack.rulesStrings.1>
+  <NamerRaceNameMale.rulePack.rulesStrings.2>r_name(p=4)->[NameRaceNameMaleFirst] '[AnimalBadass]' [NameRaceNameUnisexLast]</NamerRaceNameMale.rulePack.rulesStrings.2>
+  <NamerRaceNameMale.rulePack.rulesStrings.3>r_name(p=3)->[NameRaceNameMaleFirst] '[Color]' [NameRaceNameUnisexLast]</NamerRaceNameMale.rulePack.rulesStrings.3>
+  <NamerRaceNameMale.rulePack.rulesStrings.4>r_name(p=2)->[NameRaceNameMaleFirst] [NameRaceNameUnisexLast]</NamerRaceNameMale.rulePack.rulesStrings.4>
+  <NamerRaceNameMale.rulePack.rulesStrings.5>r_name->[exoticname]</NamerRaceNameMale.rulePack.rulesStrings.5>
+  <NamerRaceNameMale.rulePack.rulesStrings.6>exoticname(p=2)->[AdjectiveBadass]</NamerRaceNameMale.rulePack.rulesStrings.6>
+  <NamerRaceNameMale.rulePack.rulesStrings.7>exoticname(p=2)->[PersonBadass]</NamerRaceNameMale.rulePack.rulesStrings.7>
+  <NamerRaceNameMale.rulePack.rulesStrings.8>exoticname->[Enemy]</NamerRaceNameMale.rulePack.rulesStrings.8>
+  <NamerRaceNameMale.rulePack.rulesStrings.9>exoticname->[ConceptAny]</NamerRaceNameMale.rulePack.rulesStrings.9>
+  <NamerRaceNameMale.rulePack.rulesStrings.10>exoticname->[Color]</NamerRaceNameMale.rulePack.rulesStrings.10>
+  <NamerRaceNameFemale.rulePack.rulesStrings.0>r_name(p=6)->[NameRaceNameFemaleFirst] '[NameRaceNameFemaleNick]' [NameRaceNameUnisexLast]</NamerRaceNameFemale.rulePack.rulesStrings.0>
+  <NamerRaceNameFemale.rulePack.rulesStrings.1>r_name(p=6)->[NameRaceNameFemaleFirst] '[NameRaceNameUnisexNick]' [NameRaceNameUnisexLast]</NamerRaceNameFemale.rulePack.rulesStrings.1>
+  <NamerRaceNameFemale.rulePack.rulesStrings.2>r_name(p=6)->[NameRaceNameFemaleFirst] '[AnimalBadass]' [NameRaceNameUnisexLast]</NamerRaceNameFemale.rulePack.rulesStrings.2>
+  <NamerRaceNameFemale.rulePack.rulesStrings.3>r_name(p=6)->[NameRaceNameFemaleFirst] '[Color]' [NameRaceNameUnisexLast]</NamerRaceNameFemale.rulePack.rulesStrings.3>
+  <NamerRaceNameFemale.rulePack.rulesStrings.4>r_name(p=6)->[NameRaceNameFemaleFirst] [NameRaceNameUnisexLast]</NamerRaceNameFemale.rulePack.rulesStrings.4>
+  <NamerRaceNameFemale.rulePack.rulesStrings.5>r_name->[exoticname]</NamerRaceNameFemale.rulePack.rulesStrings.5>
+  <NamerRaceNameFemale.rulePack.rulesStrings.6>exoticname(p=2)->[AdjectiveBadass]</NamerRaceNameFemale.rulePack.rulesStrings.6>
+  <NamerRaceNameFemale.rulePack.rulesStrings.7>exoticname(p=2)->[PersonBadass]</NamerRaceNameFemale.rulePack.rulesStrings.7>
+  <NamerRaceNameFemale.rulePack.rulesStrings.8>exoticname->[Enemy]</NamerRaceNameFemale.rulePack.rulesStrings.8>
+  <NamerRaceNameFemale.rulePack.rulesStrings.9>exoticname->[ConceptAny]</NamerRaceNameFemale.rulePack.rulesStrings.9>
+  <NamerRaceNameFemale.rulePack.rulesStrings.10>exoticname->[Color]</NamerRaceNameFemale.rulePack.rulesStrings.10>
+  <NamerImperialGuardMale.rulePack.rulesStrings.0>r_name(p=6)->[NameImperialGuardMaleFirst] '[NameImperialGuardMaleNick]' [NameImperialGuardUnisexLast]</NamerImperialGuardMale.rulePack.rulesStrings.0>
+  <NamerImperialGuardMale.rulePack.rulesStrings.1>r_name(p=5)->[NameImperialGuardMaleFirst] '[NameImperialGuardUnisexNick]' [NameImperialGuardUnisexLast]</NamerImperialGuardMale.rulePack.rulesStrings.1>
+  <NamerImperialGuardMale.rulePack.rulesStrings.2>r_name(p=4)->[NameImperialGuardMaleFirst] '[AnimalBadass]' [NameImperialGuardUnisexLast]</NamerImperialGuardMale.rulePack.rulesStrings.2>
+  <NamerImperialGuardMale.rulePack.rulesStrings.3>r_name(p=3)->[NameImperialGuardMaleFirst] '[Color]' [NameImperialGuardUnisexLast]</NamerImperialGuardMale.rulePack.rulesStrings.3>
+  <NamerImperialGuardMale.rulePack.rulesStrings.4>r_name(p=2)->[NameImperialGuardMaleFirst] [NameImperialGuardUnisexLast]</NamerImperialGuardMale.rulePack.rulesStrings.4>
+  <NamerImperialGuardMale.rulePack.rulesStrings.5>r_name->[exoticname]</NamerImperialGuardMale.rulePack.rulesStrings.5>
+  <NamerImperialGuardMale.rulePack.rulesStrings.6>exoticname(p=2)->[AdjectiveBadass]</NamerImperialGuardMale.rulePack.rulesStrings.6>
+  <NamerImperialGuardMale.rulePack.rulesStrings.7>exoticname(p=2)->[PersonBadass]</NamerImperialGuardMale.rulePack.rulesStrings.7>
+  <NamerImperialGuardMale.rulePack.rulesStrings.8>exoticname->[Enemy]</NamerImperialGuardMale.rulePack.rulesStrings.8>
+  <NamerImperialGuardMale.rulePack.rulesStrings.9>exoticname->[ConceptAny]</NamerImperialGuardMale.rulePack.rulesStrings.9>
+  <NamerImperialGuardMale.rulePack.rulesStrings.10>exoticname->[Color]</NamerImperialGuardMale.rulePack.rulesStrings.10>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.0>r_name(p=6)->[NameImperialGuardFemaleFirst] '[NameImperialGuardFemaleNick]' [NameImperialGuardUnisexLast]</NamerImperialGuardFemale.rulePack.rulesStrings.0>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.1>r_name(p=6)->[NameImperialGuardFemaleFirst] '[NameImperialGuardUnisexNick]' [NameImperialGuardUnisexLast]</NamerImperialGuardFemale.rulePack.rulesStrings.1>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.2>r_name(p=6)->[NameImperialGuardFemaleFirst] '[AnimalBadass]' [NameImperialGuardUnisexLast]</NamerImperialGuardFemale.rulePack.rulesStrings.2>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.3>r_name(p=6)->[NameImperialGuardFemaleFirst] '[Color]' [NameImperialGuardUnisexLast]</NamerImperialGuardFemale.rulePack.rulesStrings.3>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.4>r_name(p=6)->[NameImperialGuardFemaleFirst] [NameImperialGuardUnisexLast]</NamerImperialGuardFemale.rulePack.rulesStrings.4>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.5>r_name->[exoticname]</NamerImperialGuardFemale.rulePack.rulesStrings.5>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.6>exoticname(p=2)->[AdjectiveBadass]</NamerImperialGuardFemale.rulePack.rulesStrings.6>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.7>exoticname(p=2)->[PersonBadass]</NamerImperialGuardFemale.rulePack.rulesStrings.7>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.8>exoticname->[Enemy]</NamerImperialGuardFemale.rulePack.rulesStrings.8>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.9>exoticname->[ConceptAny]</NamerImperialGuardFemale.rulePack.rulesStrings.9>
+  <NamerImperialGuardFemale.rulePack.rulesStrings.10>exoticname->[Color]</NamerImperialGuardFemale.rulePack.rulesStrings.10>
+  <NamerTraderGeneral.rulePack.rulesStrings.0>r_name(p=4)->[businessname] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.0>
+  <NamerTraderGeneral.rulePack.rulesStrings.1>r_name->[NamePerson] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.1>
+  <NamerTraderGeneral.rulePack.rulesStrings.2>r_name->[maybe_adjective] [Animal] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.2>
+  <NamerTraderGeneral.rulePack.rulesStrings.3>r_name->[Letter][Letter] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.3>
+  <NamerTraderGeneral.rulePack.rulesStrings.4>r_name(p=0.5)->[PersonAlly] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.4>
+  <NamerTraderGeneral.rulePack.rulesStrings.5>r_name(p=0.5)->[AdjectiveFriendly] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.5>
+  <NamerTraderGeneral.rulePack.rulesStrings.6>r_name(p=0.5)->[AdjectiveBadass] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.6>
+  <NamerTraderGeneral.rulePack.rulesStrings.7>r_name(p=0.3)->[PersonFamily] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.7>
+  <NamerTraderGeneral.rulePack.rulesStrings.8>r_name(p=0.3)->[maybe_adjective] [NaturalObject] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.8>
+  <NamerTraderGeneral.rulePack.rulesStrings.9>r_name(p=0.2)->[maybe_adjective] [TreeType] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.9>
+  <NamerTraderGeneral.rulePack.rulesStrings.10>r_name(p=0.2)->[maybe_adjective] [Vegetable] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.10>
+  <NamerTraderGeneral.rulePack.rulesStrings.11>r_name(p=0.2)->[Direction] [businesstype]</NamerTraderGeneral.rulePack.rulesStrings.11>
+  <NamerTraderGeneral.rulePack.rulesStrings.12>maybe_adjective-></NamerTraderGeneral.rulePack.rulesStrings.12>
+  <NamerTraderGeneral.rulePack.rulesStrings.13>maybe_adjective->[Color]</NamerTraderGeneral.rulePack.rulesStrings.13>
+  <NamerTraderGeneral.rulePack.rulesStrings.14>maybe_adjective->[AdjectiveFriendly]</NamerTraderGeneral.rulePack.rulesStrings.14>
+  <NamerTraderGeneral.rulePack.rulesStrings.15>maybe_adjective->[AdjectiveBadass]</NamerTraderGeneral.rulePack.rulesStrings.15>
+  <NamerOGEldarFaction.rulePack.rulesStrings.0>name->[OGEldarCraftworldMajor]</NamerOGEldarFaction.rulePack.rulesStrings.0>
+  <NamerOGEldarBases.rulePack.rulesStrings.0>name->[OGEldarBaseNames]</NamerOGEldarBases.rulePack.rulesStrings.0>
+  <NamerOGEldarPawns.rulePack.rulesStrings.0>r_name->[OGEldarFirst] [OGEldarCraftworldMajor]</NamerOGEldarPawns.rulePack.rulesStrings.0>
+  <NamerOGEldarPawns.rulePack.rulesStrings.1>r_name->[OGEldarFirst] [OGEldarCraftworldMinor]</NamerOGEldarPawns.rulePack.rulesStrings.1>
+  <NamerOGEldarPawns.rulePack.rulesStrings.2>r_name->[OGEldarFirst] [OGEldarCraftworldLost]</NamerOGEldarPawns.rulePack.rulesStrings.2>
+  <NamerOGEldarPawns.rulePack.rulesStrings.3>r_name->[OGEldarFirst] [OGEldarCraftworldCorsair]</NamerOGEldarPawns.rulePack.rulesStrings.3>
+  <OG_NamerKrootUtility.rulePack.rulesStrings.0>WordKroot(p=3)->[SylG]'[SylE]-[SylG]</OG_NamerKrootUtility.rulePack.rulesStrings.0>
+  <OG_NamerKrootUtility.rulePack.rulesStrings.1>WordKroot(p=2)->[SylG]'[SylG][SylE]-[SylG]</OG_NamerKrootUtility.rulePack.rulesStrings.1>
+  <NamerOGKrootFaction.rulePack.rulesStrings.0>name->[OG_NameKrootKindredWorlds] [OG_NameKrootBaseNamesA][OG_NameKrootBaseNamesB] [OG_NameKrootKindredTypes]</NamerOGKrootFaction.rulePack.rulesStrings.0>
+  <NamerOGKrootBases.rulePack.rulesStrings.0>name->[OG_NameKrootBaseTypes] [OG_NameKrootBaseNamesA][OG_NameKrootBaseNamesB]</NamerOGKrootBases.rulePack.rulesStrings.0>
+  <OG_NamerPersonKroot_Male.rulePack.rulesStrings.0>name->[OG_Malefirstname] [OG_Unisexlastname]</OG_NamerPersonKroot_Male.rulePack.rulesStrings.0>
+  <OG_NamerPersonKroot_Male.rulePack.rulesStrings.1>name->[OG_Malefirstname] '[nickname]' [OG_Unisexlastname]</OG_NamerPersonKroot_Male.rulePack.rulesStrings.1>
+  <OG_NamerPersonKroot_Male.rulePack.rulesStrings.2>OG_Malefirstname(p=3)->[OG_NameKrootFirstA][OG_NameKrootFirstB] </OG_NamerPersonKroot_Male.rulePack.rulesStrings.2>
+  <OG_NamerPersonKroot_Male.rulePack.rulesStrings.3>OG_Malefirstname(p=2)->[OG_NameKrootMale]</OG_NamerPersonKroot_Male.rulePack.rulesStrings.3>
+  <OG_NamerPersonKroot_Male.rulePack.rulesStrings.4>OG_Unisexlastname(p=3)->[OG_NameKrootSurA][OG_NameKrootSurB]</OG_NamerPersonKroot_Male.rulePack.rulesStrings.4>
+  <OG_NamerPersonKroot_Male.rulePack.rulesStrings.5>OG_Unisexlastname(p=2)->[WordKroot]</OG_NamerPersonKroot_Male.rulePack.rulesStrings.5>
+  <OG_NamerPersonKroot_Male.rulePack.rulesStrings.6>nickname(p=3)->[OG_NameKrootNickA][OG_NameKrootNickB]</OG_NamerPersonKroot_Male.rulePack.rulesStrings.6>
+  <OG_NamerPersonKroot_Female.rulePack.rulesStrings.0>name->[OG_Malefirstname] [OG_Unisexlastname]</OG_NamerPersonKroot_Female.rulePack.rulesStrings.0>
+  <OG_NamerPersonKroot_Female.rulePack.rulesStrings.1>name->[OG_Malefirstname] '[nickname]' [OG_Unisexlastname]</OG_NamerPersonKroot_Female.rulePack.rulesStrings.1>
+  <OG_NamerPersonKroot_Female.rulePack.rulesStrings.2>OG_Malefirstname(p=3)->[OG_NameKrootFirstA][OG_NameKrootFirstB] </OG_NamerPersonKroot_Female.rulePack.rulesStrings.2>
+  <OG_NamerPersonKroot_Female.rulePack.rulesStrings.3>OG_Malefirstname(p=2)->[OG_NameKrootMale]</OG_NamerPersonKroot_Female.rulePack.rulesStrings.3>
+  <OG_NamerPersonKroot_Female.rulePack.rulesStrings.4>OG_Unisexlastname(p=3)->[OG_NameKrootSurA] [OG_NameKrootSurB]</OG_NamerPersonKroot_Female.rulePack.rulesStrings.4>
+  <OG_NamerPersonKroot_Female.rulePack.rulesStrings.5>OG_Unisexlastname(p=2)->[WordKroot]</OG_NamerPersonKroot_Female.rulePack.rulesStrings.5>
+  <OG_NamerPersonKroot_Female.rulePack.rulesStrings.6>nickname(p=3)->[OG_NameKrootNickA][OG_NameKrootNickB]</OG_NamerPersonKroot_Female.rulePack.rulesStrings.6>
+  <NamerOGOG_Mechanicus_Faction.rulePack.rulesStrings.0>name->[OGMechanicusForgeWorld] [Ordinal] [OGMechanicusRegiment]</NamerOGOG_Mechanicus_Faction.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Ork.rulePack.rulesStrings.0>name(p=6)->[Kulture] [OGOrkClans2] of [OGOrkClans3]</OG_NamerFaction_Ork.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Ork.rulePack.rulesStrings.1>name(p=6)->[Kulture] [OGOrkClans2] of [LeaderName]</OG_NamerFaction_Ork.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Ork.rulePack.rulesStrings.2>name(p=4)->[LeaderName]'z [OGOrkClans2] of [Kulture]</OG_NamerFaction_Ork.rulePack.rulesStrings.2>
+  <OG_NamerFaction_Ork.rulePack.rulesStrings.3>name(p=2)->[OGOrkClans1] [OGOrkClans2] of [OGOrkClans3]</OG_NamerFaction_Ork.rulePack.rulesStrings.3>
+  <OG_NamerFaction_Ork.rulePack.rulesStrings.4>LeaderName(p=4)->[Leader]</OG_NamerFaction_Ork.rulePack.rulesStrings.4>
+  <OG_NamerFaction_Ork.rulePack.rulesStrings.5>LeaderName(p=2)->[PreLeader] [Leader]</OG_NamerFaction_Ork.rulePack.rulesStrings.5>
+  <OG_NamerFaction_Ork.rulePack.rulesStrings.6>LeaderName(p=2)->[Leader] [PostLeader]</OG_NamerFaction_Ork.rulePack.rulesStrings.6>
+  <OG_NamerFaction_Ork.rulePack.rulesStrings.7>LeaderName(p=1)->[PreLeader] [Leader] [PostLeader]</OG_NamerFaction_Ork.rulePack.rulesStrings.7>
+  <OG_NamerFaction_Ork_Player.rulePack.rulesStrings.0>name->[OGOrkClans1] [OGOrkClans2] [OGOrkClans3]</OG_NamerFaction_Ork_Player.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Ork_Player.rulePack.rulesStrings.1>name-> of da [OGOrkClans1]</OG_NamerFaction_Ork_Player.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Ork_Player.rulePack.rulesStrings.2>name-> of da [OGOrkClans1]</OG_NamerFaction_Ork_Player.rulePack.rulesStrings.2>
+  <OG_NamerFaction_Ork_Feral.rulePack.rulesStrings.0>name->[OGOrkClans1] [OGOrkClans2] [OGOrkClans3]</OG_NamerFaction_Ork_Feral.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Ork_Feral.rulePack.rulesStrings.1>name-> of da [OGOrkClans1]</OG_NamerFaction_Ork_Feral.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Ork_Feral.rulePack.rulesStrings.2>name-> of da [OGOrkClans1]</OG_NamerFaction_Ork_Feral.rulePack.rulesStrings.2>
+  <OG_NamerFaction_Ork_Feral_Player.rulePack.rulesStrings.0>name->[OGOrkClans1] [OGOrkClans2] [OGOrkClans3]</OG_NamerFaction_Ork_Feral_Player.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Ork_Feral_Player.rulePack.rulesStrings.1>name-> of da [OGOrkClans1]</OG_NamerFaction_Ork_Feral_Player.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Ork_Feral_Player.rulePack.rulesStrings.2>name-> of da [OGOrkClans1]</OG_NamerFaction_Ork_Feral_Player.rulePack.rulesStrings.2>
+  <OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.0>name->[Waaagh] [LeaderName]</OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.1>Waaagh->Waaagh!</OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.2>LeaderName->[Leader]</OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.2>
+  <OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.3>LeaderName->[Leader] [PostLeader]</OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.3>
+  <OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.4>LeaderName->[PreLeader] [Leader]</OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.4>
+  <OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.5>LeaderName->[PreLeader] [Leader] [PostLeader]</OG_NamerFaction_Ork_Waaagh.rulePack.rulesStrings.5>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.0>r_name->[adj] [group]</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.0>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.1>group->survivors</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.1>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.2>group->refugees</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.2>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.3>group->runaways</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.3>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.4>group->castaways</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.4>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.5>group->trekkers</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.5>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.6>group->roamers</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.6>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.7>group->wanderers</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.7>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.8>group->travelers</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.8>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.9>group->nomads</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.9>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.10>adj->weary</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.10>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.11>adj->drained</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.11>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.12>adj->tired</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.12>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.13>adj->exhausted</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.13>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.14>adj->displaced</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.14>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.15>adj->resilient</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.15>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.16>adj->tough</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.16>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.17>adj->dogged</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.17>
+  <OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.18>adj->tenacious</OG_NamerFaction_Ork_Refugee.rulePack.rulesStrings.18>
+  <OG_NamerBases_Ork.rulePack.rulesStrings.0>name->[OGOrkBaseNames]</OG_NamerBases_Ork.rulePack.rulesStrings.0>
+  <OG_NamerPerson_Ork.rulePack.rulesStrings.0>name(p=10)->[FirstName] [LastName]</OG_NamerPerson_Ork.rulePack.rulesStrings.0>
+  <OG_NamerPerson_Ork.rulePack.rulesStrings.1>name(p=1)->[FirstName] '[TitlePost]' [LastName]</OG_NamerPerson_Ork.rulePack.rulesStrings.1>
+  <OG_NamerPerson_Ork.rulePack.rulesStrings.2>FirstName(p=1)->[FirstNameFull]</OG_NamerPerson_Ork.rulePack.rulesStrings.2>
+  <OG_NamerPerson_Ork.rulePack.rulesStrings.3>FirstName(p=10)->[FirstNameA][FirstNameB]</OG_NamerPerson_Ork.rulePack.rulesStrings.3>
+  <OG_NamerPerson_Ork.rulePack.rulesStrings.4>LastName(p=1)->[LastNameFull]</OG_NamerPerson_Ork.rulePack.rulesStrings.4>
+  <OG_NamerPerson_Ork.rulePack.rulesStrings.5>LastName(p=10)->[LastNameA][LastNameB]</OG_NamerPerson_Ork.rulePack.rulesStrings.5>
+  <OG_NamerPerson_Ork.rulePack.rulesStrings.6>NickName->[TitlePost]</OG_NamerPerson_Ork.rulePack.rulesStrings.6>
+  <OG_NamerPerson_Ork.rulePack.rulesStrings.7>NoName-> </OG_NamerPerson_Ork.rulePack.rulesStrings.7>
+  <OG_NamerPerson_Ork_Old.rulePack.rulesStrings.0>name->[OGOrkFirst] [OGOrkSecond]</OG_NamerPerson_Ork_Old.rulePack.rulesStrings.0>
+  <OG_NamerPerson_Ork_Old.rulePack.rulesStrings.1>name->[OGOrkFirst] '[OGOrkFirstB]' [OGOrkSecond]</OG_NamerPerson_Ork_Old.rulePack.rulesStrings.1>
+  <OG_NamerPerson_Ork_Old.rulePack.rulesStrings.2>OGOrkFirst->[OGOrkFirstA][OGOrkFirstB]</OG_NamerPerson_Ork_Old.rulePack.rulesStrings.2>
+  <OG_NamerPerson_Grot.rulePack.rulesStrings.0>name(p=10)->[OGGrotFirst] [OGGrotSecond]</OG_NamerPerson_Grot.rulePack.rulesStrings.0>
+  <OG_NamerPerson_Grot.rulePack.rulesStrings.1>name(p=1)->[OGGrotFirst] '[OGGrotNick]' [OGOGrotSecond]</OG_NamerPerson_Grot.rulePack.rulesStrings.1>
+  <OG_NamerPerson_Grot.rulePack.rulesStrings.2>OGGrotFirst->[OGGrotFirstA][OGGrotFirstB]</OG_NamerPerson_Grot.rulePack.rulesStrings.2>
+  <OG_NamerPerson_Grot.rulePack.rulesStrings.3>OGGrotSecond->[OGGrotSecondA][OGGrotSecondB]</OG_NamerPerson_Grot.rulePack.rulesStrings.3>
+  <OG_NamerAnimal_Snotling.rulePack.rulesStrings.0>name(p=10)->[OGSnotUS][OGOrkFirstB]</OG_NamerAnimal_Snotling.rulePack.rulesStrings.0>
+  <OG_NamerAnimal_Snotling.rulePack.rulesStrings.1>name(p=1)->[OGOrkFirstA][OGSnotLC]</OG_NamerAnimal_Snotling.rulePack.rulesStrings.1>
+  <OG_NamerAnimal_Snotling.rulePack.rulesStrings.2>name(p=10)->[OGSnotUS][OGOrkLastB]</OG_NamerAnimal_Snotling.rulePack.rulesStrings.2>
+  <OG_NamerAnimal_Snotling.rulePack.rulesStrings.3>name(p=1)->[OGOrkLastA][OGSnotLC]</OG_NamerAnimal_Snotling.rulePack.rulesStrings.3>
+  <OG_NamerAnimal_Snotling.rulePack.rulesStrings.4>name(p=10)->[OGSnotUS][OGGrotFirstB]</OG_NamerAnimal_Snotling.rulePack.rulesStrings.4>
+  <OG_NamerAnimal_Snotling.rulePack.rulesStrings.5>name(p=1)->[OGGrotFirstA][OGSnotLC]</OG_NamerAnimal_Snotling.rulePack.rulesStrings.5>
+  <OG_NamerAnimal_Snotling.rulePack.rulesStrings.6>name(p=10)->[OGSnotUS][OGGrotSecondB]</OG_NamerAnimal_Snotling.rulePack.rulesStrings.6>
+  <OG_NamerAnimal_Snotling.rulePack.rulesStrings.7>name(p=1)->[OGGrotSecondA][OGSnotLC]</OG_NamerAnimal_Snotling.rulePack.rulesStrings.7>
+  <OG_NamerAnimal_Squig.rulePack.rulesStrings.0>name->[OGSquig]</OG_NamerAnimal_Squig.rulePack.rulesStrings.0>
+  <OG_NamerAnimal_Squig.rulePack.rulesStrings.1>OGSquig->[OGSquigA][OGSquigB]</OG_NamerAnimal_Squig.rulePack.rulesStrings.1>
+  <NamerOGTauFaction.rulePack.rulesStrings.0>name->[OGTauClans1]</NamerOGTauFaction.rulePack.rulesStrings.0>
+  <NamerOGTauBases.rulePack.rulesStrings.0>name->[OGTauBaseNames]</NamerOGTauBases.rulePack.rulesStrings.0>
+  <NamerOGTauPawns.rulePack.rulesStrings.0>name->[OGTauFirst] [OGTauSecond]</NamerOGTauPawns.rulePack.rulesStrings.0>
+  <OG_ImperialWordUtility.rulePack.rulesStrings.0>WordImperial(p=3)->[tribal_word_file]</OG_ImperialWordUtility.rulePack.rulesStrings.0>
+  <NamerFactionRaceName.rulePack.rulesStrings.0>r_name->[RaceNameworld] [political_union_RaceName]</NamerFactionRaceName.rulePack.rulesStrings.0>
+  <NamerFactionRaceName.rulePack.rulesStrings.1>maybe_letter(p=8)-></NamerFactionRaceName.rulePack.rulesStrings.1>
+  <NamerFactionRaceName.rulePack.rulesStrings.2>maybe_letter->[Letter]</NamerFactionRaceName.rulePack.rulesStrings.2>
+  <NamerFactionRaceName.rulePack.rulesStrings.3>maybe_letter->[Letter][Letter]</NamerFactionRaceName.rulePack.rulesStrings.3>
+  <NamerSettlementRaceName.rulePack.rulesStrings.0>r_name(p=2)->[WordRaceName]</NamerSettlementRaceName.rulePack.rulesStrings.0>
+  <NamerSettlementRaceName.rulePack.rulesStrings.1>r_name->[Color] [WordRaceName]</NamerSettlementRaceName.rulePack.rulesStrings.1>
+  <NamerSettlementRaceName.rulePack.rulesStrings.2>r_name->[Color] [TerrainFeature]</NamerSettlementRaceName.rulePack.rulesStrings.2>
+  <NamerSettlementRaceName.rulePack.rulesStrings.3>r_name->[WordRaceName] [TerrainFeature]</NamerSettlementRaceName.rulePack.rulesStrings.3>
+</LanguageData>

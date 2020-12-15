@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OGGrenadeFlashHediff.description>description</OGGrenadeFlashHediff.description>
+  <OGGrenadeFlashHediff.label>blinded</OGGrenadeFlashHediff.label>
+  <OGGrenadeFlashHediff.labelNoun>blinded</OGGrenadeFlashHediff.labelNoun>
+  <AcidGas.description>description</AcidGas.description>
+  <AcidGas.label>acid gas</AcidGas.label>
+  <AcidGas.stages.0.label>initial</AcidGas.stages.0.label>
+  <AcidGas.stages.1.label>minor</AcidGas.stages.1.label>
+  <AcidGas.stages.2.label>moderate</AcidGas.stages.2.label>
+  <AcidGas.stages.3.label>serious</AcidGas.stages.3.label>
+  <ToxicGas.description>description</ToxicGas.description>
+  <ToxicGas.label>toxic gas</ToxicGas.label>
+  <ToxicGas.stages.0.label>initial</ToxicGas.stages.0.label>
+  <ToxicGas.stages.1.label>minor</ToxicGas.stages.1.label>
+  <ToxicGas.stages.2.label>moderate</ToxicGas.stages.2.label>
+  <ToxicGas.stages.3.label>serious</ToxicGas.stages.3.label>
+  <ToxicGas.stages.4.label>extreme</ToxicGas.stages.4.label>
+  <RageGas.description>description</RageGas.description>
+  <RageGas.label>rage gas</RageGas.label>
+  <RageGas.stages.0.label>initial</RageGas.stages.0.label>
+  <RageGas.stages.1.label>minor</RageGas.stages.1.label>
+  <RageGas.stages.2.label>moderate</RageGas.stages.2.label>
+  <RageGas.stages.3.label>serious</RageGas.stages.3.label>
+  <RageGas.stages.4.label>extreme</RageGas.stages.4.label>
+  <TearGas.description>description</TearGas.description>
+  <TearGas.label>tear gas</TearGas.label>
+  <TearGas.stages.0.label>initial</TearGas.stages.0.label>
+  <TearGas.stages.1.label>minor</TearGas.stages.1.label>
+  <TearGas.stages.2.label>major</TearGas.stages.2.label>
+  <TearGas.stages.3.label>extreme</TearGas.stages.3.label>
+  <TearGas.stages.4.label>blind</TearGas.stages.4.label>
+  <SleepGas.description>description</SleepGas.description>
+  <SleepGas.label>sleep gas</SleepGas.label>
+  <SleepGas.stages.0.label>drowsy</SleepGas.stages.0.label>
+  <SleepGas.stages.1.label>weary</SleepGas.stages.1.label>
+  <SleepGas.stages.2.label>tired</SleepGas.stages.2.label>
+  <SleepGas.stages.3.label>passed out</SleepGas.stages.3.label>
+  <SleepGas.stages.4.label>comatose</SleepGas.stages.4.label>
+  <FearGas.description>description</FearGas.description>
+  <FearGas.label>fear</FearGas.label>
+  <FearGas.stages.0.label>minor</FearGas.stages.0.label>
+  <FearGas.stages.1.label>minor</FearGas.stages.1.label>
+  <FearGas.stages.2.label>major</FearGas.stages.2.label>
+  <FearGas.stages.3.label>extreme</FearGas.stages.3.label>
+  <HallucinogenGas.description>description</HallucinogenGas.description>
+  <HallucinogenGas.label>hallucinogen gas</HallucinogenGas.label>
+  <HallucinogenGas.stages.0.label>initial</HallucinogenGas.stages.0.label>
+  <HallucinogenGas.stages.1.label>minor</HallucinogenGas.stages.1.label>
+  <HallucinogenGas.stages.2.label>moderate</HallucinogenGas.stages.2.label>
+  <HallucinogenGas.stages.3.label>serious</HallucinogenGas.stages.3.label>
+  <HallucinogenGas.stages.4.label>extreme</HallucinogenGas.stages.4.label>
+  <OG_unConsciousness.description>description</OG_unConsciousness.description>
+  <OG_unConsciousness.label>unconsciousness</OG_unConsciousness.label>
+  <hediff_Pacifier.description>description</hediff_Pacifier.description>
+  <hediff_Pacifier.label>electrocuted</hediff_Pacifier.label>
+  <hediff_Pacifier.stages.0.label>minor</hediff_Pacifier.stages.0.label>
+  <hediff_Pacifier.stages.1.label>severe</hediff_Pacifier.stages.1.label>
+  <hediff_Pacifier.stages.2.label>extreme</hediff_Pacifier.stages.2.label>
+  <hediff_Pacifier.injuryProps.destroyedLabel>Destroyed</hediff_Pacifier.injuryProps.destroyedLabel>
+  <hediff_Pacifier.injuryProps.destroyedOutLabel>Fried</hediff_Pacifier.injuryProps.destroyedOutLabel>
+  <Toxins.description>description</Toxins.description>
+  <Toxins.label>toxic buildup</Toxins.label>
+  <Toxins.stages.0.label>initial</Toxins.stages.0.label>
+  <Toxins.stages.1.label>initial</Toxins.stages.1.label>
+  <Toxins.stages.2.label>minor</Toxins.stages.2.label>
+  <Toxins.stages.3.label>moderate</Toxins.stages.3.label>
+  <Toxins.stages.4.label>serious</Toxins.stages.4.label>
+  <Toxins.stages.5.label>extreme</Toxins.stages.5.label>
+  <OG_Hediff_RadiationPoisioning.description>description</OG_Hediff_RadiationPoisioning.description>
+  <OG_Hediff_RadiationPoisioning.label>radiation poisioning</OG_Hediff_RadiationPoisioning.label>
+  <OG_Hediff_RadiationPoisioning.stages.0.label>initial</OG_Hediff_RadiationPoisioning.stages.0.label>
+  <OG_Hediff_RadiationPoisioning.stages.1.label>initial</OG_Hediff_RadiationPoisioning.stages.1.label>
+  <OG_Hediff_RadiationPoisioning.stages.2.label>minor</OG_Hediff_RadiationPoisioning.stages.2.label>
+  <OG_Hediff_RadiationPoisioning.stages.3.label>moderate</OG_Hediff_RadiationPoisioning.stages.3.label>
+  <OG_Hediff_RadiationPoisioning.stages.4.label>serious</OG_Hediff_RadiationPoisioning.stages.4.label>
+  <OG_Hediff_RadiationPoisioning.stages.5.label>extreme</OG_Hediff_RadiationPoisioning.stages.5.label>
+  <BrainDamageModerate.description>description</BrainDamageModerate.description>
+  <BrainDamageModerate.label>brain damage</BrainDamageModerate.label>
+  <BrainDamageSevere.description>description</BrainDamageSevere.description>
+  <BrainDamageSevere.label>severe brain damage</BrainDamageSevere.label>
+  <OG_Hediff_FWPsychicShock.description>description</OG_Hediff_FWPsychicShock.description>
+  <OG_Hediff_FWPsychicShock.label>psychic shock</OG_Hediff_FWPsychicShock.label>
+  <OG_Hediff_FWPsychicShock.labelNoun>a psychic shock</OG_Hediff_FWPsychicShock.labelNoun>
+  <PsychicInterfearance.description>description</PsychicInterfearance.description>
+  <PsychicInterfearance.label>psychic Interfearance</PsychicInterfearance.label>
+  <PsychicInterfearance.labelNoun>psychic Interfearance</PsychicInterfearance.labelNoun>
+  <OG_Hediff_PlasmaBurn.description>description</OG_Hediff_PlasmaBurn.description>
+  <OG_Hediff_PlasmaBurn.label>plasma burn</OG_Hediff_PlasmaBurn.label>
+  <OG_Hediff_PlasmaBurn.labelNoun>a plasma burn</OG_Hediff_PlasmaBurn.labelNoun>
+  <OG_Hediff_PlasmaBurn.comps.0.labelTendedWell>bandaged</OG_Hediff_PlasmaBurn.comps.0.labelTendedWell>
+  <OG_Hediff_PlasmaBurn.comps.0.labelTendedWellInner>sutured</OG_Hediff_PlasmaBurn.comps.0.labelTendedWellInner>
+  <OG_Hediff_PlasmaBurn.comps.0.labelSolidTendedWell>set</OG_Hediff_PlasmaBurn.comps.0.labelSolidTendedWell>
+  <OG_Hediff_PlasmaBurn.comps.2.permanentLabel>plasma burn scar</OG_Hediff_PlasmaBurn.comps.2.permanentLabel>
+  <OG_Hediff_PlasmaBurn.injuryProps.destroyedLabel>Burned away</OG_Hediff_PlasmaBurn.injuryProps.destroyedLabel>
+  <OG_Hediff_PlasmaBurn.injuryProps.destroyedOutLabel>Burned away</OG_Hediff_PlasmaBurn.injuryProps.destroyedOutLabel>
+  <LaserBurn.description>description</LaserBurn.description>
+  <LaserBurn.label>las-burn</LaserBurn.label>
+  <LaserBurn.labelNoun>a laser burn</LaserBurn.labelNoun>
+  <LaserBurn.comps.0.labelTendedWell>bandaged</LaserBurn.comps.0.labelTendedWell>
+  <LaserBurn.comps.0.labelTendedWellInner>sutured</LaserBurn.comps.0.labelTendedWellInner>
+  <LaserBurn.comps.0.labelSolidTendedWell>set</LaserBurn.comps.0.labelSolidTendedWell>
+  <LaserBurn.comps.2.permanentLabel>old las gunshot</LaserBurn.comps.2.permanentLabel>
+  <LaserBurn.comps.2.instantlyPermanentLabel>permanent las gunshot injury</LaserBurn.comps.2.instantlyPermanentLabel>
+  <LaserBurn.injuryProps.destroyedLabel>Burned off</LaserBurn.injuryProps.destroyedLabel>
+  <LaserBurn.injuryProps.destroyedOutLabel>Burned out</LaserBurn.injuryProps.destroyedOutLabel>
+  <MeltaBurn.description>description</MeltaBurn.description>
+  <MeltaBurn.label>meltaburn</MeltaBurn.label>
+  <MeltaBurn.labelNoun>a melta burn</MeltaBurn.labelNoun>
+  <MeltaBurn.comps.0.labelTendedWell>bandaged</MeltaBurn.comps.0.labelTendedWell>
+  <MeltaBurn.comps.0.labelTendedWellInner>sutured</MeltaBurn.comps.0.labelTendedWellInner>
+  <MeltaBurn.comps.0.labelSolidTendedWell>set</MeltaBurn.comps.0.labelSolidTendedWell>
+  <MeltaBurn.comps.2.permanentLabel>melta burn scar</MeltaBurn.comps.2.permanentLabel>
+  <MeltaBurn.injuryProps.destroyedLabel>Incinerated</MeltaBurn.injuryProps.destroyedLabel>
+  <MeltaBurn.injuryProps.destroyedOutLabel>Incinerated</MeltaBurn.injuryProps.destroyedOutLabel>
+  <ElectricalBurn.description>description</ElectricalBurn.description>
+  <ElectricalBurn.label>electrical burn</ElectricalBurn.label>
+  <ElectricalBurn.labelNoun>an electrical burn</ElectricalBurn.labelNoun>
+  <ElectricalBurn.comps.0.labelTendedWell>bandaged</ElectricalBurn.comps.0.labelTendedWell>
+  <ElectricalBurn.comps.0.labelTendedWellInner>sutured</ElectricalBurn.comps.0.labelTendedWellInner>
+  <ElectricalBurn.comps.0.labelSolidTendedWell>set</ElectricalBurn.comps.0.labelSolidTendedWell>
+  <ElectricalBurn.comps.2.permanentLabel>electrical burn scar</ElectricalBurn.comps.2.permanentLabel>
+  <ElectricalBurn.injuryProps.destroyedLabel>Burned away</ElectricalBurn.injuryProps.destroyedLabel>
+  <ElectricalBurn.injuryProps.destroyedOutLabel>Burned away</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <RadiumGunshot.description>description</RadiumGunshot.description>
+  <RadiumGunshot.label>gunshot</RadiumGunshot.label>
+  <RadiumGunshot.labelNoun>an irradiated gunshot</RadiumGunshot.labelNoun>
+  <RadiumGunshot.comps.0.labelTendedWell>bandaged</RadiumGunshot.comps.0.labelTendedWell>
+  <RadiumGunshot.comps.0.labelTendedWellInner>sutured</RadiumGunshot.comps.0.labelTendedWellInner>
+  <RadiumGunshot.comps.0.labelSolidTendedWell>set</RadiumGunshot.comps.0.labelSolidTendedWell>
+  <RadiumGunshot.comps.2.permanentLabel>irradiated scar</RadiumGunshot.comps.2.permanentLabel>
+  <RadiumGunshot.injuryProps.destroyedLabel>Shot Off</RadiumGunshot.injuryProps.destroyedLabel>
+  <RadiumGunshot.injuryProps.destroyedOutLabel>Shot Out</RadiumGunshot.injuryProps.destroyedOutLabel>
+  <GalvanicWound.description>description</GalvanicWound.description>
+  <GalvanicWound.label>galvanic gunshot</GalvanicWound.label>
+  <GalvanicWound.labelNoun>a galvanic gunshot</GalvanicWound.labelNoun>
+  <GalvanicWound.comps.0.labelTendedWell>bandaged</GalvanicWound.comps.0.labelTendedWell>
+  <GalvanicWound.comps.0.labelTendedWellInner>sutured</GalvanicWound.comps.0.labelTendedWellInner>
+  <GalvanicWound.comps.0.labelSolidTendedWell>set</GalvanicWound.comps.0.labelSolidTendedWell>
+  <GalvanicWound.comps.2.permanentLabel>galvanic scar</GalvanicWound.comps.2.permanentLabel>
+  <GalvanicWound.injuryProps.destroyedLabel>Shot Off</GalvanicWound.injuryProps.destroyedLabel>
+  <GalvanicWound.injuryProps.destroyedOutLabel>Shot Out</GalvanicWound.injuryProps.destroyedOutLabel>
+  <TransuranicWound.description>description</TransuranicWound.description>
+  <TransuranicWound.label>transuranic gunshot</TransuranicWound.label>
+  <TransuranicWound.labelNoun>a transuranic gunshot</TransuranicWound.labelNoun>
+  <TransuranicWound.comps.0.labelTendedWell>bandaged</TransuranicWound.comps.0.labelTendedWell>
+  <TransuranicWound.comps.0.labelTendedWellInner>sutured</TransuranicWound.comps.0.labelTendedWellInner>
+  <TransuranicWound.comps.0.labelSolidTendedWell>set</TransuranicWound.comps.0.labelSolidTendedWell>
+  <TransuranicWound.comps.2.permanentLabel>transuranic scar</TransuranicWound.comps.2.permanentLabel>
+  <TransuranicWound.injuryProps.destroyedLabel>Shot Off</TransuranicWound.injuryProps.destroyedLabel>
+  <TransuranicWound.injuryProps.destroyedOutLabel>Shot Out</TransuranicWound.injuryProps.destroyedOutLabel>
+  <GaussWound.description>description</GaussWound.description>
+  <GaussWound.label>gauss wound</GaussWound.label>
+  <GaussWound.labelNoun>a guass wound</GaussWound.labelNoun>
+  <GaussWound.comps.0.labelTendedWell>bandaged</GaussWound.comps.0.labelTendedWell>
+  <GaussWound.comps.0.labelTendedWellInner>sutured</GaussWound.comps.0.labelTendedWellInner>
+  <GaussWound.comps.0.labelSolidTendedWell>set</GaussWound.comps.0.labelSolidTendedWell>
+  <GaussWound.comps.2.permanentLabel>flaying scar</GaussWound.comps.2.permanentLabel>
+  <GaussWound.injuryProps.destroyedLabel>Disintegrated</GaussWound.injuryProps.destroyedLabel>
+  <GaussWound.injuryProps.destroyedOutLabel>Disintegrated</GaussWound.injuryProps.destroyedOutLabel>
+  <CutBase.description>description</CutBase.description>
+  <CutBase.labelNounPretty>{0} in the {1}</CutBase.labelNounPretty>
+  <CutBase.label>cut</CutBase.label>
+  <CutBase.labelNoun>a cut</CutBase.labelNoun>
+  <CutBase.comps.0.labelTendedWell>bandaged</CutBase.comps.0.labelTendedWell>
+  <CutBase.comps.0.labelTendedWellInner>sutured</CutBase.comps.0.labelTendedWellInner>
+  <CutBase.comps.0.labelSolidTendedWell>set</CutBase.comps.0.labelSolidTendedWell>
+  <CutBase.comps.2.permanentLabel>cut scar</CutBase.comps.2.permanentLabel>
+  <CutBase.injuryProps.destroyedLabel>Cut off</CutBase.injuryProps.destroyedLabel>
+  <CutBase.injuryProps.destroyedOutLabel>Cut out</CutBase.injuryProps.destroyedOutLabel>
+  <Stab.description>description</Stab.description>
+  <Stab.labelNounPretty>{0} in the {1}</Stab.labelNounPretty>
+  <Stab.label>stab</Stab.label>
+  <Stab.labelNoun>a stab wound</Stab.labelNoun>
+  <Stab.comps.0.labelTendedWell>bandaged</Stab.comps.0.labelTendedWell>
+  <Stab.comps.0.labelTendedWellInner>sutured</Stab.comps.0.labelTendedWellInner>
+  <Stab.comps.0.labelSolidTendedWell>set</Stab.comps.0.labelSolidTendedWell>
+  <Stab.comps.2.permanentLabel>stab scar</Stab.comps.2.permanentLabel>
+  <Stab.injuryProps.destroyedLabel>Cut off</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedOutLabel>Cut out</Stab.injuryProps.destroyedOutLabel>
+  <Crush.description>description</Crush.description>
+  <Crush.labelNounPretty>{0} in the {1}</Crush.labelNounPretty>
+  <Crush.label>crush</Crush.label>
+  <Crush.labelNoun>a crush wound</Crush.labelNoun>
+  <Crush.comps.0.labelTendedWell>bandaged</Crush.comps.0.labelTendedWell>
+  <Crush.comps.0.labelTendedWellInner>sutured</Crush.comps.0.labelTendedWellInner>
+  <Crush.comps.0.labelSolidTendedWell>set</Crush.comps.0.labelSolidTendedWell>
+  <Crush.comps.2.permanentLabel>mangled scar</Crush.comps.2.permanentLabel>
+  <Crush.injuryProps.destroyedLabel>Crushed</Crush.injuryProps.destroyedLabel>
+  <OG_PowerWeapon_Cut.description>description</OG_PowerWeapon_Cut.description>
+  <OG_PowerWeapon_Cut.label>power weapon(cut)</OG_PowerWeapon_Cut.label>
+  <OG_PowerWeapon_Cut.labelNoun>a cut</OG_PowerWeapon_Cut.labelNoun>
+  <OG_PowerWeapon_Cut.comps.0.labelTendedWell>bandaged</OG_PowerWeapon_Cut.comps.0.labelTendedWell>
+  <OG_PowerWeapon_Cut.comps.0.labelTendedWellInner>sutured</OG_PowerWeapon_Cut.comps.0.labelTendedWellInner>
+  <OG_PowerWeapon_Cut.comps.0.labelSolidTendedWell>set</OG_PowerWeapon_Cut.comps.0.labelSolidTendedWell>
+  <OG_PowerWeapon_Cut.comps.2.permanentLabel>cut scar</OG_PowerWeapon_Cut.comps.2.permanentLabel>
+  <OG_PowerWeapon_Cut.injuryProps.destroyedLabel>Cut off</OG_PowerWeapon_Cut.injuryProps.destroyedLabel>
+  <OG_PowerWeapon_Cut.injuryProps.destroyedOutLabel>Cut out</OG_PowerWeapon_Cut.injuryProps.destroyedOutLabel>
+  <OG_PowerWeapon_Stab.description>description</OG_PowerWeapon_Stab.description>
+  <OG_PowerWeapon_Stab.label>power weapon(stab)</OG_PowerWeapon_Stab.label>
+  <OG_PowerWeapon_Stab.labelNoun>a stab wound</OG_PowerWeapon_Stab.labelNoun>
+  <OG_PowerWeapon_Stab.comps.0.labelTendedWell>bandaged</OG_PowerWeapon_Stab.comps.0.labelTendedWell>
+  <OG_PowerWeapon_Stab.comps.0.labelTendedWellInner>sutured</OG_PowerWeapon_Stab.comps.0.labelTendedWellInner>
+  <OG_PowerWeapon_Stab.comps.0.labelSolidTendedWell>set</OG_PowerWeapon_Stab.comps.0.labelSolidTendedWell>
+  <OG_PowerWeapon_Stab.comps.2.permanentLabel>stab scar</OG_PowerWeapon_Stab.comps.2.permanentLabel>
+  <OG_PowerWeapon_Stab.injuryProps.destroyedLabel>Cut off</OG_PowerWeapon_Stab.injuryProps.destroyedLabel>
+  <OG_PowerWeapon_Stab.injuryProps.destroyedOutLabel>Cut out</OG_PowerWeapon_Stab.injuryProps.destroyedOutLabel>
+  <OG_PowerWeapon_Blunt.description>description</OG_PowerWeapon_Blunt.description>
+  <OG_PowerWeapon_Blunt.label>power weapon(blunt)</OG_PowerWeapon_Blunt.label>
+  <OG_PowerWeapon_Blunt.labelNoun>a crush wound</OG_PowerWeapon_Blunt.labelNoun>
+  <OG_PowerWeapon_Blunt.comps.0.labelTendedWell>bandaged</OG_PowerWeapon_Blunt.comps.0.labelTendedWell>
+  <OG_PowerWeapon_Blunt.comps.0.labelTendedWellInner>sutured</OG_PowerWeapon_Blunt.comps.0.labelTendedWellInner>
+  <OG_PowerWeapon_Blunt.comps.0.labelSolidTendedWell>set</OG_PowerWeapon_Blunt.comps.0.labelSolidTendedWell>
+  <OG_PowerWeapon_Blunt.comps.2.permanentLabel>mangled scar</OG_PowerWeapon_Blunt.comps.2.permanentLabel>
+  <OG_PowerWeapon_Blunt.injuryProps.destroyedLabel>Crushed</OG_PowerWeapon_Blunt.injuryProps.destroyedLabel>
+  <OG_ForceWeapon_Cut.label>force weapon(cut)</OG_ForceWeapon_Cut.label>
+  <OG_ForceWeapon_Stab.label>force weapon(stab)</OG_ForceWeapon_Stab.label>
+  <OG_ForceWeapon_Blunt.label>Force weapon(blunt)</OG_ForceWeapon_Blunt.label>
+  <OGI_HeDiff_ServoArm.description>description</OGI_HeDiff_ServoArm.description>
+  <OGI_HeDiff_ServoArm.label>Servo Arm</OGI_HeDiff_ServoArm.label>
+  <OGI_HeDiff_ServoArm.labelNoun>servo arm attack</OGI_HeDiff_ServoArm.labelNoun>
+  <OGI_HeDiff_ServoArm.stages.0.label>initial</OGI_HeDiff_ServoArm.stages.0.label>
+  <OGI_HeDiff_ServoArm.comps.0.tools.0.label>servo Arm</OGI_HeDiff_ServoArm.comps.0.tools.0.label>
+  <Holographic.description>description</Holographic.description>
+  <Holographic.label>Holographic</Holographic.label>
+  <Holographic.labelNoun>Holographic</Holographic.labelNoun>
+  <OGE_HeDiff_BansheeScream.description>description</OGE_HeDiff_BansheeScream.description>
+  <OGE_HeDiff_BansheeScream.label>Banshee Scream</OGE_HeDiff_BansheeScream.label>
+  <OGE_HeDiff_BansheeScream.labelNoun>banshee sonic attack</OGE_HeDiff_BansheeScream.labelNoun>
+  <OGE_HeDiff_BansheeScream.stages.0.label>initial</OGE_HeDiff_BansheeScream.stages.0.label>
+  <OGE_HeDiff_BansheeScream.comps.0.tools.0.label>banshee screem</OGE_HeDiff_BansheeScream.comps.0.tools.0.label>
+  <OG_Hediff_Regenerating_Part.label>regrowing</OG_Hediff_Regenerating_Part.label>
+  <OG_Hediff_Regenerating_Part.description>description</OG_Hediff_Regenerating_Part.description>
+  <OG_Hediff_Regenerated_Part.label>regenerated bodypart</OG_Hediff_Regenerated_Part.label>
+  <OG_Hediff_Regenerated_Part.description>description</OG_Hediff_Regenerated_Part.description>
+</LanguageData>

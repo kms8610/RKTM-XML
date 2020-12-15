@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_ComponentEldar.label>make eldar component</Make_ComponentEldar.label>
+  <Make_ComponentEldar.description>Make an eldar component.</Make_ComponentEldar.description>
+  <Make_ComponentEldar.jobString>Making eldar component.</Make_ComponentEldar.jobString>
+  <Make_OGE_Wraithbone.label>make wraithbone</Make_OGE_Wraithbone.label>
+  <Make_OGE_Wraithbone.description>Make some wraithbone.</Make_OGE_Wraithbone.description>
+  <Make_OGE_Wraithbone.jobString>Making wraithbone.</Make_OGE_Wraithbone.jobString>
+  <Make_OGE_SpiritStone.label>make spirit stones</Make_OGE_SpiritStone.label>
+  <Make_OGE_SpiritStone.description>Make a spirit stone.</Make_OGE_SpiritStone.description>
+  <Make_OGE_SpiritStone.jobString>Making spirit stones.</Make_OGE_SpiritStone.jobString>
+  <Make_ComponentOrk.label>make ork component</Make_ComponentOrk.label>
+  <Make_ComponentOrk.description>Make an ork component.</Make_ComponentOrk.description>
+  <Make_ComponentOrk.jobString>Making ork component.</Make_ComponentOrk.jobString>
+  <Make_OGO_Bitz.label>make ork bitz</Make_OGO_Bitz.label>
+  <Make_OGO_Bitz.description>Make ork bitz.</Make_OGO_Bitz.description>
+  <Make_OGO_Bitz.jobString>Making ork bitz.</Make_OGO_Bitz.jobString>
+  <OG_ExtractMetalFromComponents.label>extract resources</OG_ExtractMetalFromComponents.label>
+  <OG_ExtractMetalFromComponents.description>Use heat and strong electromagnets to extract resources from Xeno components.</OG_ExtractMetalFromComponents.description>
+  <OG_ExtractMetalFromComponents.jobString>Extracting resources from components.</OG_ExtractMetalFromComponents.jobString>
+  <Make_ComponentTau.label>make tau component</Make_ComponentTau.label>
+  <Make_ComponentTau.description>Make a tau component.</Make_ComponentTau.description>
+  <Make_ComponentTau.jobString>Making tau component.</Make_ComponentTau.jobString>
+  <Make_OGT_Fiotak.label>make fio'tak</Make_OGT_Fiotak.label>
+  <Make_OGT_Fiotak.description>Make fio'tak.</Make_OGT_Fiotak.description>
+  <Make_OGT_Fiotak.jobString>Making fio'tak.</Make_OGT_Fiotak.jobString>
+  <Make_OGT_Mortonium.label>make mor'tonium</Make_OGT_Mortonium.label>
+  <Make_OGT_Mortonium.description>Make mor'tonium.</Make_OGT_Mortonium.description>
+  <Make_OGT_Mortonium.jobString>Making mor'tonium.</Make_OGT_Mortonium.jobString>
+  <MakeAmmo_OGArcOrk.label>make Zapp Powa pack x30</MakeAmmo_OGArcOrk.label>
+  <MakeAmmo_OGArcOrk.description>Craft 30 Zapp Powa packs.</MakeAmmo_OGArcOrk.description>
+  <MakeAmmo_OGArcOrk.jobString>Making Zapp Powa packs.</MakeAmmo_OGArcOrk.jobString>
+  <MakeAmmo_OGArc.label>make Arc power pack 70</MakeAmmo_OGArc.label>
+  <MakeAmmo_OGArc.description>Craft 70 Arc power packs.</MakeAmmo_OGArc.description>
+  <MakeAmmo_OGArc.jobString>Making Arc power packs.</MakeAmmo_OGArc.jobString>
+  <MakeAmmo_OGArcE.label>make Haywire pack 70</MakeAmmo_OGArcE.label>
+  <MakeAmmo_OGArcE.description>Craft 70 Haywire packs.</MakeAmmo_OGArcE.description>
+  <MakeAmmo_OGArcE.jobString>Making Haywire packs.</MakeAmmo_OGArcE.jobString>
+  <MakeAmmo_OGAutocannon.label>make AutoCannon cartridge x70</MakeAmmo_OGAutocannon.label>
+  <MakeAmmo_OGAutocannon.description>Craft 70 AutoCannon cartridges.</MakeAmmo_OGAutocannon.description>
+  <MakeAmmo_OGAutocannon.jobString>Making AutoCannon cartridges.</MakeAmmo_OGAutocannon.jobString>
+  <MakeAmmo_OGAuto.label>make Autogun round x90</MakeAmmo_OGAuto.label>
+  <MakeAmmo_OGAuto.description>Craft 90 Autogun rounds.</MakeAmmo_OGAuto.description>
+  <MakeAmmo_OGAuto.jobString>Making Autogun rounds.</MakeAmmo_OGAuto.jobString>
+  <MakeAmmo_OGAutoBS.label>make Auto cartridge x90</MakeAmmo_OGAutoBS.label>
+  <MakeAmmo_OGAutoBS.description>Craft 90 Auto cartridges.</MakeAmmo_OGAutoBS.description>
+  <MakeAmmo_OGAutoBS.jobString>Making Auto cartridges.</MakeAmmo_OGAutoBS.jobString>
+  <MakeAmmo_OGBoltStd.label>make standard Bolt cartridge x30</MakeAmmo_OGBoltStd.label>
+  <MakeAmmo_OGBoltStd.description>Craft 30 BoltStd shells.</MakeAmmo_OGBoltStd.description>
+  <MakeAmmo_OGBoltStd.jobString>Making BoltStd shells.</MakeAmmo_OGBoltStd.jobString>
+  <MakeAmmo_OGBoltDragonfire.label>make Dragonfire Bolt cartridge x30</MakeAmmo_OGBoltDragonfire.label>
+  <MakeAmmo_OGBoltDragonfire.description>Craft 30 Dragonfire Bolt shells.</MakeAmmo_OGBoltDragonfire.description>
+  <MakeAmmo_OGBoltDragonfire.jobString>Making Dragonfire Bolt shells.</MakeAmmo_OGBoltDragonfire.jobString>
+  <MakeAmmo_OGBoltHellfire.label>make Hellfire Bolt cartridge x30</MakeAmmo_OGBoltHellfire.label>
+  <MakeAmmo_OGBoltHellfire.description>Craft 30 Hellfire Bolt shells.</MakeAmmo_OGBoltHellfire.description>
+  <MakeAmmo_OGBoltHellfire.jobString>Making Hellfire Bolt shells.</MakeAmmo_OGBoltHellfire.jobString>
+  <MakeAmmo_OGBoltKraken.label>make Kraken Bolt cartridge x30</MakeAmmo_OGBoltKraken.label>
+  <MakeAmmo_OGBoltKraken.description>Craft 30 Kraken Bolt shells.</MakeAmmo_OGBoltKraken.description>
+  <MakeAmmo_OGBoltKraken.jobString>Making Kraken Bolt shells.</MakeAmmo_OGBoltKraken.jobString>
+  <MakeAmmo_OGBoltVengeance.label>make Vengeance Bolt cartridge x30</MakeAmmo_OGBoltVengeance.label>
+  <MakeAmmo_OGBoltVengeance.description>Craft 30 Vengeance Bolt shells.</MakeAmmo_OGBoltVengeance.description>
+  <MakeAmmo_OGBoltVengeance.jobString>Making Vengeance Bolt shells.</MakeAmmo_OGBoltVengeance.jobString>
+  <MakeAmmo_OGBoltStalker.label>make stalker Bolt cartridge x30</MakeAmmo_OGBoltStalker.label>
+  <MakeAmmo_OGBoltStalker.description>Craft 30 stalker Bolt shells.</MakeAmmo_OGBoltStalker.description>
+  <MakeAmmo_OGBoltStalker.jobString>Making stalker Bolt shells.</MakeAmmo_OGBoltStalker.jobString>
+  <MakeAmmo_OGBoltHeavyStd.label>make heavy Bolt cartridge x50</MakeAmmo_OGBoltHeavyStd.label>
+  <MakeAmmo_OGBoltHeavyStd.description>Craft 50 heavy Bolt shells.</MakeAmmo_OGBoltHeavyStd.description>
+  <MakeAmmo_OGBoltHeavyStd.jobString>Making heavy Bolt shells.</MakeAmmo_OGBoltHeavyStd.jobString>
+  <MakeAmmo_OGBoltHeavyHellfire.label>make heavy Hellfire Bolt cartridge x50</MakeAmmo_OGBoltHeavyHellfire.label>
+  <MakeAmmo_OGBoltHeavyHellfire.description>Craft 50 heavy Hellfire Bolt shells.</MakeAmmo_OGBoltHeavyHellfire.description>
+  <MakeAmmo_OGBoltHeavyHellfire.jobString>Making heavy Hellfire Bolt shells.</MakeAmmo_OGBoltHeavyHellfire.jobString>
+  <MakeAmmo_OGDistort.label>make Distort cartridge x60</MakeAmmo_OGDistort.label>
+  <MakeAmmo_OGDistort.description>Craft 60 Distort cartridges.</MakeAmmo_OGDistort.description>
+  <MakeAmmo_OGDistort.jobString>Making Distort cartridges.</MakeAmmo_OGDistort.jobString>
+  <MakeAmmo_OGExitus.label>make Exitus cartridge x70</MakeAmmo_OGExitus.label>
+  <MakeAmmo_OGExitus.description>Craft 70 Exitus cartridges.</MakeAmmo_OGExitus.description>
+  <MakeAmmo_OGExitus.jobString>Making Exitus cartridges.</MakeAmmo_OGExitus.jobString>
+  <MakeAmmo_OGFlamer.label>make OFlamer x50</MakeAmmo_OGFlamer.label>
+  <MakeAmmo_OGFlamer.description>Craft 50 Flamer cartridges.</MakeAmmo_OGFlamer.description>
+  <MakeAmmo_OGFlamer.jobString>Making Flamer cartridges.</MakeAmmo_OGFlamer.jobString>
+  <MakeAmmo_OGGalvanicRifle.label>make small Galvanic capacitor x70</MakeAmmo_OGGalvanicRifle.label>
+  <MakeAmmo_OGGalvanicRifle.description>Craft 70 small Galvanic capacitor.</MakeAmmo_OGGalvanicRifle.description>
+  <MakeAmmo_OGGalvanicRifle.jobString>Making small Galvanic capacitor.</MakeAmmo_OGGalvanicRifle.jobString>
+  <MakeAmmo_OGGrenadeFragL.label>make Frag grenades x50 (L)</MakeAmmo_OGGrenadeFragL.label>
+  <MakeAmmo_OGGrenadeFragL.description>Craft 50 Frag grenades (L).</MakeAmmo_OGGrenadeFragL.description>
+  <MakeAmmo_OGGrenadeFragL.jobString>Making Ogryn grenades (L).</MakeAmmo_OGGrenadeFragL.jobString>
+  <MakeAmmo_OGGrenadeKrakL.label>make krak grenades (L) x50</MakeAmmo_OGGrenadeKrakL.label>
+  <MakeAmmo_OGGrenadeKrakL.description>Craft 50 krak grenades (L).</MakeAmmo_OGGrenadeKrakL.description>
+  <MakeAmmo_OGGrenadeKrakL.jobString>Making krak grenades (L).</MakeAmmo_OGGrenadeKrakL.jobString>
+  <MakeAmmo_OGIonRifle.label>make small Ion capacitor x70</MakeAmmo_OGIonRifle.label>
+  <MakeAmmo_OGIonRifle.description>Craft 70 small Ion capacitor.</MakeAmmo_OGIonRifle.description>
+  <MakeAmmo_OGIonRifle.jobString>Making small Ion capacitor.</MakeAmmo_OGIonRifle.jobString>
+  <MakeAmmo_OG_LasCannon.label>make Lascannon cartridge (I) x40</MakeAmmo_OG_LasCannon.label>
+  <MakeAmmo_OG_LasCannon.description>Craft 40 Lascannon cartridges.</MakeAmmo_OG_LasCannon.description>
+  <MakeAmmo_OG_LasCannon.jobString>Making Lascannon cartridges.</MakeAmmo_OG_LasCannon.jobString>
+  <MakeAmmo_OGLasLanceE.label>make Lance cartridge (E) x40</MakeAmmo_OGLasLanceE.label>
+  <MakeAmmo_OGLasLanceE.description>Craft 40 Lance cartridges.</MakeAmmo_OGLasLanceE.description>
+  <MakeAmmo_OGLasLanceE.jobString>Making Lance cartridges.</MakeAmmo_OGLasLanceE.jobString>
+  <MakeAmmo_OGLasStd.label>make Las cartridge (I) x180</MakeAmmo_OGLasStd.label>
+  <MakeAmmo_OGLasStd.description>Craft 180 Las cartridges.</MakeAmmo_OGLasStd.description>
+  <MakeAmmo_OGLasStd.jobString>Making Las cartridges.</MakeAmmo_OGLasStd.jobString>
+  <MakeAmmo_OGLasE.label>make Las cartridge (E) x180</MakeAmmo_OGLasE.label>
+  <MakeAmmo_OGLasE.description>Craft 180 Las cartridges.</MakeAmmo_OGLasE.description>
+  <MakeAmmo_OGLasE.jobString>Making Las cartridges.</MakeAmmo_OGLasE.jobString>
+  <MakeAmmo_OGMelta.label>make Melta cartridge x20</MakeAmmo_OGMelta.label>
+  <MakeAmmo_OGMelta.description>Craft 20 Melta cartridges.</MakeAmmo_OGMelta.description>
+  <MakeAmmo_OGMelta.jobString>Making Melta cartridges.</MakeAmmo_OGMelta.jobString>
+  <MakeAmmo_OGMissileFrag.label>make frag missiles x50 (L)</MakeAmmo_OGMissileFrag.label>
+  <MakeAmmo_OGMissileFrag.description>Craft 50 frag missiles (L).</MakeAmmo_OGMissileFrag.description>
+  <MakeAmmo_OGMissileFrag.jobString>Making frag missiles (L).</MakeAmmo_OGMissileFrag.jobString>
+  <MakeAmmo_OGMissileKrak.label>make krak missiles (L) x50</MakeAmmo_OGMissileKrak.label>
+  <MakeAmmo_OGMissileKrak.description>Craft 50 krak missiles (L).</MakeAmmo_OGMissileKrak.description>
+  <MakeAmmo_OGMissileKrak.jobString>Making krak missiles (L).</MakeAmmo_OGMissileKrak.jobString>
+  <MakeAmmo_OGMonofillament.label>make Monofilament spool cartridge x100</MakeAmmo_OGMonofillament.label>
+  <MakeAmmo_OGMonofillament.description>Craft 100 Monofilament spool cartridges.</MakeAmmo_OGMonofillament.description>
+  <MakeAmmo_OGMonofillament.jobString>Making Monofilament spool cartridges.</MakeAmmo_OGMonofillament.jobString>
+  <MakeAmmo_OGNeedle.label>make small Needle x300</MakeAmmo_OGNeedle.label>
+  <MakeAmmo_OGNeedle.description>Craft 300 small Needles.</MakeAmmo_OGNeedle.description>
+  <MakeAmmo_OGNeedle.jobString>Making small Needles.</MakeAmmo_OGNeedle.jobString>
+  <MakeAmmo_OGNeuralDisruptor.label>make small NeuralDisruptor x70</MakeAmmo_OGNeuralDisruptor.label>
+  <MakeAmmo_OGNeuralDisruptor.description>Craft 70 small NeuralDisruptors.</MakeAmmo_OGNeuralDisruptor.description>
+  <MakeAmmo_OGNeuralDisruptor.jobString>Making small NeuralDisruptors.</MakeAmmo_OGNeuralDisruptor.jobString>
+  <MakeAmmo_OGNeutronBlaster.label>make small NeutronBlaster x70</MakeAmmo_OGNeutronBlaster.label>
+  <MakeAmmo_OGNeutronBlaster.description>Craft 70 small NeutronBlasters.</MakeAmmo_OGNeutronBlaster.description>
+  <MakeAmmo_OGNeutronBlaster.jobString>Making small NeutronBlasters.</MakeAmmo_OGNeutronBlaster.jobString>
+  <MakeAmmo_OGIPlasma.label>make standard Plasma Flask x80</MakeAmmo_OGIPlasma.label>
+  <MakeAmmo_OGIPlasma.description>Craft 80 standard Plasma Flasks.</MakeAmmo_OGIPlasma.description>
+  <MakeAmmo_OGIPlasma.jobString>Making standard Plasma Flasks.</MakeAmmo_OGIPlasma.jobString>
+  <MakeAmmo_OGOPlasma.label>make ork Plasma Flask x80</MakeAmmo_OGOPlasma.label>
+  <MakeAmmo_OGOPlasma.description>Craft 80 ork Plasma Flasks.</MakeAmmo_OGOPlasma.description>
+  <MakeAmmo_OGOPlasma.jobString>Making ork Plasma Flasks.</MakeAmmo_OGOPlasma.jobString>
+  <MakeAmmo_OGIPlasmaLarge.label>make large Plasma Flask x20</MakeAmmo_OGIPlasmaLarge.label>
+  <MakeAmmo_OGIPlasmaLarge.description>Craft 20 large Plasma Flasks.</MakeAmmo_OGIPlasmaLarge.description>
+  <MakeAmmo_OGIPlasmaLarge.jobString>Making large Plasma Flasks.</MakeAmmo_OGIPlasmaLarge.jobString>
+  <MakeAmmo_OGTPlasma.label>make Tau Plasma Flask x80</MakeAmmo_OGTPlasma.label>
+  <MakeAmmo_OGTPlasma.description>Craft 80 Tau Plasma Flasks.</MakeAmmo_OGTPlasma.description>
+  <MakeAmmo_OGTPlasma.jobString>Making Tau Plasma Flasks.</MakeAmmo_OGTPlasma.jobString>
+  <MakeAmmo_OGEPlasma.label>make Eldar Plasma Flask x80</MakeAmmo_OGEPlasma.label>
+  <MakeAmmo_OGEPlasma.description>Craft 80 Eldar Plasma Flasks.</MakeAmmo_OGEPlasma.description>
+  <MakeAmmo_OGEPlasma.jobString>Making Eldar Plasma Flasks.</MakeAmmo_OGEPlasma.jobString>
+  <MakeAmmo_OGPulse.label>make Tau Pulse round x80</MakeAmmo_OGPulse.label>
+  <MakeAmmo_OGPulse.description>Craft 80 Tau Pulse rounds.</MakeAmmo_OGPulse.description>
+  <MakeAmmo_OGPulse.jobString>Making Tau Pulse rounds.</MakeAmmo_OGPulse.jobString>
+  <MakeAmmo_OGRadium.label>make Radium cartridge x90</MakeAmmo_OGRadium.label>
+  <MakeAmmo_OGRadium.description>Craft 90 Radium cartridges.</MakeAmmo_OGRadium.description>
+  <MakeAmmo_OGRadium.jobString>Making Radium cartridges.</MakeAmmo_OGRadium.jobString>
+  <MakeAmmo_OGRailRifle.label>make Rail rifle slug x40</MakeAmmo_OGRailRifle.label>
+  <MakeAmmo_OGRailRifle.description>Craft 40 Rail rifle slugs.</MakeAmmo_OGRailRifle.description>
+  <MakeAmmo_OGRailRifle.jobString>Making Rail rifle slugs.</MakeAmmo_OGRailRifle.jobString>
+  <MakeAmmo_OGShuriken.label>make Shuriken core x100</MakeAmmo_OGShuriken.label>
+  <MakeAmmo_OGShuriken.description>Craft 100 Shuriken cores.</MakeAmmo_OGShuriken.description>
+  <MakeAmmo_OGShuriken.jobString>Making Shuriken cores.</MakeAmmo_OGShuriken.jobString>
+  <MakeAmmo_OGShurikenHeavy.label>make Heavy Shuriken core x100</MakeAmmo_OGShurikenHeavy.label>
+  <MakeAmmo_OGShurikenHeavy.description>Craft 100 Heavy Shuriken cores.</MakeAmmo_OGShurikenHeavy.description>
+  <MakeAmmo_OGShurikenHeavy.jobString>Making Heavy Shuriken cores.</MakeAmmo_OGShurikenHeavy.jobString>
+  <MakeAmmo_OGSonic.label>make small Sonic capacitor x70</MakeAmmo_OGSonic.label>
+  <MakeAmmo_OGSonic.description>Craft 70 small Sonic capacitor.</MakeAmmo_OGSonic.description>
+  <MakeAmmo_OGSonic.jobString>Making small Sonic capacitor.</MakeAmmo_OGSonic.jobString>
+  <MakeAmmo_OGSplinter.label>make Splinter crystal x300</MakeAmmo_OGSplinter.label>
+  <MakeAmmo_OGSplinter.description>Craft 300 Splinter crystals.</MakeAmmo_OGSplinter.description>
+  <MakeAmmo_OGSplinter.jobString>Making Splinter crystals.</MakeAmmo_OGSplinter.jobString>
+  <MakeAmmo_OGToxicSplinter.label>make Toxic Splinter crystal x300</MakeAmmo_OGToxicSplinter.label>
+  <MakeAmmo_OGToxicSplinter.description>Craft 300 Toxic Splinter crystals.</MakeAmmo_OGToxicSplinter.description>
+  <MakeAmmo_OGToxicSplinter.jobString>Making Toxic Splinter crystals.</MakeAmmo_OGToxicSplinter.jobString>
+  <MakeAmmo_OGTransuranicArquebus.label>make small Transuranic capacitor x70</MakeAmmo_OGTransuranicArquebus.label>
+  <MakeAmmo_OGTransuranicArquebus.description>Craft 70 small Transuranic capacitor.</MakeAmmo_OGTransuranicArquebus.description>
+  <MakeAmmo_OGTransuranicArquebus.jobString>Making small Transuranic capacitor.</MakeAmmo_OGTransuranicArquebus.jobString>
+  <MakeAmmo_OGVolkiteStd.label>make small Volkite capacitor x70</MakeAmmo_OGVolkiteStd.label>
+  <MakeAmmo_OGVolkiteStd.description>Craft 70 small Volkite capacitor.</MakeAmmo_OGVolkiteStd.description>
+  <MakeAmmo_OGVolkiteStd.jobString>Making small Volkite capacitor.</MakeAmmo_OGVolkiteStd.jobString>
+  <MakeAmmo_OGWebber.label>make Webber cartridge x90</MakeAmmo_OGWebber.label>
+  <MakeAmmo_OGWebber.description>Craft 90 Webber cartridges.</MakeAmmo_OGWebber.description>
+  <MakeAmmo_OGWebber.jobString>Making Webber cartridges.</MakeAmmo_OGWebber.jobString>
+</LanguageData>
