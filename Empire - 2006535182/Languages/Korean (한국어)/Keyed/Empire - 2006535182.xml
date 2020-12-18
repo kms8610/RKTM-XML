@@ -111,7 +111,7 @@
   <CannotHaveLessThanOneRace>Cannot have less than one race in your faction</CannotHaveLessThanOneRace>
   <SettlementNotBeingAttacked>Settlement is not under attack</SettlementNotBeingAttacked>
   <MedievalTechOnly>Medieval Tech Only</MedievalTechOnly>
-  <ForeignMilitarySwitch>The military forces of {0} have been sent to defend {1}</ForeignMilitarySwitch>
+  <ForeignMilitarySwitch>The military forces of {0} have been sent to defend {1}. They have an effective force of {2}</ForeignMilitarySwitch>
   <FCMilitarySentCapture>The military forces of {0} have been sent to capture {1}</FCMilitarySentCapture>
   <FCMilitarySentRaid>The military forces of {0} have been sent to raid {1}</FCMilitarySentRaid>
   <FCMilitarySentEnslave>The military forces of {0} have been sent to enslave the population of {1}</FCMilitarySentEnslave>
