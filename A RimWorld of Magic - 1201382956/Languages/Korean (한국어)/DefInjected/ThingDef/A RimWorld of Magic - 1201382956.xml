@@ -589,7 +589,7 @@ If things get too tough for them or they get bored, they'll flee back to whereve
   <TM_Poppi.tools.0.label>snuggle</TM_Poppi.tools.0.label>
   <MagicArtifact_RerollSpiritBond.comps.0.useLabel>Use</MagicArtifact_RerollSpiritBond.comps.0.useLabel>
   <MagicArtifact_RerollSpiritBond.label>Scroll of Spirit Binding</MagicArtifact_RerollSpiritBond.label>
-  <MagicArtifact_RerollSpiritBond.description>This scroll may be used to change a spirit bond. The new bond will randomly select a new spirit type to bond.</MagicArtifact_RerollSpiritBond.description>
+  <MagicArtifact_RerollSpiritBond.description>This scroll may be used to change the shaman's spirit animal. The new bond will randomly select a new spirit type to bond.</MagicArtifact_RerollSpiritBond.description>
   <TableGemcutting.label>gemcrafting table</TableGemcutting.label>
   <TableGemcutting.description>A workbench used for refining enchanting stones</TableGemcutting.description>
   <TableMagicPrinter.label>scribing table</TableMagicPrinter.label>
@@ -1401,6 +1401,8 @@ Augmented by Arcane Spectre: 50% chance to deal 20% bonus damage</AncientMail.de
 Armor of the Valiant is enchanted and provides additional benefits to trained mages and fighters:
 Energy Costs: -10%
 Class XP Gain: +10%</RoyalArmor.description>
+  <TM_DreamcatcherBuckskin.label>Dreamcatcher Buckskin</TM_DreamcatcherBuckskin.label>
+  <TM_DreamcatcherBuckskin.description>A patchwork buckskin of threaded leather adorned with animal memento. Primarily worn by tribal mystic leaders, the dreamcatcher buckskin represents the dream-like connection between nature and spirits. Mystics derive additional power from the symbolism decorating this outfit.</TM_DreamcatcherBuckskin.description>
   <ArchMageRobe.label>Robes of the Archmage</ArchMageRobe.label>
   <ArchMageRobe.description>Robes designed by a superior race that are meant for the highest class of magic users who are worthy of additional power and insight. These lightweight, flowing robes seem to propel the wearer as if carried by a great winged beast.
 
