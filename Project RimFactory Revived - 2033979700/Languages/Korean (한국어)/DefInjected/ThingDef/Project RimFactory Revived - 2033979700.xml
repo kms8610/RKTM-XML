@@ -31,7 +31,7 @@
   <AIResearchBench.label>AI research bench</AIResearchBench.label>
   <AIResearchBench.description>A high-tech bench with an AI module installed. Required for tier 2 automation research and is not a replacement for the hi-tech research bench. Requires power.</AIResearchBench.description>
   <TableRoboticMachining.label>robotic machining table</TableRoboticMachining.label>
-  <TableRoboticMachining.description>A work station for creating parts for automation buildings.</TableRoboticMachining.description>
+  <TableRoboticMachining.description>A work station for creating parts, frames and more for automation buildings.</TableRoboticMachining.description>
   <SelfCooker.label>industrial cooker</SelfCooker.label>
   <SelfCooker.description>An assortment of food processing modules which can peel, mince, chop, mix, cook, steam, grill, and bake ingredients into more or less delicious meals and other edible products.\n\nNever ruin a meal again with your one-stop solution to satisfy all your colony's sustenance needs. Just look at it go! \n\n 1x speed \n 5cleanliness \n cook level 10\n\nWhite cell is input range \nBlue cell are db range.</SelfCooker.description>
   <PRF_SpacerCooker.label>spacer cooker</PRF_SpacerCooker.label>
@@ -43,9 +43,9 @@
   <SelfPrepper.label>industrial food processor</SelfPrepper.label>
   <SelfPrepper.description>A machine designed to boil, grind, or mill raw food resources into ingredients more suitable for cooking and brewing.</SelfPrepper.description>
   <CultivatorTools_DroneCultivator.label>Drone Cultivator</CultivatorTools_DroneCultivator.label>
-  <CultivatorTools_DroneCultivator.description>A building that now using Drones. Can autonomously plant and harvest crops in a 11 cell square around it. Will not be affected by any stat modifiers.</CultivatorTools_DroneCultivator.description>
+  <CultivatorTools_DroneCultivator.description>A building that now using Drones. Can autonomously plant and harvest crops in a 11 cell square around it. Will not be affected by any stat modifiers.\n\nWill haul to a storage or stockpile if withing range.</CultivatorTools_DroneCultivator.description>
   <CultivatorTools_CultivatorWithLamp.label>Drone Cultivator (sun lamp)</CultivatorTools_CultivatorWithLamp.label>
-  <CultivatorTools_CultivatorWithLamp.description>A building that now using Drones. Can autonomously plant and harvest crops in a 11 cell square around it. Has a sun lamp. Will not be affected by any stat modifiers.</CultivatorTools_CultivatorWithLamp.description>
+  <CultivatorTools_CultivatorWithLamp.description>A building that now using Drones. Can autonomously plant and harvest crops in a 11 cell square around it. Has a sun lamp. Will not be affected by any stat modifiers.\n\nWill haul to a storage or stockpile if withing range.</CultivatorTools_CultivatorWithLamp.description>
   <CultivatorTools_b18CultivatorSun.label>Mechanites Cultivator (sun lamp)</CultivatorTools_b18CultivatorSun.label>
   <CultivatorTools_b18CultivatorSun.description>This is a hightech Cultivator that houses worker mechanites, that will sow, harvest and maintain a growzone or hydroponics setup. It has a Full spectrum LED sun light build in its sides. it will also output onto a cell for further processing./nIt has a size of 11x11</CultivatorTools_b18CultivatorSun.description>
   <CultivatorTools_b18Cultivator.label>Mechanites Cultivator</CultivatorTools_b18Cultivator.label>
@@ -54,6 +54,10 @@
   <CultivatorTools_b18CultivatorXL.description>This is a hightech XL Cultivator that houses worker mechanites, that will sow, harvest and maintain a growzone or hydroponics setup. It will also output onto a cell for further processing./nIt has a size of 23x23 and usses 4x more power and cost, but same speed as a normal size one.\nCapable of holding a roof</CultivatorTools_b18CultivatorXL.description>
   <CultivatorTools_Sprinkler.label>Sprinkler</CultivatorTools_Sprinkler.label>
   <CultivatorTools_Sprinkler.description>A building that waters plants in an expanding radius, increasing their growth by one hour per round. Effects are stackable, Work during growtime only</CultivatorTools_Sprinkler.description>
+  <PRF_MiniHelper.label>Mini Workshop helper station</PRF_MiniHelper.label>
+  <PRF_MiniHelper.description>A mini workshop helper capable of haul, flick, firefight and clean your workshop within a range(can be expanded with powerslider)</PRF_MiniHelper.description>
+  <PRF_MiniDroneColumn.label>drone column(throneroom)</PRF_MiniDroneColumn.label>
+  <PRF_MiniDroneColumn.description>A column filled with 2 handy drones that can clean your throneroom, kill fires, refuel your braziers and move your stuff away from the floor. It's also capable of holding a roof, and looks quite nice.</PRF_MiniDroneColumn.description>
   <PRF_StoneWorks.label>Industrial Stoneworks</PRF_StoneWorks.label>
   <PRF_StoneWorks.description>A CNC router like automated machine that are capable of turning stone into bricks and even abit mid skilled art too. \nArt level: 10</PRF_StoneWorks.description>
   <PRF_Recycler.label>Smart Recycler</PRF_Recycler.label>
@@ -100,7 +104,7 @@
   <PRFStorageUnitIOPort.label>I/O Port</PRFStorageUnitIOPort.label>
   <PRFStorageUnitIOPort.description>(tier 3) \n A Connection port for your storage Cargo Platforms. It can be set to Input/output from any Platform remotely in any range within the map.</PRFStorageUnitIOPort.description>
   <FuelingMachine.label>fueling machine</FuelingMachine.label>
-  <FuelingMachine.description>A robotic arm built on a simple machine frame that can automatically fuel the building in front of it (the yellow cell points to the "front").\n\n(Works with "Refualable comp" buildings)</FuelingMachine.description>
+  <FuelingMachine.description>A robotic arm built on a simple machine frame that can automatically fuel the building in front of it (the yellow cell points to the "front").\n\n(Works with "Refualable comp" buildings)\nAnd also mortars</FuelingMachine.description>
   <SAL_SmartHopper.label>Vacuum Hopper</SAL_SmartHopper.label>
   <SAL_SmartHopper.description>A Vacuum Hopper that sucks in any items on stockpiles within a 5-tile range. As long as items are in range, they can be pulled in, even from different stockpiles. Can be set up with a specific amount and type of item, and holds onto the item until it is pulled away.</SAL_SmartHopper.description>
   <Building_AutoMachineTool_GrowZonePuller.label>growzone Puller</Building_AutoMachineTool_GrowZonePuller.label>
