@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mote_BlastShard.label>Mote</Mote_BlastShard.label>
+  <Mote_PsionicBlast.label>Mote</Mote_PsionicBlast.label>
+  <AnimusCrystal.label>animus crystal</AnimusCrystal.label>
+  <AnimusCrystal.description>A semi-organic crystal that glows dimly and spontaneously causes harmless spatial anomalies around it. It makes a constant peaceful chime. Somehow biologically related to Crystalloids, this crystal acts as a conduit for psychic energies, and individuals who are attuned to the crystal can meditate at it.</AnimusCrystal.description>
+  <EkrianAnimusCrystal.label>ekrian crystal</EkrianAnimusCrystal.label>
+  <EkrianAnimusCrystal.description>An eldritch Crystalloid artifact, an echo of unearthly Ekrian psychic power. It is a large dark crystal that emanates an extremely powerful psychic aura, those who approach it feel an unnerving dread as psychic whispers enter their consciousness. If given enough electrical power and time, it will produce Ekrian Shards. A vital component for high level psionic gear. This crystal acts as a powerful conduit for psychic energies, and individuals who are attuned to the crystal can meditate at it.</EkrianAnimusCrystal.description>
+  <PsionicGenerator.label>psionic generator</PsionicGenerator.label>
+  <PsionicGenerator.description>Produces power by tapping into the psionic network. If it is placed within a psionic field, its power generation can increase up to double the original amount.</PsionicGenerator.description>
+  <PsionicReciever.label>psionic reciever</PsionicReciever.label>
+  <PsionicReciever.description>Produces electricity by drawing psionic energy from the psionic network. It can produce up to triple the amount of electricity if placed within a psionic field.</PsionicReciever.description>
+  <PsionicFieldScanner.label>psionic field scanner</PsionicFieldScanner.label>
+  <PsionicFieldScanner.description>Detects psionic fields on the map.</PsionicFieldScanner.description>
+  <ConstructHub.label>construct hub</ConstructHub.label>
+  <ConstructHub.description>Defensive structure that deploys weak micro prisms to attack enemies. Fabricates mico prisms periodically and subjects them to a low level psionic control frequency.</ConstructHub.description>
+  <ConstructHubGuardian.label>preserver station</ConstructHubGuardian.label>
+  <ConstructHubGuardian.description>Defensive structure that deploys a single Preserver construct to help defend your base. If the Preserver is destroyed, a new one will form after about a day.</ConstructHubGuardian.description>
+  <CrashedCrystalloidShipPartIncoming.label>crashed ship part (incoming)</CrashedCrystalloidShipPartIncoming.label>
+  <CollectiveHub.label>crystal seige hub</CollectiveHub.label>
+  <CollectiveHub.description>Crystalloid Collective proximity seige station that mass produces constructs to assault a colony. Consider using explosives to take it out.</CollectiveHub.description>
+  <CrystalReconfigurationChamber.label>reconfiguration chamber</CrystalReconfigurationChamber.label>
+  <CrystalReconfigurationChamber.description>Produces refined crystalline materials by reconfiguring raw crystal in a reaction chamber. Requires someone to operate the reaction, a skilled operator can increase efficency.</CrystalReconfigurationChamber.description>
+  <SynthesisTubes.label>progenitor crystal tubes</SynthesisTubes.label>
+  <SynthesisTubes.description>A device that houses two progenitor crystal synthesis tubes, capable of growing usable crystal material when fed an enormous amount of power.</SynthesisTubes.description>
+  <CCrystalWall.label>panel wall</CCrystalWall.label>
+  <CCrystalWall.description>An impassable wall constructed from gridlike panels of crystal. Slight angles to the panels deflect bullets harmlessly away, but are still very susceptible to explosions. Capable of holding up a roof.</CCrystalWall.description>
+  <CrystalloidCultivationKit.label>Psionic Anima cultivator </CrystalloidCultivationKit.label>
+  <CrystalloidCultivationKit.description>A one-use psionic tool that slices a sample of flesh from a Crystalloid or an Anima Prism that drops and mutates to grow a new Anima Prism from. The implications of such a tool is something most humans find unsettling.</CrystalloidCultivationKit.description>
+  <CrystalloidCultivationKit.comps.0.useLabel>Use anima cultivator</CrystalloidCultivationKit.comps.0.useLabel>
+  <CrystalloidPsychicAmplifier.label>psylink neuromutare</CrystalloidPsychicAmplifier.label>
+  <CrystalloidPsychicAmplifier.description>A consumable psionic device that forms or upgrades a psylink in the user's mind.\n\nOnly compatible with Crystalloid biology, the user pushes the device to their forehead where it reconfigures neurons in the brain to interact with psychic fields.</CrystalloidPsychicAmplifier.description>
+  <CrystalloidPsychicAmplifier.comps.0.useLabel>Use psimutare to form psylink</CrystalloidPsychicAmplifier.comps.0.useLabel>
+  <EkrianShard.label>ekrian shard</EkrianShard.label>
+  <EkrianShard.description>Rare piece of crystalline matter that reacts to psychic phenomenon in unique ways. Used to craft powerful psionic devices.</EkrianShard.description>
+  <Crystal.label>crystal</Crystal.label>
+  <Crystal.description>Raw crystalline material, with the unit cell of the crystal structure configured and rearranged by psionic energy. Raw crystal is lightweight and hard, while psionic energy can flow though it to some degree.</Crystal.description>
+  <Crystal.stuffProps.stuffAdjective>crystalline</Crystal.stuffProps.stuffAdjective>
+  <MineableCrystal.label>compacted crystal</MineableCrystal.label>
+  <MineableCrystal.description>Tightly packed deposit of crystalloid crystal</MineableCrystal.description>
+  <Crysteel.label>crysteel</Crysteel.label>
+  <Crysteel.description>Panels of processed crystal that is subjected to a chemical treatment that rearranges the unit cell and molecular bonds of the crystal. The result is a lightweight material with incredible strength. Crystalloids use crysteel to construct their weapons, buildings, and spaceships.</Crysteel.description>
+  <Crystalsilk.label>crystalsilk</Crystalsilk.label>
+  <Crystalsilk.description>Very fine and flexible crystalline threads woven into fabric, it is strong and very light, but won't keep out the elements.</Crystalsilk.description>
+  <AnimaEgg.label>cultivating anima prism</AnimaEgg.label>
+  <AnimaEgg.description>A sample of Crystalloid flesh that will grow into an anima prism</AnimaEgg.description>
+  <Apparel_CrystalShieldBelt.label>psi-shield belt</Apparel_CrystalShieldBelt.label>
+  <Apparel_CrystalShieldBelt.description>A psionic projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. Its bulky design prevents wearing armor along with it. Unlike normal shield belts, it does not prevent the wearer from firing out. Shuts down instantly if hit by EMP.</Apparel_CrystalShieldBelt.description>
+  <Apparel_CrystalloidJumpsuit.description>A crystalsilk jumpsuit, constructed with an interesting weave pattern. Basic outfit for the Crystalloid collective's population.</Apparel_CrystalloidJumpsuit.description>
+  <Apparel_CrystalloidJumpsuit.label>crystalloid jumpsuit</Apparel_CrystalloidJumpsuit.label>
+  <Apparel_ArmorMantle.description>A long crystalsilk mantle with a protective crystalline chestpiece, a design typically used by the crystalloid collective's armed forces.</Apparel_ArmorMantle.description>
+  <Apparel_ArmorMantle.label>armored mantle</Apparel_ArmorMantle.label>
+  <PsionicBombardment.label>psionic bombardment</PsionicBombardment.label>
+  <PsionicPowerBeam.label>power beam</PsionicPowerBeam.label>
+  <FilthCrystalBlood.label>Crystalline ichor</FilthCrystalBlood.label>
+  <Proj_ColossusCannon.label>Psionic barrage</Proj_ColossusCannon.label>
+  <Weapon_ColossusCannon.label>colossus cannon</Weapon_ColossusCannon.label>
+  <Weapon_ColossusCannon.description>Heavy psionic energy projector firing from the colossus core.</Weapon_ColossusCannon.description>
+  <Weapon_ColossusCannon.verbs.0.label>fire psionic cannon</Weapon_ColossusCannon.verbs.0.label>
+  <Proj_ColossusCannonRapid.label>Psionic barrage</Proj_ColossusCannonRapid.label>
+  <Weapon_ColossusCannonRapid.label>colossus bombard</Weapon_ColossusCannonRapid.label>
+  <Weapon_ColossusCannonRapid.description>Rapid psionic energy projector firing from the colossus core.</Weapon_ColossusCannonRapid.description>
+  <Weapon_ColossusCannonRapid.verbs.0.label>fire psionic cannon</Weapon_ColossusCannonRapid.verbs.0.label>
+  <Bullet_Zapper.label>psicharge beam</Bullet_Zapper.label>
+  <Gun_CrystalZapper.label>psicharge siphon</Gun_CrystalZapper.label>
+  <Gun_CrystalZapper.description>Innate psionic connection allows this pawn to fire psicharge beams at targets.</Gun_CrystalZapper.description>
+  <Gun_WeakCrystalZapper.label>weak psicharge siphon</Gun_WeakCrystalZapper.label>
+  <Gun_WeakCrystalZapper.description>Innate psionic connection allows this pawn to fire psicharge beams at targets.</Gun_WeakCrystalZapper.description>
+  <Bullet_PreserverZapper.label>psicharge beam</Bullet_PreserverZapper.label>
+  <Gun_CrystalPreserverZapper.label>heavy psicharge siphon</Gun_CrystalPreserverZapper.label>
+  <Gun_CrystalPreserverZapper.description>Innate psionic connection allows this pawn to fire psicharge beams at targets.</Gun_CrystalPreserverZapper.description>
+  <Bullet_ShardPistol.label>pistol shard</Bullet_ShardPistol.label>
+  <Gun_ShardPistol.label>shard pistol</Gun_ShardPistol.label>
+  <Gun_ShardPistol.description>Basic crystalline sidearm that fires small pointed crystal shards that lacerate their target.</Gun_ShardPistol.description>
+  <Gun_ShardPistol.tools.0.label>grip</Gun_ShardPistol.tools.0.label>
+  <Gun_ShardPistol.tools.1.label>barrel</Gun_ShardPistol.tools.1.label>
+  <Bullet_CPsionicRifle.label>psicharge beam</Bullet_CPsionicRifle.label>
+  <Gun_CrystalCraftedPsionicRifle.label>psicharge rifle</Gun_CrystalCraftedPsionicRifle.label>
+  <Gun_CrystalCraftedPsionicRifle.description>Crystalline rifle that fires concentrated blasts of psionic derived energy, bypassing some armor. It draws energy from the psychic network, and is easier to carry and handle than other weapons due to the fact it doesn't use ammo.</Gun_CrystalCraftedPsionicRifle.description>
+  <Gun_CrystalCraftedPsionicRifle.tools.0.label>stock</Gun_CrystalCraftedPsionicRifle.tools.0.label>
+  <Gun_CrystalCraftedPsionicRifle.tools.1.label>barrel</Gun_CrystalCraftedPsionicRifle.tools.1.label>
+  <Bullet_CCycleCannon.label>psicharge beam</Bullet_CCycleCannon.label>
+  <Gun_CrystalCycleCannon.label>cycle cannon</Gun_CrystalCycleCannon.label>
+  <Gun_CrystalCycleCannon.description>Large crystalline psionic support weapon that fires concentrated blasts of psionic derived energy from dual firing barrels. It is able to rain heavy suppressive fire over an area.</Gun_CrystalCycleCannon.description>
+  <Gun_CrystalCycleCannon.tools.0.label>barrels</Gun_CrystalCycleCannon.tools.0.label>
+  <Bullet_CraftedPsionicLancer.label>psicharge beam</Bullet_CraftedPsionicLancer.label>
+  <Gun_CrystalCraftedPsionicLightLancer.label>psicharge lancer</Gun_CrystalCraftedPsionicLightLancer.label>
+  <Gun_CrystalCraftedPsionicLightLancer.description>The crystalline psicharge lancer is a scout rifle that fires blasts of psionic derived energy. It is very capable of taking down targets with great accuracy at a mid to long range.</Gun_CrystalCraftedPsionicLightLancer.description>
+  <Gun_CrystalCraftedPsionicLightLancer.tools.0.label>stock</Gun_CrystalCraftedPsionicLightLancer.tools.0.label>
+  <Gun_CrystalCraftedPsionicLightLancer.tools.1.label>barrel</Gun_CrystalCraftedPsionicLightLancer.tools.1.label>
+  <Bullet_CraftedPsionicHeavyLancer.label>psicharge beam</Bullet_CraftedPsionicHeavyLancer.label>
+  <Gun_CrystalCraftedPsionicHeavyLancer.label>psicharge heavy lancer</Gun_CrystalCraftedPsionicHeavyLancer.label>
+  <Gun_CrystalCraftedPsionicHeavyLancer.description>The crystalline heavy lancer is an advanced high powered rifle that fires impressive searing bolts of psionically derived energy at long ranges. Designed as the collective's answer to mechanoids, it is incredibly potent against armored targets.</Gun_CrystalCraftedPsionicHeavyLancer.description>
+  <Gun_CrystalCraftedPsionicHeavyLancer.tools.0.label>stock</Gun_CrystalCraftedPsionicHeavyLancer.tools.0.label>
+  <Gun_CrystalCraftedPsionicHeavyLancer.tools.1.label>barrel</Gun_CrystalCraftedPsionicHeavyLancer.tools.1.label>
+  <Bullet_ShardRifle.label>rifle shard</Bullet_ShardRifle.label>
+  <Gun_ShardRifle.label>shard rifle</Gun_ShardRifle.label>
+  <Gun_ShardRifle.description>Crystalline rifle that fires shards at a somewhat high rate of fire. Its suppressive abilities are offset by its poor accuracy and short range.</Gun_ShardRifle.description>
+  <Gun_ShardRifle.tools.0.label>stock</Gun_ShardRifle.tools.0.label>
+  <Gun_ShardRifle.tools.1.label>barrel</Gun_ShardRifle.tools.1.label>
+  <Bullet_ShardShotgun.label>shard shrapnel</Bullet_ShardShotgun.label>
+  <Gun_ShardScatterer.label>shard scatterer</Gun_ShardScatterer.label>
+  <Gun_ShardScatterer.description>A shotgun that blasts a wide volley of crystalline shards, deadly against unarmored targets.</Gun_ShardScatterer.description>
+  <Gun_ShardScatterer.tools.0.label>stock</Gun_ShardScatterer.tools.0.label>
+  <Gun_ShardScatterer.tools.1.label>barrel</Gun_ShardScatterer.tools.1.label>
+  <Bullet_ShardCaster.label>heavy shard</Bullet_ShardCaster.label>
+  <Gun_ShardCaster.label>shard caster</Gun_ShardCaster.label>
+  <Gun_ShardCaster.description>The shard caster is an advanced crystalline heavy weapon that fires a massive crystal shard. The shard caster is devastating and fires somewhat quickly, but is offset by its low velocity and accuracy.</Gun_ShardCaster.description>
+  <Gun_ShardCaster.tools.0.label>stock</Gun_ShardCaster.tools.0.label>
+  <Gun_ShardCaster.tools.1.label>barrel</Gun_ShardCaster.tools.1.label>
+  <AnnihilationStaff.label>annihilation staff</AnnihilationStaff.label>
+  <AnnihilationStaff.description>A powerful psionic Crystalloid artifact weapon that rains ruination upon enemies. It contains the fragmented consciousness of a powerful Crystalloid psycaster, contained within the flawless gem atop the staff.</AnnihilationStaff.description>
+  <Crystal_Prism.label>Prism</Crystal_Prism.label>
+  <Crystal_Prism.description>A simple crystalline psionic construct. It is actively connected to a psionic network that dictates its actions. It is a light combat construct that leviates above ground and fies proton streams towards enemies.</Crystal_Prism.description>
+  <Crystal_Prism.tools.0.label>shell</Crystal_Prism.tools.0.label>
+  <Crystal_NeutralPrism.label>Anima prism</Crystal_NeutralPrism.label>
+  <Crystal_NeutralPrism.description>A large floating docile crystalline construct/creature that acts autonomously. It roams around without any purpose of its own, gathering minimal nutrition to produce crystal growths on its shell.</Crystal_NeutralPrism.description>
+  <Crystal_NeutralPrism.tools.0.label>shell</Crystal_NeutralPrism.tools.0.label>
+  <Crystal_PrismMini.label>Micro Prism</Crystal_PrismMini.label>
+  <Crystal_PrismMini.description>A very simple crystalline psionic construct designed to support defenses. It has a weak connection to the area's local psionic network but the link isn't potent enough to direct its actions, it is instead controlled by a nearby hub.</Crystal_PrismMini.description>
+  <Crystal_PrismMini.tools.0.label>shell</Crystal_PrismMini.tools.0.label>
+  <Crystal_Guardian.label>Guardian</Crystal_Guardian.label>
+  <Crystal_Guardian.description>Large crystalline construct that vaguely resembles a humanoid form. Heavily armored, it is the standard combat construct of the crystal collective and is compelled to action by psionic forces. Its conciousness is housed inside a complex matrix core in its head.</Crystal_Guardian.description>
+  <Crystal_Guardian.tools.0.label>left fist</Crystal_Guardian.tools.0.label>
+  <Crystal_Guardian.tools.1.label>right fist</Crystal_Guardian.tools.1.label>
+  <Crystal_Specter.label>specter</Crystal_Specter.label>
+  <Crystal_Specter.description>Highly mobile humanoid sized crystalline construct that specializes in hunting targets down. It is brutally effective and acts with a dark malice and cunning that sets it apart from other constructs.</Crystal_Specter.description>
+  <Crystal_Specter.tools.0.label>left fist</Crystal_Specter.tools.0.label>
+  <Crystal_Specter.tools.1.label>right fist</Crystal_Specter.tools.1.label>
+  <Crystal_Preserver.label>preserver</Crystal_Preserver.label>
+  <Crystal_Preserver.description>Large crystalline construct that vaguely resembles a humanoid form. It is a combat construct similar to the Collective's Guardian, but is not connected to a neural network and instead is controlled by a local hub. Its arms are outfitted with an integral psionic rifle. Its limited conciousness is housed inside a complex matrix core in its head.</Crystal_Preserver.description>
+  <Crystal_Preserver.tools.0.label>left fist</Crystal_Preserver.tools.0.label>
+  <Crystal_Preserver.tools.1.label>right fist</Crystal_Preserver.tools.1.label>
+  <Crystal_GuardianP.label>Volatile Guardian</Crystal_GuardianP.label>
+  <Crystal_GuardianP.description>Guardian construct which has been loaded with psionic capacitors, stripped of armor, and sent into melee combat. Beware its explosion.</Crystal_GuardianP.description>
+  <Crystal_GuardianP.tools.0.label>left fist</Crystal_GuardianP.tools.0.label>
+  <Crystal_GuardianP.tools.1.label>right fist</Crystal_GuardianP.tools.1.label>
+  <Crystal_Colossus.label>Colossus</Crystal_Colossus.label>
+  <Crystal_Colossus.description>Colossal construct designed for heavy assault and mass destruction. It collects an enormous amount of psionic energy and fires it long distances, laying waste to a huge area.</Crystal_Colossus.description>
+  <Crystal_Colossus.tools.0.label>psionic blow</Crystal_Colossus.tools.0.label>
+</LanguageData>

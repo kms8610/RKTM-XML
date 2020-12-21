@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsyInfusion.label>psychic infusion</PsyInfusion.label>
+  <PsyInfusion.description>Psychically-induced mental activity boost.</PsyInfusion.description>
+  <PsyDeflection.label>ethereal crystal layer</PsyDeflection.label>
+  <PsyDeflection.description>Psychically created semi-ethereal layer of armor.</PsyDeflection.description>
+  <PsyBleed.label>exsanguination</PsyBleed.label>
+  <PsyBleed.description>Psychically induced inordinate bleeding from existing wounds</PsyBleed.description>
+  <PsyTourniquet.label>tourniquet</PsyTourniquet.label>
+  <PsyTourniquet.description>Psychically slowed bleeding, at the cost of some manipulation</PsyTourniquet.description>
+  <PsyRegen.label>regeneration</PsyRegen.label>
+  <PsyRegen.description>Psychic healing</PsyRegen.description>
+  <PsyWither.label>withering</PsyWither.label>
+  <PsyWither.description>Psychically induced withering of the body</PsyWither.description>
+  <PsionicAscension.label>Psionic Ascendency</PsionicAscension.label>
+  <PsionicAscension.description>A set of permanent changes bestowed upon a person by a unique and intense exposure to the psychic field. Known as Psionic Ascension, these mental and physical preternatural gifts come in varying levels, with each concurrent one making the person increasingly powerful.\n\nPsionic Ascension is poorly documented within the Ordo Historia. They believe it is caused by Crystalloid Archotech, but its exact changes and limits are unknown. Former Collective Crystalloids are either unaware of its existance or believe it to be a manifestation of the Ekrian's divinity.</PsionicAscension.description>
+  <PsionicAscension.stages.0.label>Class 1</PsionicAscension.stages.0.label>
+  <PsionicAscension.stages.1.label>Class 2</PsionicAscension.stages.1.label>
+  <PsionicAscension.stages.2.label>Class 3</PsionicAscension.stages.2.label>
+  <PsionicAscension.stages.3.label>Class 4</PsionicAscension.stages.3.label>
+  <PsionicAscension.stages.4.label>Class 5</PsionicAscension.stages.4.label>
+  <PsionicAscension.stages.5.label>Class 6</PsionicAscension.stages.5.label>
+  <PsionicAscension.stages.6.label>QuasiAscendant</PsionicAscension.stages.6.label>
+  <PsionicAscension.stages.7.label>Ascendant</PsionicAscension.stages.7.label>
+  <CrystalConstructIchorLoss.label>ichor loss</CrystalConstructIchorLoss.label>
+  <CrystalConstructIchorLoss.description>A reduction of the normal volume of construct ichor present in a construct. Reduces the construct's psychic connection to its controlling hub, which in turn makes it sluggish.</CrystalConstructIchorLoss.description>
+  <CrystalConstructIchorLoss.stages.0.label>minor</CrystalConstructIchorLoss.stages.0.label>
+  <CrystalConstructIchorLoss.stages.1.label>minor</CrystalConstructIchorLoss.stages.1.label>
+  <CrystalConstructIchorLoss.stages.2.label>moderate</CrystalConstructIchorLoss.stages.2.label>
+  <CrystalConstructIchorLoss.stages.3.label>severe</CrystalConstructIchorLoss.stages.3.label>
+  <CrystalConstructIchorLoss.stages.4.label>extreme</CrystalConstructIchorLoss.stages.4.label>
+  <CrystalloidIchorLoss.label>ichor loss</CrystalloidIchorLoss.label>
+  <CrystalloidIchorLoss.description>A reduction in the normal ichor volume. Minor ichor loss has relatively mild effects, but when ichor loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme ichor loss leads to death.
+\nIchor loss naturally recovers over time as the body slowly regenerates its ichor supply.</CrystalloidIchorLoss.description>
+  <CrystalloidIchorLoss.stages.0.label>minor</CrystalloidIchorLoss.stages.0.label>
+  <CrystalloidIchorLoss.stages.1.label>minor</CrystalloidIchorLoss.stages.1.label>
+  <CrystalloidIchorLoss.stages.2.label>moderate</CrystalloidIchorLoss.stages.2.label>
+  <CrystalloidIchorLoss.stages.3.label>severe</CrystalloidIchorLoss.stages.3.label>
+  <CrystalloidIchorLoss.stages.4.label>extreme</CrystalloidIchorLoss.stages.4.label>
+  <CrystalConstructVitality.label>construct nature</CrystalConstructVitality.label>
+  <CrystalConstructVitality.description>Hediff for patching in no regeneration for constructs. Healing factor is not a stat :(</CrystalConstructVitality.description>
+  <CrystalValkyrieResistance.label>valkyrie resistance</CrystalValkyrieResistance.label>
+  <CrystalValkyrieResistance.description>Hediff to allow Valkyries to safely eat raw meat without food poisoning. Food poisoning chance is not a stat :(</CrystalValkyrieResistance.description>
+  <CrystalloidPsionicBoost.label>psionic boost</CrystalloidPsionicBoost.label>
+  <CrystalloidPsionicBoost.description>Latent psionic field concentrations can enhance the capacities of individuals who have high psychic sensitivity</CrystalloidPsionicBoost.description>
+  <CrystalloidPsionicBoost.stages.0.label>latent</CrystalloidPsionicBoost.stages.0.label>
+  <CrystalloidPsionicBoost.stages.1.label>weak</CrystalloidPsionicBoost.stages.1.label>
+  <CrystalloidPsionicBoost.stages.2.label>moderate</CrystalloidPsionicBoost.stages.2.label>
+  <CrystalloidPsionicBoost.stages.3.label>strong</CrystalloidPsionicBoost.stages.3.label>
+  <CrystalloidPsionicBoost.stages.4.label>extreme</CrystalloidPsionicBoost.stages.4.label>
+</LanguageData>
