@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PTAdditionalFilter_IsPsion.label>Is Psion</PTAdditionalFilter_IsPsion.label>
+  <PTAdditionalFilter_IsPsion.description>Removes all targets which are not psions from the target pool.\n\nWhen inverted, removes all targets which are psions from the pool.</PTAdditionalFilter_IsPsion.description>
+  <PTAdditionalFilter_IsDowned.label>Is Downed</PTAdditionalFilter_IsDowned.label>
+  <PTAdditionalFilter_IsDowned.description>Removes all targets which are not downed from the target pool.\n\nWhen inverted, removes all targets which are downed from the pool.</PTAdditionalFilter_IsDowned.description>
+  <PTAdditionalFilter_Pain.label>Pain Threshold</PTAdditionalFilter_Pain.label>
+  <PTAdditionalFilter_Pain.description>Removes all targets which are in less than a certain amount of pain from the target pool.\n\nWhen inverted, removes all targets which are in more than a certain amount of pain from the pool.</PTAdditionalFilter_Pain.description>
+  <PTAdditionalFilter_HealthPercent.label>Health Percent Threshold</PTAdditionalFilter_HealthPercent.label>
+  <PTAdditionalFilter_HealthPercent.description>Removes all targets which have less than a certain health percent from the target pool.\n\nWhen inverted, removes all targets which have more than a certain health percent from the pool.</PTAdditionalFilter_HealthPercent.description>
+  <PTAdditionalFilter_Mood.label>Mood Threshold</PTAdditionalFilter_Mood.label>
+  <PTAdditionalFilter_Mood.description>Removes all targets which have less than a certain mood percent from the target pool.\n\nWhen inverted, removes all targets which have more than a certain mood percent from the pool.</PTAdditionalFilter_Mood.description>
+  <PTAdditionalFilter_Energy.label>Psi Energy Threshold</PTAdditionalFilter_Energy.label>
+  <PTAdditionalFilter_Energy.description>Removes all targets which have less than a certain amount of psi energy from the target pool.\n\nWhen inverted, removes all targets which have more than a certain amount of psi energy from the pool.</PTAdditionalFilter_Energy.description>
+  <PTAdditionalFilter_PsionLevel.label>Psion Level Threshold</PTAdditionalFilter_PsionLevel.label>
+  <PTAdditionalFilter_PsionLevel.description>Removes all targets which are at less than a certain psion level from the target pool.\n\nWhen inverted, removes all targets which have more than a certain psion level from the pool.\n\nPsion level is the combination of energy and focus level. It ranges from 2 to 6. Note that this threshold is inclusive.</PTAdditionalFilter_PsionLevel.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PTAutocastFilterSelector_Closest.label>Closest</PTAutocastFilterSelector_Closest.label>
+  <PTAutocastFilterSelector_Closest.description>Selects the closest target that matches the filter.\n\nWhen inverted, this selector selects the farthest target.</PTAutocastFilterSelector_Closest.description>
+  <PTAutocastFilterSelector_HighestSuccessChance.label>Highest Success Chance</PTAutocastFilterSelector_HighestSuccessChance.label>
+  <PTAutocastFilterSelector_HighestSuccessChance.description>Selects the target that the ability has the highest success chance on that matches the filter.\n\nFor psions with a maxed chance to hit on most targets, this selector will choose a random target with 100% hit chance.\n\nWhen inverted, this selector selects the target with the lowest success chance.</PTAutocastFilterSelector_HighestSuccessChance.description>
+  <PTAutocastFilterSelector_LowestMood.label>Lowest Mood</PTAutocastFilterSelector_LowestMood.label>
+  <PTAutocastFilterSelector_LowestMood.description>Selects the target with the lowest mood that matches the filter.\n\nWhen inverted, this selector selects the target with the highest mood.</PTAutocastFilterSelector_LowestMood.description>
+  <PTAutocastFilterSelector_MostPain.label>Most Pain</PTAutocastFilterSelector_MostPain.label>
+  <PTAutocastFilterSelector_MostPain.description>Selects the target with the most pain that matches the filter.\n\nWhen inverted, this selector selects the target in the least pain.</PTAutocastFilterSelector_MostPain.description>
+  <PTAutocastFilterSelector_LowestHealthPercent.label>Lowest Health Percent</PTAutocastFilterSelector_LowestHealthPercent.label>
+  <PTAutocastFilterSelector_LowestHealthPercent.description>Selects the target with the lowest health percent that matches the filter.\n\nWhen inverted, this selector selects the target with the highest health.</PTAutocastFilterSelector_LowestHealthPercent.description>
+  <PTAutocastFilterSelector_MostDangerous.label>Most Dangerous</PTAutocastFilterSelector_MostDangerous.label>
+  <PTAutocastFilterSelector_MostDangerous.description>Selects the most dangerous target that matches the filter.\n\nThis selector uses several heuristics to assess the danger posed by a pawn and may not be completely accurate.\n\nWhen inverted, this selector selects the target assessed to be least dangerous.</PTAutocastFilterSelector_MostDangerous.description>
+</LanguageData>

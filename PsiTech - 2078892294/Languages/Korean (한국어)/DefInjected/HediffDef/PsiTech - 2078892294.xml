@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PTBattleTrance.label>Battle Trance</PTBattleTrance.label>
+  <PTBattleTrance.labelNoun>A battle trance</PTBattleTrance.labelNoun>
+  <PTBattleTrance.description>A state of heightened battlefield awareness, induced by a psion.</PTBattleTrance.description>
+  <PTBattlefieldAwakening.label>Battlefield Awakening</PTBattlefieldAwakening.label>
+  <PTBattlefieldAwakening.labelNoun>A battlefield awakening</PTBattlefieldAwakening.labelNoun>
+  <PTBattlefieldAwakening.description>A state of absolute battlefield awareness, induced by a psion.</PTBattlefieldAwakening.description>
+  <PTMeleeMastery.label>Melee Mastery</PTMeleeMastery.label>
+  <PTMeleeMastery.labelNoun>Melee mastery</PTMeleeMastery.labelNoun>
+  <PTMeleeMastery.description>A state of advance melee combat ability, induced by a psion.</PTMeleeMastery.description>
+  <PTRangedMastery.label>Ranged Mastery</PTRangedMastery.label>
+  <PTRangedMastery.labelNoun>Ranged mastery</PTRangedMastery.labelNoun>
+  <PTRangedMastery.description>A state of advance ranged combat ability, induced by a psion.</PTRangedMastery.description>
+  <PTPsychicSuppression.label>Psychically Suppressed</PTPsychicSuppression.label>
+  <PTPsychicSuppression.labelNoun>A psychic suppression</PTPsychicSuppression.labelNoun>
+  <PTPsychicSuppression.description>A state of decreased psychic sensitivity, induced by a psion.</PTPsychicSuppression.description>
+  <PTPsychicSilence.label>Psychically Silenced</PTPsychicSilence.label>
+  <PTPsychicSilence.labelNoun>A psychic suppression</PTPsychicSilence.labelNoun>
+  <PTPsychicSilence.description>A state of massively decreased psychic sensitivity, induced by a psion.</PTPsychicSilence.description>
+  <PTPsychicDamage.labelNounPretty>{0} in the {1}</PTPsychicDamage.labelNounPretty>
+  <PTPsychicDamage.label>Psychic damage</PTPsychicDamage.label>
+  <PTPsychicDamage.labelNoun>Some psychic damage</PTPsychicDamage.labelNoun>
+  <PTPsychicDamage.description>An injury caused by concentrated psychic energy.\n\nPsychic injuries take a variety of horrifying forms that are generally very painful. Often, the effects are as much psychosomatic as physical, resulting in far greater pain than one would expect for the damage caused.</PTPsychicDamage.description>
+  <PTPsychicDamage.comps.0.labelTendedWell>tended</PTPsychicDamage.comps.0.labelTendedWell>
+  <PTPsychicDamage.comps.0.labelTendedWellInner>tended</PTPsychicDamage.comps.0.labelTendedWellInner>
+  <PTPsychicDamage.comps.0.labelSolidTendedWell>tended</PTPsychicDamage.comps.0.labelSolidTendedWell>
+  <PTPsychicDamage.injuryProps.destroyedLabel>Psychically overloaded</PTPsychicDamage.injuryProps.destroyedLabel>
+</LanguageData>

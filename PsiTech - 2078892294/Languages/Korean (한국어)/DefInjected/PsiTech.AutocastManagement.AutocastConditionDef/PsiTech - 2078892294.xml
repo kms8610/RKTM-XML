@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PTAutocastCondition_Drafted.label>Drafted</PTAutocastCondition_Drafted.label>
+  <PTAutocastCondition_Drafted.description>Requires the psion to be drafted to activate.\n\nWhen inverted, this requires the psion to be undrafted to activate.</PTAutocastCondition_Drafted.description>
+  <PTAutocastCondition_Energy.label>Psi Energy Threshold</PTAutocastCondition_Energy.label>
+  <PTAutocastCondition_Energy.description>Requires the psion to have more than a certain amount of energy to activate.\n\nWhen inverted, this requires the psion to have less than a certain amount of energy to activate.</PTAutocastCondition_Energy.description>
+  <PTAutocastCondition_EnergyRemaining.label>Psi Remaining Energy Threshold</PTAutocastCondition_EnergyRemaining.label>
+  <PTAutocastCondition_EnergyRemaining.description>Requires the psion to have more than a certain amount of energy remaining after cast to activate.\n\nWhen inverted, this requires the psion to have less than a certain amount of energy remaining after cast to activate.</PTAutocastCondition_EnergyRemaining.description>
+  <PTAutocastCondition_Pain.label>Pain Threshold</PTAutocastCondition_Pain.label>
+  <PTAutocastCondition_Pain.description>Requires the psion to be in more than a certain amount of pain to activate.\n\nWhen inverted, this requires the psion to be in less than a certain amount of pain to activate.</PTAutocastCondition_Pain.description>
+  <PTAutocastCondition_HealthPercent.label>Health Percent Threshold</PTAutocastCondition_HealthPercent.label>
+  <PTAutocastCondition_HealthPercent.description>Requires the psion to have more than a certain health percentage to activate.\n\nWhen inverted, this requires the psion to have less than a certain health percentage to activate.</PTAutocastCondition_HealthPercent.description>
+  <PTAutocastCondition_AbilityModifier.label>Ability Modifier Threshold</PTAutocastCondition_AbilityModifier.label>
+  <PTAutocastCondition_AbilityModifier.description>Requires the psion to have more than a certain ability modifier to activate.\n\nWhen inverted, this requires the psion to be in less than a certain ability modifier to activate.</PTAutocastCondition_AbilityModifier.description>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PTPsiEnergyRegeneration.label>Psi Energy Regeneration</PTPsiEnergyRegeneration.label>
+  <PTPsiEnergyRegeneration.description>The rate at which this psion regenerates psi energy.</PTPsiEnergyRegeneration.description>
+  <PTMaxPsiEnergy.label>Max Psi Energy</PTMaxPsiEnergy.label>
+  <PTMaxPsiEnergy.description>The maximum amount of psi energy that this psion can store.</PTMaxPsiEnergy.description>
+  <PTPsiProjectionAbility.label>Psi Projection Ability</PTPsiProjectionAbility.label>
+  <PTPsiProjectionAbility.description>The ability of this psion to project psionic abilites onto others, and their sensitivity to psionic abilities used on them.</PTPsiProjectionAbility.description>
+  <PTPsiDefence.label>Psi Defence</PTPsiDefence.label>
+  <PTPsiDefence.description>This psion's defence against psionic abilities.\n\nPsi defence stops both friendly and enemy abilities, making it more difficult to use abilities of any kind on this psion.</PTPsiDefence.description>
+  <PTPsiWeaponSynchronicity.label>Psi Weapon Synchronicity</PTPsiWeaponSynchronicity.label>
+  <PTPsiWeaponSynchronicity.description>This psion's ability to properly synchronize with psychic weapons.\n\nPsychic weapons are no better than normal weapons without training to increase the user's synchronicity. With proper training, a psion can reach up to 200% synchronicity.</PTPsiWeaponSynchronicity.description>
+  <PTPsiCooldownMultiplier.label>Psi Cooldown Multiplier</PTPsiCooldownMultiplier.label>
+  <PTPsiCooldownMultiplier.description>A multiplier on this psion's cooldown durations.\n\nIt is extremely difficult to decrease the cooldown time of a psionic ability, due to the energy required to use them. Even so, with the right equipment and training, a psion can reduce their cooldowns to 50% of the base duration.</PTPsiCooldownMultiplier.description>
+  <PTDamageDodgeChance.label>Damage Dodge Chance</PTDamageDodgeChance.label>
+  <PTDamageDodgeChance.description>The chance this pawn has to dodge attacks.</PTDamageDodgeChance.description>
+  <PTDamageMultiplier.label>Damage Multiplier</PTDamageMultiplier.label>
+  <PTDamageMultiplier.description>The multiplier on damage dealt by this pawn.</PTDamageMultiplier.description>
+</LanguageData>
