@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RFF.FertileFields>Fertile Fields</RFF.FertileFields>
+  <RFF.Cost>Cost:</RFF.Cost>
+  <RFF.Yield>Yield:</RFF.Yield>
+  <RFF.OwnTerrain>Cannot place on the target terrain</RFF.OwnTerrain>
+  <RFF.Unplaceable>Cannot place on {0}</RFF.Unplaceable>
+  <RFF.HardMode>Not allowed in hard mode</RFF.HardMode>
+  <RFF.Biome>Not allowed on this biome</RFF.Biome>
+  <RFF.HardModeBiome>Not allowed on this biome in hard mode</RFF.HardModeBiome>
+  <RFF.BillRequires>Requires {0} kg </RFF.BillRequires>
+  <RFF.ReturnToSoil>return to soil</RFF.ReturnToSoil>
+  <RFF.ReturnToSoilDesc>While checked, the plant scraps this zone would produce are used up to reduce the odds of soil depletion.</RFF.ReturnToSoilDesc>
+  <RFF.ReplaceDesignators>replace depleted soil</RFF.ReplaceDesignators>
+  <RFF.ReplaceDesignatorsDesc>While checked, if the soil in this zone depletes, it is automatically designated for re-fertilization and tilling.</RFF.ReplaceDesignatorsDesc>
+  <RFF.Progress>Progress:</RFF.Progress>
+  <RFF.NullMapHeld>Tried to get a compost barrel temperature but MapHeld is null.</RFF.NullMapHeld>
+  <RFF.FullOfFert>Tried to add raw compost to barrel full of fertilizer. Colonists should take out the fertilizer first.</RFF.FullOfFert>
+  <RFF.ContainsFert>Contains fertilizer:</RFF.ContainsFert>
+  <RFF.ContainsComp>Contains raw compost:</RFF.ContainsComp>
+  <RFF.Composted>Composted</RFF.Composted>
+  <RFF.CompProg>Composting progress:</RFF.CompProg>
+  <RFF.OutOfTemp>Compost barrel out of ideal temperature:</RFF.OutOfTemp>
+  <RFF.Temp>Temperature:</RFF.Temp>
+  <RFF.IdealTemp>Ideal composting temp:</RFF.IdealTemp>
+  <RFF.NotReady>Tried to get fertilizer but it's not yet ready.</RFF.NotReady>
+  <RFF.BadTemp>Bad temperature</RFF.BadTemp>
+  <RFF.NoComp>Contains no raw compost</RFF.NoComp>
+  <RFF.NewGrowZonesRTS>Default "return to soil" setting</RFF.NewGrowZonesRTS>
+  <RFF.NewGrowZonesRTSTip>If this option is checked, newly created growing zones will default to returning plant scraps to the ground to mitigate soil depletion.\n\nYou can toggle this option for an individual growing zone by selecting it.</RFF.NewGrowZonesRTSTip>
+  <RFF.NewGrowZonesDR>Default "replace depleted soil" setting</RFF.NewGrowZonesDR>
+  <RFF.NewGrowZonesDRTip>If this option is checked, newly created growing zones will default to automatically placing blueprints to replace depleted soil.\n\nYou can toggle this option for an individual growing zone by selecting it.</RFF.NewGrowZonesDRTip>
+  <RFF.NonYieldPlants>Non-yielding plants deplete soil</RFF.NonYieldPlants>
+  <RFF.NonYieldPlantsTip>If this option is checked, plants that don't yield any useful resources (other than plant scraps) can deplete soil. If it is unchecked, they won't.</RFF.NonYieldPlantsTip>
+  <RFF.AutoRecompost>Automatically rebuild compost bins</RFF.AutoRecompost>
+  <RFF.AutoRecompostTip>If this option is checked, when a compost bin finishes making fertilizer, it places a blueprint for a replacement compost bin.</RFF.AutoRecompostTip>
+  <RFF.PlayHardMode>Hard Mode</RFF.PlayHardMode>
+  <RFF.PlayHardModeTip>When checked, disables the ability to remove ice on ice sheet and sea ice maps, place mud, marsh, or marshy soil on those maps, and create or remove deep water.</RFF.PlayHardModeTip>
+  <RFF.SmartScraps>Smarter plant scrap forbidding</RFF.SmartScraps>
+  <RFF.SmartScrapsTip>When checked, plant scraps spawned next to your colonists are automatically allowed no matter where they are. If you have a lot of colonists, it might help performance to disable this option. While disabled, only plant scraps in your home zone are allowed by default.
+</RFF.SmartScrapsTip>
+  <RFF.PlantScraps>Plant scrap drop rate:</RFF.PlantScraps>
+  <RFF.PlantScrapsTip>Multiplies the total number of plant scraps dropped by all plants by the selected percentage. Larger, more fully-grown plants drop more scraps.</RFF.PlantScrapsTip>
+  <RFF.DepleteChance>Soil depletion vulnerability:</RFF.DepleteChance>
+  <RFF.DepleteChanceTip>Multiplies the total rate at which soil depletes by the selected percentage. Richer soils deplete more often, and plants that have been growing longer are more likely to deplete soil.</RFF.DepleteChanceTip>
+  <RFF.SpecificDepletes>Specific Soil Depletion Options</RFF.SpecificDepletes>
+  <RFF.SpecificDepleteEntryMTB>{0} base days before depletion (default: {1})</RFF.SpecificDepleteEntryMTB>
+  <RFF.SpecificDepleteEntryMTBTip>The average plant growing time (in days) that passes before the soil depletes. The smaller the value, the more often the soil depletes. Note that plant growing time only accrues during the day, so real times will be about twice as long.</RFF.SpecificDepleteEntryMTBTip>
+  <RFF.SpecificDepleteEntryRTS>{0} return to soil factor (default: {1})</RFF.SpecificDepleteEntryRTS>
+  <RFF.SpecificDepleteEntryRTSTip>The effectiveness of the "return to soil" option for this soil. 0 = no effect, 1 = always effective at stopping this soil from depleting.</RFF.SpecificDepleteEntryRTSTip>
+</LanguageData>

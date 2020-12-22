@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SplitDirt.label>separate dirt</SplitDirt.label>
+  <SplitDirt.description>Separates 1 dirt into 1 sand and 1 clay.</SplitDirt.description>
+  <SplitDirt.jobString>Separating dirt.</SplitDirt.jobString>
+  <SplitDirtBulk.label>separate dirt in bulk</SplitDirtBulk.label>
+  <SplitDirtBulk.description>Separates 5 dirt into 5 sand and 5 clay.</SplitDirtBulk.description>
+  <SplitDirtBulk.jobString>Separating dirt.</SplitDirtBulk.jobString>
+  <DirtToClay.label>grind dirt to clay</DirtToClay.label>
+  <DirtToClay.description>Grind 1 dirt into 2 clay.</DirtToClay.description>
+  <DirtToClay.jobString>Creating clay.</DirtToClay.jobString>
+  <DirtToClayBulk.label>grind dirt to clay in bulk</DirtToClayBulk.label>
+  <DirtToClayBulk.description>Grind 5 dirt into 10 clay.</DirtToClayBulk.description>
+  <DirtToClayBulk.jobString>Creating clay.</DirtToClayBulk.jobString>
+  <MakeCrushedRocks.label>crush stone chunk</MakeCrushedRocks.label>
+  <MakeCrushedRocks.description>Break a stone chunk into 2 crushed rocks.</MakeCrushedRocks.description>
+  <MakeCrushedRocks.jobString>Breaking up stone chunk.</MakeCrushedRocks.jobString>
+  <MakeCrushedRocksBulk.label>crush stone chunks in bulk</MakeCrushedRocksBulk.label>
+  <MakeCrushedRocksBulk.description>Break 5 stone chunks into 10 crushed rocks.</MakeCrushedRocksBulk.description>
+  <MakeCrushedRocksBulk.jobString>Breaking up stone chunks.</MakeCrushedRocksBulk.jobString>
+  <MakeCrushedRocksBlock.label>crush stone blocks</MakeCrushedRocksBlock.label>
+  <MakeCrushedRocksBlock.description>Break 10 stone blocks into crushed rocks.</MakeCrushedRocksBlock.description>
+  <MakeCrushedRocksBlock.jobString>Breaking up stone blocks.</MakeCrushedRocksBlock.jobString>
+  <MakeCrushedRocksBlockBulk.label>crush stone blocks in bulk</MakeCrushedRocksBlockBulk.label>
+  <MakeCrushedRocksBlockBulk.description>Break 100 stone blocks into 10 crushed rocks.</MakeCrushedRocksBlockBulk.description>
+  <MakeCrushedRocksBlockBulk.jobString>Breaking up stone blocks.</MakeCrushedRocksBlockBulk.jobString>
+  <MakeSand.label>grind rocks into sand</MakeSand.label>
+  <MakeSand.description>Grind up crushed rocks to create 1 sand.</MakeSand.description>
+  <MakeSand.jobString>Making sand.</MakeSand.jobString>
+  <MakeSandBulk.label>grind rocks into sand in bulk</MakeSandBulk.label>
+  <MakeSandBulk.description>Grind up 5 crushed rocks to create 5 sand.</MakeSandBulk.description>
+  <MakeSandBulk.jobString>Making sand.</MakeSandBulk.jobString>
+  <MakeClay.label>grind sand into clay</MakeClay.label>
+  <MakeClay.description>Grind 1 sand into finer particles to create 1 clay.</MakeClay.description>
+  <MakeClay.jobString>Making clay.</MakeClay.jobString>
+  <MakeClayBulk.label>grind sand into clay in bulk</MakeClayBulk.label>
+  <MakeClayBulk.description>Grind 5 sand into finer particles to create 5 clay.</MakeClayBulk.description>
+  <MakeClayBulk.jobString>Making clay.</MakeClayBulk.jobString>
+  <MakeDirt.label>create dirt</MakeDirt.label>
+  <MakeDirt.description>Create 2 dirt from 1 sand, 1 clay, and 1 fertilizer.</MakeDirt.description>
+  <MakeDirt.jobString>Creating dirt.</MakeDirt.jobString>
+  <MakeDirtBulk.label>create dirt in bulk</MakeDirtBulk.label>
+  <MakeDirtBulk.description>Create 10 dirt from 5 sand, 5 clay, and 5 fertilizer.</MakeDirtBulk.description>
+  <MakeDirtBulk.jobString>Creating dirt.</MakeDirtBulk.jobString>
+  <MakeCompost.label>make raw compost</MakeCompost.label>
+  <MakeCompost.description>Make raw compost from organic waste (raw meat and plants).</MakeCompost.description>
+  <MakeCompost.jobString>Making raw compost.</MakeCompost.jobString>
+  <MakeCompost5.label>make 5 raw compost</MakeCompost5.label>
+  <MakeCompost5.description>Make raw compost from organic waste (raw meat and plants).</MakeCompost5.description>
+  <MakeCompost5.jobString>Making raw compost.</MakeCompost5.jobString>
+  <CompostCorpse.label>burn corpse for compost</CompostCorpse.label>
+  <CompostCorpse.description>Cremate a corpse into compost.</CompostCorpse.description>
+  <CompostCorpse.jobString>Cremating.</CompostCorpse.jobString>
+  <CompostCorpseCampfire.label>burn corpse for compost</CompostCorpseCampfire.label>
+  <CompostCorpseCampfire.description>Cremate a corpse into compost. Less efficient than doing so in a crematorium.</CompostCorpseCampfire.description>
+  <CompostCorpseCampfire.jobString>Cremating.</CompostCorpseCampfire.jobString>
+  <MakeBricks.label>make 12 bricks</MakeBricks.label>
+  <MakeBricks.description>Mold and fire clay to make bricks.</MakeBricks.description>
+  <MakeBricks.jobString>Making bricks.</MakeBricks.jobString>
+  <MakeFastBricks.label>make 24 bricks</MakeFastBricks.label>
+  <MakeFastBricks.description>Mold and fire clay to make bricks.</MakeFastBricks.description>
+  <MakeFastBricks.jobString>Making bricks.</MakeFastBricks.jobString>
+</LanguageData>

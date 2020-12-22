@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Stone.label>terraform to stone</Stone.label>
+  <Stone.description>Transforms the selected terrain to stone. This takes a long time and costs rock and other resources, but will return dirt or sand from appropriate terrain.</Stone.description>
+  <RockySoil.label>terraform to rough gravel</RockySoil.label>
+  <RockySoil.description>Transforms the selected terrain to rough gravel, a desolate, valueless terrain. This harvests any useful material from the terrain, but the land will need remediation before it can be farmed or built on.</RockySoil.description>
+  <Sand.label>terraform to sand</Sand.label>
+  <Sand.description>Transforms the selected terrain to sand. When performed on usable ground, this yields clay and rock, and dirt from fertile soil.</Sand.description>
+  <Gravel.label>terraform to stony soil</Gravel.label>
+  <Gravel.description>Transforms the selected terrain to stony soil, a less fertile but still useable terrain. This does not require dirt, but generally requires sand, rock, and/or clay.</Gravel.description>
+  <PackedDirt.label>terraform to packed dirt</PackedDirt.label>
+  <PackedDirt.description>Transforms the selected terrain to packed dirt, a hard, non-fertile terrain suitable for roads. Because packed dirt is still dirt, it can be easily transformed into fertile soil if needed.</PackedDirt.description>
+  <Mud.label>terraform to mud</Mud.label>
+  <Mud.description>Transforms the selected terrain to mud, a sticky, slow-to-navigate terrain that can't be built or grown on. Requires dirt to place except on fertile soil.</Mud.description>
+  <Soil.label>terraform to soil</Soil.label>
+  <Soil.description>Transforms the selected terrain to fertile soil, suitable for growing crops. Requires dirt (unless placed on packed dirt).</Soil.description>
+  <MarshySoil.label>terraform to marshy soil</MarshySoil.label>
+  <MarshySoil.description>Transforms the selected terrain to marshy soil, somewhat less valuable than regular soil. Unless placed on fertile soil or the equivalent, this requires dirt.</MarshySoil.description>
+  <Marsh.label>terraform to marsh</Marsh.label>
+  <Marsh.description>Transforms the selected terrain to marshy soil and then digs a shallow trench. When next to surface water, the trench will fill in to create marsh.\n\nAlternatively, this can be used on shallow water to fill it in with silt and create marsh directly.</Marsh.description>
+  <WaterShallow.label>terraform to shallow water</WaterShallow.label>
+  <WaterShallow.description>Digs a large trench in the selected terrain, yielding appropriate resources. When next to surface water, the trench will fill in to create shallow water of the appropriate type.\n\nAlternatively, this can be used to break up ice or filter marsh to create shallow water directly.</WaterShallow.description>
+  <WaterDeep.label>terraform to deep water</WaterDeep.label>
+  <WaterDeep.description>Digs a large trench in the selected terrain, yielding appropriate resources. When next to surface water, the trench fills in to create deep water of the appropriate type.\n\nAlternatively, this can be used to break up ice or filter marsh to create water directly.\n\nWARNING: creating impassable terrain can seriously impair caravan and raid AI. Use at your own risk.</WaterDeep.description>
+  <RichSoil.label>terraform to rich soil</RichSoil.label>
+  <RichSoil.description>Transforms the selected terrain to rich soil using fertilizer. Unless placed on fertile soil (including packed dirt, mud, or topsoil), this also requires dirt.</RichSoil.description>
+  <TilledSoil.label>terraform to tilled soil</TilledSoil.label>
+  <TilledSoil.description>Transforms the selected terrain to rich soil using fertilizer and tills it into neat rows, ideal for crops. Unless placed on fertile or rich soil, this also requires dirt.</TilledSoil.description>
+  <Topsoil.label>place topsoil</Topsoil.label>
+  <Topsoil.description>Places topsoil on smooth stone or ice terrain, allowing crops to be planted there.</Topsoil.description>
+  <RichTopsoil.label>fertilize topsoil</RichTopsoil.label>
+  <RichTopsoil.description>Places rich topsoil on smooth stone or ice terrain, and fertilizes existing topsoil.</RichTopsoil.description>
+</LanguageData>

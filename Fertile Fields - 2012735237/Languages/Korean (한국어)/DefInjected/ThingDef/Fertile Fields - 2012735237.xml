@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BrickWall.label>brick wall</BrickWall.label>
+  <BrickWall.description>A wall constructed of clay bricks and mortar.</BrickWall.description>
+  <RockMill.label>rock mill</RockMill.label>
+  <RockMill.description>An electrically-powered mill for crushing and mixing rocks, sand and dirt. Much faster than manual operations at the stonecutter's table.</RockMill.description>
+  <Terraform_RockyDirt-Stone.label>rough gravel to rough stone</Terraform_RockyDirt-Stone.label>
+  <Terraform_RockyDirt-Stone.description>Places a layer of crushed stone that can be compacted into a rough stone surface. Takes a lot of work.\n\nPlace on: rough gravel.\n\nResult: rough stone suited to the local bedrock.</Terraform_RockyDirt-Stone.description>
+  <Terraform_RockyDirt-RockyDirt.label>rough gravel to rough gravel</Terraform_RockyDirt-RockyDirt.label>
+  <Terraform_RockyDirt-RockyDirt.description>Sifts out any irregularities from rough gravel terrain. Useful for clearing mod-added terrains that are similar to rough gravel.\n\nPlace on: rough gravel equivalent.\n\nResult: rough gravel.</Terraform_RockyDirt-RockyDirt.description>
+  <Terraform_Sand-RockyDirt.label>sand to rough gravel</Terraform_Sand-RockyDirt.label>
+  <Terraform_Sand-RockyDirt.description>Sifts out useable sand from sand terrain, leaving useless, infertile rough gravel.\n\nPlace on: sand (or soft sand).\n\nResult: rough gravel.\n\nYields: sand x2.</Terraform_Sand-RockyDirt.description>
+  <Terraform_Gravel-RockyDirt.label>stony soil to rough gravel</Terraform_Gravel-RockyDirt.label>
+  <Terraform_Gravel-RockyDirt.description>Removes the usable material from stony soil, leaving useless, infertile rough gravel.\n\nPlace on: stony soil.\n\nResult: rough gravel.\n\nYields: sand x2, clay x1, crushed rocks x1.</Terraform_Gravel-RockyDirt.description>
+  <Terraform_SoilF-RockyDirt.label>soil to rough gravel</Terraform_SoilF-RockyDirt.label>
+  <Terraform_SoilF-RockyDirt.description>Removes dirt from fertile soil, leaving useless, infertile rough gravel.\n\nPlace on: any type of fertile soil.\n\nResult: rough gravel.\n\nYields: dirt x3.</Terraform_SoilF-RockyDirt.description>
+  <Terraform_SoilMarshy-RockyDirt.label>marshy soil to rough gravel</Terraform_SoilMarshy-RockyDirt.label>
+  <Terraform_SoilMarshy-RockyDirt.description>Drains and clears usable material from marshy soil, leaving useless, infertile (but dry) rough gravel.\n\nPlace on: marshy soil.\n\nResult: rough gravel.\n\nYields: dirt x2.</Terraform_SoilMarshy-RockyDirt.description>
+  <Terraform_Mud-RockyDirt.label>mud to rough gravel</Terraform_Mud-RockyDirt.label>
+  <Terraform_Mud-RockyDirt.description>Clears and filters useful dirt from muddy terrain, leaving useless, infertile (but dry) rough gravel.\n\nPlace on: mud.\n\nResult: rough gravel.\n\nYields: dirt x1.</Terraform_Mud-RockyDirt.description>
+  <Terraform_Stone-RockyDirt.label>stone to rough gravel</Terraform_Stone-RockyDirt.label>
+  <Terraform_Stone-RockyDirt.description>Breaks up stone terrain into infertile rough gravel, allowing it to be further terraformed to a useful terrain.\n\nPlace on: any type of rough or smooth stone.\n\nResult: rough gravel.\n\nYields: crushed rocks x2.</Terraform_Stone-RockyDirt.description>
+  <Terraform_WaterShallow-RockyDirt.label>shallow water to rough gravel</Terraform_WaterShallow-RockyDirt.label>
+  <Terraform_WaterShallow-RockyDirt.description>Fills in shallow water with rough gravel, allowing it to be further terraformed to a useful terrain.\n\nPlace on: any type of shallow water.\n\nResult: rough gravel.</Terraform_WaterShallow-RockyDirt.description>
+  <Terraform_Sand-Sand.label>sand to sand</Terraform_Sand-Sand.label>
+  <Terraform_Sand-Sand.description>Sifts out any irregularities from sand terrain. Useful to clear soft sand or modded-added terrains similar to sand.\n\nPlace on: sand equivalent.\n\nResult: sand.</Terraform_Sand-Sand.description>
+  <Terraform_RockyDirt-Sand.label>rough gravel to sand</Terraform_RockyDirt-Sand.label>
+  <Terraform_RockyDirt-Sand.description>Places sand on rough gravel terrain.\n\nPlace on: rough gravel.\n\nResult: sand.</Terraform_RockyDirt-Sand.description>
+  <Terraform_Gravel-Sand.label>stony soil to sand</Terraform_Gravel-Sand.label>
+  <Terraform_Gravel-Sand.description>Sifts stony soil, removing larger stones and clumps of clay and leaving only fine sand.\n\nPlace on: stony soil.\n\nResult: sand.\n\nYields: clay x1, crushed rocks x1.</Terraform_Gravel-Sand.description>
+  <Terraform_SoilF-Sand.label>soil to sand</Terraform_SoilF-Sand.label>
+  <Terraform_SoilF-Sand.description>Breaks up and sifts fertile soil, leaving behind fine sand.\n\nPlace on: any type of fertile soil.\n\nResult: sand.\n\nYields: dirt x1, clay x1, crushed rocks x1.</Terraform_SoilF-Sand.description>
+  <Terraform_WaterShallow-Sand.label>shallow water to sand</Terraform_WaterShallow-Sand.label>
+  <Terraform_WaterShallow-Sand.description>Fills in shallow water with rock and covers it over with sand.\n\nPlace on: any type of shallow water.\n\nResult: sand.</Terraform_WaterShallow-Sand.description>
+  <Terraform_Gravel-Gravel.label>stony soil to stony soil</Terraform_Gravel-Gravel.label>
+  <Terraform_Gravel-Gravel.description>Cleans out irregularities from stony soil. Useful for clearing mod-added terrains similar to stony soil.\n\nPlace on: stony soil equivalent.\n\nResult: stony soil.</Terraform_Gravel-Gravel.description>
+  <Terraform_RockyDirt-Gravel.label>rough gravel to stony soil</Terraform_RockyDirt-Gravel.label>
+  <Terraform_RockyDirt-Gravel.description>Reclaims rough gravel with rock, clay, and sand, creating rocky soil with low fertility.\n\nPlace on: rough gravel.\n\nResult: stony soil.</Terraform_RockyDirt-Gravel.description>
+  <Terraform_Sand-Gravel.label>sand to stony soil</Terraform_Sand-Gravel.label>
+  <Terraform_Sand-Gravel.description>Mixes crushed rock and clay into sand, creating rocky soil with low fertility.\n\nPlace on: sand (or soft sand).\n\nResult: stony soil.</Terraform_Sand-Gravel.description>
+  <Terraform_SoilF-Gravel.label>soil to stony soil</Terraform_SoilF-Gravel.label>
+  <Terraform_SoilF-Gravel.description>Sifts valuable dirt from fertile soil, reducing its fertilty somewhat.\n\nPlace on: any type of fertile soil.\n\nResult: stony soil.\n\nYield: dirt x1.</Terraform_SoilF-Gravel.description>
+  <Terraform_SoilF-PackedDirt.label>soil to packed dirt</Terraform_SoilF-PackedDirt.label>
+  <Terraform_SoilF-PackedDirt.description>Compacts dirt into a hard-packed surface, suitable for roads. Packed dirt does not slow people, but is not fertile. It can be returned to fertile soil relatively easily.\n\nPlace on: any type of fertile soil.\n\nResult: packed dirt.</Terraform_SoilF-PackedDirt.description>
+  <Terraform_SoilF-SoilF.label>soil to soil</Terraform_SoilF-SoilF.label>
+  <Terraform_SoilF-SoilF.description>Smooths out any irregularities in soil. Useful for cleaning out lichen or mod-added terrains similar to soil. Warning: will remove rich soil.\n\nPlace on: any type of fertile soil.\n\nResult: soil.</Terraform_SoilF-SoilF.description>
+  <Terraform_Sand-SoilF.label>sand to soil</Terraform_Sand-SoilF.label>
+  <Terraform_Sand-SoilF.description>Mixes rocks, clay, and dirt into sand terrain to reclaim it for planting.\n\nPlace on: sand (or soft sand).\n\nResult: soil.</Terraform_Sand-SoilF.description>
+  <Terraform_Gravel-SoilF.label>stony soil to soil</Terraform_Gravel-SoilF.label>
+  <Terraform_Gravel-SoilF.description>Reclaims stony soil with fresh dirt to enhance its fertility.\n\nPlace on: stony soil.\n\nResult: soil.</Terraform_Gravel-SoilF.description>
+  <Terraform_RockyDirt-SoilF.label>rough gravel to soil</Terraform_RockyDirt-SoilF.label>
+  <Terraform_RockyDirt-SoilF.description>Reclaims rough gravel with plenty fresh dirt to render it fertile.\n\nPlace on: rough gravel.\n\nResult: soil.</Terraform_RockyDirt-SoilF.description>
+  <Terraform_PackedDirt-SoilF.label>packed dirt to soil</Terraform_PackedDirt-SoilF.label>
+  <Terraform_PackedDirt-SoilF.description>Breaks up packed dirt, leaving fertile soil behind. Very fast.\n\nPlace on: packed dirt.\n\nResult: soil.</Terraform_PackedDirt-SoilF.description>
+  <Terraform_Mud-SoilF.label>mud to soil</Terraform_Mud-SoilF.label>
+  <Terraform_Mud-SoilF.description>Reclaims muddy terrain with fresh dirt, rendering it fertile.\n\nPlace on: mud.\n\nResult: soil.</Terraform_Mud-SoilF.description>
+  <Terraform_SoilMarshy-SoilF.label>marshy soil to soil</Terraform_SoilMarshy-SoilF.label>
+  <Terraform_SoilMarshy-SoilF.description>Reclaims marshy soil with fresh dirt to make it more stable and faster to walk on.\n\nPlace on: marshy soil.\n\nResult: soil.</Terraform_SoilMarshy-SoilF.description>
+  <Terraform_Marsh-SoilF.label>marsh to soil</Terraform_Marsh-SoilF.label>
+  <Terraform_Marsh-SoilF.description>Reclaims marshland with dirt, creating dry and fertile soil.\n\nPlace on: marsh.\n\nResult: soil.</Terraform_Marsh-SoilF.description>
+  <Terraform_WaterShallow-SoilF.label>shallow water to soil</Terraform_WaterShallow-SoilF.label>
+  <Terraform_WaterShallow-SoilF.description>Fills in shallow water with dirt, creating dry and fertile soil.\n\nPlace on: shallow water.\n\nResult: soil.</Terraform_WaterShallow-SoilF.description>
+  <Terraform_Mud-Mud.label>mud to mud</Terraform_Mud-Mud.label>
+  <Terraform_Mud-Mud.description>Cleans out irregularities from mud. Useful for clearing mod-added terrains similar to mud.\n\nPlace on: mud equivalent.\n\nResult: mud.</Terraform_Mud-Mud.description>
+  <Terraform_SoilF-Mud.label>soil to mud</Terraform_SoilF-Mud.label>
+  <Terraform_SoilF-Mud.description>Waters down fertile soil, creating mud that doesn't support plants or buildings but can be used to slow down attackers.\n\nPlace on: any type of fertile soil.\n\nResult: mud.</Terraform_SoilF-Mud.description>
+  <Terraform_SoilMarshy-Mud.label>marshy soil to mud</Terraform_SoilMarshy-Mud.label>
+  <Terraform_SoilMarshy-Mud.description>Dredges out marshy soil, yielding mud.\n\nPlace on: marshy soil.\n\nResult: mud.</Terraform_SoilMarshy-Mud.description>
+  <Terraform_Marsh-Mud.label>marsh to mud</Terraform_Marsh-Mud.label>
+  <Terraform_Marsh-Mud.description>Adds bedrock below marshland, creating wet, muddy, but marginally solid ground.\n\nPlace on: marsh.\n\nResult: mud.</Terraform_Marsh-Mud.description>
+  <Terraform_SoilMarshy-SoilMarshy.label>marshy soil to marshy soil</Terraform_SoilMarshy-SoilMarshy.label>
+  <Terraform_SoilMarshy-SoilMarshy.description>Clears out irregularities from marshy soil terrain. Useful to clean up mod-added terrain similar to marshy soil.\n\nPlace on: marshy soil equivalent.\n\nResult: marshy soil.\n\nYields: dirt x1.</Terraform_SoilMarshy-SoilMarshy.description>
+  <Terraform_SoilF-SoilMarshy.label>soil to marshy soil</Terraform_SoilF-SoilMarshy.label>
+  <Terraform_SoilF-SoilMarshy.description>Harvests dirt from fertile soil, adding in stagnant surface water to make a spongy terrain with poor mobility.\n\nPlace on: any type of fertile soil.\n\nResult: marshy soil.\n\nYields: dirt x1.</Terraform_SoilF-SoilMarshy.description>
+  <Terraform_Mud-SoilMarshy.label>mud to marshy soil</Terraform_Mud-SoilMarshy.label>
+  <Terraform_Mud-SoilMarshy.description>Adds dirt to mud to create soft, spongy, but fertile marshy ground.\n\nPlace on: mud.\n\nResult: marshy soil.</Terraform_Mud-SoilMarshy.description>
+  <Terraform_Marsh-SoilMarshy.label>marsh to marshy soil</Terraform_Marsh-SoilMarshy.label>
+  <Terraform_Marsh-SoilMarshy.description>Adds dirt and bedrock to marshland, creating solid, but still wet, ground.\n\nPlace on: marsh.\n\nResult: marshy soil.</Terraform_Marsh-SoilMarshy.description>
+  <Terraform_SoilF-Marsh.label>soil to marsh</Terraform_SoilF-Marsh.label>
+  <Terraform_SoilF-Marsh.description>Digs out a section of fertile soil and fills in the rest with silty water to create marshland.\n\nPlace on: any type of fertile soil.\n\nResult: marsh.\n\nYields: dirt x1, clay x5.</Terraform_SoilF-Marsh.description>
+  <Terraform_Mud-Marsh.label>mud to marsh</Terraform_Mud-Marsh.label>
+  <Terraform_Mud-Marsh.description>Digs out a section of mud and fills in the rest with silty water to create marshland.\n\nPlace on: mud.\n\nResult: marsh.\n\nYields: clay x5.</Terraform_Mud-Marsh.description>
+  <Terraform_SoilMarshy-Marsh.label>marshy soil to marsh</Terraform_SoilMarshy-Marsh.label>
+  <Terraform_SoilMarshy-Marsh.description>Digs out marshy soil to create marsh adjacent to surface water (including other marshes).\n\nPlace on: marshy soil.\n\nResult: marsh.\n\nYields: clay x5.</Terraform_SoilMarshy-Marsh.description>
+  <Terraform_WaterShallow-Marsh.label>shallow water to marsh</Terraform_WaterShallow-Marsh.label>
+  <Terraform_WaterShallow-Marsh.description>Adds dirt and silt to shallow water, converting it into marsh. \n\nPlace on: shallow water.\n\nResult: marsh.</Terraform_WaterShallow-Marsh.description>
+  <Terraform_Sand-WaterShallow.label>sand to shallow water</Terraform_Sand-WaterShallow.label>
+  <Terraform_Sand-WaterShallow.description>Digs out a section of sand to create a shallow trench. If adjacent to water, the trench will fill in with water of the appropriate type.\n\nPlace on: sand (or soft sand).\n\nResult: shallow water (if near water).\n\nYields: sand x2, clay x5.</Terraform_Sand-WaterShallow.description>
+  <Terraform_SoilF-WaterShallow.label>soil to shallow water</Terraform_SoilF-WaterShallow.label>
+  <Terraform_SoilF-WaterShallow.description>Digs out a section of soil to create a shallow trench. If adjacent to water, the trench will fill in with water of the appropriate type.\n\nPlace on: any type of fertile soil.\n\nResult: shallow water (if near water).\n\nYields: dirt x2, clay x5.</Terraform_SoilF-WaterShallow.description>
+  <Terraform_RockyDirt-WaterShallow.label>rough gravel to shallow water</Terraform_RockyDirt-WaterShallow.label>
+  <Terraform_RockyDirt-WaterShallow.description>Digs out a section of rough gravel to create a shallow trench. If adjacent to water, the trench will fill in with water of the appropriate type.\n\nPlace on: rough gravel.\n\nResult: shallow water (if near water).\n\nYields: clay x5.</Terraform_RockyDirt-WaterShallow.description>
+  <Terraform_Marsh-WaterShallow.label>marsh to shallow water</Terraform_Marsh-WaterShallow.label>
+  <Terraform_Marsh-WaterShallow.description>Filters dirt and silt out of marshy water to create clean shallow water.\n\nPlace on: marsh.\n\nResult: shallow water.\n\nYield: dirt x1.</Terraform_Marsh-WaterShallow.description>
+  <Terraform_WaterDeep-WaterShallow.label>deep water to shallow water</Terraform_WaterDeep-WaterShallow.label>
+  <Terraform_WaterDeep-WaterShallow.description>Uses steel caisons and a large amount of rock to partially fill in deep water.\n\nPlace on: any type of deep water.\n\nResult: shallow water.</Terraform_WaterDeep-WaterShallow.description>
+  <Terraform_WaterShallow-WaterDeep.label>shallow water to deep water</Terraform_WaterShallow-WaterDeep.label>
+  <Terraform_WaterShallow-WaterDeep.description>Digs out an area of shallow water into deep water.\n\nWARNING: Placing impassable deep water can trap your pawns or break raider visitor AI. Use at your own risk.\n\nPlace on: shallow water.\n\nResult: deep water.\n\nYields: rock x5, clay x5.</Terraform_WaterShallow-WaterDeep.description>
+  <Terraform_Marsh-WaterDeep.label>marsh to deep water</Terraform_Marsh-WaterDeep.label>
+  <Terraform_Marsh-WaterDeep.description>Digs out an area of marsh into deep water.\n\nWARNING: Placing impassable deep water can trap your pawns or break raider AI. Use at your own risk.\n\nPlace on: marsh.\n\nResult: deep water.\n\nYields: rock x5, clay x5.</Terraform_Marsh-WaterDeep.description>
+  <Terraform_Ice-WaterShallow.label>ice to shallow water</Terraform_Ice-WaterShallow.label>
+  <Terraform_Ice-WaterShallow.description>Break up ice to create shallow water. Only useable on Ice Sheet biomes.\n\nPlace on: ice terrain.\n\nResult: shallow water.</Terraform_Ice-WaterShallow.description>
+  <Terraform_Ice-RockyDirt.label>ice to rough gravel</Terraform_Ice-RockyDirt.label>
+  <Terraform_Ice-RockyDirt.description>Break up ice to reach solid ground. Not useable on Ice Sheet biomes.\n\nPlace on: ice terrain.\n\nResult: rough gravel.</Terraform_Ice-RockyDirt.description>
+  <Terraform_Stone-Topsoil.label>topsoil</Terraform_Stone-Topsoil.label>
+  <Terraform_Stone-Topsoil.description>Place a layer of soil on smooth terrain to allow plants to be grown there.\n\nCan be removed with the "Remove Floor" tool.\n\nPlace on: smooth stone or ice.\n\nResult: topsoil.</Terraform_Stone-Topsoil.description>
+  <Terraform_Topsoil-DirtFert.label>fertilized topsoil</Terraform_Topsoil-DirtFert.label>
+  <Terraform_Topsoil-DirtFert.description>Add fertilizer to topsoil to improve its fertility. Rich soil must be replenished with plant scraps or fertilizer to maintain its quality.\n\nCan be removed with the "Remove Floor" tool.\n\nPlace on: topsoil.\n\nResult: fertilized topsoil.</Terraform_Topsoil-DirtFert.description>
+  <Terraform_SoilF-SoilRich.label>rich soil</Terraform_SoilF-SoilRich.label>
+  <Terraform_SoilF-SoilRich.description>Add fertilizer to soil to improve its fertility. Rich soil must be replenished with plant scraps or fertilizer to maintain its quality.\n\nPlace on: any type of fertile soil.\n\nResult: rich soil.</Terraform_SoilF-SoilRich.description>
+  <Terraform_SoilRich-SoilTilled.label>tilled soil</Terraform_SoilRich-SoilTilled.label>
+  <Terraform_SoilRich-SoilTilled.description>Tills rich soil and adds additional fertilizer to maximize its fertility. Tilled soil must be replenished with plant scraps of fertilizer to maintain its quality.\n\nCan be reverted to rich soil with the "Remove Floor" tool.\n\nPlace on: rich soil.\n\nResult: tilled soil.</Terraform_SoilRich-SoilTilled.description>
+  <Terraform_SoilWorn-SoilF.label>replenish soil</Terraform_SoilWorn-SoilF.label>
+  <Terraform_SoilWorn-SoilF.description>Replenishes worn-out soil with a little elbow grease.</Terraform_SoilWorn-SoilF.description>
+  <CompostBin.label>compost bin</CompostBin.label>
+  <CompostBin.description>A bin in which raw compost, after three and a half days, will become fertilizer. The bin's kind of ugly, though, and smells a bit.</CompostBin.description>
+  <CompostBarrel.label>compost barrel</CompostBarrel.label>
+  <CompostBarrel.description>A compost barrel will convert 30 raw compost into 30 fertilizer. Unlike a compost bin, though, it requires power.</CompostBarrel.description>
+  <HeavySandbags.label>heavy sandbags</HeavySandbags.label>
+  <HeavySandbags.description>High-quality leather bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks.</HeavySandbags.description>
+  <RFF_ScrapGenerator.label>plant scrap generator</RFF_ScrapGenerator.label>
+  <RFF_ScrapGenerator.description>Produces power by consuming plant scraps. Must be periodically loaded with plant scraps as fuel by hand.</RFF_ScrapGenerator.description>
+  <RawCompost.label>Raw compost</RawCompost.label>
+  <RawCompost.description>A mix of food wastes. Rather disgusting, but useful if you want to make fertilizer.</RawCompost.description>
+  <Fertilizer.label>Fertilizer</Fertilizer.label>
+  <Fertilizer.description>Fertilizer enhances soil to speed the growth of plants.</Fertilizer.description>
+  <CrushedRocks.label>Crushed rocks</CrushedRocks.label>
+  <CrushedRocks.description>Stone chunks that have been broken up into smaller pieces.</CrushedRocks.description>
+  <PileofDirt.label>Pile of dirt</PileofDirt.label>
+  <PileofDirt.description>Simple soil dug out of the ground.</PileofDirt.description>
+  <SandPile.label>Pile of sand</SandPile.label>
+  <SandPile.description>Sand, possibly dug up from a desert or a beach.</SandPile.description>
+  <RFFClay.label>Clay</RFFClay.label>
+  <RFFClay.description>Clay. Could be molded and fired to create bricks, or could be mixed with sand and fertilizer to make good dirt.</RFFClay.description>
+  <PlantScraps.label>plant scraps</PlantScraps.label>
+  <PlantScraps.description>Branches, twigs and leaves from cut plants. Useful for making compost, or perhaps for feeding animals.</PlantScraps.description>
+  <RottedMush.label>rotted mush</RottedMush.label>
+  <RottedMush.description>Whatever this used to be, it's now just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMush.description>
+  <RFFBricks.label>bricks</RFFBricks.label>
+  <RFFBricks.description>Classic bricks made from fired clay.</RFFBricks.description>
+  <RFFBricks.stuffProps.stuffAdjective>brick</RFFBricks.stuffProps.stuffAdjective>
+</LanguageData>
