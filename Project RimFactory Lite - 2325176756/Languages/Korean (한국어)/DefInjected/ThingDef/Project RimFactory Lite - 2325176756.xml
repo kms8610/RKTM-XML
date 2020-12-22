@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PRF_WoodCrate_I.label>small wooden crate</PRF_WoodCrate_I.label>
+  <PRF_WoodCrate_I.description>(Tier 1 crate) A small crate that can store 16 stacks. Items stored in the crate do not deteriorate.</PRF_WoodCrate_I.description>
+  <PRF_WoodCrate_II.label>wooden crate</PRF_WoodCrate_II.label>
+  <PRF_WoodCrate_II.description>A giant crate that can store 32 stacks. Items stored in the crate do not deteriorate.</PRF_WoodCrate_II.description>
+  <PRF_SteelCrate_I.label>small steel crate</PRF_SteelCrate_I.label>
+  <PRF_SteelCrate_I.description>A small steel crate that can store 64 stacks. Items stored in the crate do not deteriorate.</PRF_SteelCrate_I.description>
+  <PRF_SteelCrate_II.label>steel crate</PRF_SteelCrate_II.label>
+  <PRF_SteelCrate_II.description>A giant crate that can store 128 stacks. Items stored in the crate do not deteriorate.</PRF_SteelCrate_II.description>
+  <PRF_DigitalStorageUnit_I.label>digital storage unit</PRF_DigitalStorageUnit_I.label>
+  <PRF_DigitalStorageUnit_I.description>Stores up to 768 stacks. Consumes 10 W of power per stack of items. When your colony loses power, items already inside will be safe, but the building will not be able to store more.</PRF_DigitalStorageUnit_I.description>
+  <PRF_IOPort_I.label>I/O Port</PRF_IOPort_I.label>
+  <PRF_IOPort_I.description>(tier 3) \n A Connection port for your storage Cargo Platforms. It can be set to Input/output from any Platform remotely in any range within the map.</PRF_IOPort_I.description>
+  <PRF_FuelingMachine.label>fueling machine</PRF_FuelingMachine.label>
+  <PRF_FuelingMachine.description>A Simple Refueling machine thats capable of refueling Generators, braziers, mortarts and everything else that uses normal refuelable/mortar comp.\nIt can also fuel some modded types eq. SoS, CE...\nWill pull in from everything in white cells and fuel what in front of it(the yellow cell points to the "front").\n\n(Works with "Refualable comp" buildings)\nAlso capable of Fueling mortars with shells</PRF_FuelingMachine.description>
+  <PRF_SmartHopper.label>Smart Hopper</PRF_SmartHopper.label>
+  <PRF_SmartHopper.description>A Intellegent hopper that can pickup stuff around it, withing its range (white cells)\nIt can toggle to only pickup covered stockpile cells or pickup from ground.\nIt will not actively push into anything it just hold on to things so assembler and such can pickup.\nCan also pickup from belts.\nIt Can't feed a Nutrient paste dispenser yet...</PRF_SmartHopper.description>
+  <PRF_GrowzonePuller_I.label>growzone Puller</PRF_GrowzonePuller_I.label>
+  <PRF_GrowzonePuller_I.description>Attach to end of grow zone, will pull set items within selected growzone. Will not pull from neighboring grow zones.</PRF_GrowzonePuller_I.description>
+  <PRF_SimplePuller_I.label>Item Puller mkI</PRF_SimplePuller_I.label>
+  <PRF_SimplePuller_I.description>A Puller That Pull items from A to B. Place it down and switch it on to start pulling from stockpiles, I/O, belts, crates Into I/O, belts, storage... Very flexible in its connection!\n\nREMEMBER to turn it on after placing!</PRF_SimplePuller_I.description>
+  <PRF_SimplePuller_II.label>Item Puller mkII</PRF_SimplePuller_II.label>
+  <PRF_SimplePuller_II.description>A upgraded puller which run at a higher speed than mkI puller. pulling from stockpiles, I/O, belts, crates Into I/O, belts, storage... Very flexible in its connection!</PRF_SimplePuller_II.description>
+  <PRF_SimplePuller_II_Side.label>Item Angle Puller</PRF_SimplePuller_II_Side.label>
+  <PRF_SimplePuller_II_Side.description>A 90 degree angled Puller that moves items from A to B. Similar to normal puller, but allowing turns!\nYou can swap the direction (left/right) after placing.</PRF_SimplePuller_II_Side.description>
+  <PRF_SimplePuller_II_Wall.label>Wall Item Puller</PRF_SimplePuller_II_Wall.label>
+  <PRF_SimplePuller_II_Wall.description>An in-wall item Puller that pushes items from A to B.\n\nThis one is placed through a wall, and is well insulated enough for use in freezers and secure enough for prisons where you dont want anyone crawling through.\n\nRemember you still need to turn it on!</PRF_SimplePuller_II_Wall.description>
+  <PRF_Conveyor_Simple_I.label>conveyor belt</PRF_Conveyor_Simple_I.label>
+  <PRF_Conveyor_Simple_I.description>Conveyor belts transport items from one end to the other. It will dump into Storage or stockpiles - or just leave stuff on the ground when the belts end.\nBut because they are rather unsophisticated, they will happily dump whatever they have off the end if there is room.\nA corner can be made by just leading the belt into the side of another belt and will seamlessly continue.</PRF_Conveyor_Simple_I.description>
+  <PRF_Conveyor_Wall_I.label>Wall conveyor belt</PRF_Conveyor_Wall_I.label>
+  <PRF_Conveyor_Wall_I.description>Moves items - through walls! You can use these to traverse walls or move items along inside them. When items hit the end, they will move out onto the ground, as long as there is room.</PRF_Conveyor_Wall_I.description>
+  <PRF_Conveyor_UG_I.label>underground belt</PRF_Conveyor_UG_I.label>
+  <PRF_Conveyor_UG_I.description>Underground Conveyor Belts carry items in tunnels under the ground. To move items into the subterrainian passages, you need to use the Underground Conveyor Entrance and Exit.\nThis can move under Walls, machines and other belts without connecting.</PRF_Conveyor_UG_I.description>
+  <PRF_Conveyor_Connector_To_UG.label>Underground belt entrance</PRF_Conveyor_Connector_To_UG.label>
+  <PRF_Conveyor_Connector_To_UG.description>Connects ground conveyor belts to underground conveyors. This is the entrance to the subterrainian passages.</PRF_Conveyor_Connector_To_UG.description>
+  <PRF_Conveyor_Connector_To_Floor.label>Underground belt exit</PRF_Conveyor_Connector_To_Floor.label>
+  <PRF_Conveyor_Connector_To_Floor.description>Connects the underground conveyor belt to the above-ground conveyor. This is an exit back to the surface, and will drop items on the floor if there is no conveyor.</PRF_Conveyor_Connector_To_Floor.description>
+  <PRF_Conveyor_Splitter_I.label>conveyor splitter</PRF_Conveyor_Splitter_I.label>
+  <PRF_Conveyor_Splitter_I.description>An automated unit that directs items on a conveyor belt in different directions depending on filters, handled by a very basic AI. If no filters are set, it will simply split where items passing through go.</PRF_Conveyor_Splitter_I.description>
+  <PRF_Conveyor_Splitter_UG.label>underground splitter</PRF_Conveyor_Splitter_UG.label>
+  <PRF_Conveyor_Splitter_UG.description>Splitting features of a normal splitter without the surface eyesore</PRF_Conveyor_Splitter_UG.description>
+  <PRF_Conveyor_Splitter_Wall.label>wall splitter</PRF_Conveyor_Splitter_Wall.label>
+  <PRF_Conveyor_Splitter_Wall.description>A conveyor splitter unit built into the walls.  This one will hand off items to wall belts and Overground ones.</PRF_Conveyor_Splitter_Wall.description>
+  <PRF_IOPort_IFridge.label>Fridge I/O Port</PRF_IOPort_IFridge.label>
+  <PRF_IOPort_IFridge.description>(tier 3) \n A Connection port for your DeepStorageUnit. It can be set to Input/output from any DSU remotely in any range within the map. This one also have same option as Rimfidge Coolers.</PRF_IOPort_IFridge.description>
+  <PRFCoolDSU.label>Fridge digital storage unit</PRFCoolDSU.label>
+  <PRFCoolDSU.description>Fridge version of Digital Storage Unit, that can store food\n\nStores up to 512 stacks. Consumes 10 W of power per stack of items. When your colony loses power, items already inside will be safe, but the building will not be able to store more.\n\nThis is only available because RimFridge is installed.</PRFCoolDSU.description>
+</LanguageData>
