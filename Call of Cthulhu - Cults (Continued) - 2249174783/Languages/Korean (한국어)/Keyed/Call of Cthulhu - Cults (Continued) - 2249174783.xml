@@ -48,6 +48,7 @@
   <SacrificeFailMessage38>{0} stops his chanting as the earth shudders a moment as if by some cthonian growl.</SacrificeFailMessage38>
   <SacrificeFailMessage39>{0} feels rising accursed power inside themselves, mad and barely controllable.</SacrificeFailMessage39>
   <SacrificeFailMessage40>40</SacrificeFailMessage40>
+  <Cults_MakeWorshipsVoluntary>Make sermons voluntary</Cults_MakeWorshipsVoluntary>
   <ROM_TradeSanityForMadness>Go mad (clears sanity loss)</ROM_TradeSanityForMadness>
   <ROM_TradedSanityLossForMadness>{0} succumbed to a mental break, however, this has restored their sanity.</ROM_TradedSanityLossForMadness>
   <ROM_TradedSanityLossForMadnessFailed>{0} failed to enter a mental break. Try again?</ROM_TradedSanityLossForMadnessFailed>
@@ -136,6 +137,10 @@
   <Cults_TransmogrifiedLetterDesc>Tapping into powers unknown, {0} no longer seems quite the same and now holds strange vigor and size not seen before in its kind. {0} twitches with old and restless power.</Cults_TransmogrifiedLetterDesc>
   <Cults_Morning>morning</Cults_Morning>
   <Cults_Evening>evening</Cults_Evening>
+  <Cults_SeasonDays>Days for sermons in quandrum:</Cults_SeasonDays>
+  <Cults_SermonStartLabel>Sermon start times</Cults_SermonStartLabel>
+  <Cults_MorningSermonStart>Morning: </Cults_MorningSermonStart>
+  <Cults_EveningSermonStart>Evening: </Cults_EveningSermonStart>
   <Cults_NoPreacher>No preacher selected.</Cults_NoPreacher>
   <Cults_NoCosmicEntity>No cosmic entity selected.</Cults_NoCosmicEntity>
   <Cults_NoPreacherDrafted>Preacher is drafted.</Cults_NoPreacherDrafted>
@@ -279,6 +284,10 @@
   <MorningSermonsDesc>Host services between the hours of 6 and 10 o'clock in the morning.</MorningSermonsDesc>
   <EveningSermons>Evening Sermons</EveningSermons>
   <EveningSermonsDesc>Host services between the hours of 6 and 10 o'clock at night.</EveningSermonsDesc>
+  <NoSermonLabel>No sermon</NoSermonLabel>
+  <MorningSermonLabel>Morning sermon</MorningSermonLabel>
+  <EveningSermonLabel>Evening sermon</EveningSermonLabel>
+  <BothSermonLabel>Morning & evening sermons</BothSermonLabel>
   <CommandCancelWorship>Cancel the sermon.</CommandCancelWorship>
   <NameCultMessage>A cult has begun to form in your colony. {0} thinks that you should give this cult a name.\n\nWhat should it be called?</NameCultMessage>
   <NameCultMessageNullHandler>A cult has begun to form in your colony.\n\nWhat should it be called?</NameCultMessageNullHandler>
