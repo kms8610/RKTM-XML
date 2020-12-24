@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_HeavyHopper.label>Factory hopper</VFEM_HeavyHopper.label>
+  <VFEM_HeavyHopper.description>Holds resources for use by automated machines.</VFEM_HeavyHopper.description>
+  <VFEM_ElectronicsFabricationFactory_SteelExtractor.label>Steel extractor</VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
+  <VFEM_ElectronicsFabricationFactory_SteelExtractor.description>A large machine with a series of hammers, magnets, and foundries. Hammers pound rock chunks into dust, whereafter magnets collect metallic fragments before being dropped and melted into more pure, usable pieces. This machine has a notoriously low yield as most rock chunks have a negligible amount of extractable material.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Electronics Fabrication Factory chain.</VFEM_ElectronicsFabricationFactory_SteelExtractor.description>
+  <VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>Component assembler</VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
+  <VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>An absurdly large machine composed of a series of foundries and casting molds. Overall, the machine is capable of fabricating any basic electronic or mechanical component with ease.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Electronics Fabrication Factory chain.</VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>
+  <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>Advanced assembler</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
+  <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>A wide factory module meant to inlay and program circuitry for high-end electronic devices. The exact inner workings of this module are somewhat enigmatic to non-spacer colonies, however the end result is of unquestionable quality.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Electronics Fabrication Factory chain.</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>
+  <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>Chemfuel clarifier</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
+  <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>A rather crude machine capable of melting organics via acid into usable chemfuel. Attached hoppers will accept nearby corpses or wood matter, rapidly decompose them, then melt in a singular large vat before dispensing.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Munitions and Armament Factory (M.A.F.) chain.</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>
+  <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>Mechanized weaponsmith</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
+  <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>A very large machine with many moving parts, able to accept steel, components, and cloth forward via belt system and slowly assemble them into basic weaponry. The machine is capable of making rudimentary light arms at a normal quality, although this process is very time and power consuming.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Munitions and Armament Factory (M.A.F.) chain.</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>
+  <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>Artillery foundry</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
+  <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>A machine capable of accepting pieces used in assembly of large-calibre ballistic shells. Can create a variety of shells selectable by the manufacturer. \n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Munitions and Armament Factory (M.A.F.) chain.</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>
+  <VFEM_WearablesAndTextileFactory_TextileRecycler.label>Textile recycler</VFEM_WearablesAndTextileFactory_TextileRecycler.label>
+  <VFEM_WearablesAndTextileFactory_TextileRecycler.description>A machine capable of quickly orienting, shredding, and sorting pieces of clothing into usable reclaimed pieces or cloth. Nowhere near fully efficient but very useful for reclaiming otherwise useless materials.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Wearables and Textile Factory (W.T.F.) chain.</VFEM_WearablesAndTextileFactory_TextileRecycler.description>
+  <VFEM_WearablesAndTextileFactory_AutoLoom.label>Auto loom</VFEM_WearablesAndTextileFactory_AutoLoom.label>
+  <VFEM_WearablesAndTextileFactory_AutoLoom.description>A large machine that scans nearby textiles fed through two rollers, whereafter a series of clamps, shears, and needles stitch, weave, and sew basic clothing millimeters at a time. The user only must specify the type of clothing desired from a preset template of options.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Wearables and Textile Factory (W.T.F.) chain.</VFEM_WearablesAndTextileFactory_AutoLoom.description>
+  <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>Synthread synthesizer</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
+  <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>A high-tech machine that is barely understood by even the most intellectually inclined colonies. Complete with a series of meshpresses and plasma needles capable of atomically realigning basic materials resulting in new material indistinguishable from synthread. Rather than creating material itself, the machine is configured to modify certain existing clothing.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Wearables and Textile Factory (W.T.F.) chain.</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>
+  <VFEM_ProvisionsPackagingFactory_MeatGrinder.label>Meat grinder</VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
+  <VFEM_ProvisionsPackagingFactory_MeatGrinder.description>A medium-sized but intimidating machine, corpses are pulled in via clamps before being weighed, analyzed and crudely torn apart. Flesh chunks are then ground into a finely processed and surprisingly flavorful but perplexing meat. Due to the all-encompassing nature of the process the machine will yield double the meat but not yield any leather or skin from the corpses inserted. Furthermore while the machine will butcher insectoid and human corpses it will not convert their flesh into processed meat.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Provisions Packaging Factory (P.P.F.) chain.</VFEM_ProvisionsPackagingFactory_MeatGrinder.description>
+  <VFEM_ProvisionsPackagingFactory_ConveyorOven.label>Conveyor oven</VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
+  <VFEM_ProvisionsPackagingFactory_ConveyorOven.description>A very long industrial-sized oven with a central conveyor belt and vacuum system, capable of accepting nearby raw food from attached hoppers and processing it. Basic packaged meals and dried goods can easily be produced.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Provisions Packaging Factory (P.P.F.) chain.</VFEM_ProvisionsPackagingFactory_ConveyorOven.description>
+  <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>Neutroamine infuser</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
+  <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>A large industrial vat meant for making the ever-elusive neutroamine precursor product. While the exact recipe for the product is generally a trade secret the end result from this machine is a thick glycerol made from rendered fat very similar to neutroamine and fully capable of being made into further products.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Medicinal Compounding Factory (M.C.F.) chain.</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>
+  <VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>Medicine granulator</VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
+  <VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>A machine capable of granulating via mill then pressing medical products into pills using a series of clamps and shaped presses. Also capable of manufacturing prefabricated health kits.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Medicinal Compounding Factory (M.C.F.) chain.</VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>
+  <VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>Drug powderizer</VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
+  <VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>A small machine meant to finely process and powderize psychoid leaf extract, then package it for later use or selling.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Medicinal Compounding Factory (M.C.F.) chain.</VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>
+  <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>Automatic drill</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
+  <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>A larger but surface-level automated version of the deep drill. This basic yet powerful drill can mine and extract rock chunks for further processing without human input. Will not antagonize insect hives. The drill will not produce a rock chunk if it detects other one already waiting for retrieval.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Masonry and Metallics Factory (M.M.F.) chain.</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>
+  <VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>Masonry saw</VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
+  <VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>A cumbersome and very loud factory, essentially a series of clasps, chisels, and saws meant to hold rock chunks in place to be cut and lightly smoothed into stackable bricks.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Masonry and Metallics Factory (M.M.F.) chain.</VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>
+  <VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>Plasteel forge</VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
+  <VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>A somewhat high-tech and little understood factory module, capable of combining steel, powdered stone bricks, and chemfuel into plasteel. The exact formula and methodology of plasteel refining is usually locked away by militaristic forge worlds but the product this machine outputs is a close enough replication.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Masonry and Metallics Factory (M.M.F.) chain.</VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>
+  <VFEM_VersatileAssembler.label>versatile assembler</VFEM_VersatileAssembler.label>
+  <VFEM_VersatileAssembler.description>A large robotic factory assembly built with advanced programmability in mind. The versatile assembler can be modified to craft almost anything, from electronics to simple consumer goods.\n\nNOTE: this factory is used to host recipes from other mods that don't fit in any of the other modules.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> The Versatile assembler is not part of any automation chain, it is an independent building.</VFEM_VersatileAssembler.description>
+  <VFE_Mechanoids_AutocleanerBase.label>autocleaner charging station</VFE_Mechanoids_AutocleanerBase.label>
+  <VFE_Mechanoids_AutocleanerBase.description>A station for assembling and recharging autocleaners.</VFE_Mechanoids_AutocleanerBase.description>
+  <VFE_Mechanoids_AutohaulerBase.label>autohauler charging station</VFE_Mechanoids_AutohaulerBase.label>
+  <VFE_Mechanoids_AutohaulerBase.description>A station for assembling and recharging autohaulers.</VFE_Mechanoids_AutohaulerBase.description>
+  <VFE_Mechanoids_AutominerBase.label>autominer charging station</VFE_Mechanoids_AutominerBase.label>
+  <VFE_Mechanoids_AutominerBase.description>A station for assembling and recharging autominers.</VFE_Mechanoids_AutominerBase.description>
+  <VFE_Mechanoids_CombatBase.label>combat mechanoid charging station</VFE_Mechanoids_CombatBase.label>
+  <VFE_Mechanoids_CombatBase.description>A station for assembling and recharging combat mechanoids.</VFE_Mechanoids_CombatBase.description>
+  <VFE_Mechanoids_RiotBase.label>riot mechanoid charging station</VFE_Mechanoids_RiotBase.label>
+  <VFE_Mechanoids_RiotBase.description>A station for assembling and recharging riot mechanoids.</VFE_Mechanoids_RiotBase.description>
+  <VFE_Mechanoids_TurretBase.label>mobile turret charging station</VFE_Mechanoids_TurretBase.label>
+  <VFE_Mechanoids_TurretBase.description>A station for assembling and recharging mobile turrets.</VFE_Mechanoids_TurretBase.description>
+  <VFE_Mechanoids_Autosower.label>autosower</VFE_Mechanoids_Autosower.label>
+  <VFE_Mechanoids_Autosower.description>An extremely large, slow moving trough-like structure mounted on a series of wheels. Undermounted sprinklers and piston-driven dibblers allow rapid planting of a very wide variety of crops. This machine in particular is programmed to move in a pre-defined direction and distance.</VFE_Mechanoids_Autosower.description>
+  <VFE_Mechanoids_Autoharvester.label>autoharvester</VFE_Mechanoids_Autoharvester.label>
+  <VFE_Mechanoids_Autoharvester.description>An extremely large, slow moving arched structure mounted on a series of wheels. Undermounted trowels and scythes allow swift harvesting of both crops and lumber alike. This machine in particular is programmed to move in a pre-defined direction and distance.</VFE_Mechanoids_Autoharvester.description>
+  <VFE_MechanoidEngines.label>Mechanoid ship engines</VFE_MechanoidEngines.label>
+  <VFE_MechanoidEngines.description>A set of Johnson Tanaka engines of a mechanoid vessel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_MechanoidEngines.description>
+  <VFE_MechanoidEnginesSmall.label>Small mechanoid ship engines</VFE_MechanoidEnginesSmall.label>
+  <VFE_MechanoidEnginesSmall.description>A set of small Johnson Tanaka engines of a mechanoid vessel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_MechanoidEnginesSmall.description>
+  <VFE_MechanoidBeamHeavy.label>heavy structural beam</VFE_MechanoidBeamHeavy.label>
+  <VFE_MechanoidBeamHeavy.description>A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_MechanoidBeamHeavy.description>
+  <VFE_MechanoidBeamLight.label>light structural beam</VFE_MechanoidBeamLight.label>
+  <VFE_MechanoidBeamLight.description>A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_MechanoidBeamLight.description>
+  <VFE_MechanoidUplink.label>uplink module</VFE_MechanoidUplink.label>
+  <VFE_MechanoidUplink.description>An uplink module, directly connected to the mechanoid swarm. It is responsible for obtaining order updates from war programmers in orbit. It greatly enhances mechanoid capabilities in range, but destroying it will sever the connection with the fleet, greatly harming the mechanoid forces.  It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_MechanoidUplink.description>
+  <VFE_MechanoidReactor.label>reactor</VFE_MechanoidReactor.label>
+  <VFE_MechanoidReactor.description>A mechanoid power generation unit. The gigantic vanometric power core will run forever, extracting energy from quantum foam fluctuations. Despite the huge power output, effort has been made to stabilise it. If enough damage is dealt to the plasteel shell surrounding the core, a huge explosion will wipe out the local area. This element is usually a part of a much larger ship.</VFE_MechanoidReactor.description>
+  <VFE_MechanoidTerraformer.label>terraformer</VFE_MechanoidTerraformer.label>
+  <VFE_MechanoidTerraformer.description>An ultratech device of mass destruction, mechanoid terraformer harvests available oxygen and extracts toxic fumes in its place. Poison leaking into the ground around it slowly turns the planet into a barren wasteland. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_MechanoidTerraformer.description>
+  <VFE_HeavyMachinery.label>heavy machinery</VFE_HeavyMachinery.label>
+  <VFE_HeavyMachinery.description>A number of complex machinery, motors, support systems and other mysterious apparatus hidden underneath a thick layer of plasteel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_HeavyMachinery.description>
+  <VFE_CargoContainer.label>cargo container</VFE_CargoContainer.label>
+  <VFE_CargoContainer.description>A cargo module containing various raw resources often used by mechanoid swarms to fix existing units or construct new ones. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_CargoContainer.description>
+  <VFE_ClimateAdjuster.label>climate adjuster</VFE_ClimateAdjuster.label>
+  <VFE_ClimateAdjuster.description>An ultratech ship-mounted device for controlling climate. Using chemicals and exotic fields to manipulate the atmosphere, it shifts the temperature in this region of the world. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_ClimateAdjuster.description>
+  <VFE_EMIDynamo.label>EMI dynamo</VFE_EMIDynamo.label>
+  <VFE_EMIDynamo.description>A massive, ship-mounted electromagnetic interference generator. It interferes with or shuts down electrical devices in nearby regions. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_EMIDynamo.description>
+  <VFE_PsychicSuppressor.label>psychic suppressor</VFE_PsychicSuppressor.label>
+  <VFE_PsychicSuppressor.description>A ship-mounted archotech device that generates a massive psychic suppression field tuned to a particular gender. People of that gender have their psychic activity suppressed, reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_PsychicSuppressor.description>
+  <VFE_PsychicDroner.label>psychic droner</VFE_PsychicDroner.label>
+  <VFE_PsychicDroner.description>A ship-mounted archotech device transmitting the thoughts of a mad superintelligence. It generates a massive psychic drone tuned to one gender and affecting a whole region of the planet. People of that gender will be disturbed by the effect, reducing their mood and possibly driving them insane. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_PsychicDroner.description>
+  <VFE_Turret_ChargeBlasterCannon.label>charge blaster cannon</VFE_Turret_ChargeBlasterCannon.label>
+  <VFE_Turret_ChargeBlasterCannon.description>A ship-mounted charge blaster point defense cannon. It is capable of laying suppressive fire over medium distance. This element is usually a part of a much larger ship.</VFE_Turret_ChargeBlasterCannon.description>
+  <VFE_Gun_ChargeBlasterCannon.label>charge blaster</VFE_Gun_ChargeBlasterCannon.label>
+  <VFE_Gun_ChargeBlasterCannon.description>A mechanoid-tech charge blaster.</VFE_Gun_ChargeBlasterCannon.description>
+  <VFE_Turret_ChargeLanceCannon.label>charge lance cannon</VFE_Turret_ChargeLanceCannon.label>
+  <VFE_Turret_ChargeLanceCannon.description>A ship-mounted charge lance cannon. It fires a supercharged railgun projectile over a long distance. This element is usually a part of a much larger ship.</VFE_Turret_ChargeLanceCannon.description>
+  <VFE_Gun_ChargeLanceCannon.label>charge lance</VFE_Gun_ChargeLanceCannon.label>
+  <VFE_Gun_ChargeLanceCannon.description>A mechanoid-tech charge lance.</VFE_Gun_ChargeLanceCannon.description>
+  <VFE_TrooperStorage.label>trooper storage</VFE_TrooperStorage.label>
+  <VFE_TrooperStorage.description>A small-sized trooper transport bay, potentially filled with combat-ready mechanoids. It seems to be dormant at the moment, but any kind of damage done to the structure will most likely deploy defensive units. This element is usually a part of a much larger ship.</VFE_TrooperStorage.description>
+  <VFE_HullRepairModule.label>hull repair module</VFE_HullRepairModule.label>
+  <VFE_HullRepairModule.description>A nanite container module capable of reinforcing the damaged hull of the ship. Unless destroyed, this module will constantly regenerate any damage done to other ship modules. This element is usually a part of a much larger ship.</VFE_HullRepairModule.description>
+  <VFE_MechanoidBarrier.label>mechanoid barrier</VFE_MechanoidBarrier.label>
+  <VFE_MechanoidBarrier.description>A block of nearly impenetrable plasteel shield, usually used within the ship hull to protect the most vital apparatus. This element is usually a part of a much larger ship.</VFE_MechanoidBarrier.description>
+  <VFE_BulletShield.label>ship-mounted low shield</VFE_BulletShield.label>
+  <VFE_BulletShield.description>A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to low angles, so it will block ground-level projectiles like bullets. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship.</VFE_BulletShield.description>
+  <VFE_MortarShield.label>ship-mounted high shield</VFE_MortarShield.label>
+  <VFE_MortarShield.description>A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to high angles, so it will block mortar rounds. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship.</VFE_MortarShield.description>
+  <VFE_Turret_AutoMortarCannon.label>auto-mortar cannon</VFE_Turret_AutoMortarCannon.label>
+  <VFE_Turret_AutoMortarCannon.description>A large, ship-mounted artillery piece, auto-mortar is capable of firing explosive shells over a long distance. This element is usually a part of a much larger ship.</VFE_Turret_AutoMortarCannon.description>
+  <VFE_Gun_AutoMortarCannon.label>auto mortar cannon</VFE_Gun_AutoMortarCannon.label>
+  <VFE_Gun_AutoMortarCannon.description>A mechanoid-tech automatic mortar.</VFE_Gun_AutoMortarCannon.description>
+  <VFE_Turret_InfernoLauncherArtillery.label>inferno launcher artillery</VFE_Turret_InfernoLauncherArtillery.label>
+  <VFE_Turret_InfernoLauncherArtillery.description>A massive, triple barreled inferno launcher, usually mounted on spaceships to deal devastating damage to any organic matter onboard hostile crafts. This element is usually a part of a much larger ship.</VFE_Turret_InfernoLauncherArtillery.description>
+  <VFE_Gun_InfernoArtillery.label>inferno artillery</VFE_Gun_InfernoArtillery.label>
+  <VFE_Gun_InfernoArtillery.description>A mechanoid-tech inferno artillery.</VFE_Gun_InfernoArtillery.description>
+  <VFE_Bullet_InfernoArtillery.label>inferno artillery shell</VFE_Bullet_InfernoArtillery.label>
+  <VFE_Turret_ChargeRailgun.label>charge railgun</VFE_Turret_ChargeRailgun.label>
+  <VFE_Turret_ChargeRailgun.description>A large ship mounted railgun, often used to punch holes in hostile capital ships. This cannon has incredible range and fires charged explosive rounds, allowing it to deal devastating losses before the enemy even gets in range. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_Turret_ChargeRailgun.description>
+  <VFE_Gun_ChargeRailgun.label>charge railgun</VFE_Gun_ChargeRailgun.label>
+  <VFE_Gun_ChargeRailgun.description>A powerful, mechanoid-tech charge railgun.</VFE_Gun_ChargeRailgun.description>
+  <VFE_Bullet_ChargeRailgun.label>charge railgun shot</VFE_Bullet_ChargeRailgun.label>
+  <VFE_Turret_OrbitalBombardmentUplink.label>orbital bombardment uplink</VFE_Turret_OrbitalBombardmentUplink.label>
+  <VFE_Turret_OrbitalBombardmentUplink.description>An uplink module connected to a local orbital strike satellite. It will light up any enemies in range for the orbital bombardment, however long realignment period makes it inefficient for longer encounters. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_Turret_OrbitalBombardmentUplink.description>
+  <VFE_Gun_OrbitalBombardmentTargeter.label>orbital bombardment targeter</VFE_Gun_OrbitalBombardmentTargeter.label>
+  <VFE_Gun_OrbitalBombardmentTargeter.description>An antenna capable of summoning an orbital bombardment.</VFE_Gun_OrbitalBombardmentTargeter.description>
+  <VFE_AssemblyPod.label>mechanoid assembly pod</VFE_AssemblyPod.label>
+  <VFE_AssemblyPod.description>A spaceship module containing a mechanoid factory. It is capable of transforming raw resources directly into different types of mechanoids, and it creates them continuously until destroyed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_AssemblyPod.description>
+  <VFE_AssemblyFoundry.label>mechanoid foundry</VFE_AssemblyFoundry.label>
+  <VFE_AssemblyFoundry.description>A spaceship module containing a large scale mechanoid foundry. It is capable of generating large squads of mechanoids at great speed, but it is incapable of constructing larger, more complex variants. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_AssemblyFoundry.description>
+  <VFE_CargoHold.label>cargo hold</VFE_CargoHold.label>
+  <VFE_CargoHold.description>A ship-based cargo module containing a vast amount of raw materials for the mechanoid ship to function properly. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship.</VFE_CargoHold.description>
+  <VFE_MechLandingBeacon.label>mechanoid landing beacon</VFE_MechLandingBeacon.label>
+  <VFE_MechLandingBeacon.description>This advanced, spacer tech beacon serves as a guide for a surface-bound mechanoid ship.</VFE_MechLandingBeacon.description>
+  <VFE_ConduitPylon.label>conduit pylon</VFE_ConduitPylon.label>
+  <VFE_ConduitPylon.description>A small device that connects to power networks via conduit to extend the range at which electronics can connect to said conduits. Proper implementation can triple the range at which electric current can be utilized.</VFE_ConduitPylon.description>
+  <VFE_Supercomputer.label>supercomputer</VFE_Supercomputer.label>
+  <VFE_Supercomputer.description>A series of electronic mechanoid components outfitted to mimic the processes of human computing technology. Those who wish to harness the power of this device only need to designate a topic of interest. No matter how vague or broad a subject, the machine will sync with other electronic information banks and via interplanetary data networks. After syncing the machine will translate gathered data into the users preferred language and estimated level of understanding.</VFE_Supercomputer.description>
+  <VFE_LongRangeMissileLauncher.label>long range missile launcher</VFE_LongRangeMissileLauncher.label>
+  <VFE_LongRangeMissileLauncher.description>A compact and high-tech missile silo capable of launching devastating missiles several kilometers away. The amount of fuel input decides maximum missile range. Only one missile can be loaded at any one launcher at a time. Upon landing a blast is capable of completely leveling almost any structure and causes land nearby to become more-or-less an inhospitable crater.</VFE_LongRangeMissileLauncher.description>
+  <VFEM_MissileLeaving.label>missile (leaving)</VFEM_MissileLeaving.label>
+  <VFEM_MissileIncoming.label>missile (incoming)</VFEM_MissileIncoming.label>
+  <VFE_Turret_AutoChargeBlaster.label>charge blaster turret</VFE_Turret_AutoChargeBlaster.label>
+  <VFE_Turret_AutoChargeBlaster.description>A burst-fire charge turret capable of concentrating fire on nearby enemy targets at medium ranges. Unarmored targets are unlikely to survive more than a few bursts.</VFE_Turret_AutoChargeBlaster.description>
+  <VFE_Turret_AutoChargeBlaster.comps.4.fuelLabel>Shots until out of battery</VFE_Turret_AutoChargeBlaster.comps.4.fuelLabel>
+  <VFE_Turret_AutoChargeBlaster.comps.4.fuelGizmoLabel>Battery level</VFE_Turret_AutoChargeBlaster.comps.4.fuelGizmoLabel>
+  <VFE_Turret_AutoChargeBlaster.comps.4.outOfFuelMessage>Cannot shoot: Out of battery</VFE_Turret_AutoChargeBlaster.comps.4.outOfFuelMessage>
+  <VFE_Gun_AutoChargeBlaster.label>auto charge blaster</VFE_Gun_AutoChargeBlaster.label>
+  <VFE_Gun_AutoChargeBlaster.description>A salvaged mechanoid charge blaster made to be mounted on a turret.</VFE_Gun_AutoChargeBlaster.description>
+  <VFE_Turret_AutoChargeLance.label>charge lance turret</VFE_Turret_AutoChargeLance.label>
+  <VFE_Turret_AutoChargeLance.description>A highly accurate, albeit slightly weaker version of the charge lance mounted on a simple-minded turret. Targets in power armor still must be cautious, as a single lucky shot is still more than capable of piercing through plasteel carapace.</VFE_Turret_AutoChargeLance.description>
+  <VFE_Turret_AutoChargeLance.comps.4.fuelLabel>Shots until out of battery</VFE_Turret_AutoChargeLance.comps.4.fuelLabel>
+  <VFE_Turret_AutoChargeLance.comps.4.fuelGizmoLabel>Battery level</VFE_Turret_AutoChargeLance.comps.4.fuelGizmoLabel>
+  <VFE_Turret_AutoChargeLance.comps.4.outOfFuelMessage>Cannot shoot: Out of battery</VFE_Turret_AutoChargeLance.comps.4.outOfFuelMessage>
+  <VFE_Gun_AutoChargeLance.label>auto charge lance</VFE_Gun_AutoChargeLance.label>
+  <VFE_Gun_AutoChargeLance.description>A salvaged mechanoid charge lance made to be mounted on a turret.</VFE_Gun_AutoChargeLance.description>
+  <VFE_Turret_AutoInfernoCannon.label>inferno cannon turret</VFE_Turret_AutoInfernoCannon.label>
+  <VFE_Turret_AutoInfernoCannon.description>A short range cannon capable of spewing streams of fire. These turrets are usually deployed in short-ranged urban warfare.</VFE_Turret_AutoInfernoCannon.description>
+  <VFE_Turret_AutoInfernoCannon.comps.4.fuelLabel>Shots until out of battery</VFE_Turret_AutoInfernoCannon.comps.4.fuelLabel>
+  <VFE_Turret_AutoInfernoCannon.comps.4.fuelGizmoLabel>Battery level</VFE_Turret_AutoInfernoCannon.comps.4.fuelGizmoLabel>
+  <VFE_Turret_AutoInfernoCannon.comps.4.outOfFuelMessage>Cannot shoot: Out of battery</VFE_Turret_AutoInfernoCannon.comps.4.outOfFuelMessage>
+  <VFE_Gun_AutoInfernoCannon.label>auto inferno cannon</VFE_Gun_AutoInfernoCannon.label>
+  <VFE_Gun_AutoInfernoCannon.description>A salvaged mechanoid inferno cannon made to be mounted on a turret.</VFE_Gun_AutoInfernoCannon.description>
+  <VFE_Turret_AutoMortar.label>auto-mortar</VFE_Turret_AutoMortar.label>
+  <VFE_Turret_AutoMortar.description>An automatic mortar and range finder capable of processing simple coordinates and weather conditions to deliver a constant bombardment of pre-loaded mortar rounds.</VFE_Turret_AutoMortar.description>
+  <VFE_Turret_AutoMortar.comps.4.fuelLabel>Remaining shells</VFE_Turret_AutoMortar.comps.4.fuelLabel>
+  <VFE_Turret_AutoMortar.comps.4.fuelGizmoLabel>Shells</VFE_Turret_AutoMortar.comps.4.fuelGizmoLabel>
+  <VFE_Turret_AutoMortar.comps.4.outOfFuelMessage>Cannot shoot: Out of shells</VFE_Turret_AutoMortar.comps.4.outOfFuelMessage>
+  <VFE_AutoMortar.label>auto-mortar</VFE_AutoMortar.label>
+  <VFE_AutoMortar.description>Automatic mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged.</VFE_AutoMortar.description>
+  <VFE_ComponentMechanoid.label>mechanoid component</VFE_ComponentMechanoid.label>
+  <VFE_ComponentMechanoid.description>Very advanced processors and nano-calculators most often used in creation of mechanoid-tech on urbworld mechanoid swarm foundries.</VFE_ComponentMechanoid.description>
+  <VFEM_ProcessedMeat.label>processed meat</VFEM_ProcessedMeat.label>
+  <VFEM_ProcessedMeat.description>A ground meat product that haphazardly includes the hide, bones, and fur of the creature in question. While the texture is a bit questionable the flavor is surprisingly acceptable.</VFEM_ProcessedMeat.description>
+  <VFE_Gun_CombatMechanoidGun.label>handheld mini-turret</VFE_Gun_CombatMechanoidGun.label>
+  <VFE_Gun_CombatMechanoidGun.description>A portable automatic turret gun. It utilises modern assault rifle components within a mechanoid-compatible frame.</VFE_Gun_CombatMechanoidGun.description>
+  <VFE_Gun_CombatMechanoidGun.tools.0.label>stock</VFE_Gun_CombatMechanoidGun.tools.0.label>
+  <VFE_Gun_CombatMechanoidGun.tools.1.label>barrel</VFE_Gun_CombatMechanoidGun.tools.1.label>
+  <VFE_Bullet_ChargeBlasterLight.label>charge blaster shot</VFE_Bullet_ChargeBlasterLight.label>
+  <VFE_Gun_ChargeBlasterLight.label>light charge blaster</VFE_Gun_ChargeBlasterLight.label>
+  <VFE_Gun_ChargeBlasterLight.description>Similar to the charge lance the charge blaster is a high-accuracy burst-fire energy weapon capable of precision marksmanship with relatively little recoil thanks to its shortened acceleration rail and stabilization gate.</VFE_Gun_ChargeBlasterLight.description>
+  <VFE_Gun_ChargeBlasterLight.tools.0.label>barrel</VFE_Gun_ChargeBlasterLight.tools.0.label>
+  <VFE_Gun_InfernoSpewer.label>inferno spewer</VFE_Gun_InfernoSpewer.label>
+  <VFE_Gun_InfernoSpewer.description>A surprisingly lightweight flamethrower of mechanoid design, while idle the device seems cold as any other, but can immediately heat up to temperatures well above purely human technology. Two undermounted chemfuel tanks allow for an ammo capacity big enough for large plumes of liquid flame.</VFE_Gun_InfernoSpewer.description>
+  <VFE_Gun_InfernoSpewer.tools.0.label>barrel</VFE_Gun_InfernoSpewer.tools.0.label>
+  <VFE_Gun_AdvancedChargeBlasterLight.label>advanced light charge blaster</VFE_Gun_AdvancedChargeBlasterLight.label>
+  <VFE_Gun_AdvancedChargeBlasterLight.description>A less unwieldy version of the mechanoid charge blaster, equivalent to the weight and size of a human heavy SMG. This burst fire charge weapon foregoes battery power in exchange for portability, as such the burst count and damage are both lower, however time between bursts is smaller.</VFE_Gun_AdvancedChargeBlasterLight.description>
+  <VFE_Gun_AdvancedChargeBlasterLight.tools.0.label>barrel</VFE_Gun_AdvancedChargeBlasterLight.tools.0.label>
+  <VFE_Gun_AdvancedInfernoSpewer.label>advanced inferno spewer</VFE_Gun_AdvancedInfernoSpewer.label>
+  <VFE_Gun_AdvancedInfernoSpewer.description>A “bunker-busting” incendiary weapon that not only sets targets ablaze but actually superheats the air around hot enough to melt bone. While overall tank size is decreased the heat and damage potential of each plume of flame is significantly raised.</VFE_Gun_AdvancedInfernoSpewer.description>
+  <VFE_Gun_AdvancedInfernoSpewer.tools.0.label>barrel</VFE_Gun_AdvancedInfernoSpewer.tools.0.label>
+  <VFE_Gun_AdvancedChargeBlasterHeavy.label>advanced heavy charge blaster</VFE_Gun_AdvancedChargeBlasterHeavy.label>
+  <VFE_Gun_AdvancedChargeBlasterHeavy.description>A version of the burst-fire charge blaster with a notably higher fire rate. Extra energy cells add weight to the weapon and accuracy does take a small hit due to increased recoil however enough advanced charge blasters result in a hail of fire anything less than Imperial frigates couldn’t endure.</VFE_Gun_AdvancedChargeBlasterHeavy.description>
+  <VFE_Gun_AdvancedInfernoCannon.label>advanced inferno cannon</VFE_Gun_AdvancedInfernoCannon.label>
+  <VFE_Gun_AdvancedInfernoCannon.description>A relatively small incendiary artillery platform at first used in urban warfare and sieges. Much like its mechanoid variant the inferno cannon actually deploys small explosive warheads that are known to shake the earth where they land and set targets ablaze.</VFE_Gun_AdvancedInfernoCannon.description>
+  <VFE_Gun_AdvancedNeedle.label>advanced needle gun</VFE_Gun_AdvancedNeedle.label>
+  <VFE_Gun_AdvancedNeedle.description>An advanced ultra long range kinetically propelled sniper weapon. While damage is not much higher than its lesser version, pros include an entire lack of recoil and unrivaled range. Soldiers of old claim to have had their vessels shot at from the ground while as high as the stratosphere, although these claims do not hold up to any level of scrutiny.</VFE_Gun_AdvancedNeedle.description>
+  <VFE_Gun_AdvancedNeedle.tools.0.label>barrel</VFE_Gun_AdvancedNeedle.tools.0.label>
+  <VFE_Gun_AdvancedChargeLance.label>advanced charge lance</VFE_Gun_AdvancedChargeLance.label>
+  <VFE_Gun_AdvancedChargeLance.description>A heavier version of the pulse-charged lance weapon. Often fielded by mechanoid marksmen, the advanced charge lance is similar to it’s predecessor but exchanges size and time to aim for a significant increase in firepower.</VFE_Gun_AdvancedChargeLance.description>
+  <VFE_Gun_AdvancedChargeLance.tools.0.label>barrel</VFE_Gun_AdvancedChargeLance.tools.0.label>
+  <VFE_Mech_AdvancedCentipede.label>advanced centipede</VFE_Mech_AdvancedCentipede.label>
+  <VFE_Mech_AdvancedCentipede.description>An even heavier, more armored version of the Centipede mechanoid propelled by hundreds of tiny legs as well. Unlike their more ancient and less advanced relatives this particular unit is much more intelligent and will seek cover before attempting to break lines of defense.</VFE_Mech_AdvancedCentipede.description>
+  <VFE_Mech_AdvancedCentipede.tools.0.label>head</VFE_Mech_AdvancedCentipede.tools.0.label>
+  <VFE_Mech_AdvancedLancer.label>advanced lancer</VFE_Mech_AdvancedLancer.label>
+  <VFE_Mech_AdvancedLancer.description>A freshly manufactured and heavily upgraded long-range infantry mechanoid. Unlike their more ancient and less advanced relatives this particular unit is much more intelligent and will seek cover and prove to be a much more challenging opponent in melee combat.</VFE_Mech_AdvancedLancer.description>
+  <VFE_Mech_AdvancedLancer.tools.0.label>left fist</VFE_Mech_AdvancedLancer.tools.0.label>
+  <VFE_Mech_AdvancedLancer.tools.1.label>right fist</VFE_Mech_AdvancedLancer.tools.1.label>
+  <VFE_Mech_AdvancedLancer.tools.2.label>head</VFE_Mech_AdvancedLancer.tools.2.label>
+  <VFE_Mech_AdvancedKnight.label>advanced knight</VFE_Mech_AdvancedKnight.label>
+  <VFE_Mech_AdvancedKnight.description>One of two heavy infantry mechanoids equipped with multiple upgrades. This particular Knight variant appears to have an overclocked power cell, allowing quicker movement and a stronger energy shield. Like it’s unupgraded variant, the Knight comes equipped with a devastating burst-fire charge blaster, although its targeting module appears to be much more advanced.</VFE_Mech_AdvancedKnight.description>
+  <VFE_Mech_AdvancedKnight.tools.0.label>left fist</VFE_Mech_AdvancedKnight.tools.0.label>
+  <VFE_Mech_AdvancedKnight.tools.1.label>right fist</VFE_Mech_AdvancedKnight.tools.1.label>
+  <VFE_Mech_AdvancedKnight.tools.2.label>head</VFE_Mech_AdvancedKnight.tools.2.label>
+  <VFE_Mech_AdvancedInquisitor.label>advanced inquisitor</VFE_Mech_AdvancedInquisitor.label>
+  <VFE_Mech_AdvancedInquisitor.description>One of two heavy infantry mechanoids equipped with multiple upgrades. Despite much larger chemfuel tanks this variant of the Inquisitor mech is somehow quicker than its counterpart. Less than a dozen encounters with this mechanoid have ever been reported and less than half of those have ended in victory. This Inquisitor not only rushes priority targets with plumes of fire but also is installed with a much more deadly explosive fail-safe system that both detonates the machine but also engulfs targets nearby in chemfuel fire.</VFE_Mech_AdvancedInquisitor.description>
+  <VFE_Mech_AdvancedInquisitor.tools.0.label>left fist</VFE_Mech_AdvancedInquisitor.tools.0.label>
+  <VFE_Mech_AdvancedInquisitor.tools.1.label>right fist</VFE_Mech_AdvancedInquisitor.tools.1.label>
+  <VFE_Mech_AdvancedInquisitor.tools.2.label>head</VFE_Mech_AdvancedInquisitor.tools.2.label>
+  <VFE_Mech_AdvancedScyther.label>advanced scyther</VFE_Mech_AdvancedScyther.label>
+  <VFE_Mech_AdvancedScyther.description>A dense, spindly and very intelligent scyther unit that appears to be freshly manufactured with additional upgrades. This unit appears to utilize anti-gravity properties to propel itself much quicker than its ancient versions, as well as superheat its bladed arm attachments to more readily cut through flesh and metal alike.</VFE_Mech_AdvancedScyther.description>
+  <VFE_Mech_AdvancedScyther.tools.0.label>left blade</VFE_Mech_AdvancedScyther.tools.0.label>
+  <VFE_Mech_AdvancedScyther.tools.1.label>right blade</VFE_Mech_AdvancedScyther.tools.1.label>
+  <VFE_Mech_AdvancedScyther.tools.2.label>head</VFE_Mech_AdvancedScyther.tools.2.label>
+  <VFE_Mech_AdvancedPikeman.label>advanced pikeman</VFE_Mech_AdvancedPikeman.label>
+  <VFE_Mech_AdvancedPikeman.description>A multi-legged combat mechanoid specialized as a long-range weapons platform. This particular unit appears to have been upgraded with additional limbs for quicker movement as well as a layer of roach-like carapace plates for extra defense against melee combatants.</VFE_Mech_AdvancedPikeman.description>
+  <VFE_Mech_AdvancedPikeman.tools.0.label>front left leg</VFE_Mech_AdvancedPikeman.tools.0.label>
+  <VFE_Mech_AdvancedPikeman.tools.1.label>front right leg</VFE_Mech_AdvancedPikeman.tools.1.label>
+  <VFE_Mech_AdvancedPikeman.tools.2.label>head</VFE_Mech_AdvancedPikeman.tools.2.label>
+  <VFE_Mech_AdvancedCarpenter.label>advanced carpenter</VFE_Mech_AdvancedCarpenter.label>
+  <VFE_Mech_AdvancedCarpenter.description>An upgraded version of the utility “Carpenter” mechanoid. Set apart from its prior iterations this version of the carpenter mechanoid not only moves faster but also utilizes plasma torches and omnitools to nearly instantly dissemble all risk-posing structures. Compounded with possibly the heaviest armor of all mechanoids this unit needs to be prioritized before reaching the enemy frontline. Finally, should this mechanoid detect that it is about to cease function an EMP shock is emitted that temporarily disables all nearby electronics in a last-ditch effort to break the frontline for its allies.</VFE_Mech_AdvancedCarpenter.description>
+  <VFE_Mech_AdvancedCarpenter.tools.0.label>front left leg</VFE_Mech_AdvancedCarpenter.tools.0.label>
+  <VFE_Mech_AdvancedCarpenter.tools.1.label>front right leg</VFE_Mech_AdvancedCarpenter.tools.1.label>
+  <VFE_Mech_AdvancedCarpenter.tools.2.label>head</VFE_Mech_AdvancedCarpenter.tools.2.label>
+  <VFE_AncientMech_AncientCarpenter.label>carpenter</VFE_AncientMech_AncientCarpenter.label>
+  <VFE_AncientMech_AncientCarpenter.description>A lurching, quadrupedal utility mechanoid with thick armor meant to absorb enemy fire while rapidly dissembling enemy fortifications using simple sledges and drills. Infantry present during the mechanoid wars were known to assemble decoy pillboxes or barricades as the carpenter mechanoids could not distinguish between them and structures being actively used.</VFE_AncientMech_AncientCarpenter.description>
+  <VFE_AncientMech_AncientCarpenter.tools.0.label>front left leg</VFE_AncientMech_AncientCarpenter.tools.0.label>
+  <VFE_AncientMech_AncientCarpenter.tools.1.label>front right leg</VFE_AncientMech_AncientCarpenter.tools.1.label>
+  <VFE_AncientMech_AncientCarpenter.tools.2.label>head</VFE_AncientMech_AncientCarpenter.tools.2.label>
+  <VFE_Mechanoids_Autocleaner.label>autocleaner</VFE_Mechanoids_Autocleaner.label>
+  <VFE_Mechanoids_Autocleaner.description>A medium speed, simple-minded, wheeled drone with large scrubbers and an intricate vacuum chamber system. When used in tandem the aforementioned tools result in a drone capable of quickly cleaning up a range of messes, be they wet or dry. Waste collected during cleaning is incinerated within shortly after while the drone is charging.</VFE_Mechanoids_Autocleaner.description>
+  <VFE_Mechanoids_Autocleaner.tools.0.label>head</VFE_Mechanoids_Autocleaner.tools.0.label>
+  <VFE_Mechanoids_Autohauler.label>autohauler</VFE_Mechanoids_Autohauler.label>
+  <VFE_Mechanoids_Autohauler.description>A treaded, simple-minded drone capable of lifting many times its weight with a hydraulic claw, while slow to move it is quite energy efficient compared to most drones.</VFE_Mechanoids_Autohauler.description>
+  <VFE_Mechanoids_Autohauler.tools.0.label>head</VFE_Mechanoids_Autohauler.tools.0.label>
+  <VFE_Mechanoids_Autominer.label>autominer</VFE_Mechanoids_Autominer.label>
+  <VFE_Mechanoids_Autominer.description>A fortified, four-wheeled machine with an oversized drill arm and a series of shovel units. This unit moves fast and is able to swiftly cut through rock and stone alike, however its battery life leaves something to be desired. Mined material is not hauled.</VFE_Mechanoids_Autominer.description>
+  <VFE_Mechanoids_Autominer.tools.0.label>head</VFE_Mechanoids_Autominer.tools.0.label>
+  <VFE_Mechanoids_Combat.label>combat mechanoid</VFE_Mechanoids_Combat.label>
+  <VFE_Mechanoids_Combat.description>A simple minded ranged combat drone slightly smaller than a normal human. Patrols designated areas analyzing for nearby threats and will autonomously engage them.</VFE_Mechanoids_Combat.description>
+  <VFE_Mechanoids_Combat.tools.0.label>head</VFE_Mechanoids_Combat.tools.0.label>
+  <VFE_Mechanoids_Riot.label>riot mechanoid</VFE_Mechanoids_Riot.label>
+  <VFE_Mechanoids_Riot.description>A simple minded melee combat drone slightly smaller than a normal human. Patrols designated areas analyzing for nearby threats and will autonomously engage them.</VFE_Mechanoids_Riot.description>
+  <VFE_Mechanoids_Riot.tools.0.label>blade</VFE_Mechanoids_Riot.tools.0.label>
+  <VFE_Mechanoids_Riot.tools.1.label>shield</VFE_Mechanoids_Riot.tools.1.label>
+  <VFE_Mechanoids_Turret.label>mobile turret</VFE_Mechanoids_Turret.label>
+  <VFE_Mechanoids_Turret.description>A simple treaded platform with a spot for a turret to be sturdily installed upon it, allowing for mobile firepower without risk.</VFE_Mechanoids_Turret.description>
+  <VFE_Mechanoids_Turret.tools.0.label>head</VFE_Mechanoids_Turret.tools.0.label>
+  <VFE_Mech_Centipede.label>centipede</VFE_Mech_Centipede.label>
+  <VFE_Mech_Centipede.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their heavy armor and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. This particular unit appears to be freshly manufactured and will operate more robustly.</VFE_Mech_Centipede.description>
+  <VFE_Mech_Centipede.tools.0.label>head</VFE_Mech_Centipede.tools.0.label>
+  <VFE_Mech_Lancer.label>lancer</VFE_Mech_Lancer.label>
+  <VFE_Mech_Lancer.description>Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. This particular unit appears to be freshly manufactured and will operate more robustly.</VFE_Mech_Lancer.description>
+  <VFE_Mech_Lancer.tools.0.label>left fist</VFE_Mech_Lancer.tools.0.label>
+  <VFE_Mech_Lancer.tools.1.label>right fist</VFE_Mech_Lancer.tools.1.label>
+  <VFE_Mech_Lancer.tools.2.label>head</VFE_Mech_Lancer.tools.2.label>
+  <VFE_Mech_Knight.label>knight</VFE_Mech_Knight.label>
+  <VFE_Mech_Knight.description>A medium-speed bipedal mechanoid slightly larger than an average human designed to take damage from both ranged and melee combatants. Thick armored plating is only further emboldened by a logic-defying shield belt capable of stopping projectiles. Equipped with a mid-range, burst-fire charge rifle, the Knight is best fought off by long-range explosive salvo or mines.</VFE_Mech_Knight.description>
+  <VFE_Mech_Knight.tools.0.label>left fist</VFE_Mech_Knight.tools.0.label>
+  <VFE_Mech_Knight.tools.1.label>right fist</VFE_Mech_Knight.tools.1.label>
+  <VFE_Mech_Knight.tools.2.label>head</VFE_Mech_Knight.tools.2.label>
+  <VFE_Mech_Inquisitor.label>inquisitor</VFE_Mech_Inquisitor.label>
+  <VFE_Mech_Inquisitor.description>A lumbering, slow, superheavy mechanoid meant for area denial and bunker busting via flamethrower. While the plume of flame itself is short ranged, encountering an Inquisitor at close range is ill-advised, as the back-mounted chemfuel tanks are programmed to explode upon a system malfunction.</VFE_Mech_Inquisitor.description>
+  <VFE_Mech_Inquisitor.tools.0.label>left fist</VFE_Mech_Inquisitor.tools.0.label>
+  <VFE_Mech_Inquisitor.tools.1.label>right fist</VFE_Mech_Inquisitor.tools.1.label>
+  <VFE_Mech_Inquisitor.tools.2.label>head</VFE_Mech_Inquisitor.tools.2.label>
+  <VFE_Mech_Scyther.label>scyther</VFE_Mech_Scyther.label>
+  <VFE_Mech_Scyther.description>Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use two arm blades to lop off limbs or gut their victims alive. This particular unit appears to be freshly manufactured and will operate more robustly.</VFE_Mech_Scyther.description>
+  <VFE_Mech_Scyther.tools.0.label>left blade</VFE_Mech_Scyther.tools.0.label>
+  <VFE_Mech_Scyther.tools.1.label>right blade</VFE_Mech_Scyther.tools.1.label>
+  <VFE_Mech_Scyther.tools.2.label>head</VFE_Mech_Scyther.tools.2.label>
+  <VFE_Mech_Pikeman.label>pikeman</VFE_Mech_Pikeman.label>
+  <VFE_Mech_Pikeman.description>A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat. Veterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. This particular unit appears to be freshly manufactured and will operate more robustly.</VFE_Mech_Pikeman.description>
+  <VFE_Mech_Pikeman.tools.0.label>front left leg</VFE_Mech_Pikeman.tools.0.label>
+  <VFE_Mech_Pikeman.tools.1.label>front right leg</VFE_Mech_Pikeman.tools.1.label>
+  <VFE_Mech_Pikeman.tools.2.label>head</VFE_Mech_Pikeman.tools.2.label>
+  <VFE_Mech_Carpenter.label>carpenter</VFE_Mech_Carpenter.label>
+  <VFE_Mech_Carpenter.description>A swift, quadrupedal, beetle-like utility mechanoid meant to assemble and disassemble structures even in midst of heavy crossfire via a series of claws, blowtorches, and drills. Carpenter mechs analyze nearby structures for conflicting design parameters before skittering to dissemble them. Veterans from the mechanoid wars claim power plants and turrets that take days or even weeks to assemble to have vanished in minutes when approached by a carpenter. This particular unit appears to be freshly manufactured and will operate more robustly.</VFE_Mech_Carpenter.description>
+  <VFE_Mech_Carpenter.tools.0.label>front left leg</VFE_Mech_Carpenter.tools.0.label>
+  <VFE_Mech_Carpenter.tools.1.label>front right leg</VFE_Mech_Carpenter.tools.1.label>
+  <VFE_Mech_Carpenter.tools.2.label>head</VFE_Mech_Carpenter.tools.2.label>
+  <VFEM_IndustrialCoffeeRoaster.label>industrial coffee roaster</VFEM_IndustrialCoffeeRoaster.label>
+  <VFEM_IndustrialCoffeeRoaster.description>An industrial-sized oven that deeply roasts coffee beans before dispensing them to a quern that grinds them into grounds. Boiling water is then forced and filtered through the grounds into a mass amount of coffee. Nearby hoppers can also hold other products for processing a number of coffee-related drinks.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> The Industrial Coffee Roaster is not part of any automation chain, it is an independent building.</VFEM_IndustrialCoffeeRoaster.description>
+  <VFEM_ProvisionsPackagingFactory_Cannery.label>cannery</VFEM_ProvisionsPackagingFactory_Cannery.label>
+  <VFEM_ProvisionsPackagingFactory_Cannery.description>A medium-sized factory module that accepts raw food before vaccuum packing and sealing it tightly, allowing it to last indefinitely. Does not require additional steel after creation.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> Part of the Provisions Packaging Factory (P.P.F.) chain.</VFEM_ProvisionsPackagingFactory_Cannery.description>
+  <VFEM_IndustrialCheesePress.label>industrial cheese press</VFEM_IndustrialCheesePress.label>
+  <VFEM_IndustrialCheesePress.description>A tank capable of rapidly heating milk until curds begin to form, then automatically strains and presses them into multiple wheels of cheese at once. Nearby hoppers can hold enough milk to make several wheels and finished wheels will automatically be dispensed. Quality cheeses can be forcibly aged more quickly than powerless aging methods.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> The Industrial Cheese Press is not part of any automation chain, it is an independent building.</VFEM_IndustrialCheesePress.description>
+  <VFEM_IndustrialSoupVat.label>industrial soup vat</VFEM_IndustrialSoupVat.label>
+  <VFEM_IndustrialSoupVat.description>A very large vat with a series of mounted, spinning blades towards the top. Attached hoppers can be filled with a variety of raw food products. Thereafter they are vacuumed through the top, sliced and simmered deeply into a variety of soups. Finished soups will be dispensed to an opposing hopper without the need of processing steps. Input and output both are done en masse and require much less management than traditional slow cooking.\n\nGourmet soups are obviously not created industrially.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> The Industrial Soup Vat is not part of any automation chain, it is an independent building.</VFEM_IndustrialSoupVat.description>
+  <VFEM_AquaponicsBasin.label>aquaponics basin</VFEM_AquaponicsBasin.label>
+  <VFEM_AquaponicsBasin.description>A deep water filled basin capable of processing vegetable matter into an algae-like paste for continuous feeding of fish living within. Fish within live in optimal water conditions and temperature and therefore breed quite quickly. Matured fish will occasionally be deposited to a nearby output hopper.\n\n&lt;color=#33d733>Automation Chain:&lt;/color> The Aquaponics basin is not part of any automation chain, it is an independent building.</VFEM_AquaponicsBasin.description>
+</LanguageData>

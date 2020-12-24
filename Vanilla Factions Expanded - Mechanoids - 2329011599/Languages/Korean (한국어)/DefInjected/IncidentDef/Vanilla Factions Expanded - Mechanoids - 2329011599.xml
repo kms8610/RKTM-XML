@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_ShipLandFrigate.label>ship landing frigate</VFEM_ShipLandFrigate.label>
+  <VFEM_ShipLandFrigate.letterLabel>Ship Landed: Frigate</VFEM_ShipLandFrigate.letterLabel>
+  <VFEM_ShipLandFrigate.letterText>{0} sent a new ship to land on the planet.\n\nA small ship often used for ground recon operations. It has minimal defenses. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties.</VFEM_ShipLandFrigate.letterText>
+  <VFEM_ShipLandDestroyer.label>ship landing destroyer</VFEM_ShipLandDestroyer.label>
+  <VFEM_ShipLandDestroyer.letterLabel>Ship Landed: Destroyer</VFEM_ShipLandDestroyer.letterLabel>
+  <VFEM_ShipLandDestroyer.letterText>{0} sent a new ship to land on the planet.\n\nDestroyer is a medium-sized ship usually serving as mechanoid hive defender. It has no short range defenses. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties.</VFEM_ShipLandDestroyer.letterText>
+  <VFEM_ShipLandCruiser.label>ship landing cruiser</VFEM_ShipLandCruiser.label>
+  <VFEM_ShipLandCruiser.letterLabel>Ship Landed: Cruiser</VFEM_ShipLandCruiser.letterLabel>
+  <VFEM_ShipLandCruiser.letterText>{0} sent a new ship to land on the planet.\n\nCruiser is a medium-sized ship usually serving as a bulk of a mechanoid hive fleet. Is has a number of short range defensive measures, but lacks long range weaponry. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties.</VFEM_ShipLandCruiser.letterText>
+  <VFEM_ShipLandTroopship.label>ship landing troopship</VFEM_ShipLandTroopship.label>
+  <VFEM_ShipLandTroopship.letterLabel>Ship Landed: Troopship</VFEM_ShipLandTroopship.letterLabel>
+  <VFEM_ShipLandTroopship.letterText>{0} sent a new ship to land on the planet.\n\nTroopship is a large mechanoid factory-ship, capable of producing large amounts of combat-ready mechanoids in very little time. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties.</VFEM_ShipLandTroopship.letterText>
+  <VFEM_ShipLandCarrier.label>ship landing carrier</VFEM_ShipLandCarrier.label>
+  <VFEM_ShipLandCarrier.letterLabel>Ship Landed: Carrier</VFEM_ShipLandCarrier.letterLabel>
+  <VFEM_ShipLandCarrier.letterText>{0} sent a new ship to land on the planet.\n\nCarrier is the biggest ship in the mechanoid hive, heavily defended and with numerous means of producing new, combat-ready mechanoid units. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties.</VFEM_ShipLandCarrier.letterText>
+</LanguageData>
