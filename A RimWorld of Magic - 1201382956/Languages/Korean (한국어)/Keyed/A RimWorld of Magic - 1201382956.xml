@@ -179,6 +179,7 @@
   <TM_AbandoningMap>Your pawns are abandoning {0}, do you want to remove the map?</TM_AbandoningMap>
   <TM_IncompatibleWeaponType>{0} cannot use {1} - incompatible weapon.</TM_IncompatibleWeaponType>
   <TM_SpiritAnimalChange>{0}'s spirit animal has changed from {1} to {2}.</TM_SpiritAnimalChange>
+  <TM_InvalidAction>{0} cannot use {1} - invalid parameters.</TM_InvalidAction>
   <LetterLabelRegrowthSurgeryFail>Surgery Failed</LetterLabelRegrowthSurgeryFail>
   <LetterRegrowthSurgeryFail>{0} just attempted to perform {1} on {2} but failed because {4} {3}.\n\nIn order to successfully perform this surgery, the following conditions must be met:\n\n1. Surgeon must be a Druid\n2. The druid must have learned the Regrow Limb spell.\n3. You must have a Seed of Life as an ingredient to perform the surgery.\n4. The druid must have 90 or more mana at the time of the surgery.\n5. After all these conditions are met, the druid must still perform the surgery successfully, which depends on their medical skill.\n\nGood luck, mage!</LetterRegrowthSurgeryFail>
   <TM_NotMagicUser>is not a magic user</TM_NotMagicUser>

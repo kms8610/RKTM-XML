@@ -141,6 +141,9 @@ Class XP Gain: -20%</ArcaneForge_ThrumBow.description>
   <UniversalRegrowth.label>regrow body part (Druid only, 90% mana required)</UniversalRegrowth.label>
   <UniversalRegrowth.description>Use druidic powers to regrow body parts.</UniversalRegrowth.description>
   <UniversalRegrowth.jobString>Regrowing body part.</UniversalRegrowth.jobString>
+  <AdministerShardOfExtraction.label>administer shard of extraction</AdministerShardOfExtraction.label>
+  <AdministerShardOfExtraction.description>Extracts martial and arcane essence from a pawn. This is a single use item that will permanently remove a pawn's class and convert it into essence. Essence may be consumed to grant class experience. The shard is destroyed after the extraction process.</AdministerShardOfExtraction.description>
+  <AdministerShardOfExtraction.jobString>Using Shard of Extraction</AdministerShardOfExtraction.jobString>
   <AdministerOrbOfTheEternal.label>administer orb of the eternal</AdministerOrbOfTheEternal.label>
   <AdministerOrbOfTheEternal.description>Applies the power of the Orb of the Eternal. This is a single use infusion of magical energy that will heal wounds, restore limbs, and cure diseases. The healing energy will target and heal the single worst health condition affecting someone at any given time.</AdministerOrbOfTheEternal.description>
   <AdministerOrbOfTheEternal.jobString>Using Orb of the Eternal.</AdministerOrbOfTheEternal.jobString>
