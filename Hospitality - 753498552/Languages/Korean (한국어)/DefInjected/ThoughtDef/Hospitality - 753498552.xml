@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GuestPaidFee.stages.0.label>had to pay fee</GuestPaidFee.stages.0.label>
+  <GuestPaidFee.stages.0.description>I had to pay a fee to stay here.</GuestPaidFee.stages.0.description>
+  <GuestAngered.stages.0.label>angered by recruitment</GuestAngered.stages.0.label>
+  <GuestAngered.stages.0.description>These guys are trying to steal our members!</GuestAngered.stages.0.description>
+  <GuestRecruitmentForced.stages.0.label>involuntarily recruited</GuestRecruitmentForced.stages.0.label>
+  <GuestRecruitmentForced.stages.0.description>I'm not sure if I should be here.</GuestRecruitmentForced.stages.0.description>
+  <GuestOffendedRelationship.stages.0.label>insulted by colonist</GuestOffendedRelationship.stages.0.label>
+  <GuestOffendedRelationship.stages.0.labelSocial>insulted me</GuestOffendedRelationship.stages.0.labelSocial>
+  <GuestOffendedRelationship.stages.0.description>These guys are losers!</GuestOffendedRelationship.stages.0.description>
+  <GuestPleasedRelationship.stages.0.label>charmed by colonist</GuestPleasedRelationship.stages.0.label>
+  <GuestPleasedRelationship.stages.0.labelSocial>charmed me</GuestPleasedRelationship.stages.0.labelSocial>
+  <GuestPleasedRelationship.stages.0.description>Such nice people!</GuestPleasedRelationship.stages.0.description>
+  <EndorsedByRecruiter.stages.0.label>endorsed by recruiter</EndorsedByRecruiter.stages.0.label>
+  <EndorsedByRecruiter.stages.0.labelSocial>was endorsed to me</EndorsedByRecruiter.stages.0.labelSocial>
+  <EndorsedByRecruiter.stages.0.description>This person was recommended to me.</EndorsedByRecruiter.stages.0.description>
+  <GuestDismissiveAttitude.stages.0.label>tired of talking</GuestDismissiveAttitude.stages.0.label>
+  <GuestDismissiveAttitude.stages.0.description>I'm done talking for now. Leave me alone.</GuestDismissiveAttitude.stages.0.description>
+  <GuestCantAffordBed.stages.0.label>can't afford a bed</GuestCantAffordBed.stages.0.label>
+  <GuestCantAffordBed.stages.0.description>I can't afford one of the free beds.</GuestCantAffordBed.stages.0.description>
+  <GuestBedCount.stages.0.label>no guest beds</GuestBedCount.stages.0.label>
+  <GuestBedCount.stages.0.description>They don't even have beds here.</GuestBedCount.stages.0.description>
+  <GuestBedCount.stages.1.label>not enough guest beds</GuestBedCount.stages.1.label>
+  <GuestBedCount.stages.1.description>There should be more beds for guests.</GuestBedCount.stages.1.description>
+  <GuestBedCount.stages.2.label>enough beds</GuestBedCount.stages.2.label>
+  <GuestBedCount.stages.2.description>There are enough beds in our room for all of us.</GuestBedCount.stages.2.description>
+  <GuestBedCount.stages.3.label>lots of beds</GuestBedCount.stages.3.label>
+  <GuestBedCount.stages.3.description>Wow, so many beds!</GuestBedCount.stages.3.description>
+</LanguageData>
