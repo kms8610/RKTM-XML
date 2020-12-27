@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Filth_OilSlick.label>Oil Slick</Filth_OilSlick.label>
+  <Filth_OilSlick.description>A puddle of flammable oil.</Filth_OilSlick.description>
+  <Filth_OilSlick.comps.0.useLabel>Ignite</Filth_OilSlick.comps.0.useLabel>
+  <Filth_NapalmTrail.label>Napalm trail</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>A trail of napalm.</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.0.useLabel>Ignite</Filth_NapalmTrail.comps.0.useLabel>
+  <NapalmBomb.label>Napalm Bomb</NapalmBomb.label>
+  <NapalmBomb.description>Napalm Bomb</NapalmBomb.description>
+  <NapalmBomb.comps.0.useLabel>Ignite</NapalmBomb.comps.0.useLabel>
+  <SparkGrid.label>Spark Grid</SparkGrid.label>
+  <SparkGrid.description>Ignites flammable things such as napalm when powered.</SparkGrid.description>
+  <OilPipeline.label>Oil Pipeline</OilPipeline.label>
+  <OilPipeline.description>Plumbing for connecting plumbed things.</OilPipeline.description>
+  <pipelineValve.label>pipeline valve</pipelineValve.label>
+  <pipelineValve.description>Opens or closes connections between pipelines.</pipelineValve.description>
+  <OilWellHead.label>Oil Well Head</OilWellHead.label>
+  <OilWellHead.description>Abandoned oil well, when left unused the pressure will rise back to full over time. Place a derrick directly over the well to continue using it</OilWellHead.description>
+  <DeepOilWellHead.label>Deep Oil Well Head</DeepOilWellHead.label>
+  <DeepOilWellHead.description>Abandoned oil well, when left unused the pressure will rise back to full over time. Place a derrick directly over the well to continue using it</DeepOilWellHead.description>
+  <OilWell.label>Oil Well</OilWell.label>
+  <OilWell.description>Extracts oil from underground reservoirs, requires a resource console to view the oil grid!</OilWell.description>
+  <OilWell.comps.1.fuelLabel>Steel for pipe</OilWell.comps.1.fuelLabel>
+  <OilWell.comps.1.fuelGizmoLabel>Pipe stockpile</OilWell.comps.1.fuelGizmoLabel>
+  <OilWell.comps.1.outOfFuelMessage>Cannot drill: Needs more pipe</OilWell.comps.1.outOfFuelMessage>
+  <DeepOilWell.label>Deep Oil Well</DeepOilWell.label>
+  <DeepOilWell.description>Extracts oil from underground reservoirs, requires a ground radar to view the deep oil grid!</DeepOilWell.description>
+  <DeepOilWell.comps.1.fuelLabel>Steel for pipe</DeepOilWell.comps.1.fuelLabel>
+  <DeepOilWell.comps.1.fuelGizmoLabel>Pipe stockpile</DeepOilWell.comps.1.fuelGizmoLabel>
+  <DeepOilWell.comps.1.outOfFuelMessage>Cannot drill: Needs more pipe</DeepOilWell.comps.1.outOfFuelMessage>
+  <OilStorage.label>Crude oil storage</OilStorage.label>
+  <OilStorage.description>Stores crude oil from wells.</OilStorage.description>
+  <FuelStorage.label>Chemfuel storage</FuelStorage.label>
+  <FuelStorage.description>Stores chemfuel produced by crude crackers, chemfuel can be pumped to connected chemfuel hoppers</FuelStorage.description>
+  <ResourceConsole.label>Resource Console</ResourceConsole.label>
+  <ResourceConsole.description>Manned computer console required to operate crude crackers and refineries</ResourceConsole.description>
+  <CrudeCracker.label>Crude Cracker</CrudeCracker.label>
+  <CrudeCracker.description>Cracks crude oil into chemfuel which must be stored on connected chemfuel tanks, chemfuel can be pumped to connected chemfuel hoppers</CrudeCracker.description>
+  <CrudeCracker.comps.4.GizmoLabel>Power mode</CrudeCracker.comps.4.GizmoLabel>
+  <FuelPowerplant.label>chemfuel powerplant</FuelPowerplant.label>
+  <FuelPowerplant.description>Produces power by consuming chemfuel. Must be piped into chemfuel storage tanks.</FuelPowerplant.description>
+  <LargeFuelPowerplant.label>Large chemfuel powerplant</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.description>Produces power by consuming chemfuel. Must be piped into chemfuel storage tanks.</LargeFuelPowerplant.description>
+  <ChemfuelHopper.label>chemfuel pump</ChemfuelHopper.label>
+  <ChemfuelHopper.description>Pumps chemfuel from chemfuel storage tanks into usable/sellable cans.</ChemfuelHopper.description>
+  <ChemfuelSiphon.label>chemfuel siphon</ChemfuelSiphon.label>
+  <ChemfuelSiphon.description>Siphons chemfuel from cans into chemfuel storage tanks.</ChemfuelSiphon.description>
+  <RefineryLoadingBay.label>Refinery unloading bay</RefineryLoadingBay.label>
+  <RefineryLoadingBay.description>Bay required by refineries to unload product.</RefineryLoadingBay.description>
+  <SynthyleneRefiner.label>Synthylene Refiner</SynthyleneRefiner.label>
+  <SynthyleneRefiner.description>Processes chemfuel into synthylene with a selection of colours, synthylene can be used as a generic building material and as an ingredient for components.</SynthyleneRefiner.description>
+  <NapalmRefiner.label>Napalm Refiner</NapalmRefiner.label>
+  <NapalmRefiner.description>Processes chemfuel into napalm, a highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</NapalmRefiner.description>
+  <SynthreadRefiner.label>Synthread Refiner</SynthreadRefiner.label>
+  <SynthreadRefiner.description>Processes chemfuel into synthread, a synthetic fibre for clothing</SynthreadRefiner.description>
+  <SynthamideRefiner.label>Synthamide Refiner</SynthamideRefiner.label>
+  <SynthamideRefiner.description>Processes chemfuel into Synthamide weave, a high strength synthetic fibre</SynthamideRefiner.description>
+  <HyperweaveRefiner.label>Hyperweave Refiner</HyperweaveRefiner.label>
+  <HyperweaveRefiner.description>Processes chemfuel into Hyperweave, a high strength synthetic fibre</HyperweaveRefiner.description>
+  <NeutroamineRefiner.label>Neutroamine Refiner</NeutroamineRefiner.label>
+  <NeutroamineRefiner.description>Processes chemfuel into Neutroamine for making medicine</NeutroamineRefiner.description>
+  <Autoclave.label>Autoclave</Autoclave.label>
+  <Autoclave.description>Bakes uncured plasteel or synthamide composite into the final product</Autoclave.description>
+  <CombatExtendedFsxRefiner.label>FSX Refiner</CombatExtendedFsxRefiner.label>
+  <CombatExtendedFsxRefiner.description>Processes chemfuel into FSX, a high-explosive chemical used in a variety of industrial and military applications.</CombatExtendedFsxRefiner.description>
+  <Shell_Napalm.label>Napalm shell</Shell_Napalm.label>
+  <Shell_Napalm.description>A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars. Explodes when damaged.</Shell_Napalm.description>
+  <Bullet_Shell_Napalm.label>Napalm shell</Bullet_Shell_Napalm.label>
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Highly flammable sticky jelly used in incendiary bombs, consisting of chemfuel thickened with synthylene.</Napalm.description>
+  <OilBarrel.label>Oil Barrel</OilBarrel.label>
+  <OilBarrel.description>A barrel filled with crude oil, can be dumped, burned, or processed.</OilBarrel.description>
+  <UncuredPlasteel.label>Uncured Plasteel</UncuredPlasteel.label>
+  <UncuredPlasteel.description>Uncured plasteel, requires curing in an autoclave.</UncuredPlasteel.description>
+  <Synthamide.label>Synthamide</Synthamide.label>
+  <Synthamide.description>Synthamide fibers are heat-resistant and strong synthetic fibers, they can be used for creating very durable clothing or to create high strength composite materials.</Synthamide.description>
+  <Synthylene.description>A synthetic building material.</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>synthylene</Synthylene.stuffProps.stuffAdjective>
+  <Synthylene.label>Synthylene</Synthylene.label>
+  <UncuredComposite.label>Uncured Synthamide Composite</UncuredComposite.label>
+  <UncuredComposite.description>Uncured Synthamide Composite, requires curing in an autoclave.</UncuredComposite.description>
+  <FiberComposite.label>Composite</FiberComposite.label>
+  <FiberComposite.description>Synthamide composite is a high strength light weight fire resistant spacer tech composite material, made of a polymer matrix reinforced with aramid fibres.</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>Composite</FiberComposite.stuffProps.stuffAdjective>
+  <FilthOil.label>Oil</FilthOil.label>
+  <FilthOil.description>Oil on the ground.</FilthOil.description>
+</LanguageData>
