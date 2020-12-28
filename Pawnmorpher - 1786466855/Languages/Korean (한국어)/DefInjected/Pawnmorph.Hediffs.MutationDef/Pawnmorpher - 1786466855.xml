@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <ThrumboFur.label>thick fur</ThrumboFur.label>
+  <ThrumboFur.description>A heavy coat of fur drapes across this limb, insulating a lot of heat.</ThrumboFur.description>
+  <ThrumboFur.stages.0.labelOverride>light hair</ThrumboFur.stages.0.labelOverride>
+  <ThrumboFur.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</ThrumboFur.stages.0.description>
+  <ThrumboFur.stages.1.labelOverride>thin fur</ThrumboFur.stages.1.labelOverride>
+  <ThrumboFur.stages.1.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</ThrumboFur.stages.1.description>
+  <ThrumboFur.stages.2.labelOverride>fur patches</ThrumboFur.stages.2.labelOverride>
+  <ThrumboFur.stages.2.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</ThrumboFur.stages.2.description>
+  <ThrumboFur.stages.3.labelOverride>dense fur</ThrumboFur.stages.3.labelOverride>
+  <ThrumboFur.stages.3.description>The fur has become denser on [PAWN_nameDef]'s limb, making the skin underneath hard to see.</ThrumboFur.stages.3.description>
+  <ThrumboFur.stages.4.labelOverride>thickly furred</ThrumboFur.stages.4.labelOverride>
+  <ThrumboFur.stages.4.description>The fur drapes [PAWN_nameDef]'s limb entirely. It's quite heavy and rather warm.</ThrumboFur.stages.4.description>
   <EtherThrumboSnout.label>thrumbo snout</EtherThrumboSnout.label>
   <EtherThrumboSnout.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze.</EtherThrumboSnout.description>
   <EtherThrumboSnout.stages.0.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze, though talking is much harder.</EtherThrumboSnout.stages.0.description>
@@ -24,6 +36,31 @@
   <EtherThrumboHorn.stages.2.description>A razor-sharp thrumbo horn decorates [PAWN_nameDef]'s head. It has also has taken on a pearly white sheen, charming those around [PAWN_objective] with its beauty.</EtherThrumboHorn.stages.2.description>
   <EtherThrumboHorn.comps.0.tools.0.label>point</EtherThrumboHorn.comps.0.tools.0.label>
   <EtherThrumboHorn.comps.0.tools.1.label>base</EtherThrumboHorn.comps.0.tools.1.label>
+  <EtherMartenJaw.label>musteline muzzle</EtherMartenJaw.label>
+  <EtherMartenJaw.description>[PAWN_nameDef]'s jaw has reshaped into one resembling a mustlid's, complete with razor sharp teeth.</EtherMartenJaw.description>
+  <EtherMartenJaw.stages.1.label>adapted</EtherMartenJaw.stages.1.label>
+  <EtherMartenJaw.comps.0.tools.0.label>teeth</EtherMartenJaw.comps.0.tools.0.label>
+  <EtherMartenEar.label>musteline</EtherMartenEar.label>
+  <EtherMartenEar.description>Trangular, furry ears sit atop [PAWN_nameDef]'s head, like a marten's.</EtherMartenEar.description>
+  <EtherMartenTail.label>marten tail</EtherMartenTail.label>
+  <EtherMartenTail.description>A long fluffy marten tail. It's great for helping [PAWN_nameDef] keep [PAWN_objective] balance.</EtherMartenTail.description>
+  <EtherMartenHand.label>musteline</EtherMartenHand.label>
+  <EtherMartenHand.description>Cute but inflexible paws have replaced [PAWN_nameDef]'s hands. They lack a thumb, which has receded into a useless dewclaw.</EtherMartenHand.description>
+  <EtherMartenHand.stages.0.label>fuzed paw</EtherMartenHand.stages.0.label>
+  <EtherMartenHand.stages.0.description>The mechanites working on this hand have gone haywire, leaving the mustalid paw inflexable and near-useless.</EtherMartenHand.stages.0.description>
+  <EtherMartenHand.stages.1.label>clawed</EtherMartenHand.stages.1.label>
+  <EtherMartenHand.stages.1.description>The nails of [PAWN_nameDef]'s hand have darkened and grown into sharp, menacing claws.</EtherMartenHand.stages.1.description>
+  <EtherMartenHand.stages.2.label>padded</EtherMartenHand.stages.2.label>
+  <EtherMartenHand.stages.2.description>The palm and the tips of each of [PAWN_nameDef]'s fingers have grown into fleshy pads, a perfect compliment to their sharp, animal-like claws. While they do not interfere much with [PAWN_nameDef]'s work, they do look out of place on the otherwise human hand.</EtherMartenHand.stages.2.description>
+  <EtherMartenHand.stages.3.description>The pads, claws and shortend digits of [PAWN_nameDef]'s hand makes it look more like a paw than a hand, but isn't completely useless.</EtherMartenHand.stages.3.description>
+  <EtherMartenHand.stages.3.label>hand-paw</EtherMartenHand.stages.3.label>
+  <EtherMartenHand.stages.4.label>unfamiliar paw</EtherMartenHand.stages.4.label>
+  <EtherMartenHand.stages.4.description>The changes to [PAWN_nameDef]'s hand have concluded, though calling it a hand anymore is generous. Indead, it is far more similar to a marten's paws due to both lacking a thumb, which has receded into a useless dewclaw, as well as their short, clawed and relatively inflexible digits. It will take some time for [PAWN_nameDef] to get used to the changes.</EtherMartenHand.stages.4.description>
+  <EtherMartenHand.stages.5.label>paw</EtherMartenHand.stages.5.label>
+  <EtherMartenHand.stages.5.description>[PAWN_nameDef]'s hand has been replace with the paw of a marten. [PAWN_subjective] can still use the appendage with suprising skill, despite the loss of [PAWN_possesive] oposable thumb.</EtherMartenHand.stages.5.description>
+  <EtherMartenHand.stages.6.label>dextrous paw</EtherMartenHand.stages.6.label>
+  <EtherMartenHand.stages.6.description>Despite the normal inflexibility of the paw's digits, [PAWN_nameDef] has mastered the use of [PAWN_possesive] new paw to such a degree that [PAWN_subjective] can perform feats of dexterity [PAWN_subjective] could not have imagined before the changes.</EtherMartenHand.stages.6.description>
+  <EtherMartenHand.comps.0.tools.0.label>claws</EtherMartenHand.comps.0.tools.0.label>
   <EtherWing.label>wing</EtherWing.label>
   <EtherWing.description>An avian wing.</EtherWing.description>
   <EtherWing.stages.0.label>unfamiliar</EtherWing.stages.0.label>

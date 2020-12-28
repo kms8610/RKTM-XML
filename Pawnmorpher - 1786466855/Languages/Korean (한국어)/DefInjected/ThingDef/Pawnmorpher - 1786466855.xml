@@ -119,6 +119,14 @@
   <Shell_TF.label>mutagenic shell</Shell_TF.label>
   <Shell_TF.description>A shell filled with a chaotic mix of DNA and mechanites that aerosolizes on impact. The mist can mutate any organics caught in it. Can be fired from mortars or installed as a trap. Bursts when damaged.</Shell_TF.description>
   <Bullet_Shell_TF.label>mutagenic shell</Bullet_Shell_TF.label>
+  <Shell_GasTF.label>mutagenic gas shell</Shell_GasTF.label>
+  <Shell_GasTF.description>A shell filled with aerosolized slurry. Can be fired from mortars.</Shell_GasTF.description>
+  <Bullet_Shell_GasMutagenic.label>mutagen gas shell</Bullet_Shell_GasMutagenic.label>
+  <EtherMutagenicGas.label>mutagenic gas</EtherMutagenicGas.label>
+  <GasTrapMutagenic.label>gas trap (mutagenic)</GasTrapMutagenic.label>
+  <GasTrapMutagenic.description>This trap releases mutagenic gas when a hapless human gets too close. They won't be human for too long after inhaling the aerosolised mechanites contained in this trap.</GasTrapMutagenic.description>
+  <MartenTransformer.label>mutasyringe, marten</MartenTransformer.label>
+  <MartenTransformer.description>A mutagenic injector filled with mechanites and marten DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</MartenTransformer.description>
   <GenekitColorPicker.label>dermal repigmentation genekit</GenekitColorPicker.label>
   <GenekitColorPicker.description>Dermal repigmentation genekits are a favorite of party crowds on some glitterworlds. With a simple push of a button, a person's skin and hair color can be nearly instaneously and permanently altered on the genetic level. Another kit can be used afterward to either revert the effect, or change the color selection.</GenekitColorPicker.description>
   <GenekitColorPicker.comps.0.useLabel>Apply kit</GenekitColorPicker.comps.0.useLabel>

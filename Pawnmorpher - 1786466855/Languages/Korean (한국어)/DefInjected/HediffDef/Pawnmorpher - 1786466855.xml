@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <PawnmorphMartenTF.label>martenmorph</PawnmorphMartenTF.label>
+  <PawnmorphMartenTF.description>This person has mechanites in their blood that are slowly mutating them into a martenmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more marten than human.</PawnmorphMartenTF.description>
+  <PawnmorphMartenTF.stages.0.label>reeling</PawnmorphMartenTF.stages.0.label>
+  <PawnmorphMartenTF.stages.1.label>transforming</PawnmorphMartenTF.stages.1.label>
+  <PawnmorphMartenTF.stages.1.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</PawnmorphMartenTF.stages.1.letterText>
+  <PawnmorphMartenTF.stages.1.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</PawnmorphMartenTF.stages.1.letterLabel>
+  <PawnmorphMartenTF.stages.2.label>changing</PawnmorphMartenTF.stages.2.label>
+  <PawnmorphMartenTFPartial.label>martenmorph partial</PawnmorphMartenTFPartial.label>
+  <PawnmorphMartenTFPartial.description>This person has mechanites in their blood that are providing them with marten-esk mutations.</PawnmorphMartenTFPartial.description>
   <ProductionPillUdderEffect.label>depricated</ProductionPillUdderEffect.label>
   <ProductionPillUdderEffect.description>You should not have this hediff, if you do, feel free to ignore it or remove it with dev mode.</ProductionPillUdderEffect.description>
   <ProductionPillChemfuelUdderEffect.label>depricated</ProductionPillChemfuelUdderEffect.label>
