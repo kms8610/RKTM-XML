@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <PRF_WoodCrate_I.label>small wooden crate</PRF_WoodCrate_I.label>
-  <PRF_WoodCrate_I.description>(Tier 1 crate) A small crate that can store 16 stacks. Items stored in the crate do not deteriorate.</PRF_WoodCrate_I.description>
-  <PRF_WoodCrate_II.label>wooden crate</PRF_WoodCrate_II.label>
-  <PRF_WoodCrate_II.description>A giant crate that can store 32 stacks. Items stored in the crate do not deteriorate.</PRF_WoodCrate_II.description>
-  <PRF_SteelCrate_I.label>small steel crate</PRF_SteelCrate_I.label>
-  <PRF_SteelCrate_I.description>A small steel crate that can store 64 stacks. Items stored in the crate do not deteriorate.</PRF_SteelCrate_I.description>
-  <PRF_SteelCrate_II.label>steel crate</PRF_SteelCrate_II.label>
-  <PRF_SteelCrate_II.description>A giant crate that can store 128 stacks. Items stored in the crate do not deteriorate.</PRF_SteelCrate_II.description>
-  <PRF_DigitalStorageUnit_I.label>digital storage unit</PRF_DigitalStorageUnit_I.label>
-  <PRF_DigitalStorageUnit_I.description>Stores up to 768 stacks. Consumes 10 W of power per stack of items. When your colony loses power, items already inside will be safe, but the building will not be able to store more.</PRF_DigitalStorageUnit_I.description>
-  <PRF_IOPort_I.label>I/O Port</PRF_IOPort_I.label>
-  <PRF_IOPort_I.description>(tier 3) \n A Connection port for your storage Cargo Platforms. It can be set to Input/output from any Platform remotely in any range within the map.</PRF_IOPort_I.description>
   <PRF_FuelingMachine.label>fueling machine</PRF_FuelingMachine.label>
   <PRF_FuelingMachine.description>A Simple Refueling machine thats capable of refueling Generators, braziers, mortarts and everything else that uses normal refuelable/mortar comp.\nIt can also fuel some modded types eq. SoS, CE...\nWill pull in from everything in white cells and fuel what in front of it(the yellow cell points to the "front").\n\n(Works with "Refualable comp" buildings)\nAlso capable of Fueling mortars with shells</PRF_FuelingMachine.description>
   <PRF_SmartHopper.label>Smart Hopper</PRF_SmartHopper.label>
@@ -28,7 +16,11 @@
   <PRF_SimplePuller_II_Wall.description>An in-wall item Puller that pushes items from A to B.\n\nThis one is placed through a wall, and is well insulated enough for use in freezers and secure enough for prisons where you dont want anyone crawling through.\n\nRemember you still need to turn it on!</PRF_SimplePuller_II_Wall.description>
   <PRF_Conveyor_Simple_I.label>conveyor belt</PRF_Conveyor_Simple_I.label>
   <PRF_Conveyor_Simple_I.description>Conveyor belts transport items from one end to the other. It will dump into Storage or stockpiles - or just leave stuff on the ground when the belts end.\nBut because they are rather unsophisticated, they will happily dump whatever they have off the end if there is room.\nA corner can be made by just leading the belt into the side of another belt and will seamlessly continue.</PRF_Conveyor_Simple_I.description>
-  <PRF_Conveyor_Wall_I.label>Wall conveyor belt</PRF_Conveyor_Wall_I.label>
+  <PRF_Conveyor_Simple_II.label>Fast conveyor belt</PRF_Conveyor_Simple_II.label>
+  <PRF_Conveyor_Simple_II.description>Fast Conveyor belts transport items from one end to the other. This moves at 2x speed of Normal belts. It will dump into Storage or stockpiles - or just leave stuff on the ground when the belts end.\nBut because they are rather unsophisticated, they will happily dump whatever they have off the end if there is room.\nA corner can be made by just leading the belt into the side of another belt and will seamlessly continue.</PRF_Conveyor_Simple_II.description>
+  <PRF_Conveyor_Simple_III.label>Express conveyor belt</PRF_Conveyor_Simple_III.label>
+  <PRF_Conveyor_Simple_III.description>Express Conveyor belts transport items from one end to the other. This moves at 3x speed of Normal belts or 1.5x of Fast belts. It will dump into Storage or stockpiles - or just leave stuff on the ground when the belts end.\nBut because they are rather unsophisticated, they will happily dump whatever they have off the end if there is room.\nA corner can be made by just leading the belt into the side of another belt and will seamlessly continue.</PRF_Conveyor_Simple_III.description>
+  <PRF_Conveyor_Wall_I.label>Wall Belt</PRF_Conveyor_Wall_I.label>
   <PRF_Conveyor_Wall_I.description>Moves items - through walls! You can use these to traverse walls or move items along inside them. When items hit the end, they will move out onto the ground, as long as there is room.</PRF_Conveyor_Wall_I.description>
   <PRF_Conveyor_UG_I.label>underground belt</PRF_Conveyor_UG_I.label>
   <PRF_Conveyor_UG_I.description>Underground Conveyor Belts carry items in tunnels under the ground. To move items into the subterrainian passages, you need to use the Underground Conveyor Entrance and Exit.\nThis can move under Walls, machines and other belts without connecting.</PRF_Conveyor_UG_I.description>
@@ -42,6 +34,18 @@
   <PRF_Conveyor_Splitter_UG.description>Splitting features of a normal splitter without the surface eyesore</PRF_Conveyor_Splitter_UG.description>
   <PRF_Conveyor_Splitter_Wall.label>wall splitter</PRF_Conveyor_Splitter_Wall.label>
   <PRF_Conveyor_Splitter_Wall.description>A conveyor splitter unit built into the walls.  This one will hand off items to wall belts and Overground ones.</PRF_Conveyor_Splitter_Wall.description>
+  <PRF_WoodCrate_I.label>small wooden crate</PRF_WoodCrate_I.label>
+  <PRF_WoodCrate_I.description>(Tier 1 crate) A small crate that can store 16 stacks. Items stored in the crate do not deteriorate.</PRF_WoodCrate_I.description>
+  <PRF_WoodCrate_II.label>wooden crate</PRF_WoodCrate_II.label>
+  <PRF_WoodCrate_II.description>A giant crate that can store 32 stacks. Items stored in the crate do not deteriorate.</PRF_WoodCrate_II.description>
+  <PRF_SteelCrate_I.label>small steel crate</PRF_SteelCrate_I.label>
+  <PRF_SteelCrate_I.description>A small steel crate that can store 64 stacks. Items stored in the crate do not deteriorate.</PRF_SteelCrate_I.description>
+  <PRF_SteelCrate_II.label>steel crate</PRF_SteelCrate_II.label>
+  <PRF_SteelCrate_II.description>A giant crate that can store 128 stacks. Items stored in the crate do not deteriorate.</PRF_SteelCrate_II.description>
+  <PRF_DigitalStorageUnit_I.label>digital storage unit</PRF_DigitalStorageUnit_I.label>
+  <PRF_DigitalStorageUnit_I.description>Stores up to 768 stacks. Consumes 10 W of power per stack of items. When your colony loses power, items already inside will be safe, but the building will not be able to store more.</PRF_DigitalStorageUnit_I.description>
+  <PRF_IOPort_I.label>I/O Port</PRF_IOPort_I.label>
+  <PRF_IOPort_I.description>(tier 3) \n A Connection port for your storage Cargo Platforms. It can be set to Input/output from any Platform remotely in any range within the map.</PRF_IOPort_I.description>
   <PRF_IOPort_IFridge.label>Fridge I/O Port</PRF_IOPort_IFridge.label>
   <PRF_IOPort_IFridge.description>(tier 3) \n A Connection port for your DeepStorageUnit. It can be set to Input/output from any DSU remotely in any range within the map. This one also have same option as Rimfidge Coolers.</PRF_IOPort_IFridge.description>
   <PRFCoolDSU.label>Fridge digital storage unit</PRFCoolDSU.label>
