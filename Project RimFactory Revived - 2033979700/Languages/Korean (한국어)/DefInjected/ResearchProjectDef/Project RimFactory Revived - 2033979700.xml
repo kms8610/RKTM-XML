@@ -1,53 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <AnimalStations.label>animal stations I</AnimalStations.label>
-  <AnimalStations.description>First tier animal station technology allows animals with harvestable resources to be harvested automatically.</AnimalStations.description>
-  <AnimalStations_II.label>animal stations II</AnimalStations_II.label>
-  <AnimalStations_II.description>Second tier animal station allows for more animal gathering and also auto animal slaugtering and breeding control.</AnimalStations_II.description>
-  <SelfCooking.label>Self-cooking</SelfCooking.label>
-  <SelfCooking.description>Make buildings that can cook meals themselves. Like your dedicated cook, but won't have mental breaks for silly reasons.</SelfCooking.description>
-  <MagneticTape.label>Magnetic tape</MagneticTape.label>
-  <MagneticTape.description>Learn how to make and use old-school magnetic tape to store instructions. Make data disks at the machining table.</MagneticTape.description>
-  <UniversalAutocrafting.label>universal auto-crafting</UniversalAutocrafting.label>
-  <UniversalAutocrafting.description>Make buildings that can craft recipes given to them via a recipe database. Like your dedicated crafter, but won't have mental breaks for silly reasons.</UniversalAutocrafting.description>
-  <SelfCorrectingAssemblers.label>self-correcting assemblers</SelfCorrectingAssemblers.label>
-  <SelfCorrectingAssemblers.description>Learn how to make a new type of assembler that slowly improves its crafting speed.</SelfCorrectingAssemblers.description>
-  <PRFEulersIdentity.label>Euler's identity</PRFEulersIdentity.label>
-  <PRFEulersIdentity.description>"π is pi, the ratio of the circumference of a circle to its diameter." Learn the very basics of automation and mechanisms, the gateway to an industrial colony. tier 1</PRFEulersIdentity.description>
-  <PRFMachineLearning.label>Machine learning</PRFMachineLearning.label>
-  <PRFMachineLearning.description>Teach machines how to improve their abilities by themselves. Unlocks the AI research bench. Also lets you craft drone modules at the robotic machining table.</PRFMachineLearning.description>
-  <PRFRollers.label>Belts and Rollers</PRFRollers.label>
-  <PRFRollers.description>Rollers and belts include both IR and PRF</PRFRollers.description>
-  <ADVrollers.label>Pullers And Pushers</ADVrollers.label>
-  <ADVrollers.description>pusher and pullers, include both IR and PRF</ADVrollers.description>
-  <AutomationBasics.label>Riemann zeta function</AutomationBasics.label>
-  <AutomationBasics.description>"The Riemann zeta function ζ(s), is a function of a complex variable s that analytically continues the sum of the Dirichlet series. which converges when the real part of s is greater than 1." Unlocks new set of second tier factory building options.</AutomationBasics.description>
-  <PRFGoldbachConjecture.label>Goldbach's conjecture</PRFGoldbachConjecture.label>
-  <PRFGoldbachConjecture.description>"Every even integer, greater than 2, can be formed from the sum of two prime numbers."\nUnlocks a new array of third tier research projects.</PRFGoldbachConjecture.description>
-  <EnhancedBatteries.label>enhanced batteries</EnhancedBatteries.label>
-  <EnhancedBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 4k and 10k battery cell.</EnhancedBatteries.description>
-  <LargeBatteries.label>large batteries</LargeBatteries.label>
-  <LargeBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 16k and 64k battery cell.</LargeBatteries.description>
-  <VeryLargeBatteries.label>very large batteries</VeryLargeBatteries.label>
-  <VeryLargeBatteries.description>Learn alternate methods of power storage, and create compact 100k and 256k battery cells for mass storage of power.</VeryLargeBatteries.description>
-  <FarmingSprinklers.label>Automatic farming I</FarmingSprinklers.label>
-  <FarmingSprinklers.description>Basic Cultivation tools with use of drone</FarmingSprinklers.description>
-  <AutomaticFarming1.label>Automatic farming II</AutomaticFarming1.label>
-  <AutomaticFarming1.description>Learn how to improve farming skills further by adding sunlamps and sprinklers to your cultivation.</AutomaticFarming1.description>
-  <AutomaticFarming.label>Automatic farming III</AutomaticFarming.label>
-  <AutomaticFarming.description>Learn how to farm in spacer style with use of Mechanites to farm plots for you</AutomaticFarming.description>
-  <AutonomousMining.label>Auger drill I</AutonomousMining.label>
-  <AutonomousMining.description>Make buildings that can extract random minerals and rocks from deep underground.(can cause infestation)</AutonomousMining.description>
-  <AutonomousMining_II.label>Pulse Drill II</AutonomousMining_II.label>
-  <AutonomousMining_II.description>Make buildings that can extract random minerals and rocks from deep underground.(can cause infestation)</AutonomousMining_II.description>
-  <AutonomousMining_III.label>Plasma Drill III</AutonomousMining_III.label>
-  <AutonomousMining_III.description>A advanced miner that can select a main ore to mine for and get secondaries as rare/junk bonus chance(no infestation)</AutonomousMining_III.description>
-  <PRFMetalRefining.label>Metal Refining</PRFMetalRefining.label>
-  <PRFMetalRefining.description>A metal refinery able to produce rare metals through polymer lamination, by combining Chemfuel with steel to greate Plasteel</PRFMetalRefining.description>
-  <PRFCrates.label>Wooden stockpile crates</PRFCrates.label>
-  <PRFCrates.description>Allows colonists to build large crates for more compact storage.</PRFCrates.description>
-  <PRFStorage.label>Steel stockpile crates</PRFStorage.label>
-  <PRFStorage.description>Allows colonists to build reinforced stockpile crates.</PRFStorage.description>
-  <PRFStorageIO.label>Wireless item Storage</PRFStorageIO.label>
-  <PRFStorageIO.description>Allows colonists to build cargo platforms and I/O ports. I/O ports can transfer items remotely to and from cargo platforms.</PRFStorageIO.description>
+  <PRF_AnimalStations.label>animal stations I</PRF_AnimalStations.label>
+  <PRF_AnimalStations.description>First tier animal station technology allows animals with harvestable resources to be harvested automatically.</PRF_AnimalStations.description>
+  <PRF_AnimalStationsII.label>animal stations II</PRF_AnimalStationsII.label>
+  <PRF_AnimalStationsII.description>Second tier animal station allows for more animal gathering and also auto animal slaugtering and breeding control.</PRF_AnimalStationsII.description>
+  <PRF_AnimalStationsIII.label>animal stations III</PRF_AnimalStationsIII.label>
+  <PRF_AnimalStationsIII.description>third tier animal station allows for more animal gathering and also auto animal slaugtering and breeding control.</PRF_AnimalStationsIII.description>
+  <PRF_SelfCooking.label>Self-cooking</PRF_SelfCooking.label>
+  <PRF_SelfCooking.description>Make buildings that can cook meals themselves. Like your dedicated cook, but won't have mental breaks for silly reasons.\nThis one will unlock simple food stuff and dedicated machines, good entry into automation.</PRF_SelfCooking.description>
+  <PRF_SelfCookingII.label>Improved Self-cooking</PRF_SelfCookingII.label>
+  <PRF_SelfCookingII.description>Our researchers have discovered a way to produce even better quality foods from our cookers.</PRF_SelfCookingII.description>
+  <PRF_MachineLearning.label>Machine learning</PRF_MachineLearning.label>
+  <PRF_MachineLearning.description>Teach machines how to improve their abilities by themselves. Unlocks the AI research bench. Also lets you craft drone modules at the robotic machining table.</PRF_MachineLearning.description>
+  <PRF_MagneticTape.label>Magnetic tape</PRF_MagneticTape.label>
+  <PRF_MagneticTape.description>Learn how to make and use old-school magnetic tape to store instructions. Make data disks at the machining table.</PRF_MagneticTape.description>
+  <PRF_MagneticTape.discoveredLetterTitle>About: Intro to recipe db.</PRF_MagneticTape.discoveredLetterTitle>
+  <PRF_MagneticTape.discoveredLetterText>You have learned how to make and use old-school magnetic tape to store instructions.\nMake data disks at the machining table.\n This is used to import recipes from any workbench into your recipe db.\n Your doing so by place it near a workbench and click import on those recipe you want it to store, afterwards you can move it to another workbench and copy more. Or you can move it to that Assembler you want to link to it.\n Recipes will be stored forever in your db. and you can safely move it around, please do know if you move it from your assemblers, they will loose their setup bills.</PRF_MagneticTape.discoveredLetterText>
+  <PRF_UniversalAutocrafting.label>universal auto-crafting</PRF_UniversalAutocrafting.label>
+  <PRF_UniversalAutocrafting.description>Make buildings that can craft recipes given to them via a recipe database. Like your dedicated crafter, but won't have mental breaks for silly reasons.</PRF_UniversalAutocrafting.description>
+  <PRF_UniversalAutocrafting.discoveredLetterTitle>About: Intro to assemblers</PRF_UniversalAutocrafting.discoveredLetterTitle>
+  <PRF_UniversalAutocrafting.discoveredLetterText>You have unlocked your first real type assembler, this is basicly a universal machine, that can produce anything your workbenches can do, you just copy bills with a recipe DB, and place it near your assembler to show recipes.\n Please note that it CAN'T return same item again so mods like Mend and Recycle will not work on assemblers, as it destroy products it takes in.\n\n This assembler have stats set to 10 this mean it can ONLY see recipes with lv 10 or less in DB., if you upgrade to next tier it will be smarter and have higher skill level.\n This Assembler have a fixed speed set and will not get better over time like next tier will.</PRF_UniversalAutocrafting.discoveredLetterText>
+  <PRF_SelfCorrectingAssemblers.label>self-correcting assemblers</PRF_SelfCorrectingAssemblers.label>
+  <PRF_SelfCorrectingAssemblers.description>Learn how to make a new type of assembler that slowly improves its crafting speed.</PRF_SelfCorrectingAssemblers.description>
+  <PRF_MetalRefining.label>Metal Refining</PRF_MetalRefining.label>
+  <PRF_MetalRefining.description>A metal refinery able to produce rare metals through polymer lamination, by combining Chemfuel with steel to greate Plasteel</PRF_MetalRefining.description>
+  <PRF_EnhancedBatteries.label>enhanced batteries</PRF_EnhancedBatteries.label>
+  <PRF_EnhancedBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 4k battery cell.</PRF_EnhancedBatteries.description>
+  <PRF_LargeBatteries.label>large batteries</PRF_LargeBatteries.label>
+  <PRF_LargeBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 16k and 64k battery cell.</PRF_LargeBatteries.description>
+  <PRF_VeryLargeBatteries.label>very large batteries</PRF_VeryLargeBatteries.label>
+  <PRF_VeryLargeBatteries.description>Learn alternate methods of power storage, and create 256k battery cells for mass storage of power.</PRF_VeryLargeBatteries.description>
+  <PRF_CoreTierO.label>Clockwork Principle</PRF_CoreTierO.label>
+  <PRF_CoreTierO.description>Automation begins here. Trash, raw material, or scrap metal goes in one side and useful products come out the other.\nCogs and chutes powered by wood and coal.</PRF_CoreTierO.description>
+  <PRF_CoreTierO.discoveredLetterTitle>Early Automation huh?</PRF_CoreTierO.discoveredLetterTitle>
+  <PRF_CoreTierO.discoveredLetterText>Welcome to Project RimFactory Beta!\n\nWe invite you on a trip through automation, starting with wood and coal fueled smelters and advancing through AI-controlled self-improving assemblers.\n\nGeneral Usage: Store materials in the white designation Input area for the machine to consume. After a bit of work, the machine will place the finished product on it's yellow Output tile.\n\nThe oldest known clockwork machine is the Antikythera mechanism, found in 1901 in a shipwreck dated at 50BC and Greek in origin. A series of 30 gears was used to predict eclipses and other astronomical phenomenon as well as the passage of years. Advanced clockwork mechanisms reached new heights in Europe during the 1800s, and even today automation without computers is used in industry.\n\nCode by:spdskatr, Nobo, Abnerchen, Little White Mouse, Madara Uchiha, Sn1p3rr3c0n.\nArt by: ShotgunFrenzy, Chicken Plucker, Xen, Scythe, totoBrother, "Unknown Alien", Argon, spdskatr, Thornsworth.\nTested by Malkav, Extrien, Daemon976, AerosAtar, and the mandatory Steam volunteers.\nTranslated by: Natsu_Zirok, 十里小飞, AbnerChen, Lucas559-noob\nSpecial thanks Thornsworth and Nobo, who are no longer with us.\nRest In Productivity.</PRF_CoreTierO.discoveredLetterText>
+  <PRF_CoreTierI.label>Euler's identity</PRF_CoreTierI.label>
+  <PRF_CoreTierI.description>"π is pi, the ratio of the circumference of a circle to its diameter." Learn the basics of automation and mechanisms, the gateway to an industrialized colony.
+    \nDevelop the mathematical models necessary to further automate simple processes with electricity such as stonecutting and cooking.</PRF_CoreTierI.description>
+  <PRF_CoreTierI.discoveredLetterTitle>True Automation begins</PRF_CoreTierI.discoveredLetterTitle>
+  <PRF_CoreTierI.discoveredLetterText>Leonard Euler developed mathematical systems for interactions between physics, geometry and algebra.\nWith these formulas, automated production of basic materials such as stone bricks and simple art is possible.\nPlace items within the white designation for the bills to consume, they will be output to the adjustable green tile</PRF_CoreTierI.discoveredLetterText>
+  <PRF_CoreTierII.label>Moritz Machinery</PRF_CoreTierII.label>
+  <PRF_CoreTierII.description>A machine that can predict outcomes will solve many of the design flaws we have been facing. Imagine a machine that could improve itself...
+    \nWe will need an AI research bench to go further.</PRF_CoreTierII.description>
+  <PRF_CoreTierII.discoveredLetterTitle>About: Tier 2 Factory Unlocked</PRF_CoreTierII.discoveredLetterTitle>
+  <PRF_CoreTierII.discoveredLetterText>The mathematical models developed in the 1700s began an industrial revolution all of the world, series of gears and pressurization allowed the mass processing of basic materials with coal and electricity. 
+      \nMoritz von Jacobi managed to propel a boat with an electric motor in 1845, but it wasn't until 1837 when Thomas and Emily Dacenport patented the first motor in the US that the promise of electro-mechanical machinery was seen as the next big leap forward
+      \nRudimentary programming allows storing a bill on a Recipe Database and importing it into an assembler.
+      \n-The blue region around assemblers and recipe databases indicate the data transfer area
+    </PRF_CoreTierII.discoveredLetterText>
+  <PRF_CoreTierIII.label>Turing implementation</PRF_CoreTierIII.label>
+  <PRF_CoreTierIII.description>Anything can be described as a series of 1s and 0s as long as there enough 1s and 0s</PRF_CoreTierIII.description>
+  <PRF_CoreTierIII.discoveredLetterTitle>About: Tier 3 Factory Unlocked</PRF_CoreTierIII.discoveredLetterTitle>
+  <PRF_CoreTierIII.discoveredLetterText>Refinements to machinery allow sophisticated machines, such as those that self-correct (get faster the more time they complete a job), drills with object recognition to only mine what you want and the first mechanite swarm technologies.
+    \n-mechanite machines interact with a couple random tiles in the area every second.</PRF_CoreTierIII.discoveredLetterText>
+  <PRF_CoreTierIV.label>Quantum Bit technology</PRF_CoreTierIV.label>
+  <PRF_CoreTierIV.description>Leveraging the quantum nature of reality itself to solve exponentially more demanding computational problems.</PRF_CoreTierIV.description>
+  <PRF_CoreTierIV.discoveredLetterTitle>Quantum Computing: Tier 4 Factory Unlocked</PRF_CoreTierIV.discoveredLetterTitle>
+  <PRF_CoreTierIV.discoveredLetterText>Qubit technology is all about advanced computing, highend machines and technolegy, this might even be on the brinck of insanity? whats next?!¤%.
+      \nDrop us suggestions on our Workshop page. 
+      \n\nThanks for playing!</PRF_CoreTierIV.discoveredLetterText>
+  <PRF_BeltsI.label>Basic Conveyors</PRF_BeltsI.label>
+  <PRF_BeltsI.description>Hauling thing within a factory can be dangerous and tedious, Conveyor belts take care of it.\nUnlocks: belts and fueling machines.</PRF_BeltsI.description>
+  <PRF_BeltsII.label>Basic Item Sorting</PRF_BeltsII.label>
+  <PRF_BeltsII.description>Directing things to the area of the factory it belongs to will streamline and diversify the factory layout.\nUnlocks: Simple puller, Growzone puller and Belt splitter for normal belts.</PRF_BeltsII.description>
+  <PRF_BeltsIII.label>Advanced Item Sorting</PRF_BeltsIII.label>
+  <PRF_BeltsIII.description>More sophisticed logistical implementation allows advanced itemsorting.\nUnlocks: Wall-, UnderGround belts and splitters. Smart hoppers, mkII-, angle- and wall pullers. For your advanced item management.</PRF_BeltsIII.description>
+  <PRF_AutomaticFarmingI.label>Automated Farming Technique</PRF_AutomaticFarmingI.label>
+  <PRF_AutomaticFarmingI.description>An agricultural drone is an unmanned aerial vehicle used to help optimize agriculture operations, increase crop production, and monitor crop growth. Sensors and digital imaging capabilities can give farmers a richer picture of their fields.</PRF_AutomaticFarmingI.description>
+  <PRF_AutomaticFarmingII.label>Improved Farming Techniques</PRF_AutomaticFarmingII.label>
+  <PRF_AutomaticFarmingII.description>Further Improvements to agricultural drones have made them more efficient and they can now haul harvest to storage or belts. This also unlocks sprinklers which boost crop speed.</PRF_AutomaticFarmingII.description>
+  <PRF_AutomaticFarmingIII.label>Advanced Farming Techniques</PRF_AutomaticFarmingIII.label>
+  <PRF_AutomaticFarmingIII.description>With advanced use of Mechanites and improved Ai control, Cultivators can now work even without drones or with a buffed drone version. Sprinklers also work faster now.</PRF_AutomaticFarmingIII.description>
+  <PRF_BasicDrones.label>Basic Drone knowledge</PRF_BasicDrones.label>
+  <PRF_BasicDrones.description>The first pilotless vehicles were built during the First World War. These early models were launched by catapult or flown using radio control. Much have changed since then and drones are now used for more common tasks.\nThis sets drones basestats lv. 10</PRF_BasicDrones.description>
+  <PRF_BasicDrones.discoveredLetterTitle>About: Drone are now lv 10</PRF_BasicDrones.discoveredLetterTitle>
+  <PRF_BasicDrones.discoveredLetterText>You now have basic knowledge about drones and can now start utilize them for different tasks. This also unlocks DroneCultivator research which let you Automate your agriculture needs. \n This will set any drones base level to 10. \n Unless other settings for specific dronestation is specified.</PRF_BasicDrones.discoveredLetterText>
+  <PRF_ImprovedDrones.label>Improved Drone engines</PRF_ImprovedDrones.label>
+  <PRF_ImprovedDrones.description>Further improvements for drones have now enabled use of more drones and with a greater control over task it can perform.\nThis sets drones basestats lv. 15</PRF_ImprovedDrones.description>
+  <PRF_ImprovedDrones.discoveredLetterTitle>About: Drone are now lv 15</PRF_ImprovedDrones.discoveredLetterTitle>
+  <PRF_ImprovedDrones.discoveredLetterText>You have upgraded your drones with better engines and batteries and as such they now do jobs even more efficient. \n This will set any drones base level to 15. \n Unless other settings for specific dronestation is specified.</PRF_ImprovedDrones.discoveredLetterText>
+  <PRF_AdvancedDrones.label>Advanced Drone Ai</PRF_AdvancedDrones.label>
+  <PRF_AdvancedDrones.description>Perfectly aerodynamics higher power engines and Ai have created a perfectly balanced super drone that will perform tasks better than most pawns ever will.\nThis sets drones basestats lv. 20</PRF_AdvancedDrones.description>
+  <PRF_AdvancedDrones.discoveredLetterTitle>About: Drone are now lv 20</PRF_AdvancedDrones.discoveredLetterTitle>
+  <PRF_AdvancedDrones.discoveredLetterText>You have upgraded your drones with advanced Ai cores, this will let them do their task better than most humans will do. \n This will set any drones base level to 20. \n Unless other settings for specific dronestation is specified.</PRF_AdvancedDrones.discoveredLetterText>
+  <PRF_AutonomousMining.label>Auger drill I</PRF_AutonomousMining.label>
+  <PRF_AutonomousMining.description>Make buildings that can extract random minerals and rocks from deep underground.(can cause infestation)</PRF_AutonomousMining.description>
+  <PRF_AutonomousMining.discoveredLetterTitle>About: Intro to autominers</PRF_AutonomousMining.discoveredLetterTitle>
+  <PRF_AutonomousMining.discoveredLetterText>You have now Researched Auger drill I with this you have unlocked tier 1 auto miner.\n This miner will mine up random items over time, it can start infestation like vanilla drills.\n\n Tier 2 miner is same type of miner its just faster and will mine steel instead of slag.\n\n Tier3 have 2 types of miners. 1. is a random miner like 2 previous, it will mine random rare ores up (no stone chunks)\n type 2. is a new type of miner where you can set exactly what type of ore you want, it will mine mainly that one, but will have a chance to mine junk and rare ores too. \n\n if you want unbalanced mode for miner and ALL ores unlocked go to modsettings and turn it on.</PRF_AutonomousMining.discoveredLetterText>
+  <PRF_AutonomousMiningII.label>Pulse Drill II</PRF_AutonomousMiningII.label>
+  <PRF_AutonomousMiningII.description>Make buildings that can extract random minerals and rocks from deep underground.(can cause infestation)</PRF_AutonomousMiningII.description>
+  <PRF_AutonomousMiningIII.label>Plasma Drill III</PRF_AutonomousMiningIII.label>
+  <PRF_AutonomousMiningIII.description>A advanced miner that can select a main ore to mine for and get secondaries as rare/junk bonus chance(no infestation)</PRF_AutonomousMiningIII.description>
+  <PRF_SALResearchI.label>S.A.L Autonomous crafting I</PRF_SALResearchI.label>
+  <PRF_SALResearchI.description>Start to learn how to program machines to be able to perform skilled labor.</PRF_SALResearchI.description>
+  <PRF_SALResearchI.discoveredLetterTitle>About: S.A.L automation robots</PRF_SALResearchI.discoveredLetterTitle>
+  <PRF_SALResearchI.discoveredLetterText>With this Research you have unlocked S.A.L automation robots.\nTheese are a placeable robots you place on a workbench workercell, then they will start doing work on that bench.\n\nThis is added as a Tribute to S.A.L mod which where what Project RimFactory started as before it became assemblers as we know them today in PRF.\nSettings and most things are taken directly from S.A.L mod but might be changed/tweaked later. Also it does not include miner, be feel free to ask if you think we miss them.</PRF_SALResearchI.discoveredLetterText>
+  <PRF_SALResearchII.label>S.A.L autonomous crafting II</PRF_SALResearchII.label>
+  <PRF_SALResearchII.description>Start to learn how to program more advanced machines to be able to craft faster, better, and more accurately.</PRF_SALResearchII.description>
+  <PRF_SALResearchIII.label>S.A.L. Specialisation</PRF_SALResearchIII.label>
+  <PRF_SALResearchIII.description>Start to learn how to specialise and create different auto-assemblers with different roles.</PRF_SALResearchIII.description>
+  <PRF_SALResearchIV.label>S.A.L Art I</PRF_SALResearchIV.label>
+  <PRF_SALResearchIV.description>Learn the ways of hypercomputing and neural networks, allowing machines to create proper semi-decent art.</PRF_SALResearchIV.description>
+  <PRF_SALResearchV.label>S.A.L Art II</PRF_SALResearchV.label>
+  <PRF_SALResearchV.description>Combined with overclocking, make your neural networks react much faster, improving quality of art.</PRF_SALResearchV.description>
+  <PRF_SALResearchVII.label>autonomous cooking</PRF_SALResearchVII.label>
+  <PRF_SALResearchVII.description>Learn how to give auto-assemblers enough dexterity and precision for them to become cooks.</PRF_SALResearchVII.description>
+  <PRF_SALResearchVI.label>S.A.L Autonomous overclocking I</PRF_SALResearchVI.label>
+  <PRF_SALResearchVI.description>S.A.L. machines often work too slowly for repetitive tasks where quality doesn't matter. Learn how to speed them up at the cost of quality.</PRF_SALResearchVI.description>
+  <PRF_SALResearchVIII.label>S.A.L Autonomous overclocking II</PRF_SALResearchVIII.label>
+  <PRF_SALResearchVIII.description>Increases to servo speed and internal visualisation computers allow this S.A.L crafter to work even faster than before</PRF_SALResearchVIII.description>
+  <PRF_SALGodlyCrafting.label>S.A.L Godly Crafting</PRF_SALGodlyCrafting.label>
+  <PRF_SALGodlyCrafting.description>A godlike crafter made with insane amounts of materials, you may run out of resources before you can turn this crafter off, this might be on edge to insanity, is this even safe?!</PRF_SALGodlyCrafting.description>
+  <PRF_Crates.label>Wooden stockpile crates</PRF_Crates.label>
+  <PRF_Crates.description>Rudimentary storage boxes allow many stacks of items to stay organized and space efficient.</PRF_Crates.description>
+  <PRF_SteelCrates.label>Steel stockpile crates</PRF_SteelCrates.label>
+  <PRF_SteelCrates.description>stronger materials means better stacking, even more items can fit into these crates for many good reasons i swear</PRF_SteelCrates.description>
+  <PRF_StorageIO.label>Thornsworth Holography</PRF_StorageIO.label>
+  <PRF_StorageIO.description>The holographam artist Thornsworth, despite growing blindness, continued producing masterpieces for many years, and when holographic data storage was finally perfected, he was instrumental in developing Holographic Item Storage.\nAllows Items to be stored wirelessly in a Digital Storage Unit. Can be send to any I/O port on map, and recieve items from I/O ports too.\n\nYou will be missed, Thornsworth.</PRF_StorageIO.description>
 </LanguageData>

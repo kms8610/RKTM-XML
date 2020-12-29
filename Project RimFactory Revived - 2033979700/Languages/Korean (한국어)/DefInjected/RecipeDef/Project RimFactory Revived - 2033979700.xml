@@ -15,15 +15,21 @@
   <MakeDataDisk.label>make data disk</MakeDataDisk.label>
   <MakeDataDisk.description>Make a roll of magnetic data tape.</MakeDataDisk.description>
   <MakeDataDisk.jobString>Making data disk.</MakeDataDisk.jobString>
-  <MakePRFRoboticArm.label>make robotic arm</MakePRFRoboticArm.label>
-  <MakePRFRoboticArm.description>Make robotic arm</MakePRFRoboticArm.description>
-  <MakePRFRoboticArm.jobString>Making robotic arm</MakePRFRoboticArm.jobString>
-  <MakePRFWeakAIChip.label>make weak AI chip</MakePRFWeakAIChip.label>
-  <MakePRFWeakAIChip.description>Make weak AI chip</MakePRFWeakAIChip.description>
-  <MakePRFWeakAIChip.jobString>Making weak AI chip</MakePRFWeakAIChip.jobString>
-  <MakePRFDroneModule.label>make drone module</MakePRFDroneModule.label>
-  <MakePRFDroneModule.description>Make drone module</MakePRFDroneModule.description>
-  <MakePRFDroneModule.jobString>Making drone module</MakePRFDroneModule.jobString>
+  <MakePRF_RoboticArm.label>make robotic arm</MakePRF_RoboticArm.label>
+  <MakePRF_RoboticArm.description>Make robotic arm</MakePRF_RoboticArm.description>
+  <MakePRF_RoboticArm.jobString>Making robotic arm</MakePRF_RoboticArm.jobString>
+  <MakePRF_ElectronicChip_I.label>make weak AI chip</MakePRF_ElectronicChip_I.label>
+  <MakePRF_ElectronicChip_I.description>Make weak AI chip</MakePRF_ElectronicChip_I.description>
+  <MakePRF_ElectronicChip_I.jobString>Making weak AI chip</MakePRF_ElectronicChip_I.jobString>
+  <MakePRF_ElectronicChip_II.label>make Adv. AI core</MakePRF_ElectronicChip_II.label>
+  <MakePRF_ElectronicChip_II.description>Make Adv. AI core</MakePRF_ElectronicChip_II.description>
+  <MakePRF_ElectronicChip_II.jobString>Making Adv. AI core</MakePRF_ElectronicChip_II.jobString>
+  <MakePRF_ElectronicChip_III.label>make qubit processor</MakePRF_ElectronicChip_III.label>
+  <MakePRF_ElectronicChip_III.description>Make qubit processor</MakePRF_ElectronicChip_III.description>
+  <MakePRF_ElectronicChip_III.jobString>Making qubit processor</MakePRF_ElectronicChip_III.jobString>
+  <MakePRF_DroneModule.label>make drone module</MakePRF_DroneModule.label>
+  <MakePRF_DroneModule.description>Make drone module</MakePRF_DroneModule.description>
+  <MakePRF_DroneModule.jobString>Making drone module</MakePRF_DroneModule.jobString>
   <MakeSmallFrame.label>make simple machine frame</MakeSmallFrame.label>
   <MakeSmallFrame.description>Make a small machine frames for factory buildings</MakeSmallFrame.description>
   <MakeSmallFrame.jobString>Making frame</MakeSmallFrame.jobString>
@@ -39,9 +45,39 @@
   <MakeNutrientPasteBulk.label>cook Nutrient paste meal x10</MakeNutrientPasteBulk.label>
   <MakeNutrientPasteBulk.description>Make a batch of 10 nutrient paste meals by extracting nutrients from raw food.</MakeNutrientPasteBulk.description>
   <MakeNutrientPasteBulk.jobString>Cooking nutrient paste meals in bulk.</MakeNutrientPasteBulk.jobString>
+  <PRF_Excavate_Granite.label>mine granite</PRF_Excavate_Granite.label>
+  <PRF_Excavate_Granite.description>mining granite.</PRF_Excavate_Granite.description>
+  <PRF_Excavate_Granite.jobString>Mining granite</PRF_Excavate_Granite.jobString>
+  <PRF_Excavate_Sandstone.label>mine sandstone</PRF_Excavate_Sandstone.label>
+  <PRF_Excavate_Sandstone.description>mining sandstone.</PRF_Excavate_Sandstone.description>
+  <PRF_Excavate_Sandstone.jobString>Mining sandstone</PRF_Excavate_Sandstone.jobString>
+  <PRF_Excavate_Limestone.label>mine limestone</PRF_Excavate_Limestone.label>
+  <PRF_Excavate_Limestone.description>mining limestone.</PRF_Excavate_Limestone.description>
+  <PRF_Excavate_Limestone.jobString>Mining limestone</PRF_Excavate_Limestone.jobString>
+  <PRF_Excavate_Slate.label>mine slate</PRF_Excavate_Slate.label>
+  <PRF_Excavate_Slate.description>mining slate.</PRF_Excavate_Slate.description>
+  <PRF_Excavate_Slate.jobString>Mining slate</PRF_Excavate_Slate.jobString>
+  <PRF_Excavate_Marble.label>mine marble</PRF_Excavate_Marble.label>
+  <PRF_Excavate_Marble.description>mining marble.</PRF_Excavate_Marble.description>
+  <PRF_Excavate_Marble.jobString>Mining marble</PRF_Excavate_Marble.jobString>
   <PRF_RefinePlasteel.label>Refine plasteel</PRF_RefinePlasteel.label>
   <PRF_RefinePlasteel.description>Refine plasteel from chemfuel and steel.</PRF_RefinePlasteel.description>
   <PRF_RefinePlasteel.jobString>Refining plasteel</PRF_RefinePlasteel.jobString>
+  <PRF_MetalFromSlagBulk.label>smelt metal from slag in bulk</PRF_MetalFromSlagBulk.label>
+  <PRF_MetalFromSlagBulk.description>Use heat and strong electromagnets to extract useful metal from slag chunks in bulk.</PRF_MetalFromSlagBulk.description>
+  <PRF_MetalFromSlagBulk.jobString>Smelting metal from slag.</PRF_MetalFromSlagBulk.jobString>
+  <PRF_StoneBlocksAnyBulk.label>make any stone blocks in bulk</PRF_StoneBlocksAnyBulk.label>
+  <PRF_StoneBlocksAnyBulk.description>Cut rock chunks into usable stone blocks in bulk.</PRF_StoneBlocksAnyBulk.description>
+  <PRF_SandstoneBlocksBulk.label>make sandstone blocks in bulk</PRF_SandstoneBlocksBulk.label>
+  <PRF_SandstoneBlocksBulk.description>Cut sandstone chunks into usable sandstone blocks in bulk.</PRF_SandstoneBlocksBulk.description>
+  <PRF_GraniteBlocksBulk.label>make granite blocks in bulk</PRF_GraniteBlocksBulk.label>
+  <PRF_GraniteBlocksBulk.description>Cut granite chunks into usable granite blocks in bulk.</PRF_GraniteBlocksBulk.description>
+  <PRF_LimestoneBlocksBulk.label>make limestone blocks in bulk</PRF_LimestoneBlocksBulk.label>
+  <PRF_LimestoneBlocksBulk.description>Cut limestone chunks into usable limestone blocks in bulk.</PRF_LimestoneBlocksBulk.description>
+  <PRF_SlateBlocksBulk.label>make slate blocks in bulk</PRF_SlateBlocksBulk.label>
+  <PRF_SlateBlocksBulk.description>Cut slate chunks into usable slate blocks in bulk.</PRF_SlateBlocksBulk.description>
+  <PRF_MarbleBlocksBulk.label>make marble blocks in bulk</PRF_MarbleBlocksBulk.label>
+  <PRF_MarbleBlocksBulk.description>Cut marble chunks into usable marble blocks in bulk.</PRF_MarbleBlocksBulk.description>
   <PRF_Recycle_Apparel.label>Recycle apparel</PRF_Recycle_Apparel.label>
   <PRF_Recycle_Apparel.description>Recycle apparel back to raw resources.</PRF_Recycle_Apparel.description>
   <PRF_Recycle_Apparel.jobString>Recycling apparel.</PRF_Recycle_Apparel.jobString>
@@ -51,4 +87,43 @@
   <PRF_Destroy_Chunks.label>Destroy Stone Chunks</PRF_Destroy_Chunks.label>
   <PRF_Destroy_Chunks.description>Crush unwanted stone chunks to completely destroy it.</PRF_Destroy_Chunks.description>
   <PRF_Destroy_Chunks.jobString>Chrushing</PRF_Destroy_Chunks.jobString>
+  <PRF_Destroy_Anything.label>Destroy Anything</PRF_Destroy_Anything.label>
+  <PRF_Destroy_Anything.description>Destroy anything this will remove any unwanted stuff quickly.\n Set filters before destroy anything.</PRF_Destroy_Anything.description>
+  <PRF_Destroy_Anything.jobString>Pulverizing stuff..</PRF_Destroy_Anything.jobString>
+  <Make_PRF_FishFood.label>make fish food</Make_PRF_FishFood.label>
+  <Make_PRF_FishFood.description>Make fish food by combining raw meat and plants.</Make_PRF_FishFood.description>
+  <Make_PRF_FishFood.jobString>Making fish food.</Make_PRF_FishFood.jobString>
+  <PRF_FreshwaterFish.label>grow freshwater fish</PRF_FreshwaterFish.label>
+  <PRF_FreshwaterFish.description>Start process of farming freshwater fish.</PRF_FreshwaterFish.description>
+  <PRF_FreshwaterFish.jobString>farming fish.</PRF_FreshwaterFish.jobString>
+  <PRF_OceanwaterFish.label>grow oceanwater fish</PRF_OceanwaterFish.label>
+  <PRF_OceanwaterFish.description>Start process of farming oceanwater fish.</PRF_OceanwaterFish.description>
+  <PRF_OceanwaterFish.jobString>farming fish.</PRF_OceanwaterFish.jobString>
+  <Brew_VBE_AmbrandyNormal.label>Brew Ambrandy x10</Brew_VBE_AmbrandyNormal.label>
+  <Brew_VBE_AmbrandyNormal.description>Brew Ambrandy x10</Brew_VBE_AmbrandyNormal.description>
+  <Brew_VBE_AmbrandyNormal.jobString>Brewing Ambrandy</Brew_VBE_AmbrandyNormal.jobString>
+  <Brew_VBE_Gin.label>Brew Gin x10</Brew_VBE_Gin.label>
+  <Brew_VBE_Gin.description>Brew Gin x10</Brew_VBE_Gin.description>
+  <Brew_VBE_Gin.jobString>Brewing Gin</Brew_VBE_Gin.jobString>
+  <Brew_VBE_Tequila.label>Brew Tequila x10</Brew_VBE_Tequila.label>
+  <Brew_VBE_Tequila.description>Brew Tequila x10</Brew_VBE_Tequila.description>
+  <Brew_VBE_Tequila.jobString>Brewing Tequila</Brew_VBE_Tequila.jobString>
+  <Brew_VBE_Vodka.label>Brew Vodka x10</Brew_VBE_Vodka.label>
+  <Brew_VBE_Vodka.description>Brew Vodka x10</Brew_VBE_Vodka.description>
+  <Brew_VBE_Vodka.jobString>Brewing Vodka</Brew_VBE_Vodka.jobString>
+  <Brew_VBE_Whiskey.label>Brew Whiskey x10</Brew_VBE_Whiskey.label>
+  <Brew_VBE_Whiskey.description>Brew Whiskey x10</Brew_VBE_Whiskey.description>
+  <Brew_VBE_Whiskey.jobString>Brewing Whiskey</Brew_VBE_Whiskey.jobString>
+  <Brew_VBE_Soda.label>Brew Soda x10</Brew_VBE_Soda.label>
+  <Brew_VBE_Soda.description>Brew Soda x10</Brew_VBE_Soda.description>
+  <Brew_VBE_Soda.jobString>Brewing Soda</Brew_VBE_Soda.jobString>
+  <Brew_VBE_Cider.label>Brew Cider x10</Brew_VBE_Cider.label>
+  <Brew_VBE_Cider.description>Brew Cider x10</Brew_VBE_Cider.description>
+  <Brew_VBE_Cider.jobString>Brewing Cider</Brew_VBE_Cider.jobString>
+  <Brew_VFEM_Wine.label>Brew Wine x10</Brew_VFEM_Wine.label>
+  <Brew_VFEM_Wine.description>Brew Wine x10</Brew_VFEM_Wine.description>
+  <Brew_VFEM_Wine.jobString>Brewing Wine</Brew_VFEM_Wine.jobString>
+  <Brew_VFEV_Mead.label>Brew Mead x10</Brew_VFEV_Mead.label>
+  <Brew_VFEV_Mead.description>Brew Mead x10</Brew_VFEV_Mead.description>
+  <Brew_VFEV_Mead.jobString>Brewing Mead</Brew_VFEV_Mead.jobString>
 </LanguageData>
