@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShipCombat.label>space combat</ShipCombat.label>
+  <ShipCombat.rulePack.rulesStrings.0>tale_noun->an attack on [PAWN_nameDef]'s [Community]</ShipCombat.rulePack.rulesStrings.0>
+  <ShipCombat.rulePack.rulesStrings.1>tale_noun->an assault on [PAWN_nameDef]'s [Community]</ShipCombat.rulePack.rulesStrings.1>
+  <ShipCombat.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef]'s [Community] being attacked by [Enemy]s</ShipCombat.rulePack.rulesStrings.2>
+  <ShipCombat.rulePack.rulesStrings.3>image->[Quantity_adjphrase] [Enemy]s [circumstance_phrase]</ShipCombat.rulePack.rulesStrings.3>
+  <ShipCombat.rulePack.rulesStrings.4>image->an army [circumstance_phrase]</ShipCombat.rulePack.rulesStrings.4>
+  <ShipCombat.rulePack.rulesStrings.5>image->an overwhelming force [circumstance_phrase]</ShipCombat.rulePack.rulesStrings.5>
+  <ShipCombat.rulePack.rulesStrings.6>image->an invading force [circumstance_phrase]</ShipCombat.rulePack.rulesStrings.6>
+  <ShipCombat.rulePack.rulesStrings.7>image->stylized [Color] banners [circumstance_phrase]</ShipCombat.rulePack.rulesStrings.7>
+  <ShipCombat.rulePack.rulesStrings.8>image->an enormous [Enemy] [circumstance_phrase]</ShipCombat.rulePack.rulesStrings.8>
+  <ShipCombat.rulePack.rulesStrings.9>circumstance_phrase->advancing over a [TerrainFeature]</ShipCombat.rulePack.rulesStrings.9>
+  <ShipCombat.rulePack.rulesStrings.10>circumstance_phrase->completely encircling a [Community]</ShipCombat.rulePack.rulesStrings.10>
+  <ShipCombat.rulePack.rulesStrings.11>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</ShipCombat.rulePack.rulesStrings.11>
+  <ShipCombat.rulePack.rulesStrings.12>circumstance_phrase->roaring in victory</ShipCombat.rulePack.rulesStrings.12>
+  <ShipCombat.rulePack.rulesStrings.13>circumstance_phrase->brandishing [Weapon]s</ShipCombat.rulePack.rulesStrings.13>
+  <ShipCombat.rulePack.rulesStrings.14>circumstance_phrase->covered in [Gore]</ShipCombat.rulePack.rulesStrings.14>
+  <ShipCombat.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef] organizes a resistance while [defender_circumstance].</ShipCombat.rulePack.rulesStrings.15>
+  <ShipCombat.rulePack.rulesStrings.16>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while [defender_circumstance].</ShipCombat.rulePack.rulesStrings.16>
+  <ShipCombat.rulePack.rulesStrings.17>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</ShipCombat.rulePack.rulesStrings.17>
+  <ShipCombat.rulePack.rulesStrings.18>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] while [defender_circumstance].</ShipCombat.rulePack.rulesStrings.18>
+  <ShipCombat.rulePack.rulesStrings.19>desc_sentence->[PAWN_nameDef] stands as tall as a building, [defender_circumstance].</ShipCombat.rulePack.rulesStrings.19>
+  <ShipCombat.rulePack.rulesStrings.20>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</ShipCombat.rulePack.rulesStrings.20>
+  <ShipCombat.rulePack.rulesStrings.21>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</ShipCombat.rulePack.rulesStrings.21>
+  <ShipCombat.rulePack.rulesStrings.22>desc_sentence->The ground is coated in [Gore].</ShipCombat.rulePack.rulesStrings.22>
+  <ShipCombat.rulePack.rulesStrings.23>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</ShipCombat.rulePack.rulesStrings.23>
+  <ShipCombat.rulePack.rulesStrings.24>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</ShipCombat.rulePack.rulesStrings.24>
+  <ShipCombat.rulePack.rulesStrings.25>defender_circumstance->shouting triumphantly</ShipCombat.rulePack.rulesStrings.25>
+  <ShipCombat.rulePack.rulesStrings.26>defender_circumstance->glowing [Color]</ShipCombat.rulePack.rulesStrings.26>
+  <ShipCombat.rulePack.rulesStrings.27>defender_circumstance->raising a fist in defiance</ShipCombat.rulePack.rulesStrings.27>
+  <ShipCombat.rulePack.rulesStrings.28>defender_circumstance->flexing [PAWN_possessive] muscles</ShipCombat.rulePack.rulesStrings.28>
+</LanguageData>

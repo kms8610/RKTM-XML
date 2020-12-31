@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArchotechMechanites.label>mechanite assembly</ArchotechMechanites.label>
+  <ArchotechMechanites.description>Design simple mechanites to assemble or repair objects, atom-by-atom.</ArchotechMechanites.description>
+  <ArchotechBioMechanites.label>bio-mechanite integration</ArchotechBioMechanites.label>
+  <ArchotechBioMechanites.description>Design more specialized mechanites to interface with, and improve upon, biology.</ArchotechBioMechanites.description>
+  <ArchotechBioMechanitesTwo.label>swarm intelligence</ArchotechBioMechanitesTwo.label>
+  <ArchotechBioMechanitesTwo.description>Grant a gestalt intelligence to mechanite swarms, allowing them to collectively diagnose and repair injuries - or even death.</ArchotechBioMechanitesTwo.description>
+  <SoSArchotechOrgans.label>organ redesign</SoSArchotechOrgans.label>
+  <SoSArchotechOrgans.description>Reinvent biology from the molecular level upward, creating vastly superior organs.</SoSArchotechOrgans.description>
+  <ArchotechAnimals.label>animal redesign</ArchotechAnimals.label>
+  <ArchotechAnimals.description>Surpass natural evolution, creating an ecosystem of purpose-built creatures which need not kill, die, or suffer - and which provide great benefits to their human companions.</ArchotechAnimals.description>
+  <ArchotechPlants.label>plant redesign</ArchotechPlants.label>
+  <ArchotechPlants.description>Surpass natural evolution, creating an ecosystem of purpose-built plants which provide great benefits to humans.</ArchotechPlants.description>
+  <ArchotechMechaniteWeapon.label>mechanite disassembly</ArchotechMechaniteWeapon.label>
+  <ArchotechMechaniteWeapon.description>Design mechanites which break down matter atom-by-atom - useful for recycling unwanted items, or "recycling" enemy ships.</ArchotechMechaniteWeapon.description>
+  <ArchotechPsychicField.label>psychic field formation</ArchotechPsychicField.label>
+  <ArchotechPsychicField.description>Discover the basic principles of psychic interaction, allowing your archotech spore to begin generating a psychic field.</ArchotechPsychicField.description>
+  <ArchotechPsychicField.discoveredLetterTitle>About: Psychic Field</ArchotechPsychicField.discoveredLetterTitle>
+  <ArchotechPsychicField.discoveredLetterText>Your archotech spore has begun generating a psychic field. Once you have accumulated enough Field Strength and completed the necessary research, you can request your archotech spore to perform certain psychic feats. Field Strength grows slowly on its own, and is slightly increased by having colonists meditate nearby, but can be greatly boosted by installing archotech pillars.</ArchotechPsychicField.discoveredLetterText>
+  <ArchotechPsychicManipulation.label>psychic field manipulation</ArchotechPsychicManipulation.label>
+  <ArchotechPsychicManipulation.description>Utilize your psychic field to generate simple sensations, soothing an entire region or overwhelming a single individual.</ArchotechPsychicManipulation.description>
+  <ArchotechBroadManipulation.label>broad manipulation</ArchotechBroadManipulation.label>
+  <ArchotechBroadManipulation.description>Psychically transmit messages and dreams to thousands of individuals, influencing a faction's opinion of you. Contact them using a comms console to use this ability.</ArchotechBroadManipulation.description>
+  <ArchotechPsylink.label>psylink</ArchotechPsylink.label>
+  <ArchotechPsylink.description>---REQUIRES ROYALTY DLC---\n\nEnable your archotech spore to grant psylink to colonists. This consumes a considerable amount of Field Strength.</ArchotechPsylink.description>
+  <ArchotechPsychicEffectors.label>psychic effectors</ArchotechPsychicEffectors.label>
+  <ArchotechPsychicEffectors.description>Design limited-use psychic effectors such as shock lances and animal pulsers.</ArchotechPsychicEffectors.description>
+  <ArchotechPsychicWeapon.label>psychic weaponry</ArchotechPsychicWeapon.label>
+  <ArchotechPsychicWeapon.description>Design ship weaponry which utilizes psychic phenomena to incapacitate enemy crew.</ArchotechPsychicWeapon.description>
+  <ArchotechExotics.label>exotic particles</ArchotechExotics.label>
+  <ArchotechExotics.description>Expand on the commonly-understood laws of physics, discovering a variety of particles with exotic behaviors.</ArchotechExotics.description>
+  <ArchotechVanometrics.label>vanometrics</ArchotechVanometrics.label>
+  <ArchotechVanometrics.description>Design vanometric power cells, which generate free energy without using fuel.</ArchotechVanometrics.description>
+  <ArchotechShields.label>advanced shields</ArchotechShields.label>
+  <ArchotechShields.description>Utilize exotic particles to improve the efficiency of your ship's shields.</ArchotechShields.description>
+  <ArchotechHeatsink.label>anti-entropics</ArchotechHeatsink.label>
+  <ArchotechHeatsink.description>Utilize exotic particles to construct heatsinks which eliminate heat altogether, rather than venting it into your ship.</ArchotechHeatsink.description>
+  <ArchotechAntimatter.label>matter inversion</ArchotechAntimatter.label>
+  <ArchotechAntimatter.description>Develop a method for efficiently producing antigrain shells from exotic particles.</ArchotechAntimatter.description>
+  <ArchotechPillarA.label>locate alpha pillar</ArchotechPillarA.label>
+  <ArchotechPillarA.description>Discover the location of an archotech pillar. This particular specimen is somewhere in orbit.</ArchotechPillarA.description>
+  <ArchotechPillarA.discoveredLetterTitle>Archotech pillar detected</ArchotechPillarA.discoveredLetterTitle>
+  <ArchotechPillarA.discoveredLetterText>You have managed to discern the location of an archotech pillar! This specimen resides aboard the KSS Horizon, an ancient terraforming station.\n\nScans indicate the station's dome section has maintained a functioning ecosystem for thousands of years. However, it is currently occupied by a clan of space pirates - and, given the number of heavy armaments they have mounted on the station's hull, they intend to discourage visitors.\n\nYou will need to engage the Horizon in ship combat from your bridge.</ArchotechPillarA.discoveredLetterText>
+  <ArchotechPillarB.label>locate beta pillar</ArchotechPillarB.label>
+  <ArchotechPillarB.description>Discover the location of an archotech pillar. This particular specimen is somewhere on one of the planet's moons.</ArchotechPillarB.description>
+  <ArchotechPillarB.discoveredLetterTitle>Archotech pillar detected</ArchotechPillarB.discoveredLetterTitle>
+  <ArchotechPillarB.discoveredLetterText>You have managed to discern the location of an archotech pillar! This specimen is apparently being studied by a mechanoid hive on one of the planet's moons.\n\nScans indicate the hive is defended by a very large mechanoid warship.\n\nYou will need to load a shuttle with your raiding party, then select the "Moon Hive" option - at which point you will have to fight two simultaneous battles, one on the surface and one against the warship. Be sure your shuttle is fully fueled.</ArchotechPillarB.discoveredLetterText>
+  <ArchotechPillarC.label>locate gamma pillar</ArchotechPillarC.label>
+  <ArchotechPillarC.description>Discover the location of an archotech pillar. This particular specimen is somewhere on the planet's surface.</ArchotechPillarC.description>
+  <ArchotechPillarC.discoveredLetterTitle>Archotech pillar detected</ArchotechPillarC.discoveredLetterTitle>
+  <ArchotechPillarC.discoveredLetterText>You have managed to discern the location of an archotech pillar! This specimen is the most sacred artifact of the planet's tribal cultures, referred to as the Star Totem.\n\nIt was once a sacred meeting place where rival tribes spoke under a banner of peace, but has been captured and defiled by a savage berserker clan.\n\nWhen your raiding party arrives at the site, they will be joined by allies from any tribes you have befriended, eager to see the sacred totem return to friendly hands.</ArchotechPillarC.discoveredLetterText>
+  <ArchotechPillarD.label>locate delta pillar</ArchotechPillarD.label>
+  <ArchotechPillarD.description>Discover the location of an archotech pillar. This particular specimen is somewhere beneath the planet's crust.</ArchotechPillarD.description>
+  <ArchotechPillarD.discoveredLetterTitle>Archotech pillar detected</ArchotechPillarD.discoveredLetterTitle>
+  <ArchotechPillarD.discoveredLetterText>You have managed to discern the location of an archotech pillar! This specimen sits deep underground, at the center of a colossal insect hive.\n\nScans detect a large breeding population of Sorne Geneline insects as well as several anomalous readings - perhaps archospiders or something even worse.\n\nYour raiding party is advised to train in close-quarters combat...</ArchotechPillarD.discoveredLetterText>
+  <Holodeck_Basic.label>basic holodeck</Holodeck_Basic.label>
+  <Holodeck_Basic.description>Improvise a holodeck from simple components.</Holodeck_Basic.description>
+  <Holodeck_Standard.label>advanced holodeck</Holodeck_Standard.label>
+  <Holodeck_Standard.description>Construct an improved holodeck with modern, high-resolution projectors.</Holodeck_Standard.description>
+  <Holodeck_AI.label>sapient holodeck</Holodeck_AI.label>
+  <Holodeck_AI.description>Coerce a machine persona into creating endlessly entertaining simulations for your colonists.</Holodeck_AI.description>
+  <ShipBasics.label>starflight basics</ShipBasics.label>
+  <ShipBasics.description>Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system.</ShipBasics.description>
+  <ShipBasics.discoveredLetterTitle>About: Launching the ship</ShipBasics.discoveredLetterTitle>
+  <ShipBasics.discoveredLetterText>Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut before you can even consider interstellar spaceflight, you'll need to reach orbit. The minimum requirements for a spaceworthy craft are a rocket engine, a ship bridge, basic sensors, and a shuttle bay. To survive in space, your colonists will also need either a life-support system or EVA suits.\n\nThe amount of chemfuel required to launch a ship into orbit depends on its size. Larger ships may need multiple rocket engines, one per 1,000 units of chemfuel.</ShipBasics.discoveredLetterText>
+  <ShipReactor.label>ship fission reactor</ShipReactor.label>
+  <ShipReactor.description>Burn uranium fuel pods for long-term power.</ShipReactor.description>
+  <ShipEngine.label>rocket propulsion</ShipEngine.label>
+  <ShipEngine.description>Construct chemical engines for a ship. These can reach orbit, but no further.</ShipEngine.description>
+  <SoSJTDrive.label>Johnson-Tanaka Drive</SoSJTDrive.label>
+  <SoSJTDrive.description>Understand the principles behind the reactionless Johnson-Tanaka drive, capable of interplanetary and interstellar travel.\nNote: Actually constructing the drive will require an Entanglement Manifold, a very rare artifact.</SoSJTDrive.description>
+  <ShipComputerCore.label>ship computer core</ShipComputerCore.label>
+  <ShipComputerCore.description>Allows coercing an existing AI persona into a usable ship computer core for long-range guidance.</ShipComputerCore.description>
+  <ShipSensorCluster.label>basic ship sensors</ShipSensorCluster.label>
+  <ShipSensorCluster.description>Construct sensors for a ship, capable of basic navigation and observing areas from orbit.</ShipSensorCluster.description>
+  <ShipSensorClusterAdv.label>advanced ship sensors</ShipSensorClusterAdv.label>
+  <ShipSensorClusterAdv.description>Construct advanced sensors for a ship, capable of scanning the interior of enemy ships.</ShipSensorClusterAdv.description>
+  <ShipPilotSeat.label>ship navigation</ShipPilotSeat.label>
+  <ShipPilotSeat.description>Allow your colonists to pilot a ship, with basic computer assistance.</ShipPilotSeat.description>
+  <ShipShuttleBay.label>shuttle bay</ShipShuttleBay.label>
+  <ShipShuttleBay.description>Construct shuttle docking bays, for ferrying cargo to and from a ship.</ShipShuttleBay.description>
+  <ShipLifeSupport.label>ship life support</ShipLifeSupport.label>
+  <ShipLifeSupport.description>Recycle oxygen to keep non-cryptosleeping colonists alive.</ShipLifeSupport.description>
+  <ShipSpaceSuits.label>EVA suits</ShipSpaceSuits.label>
+  <ShipSpaceSuits.description>Self-contained life support systems allow colonists to survive in outer space.</ShipSpaceSuits.description>
+  <ShipSpaceSuitsHeavy.label>EVA powered armor</ShipSpaceSuitsHeavy.label>
+  <ShipSpaceSuitsHeavy.description>Apply life-support technology to powered armor, producing an armored suit which allows its occupant to survive in outer space.</ShipSpaceSuitsHeavy.description>
+  <Crittersleep.label>crittersleep caskets</Crittersleep.label>
+  <Crittersleep.description>Construct crittersleep caskets, which can hold multiple small animals, and cryptonests for holding eggs.</Crittersleep.description>
+  <ShipCapacitor.label>capacitor arrays</ShipCapacitor.label>
+  <ShipCapacitor.description>Utilize the dielectric properties of plasteel for efficient, high-capacity energy storage.</ShipCapacitor.description>
+  <ShipCryptosleep.label>automatic ejection</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Construct a specialized cryptosleep casket which does not need to be opened manually and can function as an escape pod. It would be a good idea to have at least one aboard a starship.</ShipCryptosleep.description>
+  <ShuttlePersonal.label>Personal Shuttle</ShuttlePersonal.label>
+  <ShuttlePersonal.description>Construct personal shuttles, which act much like reusable transport pods.</ShuttlePersonal.description>
+  <ShuttleCargo.label>Cargo Shuttle</ShuttleCargo.label>
+  <ShuttleCargo.description>Miniaturized ship components allow cargo shuttles to carry much more weight than simpler models.</ShuttleCargo.description>
+  <ShuttleHeavy.label>Heavy Cargo Shuttle</ShuttleHeavy.label>
+  <ShuttleHeavy.description>Quickly transport a caravan's worth of goods with this advanced cargo shuttle.</ShuttleHeavy.description>
+  <ShipSalvageBay.label>salvage bay</ShipSalvageBay.label>
+  <ShipSalvageBay.description>Utilize an automated gantry and swarms of tug drones to quickly retrieve salvage after a space battle.</ShipSalvageBay.description>
+  <ShipTurretLaser.label>laser turrets</ShipTurretLaser.label>
+  <ShipTurretLaser.description>Construct small lasers for ship-to-ship combat. Highly damaging but only usable at short range. Can intercept torpedoes.</ShipTurretLaser.description>
+  <ShipTurretPlasma.label>plasma turrets</ShipTurretPlasma.label>
+  <ShipTurretPlasma.description>Construct small plasma cannons for ship-to-ship combat. These weapons are balanced and most effective at intermediate range.</ShipTurretPlasma.description>
+  <ShipTurretKinetic.label>railgun turrets</ShipTurretKinetic.label>
+  <ShipTurretKinetic.description>Construct small railguns for ship-to-ship combat. Most effective at long range.</ShipTurretKinetic.description>
+  <ShipHeatsink.label>heatsinks</ShipHeatsink.label>
+  <ShipHeatsink.description>Keep your ship's weapons and shields operational longer by channeling their heat into a heatsink.</ShipHeatsink.description>
+  <ShipTurretMedium.label>cruiser armaments</ShipTurretMedium.label>
+  <ShipTurretMedium.description>Construct larger versions of ship turrets, suitable for a mid-sized cruiser.</ShipTurretMedium.description>
+  <ShipShields.label>ship shields</ShipShields.label>
+  <ShipShields.description>Protect your ship with a momentum-repulsor field. Be aware that while shields are up, radiators canot disperse heat.</ShipShields.description>
+  <ShipTurretLarge.label>capital ship armaments</ShipTurretLarge.label>
+  <ShipTurretLarge.description>Construct modular spinal-mount weapons, typically seen only on capital ships.</ShipTurretLarge.description>
+  <ShipTorpedoes.label>ship torpedoes</ShipTorpedoes.label>
+  <ShipTorpedoes.description>Launch powerful torpedoes at enemy ships. Effective at overwhelming shields.</ShipTorpedoes.description>
+  <HullFoam.label>hullfoam</HullFoam.label>
+  <HullFoam.description>Craft hullfoam, a sprayable substance that hardens into airtight barriers. Useful for quickly patching holes in starships.</HullFoam.description>
+  <ShipCloaking.label>cloaking device</ShipCloaking.label>
+  <ShipCloaking.description>Hide your ship's heat emissions, preventing enemies from noticing you.</ShipCloaking.description>
+  <ShipTurretAC.label>ship cannons</ShipTurretAC.label>
+  <ShipTurretAC.description>Construct ballistic slugthrowers for ship-to-ship combat. Unlike energy weapons, these require ammo but need almost no cooling.</ShipTurretAC.description>
+</LanguageData>

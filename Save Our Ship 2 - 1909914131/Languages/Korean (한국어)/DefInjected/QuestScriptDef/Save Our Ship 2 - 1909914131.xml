@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArchotechGiftQuest.questNameRules.rulesStrings.0>questName->[quest_name]</ArchotechGiftQuest.questNameRules.rulesStrings.0>
+  <ArchotechGiftQuest.questDescriptionRules.rulesStrings.0>questDescription->[archotech_name] warmly embraces your minds, offering its human progenitors a choice of gifts.</ArchotechGiftQuest.questDescriptionRules.rulesStrings.0>
+  <SpaceSiteQuest.questNameRules.rulesStrings.0>questName->[site_label]</SpaceSiteQuest.questNameRules.rulesStrings.0>
+  <SpaceSiteQuest.questDescriptionRules.rulesStrings.0>questDescription->Using your ship's sensors, [worker_definite] has found [site_label] in a nearby orbit.\n\nUnfortunately, the orbit is decaying and will lead to atmospheric re-entry in [timeoutTicks_duration]. Reaching the site will take [fuelCost]% of a shuttle's maximum fuel - be sure to bring enough for a return trip!\n\n[allSitePartsDescriptionsExceptFirst]</SpaceSiteQuest.questDescriptionRules.rulesStrings.0>
+  <SpaceSiteQuest.root.nodes.4.node.nodes.0.label>Quest expired: [resolvedQuestName]</SpaceSiteQuest.root.nodes.4.node.nodes.0.label>
+  <SpaceSiteQuest.root.nodes.4.node.nodes.0.text>With a blazing streak across the upper atmosphere, the [site_label] plummeted to the planet below. Anything of value is now lost.</SpaceSiteQuest.root.nodes.4.node.nodes.0.text>
+</LanguageData>

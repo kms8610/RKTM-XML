@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SoSArchotechEar.label>archotech ear</SoSArchotechEar.label>
+  <SoSArchotechEar.labelNoun>an archotech ear</SoSArchotechEar.labelNoun>
+  <SoSArchotechEar.description>An installed archotech ear.</SoSArchotechEar.description>
+  <SoSArchotechNose.label>archotech nose</SoSArchotechNose.label>
+  <SoSArchotechNose.labelNoun>an archotech nose</SoSArchotechNose.labelNoun>
+  <SoSArchotechNose.description>An installed archotech nose.</SoSArchotechNose.description>
+  <SoSArchotechJaw.label>archotech jaw</SoSArchotechJaw.label>
+  <SoSArchotechJaw.labelNoun>an archotech jaw</SoSArchotechJaw.labelNoun>
+  <SoSArchotechJaw.description>An installed archotech jaw.</SoSArchotechJaw.description>
+  <SoSArchotechJaw.comps.0.tools.0.label>teeth</SoSArchotechJaw.comps.0.tools.0.label>
+  <SoSArchotechHeart.label>archotech heart</SoSArchotechHeart.label>
+  <SoSArchotechHeart.labelNoun>an archotech heart</SoSArchotechHeart.labelNoun>
+  <SoSArchotechHeart.description>An installed archotech heart.</SoSArchotechHeart.description>
+  <SoSArchotechLung.label>archotech lung</SoSArchotechLung.label>
+  <SoSArchotechLung.labelNoun>an archotech lung</SoSArchotechLung.labelNoun>
+  <SoSArchotechLung.description>An installed archotech lung.</SoSArchotechLung.description>
+  <SoSArchotechStomach.label>archotech stomach</SoSArchotechStomach.label>
+  <SoSArchotechStomach.labelNoun>an archotech stomach</SoSArchotechStomach.labelNoun>
+  <SoSArchotechStomach.description>An installed archotech stomach.</SoSArchotechStomach.description>
+  <SoSArchotechKidney.label>archotech kidney</SoSArchotechKidney.label>
+  <SoSArchotechKidney.labelNoun>an archotech kidney</SoSArchotechKidney.labelNoun>
+  <SoSArchotechKidney.description>An installed archotech kidney.</SoSArchotechKidney.description>
+  <SoSArchotechLiver.label>archotech liver</SoSArchotechLiver.label>
+  <SoSArchotechLiver.labelNoun>an archotech liver</SoSArchotechLiver.labelNoun>
+  <SoSArchotechLiver.description>An installed archotech liver.</SoSArchotechLiver.description>
+  <SoSArchotechSpine.label>archotech spine</SoSArchotechSpine.label>
+  <SoSArchotechSpine.labelNoun>an archotech spine</SoSArchotechSpine.labelNoun>
+  <SoSArchotechSpine.description>An installed archotech spine.</SoSArchotechSpine.description>
+  <SoSArchotechSkin.label>archotech skin</SoSArchotechSkin.label>
+  <SoSArchotechSkin.description>Installed archotech skin.</SoSArchotechSkin.description>
+  <SoSPsychicPredictor.label>psychic predictor</SoSPsychicPredictor.label>
+  <SoSPsychicPredictor.labelNoun>a psychic predictor</SoSPsychicPredictor.labelNoun>
+  <SoSPsychicPredictor.description>An installed psychic predictor implant.</SoSPsychicPredictor.description>
+  <SoSPsychicManipulator.label>psychic manipulator</SoSPsychicManipulator.label>
+  <SoSPsychicManipulator.labelNoun>a psychic manipulator</SoSPsychicManipulator.labelNoun>
+  <SoSPsychicManipulator.description>An installed psychic manipulator implant.</SoSPsychicManipulator.description>
+  <VacuumDamageHediff.label>decompression</VacuumDamageHediff.label>
+  <VacuumDamageHediff.description>A decompression injury.</VacuumDamageHediff.description>
+  <VacuumDamageHediff.comps.0.labelTendedWell>bandaged</VacuumDamageHediff.comps.0.labelTendedWell>
+  <VacuumDamageHediff.comps.0.labelTendedWellInner>sutured</VacuumDamageHediff.comps.0.labelTendedWellInner>
+  <VacuumDamageHediff.comps.0.labelSolidTendedWell>set</VacuumDamageHediff.comps.0.labelSolidTendedWell>
+  <VacuumDamageHediff.comps.2.permanentLabel>decompression scar</VacuumDamageHediff.comps.2.permanentLabel>
+  <VacuumDamageHediff.injuryProps.destroyedLabel>Lost to decompression</VacuumDamageHediff.injuryProps.destroyedLabel>
+  <ZeroGSickness.label>zero-G sickness</ZeroGSickness.label>
+  <ZeroGSickness.description>Temporary disorientation caused by lack of gravity.</ZeroGSickness.description>
+  <ZeroGSickness.stages.0.label>initial-hidden</ZeroGSickness.stages.0.label>
+  <ZeroGSickness.stages.1.label>off-balance</ZeroGSickness.stages.1.label>
+  <ZeroGSickness.stages.2.label>dizzy</ZeroGSickness.stages.2.label>
+  <ZeroGSickness.stages.3.label>ill</ZeroGSickness.stages.3.label>
+  <ZeroGSickness.stages.4.label>nauseated</ZeroGSickness.stages.4.label>
+  <ZeroGSickness.stages.5.label>vomiting uncontrollably</ZeroGSickness.stages.5.label>
+  <ThrusterSpeed.label>EVA thrusters online</ThrusterSpeed.label>
+  <ThrusterSpeed.description>Deprecated - do not use</ThrusterSpeed.description>
+  <ThrusterSpeed.labelNoun>active thrusters</ThrusterSpeed.labelNoun>
+  <SpaceHypoxia.label>hypoxia</SpaceHypoxia.label>
+  <SpaceHypoxia.description>Organ failure due to lack of oxygen. Quickly fatal if no EVA suit or life-supported room can be found.</SpaceHypoxia.description>
+  <SpaceHypoxia.stages.0.label>initial</SpaceHypoxia.stages.0.label>
+  <SpaceHypoxia.stages.1.label>minor</SpaceHypoxia.stages.1.label>
+  <SpaceHypoxia.stages.2.label>serious</SpaceHypoxia.stages.2.label>
+  <SpaceHypoxia.stages.3.label>extreme</SpaceHypoxia.stages.3.label>
+  <SpaceHypoxia.stages.4.label>extreme</SpaceHypoxia.stages.4.label>
+  <SpaceBeltBubbleHediff.description>This creature is surrounded by a protective bubble, allowing it to survive vacuum exposure.</SpaceBeltBubbleHediff.description>
+  <SpaceBeltBubbleHediff.label>survival bubble</SpaceBeltBubbleHediff.label>
+</LanguageData>
