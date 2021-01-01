@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ROM_Exsanguination.label>vampiric</ROM_Exsanguination.label>
+  <ROM_Exsanguination.description>vampiric</ROM_Exsanguination.description>
+  <ROM_Exsanguination.comps.0.labelTendedWell>bandaged</ROM_Exsanguination.comps.0.labelTendedWell>
+  <ROM_Exsanguination.comps.0.labelTendedWellInner>sutured</ROM_Exsanguination.comps.0.labelTendedWellInner>
+  <ROM_Exsanguination.comps.0.labelSolidTendedWell>set</ROM_Exsanguination.comps.0.labelSolidTendedWell>
+  <ROM_Exsanguination.injuryProps.destroyedLabel>sucked out</ROM_Exsanguination.injuryProps.destroyedLabel>
+  <ROM_CosmicHorrorImmunities.label>eldritch immunities</ROM_CosmicHorrorImmunities.label>
+  <ROM_CosmicHorrorImmunities.description>eldritch immunities</ROM_CosmicHorrorImmunities.description>
+  <ROM_StarVampireDescent.label>descending</ROM_StarVampireDescent.label>
+  <ROM_StarVampireDescent.description>descending</ROM_StarVampireDescent.description>
+  <ROM_Psionic.label>psionic</ROM_Psionic.label>
+  <ROM_Psionic.description>psionic</ROM_Psionic.description>
+  <ROM_Psionic.comps.0.labelTendedWell>bandaged</ROM_Psionic.comps.0.labelTendedWell>
+  <ROM_Psionic.comps.0.labelTendedWellInner>sutured</ROM_Psionic.comps.0.labelTendedWellInner>
+  <ROM_Psionic.comps.0.labelSolidTendedWell>set</ROM_Psionic.comps.0.labelSolidTendedWell>
+  <ROM_Psionic.injuryProps.destroyedLabel>imploded</ROM_Psionic.injuryProps.destroyedLabel>
+  <ROM_IntracranialPressure.label>intracranial pressure</ROM_IntracranialPressure.label>
+  <ROM_IntracranialPressure.description>intracranial pressure</ROM_IntracranialPressure.description>
+  <ROM_IntracranialPressure.stages.0.label>initial-hidden</ROM_IntracranialPressure.stages.0.label>
+  <ROM_IntracranialPressure.stages.1.label>initial</ROM_IntracranialPressure.stages.1.label>
+  <ROM_IntracranialPressure.stages.2.label>minor</ROM_IntracranialPressure.stages.2.label>
+  <ROM_IntracranialPressure.stages.3.label>moderate</ROM_IntracranialPressure.stages.3.label>
+  <ROM_IntracranialPressure.stages.4.label>serious</ROM_IntracranialPressure.stages.4.label>
+  <ROM_IntracranialPressure.stages.5.label>extreme</ROM_IntracranialPressure.stages.5.label>
+  <ROM_SanityLoss.label>sanity loss</ROM_SanityLoss.label>
+  <ROM_SanityLoss.description>sanity loss</ROM_SanityLoss.description>
+  <ROM_SanityLoss.stages.0.label>initial</ROM_SanityLoss.stages.0.label>
+  <ROM_SanityLoss.stages.1.label>minor</ROM_SanityLoss.stages.1.label>
+  <ROM_SanityLoss.stages.2.label>major</ROM_SanityLoss.stages.2.label>
+  <ROM_SanityLoss.stages.3.label>severe</ROM_SanityLoss.stages.3.label>
+  <ROM_SanityLoss.stages.4.label>extreme</ROM_SanityLoss.stages.4.label>
+  <ROM_GutWorms.label>strange worms</ROM_GutWorms.label>
+  <ROM_GutWorms.description>strange worms</ROM_GutWorms.description>
+  <ROM_GutWorms.stages.0.label>tense-hidden</ROM_GutWorms.stages.0.label>
+  <ROM_GutWorms.stages.1.label>initial</ROM_GutWorms.stages.1.label>
+  <ROM_GutWorms.stages.2.label>minor</ROM_GutWorms.stages.2.label>
+  <ROM_GutWorms.stages.3.label>major</ROM_GutWorms.stages.3.label>
+  <ROM_GutWorms.stages.4.label>severe</ROM_GutWorms.stages.4.label>
+  <ROM_GutWorms.stages.5.label>extreme</ROM_GutWorms.stages.5.label>
+</LanguageData>
