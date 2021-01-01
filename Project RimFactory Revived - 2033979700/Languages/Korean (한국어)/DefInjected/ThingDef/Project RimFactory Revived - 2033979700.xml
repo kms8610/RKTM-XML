@@ -113,7 +113,7 @@
   <PRF_Conveyor_Splitter_Wall.label>wall splitter</PRF_Conveyor_Splitter_Wall.label>
   <PRF_Conveyor_Splitter_Wall.description>A conveyor splitter unit built into the walls.  This one will hand off items to wall belts and Overground ones.</PRF_Conveyor_Splitter_Wall.description>
   <PRF_MineShaft.label>Mine Shaft</PRF_MineShaft.label>
-  <PRF_MineShaft.description>This is a early mine shaft you can set bills to target what you want, it also have a slim chance of finding rare/junk bonus while operating.\nShould be placed in a mountain wall to operate.</PRF_MineShaft.description>
+  <PRF_MineShaft.description>Early mine shaft entrance, which let you set a target mine operation where pawn will go into the mountain and mine out what you desire, it also have a slim chance of finding rare/junk bonus items while operating.\nShould be placed in a mountain wall to operate.(may conflict with replace stuff mod)</PRF_MineShaft.description>
   <PRF_DeepQuarry_mkI.label>Auger drill(T1)</PRF_DeepQuarry_mkI.label>
   <PRF_DeepQuarry_mkI.description>An early automated quarry that continuously extracts resources from the ground, including rock chunks, materials and components. Produces a random resource roughly once every 8 hours.(can cause Infestation!)</PRF_DeepQuarry_mkI.description>
   <PRF_DeepQuarry_mkII.label>Pulse Drill(T2)</PRF_DeepQuarry_mkII.label>
