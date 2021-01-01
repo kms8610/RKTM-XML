@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalStations.label>animal stations I</AnimalStations.label>
+  <AnimalStations.description>First tier animal station technology allows animals with harvestable resources to be harvested automatically.</AnimalStations.description>
+  <AnimalStations_II.label>animal stations II</AnimalStations_II.label>
+  <AnimalStations_II.description>Second tier animal station allows for more animal gathering and also auto animal slaugtering and breeding control.</AnimalStations_II.description>
+  <SelfCooking.label>Self-cooking</SelfCooking.label>
+  <SelfCooking.description>Make buildings that can cook meals themselves. Like your dedicated cook, but won't have mental breaks for silly reasons.</SelfCooking.description>
+  <MagneticTape.label>Magnetic tape</MagneticTape.label>
+  <MagneticTape.description>Learn how to make and use old-school magnetic tape to store instructions. Make data disks at the machining table.</MagneticTape.description>
+  <UniversalAutocrafting.label>universal auto-crafting</UniversalAutocrafting.label>
+  <UniversalAutocrafting.description>Make buildings that can craft recipes given to them via a recipe database. Like your dedicated crafter, but won't have mental breaks for silly reasons.</UniversalAutocrafting.description>
+  <SelfCorrectingAssemblers.label>self-correcting assemblers</SelfCorrectingAssemblers.label>
+  <SelfCorrectingAssemblers.description>Learn how to make a new type of assembler that slowly improves its crafting speed.</SelfCorrectingAssemblers.description>
+  <PRFEulersIdentity.label>Euler's identity</PRFEulersIdentity.label>
+  <PRFEulersIdentity.description>"π is pi, the ratio of the circumference of a circle to its diameter." Learn the very basics of automation and mechanisms, the gateway to an industrial colony. tier 1</PRFEulersIdentity.description>
+  <PRFMachineLearning.label>Machine learning</PRFMachineLearning.label>
+  <PRFMachineLearning.description>Teach machines how to improve their abilities by themselves. Unlocks the AI research bench. Also lets you craft drone modules at the robotic machining table.</PRFMachineLearning.description>
+  <PRFRollers.label>Belts and Rollers</PRFRollers.label>
+  <PRFRollers.description>Rollers and belts include both IR and PRF</PRFRollers.description>
+  <ADVrollers.label>Pullers And Pushers</ADVrollers.label>
+  <ADVrollers.description>pusher and pullers, include both IR and PRF</ADVrollers.description>
+  <AutomationBasics.label>Riemann zeta function</AutomationBasics.label>
+  <AutomationBasics.description>"The Riemann zeta function ζ(s), is a function of a complex variable s that analytically continues the sum of the Dirichlet series. which converges when the real part of s is greater than 1." Unlocks new set of second tier factory building options.</AutomationBasics.description>
+  <PRFGoldbachConjecture.label>Goldbach's conjecture</PRFGoldbachConjecture.label>
+  <PRFGoldbachConjecture.description>"Every even integer, greater than 2, can be formed from the sum of two prime numbers."\nUnlocks a new array of third tier research projects.</PRFGoldbachConjecture.description>
+  <EnhancedBatteries.label>enhanced batteries</EnhancedBatteries.label>
+  <EnhancedBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 4k and 10k battery cell.</EnhancedBatteries.description>
+  <LargeBatteries.label>large batteries</LargeBatteries.label>
+  <LargeBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 16k and 64k battery cell.</LargeBatteries.description>
+  <VeryLargeBatteries.label>very large batteries</VeryLargeBatteries.label>
+  <VeryLargeBatteries.description>Learn alternate methods of power storage, and create compact 100k and 256k battery cells for mass storage of power.</VeryLargeBatteries.description>
+  <FarmingSprinklers.label>Automatic farming I</FarmingSprinklers.label>
+  <FarmingSprinklers.description>Basic Cultivation tools with use of drone</FarmingSprinklers.description>
+  <AutomaticFarming1.label>Automatic farming II</AutomaticFarming1.label>
+  <AutomaticFarming1.description>Learn how to improve farming skills further by adding sunlamps and sprinklers to your cultivation.</AutomaticFarming1.description>
+  <AutomaticFarming.label>Automatic farming III</AutomaticFarming.label>
+  <AutomaticFarming.description>Learn how to farm in spacer style with use of Mechanites to farm plots for you</AutomaticFarming.description>
+  <AutonomousMining.label>Auger drill I</AutonomousMining.label>
+  <AutonomousMining.description>Make buildings that can extract random minerals and rocks from deep underground.(can cause infestation)</AutonomousMining.description>
+  <AutonomousMining_II.label>Pulse Drill II</AutonomousMining_II.label>
+  <AutonomousMining_II.description>Make buildings that can extract random minerals and rocks from deep underground.(can cause infestation)</AutonomousMining_II.description>
+  <AutonomousMining_III.label>Plasma Drill III</AutonomousMining_III.label>
+  <AutonomousMining_III.description>A advanced miner that can select a main ore to mine for and get secondaries as rare/junk bonus chance(no infestation)</AutonomousMining_III.description>
+  <PRFMetalRefining.label>Metal Refining</PRFMetalRefining.label>
+  <PRFMetalRefining.description>A metal refinery able to produce rare metals through polymer lamination, by combining Chemfuel with steel to greate Plasteel</PRFMetalRefining.description>
+  <PRFCrates.label>Wooden stockpile crates</PRFCrates.label>
+  <PRFCrates.description>Allows colonists to build large crates for more compact storage.</PRFCrates.description>
+  <PRFStorage.label>Steel stockpile crates</PRFStorage.label>
+  <PRFStorage.description>Allows colonists to build reinforced stockpile crates.</PRFStorage.description>
+  <PRFStorageIO.label>Wireless item Storage</PRFStorageIO.label>
+  <PRFStorageIO.description>Allows colonists to build cargo platforms and I/O ports. I/O ports can transfer items remotely to and from cargo platforms.</PRFStorageIO.description>
+</LanguageData>
