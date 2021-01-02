@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TG.GroupInfoTooltip>{0}
+Left click:		Expand Pawn Icons
+2x Left click:	Select All Colonists
+Right click:	Group Menu</TG.GroupInfoTooltip>
+  <TG.Rally>RALLY</TG.Rally>
+  <TG.Work>Work</TG.Work>
+  <TG.Orders>Orders</TG.Orders>
+  <TG.Manage>Manage</TG.Manage>
+  <TG.Group>Group</TG.Group>
+  <TG.Colony>Colony</TG.Colony>
+  <TG.Caravan>Caravan</TG.Caravan>
+  <TG.Diplomacy>Diplomacy</TG.Diplomacy>
+  <TG.GetToWork>Get to Work</TG.GetToWork>
+  <TG.TakeABreak>Take a Break</TG.TakeABreak>
+  <TG.ChowHall>Chow Hall</TG.ChowHall>
+  <TG.SocialRelax>Social Relax</TG.SocialRelax>
+  <TG.HaveSomeFun>Have Some Fun</TG.HaveSomeFun>
+  <TG.Clean>Clean</TG.Clean>
+  <TG.Haul>Haul</TG.Haul>
+  <TG.VisitMedical>Visit Medical</TG.VisitMedical>
+  <TG.Rename>Rename</TG.Rename>
+  <TG.Icon>Icon</TG.Icon>
+  <TG.SortGroup>Sort Group</TG.SortGroup>
+  <TG.Disband>Disband</TG.Disband>
+  <TG.DisbandPawn>Pawn</TG.DisbandPawn>
+  <TG.DisbandGroup>Group</TG.DisbandGroup>
+  <TG.LookBusy>Look Busy</TG.LookBusy>
+  <TG.ShowAllColonists>Show All Colonists</TG.ShowAllColonists>
+  <TG.DisplayFood>Display Food</TG.DisplayFood>
+  <TG.DisplayRest>Display Rest</TG.DisplayRest>
+  <TG.DisplayHealth>Display Health</TG.DisplayHealth>
+  <TG.DisplayWeapons>Display Weapons</TG.DisplayWeapons>
+  <TG.DisplayColorBars>Display Color Bars</TG.DisplayColorBars>
+  <TG.HidePawnsWhenOffMap>Hide Pawns Off Map</TG.HidePawnsWhenOffMap>
+  <TG.HideGroups>Hide Groups</TG.HideGroups>
+  <TG.Attack>Attack</TG.Attack>
+  <TG.Regroup>Regroup</TG.Regroup>
+  <TG.BattleStations>Battle Stations</TG.BattleStations>
+  <TG.Set>Set</TG.Set>
+  <TG.Clear>Clear</TG.Clear>
+  <TG.Formation>Formation</TG.Formation>
+  <TG.Medical>Medical</TG.Medical>
+  <TG.FireAtWill>Fire At Will</TG.FireAtWill>
+  <TG.Strongest>Strongest</TG.Strongest>
+  <TG.Weakest>Weakest</TG.Weakest>
+  <TG.PursueFleeing>Pursue Fleeing</TG.PursueFleeing>
+  <TG.Management>Management</TG.Management>
+  <TG.Okay>Okay</TG.Okay>
+  <TG.Sad>Sad</TG.Sad>
+  <TG.Happy>Happy</TG.Happy>
+  <TG.ReportToMedical>Report to Medical</TG.ReportToMedical>
+  <TG.RescueFallen>Rescue Fallen</TG.RescueFallen>
+  <TG.TendWounded>Tend Wounded</TG.TendWounded>
+  <TG.TakeFive>Take Five</TG.TakeFive>
+  <TG.CreateGroupTooltip>Form group with selected colonists</TG.CreateGroupTooltip>
+  <TG.OptionsGearTooltip>Open the options menu</TG.OptionsGearTooltip>
+  <TG.LookBusyTooltip>Tell group to work any task</TG.LookBusyTooltip>
+  <TG.WorkTaskTooltipConstruction>Build</TG.WorkTaskTooltipConstruction>
+  <TG.WorkTaskTooltipCraft>Craft</TG.WorkTaskTooltipCraft>
+  <TG.WorkTaskTooltipHaul>Haul</TG.WorkTaskTooltipHaul>
+  <TG.WorkTaskTooltipClean>Clean</TG.WorkTaskTooltipClean>
+  <TG.WorkTaskTooltipHunt>Hunt</TG.WorkTaskTooltipHunt>
+  <TG.WorkTaskTooltipCook>Cook</TG.WorkTaskTooltipCook>
+  <TG.WorkTaskTooltipMine>Mine</TG.WorkTaskTooltipMine>
+  <TG.WorkTaskTooltipChopWood>Chop Wood</TG.WorkTaskTooltipChopWood>
+  <TG.WorkTaskTooltipFarm>Farm</TG.WorkTaskTooltipFarm>
+  <TG.WorkTaskTooltipClearSnow>Clear Snow</TG.WorkTaskTooltipClearSnow>
+  <TG.WorkTaskTooltipWarden>Warden Prisoners</TG.WorkTaskTooltipWarden>
+  <TG.WorkTaskTooltipArt>Art</TG.WorkTaskTooltipArt>
+  <TG.WorkTaskTooltipTailor>Tailor</TG.WorkTaskTooltipTailor>
+  <TG.WorkTaskTooltipSmith>Smith</TG.WorkTaskTooltipSmith>
+  <TG.WorkTaskTooltipHandle>Handle</TG.WorkTaskTooltipHandle>
+  <TG.WorkTaskTooltipFireExtinguish>Fire Extinguish</TG.WorkTaskTooltipFireExtinguish>
+  <TG.WorkTaskTooltipResearch>Research</TG.WorkTaskTooltipResearch>
+  <TG.WorkTaskTooltipResearchMenu>Research Menu</TG.WorkTaskTooltipResearchMenu>
+  <TG.ForcedLaborTooltip>
+Right Click to Prioritize
+-Right Click x2 = Slave Labor</TG.ForcedLaborTooltip>
+  <TG.TakeFiveTooltip>Take a Break
+	
+-Tell group to take a break from working</TG.TakeFiveTooltip>
+  <TG.ChowHallToolTip>Chow Time
+	
+Tell group to go eat</TG.ChowHallToolTip>
+  <TG.SleepTooltip>Lights Out
+	
+Tell group to go to sleep</TG.SleepTooltip>
+  <TG.RallyToolTip>Rally
+	
+Select and Draft entire group</TG.RallyToolTip>
+  <TG.ShootersToolTip>Number of shooters in group
+	-Click to select</TG.ShootersToolTip>
+  <TG.MeleeToolTip>Number of Melee in group
+	-Click to select</TG.MeleeToolTip>
+  <TG.ShowHideTooltip>Show/Hide group pawns from top bar</TG.ShowHideTooltip>
+  <TG.AddColonistTooltip>Add selected colonists to group</TG.AddColonistTooltip>
+  <TG.RegroupTooltip>Regroup on Leader's potition.
+Squad leader is first pawn in group</TG.RegroupTooltip>
+  <TG.BattleStationsTooltip>Send group to battle positions</TG.BattleStationsTooltip>
+  <TG.BattleStationsSetTooltip>Set battle positions</TG.BattleStationsSetTooltip>
+  <TG.BattleStationsClearTooltip>Clear battle positions</TG.BattleStationsClearTooltip>
+  <TG.FireAtWillTooltip>Default combat mode</TG.FireAtWillTooltip>
+  <TG.StrongestTooltip>Target strongest enemy</TG.StrongestTooltip>
+  <TG.WeakestTooltip>Target weakest enemy</TG.WeakestTooltip>
+  <TG.PursueFleeingTooltip>Pursue fleeing enemies</TG.PursueFleeingTooltip>
+  <TG.ReportToMedicalTooltip>Send wounded to Rest until Healed</TG.ReportToMedicalTooltip>
+  <TG.RescueDownedTooltip>Rescue downed colonists</TG.RescueDownedTooltip>
+  <TG.TendWoundedTooltip>Tend wounded colonists</TG.TendWoundedTooltip>
+  <TG.ArmorTooltip>Average group armor rating</TG.ArmorTooltip>
+  <TG.DPSTooltip>Average group DPS</TG.DPSTooltip>
+  <TG.MiddlePawnCountToolTip>Number of combat-ready pawns</TG.MiddlePawnCountToolTip>
+  <TG.RankTooltip>Group average combat rank</TG.RankTooltip>
+  <TG.UpgradeWeaponTooltip>Tell group to upgrade weapons if any are available
+	
+-Pawns will only upgrade to their current weapon type; Ranged / Melee</TG.UpgradeWeaponTooltip>
+  <TG.UpgradeArmorTooltip>Tell group to upgrade armor if any is available</TG.UpgradeArmorTooltip>
+  <TG.TakeBuffTooltip>Tell group to take combat drugs in inventory</TG.TakeBuffTooltip>
+  <TG.MoodIconTooltip>Group's overall mood</TG.MoodIconTooltip>
+  <TG.HealthIconTooltip>Group's overall health</TG.HealthIconTooltip>
+  <TG.RestIconTooltip>Group's overall rest</TG.RestIconTooltip>
+  <TG.HungerIconTooltip>Group's overall hunger</TG.HungerIconTooltip>
+</LanguageData>
