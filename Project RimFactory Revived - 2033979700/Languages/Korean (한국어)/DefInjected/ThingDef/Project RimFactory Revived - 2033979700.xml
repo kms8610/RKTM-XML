@@ -31,7 +31,7 @@
   <PRF_SelfCookerI.label>industrial cooker</PRF_SelfCookerI.label>
   <PRF_SelfCookerI.description>An assortment of food processing modules which can peel, mince, chop, mix, cook, steam, grill, and bake ingredients into more or less delicious meals and other edible products.\n\nNever ruin a meal again with your one-stop solution to satisfy all your colony's sustenance needs. Just look at it go! \n\nOnly cooks simple foods but with a cooking level of 8 at 1x speed \n\nWhite cell is input\nYellow are output cell</PRF_SelfCookerI.description>
   <PRF_SelfCookerII.label>modern autocooker</PRF_SelfCookerII.label>
-  <PRF_SelfCookerII.description>An improved assortment of food processing modules which can peel, mince, chop, mix, cook, steam, grill, and bake ingredients into more or less delicious meals and other edible products.\n\nNever ruin a meal again with your one-stop solution to satisfy all your colony's sustenance needs. Just look at it go! \n\n 1.5x speed \n 5 cleanliness \n cook level 12</PRF_SelfCookerII.description>
+  <PRF_SelfCookerII.description>An improved assortment of food processing modules which can peel, mince, chop, mix, cook, steam, grill, and bake ingredients into more or less delicious meals and other edible products.\n\nNever ruin a meal again with your one-stop solution to satisfy all your colony's sustenance needs. Just look at it go! \n\n Copies Electric stove recipes\n 1.5x speed \n 5 cleanliness \n cook level 12</PRF_SelfCookerII.description>
   <PRF_SelfCookerIII.label>spacer cooker</PRF_SelfCookerIII.label>
   <PRF_SelfCookerIII.description>An assortment of food processing modules which can peel, mince, chop, mix, cook, steam, grill, and bake ingredients into more or less delicious meals and other edible products.\n\nNever ruin a meal again with your one-stop solution to satisfy all your colony's sustenance needs. Just look at it go! \n\n 2x speed \n 20cleanliness \n cook level 20</PRF_SelfCookerIII.description>
   <PRF_MeatGrinder.label>meat grinder</PRF_MeatGrinder.label>
@@ -159,47 +159,47 @@
   <PRF_DigitalStorageUnit_I.description>Stores up to 768 stacks. Consumes 10 W of power per stack of items. When your colony loses power, items already inside will be safe, but the building will not be able to store more.</PRF_DigitalStorageUnit_I.description>
   <PRF_IOPort_I.label>I/O Port</PRF_IOPort_I.label>
   <PRF_IOPort_I.description>(tier 3) \n A Connection port for your storage Cargo Platforms. It can be set to Input/output from any Platform remotely in any range within the map.</PRF_IOPort_I.description>
-  <PRF_FloorLampArrow.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_FloorLampArrow.description>
+  <PRF_FloorLampArrow.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_FloorLampArrow.description>
   <PRF_FloorLampArrow.label>Yellow Floor Sign Arrow</PRF_FloorLampArrow.label>
-  <PRF_RedFloorLampArrow.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_RedFloorLampArrow.description>
+  <PRF_RedFloorLampArrow.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_RedFloorLampArrow.description>
   <PRF_RedFloorLampArrow.label>Red Floor Sign Arrow</PRF_RedFloorLampArrow.label>
-  <PRF_GreenFloorLampArrow.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_GreenFloorLampArrow.description>
+  <PRF_GreenFloorLampArrow.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_GreenFloorLampArrow.description>
   <PRF_GreenFloorLampArrow.label>Green Floor Sign Arrow</PRF_GreenFloorLampArrow.label>
-  <PRF_FloorLampX.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_FloorLampX.description>
+  <PRF_FloorLampX.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_FloorLampX.description>
   <PRF_FloorLampX.label>Red Floor Sign X</PRF_FloorLampX.label>
-  <PRF_FloorInput.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_FloorInput.description>
+  <PRF_FloorInput.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_FloorInput.description>
   <PRF_FloorInput.label>Input Sign</PRF_FloorInput.label>
-  <PRF_FloorOutput.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_FloorOutput.description>
+  <PRF_FloorOutput.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_FloorOutput.description>
   <PRF_FloorOutput.label>Output Sign</PRF_FloorOutput.label>
-  <PRF_IconClothes.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconClothes.description>
+  <PRF_IconClothes.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconClothes.description>
   <PRF_IconClothes.label>Clothes Sign</PRF_IconClothes.label>
-  <PRF_IconSkull.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconSkull.description>
+  <PRF_IconSkull.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconSkull.description>
   <PRF_IconSkull.label>Skull Sign</PRF_IconSkull.label>
-  <PRF_IconToxic.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconToxic.description>
+  <PRF_IconToxic.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconToxic.description>
   <PRF_IconToxic.label>Toxic Sign</PRF_IconToxic.label>
-  <PRF_IconPower.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconPower.description>
+  <PRF_IconPower.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconPower.description>
   <PRF_IconPower.label>Power Sign</PRF_IconPower.label>
-  <PRF_IconGears.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGears.description>
+  <PRF_IconGears.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGears.description>
   <PRF_IconGears.label>Gears Sign</PRF_IconGears.label>
-  <PRF_IconGun.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGun.description>
+  <PRF_IconGun.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGun.description>
   <PRF_IconGun.label>Gun Sign</PRF_IconGun.label>
-  <PRF_IconGasmask.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGasmask.description>
+  <PRF_IconGasmask.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconGasmask.description>
   <PRF_IconGasmask.label>Gasmask Sign</PRF_IconGasmask.label>
-  <PRF_IconFire.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconFire.description>
+  <PRF_IconFire.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconFire.description>
   <PRF_IconFire.label>Heat Sign</PRF_IconFire.label>
-  <PRF_IconCold.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconCold.description>
+  <PRF_IconCold.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconCold.description>
   <PRF_IconCold.label>Cold Sign</PRF_IconCold.label>
-  <PRF_IconDanger.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconDanger.description>
+  <PRF_IconDanger.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconDanger.description>
   <PRF_IconDanger.label>danger Sign</PRF_IconDanger.label>
-  <PRF_IconExit.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconExit.description>
+  <PRF_IconExit.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconExit.description>
   <PRF_IconExit.label>exit Sign</PRF_IconExit.label>
-  <PRF_IconPrison.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconPrison.description>
+  <PRF_IconPrison.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconPrison.description>
   <PRF_IconPrison.label>Prison Sign</PRF_IconPrison.label>
-  <PRF_IconResearch.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconResearch.description>
+  <PRF_IconResearch.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconResearch.description>
   <PRF_IconResearch.label>Research Sign</PRF_IconResearch.label>
-  <PRF_IconHospital.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconHospital.description>
+  <PRF_IconHospital.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconHospital.description>
   <PRF_IconHospital.label>Hospital Sign</PRF_IconHospital.label>
-  <PRF_IconBarbedWire.description>Weak florescent sig, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconBarbedWire.description>
+  <PRF_IconBarbedWire.description>Weak florescent sign, can be placed on floor or on top of machines or other buildings to show guidance.</PRF_IconBarbedWire.description>
   <PRF_IconBarbedWire.label>BarbedWire Sign</PRF_IconBarbedWire.label>
   <PRF_RoboticArm.label>robotic arm</PRF_RoboticArm.label>
   <PRF_RoboticArm.description>A robotic arm powered by an electric motor. Used in the construction of some automation buildings.</PRF_RoboticArm.description>
