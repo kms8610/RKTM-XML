@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ARKPPP_WirelessPowerReceptor.label>WPN receiver</ARKPPP_WirelessPowerReceptor.label>
+  <ARKPPP_WirelessPowerReceptor.description>A wireless power receiver generator. Require to be connected to a valid WPN to provide power.</ARKPPP_WirelessPowerReceptor.description>
+  <ARKPPP_WirelessPortablePowerReceptor.label>Portable WPN receiver</ARKPPP_WirelessPortablePowerReceptor.label>
+  <ARKPPP_WirelessPortablePowerReceptor.description>A portable wireless power receiver generator. Require to be connected to a valid WPN to provide power. Limited to 3000W maximum because of its small dimensions.</ARKPPP_WirelessPortablePowerReceptor.description>
+  <ARKPPP_WirelessPowerEmitter.label>WPN emitter</ARKPPP_WirelessPowerEmitter.label>
+  <ARKPPP_WirelessPowerEmitter.description>A wireless emitter device used to broadcast over long distance a WPN. Caution this device is sensitive to weather conditions (thunderstorms)</ARKPPP_WirelessPowerEmitter.description>
+  <ARKPPP_WirelessPowerEmitterAdvanced.label>Advanced WPN emitter</ARKPPP_WirelessPowerEmitterAdvanced.label>
+  <ARKPPP_WirelessPowerEmitterAdvanced.description>A wireless emitter device used to broadcast over long distance a WPN.</ARKPPP_WirelessPowerEmitterAdvanced.description>
+  <ARKPPP_LocalWirelessPowerEmitter.label>LWPN emitter</ARKPPP_LocalWirelessPowerEmitter.label>
+  <ARKPPP_LocalWirelessPowerEmitter.description>A device used to build local (on the current map) wireless powergrid (LWPN), which allow to connect every electrical devices without cables</ARKPPP_LocalWirelessPowerEmitter.description>
+  <ARKPPP_LocalWirelessPortablePowerEmitter.label>Portale LWPN emitter</ARKPPP_LocalWirelessPortablePowerEmitter.label>
+  <ARKPPP_LocalWirelessPortablePowerEmitter.description>A portable device used to build local (on the current map) wireless powergrid (LWPN), which allow to connect every electrical devices without cables. Caution because of its small dimensions, it can handle limited wireless devices</ARKPPP_LocalWirelessPortablePowerEmitter.description>
+  <ARKPPP_PowerBeamAbsorptionDish.label>Absorption Dish</ARKPPP_PowerBeamAbsorptionDish.label>
+  <ARKPPP_PowerBeamAbsorptionDish.description>A giant absorption dish destined to gather power from the ancient satellites network</ARKPPP_PowerBeamAbsorptionDish.description>
+  <ARKPPP_PowerBeamSatelliteTargetingSystem.label>Satellite Targeting System</ARKPPP_PowerBeamSatelliteTargetingSystem.label>
+  <ARKPPP_PowerBeamSatelliteTargetingSystem.description>A supercomputer used to hack and control one of the ancient satellites. In addition to having to be constantly cooled, no abrupt desynchronization with the satellite should take place, because it can have very serious repercussions. Thus start and stop init sequences must always be respected !</ARKPPP_PowerBeamSatelliteTargetingSystem.description>
+  <ARKPPP_ADRelayTower.label>AD relay tower</ARKPPP_ADRelayTower.label>
+  <ARKPPP_ADRelayTower.description>Radio Antenna used to remotely connect one or more "Absorption Dishes"(ADs) to a Satelite Targetting System (STS) via the satelite network</ARKPPP_ADRelayTower.description>
+  <ARKPPP_PowerBeam.label>power beam</ARKPPP_PowerBeam.label>
+  <ARKPPP_MoteBIII.label>Mote</ARKPPP_MoteBIII.label>
+  <ARKPPP_MoteBII.label>Mote</ARKPPP_MoteBII.label>
+  <ARKPPP_MoteBI.label>Mote</ARKPPP_MoteBI.label>
+</LanguageData>
