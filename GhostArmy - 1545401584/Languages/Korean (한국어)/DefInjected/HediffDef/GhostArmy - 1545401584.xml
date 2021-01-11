@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WakeUpPotion.label>Wake up potion</WakeUpPotion.label>
+  <Curse.labelNounPretty>{0} in the {1}</Curse.labelNounPretty>
+  <Curse.label>Curse</Curse.label>
+  <Curse.labelNoun>a Curse</Curse.labelNoun>
+  <Curse.comps.0.labelTendedWell>Cleaned</Curse.comps.0.labelTendedWell>
+  <Curse.comps.0.labelTendedWellInner>Cleaned</Curse.comps.0.labelTendedWellInner>
+  <Curse.comps.0.labelSolidTendedWell>Cleaned</Curse.comps.0.labelSolidTendedWell>
+  <Curse.comps.1.permanentLabel>curse scar</Curse.comps.1.permanentLabel>
+  <Curse.injuryProps.destroyedLabel>destroyed</Curse.injuryProps.destroyedLabel>
+  <Curse.injuryProps.destroyedOutLabel>destroyed</Curse.injuryProps.destroyedOutLabel>
+  <Mage.labelNounPretty>{0} in the {1}</Mage.labelNounPretty>
+  <Mage.label>Mage</Mage.label>
+  <Mage.comps.0.labelTendedWell>bandaged</Mage.comps.0.labelTendedWell>
+  <Mage.comps.0.labelTendedWellInner>sutured</Mage.comps.0.labelTendedWellInner>
+  <Mage.comps.0.labelSolidTendedWell>set</Mage.comps.0.labelSolidTendedWell>
+  <Mage.comps.2.permanentLabel>mage scar</Mage.comps.2.permanentLabel>
+  <Mage.injuryProps.destroyedLabel>Torn off</Mage.injuryProps.destroyedLabel>
+  <Mage.injuryProps.destroyedOutLabel>Torn out</Mage.injuryProps.destroyedOutLabel>
+  <MageIce.labelNounPretty>{0} in the {1}</MageIce.labelNounPretty>
+  <MageIce.label>MageIce</MageIce.label>
+  <MageIce.comps.0.labelTendedWell>bandaged</MageIce.comps.0.labelTendedWell>
+  <MageIce.comps.0.labelTendedWellInner>sutured</MageIce.comps.0.labelTendedWellInner>
+  <MageIce.comps.0.labelSolidTendedWell>set</MageIce.comps.0.labelSolidTendedWell>
+  <MageIce.comps.1.permanentLabel>frostbite scar</MageIce.comps.1.permanentLabel>
+  <MageIce.injuryProps.destroyedLabel>Lost to frostbite</MageIce.injuryProps.destroyedLabel>
+  <WakeUpPotion.description>Staying awake at the expense of more energy.</WakeUpPotion.description>
+  <Curse.description>a Curse.</Curse.description>
+  <Mage.description>a mage.</Mage.description>
+  <MageIce.description>a mageIce.</MageIce.description>
+</LanguageData>
