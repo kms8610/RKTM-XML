@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BrewMysterySoda.label>brew mystery soda</BrewMysterySoda.label>
+  <BrewMysterySoda.description>Brew fruits and syrup into a sweet soda. \n\nMakes 6.</BrewMysterySoda.description>
+  <BrewMysterySoda.jobString>Brewing mystery soda</BrewMysterySoda.jobString>
+  <BrewSimpleSyrupVG.jobString>Brewing simple syrup</BrewSimpleSyrupVG.jobString>
+  <BrewSimpleSyrupVG.label>brew simple syrup (VG fruit)</BrewSimpleSyrupVG.label>
+  <BrewSimpleSyrupVG.description>Brew syrup by reducing high-sugar fruits from the Vegetable Garden mod.</BrewSimpleSyrupVG.description>
+  <BulkBrewSimpleSyrupVG.jobString>Brewing simple syrup</BulkBrewSimpleSyrupVG.jobString>
+  <BulkBrewSimpleSyrupVG.label>Bulk brew simple syrup (8) (VG fruit)</BulkBrewSimpleSyrupVG.label>
+  <BulkBrewSimpleSyrupVG.description>Bulk Brew syrup by reducing high-sugar fruits from the Vegetable Garden mod. \n\nMakes 8.</BulkBrewSimpleSyrupVG.description>
+  <CPD_MakebulkCornWort.label>make corn wort x4</CPD_MakebulkCornWort.label>
+  <CPD_MakebulkCornWort.description>Make wort from corn. \n\nMakes 20.</CPD_MakebulkCornWort.description>
+  <CPD_MakebulkCornWort.jobString>Making corn wort.</CPD_MakebulkCornWort.jobString>
+  <CPD_MakebulkRiceMash.label>make rice mash x4</CPD_MakebulkRiceMash.label>
+  <CPD_MakebulkRiceMash.description>Make rice mash for brewing saki. \n\nMakes 20.</CPD_MakebulkRiceMash.description>
+  <CPD_MakebulkRiceMash.jobString>Making rice mash.</CPD_MakebulkRiceMash.jobString>
+  <DistillBulkVodka.label>distill vodka x4</DistillBulkVodka.label>
+  <DistillBulkVodka.description>Filter and distill vodka precursor into vodka. \n\nMakes 20.</DistillBulkVodka.description>
+  <DistillBulkVodka.jobString>Distilling potatoes.</DistillBulkVodka.jobString>
+  <CPD_MakeBulkWineMust.label>make berry wine must x4</CPD_MakeBulkWineMust.label>
+  <CPD_MakeBulkWineMust.description>Make wine must from berries. \n\nMakes 20.</CPD_MakeBulkWineMust.description>
+  <CPD_MakeBulkWineMust.jobString>Making berry must.</CPD_MakeBulkWineMust.jobString>
+  <VG_MakeBulkCaneMust.label>make Cane must x4</VG_MakeBulkCaneMust.label>
+  <VG_MakeBulkCaneMust.description>Make cane must from sugarcane. \n\nMakes 20.</VG_MakeBulkCaneMust.description>
+  <VG_MakeBulkCaneMust.jobString>Making cane must.</VG_MakeBulkCaneMust.jobString>
+  <VG_MakeBulkAgaveMust.label>make Agave must x4</VG_MakeBulkAgaveMust.label>
+  <VG_MakeBulkAgaveMust.description>Make agave must from agave. \n\nMakes 20.</VG_MakeBulkAgaveMust.description>
+  <VG_MakeBulkAgaveMust.jobString>Making agave must.</VG_MakeBulkAgaveMust.jobString>
+  <VG_MakeBulkFruitMash.label>make fruit mash x4</VG_MakeBulkFruitMash.label>
+  <VG_MakeBulkFruitMash.description>Make fruit mash from fruit. \n\nMakes 20.</VG_MakeBulkFruitMash.description>
+  <VG_MakeBulkFruitMash.jobString>Making fruit mash.</VG_MakeBulkFruitMash.jobString>
+  <VG_MakeBulkAmbrosiaMust.label>make ambrosia must x4</VG_MakeBulkAmbrosiaMust.label>
+  <VG_MakeBulkAmbrosiaMust.description>Make ambrosia must from fruit. \n\nMakes 20.</VG_MakeBulkAmbrosiaMust.description>
+  <VG_MakeBulkAmbrosiaMust.jobString>Making ambrosia must.</VG_MakeBulkAmbrosiaMust.jobString>
+  <VG_MakeBulkFruitKvassWort.label>make fruit kvass wort x4</VG_MakeBulkFruitKvassWort.label>
+  <VG_MakeBulkFruitKvassWort.description>Make wort from fruit and syrup. \n\nMakes 20.</VG_MakeBulkFruitKvassWort.description>
+  <VG_MakeBulkFruitKvassWort.jobString>Making kvass wort.</VG_MakeBulkFruitKvassWort.jobString>
+  <CPD_MakeCornWort.label>make corn wort</CPD_MakeCornWort.label>
+  <CPD_MakeCornWort.description>Make wort from corn. \n\nMakes 5.</CPD_MakeCornWort.description>
+  <CPD_MakeCornWort.jobString>Making corn wort.</CPD_MakeCornWort.jobString>
+  <CPD_MakeRiceMash.label>make rice mash</CPD_MakeRiceMash.label>
+  <CPD_MakeRiceMash.description>Make rice mash for brewing saki. \n\nMakes 5.</CPD_MakeRiceMash.description>
+  <CPD_MakeRiceMash.jobString>Making rice mash.</CPD_MakeRiceMash.jobString>
+  <DistillVodka.label>distill vodka</DistillVodka.label>
+  <DistillVodka.description>Filter and distill vodka precursor into vodka. \n\nMakes 5.</DistillVodka.description>
+  <DistillVodka.jobString>Distilling potatoes.</DistillVodka.jobString>
+  <CPD_MakeWineMust.label>make berry wine must</CPD_MakeWineMust.label>
+  <CPD_MakeWineMust.description>Make wine must from berries. \n\nMakes 5.</CPD_MakeWineMust.description>
+  <CPD_MakeWineMust.jobString>Making berry must.</CPD_MakeWineMust.jobString>
+  <VG_MakeCaneMust.label>make Cane must</VG_MakeCaneMust.label>
+  <VG_MakeCaneMust.description>Make cane must from sugarcane. \n\nMakes 5.</VG_MakeCaneMust.description>
+  <VG_MakeCaneMust.jobString>Making cane must.</VG_MakeCaneMust.jobString>
+  <VG_MakeAgaveMust.label>make Agave must</VG_MakeAgaveMust.label>
+  <VG_MakeAgaveMust.description>Make agave must from agave. \n\nMakes 5.</VG_MakeAgaveMust.description>
+  <VG_MakeAgaveMust.jobString>Making agave must.</VG_MakeAgaveMust.jobString>
+  <VG_MakeFruitMash.label>make fruit mash</VG_MakeFruitMash.label>
+  <VG_MakeFruitMash.description>Make fruit mash from fruit. \n\nMakes 5.</VG_MakeFruitMash.description>
+  <VG_MakeFruitMash.jobString>Making fruit mash.</VG_MakeFruitMash.jobString>
+  <VG_MakeAmbrosiaMust.label>make ambrosia must</VG_MakeAmbrosiaMust.label>
+  <VG_MakeAmbrosiaMust.description>Make ambrosia must from fruit. \n\nMakes 5.</VG_MakeAmbrosiaMust.description>
+  <VG_MakeAmbrosiaMust.jobString>Making ambrosia must.</VG_MakeAmbrosiaMust.jobString>
+  <VG_MakeFruitKvassWort.label>make fruit kvass wort</VG_MakeFruitKvassWort.label>
+  <VG_MakeFruitKvassWort.description>Make wort from fruit and syrup. \n\nMakes 5.</VG_MakeFruitKvassWort.description>
+  <VG_MakeFruitKvassWort.jobString>Making kvass wort.</VG_MakeFruitKvassWort.jobString>
+  <BrewCoconutSoda.label>brew coconut soda</BrewCoconutSoda.label>
+  <BrewCoconutSoda.description>Brew coconuts and syrup into a sweet soda. \n\nMakes 6.</BrewCoconutSoda.description>
+  <BrewCoconutSoda.jobString>Brewing coconut soda</BrewCoconutSoda.jobString>
+  <BrewAppleSoda.label>brew apple soda</BrewAppleSoda.label>
+  <BrewAppleSoda.description>Brew apples and syrup into a sweet soda. \n\nMakes 6.</BrewAppleSoda.description>
+  <BrewAppleSoda.jobString>Brewing apple soda</BrewAppleSoda.jobString>
+  <BrewBananaSoda.label>brew banana soda</BrewBananaSoda.label>
+  <BrewBananaSoda.description>Brew bananas and syrup into a sweet soda. \n\nMakes 6.</BrewBananaSoda.description>
+  <BrewBananaSoda.jobString>Brewing banana soda</BrewBananaSoda.jobString>
+  <BrewGrapeSoda.label>brew grape soda</BrewGrapeSoda.label>
+  <BrewGrapeSoda.description>Brew grapes and syrup into a sweet soda. \n\nMakes 6.</BrewGrapeSoda.description>
+  <BrewGrapeSoda.jobString>Brewing grape soda</BrewGrapeSoda.jobString>
+  <BrewOrangeSoda.label>brew orange soda</BrewOrangeSoda.label>
+  <BrewOrangeSoda.description>Brew oranges and syrup into a sweet soda. \n\nMakes 6.</BrewOrangeSoda.description>
+  <BrewOrangeSoda.jobString>Brewing orange soda</BrewOrangeSoda.jobString>
+  <BrewPeachSoda.label>brew peach soda</BrewPeachSoda.label>
+  <BrewPeachSoda.description>Brew peaches and syrup into a sweet soda. \n\nMakes 6.</BrewPeachSoda.description>
+  <BrewPeachSoda.jobString>Brewing peach soda</BrewPeachSoda.jobString>
+  <BrewPineappleSoda.label>brew pineapple soda</BrewPineappleSoda.label>
+  <BrewPineappleSoda.description>Brew pineapples and syrup into a sweet soda. \n\nMakes 6.</BrewPineappleSoda.description>
+  <BrewPineappleSoda.jobString>Brewing pineapple soda</BrewPineappleSoda.jobString>
+  <BrewBlueberrySoda.label>brew blueberry soda</BrewBlueberrySoda.label>
+  <BrewBlueberrySoda.description>Brew blueberries and syrup into a sweet soda. \n\nMakes 6.</BrewBlueberrySoda.description>
+  <BrewBlueberrySoda.jobString>Brewing blueberry soda</BrewBlueberrySoda.jobString>
+  <BrewWatermelonSoda.label>brew watermelon soda</BrewWatermelonSoda.label>
+  <BrewWatermelonSoda.description>Brew watermelons and syrup into a sweet soda. \n\nMakes 6.</BrewWatermelonSoda.description>
+  <BrewWatermelonSoda.jobString>Brewing watermelon soda</BrewWatermelonSoda.jobString>
+  <BrewCloudberrySoda.label>brew cloudberry soda</BrewCloudberrySoda.label>
+  <BrewCloudberrySoda.description>Brew cloudberries and syrup into a sweet soda. \n\nMakes 6.</BrewCloudberrySoda.description>
+  <BrewCloudberrySoda.jobString>Brewing cloudberry soda</BrewCloudberrySoda.jobString>
+  <BrewGooseberrySoda.label>brew gooseberry soda</BrewGooseberrySoda.label>
+  <BrewGooseberrySoda.description>Brew gooseberries and syrup into a sweet soda. \n\nMakes 6.</BrewGooseberrySoda.description>
+  <BrewGooseberrySoda.jobString>Brewing gooseberry soda</BrewGooseberrySoda.jobString>
+  <BrewDateSoda.label>brew date soda</BrewDateSoda.label>
+  <BrewDateSoda.description>Brew dates and syrup into a sweet soda. \n\nMakes 6.</BrewDateSoda.description>
+  <BrewDateSoda.jobString>Brewing date soda</BrewDateSoda.jobString>
+  <BrewFigSoda.label>brew fig soda</BrewFigSoda.label>
+  <BrewFigSoda.description>Brew figs and syrup into a sweet soda. \n\nMakes 6.</BrewFigSoda.description>
+  <BrewFigSoda.jobString>Brewing fig soda</BrewFigSoda.jobString>
+  <BrewCherrySoda.label>brew Cherry soda</BrewCherrySoda.label>
+  <BrewCherrySoda.description>Brew cherries and syrup into a sweet soda. \n\nMakes 6.</BrewCherrySoda.description>
+  <BrewCherrySoda.jobString>Brewing cherry soda</BrewCherrySoda.jobString>
+</LanguageData>
