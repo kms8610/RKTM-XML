@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VG_antibiotics.label>antibiotics</VG_antibiotics.label>
+  <VG_antibiotics.description>A drink made from fruit and medicine to aid in recovery from sickness. Lasts for 4 days.</VG_antibiotics.description>
+  <Deworm.label>De-Worm</Deworm.label>
+  <Deworm.description>A drug for preventing parasites and worms before they take hold. Blocks gut worms and muscle parasites. Must be taken every five days to remain effective.\n\nThis drug only prevents new parasites. It does not cure existing parasites - even those that are not yet discovered.</Deworm.description>
+  <VG_FluEz.ingestible.ingestCommandString>Take {0}</VG_FluEz.ingestible.ingestCommandString>
+  <VG_FluEz.ingestible.ingestReportString>Taking {0}.</VG_FluEz.ingestible.ingestReportString>
+  <VG_FluEz.label>Flu Ez</VG_FluEz.label>
+  <VG_FluEz.description>A drug for blocking flu. Works on animals. Take every five days. \n\nMakes 2.</VG_FluEz.description>
+  <VG_Ibuprofen.ingestible.ingestCommandString>Take {0}</VG_Ibuprofen.ingestible.ingestCommandString>
+  <VG_Ibuprofen.ingestible.ingestReportString>Taking {0}.</VG_Ibuprofen.ingestible.ingestReportString>
+  <VG_Ibuprofen.label>Ibuprofen</VG_Ibuprofen.label>
+  <VG_Ibuprofen.description>A drug for blocking pain. Take every day.</VG_Ibuprofen.description>
+  <MechaGone.label>Mecha-Gone</MechaGone.label>
+  <MechaGone.description>A drug for preventing mechanites before they take hold. Blocks fibrous and sensory mechanites. Must be taken every 15 days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered.</MechaGone.description>
+  <RawTobacco.label>tobacco</RawTobacco.label>
+  <RawTobacco.description>Raw tobacco. Not recommended for eating, but makes for a nice smoke</RawTobacco.description>
+  <Cigarillos.label>Cigarillos</Cigarillos.label>
+  <Cigarillos.description>A pack of cigarillos</Cigarillos.description>
+  <Cigarillos.ingestible.ingestCommandString>Smoke {0}</Cigarillos.ingestible.ingestCommandString>
+  <Cigarillos.ingestible.ingestReportString>Smoking {0}.</Cigarillos.ingestible.ingestReportString>
+  <Cigarillos.ingestible.ingestReportStringEat>Consuming {0}.</Cigarillos.ingestible.ingestReportStringEat>
+  <NeutroPetals.label>Neutro Flower Petals</NeutroPetals.label>
+  <NeutroPetals.description>Beautiful Yellow-Orange Petals from the Neutro Flower. Used to make Neutroamine, a medicine base.</NeutroPetals.description>
+  <Bandagekit.label>Bandage Kit</Bandagekit.label>
+  <Bandagekit.description>A pack of bandages made from cloth. Less potent than medical kits.</Bandagekit.description>
+  <PlantNeutroFlower.label>Neutro Flower</PlantNeutroFlower.label>
+  <PlantNeutroFlower.description>A beautiful Yellow-Orange Flower. Used to make Neutroamine, a medicine base.</PlantNeutroFlower.description>
+  <Plant_DecoNeutroFlower.label>Neutro Deco Flower</Plant_DecoNeutroFlower.label>
+  <Plant_DecoNeutroFlower.description>A beautiful Yellow-Orange Flower. Smaller in size only used for decoration. Does not produce Neutroamine.</Plant_DecoNeutroFlower.description>
+  <PlantTobacco.label>tobacco plant</PlantTobacco.label>
+  <PlantTobacco.description>A green, leafy plant. Use in making cigarillos.</PlantTobacco.description>
+  <VG_PlantAmbrosia.label>ambrosia bush</VG_PlantAmbrosia.label>
+  <VG_PlantAmbrosia.description>A bush which yields the ambrosia fruit. Ambrosia is pleasurable to eat and produces a slightly addictive chemical warmth effect. Grown in a Hydroponics basin. Does not destroy when harvested.</VG_PlantAmbrosia.description>
+  <Penoxycyline.description.description>A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Works in animals. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered.</Penoxycyline.description.description>
+</LanguageData>

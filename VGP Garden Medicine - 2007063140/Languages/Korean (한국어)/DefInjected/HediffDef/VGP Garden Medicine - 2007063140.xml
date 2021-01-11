@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Antibiotics.label>antibiotics</Antibiotics.label>
+  <Antibiotics.description>Antibiotics are used to speed up the recovery time from sickness. Helps prevent infections.</Antibiotics.description>
+  <Antibiotics.stages.1.label>boosted immunedefency</Antibiotics.stages.1.label>
+  <DewormHigh.label>de-worm</DewormHigh.label>
+  <DewormHigh.description>Drug-induced immunity to certain parasites. This only blocks new parasites; it does nothing for those who are already infected with parasites, even if their parasites are dormant.</DewormHigh.description>
+  <FluEzHigh.description>You've taken medicine that helps protect from the flu.</FluEzHigh.description>
+  <FluEzHigh.label>Flu Ez</FluEzHigh.label>
+  <IbuprofenHigh.description>You've taken medicine that helps with the pain.</IbuprofenHigh.description>
+  <IbuprofenHigh.label>Ibuprofen</IbuprofenHigh.label>
+  <IbuprofenHigh.stages.0.label>feeling better</IbuprofenHigh.stages.0.label>
+  <MechaGoneHigh.label>MechaGone</MechaGoneHigh.label>
+  <MechaGoneHigh.description>Drug-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant.</MechaGoneHigh.description>
+  <Tobacco.label>tobacco</Tobacco.label>
+  <Tobacco.description>Tobacco is grown for drying and smoking. It is also used for trade.</Tobacco.description>
+  <Tobacco.stages.0.label>comfortably numb</Tobacco.stages.0.label>
+  <Tobacco.stages.1.label>comfortably buzzed</Tobacco.stages.1.label>
+  <Tobacco.stages.2.label>blackout</Tobacco.stages.2.label>
+  <TobaccoTolerance.stages.0.label>small</TobaccoTolerance.stages.0.label>
+  <TobaccoTolerance.stages.1.label>small</TobaccoTolerance.stages.1.label>
+  <TobaccoTolerance.stages.2.label>large</TobaccoTolerance.stages.2.label>
+  <TobaccoTolerance.stages.3.label>massive</TobaccoTolerance.stages.3.label>
+  <TobaccoTolerance.label>tobacco tolerance</TobaccoTolerance.label>
+  <TobaccoTolerance.description>Because of an tobacco addiction, this person needs to regularly consume more the drug to get that fix.</TobaccoTolerance.description>
+  <TobaccoAddiction.label>tobacco addiction</TobaccoAddiction.label>
+  <TobaccoAddiction.description>Due to prolonged use of tobacco, this person needs to regularly consume the drug to get that fix.</TobaccoAddiction.description>
+  <TobaccoAddiction.stages.1.label>withdrawal</TobaccoAddiction.stages.1.label>
+</LanguageData>
