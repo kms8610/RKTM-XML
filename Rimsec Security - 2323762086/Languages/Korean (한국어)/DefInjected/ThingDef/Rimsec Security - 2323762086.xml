@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RSChargeStation.label>Maintenance Station</RSChargeStation.label>
+  <RSChargeStation.description>Allows Peacekeeper robots to recharge and get automatically repaired. Repairs require the station being supplied with components, recharging only requires energy.</RSChargeStation.description>
+  <RSRobotAssemblyBench.label>Peacekeeper assembly bench</RSRobotAssemblyBench.label>
+  <RSRobotAssemblyBench.description>A non-commercial assembly bench developed by SRS for the manufacturing of SRS Robots.</RSRobotAssemblyBench.description>
+  <RSTurretLLT.label>Light laser turret</RSTurretLLT.label>
+  <RSTurretLLT.description>Basic Laser Defense System from Saturn Robotics System.</RSTurretLLT.description>
+  <RSTurretLLT.comps.4.fuelLabel>Shots until barrel change</RSTurretLLT.comps.4.fuelLabel>
+  <RSTurretLLT.comps.4.fuelGizmoLabel>Barrel durability</RSTurretLLT.comps.4.fuelGizmoLabel>
+  <RSTurretLLT.comps.4.outOfFuelMessage>Cannot shoot: Needs new barrel</RSTurretLLT.comps.4.outOfFuelMessage>
+  <RSTurretLLTBullet.label>light laser</RSTurretLLTBullet.label>
+  <RSTurretLLTGun.label>autocannon</RSTurretLLTGun.label>
+  <RSTurretLLTGun.description>Basic Laser Defense System from Saturn Robotics System.</RSTurretLLTGun.description>
+  <RSTurretHLT.label>Heavy laser turret</RSTurretHLT.label>
+  <RSTurretHLT.description>An Advanced Laser Defense System from Saturn Robotics System.</RSTurretHLT.description>
+  <RSTurretHLT.comps.4.fuelLabel>Shots until barrel change</RSTurretHLT.comps.4.fuelLabel>
+  <RSTurretHLT.comps.4.fuelGizmoLabel>Barrel durability</RSTurretHLT.comps.4.fuelGizmoLabel>
+  <RSTurretHLT.comps.4.outOfFuelMessage>Cannot shoot: Needs new barrel</RSTurretHLT.comps.4.outOfFuelMessage>
+  <RSTurretHLTBullet.label>autocannon shell</RSTurretHLTBullet.label>
+  <RSTurretHLTGun.label>heavy laser</RSTurretHLTGun.label>
+  <RSTurretHLTGun.description>An Advanced Laser Defense System from Saturn Robotics System.</RSTurretHLTGun.description>
+  <RSTurretHAAC.label>HAAC</RSTurretHAAC.label>
+  <RSTurretHAAC.description>A Heavy Anti Armour Cannon developed by Saturn Robotics Systems.</RSTurretHAAC.description>
+  <RSTurretHAAC.comps.5.fuelLabel>Shots until barrel change</RSTurretHAAC.comps.5.fuelLabel>
+  <RSTurretHAAC.comps.5.fuelGizmoLabel>Barrel durability</RSTurretHAAC.comps.5.fuelGizmoLabel>
+  <RSTurretHAAC.comps.5.outOfFuelMessage>Cannot shoot: Needs new barrel</RSTurretHAAC.comps.5.outOfFuelMessage>
+  <RSMissile.label>rocket</RSMissile.label>
+  <RSTurretHAACBullet.label>HAAC shell</RSTurretHAACBullet.label>
+  <RSTurretHAACGun.label>autocannon</RSTurretHAACGun.label>
+  <RSTurretHAACGun.description>A Heavy Anti Armour Cannon developed by Saturn Robotics Systems.</RSTurretHAACGun.description>
+  <RSTurretBulletTest.label>autocannon shell</RSTurretBulletTest.label>
+  <RSFilthCoolant.label>Coolant</RSFilthCoolant.label>
+  <RSPeacekeeperDefenderSpawner.description>Creates a Peacekeeper</RSPeacekeeperDefenderSpawner.description>
+  <RSPeacekeeperDefenderSpawner.label>Peacekeeper Defender</RSPeacekeeperDefenderSpawner.label>
+  <RSPeacekeeperDefenderForestSpawner.description>Creates a Peacekeeper</RSPeacekeeperDefenderForestSpawner.description>
+  <RSPeacekeeperDefenderForestSpawner.label>Peacekeeper Defender</RSPeacekeeperDefenderForestSpawner.label>
+  <RSPeacekeeperDefenderDesertSpawner.description>Creates a Peacekeeper</RSPeacekeeperDefenderDesertSpawner.description>
+  <RSPeacekeeperDefenderDesertSpawner.label>Peacekeeper Defender</RSPeacekeeperDefenderDesertSpawner.label>
+  <RSPeacekeeperDefenderWinterSpawner.description>Creates a Peacekeeper</RSPeacekeeperDefenderWinterSpawner.description>
+  <RSPeacekeeperDefenderWinterSpawner.label>Peacekeeper Defender</RSPeacekeeperDefenderWinterSpawner.label>
+  <RSPeacekeeperEnforcerSpawner.description>Creates a Peacekeeper</RSPeacekeeperEnforcerSpawner.description>
+  <RSPeacekeeperEnforcerSpawner.label>Peacekeeper Enforcer</RSPeacekeeperEnforcerSpawner.label>
+  <RSPeacekeeperEnforcerForestSpawner.description>Creates a Peacekeeper</RSPeacekeeperEnforcerForestSpawner.description>
+  <RSPeacekeeperEnforcerForestSpawner.label>Peacekeeper Enforcer</RSPeacekeeperEnforcerForestSpawner.label>
+  <RSPeacekeeperEnforcerDesertSpawner.description>Creates a Peacekeeper</RSPeacekeeperEnforcerDesertSpawner.description>
+  <RSPeacekeeperEnforcerDesertSpawner.label>Peacekeeper Enforcer</RSPeacekeeperEnforcerDesertSpawner.label>
+  <RSPeacekeeperEnforcerWinterSpawner.description>Creates a Peacekeeper</RSPeacekeeperEnforcerWinterSpawner.description>
+  <RSPeacekeeperEnforcerWinterSpawner.label>Peacekeeper Enforcer</RSPeacekeeperEnforcerWinterSpawner.label>
+  <RSPeacekeeperSentinelSpawner.description>Creates a Peacekeeper</RSPeacekeeperSentinelSpawner.description>
+  <RSPeacekeeperSentinelSpawner.label>Peacekeeper Sentinel</RSPeacekeeperSentinelSpawner.label>
+  <RSPeacekeeperSentinelForestSpawner.description>Creates a Peacekeeper</RSPeacekeeperSentinelForestSpawner.description>
+  <RSPeacekeeperSentinelForestSpawner.label>Peacekeeper Sentinel</RSPeacekeeperSentinelForestSpawner.label>
+  <RSPeacekeeperSentinelDesertSpawner.description>Creates a Peacekeeper</RSPeacekeeperSentinelDesertSpawner.description>
+  <RSPeacekeeperSentinelDesertSpawner.label>Peacekeeper Sentinel</RSPeacekeeperSentinelDesertSpawner.label>
+  <RSPeacekeeperSentinelWinterSpawner.description>Creates a Peacekeeper</RSPeacekeeperSentinelWinterSpawner.description>
+  <RSPeacekeeperSentinelWinterSpawner.label>Peacekeeper Sentinel</RSPeacekeeperSentinelWinterSpawner.label>
+  <RSSRSProcessingChip.label>SRS processing chip</RSSRSProcessingChip.label>
+  <RSSRSProcessingChip.description>The SRS Processing Chip is a vital part of manufacturing SRS Robots and without it and the assembly bench, all SRS robots are inoperable without the chip. They can be bought through SRS Trade Ships and can be salvaged from destroyed SRS units.</RSSRSProcessingChip.description>
+  <RSPowerCell.label>SRS power cell</RSPowerCell.label>
+  <RSPowerCell.description>The SRS Power Cell is often used to refuel SRS Robots. They can be built via the Assembly bench or can be bought through SRS Trade Ships.</RSPowerCell.description>
+  <RSWeaponDLG.label>DLG-20</RSWeaponDLG.label>
+  <RSWeaponDLG.description>A standard issued Defender Burst Laser Rifle for short to medium range engagements.</RSWeaponDLG.description>
+  <RSWeaponDLG.tools.0.label>stock</RSWeaponDLG.tools.0.label>
+  <RSWeaponDLG.tools.1.label>barrel</RSWeaponDLG.tools.1.label>
+  <RSWeaponDLGBullet.label>charge shot</RSWeaponDLGBullet.label>
+  <RSWeaponEHG.label>EHG-22</RSWeaponEHG.label>
+  <RSWeaponEHG.description>A standard issued Enforcer Heavy Laser Minigun for short to medium range engagements.</RSWeaponEHG.description>
+  <RSWeaponEHG.tools.0.label>stock</RSWeaponEHG.tools.0.label>
+  <RSWeaponEHG.tools.1.label>barrel</RSWeaponEHG.tools.1.label>
+  <RSWeaponEHGBullet.label>charge shot</RSWeaponEHGBullet.label>
+  <RSWeaponSHAG.label>SHAG-1</RSWeaponSHAG.label>
+  <RSWeaponSHAG.description>A standard issued heavy assault gun used by Sentinels in a supporting role whether it is a in an offensive or defensive capacity.</RSWeaponSHAG.description>
+  <RSWeaponSHAG.tools.0.label>stock</RSWeaponSHAG.tools.0.label>
+  <RSWeaponSHAG.tools.1.label>barrel</RSWeaponSHAG.tools.1.label>
+  <RSWeaponSHAGBullet.label>charge shot</RSWeaponSHAGBullet.label>
+</LanguageData>

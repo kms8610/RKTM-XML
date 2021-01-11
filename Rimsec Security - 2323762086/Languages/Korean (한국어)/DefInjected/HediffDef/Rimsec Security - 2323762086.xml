@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RSRobotConsciousness.label>Artificial Consciousness</RSRobotConsciousness.label>
+  <RSRobotConsciousness.description>I am, so I serve.</RSRobotConsciousness.description>
+  <RSEnergyShortage.label>Energy shortage</RSEnergyShortage.label>
+  <RSEnergyShortage.description>This unit is low on power.</RSEnergyShortage.description>
+  <RSEnergyShortage.stages.0.label>trivial</RSEnergyShortage.stages.0.label>
+  <RSEnergyShortage.stages.1.label>minor</RSEnergyShortage.stages.1.label>
+  <RSEnergyShortage.stages.2.label>moderate</RSEnergyShortage.stages.2.label>
+  <RSEnergyShortage.stages.3.label>severe</RSEnergyShortage.stages.3.label>
+  <RSEnergyShortage.stages.4.label>extreme</RSEnergyShortage.stages.4.label>
+  <RSPeacekeeperBattery.label>SRS Battery</RSPeacekeeperBattery.label>
+  <RSPeacekeeperBattery.description>The installed battery in this unit.</RSPeacekeeperBattery.description>
+  <RSPeacekeeperBattery.stages.0.label>Basic</RSPeacekeeperBattery.stages.0.label>
+  <RSPeacekeeperBattery.stages.1.label>Advanced</RSPeacekeeperBattery.stages.1.label>
+  <RSPeacekeeperBattery.stages.2.label>Ultra</RSPeacekeeperBattery.stages.2.label>
+  <RSTerrainAdvantage.label>Terrain advantage</RSTerrainAdvantage.label>
+  <RSTerrainAdvantage.description>This unit has a great movement advantage due to it's specialization towards this terrain</RSTerrainAdvantage.description>
+</LanguageData>
