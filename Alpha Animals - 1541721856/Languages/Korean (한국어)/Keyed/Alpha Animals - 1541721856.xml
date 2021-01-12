@@ -16,6 +16,11 @@
   <AA_MimeNotTameable>The Mime refuses to be tamed</AA_MimeNotTameable>
   <AA_StomachContents>{0} creatures swallowed whole. </AA_StomachContents>
   <AA_DigestionTime>Will be consumed in {0}</AA_DigestionTime>
+  <AA_DestroyFlamingoEggsLabel>Smash Egg</AA_DestroyFlamingoEggsLabel>
+  <AA_DestroyFlamingoEggsDesc>Queue a work order to smash this egg as soon as possible</AA_DestroyFlamingoEggsDesc>
+  <AA_CancelDestroyFlamingoEggsLabel>Cancel Smashing Egg</AA_CancelDestroyFlamingoEggsLabel>
+  <AA_CancelDestroyFlamingoEggsDesc>Cancel a work order to smash this egg as soon as possible</AA_CancelDestroyFlamingoEggsDesc>
+  <AA_HuskNotTameable>The Fungal Husk only exists to spread its fungal infection, it can't be tamed</AA_HuskNotTameable>
   <LetterLabelColossalAerofleetPasses>Colossal Aerofleet</LetterLabelColossalAerofleetPasses>
   <LetterColossalAerofleetPasses>A strange floating creature bounces around in the distance, blundering around the landscape.\n\nA small horde of smaller specimens seem to be attracted to it, and follow it at a short distance.\n\nThey seem to be mostly harmless, and will probably leave the area when they have fed.</LetterColossalAerofleetPasses>
   <LetterLabelSkyAsteroid>Strange asteroid</LetterLabelSkyAsteroid>
@@ -44,6 +49,8 @@
   <AA_LetterMechanoidSappers>A previously cloaked ancient mechanoid assembler has mysteriously appeared nearby.\n\nA swarm of mechanoids spews forth, quickly readying for an attack.\n\nOne of these mechanoids is a dangerous Demolisher, so they'll probably go straight for the walls!</AA_LetterMechanoidSappers>
   <AA_LetterLabelMatureFleshbeast>Devoured whole</AA_LetterLabelMatureFleshbeast>
   <AA_LetterMatureFleshbeast>A grotesque creature has swallowed {0} whole! If you act quickly, perhaps you can still save {0_objective}.</AA_LetterMatureFleshbeast>
+  <AA_LetterLabelFungalHusk>Fungal Husks</AA_LetterLabelFungalHusk>
+  <AA_LetterFungalHusk>Bloating, shambling corpses animated by a terrible weaponized fungus have entered this territory!\n\nDon't let them attack your colonists, or they will be afflicted by a fast acting fungal infection that can kill quickly if untreated.</AA_LetterFungalHusk>
   <HyperweaveDesc>Hyperweave production</HyperweaveDesc>
   <AA_UraniumCrystalsDesc>Uranium crystal loosening</AA_UraniumCrystalsDesc>
   <StoneChunkDesc>Random stone chunk loosening</StoneChunkDesc>
@@ -61,6 +68,7 @@
   <AA_CinderSilkDesc>Cindersilk production</AA_CinderSilkDesc>
   <AA_MothSilkDesc>Moth silk production</AA_MothSilkDesc>
   <AA_BlueGel>Blue Gel production</AA_BlueGel>
+  <AA_Luciferium>Luciferium production</AA_Luciferium>
   <allowVanillaAnimals>Allow spawning all base game animals (affects only wild spawns)</allowVanillaAnimals>
   <allowBlackHive>Allow Black Hive raids</allowBlackHive>
   <allowStalkingLions>Allow Stalking Arctic Lion attacks</allowStalkingLions>
@@ -78,5 +86,6 @@
   <removeAnimalParticles>Remove animal particles</removeAnimalParticles>
   <allowAnimalisk>Allow Animalisk (Royalty only in any case)</allowAnimalisk>
   <allowMime>Allow Mime Wanderer Joins event</allowMime>
+  <allowFungalHusk>Allow Fungal Husk attack event</allowFungalHusk>
   <AA_DisableAnimal>Disable {0}</AA_DisableAnimal>
 </LanguageData>

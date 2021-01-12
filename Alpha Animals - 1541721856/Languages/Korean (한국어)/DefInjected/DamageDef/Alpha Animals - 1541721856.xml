@@ -2,6 +2,8 @@
 <LanguageData>
   <AA_ToxicSting.label>toxic sting</AA_ToxicSting.label>
   <AA_ToxicSting.deathMessage>{0} has been stung to death.</AA_ToxicSting.deathMessage>
+  <AA_ToxicBite.label>toxic bite</AA_ToxicBite.label>
+  <AA_ToxicBite.deathMessage>{0} has been bitten to death.</AA_ToxicBite.deathMessage>
   <AA_InfectedClaws.label>infected claws</AA_InfectedClaws.label>
   <AA_ExtraDamageInsectoidsClaws.label>rending claws</AA_ExtraDamageInsectoidsClaws.label>
   <AA_EMPBlunt.label>EMP pulse</AA_EMPBlunt.label>
@@ -9,6 +11,8 @@
   <AA_ToxicBolt.deathMessage>{0} has been stung to death.</AA_ToxicBolt.deathMessage>
   <AA_AcidSpit.label>acid spit</AA_AcidSpit.label>
   <AA_AcidSpit.deathMessage>{0} has been corroded to death.</AA_AcidSpit.deathMessage>
+  <AA_LuciferiumExplosion.label>luciferium burst</AA_LuciferiumExplosion.label>
+  <AA_LuciferiumExplosion.deathMessage>{0} has been overdosed to death.</AA_LuciferiumExplosion.deathMessage>
   <AA_AcidRainDamage.label>acid rain</AA_AcidRainDamage.label>
   <AA_AcidRainDamage.deathMessage>{0} has been corroded to death.</AA_AcidRainDamage.deathMessage>
   <AA_SecondaryAcidBurn.label>acid burn</AA_SecondaryAcidBurn.label>
@@ -38,4 +42,5 @@
   <BodyCrush.label>crush</BodyCrush.label>
   <BodyCrush.deathMessage>{0} has been crushed to death.</BodyCrush.deathMessage>
   <AA_SwarmlingClaws.label>swarmling claws</AA_SwarmlingClaws.label>
+  <AA_FungalClaws.label>infected claws</AA_FungalClaws.label>
 </LanguageData>

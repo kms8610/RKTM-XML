@@ -9,9 +9,9 @@
   <AA_SkySteelClumps.label>strange shiny mineral</AA_SkySteelClumps.label>
   <AA_SkySteelClumps.description>This strange mineral is very hard and resilient. Perhaps you could find a way to extract useable materials from it.</AA_SkySteelClumps.description>
   <AA_BlueGelBattery.label>blue gel battery</AA_BlueGelBattery.label>
-  <AA_BlueGelBattery.description>Can store more electricity than regular batteries thanks to the energetic make up of blue gel. As a downside, they are highly flammable. Charged blue gel betteries explode when exposed to rain or fire.</AA_BlueGelBattery.description>
+  <AA_BlueGelBattery.description>Can store more electricity than regular batteries thanks to the energetic make up of blue gel. As a downside, they are highly flammable. Charged blue gel batteries explode when exposed to rain or fire.</AA_BlueGelBattery.description>
   <AA_HexaGelBattery.label>hexagel battery</AA_HexaGelBattery.label>
-  <AA_HexaGelBattery.description>Can store more electricity than blue gel batteries. As a downside, they are highly flammable, and they will violently explode if destroyed. Charged hexagel betteries explode when exposed to rain or fire.</AA_HexaGelBattery.description>
+  <AA_HexaGelBattery.description>Can store more electricity than blue gel batteries. As a downside, they are highly flammable, and they will violently explode if destroyed. Charged hexagel batteries explode when exposed to rain or fire.</AA_HexaGelBattery.description>
   <AA_HexagelCoreReactor.label>hexagel core reactor</AA_HexagelCoreReactor.label>
   <AA_HexagelCoreReactor.description>Produces electricity from energy stored inside hexagel cores.</AA_HexagelCoreReactor.description>
   <AA_MutantLeg.label>mutant leg</AA_MutantLeg.label>
@@ -79,7 +79,7 @@
   <AA_JungleliskEggUnfertilized.label>junglelisk egg (unfert.)</AA_JungleliskEggUnfertilized.label>
   <AA_JungleliskEggUnfertilized.description>Unfertilized junglelisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way...</AA_JungleliskEggUnfertilized.description>
   <AA_JungleliskEggFertilized.label>junglelisk egg (fert.)</AA_JungleliskEggFertilized.label>
-  <AA_JungleliskEggFertilized.description>Fertilized junglelisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way... If all goes well, it should hatch into a junglelisk.</AA_JungleliskEggFertilized.description>
+  <AA_JungleliskEggFertilized.description>Fertilized junglelisk egg. Non-edible. If all goes well, it should hatch into a junglelisk.</AA_JungleliskEggFertilized.description>
   <AA_CinderliskEggUnfertilized.label>cinderlisk egg (unfert.)</AA_CinderliskEggUnfertilized.label>
   <AA_CinderliskEggUnfertilized.description>Unfertilized cinderlisk egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a spider egg, it is disgusting either way...</AA_CinderliskEggUnfertilized.description>
   <AA_CinderliskEggFertilized.label>cinderlisk egg (fert.)</AA_CinderliskEggFertilized.label>
@@ -106,6 +106,8 @@
   <AA_FireWaspEggFertilized.description>Fertilized fire wasp egg. If all goes well, it should hatch into a fire wasp. Fire Wasp Eggs radiate an incredible amount of heat, and they can be dangerous if left unchecked, and extremely uncomfortable to eat.</AA_FireWaspEggFertilized.description>
   <AA_FireWaspEggUnfertilized.label>fire wasp egg (unfert.)</AA_FireWaspEggUnfertilized.label>
   <AA_FireWaspEggUnfertilized.description>Unfertilized fire wasp egg. Fire Wasp Eggs radiate an incredible amount of heat, and they can be dangerous if left unchecked, and extremely uncomfortable to eat.</AA_FireWaspEggUnfertilized.description>
+  <AA_EggFlamingoPhoenixFertilized.label>flamingo phoenix egg (fert.)</AA_EggFlamingoPhoenixFertilized.label>
+  <AA_EggFlamingoPhoenixFertilized.description>Fertilized flamingo phoenix egg. If all goes well, it should hatch into a flamingo phoenix chick. It can be eaten raw, but it's much better cooked.</AA_EggFlamingoPhoenixFertilized.description>
   <AA_AerofleetMeat.label>aerofleet meat</AA_AerofleetMeat.label>
   <AA_AerofleetMeat.description>Raw meat from an aerofleet.\n\nChewy, gelatinous and insipid. Similar in texture to a jellyfish.</AA_AerofleetMeat.description>
   <AA_OcularJellyMeat.label>ocular jelly meat</AA_OcularJellyMeat.label>
@@ -160,7 +162,7 @@
   <Leather_Chitin.description>Hard overlapping scales of insectoid chitin. It is exceptionally durable in combat, but provides little protection from weather.</Leather_Chitin.description>
   <Leather_IronChitin.label>iron chitin</Leather_IronChitin.label>
   <Leather_IronChitin.description>Super hard overlapping scales of insectoid chitin. It seems to be reinforced with some kind of iron lattice.</Leather_IronChitin.description>
-  <Leather_RaptorPlates.label>raptor shrimp plates</Leather_RaptorPlates.label>
+  <Leather_RaptorPlates.label>hardened chitin</Leather_RaptorPlates.label>
   <Leather_RaptorPlates.description>Overlapping plates of hardened chitin. Really durable in combat, but provides little protection from weather.</Leather_RaptorPlates.description>
   <Leather_Cactus.label>sentient plant skin</Leather_Cactus.label>
   <Leather_Cactus.description>This strange material seems to be part animal hide, part living plant tissue. It traps cold water inside, acting as an incredibly good thermal insulator for hot climates.</Leather_Cactus.description>
@@ -426,6 +428,16 @@
   <AA_FissionMouseThird.tools.0.label>left claw</AA_FissionMouseThird.tools.0.label>
   <AA_FissionMouseThird.tools.1.label>right claw</AA_FissionMouseThird.tools.1.label>
   <AA_FissionMouseThird.tools.3.label>head</AA_FissionMouseThird.tools.3.label>
+  <AA_FlamingoPhoenix.label>flamingo phoenix</AA_FlamingoPhoenix.label>
+  <AA_FlamingoPhoenix.description>- "O, His Excelency, Most High Royal Geneticist: I have laboured hard to complete your latest assignment, and it pleases me to say that I finally have results to show you."\n\n
+		- "Excellent, and just in time. The King is eagerly awaiting this speciment for his menagerie. Show me."\n\n
+		- "Lo and behold! A magical creature most astounding!"\n\n
+		- "What the HELL is that!?\n\n
+		- "Uh... it's... uh... the creature you... requested... uh, Sir."\n\n
+		- "You drooling moron! I said a FLAMING PHOENIX!"\n\n\n\nThe Flamingo Phoenix is a failed genetic creation that will erupt in a flaming conflagration when it dies, leaving a fire resistant egg behind. This egg will soon hatch into a new specimen. The only way to get rid of a Flamingo Phoenix is to destroy these eggs before they hatch. Sometimes two eggs will be produced, this being the only viable way of reproduction the species has.</AA_FlamingoPhoenix.description>
+  <AA_FlamingoPhoenix.tools.0.label>claws</AA_FlamingoPhoenix.tools.0.label>
+  <AA_FlamingoPhoenix.tools.1.label>beak</AA_FlamingoPhoenix.tools.1.label>
+  <AA_FlamingoPhoenix.tools.2.label>head</AA_FlamingoPhoenix.tools.2.label>
   <AA_FrostAve.label>frost ave</AA_FrostAve.label>
   <AA_FrostAve.description>The Frost Ave is a large flightless bird adapted to living in very cold terrains. A dense plumage covers all its body, keeping it warm and protected from intense winds. Compared to their more common Meadow Ave relatives, Frost Aves are ovoviviparous, a mode of reproduction in which embryos develop inside eggs that remain in the mother's body until they are ready to hatch. They are slightly larger than Meadow Aves\n\nFrost Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Frost Aves move 50% faster when used as mounts).</AA_FrostAve.description>
   <AA_FrostAve.tools.0.label>claws</AA_FrostAve.tools.0.label>
@@ -442,6 +454,12 @@
   <AA_Frostmite.description>A large parasite usually found in cold places. They sweep the cold barren lands in search of corpses buried in the snow, eating the preserved flesh and leaving a ravaged skeleton in its place; devoid of their former identity.</AA_Frostmite.description>
   <AA_Frostmite.tools.0.label>head-claw</AA_Frostmite.tools.0.label>
   <AA_Frostmite.tools.2.label>head</AA_Frostmite.tools.2.label>
+  <AA_FungalHusk.label>fungal husk</AA_FungalHusk.label>
+  <AA_FungalHusk.description>A bloated, shambling corpse animated by a genetically modified strain of caterpillar fungus, used as a biological weapon.\n\nFungal husks serve as ambulatory delivery systems for the fungus, attempting to reach and maul any living animals nearby to spread the fungal infection. This infection is extremely virulent, able to kill a human being in a few hours. However, it is very easy to treat, and it will be kept contained and disappear as long as a medic treats it fast and with a decent treatment quality. Luckily, the fungus has mutated from its original weaponized effects, and a person or animal dying from the infection won't transform into another fungal husk.</AA_FungalHusk.description>
+  <AA_FungalHusk.tools.0.label>left fist</AA_FungalHusk.tools.0.label>
+  <AA_FungalHusk.tools.1.label>right fist</AA_FungalHusk.tools.1.label>
+  <AA_FungalHusk.tools.2.label>teeth</AA_FungalHusk.tools.2.label>
+  <AA_FungalHusk.tools.3.label>head</AA_FungalHusk.tools.3.label>
   <AA_Gallatross.label>gallatross</AA_Gallatross.label>
   <AA_Gallatross.description>Throughout every world,
       Flow the tale of old,
@@ -494,6 +512,10 @@
   <AA_Lockjaw.label>lockjaw</AA_Lockjaw.label>
   <AA_Lockjaw.description>A very large animal native to this planet’s tropical regions. Nicknamed Lockjaws both for their incredibly strong bite force and for the disease they transmit, which afflicts its victims with a moderate facial paralysis that makes eating extremely uncomfortable.\n\nDespite having a guillotine for a mouth, the Lockjaw does not seem to be an overly aggressive creature; Preferring to prey on the local wildlife rather than the local populace.</AA_Lockjaw.description>
   <AA_Lockjaw.tools.1.label>head</AA_Lockjaw.tools.1.label>
+  <AA_LuciferBug.label>luciferbug</AA_LuciferBug.label>
+  <AA_LuciferBug.description>A small insectoid, genetically modified to produce small batches of Luciferium extract every few days.\n\nEven though they are useful as a source of the dangerous drug, the fact that Luciferium is a mechanite-based drug makes luciferbugs extremely unstable, and prone to violent detonation if damaged. This detonation releases all the Luciferium accumulating on their abdomens, subjecting any nearby creatures to a dangerous drug overdose. For this reason, luciferbugs should always be kep VERY FAR AWAY from any valuable members of the colony.</AA_LuciferBug.description>
+  <AA_LuciferBug.tools.0.label>mandibles</AA_LuciferBug.tools.0.label>
+  <AA_LuciferBug.tools.1.label>head</AA_LuciferBug.tools.1.label>
   <AA_MammothWorm.label>Mammoth Worm</AA_MammothWorm.label>
   <AA_MammothWorm.description>An extremely large, genetically-engineered worm. Despite its incredibly intimidating size and arsenal, these huge creatures are rather quite peaceful. It was once part of the worker caste of an artificial ecosystem of insectoids designed to fight mechanoid invasions. It carried and moved things that its little cousins cannot.\n\nWhile generally peaceful, if provoked, it becomes a terrifying force that can rival those of mechanoid Centipedes.\n\nOriginally, the Mammoth Worm was specifically bred as a living siege engine to destroy mechanoid structures, and as such it can be extremely effective.\n\nMammoth Worms are also pretty good mounts, they will move slightly faster when mounted, and shrug off incoming projectiles (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Mammoth Worm move 25% faster when used as mounts and increase their armor by 50%).</AA_MammothWorm.description>
   <AA_MammothWorm.tools.0.label>body</AA_MammothWorm.tools.0.label>
@@ -626,6 +648,11 @@
   <AA_SandLion.tools.0.label>left claw</AA_SandLion.tools.0.label>
   <AA_SandLion.tools.1.label>right claw</AA_SandLion.tools.1.label>
   <AA_SandLion.tools.3.label>head</AA_SandLion.tools.3.label>
+  <AA_SandProwler.label>sand prowler</AA_SandProwler.label>
+  <AA_SandProwler.description>A genetic amalgamation possessing features of a lion, a shark and a sand skink, the Sand Prowler was originally created as a ferocious hunting animal for desertic planets.\n\n.The Sand Prowler can quickly burrow and "swim" through sand, hiding the bulk of its body and allowing it to strike its prey from relative safety. It is only able to burrow under loose sand, with other soils being too dense to traverse.</AA_SandProwler.description>
+  <AA_SandProwler.tools.0.label>left claw</AA_SandProwler.tools.0.label>
+  <AA_SandProwler.tools.1.label>right claw</AA_SandProwler.tools.1.label>
+  <AA_SandProwler.tools.3.label>head</AA_SandProwler.tools.3.label>
   <AA_SandSquid.label>sand squid</AA_SandSquid.label>
   <AA_SandSquid.description>Despite their common name, sand squids are actually genetically modified creatures that incorporate features from both cephalopods and cone snails. Sand squids were created as cattle adapted to extremely water deprived environments, such as very dry deserts.\n\nThe sand squid constantly produces a sticky secretion that acts as a powerful fertilizer when mixed with common sand, allowing growth of crops in the middle of the desert. The squid can be trained to properly distribute its slime around the fields to increase terrain fertility even more. (NOTE: due to balance concerns, the squid will only do this if tamed, I don't want them to mess up the whole map when wild...)</AA_SandSquid.description>
   <AA_SandSquid.tools.1.label>tentacle</AA_SandSquid.tools.1.label>
@@ -660,6 +687,10 @@
   <AA_TeratogenicOriginator.description>This amorphous, flesh coloured, translucent creature seems to lack everything but the most basic instincts, moving around slowly and sometimes devouring any plant it comes in contact with, incorporating it into its cytoplasm. There are some chunks of seemingly normal flesh floating inside it.\n\nTeratogenic Originators are basically an enormous clonal colony of pluripotent stem cells, capable of diferentiating into different tissues. They were engineered by a group of unethical scientists as a cheap way to create lab-grown limbs suitable for transplants, but the end results is less than ideal. These strange mutant limbs can be periodically excised from the creature and used at will.</AA_TeratogenicOriginator.description>
   <AA_TeratogenicOriginator.tools.0.label>tentacles</AA_TeratogenicOriginator.tools.0.label>
   <AA_TeratogenicOriginator.comps.0.customString>Cloning in: </AA_TeratogenicOriginator.comps.0.customString>
+  <AA_Terramorph.label>terramorph</AA_Terramorph.label>
+  <AA_Terramorph.description>This strange looking crustacean was created with a single goal in mind: mineral processing. The Terramorph can feed on iron compounds, and process them chemically to slowly turn them into a hardened mineral usually know as "sky steel", that is normally only found in asteroids.\n\nThe transmutation process is very slow, so the Terramorph needs to spend quite a lot of time surrounded by mined Steel lumps or slag chunks.</AA_Terramorph.description>
+  <AA_Terramorph.tools.0.label>fangs</AA_Terramorph.tools.0.label>
+  <AA_Terramorph.tools.1.label>head</AA_Terramorph.tools.1.label>
   <AA_TetraSlug.label>tetra slug</AA_TetraSlug.label>
   <AA_TetraSlug.description>These massive slugs are a common sight among Glitterworld controlled territories, where they lumber about as glorified power plants. Outside of one, they are deployed as a mobile power source for Glitterworld research expeditions. It is rare to see one without the iconic power cores that protrude from their backs, as their unique bodily chemical composition is capable of outputting power that far surpasses any known natural sources. Thus they are widely valued by every technologically developing civilization throughout the galaxy.\n\nWhile a gentle giant that would prefer to run away instead of fight, modified slugs come armored with plasteel shells, quad cores that can act as Tesla cannons, and a Tactical AI inserted within the brain that takes over and makes no hesitation to use all of its armament to obliterate any perceived threat within vicinity.\n\nProperly outfitted Tetraslugs will slowly recharge batteries on their vicinity.</AA_TetraSlug.description>
   <AA_TetraSlug.tools.0.label>body</AA_TetraSlug.tools.0.label>

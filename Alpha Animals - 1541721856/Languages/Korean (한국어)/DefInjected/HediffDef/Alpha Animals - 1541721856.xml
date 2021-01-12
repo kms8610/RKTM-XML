@@ -68,6 +68,15 @@
   <AA_Resurrection.description>This animal can survive up to 9 fatal wounds, coming back from the dead.</AA_Resurrection.description>
   <AA_MimeHediff.label>hiding in plain sight</AA_MimeHediff.label>
   <AA_MimeHediff.description>This colonist may not be a real person after all...</AA_MimeHediff.description>
+  <AA_BurrowingUnderSand.description>This Sand Prowler is burrowing under the sand, making it very resistant to damage. I hate sand. Its course, and ruff, and irritating. And it gets everywhere.</AA_BurrowingUnderSand.description>
+  <AA_BurrowingUnderSand.label>burrowing under sand</AA_BurrowingUnderSand.label>
+  <AA_VirulentFungalInfection.label>virulent fungal infection</AA_VirulentFungalInfection.label>
+  <AA_VirulentFungalInfection.labelNoun>a virulent fungal infection</AA_VirulentFungalInfection.labelNoun>
+  <AA_VirulentFungalInfection.description>Fungal infection in a wound. Without treatment, the infection will advance at an astonishing rate, killing the afflicted in a few hours. Luckily, it is very easy to treat, and it will be kept contained and disappear as long as a medic treats it fast and with a decent treatment quality.</AA_VirulentFungalInfection.description>
+  <AA_VirulentFungalInfection.stages.0.label>minor</AA_VirulentFungalInfection.stages.0.label>
+  <AA_VirulentFungalInfection.stages.1.label>major</AA_VirulentFungalInfection.stages.1.label>
+  <AA_VirulentFungalInfection.stages.2.label>extreme</AA_VirulentFungalInfection.stages.2.label>
+  <AA_VirulentFungalInfection.stages.3.label>extreme</AA_VirulentFungalInfection.stages.3.label>
   <AA_CarryWeight1.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight1.description>
   <AA_CarryWeight1.label>extra carry weight (awful)</AA_CarryWeight1.label>
   <AA_CarryWeight2.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight2.description>
