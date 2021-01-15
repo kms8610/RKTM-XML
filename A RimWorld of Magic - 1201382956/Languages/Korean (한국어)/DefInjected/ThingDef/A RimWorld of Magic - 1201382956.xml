@@ -1413,17 +1413,22 @@ Armor of the Valiant is enchanted and provides additional benefits to trained ma
 Energy Costs: -10%
 Class XP Gain: +10%</RoyalArmor.description>
   <TM_DreamcatcherBuckskin.label>Dreamcatcher Buckskin</TM_DreamcatcherBuckskin.label>
-  <TM_DreamcatcherBuckskin.description>A patchwork buckskin of threaded leather adorned with animal memento. Primarily worn by tribal mystic leaders, the dreamcatcher buckskin represents the dream-like connection between nature and spirits. Mystics derive additional power from the symbolism decorating this outfit.</TM_DreamcatcherBuckskin.description>
+  <TM_DreamcatcherBuckskin.description>A patchwork buckskin of threaded leather adorned with animal memento and permeated with mystical energies. Primarily worn by tribal mystic leaders, the dreamcatcher buckskin represents the dream-like connection between nature and spirits. 
+	
+Mystics derive additional power from the symbolism decorating this outfit:
+Max Energy: +40
+Class XP Gain: +30%
+Arcane Res: +25%</TM_DreamcatcherBuckskin.description>
   <ArchMageRobe.label>Robes of the Archmage</ArchMageRobe.label>
   <ArchMageRobe.description>Robes designed by a superior race that are meant for the highest class of magic users who are worthy of additional power and insight. These lightweight, flowing robes seem to propel the wearer as if carried by a great winged beast.
 
 Robes of the Archmage are enchanted and provide additional benefits to trained mages and fighters:
-Max Energy: +25%
-Energy Regen: +20%
+Max Energy: +25
+Energy Regen: +25%
 Ability Cooldown: -20%
 Energy Costs: -10%
-Class XP Gain: +25%
-Arcane Res: +10%</ArchMageRobe.description>
+Arcane Res: +15%
+Ability Damage: +20%</ArchMageRobe.description>
   <TM_WizardHat.label>Wizard Hat</TM_WizardHat.label>
   <TM_WizardHat.description>A classic hat styled for any wizard or witch. This hat has secret carrying compartments and also has social and drug production bonuses.
 
