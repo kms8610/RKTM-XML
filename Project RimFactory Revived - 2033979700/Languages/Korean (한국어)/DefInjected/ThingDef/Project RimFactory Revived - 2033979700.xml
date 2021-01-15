@@ -131,22 +131,22 @@
   <PRF_IndustrialLamp.description>An electrical lamp that lights an area.\nThis lamp are capable to light up a huge aread both indoor and outdoor to light up your factory hall.\nAlso capable of changeing color when placed if colored light are researched\n\nThis is added by Project RimFactory</PRF_IndustrialLamp.description>
   <PRF_Floorspotlight.label>Floor Spotlight</PRF_Floorspotlight.label>
   <PRF_Floorspotlight.description>An electrical lamp that lights an area.\nThis lamp are capable to be used in and outdoor.\nAlso capable of changeing color when placed if colored light are researched\n\nThis is added by Project RimFactory</PRF_Floorspotlight.description>
-  <PRF_AutoCrafterSimple.label>auto-assembler Mk-1</PRF_AutoCrafterSimple.label>
-  <PRF_AutoCrafterSimple.description>The first version of the auto-assembler, able to craft with the skill and speed of a level 5 crafter. Place this on a workbench's interaction spot with the arrow facing the workbench. The auto-crafter can also do art, but its database of art is very limited and will not be able to produce masterpieces.</PRF_AutoCrafterSimple.description>
-  <PRF_AutoCrafter.label>auto-assembler Mk-2</PRF_AutoCrafter.label>
-  <PRF_AutoCrafter.description>The auto-assembler is the backbone of Project S.A.L., a small but powerful building capable of autonomously crafting recipes. It is equivalent to a level 12 crafter.</PRF_AutoCrafter.description>
-  <PRF_TheArtMachine.label>The Art Machine</PRF_TheArtMachine.label>
-  <PRF_TheArtMachine.description>Pumps out art like a hose pumps out water. Level 8 art.</PRF_TheArtMachine.description>
-  <PRF_TheArtMaster.label>The Art Master</PRF_TheArtMaster.label>
-  <PRF_TheArtMaster.description>Pumps out art like a violent volcanic eruption pumps out lava. Level 18 art.</PRF_TheArtMaster.description>
-  <PRF_OverclockedAutoAssembler.label>overclocked auto-assembler</PRF_OverclockedAutoAssembler.label>
-  <PRF_OverclockedAutoAssembler.description>Produces work at the standard of a level 1 dunce, but works extremely quickly.</PRF_OverclockedAutoAssembler.description>
-  <PRF_OverclockedAutoAssemblerII.label>overclocked auto-assembler mkII</PRF_OverclockedAutoAssemblerII.label>
-  <PRF_OverclockedAutoAssemblerII.description>Produces terrible quality items, though it does this so quickly it might not matter</PRF_OverclockedAutoAssemblerII.description>
+  <PRF_AutoCrafterSimple.label>auto-assembler Mk-1(S.A.L)</PRF_AutoCrafterSimple.label>
+  <PRF_AutoCrafterSimple.description>The first version of the auto-assembler, able to craft with the skill and speed of a level 5 crafter. Place this on a workbench's interaction spot with the arrow facing the workbench. The auto-crafter can also do art, but its database of art is very limited and will not be able to produce masterpieces.\n\nStats:\nBase: 1\n Crafting: 5\nCooking: 4\nArtistic: 0\nSpeed: 1</PRF_AutoCrafterSimple.description>
+  <PRF_AutoCrafter.label>auto-assembler Mk-2(S.A.L)</PRF_AutoCrafter.label>
+  <PRF_AutoCrafter.description>The auto-assembler is the backbone of Project S.A.L., a small but powerful building capable of autonomously crafting recipes.\n\nStats:\nBase: 5\n Crafting: 12\nCooking: 8\nArtistic: 0\nSpeed: 2</PRF_AutoCrafter.description>
+  <PRF_TheArtMachine.label>The Art Machine(S.A.L)</PRF_TheArtMachine.label>
+  <PRF_TheArtMachine.description>Pumps out art like a hose pumps out water.\n\nStats:\nBase: 3\n Crafting: 7\nArtistic: 8\nSpeed: 1</PRF_TheArtMachine.description>
+  <PRF_TheArtMaster.label>The Art Master(S.A.L)</PRF_TheArtMaster.label>
+  <PRF_TheArtMaster.description>Pumps out art like a violent volcanic eruption pumps out lava.\n\nStats:\nBase: 3\n Crafting: 9\nArtistic: 18\nSpeed: 1</PRF_TheArtMaster.description>
+  <PRF_OverclockedAutoAssembler.label>overclocked auto-assembler(S.A.L)</PRF_OverclockedAutoAssembler.label>
+  <PRF_OverclockedAutoAssembler.description>Produces work at the standard of a level 1 dunce, but works extremely quickly.\n\nStats:\nBase: 1\nSpeed: 5</PRF_OverclockedAutoAssembler.description>
+  <PRF_OverclockedAutoAssemblerII.label>overclocked auto-assembler mkII(S.A.L)</PRF_OverclockedAutoAssemblerII.label>
+  <PRF_OverclockedAutoAssemblerII.description>Produces terrible quality items, though it does this so quickly it might not matter\n\nStats:\nBase: 1\nSpeed: 12</PRF_OverclockedAutoAssemblerII.description>
   <PRF_SALAutoCooker.label>AutoCooker S.A.L</PRF_SALAutoCooker.label>
-  <PRF_SALAutoCooker.description>Although the auto-assembler performs cooking to a decent level, the auto-cooker is both faster and more accurate in its food production, capable of reaching a level 12 standard.</PRF_SALAutoCooker.description>
+  <PRF_SALAutoCooker.description>Although the auto-assembler performs cooking to a decent level, the auto-cooker is both faster and more accurate in its food production.\n\nStats:\nBase: 5\n Crafting: 8\nCooking: 12\nArtistic: 0\nSpeed: 1</PRF_SALAutoCooker.description>
   <PRF_GodlyCrafter.label>Godly S.A.L Crafter</PRF_GodlyCrafter.label>
-  <PRF_GodlyCrafter.description>Works so quickly, it defies all expectation. Perfect for mass-producing high quality items. May or may not incinerate the universe\nThis might be first step into insanity?!#..</PRF_GodlyCrafter.description>
+  <PRF_GodlyCrafter.description>Works so quickly, it defies all expectation. Perfect for mass-producing high quality items. May or may not incinerate the universe\nThis might be first step into insanity?!#..\n\nStats:\nBase: 20\nArtistic: 18\nSpeed: 666</PRF_GodlyCrafter.description>
   <PRF_WoodCrate_I.label>small wooden crate</PRF_WoodCrate_I.label>
   <PRF_WoodCrate_I.description>(Tier 1 crate) A small crate that can store 16 stacks. Items stored in the crate do not deteriorate.</PRF_WoodCrate_I.description>
   <PRF_WoodCrate_II.label>wooden crate</PRF_WoodCrate_II.label>
