@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <VFEM_MechShipDestroyed.label>Mechanoid ship destroyed</VFEM_MechShipDestroyed.label>
+  <VFEM_MechShipDestroyed.letterLabel>{FACTION_name} destroyed {1}</VFEM_MechShipDestroyed.letterLabel>
+  <VFEM_MechShipDestroyed.letterText>Through clever strategies, large number of casualties and incredible perseverance, {FACTION_name} managed to destroy {1}.</VFEM_MechShipDestroyed.letterText>
   <VFEM_ShipLandFrigate.label>ship landing frigate</VFEM_ShipLandFrigate.label>
   <VFEM_ShipLandFrigate.letterLabel>Ship Landed: Frigate</VFEM_ShipLandFrigate.letterLabel>
   <VFEM_ShipLandFrigate.letterText>{0} sent a new ship to land on the planet.\n\nA small ship often used for ground recon operations. It has minimal defenses. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties.</VFEM_ShipLandFrigate.letterText>
