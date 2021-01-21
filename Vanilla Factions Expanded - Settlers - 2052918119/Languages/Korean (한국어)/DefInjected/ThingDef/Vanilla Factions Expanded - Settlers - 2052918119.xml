@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chemshine.label>chemshine</Chemshine.label>
+  <Chemshine.description>A dangerous alcohol usually consumed by rimworld prospectors and industrial settlers. Whilst it takes away the sadness and pain, chemshine intoxicates the blood of the drinker with chemfuel, resulting in a powerful explosion upon death.</Chemshine.description>
+  <Chemshine.ingestible.ingestCommandString>Drink {0}</Chemshine.ingestible.ingestCommandString>
+  <Chemshine.ingestible.ingestReportString>Drinking {0}.</Chemshine.ingestible.ingestReportString>
+  <ChemBoiler.label>chemboiler</ChemBoiler.label>
+  <ChemBoiler.description>A device that converts chemfuel into heat. Simple machinery doesn't allow the temperature to be adjusted.</ChemBoiler.description>
+  <Chemlamp.label>chemlamp</Chemlamp.label>
+  <Chemlamp.description>A lamp fueled by chemfuel. Can be safely placed outside.</Chemlamp.description>
+  <ChemlampPost.label>chemlamp post</ChemlampPost.label>
+  <ChemlampPost.description>A post with a pre-industrial chemfuel lamp. Can be safely placed outside.</ChemlampPost.description>
+  <Building_ChemshineBarrel.label>chemshine barrel</Building_ChemshineBarrel.label>
+  <Building_ChemshineBarrel.description>A barrel for fermenting chemshine.</Building_ChemshineBarrel.description>
+  <DoorSaloon.label>saloon door</DoorSaloon.label>
+  <DoorSaloon.description>A saloon door for your country needs. Whilst it doesn't provide much protection, it swings open nearly instantaneously.</DoorSaloon.description>
+  <Post.label>post</Post.label>
+  <Post.description>An old-styled post to hold down a roof.</Post.description>
+  <StoolBar.label>bar stool</StoolBar.label>
+  <StoolBar.description>A simple bar stool.</StoolBar.description>
+  <TableCircular.label>Circular table</TableCircular.label>
+  <TableCircular.description>Simple, circular table that can be eaten off of.</TableCircular.description>
+  <TableFaro.label>faro table</TableFaro.label>
+  <TableFaro.description>A soft-topped bound table for playing faro. Allows up to two players at a time.</TableFaro.description>
+  <TableFiveFingerFilet.label>five finger fillet table</TableFiveFingerFilet.label>
+  <TableFiveFingerFilet.description>A wooden table for playing five finger fillet. Might lose a finger or two.\n\nWhilst this activity leads to cuts on the fingers of players, it also slowly trains melee skill.</TableFiveFingerFilet.description>
+  <Gun_GatlingGun.label>gatling gun</Gun_GatlingGun.label>
+  <Gun_GatlingGun.description>A simple automatic gun made to be mounted on a turret.</Gun_GatlingGun.description>
+  <Bullet_GatlingGun.label>gattling bullet</Bullet_GatlingGun.label>
+  <Turret_GatlingGun.label>gatling gun turret</Turret_GatlingGun.label>
+  <Turret_GatlingGun.description>A portable, old time turret. Needs to be manned in order to be operated. Requires steel to refurbish its barrel after heavy use. Firing speed increases the longer this turret fires. May explode when damaged.</Turret_GatlingGun.description>
+  <Turret_GatlingGun.comps.4.fuelLabel>Shots until barrel change</Turret_GatlingGun.comps.4.fuelLabel>
+  <Turret_GatlingGun.comps.4.fuelGizmoLabel>Barrel durability</Turret_GatlingGun.comps.4.fuelGizmoLabel>
+  <Turret_GatlingGun.comps.4.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_GatlingGun.comps.4.outOfFuelMessage>
+  <Windmill.label>windmill</Windmill.label>
+  <Windmill.description>A wind-powered electrical generator of older make. Requires a large clear space in front and behind for optimal air flow.</Windmill.description>
+  <VFES_Headgear_Bandana.label>bandana</VFES_Headgear_Bandana.label>
+  <VFES_Headgear_Bandana.description>A warm and long piece of fabric protecting the jaw from exposure to wind. Makes one hard to remember.</VFES_Headgear_Bandana.description>
+  <VFES_Headgear_Sombrero.label>sombrero</VFES_Headgear_Sombrero.label>
+  <VFES_Headgear_Sombrero.description>Used to shield the wearer from the sun. Required for any kind of stand-off.</VFES_Headgear_Sombrero.description>
+  <VFES_Headgear_FlatCap.label>flat cap</VFES_Headgear_FlatCap.label>
+  <VFES_Headgear_FlatCap.description>A flat and handy cap. Somewhat protecting from the sun. Worn by settlers and colonists during their daily occupations.</VFES_Headgear_FlatCap.description>
+  <Apparel_Vest.description>A simple vest, providing a decent layer of insulation from both heat and cold. Greatly enhances social interactions.</Apparel_Vest.description>
+  <Apparel_Vest.label>vest</Apparel_Vest.label>
+  <Apparel_GreatDress.description>A great dress, most often worn by ladies and suffragettes. Greatly enhances social interactions.</Apparel_GreatDress.description>
+  <Apparel_GreatDress.label>great dress</Apparel_GreatDress.label>
+  <VFES_Gun_DoubleActionRevolver.label>double-action revolver</VFES_Gun_DoubleActionRevolver.label>
+  <VFES_Gun_DoubleActionRevolver.description>An ancient pattern double-action revolver. It's not very accurate, but has a decent firing speed for a pistol and is quick on the draw.</VFES_Gun_DoubleActionRevolver.description>
+  <VFES_Gun_DoubleActionRevolver.tools.0.label>grip</VFES_Gun_DoubleActionRevolver.tools.0.label>
+  <VFES_Gun_DoubleActionRevolver.tools.1.label>barrel</VFES_Gun_DoubleActionRevolver.tools.1.label>
+  <VFES_Gun_DoubleBarreledShotgun.label>double-barreled shotgun</VFES_Gun_DoubleBarreledShotgun.label>
+  <VFES_Gun_DoubleBarreledShotgun.description>An ancient design of shotgun with two individually loaded barrels, that emits a tight-packed spray of pellets.</VFES_Gun_DoubleBarreledShotgun.description>
+  <VFES_Gun_DoubleBarreledShotgun.tools.0.label>stock</VFES_Gun_DoubleBarreledShotgun.tools.0.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.1.label>barrel</VFES_Gun_DoubleBarreledShotgun.tools.1.label>
+  <VFES_Gun_HuntingRifle.label>hunting rifle</VFES_Gun_HuntingRifle.label>
+  <VFES_Gun_HuntingRifle.description>An ancient pattern bolt-action rifle with a scope. With its exceptional range, and low fire rate, it is unlikely to drive animals to revenge, which makes it an excellent choice for hunting.</VFES_Gun_HuntingRifle.description>
+  <VFES_Gun_HuntingRifle.tools.0.label>stock</VFES_Gun_HuntingRifle.tools.0.label>
+  <VFES_Gun_HuntingRifle.tools.1.label>barrel</VFES_Gun_HuntingRifle.tools.1.label>
+  <VFES_Weapon_GrenadeDynamite.label>dynamite</VFES_Weapon_GrenadeDynamite.label>
+  <VFES_Weapon_GrenadeDynamite.description>A makeshift explosive stick of chemfuel. They can be thrown a short distance, where it will explode after a random amount of time.</VFES_Weapon_GrenadeDynamite.description>
+  <VFES_Weapon_GrenadeDynamite.verbs.0.label>throw dynamite</VFES_Weapon_GrenadeDynamite.verbs.0.label>
+  <VFES_Proj_Dynamite.label>frag grenade</VFES_Proj_Dynamite.label>
+  <VFES_Tomahawk.label>tomahawk</VFES_Tomahawk.label>
+  <VFES_Tomahawk.description>A single-handed axe resembling of a hatchet. Light enough to be thrown accurately at medium range.</VFES_Tomahawk.description>
+  <VFES_Tomahawk.tools.0.label>handle</VFES_Tomahawk.tools.0.label>
+  <VFES_Tomahawk.tools.1.label>blade</VFES_Tomahawk.tools.1.label>
+  <VFES_Tomahawk_Thrown.label>throwing tomahawk</VFES_Tomahawk_Thrown.label>
+  <Plant_Chemroot.label>chemroot</Plant_Chemroot.label>
+  <Plant_Chemroot.description>This highly volatile root is farmed for its chemfuel. It's difficult to harvest and only grows in extremely fertile soil. Despite the risk of a large, chain explosion, these plants are frequently farmed by desperate ranchers and imperial agro-companies alike.</Plant_Chemroot.description>
+  <VFES_Weapon_GrenadeDynamite.label.label>dynamite stick</VFES_Weapon_GrenadeDynamite.label.label>
+</LanguageData>
