@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bed_StoneSlab.label>slab bed</Bed_StoneSlab.label>
+  <Bed_StoneSlab.description>A large slab of smoothed stone, very uncomfortable and only marginally better than sleeping on the floor.</Bed_StoneSlab.description>
+  <Bed_Simple.label>simple bed</Bed_Simple.label>
+  <Bed_Simple.description>A somewhat comfy net and pillow rested on a sturdy frame.</Bed_Simple.description>
+  <Seat_Cushion.label>sitting cushion</Seat_Cushion.label>
+  <Seat_Cushion.description>A simple cushion for sitting on, popular amongst the tribes. Can be used at tables, work stations, and elsewhere.</Seat_Cushion.description>
+  <Seat_Bench.label>bench</Seat_Bench.label>
+  <Seat_Bench.description>A simple long platform on which multiple people may sit at the same time, not very comfortable but much better than nothing. Can be used at tables, work stations, and elsewhere.</Seat_Bench.description>
+  <Seat_SquareChair.label>square chair</Seat_SquareChair.label>
+  <Seat_SquareChair.description>A comfortable and attractive chair not specifically used for dining. Can be used at tables, work stations, and elsewhere.</Seat_SquareChair.description>
+  <Table_1x1c.label>table (1x1)</Table_1x1c.label>
+  <Table_Counter.label>countertop</Table_Counter.label>
+  <Table_Counter.description>A smooth, waist high surface for eating off of, commonly found in kitchens and bars.</Table_Counter.description>
+  <Stone_Campfire.label>stone campfire</Stone_Campfire.label>
+  <Stone_Campfire.description>Cooks meals but produces less heat but more light, burns out slower than the standard campfire. As with
+      all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Stone_Campfire.description>
+  <Table_LightEndTable.label>lamp end table</Table_LightEndTable.label>
+  <Table_LightEndTable.description>A small bedside table that has been adorned with a light, making nearby beds more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</Table_LightEndTable.description>
+  <Radio_Industrial.label>industrial radio</Radio_Industrial.label>
+  <Radio_Industrial.description>An old device from a bygone era, it is able to pick up radio waves and play them back. Even on the rimworlds, there is often an old transmitter or lone radio station broadcasting something.</Radio_Industrial.description>
+  <Radio_Spacer.label>longwave radio</Radio_Spacer.label>
+  <Radio_Spacer.description>A high tech radio reciever that is able to pick up very faint signals and play them back at crystal clear quality.</Radio_Spacer.description>
+  <Joy_Arcade.label>arcade machine</Joy_Arcade.label>
+  <Joy_Arcade.description>A tall cabinet that holds a small cathode ray display and control panel for playing a variety of pre-installed games.</Joy_Arcade.description>
+  <Joy_InudstrialComputer.label>old computer</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>A desktop computer based off an old design, very inefficient and prone to crashing. Gives a minor boost to learning after use.</Joy_InudstrialComputer.description>
+  <Joy_ModernComputer.label>modern computer</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>A high tech computer with utilising an LCD monitor and better performance parts that are less prone to crashing. Gives a boost to learning after use.</Joy_ModernComputer.description>
+  <Joy_Piano.label>piano</Joy_Piano.label>
+  <Joy_Piano.description>A large playable piano for practising on, quite enjoyable and it is a great way to develop artistic talent.</Joy_Piano.description>
+  <Joy_RouletteTable.label>roulette table</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>A soft-topped bounded table with a wheel for playing roulette, a good way to train your social skills and luck.</Joy_RouletteTable.description>
+  <Joy_DartsBoard.label>darts board</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>A popular game among rimworlds involving throwing darts at a circular target, It's relaxing, and trains shooting skills at a higher rate than horseshoes or hoopstone.</Joy_DartsBoard.description>
+  <Joy_PunchingBag.label>punching bag</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>A fabric filled punching bag to let out anger on. Can be quite calming and helps to train melee ability.</Joy_PunchingBag.description>
+  <Light_Streetlamp.label>outdoor lamp</Light_Streetlamp.label>
+  <Light_Streetlamp.description>A tall electrical lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night.</Light_Streetlamp.description>
+  <Light_Streetlamp.comps.1.offMessage>Off during daylight hours</Light_Streetlamp.comps.1.offMessage>
+  <Misc_FileCabinet.label>file cabinet</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>A piece of furniture used for organising documents and records in paper form. It will help you perform research taks faster.</Misc_FileCabinet.description>
+  <Shelf_1x1c.label>shelf (1x1)</Shelf_1x1c.label>
+  <Shelf_1x1c.description>A small shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside.</Shelf_1x1c.description>
+  <Shelf_WeaponRack.label>weapon rack</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>A heavy duty rack for storing weaponry. Weapons stored in this will not deteriorate, even if outside.</Shelf_WeaponRack.description>
+  <Bin_Small.label>Small bin</Bin_Small.label>
+  <Bin_Small.description>A small bin to help keeping the area around it somewhat clean. Slowly removes trash and filth in a 10 Cell radius.</Bin_Small.description>
+  <Bin_Large.label>Large bin</Bin_Large.label>
+  <Bin_Large.description>A large bin to help keeping the area around it clean. Slowly removes trash and filth in a 20 Cell radius.</Bin_Large.description>
+  <Bed_Ergonomic.label>ergonomic bed</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>An ergonomically designed bed to help support the spine, distribute body weight and overall enchance sleep quality.</Bed_Ergonomic.description>
+  <Bed_DoubleErgonomic.label>ergonomic double bed</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>An ergonomically designed double-wide bed to help support the spine, distribute body weight and overall enchance sleep quality. Fits two.</Bed_DoubleErgonomic.description>
+  <Table_Wardrobe.label>wardrobe</Table_Wardrobe.label>
+  <Table_Wardrobe.description>A tall wardrobe for storing clothing and other items. Gives a small sleep effectiveness bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect.</Table_Wardrobe.description>
+  <Seat_ModernChair.label>ergonomic chair</Seat_ModernChair.label>
+  <Seat_ModernChair.description>A flexible ergonomic chair designed to fit the curves of the human body, improving comfort.</Seat_ModernChair.description>
+  <Light_ModernLamp.label>modern lamp</Light_ModernLamp.label>
+  <Light_ModernLamp.description>A power saving lamp that more effectively converts electricity to light, useful for lighting rooms. Will short circuit in rain.</Light_ModernLamp.description>
+  <Bed_Kingsize.label>royal poster bed</Bed_Kingsize.label>
+  <Bed_Kingsize.description>A bed fit for a king, flush with gold-inlaid posters and a high head rest. Extremely comfortable and beautiful, it is a true luxury. Fits two.</Bed_Kingsize.description>
+  <Table_RoyalEndTable.label>royal end table</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>A small bedside table that has been adorned with luxury gold fittings, making nearby beds more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</Table_RoyalEndTable.description>
+  <Table_RoyalDresser.label>royal dresser</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>A luxurious dresser, adorned with solid gold and elegant in design, making nearby beds more comfortable.Placing more than one end table near the same bed has no effect.</Table_RoyalDresser.description>
+  <Seat_RoyalChair.label>royal chair</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>A comfy, padded seat with a high back plate rested inside a gold frame. Can be used at tables, work stations, and elsewhere.</Seat_RoyalChair.description>
+  <Seat_RoyalArmchair.label>royal armchair</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>A large, soft, luxurious seat. Fitted inside a golden frame for only the wealthiest elites. Can be used at tables, work stations, and elsewhere.</Seat_RoyalArmchair.description>
+  <Table_Royal1x1c.description>An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy.</Table_Royal1x1c.description>
+  <Table_Royal1x1c.label>royal table (1x1)</Table_Royal1x1c.label>
+  <Table_Royal2x2c.description>An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy.</Table_Royal2x2c.description>
+  <Table_Royal2x2c.label>royal table (2x2)</Table_Royal2x2c.label>
+  <Table_Royal1x2c.description>An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy.</Table_Royal1x2c.description>
+  <Table_Royal1x2c.label>royal table (1x2)</Table_Royal1x2c.label>
+  <Table_Royal3x3c.description>An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy.</Table_Royal3x3c.description>
+  <Table_Royal3x3c.label>royal table (3x3)</Table_Royal3x3c.label>
+  <Table_Royal2x4c.description>An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy.</Table_Royal2x4c.description>
+  <Table_Royal2x4c.label>royal table (2x4)</Table_Royal2x4c.label>
+  <Joy_Piano.label.label>upright piano</Joy_Piano.label.label>
+</LanguageData>
