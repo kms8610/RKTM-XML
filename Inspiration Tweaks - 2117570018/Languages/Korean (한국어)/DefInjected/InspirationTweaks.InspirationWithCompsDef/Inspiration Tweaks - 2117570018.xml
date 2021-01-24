@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Inspired_Kindness.label>inspired kindness</Inspired_Kindness.label>
+  <Inspired_Kindness.beginLetter>For the next 8 days [PAWN_pronoun] is more likely to be kind to others and will spread joy through the colony.</Inspired_Kindness.beginLetter>
+  <Inspired_Kindness.endMessage>{0} is no longer inspired (inspired kindness).</Inspired_Kindness.endMessage>
+  <Inspired_Kindness.baseInspectLine>Inspired: Inspired Kindness</Inspired_Kindness.baseInspectLine>
+  <Inspired_Research.label>inspired research</Inspired_Research.label>
+  <Inspired_Research.beginLetter>[PAWN_pronoun] will research twice as fast for the next 8 days. Furthermore for the next 2 days or untill a research project is finished [PAWN_pronoun] will passively generate research points.</Inspired_Research.beginLetter>
+  <Inspired_Research.endMessage>{0} is no longer inspired (inspired research).</Inspired_Research.endMessage>
+  <Inspired_Research.baseInspectLine>Inspired: Inspired Research (Passively Researching)</Inspired_Research.baseInspectLine>
+  <Focus_PsychicSoothe.label>psychic soothe focus</Focus_PsychicSoothe.label>
+  <Focus_PsychicSoothe.beginLetter>[PAWN_pronoun] has been inspired on how to use their psychic abilities. They will generate a positive psychic soothe for the next 8 days, furthermore their psychic abilities will recieve a bonus for the duration.</Focus_PsychicSoothe.beginLetter>
+  <Focus_PsychicSoothe.endMessage>{0} is no longer inspired (psychic soothe focus).</Focus_PsychicSoothe.endMessage>
+  <Focus_PsychicSoothe.baseInspectLine>Inspired: Psychic Soothe Focus</Focus_PsychicSoothe.baseInspectLine>
+  <Focus_PsychicStrength.label>psychic strength focus</Focus_PsychicStrength.label>
+  <Focus_PsychicStrength.beginLetter>[PAWN_pronoun] has been inspired on how to use their psychic abilities. Their psychic capabilities will be improved for the next 8 days, furthermore they will slowly regenerate their psychic focus for the duration.</Focus_PsychicStrength.beginLetter>
+  <Focus_PsychicStrength.endMessage>{0} is no longer inspired (psychic strength focus).</Focus_PsychicStrength.endMessage>
+  <Focus_PsychicStrength.baseInspectLine>Inspired: Psychic Strength Focus</Focus_PsychicStrength.baseInspectLine>
+  <Inspired_Leadership.label>inspired leadership</Inspired_Leadership.label>
+  <Inspired_Leadership.beginLetter>[PAWN_pronoun] has been inspired to help lead others. For the next 8 days those around [PAWN_pronoun] will work more efficiently.</Inspired_Leadership.beginLetter>
+  <Inspired_Leadership.endMessage>{0} is no longer inspired (inspired leadership).</Inspired_Leadership.endMessage>
+  <Inspired_Leadership.baseInspectLine>Inspired: Inspired Leadership</Inspired_Leadership.baseInspectLine>
+</LanguageData>
