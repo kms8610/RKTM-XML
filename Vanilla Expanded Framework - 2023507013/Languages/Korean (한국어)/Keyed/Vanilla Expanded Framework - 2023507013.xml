@@ -107,6 +107,10 @@
   <VanillaFactionsExpanded.FactionButtonCancel>Cancel</VanillaFactionsExpanded.FactionButtonCancel>
   <VSE.Reinforcements>Reinforcements</VSE.Reinforcements>
   <VSE.ReinforcementsDesc>Seeing that your forces suffered losses, {FACTION_name} has decided to reinforce their raiding force</VSE.ReinforcementsDesc>
+  <VSE.CostGoodwill>cost: {0} goodwill</VSE.CostGoodwill>
+  <MVCF.Toggle>Toggle {0}</MVCF.Toggle>
+  <MVCF.ToggleUsing>Toggle using {0} automatically</MVCF.ToggleUsing>
+  <MVCF.ToggleAuto>Toggle automatic usage</MVCF.ToggleAuto>
   <CSGTitle>Custom structure generation:</CSGTitle>
   <CSGLog>Enable structure generation debugging log: </CSGLog>
   <TPTitle>Toggable patches:</TPTitle>
