@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeChemfuelFromBamboo.label>make chemfuel from bamboo</MakeChemfuelFromBamboo.label>
+  <MakeChemfuelFromBamboo.description>Make a batch of chemfuel by gasifying bamboo. \n\nMakes 35.</MakeChemfuelFromBamboo.description>
+  <MakeChemfuelFromBamboo.jobString>Refining chemfuel from wood.</MakeChemfuelFromBamboo.jobString>
+  <VG_MakeBiofuel.label>make biofuel from grains</VG_MakeBiofuel.label>
+  <VG_MakeBiofuel.description>Make a batch of biofuel by extracting biofuel from barley, corn, or beans. \n\nMakes 35.</VG_MakeBiofuel.description>
+  <VG_MakeBiofuel.jobString>Refining biofuel from organics.</VG_MakeBiofuel.jobString>
+  <Fruitdrink.label>make fruit drinks x4</Fruitdrink.label>
+  <Fruitdrink.description>Press fruit into a juicy drink.</Fruitdrink.description>
+  <Fruitdrink.jobString>Pressing fruit.</Fruitdrink.jobString>
+  <BrewCoffee.label>brew garden coffees x4</BrewCoffee.label>
+  <BrewCoffee.description>Brew four cups of coffee</BrewCoffee.description>
+  <BrewCoffee.jobString>Brewing coffee.</BrewCoffee.jobString>
+  <BulkBrewCoffee.label>brew garden coffee x12</BulkBrewCoffee.label>
+  <BulkBrewCoffee.description>Brew 12 cups of coffee.</BulkBrewCoffee.description>
+  <BulkBrewCoffee.jobString>Brewing coffee.</BulkBrewCoffee.jobString>
+  <BrewTea.label>brew garden teas x2</BrewTea.label>
+  <BrewTea.description>Prepare tea leaves and brew them into cups of tea.</BrewTea.description>
+  <BrewTea.jobString>Brewing tea.</BrewTea.jobString>
+  <BulkBrewTea.label>brew garden tea x10</BulkBrewTea.label>
+  <BulkBrewTea.description>Prepare bulk amounts of tea leaves and brew them into cups of tea.</BulkBrewTea.description>
+  <BulkBrewTea.jobString>Brewing tea.</BulkBrewTea.jobString>
+  <BrewBarleyTea.label>brew barley teas x2</BrewBarleyTea.label>
+  <BrewBarleyTea.description>Prepare barley and brew it into cups of tea.</BrewBarleyTea.description>
+  <BrewBarleyTea.jobString>Brewing tea.</BrewBarleyTea.jobString>
+  <BulkBrewBarleyTea.label>brew barley tea x5</BulkBrewBarleyTea.label>
+  <BulkBrewBarleyTea.description>Prepare bulk amounts of barley and brew it into cups of tea.</BulkBrewBarleyTea.description>
+  <BulkBrewBarleyTea.jobString>Brewing tea.</BulkBrewBarleyTea.jobString>
+  <DisassembleWoodenWeapon.label>disassemble simple weapons</DisassembleWoodenWeapon.label>
+  <DisassembleWoodenWeapon.description>Disassemble simple weapons into useful resources.</DisassembleWoodenWeapon.description>
+  <DisassembleWoodenWeapon.jobString>Disassemble weapon.</DisassembleWoodenWeapon.jobString>
+  <MakeSilage.label>make silage</MakeSilage.label>
+  <MakeSilage.description>Make silage from hay and raw grains. \n\nMakes 50.</MakeSilage.description>
+  <MakeSilage.jobString>Making silage.</MakeSilage.jobString>
+  <MakebulkSilage.label>make silage x4</MakebulkSilage.label>
+  <MakebulkSilage.description>Make large amounts silage from hay and raw grains. \n\nMakes 200.</MakebulkSilage.description>
+  <MakebulkSilage.jobString>Making bulk silage.</MakebulkSilage.jobString>
+  <VG_MakebulkKibble.label>make kibble x4</VG_MakebulkKibble.label>
+  <VG_MakebulkKibble.description>Make animal kibble by combining raw meat and plants in bulk. \n\nMakes 200.</VG_MakebulkKibble.description>
+  <VG_MakebulkKibble.jobString>Making bulk kibble.</VG_MakebulkKibble.jobString>
+  <CookMealSimple_Bulk.label>cook four simple meals</CookMealSimple_Bulk.label>
+  <CookMealSimple_Bulk.description>Cooks a straightforward meal from one ingredient. Makes enough for 4 meals.</CookMealSimple_Bulk.description>
+  <CookMealSimple_Bulk.jobString>Cooking four simple meals.</CookMealSimple_Bulk.jobString>
+  <CookMealFine_Bulk.label>cook four fine meals</CookMealFine_Bulk.label>
+  <CookMealFine_Bulk.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients. Makes enough for 4 meals.</CookMealFine_Bulk.description>
+  <CookMealFine_Bulk.jobString>Cooking four fine meals.</CookMealFine_Bulk.jobString>
+  <CookMealLavish_Bulk.label>cook four lavish meals</CookMealLavish_Bulk.label>
+  <CookMealLavish_Bulk.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted. Makes enough for 4 meals.</CookMealLavish_Bulk.description>
+  <CookMealLavish_Bulk.jobString>Cooking four lavish meals.</CookMealLavish_Bulk.jobString>
+  <CookBulkMealSurvival.label>cook four survival meals</CookBulkMealSurvival.label>
+  <CookBulkMealSurvival.description>Cooks four packaged survival</CookBulkMealSurvival.description>
+  <CookBulkMealSurvival.jobString>Cooking survival meal.</CookBulkMealSurvival.jobString>
+  <Stirfrymeal.label>cook four stir-fried meals</Stirfrymeal.label>
+  <Stirfrymeal.description>Cooks a stir-fried meal from a combination of raw meat and raw plant ingredients. \n\nMakes enough for 4 meals.  \n\nFood Effects: Manipulation and Blood Filtration.</Stirfrymeal.description>
+  <Stirfrymeal.jobString>Cooking stir-fried meals.</Stirfrymeal.jobString>
+  <Cookstewpot.label>cook eight pots of stew</Cookstewpot.label>
+  <Cookstewpot.description>Slow cooks a pot of stew from a combination of raw meat and raw plant ingredients. \n\nMakes enough for 8 meals. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</Cookstewpot.description>
+  <Cookstewpot.jobString>Slow cooking stew.</Cookstewpot.jobString>
+  <VG_MakebulkPemmican.label>make pemmican x4</VG_MakebulkPemmican.label>
+  <VG_MakebulkPemmican.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a year without refrigeration.</VG_MakebulkPemmican.description>
+  <VG_MakebulkPemmican.jobString>Making pemmican.</VG_MakebulkPemmican.jobString>
+  <Make_Hardtack.label>make hardtack</Make_Hardtack.label>
+  <Make_Hardtack.description>Make hardtack, a simple type of biscuit. Tastes bland, but not offensive. Made from grains and but lasts a long time without refrigeration.</Make_Hardtack.description>
+  <Make_Hardtack.jobString>Making hardtack.</Make_Hardtack.jobString>
+  <Make_HardtackBulk.label>make hardtack x4</Make_HardtackBulk.label>
+  <Make_HardtackBulk.description>Make bulk hardtack, a simple type of biscuit. Tastes bland, but not offensive. Made from grains and lasts a long time without refrigeration.</Make_HardtackBulk.description>
+  <Make_HardtackBulk.jobString>Making bulk hardtack.</Make_HardtackBulk.jobString>
+  <MakeBambooWood.label>convert bamboo into wood</MakeBambooWood.label>
+  <MakeBambooWood.description>convert bamboo into wood. \n\n100 bamboo into 100 wood logs.</MakeBambooWood.description>
+  <MakeBambooWood.jobString>Chopping wood.</MakeBambooWood.jobString>
+  <MakeIronWood.label>conert ironwood into woodlogs,</MakeIronWood.label>
+  <MakeIronWood.description>convert ironwood into woodlogs. \n\n100 ironwood into 100 wood logs.</MakeIronWood.description>
+  <MakeIronWood.jobString>Chopping wood.</MakeIronWood.jobString>
+  <Makemead.label>make five honey mead drinks</Makemead.label>
+  <Makemead.description>Press honey into mead by hand.</Makemead.description>
+  <Makemead.jobString>brew mead.</Makemead.jobString>
+</LanguageData>
