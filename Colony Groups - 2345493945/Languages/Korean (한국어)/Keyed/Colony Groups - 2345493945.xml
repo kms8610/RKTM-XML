@@ -10,6 +10,7 @@ Right click:	Group Menu</TG.GroupInfoTooltip>
   <TG.Manage>Manage</TG.Manage>
   <TG.Group>Group</TG.Group>
   <TG.Colony>Colony</TG.Colony>
+  <TG.TaskForce>Task Force</TG.TaskForce>
   <TG.Caravan>Caravan</TG.Caravan>
   <TG.Diplomacy>Diplomacy</TG.Diplomacy>
   <TG.GetToWork>Get to Work</TG.GetToWork>
@@ -38,20 +39,24 @@ Right click:	Group Menu</TG.GroupInfoTooltip>
   <TG.HideCreateGroup>Hide Create Group</TG.HideCreateGroup>
   <TG.HideCreateGroupDesc>Create Group & Options menu can be found in Assign Menu / Mod Settings.</TG.HideCreateGroupDesc>
   <TG.ColonistBarPositionY>Colonist Bar Position (Y)</TG.ColonistBarPositionY>
+  <TG.ColonistBarPositionX>Colonist Bar Position (X)</TG.ColonistBarPositionX>
+  <TG.ColonistBarSpacing>Colonist Bar Spacing</TG.ColonistBarSpacing>
   <TG.GroupRowCount>Group Row Count</TG.GroupRowCount>
   <TG.PawnScale>Pawn Scale</TG.PawnScale>
   <TG.GroupScale>Group Scale</TG.GroupScale>
   <TG.PawnNeedsSize>Pawn Needs Size</TG.PawnNeedsSize>
-  <TG.TopMargin>Colonist Bar Y Position</TG.TopMargin>
   <TG.WeaponOverlayPlacement>Weapon Overlay Placement</TG.WeaponOverlayPlacement>
-  <TG.WeaponOverlayInside>Inside</TG.WeaponOverlayInside>
-  <TG.WeaponOverlayUnder>Under</TG.WeaponOverlayUnder>
+  <TG.ColorBarModeLabel>Color mood bar preset:</TG.ColorBarModeLabel>
+  <TG.ColorBarModeDefault>Default</TG.ColorBarModeDefault>
+  <TG.ColorBarModeExtended>Extended</TG.ColorBarModeExtended>
   <TG.DisableLabelBackground>Disable Label Background (for performance)</TG.DisableLabelBackground>
   <TG.Attack>Attack</TG.Attack>
   <TG.Regroup>Regroup</TG.Regroup>
   <TG.BattleStations>Battle Stations</TG.BattleStations>
   <TG.Set>Set</TG.Set>
   <TG.Clear>Clear</TG.Clear>
+  <TG.Send>Send</TG.Send>
+  <TG.Unload>Unload</TG.Unload>
   <TG.Formation>Formation</TG.Formation>
   <TG.Medical>Medical</TG.Medical>
   <TG.FireAtWill>Fire At Will</TG.FireAtWill>
@@ -133,4 +138,12 @@ Squad leader is first pawn in group</TG.RegroupTooltip>
   <TG.HealthIconTooltip>Group's overall health</TG.HealthIconTooltip>
   <TG.RestIconTooltip>Group's overall rest</TG.RestIconTooltip>
   <TG.HungerIconTooltip>Group's overall hunger</TG.HungerIconTooltip>
+  <TG.GroupHideOptionsTooltip>Hide Colony Group until mouse over</TG.GroupHideOptionsTooltip>
+  <TG.HideGroupPawnDotsOptionsTooltip>Hide group pawn dots display</TG.HideGroupPawnDotsOptionsTooltip>
+  <TG.HideGroupHealthAlertOverlayOptionsTooltip>Hide group health alert overlay</TG.HideGroupHealthAlertOverlayOptionsTooltip>
+  <TG.HideWeaponOverlayOptionsTooltip>Hide group weapon overlay</TG.HideWeaponOverlayOptionsTooltip>
+  <TG.BanishPawnTooltip>Banish selected pawn(s) from group</TG.BanishPawnTooltip>
+  <TG.HidePawnGroupOptionsTooltip>Move group to subgroups</TG.HidePawnGroupOptionsTooltip>
+  <TG.WeaponModeShowDrafted>Drafted</TG.WeaponModeShowDrafted>
+  <TG.WeaponModeShowAlways>Always</TG.WeaponModeShowAlways>
 </LanguageData>
