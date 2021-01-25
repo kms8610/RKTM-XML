@@ -22,6 +22,8 @@
   <PRF_UniversalAutocrafting.discoveredLetterText>You have unlocked your first real type assembler, this is basicly a universal machine, that can produce anything your workbenches can do, you just copy bills with a recipe DB, and place it near your assembler to show recipes.\n Please note that it CAN'T return same item again so mods like Mend and Recycle will not work on assemblers, as it destroy products it takes in.\n\n This assembler have stats set to 10 this mean it can ONLY see recipes with lv 10 or less in DB., if you upgrade to next tier it will be smarter and have higher skill level.\n This Assembler have a fixed speed set and will not get better over time like next tier will.</PRF_UniversalAutocrafting.discoveredLetterText>
   <PRF_SelfCorrectingAssemblers.label>self-correcting assemblers</PRF_SelfCorrectingAssemblers.label>
   <PRF_SelfCorrectingAssemblers.description>Learn how to make a new type of assembler that slowly improves its crafting speed.</PRF_SelfCorrectingAssemblers.description>
+  <PRF_SelfCorrectingAssemblersII.label>Quantum self-correcting assemblers</PRF_SelfCorrectingAssemblersII.label>
+  <PRF_SelfCorrectingAssemblersII.description>Learn how to make 2 new Adaptive assemblers. One which are super fast but poor quality, other one is slow but starts at good quality.</PRF_SelfCorrectingAssemblersII.description>
   <PRF_MetalRefining.label>Metal Refining</PRF_MetalRefining.label>
   <PRF_MetalRefining.description>A metal refinery able to produce rare metals through polymer lamination, by combining Chemfuel with steel to greate Plasteel</PRF_MetalRefining.description>
   <PRF_EnhancedBatteries.label>enhanced batteries</PRF_EnhancedBatteries.label>
@@ -116,4 +118,6 @@
   <PRF_SteelCrates.description>stronger materials means better stacking, even more items can fit into these crates for many good reasons i swear</PRF_SteelCrates.description>
   <PRF_StorageIO.label>Thornsworth Holography</PRF_StorageIO.label>
   <PRF_StorageIO.description>The holographam artist Thornsworth, despite growing blindness, continued producing masterpieces for many years, and when holographic data storage was finally perfected, he was instrumental in developing Holographic Item Storage.\nAllows Items to be stored wirelessly in a Digital Storage Unit. Can be send to any I/O port on map, and recieve items from I/O ports too.\n\nYou will be missed, Thornsworth.</PRF_StorageIO.description>
+  <PRF_StorageIO_II.label>Improved Wireless Storage</PRF_StorageIO_II.label>
+  <PRF_StorageIO_II.description>With further research we have discovered a way to get more uses out of our Wireless storage solution\nAllow you to build I/O pushers\nMore may be added to this later.</PRF_StorageIO_II.description>
 </LanguageData>
