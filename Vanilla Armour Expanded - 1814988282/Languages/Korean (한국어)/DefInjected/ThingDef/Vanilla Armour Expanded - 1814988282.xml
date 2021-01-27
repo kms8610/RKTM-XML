@@ -34,18 +34,30 @@
   <VAE_Apparel_WoodenArmor.description>A vest with wooden logs and planks covering the front and back. Quite effective against small calibre gunshots and sharp melee weapons, but completely useless against blunt hits and rifle shots.</VAE_Apparel_WoodenArmor.description>
   <VAE_Headgear_StoneWarMask.label>stone war mask</VAE_Headgear_StoneWarMask.label>
   <VAE_Headgear_StoneWarMask.description>An artistically terrifying war mask. Hides the wearer's face and makes them more confident. Being made out of stone, it is very durable but also incredibly heavy.</VAE_Headgear_StoneWarMask.description>
-  <VAE_Headgear_HeavyMarineHelmet.label>heavy marine helmet</VAE_Headgear_HeavyMarineHelmet.label>
-  <VAE_Headgear_HeavyMarineHelmet.description>A heavy marine armor helmet, with double-layered plasteel plating and a built-in camera with a display HUD to get rid of the weakpoints like visors.\n\nArmor like this is often used by imperial heavy stormtroopers during mechanoid conflicts, as it transforms a soldier into a humanoid tank.</VAE_Headgear_HeavyMarineHelmet.description>
-  <VAE_Apparel_HeavyMarineArmor.label>heavy marine armor</VAE_Apparel_HeavyMarineArmor.label>
-  <VAE_Apparel_HeavyMarineArmor.description>A suit of heavy powered armor. Double layers of plasteel-weave plates are incredibly effective at both projectiles and explosions. Neuro-memetic assistors allow a human to wear the armor and still move easily. A built in blast shield allows wearer to survive a direct rocket hit, upon which the shields require time to recharge.\n\nArmor like this is often used by imperial heavy stormtroopers during mechanoid conflicts, as it transforms a soldier into a humanoid tank.</VAE_Apparel_HeavyMarineArmor.description>
+  <VAE_Headgear_TrooperHelmet.label>trooper helmet</VAE_Headgear_TrooperHelmet.label>
+  <VAE_Headgear_TrooperHelmet.description>A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\n\nArmor like this is often used by imperial conscripts and late-midworld military forces.</VAE_Headgear_TrooperHelmet.description>
+  <VAE_Apparel_TrooperArmor.label>trooper armor</VAE_Apparel_TrooperArmor.label>
+  <VAE_Apparel_TrooperArmor.description>A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\n\nArmor like this is often used by imperial conscripts and late-midworld military forces.</VAE_Apparel_TrooperArmor.description>
+  <VAE_Headgear_HeavyMarineHelmet.label>siegebreaker helmet</VAE_Headgear_HeavyMarineHelmet.label>
+  <VAE_Headgear_HeavyMarineHelmet.description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and omni-spectrum camera.\n\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.</VAE_Headgear_HeavyMarineHelmet.description>
+  <VAE_Apparel_HeavyMarineArmor.label>siegebreaker armor</VAE_Apparel_HeavyMarineArmor.label>
+  <VAE_Apparel_HeavyMarineArmor.description>A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\n\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.</VAE_Apparel_HeavyMarineArmor.description>
   <VAE_Headgear_Balaclava.label>balaclava</VAE_Headgear_Balaclava.label>
-  <VAE_Headgear_Balaclava.description>A full face textile mask. Hides the mimic and makes hard to read.</VAE_Headgear_Balaclava.description>
-  <VAE_Headgear_NightVisionGoggles.label>night vision goggles</VAE_Headgear_NightVisionGoggles.label>
-  <VAE_Headgear_NightVisionGoggles.description>A set of night vision goggles allowing the wearer to fire weapons with higher precision.</VAE_Headgear_NightVisionGoggles.description>
-  <VAE_Headgear_BallisticGoggles.label>ballistic goggles</VAE_Headgear_BallisticGoggles.label>
-  <VAE_Headgear_BallisticGoggles.description>A pair of reinforced goggles capable of stopping a bullet.</VAE_Headgear_BallisticGoggles.description>
+  <VAE_Headgear_Balaclava.description>A full face textile mask. Hides the identity of the wearer while providing warmth.</VAE_Headgear_Balaclava.description>
+  <VAE_Headgear_NightVisionGoggles.label>omni-spectrum goggles</VAE_Headgear_NightVisionGoggles.label>
+  <VAE_Headgear_NightVisionGoggles.description>A set of omni-vision goggles which enhance the wearer's ability to detect targets, improving target aquisition.</VAE_Headgear_NightVisionGoggles.description>
+  <VAE_Headgear_BallisticGoggles.label>flak goggles</VAE_Headgear_BallisticGoggles.label>
+  <VAE_Headgear_BallisticGoggles.description>A pair of reinforced goggles capable of stopping shrapnel, and possibly a bullet.</VAE_Headgear_BallisticGoggles.description>
   <VAE_Headgear_GhillieHood.label>ghillie hood</VAE_Headgear_GhillieHood.label>
   <VAE_Headgear_GhillieHood.description>A camouflage hood designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence.</VAE_Headgear_GhillieHood.description>
-  <VAE_Headgear_HAZMATMask.label>HAZMAT mask</VAE_Headgear_HAZMATMask.label>
+  <VAE_Headgear_HAZMATMask.label>HAZMAT hood</VAE_Headgear_HAZMATMask.label>
   <VAE_Headgear_HAZMATMask.description>A full head gas mask, which alongside the HAZMAT suit provides a full protection from toxic and psychic effects.</VAE_Headgear_HAZMATMask.description>
+  <VAE_Headgear_RoyalTrooperHelmet.label>prestige trooper helmet</VAE_Headgear_RoyalTrooperHelmet.label>
+  <VAE_Headgear_RoyalTrooperHelmet.description>A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.</VAE_Headgear_RoyalTrooperHelmet.description>
+  <VAE_Apparel_RoyalTrooperArmor.label>prestige trooper armor</VAE_Apparel_RoyalTrooperArmor.label>
+  <VAE_Apparel_RoyalTrooperArmor.description>A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.</VAE_Apparel_RoyalTrooperArmor.description>
+  <VAE_Headgear_RoyalSiegeHelmet.label>prestige siegebreaker helmet</VAE_Headgear_RoyalSiegeHelmet.label>
+  <VAE_Headgear_RoyalSiegeHelmet.description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and omni-spectrum camera.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.</VAE_Headgear_RoyalSiegeHelmet.description>
+  <VAE_Apparel_RoyalSiegeArmor.label>prestige siegebreaker armor</VAE_Apparel_RoyalSiegeArmor.label>
+  <VAE_Apparel_RoyalSiegeArmor.description>A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.</VAE_Apparel_RoyalSiegeArmor.description>
 </LanguageData>
