@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimaJoint.label>anima joint</AnimaJoint.label>
+  <AnimaJoint.description>Anima fibers prepared in small rolls for smoking. Surprisingly, the drug improves psychic sensivity.\n\nThese joints are the legacy of the old chemists from the Elders faction.</AnimaJoint.description>
+  <AnimaJoint.ingestible.ingestCommandString>Smoke {0}</AnimaJoint.ingestible.ingestCommandString>
+  <AnimaJoint.ingestible.ingestReportString>Smoking {0}.</AnimaJoint.ingestible.ingestReportString>
+  <AnimaJoint.ingestible.ingestReportStringEat>Consuming {0}.</AnimaJoint.ingestible.ingestReportStringEat>
+  <AnimaTea.label>anima tea</AnimaTea.label>
+  <AnimaTea.description>A fragrant tea infused with anima fibers.This tea provides mental relaxation to help dissipate neural heat. Very useful for psycasters.</AnimaTea.description>
+  <AnimaTea.ingestible.ingestCommandString>Drink {0}</AnimaTea.ingestible.ingestCommandString>
+  <AnimaTea.ingestible.ingestReportString>Drinking {0}.</AnimaTea.ingestible.ingestReportString>
+  <SacOfKnowledge.label>sac of knowledge</SacOfKnowledge.label>
+  <SacOfKnowledge.description>This sac contains some anima fibers and other ingridients you haven't ever seen. Very strange, but pawn that consumes these herbs receives psylink.</SacOfKnowledge.description>
+  <SacOfKnowledge.comps.0.useLabel>Consume herbs to form psylink</SacOfKnowledge.comps.0.useLabel>
+</LanguageData>
