@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimHUD.Language.AdjectiveNounOrder>{0} {1}</RimHUD.Language.AdjectiveNounOrder>
+  <RimHUD.ToggleHud>Show HUD</RimHUD.ToggleHud>
+  <RimHUD.Button.OK>OK</RimHUD.Button.OK>
+  <RimHUD.Button.Yes>Yes</RimHUD.Button.Yes>
+  <RimHUD.Button.No>No</RimHUD.Button.No>
+  <RimHUD.Button.Cancel>Cancel</RimHUD.Button.Cancel>
+  <RimHUD.Button.Close>Close</RimHUD.Button.Close>
+  <RimHUD.Button.Save>Save</RimHUD.Button.Save>
+  <RimHUD.Dialog_Config.Title>RimHUD</RimHUD.Dialog_Config.Title>
+  <RimHUD.Dialog_Config.SetToDefault>Use Default</RimHUD.Dialog_Config.SetToDefault>
+  <RimHUD.Dialog_Config.OpenFolder>Config folder</RimHUD.Dialog_Config.OpenFolder>
+  <RimHUD.Dialog_Config.Tab.Design>Design</RimHUD.Dialog_Config.Tab.Design>
+  <RimHUD.Dialog_Config.Tab.Colors>Colors</RimHUD.Dialog_Config.Tab.Colors>
+  <RimHUD.Dialog_Config.Tab.Colors.Editor>Edit color for {0}</RimHUD.Dialog_Config.Tab.Colors.Editor>
+  <RimHUD.Dialog_Config.Tab.Colors.Hue>Hue</RimHUD.Dialog_Config.Tab.Colors.Hue>
+  <RimHUD.Dialog_Config.Tab.Colors.Saturation>Saturation</RimHUD.Dialog_Config.Tab.Colors.Saturation>
+  <RimHUD.Dialog_Config.Tab.Colors.Lightness>Lightness</RimHUD.Dialog_Config.Tab.Colors.Lightness>
+  <RimHUD.Dialog_Config.Tab.Colors.Alpha>Alpha</RimHUD.Dialog_Config.Tab.Colors.Alpha>
+  <RimHUD.Dialog_Config.Tab.Colors.Hex>Hex</RimHUD.Dialog_Config.Tab.Colors.Hex>
+  <RimHUD.Dialog_Config.Tab.Content>Content</RimHUD.Dialog_Config.Tab.Content>
+  <RimHUD.Dialog_Config.Tab.Content.Preset>Choose Preset</RimHUD.Dialog_Config.Tab.Content.Preset>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.Default>Default</RimHUD.Dialog_Config.Tab.Content.Preset.Default>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>Layouts reset to default.</RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>Layout preset for mod '{0}' loaded.</RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>
+  <RimHUD.Dialog_Config.Tab.Content.Mode>{0} mode</RimHUD.Dialog_Config.Tab.Content.Mode>
+  <RimHUD.Dialog_Config.Tab.Content.Mode.Docked>Docked</RimHUD.Dialog_Config.Tab.Content.Mode.Docked>
+  <RimHUD.Dialog_Config.Tab.Content.Mode.Floating>Floating</RimHUD.Dialog_Config.Tab.Content.Mode.Floating>
+  <RimHUD.Dialog_Config.Tab.Content.Editor>HUD Editor ({0})</RimHUD.Dialog_Config.Tab.Content.Editor>
+  <RimHUD.Dialog_Config.Tab.Content.Layout>Layout</RimHUD.Dialog_Config.Tab.Content.Layout>
+  <RimHUD.Dialog_Config.Tab.Content.Layout.SavePreset>Save as preset</RimHUD.Dialog_Config.Tab.Content.Layout.SavePreset>
+  <RimHUD.Dialog_Config.Tab.Content.Layout.ManagePresets>Manage presets</RimHUD.Dialog_Config.Tab.Content.Layout.ManagePresets>
+  <RimHUD.Dialog_Config.Tab.Content.Component>Component</RimHUD.Dialog_Config.Tab.Content.Component>
+  <RimHUD.Dialog_Config.Tab.Content.Component.MoveUp>Move up</RimHUD.Dialog_Config.Tab.Content.Component.MoveUp>
+  <RimHUD.Dialog_Config.Tab.Content.Component.MoveDown>Move down</RimHUD.Dialog_Config.Tab.Content.Component.MoveDown>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Remove>Remove</RimHUD.Dialog_Config.Tab.Content.Component.Remove>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Stack>Add stack</RimHUD.Dialog_Config.Tab.Content.Component.Stack>
+  <RimHUD.Dialog_Config.Tab.Content.Component.StackDesc>A stack can contain other stacks or panels. The contents of the stack will be evenly distributed horizontally or vertically depending on the stack type chosen.</RimHUD.Dialog_Config.Tab.Content.Component.StackDesc>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Panel>Add panel</RimHUD.Dialog_Config.Tab.Content.Component.Panel>
+  <RimHUD.Dialog_Config.Tab.Content.Component.PanelDesc>A panel evenly displays rows of elements vertically.</RimHUD.Dialog_Config.Tab.Content.Component.PanelDesc>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Row>Add row</RimHUD.Dialog_Config.Tab.Content.Component.Row>
+  <RimHUD.Dialog_Config.Tab.Content.Component.RowDesc>A row holds elements and if contains more than one they will be displayed evenly horizontally.</RimHUD.Dialog_Config.Tab.Content.Component.RowDesc>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Element>Add element</RimHUD.Dialog_Config.Tab.Content.Component.Element>
+  <RimHUD.Dialog_Config.Tab.Content.Component.ElementDesc>An element displays data on the HUD.</RimHUD.Dialog_Config.Tab.Content.Component.ElementDesc>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Stat>Add stat</RimHUD.Dialog_Config.Tab.Content.Component.Stat>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Record>Add record</RimHUD.Dialog_Config.Tab.Content.Component.Record>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Need>Add need bar</RimHUD.Dialog_Config.Tab.Content.Component.Need>
+  <RimHUD.Dialog_Config.Tab.Content.Component.SkillOrTraining>Add skill/training</RimHUD.Dialog_Config.Tab.Content.Component.SkillOrTraining>
+  <RimHUD.Dialog_Config.Tab.Content.Selected>Selected: </RimHUD.Dialog_Config.Tab.Content.Selected>
+  <RimHUD.Dialog_Config.Tab.Content.Selected.Filled>Fill height</RimHUD.Dialog_Config.Tab.Content.Selected.Filled>
+  <RimHUD.Dialog_Config.Tab.Content.Selected.FilledDesc>If checked the panel or stack will stretch to fill the remaining vertical space.\n\nIf unchecked it will size the height to its content</RimHUD.Dialog_Config.Tab.Content.Selected.FilledDesc>
+  <RimHUD.Dialog_Config.Tab.Integration>Integration</RimHUD.Dialog_Config.Tab.Integration>
+  <RimHUD.Dialog_Presets.Title>User Presets</RimHUD.Dialog_Presets.Title>
+  <RimHUD.Dialog_Presets.Delete>Delete selected</RimHUD.Dialog_Presets.Delete>
+  <RimHUD.Dialog_SavePreset.Title>Save Preset</RimHUD.Dialog_SavePreset.Title>
+  <RimHUD.Dialog_SavePreset.Name>Name</RimHUD.Dialog_SavePreset.Name>
+  <RimHUD.Dialog_SavePreset.IncludeDocked>Include docked</RimHUD.Dialog_SavePreset.IncludeDocked>
+  <RimHUD.Dialog_SavePreset.IncludeFloating>Include floating</RimHUD.Dialog_SavePreset.IncludeFloating>
+  <RimHUD.Dialog_SavePreset.IncludeHeight>Include height</RimHUD.Dialog_SavePreset.IncludeHeight>
+  <RimHUD.Dialog_SavePreset.IncludeWidth>Include width</RimHUD.Dialog_SavePreset.IncludeWidth>
+  <RimHUD.Dialog_SavePreset.IncludeTabs>Include minimum tabs</RimHUD.Dialog_SavePreset.IncludeTabs>
+  <RimHUD.Layout.UserPreset>[User preset]</RimHUD.Layout.UserPreset>
+  <RimHUD.Layout.BuiltIn>[Built-in]</RimHUD.Layout.BuiltIn>
+  <RimHUD.Alert.ConfigReset>RimHUD updated to version {0} and required that its configuration to be reset to default.</RimHUD.Alert.ConfigReset>
+  <RimHUD.Alert.SetToDefault>Are you sure you want to revert all settings to default?</RimHUD.Alert.SetToDefault>
+  <RimHUD.Alert.InvalidLayout>This layout for RimHUD contained invalid elements or elements from other mods that are no longer active.\n\nThe HUD layout has been reset to default.</RimHUD.Alert.InvalidLayout>
+  <RimHUD.Alert.Saved>Preset '{0}' saved.</RimHUD.Alert.Saved>
+  <RimHUD.Alert.ConfirmDelete>Are you sure you want to delete the preset '{0}' saved.</RimHUD.Alert.ConfirmDelete>
+  <RimHUD.Alert.NotImplemented>This feature is not yet implemented</RimHUD.Alert.NotImplemented>
+  <RimHUD.Alert.MoreComingSoon>More features coming soon™</RimHUD.Alert.MoreComingSoon>
+  <RimHUD.InspectPane.MedicalCare>Change the level of medical care given to this {0}.\n\nCurrent: {1}</RimHUD.InspectPane.MedicalCare>
+  <RimHUD.Integration.GetMod>Link to mod</RimHUD.Integration.GetMod>
+  <RimHUD.Integration.General>General Settings</RimHUD.Integration.General>
+  <RimHUD.Integration.Bubbles>Interaction Bubbles</RimHUD.Integration.Bubbles>
+  <RimHUD.Integration.Bubbles.Activated>Activated</RimHUD.Integration.Bubbles.Activated>
+  <RimHUD.Integration.Bubbles.DoNonPlayer>Show for non-player faction</RimHUD.Integration.Bubbles.DoNonPlayer>
+  <RimHUD.Integration.Bubbles.DoAnimals>Show for animal interactions</RimHUD.Integration.Bubbles.DoAnimals>
+  <RimHUD.Integration.Bubbles.MinScale>Minimum zoom visible</RimHUD.Integration.Bubbles.MinScale>
+  <RimHUD.Integration.Bubbles.ScaleStart>Zoom to start scale</RimHUD.Integration.Bubbles.ScaleStart>
+  <RimHUD.Integration.Bubbles.MaxWidth>Maximum width</RimHUD.Integration.Bubbles.MaxWidth>
+  <RimHUD.Integration.Bubbles.Spacing>Spacing</RimHUD.Integration.Bubbles.Spacing>
+  <RimHUD.Integration.Bubbles.StartOffset>Offset from label</RimHUD.Integration.Bubbles.StartOffset>
+  <RimHUD.Integration.Bubbles.OffsetDirection>Offset direction</RimHUD.Integration.Bubbles.OffsetDirection>
+  <RimHUD.Integration.Bubbles.OffsetDirections>Down|Left|Up|Right</RimHUD.Integration.Bubbles.OffsetDirections>
+  <RimHUD.Integration.Bubbles.StartOpacity>Starting opacity</RimHUD.Integration.Bubbles.StartOpacity>
+  <RimHUD.Integration.Bubbles.MouseOverOpacity>Mouse-over opacity</RimHUD.Integration.Bubbles.MouseOverOpacity>
+  <RimHUD.Integration.Bubbles.MinTime>Minimum time to fade</RimHUD.Integration.Bubbles.MinTime>
+  <RimHUD.Integration.Bubbles.FadeStart>Ticks to start fade</RimHUD.Integration.Bubbles.FadeStart>
+  <RimHUD.Integration.Bubbles.FadeLength>Ticks to fade</RimHUD.Integration.Bubbles.FadeLength>
+  <RimHUD.Integration.Bubbles.MaxPerPawn>Maximum per pawn</RimHUD.Integration.Bubbles.MaxPerPawn>
+  <RimHUD.Integration.Bubbles.FontSize>Font size</RimHUD.Integration.Bubbles.FontSize>
+  <RimHUD.Integration.Bubbles.PaddingX>Text padding X</RimHUD.Integration.Bubbles.PaddingX>
+  <RimHUD.Integration.Bubbles.PaddingY>Text padding Y</RimHUD.Integration.Bubbles.PaddingY>
+  <RimHUD.Integration.Bubbles.Colors>Bubble Colors</RimHUD.Integration.Bubbles.Colors>
+  <RimHUD.Integration.Bubbles.ForeColor>Text color</RimHUD.Integration.Bubbles.ForeColor>
+  <RimHUD.Integration.Bubbles.BackColor>Back color</RimHUD.Integration.Bubbles.BackColor>
+  <RimHUD.Integration.Bubbles.SelectedForeColor>Selected text color</RimHUD.Integration.Bubbles.SelectedForeColor>
+  <RimHUD.Integration.Bubbles.SelectedBackColor>Selected back color</RimHUD.Integration.Bubbles.SelectedBackColor>
+  <RimHUD.Integration.PawnRules>Pawn Rules</RimHUD.Integration.PawnRules>
+  <RimHUD.Integration.PawnRules.RuleNameFormat>Rules: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
+  <RimHUD.Integration.PawnRules.ReplaceFoodSelector>Replace food selector</RimHUD.Integration.PawnRules.ReplaceFoodSelector>
+  <RimHUD.Integration.PawnRules.ReplaceFoodSelectorDesc>If enabled, the food selector will be replaced by the rules selector.</RimHUD.Integration.PawnRules.ReplaceFoodSelectorDesc>
+  <RimHUD.Integration.PawnRules.HideGizmo>Hide Gizmo</RimHUD.Integration.PawnRules.HideGizmo>
+  <RimHUD.Integration.PawnRules.HideGizmoDesc>Disables the rules gizmo that appears next to the draft button as RimHUD adds a rules button in the inspect pane.</RimHUD.Integration.PawnRules.HideGizmoDesc>
+  <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+  <RimHUD.Model.OfFaction>of {0}</RimHUD.Model.OfFaction>
+  <RimHUD.Model.Faction.Own>our</RimHUD.Model.Faction.Own>
+  <RimHUD.Model.Faction.Wild>wild</RimHUD.Model.Faction.Wild>
+  <RimHUD.Model.Faction.Allied>allied</RimHUD.Model.Faction.Allied>
+  <RimHUD.Model.Faction.Enemy>enemy</RimHUD.Model.Faction.Enemy>
+  <RimHUD.Model.Faction.Hostile>hostile</RimHUD.Model.Faction.Hostile>
+  <RimHUD.Model.Faction.Independent>independent</RimHUD.Model.Faction.Independent>
+  <RimHUD.Model.Creature.Wild>creature</RimHUD.Model.Creature.Wild>
+  <RimHUD.Model.Creature.Tame>animal</RimHUD.Model.Creature.Tame>
+  <RimHUD.Model.Creature.Stray>stray</RimHUD.Model.Creature.Stray>
+  <RimHUD.Model.Creature.Pet>pet</RimHUD.Model.Creature.Pet>
+  <RimHUD.Model.Creature.ExoticPet>exotic pet</RimHUD.Model.Creature.ExoticPet>
+  <RimHUD.Model.Creature.Predator>predator</RimHUD.Model.Creature.Predator>
+  <RimHUD.Model.Creature.Hunt>hunting animal</RimHUD.Model.Creature.Hunt>
+  <RimHUD.Model.Creature.Pack>pack animal</RimHUD.Model.Creature.Pack>
+  <RimHUD.Model.Creature.Farm>farm animal</RimHUD.Model.Creature.Farm>
+  <RimHUD.Model.Creature.Herd>herd animal</RimHUD.Model.Creature.Herd>
+  <RimHUD.Model.Creature.Insect>insect</RimHUD.Model.Creature.Insect>
+  <RimHUD.Model.Creature.Unit>unit</RimHUD.Model.Creature.Unit>
+  <RimHUD.Model.GenderAndAge>{0} aged {1}</RimHUD.Model.GenderAndAge>
+  <RimHUD.Model.Age.Birthday>(Birthday today)</RimHUD.Model.Age.Birthday>
+  <RimHUD.Model.Age.Day>and one day</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Days>and {0} days</RimHUD.Model.Age.Days>
+  <RimHUD.Model.Health.Dead>Dead</RimHUD.Model.Health.Dead>
+  <RimHUD.Model.Health.Incapacitated>Incapacitated</RimHUD.Model.Health.Incapacitated>
+  <RimHUD.Model.Health.Bleed>Bleeding out in {0}</RimHUD.Model.Health.Bleed>
+  <RimHUD.Model.Health.Tend>{0} condition needs tending</RimHUD.Model.Health.Tend>
+  <RimHUD.Model.Health.TendPlural>{0} conditions need tending</RimHUD.Model.Health.TendPlural>
+  <RimHUD.Model.Health.Threat>Has life-threatening {0}</RimHUD.Model.Health.Threat>
+  <RimHUD.Model.Health.ThreatPlural>Has {0} life-threatening conditions</RimHUD.Model.Health.ThreatPlural>
+  <RimHUD.Model.Health.Affected>Affected by {0}</RimHUD.Model.Health.Affected>
+  <RimHUD.Model.Health.AffectedPlural>Affected by {0} and {1} other conditions</RimHUD.Model.Health.AffectedPlural>
+  <RimHUD.Model.Health.Stable>In stable health</RimHUD.Model.Health.Stable>
+  <RimHUD.Model.Mood.ExtremeBreakImminent>Feeling depressed</RimHUD.Model.Mood.ExtremeBreakImminent>
+  <RimHUD.Model.Mood.MajorBreakImminent>Feeling unhappy</RimHUD.Model.Mood.MajorBreakImminent>
+  <RimHUD.Model.Mood.MinorBreakImminent>Feeling stressed</RimHUD.Model.Mood.MinorBreakImminent>
+  <RimHUD.Model.Mood.Happy>Feeling happy</RimHUD.Model.Mood.Happy>
+  <RimHUD.Model.Mood.Content>Feeling content</RimHUD.Model.Mood.Content>
+  <RimHUD.Model.Mood.Indifferent>Feeling indifferent</RimHUD.Model.Mood.Indifferent>
+  <RimHUD.Model.Info.Activity>Activity: {0}</RimHUD.Model.Info.Activity>
+  <RimHUD.Model.Info.Attacking>Attacking {0}</RimHUD.Model.Info.Attacking>
+  <RimHUD.Model.Info.Queued>Queued: {0}</RimHUD.Model.Info.Queued>
+  <RimHUD.Model.Info.Equipped>Equipped: {0}</RimHUD.Model.Info.Equipped>
+  <RimHUD.Model.Info.Carrying>Carrying: {0}</RimHUD.Model.Info.Carrying>
+  <RimHUD.Model.Bio.Title>Title: {0}</RimHUD.Model.Bio.Title>
+  <RimHUD.Model.Bio.Faction>Faction: {0}</RimHUD.Model.Bio.Faction>
+  <RimHUD.Model.Bio.Master>Master: {0}</RimHUD.Model.Bio.Master>
+  <RimHUD.Model.Bio.Diet>Diet: {0}</RimHUD.Model.Bio.Diet>
+  <RimHUD.Model.Bio.Trainability>Trainability: {0}</RimHUD.Model.Bio.Trainability>
+  <RimHUD.Model.Bio.Wildness>Wildness: {0}</RimHUD.Model.Bio.Wildness>
+  <RimHUD.Model.Bio.Petness>Petness: {0}</RimHUD.Model.Bio.Petness>
+  <RimHUD.Model.Selector.OutfitFormat>Outfit: {0}</RimHUD.Model.Selector.OutfitFormat>
+  <RimHUD.Model.Selector.FoodFormat>Food: {0}</RimHUD.Model.Selector.FoodFormat>
+  <RimHUD.Model.Selector.TimetableFormat>Schedule: {0}</RimHUD.Model.Selector.TimetableFormat>
+  <RimHUD.Model.Selector.SetTimeAssignment>Set hour {0} to {1}</RimHUD.Model.Selector.SetTimeAssignment>
+  <RimHUD.Model.Selector.AreaFormat>Area: {0}</RimHUD.Model.Selector.AreaFormat>
+  <RimHUD.Model.Selector.Manage>Manage...</RimHUD.Model.Selector.Manage>
+  <RimHUD.Model.Component.Root>Root</RimHUD.Model.Component.Root>
+  <RimHUD.Model.Component.VStack>Vertical stack</RimHUD.Model.Component.VStack>
+  <RimHUD.Model.Component.VStackFilled>Vertical stack (filled)</RimHUD.Model.Component.VStackFilled>
+  <RimHUD.Model.Component.HStack>Horizontal stack</RimHUD.Model.Component.HStack>
+  <RimHUD.Model.Component.HStackFilled>Horizontal stack (filled)</RimHUD.Model.Component.HStackFilled>
+  <RimHUD.Model.Component.Panel>Panel</RimHUD.Model.Component.Panel>
+  <RimHUD.Model.Component.PanelFilled>Panel (filled)</RimHUD.Model.Component.PanelFilled>
+  <RimHUD.Model.Component.Row>Row</RimHUD.Model.Component.Row>
+  <RimHUD.Model.Component.Blank>Blank</RimHUD.Model.Component.Blank>
+  <RimHUD.Model.Component.Separator>Line separator</RimHUD.Model.Component.Separator>
+  <RimHUD.Model.Component.NameHeader>Name as header</RimHUD.Model.Component.NameHeader>
+  <RimHUD.Model.Component.Outfit>Outfit selector</RimHUD.Model.Component.Outfit>
+  <RimHUD.Model.Component.Food>Food selector</RimHUD.Model.Component.Food>
+  <RimHUD.Model.Component.Rules>Rules selector (Requires Pawn Rules)</RimHUD.Model.Component.Rules>
+  <RimHUD.Model.Component.Timetable>Timetable selector</RimHUD.Model.Component.Timetable>
+  <RimHUD.Model.Component.Area>Area selector</RimHUD.Model.Component.Area>
+  <RimHUD.Model.Component.RelationKindAndFaction>Relation kind and faction</RimHUD.Model.Component.RelationKindAndFaction>
+  <RimHUD.Model.Component.GenderAndAge>Gender and age</RimHUD.Model.Component.GenderAndAge>
+  <RimHUD.Model.Component.Health>Health bar</RimHUD.Model.Component.Health>
+  <RimHUD.Model.Component.HealthCondition>Health condition</RimHUD.Model.Component.HealthCondition>
+  <RimHUD.Model.Component.MindCondition>Mind condition</RimHUD.Model.Component.MindCondition>
+  <RimHUD.Model.Component.Stat>{0} stat</RimHUD.Model.Component.Stat>
+  <RimHUD.Model.Component.Record>{0} record</RimHUD.Model.Component.Record>
+  <RimHUD.Model.Component.NeedMood>Mood bar</RimHUD.Model.Component.NeedMood>
+  <RimHUD.Model.Component.NeedFood>Food bar</RimHUD.Model.Component.NeedFood>
+  <RimHUD.Model.Component.NeedRest>Rest bar</RimHUD.Model.Component.NeedRest>
+  <RimHUD.Model.Component.NeedRecreation>Recreation bar</RimHUD.Model.Component.NeedRecreation>
+  <RimHUD.Model.Component.Need>{0} bar</RimHUD.Model.Component.Need>
+  <RimHUD.Model.Component.SkillShooting>Shooting skill</RimHUD.Model.Component.SkillShooting>
+  <RimHUD.Model.Component.SkillMelee>Melee skill</RimHUD.Model.Component.SkillMelee>
+  <RimHUD.Model.Component.SkillConstruction>Construction skill</RimHUD.Model.Component.SkillConstruction>
+  <RimHUD.Model.Component.SkillMining>Mining skill</RimHUD.Model.Component.SkillMining>
+  <RimHUD.Model.Component.SkillCooking>Cooking skill</RimHUD.Model.Component.SkillCooking>
+  <RimHUD.Model.Component.SkillPlants>Plants skill</RimHUD.Model.Component.SkillPlants>
+  <RimHUD.Model.Component.SkillAnimals>Animals skill</RimHUD.Model.Component.SkillAnimals>
+  <RimHUD.Model.Component.SkillCrafting>Crafting skill</RimHUD.Model.Component.SkillCrafting>
+  <RimHUD.Model.Component.SkillArtistic>Artistic skill</RimHUD.Model.Component.SkillArtistic>
+  <RimHUD.Model.Component.SkillMedicine>Medicine skill</RimHUD.Model.Component.SkillMedicine>
+  <RimHUD.Model.Component.SkillSocial>Social skill</RimHUD.Model.Component.SkillSocial>
+  <RimHUD.Model.Component.SkillIntellectual>Intellectual skill</RimHUD.Model.Component.SkillIntellectual>
+  <RimHUD.Model.Component.Skill>{0} skill</RimHUD.Model.Component.Skill>
+  <RimHUD.Model.Component.TrainingTameness>Tameness training</RimHUD.Model.Component.TrainingTameness>
+  <RimHUD.Model.Component.TrainingObedience>Obedience training</RimHUD.Model.Component.TrainingObedience>
+  <RimHUD.Model.Component.TrainingRelease>Release training</RimHUD.Model.Component.TrainingRelease>
+  <RimHUD.Model.Component.TrainingRescue>Rescue training</RimHUD.Model.Component.TrainingRescue>
+  <RimHUD.Model.Component.TrainingHaul>Haul training</RimHUD.Model.Component.TrainingHaul>
+  <RimHUD.Model.Component.Training>{0} training</RimHUD.Model.Component.Training>
+  <RimHUD.Model.Component.Master>Master</RimHUD.Model.Component.Master>
+  <RimHUD.Model.Component.Activity>Activity</RimHUD.Model.Component.Activity>
+  <RimHUD.Model.Component.Queued>Queued</RimHUD.Model.Component.Queued>
+  <RimHUD.Model.Component.Equipped>Equipped</RimHUD.Model.Component.Equipped>
+  <RimHUD.Model.Component.Carrying>Carrying</RimHUD.Model.Component.Carrying>
+  <RimHUD.Model.Component.CompInfo>Extra information</RimHUD.Model.Component.CompInfo>
+  <RimHUD.Model.Component.Container.Filled>Filled</RimHUD.Model.Component.Container.Filled>
+  <RimHUD.Model.Target.PlayerHumanlike>Player Humanlike</RimHUD.Model.Target.PlayerHumanlike>
+  <RimHUD.Model.Target.OtherHumanlike>Other Humanlike</RimHUD.Model.Target.OtherHumanlike>
+  <RimHUD.Model.Target.PlayerCreature>Player Creature</RimHUD.Model.Target.PlayerCreature>
+  <RimHUD.Model.Target.OtherCreature>Other Creature</RimHUD.Model.Target.OtherCreature>
+  <RimHUD.Theme.HudPosition>HUD Position</RimHUD.Theme.HudPosition>
+  <RimHUD.Theme.HudDocked>Dock to Inspect Pane</RimHUD.Theme.HudDocked>
+  <RimHUD.Theme.HudDockedDesc>Requires Inspect Pane to be modified, see below.</RimHUD.Theme.HudDockedDesc>
+  <RimHUD.Theme.HudAnchor>Anchor</RimHUD.Theme.HudAnchor>
+  <RimHUD.Theme.HudAnchors>Top Left|Top Center|Top Right|Center Left|Center|Center Right|Bottom Left|Bottom Center|Bottom Right</RimHUD.Theme.HudAnchors>
+  <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
+  <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
+  <RimHUD.Theme.RefreshRate>Refresh rate</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>How often the HUD will refresh. Set this higher if experiencing any frame rate drop.</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
+  <RimHUD.Theme.HudDimensions>HUD Dimensions</RimHUD.Theme.HudDimensions>
+  <RimHUD.Theme.HudWidth>Width</RimHUD.Theme.HudWidth>
+  <RimHUD.Theme.HudHeight>Height</RimHUD.Theme.HudHeight>
+  <RimHUD.Theme.TextOptions>Text Options</RimHUD.Theme.TextOptions>
+  <RimHUD.Theme.TextStyleRegular>Regular Text</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>Header Text</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>Description Text</RimHUD.Theme.TextStyleSmall>
+  <RimHUD.Theme.LabelWidth>Label Width</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>Value Width</RimHUD.Theme.ValueWidth>
+  <RimHUD.Theme.InspectPane>Inspect Pane</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneModify>Modify</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>This is required for the docked HUD mode.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>Show character log</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>Fills the inspect pane with the log for the selected character. Only available in undocked mode.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>Pane Height</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>Minimum Tabs</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>Tab Width</RimHUD.Theme.InspectPaneTabWidth>
+  <RimHUD.Theme.OtherOptions>Other Options</RimHUD.Theme.OtherOptions>
+  <RimHUD.Theme.ShowDecimals>Show Decimals</RimHUD.Theme.ShowDecimals>
+  <RimHUD.Theme.LetterPadding>Letter Padding</RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>Changes the distance between the letter notifications that appear on the right side of the screen. Vanilla: 12</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>Compress Notifications</RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>Will compress any letters and alerts on the right side of the screen if they overlap with the HUD.</RimHUD.Theme.LetterCompressDesc>
+  <RimHUD.Theme.HudColors>HUD Colors</RimHUD.Theme.HudColors>
+  <RimHUD.Theme.MainTextColor>Main text</RimHUD.Theme.MainTextColor>
+  <RimHUD.Theme.DisabledColor>Disabled text</RimHUD.Theme.DisabledColor>
+  <RimHUD.Theme.CriticalColor>Critical text</RimHUD.Theme.CriticalColor>
+  <RimHUD.Theme.WarningColor>Warning text</RimHUD.Theme.WarningColor>
+  <RimHUD.Theme.InfoColor>Info text</RimHUD.Theme.InfoColor>
+  <RimHUD.Theme.GoodColor>Good text</RimHUD.Theme.GoodColor>
+  <RimHUD.Theme.ExcellentColor>Excellent text</RimHUD.Theme.ExcellentColor>
+  <RimHUD.Theme.BarBackgroundColor>Bar background</RimHUD.Theme.BarBackgroundColor>
+  <RimHUD.Theme.BarMainColor>Bar main</RimHUD.Theme.BarMainColor>
+  <RimHUD.Theme.BarLowColor>Bar low</RimHUD.Theme.BarLowColor>
+  <RimHUD.Theme.BarThresholdColor>Bar threshold</RimHUD.Theme.BarThresholdColor>
+  <RimHUD.Theme.SelectorBackgroundColor>Selector Background</RimHUD.Theme.SelectorBackgroundColor>
+  <RimHUD.Theme.SelectorTextColor>Selector Text</RimHUD.Theme.SelectorTextColor>
+  <RimHUD.Theme.LineColor>Line</RimHUD.Theme.LineColor>
+  <RimHUD.Theme.FactionColors>Faction Colors</RimHUD.Theme.FactionColors>
+  <RimHUD.Theme.FactionOwnColor>Own</RimHUD.Theme.FactionOwnColor>
+  <RimHUD.Theme.FactionAlliedColor>Allied</RimHUD.Theme.FactionAlliedColor>
+  <RimHUD.Theme.FactionIndependentColor>Independent</RimHUD.Theme.FactionIndependentColor>
+  <RimHUD.Theme.FactionHostileColor>Hostile</RimHUD.Theme.FactionHostileColor>
+  <RimHUD.Theme.FactionWildColor>Wild</RimHUD.Theme.FactionWildColor>
+  <RimHUD.Theme.SkillColors>Skill Colors</RimHUD.Theme.SkillColors>
+  <RimHUD.Theme.SkillMinorPassionColor>Minor passion</RimHUD.Theme.SkillMinorPassionColor>
+  <RimHUD.Theme.SkillMajorPassionColor>Major passion</RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.TextStyle.Size>Size</RimHUD.TextStyle.Size>
+  <RimHUD.TextStyle.Height>Height</RimHUD.TextStyle.Height>
+</LanguageData>
