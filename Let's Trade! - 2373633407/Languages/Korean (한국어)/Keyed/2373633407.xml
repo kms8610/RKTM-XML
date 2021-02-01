@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Freq_Desc>This setting affects how likely this trader is to spawn over other traders. If all traders are set to abundant, they will all have an equal chance of spawning.</Freq_Desc>
+  <BulkTribFreq_Title>Tribal Bulk Traders:</BulkTribFreq_Title>
+  <WarTribFreq_Title>Tribal War Merchants:</WarTribFreq_Title>
+  <SlaveTribFreq_Title>Tribal Slavers:</SlaveTribFreq_Title>
+  <ShamTribFreq_Title>Tribal Shaman Merchants:</ShamTribFreq_Title>
+  <BulkOutFreq_Title>Outlander Bulk Traders:</BulkOutFreq_Title>
+  <CombOutFreq_Title>Outlander Combat Suppliers:</CombOutFreq_Title>
+  <PiraOutFreq_Title>Outlander Pirate Merchants:</PiraOutFreq_Title>
+  <ExoOutFreq_Title>Outlander Exotic Traders:</ExoOutFreq_Title>
+  <BulkOrbFreq_Title>Orbital Bulk Traders:</BulkOrbFreq_Title>
+  <CombOrbFreq_Title>Orbital Combat Suppliers:</CombOrbFreq_Title>
+  <PiraOrbFreq_Title>Orbital Pirate Merchants:</PiraOrbFreq_Title>
+  <ExoOrbFreq_Title>Orbital Exotic Traders:</ExoOrbFreq_Title>
+  <FarmTribFreq_Title>Tribal Nomads:</FarmTribFreq_Title>
+  <MineTribFreq_Title>Tribal Masons:</MineTribFreq_Title>
+  <TextTribFreq_Title>Tribal Pelt Traders:</TextTribFreq_Title>
+  <MediTribFreq_Title>Tribal Herbal Suppliers:</MediTribFreq_Title>
+  <ArtTribFreq_Title>Tribal Artist Troupes:</ArtTribFreq_Title>
+  <OddTribFreq_Title>Tribal Odds Traders:</OddTribFreq_Title>
+  <FarmOutFreq_Title>Outlander Farming Trader:</FarmOutFreq_Title>
+  <MineOutFreq_Title>Outlander Mining Caravans:</MineOutFreq_Title>
+  <TextOutFreq_Title>Outlander Fabric Traders:</TextOutFreq_Title>
+  <MediOutFreq_Title>Outlander Medical Traders:</MediOutFreq_Title>
+  <DrugOutFreq_Title>Outlander Drug Dealers:</DrugOutFreq_Title>
+  <ArchOutFreq_Title>Outlander Archelogical Expeditions:</ArchOutFreq_Title>
+  <FarmOrbFreq_Title>Orbital Agricultural Traders:</FarmOrbFreq_Title>
+  <TextOrbFreq_Title>Orbital Textile Traders:</TextOrbFreq_Title>
+  <ButchOrbFreq_Title>Orbital Butchers:</ButchOrbFreq_Title>
+  <MediOrbFreq_Title>Orbital Surgical Suppliers:</MediOrbFreq_Title>
+  <DrugOrbFreq_Title>Orbital Pharmaceutical Traders:</DrugOrbFreq_Title>
+  <FactOrbFreq_Title>Orbital Orbital Factories:</FactOrbFreq_Title>
+  <MineOrbFreq_Title>Orbital Miners:</MineOrbFreq_Title>
+  <ArchOrbFreq_Title>Orbital Artifact Dealers:</ArchOrbFreq_Title>
+  <LiveOrbFreq_Title>Orbital Livestock Wranglers:</LiveOrbFreq_Title>
+  <RestOrbFreq_Title>Orbital Restaurants:</RestOrbFreq_Title>
+  <ScrapOrbFreq_Title>Orbital Scrap Traders:</ScrapOrbFreq_Title>
+  <CaniOrbFreq_Title>Orbital Cannibals:</CaniOrbFreq_Title>
+  <RareOrbFreq_Title>Orbital A.I Traders:</RareOrbFreq_Title>
+  <enum_Never>Never</enum_Never>
+  <enum_Rare>Rare</enum_Rare>
+  <enum_Uncommon>Uncommon</enum_Uncommon>
+  <enum_Average>Average</enum_Average>
+  <enum_Common>Common</enum_Common>
+  <enum_VeryCommon>Very Common</enum_VeryCommon>
+  <enum_Abundant>Abundant</enum_Abundant>
+</LanguageData>
