@@ -24,8 +24,8 @@
   <VBE_AmbrosiaMush.label>make ambrosia mush</VBE_AmbrosiaMush.label>
   <VBE_AmbrosiaMush.description>Make sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor.</VBE_AmbrosiaMush.description>
   <VBE_AmbrosiaMush.jobString>Making ambrosia mush.</VBE_AmbrosiaMush.jobString>
-  <VBE_MakeTequilaMust.label>make tequila must</VBE_MakeTequilaMust.label>
-  <VBE_MakeTequilaMust.description>Make a thin mixture of juiced agave sap or prickly cactus pear and insect meat starter, ready to be cut and fermented in a barrel.</VBE_MakeTequilaMust.description>
+  <VBE_MakeTequilaMust.label>make tequila must from agave</VBE_MakeTequilaMust.label>
+  <VBE_MakeTequilaMust.description>Make a thin mixture of juiced agave sap and insect meat starter, ready to be cut and fermented in a barrel.</VBE_MakeTequilaMust.description>
   <VBE_MakeTequilaMust.jobString>Making tequila must.</VBE_MakeTequilaMust.jobString>
   <VBE_MakeWhiskeyMash.label>make whiskey mash</VBE_MakeWhiskeyMash.label>
   <VBE_MakeWhiskeyMash.description>Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.</VBE_MakeWhiskeyMash.description>
@@ -63,6 +63,9 @@
   <VBE_MakeCocktailGourmet.label>make gourmet cocktail</VBE_MakeCocktailGourmet.label>
   <VBE_MakeCocktailGourmet.description>Make a gourmet cocktail, where every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible.</VBE_MakeCocktailGourmet.description>
   <VBE_MakeCocktailGourmet.jobString>Making gourmet cocktail.</VBE_MakeCocktailGourmet.jobString>
+  <VBE_MakeTequilaMustFromPears.label>make tequila must from prickly pear</VBE_MakeTequilaMustFromPears.label>
+  <VBE_MakeTequilaMustFromPears.description>Make a thin mixture of prickly cactus pear and insect meat starter, ready to be cut and fermented in a barrel.</VBE_MakeTequilaMustFromPears.description>
+  <VBE_MakeTequilaMustFromPears.jobString>Making tequila must.</VBE_MakeTequilaMustFromPears.jobString>
   <VBE_MakeUnfermentedCider.label>make unfermented cider</VBE_MakeUnfermentedCider.label>
   <VBE_MakeUnfermentedCider.description>Make unfermented cider with a starter in an air-tight bottle. If left alone to develop the proper bacteria the end result will be a weak alcoholic beverage.</VBE_MakeUnfermentedCider.description>
   <VBE_MakeUnfermentedCider.jobString>Making unfermented cider.</VBE_MakeUnfermentedCider.jobString>
