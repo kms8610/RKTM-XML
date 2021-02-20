@@ -24,6 +24,12 @@
   <AB_InstallBionicTentacle.label>install bionic tentacle</AB_InstallBionicTentacle.label>
   <AB_InstallBionicTentacle.description>Installs bionic tentacle.</AB_InstallBionicTentacle.description>
   <AB_InstallBionicTentacle.jobString>Installing bionic tentacle.</AB_InstallBionicTentacle.jobString>
+  <AA_InstallSimpleBeak.label>install simple prosthetic beak</AA_InstallSimpleBeak.label>
+  <AA_InstallSimpleBeak.description>Installs simple prosthetic beak.</AA_InstallSimpleBeak.description>
+  <AA_InstallSimpleBeak.jobString>Installing simple prosthetic beak.</AA_InstallSimpleBeak.jobString>
+  <AA_InstallBionicBeak.label>install bionic beak</AA_InstallBionicBeak.label>
+  <AA_InstallBionicBeak.description>Installs bionic beak.</AA_InstallBionicBeak.description>
+  <AA_InstallBionicBeak.jobString>Installing bionic beak.</AA_InstallBionicBeak.jobString>
   <AA_InstallBionicMotionDetector.label>install bionic motion detector</AA_InstallBionicMotionDetector.label>
   <AA_InstallBionicMotionDetector.description>Installs bionic motion detector. Requires a min skill in medicine of 8.</AA_InstallBionicMotionDetector.description>
   <AA_InstallBionicMotionDetector.jobString>Installing bionic motion detector.</AA_InstallBionicMotionDetector.jobString>
@@ -54,6 +60,51 @@
   <AA_InstallGooAcidifier.label>install goo acidifier</AA_InstallGooAcidifier.label>
   <AA_InstallGooAcidifier.description>Install a goo acidifier.</AA_InstallGooAcidifier.description>
   <AA_InstallGooAcidifier.jobString>Installing goo acidifier.</AA_InstallGooAcidifier.jobString>
+  <AA_InstallRangedSpinneretImplant.label>install ranged spinneret implant</AA_InstallRangedSpinneretImplant.label>
+  <AA_InstallRangedSpinneretImplant.description>Install a ranged spinneret. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_InstallRangedSpinneretImplant.description>
+  <AA_InstallRangedSpinneretImplant.jobString>Installing ranged spinneret implant.</AA_InstallRangedSpinneretImplant.jobString>
+  <AA_MakeRangedSpinneretImplant.label>make a ranged spinneret implant</AA_MakeRangedSpinneretImplant.label>
+  <AA_MakeRangedSpinneretImplant.description>Make a ranged spinneret implant from a Feralisk, Dunealisk, Blizzarisk, Cinderlisk, Junglelisk or Animalisk corpse. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_MakeRangedSpinneretImplant.description>
+  <AA_MakeRangedSpinneretImplant.jobString>Making ranged spinneret implant</AA_MakeRangedSpinneretImplant.jobString>
+  <AA_RemoveRangedSpinneretImplant.label>remove ranged spinneret implant</AA_RemoveRangedSpinneretImplant.label>
+  <AA_RemoveRangedSpinneretImplant.description>Remove ranged spinneret implant.</AA_RemoveRangedSpinneretImplant.description>
+  <AA_RemoveRangedSpinneretImplant.jobString>Removing ranged spinneret implant.</AA_RemoveRangedSpinneretImplant.jobString>
+  <AA_InstallVenomousSpitterImplant.label>install venomous spitter implant</AA_InstallVenomousSpitterImplant.label>
+  <AA_InstallVenomousSpitterImplant.description>Install a venomous spitter. This implant will allow this creature to use a ranged venomous spit attack.\n\nNote that installing this on a creature that already has a venomous spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_InstallVenomousSpitterImplant.description>
+  <AA_InstallVenomousSpitterImplant.jobString>Installing venomous spitter implant.</AA_InstallVenomousSpitterImplant.jobString>
+  <AA_MakeVenomousSpitterImplant.label>make a venomous spitter implant</AA_MakeVenomousSpitterImplant.label>
+  <AA_MakeVenomousSpitterImplant.description>Make a venomous spitter from a Black Spelopede or Blackspider corpse. This implant will allow this creature to use a ranged venomous spit attack.\n\nNote that installing this on a creature that already has a venomous spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_MakeVenomousSpitterImplant.description>
+  <AA_MakeVenomousSpitterImplant.jobString>Making venomous spitter implant</AA_MakeVenomousSpitterImplant.jobString>
+  <AA_RemoveVenomousSpitterImplant.label>remove venomous spitter implant</AA_RemoveVenomousSpitterImplant.label>
+  <AA_RemoveVenomousSpitterImplant.description>Remove venomous spitter implant.</AA_RemoveVenomousSpitterImplant.description>
+  <AA_RemoveVenomousSpitterImplant.jobString>Removing venomous spitter implant.</AA_RemoveVenomousSpitterImplant.jobString>
+  <AA_InstallAcidicSpitterImplant.label>install acidic spitter implant</AA_InstallAcidicSpitterImplant.label>
+  <AA_InstallAcidicSpitterImplant.description>Install an acidic spitter. This implant will allow this creature to use a ranged acidic spit attack that causes additional damage over time.\n\nNote that installing this on a creature that already has an acidic spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_InstallAcidicSpitterImplant.description>
+  <AA_InstallAcidicSpitterImplant.jobString>Installing acidic spitter implant.</AA_InstallAcidicSpitterImplant.jobString>
+  <AA_MakeAcidicSpitterImplant.label>make an acidic spitter implant</AA_MakeAcidicSpitterImplant.label>
+  <AA_MakeAcidicSpitterImplant.description>Make an acidic spitter from a Red Goo, Green Goo, Mantrap, Red Spore or Ocular Jelly corpse. This implant will allow this creature to use a ranged acidic spit attack that causes additional damage over time.\n\nNote that installing this on a creature that already has an acidic spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_MakeAcidicSpitterImplant.description>
+  <AA_MakeAcidicSpitterImplant.jobString>Making acidic spitter implant</AA_MakeAcidicSpitterImplant.jobString>
+  <AA_RemoveAcidicSpitterImplant.label>remove acidic spitter implant</AA_RemoveAcidicSpitterImplant.label>
+  <AA_RemoveAcidicSpitterImplant.description>Remove acidic spitter implant.</AA_RemoveAcidicSpitterImplant.description>
+  <AA_RemoveAcidicSpitterImplant.jobString>Removing acidic spitter implant.</AA_RemoveAcidicSpitterImplant.jobString>
+  <AA_InstallBarbedQuillThrowerImplant.label>install barbed quill thrower implant</AA_InstallBarbedQuillThrowerImplant.label>
+  <AA_InstallBarbedQuillThrowerImplant.description>Install a barbed quill thrower. This implant will allow this creature to use a ranged venomous quill attack that causes toxic buildup.\n\nNote that installing this on a creature that already has a barbed quill thrower will have no effect.</AA_InstallBarbedQuillThrowerImplant.description>
+  <AA_InstallBarbedQuillThrowerImplant.jobString>Installing barbed quill thrower implant.</AA_InstallBarbedQuillThrowerImplant.jobString>
+  <AA_MakeBarbedQuillThrowerImplant.label>make a barbed quill thrower implant</AA_MakeBarbedQuillThrowerImplant.label>
+  <AA_MakeBarbedQuillThrowerImplant.description>Make a barbed quill thrower implant from a Barbslinger, Nightling, Night Ave, Needleroll or Needlepost corpse. This implant will allow this creature to use a ranged venomous quill attack that causes toxic buildup.\n\nNote that installing this on a creature that already has a barbed quill thrower will have no effect.</AA_MakeBarbedQuillThrowerImplant.description>
+  <AA_MakeBarbedQuillThrowerImplant.jobString>Making barbed quill thrower implant</AA_MakeBarbedQuillThrowerImplant.jobString>
+  <AA_RemoveBarbedQuillThrowerImplant.label>remove barbed quill thrower implant</AA_RemoveBarbedQuillThrowerImplant.label>
+  <AA_RemoveBarbedQuillThrowerImplant.description>Remove barbed quill thrower implant.</AA_RemoveBarbedQuillThrowerImplant.description>
+  <AA_RemoveBarbedQuillThrowerImplant.jobString>Removing barbed quill thrower implant.</AA_RemoveBarbedQuillThrowerImplant.jobString>
+  <AA_InstallQuadTeslaCannonImplant.label>install quad tesla cannon implant</AA_InstallQuadTeslaCannonImplant.label>
+  <AA_InstallQuadTeslaCannonImplant.description>Install a quad tesla cannon. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_InstallQuadTeslaCannonImplant.description>
+  <AA_InstallQuadTeslaCannonImplant.jobString>Installing quad tesla cannon implant.</AA_InstallQuadTeslaCannonImplant.jobString>
+  <AA_MakeQuadTeslaCannonImplant.label>make a quad tesla cannon implant</AA_MakeQuadTeslaCannonImplant.label>
+  <AA_MakeQuadTeslaCannonImplant.description>Make a quad tesla cannon implant from a Tetra slug corpse. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_MakeQuadTeslaCannonImplant.description>
+  <AA_MakeQuadTeslaCannonImplant.jobString>Making quad tesla cannon implant</AA_MakeQuadTeslaCannonImplant.jobString>
+  <AA_RemoveQuadTeslaCannonImplant.label>remove quad tesla cannon implant</AA_RemoveQuadTeslaCannonImplant.label>
+  <AA_RemoveQuadTeslaCannonImplant.description>Remove quad tesla cannon implant.</AA_RemoveQuadTeslaCannonImplant.description>
+  <AA_RemoveQuadTeslaCannonImplant.jobString>Removing quad tesla cannon implant.</AA_RemoveQuadTeslaCannonImplant.jobString>
   <RB_MakeSynthreadCloth.label>weave eleven synthread cloth from silk</RB_MakeSynthreadCloth.label>
   <RB_MakeSynthreadCloth.description>weave synthread cloth from Synthread Silk and plasteel thread. \n\nMakes 11 cloth.</RB_MakeSynthreadCloth.description>
   <RB_MakeSynthreadCloth.jobString>weaving synthread cloth.</RB_MakeSynthreadCloth.jobString>

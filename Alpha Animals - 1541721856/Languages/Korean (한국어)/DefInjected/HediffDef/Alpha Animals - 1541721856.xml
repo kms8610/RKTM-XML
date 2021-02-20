@@ -120,6 +120,12 @@
   <AA_BionicTentacle.label>bionic tentacle</AA_BionicTentacle.label>
   <AA_BionicTentacle.description>A bionic tentacle.</AA_BionicTentacle.description>
   <AA_BionicTentacle.comps.0.tools.0.label>bionic tentacle</AA_BionicTentacle.comps.0.tools.0.label>
+  <AA_ProstheticBeak.label>simple prosthetic beak</AA_ProstheticBeak.label>
+  <AA_ProstheticBeak.description>A simple prosthetic beak.</AA_ProstheticBeak.description>
+  <AA_ProstheticBeak.comps.0.tools.0.label>prosthetic beak</AA_ProstheticBeak.comps.0.tools.0.label>
+  <AA_BionicBeak.label>bionic beak</AA_BionicBeak.label>
+  <AA_BionicBeak.description>A bionic beak.</AA_BionicBeak.description>
+  <AA_BionicBeak.comps.0.tools.0.label>bionic beak</AA_BionicBeak.comps.0.tools.0.label>
   <AA_BionicMotionDetector.label>bionic motion detector</AA_BionicMotionDetector.label>
   <AA_BionicMotionDetector.description>Improved bionic motion detector for animals. This motion detector replaces echolocation organs and vibration sensors.</AA_BionicMotionDetector.description>
   <AA_ProstheticBuoyancyMechanism.label>simple prosthetic buoyancy mechanism</AA_ProstheticBuoyancyMechanism.label>
@@ -143,4 +149,29 @@
   <AA_GooAcidifier.label>goo acidifier</AA_GooAcidifier.label>
   <AA_GooAcidifier.labelNoun>a goo acidifier</AA_GooAcidifier.labelNoun>
   <AA_GooAcidifier.description>A goo acidifier increases the acidity of a goo's internal organs, making it explode as soon as it is downed. Basically transforms goos into biological suicide bombers.</AA_GooAcidifier.description>
+  <AA_RangedSpinneretImplant.label>ranged spinneret implant</AA_RangedSpinneretImplant.label>
+  <AA_RangedSpinneretImplant.labelNoun>a ranged spinneret implant</AA_RangedSpinneretImplant.labelNoun>
+  <AA_RangedSpinneretImplant.description>An installed ranged spinneret implant. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_RangedSpinneretImplant.description>
+  <AA_RangedSpinneretImplant.comps.0.verbs.0.label>web</AA_RangedSpinneretImplant.comps.0.verbs.0.label>
+  <AA_RangedSpinneretImplant.comps.0.verbProps.0.label>web</AA_RangedSpinneretImplant.comps.0.verbProps.0.label>
+  <AA_VenomousSpitterImplant.label>venomous spitter implant</AA_VenomousSpitterImplant.label>
+  <AA_VenomousSpitterImplant.labelNoun>a venomous spitter implant</AA_VenomousSpitterImplant.labelNoun>
+  <AA_VenomousSpitterImplant.description>An installed venomous spitter implant. This implant will allow this creature to use a ranged venomous spit attack.\n\nNote that installing this on a creature that already has a venomous spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_VenomousSpitterImplant.description>
+  <AA_VenomousSpitterImplant.comps.0.verbs.0.label>venomous spit</AA_VenomousSpitterImplant.comps.0.verbs.0.label>
+  <AA_VenomousSpitterImplant.comps.0.verbProps.0.label>venomous spit</AA_VenomousSpitterImplant.comps.0.verbProps.0.label>
+  <AA_AcidicSpitterImplant.label>acidic spitter implant</AA_AcidicSpitterImplant.label>
+  <AA_AcidicSpitterImplant.labelNoun>an acidic spitter implant</AA_AcidicSpitterImplant.labelNoun>
+  <AA_AcidicSpitterImplant.description>An installed acidic spitter implant. This implant will allow this creature to use a ranged acidic spit attack that causes additional damage over time.\n\nNote that installing this on a creature that already has an acidic spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_AcidicSpitterImplant.description>
+  <AA_AcidicSpitterImplant.comps.0.verbs.0.label>acidic spit</AA_AcidicSpitterImplant.comps.0.verbs.0.label>
+  <AA_AcidicSpitterImplant.comps.0.verbProps.0.label>acidic spit</AA_AcidicSpitterImplant.comps.0.verbProps.0.label>
+  <AA_BarbedQuillThrowerImplant.label>barbed quill thrower implant</AA_BarbedQuillThrowerImplant.label>
+  <AA_BarbedQuillThrowerImplant.labelNoun>a barbed quill thrower implant</AA_BarbedQuillThrowerImplant.labelNoun>
+  <AA_BarbedQuillThrowerImplant.description>An installed barbed quill thrower implant. This implant will allow this creature to use a ranged venomous quill attack that causes toxic buildup.\n\nNote that installing this on a creature that already has a barbed quill thrower will have no effect.</AA_BarbedQuillThrowerImplant.description>
+  <AA_BarbedQuillThrowerImplant.comps.0.verbs.0.label>barbed quills</AA_BarbedQuillThrowerImplant.comps.0.verbs.0.label>
+  <AA_BarbedQuillThrowerImplant.comps.0.verbProps.0.label>barbed quills</AA_BarbedQuillThrowerImplant.comps.0.verbProps.0.label>
+  <AA_QuadTeslaCannonImplant.label>quad tesla cannon implant</AA_QuadTeslaCannonImplant.label>
+  <AA_QuadTeslaCannonImplant.labelNoun>a quad tesla cannon implant</AA_QuadTeslaCannonImplant.labelNoun>
+  <AA_QuadTeslaCannonImplant.description>An installed quad tesla cannon implant. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_QuadTeslaCannonImplant.description>
+  <AA_QuadTeslaCannonImplant.comps.0.verbs.0.label>quad tesla cannon</AA_QuadTeslaCannonImplant.comps.0.verbs.0.label>
+  <AA_QuadTeslaCannonImplant.comps.0.verbProps.0.label>quad tesla cannon</AA_QuadTeslaCannonImplant.comps.0.verbProps.0.label>
 </LanguageData>

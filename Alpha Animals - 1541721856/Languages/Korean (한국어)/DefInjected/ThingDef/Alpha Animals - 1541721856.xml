@@ -194,13 +194,12 @@
   <AA_Flamethrower.label>flamethrower</AA_Flamethrower.label>
   <AA_Flamethrower.description>A chemfuel flamethrower. Short range, but it will cause uncontrollable fires if you let the fireworms come near.</AA_Flamethrower.description>
   <AA_Flamethrower.tools.0.label>barrel</AA_Flamethrower.tools.0.label>
-  <AA_FlamethrowerBullet.label>chemical fire</AA_FlamethrowerBullet.label>
   <AA_CryogenicGun.label>cryogenic gun</AA_CryogenicGun.label>
   <AA_CryogenicGun.description>A cryogenic gun.</AA_CryogenicGun.description>
   <AA_CryogenicGun.tools.0.label>barrel</AA_CryogenicGun.tools.0.label>
   <AA_CryoBullet.label>cryogenic pellet</AA_CryoBullet.label>
-  <AA_Bullet_Barb.label>barb</AA_Bullet_Barb.label>
-  <AA_PoisonBolt.label>poison spit</AA_PoisonBolt.label>
+  <AA_Bullet_Barb.label>thrown quill</AA_Bullet_Barb.label>
+  <AA_PoisonBolt.label>venomous spit</AA_PoisonBolt.label>
   <AA_ToxicInk.label>toxic ink spit</AA_ToxicInk.label>
   <AA_AcidBolt.label>acid spit</AA_AcidBolt.label>
   <AA_RedPoisonBolt.label>red poison spit</AA_RedPoisonBolt.label>
@@ -212,7 +211,7 @@
   <AA_FireWeb.label>fire web</AA_FireWeb.label>
   <AA_AcidicWeb.label>acidic web</AA_AcidicWeb.label>
   <AA_Web.label>web</AA_Web.label>
-  <AA_IncendiaryMote.label>fireball</AA_IncendiaryMote.label>
+  <AA_IncendiaryMote.label>thermal detonating spit</AA_IncendiaryMote.label>
   <AA_FireSpit.label>fire spit</AA_FireSpit.label>
   <AA_Filth_BlueBlood.label>blue blood</AA_Filth_BlueBlood.label>
   <AA_OcularGas.label>ocular gas</AA_OcularGas.label>
@@ -272,18 +271,7 @@
   <AA_Animalisk.tools.0.label>left first leg</AA_Animalisk.tools.0.label>
   <AA_Animalisk.tools.1.label>right first leg</AA_Animalisk.tools.1.label>
   <AA_Animalisk.tools.3.label>head</AA_Animalisk.tools.3.label>
-  <AA_BlackScarab.label>black scarab</AA_BlackScarab.label>
-  <AA_BlackScarab.description>This large, genetically-engineered beetle is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. Black scarabs are little more than cannon fodder, released ahead of the main insectoid horde to draw enemy fire. A eusocial creature, it cannot reproduce individually.</AA_BlackScarab.description>
-  <AA_BlackScarab.tools.0.label>mandibles</AA_BlackScarab.tools.0.label>
-  <AA_BlackScarab.tools.1.label>head</AA_BlackScarab.tools.1.label>
-  <AA_BlackSpelopede.label>black spelopede</AA_BlackSpelopede.label>
-  <AA_BlackSpelopede.description>A medium-sized bioengineered insectoid the size of a sheep that is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.</AA_BlackSpelopede.description>
-  <AA_BlackSpelopede.tools.0.label>head claw</AA_BlackSpelopede.tools.0.label>
-  <AA_BlackSpelopede.tools.1.label>head</AA_BlackSpelopede.tools.1.label>
-  <AA_BlackSpider.label>blackspider</AA_BlackSpider.label>
-  <AA_BlackSpider.description>Not actually a spider, the  blackspider is a genetically-engineered giant insectoid the size of a bear. This creature is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters.</AA_BlackSpider.description>
-  <AA_BlackSpider.tools.0.label>head claw</AA_BlackSpider.tools.0.label>
-  <AA_BlackSpider.tools.1.label>head</AA_BlackSpider.tools.1.label>
+  <AA_Animalisk.verbs.0.label>web</AA_Animalisk.verbs.0.label>
   <AA_AnimusVox.label>animus vox</AA_AnimusVox.label>
   <AA_AnimusVox.description>The Animus Vox is a small canine with latent psionic abilities. Like all canines, it is quite intelligent for an animal, but not intelligent enough to properly use psionics. It will however quickly bond with human beings and reach with its mind to make happy everyone that treats it well.\n\nAnimus Voxes can often be seen on the Rim as pets, though some wander the wilderness, looking for someone to bond to.</AA_AnimusVox.description>
   <AA_AnimusVox.tools.0.label>left claw</AA_AnimusVox.tools.0.label>
@@ -306,15 +294,31 @@
   <AA_Barbslinger.tools.0.label>left pincer</AA_Barbslinger.tools.0.label>
   <AA_Barbslinger.tools.1.label>right pincer</AA_Barbslinger.tools.1.label>
   <AA_Barbslinger.tools.3.label>head</AA_Barbslinger.tools.3.label>
+  <AA_Barbslinger.verbs.0.label>barbed quills</AA_Barbslinger.verbs.0.label>
   <AA_BedBug.label>bedbug</AA_BedBug.label>
   <AA_BedBug.description>These oversized alien insects are considered a pest and a nuisance in every world they manage to infest. While not particularly dangerous or powerful on their own, their bite carries a powerful toxin that paralyzes its prey, so one small bite is enough to down prey much larger than themselves. Thankfully, humans are way too large for them, unless they are somehow maddened beyond all reason... Hunters should be weary not to tackle a bedbug on their own!</AA_BedBug.description>
   <AA_BedBug.tools.0.label>mandibles</AA_BedBug.tools.0.label>
   <AA_BedBug.tools.1.label>head</AA_BedBug.tools.1.label>
+  <AA_BlackScarab.label>black scarab</AA_BlackScarab.label>
+  <AA_BlackScarab.description>This large, genetically-engineered beetle is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. Black scarabs are little more than cannon fodder, released ahead of the main insectoid horde to draw enemy fire. A eusocial creature, it cannot reproduce individually.</AA_BlackScarab.description>
+  <AA_BlackScarab.tools.0.label>mandibles</AA_BlackScarab.tools.0.label>
+  <AA_BlackScarab.tools.1.label>head</AA_BlackScarab.tools.1.label>
+  <AA_BlackSpelopede.label>black spelopede</AA_BlackSpelopede.label>
+  <AA_BlackSpelopede.description>A medium-sized bioengineered insectoid the size of a sheep that is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.</AA_BlackSpelopede.description>
+  <AA_BlackSpelopede.tools.0.label>head claw</AA_BlackSpelopede.tools.0.label>
+  <AA_BlackSpelopede.tools.1.label>head</AA_BlackSpelopede.tools.1.label>
+  <AA_BlackSpelopede.verbs.0.label>venomous spit</AA_BlackSpelopede.verbs.0.label>
+  <AA_BlackSpider.label>blackspider</AA_BlackSpider.label>
+  <AA_BlackSpider.description>Not actually a spider, the  blackspider is a genetically-engineered giant insectoid the size of a bear. This creature is part of the Black Hive, an artifical ecosystem of insectoids designed to fight mechanoid invasions. The Black Hive was designed to be much more aggressive than usual, and several new species were created and added to the Hive to increase its lethality. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters.</AA_BlackSpider.description>
+  <AA_BlackSpider.tools.0.label>head claw</AA_BlackSpider.tools.0.label>
+  <AA_BlackSpider.tools.1.label>head</AA_BlackSpider.tools.1.label>
+  <AA_BlackSpider.verbs.0.label>venomous spit</AA_BlackSpider.verbs.0.label>
   <AA_Blizzarisk.label>blizzarisk</AA_Blizzarisk.label>
   <AA_Blizzarisk.description>Someone once thought that creating supersized spiders for hyperweave-webs production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire. The Blizzarisk is a mutant variation of the Feralisk that has adapted to extremely cold climates.\n\nBlizzarisks attack by throwing spider webs at their prey. These huge webs both stun and freeze anyone they touch, allowing the Blizzarisk to close in and finish the kill with their fearsome venom laced fangs.</AA_Blizzarisk.description>
   <AA_Blizzarisk.tools.0.label>left first leg</AA_Blizzarisk.tools.0.label>
   <AA_Blizzarisk.tools.1.label>right first leg</AA_Blizzarisk.tools.1.label>
   <AA_Blizzarisk.tools.3.label>head</AA_Blizzarisk.tools.3.label>
+  <AA_Blizzarisk.verbs.0.label>frost web</AA_Blizzarisk.verbs.0.label>
   <AA_BlizzariskClutchMother.label>blizzarisk clutch mother</AA_BlizzariskClutchMother.label>
   <AA_BlizzariskClutchMother.description>Someone once thought that creating supersized spiders for hyperweave-webs production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire. The Blizzarisk is a mutant variation of the Feralisk that has adapted to extremely cold climates\n\nBlizzarisks attack by throwing spider webs at their prey. These huge webs both stun and freeze anyone they touch, allowing the Blizzarisk to close in and finish the kill with their fearsome venom laced fangs.\n\nThis Blizzarisk seems to be of much larger size than usual, and is carrying a clutch of eggs on its back. This sounds like a recipe for disaster if not dealt with quickly.</AA_BlizzariskClutchMother.description>
   <AA_BlizzariskClutchMother.tools.0.label>left first leg</AA_BlizzariskClutchMother.tools.0.label>
@@ -358,6 +362,7 @@
   <AA_Cinderlisk.tools.0.label>left first leg</AA_Cinderlisk.tools.0.label>
   <AA_Cinderlisk.tools.1.label>right first leg</AA_Cinderlisk.tools.1.label>
   <AA_Cinderlisk.tools.3.label>head</AA_Cinderlisk.tools.3.label>
+  <AA_Cinderlisk.verbs.0.label>fire web</AA_Cinderlisk.verbs.0.label>
   <AA_CrepuscularBeetle.label>Crepuscular Beetle</AA_CrepuscularBeetle.label>
   <AA_CrepuscularBeetle.description>A very large arthropod reminiscent of an oversized Hercules Beetle, the Crepuscular Beetle is a peaceful herbivore that originated from a mysterious Rimworld orbiting a very faint star, perpetually covered in darkness. This was the home planet of an elusive humanoid alien race known as the Forsakens, and Crepuscular Beetles were often used as domesticated beasts of burden.\n\nCrepuscular Beetles are active during dusk. They also don't need a lot of rest, expending much less time than other creatures to replenish their energies.</AA_CrepuscularBeetle.description>
   <AA_CrepuscularBeetle.tools.0.label>head claw</AA_CrepuscularBeetle.tools.0.label>
@@ -390,6 +395,7 @@
   <AA_Dunealisk.tools.0.label>left first leg</AA_Dunealisk.tools.0.label>
   <AA_Dunealisk.tools.1.label>right first leg</AA_Dunealisk.tools.1.label>
   <AA_Dunealisk.tools.3.label>head</AA_Dunealisk.tools.3.label>
+  <AA_Dunealisk.verbs.0.label>fire web</AA_Dunealisk.verbs.0.label>
   <AA_DunealiskClutchMother.label>dunealisk clutch mother</AA_DunealiskClutchMother.label>
   <AA_DunealiskClutchMother.description>Someone once thought that creating supersized spiders for synthread-web production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire. The Dunealisk is a mutant variation of the Feralisk that has adapted to extremely hot climates.\n\nDunealisks attack by throwing spider webs at their prey. These huge webs stun and burn anyone they touch, allowing the Dunealisk to close in and finish the kill with their fearsome venom laced fangs.\n\nThis Dunealisk seems to be of much larger size than usual, and is carrying a clutch of eggs on its back. This sounds like a recipe for disaster if not dealt with quickly.</AA_DunealiskClutchMother.description>
   <AA_DunealiskClutchMother.tools.0.label>left first leg</AA_DunealiskClutchMother.tools.0.label>
@@ -405,6 +411,7 @@
   <AA_Feralisk.tools.0.label>left first leg</AA_Feralisk.tools.0.label>
   <AA_Feralisk.tools.1.label>right first leg</AA_Feralisk.tools.1.label>
   <AA_Feralisk.tools.3.label>head</AA_Feralisk.tools.3.label>
+  <AA_Feralisk.verbs.0.label>web</AA_Feralisk.verbs.0.label>
   <AA_FeraliskClutchMother.label>feralisk clutch mother</AA_FeraliskClutchMother.label>
   <AA_FeraliskClutchMother.description>Someone once thought that creating supersized spiders for synthread-web production was a good idea. Their home planet is now reduced to a Marble World; a world completely purged by atomic fire.\n\nFeralisks attack by throwing spider webs at their prey. These huge webs stun anyone they touch, allowing the Feralisk to close in and finish the kill with their fearsome venom laced fangs.\n\nThis Feralisk seems to be of much larger size than usual, and is carrying a clutch of eggs on its back. This sounds like a recipe for disaster if not dealt with quickly.</AA_FeraliskClutchMother.description>
   <AA_FeraliskClutchMother.tools.0.label>left first leg</AA_FeraliskClutchMother.tools.0.label>
@@ -483,9 +490,10 @@
   <AA_GreenGoo.label>green goo</AA_GreenGoo.label>
   <AA_GreenGoo.description>These amorphous, ambulatory masses of gelatinous fluid seem to be a mockery of life. Although they look like individuals, in reality they are part of a greater gelatinous superorganism, with only one objective: grow and expand.\n\nThey have been nicknamed green goo due to their ability to reproduce constantly, requiring very little substenance, and quickly filling all available ecological niches. In the field of eschatology, a grey goo is an end-of-the-world scenario involving molecular nanotechnology in which out-of-control self-replicating robots consume all biomass while building more of themselves. A green goo scenario, however, involves biological self-replicating entities. NOTE: due to gameplay constraints, green goo will only self-replicate until the map holds 40 creatures, cause I don't want to fry your computers.</AA_GreenGoo.description>
   <AA_GreenGoo.tools.0.label>tentacles</AA_GreenGoo.tools.0.label>
+  <AA_GreenGoo.verbs.0.label>venomous spit</AA_GreenGoo.verbs.0.label>
   <AA_GreenGoo.comps.0.customString>Cloning in: </AA_GreenGoo.comps.0.customString>
   <AA_Groundrunner.label>groundrunner</AA_Groundrunner.label>
-  <AA_Groundrunner.description>A strange chimera between a bear and mole, Groundrunners originally came from Cave Worlds. They were used as walking heavy tools by the locals when they hit parts that plasteel can’t break, and for hauling large boulders that their owners can’t lift.\n\nDue to their domesticated origins, they are surprisingly docile and easy to tame. Their incredible strength and sharp claws allows them to break rocks with relative ease. But out here in the Rim, those claws are usually reserved for ripping power armors apart along with their wearers.\n\nGroundrunners will happily help your colonists mine rocks and minerals. They are however quite lazy and get distracted easily (this interaction requires the Groundrunner to be trained in Haul).</AA_Groundrunner.description>
+  <AA_Groundrunner.description>A strange chimera between a bear and mole, Groundrunners originally came from Cave Worlds. They were used as walking heavy tools by the locals when they hit parts that plasteel can’t break, and for hauling large boulders that their owners can’t lift.\n\nDue to their domesticated origins, they are surprisingly docile and easy to tame. Their incredible strength and sharp claws allows them to break rocks with relative ease. But out here in the Rim, those claws are usually reserved for ripping power armors apart along with their wearers.\n\nGroundrunners will happily help your colonists mine rocks and minerals. They are however quite lazy and get distracted easily (this interaction requires the Groundrunner to be trained in Haul). This interaction should also work with the Quarry mod.</AA_Groundrunner.description>
   <AA_Groundrunner.tools.0.label>left claw</AA_Groundrunner.tools.0.label>
   <AA_Groundrunner.tools.1.label>right claw</AA_Groundrunner.tools.1.label>
   <AA_Groundrunner.tools.3.label>head</AA_Groundrunner.tools.3.label>
@@ -504,6 +512,7 @@
   <AA_Junglelisk.tools.0.label>left first leg</AA_Junglelisk.tools.0.label>
   <AA_Junglelisk.tools.1.label>right first leg</AA_Junglelisk.tools.1.label>
   <AA_Junglelisk.tools.3.label>head</AA_Junglelisk.tools.3.label>
+  <AA_Junglelisk.verbs.0.label>acidic web</AA_Junglelisk.verbs.0.label>
   <AA_Lockjaw.label>lockjaw</AA_Lockjaw.label>
   <AA_Lockjaw.description>A very large animal native to this planet’s tropical regions. Nicknamed Lockjaws both for their incredibly strong bite force and for the disease they transmit, which afflicts its victims with a moderate facial paralysis that makes eating extremely uncomfortable.\n\nDespite having a guillotine for a mouth, the Lockjaw does not seem to be an overly aggressive creature; Preferring to prey on the local wildlife rather than the local populace.</AA_Lockjaw.description>
   <AA_Lockjaw.tools.1.label>head</AA_Lockjaw.tools.1.label>
@@ -518,11 +527,12 @@
   <AA_Mantrap.description>Project Apricus was a classified scientific endeavour on one of the RimWorlds aiming to discover new ways to fight the Mechanoid menace using nature. The mantrap was created as an attempt to weaponize a mutated Dionaea muscipula (Venus flytrap) by implanting concentrated formic acid spit launchers on its jaws. This strong acid was theorically powerful enough to corrode the plasteel on Mechanoid carapaces.\n\nProject Apricus was invaded by a huge Mechanoid host shortly thereafter, most of its personnel slain, and most of the projects left to fend for themselves.</AA_Mantrap.description>
   <AA_Mantrap.tools.0.label>razor barbs</AA_Mantrap.tools.0.label>
   <AA_Mantrap.tools.2.label>head</AA_Mantrap.tools.2.label>
+  <AA_Mantrap.verbs.0.label>acidic spit</AA_Mantrap.verbs.0.label>
   <AA_MatureFleshbeast.label>mature fleshbeast</AA_MatureFleshbeast.label>
   <AA_MatureFleshbeast.description>The unwanted result of a genetic experiment gone wrong, fleshbeasts are usually miserable, weak creatures that ooze pus and struggle to keep breathing for longer than a few days. Sometimes, however, a fleshbeast manages to survive, and even thrive. Perhaps it was foolishly released into the wild, where it managed to stabilize and grow. Or perhaps it was stronger than average, and managed to subdue and devour its imprudent creators. In any case, it has now turned into a pulsating, fleshy behemoth with a ravenous appetite.\n\nMature fleshbeasts swallow their prey whole, storing up to 5 creatures on its huge stomach for later consumption. Prey may survive for up to one day, but they'll later be consumed and expelled as skeletized remains.</AA_MatureFleshbeast.description>
   <AA_MatureFleshbeast.tools.1.label>head</AA_MatureFleshbeast.tools.1.label>
   <AA_MeadowAve.label>meadow ave</AA_MeadowAve.label>
-  <AA_MeadowAve.description>A large flightless bird with colorful feathers. Mostly found in the plains eating fruits and berries, Meadow Aves naturally attract the eyes and hands of those who wander by. Many forget that underneath the majestic feathery coat is a wild animal with a razor sharp beak and claws to match.\n\nMeadow Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Meadow Aves move 50% faster when used as mounts).</AA_MeadowAve.description>
+  <AA_MeadowAve.description>A large flightless bird with colorful feathers. Mostly found in the plains eating fruits and berries, Meadow Aves naturally attract the eyes and hands of those who wander by. Many forget that underneath the majestic feathery coat is a wild animal with a razor sharp beak and claws to match.\n\nMeadow Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Meadow Aves move 50% faster when used as mounts). They can also be found with wildly different colours.</AA_MeadowAve.description>
   <AA_MeadowAve.tools.0.label>claws</AA_MeadowAve.tools.0.label>
   <AA_MeadowAve.tools.2.label>head</AA_MeadowAve.tools.2.label>
   <AA_MegaLouse.label>megalouse</AA_MegaLouse.label>
@@ -547,10 +557,12 @@
   <AA_Needlepost.description>A cactus genetically modified to give it sentience. The first iteration of this creature was supposed to be a stationary tactical deterrent (the Whip Cactus), but having no intelligence or mobility crippled its effectiveness. With a little genetic engineering, it was given a mobile body, an infantile intelligence, and toxic barbs for good measure. The result backfired as commands proved ineffective. The facility was promptly overrun by the experiments; and a horde of angry cactuses escaped into the wilderness.\n\nNeedleposts can derive nutrition from very small amounts of rotting vegetables, but they need a huge amount of sunlight (or equivalent) over anything else. Nights won't affect them, but a solar eclipse is usually fatal to them.</AA_Needlepost.description>
   <AA_Needlepost.tools.0.label>stings</AA_Needlepost.tools.0.label>
   <AA_Needlepost.tools.2.label>head</AA_Needlepost.tools.2.label>
+  <AA_Needlepost.verbs.0.label>venomous barb</AA_Needlepost.verbs.0.label>
   <AA_Needleroll.label>needleroll</AA_Needleroll.label>
   <AA_Needleroll.description>Needlerolls are needleposts that have evolved to grow in the most arid and dry environments in the Rim.\n\nNeedleposts need almost no substenance, absorbing all the energy they need from sunlight and minute amounts of water that they extract from morning dew. Like needleposts, they need a huge amount of sunlight (or equivalent). Nights won't affect them, but a solar eclipse could be fatal to them.</AA_Needleroll.description>
   <AA_Needleroll.tools.0.label>stings</AA_Needleroll.tools.0.label>
   <AA_Needleroll.tools.2.label>head</AA_Needleroll.tools.2.label>
+  <AA_Needleroll.verbs.0.label>venomous barb</AA_Needleroll.verbs.0.label>
   <AA_NightMule.label>nightmule</AA_NightMule.label>
   <AA_NightMule.description>The Nightmule is a hardy pack beast, used for transporting loads or doing other heavy work. Nightmules originate from a RimWorld orbiting a very faint star -the native planet of an elusive alien spacies know as Forsakens- so they have adapted to environments with low sunlight. They were domesticated by the Forsakens millenia ago, and can be found roaming around some other planets in the Rim.\n\nNightmules are stronger than muffalos, though they produce a very low amount of milk, and no wool. Similar to the Nightling, another creature from the Forsakens' planet, their back is crowned by dangerous quills, though the Nightmule lacks the capacity to throw them as defensive weapons.</AA_NightMule.description>
   <AA_NightMule.tools.0.label>horns</AA_NightMule.tools.0.label>
@@ -561,11 +573,13 @@
   <AA_NightAve.description>A large flightless bird, black as night. It seems to share part of its phenotype with the Nightling, hinting that they both originate from the same planet: a RimWorld orbiting a very faint star -the native planet of an elusive alien species know as Forsakens-. Night Aves have adapted to environments with very low sunlight, and they are purely nocturnal animals.\n\nNight Aves are amazing mounts, much faster than horses, and if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Night Aves move 50% faster when used as mounts).</AA_NightAve.description>
   <AA_NightAve.tools.0.label>claws</AA_NightAve.tools.0.label>
   <AA_NightAve.tools.2.label>head</AA_NightAve.tools.2.label>
+  <AA_NightAve.verbs.0.label>barbed quills</AA_NightAve.verbs.0.label>
   <AA_Nightling.label>nightling</AA_Nightling.label>
   <AA_Nightling.description>A sleek predatory beast with rows of quills on its back. The Nightling is a purely nocturnal hunter, hence its name, and isn't at all shy to prey on much larger animals, or people, than itself. Apart from its strong jaws, nightlings can throw the quills on their backs to overpower their prey.</AA_Nightling.description>
   <AA_Nightling.tools.0.label>left claw</AA_Nightling.tools.0.label>
   <AA_Nightling.tools.1.label>right claw</AA_Nightling.tools.1.label>
   <AA_Nightling.tools.3.label>head</AA_Nightling.tools.3.label>
+  <AA_Nightling.verbs.0.label>barbed quills</AA_Nightling.verbs.0.label>
   <AA_NightRam.label>nightram</AA_NightRam.label>
   <AA_NightRam.description>The Nightram is a stubborn herbivore that shares much of its genome with the predatory Nightling, hinting at a common ancestor. They both originate from a RimWorld orbiting a very faint star -the native planet of an elusive alien species know as Forsakens- so they have adapted to environments with low sunlight. When found on other worlds, the Nightram are exclusively nocturnal, instinctively avoiding natural sunlight.\n\nNightrams are peaceful unless disturbed or threatened.</AA_NightRam.description>
   <AA_NightRam.tools.0.label>horn</AA_NightRam.tools.0.label>
@@ -575,9 +589,10 @@
   <AA_OcularJelly.label>ocular jelly</AA_OcularJelly.label>
   <AA_OcularJelly.description>The Rim is filled with creatures that might be the product of either alien ecologies, or, more often, of ancient human genetic engineering gone awry. The ocular jelly, however, is so fundamentally weird that some scientists have speculated about a possible extra-dimensional origin. Or perhaps it is just some cruel, if elaborate, practical joke.\n\nIt seems to have some biological similarities with the Aerofleet, being filled with a buoyant gas, but its effects on terrestrial ecosystems are incredibly unusual: the creature releases clouds of a reddish gas that is harmless to animals. However, when flora is exposed to it, it mutates and turns into strange specimens that share 98% of its genome with the jelly. This flora is almost inedible, and its relationship with the ocular jelly remains as of yet unexplained. As a floating creature, Ocular Jellies ignore terrain movement costs.</AA_OcularJelly.description>
   <AA_OcularJelly.tools.1.label>tentacles</AA_OcularJelly.tools.1.label>
+  <AA_OcularJelly.verbs.0.label>venomous spit</AA_OcularJelly.verbs.0.label>
   <AA_OcularJelly.comps.0.customString>Asexual fission in: </AA_OcularJelly.comps.0.customString>
   <AA_OvergrownColossus.label>overgrown colossus</AA_OvergrownColossus.label>
-  <AA_OvergrownColossus.description>The Overgrown Colossus is a very strange beast. This gargantuan beast is one of the few creatures in the Rim that wasn't directly or indirectly created by man's scientific curiosity, arising naturally in some remote swamp-filled planet.\n\nIt seems to be reptilian in nature, with cold blood, a slow metabolism, and a very weird body plan: it has six legs, two intertwined spines and six eyes. It has a symbiotic relationship with vegetation, with several small trees growing on its back. These trees do photosynthesis and help provide nutrients for the Colossus.\n\nWhen tamed, the Overgrown Colossus can be periodically "trimmed" to obtain wood.</AA_OvergrownColossus.description>
+  <AA_OvergrownColossus.description>The Overgrown Colossus is a very strange beast. This gargantuan beast is one of the few creatures in the Rim that wasn't directly created by man's scientific curiosity, arising naturally in some remote swamp-filled planet, albeit from some original forgotten terran creature.\n\nIt seems to be reptilian in nature, with cold blood, a slow metabolism, and a very weird body plan: it has six legs, two intertwined spines and six eyes. It has a symbiotic relationship with vegetation, with several small trees growing on its back. These trees do photosynthesis and help provide nutrients for the Colossus.\n\nWhen tamed, the Overgrown Colossus can be periodically "trimmed" to obtain wood.</AA_OvergrownColossus.description>
   <AA_OvergrownColossus.tools.1.label>head</AA_OvergrownColossus.tools.1.label>
   <AA_PebbleMit.label>pebblemit</AA_PebbleMit.label>
   <AA_PebbleMit.description>Pebblemits are bouldermits that have evolved in Rimworlds rich in narrow, labyrinthine caves, where massive size is more a hindrance than an advantage.\n\nInstead of huge boulders, pebblemits use much smaller rocks as protection, slowly dragging them along the ground. Small blocks of stone periodically get loose from this rock, and they can be used as building materials.</AA_PebbleMit.description>
@@ -590,6 +605,7 @@
   <AA_Plasmorph.label>plasmorph</AA_Plasmorph.label>
   <AA_Plasmorph.description>This bizarre, mutant snail has a very strange way of defending itself against predators. Inside its armoured shell made of iron sulfide, specialized organs along the Plasmorph's body generate an electric discharge similar to those found in electric eels. This discharge is very low voltage, not powerful enough to damage most creatures. However, the Plasmorph uses it as a spark to ignite its own flammable spit, and lob it at its prey.\n\nSuch a strange mechanism is surely not natural, but what was its intended purpose is a mystery lost to the ages.</AA_Plasmorph.description>
   <AA_Plasmorph.tools.0.label>eyestalk</AA_Plasmorph.tools.0.label>
+  <AA_Plasmorph.verbs.0.label>fire spit</AA_Plasmorph.verbs.0.label>
   <AA_Radyak.label>radyak</AA_Radyak.label>
   <AA_Radyak.description>The radyak is a peaceful herbivore bred to thrive in high radiation environments. Its ruminant digestive tract is composed of six bionic stomachs, reinforced with a lead-lined biolattice designed to extract residual radioactive material from grass cells. This radioactive material is then deposited in crystal-like formations that pierce the hard skin of the creature. This crystals can be harvested periodically, and refined into uranium in a standard chemfuel refinery.\n\nThe technology behind creating such carefully engineered creatures is completely out of reach of most Rim societies, so a radyak is a valued acquisition indeed.</AA_Radyak.description>
   <AA_Radyak.tools.0.label>head</AA_Radyak.tools.0.label>
@@ -618,10 +634,12 @@
   <AA_RedGoo.label>red goo</AA_RedGoo.label>
   <AA_RedGoo.description>This blob of bubbling organic matter seems to be an extension of the terrain itself, a disfigured excrescence given a semblance of life.\n\nThe red goo seem to thrive in the strangely alien environment of the ocular forest, nibbling on the aberrant vegetation and periodically cloning themselves. NOTE: due to gameplay constraints, red goo will only self-replicate until the map holds 15 creatures, cause I don't want to fry your computers.</AA_RedGoo.description>
   <AA_RedGoo.tools.0.label>tentacles</AA_RedGoo.tools.0.label>
+  <AA_RedGoo.verbs.0.label>venomous spit</AA_RedGoo.verbs.0.label>
   <AA_RedGoo.comps.0.customString>Cloning in: </AA_RedGoo.comps.0.customString>
   <AA_RedSpore.label>red spore</AA_RedSpore.label>
   <AA_RedSpore.description>Similar to the Ocular Jelly, this strange creature seems to be of extra-dimensional origin. It doesn't even seem to be carbon based, instead using gallium as the basis of its structure and life functions. This is considered physically impossible under normal circumstances, so the red spore must come from a place where the rules are wildly different from this Universe.\n\nThis fact makes the red spore inherently unstable, with a low lifespan, prone to violently explode and unable to reproduce normally. As a floating creature, Red Spores ignore terrain movement costs.</AA_RedSpore.description>
   <AA_RedSpore.tools.0.label>tentacles</AA_RedSpore.tools.0.label>
+  <AA_RedSpore.verbs.0.label>venomous spit</AA_RedSpore.verbs.0.label>
   <AA_RipperHound.label>ripper hound</AA_RipperHound.label>
   <AA_RipperHound.description>Ripper Hounds were created as a purely biological defense against Insectoids, a genetically engineered species bred for hunting and defeating them. These hulking canines sport two viciously sharp claws specially designed to attach to chitinoid plates and rip them apart.\n\nDespite their fearsome appearance, Ripper Hounds can be extremely affectionate and loyal, and they love to be pet by those they trust.</AA_RipperHound.description>
   <AA_RipperHound.tools.0.label>left claw</AA_RipperHound.tools.0.label>
@@ -687,12 +705,14 @@
   <AA_Terramorph.tools.0.label>fangs</AA_Terramorph.tools.0.label>
   <AA_Terramorph.tools.1.label>head</AA_Terramorph.tools.1.label>
   <AA_TetraSlug.label>tetra slug</AA_TetraSlug.label>
-  <AA_TetraSlug.description>These massive slugs are a common sight among Glitterworld controlled territories, where they lumber about as glorified power plants. Outside of one, they are deployed as a mobile power source for Glitterworld research expeditions. It is rare to see one without the iconic power cores that protrude from their backs, as their unique bodily chemical composition is capable of outputting power that far surpasses any known natural sources. Thus they are widely valued by every technologically developing civilization throughout the galaxy.\n\nWhile a gentle giant that would prefer to run away instead of fight, modified slugs come armored with plasteel shells, quad cores that can act as Tesla cannons, and a Tactical AI inserted within the brain that takes over and makes no hesitation to use all of its armament to obliterate any perceived threat within vicinity.\n\nProperly outfitted Tetraslugs will slowly recharge batteries on their vicinity.</AA_TetraSlug.description>
+  <AA_TetraSlug.description>These massive slugs are a common sight among Glitterworld controlled territories, where they lumber about as glorified power plants. Outside of one, they are deployed as a mobile power source for Glitterworld research expeditions. It is rare to see one without the iconic power cores that protrude from their backs, as their unique bodily chemical composition is capable of outputting power that far surpasses any known natural sources. Thus they are widely valued by every technologically developing civilization throughout the galaxy.\n\nWhile a gentle giant that would prefer to run away instead of fight, modified slugs come armored with plasteel shells, quad cores that can act as Tesla cannons, and a Tactical AI inserted within the brain that takes over and makes no hesitation to use all of its armament to obliterate any perceived threat within vicinity.\n\nProperly outfitted Tetraslugs will slowly recharge batteries on their vicinity (most modded batteries are supported).</AA_TetraSlug.description>
   <AA_TetraSlug.tools.0.label>body</AA_TetraSlug.tools.0.label>
+  <AA_TetraSlug.verbs.0.label>quad tesla cannon</AA_TetraSlug.verbs.0.label>
   <AA_Thermadon.label>thermadon</AA_Thermadon.label>
   <AA_Thermadon.description>The Thermadon is a large Blackspider that has been biologically augmented with volatile chemical glands. Originally, the Thermadon was bred by the long forgotten creators of the Black Hive as a fearsome fire-breathing shock trooper, using thermal grenades capable of affecting even fire-resistant Mechanoids, the primary objective of the Black Hive. Mechanoids however managed to adapt to these biological grenades quickly, and thus the Thermadon project was scrapped.\n\nApparently, some of them managed to escape into the wild.\n\nJust... don't attack this thing if your base is made of wood, mmkay?</AA_Thermadon.description>
   <AA_Thermadon.tools.0.label>head claw</AA_Thermadon.tools.0.label>
   <AA_Thermadon.tools.1.label>head</AA_Thermadon.tools.1.label>
+  <AA_Thermadon.verbs.0.label>thermal detonating spit</AA_Thermadon.verbs.0.label>
   <AA_Wildpawn.label>wildpawn</AA_Wildpawn.label>
   <AA_Wildpawn.description>Wildpawns are a variant of the wildpods that have adapted to life outside of swamps and rainforests. Since they have less access to water and rotting vegetation, they grow much less, and are much less dangerous. Wildpawns are less resistant to gunfire, but retain the weakness to fire of their bigger brethren. Wildpawns reproduce asexually by releasing clumps of spores every few weeks, so its children are completely wild and independent from it, with no concept of parenthood.\n\nAlthough risky, the Wildpawns can be hunted or farmed for small amounts of edible raw fungus.</AA_Wildpawn.description>
   <AA_Wildpawn.tools.0.label>left paw</AA_Wildpawn.tools.0.label>
@@ -728,10 +748,16 @@
   <AA_Siegebreaker.label>siegebreaker</AA_Siegebreaker.label>
   <AA_Siegebreaker.description>The siegebreaker is a particularly dangerous tank-shaped mechanoid. Armed with a Siegebreaker Cannon that fires explosives shells, they can detect a hostile presence from hundreds of meters away, acting as unrelenting siege weapons that can obliterate even the strongest defense. Their movement is incredibly slow, and their cannon takes a very long time to recharge, but they should be treated as priority targets in most cases.\n\nNOTE: all Alpha Mechanoids can be disabled from raids, ships and clusters by Mod Options. This can be used even if they have already spawned.</AA_Siegebreaker.description>
   <AA_Siegebreaker.tools.0.label>head</AA_Siegebreaker.tools.0.label>
+  <VEF_AdvancedAnimalImplantsTable.label>advanced animal prosthetics table</VEF_AdvancedAnimalImplantsTable.label>
+  <VEF_AdvancedAnimalImplantsTable.description>Allows you to extract certain abilities from animals and implant them in others. Ranged animal attacks can also be implanted in a different animal</VEF_AdvancedAnimalImplantsTable.description>
   <AA_ProstheticTentacle.label>simple prosthetic tentacle</AA_ProstheticTentacle.label>
   <AA_ProstheticTentacle.description>Simple prosthetic tentacle. Should be able to replace almost any tentacle.</AA_ProstheticTentacle.description>
   <AA_BionicTentacle.label>bionic tentacle</AA_BionicTentacle.label>
   <AA_BionicTentacle.description>Improved bionic tentacle for animals. Should be able to replace almost any tentacle.</AA_BionicTentacle.description>
+  <AA_ProstheticBeak.label>simple prosthetic beak</AA_ProstheticBeak.label>
+  <AA_ProstheticBeak.description>Simple prosthetic beak. Should be able to replace almost any avian-like beak.</AA_ProstheticBeak.description>
+  <AA_BionicBeak.label>bionic beak</AA_BionicBeak.label>
+  <AA_BionicBeak.description>Improved bionic beak for animals. Should be able to replace almost any avian-like beak.</AA_BionicBeak.description>
   <AA_BionicMotionDetector.label>bionic motion detector</AA_BionicMotionDetector.label>
   <AA_BionicMotionDetector.description>Improved bionic motion detector for animals. This motion detector replaces echolocation organs and vibration sensors.</AA_BionicMotionDetector.description>
   <AA_ProstheticBuoyancyMechanism.label>simple prosthetic buoyancy mechanism</AA_ProstheticBuoyancyMechanism.label>
@@ -752,6 +778,16 @@
   <AB_BionicClaw.description>Improved bionic claw. Fits animals with sharpened claws.</AB_BionicClaw.description>
   <AA_GooAcidifier.label>goo acidifier</AA_GooAcidifier.label>
   <AA_GooAcidifier.description>A goo acidifier increases the acidity of a goo's internal organs, making it explode as soon as it is downed. Basically transforms goos into biological suicide bombers.</AA_GooAcidifier.description>
+  <AA_RangedSpinneretImplant.label>ranged spinneret implant</AA_RangedSpinneretImplant.label>
+  <AA_RangedSpinneretImplant.description>An installed ranged spinneret implant. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_RangedSpinneretImplant.description>
+  <AA_VenomousSpitterImplant.label>venomous spitter implant</AA_VenomousSpitterImplant.label>
+  <AA_VenomousSpitterImplant.description>An installed venomous spitter implant. This implant will allow this creature to use a ranged venomous spit attack.\n\nNote that installing this on a creature that already has a venomous spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_VenomousSpitterImplant.description>
+  <AA_AcidicSpitterImplant.label>acidic spitter implant</AA_AcidicSpitterImplant.label>
+  <AA_AcidicSpitterImplant.description>An installed acidic spitter implant. This implant will allow this creature to use a ranged acidic spit attack that causes additional damage over time.\n\nNote that installing this on a creature that already has an acidic spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_AcidicSpitterImplant.description>
+  <AA_BarbedQuillThrowerImplant.label>barbed quill thrower implant</AA_BarbedQuillThrowerImplant.label>
+  <AA_BarbedQuillThrowerImplant.description>An installed barbed quill thrower implant. This implant will allow this creature to use a ranged venomous quill attack that causes toxic buildup.\n\nNote that installing this on a creature that already has a barbed quill thrower will have no effect.</AA_BarbedQuillThrowerImplant.description>
+  <AA_QuadTeslaCannonImplant.label>quad tesla cannon implant</AA_QuadTeslaCannonImplant.label>
+  <AA_QuadTeslaCannonImplant.description>An installed quad tesla cannon implant. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_QuadTeslaCannonImplant.description>
   <AA_ColossalNautiloidRace.label>Colossal Nautiloid</AA_ColossalNautiloidRace.label>
   <AA_ColossalNautiloidRace.description>The Colossal Nautiloid is an extremely large cephalopod with a spiral shell. In the wild, Colossal Nautiloids are fearsome predators that live in the deepest ocean trenches, hunting whales and various deep-sea fish. Nautiloid eggs find their way to the surface, where they are coveted as luxury items. If one of these eggs is hatched, a Colossal Nautiloid can be carefully tamed and used as a foundation to build a powerful bio-ship using a great amount of wood and cloth, a process that is quite painless to the Nautiloid if it is started when it is young.\n\nColossal Nautiloids can be trained to act as powerful sailing ships, armed with a nasty acidic ink spit.</AA_ColossalNautiloidRace.description>
   <AA_ColossalNautiloidRace.tools.0.label>hull</AA_ColossalNautiloidRace.tools.0.label>
