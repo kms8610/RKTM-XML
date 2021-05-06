@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <AA_PermanentBurn.label>permanent burn</AA_PermanentBurn.label>
+  <AA_PermanentBurn.description>A permanent burn scar that cannot be treated.</AA_PermanentBurn.description>
+  <AA_PermanentBurn.labelNoun>a permanent burn</AA_PermanentBurn.labelNoun>
+  <AA_PermanentBurn.comps.1.permanentLabel>permanent burn</AA_PermanentBurn.comps.1.permanentLabel>
+  <AA_PermanentBurn.injuryProps.destroyedLabel>Burned off</AA_PermanentBurn.injuryProps.destroyedLabel>
+  <AA_PermanentBurn.injuryProps.destroyedOutLabel>Burned out</AA_PermanentBurn.injuryProps.destroyedOutLabel>
   <AA_InvisibleArcticLion.label>stalking</AA_InvisibleArcticLion.label>
   <AA_InvisibleArcticLion.description>This arctic lion is stalking its prey and... Hey, how are you reading this, you cheater??</AA_InvisibleArcticLion.description>
   <AA_CrushingEverything.label>crushing everything on its path</AA_CrushingEverything.label>
@@ -30,11 +36,6 @@
   <AA_ToxicBuildup.stages.3.label>moderate</AA_ToxicBuildup.stages.3.label>
   <AA_ToxicBuildup.stages.4.label>serious</AA_ToxicBuildup.stages.4.label>
   <AA_ToxicBuildup.stages.5.label>extreme</AA_ToxicBuildup.stages.5.label>
-  <AA_AcidBuildup.label>acid burn</AA_AcidBuildup.label>
-  <AA_AcidBuildup.description>A splash of acid that continues to cause burn wounds for quite some time after the initial attack.</AA_AcidBuildup.description>
-  <AA_AcidBuildup.stages.0.label>minor, receiving burns</AA_AcidBuildup.stages.0.label>
-  <AA_AcidBuildup.stages.1.label>moderate, receiving burns</AA_AcidBuildup.stages.1.label>
-  <AA_AcidBuildup.stages.2.label>serious, receiving burns</AA_AcidBuildup.stages.2.label>
   <AA_LowRest.description>This creature has very little need for sleep, and can stay awake for a long time.</AA_LowRest.description>
   <AA_LowRest.label>needs very little sleep</AA_LowRest.label>
   <AA_PsionicallyNuzzled.description>Blessed by an Animus Vox.</AA_PsionicallyNuzzled.description>
@@ -55,15 +56,6 @@
   <AA_SwarmlingImplantation.stages.1.label>major</AA_SwarmlingImplantation.stages.1.label>
   <AA_SwarmlingImplantation.stages.2.label>extreme</AA_SwarmlingImplantation.stages.2.label>
   <AA_SwarmlingImplantation.stages.3.label>extreme</AA_SwarmlingImplantation.stages.3.label>
-  <AA_AcidBurn.label>acid burn</AA_AcidBurn.label>
-  <AA_AcidBurn.labelNoun>an acid burn</AA_AcidBurn.labelNoun>
-  <AA_AcidBurn.description>An acid burn.</AA_AcidBurn.description>
-  <AA_AcidBurn.comps.0.labelTendedWell>bandaged</AA_AcidBurn.comps.0.labelTendedWell>
-  <AA_AcidBurn.comps.0.labelTendedWellInner>tended</AA_AcidBurn.comps.0.labelTendedWellInner>
-  <AA_AcidBurn.comps.0.labelSolidTendedWell>tended</AA_AcidBurn.comps.0.labelSolidTendedWell>
-  <AA_AcidBurn.comps.2.permanentLabel>acid burn scar</AA_AcidBurn.comps.2.permanentLabel>
-  <AA_AcidBurn.injuryProps.destroyedLabel>Corroded</AA_AcidBurn.injuryProps.destroyedLabel>
-  <AA_AcidBurn.injuryProps.destroyedOutLabel>Corroded</AA_AcidBurn.injuryProps.destroyedOutLabel>
   <AA_Resurrection.label>rise from your grave!</AA_Resurrection.label>
   <AA_Resurrection.description>This animal can survive up to 9 fatal wounds, coming back from the dead.</AA_Resurrection.description>
   <AA_MimeHediff.label>hiding in plain sight</AA_MimeHediff.label>
@@ -77,6 +69,21 @@
   <AA_VirulentFungalInfection.stages.1.label>major</AA_VirulentFungalInfection.stages.1.label>
   <AA_VirulentFungalInfection.stages.2.label>extreme</AA_VirulentFungalInfection.stages.2.label>
   <AA_VirulentFungalInfection.stages.3.label>extreme</AA_VirulentFungalInfection.stages.3.label>
+  <AA_AnoleGrown.label>explosive growth</AA_AnoleGrown.label>
+  <AA_AnoleGrown.description>An unstable cocktail of growth hormones and biomechanical mechanites is causing a runaway growth of this creature's cells. This will greatly increase its metabolism, fighting power and resistance for a few hours. Afterwards it will be exhausted and require some extra food to recover its energy.</AA_AnoleGrown.description>
+  <AA_AnoleGrown.comps.0.tools.0.label>claws</AA_AnoleGrown.comps.0.tools.0.label>
+  <AA_AnoleGrownExhausted.label>explosive growth (exhausted)</AA_AnoleGrownExhausted.label>
+  <AA_AnoleGrownExhausted.description>This creature has recently been subject to anomalous growth, exhausting it and making it ravenously hungry. It won't be able to activate this explosive growth again until this condition has passed.</AA_AnoleGrownExhausted.description>
+  <AA_EatenACorpse.label>eaten a corpse</AA_EatenACorpse.label>
+  <AA_EatenACorpse.description>Erins love a good, tasty corpse. Eating a fresh corpse will provide the Erin with a considerable boost to its health for almost half a day.</AA_EatenACorpse.description>
+  <AA_WinterPelt.label>winter pelt</AA_WinterPelt.label>
+  <AA_WinterPelt.description>This animal is sporting a nice winter pelt, giving it good resistance against the cold.</AA_WinterPelt.description>
+  <AA_JunglePelt.label>jungle pelt</AA_JunglePelt.label>
+  <AA_JunglePelt.description>This animal is sporting a nice jungle pelt, giving it slight resistance against the heat.</AA_JunglePelt.description>
+  <AA_DesertPelt.label>desert pelt</AA_DesertPelt.label>
+  <AA_DesertPelt.description>This animal is sporting a nice desert pelt, giving it great resistance against the heat.</AA_DesertPelt.description>
+  <AA_NoPain.description>This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain.</AA_NoPain.description>
+  <AA_NoPain.label>no pain sensitivity</AA_NoPain.label>
   <AA_CarryWeight1.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight1.description>
   <AA_CarryWeight1.label>extra carry weight (awful)</AA_CarryWeight1.label>
   <AA_CarryWeight2.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight2.description>
@@ -91,19 +98,6 @@
   <AA_CarryWeight6.label>extra carry weight (masterwork)</AA_CarryWeight6.label>
   <AA_CarryWeight7.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight7.description>
   <AA_CarryWeight7.label>extra carry weight (legendary)</AA_CarryWeight7.label>
-  <AA_PermanentBurn.label>permanent burn</AA_PermanentBurn.label>
-  <AA_PermanentBurn.description>A permanent burn scar that cannot be treated.</AA_PermanentBurn.description>
-  <AA_PermanentBurn.labelNoun>a permanent burn</AA_PermanentBurn.labelNoun>
-  <AA_PermanentBurn.comps.1.permanentLabel>permanent burn</AA_PermanentBurn.comps.1.permanentLabel>
-  <AA_PermanentBurn.injuryProps.destroyedLabel>Burned off</AA_PermanentBurn.injuryProps.destroyedLabel>
-  <AA_PermanentBurn.injuryProps.destroyedOutLabel>Burned out</AA_PermanentBurn.injuryProps.destroyedOutLabel>
-  <AA_LightSustenance.description>This creature feeds on sunlight. Inadequate levels of light will kill it.</AA_LightSustenance.description>
-  <AA_LightSustenance.label>level of sunlight</AA_LightSustenance.label>
-  <AA_LightSustenance.stages.0.label>adequate light</AA_LightSustenance.stages.0.label>
-  <AA_LightSustenance.stages.1.label>poor light levels</AA_LightSustenance.stages.1.label>
-  <AA_LightSustenance.stages.2.label>very low light levels</AA_LightSustenance.stages.2.label>
-  <AA_LightSustenance.stages.3.label>lack of sunlight</AA_LightSustenance.stages.3.label>
-  <AA_LightSustenance.stages.4.label>extreme lack of sustenance</AA_LightSustenance.stages.4.label>
   <AA_MutantLeg.description>This leg seems to be covered in a slick secretion that constantly drips from every pore. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantLeg.description>
   <AA_MutantLeg.label>mutant leg</AA_MutantLeg.label>
   <AA_MutantLeg.labelNoun>a mutant leg</AA_MutantLeg.labelNoun>
@@ -174,4 +168,19 @@
   <AA_QuadTeslaCannonImplant.description>An installed quad tesla cannon implant. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_QuadTeslaCannonImplant.description>
   <AA_QuadTeslaCannonImplant.comps.0.verbs.0.label>quad tesla cannon</AA_QuadTeslaCannonImplant.comps.0.verbs.0.label>
   <AA_QuadTeslaCannonImplant.comps.0.verbProps.0.label>quad tesla cannon</AA_QuadTeslaCannonImplant.comps.0.verbProps.0.label>
+  <AA_BioelectricOrganImplant.label>bioelectric organ implant</AA_BioelectricOrganImplant.label>
+  <AA_BioelectricOrganImplant.labelNoun>a bioelectric organ implant</AA_BioelectricOrganImplant.labelNoun>
+  <AA_BioelectricOrganImplant.description>An installed bioelectric organ implant. This implant will allow this creature to use a powerful ranged electric attack that may paralyze and cause heart attacks.\n\nNote that installing this on a creature that already has a bioelectric organ will have no effect.</AA_BioelectricOrganImplant.description>
+  <AA_BioelectricOrganImplant.comps.0.verbs.0.label>electric bolt</AA_BioelectricOrganImplant.comps.0.verbs.0.label>
+  <AA_BioelectricOrganImplant.comps.0.verbProps.0.label>electric bolt</AA_BioelectricOrganImplant.comps.0.verbProps.0.label>
+  <AA_LightFocusingLensImplant.label>light focusing lens implant</AA_LightFocusingLensImplant.label>
+  <AA_LightFocusingLensImplant.labelNoun>a light focusing lens implant</AA_LightFocusingLensImplant.labelNoun>
+  <AA_LightFocusingLensImplant.description>An installed light focusing lens implant. This implant will allow this creature to use a powerful ranged laser attack that sets enemies on fire.\n\nNote that installing this on a creature that already has a light focusing lens will have no effect. This implant takes the space of one of the creature's eyes, so it can't be installed in eyeless animals.</AA_LightFocusingLensImplant.description>
+  <AA_LightFocusingLensImplant.comps.0.verbs.0.label>laser</AA_LightFocusingLensImplant.comps.0.verbs.0.label>
+  <AA_LightFocusingLensImplant.comps.0.verbProps.0.label>laser</AA_LightFocusingLensImplant.comps.0.verbProps.0.label>
+  <AA_HyperAcidicStomachImplant.label>hyper acidic stomach implant</AA_HyperAcidicStomachImplant.label>
+  <AA_HyperAcidicStomachImplant.labelNoun>a hyper acidic stomach implant</AA_HyperAcidicStomachImplant.labelNoun>
+  <AA_HyperAcidicStomachImplant.description>An installed hyper acidic stomach implant. This implant will allow this creature to use a ranged acid attack that causes damage over time.\n\nNote that installing this on a creature that already has a hyper acidic stomach will have no effect. This implant takes the space of the creature's stomach, so it can't be installed in animals that lack one.</AA_HyperAcidicStomachImplant.description>
+  <AA_HyperAcidicStomachImplant.comps.0.verbs.0.label>acidic vomit</AA_HyperAcidicStomachImplant.comps.0.verbs.0.label>
+  <AA_HyperAcidicStomachImplant.comps.0.verbProps.0.label>acidic vomit</AA_HyperAcidicStomachImplant.comps.0.verbProps.0.label>
 </LanguageData>

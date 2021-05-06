@@ -35,6 +35,11 @@
   <AA_ArmouredSlug.corePart.parts.7.customLabel>metallic carapace</AA_ArmouredSlug.corePart.parts.7.customLabel>
   <AA_ArmouredSlug.corePart.parts.8.parts.1.customLabel>left eye</AA_ArmouredSlug.corePart.parts.8.parts.1.customLabel>
   <AA_ArmouredSlug.corePart.parts.8.parts.2.customLabel>right eye</AA_ArmouredSlug.corePart.parts.8.parts.2.customLabel>
+  <AA_Assembler.label>mechanical hovering</AA_Assembler.label>
+  <AA_Assembler.corePart.parts.0.parts.1.customLabel>left sight sensor</AA_Assembler.corePart.parts.0.parts.1.customLabel>
+  <AA_Assembler.corePart.parts.0.parts.2.customLabel>right sight sensor</AA_Assembler.corePart.parts.0.parts.2.customLabel>
+  <AA_Assembler.corePart.parts.0.parts.3.customLabel>left hearing sensor</AA_Assembler.corePart.parts.0.parts.3.customLabel>
+  <AA_Assembler.corePart.parts.0.parts.4.customLabel>right hearing sensor</AA_Assembler.corePart.parts.0.parts.4.customLabel>
   <AA_Atispec.label>atispec body</AA_Atispec.label>
   <AA_Atispec.corePart.parts.3.customLabel>left lung</AA_Atispec.corePart.parts.3.customLabel>
   <AA_Atispec.corePart.parts.4.customLabel>right lung</AA_Atispec.corePart.parts.4.customLabel>
@@ -256,6 +261,17 @@
   <AA_OcularJellyBody.corePart.parts.10.customLabel>first tentacle</AA_OcularJellyBody.corePart.parts.10.customLabel>
   <AA_OcularJellyBody.corePart.parts.11.customLabel>second tentacle</AA_OcularJellyBody.corePart.parts.11.customLabel>
   <AA_OcularJellyBody.corePart.parts.12.customLabel>third tentacle</AA_OcularJellyBody.corePart.parts.12.customLabel>
+  <AA_RaptorBody.label>raptor</AA_RaptorBody.label>
+  <AA_RaptorBody.corePart.parts.4.customLabel>left lung</AA_RaptorBody.corePart.parts.4.customLabel>
+  <AA_RaptorBody.corePart.parts.5.customLabel>right lung</AA_RaptorBody.corePart.parts.5.customLabel>
+  <AA_RaptorBody.corePart.parts.6.customLabel>left kidney</AA_RaptorBody.corePart.parts.6.customLabel>
+  <AA_RaptorBody.corePart.parts.7.customLabel>right kidney</AA_RaptorBody.corePart.parts.7.customLabel>
+  <AA_RaptorBody.corePart.parts.9.parts.0.parts.1.customLabel>left eye</AA_RaptorBody.corePart.parts.9.parts.0.parts.1.customLabel>
+  <AA_RaptorBody.corePart.parts.9.parts.0.parts.2.customLabel>right eye</AA_RaptorBody.corePart.parts.9.parts.0.parts.2.customLabel>
+  <AA_RaptorBody.corePart.parts.10.customLabel>left leg</AA_RaptorBody.corePart.parts.10.customLabel>
+  <AA_RaptorBody.corePart.parts.10.parts.0.customLabel>left foot</AA_RaptorBody.corePart.parts.10.parts.0.customLabel>
+  <AA_RaptorBody.corePart.parts.11.customLabel>right leg</AA_RaptorBody.corePart.parts.11.customLabel>
+  <AA_RaptorBody.corePart.parts.11.parts.0.customLabel>right foot</AA_RaptorBody.corePart.parts.11.parts.0.customLabel>
   <AA_RedSporeBody.label>red spore</AA_RedSporeBody.label>
   <AA_RedSporeBody.corePart.parts.0.customLabel>nucleus</AA_RedSporeBody.corePart.parts.0.customLabel>
   <AA_RedSporeBody.corePart.parts.1.customLabel>left hydrogen sac</AA_RedSporeBody.corePart.parts.1.customLabel>

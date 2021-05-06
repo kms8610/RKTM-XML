@@ -69,7 +69,8 @@
   <AA_MothSilkDesc>Moth silk production</AA_MothSilkDesc>
   <AA_BlueGel>Blue Gel production</AA_BlueGel>
   <AA_Luciferium>Luciferium production</AA_Luciferium>
-  <allowVanillaAnimals>Allow spawning all base game animals (affects only wild spawns)</allowVanillaAnimals>
+  <AA_RandomItems>Resource assembly in</AA_RandomItems>
+  <allowVanillaAnimals>Allow base game animals (affects only wild spawns)</allowVanillaAnimals>
   <allowBlackHive>Allow Black Hive raids</allowBlackHive>
   <allowStalkingLions>Allow Stalking Arctic Lion attacks</allowStalkingLions>
   <allowCactipineDroppods>Allow Cactipine droppod event</allowCactipineDroppods>
@@ -87,6 +88,9 @@
   <allowAnimalisk>Allow Animalisk (Royalty only in any case)</allowAnimalisk>
   <allowMime>Allow Mime Wanderer Joins event</allowMime>
   <allowFungalHusk>Allow Fungal Husk attack event</allowFungalHusk>
+  <AA_AlphaAnimalSpawnMultiplier>Alpha Animals spawn commonality multiplier</AA_AlphaAnimalSpawnMultiplier>
+  <AA_AlphaAnimalSpawnMultiplierTooltip>This multiplier will affect the spawn changes (commonalities) of ALL animals in this mod. For example, if set to 0.5 animals from the mod will spawn half as much as default (which is 1). If set to 2, you'll get twice as many as default, and so on. This only affects wild spawns.</AA_AlphaAnimalSpawnMultiplierTooltip>
+  <AA_Reset>Reset</AA_Reset>
   <AA_DisableAnimal>Disable {0}</AA_DisableAnimal>
   <AA_PrimaryRole>Primary Role</AA_PrimaryRole>
   <AA_SecondaryRole>Secondary Role</AA_SecondaryRole>
@@ -109,6 +113,7 @@
   <AA_ParalizingRanged>Paralyzing Ranged</AA_ParalizingRanged>
   <AA_DamageRanged>Ranged Attacker</AA_DamageRanged>
   <AA_DamageRangedPoison>Poison Ranged Attacker</AA_DamageRangedPoison>
+  <AA_DamageRangedElectric>Electric Ranged Attacker</AA_DamageRangedElectric>
   <AA_DamageRangedFire>Firey Ranged Attacker</AA_DamageRangedFire>
   <AA_DamageRangedDOT>DOT Ranged Attacker</AA_DamageRangedDOT>
   <AA_Farm>Farm Animal</AA_Farm>
@@ -120,6 +125,7 @@
   <AA_Larva>Larva</AA_Larva>
   <AA_PackAnimal>Pack Animal</AA_PackAnimal>
   <AA_Pest>Pest</AA_Pest>
+  <AA_Pet>Pet</AA_Pet>
   <AA_ArtilleryDesc>This animal will attack with very dangerous explosive ranged attacks.</AA_ArtilleryDesc>
   <AA_VenomousTankDesc>"Tank" animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines.\n\nThis animal also has powerful venomous attacks.</AA_VenomousTankDesc>
   <AA_ArmouredTankDesc>"Tank" animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines.</AA_ArmouredTankDesc>
@@ -134,9 +140,10 @@
   <AA_AntiInsectoidShockTroopDesc>"Shock Troop" animals are specialized in high speed, and some ability that adds utility to melee combat. They may not be very resistant, or have high health, but if properly used they can have devastating effects.\n\nThis animal also has rending attacks that produce extra damage against insectoids.</AA_AntiInsectoidShockTroopDesc>
   <AA_DamageRangedDesc>This animal uses ranged attacks to damage attackers. Having them in melee might not be the best use for them.</AA_DamageRangedDesc>
   <AA_ParalyzingRangedDesc>"Paralyzing Ranged" animals use ranged attacks to immobilize attackers. Having them in melee might not be the best use for them.</AA_ParalyzingRangedDesc>
-  <AA_DamageRangedFireDesc>This animal uses ranged attacks to damage attackers. These attacks set enemies on fire.Having them in melee might not be the best use for them.</AA_DamageRangedFireDesc>
+  <AA_DamageRangedFireDesc>This animal uses ranged attacks to damage attackers. These attacks set enemies on fire. Having them in melee might not be the best use for them.</AA_DamageRangedFireDesc>
   <AA_DamageRangedDOTDesc>This animal uses ranged attacks to damage attackers. These attacks cause damage over time. Having them in melee might not be the best use for them.</AA_DamageRangedDOTDesc>
   <AA_DamageRangedPoisonDesc>This animal uses ranged attacks to damage attackers. These attacks cause toxic damage. Having them in melee might not be the best use for them.</AA_DamageRangedPoisonDesc>
+  <AA_DamageRangedElectricDesc>This animal uses ranged attacks to damage attackers. These attacks cause electric damage, which can cause heart attacks. Having them in melee might not be the best use for them.</AA_DamageRangedElectricDesc>
   <AA_FarmMilkDesc>This is a farm animal that produces milk.</AA_FarmMilkDesc>
   <AA_FarmFoodDesc>This is a farm animal that produces food items.</AA_FarmFoodDesc>
   <AA_FarmWoolDesc>This is a farm animal that produces wool / textiles.</AA_FarmWoolDesc>
@@ -147,11 +154,13 @@
   <AA_FarmMedicineDesc>This is a farm animal that produces medicines.</AA_FarmMedicineDesc>
   <AA_FarmDrugsDesc>This is a farm animal that produces drugs.</AA_FarmDrugsDesc>
   <AA_FarmImplantsDesc>This is a farm animal that produces implants.</AA_FarmImplantsDesc>
+  <AA_FarmRandomDesc>This is a farm animal that produces random things.</AA_FarmRandomDesc>
   <AA_MountFastDesc>This animal can be mounted by colonists, providing a considerable speed boost, as well as being able to attack in melee along with its rider. Bear in mind that this whole interaction is only available if you have the Giddy Up! mod installed. And if you don't, what are you waiting for?</AA_MountFastDesc>
   <AA_MountArmouredDesc>This animal can be mounted by colonists, providing a considerable defense boost due to extra armour, as well as being able to attack in melee along with its rider. Bear in mind that this whole interaction is only available if you have the Giddy Up! mod installed. And if you don't, what are you waiting for?</AA_MountArmouredDesc>
   <AA_MountFastArmouredDesc>This animal can be mounted by colonists, providing a considerable speed boost, a defense boost due to extra armour, as well as being able to attack in melee along with its rider. Bear in mind that this whole interaction is only available if you have the Giddy Up! mod installed. And if you don't, what are you waiting for?</AA_MountFastArmouredDesc>
   <AA_UtilityMoodDesc>This animal is not suited for combat, being quite physically weak. It will however increase the mood of your colonists, either through nuzzling or other alternative abilities.</AA_UtilityMoodDesc>
   <AA_UtilityWorkerDesc>This animal is not suited for combat, being quite physically weak. It will however help your colonists with certain tasks (Mining, Harvesting, Cleaning, etc), reducing their work load considerably.</AA_UtilityWorkerDesc>
+  <AA_UtilityBeautyDesc>This animal is not suited for combat, being quite physically weak. It will however increase the beauty of your colony.</AA_UtilityBeautyDesc>
   <AA_UtilityHealthDesc>This animal is not suited for combat, being quite physically weak. It will however help your colonists' health, either by healing wounds or somehow strengthening them.</AA_UtilityHealthDesc>
   <AA_UtilityTemperatureDesc>This animal is not suited for combat, being quite physically weak. It will however help you control your colony's heat.</AA_UtilityTemperatureDesc>
   <AA_UtilityPowerDesc>This animal is not suited for combat, being quite physically weak. It will however produce items that can be used to build power generators.</AA_UtilityPowerDesc>
@@ -161,4 +170,5 @@
   <AA_LarvaDesc>This animal is a larval form, not suited for combat. You should keep it well defended if you want it to transform into its adult form.</AA_LarvaDesc>
   <AA_PackAnimalDesc>This is a pack animal, and can carry more weight in caravans than usual.</AA_PackAnimalDesc>
   <AA_PestDesc>This animal is generally considered a pest, and not useful at all to have around the colony. It either has effects that are purely detrimental, or needs that outweight its usefulness. You may find a niche use for them, though!</AA_PestDesc>
+  <AA_PetDesc>This animal is a pet. Isn't he cute?</AA_PetDesc>
 </LanguageData>

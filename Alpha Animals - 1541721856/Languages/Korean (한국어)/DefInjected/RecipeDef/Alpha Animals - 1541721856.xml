@@ -18,6 +18,9 @@
   <AA_InstallMutantEye.label>install mutant eye</AA_InstallMutantEye.label>
   <AA_InstallMutantEye.description>Install a mutant eye.</AA_InstallMutantEye.description>
   <AA_InstallMutantEye.jobString>Installing mutant eye.</AA_InstallMutantEye.jobString>
+  <AA_ShutDownMechanoid.label>shut down</AA_ShutDownMechanoid.label>
+  <AA_ShutDownMechanoid.description>Shuts down a mechanoid.</AA_ShutDownMechanoid.description>
+  <AA_ShutDownMechanoid.jobString>Shutting down mechanoid.</AA_ShutDownMechanoid.jobString>
   <AB_InstallSimpleTentacle.label>install simple prosthetic tentacle</AB_InstallSimpleTentacle.label>
   <AB_InstallSimpleTentacle.description>Installs simple prosthetic tentacle.</AB_InstallSimpleTentacle.description>
   <AB_InstallSimpleTentacle.jobString>Installing simple prosthetic tentacle.</AB_InstallSimpleTentacle.jobString>
@@ -105,6 +108,33 @@
   <AA_RemoveQuadTeslaCannonImplant.label>remove quad tesla cannon implant</AA_RemoveQuadTeslaCannonImplant.label>
   <AA_RemoveQuadTeslaCannonImplant.description>Remove quad tesla cannon implant.</AA_RemoveQuadTeslaCannonImplant.description>
   <AA_RemoveQuadTeslaCannonImplant.jobString>Removing quad tesla cannon implant.</AA_RemoveQuadTeslaCannonImplant.jobString>
+  <AA_InstallBioelectricOrganImplant.label>install bioelectric organ implant</AA_InstallBioelectricOrganImplant.label>
+  <AA_InstallBioelectricOrganImplant.description>Install a bioelectric organ. This implant will allow this creature to use a powerful ranged electric attack that may paralyze and cause heart attacks.\n\nNote that installing this on a creature that already has a bioelectric organ will have no effect.</AA_InstallBioelectricOrganImplant.description>
+  <AA_InstallBioelectricOrganImplant.jobString>Installing bioelectric organ implant.</AA_InstallBioelectricOrganImplant.jobString>
+  <AA_MakeBioelectricOrganImplant.label>make a bioelectric organ implant</AA_MakeBioelectricOrganImplant.label>
+  <AA_MakeBioelectricOrganImplant.description>Make a bioelectric organ implant from a Thunderbeast corpse. This implant will allow this creature to use a powerful ranged electric attack that may paralyze and cause heart attacks.\n\nNote that installing this on a creature that already has a bioelectric organ will have no effect.</AA_MakeBioelectricOrganImplant.description>
+  <AA_MakeBioelectricOrganImplant.jobString>Making bioelectric organ implant</AA_MakeBioelectricOrganImplant.jobString>
+  <AA_RemoveBioelectricOrganImplant.label>remove bioelectric organ implant</AA_RemoveBioelectricOrganImplant.label>
+  <AA_RemoveBioelectricOrganImplant.description>Remove bioelectric organ implant.</AA_RemoveBioelectricOrganImplant.description>
+  <AA_RemoveBioelectricOrganImplant.jobString>Removing bioelectric organ implant.</AA_RemoveBioelectricOrganImplant.jobString>
+  <AA_InstallLightFocusingLensImplant.label>install light focusing lens implant</AA_InstallLightFocusingLensImplant.label>
+  <AA_InstallLightFocusingLensImplant.description>Install a light focusing lens. This implant will allow this creature to use a powerful ranged laser attack that sets enemies on fire.\n\nNote that installing this on a creature that already has a light focusing lens will have no effect. This implant takes the space of one of the creature's eyes, so it can't be installed in eyeless animals.</AA_InstallLightFocusingLensImplant.description>
+  <AA_InstallLightFocusingLensImplant.jobString>Installing light focusing lens implant.</AA_InstallLightFocusingLensImplant.jobString>
+  <AA_MakeLightFocusingLensImplant.label>make a light focusing lens implant</AA_MakeLightFocusingLensImplant.label>
+  <AA_MakeLightFocusingLensImplant.description>Make a light focusing lens implant from a Crystalline Caracal corpse. This implant will allow this creature to use a powerful ranged laser attack that sets enemies on fire.\n\nNote that installing this on a creature that already has a light focusing lens will have no effect. This implant takes the space of one of the creature's eyes, so it can't be installed in eyeless animals.</AA_MakeLightFocusingLensImplant.description>
+  <AA_MakeLightFocusingLensImplant.jobString>Making light focusing lens implant</AA_MakeLightFocusingLensImplant.jobString>
+  <AA_RemoveLightFocusingLensImplant.label>remove light focusing lens implant</AA_RemoveLightFocusingLensImplant.label>
+  <AA_RemoveLightFocusingLensImplant.description>Remove light focusing lens implant.</AA_RemoveLightFocusingLensImplant.description>
+  <AA_RemoveLightFocusingLensImplant.jobString>Removing light focusing lens implant.</AA_RemoveLightFocusingLensImplant.jobString>
+  <AA_InstallHyperAcidicStomachImplant.label>install hyper acidic stomach implant</AA_InstallHyperAcidicStomachImplant.label>
+  <AA_InstallHyperAcidicStomachImplant.description>Install a hyper acidic stomach. This implant will allow this creature to use a ranged acid attack that causes damage over time.\n\nNote that installing this on a creature that already has a hyper acidic stomach will have no effect. This implant takes the space of the creature's stomach, so it can't be installed in animals that lack one.</AA_InstallHyperAcidicStomachImplant.description>
+  <AA_InstallHyperAcidicStomachImplant.jobString>Installing hyper acidic stomach implant.</AA_InstallHyperAcidicStomachImplant.jobString>
+  <AA_MakeHyperAcidicStomachImplant.label>make a hyper acidic stomach implant</AA_MakeHyperAcidicStomachImplant.label>
+  <AA_MakeHyperAcidicStomachImplant.description>Make a hyper acidic stomach implant from an Erin corpse. This implant will allow this creature to use a ranged acid attack that causes damage over time.\n\nNote that installing this on a creature that already has a hyper acidic stomach will have no effect. This implant takes the space of the creature's stomach, so it can't be installed in animals that lack one.</AA_MakeHyperAcidicStomachImplant.description>
+  <AA_MakeHyperAcidicStomachImplant.jobString>Making hyper acidic stomach implant</AA_MakeHyperAcidicStomachImplant.jobString>
+  <AA_RemoveHyperAcidicStomachImplant.label>remove hyper acidic stomach implant</AA_RemoveHyperAcidicStomachImplant.label>
+  <AA_RemoveHyperAcidicStomachImplant.description>Remove hyper acidic stomach implant.</AA_RemoveHyperAcidicStomachImplant.description>
+  <AA_RemoveHyperAcidicStomachImplant.jobString>Removing hyper acidic stomach implant.</AA_RemoveHyperAcidicStomachImplant.jobString>
   <RB_MakeSynthreadCloth.label>weave eleven synthread cloth from silk</RB_MakeSynthreadCloth.label>
   <RB_MakeSynthreadCloth.description>weave synthread cloth from Synthread Silk and plasteel thread. \n\nMakes 11 cloth.</RB_MakeSynthreadCloth.description>
   <RB_MakeSynthreadCloth.jobString>weaving synthread cloth.</RB_MakeSynthreadCloth.jobString>
