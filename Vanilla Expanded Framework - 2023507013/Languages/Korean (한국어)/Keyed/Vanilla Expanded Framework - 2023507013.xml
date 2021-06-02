@@ -5,6 +5,26 @@
   <VEF_AsexualHatchedEgg>{0} has sporulated.</VEF_AsexualHatchedEgg>
   <VEF_NotTameable>This creature is untameable</VEF_NotTameable>
   <VEF_TimeToMetamorphosis>Time to metamorphosis: {0}</VEF_TimeToMetamorphosis>
+  <VEF_WarningEggExplodes>Warning, this egg explodes when hatching!</VEF_WarningEggExplodes>
+  <VEF_TimeToDie>Animal expires in: {0}</VEF_TimeToDie>
+  <VCE_AffectsAllAnimalMods>These animal behaviours options will affect all animal mods that share code from the Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+  <VCE_CorpseDecayingEffectOption>Allow corpse decaying mechanics (for example, Helixien slug's effect)</VCE_CorpseDecayingEffectOption>
+  <VCE_DigWhenHungryOption>Allow digging when hungry mechanics (for example, Frostmites digging corpses)</VCE_DigWhenHungryOption>
+  <VCE_DigPeriodicallyOption>Allows animals digging for things periodically</VCE_DigPeriodicallyOption>
+  <VCE_AnimalParticlesOption>Allow animal particles (gas and filth)</VCE_AnimalParticlesOption>
+  <VCE_AsexualReproductionOption>Allow asexual reproduction</VCE_AsexualReproductionOption>
+  <VFE_AsexualReproductionDisabled>Asexual reproduction disabled via mod options</VFE_AsexualReproductionDisabled>
+  <VCE_BlinkMechanicsOption>Allow "blink" mechanics (for example, Skiphounds)</VCE_BlinkMechanicsOption>
+  <VCE_BuildPeriodicallyOption>Allow animals building things (for example, beavers building dams)</VCE_BuildPeriodicallyOption>
+  <VCE_ChargeBatteriesOption>Allow animals recharging nearby batteries or refueling</VCE_ChargeBatteriesOption>
+  <VCE_ExplodingEggsOption>Allow animals' eggs that explode (such as dragons')</VCE_ExplodingEggsOption>
+  <VCE_HoveringOption>Allow animals "hovering", ignoring terrain movement costs</VCE_HoveringOption>
+  <VCE_GraphicChangingOption>Allow animals changing graphics (for example, Chameleon Yak)</VCE_GraphicChangingOption>
+  <VCE_EffecterOption>Allows animals causing hediffs, mental states or thoughts</VCE_EffecterOption>
+  <VCE_RegenerationOption>Allow health regeneration (active and passive)</VCE_RegenerationOption>
+  <VCE_ResurrectionOption>Allow animals to auto-resurrect (for example Phoenix Owlcat)</VCE_ResurrectionOption>
+  <VCE_UntameableOption>Allow some animals to be untameable</VCE_UntameableOption>
+  <VWE.CannotEquipHeavy>Weapon requires powered armor</VWE.CannotEquipHeavy>
   <IP_InsertFirstItemDesc>Insert</IP_InsertFirstItemDesc>
   <IP_InsertSecondItemDesc>Insert</IP_InsertSecondItemDesc>
   <IP_InsertThirdItemDesc>Insert</IP_InsertThirdItemDesc>
@@ -71,6 +91,11 @@
   <IP_TogglePauseDesc>Pause / Restart this machine's processing</IP_TogglePauseDesc>
   <IP_OverThreshold> Waiting for output to clear. Output limit is {0}</IP_OverThreshold>
   <IP_NoRecipesHere>No modded recipes found for this factory</IP_NoRecipesHere>
+  <KCSG.Add>Add</KCSG.Add>
+  <KCSG.Remove>Remove</KCSG.Remove>
+  <KCSG.SpawnNearCenter>Spawn near center</KCSG.SpawnNearCenter>
+  <KCSG.AllowFoggedPosition>Allow fogged position</KCSG.AllowFoggedPosition>
+  <KCSG.SpawnPartOfEnnemyFaction>Spawn part of ennemy faction</KCSG.SpawnPartOfEnnemyFaction>
   <VanillaFactionsExpanded.EquipShield>Equip {0} as shield</VanillaFactionsExpanded.EquipShield>
   <VanillaFactionsExpanded.EquipWarningShieldUnusable>(unusable with {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
   <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} will be unusable)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
@@ -108,6 +133,29 @@
   <VSE.Reinforcements>Reinforcements</VSE.Reinforcements>
   <VSE.ReinforcementsDesc>Seeing that your forces suffered losses, {FACTION_name} has decided to reinforce their raiding force</VSE.ReinforcementsDesc>
   <VSE.CostGoodwill>cost: {0} goodwill</VSE.CostGoodwill>
+  <VWEL_ToggleHotshotLabel>Weapon warm-up</VWEL_ToggleHotshotLabel>
+  <VWEL_ToggleHotshotDesc>Shots fired when standing still warm-up the weapon allowing for increased firing speed. Overheating can lead to detonation.</VWEL_ToggleHotshotDesc>
+  <VFEMechForceRecharge>Force Recharge</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>Order the associated machine to return to this platform for charging, regardless of its current battery level.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>Attach Turret</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>Construct a turret atop this mobile platform. This will require a colonist to deliver resources equal to that turret's normal construction cost.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>Machine destroyed</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>One of your machines has been destroyed! You can dismantle its remains at a machining table. In order to construct a replacement, one of your colonists will need to deliver the following parts to its platform:\n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>Not enough resources</VFEMechNoResources>
+  <VFEMechNoTurret>No active mobile turret</VFEMechNoTurret>
+  <VFEMechReconstruct>Needed to rebuild machine:</VFEMechReconstruct>
+  <VFEMechTurretResources>Needed to construct turret:</VFEMechTurretResources>
+  <VFEMechLowerRange>Reduce range</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>Reduce the number of tiles this machine will travel.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>Increase range</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>Increase the number of tiles this machine will travel.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>Stop machine</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>Stop this machine's progress and force it to return to base.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>Start machine</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>Start this machine.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>Machine has run into an obstacle!</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>Set area</VFEMechSetArea>
+  <VFEMechSetAreaDesc>Set the allowed area for all of this platform's associated machines.</VFEMechSetAreaDesc>
   <MVCF.Toggle>Toggle {0}</MVCF.Toggle>
   <MVCF.ToggleUsing>Toggle using {0} automatically</MVCF.ToggleUsing>
   <MVCF.ToggleAuto>Toggle automatic usage</MVCF.ToggleAuto>
@@ -124,4 +172,8 @@
   <VFE_RandomRock>Random chunk</VFE_RandomRock>
   <VFE_PleaseSelectOutput>Select machine output</VFE_PleaseSelectOutput>
   <VFE_NeedsWater>This building must be placed on water</VFE_NeedsWater>
+  <VFE_ChangeGraphic>Change Graphic</VFE_ChangeGraphic>
+  <VFE_ChangeGraphicDesc>Change Graphic of this building randomly between those available</VFE_ChangeGraphicDesc>
+  <VFE_RandomOrSequentially>"Change Graphic" button changes graphic randomly (deselect for sequentially)</VFE_RandomOrSequentially>
+  <VFE_HideRandomizeButton>Hide the "Change Graphic" button</VFE_HideRandomizeButton>
 </LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_AcidBuildup.label>acid burn</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.description>A splash of acid that continues to cause burn wounds for quite some time after the initial attack.</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.stages.0.label>minor, receiving burns</VEF_AcidBuildup.stages.0.label>
+  <VEF_AcidBuildup.stages.1.label>moderate, receiving burns</VEF_AcidBuildup.stages.1.label>
+  <VEF_AcidBuildup.stages.2.label>serious, receiving burns</VEF_AcidBuildup.stages.2.label>
+  <VEF_AcidBurn.label>acid burn</VEF_AcidBurn.label>
+  <VEF_AcidBurn.labelNoun>an acid burn</VEF_AcidBurn.labelNoun>
+  <VEF_AcidBurn.description>An acid burn.</VEF_AcidBurn.description>
+  <VEF_AcidBurn.comps.0.labelTendedWell>bandaged</VEF_AcidBurn.comps.0.labelTendedWell>
+  <VEF_AcidBurn.comps.0.labelTendedWellInner>tended</VEF_AcidBurn.comps.0.labelTendedWellInner>
+  <VEF_AcidBurn.comps.0.labelSolidTendedWell>tended</VEF_AcidBurn.comps.0.labelSolidTendedWell>
+  <VEF_AcidBurn.comps.2.permanentLabel>acid burn scar</VEF_AcidBurn.comps.2.permanentLabel>
+  <VEF_AcidBurn.injuryProps.destroyedLabel>Corroded</VEF_AcidBurn.injuryProps.destroyedLabel>
+  <VEF_AcidBurn.injuryProps.destroyedOutLabel>Corroded</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+  <VEF_LightSustenance.description>This creature feeds on sunlight. Inadequate levels of light will kill it.</VEF_LightSustenance.description>
+  <VEF_LightSustenance.label>level of sunlight</VEF_LightSustenance.label>
+  <VEF_LightSustenance.stages.0.label>adequate light</VEF_LightSustenance.stages.0.label>
+  <VEF_LightSustenance.stages.1.label>poor light levels</VEF_LightSustenance.stages.1.label>
+  <VEF_LightSustenance.stages.2.label>very low light levels</VEF_LightSustenance.stages.2.label>
+  <VEF_LightSustenance.stages.3.label>lack of sunlight</VEF_LightSustenance.stages.3.label>
+  <VEF_LightSustenance.stages.4.label>extreme lack of sustenance</VEF_LightSustenance.stages.4.label>
+</LanguageData>
