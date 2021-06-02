@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RE_Prone.label>knocked prone</RE_Prone.label>
+  <RE_Prone.labelNoun>knocked prone</RE_Prone.labelNoun>
+  <RE_Prone.description>Knocked prone.</RE_Prone.description>
+  <RE_Biotic_Focus.label>biotic focus</RE_Biotic_Focus.label>
+  <RE_Biotic_Focus.labelNoun>biotic focus</RE_Biotic_Focus.labelNoun>
+  <RE_Biotic_Focus.description>Biotic focus state.</RE_Biotic_Focus.description>
+  <RE_Biotic_Charge.label>biotic charge</RE_Biotic_Charge.label>
+  <RE_Biotic_Charge.labelNoun>biotic charge</RE_Biotic_Charge.labelNoun>
+  <RE_Biotic_Charge.description>Biotic charge state.</RE_Biotic_Charge.description>
+  <RE_BioticAmpHediff.label>biotic amp</RE_BioticAmpHediff.label>
+  <RE_BioticAmpHediff.description>The ability of this lifeform to create mass effect fields using element zero nodules embedded in body tissues. These powers are both accessed and augmented by using bio-amps. Biotic individuals can knock enemies over from a distance, lift them into the air, generate gravitational vortices to tear obstacles or enemies apart, or create protective barriers.</RE_BioticAmpHediff.description>
+  <RE_SpectreArmor_AdrenalineRushHediff.label>adrenaline rush</RE_SpectreArmor_AdrenalineRushHediff.label>
+  <RE_SpectreArmor_AdrenalineRushHediff.labelNoun>an adrenaline rush</RE_SpectreArmor_AdrenalineRushHediff.labelNoun>
+  <RE_SpectreArmor_AdrenalineRushHediff.description>Gives the wearer an adrenaline rush</RE_SpectreArmor_AdrenalineRushHediff.description>
+  <RE_SpectreArmor_CombatMasteryHediff.label>combat mastery</RE_SpectreArmor_CombatMasteryHediff.label>
+  <RE_SpectreArmor_CombatMasteryHediff.labelNoun>an increased accuracy</RE_SpectreArmor_CombatMasteryHediff.labelNoun>
+  <RE_SpectreArmor_CombatMasteryHediff.description>Gives the wearer increased accuracy</RE_SpectreArmor_CombatMasteryHediff.description>
+  <RE_Tech_TacticalCloakHediff.label>tactical cloak</RE_Tech_TacticalCloakHediff.label>
+  <RE_Tech_TacticalCloakHediff.description>Renders the user invisible to all enemies. Users cannot be targeted by any targetable abilities and powers.</RE_Tech_TacticalCloakHediff.description>
+  <RE_OmniToolHediff.label>omni tool</RE_OmniToolHediff.label>
+  <RE_OmniToolHediff.description>This device is a multipurpose diagnostic and manufacturing tool as well as a computer used for a variety of civilian and battlefield tasks, such as hacking, diagnostics, decryption and repair. With training in specific abilities, the user can cast technological powers with diverse effects. This implant can be upgraded through several levels. Higher levels permit the use of larger amounts of tech powers.</RE_OmniToolHediff.description>
+  <RE_OmniToolHediff.comps.0.tools.0.label>point</RE_OmniToolHediff.comps.0.tools.0.label>
+  <RE_OmniToolHediff.comps.0.tools.1.label>edge</RE_OmniToolHediff.comps.0.tools.1.label>
+  <RE_Spectre.label>Spectre</RE_Spectre.label>
+  <RE_Spectre.labelNoun>Spectre</RE_Spectre.labelNoun>
+  <RE_Spectre.description>Spectre.</RE_Spectre.description>
+  <RE_TurnBackToFormerFaction.label>slave</RE_TurnBackToFormerFaction.label>
+  <RE_TurnBackToFormerFaction.labelNoun>slave</RE_TurnBackToFormerFaction.labelNoun>
+  <RE_TurnBackToFormerFaction.description>Slave.</RE_TurnBackToFormerFaction.description>
+  <RE_HypothermicSlowdown.label>hypothermic slowdown</RE_HypothermicSlowdown.label>
+  <RE_HypothermicSlowdown.description>hypothermic slowdown.</RE_HypothermicSlowdown.description>
+  <RE_HypothermicSlowdown.stages.0.label>minor</RE_HypothermicSlowdown.stages.0.label>
+  <RE_HypothermicSlowdown.stages.1.label>minor</RE_HypothermicSlowdown.stages.1.label>
+  <RE_HypothermicSlowdown.stages.2.label>moderate</RE_HypothermicSlowdown.stages.2.label>
+  <RE_HypothermicSlowdown.stages.3.label>serious</RE_HypothermicSlowdown.stages.3.label>
+  <RE_HypothermicSlowdown.stages.4.label>extreme</RE_HypothermicSlowdown.stages.4.label>
+  <RE_AdrenalineModule.label>adrenaline module</RE_AdrenalineModule.label>
+  <RE_AdrenalineModule.labelNoun>an adrenaline module</RE_AdrenalineModule.labelNoun>
+  <RE_AdrenalineModule.description>An installed adrenaline module.</RE_AdrenalineModule.description>
+  <RE_StabilizationModule.label>stabilization module</RE_StabilizationModule.label>
+  <RE_StabilizationModule.labelNoun>a stabilization module</RE_StabilizationModule.labelNoun>
+  <RE_StabilizationModule.description>An installed stabilization module.</RE_StabilizationModule.description>
+  <RE_StrengthEnhancer.label>strength enhancer</RE_StrengthEnhancer.label>
+  <RE_StrengthEnhancer.labelNoun>a strength enhancer</RE_StrengthEnhancer.labelNoun>
+  <RE_StrengthEnhancer.description>An installed strength enhancer.</RE_StrengthEnhancer.description>
+  <RE_PowerAmplifier.label>power amplifier</RE_PowerAmplifier.label>
+  <RE_PowerAmplifier.labelNoun>a power amplifier</RE_PowerAmplifier.labelNoun>
+  <RE_PowerAmplifier.description>An installed power amplifier.</RE_PowerAmplifier.description>
+  <RE_PowerEfficiencyModule.label>power efficiency module</RE_PowerEfficiencyModule.label>
+  <RE_PowerEfficiencyModule.labelNoun>a power efficiency module</RE_PowerEfficiencyModule.labelNoun>
+  <RE_PowerEfficiencyModule.description>An installed power efficiency module.</RE_PowerEfficiencyModule.description>
+  <RE_TargetingVI.label>targeting VI</RE_TargetingVI.label>
+  <RE_TargetingVI.labelNoun>a targeting VI</RE_TargetingVI.labelNoun>
+  <RE_TargetingVI.description>An installed targeting VI.</RE_TargetingVI.description>
+</LanguageData>

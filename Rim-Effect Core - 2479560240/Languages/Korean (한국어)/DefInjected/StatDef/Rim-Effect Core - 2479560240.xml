@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RE_BioticEnergyMax.label>biotic energy limit</RE_BioticEnergyMax.label>
+  <RE_BioticEnergyMax.description>The maximum amount of biotic energy the individual can sustain safely.</RE_BioticEnergyMax.description>
+  <RE_BioticEnergyRecoveryRate.label>biotic energy recovery rate</RE_BioticEnergyRecoveryRate.label>
+  <RE_BioticEnergyRecoveryRate.description>The rate at which this person recovers biotic energy.</RE_BioticEnergyRecoveryRate.description>
+  <RE_BioticEnergyRecoveryRate.formatString>{0}/s</RE_BioticEnergyRecoveryRate.formatString>
+  <RE_BioticAbilityCostMultiplier.label>biotic ability cost multiplier</RE_BioticAbilityCostMultiplier.label>
+  <RE_BioticAbilityCostMultiplier.description>How much effort it costs to use biotic energy.</RE_BioticAbilityCostMultiplier.description>
+  <RE_BioticAbilityCostMultiplier.formatString>{0}</RE_BioticAbilityCostMultiplier.formatString>
+  <RE_AbilityCooldownFactor.label>ability cooldown factor</RE_AbilityCooldownFactor.label>
+  <RE_AbilityCooldownFactor.description>ability cooldown factor.</RE_AbilityCooldownFactor.description>
+  <RE_AbilityCooldownFactor.formatString>{0}</RE_AbilityCooldownFactor.formatString>
+</LanguageData>

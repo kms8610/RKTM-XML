@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RE_SabotageBerserk.label>berserk</RE_SabotageBerserk.label>
+  <RE_SabotageBerserk.beginLetter>{0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees.</RE_SabotageBerserk.beginLetter>
+  <RE_SabotageBerserk.recoveryMessage>{0}'s berserk rage has come to an end.</RE_SabotageBerserk.recoveryMessage>
+  <RE_SabotageBerserk.baseInspectLine>Mental state: Berserk</RE_SabotageBerserk.baseInspectLine>
+  <RE_DominationBerserk.label>berserk</RE_DominationBerserk.label>
+  <RE_DominationBerserk.beginLetter>{0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees.</RE_DominationBerserk.beginLetter>
+  <RE_DominationBerserk.recoveryMessage>{0}'s berserk rage has come to an end.</RE_DominationBerserk.recoveryMessage>
+  <RE_DominationBerserk.baseInspectLine>Mental state: Berserk</RE_DominationBerserk.baseInspectLine>
+</LanguageData>

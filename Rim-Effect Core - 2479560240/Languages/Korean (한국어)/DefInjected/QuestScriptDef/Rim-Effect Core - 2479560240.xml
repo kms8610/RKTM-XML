@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.0>questName->The [size] [expansion]</RE_ColonyGrowth.questNameRules.rulesStrings.0>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.1>questName->[size] [expansion]</RE_ColonyGrowth.questNameRules.rulesStrings.1>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.2>questName->[asker_nameDef] and the [expansion]</RE_ColonyGrowth.questNameRules.rulesStrings.2>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.3>expansion->Expansion</RE_ColonyGrowth.questNameRules.rulesStrings.3>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.4>expansion->Extension</RE_ColonyGrowth.questNameRules.rulesStrings.4>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.5>expansion->Development</RE_ColonyGrowth.questNameRules.rulesStrings.5>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.6>expansion->Construction Site</RE_ColonyGrowth.questNameRules.rulesStrings.6>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.7>size->Big</RE_ColonyGrowth.questNameRules.rulesStrings.7>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.8>size->Large</RE_ColonyGrowth.questNameRules.rulesStrings.8>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.9>size->Huge</RE_ColonyGrowth.questNameRules.rulesStrings.9>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.10>size->Small</RE_ColonyGrowth.questNameRules.rulesStrings.10>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.11>size->Great</RE_ColonyGrowth.questNameRules.rulesStrings.11>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.12>size->Tremendous</RE_ColonyGrowth.questNameRules.rulesStrings.12>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.13>size->Grand</RE_ColonyGrowth.questNameRules.rulesStrings.13>
+  <RE_ColonyGrowth.questNameRules.rulesStrings.14>size->Massive</RE_ColonyGrowth.questNameRules.rulesStrings.14>
+  <RE_ColonyGrowth.questDescriptionRules.rulesStrings.0>questDescription->High command of [asker_faction_name] analyzed the situation at [map_definite] and decided to contact you with an expansion opportunity. They would like to relocate [numberPawns] of personnel to your colony, but they need to make sure you can support them.\n\n[asker_faction_name] requests that you construct additional rooms in [map_definite]. \nIn return, following personnel will join you:\n\n[personnelData]\n\nRooms needs to be built:\n[roomsToBeBuild]\nThe rooms must be built at least [minRoomSizeInfo] in size. You have only [questTimeOut_duration] to complete this order.\n</RE_ColonyGrowth.questDescriptionRules.rulesStrings.0>
+  <RE_ColonyGrowth.root.nodes.11.node.nodes.0.customLetterLabel>$customLetterLabel</RE_ColonyGrowth.root.nodes.11.node.nodes.0.customLetterLabel>
+  <RE_ColonyGrowth.root.nodes.11.node.nodes.0.customLetterText>$customLetterText</RE_ColonyGrowth.root.nodes.11.node.nodes.0.customLetterText>
+  <RE_ColonyGrowth.root.nodes.11.node.nodes.1.label>Quest is done: [resolvedQuestName]</RE_ColonyGrowth.root.nodes.11.node.nodes.1.label>
+  <RE_ColonyGrowth.root.nodes.11.node.nodes.1.text>Quest is done.</RE_ColonyGrowth.root.nodes.11.node.nodes.1.text>
+  <RE_ColonyGrowth.root.nodes.12.node.nodes.0.label>Quest expired: [resolvedQuestName]</RE_ColonyGrowth.root.nodes.12.node.nodes.0.label>
+  <RE_ColonyGrowth.root.nodes.12.node.nodes.0.text>The Colony Growth quest has expired. You have failed the quest [resolvedQuestName].</RE_ColonyGrowth.root.nodes.12.node.nodes.0.text>
+  <RE_RescueHostages.questNameRules.rulesStrings.0>questName->[hostages] in need</RE_RescueHostages.questNameRules.rulesStrings.0>
+  <RE_RescueHostages.questNameRules.rulesStrings.1>questName->[adjective] [hostages]</RE_RescueHostages.questNameRules.rulesStrings.1>
+  <RE_RescueHostages.questNameRules.rulesStrings.2>questName->[hostages] in trouble</RE_RescueHostages.questNameRules.rulesStrings.2>
+  <RE_RescueHostages.questNameRules.rulesStrings.3>hostages->Hostages</RE_RescueHostages.questNameRules.rulesStrings.3>
+  <RE_RescueHostages.questNameRules.rulesStrings.4>hostages->Captives</RE_RescueHostages.questNameRules.rulesStrings.4>
+  <RE_RescueHostages.questNameRules.rulesStrings.5>adjective->Poor</RE_RescueHostages.questNameRules.rulesStrings.5>
+  <RE_RescueHostages.questNameRules.rulesStrings.6>adjective->Desperate</RE_RescueHostages.questNameRules.rulesStrings.6>
+  <RE_RescueHostages.questNameRules.rulesStrings.7>adjective->Scared</RE_RescueHostages.questNameRules.rulesStrings.7>
+  <RE_RescueHostages.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says [asker_possessive] people are being held hostage near [map_definite].
+\n[asker_nameDef] has nobody to spare to rescue them, but says that if you can make it to their position and rescue them, as well as kill the captors, you will be rewarded.
+\n[asker_nameDef] says that hostages are being held by [siteFaction_pawnsPlural] from [siteFaction_name].</RE_RescueHostages.questDescriptionRules.rulesStrings.0>
+  <RE_RescueHostages.root.nodes.12.node.nodes.0.label>Quest expired: [resolvedQuestName]</RE_RescueHostages.root.nodes.12.node.nodes.0.label>
+  <RE_RescueHostages.root.nodes.12.node.nodes.0.text>The hostages camp has packed up and moved on. The quest [resolvedQuestName] has expired.</RE_RescueHostages.root.nodes.12.node.nodes.0.text>
+  <RE_RescueHostages.root.nodes.13.node.nodes.0.label>Quest failed: [resolvedQuestName]</RE_RescueHostages.root.nodes.13.node.nodes.0.label>
+  <RE_RescueHostages.root.nodes.13.node.nodes.0.text>After being discovered, the hostages camp has dispersed. The quest [resolvedQuestName] has ended.</RE_RescueHostages.root.nodes.13.node.nodes.0.text>
+  <RE_RescueHostages.root.nodes.14.node.customLetterLabel>Payment arrived</RE_RescueHostages.root.nodes.14.node.customLetterLabel>
+  <RE_RescueHostages.root.nodes.14.node.customLetterText>You have defeated enemies at the camp and freed the hostages!\n\nThe payment from [asker_faction_name] has arrived.</RE_RescueHostages.root.nodes.14.node.customLetterText>
+  <RE_RescueHostages.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</RE_RescueHostages.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>
+  <RE_RescueHostages.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service.</RE_RescueHostages.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>
+  <RE_LodiakShuttleCrash1.questNameRules.rulesStrings.0>questName->[adjective] shuttle</RE_LodiakShuttleCrash1.questNameRules.rulesStrings.0>
+  <RE_LodiakShuttleCrash1.questNameRules.rulesStrings.1>adjective->Crashed</RE_LodiakShuttleCrash1.questNameRules.rulesStrings.1>
+  <RE_LodiakShuttleCrash1.questNameRules.rulesStrings.2>adjective->Broken</RE_LodiakShuttleCrash1.questNameRules.rulesStrings.2>
+  <RE_LodiakShuttleCrash1.questNameRules.rulesStrings.3>adjective->Collapsed</RE_LodiakShuttleCrash1.questNameRules.rulesStrings.3>
+  <RE_LodiakShuttleCrash1.questNameRules.rulesStrings.4>adjective->Fallen</RE_LodiakShuttleCrash1.questNameRules.rulesStrings.4>
+  <RE_LodiakShuttleCrash1.questNameRules.rulesStrings.5>adjective->Defective</RE_LodiakShuttleCrash1.questNameRules.rulesStrings.5>
+  <RE_LodiakShuttleCrash1.questDescriptionRules.rulesStrings.0>questDescription->High command of [asker_faction_name] lost contact with one of their Kodiak shuttles performing a routine scouting mission near [map_definite]. They are particularly interested in the data from the shuttle black box, which will be automatically uploaded once you get in range.
+[asker_faction_name] has no personnel they can spare to launch a rescue operation. As such, if there are any survivors, they can choose freely to return with you to [map_definite].
+
+Crash might have attracted the attention of hostiles.</RE_LodiakShuttleCrash1.questDescriptionRules.rulesStrings.0>
+  <RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.label>Quest completed: [resolvedQuestName]</RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.label>
+  <RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.text>You arrived at the shuttle crash site.</RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.text>
+  <RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.label>
+  <RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.text>The shuttle has been found by others. The quest [resolvedQuestName] has expired.</RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.text>
+  <RE_LodiakShuttleCrash2.questNameRules.rulesStrings.0>questName->[adjective] shuttle</RE_LodiakShuttleCrash2.questNameRules.rulesStrings.0>
+  <RE_LodiakShuttleCrash2.questNameRules.rulesStrings.1>adjective->Crashed</RE_LodiakShuttleCrash2.questNameRules.rulesStrings.1>
+  <RE_LodiakShuttleCrash2.questNameRules.rulesStrings.2>adjective->Broken</RE_LodiakShuttleCrash2.questNameRules.rulesStrings.2>
+  <RE_LodiakShuttleCrash2.questNameRules.rulesStrings.3>adjective->Collapsed</RE_LodiakShuttleCrash2.questNameRules.rulesStrings.3>
+  <RE_LodiakShuttleCrash2.questNameRules.rulesStrings.4>adjective->Fallen</RE_LodiakShuttleCrash2.questNameRules.rulesStrings.4>
+  <RE_LodiakShuttleCrash2.questNameRules.rulesStrings.5>adjective->Defective</RE_LodiakShuttleCrash2.questNameRules.rulesStrings.5>
+  <RE_LodiakShuttleCrash2.questDescriptionRules.rulesStrings.0>questDescription->High command of [asker_faction_name] lost contact with one of their Kodiak shuttles performing a routine scouting mission near [map_definite]. They are particularly interested in the data from the shuttle black box, which will be automatically uploaded once you get in range.
+[asker_faction_name] has no personnel they can spare to launch a rescue operation. As such, if there are any survivors, they can choose freely to return with you to [map_definite].
+
+Crash might have attracted the attention of hostiles.</RE_LodiakShuttleCrash2.questDescriptionRules.rulesStrings.0>
+  <RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.label>Quest completed: [resolvedQuestName]</RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.label>
+  <RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.text>You arrived at the shuttle crash site.</RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.text>
+  <RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.label>
+  <RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.text>The shuttle has been found by others. The quest [resolvedQuestName] has expired.</RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.text>
+  <RE_LodiakShuttleCrash3.questNameRules.rulesStrings.0>questName->[adjective] shuttle</RE_LodiakShuttleCrash3.questNameRules.rulesStrings.0>
+  <RE_LodiakShuttleCrash3.questNameRules.rulesStrings.1>adjective->Crashed</RE_LodiakShuttleCrash3.questNameRules.rulesStrings.1>
+  <RE_LodiakShuttleCrash3.questNameRules.rulesStrings.2>adjective->Broken</RE_LodiakShuttleCrash3.questNameRules.rulesStrings.2>
+  <RE_LodiakShuttleCrash3.questNameRules.rulesStrings.3>adjective->Collapsed</RE_LodiakShuttleCrash3.questNameRules.rulesStrings.3>
+  <RE_LodiakShuttleCrash3.questNameRules.rulesStrings.4>adjective->Fallen</RE_LodiakShuttleCrash3.questNameRules.rulesStrings.4>
+  <RE_LodiakShuttleCrash3.questNameRules.rulesStrings.5>adjective->Defective</RE_LodiakShuttleCrash3.questNameRules.rulesStrings.5>
+  <RE_LodiakShuttleCrash3.questDescriptionRules.rulesStrings.0>questDescription->High command of [asker_faction_name] lost contact with one of their Kodiak shuttles performing a routine scouting mission near [map_definite]. They are particularly interested in the data from the shuttle black box, which will be automatically uploaded once you get in range.
+[asker_faction_name] has no personnel they can spare to launch a rescue operation. As such, if there are any survivors, they can choose freely to return with you to [map_definite].
+
+Crash might have attracted the attention of hostiles.</RE_LodiakShuttleCrash3.questDescriptionRules.rulesStrings.0>
+  <RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.label>Quest completed: [resolvedQuestName]</RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.label>
+  <RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.text>You arrived at the shuttle crash site and defeated the hostile forces.</RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.text>
+  <RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.label>
+  <RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.text>The shuttle has been found by others. The quest [resolvedQuestName] has expired.</RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.text>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.0>questName->The [adjective] [noun]</RE_ProtheanBeacon.questNameRules.rulesStrings.0>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.1>questName->[adjective] [noun]</RE_ProtheanBeacon.questNameRules.rulesStrings.1>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.2>questName->[asker_nameDef] and the [noun]</RE_ProtheanBeacon.questNameRules.rulesStrings.2>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.3>adjective->Mysterious</RE_ProtheanBeacon.questNameRules.rulesStrings.3>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.4>adjective->Enigmatic</RE_ProtheanBeacon.questNameRules.rulesStrings.4>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.5>adjective->Cryptic</RE_ProtheanBeacon.questNameRules.rulesStrings.5>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.6>noun->Beacon</RE_ProtheanBeacon.questNameRules.rulesStrings.6>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.7>noun->Building</RE_ProtheanBeacon.questNameRules.rulesStrings.7>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.8>noun->Device</RE_ProtheanBeacon.questNameRules.rulesStrings.8>
+  <RE_ProtheanBeacon.questNameRules.rulesStrings.9>noun->Mechanism</RE_ProtheanBeacon.questNameRules.rulesStrings.9>
+  <RE_ProtheanBeacon.questDescriptionRules.rulesStrings.0>questDescription->Description: [asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says [asker_possessive] people found an old Prothean beacon near [map_definite].
+\n[asker_nameDef] has no people to spare to launch an excavation, but if you make it to the location specified, you can gain a significant boost to your research capabilities.
+\n[asker_nameDef] says that the beacon is guarded by [siteFaction_pawnsPlural] from [siteFaction_name].</RE_ProtheanBeacon.questDescriptionRules.rulesStrings.0>
+  <RE_ProtheanBeacon.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</RE_ProtheanBeacon.root.nodes.11.node.nodes.0.label>
+  <RE_ProtheanBeacon.root.nodes.11.node.nodes.0.text>The Prothean beacon has been found by others. The quest [resolvedQuestName] has expired.</RE_ProtheanBeacon.root.nodes.11.node.nodes.0.text>
+  <RE_Rogue.questNameRules.rulesStrings.0>questName->Rogue VI</RE_Rogue.questNameRules.rulesStrings.0>
+  <RE_Rogue.questDescriptionRules.rulesStrings.0>questDescription->[refugee_nameDef] contacts you and requests help. [refugee_pronoun] came across a small installation run by a rogue virtual intelligence. \n[refugee_nameDef] is a [refugee_age]-year-old [refugee_title]. [refugee_pronoun] promises to join you if you rescue [refugee_objective]. \n[refugee_nameDef] says that you should exercise extreme caution. Whilst there are no humans left alive in the area, a large number of turrets and mechs went completely haywire and will attack anyone that comes into range.</RE_Rogue.questDescriptionRules.rulesStrings.0>
+  <RE_Rogue.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</RE_Rogue.root.nodes.11.node.nodes.0.label>
+  <RE_Rogue.root.nodes.11.node.nodes.0.text>[refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired.</RE_Rogue.root.nodes.11.node.nodes.0.text>
+</LanguageData>
