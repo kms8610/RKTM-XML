@@ -9,10 +9,10 @@
   <BulkBrewSimpleSyrupVG.jobString>Brewing simple syrup</BulkBrewSimpleSyrupVG.jobString>
   <BulkBrewSimpleSyrupVG.label>Bulk brew simple syrup (8) (VG fruit)</BulkBrewSimpleSyrupVG.label>
   <BulkBrewSimpleSyrupVG.description>Bulk Brew syrup by reducing high-sugar fruits from the Vegetable Garden mod. \n\nMakes 8.</BulkBrewSimpleSyrupVG.description>
-  <CPD_MakebulkCornWort.label>make corn wort x4</CPD_MakebulkCornWort.label>
-  <CPD_MakebulkCornWort.description>Make wort from corn. \n\nMakes 20.</CPD_MakebulkCornWort.description>
+  <CPD_MakebulkCornWort.label>make whisky corn wort x4</CPD_MakebulkCornWort.label>
+  <CPD_MakebulkCornWort.description>Make wort from corn. Blue corn and Wheat can be used if you can grow it. \n\nMakes 20.</CPD_MakebulkCornWort.description>
   <CPD_MakebulkCornWort.jobString>Making corn wort.</CPD_MakebulkCornWort.jobString>
-  <CPD_MakebulkRiceMash.label>make rice mash x4</CPD_MakebulkRiceMash.label>
+  <CPD_MakebulkRiceMash.label>make saki rice mash x4</CPD_MakebulkRiceMash.label>
   <CPD_MakebulkRiceMash.description>Make rice mash for brewing saki. \n\nMakes 20.</CPD_MakebulkRiceMash.description>
   <CPD_MakebulkRiceMash.jobString>Making rice mash.</CPD_MakebulkRiceMash.jobString>
   <DistillBulkVodka.label>distill vodka x4</DistillBulkVodka.label>
@@ -21,10 +21,10 @@
   <CPD_MakeBulkWineMust.label>make berry wine must x4</CPD_MakeBulkWineMust.label>
   <CPD_MakeBulkWineMust.description>Make wine must from berries. \n\nMakes 20.</CPD_MakeBulkWineMust.description>
   <CPD_MakeBulkWineMust.jobString>Making berry must.</CPD_MakeBulkWineMust.jobString>
-  <VG_MakeBulkCaneMust.label>make Cane must x4</VG_MakeBulkCaneMust.label>
+  <VG_MakeBulkCaneMust.label>make rum cane must x4</VG_MakeBulkCaneMust.label>
   <VG_MakeBulkCaneMust.description>Make cane must from sugarcane. \n\nMakes 20.</VG_MakeBulkCaneMust.description>
   <VG_MakeBulkCaneMust.jobString>Making cane must.</VG_MakeBulkCaneMust.jobString>
-  <VG_MakeBulkAgaveMust.label>make Agave must x4</VG_MakeBulkAgaveMust.label>
+  <VG_MakeBulkAgaveMust.label>make agave tequila must x4</VG_MakeBulkAgaveMust.label>
   <VG_MakeBulkAgaveMust.description>Make agave must from agave. \n\nMakes 20.</VG_MakeBulkAgaveMust.description>
   <VG_MakeBulkAgaveMust.jobString>Making agave must.</VG_MakeBulkAgaveMust.jobString>
   <VG_MakeBulkFruitMash.label>make fruit mash x4</VG_MakeBulkFruitMash.label>
@@ -36,10 +36,10 @@
   <VG_MakeBulkFruitKvassWort.label>make fruit kvass wort x4</VG_MakeBulkFruitKvassWort.label>
   <VG_MakeBulkFruitKvassWort.description>Make wort from fruit and syrup. \n\nMakes 20.</VG_MakeBulkFruitKvassWort.description>
   <VG_MakeBulkFruitKvassWort.jobString>Making kvass wort.</VG_MakeBulkFruitKvassWort.jobString>
-  <CPD_MakeCornWort.label>make corn wort</CPD_MakeCornWort.label>
-  <CPD_MakeCornWort.description>Make wort from corn. \n\nMakes 5.</CPD_MakeCornWort.description>
+  <CPD_MakeCornWort.label>make whisky corn wort</CPD_MakeCornWort.label>
+  <CPD_MakeCornWort.description>Make wort from corn. Blue corn and Wheat can be used if you can grow it. \n\nMakes 5.</CPD_MakeCornWort.description>
   <CPD_MakeCornWort.jobString>Making corn wort.</CPD_MakeCornWort.jobString>
-  <CPD_MakeRiceMash.label>make rice mash</CPD_MakeRiceMash.label>
+  <CPD_MakeRiceMash.label>make saki rice mash</CPD_MakeRiceMash.label>
   <CPD_MakeRiceMash.description>Make rice mash for brewing saki. \n\nMakes 5.</CPD_MakeRiceMash.description>
   <CPD_MakeRiceMash.jobString>Making rice mash.</CPD_MakeRiceMash.jobString>
   <DistillVodka.label>distill vodka</DistillVodka.label>
@@ -48,16 +48,16 @@
   <CPD_MakeWineMust.label>make berry wine must</CPD_MakeWineMust.label>
   <CPD_MakeWineMust.description>Make wine must from berries. \n\nMakes 5.</CPD_MakeWineMust.description>
   <CPD_MakeWineMust.jobString>Making berry must.</CPD_MakeWineMust.jobString>
-  <VG_MakeCaneMust.label>make Cane must</VG_MakeCaneMust.label>
+  <VG_MakeCaneMust.label>make rum cane must</VG_MakeCaneMust.label>
   <VG_MakeCaneMust.description>Make cane must from sugarcane. \n\nMakes 5.</VG_MakeCaneMust.description>
   <VG_MakeCaneMust.jobString>Making cane must.</VG_MakeCaneMust.jobString>
-  <VG_MakeAgaveMust.label>make Agave must</VG_MakeAgaveMust.label>
+  <VG_MakeAgaveMust.label>make agave tequila must</VG_MakeAgaveMust.label>
   <VG_MakeAgaveMust.description>Make agave must from agave. \n\nMakes 5.</VG_MakeAgaveMust.description>
   <VG_MakeAgaveMust.jobString>Making agave must.</VG_MakeAgaveMust.jobString>
   <VG_MakeFruitMash.label>make fruit mash</VG_MakeFruitMash.label>
   <VG_MakeFruitMash.description>Make fruit mash from fruit. \n\nMakes 5.</VG_MakeFruitMash.description>
   <VG_MakeFruitMash.jobString>Making fruit mash.</VG_MakeFruitMash.jobString>
-  <VG_MakeAmbrosiaMust.label>make ambrosia must</VG_MakeAmbrosiaMust.label>
+  <VG_MakeAmbrosiaMust.label>make ambrosia wine must</VG_MakeAmbrosiaMust.label>
   <VG_MakeAmbrosiaMust.description>Make ambrosia must from fruit. \n\nMakes 5.</VG_MakeAmbrosiaMust.description>
   <VG_MakeAmbrosiaMust.jobString>Making ambrosia must.</VG_MakeAmbrosiaMust.jobString>
   <VG_MakeFruitKvassWort.label>make fruit kvass wort</VG_MakeFruitKvassWort.label>
@@ -72,9 +72,6 @@
   <BrewBananaSoda.label>brew banana soda</BrewBananaSoda.label>
   <BrewBananaSoda.description>Brew bananas and syrup into a sweet soda. \n\nMakes 6.</BrewBananaSoda.description>
   <BrewBananaSoda.jobString>Brewing banana soda</BrewBananaSoda.jobString>
-  <BrewGrapeSoda.label>brew grape soda</BrewGrapeSoda.label>
-  <BrewGrapeSoda.description>Brew grapes and syrup into a sweet soda. \n\nMakes 6.</BrewGrapeSoda.description>
-  <BrewGrapeSoda.jobString>Brewing grape soda</BrewGrapeSoda.jobString>
   <BrewOrangeSoda.label>brew orange soda</BrewOrangeSoda.label>
   <BrewOrangeSoda.description>Brew oranges and syrup into a sweet soda. \n\nMakes 6.</BrewOrangeSoda.description>
   <BrewOrangeSoda.jobString>Brewing orange soda</BrewOrangeSoda.jobString>
