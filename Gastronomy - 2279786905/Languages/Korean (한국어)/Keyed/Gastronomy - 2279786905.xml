@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <ShowAlertNoDedicatedWaiter>Show 'no waiter' warning</ShowAlertNoDedicatedWaiter>
-  <ShowAlertNoDedicatedWaiterDesc>Show a warning when you're opened, but no waiter is set to work at that time.</ShowAlertNoDedicatedWaiterDesc>
-  <MustPlaceOnTable>Must be placed on a table.</MustPlaceOnTable>
-  <MustPlaceOnFreeSurface>Must be placed on clear surface.</MustPlaceOnFreeSurface>
+  <ErrorRequiresCashRegister>Gastronomy now requires the 'Cash Register' mod to be loaded.
+
+I had to create it in order to be able to work on a new feature. Sorry about this inconvenience.
+
+If you add the 'Cash Register' mod, Gastronomy will continue working as before.
+
+
+-- Regards, Orion</ErrorRequiresCashRegister>
   <MessageIncomeToday>Your restaurant has earned {0} today.</MessageIncomeToday>
-  <TabRegister>Register</TabRegister>
+  <TabRegisterRestaurant>Dining</TabRegisterRestaurant>
   <TabRegisterOpened>Opened</TabRegisterOpened>
-  <TabRegisterOpenedTooltip>When checked, patrons can make orders during business hours.</TabRegisterOpenedTooltip>
+  <TabRegisterOpenedTooltip>When checked, patrons can make orders while a shift is active.</TabRegisterOpenedTooltip>
   <TabRegisterGuests>Allow guests</TabRegisterGuests>
   <TabRegisterGuestsTooltip>When checked, guests will make orders.</TabRegisterGuestsTooltip>
   <TabRegisterColonists>Allow colonists</TabRegisterColonists>
   <TabRegisterColonistsTooltip>When checked, colonists will make orders.</TabRegisterColonistsTooltip>
-  <TabRegisterGuestsHaveToPay>Guests must pay</TabRegisterGuestsHaveToPay>
-  <TabRegisterGuestHaveToPayTooltip>When checked, guests have to pay {0} of market value.</TabRegisterGuestHaveToPayTooltip>
+  <TabRegisterPrisoners>Allow prisoners</TabRegisterPrisoners>
+  <TabRegisterPrisonersTooltip>When checked, prisoners will make orders.</TabRegisterPrisonersTooltip>
+  <TabRegisterGuestPrice>Price for guests: {0}</TabRegisterGuestPrice>
+  <TabRegisterGuestPriceTooltip>A multiplier for the market value. You can see the individual prices when you point at stocked items. This multiplier affects the mood of patrons.</TabRegisterGuestPriceTooltip>
+  <TabRegisterGuestPriceFree>Free</TabRegisterGuestPriceFree>
+  <TabRegisterDebtTooltip>{0}: {1} (click to clear)</TabRegisterDebtTooltip>
   <TabRegisterRadius>Radius</TabRegisterRadius>
+  <TabRegisterActiveStaff>Active staff:</TabRegisterActiveStaff>
   <TabRegisterSeats>Seats:</TabRegisterSeats>
   <TabRegisterPatrons>Patrons:</TabRegisterPatrons>
   <TabRegisterTotalOrders>Total orders:</TabRegisterTotalOrders>
@@ -29,6 +38,8 @@
   <CommandSetDeco>Change Decoration</CommandSetDeco>
   <CommandSetDecoDesc>Change the decoration on the table.</CommandSetDecoDesc>
   <JobDineGoReport>Eating at restaurant.</JobDineGoReport>
-  <NoDedicatedWaiter>No dedicated waiter</NoDedicatedWaiter>
-  <NoDedicatedWaiterExplanation>You have dining tables and are opened, but there are no dedicated waiters right now.\nMake sure at least one colonist is set as waiter and scheduled to work while you're opened.\n\nYou can also modify the opening times by building a cash register.</NoDedicatedWaiterExplanation>
+  <AlertNoRegister>No register</AlertNoRegister>
+  <AlertNoRegisterExplanation>To open your restaurant, you need at least one register. This can be built from the production tab.</AlertNoRegisterExplanation>
+  <AlertNoWaiter>No waiter</AlertNoWaiter>
+  <AlertNoWaiterExplanation>To operate your restaurant, you need to set up at least one shift at a register and assign a capable waiter.</AlertNoWaiterExplanation>
 </LanguageData>
