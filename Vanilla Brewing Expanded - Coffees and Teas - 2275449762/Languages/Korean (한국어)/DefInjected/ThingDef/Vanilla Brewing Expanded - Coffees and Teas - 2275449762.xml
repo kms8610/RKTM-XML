@@ -34,38 +34,18 @@
   <VBE_Yuenyeung.description>A mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. It is usually served cold, but whether it’s served hot or cold it’s equally confusing to the imbiber.</VBE_Yuenyeung.description>
   <VBE_Yuenyeung.ingestible.ingestCommandString>Drink {0}</VBE_Yuenyeung.ingestible.ingestCommandString>
   <VBE_Yuenyeung.ingestible.ingestReportString>Drinking {0}.</VBE_Yuenyeung.ingestible.ingestReportString>
-  <VBE_MintPlant.label>mint plant</VBE_MintPlant.label>
-  <VBE_MintPlant.description>A plant sprouting into an array of mint leaves. Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Flourishes indoors and in plant pots, while being pleasant to look at.</VBE_MintPlant.description>
-  <VBE_MintLeaves.label>mint leaves</VBE_MintLeaves.label>
-  <VBE_MintLeaves.description>Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Mint leaves rot quite fast.</VBE_MintLeaves.description>
-  <VBE_MintCoffee.label>mint coffee</VBE_MintCoffee.label>
-  <VBE_MintCoffee.description>Bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath.</VBE_MintCoffee.description>
-  <VBE_MintCoffee.ingestible.ingestCommandString>Drink {0}</VBE_MintCoffee.ingestible.ingestCommandString>
-  <VBE_MintCoffee.ingestible.ingestReportString>Drinking {0}.</VBE_MintCoffee.ingestible.ingestReportString>
-  <VBE_DalgonaCoffee.label>dalgona coffee</VBE_DalgonaCoffee.label>
-  <VBE_DalgonaCoffee.description>A trendy, newer drink in the world of coffee rumored to originate from far off steamworlds. Coffee granules are rapidly mixed with sugar to form a thick, luxuriously sweet foam. Afterwards the foam is dispersed over deeply chilled milk before drinking. Arguably the perfect drink to sip on while studying or reading.</VBE_DalgonaCoffee.description>
-  <VBE_DalgonaCoffee.ingestible.ingestCommandString>Drink {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
-  <VBE_DalgonaCoffee.ingestible.ingestReportString>Drinking {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
-  <VBE_GreenTea.label>green tea</VBE_GreenTea.label>
-  <VBE_GreenTea.description>A light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor.</VBE_GreenTea.description>
-  <VBE_GreenTea.ingestible.ingestCommandString>Drink {0}</VBE_GreenTea.ingestible.ingestCommandString>
-  <VBE_GreenTea.ingestible.ingestReportString>Drinking {0}.</VBE_GreenTea.ingestible.ingestReportString>
-  <VBE_MintTea.label>mint tea</VBE_MintTea.label>
-  <VBE_MintTea.description>Black tea leaves mixed with mint leaves and deeply steeped, then garnished with additional mint leaves. Leaves your breath surprisingly fresh.</VBE_MintTea.description>
-  <VBE_MintTea.ingestible.ingestCommandString>Drink {0}</VBE_MintTea.ingestible.ingestCommandString>
-  <VBE_MintTea.ingestible.ingestReportString>Drinking {0}.</VBE_MintTea.ingestible.ingestReportString>
-  <VBE_MasalaChai.label>masala chai</VBE_MasalaChai.label>
-  <VBE_MasalaChai.description>A musty, warm, almost woody tea crafted by simple leaves and complex spices. Alleged to be good against high cholesterol.</VBE_MasalaChai.description>
-  <VBE_MasalaChai.ingestible.ingestCommandString>Drink {0}</VBE_MasalaChai.ingestible.ingestCommandString>
-  <VBE_MasalaChai.ingestible.ingestReportString>Drinking {0}.</VBE_MasalaChai.ingestible.ingestReportString>
-  <VBE_NoonChai.label>noon chai</VBE_NoonChai.label>
-  <VBE_NoonChai.description>An ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Very efficient for treating those with a high blood pressure.</VBE_NoonChai.description>
-  <VBE_NoonChai.ingestible.ingestCommandString>Drink {0}</VBE_NoonChai.ingestible.ingestCommandString>
-  <VBE_NoonChai.ingestible.ingestReportString>Drinking {0}.</VBE_NoonChai.ingestible.ingestReportString>
-  <VBE_LemonTree.label>lemon tree</VBE_LemonTree.label>
-  <VBE_LemonTree.description>A tall tree native to both deserts and tropics alike. Bright, sour lemons grow profusely on this tree, some lemons may even mature early and fall to the ground before the primary harvest is ready.</VBE_LemonTree.description>
-  <VCE_RawLemon.label>lemons</VCE_RawLemon.label>
-  <VCE_RawLemon.description>An acid and sour tasting fruit. The juice, zest, and pulp are often used in cooking, often on fish and other meat for better taste. Lemon is also used to flavour drinks, such as lemonade, or mixed with tea and coffee.</VCE_RawLemon.description>
+  <AMB_LemonTree.label.label>eureka lemon tree</AMB_LemonTree.label.label>
+  <AMB_LemonTree.description.description>A bushy, semi-tropical tree dotted with eureka lemons, a citric fruit used as base to prepare different drinks and meals.\nEureka lemons are very acid on its own, eating them raw is not so enjoyable and may produce tooth sensitivity.</AMB_LemonTree.description.description>
+  <AMB_RawLemon.label.label>eureka lemons</AMB_RawLemon.label.label>
+  <AMB_RawLemon.description.description>Yellow citric fruits, while not so sweet like most other fruits, mixing lemon juice with sugar allows the creation of lemonade, a refreshing and healthy drink.\nEureka lemons are very acid on its own, eating them raw is not so enjoyable and may produce tooth sensitivity.</AMB_RawLemon.description.description>
+  <AMB_MintPlant.label.label>spearmint plant</AMB_MintPlant.label.label>
+  <AMB_MintPlant.description.description>Mentha Spicata, the most popular type of mint. Spearmint has an invasive taste, added in small quantities it can give a magic taste to Mate.</AMB_MintPlant.description.description>
+  <AMB_MintLeaves.label.label>spearmint leaves</AMB_MintLeaves.label.label>
+  <AMB_MintLeaves.description.description>Spearmint leaves, used to flavour mate with an unique taste.\n\nSpearmint dries very fast upon being harvested, and it loses its taste, so be sure to make Mate with it as soon as possible.</AMB_MintLeaves.description.description>
+  <VBE_EarlGreyTea.label>earl grey tea</VBE_EarlGreyTea.label>
+  <VBE_EarlGreyTea.description>A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize.</VBE_EarlGreyTea.description>
+  <VBE_EarlGreyTea.ingestible.ingestCommandString>Drink {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+  <VBE_EarlGreyTea.ingestible.ingestReportString>Drinking {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
   <VBE_LemonCoffee.label>espresso romano</VBE_LemonCoffee.label>
   <VBE_LemonCoffee.description>A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites.</VBE_LemonCoffee.description>
   <VBE_LemonCoffee.ingestible.ingestCommandString>Drink {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
@@ -74,8 +54,36 @@
   <VBE_LemonTea.description>A dark tea cut with water, chilled and garnished with a wedge of bright lemon.</VBE_LemonTea.description>
   <VBE_LemonTea.ingestible.ingestCommandString>Drink {0}</VBE_LemonTea.ingestible.ingestCommandString>
   <VBE_LemonTea.ingestible.ingestReportString>Drinking {0}.</VBE_LemonTea.ingestible.ingestReportString>
-  <VBE_EarlGreyTea.label>earl grey tea</VBE_EarlGreyTea.label>
-  <VBE_EarlGreyTea.description>A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize.</VBE_EarlGreyTea.description>
-  <VBE_EarlGreyTea.ingestible.ingestCommandString>Drink {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
-  <VBE_EarlGreyTea.ingestible.ingestReportString>Drinking {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
+  <VCE_RawLemon.label>lemons</VCE_RawLemon.label>
+  <VCE_RawLemon.description>An acid and sour tasting fruit. The juice, zest, and pulp are often used in cooking, often on fish and other meat for better taste. Lemon is also used to flavour drinks, such as lemonade, or mixed with tea and coffee.</VCE_RawLemon.description>
+  <VBE_LemonTree.label>lemon tree</VBE_LemonTree.label>
+  <VBE_LemonTree.description>A tall tree native to both deserts and tropics alike. Bright, sour lemons grow profusely on this tree, some lemons may even mature early and fall to the ground before the primary harvest is ready.</VBE_LemonTree.description>
+  <VBE_DalgonaCoffee.label>dalgona coffee</VBE_DalgonaCoffee.label>
+  <VBE_DalgonaCoffee.description>A trendy, newer drink in the world of coffee rumored to originate from far off steamworlds. Coffee granules are rapidly mixed with sugar to form a thick, luxuriously sweet foam. Afterwards the foam is dispersed over deeply chilled milk before drinking. Arguably the perfect drink to sip on while studying or reading.</VBE_DalgonaCoffee.description>
+  <VBE_DalgonaCoffee.ingestible.ingestCommandString>Drink {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+  <VBE_DalgonaCoffee.ingestible.ingestReportString>Drinking {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+  <VBE_GreenTea.label>green tea</VBE_GreenTea.label>
+  <VBE_GreenTea.description>A light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor.</VBE_GreenTea.description>
+  <VBE_GreenTea.ingestible.ingestCommandString>Drink {0}</VBE_GreenTea.ingestible.ingestCommandString>
+  <VBE_GreenTea.ingestible.ingestReportString>Drinking {0}.</VBE_GreenTea.ingestible.ingestReportString>
+  <VBE_MasalaChai.label>masala chai</VBE_MasalaChai.label>
+  <VBE_MasalaChai.description>A musty, warm, almost woody tea crafted by simple leaves and complex spices. Alleged to be good against high cholesterol.</VBE_MasalaChai.description>
+  <VBE_MasalaChai.ingestible.ingestCommandString>Drink {0}</VBE_MasalaChai.ingestible.ingestCommandString>
+  <VBE_MasalaChai.ingestible.ingestReportString>Drinking {0}.</VBE_MasalaChai.ingestible.ingestReportString>
+  <VBE_MintCoffee.label>mint coffee</VBE_MintCoffee.label>
+  <VBE_MintCoffee.description>Bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath.</VBE_MintCoffee.description>
+  <VBE_MintCoffee.ingestible.ingestCommandString>Drink {0}</VBE_MintCoffee.ingestible.ingestCommandString>
+  <VBE_MintCoffee.ingestible.ingestReportString>Drinking {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+  <VBE_MintTea.label>mint tea</VBE_MintTea.label>
+  <VBE_MintTea.description>Black tea leaves mixed with mint leaves and deeply steeped, then garnished with additional mint leaves. Leaves your breath surprisingly fresh.</VBE_MintTea.description>
+  <VBE_MintTea.ingestible.ingestCommandString>Drink {0}</VBE_MintTea.ingestible.ingestCommandString>
+  <VBE_MintTea.ingestible.ingestReportString>Drinking {0}.</VBE_MintTea.ingestible.ingestReportString>
+  <VBE_NoonChai.label>noon chai</VBE_NoonChai.label>
+  <VBE_NoonChai.description>An ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Very efficient for treating those with a high blood pressure.</VBE_NoonChai.description>
+  <VBE_NoonChai.ingestible.ingestCommandString>Drink {0}</VBE_NoonChai.ingestible.ingestCommandString>
+  <VBE_NoonChai.ingestible.ingestReportString>Drinking {0}.</VBE_NoonChai.ingestible.ingestReportString>
+  <VBE_MintLeaves.label>mint leaves</VBE_MintLeaves.label>
+  <VBE_MintLeaves.description>Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Mint leaves rot quite fast.</VBE_MintLeaves.description>
+  <VBE_MintPlant.label>mint plant</VBE_MintPlant.label>
+  <VBE_MintPlant.description>A plant sprouting into an array of mint leaves. Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Flourishes indoors and in plant pots, while being pleasant to look at.</VBE_MintPlant.description>
 </LanguageData>
