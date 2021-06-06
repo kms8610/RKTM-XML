@@ -1,290 +1,274 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <StartsGrowingWool.label>started growing wool</StartsGrowingWool.label>
   <StartsGrowingWool.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] hair thickening into fur</StartsGrowingWool.rulePack.rulesStrings.0>
   <StartsGrowingWool.rulePack.rulesStrings.1>tale_noun->thick fur beginning to cover [PAWN_nameDef]'s body</StartsGrowingWool.rulePack.rulesStrings.1>
   <StartsGrowingWool.rulePack.rulesStrings.2>image->[PAWN_nameFull] begins scratching at the thickening fur [circumstance_group]</StartsGrowingWool.rulePack.rulesStrings.2>
   <StartsGrowingWool.rulePack.rulesStrings.3>image->[PAWN_nameFull] begins to feel very warm [circumstance_group]</StartsGrowingWool.rulePack.rulesStrings.3>
-  <StartsGrowingWool.label>started growing wool</StartsGrowingWool.label>
   <StartsGrowingWool.rulePack.rulesStrings.4>circumstance_phrase->as someone begins petting [PAWN_possessive] fur</StartsGrowingWool.rulePack.rulesStrings.4>
   <StartsGrowingWool.rulePack.rulesStrings.5>circumstance_phrase->as someone reaches for a brush</StartsGrowingWool.rulePack.rulesStrings.5>
   <StartsGrowingWool.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] begins brushing [PAWN_possessive] fur.</StartsGrowingWool.rulePack.rulesStrings.6>
+  <GrewAlpacaMuzzle.label>grew alpaca muzzle</GrewAlpacaMuzzle.label>
   <GrewAlpacaMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] grew an alpaca muzzle</GrewAlpacaMuzzle.rulePack.rulesStrings.0>
   <GrewAlpacaMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s face becoming like that of an alpaca</GrewAlpacaMuzzle.rulePack.rulesStrings.1>
   <GrewAlpacaMuzzle.rulePack.rulesStrings.2>image->[PAWN_nameDef] teeth start to become larger and blunter [circumstance_group]</GrewAlpacaMuzzle.rulePack.rulesStrings.2>
   <GrewAlpacaMuzzle.rulePack.rulesStrings.3>desc_sentence->[PAWN_nameDef] spits at someone who was annoying [PAWN_pronoun].</GrewAlpacaMuzzle.rulePack.rulesStrings.3>
-  <GrewAlpacaMuzzle.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] looks terrified at the change.</GrewAlpacaMuzzle.rulePack.rulesStrings.4>
-  <GrewAlpacaMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] examines their new animal like face.</GrewAlpacaMuzzle.rulePack.rulesStrings.5>
-  <GrewAlpacaMuzzle.label>grew alpaca muzzle</GrewAlpacaMuzzle.label>
+  <GrewBearMuzzle.label>grew a bear muzzle</GrewBearMuzzle.label>
   <GrewBearMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing an ursine muzzle</GrewBearMuzzle.rulePack.rulesStrings.0>
   <GrewBearMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing an bear muzzle</GrewBearMuzzle.rulePack.rulesStrings.1>
   <GrewBearMuzzle.rulePack.rulesStrings.2>image->[PAWN_nameFull] face pushing out into a ursine muzzle [circumstance_group]</GrewBearMuzzle.rulePack.rulesStrings.2>
   <GrewBearMuzzle.rulePack.rulesStrings.3>image->[PAWN_nameFull] yells becoming ursine growls [circumstance_group]</GrewBearMuzzle.rulePack.rulesStrings.3>
-  <GrewBearMuzzle.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] looks terrified at the change.</GrewBearMuzzle.rulePack.rulesStrings.4>
-  <GrewBearMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] examines their new animal like face.</GrewBearMuzzle.rulePack.rulesStrings.5>
-  <GrewBearMuzzle.label>grew a bear muzzle</GrewBearMuzzle.label>
+  <HandsBecomeUrsinePaws.label>hands become paws</HandsBecomeUrsinePaws.label>
   <HandsBecomeUrsinePaws.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] hands becoming bear like paws</HandsBecomeUrsinePaws.rulePack.rulesStrings.0>
   <HandsBecomeUrsinePaws.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] hands turning into ursine paws</HandsBecomeUrsinePaws.rulePack.rulesStrings.1>
   <HandsBecomeUrsinePaws.rulePack.rulesStrings.2>image->[PAWN_nameFull] palms start turning black, becoming paw pads [circumstance_group]</HandsBecomeUrsinePaws.rulePack.rulesStrings.2>
   <HandsBecomeUrsinePaws.rulePack.rulesStrings.3>image->[PAWN_nameFull] thumb starts shrinking, but stops before going away entirely [circumstance_group]</HandsBecomeUrsinePaws.rulePack.rulesStrings.3>
-  <HandsBecomeUrsinePaws.label>hands become paws</HandsBecomeUrsinePaws.label>
   <HandsBecomeUrsinePaws.rulePack.rulesStrings.4>image->[PAWN_nameFull] nails lengthen into sharp claws [circumstance_group]</HandsBecomeUrsinePaws.rulePack.rulesStrings.4>
   <HandsBecomeUrsinePaws.rulePack.rulesStrings.5>circumstance_phrase->while someone rubs [PAWN_possessive] paw pads</HandsBecomeUrsinePaws.rulePack.rulesStrings.5>
   <HandsBecomeUrsinePaws.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] is grateful they still have thumbs.</HandsBecomeUrsinePaws.rulePack.rulesStrings.6>
   <HandsBecomeUrsinePaws.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun] begins scratching a nearby wall with [PAWN_possessive] new claws.</HandsBecomeUrsinePaws.rulePack.rulesStrings.7>
+  <GrewBoarMuzzle.label>grew a tusked muzzle</GrewBoarMuzzle.label>
   <GrewBoarMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing a tusked muzzle</GrewBoarMuzzle.rulePack.rulesStrings.0>
   <GrewBoarMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing a boar muzzle</GrewBoarMuzzle.rulePack.rulesStrings.1>
   <GrewBoarMuzzle.rulePack.rulesStrings.2>image->tusks start pushing out from [PAWN_nameFull]'s face [circumstance_group]</GrewBoarMuzzle.rulePack.rulesStrings.2>
   <GrewBoarMuzzle.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s yells start turning into boar-ish snorts [circumstance_group]</GrewBoarMuzzle.rulePack.rulesStrings.3>
   <GrewBoarMuzzle.rulePack.rulesStrings.4>circumstance_phrase->as someone begins examining [PAWN_possessive] growing tusks</GrewBoarMuzzle.rulePack.rulesStrings.4>
   <GrewBoarMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] is troubles by [PAWN_possessive] new tusks.</GrewBoarMuzzle.rulePack.rulesStrings.5>
-  <GrewBoarMuzzle.label>grew a tusked muzzle</GrewBoarMuzzle.label>
   <GrewBoarMuzzle.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] seems pleases with [PAWN_possessive] new tusks.</GrewBoarMuzzle.rulePack.rulesStrings.6>
+  <GrewBoomalopeMuzzle.label>grew boomalope muzzle</GrewBoomalopeMuzzle.label>
   <GrewBoomalopeMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] face becoming that of a boomalope</GrewBoomalopeMuzzle.rulePack.rulesStrings.0>
   <GrewBoomalopeMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] face pushing out into a boomalope muzzle </GrewBoomalopeMuzzle.rulePack.rulesStrings.1>
   <GrewBoomalopeMuzzle.rulePack.rulesStrings.2>desc_sentence->[PAWN_pronoun] begins sniffing intently at some nearby chemfuel.</GrewBoomalopeMuzzle.rulePack.rulesStrings.2>
-  <GrewBoomalopeMuzzle.rulePack.rulesStrings.3>circumstance_phrase->as [PAWN_possessive] face pushes out into a muzzle</GrewBoomalopeMuzzle.rulePack.rulesStrings.3>
-  <GrewBoomalopeMuzzle.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] looks terrified at the change.</GrewBoomalopeMuzzle.rulePack.rulesStrings.4>
-  <GrewBoomalopeMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] examines their new animal like face.</GrewBoomalopeMuzzle.rulePack.rulesStrings.5>
-  <GrewBoomalopeMuzzle.label>grew boomalope muzzle</GrewBoomalopeMuzzle.label>
+  <GrewChemfuelUdder.label>grew chemfuel udder</GrewChemfuelUdder.label>
   <GrewChemfuelUdder.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing a chemfuel udder</GrewChemfuelUdder.rulePack.rulesStrings.0>
   <GrewChemfuelUdder.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] begining to produce chemfuel</GrewChemfuelUdder.rulePack.rulesStrings.1>
   <GrewChemfuelUdder.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s waist begging to swell as an udder like organ grows [circumstance_group]</GrewChemfuelUdder.rulePack.rulesStrings.2>
   <GrewChemfuelUdder.rulePack.rulesStrings.3>image->a large udder like organ begins to grow from [PAWN_nameFull]'s waist [circumstance_group]</GrewChemfuelUdder.rulePack.rulesStrings.3>
-  <GrewChemfuelUdder.label>grew chemfuel udder</GrewChemfuelUdder.label>
   <GrewChemfuelUdder.rulePack.rulesStrings.4>circumstance_phrase->while someone approaches [PAWN_pronoun] with an empty chemfuel container</GrewChemfuelUdder.rulePack.rulesStrings.4>
   <GrewChemfuelUdder.rulePack.rulesStrings.5>circumstance_phrase->as someone notices the smell of chemfuel</GrewChemfuelUdder.rulePack.rulesStrings.5>
   <GrewChemfuelUdder.rulePack.rulesStrings.6>desc_sentence->is embarrassed about producing chemfuel.</GrewChemfuelUdder.rulePack.rulesStrings.6>
   <GrewChemfuelUdder.rulePack.rulesStrings.7>desc_sentence->is surprisingly uncaring about [PAWN_possessive] chemfuel udder.</GrewChemfuelUdder.rulePack.rulesStrings.7>
+  <EyesBecomeFeline.label>eyes become feline</EyesBecomeFeline.label>
   <EyesBecomeFeline.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s eyes become feline</EyesBecomeFeline.rulePack.rulesStrings.0>
   <EyesBecomeFeline.rulePack.rulesStrings.1>image->[PAWN_nameFull] pupils shift to feline slits [circumstance_group]</EyesBecomeFeline.rulePack.rulesStrings.1>
   <EyesBecomeFeline.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s eyes begin to change into ones that look like they belong on a cat [circumstance_group]</EyesBecomeFeline.rulePack.rulesStrings.2>
-  <EyesBecomeFeline.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun] seems surprisingly uncaring about it.</EyesBecomeFeline.rulePack.rulesStrings.3>
-  <EyesBecomeFeline.label>eyes become feline</EyesBecomeFeline.label>
+  <HandsBecomeCatPaws.label>hands become cat paws</HandsBecomeCatPaws.label>
   <HandsBecomeCatPaws.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s hands becoming cat paws</HandsBecomeCatPaws.rulePack.rulesStrings.0>
   <HandsBecomeCatPaws.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s growing feline claws</HandsBecomeCatPaws.rulePack.rulesStrings.1>
   <HandsBecomeCatPaws.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s nails begin to lengthen into long, sharp claws [circumstance_group]</HandsBecomeCatPaws.rulePack.rulesStrings.2>
   <HandsBecomeCatPaws.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s palms turn into soft pads [circumstance_group]</HandsBecomeCatPaws.rulePack.rulesStrings.3>
-  <HandsBecomeCatPaws.label>hands become cat paws</HandsBecomeCatPaws.label>
   <HandsBecomeCatPaws.rulePack.rulesStrings.4>image->[PAWN_nameFull]'s hands start to turn into feline paws, with sharp retractable claws [circumstance_group]</HandsBecomeCatPaws.rulePack.rulesStrings.4>
   <HandsBecomeCatPaws.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] seems oddly pleased with [PAWN_possessive] new paws</HandsBecomeCatPaws.rulePack.rulesStrings.5>
   <HandsBecomeCatPaws.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] mourns the loss of their thumbs</HandsBecomeCatPaws.rulePack.rulesStrings.6>
   <HandsBecomeCatPaws.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun] takes a swipe at someone nearby</HandsBecomeCatPaws.rulePack.rulesStrings.7>
+  <GrewBeak.label>grew a beak</GrewBeak.label>
   <GrewBeak.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s lips hardening into a beak</GrewBeak.rulePack.rulesStrings.0>
   <GrewBeak.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s face growing into an avian beak</GrewBeak.rulePack.rulesStrings.1>
   <GrewBeak.rulePack.rulesStrings.2>image->[PAWN_nameFull] yells becoming squawks [circumstance_group]</GrewBeak.rulePack.rulesStrings.2>
   <GrewBeak.rulePack.rulesStrings.3>image->[PAWN_nameFull] begins to bok involuntarily [circumstance_group]</GrewBeak.rulePack.rulesStrings.3>
-  <GrewBeak.label>grew a beak</GrewBeak.label>
   <GrewBeak.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] lets out a few sad boks.</GrewBeak.rulePack.rulesStrings.4>
   <GrewBeak.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] rubs [PAWN_possessive] new beak.</GrewBeak.rulePack.rulesStrings.5>
   <GrewBeak.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] crows and tries to pull the beak off.</GrewBeak.rulePack.rulesStrings.6>
   <GrewBeak.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun] boks absentmindedly.</GrewBeak.rulePack.rulesStrings.7>
+  <ArmsBecomeWings.label>arms became wings</ArmsBecomeWings.label>
   <ArmsBecomeWings.rulePack.rulesStrings.0>tale_noun->feathers growing from [PAWN_nameDef]'s arms</ArmsBecomeWings.rulePack.rulesStrings.0>
   <ArmsBecomeWings.rulePack.rulesStrings.1>tale_noun->feathers covering [PAWN_nameDef]'s arms</ArmsBecomeWings.rulePack.rulesStrings.1>
   <ArmsBecomeWings.rulePack.rulesStrings.2>image->[PAWN_nameFull] arms begins to change [circumstance_group]</ArmsBecomeWings.rulePack.rulesStrings.2>
   <ArmsBecomeWings.rulePack.rulesStrings.3>image->[PAWN_nameFull] arms change into wings [circumstance_group]</ArmsBecomeWings.rulePack.rulesStrings.3>
-  <ArmsBecomeWings.label>arms became wings</ArmsBecomeWings.label>
   <ArmsBecomeWings.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] rubs [PAWN_possessive] new wings.</ArmsBecomeWings.rulePack.rulesStrings.4>
   <ArmsBecomeWings.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] flaps [PAWN_possessive] new wings.</ArmsBecomeWings.rulePack.rulesStrings.5>
+  <LimbGrowsFeathers.label>limb grows feathers</LimbGrowsFeathers.label>
   <LimbGrowsFeathers.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s body being covered in feathers</LimbGrowsFeathers.rulePack.rulesStrings.0>
   <LimbGrowsFeathers.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing feathers all over [PAWN_possessive] body</LimbGrowsFeathers.rulePack.rulesStrings.1>
   <LimbGrowsFeathers.rulePack.rulesStrings.2>image->[PAWN_nameFull] begins to itch themselves as feathers start growing [circumstance_group]</LimbGrowsFeathers.rulePack.rulesStrings.2>
   <LimbGrowsFeathers.rulePack.rulesStrings.3>image->feathers begin to grow from [PAWN_nameFull]'s body [circumstance_group] </LimbGrowsFeathers.rulePack.rulesStrings.3>
-  <LimbGrowsFeathers.label>limb grows feathers</LimbGrowsFeathers.label>
   <LimbGrowsFeathers.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] seems upset over [PAWN_possessive] new feathers.</LimbGrowsFeathers.rulePack.rulesStrings.4>
   <LimbGrowsFeathers.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] seems pleased with [PAWN_possessive] new feathers.</LimbGrowsFeathers.rulePack.rulesStrings.5>
+  <HandsBecomeWingTips.label>hands become wing tips</HandsBecomeWingTips.label>
   <HandsBecomeWingTips.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] hands becoming wing tips</HandsBecomeWingTips.rulePack.rulesStrings.0>
   <HandsBecomeWingTips.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] hands morphing into wings</HandsBecomeWingTips.rulePack.rulesStrings.1>
   <HandsBecomeWingTips.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s fingers begin to merge together [circumstance_group]</HandsBecomeWingTips.rulePack.rulesStrings.2>
   <HandsBecomeWingTips.rulePack.rulesStrings.3>image->feathers begin to cover [PAWN_nameFull]'s hands as they change [circumstance_group]</HandsBecomeWingTips.rulePack.rulesStrings.3>
-  <HandsBecomeWingTips.label>hands become wing tips</HandsBecomeWingTips.label>
   <HandsBecomeWingTips.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] mourns the loss of [PAWN_possessive] thumbs.</HandsBecomeWingTips.rulePack.rulesStrings.4>
+  <GrewEgglayer.label>grew egglayer</GrewEgglayer.label>
   <GrewEgglayer.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] beginning to lay eggs</GrewEgglayer.rulePack.rulesStrings.0>
   <GrewEgglayer.rulePack.rulesStrings.1>image->[PAWN_nameFull] sits down and begins laying eggs [circumstance_group]</GrewEgglayer.rulePack.rulesStrings.1>
   <GrewEgglayer.rulePack.rulesStrings.2>image->[PAWN_nameFull] begins laying eggs in a make shift nest [circumstance_group]</GrewEgglayer.rulePack.rulesStrings.2>
   <GrewEgglayer.rulePack.rulesStrings.3>circumstance_phrase->as someone begins collecting the eggs</GrewEgglayer.rulePack.rulesStrings.3>
-  <GrewEgglayer.label>grew egglayer</GrewEgglayer.label>
   <GrewEgglayer.rulePack.rulesStrings.4>circumstance_phrase->while hiding in a corner</GrewEgglayer.rulePack.rulesStrings.4>
   <GrewEgglayer.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] is very embarrassed about laying eggs.</GrewEgglayer.rulePack.rulesStrings.5>
   <GrewEgglayer.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] seems surprisingly uncaring about laying eggs.</GrewEgglayer.rulePack.rulesStrings.6>
+  <GrowCowHorns.label>grew cow horns</GrowCowHorns.label>
   <GrowCowHorns.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing horns</GrowCowHorns.rulePack.rulesStrings.0>
   <GrowCowHorns.rulePack.rulesStrings.1>image->horns begin to push from [PAWN_nameFull]'s head [circumstance_group]</GrowCowHorns.rulePack.rulesStrings.1>
   <GrowCowHorns.rulePack.rulesStrings.2>circumstance_phrase->as someone starts touching them</GrowCowHorns.rulePack.rulesStrings.2>
   <GrowCowHorns.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun] examines [PAWN_possessive] new horns.</GrowCowHorns.rulePack.rulesStrings.3>
-  <GrowCowHorns.label>grew cow horns</GrowCowHorns.label>
   <GrowCowHorns.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] looks pleased with [PAWN_possessive] new horns.</GrowCowHorns.rulePack.rulesStrings.4>
   <GrowCowHorns.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] looks uneasy with [PAWN_possessive] new horns.</GrowCowHorns.rulePack.rulesStrings.5>
+  <GrowCowMuzzle.label>grew cow muzzle</GrowCowMuzzle.label>
   <GrowCowMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] facing turning into a bovine muzzle</GrowCowMuzzle.rulePack.rulesStrings.0>
   <GrowCowMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing a bovine muzzle</GrowCowMuzzle.rulePack.rulesStrings.1>
   <GrowCowMuzzle.rulePack.rulesStrings.2>image->[PAWN_nameDef]'s face begins to push out into a muzzle [circumstance_group]</GrowCowMuzzle.rulePack.rulesStrings.2>
   <GrowCowMuzzle.rulePack.rulesStrings.3>image->[PAWN_nameDef]'s excited yells turn into moos [circumstance_group]</GrowCowMuzzle.rulePack.rulesStrings.3>
   <GrowCowMuzzle.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] continues to moo at though around them.</GrowCowMuzzle.rulePack.rulesStrings.4>
-  <GrowCowMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] examines their new animal like face.</GrowCowMuzzle.rulePack.rulesStrings.5>
-  <GrowCowMuzzle.label>grew cow muzzle</GrowCowMuzzle.label>
+  <GrewUdder.label>grew udder</GrewUdder.label>
   <GrewUdder.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing an udder</GrewUdder.rulePack.rulesStrings.0>
   <GrewUdder.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] begging to produce milk</GrewUdder.rulePack.rulesStrings.1>
   <GrewUdder.rulePack.rulesStrings.2>image->an udder begins to grow on [PAWN_nameFull]'s waist [circumstance_group]</GrewUdder.rulePack.rulesStrings.2>
   <GrewUdder.rulePack.rulesStrings.3>circumstance_phrase->as someone approaches [PAWN_pronoun] with a bucket</GrewUdder.rulePack.rulesStrings.3>
-  <GrewUdder.label>grew udder</GrewUdder.label>
   <GrewUdder.rulePack.rulesStrings.4>circumstance_phrase->as someone approaches [PAWN_pronoun] with an empty glass</GrewUdder.rulePack.rulesStrings.4>
   <GrewUdder.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] is embarrassed about [PAWN_possessive] new udder.</GrewUdder.rulePack.rulesStrings.5>
   <GrewUdder.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] seems surprising content about [PAWN_possessive] udder.</GrewUdder.rulePack.rulesStrings.6>
+  <GrewAntlers.label>grew antlers</GrewAntlers.label>
   <GrewAntlers.rulePack.rulesStrings.0>tale_noun->antlers beginning to grow from [PAWN_nameDef]'s forehead</GrewAntlers.rulePack.rulesStrings.0>
   <GrewAntlers.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing small antlers</GrewAntlers.rulePack.rulesStrings.1>
   <GrewAntlers.rulePack.rulesStrings.2>image->[PAWN_nameFull] examining the growing antlers on [PAWN_possessive] head [circumstance_group]</GrewAntlers.rulePack.rulesStrings.2>
   <GrewAntlers.rulePack.rulesStrings.3>image->[PAWN_nameFull] unaware of the growing antlers on [PAWN_possessive] head [circumstance_group]</GrewAntlers.rulePack.rulesStrings.3>
-  <GrewAntlers.label>grew antlers</GrewAntlers.label>
   <GrewAntlers.rulePack.rulesStrings.4>circumstance_phrase->as someone touches [PAWN_possessive] growing antlers</GrewAntlers.rulePack.rulesStrings.4>
   <GrewAntlers.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] is trying to pull then out.</GrewAntlers.rulePack.rulesStrings.5>
   <GrewAntlers.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] is rubbing then against a wall.</GrewAntlers.rulePack.rulesStrings.6>
+  <GrewDeerMuzzle.label>grew deer muzzle</GrewDeerMuzzle.label>
   <GrewDeerMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s face became a deer muzzle</GrewDeerMuzzle.rulePack.rulesStrings.0>
   <GrewDeerMuzzle.rulePack.rulesStrings.1>image->[PAWN_nameFull]'s yells turn into bleats [circumstance_group]</GrewDeerMuzzle.rulePack.rulesStrings.1>
   <GrewDeerMuzzle.rulePack.rulesStrings.2>desc_sentence->[PAWN_pronoun] makes sad bleating noises.</GrewDeerMuzzle.rulePack.rulesStrings.2>
-  <GrewDeerMuzzle.rulePack.rulesStrings.3>circumstance_phrase->as [PAWN_possessive] face pushes out into a muzzle</GrewDeerMuzzle.rulePack.rulesStrings.3>
-  <GrewDeerMuzzle.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] looks terrified at the change.</GrewDeerMuzzle.rulePack.rulesStrings.4>
-  <GrewDeerMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] examines their new animal like face.</GrewDeerMuzzle.rulePack.rulesStrings.5>
-  <GrewDeerMuzzle.label>grew deer muzzle</GrewDeerMuzzle.label>
+  <GrewElephantFace.label>grew an elephant face</GrewElephantFace.label>
   <GrewElephantFace.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] grew an elephant's trunk and tusks</GrewElephantFace.rulePack.rulesStrings.0>
   <GrewElephantFace.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s face became that of an elephants</GrewElephantFace.rulePack.rulesStrings.1>
   <GrewElephantFace.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s nose begins to push out into a long trunk [circumstance_group]</GrewElephantFace.rulePack.rulesStrings.2>
   <GrewElephantFace.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s teeth begin to grow into large, ivory, tusks [circumstance_group]</GrewElephantFace.rulePack.rulesStrings.3>
   <GrewElephantFace.rulePack.rulesStrings.4>circumstance_phrase->while someone eyes [PAWN_possessive] tusks greedily</GrewElephantFace.rulePack.rulesStrings.4>
   <GrewElephantFace.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] tries to pick something up with [PAWN_possessive] new trunk.</GrewElephantFace.rulePack.rulesStrings.5>
-  <GrewElephantFace.label>grew an elephant face</GrewElephantFace.label>
   <GrewElephantFace.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] looks unnerved by with [PAWN_possessive] new trunk.</GrewElephantFace.rulePack.rulesStrings.6>
   <GrewElephantFace.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun] seems pleased with [PAWN_possessive] new tusks.</GrewElephantFace.rulePack.rulesStrings.7>
+  <GrewElephantEars.label>grew elephant ears</GrewElephantEars.label>
   <GrewElephantEars.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s ears becoming those of an elephant</GrewElephantEars.rulePack.rulesStrings.0>
   <GrewElephantEars.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing elephant ears</GrewElephantEars.rulePack.rulesStrings.1>
   <GrewElephantEars.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s ears begin to grow [circumstance_group]</GrewElephantEars.rulePack.rulesStrings.2>
   <GrewElephantEars.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s ears begin to shift and grow [circumstance_group]</GrewElephantEars.rulePack.rulesStrings.3>
   <GrewElephantEars.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] seems uneasy with the size of [PAWN_possessive] new ears.</GrewElephantEars.rulePack.rulesStrings.4>
   <GrewElephantEars.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] begins to flap [PAWN_possessive] elephant ears.</GrewElephantEars.rulePack.rulesStrings.5>
-  <GrewElephantEars.label>grew elephant ears</GrewElephantEars.label>
   <GrewElephantEars.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] seems oddly pleased with [PAWN_possessive] elephant ears.</GrewElephantEars.rulePack.rulesStrings.6>
+  <GrewElephantFoot.label>grew elephant foot</GrewElephantFoot.label>
   <GrewElephantFoot.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] feet changing into that of an elephant</GrewElephantFoot.rulePack.rulesStrings.0>
   <GrewElephantFoot.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing elephant feet</GrewElephantFoot.rulePack.rulesStrings.1>
   <GrewElephantFoot.rulePack.rulesStrings.2>image->[PAWN_nameFull] feet begin to shift into large stumpy feet [circumstance_group]</GrewElephantFoot.rulePack.rulesStrings.2>
   <GrewElephantFoot.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun] seems uncomfortable with [PAWN_possessive] new feet.</GrewElephantFoot.rulePack.rulesStrings.3>
-  <GrewElephantFoot.label>grew elephant foot</GrewElephantFoot.label>
   <GrewElephantFoot.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] begins stomping about with [PAWN_possessive] new feet.</GrewElephantFoot.rulePack.rulesStrings.4>
+  <HandsBecameElephantFeet.label>hands became elephant feet</HandsBecameElephantFeet.label>
   <HandsBecameElephantFeet.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] hands becoming elephant feet</HandsBecameElephantFeet.rulePack.rulesStrings.0>
   <HandsBecameElephantFeet.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] hands becoming large stumpy feet</HandsBecameElephantFeet.rulePack.rulesStrings.1>
   <HandsBecameElephantFeet.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s hands begin to shift into stumpy things [circumstance_group]</HandsBecameElephantFeet.rulePack.rulesStrings.2>
   <HandsBecameElephantFeet.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s fingers begin to shrink [circumstance_group]</HandsBecameElephantFeet.rulePack.rulesStrings.3>
-  <HandsBecameElephantFeet.label>hands became elephant feet</HandsBecameElephantFeet.label>
   <HandsBecameElephantFeet.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] mourns the loss of [PAWN_possessive] thumbs.</HandsBecameElephantFeet.rulePack.rulesStrings.4>
+  <EyesBecomeVulpine.label>eyes become vulpine</EyesBecomeVulpine.label>
   <EyesBecomeVulpine.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s eyes become vulpine</EyesBecomeVulpine.rulePack.rulesStrings.0>
   <EyesBecomeVulpine.rulePack.rulesStrings.1>image->[PAWN_nameFull] pupils shift to fox-like slits [circumstance_group]</EyesBecomeVulpine.rulePack.rulesStrings.1>
   <EyesBecomeVulpine.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s eyes begin to change into ones that look like they belong on a fox [circumstance_group]</EyesBecomeVulpine.rulePack.rulesStrings.2>
   <EyesBecomeVulpine.rulePack.rulesStrings.3>image->[PAWN_nameFull] suddenly has trouble telling different colors apart [circumstance_group]</EyesBecomeVulpine.rulePack.rulesStrings.3>
-  <EyesBecomeVulpine.label>eyes become vulpine</EyesBecomeVulpine.label>
   <EyesBecomeVulpine.rulePack.rulesStrings.4>circumstance_phrase->as someone looks dazzled by [PAWN_possessive] exotic eyes</EyesBecomeVulpine.rulePack.rulesStrings.4>
+  <StartsGrowingMegaslothWool.label>started growing wool</StartsGrowingMegaslothWool.label>
   <StartsGrowingMegaslothWool.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] hair lengthening into fur</StartsGrowingMegaslothWool.rulePack.rulesStrings.0>
   <StartsGrowingMegaslothWool.rulePack.rulesStrings.1>tale_noun->long fuzzy hair beginning to cover [PAWN_nameDef]'s body</StartsGrowingMegaslothWool.rulePack.rulesStrings.1>
   <StartsGrowingMegaslothWool.rulePack.rulesStrings.2>image->[PAWN_nameFull] begins scratching at the fuzzy hair [circumstance_group]</StartsGrowingMegaslothWool.rulePack.rulesStrings.2>
   <StartsGrowingMegaslothWool.rulePack.rulesStrings.3>image->[PAWN_nameFull] begins to feel very warm and fuzzy [circumstance_group]</StartsGrowingMegaslothWool.rulePack.rulesStrings.3>
-  <StartsGrowingMegaslothWool.label>started growing wool</StartsGrowingMegaslothWool.label>
   <StartsGrowingMegaslothWool.rulePack.rulesStrings.4>circumstance_phrase->as someone begins petting [PAWN_possessive] fuzzy body</StartsGrowingMegaslothWool.rulePack.rulesStrings.4>
   <StartsGrowingMegaslothWool.rulePack.rulesStrings.5>circumstance_phrase->as someone reaches for a brush</StartsGrowingMegaslothWool.rulePack.rulesStrings.5>
   <StartsGrowingMegaslothWool.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] begins brushing [PAWN_possessive] fuzzy body.</StartsGrowingMegaslothWool.rulePack.rulesStrings.6>
+  <GrewMegaslothMuzzle.label>grew megasloth muzzle</GrewMegaslothMuzzle.label>
   <GrewMegaslothMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] grew an megasloth muzzle</GrewMegaslothMuzzle.rulePack.rulesStrings.0>
   <GrewMegaslothMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s face became like that of an megasloth</GrewMegaslothMuzzle.rulePack.rulesStrings.1>
   <GrewMegaslothMuzzle.rulePack.rulesStrings.2>image->[PAWN_nameFull] face pushing out into a megatherine muzzle [circumstance_group]</GrewMegaslothMuzzle.rulePack.rulesStrings.2>
   <GrewMegaslothMuzzle.rulePack.rulesStrings.3>image->[PAWN_nameFull] yells becoming megatherine moans [circumstance_group]</GrewMegaslothMuzzle.rulePack.rulesStrings.3>
   <GrewMegaslothMuzzle.rulePack.rulesStrings.4>circumstance_phrase->while someone plays with [PAWN_pronoun] fuzzy face</GrewMegaslothMuzzle.rulePack.rulesStrings.4>
   <GrewMegaslothMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] is troubled by [PAWN_possessive] fuzzy face.</GrewMegaslothMuzzle.rulePack.rulesStrings.5>
-  <GrewMegaslothMuzzle.label>grew megasloth muzzle</GrewMegaslothMuzzle.label>
   <GrewMegaslothMuzzle.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] seems pleases with [PAWN_possessive] fuzzy face.</GrewMegaslothMuzzle.rulePack.rulesStrings.6>
+  <GrewMegaHand.label>hand became clawed</GrewMegaHand.label>
   <GrewMegaHand.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s fingers becoming long clawed things</GrewMegaHand.rulePack.rulesStrings.0>
   <GrewMegaHand.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s hands becoming those of a megasloth</GrewMegaHand.rulePack.rulesStrings.1>
   <GrewMegaHand.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] growing megasloth hands</GrewMegaHand.rulePack.rulesStrings.2>
   <GrewMegaHand.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s nails begin to lengthen into long claws [circumstance_group]</GrewMegaHand.rulePack.rulesStrings.3>
-  <GrewMegaHand.label>hand became clawed</GrewMegaHand.label>
   <GrewMegaHand.rulePack.rulesStrings.4>image->[PAWN_nameFull]'s hands begin to shift, turning into the clawed hands of a megasloth [circumstance_group]</GrewMegaHand.rulePack.rulesStrings.4>
   <GrewMegaHand.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] seems uneasy with [PAWN_possessive] claws.</GrewMegaHand.rulePack.rulesStrings.5>
   <GrewMegaHand.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] begins carving something with [PAWN_possessive] claws.</GrewMegaHand.rulePack.rulesStrings.6>
   <GrewMegaHand.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun] seems pleased with [PAWN_possessive] claws.</GrewMegaHand.rulePack.rulesStrings.7>
+  <GrewMegaslothFoot.label>grew clawed foot</GrewMegaslothFoot.label>
   <GrewMegaslothFoot.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s feet becoming that of a megasloth's</GrewMegaslothFoot.rulePack.rulesStrings.0>
   <GrewMegaslothFoot.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing megasloth feet</GrewMegaslothFoot.rulePack.rulesStrings.1>
   <GrewMegaslothFoot.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] growing clawed feet</GrewMegaslothFoot.rulePack.rulesStrings.2>
   <GrewMegaslothFoot.rulePack.rulesStrings.3>image->[PAWN_nameFull] toes begin to grow long clawed [circumstance_group]</GrewMegaslothFoot.rulePack.rulesStrings.3>
-  <GrewMegaslothFoot.label>grew clawed foot</GrewMegaslothFoot.label>
   <GrewMegaslothFoot.rulePack.rulesStrings.4>image->[PAWN_nameFull]'s toenails begin to lengthen into long claws [circumstance_group]</GrewMegaslothFoot.rulePack.rulesStrings.4>
   <GrewMegaslothFoot.rulePack.rulesStrings.5>image->fur begins to cover [PAWN_nameFull]'s feet as they begin to shift [circumstance_group]</GrewMegaslothFoot.rulePack.rulesStrings.5>
   <GrewMegaslothFoot.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] looks uneasy with [PAWN_possessive] clawed feet.</GrewMegaslothFoot.rulePack.rulesStrings.6>
   <GrewMegaslothFoot.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun] seems unsteady on [PAWN_possessive] new feet.</GrewMegaslothFoot.rulePack.rulesStrings.7>
   <GrewMegaslothFoot.rulePack.rulesStrings.8>desc_sentence->[PAWN_pronoun] seem surprisingly adept on [PAWN_possessive] new clawed feet.</GrewMegaslothFoot.rulePack.rulesStrings.8>
+  <GrewPigMuzzle.label>grew pig muzzle</GrewPigMuzzle.label>
   <GrewPigMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing a pig snout</GrewPigMuzzle.rulePack.rulesStrings.0>
   <GrewPigMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s face becoming that of a pig's</GrewPigMuzzle.rulePack.rulesStrings.1>
   <GrewPigMuzzle.rulePack.rulesStrings.2>image->[PAWN_nameFull] begins oinking involuntarily [circumstance_group]</GrewPigMuzzle.rulePack.rulesStrings.2>
   <GrewPigMuzzle.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s yells turn into oinks [circumstance_group]</GrewPigMuzzle.rulePack.rulesStrings.3>
-  <GrewPigMuzzle.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] looks terrified at the change.</GrewPigMuzzle.rulePack.rulesStrings.4>
-  <GrewPigMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] examines their new animal like face.</GrewPigMuzzle.rulePack.rulesStrings.5>
-  <GrewPigMuzzle.label>grew pig muzzle</GrewPigMuzzle.label>
+  <GrewRatMuzzle.label>grew a rat muzzle</GrewRatMuzzle.label>
   <GrewRatMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s face becoming a rat muzzle</GrewRatMuzzle.rulePack.rulesStrings.0>
   <GrewRatMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s face becoming rat-like</GrewRatMuzzle.rulePack.rulesStrings.1>
   <GrewRatMuzzle.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s terrified yells becoming squeaks [circumstance_group]</GrewRatMuzzle.rulePack.rulesStrings.2>
   <GrewRatMuzzle.rulePack.rulesStrings.3>image->[PAWN_nameFull] starts to make rat like squeaks</GrewRatMuzzle.rulePack.rulesStrings.3>
   <GrewRatMuzzle.rulePack.rulesStrings.4>circumstance_phrase->as someone plays with [PAWN_possessive] growing whiskers</GrewRatMuzzle.rulePack.rulesStrings.4>
   <GrewRatMuzzle.rulePack.rulesStrings.5>circumstance_phrase->as someone tries to offer them cheese</GrewRatMuzzle.rulePack.rulesStrings.5>
-  <GrewRatMuzzle.label>grew a rat muzzle</GrewRatMuzzle.label>
   <GrewRatMuzzle.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] starts to gnaw on something nearby.</GrewRatMuzzle.rulePack.rulesStrings.6>
   <GrewRatMuzzle.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun] tries to say something, but all that comes out are squeaks.</GrewRatMuzzle.rulePack.rulesStrings.7>
+  <HandsBecomePawsDextrous.label>hands become paws</HandsBecomePawsDextrous.label>
   <HandsBecomePawsDextrous.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s nails growing into claws</HandsBecomePawsDextrous.rulePack.rulesStrings.0>
   <HandsBecomePawsDextrous.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s hands becoming rat like paws</HandsBecomePawsDextrous.rulePack.rulesStrings.1>
   <HandsBecomePawsDextrous.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef]'s hands becoming dextrous, rat-like, paws</HandsBecomePawsDextrous.rulePack.rulesStrings.2>
   <HandsBecomePawsDextrous.rulePack.rulesStrings.3>image->[PAWN_nameFull] examines [PAWN_possessive] hands [circumstance_group]</HandsBecomePawsDextrous.rulePack.rulesStrings.3>
-  <HandsBecomePawsDextrous.label>hands become paws</HandsBecomePawsDextrous.label>
   <HandsBecomePawsDextrous.rulePack.rulesStrings.4>image->[PAWN_nameFull] scratches something with [PAWN_possessive] new claws [circumstance_group]</HandsBecomePawsDextrous.rulePack.rulesStrings.4>
   <HandsBecomePawsDextrous.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] is thankful [PAWN_possessive] still have thumbs.</HandsBecomePawsDextrous.rulePack.rulesStrings.5>
+  <FeetBecomeRatPaws.label>feet became rat paws</FeetBecomeRatPaws.label>
   <FeetBecomeRatPaws.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s feet becoming rat paws</FeetBecomeRatPaws.rulePack.rulesStrings.0>
   <FeetBecomeRatPaws.rulePack.rulesStrings.1>image->[PAWN_nameDef]'s toes lengthening into rat like digits [circumstance_group]</FeetBecomeRatPaws.rulePack.rulesStrings.1>
   <FeetBecomeRatPaws.rulePack.rulesStrings.2>desc_sentence->[PAWN_pronoun] tries to balance themself on [PAWN_possessive] new rat feet.</FeetBecomeRatPaws.rulePack.rulesStrings.2>
-  <FeetBecomeRatPaws.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun] tests [PAWN_possessive] new feet.</FeetBecomeRatPaws.rulePack.rulesStrings.3>
-  <FeetBecomeRatPaws.label>feet became rat paws</FeetBecomeRatPaws.label>
+  <EarsBecomeRatEars.label>grew rat ears</EarsBecomeRatEars.label>
   <EarsBecomeRatEars.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s ears becoming those of a rat</EarsBecomeRatEars.rulePack.rulesStrings.0>
   <EarsBecomeRatEars.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s ears turning into large rat ears</EarsBecomeRatEars.rulePack.rulesStrings.1>
   <EarsBecomeRatEars.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s ears start growing larger and take on a rounded shape [circumstance_group]</EarsBecomeRatEars.rulePack.rulesStrings.2>
   <EarsBecomeRatEars.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s ears start to shift higher up on [PAWN_possessive] head [circumstance_group]</EarsBecomeRatEars.rulePack.rulesStrings.3>
   <EarsBecomeRatEars.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] seems upset over [PAWN_possessive] new rat like ears.</EarsBecomeRatEars.rulePack.rulesStrings.4>
   <EarsBecomeRatEars.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] seems rather ok with [PAWN_possessive] rat ears.</EarsBecomeRatEars.rulePack.rulesStrings.5>
-  <EarsBecomeRatEars.label>grew rat ears</EarsBecomeRatEars.label>
+  <GrowSheepHorns.label>grew sheep horns</GrowSheepHorns.label>
   <GrowSheepHorns.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing horns</GrowSheepHorns.rulePack.rulesStrings.0>
   <GrowSheepHorns.rulePack.rulesStrings.1>image->horns begin to push from [PAWN_nameFull]'s head [circumstance_group]</GrowSheepHorns.rulePack.rulesStrings.1>
   <GrowSheepHorns.rulePack.rulesStrings.2>circumstance_phrase->as someone starts touching them</GrowSheepHorns.rulePack.rulesStrings.2>
   <GrowSheepHorns.rulePack.rulesStrings.3>desc_sentence->[PAWN_pronoun] examines [PAWN_possessive] new curled horns.</GrowSheepHorns.rulePack.rulesStrings.3>
-  <GrowSheepHorns.label>grew sheep horns</GrowSheepHorns.label>
   <GrowSheepHorns.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] looks pleased with [PAWN_possessive] new horns.</GrowSheepHorns.rulePack.rulesStrings.4>
   <GrowSheepHorns.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] looks uneasy with [PAWN_possessive] new horns.</GrowSheepHorns.rulePack.rulesStrings.5>
+  <GrowSheepSnout.label>grew sheep snout</GrowSheepSnout.label>
   <GrowSheepSnout.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] facing turning into an ovine snout</GrowSheepSnout.rulePack.rulesStrings.0>
   <GrowSheepSnout.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing a sheepish snout</GrowSheepSnout.rulePack.rulesStrings.1>
   <GrowSheepSnout.rulePack.rulesStrings.2>image->[PAWN_nameDef]'s face begins to push out into a snout [circumstance_group]</GrowSheepSnout.rulePack.rulesStrings.2>
   <GrowSheepSnout.rulePack.rulesStrings.3>image->[PAWN_nameDef]'s excited yells turn into bleats [circumstance_group]</GrowSheepSnout.rulePack.rulesStrings.3>
   <GrowSheepSnout.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] continues to baa at those around them.</GrowSheepSnout.rulePack.rulesStrings.4>
-  <GrowSheepSnout.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] examines their new animal like face.</GrowSheepSnout.rulePack.rulesStrings.5>
-  <GrowSheepSnout.label>grew sheep snout</GrowSheepSnout.label>
+  <GrewWool.label>grew wool</GrewWool.label>
   <GrewWool.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing a thick coat of wool</GrewWool.rulePack.rulesStrings.0>
   <GrewWool.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] begging to get shaved</GrewWool.rulePack.rulesStrings.1>
   <GrewWool.rulePack.rulesStrings.2>image->curls of white wool begins to grow on [PAWN_nameFull]'s torso [circumstance_group]</GrewWool.rulePack.rulesStrings.2>
   <GrewWool.rulePack.rulesStrings.3>circumstance_phrase->as someone approaches [PAWN_pronoun] with clippers</GrewWool.rulePack.rulesStrings.3>
-  <GrewWool.label>grew wool</GrewWool.label>
   <GrewWool.rulePack.rulesStrings.4>circumstance_phrase->as someone approaches [PAWN_pronoun] with a razor</GrewWool.rulePack.rulesStrings.4>
   <GrewWool.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] is embarrassed about [PAWN_possessive] shirts not fitting over the wool.</GrewWool.rulePack.rulesStrings.5>
   <GrewWool.rulePack.rulesStrings.6>desc_sentence->[PAWN_pronoun] seems surprisingly content about the warmth of the wool.</GrewWool.rulePack.rulesStrings.6>
+  <GrewThrumboHorn.label>grew thrumbo horn</GrewThrumboHorn.label>
   <GrewThrumboHorn.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] growing a large horn</GrewThrumboHorn.rulePack.rulesStrings.0>
   <GrewThrumboHorn.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] growing a large, sharp, horn</GrewThrumboHorn.rulePack.rulesStrings.1>
   <GrewThrumboHorn.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] growing a thrumbo horn</GrewThrumboHorn.rulePack.rulesStrings.2>
   <GrewThrumboHorn.rulePack.rulesStrings.3>image->[PAWN_nameFull] rubs [PAWN_possessive] forehead [circumstance_group]</GrewThrumboHorn.rulePack.rulesStrings.3>
-  <GrewThrumboHorn.label>grew thrumbo horn</GrewThrumboHorn.label>
   <GrewThrumboHorn.rulePack.rulesStrings.4>circumstance_phrase->while others stair at [PAWN_possessive] horn</GrewThrumboHorn.rulePack.rulesStrings.4>
   <GrewThrumboHorn.rulePack.rulesStrings.5>circumstance_phrase->while someone begins polishing [PAWN_possessive] horn</GrewThrumboHorn.rulePack.rulesStrings.5>
   <GrewThrumboHorn.rulePack.rulesStrings.6>circumstance_phrase->while someone rubs [PAWN_possessive] new horn</GrewThrumboHorn.rulePack.rulesStrings.6>
+  <GrewThrumboMuzzle.label>grew thrumbo muzzle</GrewThrumboMuzzle.label>
   <GrewThrumboMuzzle.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] grew a thrumbic muzzle</GrewThrumboMuzzle.rulePack.rulesStrings.0>
   <GrewThrumboMuzzle.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s face becoming that of a thrumbo</GrewThrumboMuzzle.rulePack.rulesStrings.1>
   <GrewThrumboMuzzle.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s face begins to push out into a large muzzle [circumstance_group]</GrewThrumboMuzzle.rulePack.rulesStrings.2>
   <GrewThrumboMuzzle.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s head begins to reshape into a large muzzle [circumstance_group]</GrewThrumboMuzzle.rulePack.rulesStrings.3>
   <GrewThrumboMuzzle.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] seems disturbed by [PAWN_possessive] new thrumbic muzzle.</GrewThrumboMuzzle.rulePack.rulesStrings.4>
   <GrewThrumboMuzzle.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] seems oddly pleased with [PAWN_possessive] thrumbic muzzle.</GrewThrumboMuzzle.rulePack.rulesStrings.5>
-  <GrewThrumboMuzzle.label>grew thrumbo muzzle</GrewThrumboMuzzle.label>
   <TransformationCanid.label>canid transformation</TransformationCanid.label>
   <TransformationCanid.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s transformation to [ANIMAL_nameFull]</TransformationCanid.rulePack.rulesStrings.0>
   <TransformationCanid.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] becoming [ANIMAL_nameFull]</TransformationCanid.rulePack.rulesStrings.1>
@@ -440,11 +424,11 @@
   <MutationToxicityRevealed.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] misshapen [Color] [TerrainFeature]s surround the scene.</MutationToxicityRevealed.rulePack.rulesStrings.17>
   <MutationToxicityRevealed.rulePack.rulesStrings.18>desc_sentence->The scene takes place inside a twisted [TreeType] forest.</MutationToxicityRevealed.rulePack.rulesStrings.18>
   <MutationToxicityRevealed.rulePack.rulesStrings.19>desc_sentence->A [Animal] gets closer, examining [PAWN_nameDef] carefully.</MutationToxicityRevealed.rulePack.rulesStrings.19>
+  <ArmBecomsWing.label>arm becomes wing</ArmBecomsWing.label>
   <ArmBecomsWing.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s arms changing</ArmBecomsWing.rulePack.rulesStrings.0>
   <ArmBecomsWing.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s twisting and contorting into wings</ArmBecomsWing.rulePack.rulesStrings.1>
   <ArmBecomsWing.rulePack.rulesStrings.2>image->[PAWN_nameFull] flaps [PAWN_possessive] arms [circumstance_group]</ArmBecomsWing.rulePack.rulesStrings.2>
   <ArmBecomsWing.rulePack.rulesStrings.3>image->[PAWN_nameFull] tries to lift something [circumstance_group]</ArmBecomsWing.rulePack.rulesStrings.3>
-  <ArmBecomsWing.label>arm becomes wing</ArmBecomsWing.label>
   <ArmBecomsWing.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] tries to unfurl their wings.</ArmBecomsWing.rulePack.rulesStrings.4>
   <ArmBecomsWing.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] tries to lift off the ground.</ArmBecomsWing.rulePack.rulesStrings.5>
   <ArmBecomsWing.rulePack.rulesStrings.6>circumstance_group->while someone pats [PAWN_possessive] head</ArmBecomsWing.rulePack.rulesStrings.6>
@@ -522,11 +506,11 @@
   <HandsBecomeHooves.rulePack.rulesStrings.3>image->[PAWN_nameFull] tries fruitlessly to grasp something [circumstance_group]</HandsBecomeHooves.rulePack.rulesStrings.3>
   <HandsBecomeHooves.label>hands became hooves</HandsBecomeHooves.label>
   <HandsBecomeHooves.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] mourns the loss of [PAWN_possessive] hands.</HandsBecomeHooves.rulePack.rulesStrings.4>
+  <LegBecameDigitgrade.label>leg became digitgrade</LegBecameDigitgrade.label>
   <LegBecameDigitgrade.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s legs became that of an animal</LegBecameDigitgrade.rulePack.rulesStrings.0>
   <LegBecameDigitgrade.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s legs became digitgrade</LegBecameDigitgrade.rulePack.rulesStrings.1>
   <LegBecameDigitgrade.rulePack.rulesStrings.2>image->[PAWN_nameFull]'s legs begin to change structure [circumstance_group]</LegBecameDigitgrade.rulePack.rulesStrings.2>
   <LegBecameDigitgrade.rulePack.rulesStrings.3>image->[PAWN_nameFull]'s legs change structure, forcing [PAWN_possessive] to walk on [PAWN_possessive] toes [circumstance_group]</LegBecameDigitgrade.rulePack.rulesStrings.3>
-  <LegBecameDigitgrade.label>leg became digitgrade</LegBecameDigitgrade.label>
   <LegBecameDigitgrade.rulePack.rulesStrings.4>desc_sentence->[PAWN_pronoun] seems unsteady on [PAWN_possesive] new legs.</LegBecameDigitgrade.rulePack.rulesStrings.4>
   <LegBecameDigitgrade.rulePack.rulesStrings.5>desc_sentence->[PAWN_pronoun] seems remarkably comfortable with [PAWN_possessive] new legs.</LegBecameDigitgrade.rulePack.rulesStrings.5>
   <GrewMuzzleMisc.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] face becoming a muzzle</GrewMuzzleMisc.rulePack.rulesStrings.0>

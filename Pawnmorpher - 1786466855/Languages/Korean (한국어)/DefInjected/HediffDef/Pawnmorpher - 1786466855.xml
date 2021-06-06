@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <PM_MutagenicInfection.label>mutagenic infection</PM_MutagenicInfection.label>
+  <PM_MutagenicInfection.labelNoun>TODO</PM_MutagenicInfection.labelNoun>
+  <PM_MutagenicInfection.description>TODO</PM_MutagenicInfection.description>
+  <PM_MutagenicInfection.stages.0.label>minor</PM_MutagenicInfection.stages.0.label>
+  <PM_MutagenicInfection.stages.1.label>major</PM_MutagenicInfection.stages.1.label>
+  <PM_MutagenicInfection.stages.2.label>extreme</PM_MutagenicInfection.stages.2.label>
+  <PM_MutagenicInfection.stages.2.letterText>[PAWN_nameDef] is at risk of transforming into an animal soon. You can use stabilizer to prevent this</PM_MutagenicInfection.stages.2.letterText>
+  <PM_MutagenicInfection.stages.2.letterLabel>[PAWN_nameDef] is at risk of fully changing very soon.</PM_MutagenicInfection.stages.2.letterLabel>
+  <PM_MutagenicInfection.stages.3.label>full</PM_MutagenicInfection.stages.3.label>
+  <PM_ExperimentalInjector.label>experimental injector</PM_ExperimentalInjector.label>
+  <PM_ExperimentalInjector.description>TODO</PM_ExperimentalInjector.description>
   <PawnmorphMartenTF.label>martenmorph</PawnmorphMartenTF.label>
   <PawnmorphMartenTF.description>This person has mechanites in their blood that are slowly mutating them into a martenmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more marten than human.</PawnmorphMartenTF.description>
   <PawnmorphMartenTF.stages.0.label>reeling</PawnmorphMartenTF.stages.0.label>
@@ -519,6 +530,7 @@
   <TFPlantAddiction.label>mutaplant need</TFPlantAddiction.label>
   <TFPlantAddiction.description>This person has a developed a dependancy on mutagenic plants. Take care to not let them go without it, as withdrawal symtoms risk them transforming into an animal.</TFPlantAddiction.description>
   <TFPlantAddiction.stages.1.label>withdrawal</TFPlantAddiction.stages.1.label>
+  <SapienceLimiterHediff.label>sapiostore mesh</SapienceLimiterHediff.label>
   <SapienceLimiterHediff.description>An implanted sapiostore mesh.</SapienceLimiterHediff.description>
   <TFMilkAddiction.label>milk addiction</TFMilkAddiction.label>
   <TFMilkAddiction.description>This person has a developed a dependancy on morph milk. Take care to not let them go without it, as withdrawal symtoms risk them transforming into a cow.</TFMilkAddiction.description>

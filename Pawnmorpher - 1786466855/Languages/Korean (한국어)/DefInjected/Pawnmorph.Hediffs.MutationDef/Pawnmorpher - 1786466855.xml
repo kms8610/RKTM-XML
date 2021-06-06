@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <ThrumboFur.label>thick fur</ThrumboFur.label>
-  <ThrumboFur.description>A heavy coat of fur drapes across this limb, insulating a lot of heat.</ThrumboFur.description>
-  <ThrumboFur.stages.0.labelOverride>light hair</ThrumboFur.stages.0.labelOverride>
-  <ThrumboFur.stages.0.description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</ThrumboFur.stages.0.description>
-  <ThrumboFur.stages.1.labelOverride>thin fur</ThrumboFur.stages.1.labelOverride>
-  <ThrumboFur.stages.1.description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</ThrumboFur.stages.1.description>
-  <ThrumboFur.stages.2.labelOverride>fur patches</ThrumboFur.stages.2.labelOverride>
-  <ThrumboFur.stages.2.description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</ThrumboFur.stages.2.description>
-  <ThrumboFur.stages.3.labelOverride>dense fur</ThrumboFur.stages.3.labelOverride>
-  <ThrumboFur.stages.3.description>The fur has become denser on [PAWN_nameDef]'s limb, making the skin underneath hard to see.</ThrumboFur.stages.3.description>
-  <ThrumboFur.stages.4.labelOverride>thickly furred</ThrumboFur.stages.4.labelOverride>
-  <ThrumboFur.stages.4.description>The fur drapes [PAWN_nameDef]'s limb entirely. It's quite heavy and rather warm.</ThrumboFur.stages.4.description>
   <EtherThrumboSnout.label>thrumbo snout</EtherThrumboSnout.label>
   <EtherThrumboSnout.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze.</EtherThrumboSnout.description>
   <EtherThrumboSnout.stages.0.description>A snout graces [PAWN_nameDef]'s face, luxuriously fluffy and inspiring a commanding gaze, though talking is much harder.</EtherThrumboSnout.stages.0.description>
@@ -415,7 +403,8 @@
   <EtherBoomalopeSnout.stages.2.label>adapted</EtherBoomalopeSnout.stages.2.label>
   <EtherBoomalopeSnout.comps.0.tools.0.label>teeth</EtherBoomalopeSnout.comps.0.tools.0.label>
   <EtherBoomalopeEar.label>boomalopic</EtherBoomalopeEar.label>
-  <EtherBoomalopeEar.description>Do boomalopes have ears? It seems so, as two ears belonging to one site at the sides of [PAWN_nameDef]'s head.</EtherBoomalopeEar.description>
+  <EtherBoomalopeEar.description>A boomalope's small but apparently present ear.</EtherBoomalopeEar.description>
+  <EtherBoomalopeEar.stages.0.description>Do boomalopes have ears? It seems so, seeing as [PAWN_nameDef] seems to have grown one.</EtherBoomalopeEar.stages.0.description>
   <EtherChemfuelUdder.label>chemical cyst</EtherChemfuelUdder.label>
   <EtherChemfuelUdder.description>A large cyst filled with chemfuel now covers [PAWN_nameDef]'s waist. They can drain it to produce chemfuel.</EtherChemfuelUdder.description>
   <EtherChemfuelUdder.stages.1.label>productive</EtherChemfuelUdder.stages.1.label>
@@ -918,11 +907,14 @@
   <EtherTortoiseJaw.stages.1.label>adapted</EtherTortoiseJaw.stages.1.label>
   <EtherTortoiseJaw.comps.0.tools.0.label>teeth</EtherTortoiseJaw.comps.0.tools.0.label>
   <EtherTortoiseEar.label>earhole</EtherTortoiseEar.label>
-  <EtherTortoiseEar.description>!!!EtherTortoiseEar needs a description!!!</EtherTortoiseEar.description>
-  <EtherTortoiseTail.label>!!!EtherTortoiseTail needs a label!!!</EtherTortoiseTail.label>
-  <EtherTortoiseTail.description>!!!EtherTortoiseTail needs a description!!!</EtherTortoiseTail.description>
+  <EtherTortoiseEar.description>A fleshy membrane has grown over the earhole, reducing sensitivity to higher pitches but granting the ability to detect stomping feet three rooms away.</EtherTortoiseEar.description>
+  <EtherTortoiseEar.stages.0.description>A fleshy membrane has grown over [PAWN_nameDef]'s earhole, reducing [PAWN_possessive] sensitivity to higher pitch sounds but granting [PAWN_objective] the ability to detect footfalls from three rooms away.</EtherTortoiseEar.stages.0.description>
+  <EtherTortoiseTail.label>tortoise tail</EtherTortoiseTail.label>
+  <EtherTortoiseTail.description>A stubby tortoise tail.</EtherTortoiseTail.description>
+  <EtherTortoiseTail.stages.0.description>A short tail has sprouted from the base of [PAWN_nameDef]'s spine. Long enough that it requires some clothing modifications, but too short to be useful for much else.</EtherTortoiseTail.stages.0.description>
   <EtherTortoiseShell.label>shell</EtherTortoiseShell.label>
-  <EtherTortoiseShell.description>An ibuilt suit of armour.</EtherTortoiseShell.description>
+  <EtherTortoiseShell.description>An inbuilt suit of armour.</EtherTortoiseShell.description>
+  <EtherTortoiseShell.stages.0.description>[PAWN_nameDef]'s spine has externalized and widened into a hardened shell. While great for shielding [PAWN_objective]self from stray bullets, it's fuzed nature does limit mobility somewhat.</EtherTortoiseShell.stages.0.description>
   <EtherWargMuzzle.label>warg muzzle</EtherWargMuzzle.label>
   <EtherWargMuzzle.description>The fearsome, toothy muzzle of a warg.</EtherWargMuzzle.description>
   <EtherWargMuzzle.stages.0.label>bestial</EtherWargMuzzle.stages.0.label>

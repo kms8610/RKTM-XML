@@ -43,6 +43,8 @@
   <ColorPicker_g>Green</ColorPicker_g>
   <ColorPicker_b>Blue</ColorPicker_b>
   <ColorPicker_Confirm>Apply</ColorPicker_Confirm>
+  <PMSheepChefLetter>Between frantic bleats, the sheep that has arrived at the colony appears to say he's a celebrity chef. He can cook excellent meals if you'll let him stay.</PMSheepChefLetter>
+  <PMSheepChefLetterLabel>A ram approaches.</PMSheepChefLetterLabel>
   <GoodwillChangedReason_PawnTransformed>{memberLabel} turned into a {species}</GoodwillChangedReason_PawnTransformed>
   <FactionLeaderTransformedLabel>the {leaderTitle} of {factionName} turned into a {species}</FactionLeaderTransformedLabel>
   <FactionLeaderTransformedContent>{memberName}, former {leaderTitle} of the {factionName}, was turned into a {species} and can no longer lead. They've been replaced by {newLeader}.</FactionLeaderTransformedContent>
@@ -131,12 +133,14 @@
   <enableMutagenMeteorCheckboxTooltip>Toggles the ability of mutonite meteors to mutate nearby pawns.</enableMutagenMeteorCheckboxTooltip>
   <enableWildFormersCheckboxLabel>Enable Wild Former Humans</enableWildFormersCheckboxLabel>
   <enableWildFormersCheckboxTooltip>Toggles animals spawning onto the map as former humans, allowing them to be reverted.</enableWildFormersCheckboxTooltip>
+  <PMHazardousChaobulbs>Enable Hazardous Chaobulbs</PMHazardousChaobulbs>
+  <PMHazardousChaobulbsTooltip>if failed chaobulb harvests can give mutagenic buildup</PMHazardousChaobulbsTooltip>
   <transformChanceSliderLabel>Chance for mutagens to fully transform pawns</transformChanceSliderLabel>
   <formerChanceSliderLabel>Chance for animals to spawn as former humans</formerChanceSliderLabel>
   <partialChanceSliderLabel>Chance for morph eggs/milk to trigger a complete transformation instead of a single mutation</partialChanceSliderLabel>
   <maxMutationThoughtsSliderLabel>How many mutation related thoughts will show up at once</maxMutationThoughtsSliderLabel>
   <friendlyManhunterTfChance>Chance for friendly pawns to go manhunter when transformed</friendlyManhunterTfChance>
-  <manhunterTfChance>Chacne for pawns to go manhunter when transformed</manhunterTfChance>
+  <manhunterTfChance>Chance for pawns to go manhunter when transformed</manhunterTfChance>
   <PMInjectorsRequireTagging>Injectors Require Tagging</PMInjectorsRequireTagging>
   <PMInjectorsRequireTaggingTooltip>If tagging animals is requires to make injectors</PMInjectorsRequireTaggingTooltip>
   <PMTagGizmoLabel>Tag Animal</PMTagGizmoLabel>
@@ -146,6 +150,9 @@
   <PMNothingTaggable>{animal} has nothing worth recording</PMNothingTaggable>
   <PMMutationNotEnoughSpace>{animal} has mutations that can be recorded but not enough space to store them</PMMutationNotEnoughSpace>
   <PMAnimalAddedToDatabase>{animal} added to the genebank database</PMAnimalAddedToDatabase>
+  <PMMutationNotTaggable>{0} not taggable</PMMutationNotTaggable>
+  <PMMutationRestricted>{0} is restricted</PMMutationRestricted>
+  <MutationAddedToDatabase>{Mutation} added to the genebank</MutationAddedToDatabase>
   <TabMutations>Mutations</TabMutations>
   <MorphsITabHeader>Morphs</MorphsITabHeader>
   <TraitsITabHeader>Aspects</TraitsITabHeader>

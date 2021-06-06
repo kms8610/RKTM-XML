@@ -97,6 +97,14 @@
   <PM_SlurryPipe.description>A pipe that transmits slurry gas.</PM_SlurryPipe.description>
   <MutaniteCentrifuge.label>mutanite centrifuge</MutaniteCentrifuge.label>
   <MutaniteCentrifuge.description>When mutagenic slurry is piped in, the centrifuge compresses the mechanites extracted from them into mutanite. Consumes a lot of power. Resources are placed in the side chambers and separated into their individual components via centrifuge, before the mechanites are strained out through a morphsilk filter and pumped into the large chamber for slow compression.\n\nThe process is quite lossy.</MutaniteCentrifuge.description>
+  <CrashedMutagenicShipPart.label>ship part (mutagenic)</CrashedMutagenicShipPart.label>
+  <CrashedMutagenicShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to have mutagenic effects.</CrashedMutagenicShipPart.description>
+  <PM_ExperimentalInjector.label>experimental injector</PM_ExperimentalInjector.label>
+  <PM_ExperimentalInjector.description>A slightly more stable alternative to raw mechanite slurry, the experimental injector is used to give random mutations to pawns in a slightly less risky fashion. As an added feature, each injector comes equipped with a temporary genebank uplink microchip that logs and stores any and all mutations gained while under the effect of this serum.</PM_ExperimentalInjector.description>
+  <Plant_ChaoBulb.label>chaobulb</Plant_ChaoBulb.label>
+  <Plant_ChaoBulb.description>A mutagen-infused plant that sprouts odd orange bulbs.</Plant_ChaoBulb.description>
+  <Plant_ChaoBulb_Domestic.label>chaobulb</Plant_ChaoBulb_Domestic.label>
+  <Plant_ChaoBulb_Domestic.description>A mutagen-infused plant that sprouts odd orange bulbs.</Plant_ChaoBulb_Domestic.description>
   <Gas_Mutagen.label>mutagen cloud</Gas_Mutagen.label>
   <Mutarifle.label>mutarifle</Mutarifle.label>
   <Mutarifle.description>A rifle that fires balls of jellied mutanite, which mutate on contact.</Mutarifle.description>
@@ -286,17 +294,11 @@
   <Mutonite.description>A glowing rock of pure, radiant mechanites.</Mutonite.description>
   <Mutanite.label>mutanite</Mutanite.label>
   <Mutanite.description>A glowing green hunk of activated mechanites, whatever that means. The smaller lumps are safer to handle than the meteors they come from.</Mutanite.description>
-  <CrashedMutagenicShipPart.label>ship part (mutagenic)</CrashedMutagenicShipPart.label>
-  <CrashedMutagenicShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to have mutagenic effects.</CrashedMutagenicShipPart.description>
   <CrashedMutagenicShipPartIncoming.label>crashed ship part (incoming)</CrashedMutagenicShipPartIncoming.label>
   <MutagenLab.label>mutagen lab</MutagenLab.label>
   <MutagenLab.description>A work bench equipped with more advanced components for creating and reverse-engineering mechanite mutagens.</MutagenLab.description>
   <TrapIED_TF.label>IED mutagen trap</TrapIED_TF.label>
   <TrapIED_TF.description>A pair of mutagenic shells connected to a touch-activated trigger. The explosion can mutate organics caught in the blast. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_TF.description>
-  <Plant_ChaoBulb.label>chaobulb</Plant_ChaoBulb.label>
-  <Plant_ChaoBulb.description>A mutagen-infused plant that sprouts odd orange bulbs.</Plant_ChaoBulb.description>
-  <Plant_ChaoBulb_Domestic.label>chaobulb</Plant_ChaoBulb_Domestic.label>
-  <Plant_ChaoBulb_Domestic.description>A mutagen-infused plant that sprouts odd orange bulbs.</Plant_ChaoBulb_Domestic.description>
   <Plant_Glowvine.label>glowvine</Plant_Glowvine.label>
   <Plant_Glowvine.description>A mutagen-infused plant that sprouts odd blue bulbs.</Plant_Glowvine.description>
   <Plant_MutatedGrass.label>mutagrass</Plant_MutatedGrass.label>
