@@ -49,7 +49,7 @@
   <ReactToThought_ApparelDamaged.logRulesInitiator.rulesStrings.4>comment(INITIATOR_crafting_level>=5)->I could try and make some new apparel for you.</ReactToThought_ApparelDamaged.logRulesInitiator.rulesStrings.4>
   <ReactToThought_ApparelDamaged.logRulesInitiator.rulesStrings.5>comment(INITIATOR_social_level>=5)->I'll try to trade in something in exchange for some new apparel for you.</ReactToThought_ApparelDamaged.logRulesInitiator.rulesStrings.5>
   <ReactToThought_ApparelDamaged.logRulesInitiator.rulesStrings.6>comment(INITIATOR_thoughtDefName==ApparelDamaged)->Mine is in no good shape either...</ReactToThought_ApparelDamaged.logRulesInitiator.rulesStrings.6>
-  <ReactToThought_AteWithoutTable.label>ate without table</ReactToThought_AteWithoutTable.label>
+  <ReactToThought_AteWithoutTable.label>react to - ate wo table (stressed or abrasive)</ReactToThought_AteWithoutTable.label>
   <ReactToThought_AteWithoutTable.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_opinion&lt;0)->[bad_opinion]</ReactToThought_AteWithoutTable.logRulesInitiator.rulesStrings.0>
   <ReactToThought_AteWithoutTable.logRulesInitiator.rulesStrings.1>bad_opinion(INITIATOR_construction_level&lt;4)->[bad_opinion_unskilled]</ReactToThought_AteWithoutTable.logRulesInitiator.rulesStrings.1>
   <ReactToThought_AteWithoutTable.logRulesInitiator.rulesStrings.2>bad_opinion_unskilled(RECIPIENT_construction_level&lt;4)->...</ReactToThought_AteWithoutTable.logRulesInitiator.rulesStrings.2>
@@ -693,6 +693,13 @@
   <WhatsUp.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_opinion&lt;0)->...</WhatsUp.logRulesInitiator.rulesStrings.0>
   <WhatsUp.logRulesInitiator.rulesStrings.1>r_logentry(INITIATOR_opinion>=0)->[good_opinion]</WhatsUp.logRulesInitiator.rulesStrings.1>
   <WhatsUp.logRulesInitiator.rulesStrings.2>good_opinion->[INITIATOR_thoughtText]</WhatsUp.logRulesInitiator.rulesStrings.2>
+  <Calm.label>react to - calm</Calm.label>
+  <Calm.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_opinion&lt;0)->[bad_opinion]</Calm.logRulesInitiator.rulesStrings.0>
+  <Calm.logRulesInitiator.rulesStrings.1>bad_opinion(INITIATOR_mood&lt;0.4,priority=1)->|||scowls back|||</Calm.logRulesInitiator.rulesStrings.1>
+  <Calm.logRulesInitiator.rulesStrings.2>bad_opinion->...</Calm.logRulesInitiator.rulesStrings.2>
+  <Calm.logRulesInitiator.rulesStrings.3>r_logentry(INITIATOR_opinion>=0)->[good_opinion]</Calm.logRulesInitiator.rulesStrings.3>
+  <Calm.logRulesInitiator.rulesStrings.4>good_opinion(INITIATOR_mood&lt;0.4,priority=1)->...</Calm.logRulesInitiator.rulesStrings.4>
+  <Calm.logRulesInitiator.rulesStrings.5>good_opinion->|||smiles back|||</Calm.logRulesInitiator.rulesStrings.5>
   <HowAreYou.label>how are you</HowAreYou.label>
   <HowAreYou.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_opinion&lt;-5)->[bad_opinion]</HowAreYou.logRulesInitiator.rulesStrings.0>
   <HowAreYou.logRulesInitiator.rulesStrings.1>bad_opinion->Leave me alone, [RECIPIENT_nameDef]!</HowAreYou.logRulesInitiator.rulesStrings.1>
@@ -1013,460 +1020,480 @@
   <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.36>thought_diningroom_good(INITIATOR_thoughtLabel==extremely impressive dining room)->Last time I ate, it was in an extremely impressive dining room. I could stay there forever.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.36>
   <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.37>thought_diningroom_good(INITIATOR_thoughtLabel==unbelievably impressive dining room)->Last time I ate, it was in an unbelievably impressive dining room. I could stay there forever.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.37>
   <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.38>thought_diningroom_good(INITIATOR_thoughtLabel==wondrously impressive dining room)->Last time I ate, it was in a wonderful dining room. I could stay there forever.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.38>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.39>thought_diningroom(INITIATOR_thoughtDefName==AteWithoutTable,tag=ReactToThought_AteWithoutTable,priority=1)->[thought_atewotable]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.39>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.40>thought_atewotable->I had to eat without a table - it was [humiliating]! [hope_wont_happen_again_table]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.40>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.41>hope_wont_happen_again_table(INITIATOR_construction_level&lt;4)->[thought_atewotable_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.41>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.42>thought_atewotable_construction_unskilled(RECIPIENT_construction_level&lt;4)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.42>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.43>thought_atewotable_construction_unskilled(RECIPIENT_construction_level>=4)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.43>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.44>hope_wont_happen_again_table(INITIATOR_construction_level>=4)->[thought_atewotable_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.44>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.45>thought_atewotable_construction_skilled(RECIPIENT_construction_level&lt;4)->I shouldn't have let this happen - I could've built one.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.45>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.46>thought_atewotable_construction_skilled(RECIPIENT_construction_level>=4)->We shouldn't have let this happen - we could've built one.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.46>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.47>thought_diningroom(tag=ReactToThought_AteWithoutTable)->Last time I had a meal, the dining area wasn't very nice - that's a bit [annoying].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.47>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.48>r_logentry(INITIATOR_thoughtDefName==DefeatedMechCluster,tag=ReactToThought_DefeatedMechCluster)->[thought_defeatcluster]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.48>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.49>thought_defeatcluster->That victory against the mech cluster was glorious!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.49>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.50>r_logentry(INITIATOR_thoughtDefName==EnvironmentCold,tag=ReactToThought_EnvironmentCold)->[thought_environmentcold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.50>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.51>thought_environmentcold(INITIATOR_thoughtLabel==chilly)->I'm uncomfortably cold.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.51>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.52>thought_environmentcold(INITIATOR_thoughtLabel==cold)->I'm freezing!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.52>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.53>thought_environmentcold(INITIATOR_thoughtLabel==numbing cold)->I can't stop shivering. My teeth are chattering.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.53>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.54>thought_environmentcold(INITIATOR_thoughtLabel==absolutely freezing)->My teeth are chattering so hard I can barely speak.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.54>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.55>r_logentry(INITIATOR_thoughtDefName==EnvironmentDark,tag=ReactToThought_EnvironmentDark)->[thought_environmentdark]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.55>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.56>thought_environmentdark(INITIATOR_trait==undergrounder,priority=1)->[thought_environmentdark_undergrounder]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.56>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.57>thought_environmentdark_undergrounder(OUTDOORS==No)->Indoors... no light... totally relaxing.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.57>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.58>thought_environmentdark_undergrounder(OUTDOORS==Yes)->This darkness puts my mind at ease, as if it protected me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.58>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.59>thought_environmentdark(INITIATOR_trait==night owl,priority=1)->I really like this darkness - it's so relaxing...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.59>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.60>thought_environmentdark->It's dark - [extra]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.60>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.61>extra->and I don't like it.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.61>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.62>extra->I hope I won't trip into something.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.62>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.63>extra->I can't see well enough to do my job properly.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.63>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.64>extra(INITIATOR_trait==pyromaniac)->we could put up more wall torches around here.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.64>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.65>extra(INITIATOR_trait==depressive)->just like each and every day of my life.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.65>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.66>r_logentry(INITIATOR_thoughtDefName==EnvironmentHot,tag=ReactToThought_EnvironmentHot)->[thought_environmenthot]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.66>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.67>thought_environmenthot(INITIATOR_thoughtLabel==sweaty)->It's quite hot here.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.67>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.68>thought_environmenthot(INITIATOR_thoughtLabel==hot)->It's way too hot here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.68>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.69>thought_environmenthot(INITIATOR_thoughtLabel==sweltering hot)->I feel like I'm in an oven! I must get somewhere cooler!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.69>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.70>thought_environmenthot(INITIATOR_thoughtLabel==blistering hot)->This place is searing hot. I think I could die from this heat!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.70>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.71>r_logentry(INITIATOR_thoughtDefName==FreedFromSlavery,tag=ReactToThought_ExSlave)->[thought_freed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.71>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.72>thought_freed->My life as a slave was a nightmare... I'm so thankful you guys freed me from that! </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.72>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.73>thought_freed->Freeing me from slavery was a true noble thing to do. I'll be forever thankful for that.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.73>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.74>r_logentry(INITIATOR_thoughtDefName==JoyActivityInImpressiveRecRoom,tag=ReactToThought_JoyRoom)->[thought_joyroom]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.74>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.75>thought_joyroom(INITIATOR_thoughtLabel==decent rec room)->I think we have a decent rec room.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.75>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.76>thought_joyroom(INITIATOR_thoughtLabel==slightly impressive rec room)->I think we have a nice rec room.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.76>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.77>thought_joyroom(INITIATOR_thoughtLabel==somewhat impressive rec room)->I think we have a very nice rec room.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.77>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.78>thought_joyroom(INITIATOR_thoughtLabel==very impressive rec room)->I think our rec room is quite impressive!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.78>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.79>thought_joyroom(INITIATOR_thoughtLabel==extremely impressive rec room)->I think our rec room is extremely impressive!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.79>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.80>thought_joyroom(INITIATOR_thoughtLabel==unbelievably impressive rec room)->We're so lucky to have such an unbelievably impressive rec room!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.80>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.81>thought_joyroom(INITIATOR_thoughtLabel==wondrously impressive rec room)->Our rec room is wondrously impressive! I could stay there forever!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.81>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.82>r_logentry(INITIATOR_thoughtLabel==hideous environment,tag=ReactToThought_NeedBeauty_hideous)->[thought_needbeauty_hideous]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.82>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.83>thought_needbeauty_hideous->This place is unbearably grotesque. I can't look at this any more.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.83>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.84>thought_needbeauty_hideous(INITIATOR_trait==depressive)->This place is a perfect depiction of our future - bleak and dreary.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.84>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.85>thought_needbeauty_hideous(INITIATOR_trait==pyromaniac)->This place is so totally dismal we could burn it down to ashes - and even so, it would look better!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.85>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.86>r_logentry(INITIATOR_thoughtLabel==ugly environment,tag=ReactToThought_NeedBeauty_ugly)->[thought_needbeauty_ugly]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.86>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.87>thought_needbeauty_ugly->This place is really ugly. I wish I didn't have to look at this any more.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.87>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.88>thought_needbeauty_ugly(INITIATOR_trait==depressive)->It's ugly here... but then again - it's OK: it's the best I'll ever get in this life, I'm sure.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.88>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.89>thought_needbeauty_ugly(INITIATOR_trait==pyromaniac)->This place is hopelessly awful. Let's burn it down and build a better one from scratch!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.89>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.90>r_logentry(INITIATOR_thoughtLabel==unsightly environment,tag=ReactToThought_NeedBeauty_unsightly)->[thought_needbeauty_unsightly]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.90>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.91>thought_needbeauty_unsightly->This place is kind of unsightly. I wish I didn't have to look at all this.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.91>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.92>r_logentry(INITIATOR_thoughtLabel==pretty environment,tag=ReactToThought_NeedBeauty_pretty)->[thought_needbeauty_pretty]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.92>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.93>thought_needbeauty_pretty->This place looks nice.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.93>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.94>r_logentry(INITIATOR_thoughtLabel==beautiful environment,tag=ReactToThought_NeedBeauty_beautiful)->[thought_needbeauty_beautiful]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.94>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.95>thought_needbeauty_pretty->I really like this place. It's beautiful.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.95>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.96>r_logentry(INITIATOR_thoughtLabel==gorgeous environment,tag=ReactToThought_NeedBeauty_gorgeous)->[thought_needbeauty_gorgeous]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.96>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.97>thought_needbeauty_gorgeous->This place is truly beautiful. It lifts me up and makes me love life!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.97>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.98>thought_needbeauty_gorgeous->This place is a dream come true. I'm so happy to be here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.98>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.99>thought_needbeauty_gorgeous(INITIATOR_artistic>=5)->This place looks like a true masterwork of fine arts!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.99>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.100>r_logentry(INITIATOR_thoughtLabel==uncomfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.100>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.101>thought_need_comfort1->My back is aching. Our furniture here is quite lacking.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.101>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.102>r_logentry(INITIATOR_thoughtLabel==comfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.102>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.103>thought_need_comfort2->I'm glad we have comfortable furniture around here.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.103>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.104>r_logentry(INITIATOR_thoughtLabel==quite comfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort3]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.104>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.105>thought_need_comfort3->I'm so glad we have nice and comfortable furniture around here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.105>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.106>r_logentry(INITIATOR_thoughtLabel==extremely comfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort4]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.106>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.107>thought_need_comfort4->This place is so cushy - we truly have excellent furniture around here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.107>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.108>r_logentry(INITIATOR_thoughtLabel==luxuriantly comfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort5]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.108>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.109>thought_need_comfort5->Our furniture feels like Heaven! So comfy!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.109>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.110>r_logentry(INITIATOR_thoughtDefName==NeedFood,RECIPIENT_cooking_level>=5,tag=ReactToThought_NeedFood_CookRecipient)->[thought_needfood_cookrecipient]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.110>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.111>thought_needfood_cookrecipient(INITIATOR_trait==brawler,INITIATOR_mood&lt;0.5)->Damn it, [RECIPIENT_nameDef] - get us some cooked food already or I swear I'll eat that [ugly] face of yours!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.111>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.112>thought_needfood_cookrecipient->Hey, [RECIPIENT_nameDef] - can you get us some food already?!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.112>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.113>r_logentry(INITIATOR_thoughtLabel==hungry,tag=ReactToThought_NeedFood)->[thought_needfood_hungry0]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.113>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.114>thought_needfood_hungry0->I'm really hungry.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.114>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.115>thought_needfood_hungry0->I'm feeling peckish.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.115>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.116>thought_needfood_hungry0->I could eat [animal_large]!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.116>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.117>thought_needfood_hungry0->I'm starving!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.117>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.118>thought_needfood_hungry0->I'm ravenous!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.118>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.119>thought_needfood_hungry0->I'm famished!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.119>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.120>thought_needfood_hungry0->I'm dying for something to eat!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.120>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.121>r_logentry(INITIATOR_thoughtLabel==ravenously hungry,tag=ReactToThought_NeedFood)->[thought_needfood_hungry1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.121>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.122>thought_needfood_hungry1->These hunger pangs are hard to ignore.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.122>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.123>r_logentry(INITIATOR_thoughtLabel==malnourished,tag=ReactToThought_NeedFood)->[thought_needfood_hungry2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.123>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.124>thought_needfood_hungry2->It's been so long since I ate. I'm all fuzzy and it's hard to focus.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.124>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.125>r_logentry(INITIATOR_thoughtLabel==badly malnourished,tag=ReactToThought_NeedFood)->[thought_needfood_hungry3]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.125>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.126>thought_needfood_hungry3->I can feel my body wasting away... I'd eat almost anything to stop the pain...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.126>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.127>r_logentry(INITIATOR_thoughtLabel==starving,tag=ReactToThought_NeedFood)->[thought_needfood_hungry4]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.127>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.128>thought_needfood_hungry4->I can barely think about anything but food. I need food. Now.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.128>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.129>r_logentry(INITIATOR_thoughtLabel==advanced starvation,tag=ReactToThought_NeedFood)->[thought_needfood_hungry5]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.129>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.130>thought_needfood_hungry5->I can barely move or think about anything but food. I feel so weak...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.130>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.131>r_logentry(INITIATOR_thoughtLabel==extreme starvation,tag=ReactToThought_NeedFood)->[thought_needfood_hungry6]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.131>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.132>thought_needfood_hungry6->Food... food... anything... please...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.132>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.133>r_logentry(INITIATOR_thoughtLabel==recreation-starved,tag=ReactToThought_NeedJoy)->[thought_need_joy1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.133>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.134>thought_need_joy1->It's been so long since I did anything for fun on my own time.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.134>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.135>r_logentry(INITIATOR_thoughtLabel==recreation-deprived,tag=ReactToThought_NeedJoy)->[thought_need_joy2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.135>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.136>thought_need_joy2->We need more variation in recreation activities, and I need time to enjoy them.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.136>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.137>r_logentry(INITIATOR_thoughtLabel==recreation unfulfilled,tag=ReactToThought_NeedJoy)->[thought_need_joy3]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.137>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.138>thought_need_joy3->We need more variation in the recreation activities, and I need time to enjoy them.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.138>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.139>r_logentry(INITIATOR_thoughtLabel==recreation satisfied,tag=ReactToThought_NeedJoy)->[thought_need_joy4]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.139>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.140>thought_need_joy4->I've been having a great time doing various things I like to do.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.140>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.141>r_logentry(INITIATOR_thoughtLabel==recreation fully satisfied,tag=ReactToThought_NeedJoy)->[thought_need_joy5]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.141>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.142>thought_need_joy5->I've been enjoying myself so much, I love it!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.142>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.143>r_logentry(INITIATOR_thoughtLabel==drowsy,tag=ReactToThought_NeedRest)->[thought_need_rest1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.143>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.144>thought_need_rest1->I haven't slept in a while. It's hard to keep focus.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.144>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.145>r_logentry(INITIATOR_thoughtLabel==tired,tag=ReactToThought_NeedRest)->[thought_need_rest2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.145>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.146>thought_need_rest2->I'm so tired. I just want to lay down and rest for a few minutes...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.146>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.147>r_logentry(INITIATOR_thoughtLabel==exhausted,tag=ReactToThought_NeedRest)->[thought_need_rest3]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.147>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.148>thought_need_rest3->I'm so exhausted I can barely stand. Let me sleep...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.148>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.149>r_logentry(INITIATOR_thoughtLabel==confined interior,tag=ReactToThought_NeedSpace)->[thought_need_space1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.149>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.150>thought_need_space1->Our living spaces are so cramped, it's difficult to breathe! [ask_for_larger_rooms]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.150>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.151>thought_need_space1(INITIATOR_construction_level>=5,priority=1)->I should build larger living spaces - these ones are way too cramped!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.151>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.152>r_logentry(INITIATOR_thoughtLabel==cramped interior,tag=ReactToThought_NeedSpace)->[thought_need_space2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.152>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.153>thought_need_space2->Can't we get larger living spaces? It feels so cramped! [ask_for_larger_rooms]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.153>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.154>thought_need_space2(INITIATOR_construction_level>=5,priority=1)->I should build larger living spaces - these ones are somewhat cramped.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.154>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.155>ask_for_larger_rooms(RECIPIENT_construction_level&lt;5)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.155>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.156>ask_for_larger_rooms(RECIPIENT_construction_level>=5)->Hey, [RECIPIENT_nameDef]! Could you take care of it?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.156>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.157>r_logentry(INITIATOR_thoughtDefName==NewColonyHope,tag=ReactToThought_NewColony)->[thought_newcolhope]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.157>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.158>thought_newcolhope->I'm getting used to this new life, but it's still exciting. I hope this works out...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.158>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.159>thought_newcolhope(INITIATOR_trait==ascetic)->By humbly observing the planet's behaviour, we shall survive and thrive against all odds.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.159>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.160>thought_newcolhope(INITIATOR_trait==hard worker)->Our hard work got us safely so far. Let's keep this up, and we'll be allright!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.160>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.161>thought_newcolhope(INITIATOR_trait==industrious)->Our hard work got us safely so far. Let's keep this up, and we'll be allright!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.161>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.162>thought_newcolhope(INITIATOR_trait==iron-willed)->We never gave up, and now here we are - strong and ready to face what lies ahead.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.162>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.163>thought_newcolhope(INITIATOR_trait==optimist)->So far, so good - right? We won past challenges, we shall win the future ones too! </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.163>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.164>thought_newcolhope(INITIATOR_trait==sanguine)->So far, so good - right? We won past challenges, we shall win the future ones too!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.164>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.165>thought_newcolhope(INITIATOR_trait==steadfast)->We never gave up, and now here we are - strong and ready to face what lies ahead.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.165>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.166>thought_newcolhope(INITIATOR_trait==tough)->We managed to endure every setback and hardship so far, so we're perfectly ready for the next ones!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.166>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.167>r_logentry(INITIATOR_thoughtDefName==NewColonyOptimism,tag=ReactToThought_NewColony)->[thought_newcolopt]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.167>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.168>thought_newcolopt->It's a tough situation - but I feel I can handle it.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.168>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.169>thought_newcolopt(INITIATOR_trait==ascetic)->Are we stranded and lost? No - we are in a motherly wilderness, where we can find our true selves.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.169>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.170>thought_newcolopt(INITIATOR_trait==fast learner)->We're in a rought spot, but I'm sure we can quickly adapt and work things out.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.170>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.171>thought_newcolopt(INITIATOR_trait==hard worker)->Ok. Let's put our minds and bodies to work. We can do this!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.171>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.172>thought_newcolopt(INITIATOR_trait==industrious)->Ok. Let's put our minds and bodies to work. We can do this!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.172>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.173>thought_newcolopt(INITIATOR_trait==iron-willed)->By sheer willpower, we shall come out of this. Mark my words!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.173>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.174>thought_newcolopt(INITIATOR_trait==optimist)->This is going to be a great challenge - one we can [surely] win!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.174>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.175>thought_newcolopt(INITIATOR_trait==sanguine)->This is going to be an exciting challenge - one we'll [surely] win!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.175>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.176>thought_newcolopt(INITIATOR_trait==steadfast)->By sheer willpower, we will get through this! I'm sure!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.176>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.177>thought_newcolopt(INITIATOR_trait==tough)->Come what may, nothing can defeat us! Let's do this!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.177>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.178>thought_newcolopt(INITIATOR_construction_level>=4)->Let's start building the basic buildings - we'll be fine.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.178>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.179>thought_newcolopt(INITIATOR_medical_level>=4)->If you have any medical issues, I can help. Do not worry - we'll be allright.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.179>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.180>thought_newcolopt(INITIATOR_plants_level>=5)->I believe we may grow our own food here - and that will [surely] give us a great start!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.180>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.181>thought_newcolopt(INITIATOR_animals_level>=5,INITIATOR_shooting_level>=5)->I believe we may hunt for food here - and that will [surely] give us a great start!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.181>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.182>r_logentry(INITIATOR_thoughtDefName==ObservedLayingCorpse,tag=ReactToThought_ObservedLayingCorpse)->[thought_corpse]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.182>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.183>thought_corpse->[saw_a_body] It was [disturbing].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.183>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.184>thought_corpse->[saw_a_body] It was [disturbing].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.184>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.185>thought_corpse(INITIATOR_trait==psychopath,priority=1)->[saw_a_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.185>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.186>thought_corpse(INITIATOR_trait==bloodlust,priority=1)->[saw_a_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.186>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.187>thought_corpse(INITIATOR_trait==cannibal,priority=1)->[saw_a_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.187>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.188>saw_a_body->I saw a dead body laying on the ground.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.188>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.189>saw_a_body->I saw an unburied body.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.189>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.190>r_logentry(INITIATOR_thoughtDefName==ObservedLayingRottingCorpse,tag=ReactToThought_ObservedLayingRottingCorpse)->[thought_rotting_corpse]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.190>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.191>thought_rotting_corpse->[saw_a_rotting_body] It was [disgusting].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.191>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.192>thought_rotting_corpse->[saw_a_rotting_body] It was [disgusting].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.192>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.193>thought_rotting_corpse(INITIATOR_trait==psychopath,priority=1)->[saw_a_rotting_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.193>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.194>thought_rotting_corpse(INITIATOR_trait==bloodlust,priority=1)->[saw_a_rotting_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.194>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.195>thought_rotting_corpse(INITIATOR_trait==cannibal,priority=1)->[saw_a_rotting_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.195>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.196>saw_a_rotting_body->I saw a rotting body laying on the ground.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.196>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.197>saw_a_rotting_body->I saw an unburied rotting body.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.197>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.198>r_logentry(INITIATOR_thoughtDefName==Rescued,tag=ReactToThought_Rescued)->[thought_rescued]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.198>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.199>thought_rescued->I'm so thankful you guys rescued me. Without your help, I probably wouldn't be here today.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.199>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.200>thought_rescued->Rescuing me was a true noble and life-saving thing to do. I'll be forever thankful for that.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.200>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.201>r_logentry(INITIATOR_thoughtDefName==Sick,tag=ReactToThought_Sick)->[thought_sick]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.201>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.202>thought_sick->I'm not... I'm not feeling well...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.202>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.203>thought_sick->My health could be better...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.203>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.204>thought_sick->Ugh... will thiss sickness ever go away!?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.204>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.205>thought_sick(INITIATOR_trait==wimp)->Ah, I'm feeling horrible... I... I might pass out soon!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.205>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.206>thought_sick(INITIATOR_trait==tortured artist)->Sickness: rich fuel for my creativity, yet painful dagger in the flesh still.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.206>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.207>thought_sick(INITIATOR_trait==sickly)->Darn, I'm sick again... same old story...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.207>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.208>thought_sick(INITIATOR_trait==super-immune)->Darn this sickness. I shouldn't even be sick! I never get sick!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.208>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.209>thought_sick(INITIATOR_trait==transhumanist)->Sick - again! The human body is so weak and flawed...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.209>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.210>r_logentry(INITIATOR_thoughtDefName==SleepDisturbed,tag=ReactToThought_SleepDisturbed)->[thought_sleepdisturbed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.210>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.211>thought_sleepdisturbed->I was woke up by somebody walking near my bed. That's a bit [annoying].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.211>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.212>r_logentry(INITIATOR_thoughtDefName==SleepDisturbed,tag=ReactToThought_SleepDisturbed_Dream)->Ugh... I was having such [nice] dream when somebody entered my room and woke me up.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.212>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.213>r_logentry(tag=ReactToThought_SleptInBarracks)->[thought_sleptinbarracks]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.213>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.214>thought_sleptinbarracks(INITIATOR_thoughtLabel==awful barrack)->Not only I must share my room - it's also a [ugly] one!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.214>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.215>thought_sleptinbarracks(INITIATOR_thoughtLabel==dull barrack)->My room is slightly [ugly]! And I must share it with other people, too!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.215>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.216>thought_sleptinbarracks(INITIATOR_thoughtLabel==mediocre barrack)->I share my room with others - I can accept that. But... couldn't it be a nicer one at least?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.216>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.217>thought_sleptinbarracks(INITIATOR_thoughtLabel==decent barrack)->My room is nice enough, but I find it a bit [annoying] sharing a sleeping space.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.217>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.218>thought_sleptinbarracks(INITIATOR_thoughtLabel==slightly impressive barrack)->My room is quite nice. Unfortunately, I have to share it with others.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.218>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.219>thought_sleptinbarracks(INITIATOR_thoughtLabel==impressive barrack)->My room is very nice. If only I didn't have to share it with others...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.219>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.220>thought_sleptinbarracks(INITIATOR_thoughtLabel==very impressive barrack)->My room is very impressive. I don't even mind sharing it!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.220>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.221>thought_sleptinbarracks(INITIATOR_thoughtLabel==extremely impressive barrack)->My room is so extremely impressive that sharing it doesn't even bother me!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.221>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.222>thought_sleptinbarracks(INITIATOR_thoughtLabel==unbelievably impressive barrack)->I can't believe how nice is my shared room!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.222>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.223>thought_sleptinbarracks(INITIATOR_thoughtLabel==wondrously impressive barrack)->My shared room is just a dream come true!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.223>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.224>r_logentry(INITIATOR_thoughtDefName==SleptInBedroom,tag=ReactToThought_Bedroom)->[thought_bedroom] [what_about_yours]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.224>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.225>thought_bedroom(INITIATOR_thoughtLabel==awful bedroom)->Luckily, I have my own bedroom. Too bad it's [ugly] as hell.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.225>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.226>thought_bedroom(INITIATOR_thoughtLabel==decent bedroom)->I sleep in a [proper] bedroom.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.226>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.227>thought_bedroom(INITIATOR_thoughtLabel==slightly impressive bedroom)->I like my bedroom - it's a nice one.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.227>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.228>thought_bedroom(INITIATOR_thoughtLabel==impressive bedroom)->I sleep in an impressive bedroom. It's great!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.228>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.229>thought_bedroom(INITIATOR_thoughtLabel==very impressive bedroom)->I sleep in a very impressive bedroom. I just love it!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.229>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.230>thought_bedroom(INITIATOR_thoughtLabel==extremely impressive bedroom)->I get to sleep in an extremely impressive bedroom! </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.230>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.231>thought_bedroom(INITIATOR_thoughtLabel==unbelievably impressive bedroom)->My bedroom is truly astounding!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.231>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.232>thought_bedroom(INITIATOR_thoughtLabel==wondrously impressive bedroom)->Sleeping in my bedroom feels like Heaven. Just wondrous!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.232>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.233>r_logentry(INITIATOR_thoughtDefName==SleptInCold,tag=ReactToThought_SleptInCold)->[thought_sleptincold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.233>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.234>thought_sleptincold->[slept_in_cold] [hope_wont_happen_again_heatsource]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.234>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.235>slept_in_cold->I slept in the cold.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.235>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.236>slept_in_cold->I couldn't sleep well - the cold wouldn't let me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.236>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.237>hope_wont_happen_again_heatsource(INITIATOR_construction_level&lt;5)->[thought_sleptincold_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.237>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.238>thought_sleptincold_construction_unskilled(RECIPIENT_construction_level&lt;5)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.238>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.239>thought_sleptincold_construction_unskilled(RECIPIENT_construction_level>=5)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.239>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.240>hope_wont_happen_again_heatsource(INITIATOR_construction_level>=5)->[thought_sleptincold_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.240>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.241>thought_sleptincold_construction_skilled(RECIPIENT_construction_level&lt;5)->I shouldn't have let this happen - I could've built a [proper] heat source.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.241>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.242>thought_sleptincold_construction_skilled(RECIPIENT_construction_level>=5)->We shouldn't have let this happen - we could've built a [proper] heat source.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.242>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.243>r_logentry(INITIATOR_thoughtDefName==SleptInHeat,tag=ReactToThought_SleptInHeat)->[thought_sleptinheat]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.243>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.244>thought_sleptinheat->[slept_in_heat] [hope_wont_happen_again_cooler]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.244>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.245>slept_in_heat->I had to sleep in unbearable heat.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.245>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.246>slept_in_heat->I couldn't sleep well - the heat wouldn't let me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.246>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.247>hope_wont_happen_again_cooler(INITIATOR_construction_level&lt;5)->[thought_sleptinheat_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.247>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.248>thought_sleptinheat_construction_unskilled(RECIPIENT_construction_level&lt;5)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.248>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.249>thought_sleptinheat_construction_unskilled(RECIPIENT_construction_level>=5)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.249>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.250>hope_wont_happen_again_cooler(INITIATOR_construction_level>=5)->[thought_sleptinheat_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.250>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.251>thought_sleptinheat_construction_skilled(RECIPIENT_construction_level&lt;5)->I shouldn't have let this happen - I could've built a cooler.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.251>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.252>thought_sleptinheat_construction_skilled(RECIPIENT_construction_level>=5)->We shouldn't have let this happen - we could've built a cooler.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.252>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.253>r_logentry(INITIATOR_thoughtDefName==SleptOnGround,tag=ReactToThought_SleptOnGround)->[thought_sleptonground]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.253>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.254>thought_sleptonground->[slept_on_ground] [hope_wont_happen_again_bed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.254>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.255>slept_on_ground->I had to sleep on the ground like an animal - [humiliating]!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.255>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.256>hope_wont_happen_again_bed(INITIATOR_construction_level&lt;4)->[thought_sleptonground_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.256>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.257>thought_sleptonground_construction_unskilled(RECIPIENT_construction_level&lt;4)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.257>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.258>thought_sleptonground_construction_unskilled(RECIPIENT_construction_level>=4)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.258>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.259>hope_wont_happen_again_bed(INITIATOR_construction_level>=4)->[thought_sleptonground_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.259>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.260>thought_sleptonground_construction_skilled(RECIPIENT_construction_level&lt;4)->I shouldn't have let this happen - I could've built a bed for myself.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.260>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.261>thought_sleptonground_construction_skilled(RECIPIENT_construction_level>=4)->We shouldn't have let this happen - we could've built a bed for me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.261>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.262>r_logentry(INITIATOR_thoughtDefName==SleptOutside,tag=ReactToThought_SleptOutside)->[thought_sleptoutside]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.262>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.263>thought_sleptoutside->[slept_outside] [hope_wont_happen_again_outside]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.263>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.264>slept_outside->I had to sleep [outdoors] - [humiliating]!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.264>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.265>slept_outside->I had the [humiliating] experience of sleeping without a [proper] roof!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.265>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.266>hope_wont_happen_again_outside(INITIATOR_construction_level&lt;4)->[thought_sleptoutside_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.266>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.267>thought_sleptoutside_construction_unskilled(RECIPIENT_construction_level&lt;4)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.267>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.268>thought_sleptoutside_construction_unskilled(RECIPIENT_construction_level>=4)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.268>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.269>hope_wont_happen_again_outside(INITIATOR_construction_level>=4)->[thought_sleptoutside_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.269>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.270>thought_sleptoutside_construction_skilled(RECIPIENT_construction_level&lt;4)->I shouldn't have let this happen - I could've built a roofed room for myself.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.270>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.271>thought_sleptoutside_construction_skilled(RECIPIENT_construction_level>=4)->We shouldn't have let this happen - we could've built a roofed room for me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.271>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.272>r_logentry(INITIATOR_thoughtDefName==UndergrounderOutdoors,tag=ReactToThought_UndergrounderOutdoors)->[thought_undergrounderoutdoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.272>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.273>thought_undergrounderoutdoors->I don't like being outside. I'd rather be indoors.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.273>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.274>r_logentry(INITIATOR_opinion>=0,tag=WhatsUp)->So, [RECIPIENT_nameDef] - [whatsup]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.274>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.275>whatsup(INITIATOR_intellectual_level&lt;5)->wassup?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.275>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.276>whatsup(INITIATOR_intellectual_level&lt;3)->sup?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.276>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.277>whatsup(INITIATOR_intellectual_level&lt;5)->what's popping?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.277>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.278>whatsup(INITIATOR_intellectual_level&lt;5)->what's cracking?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.278>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.279>whatsup->what's up?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.279>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.280>whatsup->what's going on?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.280>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.281>whatsup->what's on your mind?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.281>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.282>whatsup->what's new?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.282>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.283>r_logentry(INITIATOR_opinion>=0,tag=HowAreYou)->Hey, [RECIPIENT_nameDef]. [howareyou]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.283>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.284>howareyou->How are you?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.284>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.285>howareyou->How are things?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.285>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.286>howareyou->How have you been?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.286>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.287>howareyou->How's life?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.287>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.288>howareyou->How are you getting along?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.288>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.289>howareyou(RECIPIENT_mood&lt;0.5)->Are you OK?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.289>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.290>r_logentry(INITIATOR_trait==ascetic,tag=AsceticWisdom)->[trait_ascetic]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.290>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.291>trait_ascetic->Being truly rich is not about having great possessions - it's about having few wants.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.291>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.292>trait_ascetic->He who fears death will never do anything worth of a man who is alive.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.292>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.293>trait_ascetic->You can control your mind — not outside events. Absorb this, and you shall find strength.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.293>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.294>trait_ascetic(INITIATOR_animals_passion==Minor)->Observe the [Animal] and its simpler life - there is a lot to learn from it.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.294>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.295>trait_ascetic(INITIATOR_animals_passion==Major)->Observe the [Animal] and its simpler life - there is a lot to learn from it.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.295>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.296>r_logentry(INITIATOR_trait==optimist,tag=LuckyFuture)->[lucky_future]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.296>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.297>r_logentry(INITIATOR_trait==sanguine,tag=LuckyFuture)->[lucky_future]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.297>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.298>lucky_future(DAYPERIOD==night)->[can_feel_it] today [lucky_day]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.298>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.299>lucky_future(DAYPERIOD==morning)->[can_feel_it] today [lucky_day]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.299>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.300>lucky_future(DAYPERIOD==afternoon)->[can_feel_it] tomorrow [lucky_day]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.300>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.301>lucky_future(DAYPERIOD==evening)->[can_feel_it] tomorrow [lucky_day]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.301>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.302>can_feel_it->I can feel it -</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.302>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.303>can_feel_it->I have a feeling</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.303>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.304>lucky_day->will be my lucky day!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.304>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.305>lucky_day->is going to be my lucky day!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.305>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.306>r_logentry(INITIATOR_trait==psychically sensitive)->[trait_psy_sensitive]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.306>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.307>r_logentry(INITIATOR_trait==psychically hypersensitive)->[trait_psy_sensitive]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.307>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.308>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [PersonJob] visiting a [AdjectiveFriendly] [Community].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.308>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.309>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [PersonJob] admiring a [nice] [TerrainFeature] from afar.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.309>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.310>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [Color] [Animal] in a [AdjectiveLarge] [TreeType] forest.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.310>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.311>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [Animal] eating [Vegetable]s.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.311>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.312>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [Community] of [AdjectiveFriendly] [Color] [Animal]s.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.312>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.313>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about [Quantity_adjphrase] [PersonJob]s who were [VerbFriendly] in a [AdjectiveFriendly] [Community].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.313>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.314>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveLarge] [Animal] saving a [AdjectiveAngsty] [Community] from a [AdjectiveBadass] [Enemy].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.314>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.315>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [PersonJob] wearing a [AdjectiveAny] [Color] [Apparel].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.315>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.316>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [AdjectiveLarge] [AnimalGroup] of [Animal]s in a [TreeType] forest.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.316>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.317>trait_psy_sensitive(tag=PsyVision)->[vision_start] about [Animal]-shaped clouds over a [AdjectiveAny] [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.317>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.318>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [Color] [Animal] and a [Color] [Animal] competing for the same [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.318>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.319>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [AdjectiveBadass] [Enemy] struggling against a [AdjectiveBadass] [Enemy].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.319>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.320>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [AdjectiveAny] [Apparel] dancing in the wind over a [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.320>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.321>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a group of [PersonJob]s visiting a [Community] to buy [AdjectiveAny] [Apparel]s.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.321>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.322>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [PersonJob] arguing with a [PersonJob] about a [AdjectiveAny] [Weapon].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.322>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.323>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a group of [PersonJob]s visiting a [Community] to buy [AdjectiveAny] [Weapon]s.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.323>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.324>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveBadass] [Enemy] with a [AdjectiveBadass] [Weapon] covered in [Gore].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.324>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.325>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about [Quantity_adjphrase] [AdjectiveBadass] [Enemy]s - and one of them wielded a [AdjectiveLarge] [AdjectiveBadass] [Weapon].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.325>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.326>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveAngsty] [PersonJob] running from a [AdjectiveBadass] [Enemy].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.326>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.327>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveBadass] [Mechanoid] chasing a group of [PersonJob]s into a [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.327>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.328>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about [AdjectiveBadass] [Mechanoid]s mercilessly destroying a [AdjectiveFriendly] [Community].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.328>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.329>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveAngsty] [Community] near a [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.329>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.330>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveAngsty] [PersonJob] near a [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.330>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.331>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about [Enemy]-shaped clouds over a [AdjectiveAngsty] [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.331>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.332>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about two coffins - one had a dead [PersonJob] in it, the other was empty.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.332>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.333>vision_start->I just had a [vision_adj] vision</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.333>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.334>vision_adj->peculiar</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.334>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.335>vision_adj->startling</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.335>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.336>vision_adj->strange</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.336>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.337>vision_adj->fading</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.337>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.338>vision_adj->fleeting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.338>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.339>vision_adj->sudden</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.339>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.340>vision_adj->momentary</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.340>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.341>vision_adj->colorful</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.341>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.342>vision_adj->clear</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.342>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.343>vision_adj->sudden</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.343>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.344>r_logentry(WEATHER==clear)->[weather_clear]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.344>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.345>weather_clear(TEMPERATURE>=-10,TEMPERATURE&lt;=35)->[weather_clear_goodtemp]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.345>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.346>weather_clear_goodtemp(OUTDOORS==No,tag=WeatherClearGoodtempIndoors)->[weather_clear_goodtemp_indoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.346>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.347>weather_clear_goodtemp_indoors->The weather outside is [nice].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.347>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.348>weather_clear_goodtemp(OUTDOORS==Yes,tag=WeatherClearGoodtempOutdoors)->[weather_clear_goodtemp_outdoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.348>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.349>weather_clear_goodtemp_outdoors->It certainly helps to have such a [nice] weather.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.349>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.350>weather_clear_goodtemp_outdoors->This [nice] weather is good for us.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.350>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.351>weather_clear_goodtemp_outdoors(INITIATOR_mood>=0.7)->What a [nice] weather we're having!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.351>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.352>weather_clear_goodtemp_outdoors(INITIATOR_mood>=0.5)->Such a [nice] [DAYPERIOD]!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.352>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.353>weather_clear_goodtemp_outdoors(INITIATOR_mood&lt;0.5)->The weather is [nice], at least.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.353>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.354>weather_clear(TEMPERATURE&lt;-10)->[weather_toocold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.354>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.355>weather_clear(TEMPERATURE>35)->[weather_toohot]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.355>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.356>r_logentry(WEATHER==fog)->[weather_fog]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.356>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.357>weather_fog(RECIPIENT_shooting_level>=5,RECIPIENT_animals_level>=5,tag=HuntWithFog)->I guess this fog means no hunting for you today?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.357>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.358>weather_fog(TEMPERATURE>=-10,TEMPERATURE&lt;=35)->[weather_fog_goodtemp]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.358>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.359>weather_fog_goodtemp(INITIATOR_trait==too smart,tag=WeatherFogToosmart)->[fog_fact]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.359>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.360>fog_fact(INITIATOR_intellectual_level>=10)->Fog is a visible aerosol consisting of tiny water droplets or ice crystals suspended in the air at or near the planet's surface.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.360>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.361>fog_fact(INITIATOR_intellectual_level>=7)->Fog is sometimes considered a type of low-lying cloud usually resembling stratus.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.361>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.362>fog_fact(INITIATOR_intellectual_level>=5)->Fog is heavily influenced by nearby bodies of water, topography and wind conditions.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.362>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.363>fog_fact->Fog is known to show up when water vapor, or water in its gaseous form, condenses.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.363>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.364>weather_fog_goodtemp(INITIATOR_trait==wimp,tag=WeatherFogWimp)->I'm [scared]... what if some [horrible] [monster] suddenly comes out of this [eerie] [mist]?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.364>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.365>weather_fog_goodtemp(OUTDOORS==Yes,tag=WeatherFogGoodtempOutdoors)->[weather_fog_goodtemp_outdoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.365>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.366>weather_fog_goodtemp_outdoors(INITIATOR_mood>=0.5)->It's pretty foggy out here.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.366>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.367>weather_fog_goodtemp_outdoors(INITIATOR_mood>=0.3,INITIATOR_mood&lt;0.5)->This fog won't let me see a damn thing.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.367>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.368>weather_fog_goodtemp_outdoors(INITIATOR_mood&lt;0.3)->Blasted fog! Can't see a bloody thing out here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.368>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.369>weather_clear(TEMPERATURE&lt;-10)->[weather_toocold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.369>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.370>weather_clear(TEMPERATURE>35)->[weather_toohot]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.370>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.371>r_logentry(WEATHER==rain)->[weather_rain]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.371>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.372>weather_rain(TEMPERATURE>=-10,TEMPERATURE&lt;=35)->[weather_rain_goodtemp]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.372>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.373>weather_rain_goodtemp(OUTDOORS==No,tag=WeatherRainGoodtempIndoors)->[weather_rain_goodtemp_indoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.373>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.374>weather_rain_goodtemp_indoors->Mmm... It's raining.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.374>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.375>weather_rain_goodtemp_indoors->Look, it's raining.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.375>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.376>weather_rain_goodtemp_indoors->Can you hear it? It's raining.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.376>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.377>weather_rain_goodtemp(OUTDOORS==Yes,tag=WeatherRainGoodtempOutdoors)->[weather_rain_goodtemp_outdoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.377>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.378>weather_rain_goodtemp_outdoors->Maybe we'd better get inside.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.378>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.379>weather_rain_goodtemp_outdoors(TEMPERATURE&lt;=5,INITIATOR_trait==sickly)->Let's get inside, please - or I'll [surely] catch a cold or worse.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.379>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.380>weather_rain_goodtemp_outdoors(TEMPERATURE&lt;=5,INITIATOR_trait==wimp)->Let's get inside, please - I'd rather not catch a cold.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.380>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.381>weather_clear(TEMPERATURE&lt;-10)->[weather_toocold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.381>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.382>weather_clear(TEMPERATURE>35)->[weather_toohot]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.382>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.383>animal_large->a horse</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.383>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.384>animal_large->a muffalo</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.384>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.385>animal_large->an elephant</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.385>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.386>annoying->annoying</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.386>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.387>annoying->bad</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.387>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.388>annoying->irritating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.388>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.389>annoying->infuriating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.389>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.390>annoying->maddening</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.390>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.391>annoying->bothersome</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.391>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.392>annoying(INITIATOR_intellectual_level>=5)->exasperating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.392>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.393>disgusting->disgusting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.393>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.394>disgusting->nauseating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.394>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.395>disgusting->sickening</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.395>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.396>disgusting->gross</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.396>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.397>disgusting(INITIATOR_intellectual_level>=5)->revolting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.397>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.398>disgusting(INITIATOR_intellectual_level>=10)->repugnant</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.398>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.399>disturbing->disturbing</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.399>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.400>disturbing->unsettling</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.400>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.401>disturbing->gut-wrenching</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.401>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.402>disturbing->gross</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.402>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.403>disturbing(INITIATOR_intellectual_level>=5)->perturbing</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.403>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.404>disturbing(INITIATOR_intellectual_level>=5)->disquieting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.404>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.405>disturbing(INITIATOR_intellectual_level>=10)->abhorrent</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.405>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.406>disturbing(INITIATOR_intellectual_level>=10)->abominable</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.406>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.407>eerie->strange</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.407>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.408>eerie->eerie</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.408>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.409>eerie->otherworldy</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.409>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.410>eerie->unearthly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.410>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.411>eerie->spooky</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.411>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.412>fix->fix</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.412>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.413>fix->manage</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.413>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.414>fix->handle</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.414>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.415>fix->deal with</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.415>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.416>fix->see to</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.416>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.417>fix->take care of</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.417>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.418>fix(INITIATOR_intellectual_level>=5)->remedy</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.418>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.419>fix(INITIATOR_intellectual_level>=10)->rectify</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.419>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.420>horrible->terrible</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.420>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.421>horrible->horrible</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.421>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.422>horrible->unholy</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.422>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.423>horrible->ugly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.423>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.424>horrible->fearsome</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.424>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.425>horrible->frightening</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.425>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.426>horrible->ghastly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.426>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.427>horrible->ghoulish</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.427>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.428>humiliating->humiliating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.428>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.429>humiliating->demeaning</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.429>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.430>humiliating->embarassing</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.430>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.431>humiliating->mortifying</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.431>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.432>humiliating(INITIATOR_intellectual_level>=5)->undignified</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.432>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.433>humiliating(INITIATOR_intellectual_level>=10)->discomfiting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.433>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.434>humiliating(INITIATOR_intellectual_level>=10)->disgraceful</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.434>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.435>humiliating(INITIATOR_intellectual_level>=15)->ignominous</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.435>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.436>mist->mist</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.436>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.437>mist->fog</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.437>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.438>monster->monster</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.438>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.439>monster->beast</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.439>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.440>monster->fiend</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.440>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.441>monster->abomination</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.441>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.442>monster->creature</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.442>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.443>monster->ghost</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.443>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.444>monster->alien</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.444>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.445>nice->nice</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.445>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.446>nice->good</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.446>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.447>nice->pleasant</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.447>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.448>nice->wonderful</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.448>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.449>nice->fair</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.449>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.450>nice->fine</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.450>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.451>outdoors->outdoors</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.451>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.452>outdoors->in the open</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.452>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.453>outdoors->outside</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.453>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.454>proper->fitting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.454>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.455>proper->suitable</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.455>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.456>proper->regular</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.456>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.457>proper->decent</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.457>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.458>proper(INITIATOR_intellectual_level>=5)->conventional</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.458>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.459>scared->so scared</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.459>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.460>scared->scared stiff</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.460>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.461>scared->scared witless</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.461>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.462>scared->shaking like a leaf</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.462>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.463>scared->terrified</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.463>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.464>scared->worried</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.464>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.465>surely->surely</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.465>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.466>surely->certainly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.466>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.467>surely->obviously</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.467>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.468>surely->clearly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.468>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.469>surely->definitely</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.469>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.470>surely(INITIATOR_intellectual_level>=10)->unquestionably</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.470>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.471>surely(INITIATOR_intellectual_level>=5)->undeniably</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.471>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.472>ugly->ugly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.472>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.473>ugly->hideous</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.473>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.474>ugly->horrible</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.474>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.475>ugly->frightful</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.475>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.476>ugly->grisly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.476>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.477>ugly->gruesome</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.477>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.478>ugly->grim</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.478>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.479>ugly(INITIATOR_intellectual_level>=5)->repugnant</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.479>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.480>ugly(INITIATOR_intellectual_level>=5)->vile</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.480>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.481>ugly(INITIATOR_intellectual_level>=5)->grotesque</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.481>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.482>weather_toocold(INITIATOR_thoughtLabel==chilly,priority=1)->I should get better clothing - I'm almost freezing.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.482>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.483>weather_toocold(INITIATOR_thoughtLabel==cold,priority=1)->I should get better clothing - I'm cold!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.483>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.484>weather_toocold(INITIATOR_thoughtLabel==numbing cold,priority=1)->I should get better clothing - I'm freezing!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.484>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.485>weather_toocold(INITIATOR_thoughtLabel==absolutely freezing,priority=1)->I should get better clothing - I'm totally numbed by the cold!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.485>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.486>weather_toocold->Luckily, my gear is warm enough to protect me from this extreme cold!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.486>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.487>weather_toohot(INITIATOR_thoughtLabel==sweaty,priority=1)->I should get better clothing - I'm sweating.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.487>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.488>weather_toohot(INITIATOR_thoughtLabel==hot,priority=1)->I should get better clothing - I'm feeling very hot!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.488>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.489>weather_toohot(INITIATOR_thoughtLabel==sweltering hot,priority=1)->I should get better clothing - I'm feeling extremely hot!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.489>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.490>weather_toohot(INITIATOR_thoughtLabel==blistering hot,priority=1)->I should get better clothing - I'm melting!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.490>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.491>weather_toohot->Luckily, my gear is good enough to protect me from this scorching heat!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.491>
-  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.492>what_about_yours->What about yours, [RECIPIENT_nameDef]?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.492>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.39>thought_diningroom(INITIATOR_thoughtDefName==AteWithoutTable,priority=1)->[thought_atewotable]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.39>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.40>thought_atewotable(INITIATOR_mood&lt;=0.4,tag=ReactToThought_AteWithoutTable)->[thought_atewotable_stressed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.40>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.41>thought_atewotable(INITIATOR_trait==abrasive,tag=ReactToThought_AteWithoutTable)->[thought_atewotable_stressed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.41>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.42>thought_atewotable_stressed->I had to eat without a [swearword]table! [hope_wont_happen_again_table]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.42>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.43>hope_wont_happen_again_table(INITIATOR_construction_level&lt;4)->[thought_atewotable_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.43>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.44>thought_atewotable_construction_unskilled(RECIPIENT_construction_level&lt;4)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.44>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.45>thought_atewotable_construction_unskilled(RECIPIENT_construction_level>=4)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.45>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.46>hope_wont_happen_again_table(INITIATOR_construction_level>=4)->[thought_atewotable_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.46>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.47>thought_atewotable_construction_skilled(RECIPIENT_construction_level&lt;4)->I shouldn't have let this happen - I could've built one.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.47>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.48>thought_atewotable_construction_skilled(RECIPIENT_construction_level>=4)->We shouldn't have let this happen - we could've built one.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.48>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.49>thought_atewotable(INITIATOR_mood>0.4)->[mood_calm]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.49>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.50>thought_diningroom->[thought_diningroom_default]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.50>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.51>thought_diningroom_default(INITIATOR_mood&lt;=0.4,tag=ReactToThought_AteWithoutTable)->[thought_diningroom_stressed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.51>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.52>thought_diningroom_default(INITIATOR_trait==abrasive,tag=ReactToThought_AteWithoutTable)->[thought_diningroom_stressed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.52>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.53>thought_diningroom_stressed->Last time I ate, the dining area wasn't very nice - that's a bit [annoying].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.53>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.54>thought_diningroom_default(INITIATOR_mood>0.4)->[mood_calm]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.54>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.55>r_logentry(INITIATOR_thoughtDefName==DefeatedMechCluster,tag=ReactToThought_DefeatedMechCluster)->[thought_defeatcluster]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.55>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.56>thought_defeatcluster->That victory against the mech cluster was glorious!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.56>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.57>r_logentry(INITIATOR_thoughtDefName==EnvironmentCold,tag=ReactToThought_EnvironmentCold)->[thought_environmentcold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.57>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.58>thought_environmentcold(INITIATOR_thoughtLabel==chilly)->I'm uncomfortably cold.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.58>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.59>thought_environmentcold(INITIATOR_thoughtLabel==cold)->I'm freezing!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.59>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.60>thought_environmentcold(INITIATOR_thoughtLabel==numbing cold)->I can't stop shivering. My teeth are chattering.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.60>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.61>thought_environmentcold(INITIATOR_thoughtLabel==absolutely freezing)->My teeth are chattering so hard I can barely speak.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.61>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.62>r_logentry(INITIATOR_thoughtDefName==EnvironmentDark,tag=ReactToThought_EnvironmentDark)->[thought_environmentdark]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.62>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.63>thought_environmentdark(INITIATOR_trait==undergrounder,priority=1)->[thought_environmentdark_undergrounder]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.63>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.64>thought_environmentdark_undergrounder(OUTDOORS==No)->Indoors... no light... totally relaxing.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.64>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.65>thought_environmentdark_undergrounder(OUTDOORS==Yes)->This darkness puts my mind at ease, as if it protected me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.65>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.66>thought_environmentdark(INITIATOR_trait==night owl,priority=1)->I really like this darkness - it's so relaxing...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.66>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.67>thought_environmentdark->It's dark - [extra]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.67>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.68>extra->and I don't like it.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.68>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.69>extra->I hope I won't trip into something.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.69>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.70>extra->I can't see well enough to do my job properly.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.70>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.71>extra(INITIATOR_trait==pyromaniac)->we could put up more wall torches around here.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.71>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.72>extra(INITIATOR_trait==depressive)->just like each and every day of my life.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.72>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.73>r_logentry(INITIATOR_thoughtDefName==EnvironmentHot,tag=ReactToThought_EnvironmentHot)->[thought_environmenthot]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.73>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.74>thought_environmenthot(INITIATOR_thoughtLabel==sweaty)->It's quite hot here.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.74>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.75>thought_environmenthot(INITIATOR_thoughtLabel==hot)->It's way too hot here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.75>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.76>thought_environmenthot(INITIATOR_thoughtLabel==sweltering hot)->I feel like I'm in an oven! I must get somewhere cooler!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.76>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.77>thought_environmenthot(INITIATOR_thoughtLabel==blistering hot)->This place is searing hot. I think I could die from this heat!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.77>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.78>r_logentry(INITIATOR_thoughtDefName==FreedFromSlavery,tag=ReactToThought_ExSlave)->[thought_freed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.78>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.79>thought_freed->My life as a slave was a nightmare... I'm so thankful you guys freed me from that! </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.79>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.80>thought_freed->Freeing me from slavery was a true noble thing to do. I'll be forever thankful for that.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.80>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.81>r_logentry(INITIATOR_thoughtDefName==JoyActivityInImpressiveRecRoom,tag=ReactToThought_JoyRoom)->[thought_joyroom]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.81>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.82>thought_joyroom(INITIATOR_thoughtLabel==decent rec room)->I think we have a decent rec room.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.82>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.83>thought_joyroom(INITIATOR_thoughtLabel==slightly impressive rec room)->I think we have a nice rec room.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.83>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.84>thought_joyroom(INITIATOR_thoughtLabel==somewhat impressive rec room)->I think we have a very nice rec room.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.84>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.85>thought_joyroom(INITIATOR_thoughtLabel==very impressive rec room)->I think our rec room is quite impressive!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.85>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.86>thought_joyroom(INITIATOR_thoughtLabel==extremely impressive rec room)->I think our rec room is extremely impressive!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.86>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.87>thought_joyroom(INITIATOR_thoughtLabel==unbelievably impressive rec room)->We're so lucky to have such an unbelievably impressive rec room!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.87>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.88>thought_joyroom(INITIATOR_thoughtLabel==wondrously impressive rec room)->Our rec room is wondrously impressive! I could stay there forever!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.88>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.89>r_logentry(INITIATOR_thoughtLabel==hideous environment,tag=ReactToThought_NeedBeauty_hideous)->[thought_needbeauty_hideous]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.89>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.90>thought_needbeauty_hideous->This place is unbearably grotesque. I can't look at this any more.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.90>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.91>thought_needbeauty_hideous(INITIATOR_trait==depressive)->This place is a perfect depiction of our future - bleak and dreary.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.91>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.92>thought_needbeauty_hideous(INITIATOR_trait==pyromaniac)->This place is so totally dismal we could burn it down to ashes - and even so, it would look better!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.92>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.93>r_logentry(INITIATOR_thoughtLabel==ugly environment,tag=ReactToThought_NeedBeauty_ugly)->[thought_needbeauty_ugly]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.93>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.94>thought_needbeauty_ugly->This place is really ugly. I wish I didn't have to look at this any more.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.94>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.95>thought_needbeauty_ugly(INITIATOR_trait==depressive)->It's ugly here... but then again - it's OK: it's the best I'll ever get in this life, I'm sure.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.95>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.96>thought_needbeauty_ugly(INITIATOR_trait==pyromaniac)->This place is hopelessly awful. Let's burn it down and build a better one from scratch!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.96>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.97>r_logentry(INITIATOR_thoughtLabel==unsightly environment,tag=ReactToThought_NeedBeauty_unsightly)->[thought_needbeauty_unsightly]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.97>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.98>thought_needbeauty_unsightly->This place is kind of unsightly. I wish I didn't have to look at all this.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.98>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.99>r_logentry(INITIATOR_thoughtLabel==pretty environment,tag=ReactToThought_NeedBeauty_pretty)->[thought_needbeauty_pretty]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.99>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.100>thought_needbeauty_pretty->This place looks nice.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.100>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.101>r_logentry(INITIATOR_thoughtLabel==beautiful environment,tag=ReactToThought_NeedBeauty_beautiful)->[thought_needbeauty_beautiful]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.101>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.102>thought_needbeauty_pretty->I really like this place. It's beautiful.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.102>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.103>r_logentry(INITIATOR_thoughtLabel==gorgeous environment,tag=ReactToThought_NeedBeauty_gorgeous)->[thought_needbeauty_gorgeous]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.103>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.104>thought_needbeauty_gorgeous->This place is truly beautiful. It lifts me up and makes me love life!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.104>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.105>thought_needbeauty_gorgeous->This place is a dream come true. I'm so happy to be here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.105>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.106>thought_needbeauty_gorgeous(INITIATOR_artistic>=5)->This place looks like a true masterwork of fine arts!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.106>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.107>r_logentry(INITIATOR_thoughtLabel==uncomfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.107>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.108>thought_need_comfort1->My back is aching. Our furniture here is quite lacking.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.108>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.109>r_logentry(INITIATOR_thoughtLabel==comfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.109>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.110>thought_need_comfort2->I'm glad we have comfortable furniture around here.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.110>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.111>r_logentry(INITIATOR_thoughtLabel==quite comfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort3]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.111>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.112>thought_need_comfort3->I'm so glad we have nice and comfortable furniture around here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.112>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.113>r_logentry(INITIATOR_thoughtLabel==extremely comfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort4]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.113>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.114>thought_need_comfort4->This place is so cushy - we truly have excellent furniture around here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.114>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.115>r_logentry(INITIATOR_thoughtLabel==luxuriantly comfortable,tag=ReactToThought_NeedComfort)->[thought_need_comfort5]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.115>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.116>thought_need_comfort5->Our furniture feels like Heaven! So comfy!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.116>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.117>r_logentry(INITIATOR_thoughtDefName==NeedFood,RECIPIENT_cooking_level>=5,tag=ReactToThought_NeedFood_CookRecipient)->[thought_needfood_cookrecipient]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.117>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.118>thought_needfood_cookrecipient(INITIATOR_trait==brawler,INITIATOR_mood&lt;0.5)->Damn it, [RECIPIENT_nameDef] - get us some cooked food already or I swear I'll eat that [ugly] face of yours!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.118>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.119>thought_needfood_cookrecipient->Hey, [RECIPIENT_nameDef] - can you get us some food already?!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.119>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.120>r_logentry(INITIATOR_thoughtLabel==hungry,tag=ReactToThought_NeedFood)->[thought_needfood_hungry0]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.120>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.121>thought_needfood_hungry0->I'm really hungry.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.121>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.122>thought_needfood_hungry0->I'm feeling peckish.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.122>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.123>thought_needfood_hungry0->I could eat [animal_large]!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.123>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.124>thought_needfood_hungry0->I'm starving!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.124>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.125>thought_needfood_hungry0->I'm ravenous!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.125>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.126>thought_needfood_hungry0->I'm famished!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.126>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.127>thought_needfood_hungry0->I'm dying for something to eat!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.127>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.128>r_logentry(INITIATOR_thoughtLabel==ravenously hungry,tag=ReactToThought_NeedFood)->[thought_needfood_hungry1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.128>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.129>thought_needfood_hungry1->These hunger pangs are hard to ignore.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.129>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.130>r_logentry(INITIATOR_thoughtLabel==malnourished,tag=ReactToThought_NeedFood)->[thought_needfood_hungry2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.130>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.131>thought_needfood_hungry2->It's been so long since I ate. I'm all fuzzy and it's hard to focus.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.131>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.132>r_logentry(INITIATOR_thoughtLabel==badly malnourished,tag=ReactToThought_NeedFood)->[thought_needfood_hungry3]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.132>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.133>thought_needfood_hungry3->I can feel my body wasting away... I'd eat almost anything to stop the pain...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.133>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.134>r_logentry(INITIATOR_thoughtLabel==starving,tag=ReactToThought_NeedFood)->[thought_needfood_hungry4]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.134>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.135>thought_needfood_hungry4->I can barely think about anything but food. I need food. Now.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.135>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.136>r_logentry(INITIATOR_thoughtLabel==advanced starvation,tag=ReactToThought_NeedFood)->[thought_needfood_hungry5]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.136>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.137>thought_needfood_hungry5->I can barely move or think about anything but food. I feel so weak...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.137>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.138>r_logentry(INITIATOR_thoughtLabel==extreme starvation,tag=ReactToThought_NeedFood)->[thought_needfood_hungry6]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.138>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.139>thought_needfood_hungry6->Food... food... anything... please...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.139>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.140>r_logentry(INITIATOR_thoughtLabel==recreation-starved,tag=ReactToThought_NeedJoy)->[thought_need_joy1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.140>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.141>thought_need_joy1->It's been so long since I did anything for fun on my own time.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.141>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.142>r_logentry(INITIATOR_thoughtLabel==recreation-deprived,tag=ReactToThought_NeedJoy)->[thought_need_joy2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.142>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.143>thought_need_joy2->We need more variation in recreation activities, and I need time to enjoy them.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.143>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.144>r_logentry(INITIATOR_thoughtLabel==recreation unfulfilled,tag=ReactToThought_NeedJoy)->[thought_need_joy3]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.144>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.145>thought_need_joy3->We need more variation in the recreation activities, and I need time to enjoy them.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.145>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.146>r_logentry(INITIATOR_thoughtLabel==recreation satisfied,tag=ReactToThought_NeedJoy)->[thought_need_joy4]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.146>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.147>thought_need_joy4->I've been having a great time doing various things I like to do.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.147>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.148>r_logentry(INITIATOR_thoughtLabel==recreation fully satisfied,tag=ReactToThought_NeedJoy)->[thought_need_joy5]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.148>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.149>thought_need_joy5->I've been enjoying myself so much, I love it!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.149>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.150>r_logentry(INITIATOR_thoughtLabel==drowsy,tag=ReactToThought_NeedRest)->[thought_need_rest1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.150>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.151>thought_need_rest1->I haven't slept in a while. It's hard to keep focus.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.151>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.152>r_logentry(INITIATOR_thoughtLabel==tired,tag=ReactToThought_NeedRest)->[thought_need_rest2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.152>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.153>thought_need_rest2->I'm so tired. I just want to lay down and rest for a few minutes...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.153>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.154>r_logentry(INITIATOR_thoughtLabel==exhausted,tag=ReactToThought_NeedRest)->[thought_need_rest3]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.154>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.155>thought_need_rest3->I'm so exhausted I can barely stand. Let me sleep...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.155>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.156>r_logentry(INITIATOR_thoughtLabel==confined interior,tag=ReactToThought_NeedSpace)->[thought_need_space1]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.156>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.157>thought_need_space1->Our living spaces are so cramped, it's difficult to breathe! [ask_for_larger_rooms]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.157>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.158>thought_need_space1(INITIATOR_construction_level>=5,priority=1)->I should build larger living spaces - these ones are way too cramped!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.158>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.159>r_logentry(INITIATOR_thoughtLabel==cramped interior,tag=ReactToThought_NeedSpace)->[thought_need_space2]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.159>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.160>thought_need_space2->Can't we get larger living spaces? It feels so cramped! [ask_for_larger_rooms]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.160>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.161>thought_need_space2(INITIATOR_construction_level>=5,priority=1)->I should build larger living spaces - these ones are somewhat cramped.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.161>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.162>ask_for_larger_rooms(RECIPIENT_construction_level&lt;5)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.162>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.163>ask_for_larger_rooms(RECIPIENT_construction_level>=5)->Hey, [RECIPIENT_nameDef]! Could you take care of it?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.163>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.164>r_logentry(INITIATOR_thoughtDefName==NewColonyHope,tag=ReactToThought_NewColony)->[thought_newcolhope]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.164>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.165>thought_newcolhope->I'm getting used to this new life, but it's still exciting. I hope this works out...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.165>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.166>thought_newcolhope(INITIATOR_trait==ascetic)->By humbly observing the planet's behaviour, we shall survive and thrive against all odds.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.166>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.167>thought_newcolhope(INITIATOR_trait==hard worker)->Our hard work got us safely so far. Let's keep this up, and we'll be allright!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.167>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.168>thought_newcolhope(INITIATOR_trait==industrious)->Our hard work got us safely so far. Let's keep this up, and we'll be allright!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.168>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.169>thought_newcolhope(INITIATOR_trait==iron-willed)->We never gave up, and now here we are - strong and ready to face what lies ahead.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.169>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.170>thought_newcolhope(INITIATOR_trait==optimist)->So far, so good - right? We won past challenges, we shall win the future ones too! </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.170>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.171>thought_newcolhope(INITIATOR_trait==sanguine)->So far, so good - right? We won past challenges, we shall win the future ones too!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.171>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.172>thought_newcolhope(INITIATOR_trait==steadfast)->We never gave up, and now here we are - strong and ready to face what lies ahead.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.172>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.173>thought_newcolhope(INITIATOR_trait==tough)->We managed to endure every setback and hardship so far, so we're perfectly ready for the next ones!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.173>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.174>r_logentry(INITIATOR_thoughtDefName==NewColonyOptimism,tag=ReactToThought_NewColony)->[thought_newcolopt]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.174>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.175>thought_newcolopt->It's a tough situation - but I feel I can handle it.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.175>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.176>thought_newcolopt(INITIATOR_trait==ascetic)->Are we stranded and lost? No - we are in a motherly wilderness, where we can find our true selves.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.176>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.177>thought_newcolopt(INITIATOR_trait==fast learner)->We're in a rought spot, but I'm sure we can quickly adapt and work things out.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.177>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.178>thought_newcolopt(INITIATOR_trait==hard worker)->Ok. Let's put our minds and bodies to work. We can do this!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.178>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.179>thought_newcolopt(INITIATOR_trait==industrious)->Ok. Let's put our minds and bodies to work. We can do this!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.179>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.180>thought_newcolopt(INITIATOR_trait==iron-willed)->By sheer willpower, we shall come out of this. Mark my words!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.180>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.181>thought_newcolopt(INITIATOR_trait==optimist)->This is going to be a great challenge - one we can [surely] win!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.181>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.182>thought_newcolopt(INITIATOR_trait==sanguine)->This is going to be an exciting challenge - one we'll [surely] win!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.182>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.183>thought_newcolopt(INITIATOR_trait==steadfast)->By sheer willpower, we will get through this! I'm sure!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.183>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.184>thought_newcolopt(INITIATOR_trait==tough)->Come what may, nothing can defeat us! Let's do this!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.184>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.185>thought_newcolopt(INITIATOR_construction_level>=4)->Let's start building the basic buildings - we'll be fine.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.185>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.186>thought_newcolopt(INITIATOR_medical_level>=4)->If you have any medical issues, I can help. Do not worry - we'll be allright.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.186>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.187>thought_newcolopt(INITIATOR_plants_level>=5)->I believe we may grow our own food here - and that will [surely] give us a great start!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.187>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.188>thought_newcolopt(INITIATOR_animals_level>=5,INITIATOR_shooting_level>=5)->I believe we may hunt for food here - and that will [surely] give us a great start!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.188>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.189>r_logentry(INITIATOR_thoughtDefName==ObservedLayingCorpse,tag=ReactToThought_ObservedLayingCorpse)->[thought_corpse]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.189>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.190>thought_corpse->[saw_a_body] It was [disturbing].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.190>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.191>thought_corpse->[saw_a_body] It was [disturbing].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.191>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.192>thought_corpse(INITIATOR_trait==psychopath,priority=1)->[saw_a_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.192>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.193>thought_corpse(INITIATOR_trait==bloodlust,priority=1)->[saw_a_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.193>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.194>thought_corpse(INITIATOR_trait==cannibal,priority=1)->[saw_a_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.194>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.195>saw_a_body->I saw a dead body laying on the ground.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.195>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.196>saw_a_body->I saw an unburied body.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.196>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.197>r_logentry(INITIATOR_thoughtDefName==ObservedLayingRottingCorpse,tag=ReactToThought_ObservedLayingRottingCorpse)->[thought_rotting_corpse]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.197>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.198>thought_rotting_corpse->[saw_a_rotting_body] It was [disgusting].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.198>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.199>thought_rotting_corpse->[saw_a_rotting_body] It was [disgusting].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.199>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.200>thought_rotting_corpse(INITIATOR_trait==psychopath,priority=1)->[saw_a_rotting_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.200>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.201>thought_rotting_corpse(INITIATOR_trait==bloodlust,priority=1)->[saw_a_rotting_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.201>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.202>thought_rotting_corpse(INITIATOR_trait==cannibal,priority=1)->[saw_a_rotting_body]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.202>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.203>saw_a_rotting_body->I saw a rotting body laying on the ground.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.203>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.204>saw_a_rotting_body->I saw an unburied rotting body.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.204>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.205>r_logentry(INITIATOR_thoughtDefName==Rescued,tag=ReactToThought_Rescued)->[thought_rescued]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.205>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.206>thought_rescued->I'm so thankful you guys rescued me. Without your help, I probably wouldn't be here today.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.206>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.207>thought_rescued->Rescuing me was a true noble and life-saving thing to do. I'll be forever thankful for that.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.207>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.208>r_logentry(INITIATOR_thoughtDefName==Sick,tag=ReactToThought_Sick)->[thought_sick]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.208>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.209>thought_sick->I'm not... I'm not feeling well...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.209>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.210>thought_sick->My health could be better...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.210>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.211>thought_sick->Ugh... will thiss sickness ever go away!?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.211>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.212>thought_sick(INITIATOR_trait==wimp)->Ah, I'm feeling horrible... I... I might pass out soon!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.212>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.213>thought_sick(INITIATOR_trait==tortured artist)->Sickness: rich fuel for my creativity, yet painful dagger in the flesh still.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.213>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.214>thought_sick(INITIATOR_trait==sickly)->Darn, I'm sick again... same old story...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.214>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.215>thought_sick(INITIATOR_trait==super-immune)->Darn this sickness. I shouldn't even be sick! I never get sick!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.215>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.216>thought_sick(INITIATOR_trait==transhumanist)->Sick - again! The human body is so weak and flawed...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.216>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.217>r_logentry(INITIATOR_thoughtDefName==SleepDisturbed,tag=ReactToThought_SleepDisturbed)->[thought_sleepdisturbed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.217>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.218>thought_sleepdisturbed->I was woke up by somebody walking near my bed. That's a bit [annoying].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.218>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.219>r_logentry(INITIATOR_thoughtDefName==SleepDisturbed,tag=ReactToThought_SleepDisturbed_Dream)->Ugh... I was having such [nice] dream when somebody entered my room and woke me up.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.219>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.220>r_logentry(tag=ReactToThought_SleptInBarracks)->[thought_sleptinbarracks]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.220>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.221>thought_sleptinbarracks(INITIATOR_thoughtLabel==awful barrack)->Not only I must share my room - it's also a [ugly] one!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.221>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.222>thought_sleptinbarracks(INITIATOR_thoughtLabel==dull barrack)->My room is slightly [ugly]! And I must share it with other people, too!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.222>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.223>thought_sleptinbarracks(INITIATOR_thoughtLabel==mediocre barrack)->I share my room with others - I can accept that. But... couldn't it be a nicer one at least?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.223>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.224>thought_sleptinbarracks(INITIATOR_thoughtLabel==decent barrack)->My room is nice enough, but I find it a bit [annoying] sharing a sleeping space.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.224>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.225>thought_sleptinbarracks(INITIATOR_thoughtLabel==slightly impressive barrack)->My room is quite nice. Unfortunately, I have to share it with others.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.225>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.226>thought_sleptinbarracks(INITIATOR_thoughtLabel==impressive barrack)->My room is very nice. If only I didn't have to share it with others...</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.226>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.227>thought_sleptinbarracks(INITIATOR_thoughtLabel==very impressive barrack)->My room is very impressive. I don't even mind sharing it!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.227>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.228>thought_sleptinbarracks(INITIATOR_thoughtLabel==extremely impressive barrack)->My room is so extremely impressive that sharing it doesn't even bother me!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.228>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.229>thought_sleptinbarracks(INITIATOR_thoughtLabel==unbelievably impressive barrack)->I can't believe how nice is my shared room!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.229>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.230>thought_sleptinbarracks(INITIATOR_thoughtLabel==wondrously impressive barrack)->My shared room is just a dream come true!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.230>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.231>r_logentry(INITIATOR_thoughtDefName==SleptInBedroom,tag=ReactToThought_Bedroom)->[thought_bedroom] [what_about_yours]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.231>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.232>thought_bedroom(INITIATOR_thoughtLabel==awful bedroom)->Luckily, I have my own bedroom. Too bad it's [ugly] as hell.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.232>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.233>thought_bedroom(INITIATOR_thoughtLabel==decent bedroom)->I sleep in a [proper] bedroom.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.233>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.234>thought_bedroom(INITIATOR_thoughtLabel==slightly impressive bedroom)->I like my bedroom - it's a nice one.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.234>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.235>thought_bedroom(INITIATOR_thoughtLabel==impressive bedroom)->I sleep in an impressive bedroom. It's great!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.235>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.236>thought_bedroom(INITIATOR_thoughtLabel==very impressive bedroom)->I sleep in a very impressive bedroom. I just love it!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.236>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.237>thought_bedroom(INITIATOR_thoughtLabel==extremely impressive bedroom)->I get to sleep in an extremely impressive bedroom! </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.237>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.238>thought_bedroom(INITIATOR_thoughtLabel==unbelievably impressive bedroom)->My bedroom is truly astounding!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.238>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.239>thought_bedroom(INITIATOR_thoughtLabel==wondrously impressive bedroom)->Sleeping in my bedroom feels like Heaven. Just wondrous!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.239>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.240>r_logentry(INITIATOR_thoughtDefName==SleptInCold,tag=ReactToThought_SleptInCold)->[thought_sleptincold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.240>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.241>thought_sleptincold->[slept_in_cold] [hope_wont_happen_again_heatsource]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.241>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.242>slept_in_cold->I slept in the cold.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.242>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.243>slept_in_cold->I couldn't sleep well - the cold wouldn't let me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.243>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.244>hope_wont_happen_again_heatsource(INITIATOR_construction_level&lt;5)->[thought_sleptincold_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.244>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.245>thought_sleptincold_construction_unskilled(RECIPIENT_construction_level&lt;5)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.245>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.246>thought_sleptincold_construction_unskilled(RECIPIENT_construction_level>=5)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.246>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.247>hope_wont_happen_again_heatsource(INITIATOR_construction_level>=5)->[thought_sleptincold_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.247>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.248>thought_sleptincold_construction_skilled(RECIPIENT_construction_level&lt;5)->I shouldn't have let this happen - I could've built a [proper] heat source.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.248>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.249>thought_sleptincold_construction_skilled(RECIPIENT_construction_level>=5)->We shouldn't have let this happen - we could've built a [proper] heat source.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.249>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.250>r_logentry(INITIATOR_thoughtDefName==SleptInHeat,tag=ReactToThought_SleptInHeat)->[thought_sleptinheat]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.250>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.251>thought_sleptinheat->[slept_in_heat] [hope_wont_happen_again_cooler]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.251>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.252>slept_in_heat->I had to sleep in unbearable heat.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.252>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.253>slept_in_heat->I couldn't sleep well - the heat wouldn't let me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.253>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.254>hope_wont_happen_again_cooler(INITIATOR_construction_level&lt;5)->[thought_sleptinheat_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.254>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.255>thought_sleptinheat_construction_unskilled(RECIPIENT_construction_level&lt;5)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.255>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.256>thought_sleptinheat_construction_unskilled(RECIPIENT_construction_level>=5)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.256>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.257>hope_wont_happen_again_cooler(INITIATOR_construction_level>=5)->[thought_sleptinheat_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.257>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.258>thought_sleptinheat_construction_skilled(RECIPIENT_construction_level&lt;5)->I shouldn't have let this happen - I could've built a cooler.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.258>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.259>thought_sleptinheat_construction_skilled(RECIPIENT_construction_level>=5)->We shouldn't have let this happen - we could've built a cooler.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.259>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.260>r_logentry(INITIATOR_thoughtDefName==SleptOnGround,tag=ReactToThought_SleptOnGround)->[thought_sleptonground]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.260>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.261>thought_sleptonground->[slept_on_ground] [hope_wont_happen_again_bed]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.261>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.262>slept_on_ground->I had to sleep on the ground like an animal - [humiliating]!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.262>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.263>hope_wont_happen_again_bed(INITIATOR_construction_level&lt;4)->[thought_sleptonground_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.263>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.264>thought_sleptonground_construction_unskilled(RECIPIENT_construction_level&lt;4)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.264>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.265>thought_sleptonground_construction_unskilled(RECIPIENT_construction_level>=4)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.265>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.266>hope_wont_happen_again_bed(INITIATOR_construction_level>=4)->[thought_sleptonground_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.266>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.267>thought_sleptonground_construction_skilled(RECIPIENT_construction_level&lt;4)->I shouldn't have let this happen - I could've built a bed for myself.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.267>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.268>thought_sleptonground_construction_skilled(RECIPIENT_construction_level>=4)->We shouldn't have let this happen - we could've built a bed for me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.268>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.269>r_logentry(INITIATOR_thoughtDefName==SleptOutside,tag=ReactToThought_SleptOutside)->[thought_sleptoutside]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.269>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.270>thought_sleptoutside->[slept_outside] [hope_wont_happen_again_outside]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.270>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.271>slept_outside->I had to sleep [outdoors] - [humiliating]!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.271>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.272>slept_outside->I had the [humiliating] experience of sleeping without a [proper] roof!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.272>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.273>hope_wont_happen_again_outside(INITIATOR_construction_level&lt;4)->[thought_sleptoutside_construction_unskilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.273>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.274>thought_sleptoutside_construction_unskilled(RECIPIENT_construction_level&lt;4)-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.274>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.275>thought_sleptoutside_construction_unskilled(RECIPIENT_construction_level>=4)->I hope you won't let this happen again, [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.275>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.276>hope_wont_happen_again_outside(INITIATOR_construction_level>=4)->[thought_sleptoutside_construction_skilled]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.276>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.277>thought_sleptoutside_construction_skilled(RECIPIENT_construction_level&lt;4)->I shouldn't have let this happen - I could've built a roofed room for myself.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.277>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.278>thought_sleptoutside_construction_skilled(RECIPIENT_construction_level>=4)->We shouldn't have let this happen - we could've built a roofed room for me.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.278>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.279>r_logentry(INITIATOR_thoughtDefName==UndergrounderOutdoors,tag=ReactToThought_UndergrounderOutdoors)->[thought_undergrounderoutdoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.279>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.280>thought_undergrounderoutdoors->I don't like being outside. I'd rather be indoors.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.280>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.281>r_logentry(INITIATOR_opinion>=0,tag=WhatsUp)->So, [RECIPIENT_nameDef] - [whatsup]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.281>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.282>whatsup(INITIATOR_intellectual_level&lt;5)->wassup?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.282>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.283>whatsup(INITIATOR_intellectual_level&lt;3)->sup?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.283>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.284>whatsup(INITIATOR_intellectual_level&lt;5)->what's popping?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.284>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.285>whatsup(INITIATOR_intellectual_level&lt;5)->what's cracking?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.285>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.286>whatsup->what's up?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.286>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.287>whatsup->what's going on?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.287>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.288>whatsup->what's on your mind?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.288>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.289>whatsup->what's new?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.289>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.290>r_logentry(INITIATOR_mood>=0.4)->[mood_calm]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.290>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.291>mood_calm(tag=Calm)->|||smiles|||</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.291>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.292>r_logentry(INITIATOR_opinion>=0,tag=HowAreYou)->Hey, [RECIPIENT_nameDef]. [howareyou]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.292>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.293>howareyou->How are you?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.293>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.294>howareyou->How are things?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.294>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.295>howareyou->How have you been?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.295>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.296>howareyou->How's life?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.296>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.297>howareyou->How are you getting along?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.297>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.298>howareyou(RECIPIENT_mood&lt;0.5)->Are you OK?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.298>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.299>r_logentry(INITIATOR_trait==ascetic,tag=AsceticWisdom)->[trait_ascetic]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.299>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.300>trait_ascetic->Being truly rich is not about having great possessions - it's about having few wants.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.300>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.301>trait_ascetic->He who fears death will never do anything worth of a man who is alive.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.301>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.302>trait_ascetic->You can control your mind — not outside events. Absorb this, and you shall find strength.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.302>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.303>trait_ascetic(INITIATOR_animals_passion==Minor)->Observe the [Animal] and its simpler life - there is a lot to learn from it.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.303>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.304>trait_ascetic(INITIATOR_animals_passion==Major)->Observe the [Animal] and its simpler life - there is a lot to learn from it.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.304>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.305>r_logentry(INITIATOR_trait==optimist,tag=LuckyFuture)->[lucky_future]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.305>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.306>r_logentry(INITIATOR_trait==sanguine,tag=LuckyFuture)->[lucky_future]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.306>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.307>lucky_future(DAYPERIOD==night)->[can_feel_it] today [lucky_day]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.307>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.308>lucky_future(DAYPERIOD==morning)->[can_feel_it] today [lucky_day]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.308>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.309>lucky_future(DAYPERIOD==afternoon)->[can_feel_it] tomorrow [lucky_day]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.309>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.310>lucky_future(DAYPERIOD==evening)->[can_feel_it] tomorrow [lucky_day]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.310>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.311>can_feel_it->I can feel it -</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.311>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.312>can_feel_it->I have a feeling</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.312>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.313>lucky_day->will be my lucky day!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.313>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.314>lucky_day->is going to be my lucky day!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.314>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.315>r_logentry(INITIATOR_trait==psychically sensitive)->[trait_psy_sensitive]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.315>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.316>r_logentry(INITIATOR_trait==psychically hypersensitive)->[trait_psy_sensitive]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.316>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.317>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [PersonJob] visiting a [AdjectiveFriendly] [Community].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.317>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.318>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [PersonJob] admiring a [nice] [TerrainFeature] from afar.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.318>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.319>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [Color] [Animal] in a [AdjectiveLarge] [TreeType] forest.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.319>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.320>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [Animal] eating [Vegetable]s.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.320>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.321>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [Community] of [AdjectiveFriendly] [Color] [Animal]s.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.321>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.322>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about [Quantity_adjphrase] [PersonJob]s who were [VerbFriendly] in a [AdjectiveFriendly] [Community].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.322>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.323>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveLarge] [Animal] saving a [AdjectiveAngsty] [Community] from a [AdjectiveBadass] [Enemy].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.323>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.324>trait_psy_sensitive(tag=PsyVisionGood)->[vision_start] about a [AdjectiveFriendly] [PersonJob] wearing a [AdjectiveAny] [Color] [Apparel].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.324>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.325>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [AdjectiveLarge] [AnimalGroup] of [Animal]s in a [TreeType] forest.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.325>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.326>trait_psy_sensitive(tag=PsyVision)->[vision_start] about [Animal]-shaped clouds over a [AdjectiveAny] [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.326>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.327>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [Color] [Animal] and a [Color] [Animal] competing for the same [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.327>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.328>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [AdjectiveBadass] [Enemy] struggling against a [AdjectiveBadass] [Enemy].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.328>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.329>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [AdjectiveAny] [Apparel] dancing in the wind over a [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.329>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.330>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a group of [PersonJob]s visiting a [Community] to buy [AdjectiveAny] [Apparel]s.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.330>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.331>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a [PersonJob] arguing with a [PersonJob] about a [AdjectiveAny] [Weapon].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.331>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.332>trait_psy_sensitive(tag=PsyVision)->[vision_start] about a group of [PersonJob]s visiting a [Community] to buy [AdjectiveAny] [Weapon]s.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.332>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.333>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveBadass] [Enemy] with a [AdjectiveBadass] [Weapon] covered in [Gore].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.333>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.334>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about [Quantity_adjphrase] [AdjectiveBadass] [Enemy]s - and one of them wielded a [AdjectiveLarge] [AdjectiveBadass] [Weapon].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.334>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.335>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveAngsty] [PersonJob] running from a [AdjectiveBadass] [Enemy].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.335>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.336>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveBadass] [Mechanoid] chasing a group of [PersonJob]s into a [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.336>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.337>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about [AdjectiveBadass] [Mechanoid]s mercilessly destroying a [AdjectiveFriendly] [Community].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.337>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.338>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveAngsty] [Community] near a [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.338>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.339>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about a [AdjectiveAngsty] [PersonJob] near a [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.339>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.340>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about [Enemy]-shaped clouds over a [AdjectiveAngsty] [TerrainFeature].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.340>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.341>trait_psy_sensitive(tag=PsyVisionBad)->[vision_start] about two coffins - one had a dead [PersonJob] in it, the other was empty.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.341>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.342>vision_start->I just had a [vision_adj] vision</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.342>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.343>vision_adj->peculiar</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.343>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.344>vision_adj->startling</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.344>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.345>vision_adj->strange</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.345>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.346>vision_adj->fading</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.346>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.347>vision_adj->fleeting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.347>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.348>vision_adj->sudden</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.348>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.349>vision_adj->momentary</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.349>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.350>vision_adj->colorful</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.350>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.351>vision_adj->clear</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.351>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.352>vision_adj->sudden</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.352>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.353>r_logentry(WEATHER==clear)->[weather_clear]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.353>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.354>weather_clear(TEMPERATURE>=-10,TEMPERATURE&lt;=35)->[weather_clear_goodtemp]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.354>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.355>weather_clear_goodtemp(OUTDOORS==No,tag=WeatherClearGoodtempIndoors)->[weather_clear_goodtemp_indoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.355>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.356>weather_clear_goodtemp_indoors->The weather outside is [nice].</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.356>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.357>weather_clear_goodtemp(OUTDOORS==Yes,tag=WeatherClearGoodtempOutdoors)->[weather_clear_goodtemp_outdoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.357>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.358>weather_clear_goodtemp_outdoors->It certainly helps to have such a [nice] weather.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.358>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.359>weather_clear_goodtemp_outdoors->This [nice] weather is good for us.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.359>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.360>weather_clear_goodtemp_outdoors(INITIATOR_mood>=0.7)->What a [nice] weather we're having!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.360>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.361>weather_clear_goodtemp_outdoors(INITIATOR_mood>=0.5)->Such a [nice] [DAYPERIOD]!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.361>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.362>weather_clear_goodtemp_outdoors(INITIATOR_mood&lt;0.5)->The weather is [nice], at least.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.362>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.363>weather_clear(TEMPERATURE&lt;-10)->[weather_toocold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.363>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.364>weather_clear(TEMPERATURE>35)->[weather_toohot]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.364>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.365>r_logentry(WEATHER==fog)->[weather_fog]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.365>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.366>weather_fog(RECIPIENT_shooting_level>=5,RECIPIENT_animals_level>=5,tag=HuntWithFog)->I guess this fog means no hunting for you today?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.366>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.367>weather_fog(TEMPERATURE>=-10,TEMPERATURE&lt;=35)->[weather_fog_goodtemp]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.367>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.368>weather_fog_goodtemp(INITIATOR_trait==too smart,tag=WeatherFogToosmart)->[fog_fact]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.368>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.369>fog_fact(INITIATOR_intellectual_level>=10)->Fog is a visible aerosol consisting of tiny water droplets or ice crystals suspended in the air at or near the planet's surface.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.369>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.370>fog_fact(INITIATOR_intellectual_level>=7)->Fog is sometimes considered a type of low-lying cloud usually resembling stratus.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.370>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.371>fog_fact(INITIATOR_intellectual_level>=5)->Fog is heavily influenced by nearby bodies of water, topography and wind conditions.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.371>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.372>fog_fact->Fog is known to show up when water vapor, or water in its gaseous form, condenses.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.372>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.373>weather_fog_goodtemp(INITIATOR_trait==wimp,tag=WeatherFogWimp)->I'm [scared]... what if some [horrible] [monster] suddenly comes out of this [eerie] [mist]?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.373>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.374>weather_fog_goodtemp(OUTDOORS==Yes,tag=WeatherFogGoodtempOutdoors)->[weather_fog_goodtemp_outdoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.374>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.375>weather_fog_goodtemp_outdoors(INITIATOR_mood>=0.5)->It's pretty foggy out here.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.375>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.376>weather_fog_goodtemp_outdoors(INITIATOR_mood>=0.3,INITIATOR_mood&lt;0.5)->This fog won't let me see a damn thing.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.376>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.377>weather_fog_goodtemp_outdoors(INITIATOR_mood&lt;0.3)->Blasted fog! Can't see a bloody thing out here!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.377>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.378>weather_fog(TEMPERATURE&lt;-10)->[weather_toocold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.378>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.379>weather_fog(TEMPERATURE>35)->[weather_toohot]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.379>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.380>r_logentry(WEATHER==rain)->[weather_rain]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.380>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.381>weather_rain(TEMPERATURE>=-10,TEMPERATURE&lt;=35)->[weather_rain_goodtemp]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.381>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.382>weather_rain_goodtemp(OUTDOORS==No,tag=WeatherRainGoodtempIndoors)->[weather_rain_goodtemp_indoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.382>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.383>weather_rain_goodtemp_indoors->Mmm... It's raining.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.383>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.384>weather_rain_goodtemp_indoors->Look, it's raining.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.384>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.385>weather_rain_goodtemp_indoors->Can you hear it? It's raining.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.385>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.386>weather_rain_goodtemp(OUTDOORS==Yes,tag=WeatherRainGoodtempOutdoors)->[weather_rain_goodtemp_outdoors]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.386>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.387>weather_rain_goodtemp_outdoors->Maybe we'd better get inside.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.387>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.388>weather_rain_goodtemp_outdoors(TEMPERATURE&lt;=5,INITIATOR_trait==sickly)->Let's get inside, please - or I'll [surely] catch a cold or worse.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.388>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.389>weather_rain_goodtemp_outdoors(TEMPERATURE&lt;=5,INITIATOR_trait==wimp)->Let's get inside, please - I'd rather not catch a cold.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.389>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.390>weather_rain(TEMPERATURE&lt;-10)->[weather_toocold]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.390>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.391>weather_rain(TEMPERATURE>35)->[weather_toohot]</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.391>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.392>animal_large->a horse</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.392>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.393>animal_large->a muffalo</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.393>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.394>animal_large->an elephant</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.394>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.395>annoying->annoying</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.395>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.396>annoying->bad</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.396>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.397>annoying->irritating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.397>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.398>annoying->infuriating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.398>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.399>annoying->maddening</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.399>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.400>annoying->bothersome</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.400>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.401>annoying(INITIATOR_intellectual_level>=5)->exasperating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.401>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.402>disgusting->disgusting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.402>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.403>disgusting->nauseating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.403>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.404>disgusting->sickening</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.404>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.405>disgusting->gross</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.405>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.406>disgusting(INITIATOR_intellectual_level>=5)->revolting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.406>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.407>disgusting(INITIATOR_intellectual_level>=10)->repugnant</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.407>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.408>disturbing->disturbing</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.408>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.409>disturbing->unsettling</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.409>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.410>disturbing->gut-wrenching</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.410>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.411>disturbing->gross</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.411>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.412>disturbing(INITIATOR_intellectual_level>=5)->perturbing</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.412>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.413>disturbing(INITIATOR_intellectual_level>=5)->disquieting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.413>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.414>disturbing(INITIATOR_intellectual_level>=10)->abhorrent</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.414>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.415>disturbing(INITIATOR_intellectual_level>=10)->abominable</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.415>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.416>eerie->strange</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.416>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.417>eerie->eerie</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.417>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.418>eerie->otherworldy</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.418>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.419>eerie->unearthly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.419>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.420>eerie->spooky</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.420>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.421>fix->fix</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.421>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.422>fix->manage</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.422>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.423>fix->handle</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.423>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.424>fix->deal with</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.424>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.425>fix->see to</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.425>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.426>fix->take care of</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.426>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.427>fix(INITIATOR_intellectual_level>=5)->remedy</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.427>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.428>fix(INITIATOR_intellectual_level>=10)->rectify</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.428>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.429>horrible->terrible</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.429>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.430>horrible->horrible</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.430>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.431>horrible->unholy</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.431>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.432>horrible->ugly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.432>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.433>horrible->fearsome</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.433>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.434>horrible->frightening</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.434>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.435>horrible->ghastly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.435>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.436>horrible->ghoulish</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.436>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.437>humiliating->humiliating</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.437>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.438>humiliating->demeaning</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.438>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.439>humiliating->embarassing</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.439>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.440>humiliating->mortifying</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.440>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.441>humiliating(INITIATOR_intellectual_level>=5)->undignified</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.441>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.442>humiliating(INITIATOR_intellectual_level>=10)->discomfiting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.442>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.443>humiliating(INITIATOR_intellectual_level>=10)->disgraceful</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.443>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.444>humiliating(INITIATOR_intellectual_level>=15)->ignominous</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.444>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.445>mist->mist</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.445>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.446>mist->fog</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.446>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.447>monster->monster</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.447>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.448>monster->beast</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.448>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.449>monster->fiend</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.449>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.450>monster->abomination</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.450>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.451>monster->creature</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.451>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.452>monster->ghost</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.452>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.453>monster->alien</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.453>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.454>nice->nice</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.454>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.455>nice->good</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.455>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.456>nice->pleasant</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.456>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.457>nice->wonderful</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.457>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.458>nice->fair</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.458>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.459>nice->fine</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.459>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.460>outdoors->outdoors</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.460>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.461>outdoors->in the open</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.461>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.462>outdoors->outside</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.462>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.463>proper->fitting</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.463>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.464>proper->suitable</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.464>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.465>proper->regular</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.465>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.466>proper->decent</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.466>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.467>proper(INITIATOR_intellectual_level>=5)->conventional</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.467>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.468>scared->so scared</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.468>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.469>scared->scared stiff</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.469>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.470>scared->scared witless</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.470>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.471>scared->shaking like a leaf</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.471>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.472>scared->terrified</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.472>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.473>scared->worried</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.473>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.474>swearword-></Chitchat.logRulesInitiator.rulesStrings.rulesStrings.474>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.475>swearword->blasted </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.475>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.476>swearword->blasted </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.476>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.477>swearword->bloody </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.477>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.478>swearword->damn </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.478>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.479>swearword->wretched </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.479>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.480>swearword(INITIATOR_trait==abrasive)->[swearword_abrasive] </Chitchat.logRulesInitiator.rulesStrings.rulesStrings.480>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.481>swearword_abrasive->frakking</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.481>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.482>swearword_abrasive->frigging</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.482>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.483>swearword_abrasive->fucking</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.483>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.484>swearword_abrasive->sodding</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.484>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.485>surely->surely</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.485>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.486>surely->certainly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.486>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.487>surely->obviously</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.487>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.488>surely->clearly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.488>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.489>surely->definitely</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.489>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.490>surely(INITIATOR_intellectual_level>=10)->unquestionably</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.490>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.491>surely(INITIATOR_intellectual_level>=5)->undeniably</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.491>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.492>ugly->ugly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.492>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.493>ugly->hideous</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.493>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.494>ugly->horrible</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.494>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.495>ugly->frightful</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.495>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.496>ugly->grisly</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.496>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.497>ugly->gruesome</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.497>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.498>ugly->grim</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.498>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.499>ugly(INITIATOR_intellectual_level>=5)->repugnant</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.499>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.500>ugly(INITIATOR_intellectual_level>=5)->vile</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.500>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.501>ugly(INITIATOR_intellectual_level>=5)->grotesque</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.501>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.502>weather_toocold(INITIATOR_thoughtLabel==chilly,priority=1)->I should get better clothing - I'm almost freezing.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.502>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.503>weather_toocold(INITIATOR_thoughtLabel==cold,priority=1)->I should get better clothing - I'm cold!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.503>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.504>weather_toocold(INITIATOR_thoughtLabel==numbing cold,priority=1)->I should get better clothing - I'm freezing!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.504>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.505>weather_toocold(INITIATOR_thoughtLabel==absolutely freezing,priority=1)->I should get better clothing - I'm totally numbed by the cold!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.505>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.506>weather_toocold->Luckily, my gear is warm enough to protect me from this extreme cold!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.506>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.507>weather_toohot(INITIATOR_thoughtLabel==sweaty,priority=1)->I should get better clothing - I'm sweating.</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.507>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.508>weather_toohot(INITIATOR_thoughtLabel==hot,priority=1)->I should get better clothing - I'm feeling very hot!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.508>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.509>weather_toohot(INITIATOR_thoughtLabel==sweltering hot,priority=1)->I should get better clothing - I'm feeling extremely hot!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.509>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.510>weather_toohot(INITIATOR_thoughtLabel==blistering hot,priority=1)->I should get better clothing - I'm melting!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.510>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.511>weather_toohot->Luckily, my gear is good enough to protect me from this scorching heat!</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.511>
+  <Chitchat.logRulesInitiator.rulesStrings.rulesStrings.512>what_about_yours->What about yours, [RECIPIENT_nameDef]?</Chitchat.logRulesInitiator.rulesStrings.rulesStrings.512>
   <Slight.logRulesInitiator.rulesStrings.rulesStrings.0>r_logentry(INITIATOR_opinion&lt;=-50,tag=Slight_generic)->I'm not saying I hate you, but I'd unplug your life support to charge my batteries.</Slight.logRulesInitiator.rulesStrings.rulesStrings.0>
   <Slight.logRulesInitiator.rulesStrings.rulesStrings.1>r_logentry->The world would be a better place without you.</Slight.logRulesInitiator.rulesStrings.rulesStrings.1>
   <Slight.logRulesInitiator.rulesStrings.rulesStrings.2>r_logentry(INITIATOR_trait==abrasive,tag=Slight_generic)->[initiator_abrasive]</Slight.logRulesInitiator.rulesStrings.rulesStrings.2>
