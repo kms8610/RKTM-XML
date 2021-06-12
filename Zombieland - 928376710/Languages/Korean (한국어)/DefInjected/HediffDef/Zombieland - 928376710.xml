@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ZombieBite.label>zombie bite</ZombieBite.label>
+  <ZombieBite.description>A infectious bite of a zombie.</ZombieBite.description>
+  <ZombieBite.comps.0.labelTendedWell>bandaged</ZombieBite.comps.0.labelTendedWell>
+  <ZombieBite.comps.0.labelTendedWellInner>sutured</ZombieBite.comps.0.labelTendedWellInner>
+  <ZombieBite.comps.0.labelSolidTendedWell>set</ZombieBite.comps.0.labelSolidTendedWell>
+  <ZombieBite.injuryProps.destroyedLabel>Bitten off by a zombie</ZombieBite.injuryProps.destroyedLabel>
+  <ZombieBite.injuryProps.destroyedOutLabel>Bitten out by a zombie</ZombieBite.injuryProps.destroyedOutLabel>
+  <ZombieInfection.label>zombie infection</ZombieInfection.label>
+  <ZombieInfection.description>Zombie infection after death</ZombieInfection.description>
+</LanguageData>
