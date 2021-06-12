@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_NamerFactionInsect.rulePack.rulesStrings.0>r_name->[groupname] Hive</VFEI_NamerFactionInsect.rulePack.rulesStrings.0>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.0>r_name(p=12)->Infested [townname_wordgen] Settlement</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.0>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.1>r_name(p=6)->Infested [townname_fixed] Settlement</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.1>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.2>r_name(p=4)->Infested [townname_combo] Settlement</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.2>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.3>r_name->Infested [townname_near] Settlement</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.3>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.4>topicalnoun->[Vegetable]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.4>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.5>topicalnoun->[Game]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.5>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.6>topicalnoun->[BodyPart]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.6>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.7>townname_combo->[topicalnoun] [TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.7>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.8>townname_combo->[topicalnoun]'s [TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.8>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.9>townname_combo(p=2)->[concept_positive]'s [TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.9>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.10>townname_combo(p=2)->[concept_positive] [TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.10>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.11>townname_combo(p=2)->[concept_positive] [Community]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.11>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.12>townname_combo(p=3)->[Character]'s [TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.12>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.13>townname_combo(p=3)->[Character]'s [Community]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.13>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.14>townname_near->[nearnameinitial]-at-the-[TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.14>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.15>townname_near->[nearnameinitial]-by-the-[TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.15>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.16>townname_near->[nearnameinitial]-on-the-[TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.16>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.17>nearnameinitial->[townname_wordgen]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.17>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.18>nearnameinitial->[Community]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.18>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.19>townname_wordgen(p=2)->[SylE][SylE]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.19>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.20>townname_wordgen(p=2)->[SylE][SylE][SylE]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.20>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.21>townname_wordgen(p=2)->[SylE][townend]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.21>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.22>townname_wordgen(p=2)->[SylE][SylE][townend]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.22>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.23>townname_wordgen->[TerrainFeature][townend]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.23>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.24>townname_wordgen->[topicalnoun][townend]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.24>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.25>townend->ville</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.25>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.26>townend->town</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.26>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.27>townend->hurst</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.27>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.28>townend->bourne</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.28>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.29>townend->brad</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.29>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.30>townend->dale</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.30>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.31>townend->hope</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.31>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.32>townend->ing</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.32>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.33>townend->ness</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.33>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.34>townend->mere</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.34>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.35>townend->shaw</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.35>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.36>townend->wick</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.36>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.37>townend->ton</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.37>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.38>townend->ston</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.38>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.39>townend->os</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.39>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.40>townend->den</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.40>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.41>townend->tas</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.41>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.42>townend->wood</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.42>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.43>townend->land</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.43>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.44>townend->worth</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.44>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.45>townend->roon</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.45>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.46>townend->ron</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.46>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.47>townend->well</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.47>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.48>r_name(p=4)->Infested [townname_combo] Settlement</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.48>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.49>r_name->Infested [townname_wordgen] Settlement</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.49>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.50>townname_combo->[AnimalBadass] [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.50>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.51>townname_combo->[AnimalBadass]'s [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.51>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.52>townname_combo->[ConceptBadass] [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.52>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.53>townname_combo->[ConceptBadass]'s' [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.53>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.54>townname_combo->[PersonBadass] [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.54>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.55>townname_combo->[PersonBadass]'s [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.55>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.56>townname_combo->[Enemy]'s [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.56>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.57>townname_combo->[Enemy] [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.57>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.58>townname_combo->[Weapon]'s [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.58>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.59>townname_combo->[Weapon] [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.59>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.60>townname_combo->[ColorBadass] [geography]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.60>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.61>geography(p=2)->[TerrainFeature]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.61>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.62>geography->[Community]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.62>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.63>townname_wordgen(p=2)->[SylE][SylE]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.63>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.64>townname_wordgen(p=2)->[SylE][SylE][SylE]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.64>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.65>townname_wordgen(p=2)->[SylE][townendevil]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.65>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.66>townname_wordgen(p=2)->[SylE][SylE][townendevil]</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.66>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.67>townendevil->vast</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.67>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.68>townendevil->varg</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.68>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.69>townendevil->vix</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.69>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.70>townendevil->tor</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.70>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.71>townendevil->tear</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.71>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.72>townendevil->cut</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.72>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.73>townendevil->lop</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.73>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.74>townendevil->oze</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.74>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.75>townendevil->ozzle</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.75>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.76>townendevil->latch</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.76>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.77>townendevil->lock</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.77>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.78>townendevil->burn</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.78>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.79>townendevil->sear</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.79>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.80>townendevil->shank</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.80>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.81>townendevil->hurt</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.81>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.82>townendevil->vash</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.82>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.83>townendevil->warg</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.83>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.84>townendevil->wug</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.84>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.85>townendevil->thot</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.85>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.86>townendevil->thard</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.86>
+  <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.87>townendevil->thad</VFEI_NamerSettlementInsectoid.rulePack.rulesStrings.87>
+</LanguageData>

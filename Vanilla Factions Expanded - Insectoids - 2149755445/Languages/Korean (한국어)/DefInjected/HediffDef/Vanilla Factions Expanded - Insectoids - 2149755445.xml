@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_RoyalJellyHigh.label>high on royal jelly</VFEI_RoyalJellyHigh.label>
+  <VFEI_RoyalJellyHigh.labelNoun>a royal jelly high</VFEI_RoyalJellyHigh.labelNoun>
+  <VFEI_RoyalJellyHigh.description>High on royal jelly</VFEI_RoyalJellyHigh.description>
+  <VFEI_RoyalJellyTolerance.label>royal jelly tolerance</VFEI_RoyalJellyTolerance.label>
+  <VFEI_RoyalJellyTolerance.description>Royal jelly tolerance</VFEI_RoyalJellyTolerance.description>
+  <VFEI_RoyalJellyAddiction.label>royal jelly addiction</VFEI_RoyalJellyAddiction.label>
+  <VFEI_RoyalJellyAddiction.description>Royal jelly addiction</VFEI_RoyalJellyAddiction.description>
+  <VFEI_RoyalJellyAddiction.stages.1.label>withdrawal</VFEI_RoyalJellyAddiction.stages.1.label>
+  <VFEI_ToxicBuildup.description>Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.</VFEI_ToxicBuildup.description>
+  <VFEI_ToxicBuildup.label>toxic buildup</VFEI_ToxicBuildup.label>
+  <VFEI_ToxicBuildup.stages.0.label>initial</VFEI_ToxicBuildup.stages.0.label>
+  <VFEI_ToxicBuildup.stages.1.label>initial</VFEI_ToxicBuildup.stages.1.label>
+  <VFEI_ToxicBuildup.stages.2.label>minor</VFEI_ToxicBuildup.stages.2.label>
+  <VFEI_ToxicBuildup.stages.3.label>moderate</VFEI_ToxicBuildup.stages.3.label>
+  <VFEI_ToxicBuildup.stages.4.label>serious</VFEI_ToxicBuildup.stages.4.label>
+  <VFEI_ToxicBuildup.stages.5.label>extreme</VFEI_ToxicBuildup.stages.5.label>
+  <VFEI_TempDown.description>Plasmapiercer shock can knock down most humanlike and larger creatures.</VFEI_TempDown.description>
+  <VFEI_TempDown.label>plasmapiercer shock</VFEI_TempDown.label>
+  <VFEI_TempDown.stages.0.label>initial</VFEI_TempDown.stages.0.label>
+  <VFEI_TempDown.stages.1.label>initial</VFEI_TempDown.stages.1.label>
+  <VFEI_TempDown.stages.2.label>minor</VFEI_TempDown.stages.2.label>
+  <VFEI_TempDown.stages.3.label>moderate</VFEI_TempDown.stages.3.label>
+  <VFEI_TempDown.stages.4.label>serious</VFEI_TempDown.stages.4.label>
+  <VFEI_TempDown.stages.5.label>extreme</VFEI_TempDown.stages.5.label>
+  <VFEI_DroneGenome.label>drone genome</VFEI_DroneGenome.label>
+  <VFEI_DroneGenome.labelNoun>a drone genome</VFEI_DroneGenome.labelNoun>
+  <VFEI_DroneGenome.description>An installed drone genome.</VFEI_DroneGenome.description>
+  <VFEI_InsectoidLeg.label>insectoid leg</VFEI_InsectoidLeg.label>
+  <VFEI_InsectoidLeg.labelNoun>an insectoid leg</VFEI_InsectoidLeg.labelNoun>
+  <VFEI_InsectoidLeg.description>A jointed appendage of an insectoid, consisting of several chitin covered segments. Whilst it’s an extremely painful mutation, this leg has much higher resistance to damage.</VFEI_InsectoidLeg.description>
+  <VFEI_InsectoidArm.label>insectoid arm</VFEI_InsectoidArm.label>
+  <VFEI_InsectoidArm.labelNoun>an insectoid arm</VFEI_InsectoidArm.labelNoun>
+  <VFEI_InsectoidArm.description>A jointed appendage of an insectoid, consisting of several chitin covered segments. Whilst it’s an extremely painful mutation, this arm has much higher resistance to damage.</VFEI_InsectoidArm.description>
+  <VFEI_CompoundEye.label>compound eye</VFEI_CompoundEye.label>
+  <VFEI_CompoundEye.labelNoun>a compound eye</VFEI_CompoundEye.labelNoun>
+  <VFEI_CompoundEye.description>An eye consisting of thousands of individual photoreceptor units, compound eyes have a large field of view and help with detecting fast movement, however its visibility range is significantly reduced. Whilst it’s an extremely painful mutation, this eye has a higher resistance to damage.</VFEI_CompoundEye.description>
+  <VFEI_Mandibles.label>mandibles</VFEI_Mandibles.label>
+  <VFEI_Mandibles.labelNoun>mandible</VFEI_Mandibles.labelNoun>
+  <VFEI_Mandibles.description>A pair of appendages situated on the sides of the mouth, Helping to crush and cut the food. Whilst it’s significantly less comfortable than normal jaw, insectoid mandibles significantly increase eating speed.</VFEI_Mandibles.description>
+  <VFEI_JellySac.label>jelly sac</VFEI_JellySac.label>
+  <VFEI_JellySac.labelNoun>a jelly sac</VFEI_JellySac.labelNoun>
+  <VFEI_JellySac.description>A tube-like organ grown within the body. It allows humans to produce low quantities of insect jelly over time. It’s an extremely painful mutation, in some cases requiring medical enhancement for the person to actually live with it.</VFEI_JellySac.description>
+  <VFEI_WarriorGenome.label>warrior genome</VFEI_WarriorGenome.label>
+  <VFEI_WarriorGenome.labelNoun>a warrior genome</VFEI_WarriorGenome.labelNoun>
+  <VFEI_WarriorGenome.description>An installed warrior genome.</VFEI_WarriorGenome.description>
+  <VFEI_VenomGland.label>venom gland</VFEI_VenomGland.label>
+  <VFEI_VenomGland.labelNoun>venom gland</VFEI_VenomGland.labelNoun>
+  <VFEI_VenomGland.description>A sack-like gland tucked under the tongue that secretes acid, liquifying and allowing to safely consume even the most dangerous foods. The overstimulation of this gland enables the user to throw a short range acid spitting attack, effective at going through armor.</VFEI_VenomGland.description>
+  <VFEI_VenomGland.comps.0.tools.0.label>venom gland</VFEI_VenomGland.comps.0.tools.0.label>
+  <VFEI_PneumaticClaw.label>pneumatic claw</VFEI_PneumaticClaw.label>
+  <VFEI_PneumaticClaw.labelNoun>pneumatic claw</VFEI_PneumaticClaw.labelNoun>
+  <VFEI_PneumaticClaw.description>A powerful pneumatic pincer arm, capable of repeatedly exerting great pressure on the target at the cost of refined motor skills.</VFEI_PneumaticClaw.description>
+  <VFEI_PneumaticClaw.comps.0.tools.0.label>claw</VFEI_PneumaticClaw.comps.0.tools.0.label>
+  <VFEI_Antenna.label>antenna</VFEI_Antenna.label>
+  <VFEI_Antenna.labelNoun>antenna</VFEI_Antenna.labelNoun>
+  <VFEI_Antenna.description>A slender, mobile sensory organ that serves to compliment vision and locational awareness. A subject with this mutation will no longer suffer from darkness penalties, however sensory overload makes it very difficult to socialize.</VFEI_Antenna.description>
+  <VFEI_PredatorStomach.label>predator stomach</VFEI_PredatorStomach.label>
+  <VFEI_PredatorStomach.labelNoun>predator stomach</VFEI_PredatorStomach.labelNoun>
+  <VFEI_PredatorStomach.description>A highly efficient, although basic stomach alternative. Subjects with this mutation will be able to live longer with less food.</VFEI_PredatorStomach.description>
+  <VFEI_RoyalGenome.label>royal genome</VFEI_RoyalGenome.label>
+  <VFEI_RoyalGenome.labelNoun>a royal genome</VFEI_RoyalGenome.labelNoun>
+  <VFEI_RoyalGenome.description>An installed royal genome.</VFEI_RoyalGenome.description>
+  <VFEI_PheromoneSecretor.label>pheromone secretor</VFEI_PheromoneSecretor.label>
+  <VFEI_PheromoneSecretor.labelNoun>pheromone secretor</VFEI_PheromoneSecretor.labelNoun>
+  <VFEI_PheromoneSecretor.description>Insectoid glands that slowly leak colorless, odorless, but sticky pheromone, notable for inducing a mild euphoria in those nearby.</VFEI_PheromoneSecretor.description>
+  <VFEI_VentricularSleeve.label>ventricular sleeve</VFEI_VentricularSleeve.label>
+  <VFEI_VentricularSleeve.labelNoun>ventricular sleeve</VFEI_VentricularSleeve.labelNoun>
+  <VFEI_VentricularSleeve.description>A barely understood heart and artery mutation, causes blood to coagulate into oxygen-rich gel-like material. Upon laceration or even loss of limbs, the gel will cauterize the wound immediately. Unfortunately puts heavy strain on human cardiovascular biology.</VFEI_VentricularSleeve.description>
+  <VFEI_SynapticCerebellum.label>synaptic cerebellum</VFEI_SynapticCerebellum.label>
+  <VFEI_SynapticCerebellum.labelNoun>synaptic cerebellum</VFEI_SynapticCerebellum.labelNoun>
+  <VFEI_SynapticCerebellum.description>An insectoid brain particularly sensitive to residual psychic synapse. A creature with this mutation possesses profound collective thought and psychic sensitivity, however is barely able to form cohesive sentences.</VFEI_SynapticCerebellum.description>
+</LanguageData>
