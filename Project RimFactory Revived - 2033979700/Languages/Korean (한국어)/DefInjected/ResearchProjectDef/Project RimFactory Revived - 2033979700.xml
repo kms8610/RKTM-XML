@@ -29,9 +29,9 @@
   <PRF_EnhancedBatteries.label>enhanced batteries</PRF_EnhancedBatteries.label>
   <PRF_EnhancedBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 4k battery cell.</PRF_EnhancedBatteries.description>
   <PRF_LargeBatteries.label>large batteries</PRF_LargeBatteries.label>
-  <PRF_LargeBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 16k and 64k battery cell.</PRF_LargeBatteries.description>
+  <PRF_LargeBatteries.description>Build large batteries for efficient storage of electricity. Unlocks the 64k battery cell.</PRF_LargeBatteries.description>
   <PRF_VeryLargeBatteries.label>very large batteries</PRF_VeryLargeBatteries.label>
-  <PRF_VeryLargeBatteries.description>Learn alternate methods of power storage, and create 256k battery cells for mass storage of power.</PRF_VeryLargeBatteries.description>
+  <PRF_VeryLargeBatteries.description>Learn alternate methods of power storage, and create 64K and 256k battery cells for mass storage of power.</PRF_VeryLargeBatteries.description>
   <PRF_CoreTierO.label>Clockwork Principle</PRF_CoreTierO.label>
   <PRF_CoreTierO.description>Early industrialisation, this teaches you how to setup more advanced way of gathering resources and process them into more usefull things. Trash, raw material, or scrap metal goes in one side and useful products come out the other.\nCogs and chutes powered by wood and coal.</PRF_CoreTierO.description>
   <PRF_CoreTierO.discoveredLetterTitle>Early Automation huh?</PRF_CoreTierO.discoveredLetterTitle>
@@ -61,11 +61,11 @@
       \nDrop us suggestions on our Workshop page. 
       \n\nThanks for playing!</PRF_CoreTierIV.discoveredLetterText>
   <PRF_BeltsI.label>Basic Conveyors</PRF_BeltsI.label>
-  <PRF_BeltsI.description>Hauling thing within a factory can be dangerous and tedious, Conveyor belts take care of it.\nUnlocks: belts and fueling machines.</PRF_BeltsI.description>
+  <PRF_BeltsI.description>Hauling things within a factory can be dangerous and tedious. Conveyor belts take care of this.\nUnlocks: Belts and fueling machines.</PRF_BeltsI.description>
   <PRF_BeltsII.label>Basic Item Sorting</PRF_BeltsII.label>
-  <PRF_BeltsII.description>Directing things to the area of the factory it belongs to will streamline and diversify the factory layout.\nUnlocks: Simple puller, Growzone puller and Belt splitter for normal belts.</PRF_BeltsII.description>
+  <PRF_BeltsII.description>Directing things to the proper area of the factory will streamline and diversify the factory layout.\nUnlocks: Simple puller, Growzone puller and Belt splitter for normal belts.</PRF_BeltsII.description>
   <PRF_BeltsIII.label>Advanced Item Sorting</PRF_BeltsIII.label>
-  <PRF_BeltsIII.description>More sophisticed logistical implementation allows advanced itemsorting.\nUnlocks: Wall-, UnderGround belts and splitters. Smart hoppers, mkII-, angle- and wall pullers. For your advanced item management.</PRF_BeltsIII.description>
+  <PRF_BeltsIII.description>Sophisticated logistical implementation allows for advanced item sorting.\nUnlocks: Wall and underground belts, splitters; Smart hoppers; MKII, angle, and wall pullers.</PRF_BeltsIII.description>
   <PRF_AutomaticFarmingI.label>Automated Farming Technique</PRF_AutomaticFarmingI.label>
   <PRF_AutomaticFarmingI.description>An agricultural drone is an unmanned aerial vehicle used to help optimize agriculture operations, increase crop production, and monitor crop growth. Sensors and digital imaging capabilities can give farmers a richer picture of their fields.</PRF_AutomaticFarmingI.description>
   <PRF_AutomaticFarmingII.label>Improved Farming Techniques</PRF_AutomaticFarmingII.label>
@@ -115,9 +115,9 @@
   <PRF_Crates.label>Wooden stockpile crates</PRF_Crates.label>
   <PRF_Crates.description>Rudimentary storage boxes allow many stacks of items to stay organized and space efficient.</PRF_Crates.description>
   <PRF_SteelCrates.label>Steel stockpile crates</PRF_SteelCrates.label>
-  <PRF_SteelCrates.description>stronger materials means better stacking, even more items can fit into these crates for many good reasons i swear</PRF_SteelCrates.description>
+  <PRF_SteelCrates.description>Stronger materials allows for improved storage space.</PRF_SteelCrates.description>
   <PRF_StorageIO.label>Thornsworth Holography</PRF_StorageIO.label>
-  <PRF_StorageIO.description>The holographam artist Thornsworth, despite growing blindness, continued producing masterpieces for many years, and when holographic data storage was finally perfected, he was instrumental in developing Holographic Item Storage.\nAllows Items to be stored wirelessly in a Digital Storage Unit. Can be send to any I/O port on map, and recieve items from I/O ports too.\n\nYou will be missed, Thornsworth.</PRF_StorageIO.description>
+  <PRF_StorageIO.description>The holographam artist Thornsworth produced masterpieces for many years despite gradual blindness. When holographic data storage was perfected, he was instrumental in developing Holographic Item Storage.\nAllows items to be stored in a Digital Storage Unit, which can transmit and receive wirelessly to any I/O port on the map.\n\nYou will be missed, Thornsworth.</PRF_StorageIO.description>
   <PRF_StorageIO_II.label>Improved Wireless Storage</PRF_StorageIO_II.label>
-  <PRF_StorageIO_II.description>With further research we have discovered a way to get more uses out of our Wireless storage solution\nAllow you to build I/O pushers\nMore may be added to this later.</PRF_StorageIO_II.description>
+  <PRF_StorageIO_II.description>Advancements in wireless storage.\nAllows you to build I/O pushers (and more, soon).</PRF_StorageIO_II.description>
 </LanguageData>
