@@ -363,7 +363,7 @@
   <AA_Cactipine.tools.0.label>left claw</AA_Cactipine.tools.0.label>
   <AA_Cactipine.tools.1.label>right claw</AA_Cactipine.tools.1.label>
   <AA_ChameleonYak.label>chameleon yak</AA_ChameleonYak.label>
-  <AA_ChameleonYak.description>The Chameleon Yak is a long-haired domesticated bovid that has evolved a fascinating survival mechanism involving camouflage, similar to the way a chameleon changes its skin colour in response to different stimuli. The Chameleon Yak takes this a step further, changing its very metabolism according to the environment it is inhabiting at the time.\n\nChameleon Yaks will change their temperature tolerance depending on their environment, and even produce different types of wool. This change occurs at the cellular level and is very fast, but doesn't harm the animal in the slightest.</AA_ChameleonYak.description>
+  <AA_ChameleonYak.description>The Chameleon Yak is a long-haired domesticated bovid that has evolved a fascinating survival mechanism involving camouflage, similar to the way a chameleon changes its skin colour in response to different stimuli. The Chameleon Yak takes this a step further, changing its very metabolism according to the environment it is inhabiting at the time.\n\nChameleon Yaks will change their temperature tolerance depending on their environment, and even produce different types of wool. This change occurs at the cellular level and is very fast, but doesn't harm the animal in the slightest.\n\nArt by Feroxiious (check her Instagram at https://www.instagram.com/feroxiious/).</AA_ChameleonYak.description>
   <AA_ChameleonYak.tools.0.label>head</AA_ChameleonYak.tools.0.label>
   <AA_ChameleonYak.tools.1.label>left hoof</AA_ChameleonYak.tools.1.label>
   <AA_ChameleonYak.tools.2.label>right hoof</AA_ChameleonYak.tools.2.label>
@@ -382,7 +382,7 @@
   <AA_CrepuscularBeetle.tools.0.label>head claw</AA_CrepuscularBeetle.tools.0.label>
   <AA_CrepuscularBeetle.tools.1.label>head</AA_CrepuscularBeetle.tools.1.label>
   <AA_CrescendoAnole.label>crescendo anole</AA_CrescendoAnole.label>
-  <AA_CrescendoAnole.description>Most of the time, the Crescendo Anole is a harmless iguanian lizard that feeds on vegetation and small arthropods. They are unusually intelligent, and can be kept as pets. However, when the anole becomes aggressive in any way, usually in self defense, an unstable cocktail of growth hormones and biomechanical mechanites causes a runaway growth of the creature's cells, turning it into a hulking crocodilian nightmare.\n\nThis effect is temporary, lasting a few hours, and afterwards the anole must recover its strength to be able to go through it again, becoming extremely hungry in the interim.</AA_CrescendoAnole.description>
+  <AA_CrescendoAnole.description>Most of the time, the Crescendo Anole is a harmless iguanian lizard that feeds on vegetation and small arthropods. They are unusually intelligent, and can be kept as pets. However, when the anole becomes aggressive in any way, usually in self defense, an unstable cocktail of growth hormones and biomechanical mechanites causes a runaway growth of the creature's cells, turning it into a hulking crocodilian nightmare.\n\nThis effect is temporary, lasting a few hours, and afterwards the anole must recover its strength to be able to go through it again, becoming extremely hungry in the interim.\n\nArt by Feroxiious (check her Instagram at https://www.instagram.com/feroxiious/).</AA_CrescendoAnole.description>
   <AA_CrescendoAnole.tools.0.label>left claw</AA_CrescendoAnole.tools.0.label>
   <AA_CrescendoAnole.tools.1.label>right claw</AA_CrescendoAnole.tools.1.label>
   <AA_CrescendoAnole.tools.3.label>head</AA_CrescendoAnole.tools.3.label>
@@ -933,4 +933,22 @@
   <RB_SpunSynthreadSilk.description>Silk Thread created by a Feralisk, Junglelisk or Dunealisk. Can be turned into synthread in a loom.</RB_SpunSynthreadSilk.description>
   <RB_SpunHyperweaveSilk.label>Hyperweave Silk</RB_SpunHyperweaveSilk.label>
   <RB_SpunHyperweaveSilk.description>Silk Thread created by a Blizzarisk. Can be turned into hyperweave in a loom.</RB_SpunHyperweaveSilk.description>
+  <AA_AerofleetMorph.label>aerofleetmorph</AA_AerofleetMorph.label>
+  <AA_AerofleetMorph.description>A hybrid animal / humanoid with Aerofleet characteristics.\n\nAs a floating creature, Aerofleetmorphs ignore terrain movement costs. Aerofleetmorphs slowly produce a thick, gelatinous substance known as Blue Gel. This syrupy residue can be collected and refined into an energy-dense compound, and potentially used to build powerful batteries and generators, with the appropiate research (Biofuel refining, Batteries and Advanced Fabrication). Aerofleetmorphs will explode on death.</AA_AerofleetMorph.description>
+  <AA_AerofleetMorph.tools.0.label>left fist</AA_AerofleetMorph.tools.0.label>
+  <AA_AerofleetMorph.tools.1.label>right fist</AA_AerofleetMorph.tools.1.label>
+  <AA_AerofleetMorph.tools.2.label>teeth</AA_AerofleetMorph.tools.2.label>
+  <AA_AerofleetMorph.tools.3.label>head</AA_AerofleetMorph.tools.3.label>
+  <AA_AerofleetTransformer.label>mutasyringe, aerofleet</AA_AerofleetTransformer.label>
+  <AA_AerofleetTransformer.description>A mutagenic injector filled with mechanites and aerofleet DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</AA_AerofleetTransformer.description>
+  <AA_AnimusVoxTransformer.label>mutasyringe, animus vox</AA_AnimusVoxTransformer.label>
+  <AA_AnimusVoxTransformer.description>A mutagenic injector filled with mechanites and animus vox DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</AA_AnimusVoxTransformer.description>
+  <AA_HelixienMorph.label>slugperson</AA_HelixienMorph.label>
+  <AA_HelixienMorph.description>The Helixienmorph is a hybrid Leopard Slug / humanoid. The Helixienmorph constantly secretes a foul-smelling, corrosive gas that produces an uncomfortable, itchy sensation in living beings. This gas is mostly harmless, unless it comes into contact with decaying organic matter: it greatly accelerates corpse rotting, liberating a black putrid liquid known as "purge fluid" or corpse bile. The helixienmorph feeds on this liquid sludge, although it can also feed on other organic matter if needed.\n\nThe sight of a Helixienmorph is quite revolting, and watching one wallowing in a pile of human corpses is, to say the least, a deeply traumatizing experience.</AA_HelixienMorph.description>
+  <AA_HelixienMorph.tools.0.label>left fist</AA_HelixienMorph.tools.0.label>
+  <AA_HelixienMorph.tools.1.label>right fist</AA_HelixienMorph.tools.1.label>
+  <AA_HelixienMorph.tools.2.label>teeth</AA_HelixienMorph.tools.2.label>
+  <AA_HelixienMorph.tools.3.label>head</AA_HelixienMorph.tools.3.label>
+  <AA_HelixienTransformer.label>mutasyringe, helixien</AA_HelixienTransformer.label>
+  <AA_HelixienTransformer.description>A mutagenic injector filled with mechanites and slug DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</AA_HelixienTransformer.description>
 </LanguageData>

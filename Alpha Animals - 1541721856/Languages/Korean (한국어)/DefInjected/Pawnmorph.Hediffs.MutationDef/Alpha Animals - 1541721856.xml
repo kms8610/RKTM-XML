@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_AerofleetEyes.label>aerofleet hood</AA_AerofleetEyes.label>
+  <AA_AerofleetEyes.description>Two new eyes have appeared on [PAWN_nameDef]'s face, and the entirety of [PAWN_possessive] face has been surrounded by a gelatinous membrane.</AA_AerofleetEyes.description>
+  <AA_AerofleetEyes.stages.1.label>adapted</AA_AerofleetEyes.stages.1.label>
+  <AA_AerofleetVacuoles.label>gas vacuole</AA_AerofleetVacuoles.label>
+  <AA_AerofleetVacuoles.description>An aggregate of hollow cylindrical structures called gas vesicles, this vacuole can be inflated and deflated with gas to provide buoyancy.</AA_AerofleetVacuoles.description>
+  <AA_AerofleetVacuoles.stages.0.label>internal itch</AA_AerofleetVacuoles.stages.0.label>
+  <AA_AerofleetVacuoles.stages.1.label>adapted</AA_AerofleetVacuoles.stages.1.label>
+  <AA_AerofleetFuzz.label>aerofleet fuzz</AA_AerofleetFuzz.label>
+  <AA_AerofleetFuzz.description>A fuzzy, soft layer of short, thin hairs</AA_AerofleetFuzz.description>
+  <AA_AerofleetFuzz.stages.0.labelOverride>thin fuzz</AA_AerofleetFuzz.stages.0.labelOverride>
+  <AA_AerofleetFuzz.stages.0.description>A fuzzy, soft layer of short, thin hairs</AA_AerofleetFuzz.stages.0.description>
+  <AA_AerofleetFuzz.stages.1.labelOverride>dense fuzz</AA_AerofleetFuzz.stages.1.labelOverride>
+  <AA_AerofleetFuzz.stages.1.description>A fuzzy, soft layer of short, thin hairs. This fuzz has thickened a bit.</AA_AerofleetFuzz.stages.1.description>
+  <AA_AnimusVoxSnout.label>animus vox snout</AA_AnimusVoxSnout.label>
+  <AA_AnimusVoxSnout.description>An adorable little snout graces [PAWN_nameDef]'s face, so cute!</AA_AnimusVoxSnout.description>
+  <AA_AnimusVoxSnout.stages.0.label>bestial</AA_AnimusVoxSnout.stages.0.label>
+  <AA_AnimusVoxSnout.stages.0.description>[PAWN_nameDef]'s face has turned into a more bestial snout, like that of a feral fox. [PAWN_possessive] teeth are pointed to suit; speaking is much more difficult, but eating is easier.</AA_AnimusVoxSnout.stages.0.description>
+  <AA_AnimusVoxSnout.stages.1.labelOverride>pressing out</AA_AnimusVoxSnout.stages.1.labelOverride>
+  <AA_AnimusVoxSnout.stages.1.description>[PAWN_nameDef]'s face seems to be swelling, the nose and jaw pressing out and looking decidedly more like an animal's.</AA_AnimusVoxSnout.stages.1.description>
+  <AA_AnimusVoxSnout.stages.2.label>new</AA_AnimusVoxSnout.stages.2.label>
+  <AA_AnimusVoxSnout.stages.2.description>A snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit; speaking is more difficult, but eating is easier.</AA_AnimusVoxSnout.stages.2.description>
+  <AA_AnimusVoxSnout.stages.3.description>A charming snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit, making eating easier.</AA_AnimusVoxSnout.stages.3.description>
+  <AA_AnimusVoxSnout.stages.3.label>adapted</AA_AnimusVoxSnout.stages.3.label>
+  <AA_AnimusVoxSnout.stages.4.label>paragon</AA_AnimusVoxSnout.stages.4.label>
+  <AA_AnimusVoxSnout.stages.4.description>A sculpted and charming snout graces [PAWN_nameDef]'s face, like that of a fox. [PAWN_possessive] teeth are pointed to suit, making eating easier, and the silver tongue is a good boost in social events.</AA_AnimusVoxSnout.stages.4.description>
+  <AA_AnimusVoxSnout.comps.0.tools.0.label>teeth</AA_AnimusVoxSnout.comps.0.tools.0.label>
+  <AA_AnimusVoxEar.description>A large and sensitive ear, normally belonging to a fox.</AA_AnimusVoxEar.description>
+  <AA_AnimusVoxEar.label>animus vox ear</AA_AnimusVoxEar.label>
+  <AA_AnimusVoxEar.stages.0.labelOverride>pointed</AA_AnimusVoxEar.stages.0.labelOverride>
+  <AA_AnimusVoxEar.stages.0.description>[PAWN_nameDef]'s ears are growing longer, developing a point at the peak. They're a little more sensitive.</AA_AnimusVoxEar.stages.0.description>
+  <AA_AnimusVoxEar.stages.1.description>Big fuzzy triangles crown [PAWN_nameDef]'s head, pivoting and flicking back to every sound they sense. They're very sensitive, so please don't shout.</AA_AnimusVoxEar.stages.1.description>
+  <AA_AnimusVoxTail.label>animus vox tail</AA_AnimusVoxTail.label>
+  <AA_AnimusVoxTail.description>A wonderfully fluffy fox tail drapes from [PAWN_nameDef]'s spine. Was that a small wag just then?</AA_AnimusVoxTail.description>
+  <AA_EtherHelixienFace.label>slug face</AA_EtherHelixienFace.label>
+  <AA_EtherHelixienFace.description>A slimy, tentacular visage now makes itself apparent over the entirety of [PAWN_nameDef]'s face. With stalk eyes and weird, moving mouth bits it's quite a sight!</AA_EtherHelixienFace.description>
+  <AA_EtherHelixienFace.stages.1.label>adapted</AA_EtherHelixienFace.stages.1.label>
+  <AA_EtherHelixienFace.comps.0.tools.0.label>teeth</AA_EtherHelixienFace.comps.0.tools.0.label>
+  <AA_EtherHelixienTail.label>slug tail</AA_EtherHelixienTail.label>
+  <AA_EtherHelixienTail.description>A slimy tail, it feels slippery and reeks of bile. Amazing!</AA_EtherHelixienTail.description>
+  <AA_EtherSlimyLimb.label>slime</AA_EtherSlimyLimb.label>
+  <AA_EtherSlimyLimb.description>A layer of slime has spread over this limb that never seems to wash off no matter how hard [PAWN_nameDef] scrubs.</AA_EtherSlimyLimb.description>
+  <AA_EtherSlimyLimb.stages.0.labelOverride>slime spots</AA_EtherSlimyLimb.stages.0.labelOverride>
+  <AA_EtherSlimyLimb.stages.0.description>There's a very thin layer of slime oozing out of the pores.</AA_EtherSlimyLimb.stages.0.description>
+  <AA_EtherSlimyLimb.stages.1.labelOverride>thin slime</AA_EtherSlimyLimb.stages.1.labelOverride>
+  <AA_EtherSlimyLimb.stages.1.description>The skin is covered in a very thin layer of slime.</AA_EtherSlimyLimb.stages.1.description>
+  <AA_EtherSlimyLimb.stages.2.labelOverride>slimy layer</AA_EtherSlimyLimb.stages.2.labelOverride>
+  <AA_EtherSlimyLimb.stages.2.description>This skin has a sticky layer of slime.</AA_EtherSlimyLimb.stages.2.description>
+  <AA_EtherSlimyLimb.stages.3.labelOverride>dripping slime</AA_EtherSlimyLimb.stages.3.labelOverride>
+  <AA_EtherSlimyLimb.stages.3.description>The slime layer is thick enough that it sometimes drips onto the ground.</AA_EtherSlimyLimb.stages.3.description>
+  <AA_EtherSlimyLimb.stages.4.labelOverride>thick slime</AA_EtherSlimyLimb.stages.4.labelOverride>
+  <AA_EtherSlimyLimb.stages.4.description>The slime layer is so thick that blades and bullets have difficult penetrating it.</AA_EtherSlimyLimb.stages.4.description>
+</LanguageData>

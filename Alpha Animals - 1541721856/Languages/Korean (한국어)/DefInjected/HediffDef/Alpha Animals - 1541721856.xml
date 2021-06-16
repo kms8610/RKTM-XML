@@ -183,4 +183,31 @@
   <AA_HyperAcidicStomachImplant.description>An installed hyper acidic stomach implant. This implant will allow this creature to use a ranged acid attack that causes damage over time.\n\nNote that installing this on a creature that already has a hyper acidic stomach will have no effect. This implant takes the space of the creature's stomach, so it can't be installed in animals that lack one.</AA_HyperAcidicStomachImplant.description>
   <AA_HyperAcidicStomachImplant.comps.0.verbs.0.label>acidic vomit</AA_HyperAcidicStomachImplant.comps.0.verbs.0.label>
   <AA_HyperAcidicStomachImplant.comps.0.verbProps.0.label>acidic vomit</AA_HyperAcidicStomachImplant.comps.0.verbProps.0.label>
+  <AA_PawnmorphAerofleetTF.label>aerofleetmorph</AA_PawnmorphAerofleetTF.label>
+  <AA_PawnmorphAerofleetTF.description>This person has mechanites in their blood that are slowly mutating them into an aerofleet. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more gasbag than human.</AA_PawnmorphAerofleetTF.description>
+  <AA_PawnmorphAerofleetTF.stages.0.label>reeling</AA_PawnmorphAerofleetTF.stages.0.label>
+  <AA_PawnmorphAerofleetTF.stages.1.label>transforming</AA_PawnmorphAerofleetTF.stages.1.label>
+  <AA_PawnmorphAerofleetTF.stages.1.letterText>TransformationStageWarningContent</AA_PawnmorphAerofleetTF.stages.1.letterText>
+  <AA_PawnmorphAerofleetTF.stages.1.letterLabel>TransformationStageWarningLabel</AA_PawnmorphAerofleetTF.stages.1.letterLabel>
+  <AA_PawnmorphAerofleetTF.stages.2.label>changing</AA_PawnmorphAerofleetTF.stages.2.label>
+  <AA_PawnmorphAerofleetTFPartial.label>aerofleet partial</AA_PawnmorphAerofleetTFPartial.label>
+  <AA_PawnmorphAerofleetTFPartial.description>This person has mechanites in their blood that are providing them with aerofleet-esque mutations.</AA_PawnmorphAerofleetTFPartial.description>
+  <AA_PawnmorphAnimusVoxTF.label>animusmorph</AA_PawnmorphAnimusVoxTF.label>
+  <AA_PawnmorphAnimusVoxTF.description>This person has mechanites in their blood that are slowly mutating them into an animusmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming foxy.</AA_PawnmorphAnimusVoxTF.description>
+  <AA_PawnmorphAnimusVoxTF.stages.0.label>reeling</AA_PawnmorphAnimusVoxTF.stages.0.label>
+  <AA_PawnmorphAnimusVoxTF.stages.1.label>transforming</AA_PawnmorphAnimusVoxTF.stages.1.label>
+  <AA_PawnmorphAnimusVoxTF.stages.1.letterText>TransformationStageWarningContent</AA_PawnmorphAnimusVoxTF.stages.1.letterText>
+  <AA_PawnmorphAnimusVoxTF.stages.1.letterLabel>TransformationStageWarningLabel</AA_PawnmorphAnimusVoxTF.stages.1.letterLabel>
+  <AA_PawnmorphAnimusVoxTF.stages.2.label>changing</AA_PawnmorphAnimusVoxTF.stages.2.label>
+  <AA_PawnmorphAnimusVoxTFPartial.label>animus vox partial</AA_PawnmorphAnimusVoxTFPartial.label>
+  <AA_PawnmorphAnimusVoxTFPartial.description>This person has mechanites in their blood that are providing them with animus vox-esque mutations.</AA_PawnmorphAnimusVoxTFPartial.description>
+  <AA_PawnmorphHelixienTF.label>helixienmorph</AA_PawnmorphHelixienTF.label>
+  <AA_PawnmorphHelixienTF.description>This person has mechanites in their blood that are slowly mutating them into a helixienmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more slug than human.</AA_PawnmorphHelixienTF.description>
+  <AA_PawnmorphHelixienTF.stages.0.label>reeling</AA_PawnmorphHelixienTF.stages.0.label>
+  <AA_PawnmorphHelixienTF.stages.1.label>transforming</AA_PawnmorphHelixienTF.stages.1.label>
+  <AA_PawnmorphHelixienTF.stages.1.letterText>TransformationStageWarningContent</AA_PawnmorphHelixienTF.stages.1.letterText>
+  <AA_PawnmorphHelixienTF.stages.1.letterLabel>TransformationStageWarningLabel</AA_PawnmorphHelixienTF.stages.1.letterLabel>
+  <AA_PawnmorphHelixienTF.stages.2.label>changing</AA_PawnmorphHelixienTF.stages.2.label>
+  <AA_PawnmorphHelixienTFPartial.label>helixien partial</AA_PawnmorphHelixienTFPartial.label>
+  <AA_PawnmorphHelixienTFPartial.description>This person has mechanites in their blood that are providing them with helixien-esque mutations.</AA_PawnmorphHelixienTFPartial.description>
 </LanguageData>
