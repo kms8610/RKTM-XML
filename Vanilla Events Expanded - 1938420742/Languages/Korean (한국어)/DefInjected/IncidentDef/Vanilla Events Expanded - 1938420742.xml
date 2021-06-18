@@ -46,8 +46,6 @@ It will last anywhere between a few days to a season.</VEE_PsychicBloom.letterTe
   <VEE_WandererJoinTraitor.letterLabel>Wanderer joins</VEE_WandererJoinTraitor.letterLabel>
   <VEE_WandererJoinTraitor.letterText>A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.</VEE_WandererJoinTraitor.letterText>
   <VEE_SpaceBattle.label>space battle</VEE_SpaceBattle.label>
-  <VEE_SpaceBattle.letterLabel>Space Battle</VEE_SpaceBattle.letterLabel>
-  <VEE_SpaceBattle.letterText>Several massive spaceships have engaged in combat in the planet’s orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires.</VEE_SpaceBattle.letterText>
   <VEE_ShuttleCrash.label>shuttle crash</VEE_ShuttleCrash.label>
   <VEE_Earthquake.label>earthquake</VEE_Earthquake.label>
   <VEE_Cargopodsweapons.label>cargo pods (weapons)</VEE_Cargopodsweapons.label>
@@ -59,7 +57,7 @@ It will last anywhere between a few days to a season.</VEE_PsychicBloom.letterTe
   <VEE_Drought.letterLabel>Drought</VEE_Drought.letterLabel>
   <VEE_Drought.letterText>An unusual drought has set in.
 
-Drought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can.</VEE_Drought.letterText>
+Drought is devastating for plant life and will quickly prevent all the crops not planted in hydroponics or high fertility soil to grow.</VEE_Drought.letterText>
   <VEE_WildMenWanderIn.label>wild men wander in</VEE_WildMenWanderIn.label>
   <VEE_HuntingParty.label>hunting party</VEE_HuntingParty.label>
   <RaidEnemyPurple.label>enemy raid ice age</RaidEnemyPurple.label>
