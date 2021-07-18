@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NeedThroneAssigned>Need throneroom</NeedThroneAssigned>
+  <NeedThroneAssignedDesc>One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom.</NeedThroneAssignedDesc>
+  <UndignifiedBedroom>Undignified bedroom</UndignifiedBedroom>
+  <UndignifiedBedroomDesc>One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements.</UndignifiedBedroomDesc>
+  <NeedBedroomAssigned>Title requires bedroom</NeedBedroomAssigned>
+  <NeedBedroomAssignedDesc>One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements.</NeedBedroomAssignedDesc>
+  <UndignifiedThroneroom>Undignified throneroom</UndignifiedThroneroom>
+  <UndignifiedThroneroomDesc>One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements.</UndignifiedThroneroomDesc>
+  <RoyalNoAcceptableFood>No acceptable food</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFoodDesc>One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements.</RoyalNoAcceptableFoodDesc>
+  <RoomRequirementGracePeriodDesc>{0} days until requirement begins</RoomRequirementGracePeriodDesc>
+  <ThroneroomInvalidConfiguration>Throne not usable</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfigurationDesc>A throne is not usable because of how it is set up:</ThroneroomInvalidConfigurationDesc>
+  <MonumentMarkerMissingBlueprints>Monument missing blueprints</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprintsDesc>The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually.</MonumentMarkerMissingBlueprintsDesc>
+  <ShipLandingBeaconUnusable>Beacon unusable</ShipLandingBeaconUnusable>
+  <ShipLandingBeaconUnusableDesc>A ship landing beacon is powered but can't be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals.</ShipLandingBeaconUnusableDesc>
+  <NeedMeditationSpotAlert>Need meditation spot</NeedMeditationSpotAlert>
+  <NeedMeditationSpotAlertDesc>These colonists have a psyfocus need, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use.</NeedMeditationSpotAlertDesc>
+  <UnusableMeditationFocusAlert>Unusable meditation focus</UnusableMeditationFocusAlert>
+  <UnusableMeditationFocusAlertDesc>These colonists are meditating near a focus object they can't use.\n\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button.</UnusableMeditationFocusAlertDesc>
+  <PermitChoiceReadyAlert>Permit choice ready</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef} can choose a new permit.</PermitChoiceReadyAlertDesc>
+  <BestowerWaitingAlert>Bestower waiting</BestowerWaitingAlert>
+  <BestowerWaitingAlertDesc>A bestower is waiting to begin the bestowing ceremony.</BestowerWaitingAlertDesc>
+  <AnimaLinkingReadyLabel>Anima linking ceremony ready</AnimaLinkingReadyLabel>
+  <AnimaLinkingReadyDesc>An anima tree has enough anima grass to carry out the linking ceremony and level up psylink for these colonists</AnimaLinkingReadyDesc>
+  <AnimaLinkingReadyDescExtra>In order to start the ceremony, select a colonist, click the 'begin anima tree linking' button and select the anima tree you want to use.</AnimaLinkingReadyDescExtra>
+  <BlueprintWouldCollideWithMonument>The blueprint would overlap with a monument marker.</BlueprintWouldCollideWithMonument>
+  <RoyalFavorDescription>The amount of {FACTION_royalFavorLabel} that your negotiator will personally receive as a result of this deal.</RoyalFavorDescription>
+  <RoyalTitleTooltipRequiredApparel>Required apparel</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparelQuality>Minimum apparel quality</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipBedroomRequirements>Bedroom requirements</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>Throneroom requirements</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipPermits>Title privileges</RoyalTitleTooltipPermits>
+  <RoyalTitleRequiredApparelStatDescription>Holders of this title must be covered in some combination of</RoyalTitleRequiredApparelStatDescription>
+  <ApparelRequirementAnyPrestigeArmor>Any prestige armor</ApparelRequirementAnyPrestigeArmor>
+  <ApparelRequirementAnyPsycasterApparel>Any psycaster apparel</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>or any psycaster or prestige apparel</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <DisabledWorkTypes>Disallowed work types</DisabledWorkTypes>
+  <RoyalTitleRequiredMeals>Allowed foods</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMealsDesc>A holder of this title will only eat these foods, unless they are starving or on a caravan.</RoyalTitleRequiredMealsDesc>
+  <ChooseParticipantsBestow>Choose who should participate in bestowing ceremony.</ChooseParticipantsBestow>
+  <RoyalImplantIllegalUseWarning>According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences.</RoyalImplantIllegalUseWarning>
+  <RoyalImplantInstallConfirmation>Install this implant anyway?</RoyalImplantInstallConfirmation>
+  <RoyalImplantUpgradeConfirmation>Upgrade this implant anyway?</RoyalImplantUpgradeConfirmation>
+  <BladelinkEquipWarning>Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else.</BladelinkEquipWarning>
+  <BladelinkEquipWarningTraits>The weapon has the following traits</BladelinkEquipWarningTraits>
+  <RoyalWeaponEquipConfirmation>Are you sure you want to equip this item?</RoyalWeaponEquipConfirmation>
+  <AbilityTargetPsychicallyDeaf>Target is psychically deaf.</AbilityTargetPsychicallyDeaf>
+  <PsycastIsIllegal>This is illegal for {PAWN_labelShort}. Requires {TITLE} title.</PsycastIsIllegal>
+  <QuestGivesRoyalFavor>This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}.</QuestGivesRoyalFavor>
+  <RoyalIncapableOfSocial>{PAWN_labelShort} is incapable of social tasks. Those with royal titles have great need of social skills, so if {PAWN_labelShort} gains a title, {PAWN_pronoun} may have a difficult time. Another colonist might be more socially-adept.</RoyalIncapableOfSocial>
+  <RoyalWithConceitedTrait>Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible.</RoyalWithConceitedTrait>
+  <RoyalWithTraitAffectingPsylinkNegatively>Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}.</RoyalWithTraitAffectingPsylinkNegatively>
+  <PsylinkTooLowForGainAbility>{PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways?</PsylinkTooLowForGainAbility>
+  <SendShuttleWithNoContents>This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways?</SendShuttleWithNoContents>
+  <DropResourcesOverweightConfirm>These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways?</DropResourcesOverweightConfirm>
+  <Stat_Thing_MinimumRoyalTitle_Name>Minimum title ({FACTION_name})</Stat_Thing_MinimumRoyalTitle_Name>
+  <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name} has laws which limit the use of this implant to those with specific titles. Simply having the implant installed is undetectable, but if you use it, there is a chance they will detect the psychic emissions. This will cause diplomatic consequences.</Stat_Thing_MinimumRoyalTitle_Desc>
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{FACTION_name} has laws which limit the use of this weapon to those with specific titles. Each time you attack with the weapon, there is a chance they will detect the psychic emissions. This will cause diplomatic consequences.</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Level_Desc>Each upgrade level of this implant requires a specific title in {FACTION_name} to be used legally.</Stat_Thing_MinimumRoyalTitle_Level_Desc>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle>Max satisfied title</Stat_Thing_Apparel_MaxSatisfiedTitle>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>Highest royal title whose apparel requirements are satisfied by this.</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle>Max satisfied title</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>The highest royal title whose food requirements are satisfied by this.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_PersonaWeaponTrait_Label>Traits</Stat_Thing_PersonaWeaponTrait_Label>
+  <Stat_Thing_PersonaWeaponTrait_Desc>This weapon's individual traits.</Stat_Thing_PersonaWeaponTrait_Desc>
+  <StatsReport_Pain>Multiplier for pain</StatsReport_Pain>
+  <RequestChangeRoyalHeir>Change heir of {HOLDER_labelShort}'s {TITLE} title from {HEIR_labelShort}</RequestChangeRoyalHeir>
+  <RequestSetRoyalHeir>Designate heir of {HOLDER_labelShort}'s {TITLE} title</RequestSetRoyalHeir>
+  <RequestChangeRoyalHeirAlreadyInProgress>already in progress for {PAWN_labelShort}</RequestChangeRoyalHeirAlreadyInProgress>
+  <CommandDisabledUnconscious>{0_labelShort} is unconscious.</CommandDisabledUnconscious>
+  <ChooseHeir>Choose a new heir for {HOLDER_nameIndef}:</ChooseHeir>
+  <MakeHeirConfirm>You're about to change the heir of the title {HOLDER_nameIndef} received from {0_name}. This requires building a monument in a limited time, to consecrate the new inheritance.</MakeHeirConfirm>
+  <MakeHeirPreviousHeirWarning>This will upset {HOLDER_possessive} current heir {HEIR_nameFull}.</MakeHeirPreviousHeirWarning>
+  <CommandCallRoyalAid>Call aid...</CommandCallRoyalAid>
+  <CommandCallRoyalAidDesc>Call for aid using a special permit.\n\nEach type of aid may be used for free once, after which you must wait to use it for free again. You can use the aid more frequently, but it costs honor to do so.</CommandCallRoyalAidDesc>
+  <CommandCallRoyalAidLodger>Guests will not use their aid permits.</CommandCallRoyalAidLodger>
+  <CommandCallRoyalAidSlave>Slaves cannot use their permits.</CommandCallRoyalAidSlave>
+  <CommandCallRoyalAidFactionHostile>Your relations with {FACTION_name} are hostile.</CommandCallRoyalAidFactionHostile>
+  <CommandCallRoyalAidFreeOption>Free</CommandCallRoyalAidFreeOption>
+  <CommandCallRoyalAidFavorOption>{0} days left, costs {1} {FACTION_royalFavorLabel}</CommandCallRoyalAidFavorOption>
+  <CommandCallRoyalAidWarningNonHostileFactions>You are about to call for aid, but there are people from factions whom {0_name} is not hostile to. Any soldiers you call will not attack them: {1}</CommandCallRoyalAidWarningNonHostileFactions>
+  <CommandCallRoyalAidNotEnoughFavor>Not enough honor.</CommandCallRoyalAidNotEnoughFavor>
+  <CommandCallLaborers>Call laborers</CommandCallLaborers>
+  <CommandCallLaborersDesc>Use a special permit to call for a group of laborers from your ally. These workers can only do labor tasks, but you can control them like they were your own colonists. You are required to keep them safe.</CommandCallLaborersDesc>
+  <CommandOnCooldown>On cooldown. {0} days left.</CommandOnCooldown>
+  <CommandCallLaborersNumLaborers>{0} laborers</CommandCallLaborersNumLaborers>
+  <CommandPsycastWouldExceedEntropy>Neural heat would overflow. Disable the neural heat limiter to cast.</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} consumes {0} psyfocus but {CASTERNAME} only has {1}.</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} needs {0} psyfocus to stop {1}'s mental break but {CASTERNAME} only has {2} psyfocus.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastHigherLevelPsylinkRequired>level {0} psylink is required.</CommandPsycastHigherLevelPsylinkRequired>
+  <CommandPsycastZeroPsychicSensitivity>Zero psychic sensitivity.</CommandPsycastZeroPsychicSensitivity>
+  <CommandPsycastPawnIsUnconscious>Ability user is unconscious.</CommandPsycastPawnIsUnconscious>
+  <CommandPsycastLowPsyfocus>Need at least {0} psyfocus to cast this.</CommandPsycastLowPsyfocus>
+  <NeuralHeatLetter>H</NeuralHeatLetter>
+  <PsyfocusLetter>P</PsyfocusLetter>
+  <CommandSelectMonumentMarker>Select monument</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarkerDesc>Select the monument marker this belongs to.</CommandSelectMonumentMarkerDesc>
+  <CommandWarnInBuildingRadius>Build radius warning</CommandWarnInBuildingRadius>
+  <CommandWarnInBuildingRadiusDesc>If enabled, this object will draw a red line to buildings you are placing using the architect menu, if they would interfere with meditation due to being too close.\n\nYou can turn this off if you don't intend to use this for meditation.</CommandWarnInBuildingRadiusDesc>
+  <ChooseRoyalPermit>Choose permit</ChooseRoyalPermit>
+  <ChooseRoyalPermit_Desc>Open the permit selection screen and choose a new permit.</ChooseRoyalPermit_Desc>
+  <CommandLeaveBestowingCeremony>Leave bestowing ceremony</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremonyDesc>Stop participating in the bestowing ceremony.</CommandLeaveBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremony>Cancel bestowing ceremony</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremonyDesc>End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon.</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyConfirm>Are you sure you want to cancel bestowing ceremony?</CommandCancelBestowingCeremonyConfirm>
+  <LetterLabelTributeCollectorArrival>Royal tribute collector</LetterLabelTributeCollectorArrival>
+  <LetterTributeCollectorArrival>A royal tribute collector from {FACTION_name} is approaching.\n\nThey will accept any prisoners and gold you offer as tribute. The one who gives over the tribute will receive {FACTION_royalFavorLabel} for fulfilling the tradition and supporting the upper houses.\n\nYou can expect a tribute collector to arrive roughly twice per year as long as you are not enemies with {FACTION_name}.</LetterTributeCollectorArrival>
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort} currently has the title {TITLE}, awarded by {FACTION_name}.</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort} will demand that this title's privileges be fully respected.</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort} is flexible about this title's privileges.</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNextTitle>Next title</RoyalTitleTooltipNextTitle>
+  <RoyalTitleTooltipNextTitleFavorCost>costs {0} {FACTION_royalFavorLabel}</RoyalTitleTooltipNextTitleFavorCost>
+  <RoyalTitleTooltipFinalTitle>No more earnable titles on this planet.</RoyalTitleTooltipFinalTitle>
+  <RoyalTitleTooltipInheritance>If {PAWN_nameDef} dies, {HEIR_nameFull} is designated to inherit {PAWN_possessive} title.</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull} is not a member of any faction.</RoyalTitleTooltipHeirNoFaction>
+  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull} is a member of {FACTION_name}.</RoyalTitleTooltipHeirDifferentFaction>
+  <RoyalTitleTooltipNoHeir>No one is designated to inherit {PAWN_nameDef}'s title. If {PAWN_pronoun} dies, the title will be lost.</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipTitlesEarnable>Earnable titles of {FACTION_name}</RoyalTitleTooltipTitlesEarnable>
+  <RoyalTitleTooltipTitlesNonEarnable>Other titles of {FACTION_name}</RoyalTitleTooltipTitlesNonEarnable>
+  <RoyalTitleTooltipRoyalFavorAmount>{0} {1}</RoyalTitleTooltipRoyalFavorAmount>
+  <RoyalTitleTooltipRoyalFavorTotal>{0} total</RoyalTitleTooltipRoyalFavorTotal>
+  <RecruitmentResistanceRoyalTitleOffset>{0} title</RecruitmentResistanceRoyalTitleOffset>
+  <TabPermits>Permits</TabPermits>
+  <PermitsFromFaction>Permits from {FACTION_name}</PermitsFromFaction>
+  <CurrentTitle>Current title</CurrentTitle>
+  <UnusedPermits>Unused permit points</UnusedPermits>
+  <ReturnAllPermits>Return all permits</ReturnAllPermits>
+  <NoPermitsToReturn>{PAWN_nameDef} has no permits to return.</NoPermitsToReturn>
+  <NotEnoughFavor>Returning permits requires {FAVORCOST} {FAVOR} but {PAWN_nameDef} only has {CURFAVOR}.</NotEnoughFavor>
+  <ReturnAllPermits_Desc>Return all previously-chosen permits for this faction. You will regain all the spent permit points and be able to spend them again.\n\nThis action costs {BASEFAVORCOST} {FAVOR}, plus the reset cost of any permits currently on cooldown. The total cost now is {FAVORCOST}.</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>Return all previously-chosen permits for {FACTION_name}?\n\nYou will regain all the spent permit points and be able to spend them again.\n\nThis action costs {BASEFAVORCOST} {FAVOR}, plus the reset cost of any permits currently on cooldown. The total cost now is {FAVORCOST}.</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>Switch faction</SwitchFaction_Desc>
+  <AcceptPermit>Accept permit</AcceptPermit>
+  <RequiresTitle>Requires title: {0}</RequiresTitle>
+  <UpgradeFrom>Upgrade from: {0}</UpgradeFrom>
+  <Cooldown>Cooldown</Cooldown>
+  <CooldownUseFavorCost>{HONOR} cost if used during cooldown</CooldownUseFavorCost>
+  <LetterLabelLostRoyalTitle>{TITLE} title lost: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
+  <LetterLabelGainedRoyalTitle>{TITLE} title gained: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
+  <PermitPointsAwarded>Permit points awarded: {0}.</PermitPointsAwarded>
+  <LetterRoyalTitleApparelQualityRequirement>This title requires apparel of {1} quality or better.</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelRequirement>This title requires apparel appropriate to {PAWN_possessive} title:</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleExpectation>{PAWN_possessive} expectations will never be less than {1}.</LetterRoyalTitleExpectation>
+  <LetterRoyalTitleConceitedTrait>Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees.</LetterRoyalTitleConceitedTrait>
+  <LetterGainedRoyalTitle>{PAWN_labelShort} received the title of {TITLE} from {FACTION_name}!</LetterGainedRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}.</LetterLostRoyalTitle>
+  <LetterLabelRewardsForNewTitle>Title rewards</LetterLabelRewardsForNewTitle>
+  <LetterRewardsForNewTitle>To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} the following reward(s):</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitleDeliveryBase>Rewards have arrived to your colony via transport pods.</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryDirect>Rewards were delivered directly to {PAWN_labelShort}'s inventory.</LetterRewardsForNewTitleDeliveryDirect>
+  <LetterRoyalTitlePermits>{PAWN_pronoun} has these permissions:</LetterRoyalTitlePermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun} lost these permissions:</LetterRoyalTitleLostPermits>
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} is not willing to do these work types:\n{1}</LetterRoyalTitleDisabledWorkTag>
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} can now use this recreation:</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>This title forbids using this recreation:</LetterRoyalTitleDisabledJoyKind>
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun} is allowed to use these implants:{1}</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} is no longer allowed to use these implants:{1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantGracePeriod>The implants must be extracted within a five-day grace period to avoid diplomatic consequences.</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities.</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleThroneroomRequirements>This title requires a throneroom that meets these requirements:{1}</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>This title requires a bedroom that meets these requirements:{1}</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleFoodRequirements>This title says that {PAWN_pronoun} should only eat these foods:{1}</LetterRoyalTitleFoodRequirements>
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} will receive the following items via transport pod:{1}</LetterRoyalTitleRewardGranted>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}.</PeaceTalksRoyalFavorGain>
+  <LetterRoyalTitleHeir>If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}.</LetterRoyalTitleHeir>
+  <LetterRoyalTitleNoHeir>If {PAWN_pronoun} dies, no one will inherit this title.</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} is a member of {FACTION_name}.</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleChangingHeir>A new heir can be chosen by contacting {FACTION_name} through a comms console.</LetterRoyalTitleChangingHeir>
+  <LetterTitleHeirLostLabel>Heir lost</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLost>{HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title received from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir.</LetterTitleHeirLost>
+  <LetterRoyalTitleCantBeInherited>The title of {TITLE} cannot be inherited.</LetterRoyalTitleCantBeInherited>
+  <LetterTitleInheritance>Title inheritance</LetterTitleInheritance>
+  <LetterTitleInheritance_Base>Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs.</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_AsReplacement>{PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony.</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_NoEffectHigherTitle>{PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title.</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_WasInherited>{PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}.</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoHeirFound>{PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title.</LetterTitleInheritance_NoHeirFound>
+  <LetterLawViolationDetectedLabel>Lawbreaker: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech.</LetterFinishedSpeech>
+  <LetterTerribleSpeech>It was truly atrocious - halting, full of awkward jokes and depressing stories.</LetterTerribleSpeech>
+  <LetterUninspiringSpeech>It was uninspiring - unoriginal, droning and lacking any sense of passion.</LetterUninspiringSpeech>
+  <LetterEncouragingSpeech>It was encouraging and well-delivered.</LetterEncouragingSpeech>
+  <LetterInspirationalSpeech>It was remarkably inspiring, full of intensity and purpose.</LetterInspirationalSpeech>
+  <LetterSpeechInspiredListeners>The following people were particularly moved by the speech and are now inspired:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiration>Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration!</LetterSpeechInspiration>
+  <LetterSpeechInterrupted>Because the speech was interrupted after only {0} completed, it wasn't as effective.</LetterSpeechInterrupted>
+  <LetterSpeechCancelled>{0}'s speech was cancelled before reaching 50% completion. It had no effect.</LetterSpeechCancelled>
+  <LetterLabelSpeechCancelled>Speech cancelled</LetterLabelSpeechCancelled>
+  <WildDecree>Wild decree</WildDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} issues decree</LetterLabelRandomDecree>
+  <LetterDecreeMentalBreak>{0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
+    \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy.</LetterDecreeMentalBreak>
+  <LetterRandomDecree>{0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
+    \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy.</LetterRandomDecree>
+  <LetterDecree_Quest>The decree is titled "{0}".</LetterDecree_Quest>
+  <LentColonistDied>{PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly.</LentColonistDied>
+  <LetterLabelPsylinkLevelGained>Psylink gained</LetterLabelPsylinkLevelGained>
+  <LetterPsylinkLevelGained_First>{USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button.</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first.</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_PsycastLearned>Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2}</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsychicInspiration>Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration!</LetterPsychicInspiration>
+  <LetterJoinOfferLabel>Join offer: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <LetterJoinOfferTitle>{PAWN_nameDef} wishes to join your faction.</LetterJoinOfferTitle>
+  <LetterJoinOfferText>{PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently.</LetterJoinOfferText>
+  <LetterJoinOfferAccept>Accept</LetterJoinOfferAccept>
+  <LetterLabelBestowingCeremonyExpired>Bestowing ceremony expired</LetterLabelBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled.</LetterTextBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite}'s title changed</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded.</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators.</LetterPartBestowingExtraHonor>
+  <LetterPartNoExtraHonor>{PAWN_labelShort} received no extra honor since there weren't many spectators.</LetterPartNoExtraHonor>
+  <LetterPartMoodBonus>All viewers of the ceremony received a mood bonus.</LetterPartMoodBonus>
+  <LetterTextHonorAward_BanditCamp>Who should be credited with {0} for defeating the bandit camp?</LetterTextHonorAward_BanditCamp>
+  <LetterLabelShuttleCrashed>Shuttle crashed</LetterLabelShuttleCrashed>
+  <LetterTextShuttleCrashed>A shuttle has crashed nearby</LetterTextShuttleCrashed>
+  <LetterLabelWandererJoinsAbasia>Transport pod crash: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing.</LetterTextWandererJoinsAbasia>
+  <RoyalFavorTip>You can choose one of your {0} to receive {1} {2} from {3_name}.\n\nBy receiving {2}, you gain titles. Titles bring psylink rewards and special permits like military aid. However, {0} with higher titles will also need specific apparel and bedroom furnishings.</RoyalFavorTip>
+  <WorkDisabledByRoyalTitle>Disabled by royal title {0}</WorkDisabledByRoyalTitle>
+  <SpacedroneSelfDestructsIn>Spacedrone self-destructs in {0}</SpacedroneSelfDestructsIn>
+  <ShuttleBlocked>Shuttle could not land on pad: {0}</ShuttleBlocked>
+  <MessageShuttleArrived>The shuttle has arrived.</MessageShuttleArrived>
+  <MessageShuttleArrivedContentsLost>The shuttle arrived, but since there were no colonists inside, the contents were lost.</MessageShuttleArrivedContentsLost>
+  <CannotCallShuttle>Cannot call shuttle</CannotCallShuttle>
+  <ShuttleCannotLand_Fogged>Cannot land in undiscovered area.</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Unwalkable>Area must be walkable.</ShuttleCannotLand_Unwalkable>
+  <MessageWarningCutAnimaTree>Warning: Anima tree has been marked for cutting.</MessageWarningCutAnimaTree>
+  <MessageBestowerWaiting>Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony.</MessageBestowerWaiting>
+  <MessageBestowerUnreachable>Cannot reach bestower!</MessageBestowerUnreachable>
+  <MessageBestowingTargetIsBusy>{0} is busy.</MessageBestowingTargetIsBusy>
+  <MessageBestowingSpotUnreachable>The bestower is annoyed with the interference and has decided to leave.</MessageBestowingSpotUnreachable>
+  <MessageBestowingDanger>The bestower is leaving due to life-threatening danger.</MessageBestowingDanger>
+  <MessageBestowingInterrupted>The bestowing ceremony has been interrupted.</MessageBestowingInterrupted>
+  <MessageBestowingCeremonyStarted>{PAWN_definite}'s bestowing ceremony has begun.</MessageBestowingCeremonyStarted>
+  <MessageMissionGetBackToShuttle>You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it.</MessageMissionGetBackToShuttle>
+  <MessagePermitTransportDrop>{FACTION_name} has dropped resources nearby.</MessagePermitTransportDrop>
+  <MessagePermitTransportDropCaravan>{FACTION_name} has sent resources to {PAWN_nameDef}'s caravan.</MessagePermitTransportDropCaravan>
+  <MessageNoFactionForVerbMechCluster>No orbiting mechanoids found.</MessageNoFactionForVerbMechCluster>
+  <ThroneMaxSatisfiedTitle>Satisfies title</ThroneMaxSatisfiedTitle>
+  <ThroneRoomImpressivenessInfo>({0} impressiveness)</ThroneRoomImpressivenessInfo>
+  <ThroneMustBePlacedInside>Throne must be placed indoors.</ThroneMustBePlacedInside>
+  <MinimumRoyalTitleInspectString>Minimum title ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
+  <RequiresTradePermission>Trading here requires title: {0}</RequiresTradePermission>
+  <RequirementPersonalBedroom>Personal bedroom (partner allowed)</RequirementPersonalBedroom>
+  <PsycastNeurotrainerLabel>psytrainer ({0})</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>Use psytrainer to learn {0} psycast</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>{USER_labelShort} used neurotrainer to learn the {1} power.</AbilityNeurotrainerUsed>
+  <PsycastNeurotrainerNoPsylink>Requires psylink</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} already knows {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
+  <Reward_RoyalFavor>whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name}</Reward_RoyalFavor>
+  <Reward_RoyalFavor_ChoosePawn>you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name}</Reward_RoyalFavor_ChoosePawn>
+  <NotUsable>Not usable</NotUsable>
+  <Unpowered>unpowered</Unpowered>
+  <BlockedByRoof>blocked by roof</BlockedByRoof>
+  <TooCloseToOtherBeacon>Too close to other beacon</TooCloseToOtherBeacon>
+  <Psyfocus>Psyfocus</Psyfocus>
+  <PsyfocusLabelGizmo>Psyfocus</PsyfocusLabelGizmo>
+  <PsyfocusDesc>Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation</PsyfocusDesc>
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoPsycasts>Up to level {0} powers.</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoFallRate>Psyfocus falls at {0} per day.</PsyfocusLevelInfoFallRate>
+  <UserMeditationFocusStrength>Meditation focus strength for {LASTUSER_labelShort}</UserMeditationFocusStrength>
+  <MeditationFocusImpacted>Focus effect impacted by</MeditationFocusImpacted>
+  <MeditationFocusPerAnimusStoneAbstract>{1} per nearby animus stone (max {0})</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStone>{2} per nearby animus stone ({0} / {1})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>Per nearby animus stone {2}, nature shrine {1} (max {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrine>Per nearby animus stone {3}, nature shrine {2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerSculptureAbstract>Max {1} per nearby sculpture depending on quality (max {0})</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculpture>Max {2} per nearby sculpture depending on quality ({0} / {1})</MeditationFocusPerSculpture>
+  <MeditationFocusPerGraveAbstract>Per nearby grave {1} if empty, {2} for human corpse (up to {0})</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGrave>Per nearby grave {2} if empty, {3} for human corpse ({0} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerFlameAbstract>{1} per nearby lit flame source (up to {0})</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlame>{2} per nearby lit flame source ({0} / {1})</MeditationFocusPerFlame>
+  <PsyfocusPerDayOfMeditation>Psyfocus gain rate: {0}/d</PsyfocusPerDayOfMeditation>
+  <DesiredPsyfocus>Desired psyfocus</DesiredPsyfocus>
+  <DesiredPsyfocusDesc>Click to set desired psyfocus.</DesiredPsyfocusDesc>
+  <AbilityDisabledUndrafted>must be drafted.</AbilityDisabledUndrafted>
+  <AbilityOnCooldown>ability on cooldown. It will be available in {0}.</AbilityOnCooldown>
+  <AbilityAlreadyQueued>ability already queued.</AbilityAlreadyQueued>
+  <AbilityNoEntropyToDump>no heat to dump.</AbilityNoEntropyToDump>
+  <AbilityReadyLabel>Ability ready: {0}</AbilityReadyLabel>
+  <AbilityReadyText>{0_nameDef} is ready to use {1}.</AbilityReadyText>
+  <AbilitySpeechDisabledNoThroneAssigned>no throne assigned.</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>throne is not accessible.</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneUndignified>throne not usable because it is undignified.</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>already giving a speech.</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <AbilitySpeechDisabledAnotherGatheringInProgress>another gathering is in progress.</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <AbilitySpeechCooldown>Next speech ready in</AbilitySpeechCooldown>
+  <AbilitySpeechPossibleOutcomes>Outcome chances</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechStatInfo>{ORGANIZER_labelShort}'s {1} stat</AbilitySpeechStatInfo>
+  <AbilitySpeechTargetsLabel>Initiated at</AbilitySpeechTargetsLabel>
+  <AbilitySpeechTargetDescThrone>Dignified throne</AbilitySpeechTargetDescThrone>
+  <RitualDisabledNoAltar>no accessible altar.</RitualDisabledNoAltar>
+  <RitualBestowingCeremony>Bestowing Ceremony</RitualBestowingCeremony>
+  <TotalMeditationToday>Total meditation today: {0} (progress multiplier {1})</TotalMeditationToday>
+  <ProgressToNextSubplant>progress {0}</ProgressToNextSubplant>
+  <BeginLinkingRitualFloatMenu>Begin linking ritual</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualNeedSubplants>Need {0} {1} here (have {2})</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedFocus>Need {0} psylink focus type</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualMaxPsylinkLevel>Max psylink level</BeginLinkingRitualMaxPsylinkLevel>
+  <BeginLinkingRitualNeedLinkSpot>Need a free, reachable spot within 3 cells for linking</BeginLinkingRitualNeedLinkSpot>
+  <LetterLabelLinkingRitualCompleted>Linking ritual completed</LetterLabelLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers.</LetterTextLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompletedAnimaGrass>Additionally, {0} anima grass has been restored.</LetterTextLinkingRitualCompletedAnimaGrass>
+  <LandHere>Land shuttle here</LandHere>
+  <MessageShuttleDestinationIsTooFar>Destination is out of range.</MessageShuttleDestinationIsTooFar>
+  <BeginCeremony>Start bestowing ceremony for {0_labelShort}</BeginCeremony>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>{PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyLabel>bestowing ceremony</BestowingCeremonyLabel>
+  <BestowingOutcomeQualitySpecific>Bestowing ceremony total quality was {0}, determined by these factors</BestowingOutcomeQualitySpecific>
+  <RitualTargetAnimaTreeNoPawnsToLink>No colonists that can link with anima tree right now.</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>No colonists with the natural meditation focus type.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Need at least {0} anima grass.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeInfo>An anima tree.</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeMustBeCapableOfNature>Must be a colonist with the natural meditation focus type who is below maximum psylink level.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <AnimaLinkingExplanationBase>The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony.</AnimaLinkingExplanationBase>
+  <ShuttleRequiredItemsNotSatisfied>Not all required cargo is loaded yet!</ShuttleRequiredItemsNotSatisfied>
+</LanguageData>
