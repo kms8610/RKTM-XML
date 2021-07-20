@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Funeral.roles.0.label>speaker</Funeral.roles.0.label>
+  <DateRitual.roles.0.label>speaker</DateRitual.roles.0.label>
+  <DateRitual.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</DateRitual.stages.0.postAction.text>
+  <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
+  <LeaderSpeech.letterText>{SPEAKER_labelShort} is giving a {RITUAL_labelIndef}.
+      \nIf all goes well, listeners will feel inspired, and gain respect for {SPEAKER_labelShort}. If it goes poorly, the speech will do social damage. Positive effects are reduced for non-{IDEOMEMBERS}.</LeaderSpeech.letterText>
+  <LeaderSpeech.roles.0.label>speaker</LeaderSpeech.roles.0.label>
+  <Trial.roles.0.label>judge</Trial.roles.0.label>
+  <Trial.roles.1.label>convict</Trial.roles.1.label>
+  <TrialPrisoner.roles.0.label>judge</TrialPrisoner.roles.0.label>
+  <TrialPrisoner.roles.1.label>convict</TrialPrisoner.roles.1.label>
+  <TrialPrisoner.stages.0.failTriggers.0.desc>Convicted prisoner is not reachable.</TrialPrisoner.stages.0.failTriggers.0.desc>
+  <TrialMentalState.roles.0.label>judge</TrialMentalState.roles.0.label>
+  <TrialMentalState.roles.1.label>convict</TrialMentalState.roles.1.label>
+  <SacrificePrisoner.roles.0.label>sacrifice</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.stages.0.failTriggers.0.desc>Prisoner is not reachable.</SacrificePrisoner.stages.0.failTriggers.0.desc>
+  <SacrificeAnimal.roles.0.label>sacrifice</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.stages.0.failTriggers.0.desc>Animal is not reachable.</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  <DancePartyTech.roles.0.label>speaker</DancePartyTech.roles.0.label>
+  <DancePartyTech.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</DancePartyTech.stages.0.postAction.text>
+  <DancePartyTech.stages.0.failTriggers.0.desc>Lightball is missing.</DancePartyTech.stages.0.failTriggers.0.desc>
+  <DancePartyTech.stages.0.failTriggers.1.desc>Lightball is not powered.</DancePartyTech.stages.0.failTriggers.1.desc>
+  <DancePartyTech.stages.0.failTriggers.2.desc>No powered loudspeakers.</DancePartyTech.stages.0.failTriggers.2.desc>
+  <CelebrationPartyDanceDrum.roles.0.label>speaker</CelebrationPartyDanceDrum.roles.0.label>
+  <CelebrationPartyDanceDrum.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</CelebrationPartyDanceDrum.stages.0.postAction.text>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>Campfire is missing.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Campfire is not lit.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>No drums.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  <CelebrationSkyLanterns.roles.0.label>speaker</CelebrationSkyLanterns.roles.0.label>
+  <CelebrationSkyLanterns.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</CelebrationSkyLanterns.stages.0.postAction.text>
+  <CelebrationTree.roles.0.label>speaker</CelebrationTree.roles.0.label>
+  <CelebrationTree.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</CelebrationTree.stages.0.postAction.text>
+  <BurnCircle.roles.0.label>speaker</BurnCircle.roles.0.label>
+  <BurnCircle.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</BurnCircle.stages.0.postAction.text>
+  <SmokeCircle.roles.0.label>speaker</SmokeCircle.roles.0.label>
+  <SmokeCircle.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</SmokeCircle.stages.0.postAction.text>
+  <GladiatorDuel.roles.0.label>speaker</GladiatorDuel.roles.0.label>
+  <GladiatorDuel.roles.1.label>duelist</GladiatorDuel.roles.1.label>
+  <GladiatorDuel.roles.2.label>duelist</GladiatorDuel.roles.2.label>
+  <GladiatorDuel.roles.3.label>duelist escort</GladiatorDuel.roles.3.label>
+  <GladiatorDuel.roles.4.label>duelist escort</GladiatorDuel.roles.4.label>
+  <GladiatorDuel.stages.2.failTriggers.0.desc>Duelist is not reachable.</GladiatorDuel.stages.2.failTriggers.0.desc>
+  <FeastCannibal.roles.0.label>speaker</FeastCannibal.roles.0.label>
+  <FeastCannibal.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</FeastCannibal.stages.0.postAction.text>
+  <ScarificationCeremony.roles.0.label>target</ScarificationCeremony.roles.0.label>
+  <ScarificationCeremony.roles.1.label>cutter</ScarificationCeremony.roles.1.label>
+  <BlindingCeremony.roles.0.label>target</BlindingCeremony.roles.0.label>
+  <BlindingCeremony.roles.1.label>cutter</BlindingCeremony.roles.1.label>
+  <Conversion.roles.0.label>speaker</Conversion.roles.0.label>
+  <Conversion.roles.1.label>convertee</Conversion.roles.1.label>
+  <Conversion.stages.0.failTriggers.0.desc>Prisoner is not reachable.</Conversion.stages.0.failTriggers.0.desc>
+  <TreeConnection.roles.0.label>connector</TreeConnection.roles.0.label>
+  <Execution.spectatorFilter.description>Spectators must be willing to watch the execution.</Execution.spectatorFilter.description>
+  <Execution.roles.0.label>executioner</Execution.roles.0.label>
+  <Execution.roles.1.label>prisoner</Execution.roles.1.label>
+  <Execution.stages.0.failTriggers.0.desc>Prisoner is not reachable.</Execution.stages.0.failTriggers.0.desc>
+</LanguageData>

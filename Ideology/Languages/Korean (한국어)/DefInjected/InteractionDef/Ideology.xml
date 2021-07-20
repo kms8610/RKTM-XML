@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EnslaveAttempt.label>enslave attempt</EnslaveAttempt.label>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work for the colony.</EnslaveAttempt.logRulesInitiator.rulesStrings.0>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must obey orders and work.</EnslaveAttempt.logRulesInitiator.rulesStrings.1>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] ordered [RECIPIENT_nameDef] to prepare for a life of forced labour.</EnslaveAttempt.logRulesInitiator.rulesStrings.2>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] explained to [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work or face punishment.</EnslaveAttempt.logRulesInitiator.rulesStrings.3>
+  <ReduceWill.label>try to reduce will</ReduceWill.label>
+  <ReduceWill.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</ReduceWill.logRulesInitiator.rulesStrings.0>
+  <ReduceWill.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</ReduceWill.logRulesInitiator.rulesStrings.1>
+  <ReduceWill.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].</ReduceWill.logRulesInitiator.rulesStrings.2>
+  <ReduceWill.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].</ReduceWill.logRulesInitiator.rulesStrings.3>
+  <ReduceWill.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.</ReduceWill.logRulesInitiator.rulesStrings.4>
+  <ReduceWill.logRulesInitiator.rulesStrings.5>negative->had no future</ReduceWill.logRulesInitiator.rulesStrings.5>
+  <ReduceWill.logRulesInitiator.rulesStrings.6>negative->had no way to escape</ReduceWill.logRulesInitiator.rulesStrings.6>
+  <ReduceWill.logRulesInitiator.rulesStrings.7>negative->had no future outside of the colony</ReduceWill.logRulesInitiator.rulesStrings.7>
+  <ReduceWill.logRulesInitiator.rulesStrings.8>negative->didn't have the means to escape</ReduceWill.logRulesInitiator.rulesStrings.8>
+  <ReduceWill.logRulesInitiator.rulesStrings.9>negative->should submit immediately</ReduceWill.logRulesInitiator.rulesStrings.9>
+  <ReduceWill.logRulesInitiator.rulesStrings.10>negative->should forget [RECIPIENT_possessive] aspirations</ReduceWill.logRulesInitiator.rulesStrings.10>
+  <ReduceWill.logRulesInitiator.rulesStrings.11>negative->should submit to the colony</ReduceWill.logRulesInitiator.rulesStrings.11>
+  <ReduceWill.logRulesInitiator.rulesStrings.12>threat->torture</ReduceWill.logRulesInitiator.rulesStrings.12>
+  <ReduceWill.logRulesInitiator.rulesStrings.13>threat->punishment</ReduceWill.logRulesInitiator.rulesStrings.13>
+  <ReduceWill.logRulesInitiator.rulesStrings.14>threat->mutilation</ReduceWill.logRulesInitiator.rulesStrings.14>
+  <ReduceWill.logRulesInitiator.rulesStrings.15>threat->starvation</ReduceWill.logRulesInitiator.rulesStrings.15>
+  <ReduceWill.logRulesInitiator.rulesStrings.16>threat->lifetime incarceration</ReduceWill.logRulesInitiator.rulesStrings.16>
+  <ReduceWill.logRulesInitiator.rulesStrings.17>threat->death</ReduceWill.logRulesInitiator.rulesStrings.17>
+  <ReduceWill.logRulesInitiator.rulesStrings.18>threat->isolation</ReduceWill.logRulesInitiator.rulesStrings.18>
+  <ReduceWill.logRulesInitiator.rulesStrings.19>threat->dismemberment</ReduceWill.logRulesInitiator.rulesStrings.19>
+  <ReduceWill.logRulesInitiator.rulesStrings.20>threat->blunt trauma</ReduceWill.logRulesInitiator.rulesStrings.20>
+  <ReduceWill.logRulesInitiator.rulesStrings.21>threat->lacerations</ReduceWill.logRulesInitiator.rulesStrings.21>
+  <ReduceWill.logRulesInitiator.rulesStrings.22>threat->cannibalism</ReduceWill.logRulesInitiator.rulesStrings.22>
+  <ReduceWill.logRulesInitiator.rulesStrings.23>threat->organ harvesting</ReduceWill.logRulesInitiator.rulesStrings.23>
+  <ReduceWill.logRulesInitiator.rulesStrings.24>threat->long confinement</ReduceWill.logRulesInitiator.rulesStrings.24>
+  <ReduceWill.logRulesInitiator.rulesStrings.25>refused->tried to escape</ReduceWill.logRulesInitiator.rulesStrings.25>
+  <ReduceWill.logRulesInitiator.rulesStrings.26>refused->insulted the colony</ReduceWill.logRulesInitiator.rulesStrings.26>
+  <ReduceWill.logRulesInitiator.rulesStrings.27>refused->did not work</ReduceWill.logRulesInitiator.rulesStrings.27>
+  <ReduceWill.logRulesInitiator.rulesStrings.28>refused->refused a command</ReduceWill.logRulesInitiator.rulesStrings.28>
+  <ReduceWill.logRulesInitiator.rulesStrings.29>refused->resisted submitting</ReduceWill.logRulesInitiator.rulesStrings.29>
+  <ReduceWill.logRulesInitiator.rulesStrings.30>refused->refused to obey</ReduceWill.logRulesInitiator.rulesStrings.30>
+  <ReduceWill.logRulesInitiator.rulesStrings.31>refused->behaved impertinently</ReduceWill.logRulesInitiator.rulesStrings.31>
+  <ReduceWill.logRulesInitiator.rulesStrings.32>disillusionment->should accept [RECIPIENT_possessive] situation</ReduceWill.logRulesInitiator.rulesStrings.32>
+  <ReduceWill.logRulesInitiator.rulesStrings.33>disillusionment->had no hope for another future</ReduceWill.logRulesInitiator.rulesStrings.33>
+  <ReduceWill.logRulesInitiator.rulesStrings.34>disillusionment->would be best off submitting</ReduceWill.logRulesInitiator.rulesStrings.34>
+  <ReduceWill.logRulesInitiator.rulesStrings.35>disillusionment->would not survive on [RECIPIENT_possessive] own</ReduceWill.logRulesInitiator.rulesStrings.35>
+  <ReduceWill.logRulesInitiator.rulesStrings.36>disillusionment->had no option but to submit</ReduceWill.logRulesInitiator.rulesStrings.36>
+  <ReduceWill.logRulesInitiator.rulesStrings.37>givein->give in</ReduceWill.logRulesInitiator.rulesStrings.37>
+  <ReduceWill.logRulesInitiator.rulesStrings.38>givein->submit [RECIPIENT_objective]self</ReduceWill.logRulesInitiator.rulesStrings.38>
+  <ReduceWill.logRulesInitiator.rulesStrings.39>givein->surrender [RECIPIENT_objective]self</ReduceWill.logRulesInitiator.rulesStrings.39>
+  <ReduceWill.logRulesInitiator.rulesStrings.40>givein->yield [RECIPIENT_objective]self</ReduceWill.logRulesInitiator.rulesStrings.40>
+  <Suppress.label>suppress</Suppress.label>
+  <Suppress.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] there would be punishments for rebellion.</Suppress.logRulesInitiator.rulesStrings.0>
+  <Suppress.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] warned [RECIPIENT_nameDef] that disobedience would be punished.</Suppress.logRulesInitiator.rulesStrings.1>
+  <Suppress.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] cautioned [RECIPIENT_nameDef] against infractions of any kind.</Suppress.logRulesInitiator.rulesStrings.2>
+  <Suppress.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] suggested that [RECIPIENT_nameDef] follow orders and not ask questions.</Suppress.logRulesInitiator.rulesStrings.3>
+  <SparkSlaveRebellion.label>spark slave rebellion</SparkSlaveRebellion.label>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] suggested they make a break for it.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.0>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to take back [RECIPIENT_possessive] freedom.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.1>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] spoke of ending their enslavement and making a break for it.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.2>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] spoke of a life beyond servitude and encouraged [RECIPIENT_nameDef] to escape.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.3>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] whispered that security was lax and now would be a good time to escape.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.4>
+  <ConvertIdeoAttempt.label>convert ideoligion attempt</ConvertIdeoAttempt.label>
+  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</ConvertIdeoAttempt.logRulesInitiator.rulesStrings.0>
+  <Counsel_Success.label>successful counsel</Counsel_Success.label>
+  <Counsel_Success.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</Counsel_Success.logRulesInitiator.rulesStrings.0>
+  <Counsel_Success.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</Counsel_Success.logRulesInitiator.rulesStrings.1>
+  <Counsel_Success.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] advice on overcoming negativity.</Counsel_Success.logRulesInitiator.rulesStrings.2>
+  <Counsel_Success.logRulesInitiator.rulesStrings.3>problems->[RECIPIENT_possessive] problems</Counsel_Success.logRulesInitiator.rulesStrings.3>
+  <Counsel_Success.logRulesInitiator.rulesStrings.4>problems->[RECIPIENT_possessive] troubles</Counsel_Success.logRulesInitiator.rulesStrings.4>
+  <Counsel_Success.logRulesInitiator.rulesStrings.5>problems->[RECIPIENT_possessive] painful feelings</Counsel_Success.logRulesInitiator.rulesStrings.5>
+  <Counsel_Success.logRulesInitiator.rulesStrings.6>problems->recent difficulties</Counsel_Success.logRulesInitiator.rulesStrings.6>
+  <Counsel_Failure.label>failed counsel</Counsel_Failure.label>
+  <Counsel_Failure.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</Counsel_Failure.logRulesInitiator.rulesStrings.0>
+  <Convert_Success.label>successful conversion</Convert_Success.label>
+  <Convert_Success.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] and succeeded.</Convert_Success.logRulesInitiator.rulesStrings.0>
+  <Convert_Failure.label>failed conversion</Convert_Failure.label>
+  <Convert_Failure.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef], but failed.</Convert_Failure.logRulesInitiator.rulesStrings.0>
+  <Reassure.label>reassurance</Reassure.label>
+  <Reassure.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</Reassure.logRulesInitiator.rulesStrings.0>
+  <PreachHealth.label>preached health</PreachHealth.label>
+  <PreachHealth.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] strengthened [RECIPIENT_nameDef]'s health by preaching about [preaching_topic].</PreachHealth.logRulesInitiator.rulesStrings.0>
+  <PreachHealth.logRulesInitiator.rulesStrings.1>preaching_topic->reasons to live</PreachHealth.logRulesInitiator.rulesStrings.1>
+  <PreachHealth.logRulesInitiator.rulesStrings.2>preaching_topic->higher ideoligious goals</PreachHealth.logRulesInitiator.rulesStrings.2>
+  <PreachHealth.logRulesInitiator.rulesStrings.3>preaching_topic->[RECIPIENT_possessive] purpose of existence</PreachHealth.logRulesInitiator.rulesStrings.3>
+  <WorkDrive.label>work drive</WorkDrive.label>
+  <WorkDrive.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to work extra hard for the good of the colony.</WorkDrive.logRulesInitiator.rulesStrings.0>
+  <Trial_Accuse.label>accuse</Trial_Accuse.label>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] presented some evidence.</Trial_Accuse.logRulesInitiator.rulesStrings.0>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] appealed to the emotions of the spectators.</Trial_Accuse.logRulesInitiator.rulesStrings.1>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] accused [RECIPIENT_nameDef] of [wrongdoing].</Trial_Accuse.logRulesInitiator.rulesStrings.2>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.3>wrongdoing->sabotaging the colony</Trial_Accuse.logRulesInitiator.rulesStrings.3>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.4>wrongdoing->being lazy</Trial_Accuse.logRulesInitiator.rulesStrings.4>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.5>wrongdoing->eating too much</Trial_Accuse.logRulesInitiator.rulesStrings.5>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.6>wrongdoing->stealing</Trial_Accuse.logRulesInitiator.rulesStrings.6>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.7>wrongdoing->being a horrible person</Trial_Accuse.logRulesInitiator.rulesStrings.7>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.8>wrongdoing->disrespecting sacred ideas</Trial_Accuse.logRulesInitiator.rulesStrings.8>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.9>wrongdoing->disrespecting respected figures</Trial_Accuse.logRulesInitiator.rulesStrings.9>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.10>wrongdoing->heresy</Trial_Accuse.logRulesInitiator.rulesStrings.10>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.11>wrongdoing->murder</Trial_Accuse.logRulesInitiator.rulesStrings.11>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.12>wrongdoing->blasphemy</Trial_Accuse.logRulesInitiator.rulesStrings.12>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.13>wrongdoing->treason</Trial_Accuse.logRulesInitiator.rulesStrings.13>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.14>wrongdoing->hateful thinking</Trial_Accuse.logRulesInitiator.rulesStrings.14>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.15>wrongdoing->disloyalty</Trial_Accuse.logRulesInitiator.rulesStrings.15>
+  <Trial_Defend.label>defend</Trial_Defend.label>
+  <Trial_Defend.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] deflected the accusation.</Trial_Defend.logRulesInitiator.rulesStrings.0>
+  <Trial_Defend.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] presented another interpretation.</Trial_Defend.logRulesInitiator.rulesStrings.1>
+  <Trial_Defend.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] pleaded to jury.</Trial_Defend.logRulesInitiator.rulesStrings.2>
+  <Trial_Defend.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] called for mercy.</Trial_Defend.logRulesInitiator.rulesStrings.3>
+  <Trial_Defend.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] stalled the proceedings.</Trial_Defend.logRulesInitiator.rulesStrings.4>
+  <Trial_Defend.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] dismissed the allegations.</Trial_Defend.logRulesInitiator.rulesStrings.5>
+  <Trial_Defend.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] called the trial a sham.</Trial_Defend.logRulesInitiator.rulesStrings.6>
+  <Speech_Duel.label>duel speech</Speech_Duel.label>
+  <Speech_Duel.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</Speech_Duel.logRulesInitiator.rulesStrings.0>
+  <Speech_Duel.logRulesInitiator.rulesStrings.1>praisetopic->death by blade</Speech_Duel.logRulesInitiator.rulesStrings.1>
+  <Speech_Duel.logRulesInitiator.rulesStrings.2>praisetopic->painful death</Speech_Duel.logRulesInitiator.rulesStrings.2>
+  <Speech_Duel.logRulesInitiator.rulesStrings.3>praisetopic->honorable death</Speech_Duel.logRulesInitiator.rulesStrings.3>
+  <Speech_Duel.logRulesInitiator.rulesStrings.4>praisetopic->honorable combat</Speech_Duel.logRulesInitiator.rulesStrings.4>
+  <Speech_Duel.logRulesInitiator.rulesStrings.5>praisetopic->grit and struggle</Speech_Duel.logRulesInitiator.rulesStrings.5>
+  <Speech_Duel.logRulesInitiator.rulesStrings.6>praisetopic->[AdjectiveBadass] weapons and fighters</Speech_Duel.logRulesInitiator.rulesStrings.6>
+  <Speech_Duel.logRulesInitiator.rulesStrings.7>praisetopic->the purity of physical conflict</Speech_Duel.logRulesInitiator.rulesStrings.7>
+  <Speech_Duel.logRulesInitiator.rulesStrings.8>praisetopic->love through death</Speech_Duel.logRulesInitiator.rulesStrings.8>
+  <Speech_Duel.logRulesInitiator.rulesStrings.9>praisetopic->expelling hate for health</Speech_Duel.logRulesInitiator.rulesStrings.9>
+  <Speech_Duel.logRulesInitiator.rulesStrings.10>praisetopic->strength over others</Speech_Duel.logRulesInitiator.rulesStrings.10>
+  <Speech_Duel.logRulesInitiator.rulesStrings.11>praisetopic->the conflict inherent in the universe</Speech_Duel.logRulesInitiator.rulesStrings.11>
+  <Speech_Duel.logRulesInitiator.rulesStrings.12>praisetopic->blood and dust</Speech_Duel.logRulesInitiator.rulesStrings.12>
+  <Speech_Duel.logRulesInitiator.rulesStrings.13>praisetopic->life and drama</Speech_Duel.logRulesInitiator.rulesStrings.13>
+  <Speech_Duel.logRulesInitiator.rulesStrings.14>praisetopic->anger and hope</Speech_Duel.logRulesInitiator.rulesStrings.14>
+  <Speech_Duel.logRulesInitiator.rulesStrings.15>praisetopic->rage and strength</Speech_Duel.logRulesInitiator.rulesStrings.15>
+  <Speech_Funeral.label>funeral speech</Speech_Funeral.label>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_Funeral.logRulesInitiator.rulesStrings.0>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.1>speechtopic->the nobility of sacrifice</Speech_Funeral.logRulesInitiator.rulesStrings.1>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.2>speechtopic->death</Speech_Funeral.logRulesInitiator.rulesStrings.2>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.3>speechtopic->life after death</Speech_Funeral.logRulesInitiator.rulesStrings.3>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.4>speechtopic->death and family</Speech_Funeral.logRulesInitiator.rulesStrings.4>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.5>speechtopic->the concept of a good life</Speech_Funeral.logRulesInitiator.rulesStrings.5>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.6>speechtopic->death as a path to dignity</Speech_Funeral.logRulesInitiator.rulesStrings.6>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.7>speechtopic->beginnings and endings</Speech_Funeral.logRulesInitiator.rulesStrings.7>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.8>speechtopic->what happens after death</Speech_Funeral.logRulesInitiator.rulesStrings.8>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.9>speechtopic->celebrating the next step</Speech_Funeral.logRulesInitiator.rulesStrings.9>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.10>speechtopic->absent friends</Speech_Funeral.logRulesInitiator.rulesStrings.10>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.11>speechtopic->life and joy</Speech_Funeral.logRulesInitiator.rulesStrings.11>
+  <Speech_Funeral.logRulesInitiator.rulesStrings.12>speechtopic->carrying forward unfinished work</Speech_Funeral.logRulesInitiator.rulesStrings.12>
+  <Speech_DateRitual.label>celebration speech</Speech_DateRitual.label>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</Speech_DateRitual.logRulesInitiator.rulesStrings.0>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.1>praisetopic->the joy of ideological celebrations</Speech_DateRitual.logRulesInitiator.rulesStrings.1>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.2>praisetopic->correct thinking</Speech_DateRitual.logRulesInitiator.rulesStrings.2>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.3>praisetopic->the moral structure of the universe</Speech_DateRitual.logRulesInitiator.rulesStrings.3>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.4>praisetopic->[INITIATOR_possessive] beliefs</Speech_DateRitual.logRulesInitiator.rulesStrings.4>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.5>praisetopic->togetherness</Speech_DateRitual.logRulesInitiator.rulesStrings.5>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.6>praisetopic->being together</Speech_DateRitual.logRulesInitiator.rulesStrings.6>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.7>praisetopic->sharing ideas</Speech_DateRitual.logRulesInitiator.rulesStrings.7>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings.8>praisetopic->[INITIATOR_possessive] own group</Speech_DateRitual.logRulesInitiator.rulesStrings.8>
+  <Speech_Leader.label>leader speech</Speech_Leader.label>
+  <Speech_Leader.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_Leader.logRulesInitiator.rulesStrings.0>
+  <Speech_Leader.logRulesInitiator.rulesStrings.1>speechtopic->searching for [Vegetable]s</Speech_Leader.logRulesInitiator.rulesStrings.1>
+  <Speech_Leader.logRulesInitiator.rulesStrings.2>speechtopic->how to be [AdjectiveFriendly]</Speech_Leader.logRulesInitiator.rulesStrings.2>
+  <Speech_Leader.logRulesInitiator.rulesStrings.3>speechtopic->avoiding [AnimalBadass]s</Speech_Leader.logRulesInitiator.rulesStrings.3>
+  <Speech_Leader.logRulesInitiator.rulesStrings.4>speechtopic->how life is like [Game]</Speech_Leader.logRulesInitiator.rulesStrings.4>
+  <Speech_Leader.logRulesInitiator.rulesStrings.5>speechtopic->the mind as a [Weapon]</Speech_Leader.logRulesInitiator.rulesStrings.5>
+  <Speech_Leader.logRulesInitiator.rulesStrings.6>speechtopic->exploring through [TerrainFeature]s and [TerrainFeature]s</Speech_Leader.logRulesInitiator.rulesStrings.6>
+  <Speech_Leader.logRulesInitiator.rulesStrings.7>speechtopic->promises to the [Direction]</Speech_Leader.logRulesInitiator.rulesStrings.7>
+  <Speech_Leader.logRulesInitiator.rulesStrings.8>speechtopic->how to be more like [Animal]s</Speech_Leader.logRulesInitiator.rulesStrings.8>
+  <Speech_Leader.logRulesInitiator.rulesStrings.9>speechtopic->the symbolism of the [NaturalObject] and the [NaturalObject]</Speech_Leader.logRulesInitiator.rulesStrings.9>
+  <Speech_Leader.logRulesInitiator.rulesStrings.10>speechtopic->how all are [PersonFamily]s and [PersonFamily]s</Speech_Leader.logRulesInitiator.rulesStrings.10>
+  <Speech_Leader.logRulesInitiator.rulesStrings.11>speechtopic->how to be a good [PersonAlly]</Speech_Leader.logRulesInitiator.rulesStrings.11>
+  <Speech_Leader.logRulesInitiator.rulesStrings.12>speechtopic->the need for [PersonJob]s</Speech_Leader.logRulesInitiator.rulesStrings.12>
+  <Speech_Leader.logRulesInitiator.rulesStrings.13>speechtopic->avoiding [PersonBadass]s</Speech_Leader.logRulesInitiator.rulesStrings.13>
+  <Speech_Leader.logRulesInitiator.rulesStrings.14>speechtopic->defeating [Enemy]s through [ConceptPositive]</Speech_Leader.logRulesInitiator.rulesStrings.14>
+  <Speech_Leader.logRulesInitiator.rulesStrings.15>speechtopic->seeing [Gore] during combat</Speech_Leader.logRulesInitiator.rulesStrings.15>
+  <Speech_Leader.logRulesInitiator.rulesStrings.16>speechtopic->the history of the [Mechanoid]s</Speech_Leader.logRulesInitiator.rulesStrings.16>
+  <Speech_Leader.logRulesInitiator.rulesStrings.17>speechtopic->the meaning of [ConceptPositive]</Speech_Leader.logRulesInitiator.rulesStrings.17>
+  <Speech_Leader.logRulesInitiator.rulesStrings.18>speechtopic->the [ConceptPositive] of the colony</Speech_Leader.logRulesInitiator.rulesStrings.18>
+  <Speech_Leader.logRulesInitiator.rulesStrings.19>speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass]</Speech_Leader.logRulesInitiator.rulesStrings.19>
+  <Speech_Leader.logRulesInitiator.rulesStrings.20>speechtopic->how [AdjectiveBadass] the colony is</Speech_Leader.logRulesInitiator.rulesStrings.20>
+  <Speech_Leader.logRulesInitiator.rulesStrings.21>speechtopic->[AdjectiveNatural] [TerrainFeature]s</Speech_Leader.logRulesInitiator.rulesStrings.21>
+  <Speech_Leader.logRulesInitiator.rulesStrings.22>speechtopic->the colony's [AdjectiveLarge] potential</Speech_Leader.logRulesInitiator.rulesStrings.22>
+  <Speech_Leader.logRulesInitiator.rulesStrings.23>speechtopic->the [PersonalCharacteristic] of every colonist</Speech_Leader.logRulesInitiator.rulesStrings.23>
+  <Speech_Leader.logRulesInitiator.rulesStrings.24>speechtopic->the terrible [PersonalCharacteristic] of the colony's enemies</Speech_Leader.logRulesInitiator.rulesStrings.24>
+  <Speech_Leader.logRulesInitiator.rulesStrings.25>speechtopic(p=0.25)->sticking together as group</Speech_Leader.logRulesInitiator.rulesStrings.25>
+  <Speech_Leader.logRulesInitiator.rulesStrings.26>speechtopic(p=0.25)->the path forward through tragedy</Speech_Leader.logRulesInitiator.rulesStrings.26>
+  <Speech_Leader.logRulesInitiator.rulesStrings.27>speechtopic(p=0.25)->the community and its importance</Speech_Leader.logRulesInitiator.rulesStrings.27>
+  <Speech_Leader.logRulesInitiator.rulesStrings.28>speechtopic(p=0.25)->survival versus luxury</Speech_Leader.logRulesInitiator.rulesStrings.28>
+  <Speech_Leader.logRulesInitiator.rulesStrings.29>speechtopic(p=0.25)->happiness through hardship</Speech_Leader.logRulesInitiator.rulesStrings.29>
+  <Speech_Leader.logRulesInitiator.rulesStrings.30>speechtopic(p=0.25)->satisfaction through suffering</Speech_Leader.logRulesInitiator.rulesStrings.30>
+  <Speech_Leader.logRulesInitiator.rulesStrings.31>speechtopic(p=0.25)->death as a motivator</Speech_Leader.logRulesInitiator.rulesStrings.31>
+  <Speech_Leader.logRulesInitiator.rulesStrings.32>speechtopic(p=0.25)->strong hands and hearts</Speech_Leader.logRulesInitiator.rulesStrings.32>
+  <Speech_Leader.logRulesInitiator.rulesStrings.33>speechtopic(p=0.25)->the right to survive</Speech_Leader.logRulesInitiator.rulesStrings.33>
+  <Speech_Sacrifice.label>sacrifice speech</Speech_Sacrifice.label>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_Sacrifice.logRulesInitiator.rulesStrings.0>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</Speech_Sacrifice.logRulesInitiator.rulesStrings.1>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.2>speechtopic->the meaning and true value of death</Speech_Sacrifice.logRulesInitiator.rulesStrings.2>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.3>speechtopic->expressions of pain</Speech_Sacrifice.logRulesInitiator.rulesStrings.3>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.4>speechtopic->controlled cruelty</Speech_Sacrifice.logRulesInitiator.rulesStrings.4>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.5>speechtopic->the warmth of blood</Speech_Sacrifice.logRulesInitiator.rulesStrings.5>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.6>speechtopic->the meaning of death</Speech_Sacrifice.logRulesInitiator.rulesStrings.6>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.7>speechtopic->love and death</Speech_Sacrifice.logRulesInitiator.rulesStrings.7>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.8>speechtopic->symbolizing pain</Speech_Sacrifice.logRulesInitiator.rulesStrings.8>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.9>speechtopic->blades and flesh</Speech_Sacrifice.logRulesInitiator.rulesStrings.9>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.10>speechtopic->the art of cutting</Speech_Sacrifice.logRulesInitiator.rulesStrings.10>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.11>speechtopic->the seduction of blood</Speech_Sacrifice.logRulesInitiator.rulesStrings.11>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.12>speechtopic->the music of screams</Speech_Sacrifice.logRulesInitiator.rulesStrings.12>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.13>speechtopic->guts on the floor</Speech_Sacrifice.logRulesInitiator.rulesStrings.13>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.14>crazy->screamed maniacally</Speech_Sacrifice.logRulesInitiator.rulesStrings.14>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.15>crazy->broke into a chant</Speech_Sacrifice.logRulesInitiator.rulesStrings.15>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.16>crazy->chanted towards the heavens</Speech_Sacrifice.logRulesInitiator.rulesStrings.16>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.17>crazy->spat in the sacrifice's eye</Speech_Sacrifice.logRulesInitiator.rulesStrings.17>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.18>crazy->cackled</Speech_Sacrifice.logRulesInitiator.rulesStrings.18>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.19>crazy->brandished a blade</Speech_Sacrifice.logRulesInitiator.rulesStrings.19>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings.20>crazy->muttered repetitively</Speech_Sacrifice.logRulesInitiator.rulesStrings.20>
+  <Speech_Scarification.label>scarification speech</Speech_Scarification.label>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_Scarification.logRulesInitiator.rulesStrings.0>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</Speech_Scarification.logRulesInitiator.rulesStrings.1>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.2>speechtopic->recording pain on the body</Speech_Scarification.logRulesInitiator.rulesStrings.2>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.3>speechtopic->expressions of pain</Speech_Scarification.logRulesInitiator.rulesStrings.3>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.4>speechtopic->controlled cruelty</Speech_Scarification.logRulesInitiator.rulesStrings.4>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.5>speechtopic->the warmth of blood</Speech_Scarification.logRulesInitiator.rulesStrings.5>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.6>speechtopic->the meaning of the scar</Speech_Scarification.logRulesInitiator.rulesStrings.6>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.7>speechtopic->love and pain</Speech_Scarification.logRulesInitiator.rulesStrings.7>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.8>speechtopic->symbolizing pain</Speech_Scarification.logRulesInitiator.rulesStrings.8>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.9>speechtopic->blades and flesh</Speech_Scarification.logRulesInitiator.rulesStrings.9>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.10>speechtopic->the art of cutting</Speech_Scarification.logRulesInitiator.rulesStrings.10>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.11>speechtopic->the seduction of blood</Speech_Scarification.logRulesInitiator.rulesStrings.11>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.12>speechtopic->the music of screams</Speech_Scarification.logRulesInitiator.rulesStrings.12>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.13>crazy->screamed maniacally</Speech_Scarification.logRulesInitiator.rulesStrings.13>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.14>crazy->broke into a chant</Speech_Scarification.logRulesInitiator.rulesStrings.14>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.15>crazy->chanted towards the heavens</Speech_Scarification.logRulesInitiator.rulesStrings.15>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.16>crazy->cackled</Speech_Scarification.logRulesInitiator.rulesStrings.16>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.17>crazy->brandished a blade</Speech_Scarification.logRulesInitiator.rulesStrings.17>
+  <Speech_Scarification.logRulesInitiator.rulesStrings.18>crazy->muttered repetitively</Speech_Scarification.logRulesInitiator.rulesStrings.18>
+  <Speech_Blinding.label>blinding speech</Speech_Blinding.label>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_Blinding.logRulesInitiator.rulesStrings.0>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.1>speechtopic->blindness</Speech_Blinding.logRulesInitiator.rulesStrings.1>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.2>speechtopic->the purity of blindness</Speech_Blinding.logRulesInitiator.rulesStrings.2>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.3>speechtopic->the spiritual meaning of the sightless</Speech_Blinding.logRulesInitiator.rulesStrings.3>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.4>speechtopic->hidden worlds beyond sight</Speech_Blinding.logRulesInitiator.rulesStrings.4>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.5>speechtopic->the falseness of our visual reality</Speech_Blinding.logRulesInitiator.rulesStrings.5>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.6>speechtopic->the technique of blinding</Speech_Blinding.logRulesInitiator.rulesStrings.6>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.7>speechtopic->the curse of sight</Speech_Blinding.logRulesInitiator.rulesStrings.7>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.8>speechtopic->the jelly inside the eyeball</Speech_Blinding.logRulesInitiator.rulesStrings.8>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.9>speechtopic->growing up sighted</Speech_Blinding.logRulesInitiator.rulesStrings.9>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.10>speechtopic->growing up blind</Speech_Blinding.logRulesInitiator.rulesStrings.10>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.11>speechtopic->exploring without seeing or moving</Speech_Blinding.logRulesInitiator.rulesStrings.11>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.12>speechtopic->the true layers of reality under the visual</Speech_Blinding.logRulesInitiator.rulesStrings.12>
+  <Speech_Blinding.logRulesInitiator.rulesStrings.13>speechtopic->psychic connections</Speech_Blinding.logRulesInitiator.rulesStrings.13>
+  <Speech_Execution.label>exceution speech</Speech_Execution.label>
+  <Speech_Execution.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_Execution.logRulesInitiator.rulesStrings.0>
+  <Speech_Execution.logRulesInitiator.rulesStrings.1>speechtopic->life and death</Speech_Execution.logRulesInitiator.rulesStrings.1>
+  <Speech_Execution.logRulesInitiator.rulesStrings.2>speechtopic->the necessity of justice</Speech_Execution.logRulesInitiator.rulesStrings.2>
+  <Speech_Execution.logRulesInitiator.rulesStrings.3>speechtopic->the methods of execution</Speech_Execution.logRulesInitiator.rulesStrings.3>
+  <Speech_Execution.logRulesInitiator.rulesStrings.4>speechtopic->death and cruelty</Speech_Execution.logRulesInitiator.rulesStrings.4>
+  <Speech_Execution.logRulesInitiator.rulesStrings.5>speechtopic->merciful killing</Speech_Execution.logRulesInitiator.rulesStrings.5>
+  <Speech_Execution.logRulesInitiator.rulesStrings.6>speechtopic->the mercy of a correct killing</Speech_Execution.logRulesInitiator.rulesStrings.6>
+  <Speech_Execution.logRulesInitiator.rulesStrings.7>speechtopic->the symbolism of death</Speech_Execution.logRulesInitiator.rulesStrings.7>
+  <Speech_Execution.logRulesInitiator.rulesStrings.8>speechtopic->capital punishment and its history</Speech_Execution.logRulesInitiator.rulesStrings.8>
+  <Speech_Execution.logRulesInitiator.rulesStrings.9>speechtopic->the reasons for the execution</Speech_Execution.logRulesInitiator.rulesStrings.9>
+  <Speech_TreeConnection.label>tree connection speech</Speech_TreeConnection.label>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_TreeConnection.logRulesInitiator.rulesStrings.0>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.1>speechtopic->the trees and the people</Speech_TreeConnection.logRulesInitiator.rulesStrings.1>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.2>speechtopic->the trees and psychic powers</Speech_TreeConnection.logRulesInitiator.rulesStrings.2>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.3>speechtopic->dryads</Speech_TreeConnection.logRulesInitiator.rulesStrings.3>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.4>speechtopic->the Gauranlen life cycle</Speech_TreeConnection.logRulesInitiator.rulesStrings.4>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.5>speechtopic->the spiritual presence of Gauranlen trees</Speech_TreeConnection.logRulesInitiator.rulesStrings.5>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.6>speechtopic->psychic dendro-pathy</Speech_TreeConnection.logRulesInitiator.rulesStrings.6>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.7>speechtopic->how cute dryads are</Speech_TreeConnection.logRulesInitiator.rulesStrings.7>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.8>speechtopic->the nobility of the dryads</Speech_TreeConnection.logRulesInitiator.rulesStrings.8>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.9>speechtopic->the age of the trees</Speech_TreeConnection.logRulesInitiator.rulesStrings.9>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.10>speechtopic->humanity's role below the trees</Speech_TreeConnection.logRulesInitiator.rulesStrings.10>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.11>speechtopic->plant life and eternity</Speech_TreeConnection.logRulesInitiator.rulesStrings.11>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings.12>speechtopic->connecting with nature</Speech_TreeConnection.logRulesInitiator.rulesStrings.12>
+  <Speech_Conversion.label>conversion speech</Speech_Conversion.label>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_Conversion.logRulesInitiator.rulesStrings.0>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.1>speechtopic->uniting for the greater good</Speech_Conversion.logRulesInitiator.rulesStrings.1>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.2>speechtopic->the wrongness of apostasy</Speech_Conversion.logRulesInitiator.rulesStrings.2>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.3>speechtopic->choosing right beliefs</Speech_Conversion.logRulesInitiator.rulesStrings.3>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.4>speechtopic->the moral structure of the universe</Speech_Conversion.logRulesInitiator.rulesStrings.4>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.5>speechtopic->right and wrong</Speech_Conversion.logRulesInitiator.rulesStrings.5>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.6>speechtopic->the purpose of life</Speech_Conversion.logRulesInitiator.rulesStrings.6>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.7>speechtopic->the meaning of life</Speech_Conversion.logRulesInitiator.rulesStrings.7>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.8>speechtopic->mankind's history</Speech_Conversion.logRulesInitiator.rulesStrings.8>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.9>speechtopic->the future of mankind</Speech_Conversion.logRulesInitiator.rulesStrings.9>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.10>speechtopic->love and hate</Speech_Conversion.logRulesInitiator.rulesStrings.10>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.11>speechtopic->fear and safety</Speech_Conversion.logRulesInitiator.rulesStrings.11>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.12>speechtopic->the rightness of belonging</Speech_Conversion.logRulesInitiator.rulesStrings.12>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.13>speechtopic->joining and belonging</Speech_Conversion.logRulesInitiator.rulesStrings.13>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.14>speechtopic->false other beliefs</Speech_Conversion.logRulesInitiator.rulesStrings.14>
+  <Speech_Conversion.logRulesInitiator.rulesStrings.15>speechtopic->progress towards the future</Speech_Conversion.logRulesInitiator.rulesStrings.15>
+</LanguageData>

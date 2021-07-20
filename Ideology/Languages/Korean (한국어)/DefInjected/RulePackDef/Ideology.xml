@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] was convinced and changed [RECIPIENT_possessive] ideoligion.</Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings.0>
+  <Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] was not convinced.</Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings.0>
+  <Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] was not convinced and resented the attempt.</Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings.0>
+  <Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] reacted in anger and started a social fight.</Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings.0>
+  <SpeechUtility.rulePack.rulesStrings.0>spokeof->spoke about</SpeechUtility.rulePack.rulesStrings.0>
+  <SpeechUtility.rulePack.rulesStrings.1>spokeof->talked about</SpeechUtility.rulePack.rulesStrings.1>
+  <SpeechUtility.rulePack.rulesStrings.2>spokeof->offered thoughts on</SpeechUtility.rulePack.rulesStrings.2>
+  <SpeechUtility.rulePack.rulesStrings.3>spokeof->discussed</SpeechUtility.rulePack.rulesStrings.3>
+  <SpeechUtility.rulePack.rulesStrings.4>spokeof->explained</SpeechUtility.rulePack.rulesStrings.4>
+  <SpeechUtility.rulePack.rulesStrings.5>spokeof->described</SpeechUtility.rulePack.rulesStrings.5>
+  <SpeechUtility.rulePack.rulesStrings.6>praised->gave a speech about</SpeechUtility.rulePack.rulesStrings.6>
+  <SpeechUtility.rulePack.rulesStrings.7>praised->spoke about</SpeechUtility.rulePack.rulesStrings.7>
+  <SpeechUtility.rulePack.rulesStrings.8>praised->talked about</SpeechUtility.rulePack.rulesStrings.8>
+  <SpeechUtility.rulePack.rulesStrings.9>praised->praised</SpeechUtility.rulePack.rulesStrings.9>
+  <SpeechUtility.rulePack.rulesStrings.10>praised->extolled the virtues of</SpeechUtility.rulePack.rulesStrings.10>
+  <SpeechUtility.rulePack.rulesStrings.11>praised->acclaimed</SpeechUtility.rulePack.rulesStrings.11>
+  <SpeechUtility.rulePack.rulesStrings.12>praised->heaped glory on</SpeechUtility.rulePack.rulesStrings.12>
+  <SpeechUtility.rulePack.rulesStrings.13>praised->raved about</SpeechUtility.rulePack.rulesStrings.13>
+  <NamerDeityChristian.rulePack.rulesStrings.0>r_deityName(p=3)->God</NamerDeityChristian.rulePack.rulesStrings.0>
+  <NamerDeityChristian.rulePack.rulesStrings.1>r_deityName->Christ-Lord</NamerDeityChristian.rulePack.rulesStrings.1>
+  <NamerDeityChristian.rulePack.rulesStrings.2>r_deityName->Christ</NamerDeityChristian.rulePack.rulesStrings.2>
+  <NamerDeityChristian.rulePack.rulesStrings.3>r_deityName->[color] Jesus</NamerDeityChristian.rulePack.rulesStrings.3>
+  <NamerDeityChristian.rulePack.rulesStrings.4>r_deityName->[color] Christ</NamerDeityChristian.rulePack.rulesStrings.4>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings.0>r_deityType->Creator of [all]</DietyTypeMakerAbrahamic.rulePack.rulesStrings.0>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings.1>r_deityType->[adj] god</DietyTypeMakerAbrahamic.rulePack.rulesStrings.1>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings.2>all->everything</DietyTypeMakerAbrahamic.rulePack.rulesStrings.2>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings.3>all->all</DietyTypeMakerAbrahamic.rulePack.rulesStrings.3>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings.4>all->the universe</DietyTypeMakerAbrahamic.rulePack.rulesStrings.4>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings.5>adj->all-powerful</DietyTypeMakerAbrahamic.rulePack.rulesStrings.5>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings.6>adj->omnipotent</DietyTypeMakerAbrahamic.rulePack.rulesStrings.6>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings.7>adj->universal</DietyTypeMakerAbrahamic.rulePack.rulesStrings.7>
+  <NamerDeityIslamic.rulePack.rulesStrings.0>r_deityName(p=8)->Allah</NamerDeityIslamic.rulePack.rulesStrings.0>
+  <NamerDeityIslamic.rulePack.rulesStrings.1>r_deityName->Al-Ilah</NamerDeityIslamic.rulePack.rulesStrings.1>
+  <NamerDeityIslamic.rulePack.rulesStrings.2>r_deityName->Ar-Rahman</NamerDeityIslamic.rulePack.rulesStrings.2>
+  <NamerDeityIslamic.rulePack.rulesStrings.3>r_deityName->Al-Malik</NamerDeityIslamic.rulePack.rulesStrings.3>
+  <NamerDeityIslamic.rulePack.rulesStrings.4>r_deityName->Al-Qudus</NamerDeityIslamic.rulePack.rulesStrings.4>
+  <NamerDeityIslamic.rulePack.rulesStrings.5>r_deityName->As-Salam</NamerDeityIslamic.rulePack.rulesStrings.5>
+  <NamerDeityIslamic.rulePack.rulesStrings.6>r_deityName->Al-Mumin</NamerDeityIslamic.rulePack.rulesStrings.6>
+  <NamerDeityIslamic.rulePack.rulesStrings.7>r_deityName->Al-Aziz</NamerDeityIslamic.rulePack.rulesStrings.7>
+  <NamerDeityIslamic.rulePack.rulesStrings.8>r_deityName->Al-Jabbar</NamerDeityIslamic.rulePack.rulesStrings.8>
+  <NamerDeityIslamic.rulePack.rulesStrings.9>r_deityName->Al-Khaliq</NamerDeityIslamic.rulePack.rulesStrings.9>
+  <NamerDeityIslamic.rulePack.rulesStrings.10>r_deityName->Al-Ghaffar</NamerDeityIslamic.rulePack.rulesStrings.10>
+  <NamerDeityIslamic.rulePack.rulesStrings.11>r_deityName->Al-Qahar</NamerDeityIslamic.rulePack.rulesStrings.11>
+  <NamerDeityIslamic.rulePack.rulesStrings.12>r_deityName->Al-Wahhab</NamerDeityIslamic.rulePack.rulesStrings.12>
+  <NamerDeityIslamic.rulePack.rulesStrings.13>r_deityName->Al-Fattah</NamerDeityIslamic.rulePack.rulesStrings.13>
+  <NamerDeityIslamic.rulePack.rulesStrings.14>r_deityName->Al-Alim</NamerDeityIslamic.rulePack.rulesStrings.14>
+  <NamerDeityIslamic.rulePack.rulesStrings.15>r_deityName->Al-Hakam</NamerDeityIslamic.rulePack.rulesStrings.15>
+  <PlaceMakerCommon.rulePack.rulesStrings.0>place_personalWeapon->assault rifle</PlaceMakerCommon.rulePack.rulesStrings.0>
+  <PlaceMakerCommon.rulePack.rulesStrings.1>place_massWeapon->an archotech mass-inverter</PlaceMakerCommon.rulePack.rulesStrings.1>
+  <PlaceMakerCommon.rulePack.rulesStrings.2>seismicDevice->a seismic quake-generation device</PlaceMakerCommon.rulePack.rulesStrings.2>
+  <PlaceMakerCommon.rulePack.rulesStrings.3>anEMPAttack->an EMP strike to the life support systems</PlaceMakerCommon.rulePack.rulesStrings.3>
+  <NamerDeityGlobal.rulePack.rulesStrings.0>r_deityName->[name]</NamerDeityGlobal.rulePack.rulesStrings.0>
+  <GodContent_English.rulePack.rulesStrings.0>name->[start][middle][end]</GodContent_English.rulePack.rulesStrings.0>
+  <GodContent_English.rulePack.rulesStrings.1>start->a</GodContent_English.rulePack.rulesStrings.1>
+  <GodContent_English.rulePack.rulesStrings.2>start->al</GodContent_English.rulePack.rulesStrings.2>
+  <GodContent_English.rulePack.rulesStrings.3>start->an</GodContent_English.rulePack.rulesStrings.3>
+  <GodContent_English.rulePack.rulesStrings.4>start->ar</GodContent_English.rulePack.rulesStrings.4>
+  <GodContent_English.rulePack.rulesStrings.5>start->as</GodContent_English.rulePack.rulesStrings.5>
+  <GodContent_English.rulePack.rulesStrings.6>start->at</GodContent_English.rulePack.rulesStrings.6>
+  <GodContent_English.rulePack.rulesStrings.7>start->b</GodContent_English.rulePack.rulesStrings.7>
+  <GodContent_English.rulePack.rulesStrings.8>start->but</GodContent_English.rulePack.rulesStrings.8>
+  <GodContent_English.rulePack.rulesStrings.9>start->ban</GodContent_English.rulePack.rulesStrings.9>
+  <GodContent_English.rulePack.rulesStrings.10>start->bin</GodContent_English.rulePack.rulesStrings.10>
+  <GodContent_English.rulePack.rulesStrings.11>start->bon</GodContent_English.rulePack.rulesStrings.11>
+  <GodContent_English.rulePack.rulesStrings.12>start->c</GodContent_English.rulePack.rulesStrings.12>
+  <GodContent_English.rulePack.rulesStrings.13>start->ca</GodContent_English.rulePack.rulesStrings.13>
+  <GodContent_English.rulePack.rulesStrings.14>start->co</GodContent_English.rulePack.rulesStrings.14>
+  <GodContent_English.rulePack.rulesStrings.15>start->d</GodContent_English.rulePack.rulesStrings.15>
+  <GodContent_English.rulePack.rulesStrings.16>start->do</GodContent_English.rulePack.rulesStrings.16>
+  <GodContent_English.rulePack.rulesStrings.17>start->din</GodContent_English.rulePack.rulesStrings.17>
+  <GodContent_English.rulePack.rulesStrings.18>start->del</GodContent_English.rulePack.rulesStrings.18>
+  <GodContent_English.rulePack.rulesStrings.19>start->ed</GodContent_English.rulePack.rulesStrings.19>
+  <GodContent_English.rulePack.rulesStrings.20>start->en</GodContent_English.rulePack.rulesStrings.20>
+  <GodContent_English.rulePack.rulesStrings.21>start->ent</GodContent_English.rulePack.rulesStrings.21>
+  <GodContent_English.rulePack.rulesStrings.22>start->er</GodContent_English.rulePack.rulesStrings.22>
+  <GodContent_English.rulePack.rulesStrings.23>start->es</GodContent_English.rulePack.rulesStrings.23>
+  <GodContent_English.rulePack.rulesStrings.24>start->f</GodContent_English.rulePack.rulesStrings.24>
+  <GodContent_English.rulePack.rulesStrings.25>start->for</GodContent_English.rulePack.rulesStrings.25>
+  <GodContent_English.rulePack.rulesStrings.26>start->far</GodContent_English.rulePack.rulesStrings.26>
+  <GodContent_English.rulePack.rulesStrings.27>start->fin</GodContent_English.rulePack.rulesStrings.27>
+  <GodContent_English.rulePack.rulesStrings.28>start->fun</GodContent_English.rulePack.rulesStrings.28>
+  <GodContent_English.rulePack.rulesStrings.29>start->fen</GodContent_English.rulePack.rulesStrings.29>
+  <GodContent_English.rulePack.rulesStrings.30>start->g</GodContent_English.rulePack.rulesStrings.30>
+  <GodContent_English.rulePack.rulesStrings.31>start->h</GodContent_English.rulePack.rulesStrings.31>
+  <GodContent_English.rulePack.rulesStrings.32>start->had</GodContent_English.rulePack.rulesStrings.32>
+  <GodContent_English.rulePack.rulesStrings.33>start->hat</GodContent_English.rulePack.rulesStrings.33>
+  <GodContent_English.rulePack.rulesStrings.34>start->hen</GodContent_English.rulePack.rulesStrings.34>
+  <GodContent_English.rulePack.rulesStrings.35>start->her</GodContent_English.rulePack.rulesStrings.35>
+  <GodContent_English.rulePack.rulesStrings.36>start->hin</GodContent_English.rulePack.rulesStrings.36>
+  <GodContent_English.rulePack.rulesStrings.37>start->his</GodContent_English.rulePack.rulesStrings.37>
+  <GodContent_English.rulePack.rulesStrings.38>start->in</GodContent_English.rulePack.rulesStrings.38>
+  <GodContent_English.rulePack.rulesStrings.39>start->is</GodContent_English.rulePack.rulesStrings.39>
+  <GodContent_English.rulePack.rulesStrings.40>start->it</GodContent_English.rulePack.rulesStrings.40>
+  <GodContent_English.rulePack.rulesStrings.41>start->ith</GodContent_English.rulePack.rulesStrings.41>
+  <GodContent_English.rulePack.rulesStrings.42>start->j</GodContent_English.rulePack.rulesStrings.42>
+  <GodContent_English.rulePack.rulesStrings.43>start->k</GodContent_English.rulePack.rulesStrings.43>
+  <GodContent_English.rulePack.rulesStrings.44>start->l</GodContent_English.rulePack.rulesStrings.44>
+  <GodContent_English.rulePack.rulesStrings.45>start->lon</GodContent_English.rulePack.rulesStrings.45>
+  <GodContent_English.rulePack.rulesStrings.46>start->len</GodContent_English.rulePack.rulesStrings.46>
+  <GodContent_English.rulePack.rulesStrings.47>start->lan</GodContent_English.rulePack.rulesStrings.47>
+  <GodContent_English.rulePack.rulesStrings.48>start->m</GodContent_English.rulePack.rulesStrings.48>
+  <GodContent_English.rulePack.rulesStrings.49>start->min</GodContent_English.rulePack.rulesStrings.49>
+  <GodContent_English.rulePack.rulesStrings.50>start->mon</GodContent_English.rulePack.rulesStrings.50>
+  <GodContent_English.rulePack.rulesStrings.51>start->men</GodContent_English.rulePack.rulesStrings.51>
+  <GodContent_English.rulePack.rulesStrings.52>start->n</GodContent_English.rulePack.rulesStrings.52>
+  <GodContent_English.rulePack.rulesStrings.53>start->on</GodContent_English.rulePack.rulesStrings.53>
+  <GodContent_English.rulePack.rulesStrings.54>start->or</GodContent_English.rulePack.rulesStrings.54>
+  <GodContent_English.rulePack.rulesStrings.55>start->oul</GodContent_English.rulePack.rulesStrings.55>
+  <GodContent_English.rulePack.rulesStrings.56>start->our</GodContent_English.rulePack.rulesStrings.56>
+  <GodContent_English.rulePack.rulesStrings.57>start->p</GodContent_English.rulePack.rulesStrings.57>
+  <GodContent_English.rulePack.rulesStrings.58>start->qu</GodContent_English.rulePack.rulesStrings.58>
+  <GodContent_English.rulePack.rulesStrings.59>start->r</GodContent_English.rulePack.rulesStrings.59>
+  <GodContent_English.rulePack.rulesStrings.60>start->s</GodContent_English.rulePack.rulesStrings.60>
+  <GodContent_English.rulePack.rulesStrings.61>start->sh</GodContent_English.rulePack.rulesStrings.61>
+  <GodContent_English.rulePack.rulesStrings.62>start->st</GodContent_English.rulePack.rulesStrings.62>
+  <GodContent_English.rulePack.rulesStrings.63>start->t</GodContent_English.rulePack.rulesStrings.63>
+  <GodContent_English.rulePack.rulesStrings.64>start->ted</GodContent_English.rulePack.rulesStrings.64>
+  <GodContent_English.rulePack.rulesStrings.65>start->ter</GodContent_English.rulePack.rulesStrings.65>
+  <GodContent_English.rulePack.rulesStrings.66>start->un</GodContent_English.rulePack.rulesStrings.66>
+  <GodContent_English.rulePack.rulesStrings.67>start->v</GodContent_English.rulePack.rulesStrings.67>
+  <GodContent_English.rulePack.rulesStrings.68>start->ver</GodContent_English.rulePack.rulesStrings.68>
+  <GodContent_English.rulePack.rulesStrings.69>start->w</GodContent_English.rulePack.rulesStrings.69>
+  <GodContent_English.rulePack.rulesStrings.70>start->y</GodContent_English.rulePack.rulesStrings.70>
+  <GodContent_English.rulePack.rulesStrings.71>middle->a</GodContent_English.rulePack.rulesStrings.71>
+  <GodContent_English.rulePack.rulesStrings.72>middle->e</GodContent_English.rulePack.rulesStrings.72>
+  <GodContent_English.rulePack.rulesStrings.73>middle->i</GodContent_English.rulePack.rulesStrings.73>
+  <GodContent_English.rulePack.rulesStrings.74>middle->o</GodContent_English.rulePack.rulesStrings.74>
+  <GodContent_English.rulePack.rulesStrings.75>middle->u</GodContent_English.rulePack.rulesStrings.75>
+  <GodContent_English.rulePack.rulesStrings.76>middle->ei</GodContent_English.rulePack.rulesStrings.76>
+  <GodContent_English.rulePack.rulesStrings.77>middle->eu</GodContent_English.rulePack.rulesStrings.77>
+  <GodContent_English.rulePack.rulesStrings.78>middle->ai</GodContent_English.rulePack.rulesStrings.78>
+  <GodContent_English.rulePack.rulesStrings.79>middle->au</GodContent_English.rulePack.rulesStrings.79>
+  <GodContent_English.rulePack.rulesStrings.80>end(p=4)-></GodContent_English.rulePack.rulesStrings.80>
+  <GodContent_English.rulePack.rulesStrings.81>end->cus</GodContent_English.rulePack.rulesStrings.81>
+  <GodContent_English.rulePack.rulesStrings.82>end->las</GodContent_English.rulePack.rulesStrings.82>
+  <GodContent_English.rulePack.rulesStrings.83>end->llas</GodContent_English.rulePack.rulesStrings.83>
+  <GodContent_English.rulePack.rulesStrings.84>end->lux</GodContent_English.rulePack.rulesStrings.84>
+  <GodContent_English.rulePack.rulesStrings.85>end->llux</GodContent_English.rulePack.rulesStrings.85>
+  <GodContent_English.rulePack.rulesStrings.86>end->m</GodContent_English.rulePack.rulesStrings.86>
+  <GodContent_English.rulePack.rulesStrings.87>end->n</GodContent_English.rulePack.rulesStrings.87>
+  <GodContent_English.rulePack.rulesStrings.88>end->nos</GodContent_English.rulePack.rulesStrings.88>
+  <GodContent_English.rulePack.rulesStrings.89>end->pius</GodContent_English.rulePack.rulesStrings.89>
+  <GodContent_English.rulePack.rulesStrings.90>end->r</GodContent_English.rulePack.rulesStrings.90>
+  <GodContent_English.rulePack.rulesStrings.91>end->ra</GodContent_English.rulePack.rulesStrings.91>
+  <GodContent_English.rulePack.rulesStrings.92>end->rus</GodContent_English.rulePack.rulesStrings.92>
+  <GodContent_English.rulePack.rulesStrings.93>end->rath</GodContent_English.rulePack.rulesStrings.93>
+  <GodContent_English.rulePack.rulesStrings.94>end->rrath</GodContent_English.rulePack.rulesStrings.94>
+  <GodContent_English.rulePack.rulesStrings.95>end->rum</GodContent_English.rulePack.rulesStrings.95>
+  <GodContent_English.rulePack.rulesStrings.96>end->rus</GodContent_English.rulePack.rulesStrings.96>
+  <GodContent_English.rulePack.rulesStrings.97>end->ron</GodContent_English.rulePack.rulesStrings.97>
+  <GodContent_English.rulePack.rulesStrings.98>end->s</GodContent_English.rulePack.rulesStrings.98>
+  <GodContent_English.rulePack.rulesStrings.99>end->stus</GodContent_English.rulePack.rulesStrings.99>
+  <GodContent_English.rulePack.rulesStrings.100>end->stor</GodContent_English.rulePack.rulesStrings.100>
+  <GodContent_English.rulePack.rulesStrings.101>end->teus</GodContent_English.rulePack.rulesStrings.101>
+  <GodContent_English.rulePack.rulesStrings.102>end->th</GodContent_English.rulePack.rulesStrings.102>
+  <GodContent_English.rulePack.rulesStrings.103>end->tor</GodContent_English.rulePack.rulesStrings.103>
+  <GodContent_English.rulePack.rulesStrings.104>end->ton</GodContent_English.rulePack.rulesStrings.104>
+  <GodContent_English.rulePack.rulesStrings.105>end->tar</GodContent_English.rulePack.rulesStrings.105>
+  <GodContent_Byzantine.rulePack.rulesStrings.0>name->[syl][end]</GodContent_Byzantine.rulePack.rulesStrings.0>
+  <GodContent_Byzantine.rulePack.rulesStrings.1>name->[syl][syl][end]</GodContent_Byzantine.rulePack.rulesStrings.1>
+  <GodContent_Byzantine.rulePack.rulesStrings.2>name->[syl]-[syl][end]</GodContent_Byzantine.rulePack.rulesStrings.2>
+  <GodContent_Byzantine.rulePack.rulesStrings.3>syl->[SylB]</GodContent_Byzantine.rulePack.rulesStrings.3>
+  <GodContent_Byzantine.rulePack.rulesStrings.4>end->kos</GodContent_Byzantine.rulePack.rulesStrings.4>
+  <GodContent_Byzantine.rulePack.rulesStrings.5>end->pos</GodContent_Byzantine.rulePack.rulesStrings.5>
+  <GodContent_Byzantine.rulePack.rulesStrings.6>end->pon</GodContent_Byzantine.rulePack.rulesStrings.6>
+  <GodContent_Byzantine.rulePack.rulesStrings.7>end->teo</GodContent_Byzantine.rulePack.rulesStrings.7>
+  <GodContent_Byzantine.rulePack.rulesStrings.8>end->teas</GodContent_Byzantine.rulePack.rulesStrings.8>
+  <GodContent_Byzantine.rulePack.rulesStrings.9>end->dio</GodContent_Byzantine.rulePack.rulesStrings.9>
+  <NamerDeityCorunan.rulePack.rulesStrings.0>name->[syl][end]</NamerDeityCorunan.rulePack.rulesStrings.0>
+  <NamerDeityCorunan.rulePack.rulesStrings.1>name->[syl][syl][end]</NamerDeityCorunan.rulePack.rulesStrings.1>
+  <NamerDeityCorunan.rulePack.rulesStrings.2>name->[syl]'[syl][end]</NamerDeityCorunan.rulePack.rulesStrings.2>
+  <NamerDeityCorunan.rulePack.rulesStrings.3>syl->[SylG]</NamerDeityCorunan.rulePack.rulesStrings.3>
+  <NamerDeityCorunan.rulePack.rulesStrings.4>end->abrei</NamerDeityCorunan.rulePack.rulesStrings.4>
+  <NamerDeityCorunan.rulePack.rulesStrings.5>end->tro</NamerDeityCorunan.rulePack.rulesStrings.5>
+  <NamerDeityCorunan.rulePack.rulesStrings.6>end->ox</NamerDeityCorunan.rulePack.rulesStrings.6>
+  <NamerDeityCorunan.rulePack.rulesStrings.7>end->brin</NamerDeityCorunan.rulePack.rulesStrings.7>
+  <NamerDeityCorunan.rulePack.rulesStrings.8>end->bai</NamerDeityCorunan.rulePack.rulesStrings.8>
+  <NamerDeityCorunan.rulePack.rulesStrings.9>end->bust</NamerDeityCorunan.rulePack.rulesStrings.9>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings.0>r_deityType->[god] of [memeConcept]</DeityTypeMakerGlobal.rulePack.rulesStrings.0>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings.1>god(p=7)->God</DeityTypeMakerGlobal.rulePack.rulesStrings.1>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings.2>god(p=4)->[memeGod]</DeityTypeMakerGlobal.rulePack.rulesStrings.2>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings.3>god(p=3)->Spirit</DeityTypeMakerGlobal.rulePack.rulesStrings.3>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings.4>god->Creator</DeityTypeMakerGlobal.rulePack.rulesStrings.4>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings.5>god->Master</DeityTypeMakerGlobal.rulePack.rulesStrings.5>
+  <NamerIdeoBuilding.rulePack.rulesStrings.0>r_ideoBuildingName(p=2)->[memeAdjective] [buildingName]</NamerIdeoBuilding.rulePack.rulesStrings.0>
+  <NamerIdeoBuilding.rulePack.rulesStrings.1>r_ideoBuildingName->[buildingName] of [chosenTheme]</NamerIdeoBuilding.rulePack.rulesStrings.1>
+  <NamerIdeoBuilding.rulePack.rulesStrings.2>r_ideoBuildingName->[chosenAdjective] [buildingName]</NamerIdeoBuilding.rulePack.rulesStrings.2>
+  <NamerIdeoBuilding.rulePack.rulesStrings.3>r_ideoBuildingName->[keyDeity]'s [buildingName]</NamerIdeoBuilding.rulePack.rulesStrings.3>
+  <NamerIdeoBuilding.rulePack.rulesStrings.4>r_ideoBuildingName->[buildingName] of [keyDeity]</NamerIdeoBuilding.rulePack.rulesStrings.4>
+  <NamerIdeoBuilding.rulePack.rulesStrings.5>r_ideoBuildingName->[buildingName] of [memeConcept]</NamerIdeoBuilding.rulePack.rulesStrings.5>
+  <NamerIdeoBuilding.rulePack.rulesStrings.6>r_ideoBuildingName->[buildingName] of [chosenIdeoName]</NamerIdeoBuilding.rulePack.rulesStrings.6>
+  <NamerAltar.rulePack.rulesStrings.0>buildingName->altar</NamerAltar.rulePack.rulesStrings.0>
+  <NamerAltar.rulePack.rulesStrings.1>buildingName->shrine</NamerAltar.rulePack.rulesStrings.1>
+  <NamerAltar.rulePack.rulesStrings.2>buildingName->chancel</NamerAltar.rulePack.rulesStrings.2>
+  <NamerAltar.rulePack.rulesStrings.3>buildingName->platform</NamerAltar.rulePack.rulesStrings.3>
+  <NamerIdeoSculpture.rulePack.rulesStrings.0>buildingName->statue</NamerIdeoSculpture.rulePack.rulesStrings.0>
+  <NamerIdeoSculpture.rulePack.rulesStrings.1>buildingName->sculpture</NamerIdeoSculpture.rulePack.rulesStrings.1>
+  <NamerIdeoSculpture.rulePack.rulesStrings.2>buildingName->carving</NamerIdeoSculpture.rulePack.rulesStrings.2>
+  <NamerIdeoSculpture.rulePack.rulesStrings.3>buildingName->image</NamerIdeoSculpture.rulePack.rulesStrings.3>
+  <NamerIdeoSculpture.rulePack.rulesStrings.4>buildingName->form</NamerIdeoSculpture.rulePack.rulesStrings.4>
+  <NamerIdeoSculpture.rulePack.rulesStrings.5>buildingName->shape</NamerIdeoSculpture.rulePack.rulesStrings.5>
+  <NamerIdeogram.rulePack.rulesStrings.0>buildingName->ideogram</NamerIdeogram.rulePack.rulesStrings.0>
+  <NamerIdeogram.rulePack.rulesStrings.1>buildingName->symbol</NamerIdeogram.rulePack.rulesStrings.1>
+  <NamerIdeogram.rulePack.rulesStrings.2>buildingName->mark</NamerIdeogram.rulePack.rulesStrings.2>
+  <NamerIdeogram.rulePack.rulesStrings.3>buildingName->shape</NamerIdeogram.rulePack.rulesStrings.3>
+  <NamerIdeogram.rulePack.rulesStrings.4>buildingName->emblem</NamerIdeogram.rulePack.rulesStrings.4>
+  <NamerIdeogram.rulePack.rulesStrings.5>buildingName->figure</NamerIdeogram.rulePack.rulesStrings.5>
+  <NamerIdeogram.rulePack.rulesStrings.6>buildingName->image</NamerIdeogram.rulePack.rulesStrings.6>
+  <NamerIdeogram.rulePack.rulesStrings.7>buildingName->logo</NamerIdeogram.rulePack.rulesStrings.7>
+  <NamerChristmasTree.rulePack.rulesStrings.0>buildingName->tree</NamerChristmasTree.rulePack.rulesStrings.0>
+  <NamerChristmasTree.rulePack.rulesStrings.1>buildingName->pine</NamerChristmasTree.rulePack.rulesStrings.1>
+  <NamerBurnTarget.rulePack.rulesStrings.0>buildingName->totem</NamerBurnTarget.rulePack.rulesStrings.0>
+  <NamerBurnTarget.rulePack.rulesStrings.1>buildingName->effigy</NamerBurnTarget.rulePack.rulesStrings.1>
+  <NamerBurnTarget.rulePack.rulesStrings.2>buildingName->pyre</NamerBurnTarget.rulePack.rulesStrings.2>
+  <NamerSmoker.rulePack.rulesStrings.0>buildingName->smoker</NamerSmoker.rulePack.rulesStrings.0>
+  <NamerSmoker.rulePack.rulesStrings.1>buildingName->gasser</NamerSmoker.rulePack.rulesStrings.1>
+  <NamerSmoker.rulePack.rulesStrings.2>buildingName->fumer</NamerSmoker.rulePack.rulesStrings.2>
+  <NamerSmoker.rulePack.rulesStrings.3>buildingName->smolderer</NamerSmoker.rulePack.rulesStrings.3>
+  <NamerCannibalPlatter.rulePack.rulesStrings.0>buildingName->platter</NamerCannibalPlatter.rulePack.rulesStrings.0>
+  <NamerCannibalPlatter.rulePack.rulesStrings.1>buildingName->dish</NamerCannibalPlatter.rulePack.rulesStrings.1>
+  <NamerCannibalPlatter.rulePack.rulesStrings.2>buildingName->feast</NamerCannibalPlatter.rulePack.rulesStrings.2>
+  <NamerCannibalPlatter.rulePack.rulesStrings.3>buildingName->manpork</NamerCannibalPlatter.rulePack.rulesStrings.3>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings.0>veneratedAnimal->[animal0_thingDef_label]</IdeoDescriptionGlobal.rulePack.rulesStrings.0>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings.1>altarName->[altar0_name]</IdeoDescriptionGlobal.rulePack.rulesStrings.1>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings.2>ritualName->[ritual0_name]</IdeoDescriptionGlobal.rulePack.rulesStrings.2>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings.3>founderName(priority=1,uses=1)->[founder_nameFull]</IdeoDescriptionGlobal.rulePack.rulesStrings.3>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings.4>founderName->[founder_label]</IdeoDescriptionGlobal.rulePack.rulesStrings.4>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings.5>foeLeader_pronoun->he</IdeoDescriptionGlobal.rulePack.rulesStrings.5>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings.6>foeLeader_possessive->his</IdeoDescriptionGlobal.rulePack.rulesStrings.6>
+  <IdeoDescriptionGlobal.rulePack.rulesStrings.7>foeLeader_objective->him</IdeoDescriptionGlobal.rulePack.rulesStrings.7>
+  <NamerIdeoGlobal.rulePack.rulesStrings.0>r_ideoName->[keyDeity]ism</NamerIdeoGlobal.rulePack.rulesStrings.0>
+  <NamerIdeoGlobal.rulePack.rulesStrings.1>r_ideoName->[hyphenPrefix]-[keyDeity]ism</NamerIdeoGlobal.rulePack.rulesStrings.1>
+  <NamerIdeoGlobal.rulePack.rulesStrings.2>r_ideoName->[keyDeity]'s [creed]</NamerIdeoGlobal.rulePack.rulesStrings.2>
+  <NamerIdeoGlobal.rulePack.rulesStrings.3>r_ideoName->[creed] of [keyDeity]</NamerIdeoGlobal.rulePack.rulesStrings.3>
+  <NamerIdeoGlobal.rulePack.rulesStrings.4>r_ideoAdjective->[keyDeity]ic</NamerIdeoGlobal.rulePack.rulesStrings.4>
+  <NamerIdeoGlobal.rulePack.rulesStrings.5>r_memberName->[keyDeity]ist</NamerIdeoGlobal.rulePack.rulesStrings.5>
+  <NamerIdeoGlobal.rulePack.rulesStrings.6>r_memberName->[keyDeity]ite</NamerIdeoGlobal.rulePack.rulesStrings.6>
+  <NamerIdeoGlobal.rulePack.rulesStrings.7>r_ideoName(p=2)->[globalAdjective] [packIdeoName]</NamerIdeoGlobal.rulePack.rulesStrings.7>
+  <NamerIdeoGlobal.rulePack.rulesStrings.8>r_ideoName(p=1.5,forcePrefix==False)->[hyphenPrefix]-[packIdeoName]</NamerIdeoGlobal.rulePack.rulesStrings.8>
+  <NamerIdeoGlobal.rulePack.rulesStrings.9>r_ideoName->[memeAdjective] [packIdeoName]</NamerIdeoGlobal.rulePack.rulesStrings.9>
+  <NamerIdeoGlobal.rulePack.rulesStrings.10>r_ideoName(p=0.5)->[memeAdjective] [creed]</NamerIdeoGlobal.rulePack.rulesStrings.10>
+  <NamerIdeoGlobal.rulePack.rulesStrings.11>r_ideoName(p=0.2)->[creed] of [packTheme]</NamerIdeoGlobal.rulePack.rulesStrings.11>
+  <NamerIdeoGlobal.rulePack.rulesStrings.12>r_ideoAdjective(priority=1)->[packAdjective]</NamerIdeoGlobal.rulePack.rulesStrings.12>
+  <NamerIdeoGlobal.rulePack.rulesStrings.13>r_memberName->[packMember]</NamerIdeoGlobal.rulePack.rulesStrings.13>
+  <NamerIdeoGlobal.rulePack.rulesStrings.14>creed(priority=1)->[memeCreed]</NamerIdeoGlobal.rulePack.rulesStrings.14>
+  <NamerIdeoGlobal.rulePack.rulesStrings.15>creed->[genericCreed]</NamerIdeoGlobal.rulePack.rulesStrings.15>
+  <NamerIdeoGlobal.rulePack.rulesStrings.16>genericCreed->creed</NamerIdeoGlobal.rulePack.rulesStrings.16>
+  <NamerIdeoGlobal.rulePack.rulesStrings.17>genericCreed->doctrine</NamerIdeoGlobal.rulePack.rulesStrings.17>
+  <NamerIdeoGlobal.rulePack.rulesStrings.18>genericCreed->way</NamerIdeoGlobal.rulePack.rulesStrings.18>
+  <NamerIdeoGlobal.rulePack.rulesStrings.19>genericCreed->path</NamerIdeoGlobal.rulePack.rulesStrings.19>
+  <NamerIdeoGlobal.rulePack.rulesStrings.20>globalAdjective->[Color]</NamerIdeoGlobal.rulePack.rulesStrings.20>
+  <NamerIdeoGlobal.rulePack.rulesStrings.21>globalAdjective->New</NamerIdeoGlobal.rulePack.rulesStrings.21>
+  <NamerIdeoGlobal.rulePack.rulesStrings.22>globalAdjective->Full</NamerIdeoGlobal.rulePack.rulesStrings.22>
+  <NamerIdeoGlobal.rulePack.rulesStrings.23>globalAdjective->Old</NamerIdeoGlobal.rulePack.rulesStrings.23>
+  <NamerIdeoGlobal.rulePack.rulesStrings.24>globalAdjective->Ancient</NamerIdeoGlobal.rulePack.rulesStrings.24>
+  <NamerIdeoGlobal.rulePack.rulesStrings.25>globalAdjective->Historical</NamerIdeoGlobal.rulePack.rulesStrings.25>
+  <NamerIdeoGlobal.rulePack.rulesStrings.26>globalAdjective->Revised</NamerIdeoGlobal.rulePack.rulesStrings.26>
+  <NamerIdeoGlobal.rulePack.rulesStrings.27>globalAdjective->Reformed</NamerIdeoGlobal.rulePack.rulesStrings.27>
+  <NamerIdeoGlobal.rulePack.rulesStrings.28>globalAdjective->Hard</NamerIdeoGlobal.rulePack.rulesStrings.28>
+  <NamerIdeoGlobal.rulePack.rulesStrings.29>globalAdjective->Fundamental</NamerIdeoGlobal.rulePack.rulesStrings.29>
+  <NamerIdeoGlobal.rulePack.rulesStrings.30>globalAdjective->True</NamerIdeoGlobal.rulePack.rulesStrings.30>
+  <NamerIdeoGlobal.rulePack.rulesStrings.31>globalAdjective->Folk</NamerIdeoGlobal.rulePack.rulesStrings.31>
+  <NamerIdeoGlobal.rulePack.rulesStrings.32>globalAdjective->Reformed</NamerIdeoGlobal.rulePack.rulesStrings.32>
+  <NamerIdeoGlobal.rulePack.rulesStrings.33>globalAdjective->[place_adjective]</NamerIdeoGlobal.rulePack.rulesStrings.33>
+  <NamerIdeoGlobal.rulePack.rulesStrings.34>hyphenPrefix->[globalHyphenPrefix]</NamerIdeoGlobal.rulePack.rulesStrings.34>
+  <NamerIdeoGlobal.rulePack.rulesStrings.35>hyphenPrefix->[memeHyphenPrefix]</NamerIdeoGlobal.rulePack.rulesStrings.35>
+  <NamerIdeoGlobal.rulePack.rulesStrings.36>globalHyphenPrefix(p=4)->neo</NamerIdeoGlobal.rulePack.rulesStrings.36>
+  <NamerIdeoGlobal.rulePack.rulesStrings.37>globalHyphenPrefix(p=2)->post</NamerIdeoGlobal.rulePack.rulesStrings.37>
+  <NamerIdeoGlobal.rulePack.rulesStrings.38>globalHyphenPrefix->nova</NamerIdeoGlobal.rulePack.rulesStrings.38>
+  <NamerIdeoGlobal.rulePack.rulesStrings.39>globalHyphenPrefix->archaeo</NamerIdeoGlobal.rulePack.rulesStrings.39>
+  <NamerIdeoGlobal.rulePack.rulesStrings.40>globalHyphenPrefix->hyper</NamerIdeoGlobal.rulePack.rulesStrings.40>
+  <CultureSpacer.rulePack.rulesStrings.0>globalAdjective->Spacer</CultureSpacer.rulePack.rulesStrings.0>
+  <CultureSpacer.rulePack.rulesStrings.1>globalAdjective->Star</CultureSpacer.rulePack.rulesStrings.1>
+  <CultureSpacer.rulePack.rulesStrings.2>globalAdjective->Stellar</CultureSpacer.rulePack.rulesStrings.2>
+  <CultureSpacer.rulePack.rulesStrings.3>globalAdjective->Interstellar</CultureSpacer.rulePack.rulesStrings.3>
+  <CultureSpacer.rulePack.rulesStrings.4>globalHyphenPrefix->astro</CultureSpacer.rulePack.rulesStrings.4>
+  <CultureSpacer.rulePack.rulesStrings.5>globalHyphenPrefix->stello</CultureSpacer.rulePack.rulesStrings.5>
+  <NamerIdeoCorunan.rulePack.rulesStrings.0>globalAdjective(p=15)->Tribal</NamerIdeoCorunan.rulePack.rulesStrings.0>
+  <NamerIdeoRelic.rulePack.rulesStrings.0>r_ideoRelicName(p=2)->[first][second]</NamerIdeoRelic.rulePack.rulesStrings.0>
+  <NamerIdeoRelic.rulePack.rulesStrings.1>r_ideoRelicName->[thingLabel] of [memeConcept]</NamerIdeoRelic.rulePack.rulesStrings.1>
+  <NamerIdeoRelic.rulePack.rulesStrings.2>r_ideoRelicName->[memeAdjective] [thingLabel]</NamerIdeoRelic.rulePack.rulesStrings.2>
+  <NamerIdeoRelic.rulePack.rulesStrings.3>r_ideoRelicName->[memeHyphenPrefix]-[thingLabel]</NamerIdeoRelic.rulePack.rulesStrings.3>
+  <NamerIdeoRelic.rulePack.rulesStrings.4>r_ideoRelicName->[memeAdjective] [relic]</NamerIdeoRelic.rulePack.rulesStrings.4>
+  <NamerIdeoRelic.rulePack.rulesStrings.5>r_ideoRelicName->[relic] of [memeConcept]</NamerIdeoRelic.rulePack.rulesStrings.5>
+  <NamerIdeoRelic.rulePack.rulesStrings.6>r_ideoRelicName->[memeHyphenPrefix]-[relic]</NamerIdeoRelic.rulePack.rulesStrings.6>
+  <NamerIdeoRelic.rulePack.rulesStrings.7>relic->relic</NamerIdeoRelic.rulePack.rulesStrings.7>
+  <NamerIdeoRelic.rulePack.rulesStrings.8>relic->artifact</NamerIdeoRelic.rulePack.rulesStrings.8>
+  <NamerIdeoRelic.rulePack.rulesStrings.9>relic->keepsake</NamerIdeoRelic.rulePack.rulesStrings.9>
+  <NamerIdeoRelic.rulePack.rulesStrings.10>relic->memento</NamerIdeoRelic.rulePack.rulesStrings.10>
+  <NamerIdeoRelic.rulePack.rulesStrings.11>relic->remnant</NamerIdeoRelic.rulePack.rulesStrings.11>
+  <NamerIdeoRelic.rulePack.rulesStrings.12>relic->heirloom</NamerIdeoRelic.rulePack.rulesStrings.12>
+  <NamerIdeoRelic.rulePack.rulesStrings.13>relic->remembrance</NamerIdeoRelic.rulePack.rulesStrings.13>
+  <NamerIdeoRelic.rulePack.rulesStrings.14>first(p=5)->[memeHyphenPrefix]</NamerIdeoRelic.rulePack.rulesStrings.14>
+  <NamerIdeoRelic.rulePack.rulesStrings.15>first->long</NamerIdeoRelic.rulePack.rulesStrings.15>
+  <NamerIdeoRelic.rulePack.rulesStrings.16>first->sky</NamerIdeoRelic.rulePack.rulesStrings.16>
+  <NamerIdeoRelic.rulePack.rulesStrings.17>first->star</NamerIdeoRelic.rulePack.rulesStrings.17>
+  <NamerIdeoRelic.rulePack.rulesStrings.18>first->deep</NamerIdeoRelic.rulePack.rulesStrings.18>
+  <NamerIdeoRelic.rulePack.rulesStrings.19>first->far</NamerIdeoRelic.rulePack.rulesStrings.19>
+  <NamerIdeoRelic.rulePack.rulesStrings.20>first->dead</NamerIdeoRelic.rulePack.rulesStrings.20>
+  <NamerIdeoRelic.rulePack.rulesStrings.21>first->life</NamerIdeoRelic.rulePack.rulesStrings.21>
+  <NamerIdeoRelic.rulePack.rulesStrings.22>first->light</NamerIdeoRelic.rulePack.rulesStrings.22>
+  <NamerIdeoRelic.rulePack.rulesStrings.23>first->dark</NamerIdeoRelic.rulePack.rulesStrings.23>
+  <NamerIdeoRelic.rulePack.rulesStrings.24>first->end</NamerIdeoRelic.rulePack.rulesStrings.24>
+  <NamerIdeoRelic.rulePack.rulesStrings.25>first->hor</NamerIdeoRelic.rulePack.rulesStrings.25>
+  <NamerIdeoRelic.rulePack.rulesStrings.26>first->an</NamerIdeoRelic.rulePack.rulesStrings.26>
+  <NamerIdeoRelic.rulePack.rulesStrings.27>first->ex</NamerIdeoRelic.rulePack.rulesStrings.27>
+  <NamerIdeoRelic.rulePack.rulesStrings.28>first->ton</NamerIdeoRelic.rulePack.rulesStrings.28>
+  <NamerIdeoRelic.rulePack.rulesStrings.29>first->dow</NamerIdeoRelic.rulePack.rulesStrings.29>
+  <NamerIdeoRelic.rulePack.rulesStrings.30>first->bor</NamerIdeoRelic.rulePack.rulesStrings.30>
+  <NamerIdeoRelic.rulePack.rulesStrings.31>first->ven</NamerIdeoRelic.rulePack.rulesStrings.31>
+  <NamerIdeoRelic.rulePack.rulesStrings.32>first->xan</NamerIdeoRelic.rulePack.rulesStrings.32>
+  <NamerIdeoRelic.rulePack.rulesStrings.33>first->arl</NamerIdeoRelic.rulePack.rulesStrings.33>
+  <NamerIdeoRelic.rulePack.rulesStrings.34>first->hex</NamerIdeoRelic.rulePack.rulesStrings.34>
+  <NamerIdeoRelic.rulePack.rulesStrings.35>first->bax</NamerIdeoRelic.rulePack.rulesStrings.35>
+  <NamerIdeoRelic.rulePack.rulesStrings.36>first->cel</NamerIdeoRelic.rulePack.rulesStrings.36>
+  <NamerIdeoRelic.rulePack.rulesStrings.37>first->loc</NamerIdeoRelic.rulePack.rulesStrings.37>
+  <NamerIdeoRelic.rulePack.rulesStrings.38>first->pole</NamerIdeoRelic.rulePack.rulesStrings.38>
+  <NamerIdeoRelic.rulePack.rulesStrings.39>first->lode</NamerIdeoRelic.rulePack.rulesStrings.39>
+  <NamerIdeoRelic.rulePack.rulesStrings.40>second->caller</NamerIdeoRelic.rulePack.rulesStrings.40>
+  <NamerIdeoRelic.rulePack.rulesStrings.41>second->bringer</NamerIdeoRelic.rulePack.rulesStrings.41>
+  <NamerIdeoRelic.rulePack.rulesStrings.42>second->speaker</NamerIdeoRelic.rulePack.rulesStrings.42>
+  <NamerIdeoRelic.rulePack.rulesStrings.43>second->lier</NamerIdeoRelic.rulePack.rulesStrings.43>
+  <NamerIdeoRelic.rulePack.rulesStrings.44>second->link</NamerIdeoRelic.rulePack.rulesStrings.44>
+  <NamerIdeoRelic.rulePack.rulesStrings.45>second->bond</NamerIdeoRelic.rulePack.rulesStrings.45>
+  <NamerIdeoRelic.rulePack.rulesStrings.46>second->loop</NamerIdeoRelic.rulePack.rulesStrings.46>
+  <NamerIdeoRelic.rulePack.rulesStrings.47>second->nexus</NamerIdeoRelic.rulePack.rulesStrings.47>
+  <NamerIdeoRelic.rulePack.rulesStrings.48>second->core</NamerIdeoRelic.rulePack.rulesStrings.48>
+  <NamerIdeoRelic.rulePack.rulesStrings.49>second->crux</NamerIdeoRelic.rulePack.rulesStrings.49>
+  <NamerIdeoRelic.rulePack.rulesStrings.50>second->mass</NamerIdeoRelic.rulePack.rulesStrings.50>
+  <NamerIdeoRelic.rulePack.rulesStrings.51>second->corpus</NamerIdeoRelic.rulePack.rulesStrings.51>
+  <NamerIdeoRelic.rulePack.rulesStrings.52>second->focus</NamerIdeoRelic.rulePack.rulesStrings.52>
+  <NamerIdeoRelic.rulePack.rulesStrings.53>second->lens</NamerIdeoRelic.rulePack.rulesStrings.53>
+  <NamerIdeoRelic.rulePack.rulesStrings.54>second->light</NamerIdeoRelic.rulePack.rulesStrings.54>
+  <NamerIdeoRelic.rulePack.rulesStrings.55>second->shadow</NamerIdeoRelic.rulePack.rulesStrings.55>
+  <NamerIdeoRelic.rulePack.rulesStrings.56>second->sure</NamerIdeoRelic.rulePack.rulesStrings.56>
+  <NamerIdeoRelic.rulePack.rulesStrings.57>second->locus</NamerIdeoRelic.rulePack.rulesStrings.57>
+  <NamerIdeoRelic.rulePack.rulesStrings.58>second->form</NamerIdeoRelic.rulePack.rulesStrings.58>
+  <NamerIdeoRelic.rulePack.rulesStrings.59>second->finger</NamerIdeoRelic.rulePack.rulesStrings.59>
+  <NamerIdeoRelic.rulePack.rulesStrings.60>second->lash</NamerIdeoRelic.rulePack.rulesStrings.60>
+  <NamerIdeoRelic.rulePack.rulesStrings.61>second->krome</NamerIdeoRelic.rulePack.rulesStrings.61>
+  <NamerRoleMoralist.rulePack.rulesStrings.0>r_roleName(p=4)->[memeMoralist]</NamerRoleMoralist.rulePack.rulesStrings.0>
+  <NamerRoleMoralist.rulePack.rulesStrings.1>r_roleName(p=2)->[memeAdjective] [memeMoralist]</NamerRoleMoralist.rulePack.rulesStrings.1>
+  <NamerRoleMoralist.rulePack.rulesStrings.2>r_roleName->[memeMoralist] of [chosenTheme]</NamerRoleMoralist.rulePack.rulesStrings.2>
+  <NamerRoleMoralist.rulePack.rulesStrings.3>r_roleName->[memeMoralist] of [keyDeity]</NamerRoleMoralist.rulePack.rulesStrings.3>
+  <NamerRoleMoralist.rulePack.rulesStrings.4>r_roleName->[memeMoralist] of [memeConcept]</NamerRoleMoralist.rulePack.rulesStrings.4>
+  <NamerRoleMoralist.rulePack.rulesStrings.5>r_roleName->[memeMoralist] of [chosenIdeoName]</NamerRoleMoralist.rulePack.rulesStrings.5>
+  <NamerRoleMoralist.rulePack.rulesStrings.6>r_roleName->[chosenAdjective] [memeMoralist]</NamerRoleMoralist.rulePack.rulesStrings.6>
+  <NamerRoleMoralist.rulePack.rulesStrings.7>r_roleName->[keyDeity]'s [memeMoralist]</NamerRoleMoralist.rulePack.rulesStrings.7>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.0>r_roleName(p=7)->[firstPart][secondPart]</NamerRoleSpecialistUtility.rulePack.rulesStrings.0>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.1>secondPart->master</NamerRoleSpecialistUtility.rulePack.rulesStrings.1>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.2>secondPart->crat</NamerRoleSpecialistUtility.rulePack.rulesStrings.2>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.3>secondPart->flame</NamerRoleSpecialistUtility.rulePack.rulesStrings.3>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.4>secondPart->mind</NamerRoleSpecialistUtility.rulePack.rulesStrings.4>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.5>secondPart->head</NamerRoleSpecialistUtility.rulePack.rulesStrings.5>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.6>secondPart->eye</NamerRoleSpecialistUtility.rulePack.rulesStrings.6>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.7>secondPart->hand</NamerRoleSpecialistUtility.rulePack.rulesStrings.7>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.8>secondPart->func</NamerRoleSpecialistUtility.rulePack.rulesStrings.8>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.9>secondPart->brain</NamerRoleSpecialistUtility.rulePack.rulesStrings.9>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.10>secondPart->holder</NamerRoleSpecialistUtility.rulePack.rulesStrings.10>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.11>secondPart->bringer</NamerRoleSpecialistUtility.rulePack.rulesStrings.11>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.12>secondPart->talker</NamerRoleSpecialistUtility.rulePack.rulesStrings.12>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.13>secondPart->speaker</NamerRoleSpecialistUtility.rulePack.rulesStrings.13>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.14>secondPart->knower</NamerRoleSpecialistUtility.rulePack.rulesStrings.14>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.15>secondPart->lover</NamerRoleSpecialistUtility.rulePack.rulesStrings.15>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.16>secondPart->user</NamerRoleSpecialistUtility.rulePack.rulesStrings.16>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.17>secondPart->one</NamerRoleSpecialistUtility.rulePack.rulesStrings.17>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.18>secondPart->pert</NamerRoleSpecialistUtility.rulePack.rulesStrings.18>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.19>secondPart->itor</NamerRoleSpecialistUtility.rulePack.rulesStrings.19>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.20>secondPart->inor</NamerRoleSpecialistUtility.rulePack.rulesStrings.20>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.21>secondPart->alor</NamerRoleSpecialistUtility.rulePack.rulesStrings.21>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.22>secondPart->or</NamerRoleSpecialistUtility.rulePack.rulesStrings.22>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.23>secondPart->izer</NamerRoleSpecialistUtility.rulePack.rulesStrings.23>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings.24>secondPart->iner</NamerRoleSpecialistUtility.rulePack.rulesStrings.24>
+  <NamerRoleShooter.rulePack.rulesStrings.0>firstPart->gun</NamerRoleShooter.rulePack.rulesStrings.0>
+  <NamerRoleShooter.rulePack.rulesStrings.1>firstPart->shot</NamerRoleShooter.rulePack.rulesStrings.1>
+  <NamerRoleShooter.rulePack.rulesStrings.2>firstPart->trigger</NamerRoleShooter.rulePack.rulesStrings.2>
+  <NamerRoleShooter.rulePack.rulesStrings.3>firstPart->bullet</NamerRoleShooter.rulePack.rulesStrings.3>
+  <NamerRoleShooter.rulePack.rulesStrings.4>firstPart->shell</NamerRoleShooter.rulePack.rulesStrings.4>
+  <NamerRoleShooter.rulePack.rulesStrings.5>firstPart->aim</NamerRoleShooter.rulePack.rulesStrings.5>
+  <NamerRoleShooter.rulePack.rulesStrings.6>firstPart->snipe</NamerRoleShooter.rulePack.rulesStrings.6>
+  <NamerRoleShooter.rulePack.rulesStrings.7>firstPart->point</NamerRoleShooter.rulePack.rulesStrings.7>
+  <NamerRoleShooter.rulePack.rulesStrings.8>firstPart->shoot</NamerRoleShooter.rulePack.rulesStrings.8>
+  <NamerRoleShooter.rulePack.rulesStrings.9>secondPart(p=4)->slinger</NamerRoleShooter.rulePack.rulesStrings.9>
+  <NamerRoleBrawler.rulePack.rulesStrings.0>r_roleName->berserker</NamerRoleBrawler.rulePack.rulesStrings.0>
+  <NamerRoleBrawler.rulePack.rulesStrings.1>firstPart->slash</NamerRoleBrawler.rulePack.rulesStrings.1>
+  <NamerRoleBrawler.rulePack.rulesStrings.2>firstPart->fist</NamerRoleBrawler.rulePack.rulesStrings.2>
+  <NamerRoleBrawler.rulePack.rulesStrings.3>firstPart->bruise</NamerRoleBrawler.rulePack.rulesStrings.3>
+  <NamerRoleBrawler.rulePack.rulesStrings.4>firstPart->blade</NamerRoleBrawler.rulePack.rulesStrings.4>
+  <NamerRoleBrawler.rulePack.rulesStrings.5>firstPart->brawl</NamerRoleBrawler.rulePack.rulesStrings.5>
+  <NamerRoleBrawler.rulePack.rulesStrings.6>firstPart->knuckle</NamerRoleBrawler.rulePack.rulesStrings.6>
+  <NamerRoleBrawler.rulePack.rulesStrings.7>firstPart->spear</NamerRoleBrawler.rulePack.rulesStrings.7>
+  <NamerRoleBrawler.rulePack.rulesStrings.8>firstPart->sword</NamerRoleBrawler.rulePack.rulesStrings.8>
+  <NamerRoleBrawler.rulePack.rulesStrings.9>firstPart->club</NamerRoleBrawler.rulePack.rulesStrings.9>
+  <NamerRoleBrawler.rulePack.rulesStrings.10>firstPart->edge</NamerRoleBrawler.rulePack.rulesStrings.10>
+  <NamerRoleBrawler.rulePack.rulesStrings.11>firstPart->cut</NamerRoleBrawler.rulePack.rulesStrings.11>
+  <NamerRoleBrawler.rulePack.rulesStrings.12>firstPart->smash</NamerRoleBrawler.rulePack.rulesStrings.12>
+  <NamerRoleBrawler.rulePack.rulesStrings.13>firstPart->crush</NamerRoleBrawler.rulePack.rulesStrings.13>
+  <NamerRoleResearcher.rulePack.rulesStrings.0>r_roleName->highmind</NamerRoleResearcher.rulePack.rulesStrings.0>
+  <NamerRoleResearcher.rulePack.rulesStrings.1>r_roleName->cogitor</NamerRoleResearcher.rulePack.rulesStrings.1>
+  <NamerRoleResearcher.rulePack.rulesStrings.2>r_roleName->thinker</NamerRoleResearcher.rulePack.rulesStrings.2>
+  <NamerRoleResearcher.rulePack.rulesStrings.3>r_roleName->learner</NamerRoleResearcher.rulePack.rulesStrings.3>
+  <NamerRoleResearcher.rulePack.rulesStrings.4>firstPart->mind</NamerRoleResearcher.rulePack.rulesStrings.4>
+  <NamerRoleResearcher.rulePack.rulesStrings.5>firstPart->thought</NamerRoleResearcher.rulePack.rulesStrings.5>
+  <NamerRoleResearcher.rulePack.rulesStrings.6>firstPart->focus</NamerRoleResearcher.rulePack.rulesStrings.6>
+  <NamerRoleResearcher.rulePack.rulesStrings.7>firstPart->neuro</NamerRoleResearcher.rulePack.rulesStrings.7>
+  <NamerRoleResearcher.rulePack.rulesStrings.8>firstPart->cogito</NamerRoleResearcher.rulePack.rulesStrings.8>
+  <NamerRoleResearcher.rulePack.rulesStrings.9>firstPart->idea</NamerRoleResearcher.rulePack.rulesStrings.9>
+  <NamerRoleSower.rulePack.rulesStrings.0>r_roleName->fertilizer</NamerRoleSower.rulePack.rulesStrings.0>
+  <NamerRoleSower.rulePack.rulesStrings.1>firstPart->leaf</NamerRoleSower.rulePack.rulesStrings.1>
+  <NamerRoleSower.rulePack.rulesStrings.2>firstPart->plant</NamerRoleSower.rulePack.rulesStrings.2>
+  <NamerRoleSower.rulePack.rulesStrings.3>firstPart->green</NamerRoleSower.rulePack.rulesStrings.3>
+  <NamerRoleSower.rulePack.rulesStrings.4>firstPart->sprout</NamerRoleSower.rulePack.rulesStrings.4>
+  <NamerRoleSower.rulePack.rulesStrings.5>firstPart->garden</NamerRoleSower.rulePack.rulesStrings.5>
+  <NamerRoleSower.rulePack.rulesStrings.6>firstPart->flora</NamerRoleSower.rulePack.rulesStrings.6>
+  <NamerRoleSower.rulePack.rulesStrings.7>firstPart->herb</NamerRoleSower.rulePack.rulesStrings.7>
+  <NamerRoleSower.rulePack.rulesStrings.8>firstPart->crop</NamerRoleSower.rulePack.rulesStrings.8>
+  <NamerRoleSower.rulePack.rulesStrings.9>firstPart->farm</NamerRoleSower.rulePack.rulesStrings.9>
+  <NamerRoleSower.rulePack.rulesStrings.10>firstPart->land</NamerRoleSower.rulePack.rulesStrings.10>
+  <NamerRoleSower.rulePack.rulesStrings.11>firstPart->dirt</NamerRoleSower.rulePack.rulesStrings.11>
+  <NamerRoleSower.rulePack.rulesStrings.12>firstPart->seed</NamerRoleSower.rulePack.rulesStrings.12>
+  <NamerRoleSower.rulePack.rulesStrings.13>firstPart->soil</NamerRoleSower.rulePack.rulesStrings.13>
+  <NamerRoleSower.rulePack.rulesStrings.14>firstPart->root</NamerRoleSower.rulePack.rulesStrings.14>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings.0>r_roleName->manufactor</NamerRoleProductionSpecialist.rulePack.rulesStrings.0>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings.1>r_roleName->handyman</NamerRoleProductionSpecialist.rulePack.rulesStrings.1>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings.2>r_roleName->maker</NamerRoleProductionSpecialist.rulePack.rulesStrings.2>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings.3>firstPart->make</NamerRoleProductionSpecialist.rulePack.rulesStrings.3>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings.4>firstPart->craft</NamerRoleProductionSpecialist.rulePack.rulesStrings.4>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings.5>firstPart->build</NamerRoleProductionSpecialist.rulePack.rulesStrings.5>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings.6>firstPart->manu</NamerRoleProductionSpecialist.rulePack.rulesStrings.6>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings.7>firstPart->make</NamerRoleProductionSpecialist.rulePack.rulesStrings.7>
+  <NamerRoleMiner.rulePack.rulesStrings.0>r_roleName->spelunker</NamerRoleMiner.rulePack.rulesStrings.0>
+  <NamerRoleMiner.rulePack.rulesStrings.1>firstPart->mine</NamerRoleMiner.rulePack.rulesStrings.1>
+  <NamerRoleMiner.rulePack.rulesStrings.2>firstPart->deep</NamerRoleMiner.rulePack.rulesStrings.2>
+  <NamerRoleMiner.rulePack.rulesStrings.3>firstPart->depth</NamerRoleMiner.rulePack.rulesStrings.3>
+  <NamerRoleMiner.rulePack.rulesStrings.4>firstPart->rock</NamerRoleMiner.rulePack.rulesStrings.4>
+  <NamerRoleMiner.rulePack.rulesStrings.5>firstPart->cave</NamerRoleMiner.rulePack.rulesStrings.5>
+  <NamerRoleMiner.rulePack.rulesStrings.6>firstPart->pick</NamerRoleMiner.rulePack.rulesStrings.6>
+  <NamerRoleMiner.rulePack.rulesStrings.7>firstPart->drill</NamerRoleMiner.rulePack.rulesStrings.7>
+  <NamerRoleMiner.rulePack.rulesStrings.8>firstPart->under</NamerRoleMiner.rulePack.rulesStrings.8>
+  <NamerRoleMiner.rulePack.rulesStrings.9>firstPart->stone</NamerRoleMiner.rulePack.rulesStrings.9>
+  <NamerRoleMiner.rulePack.rulesStrings.10>firstPart->hill</NamerRoleMiner.rulePack.rulesStrings.10>
+  <NamerRoleMiner.rulePack.rulesStrings.11>firstPart->hole</NamerRoleMiner.rulePack.rulesStrings.11>
+  <NamerRoleMiner.rulePack.rulesStrings.12>firstPart->tunnel</NamerRoleMiner.rulePack.rulesStrings.12>
+  <NamerRoleMiner.rulePack.rulesStrings.13>firstPart->crack</NamerRoleMiner.rulePack.rulesStrings.13>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.0>r_roleName->creaturizer</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.0>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.1>r_roleName->animalor</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.1>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.2>firstPart->fur</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.2>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.3>firstPart->paw</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.3>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.4>firstPart->hoof</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.4>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.5>firstPart->tail</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.5>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.6>firstPart->whisker</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.6>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.7>firstPart->fang</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.7>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.8>firstPart->feral</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.8>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.9>firstPart->snout</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.9>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.10>secondPart(p=4)->kin</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.10>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings.11>secondPart(p=4)->touch</NamerRoleAnimalsSpecialist.rulePack.rulesStrings.11>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings.0>firstPart->health</NamerRoleMedicalSpecialist.rulePack.rulesStrings.0>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings.1>firstPart->heal</NamerRoleMedicalSpecialist.rulePack.rulesStrings.1>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings.2>firstPart->heart</NamerRoleMedicalSpecialist.rulePack.rulesStrings.2>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings.3>firstPart->medi</NamerRoleMedicalSpecialist.rulePack.rulesStrings.3>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings.4>firstPart->scalpel</NamerRoleMedicalSpecialist.rulePack.rulesStrings.4>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings.5>firstPart->sanito</NamerRoleMedicalSpecialist.rulePack.rulesStrings.5>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings.6>firstPart->surgo</NamerRoleMedicalSpecialist.rulePack.rulesStrings.6>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings.7>firstPart->clinic</NamerRoleMedicalSpecialist.rulePack.rulesStrings.7>
+  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings.0>r_leaderTitle(p=6)->[memeLeaderAdjective] [memeLeaderNoun]</LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings.0>
+  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings.1>r_leaderTitle(p=3)->[cultureLeaderAdjective] [memeLeaderNoun]</LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings.1>
+  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings.2>r_leaderTitle(p=1)->[memeLeaderAdjective] [cultureLeaderNoun]</LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings.2>
+  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings.3>r_leaderTitle(p=1)->[cultureLeaderTitle]</LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings.3>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.0>cultureLeaderAdjective->high</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.0>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.1>cultureLeaderAdjective->great</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.1>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.2>cultureLeaderAdjective->first</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.2>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.3>cultureLeaderAdjective->prime</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.3>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.4>cultureLeaderNoun->president</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.4>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.5>cultureLeaderNoun->director</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.5>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.6>cultureLeaderNoun->governor</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.6>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings.7>cultureLeaderNoun->leader</LeaderTitleMaker_GenericContent.rulePack.rulesStrings.7>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.0>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</LeaderTitleMaker_Rustican.rulePack.rulesStrings.0>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.1>cultureLeaderAdjective->prime</LeaderTitleMaker_Rustican.rulePack.rulesStrings.1>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.2>cultureLeaderAdjective->first</LeaderTitleMaker_Rustican.rulePack.rulesStrings.2>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.3>cultureLeaderNoun->councilor</LeaderTitleMaker_Rustican.rulePack.rulesStrings.3>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.4>cultureLeaderNoun->leader</LeaderTitleMaker_Rustican.rulePack.rulesStrings.4>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.5>cultureLeaderNoun->minister</LeaderTitleMaker_Rustican.rulePack.rulesStrings.5>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.6>cultureLeaderNoun->guide</LeaderTitleMaker_Rustican.rulePack.rulesStrings.6>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings.7>cultureLeaderNoun->steersman</LeaderTitleMaker_Rustican.rulePack.rulesStrings.7>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.0>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</LeaderTitleMaker_Corunan.rulePack.rulesStrings.0>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.1>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</LeaderTitleMaker_Corunan.rulePack.rulesStrings.1>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.2>cultureLeaderAdjective->great</LeaderTitleMaker_Corunan.rulePack.rulesStrings.2>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.3>cultureLeaderAdjective->high</LeaderTitleMaker_Corunan.rulePack.rulesStrings.3>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.4>cultureLeaderAdjective->first</LeaderTitleMaker_Corunan.rulePack.rulesStrings.4>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.5>cultureLeaderAdjective->grand</LeaderTitleMaker_Corunan.rulePack.rulesStrings.5>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings.6>cultureLeaderNoun->chief</LeaderTitleMaker_Corunan.rulePack.rulesStrings.6>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.0>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.0>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.1>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.1>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.2>cultureLeaderAdjective->big</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.2>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.3>cultureLeaderAdjective->top</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.3>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.4>cultureLeaderAdjective->full</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.4>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.5>cultureLeaderNoun->boss</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.5>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.6>cultureLeaderNoun->thug</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.6>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.7>cultureLeaderNoun->cheese</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.7>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.8>cultureLeaderNoun->gun</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.8>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings.9>cultureLeaderNoun->dog</LeaderTitleMaker_Kriminul.rulePack.rulesStrings.9>
+  <LeaderTitleMaker_Sophian.rulePack.rulesStrings.0>r_leaderTitle->high stellarch</LeaderTitleMaker_Sophian.rulePack.rulesStrings.0>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.0>r_ritualName->[ritNoun] of [keyDeity]</NamerRitualGladiatorDuel.rulePack.rulesStrings.0>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.1>r_ritualName->[ritNoun] of [chosenTheme]</NamerRitualGladiatorDuel.rulePack.rulesStrings.1>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.2>r_ritualName->[ritNoun] of [memeConcept]</NamerRitualGladiatorDuel.rulePack.rulesStrings.2>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.3>r_ritualName->[memeAdjective] [ritNoun]</NamerRitualGladiatorDuel.rulePack.rulesStrings.3>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.4>ritNoun->fight</NamerRitualGladiatorDuel.rulePack.rulesStrings.4>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.5>ritNoun->duel</NamerRitualGladiatorDuel.rulePack.rulesStrings.5>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.6>ritNoun->battle</NamerRitualGladiatorDuel.rulePack.rulesStrings.6>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.7>ritNoun->brawl</NamerRitualGladiatorDuel.rulePack.rulesStrings.7>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings.8>ritNoun->contest</NamerRitualGladiatorDuel.rulePack.rulesStrings.8>
+  <NamerRitualFestival.rulePack.rulesStrings.0>r_ritualName->[festivalName]</NamerRitualFestival.rulePack.rulesStrings.0>
+  <NamerFestivalGlobal.rulePack.rulesStrings.0>festivalName(p=2)->[memeAdjective] [festival]</NamerFestivalGlobal.rulePack.rulesStrings.0>
+  <NamerFestivalGlobal.rulePack.rulesStrings.1>festivalName->[festival] of [chosenTheme]</NamerFestivalGlobal.rulePack.rulesStrings.1>
+  <NamerFestivalGlobal.rulePack.rulesStrings.2>festivalName->[chosenAdjective] [festival]</NamerFestivalGlobal.rulePack.rulesStrings.2>
+  <NamerFestivalGlobal.rulePack.rulesStrings.3>festivalName->[keyDeity]'s [festival]</NamerFestivalGlobal.rulePack.rulesStrings.3>
+  <NamerFestivalGlobal.rulePack.rulesStrings.4>festivalName->[festival] of [keyDeity]</NamerFestivalGlobal.rulePack.rulesStrings.4>
+  <NamerFestivalGlobal.rulePack.rulesStrings.5>festivalName->[festival] of [memeConcept]</NamerFestivalGlobal.rulePack.rulesStrings.5>
+  <NamerFestivalGlobal.rulePack.rulesStrings.6>festivalName->[festival] of [chosenIdeoName]</NamerFestivalGlobal.rulePack.rulesStrings.6>
+  <NamerFestivalGlobal.rulePack.rulesStrings.7>festival->festival</NamerFestivalGlobal.rulePack.rulesStrings.7>
+  <NamerFestivalGlobal.rulePack.rulesStrings.8>festival->celebration</NamerFestivalGlobal.rulePack.rulesStrings.8>
+  <NamerFestivalGlobal.rulePack.rulesStrings.9>festival->party</NamerFestivalGlobal.rulePack.rulesStrings.9>
+  <NamerFestivalGlobal.rulePack.rulesStrings.10>festival->advent</NamerFestivalGlobal.rulePack.rulesStrings.10>
+  <NamerFestivalGlobal.rulePack.rulesStrings.11>festival->fair</NamerFestivalGlobal.rulePack.rulesStrings.11>
+  <NamerFestivalGlobal.rulePack.rulesStrings.12>festival->jubilee</NamerFestivalGlobal.rulePack.rulesStrings.12>
+  <NamerFestivalGlobal.rulePack.rulesStrings.13>festival->fiesta</NamerFestivalGlobal.rulePack.rulesStrings.13>
+  <NamerRitualFuneral.rulePack.rulesStrings.0>r_ritualName(p=2)->[memeAdjective] [funeral]</NamerRitualFuneral.rulePack.rulesStrings.0>
+  <NamerRitualFuneral.rulePack.rulesStrings.1>r_ritualName->[funeral] of [chosenTheme]</NamerRitualFuneral.rulePack.rulesStrings.1>
+  <NamerRitualFuneral.rulePack.rulesStrings.2>r_ritualName->[chosenAdjective] [funeral]</NamerRitualFuneral.rulePack.rulesStrings.2>
+  <NamerRitualFuneral.rulePack.rulesStrings.3>r_ritualName->[keyDeity]'s [funeral]</NamerRitualFuneral.rulePack.rulesStrings.3>
+  <NamerRitualFuneral.rulePack.rulesStrings.4>r_ritualName->[funeral] of [keyDeity]</NamerRitualFuneral.rulePack.rulesStrings.4>
+  <NamerRitualFuneral.rulePack.rulesStrings.5>r_ritualName->[funeral] of [memeConcept]</NamerRitualFuneral.rulePack.rulesStrings.5>
+  <NamerRitualFuneral.rulePack.rulesStrings.6>r_ritualName->[funeral] of [chosenIdeoName]</NamerRitualFuneral.rulePack.rulesStrings.6>
+  <NamerRitualFuneral.rulePack.rulesStrings.7>funeral->funeral</NamerRitualFuneral.rulePack.rulesStrings.7>
+  <NamerRitualFuneral.rulePack.rulesStrings.8>funeral->mourning</NamerRitualFuneral.rulePack.rulesStrings.8>
+  <NamerRitualFuneral.rulePack.rulesStrings.9>funeral->eulogy</NamerRitualFuneral.rulePack.rulesStrings.9>
+  <NamerRitualFuneral.rulePack.rulesStrings.10>funeral->burial</NamerRitualFuneral.rulePack.rulesStrings.10>
+  <NamerRitualFuneral.rulePack.rulesStrings.11>funeral->interment</NamerRitualFuneral.rulePack.rulesStrings.11>
+  <NamerRitualFuneral.rulePack.rulesStrings.12>funeral->inhumation</NamerRitualFuneral.rulePack.rulesStrings.12>
+  <NamerRitualFuneral.rulePack.rulesStrings.13>funeral->requiem</NamerRitualFuneral.rulePack.rulesStrings.13>
+  <NamerRitualFuneral.rulePack.rulesStrings.14>funeral->sepulture</NamerRitualFuneral.rulePack.rulesStrings.14>
+  <NamerRitualMutilation.rulePack.rulesStrings.0>r_ritualName->[ritNoun] of [keyDeity]</NamerRitualMutilation.rulePack.rulesStrings.0>
+  <NamerRitualMutilation.rulePack.rulesStrings.1>r_ritualName->[ritNoun] of [chosenTheme]</NamerRitualMutilation.rulePack.rulesStrings.1>
+  <NamerRitualMutilation.rulePack.rulesStrings.2>r_ritualName->[ritNoun] of [memeConcept]</NamerRitualMutilation.rulePack.rulesStrings.2>
+  <NamerRitualMutilation.rulePack.rulesStrings.3>r_ritualName->[memeAdjective] [ritNoun]</NamerRitualMutilation.rulePack.rulesStrings.3>
+  <NamerRitualMutilation.rulePack.rulesStrings.4>ritNoun->mutilation</NamerRitualMutilation.rulePack.rulesStrings.4>
+  <NamerRitualMutilation.rulePack.rulesStrings.5>ritNoun->cutting</NamerRitualMutilation.rulePack.rulesStrings.5>
+  <NamerRitualMutilation.rulePack.rulesStrings.6>ritNoun->slicing</NamerRitualMutilation.rulePack.rulesStrings.6>
+  <NamerRitualMutilation.rulePack.rulesStrings.7>ritNoun->peeling</NamerRitualMutilation.rulePack.rulesStrings.7>
+  <NamerRitualMutilation.rulePack.rulesStrings.8>ritNoun->bladerip</NamerRitualMutilation.rulePack.rulesStrings.8>
+  <NamerRitualMutilation.rulePack.rulesStrings.9>ritNoun->ripping</NamerRitualMutilation.rulePack.rulesStrings.9>
+  <NamerRitualMutilation.rulePack.rulesStrings.10>ritNoun->mangling</NamerRitualMutilation.rulePack.rulesStrings.10>
+  <NamerRitualMutilation.rulePack.rulesStrings.11>ritNoun->fleshcarving</NamerRitualMutilation.rulePack.rulesStrings.11>
+  <NamerRitualMutilation.rulePack.rulesStrings.12>ritNoun->gashing</NamerRitualMutilation.rulePack.rulesStrings.12>
+  <NamerRitualMutilation.rulePack.rulesStrings.13>ritNoun->rend</NamerRitualMutilation.rulePack.rulesStrings.13>
+  <NamerRitualSacrifice.rulePack.rulesStrings.0>r_ritualName(p=2)->[memeAdjective] [sacrifice]</NamerRitualSacrifice.rulePack.rulesStrings.0>
+  <NamerRitualSacrifice.rulePack.rulesStrings.1>r_ritualName->[sacrifice] of [chosenTheme]</NamerRitualSacrifice.rulePack.rulesStrings.1>
+  <NamerRitualSacrifice.rulePack.rulesStrings.2>r_ritualName->[chosenAdjective] [sacrifice]</NamerRitualSacrifice.rulePack.rulesStrings.2>
+  <NamerRitualSacrifice.rulePack.rulesStrings.3>r_ritualName->[keyDeity]'s [sacrifice]</NamerRitualSacrifice.rulePack.rulesStrings.3>
+  <NamerRitualSacrifice.rulePack.rulesStrings.4>r_ritualName->[sacrifice] of [keyDeity]</NamerRitualSacrifice.rulePack.rulesStrings.4>
+  <NamerRitualSacrifice.rulePack.rulesStrings.5>r_ritualName->[sacrifice] of [memeConcept]</NamerRitualSacrifice.rulePack.rulesStrings.5>
+  <NamerRitualSacrifice.rulePack.rulesStrings.6>r_ritualName->[sacrifice] of [chosenIdeoName]</NamerRitualSacrifice.rulePack.rulesStrings.6>
+  <NamerRitualSacrifice.rulePack.rulesStrings.7>sacrifice->sacrifice</NamerRitualSacrifice.rulePack.rulesStrings.7>
+  <NamerRitualSacrifice.rulePack.rulesStrings.8>sacrifice->offering</NamerRitualSacrifice.rulePack.rulesStrings.8>
+  <NamerRitualSacrifice.rulePack.rulesStrings.9>sacrifice->immolation</NamerRitualSacrifice.rulePack.rulesStrings.9>
+  <NamerRitualSacrifice.rulePack.rulesStrings.10>sacrifice->oblation</NamerRitualSacrifice.rulePack.rulesStrings.10>
+  <NamerRitualSacrifice.rulePack.rulesStrings.11>sacrifice->slaughtering</NamerRitualSacrifice.rulePack.rulesStrings.11>
+  <NamerTreeConnection.rulePack.rulesStrings.0>r_ritualName->tree [verb] [ritual]</NamerTreeConnection.rulePack.rulesStrings.0>
+  <NamerTreeConnection.rulePack.rulesStrings.1>verb->connecting</NamerTreeConnection.rulePack.rulesStrings.1>
+  <NamerTreeConnection.rulePack.rulesStrings.2>verb->connection</NamerTreeConnection.rulePack.rulesStrings.2>
+  <NamerTreeConnection.rulePack.rulesStrings.3>verb->linking</NamerTreeConnection.rulePack.rulesStrings.3>
+  <NamerTreeConnection.rulePack.rulesStrings.4>verb->link</NamerTreeConnection.rulePack.rulesStrings.4>
+  <NamerTreeConnection.rulePack.rulesStrings.5>verb->touch</NamerTreeConnection.rulePack.rulesStrings.5>
+  <NamerTreeConnection.rulePack.rulesStrings.6>verb->meld</NamerTreeConnection.rulePack.rulesStrings.6>
+  <NamerTreeConnection.rulePack.rulesStrings.7>verb->unity</NamerTreeConnection.rulePack.rulesStrings.7>
+  <NamerTreeConnection.rulePack.rulesStrings.8>verb->unification</NamerTreeConnection.rulePack.rulesStrings.8>
+  <NamerTreeConnection.rulePack.rulesStrings.9>verb->bond</NamerTreeConnection.rulePack.rulesStrings.9>
+  <NamerTreeConnection.rulePack.rulesStrings.10>verb->pair</NamerTreeConnection.rulePack.rulesStrings.10>
+  <NamerTreeConnection.rulePack.rulesStrings.11>ritual->ritual</NamerTreeConnection.rulePack.rulesStrings.11>
+  <NamerTreeConnection.rulePack.rulesStrings.12>ritual->ceremony</NamerTreeConnection.rulePack.rulesStrings.12>
+  <NamerTreeConnection.rulePack.rulesStrings.13>ritual->gathering</NamerTreeConnection.rulePack.rulesStrings.13>
+</LanguageData>

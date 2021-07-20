@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientSignalActivation.questNameRules.rulesStrings.0>questName->ancient signal activation</AncientSignalActivation.questNameRules.rulesStrings.0>
+  <AncientSignalActivation.questDescriptionRules.rulesStrings.0>questDescription->ancient signal activation</AncientSignalActivation.questDescriptionRules.rulesStrings.0>
+  <Beggars.questNameRules.rulesStrings.0>questName(beggarCount==1)->[beggarSingle] [seekingSingle] [alms]</Beggars.questNameRules.rulesStrings.0>
+  <Beggars.questNameRules.rulesStrings.1>questName(beggarCount>=2)->[beggarPlural] [seekingPlural] [alms]</Beggars.questNameRules.rulesStrings.1>
+  <Beggars.questNameRules.rulesStrings.2>beggarSingle->beggar</Beggars.questNameRules.rulesStrings.2>
+  <Beggars.questNameRules.rulesStrings.3>beggarSingle->vagabond</Beggars.questNameRules.rulesStrings.3>
+  <Beggars.questNameRules.rulesStrings.4>beggarSingle->drifter</Beggars.questNameRules.rulesStrings.4>
+  <Beggars.questNameRules.rulesStrings.5>beggarSingle->traveler</Beggars.questNameRules.rulesStrings.5>
+  <Beggars.questNameRules.rulesStrings.6>beggarPlural->[beggarSingle]s</Beggars.questNameRules.rulesStrings.6>
+  <Beggars.questNameRules.rulesStrings.7>seekingSingle->seeks</Beggars.questNameRules.rulesStrings.7>
+  <Beggars.questNameRules.rulesStrings.8>seekingSingle->requests</Beggars.questNameRules.rulesStrings.8>
+  <Beggars.questNameRules.rulesStrings.9>seekingSingle->wishes for</Beggars.questNameRules.rulesStrings.9>
+  <Beggars.questNameRules.rulesStrings.10>seekingSingle->desires</Beggars.questNameRules.rulesStrings.10>
+  <Beggars.questNameRules.rulesStrings.11>seekingSingle->needs</Beggars.questNameRules.rulesStrings.11>
+  <Beggars.questNameRules.rulesStrings.12>seekingSingle->hopes for</Beggars.questNameRules.rulesStrings.12>
+  <Beggars.questNameRules.rulesStrings.13>seekingPlural->seek</Beggars.questNameRules.rulesStrings.13>
+  <Beggars.questNameRules.rulesStrings.14>seekingPlural->request</Beggars.questNameRules.rulesStrings.14>
+  <Beggars.questNameRules.rulesStrings.15>seekingPlural->wish for</Beggars.questNameRules.rulesStrings.15>
+  <Beggars.questNameRules.rulesStrings.16>seekingPlural->hope for</Beggars.questNameRules.rulesStrings.16>
+  <Beggars.questNameRules.rulesStrings.17>seekingPlural->desire</Beggars.questNameRules.rulesStrings.17>
+  <Beggars.questNameRules.rulesStrings.18>seekingPlural->need</Beggars.questNameRules.rulesStrings.18>
+  <Beggars.questNameRules.rulesStrings.19>alms->alms</Beggars.questNameRules.rulesStrings.19>
+  <Beggars.questNameRules.rulesStrings.20>alms->aid</Beggars.questNameRules.rulesStrings.20>
+  <Beggars.questNameRules.rulesStrings.21>alms->charity</Beggars.questNameRules.rulesStrings.21>
+  <Beggars.questNameRules.rulesStrings.22>alms->resources</Beggars.questNameRules.rulesStrings.22>
+  <Beggars.questDescriptionRules.rulesStrings.0>groupLabelPlural->travelers</Beggars.questDescriptionRules.rulesStrings.0>
+  <Beggars.questDescriptionRules.rulesStrings.1>groupLabelSingle->traveler</Beggars.questDescriptionRules.rulesStrings.1>
+  <Beggars.questDescriptionRules.rulesStrings.2>travelerInfo(beggarCount==1)->This [groupLabelSingle] is</Beggars.questDescriptionRules.rulesStrings.2>
+  <Beggars.questDescriptionRules.rulesStrings.3>travelerInfo(beggarCount>=2)->These [groupLabelPlural] are</Beggars.questDescriptionRules.rulesStrings.3>
+  <Beggars.questDescriptionRules.rulesStrings.4>beggingForInfo->for x[requestedThingCount] [requestedThing_label]</Beggars.questDescriptionRules.rulesStrings.4>
+  <Beggars.questDescriptionRules.rulesStrings.5>traverObjective(beggarCount==1)->[beggars0_objective]</Beggars.questDescriptionRules.rulesStrings.5>
+  <Beggars.questDescriptionRules.rulesStrings.6>traverObjective(beggarCount>=2)->them</Beggars.questDescriptionRules.rulesStrings.6>
+  <Beggars.questDescriptionRules.rulesStrings.7>questDescription->[approachInfo]. [requestInfo]. [claimInfo].\n\n[interactionInfo].\n\n[moveOnInfo].\n\n[travelerInfo] not part of any faction. If you wish, you can choose to kill, arrest, sell, or harvest [traverObjective], without diplomatic consequences.</Beggars.questDescriptionRules.rulesStrings.7>
+  <Beggars.questDescriptionRules.rulesStrings.8>approachInfo(beggarCount==1)->A poor [groupLabelSingle] named [beggars0_nameDef] is approaching looking for help</Beggars.questDescriptionRules.rulesStrings.8>
+  <Beggars.questDescriptionRules.rulesStrings.9>approachInfo(beggarCount>=2)->A group of poor [groupLabelPlural] are approaching looking for help</Beggars.questDescriptionRules.rulesStrings.9>
+  <Beggars.questDescriptionRules.rulesStrings.10>requestInfo(beggarCount==1)->[beggars0_nameDef] is begging [beggingForInfo]</Beggars.questDescriptionRules.rulesStrings.10>
+  <Beggars.questDescriptionRules.rulesStrings.11>requestInfo(beggarCount>=2)->The [groupLabelPlural] are begging [beggingForInfo]</Beggars.questDescriptionRules.rulesStrings.11>
+  <Beggars.questDescriptionRules.rulesStrings.12>claimInfo(beggarCount==1,requestedThingDefName==Silver)->[beggars0_nameDef] wants the silver to pay off a debt to a gang of pirates who are hunting [beggars0_objective]</Beggars.questDescriptionRules.rulesStrings.12>
+  <Beggars.questDescriptionRules.rulesStrings.13>claimInfo(beggarCount==1,requestedThingDefName==MedicineHerbal)->[beggars0_nameDef] needs the medicine to help a traveler who is injured nearby</Beggars.questDescriptionRules.rulesStrings.13>
+  <Beggars.questDescriptionRules.rulesStrings.14>claimInfo(beggarCount==1,requestedThingDefName==MedicineIndustrial)->[beggars0_nameDef] wants the medicine to save [beggars0_possessive] loyal pet who was injured on the road</Beggars.questDescriptionRules.rulesStrings.14>
+  <Beggars.questDescriptionRules.rulesStrings.15>claimInfo(beggarCount==1,requestedThingDefName==Penoxycyline)->[beggars0_nameDef] needs [requestedThing_label] to inoculate a sickly friend against deadly diseases</Beggars.questDescriptionRules.rulesStrings.15>
+  <Beggars.questDescriptionRules.rulesStrings.16>claimInfo(beggarCount==1,requestedThingDefName==Beer)->[beggars0_nameDef] wants it to drown [beggars0_possessive] sorrows after losing a fellow traveler in a terrible accident</Beggars.questDescriptionRules.rulesStrings.16>
+  <Beggars.questDescriptionRules.rulesStrings.17>claimInfo(beggarCount>=2,requestedThingDefName==Silver)->They want the silver so they can buy back a friend who was recently kidnapped</Beggars.questDescriptionRules.rulesStrings.17>
+  <Beggars.questDescriptionRules.rulesStrings.18>claimInfo(beggarCount>=2,requestedThingDefName==MedicineHerbal)->They need the medicine to attempt a life-saving operation on a fellow traveler who was attacked by mechanoids</Beggars.questDescriptionRules.rulesStrings.18>
+  <Beggars.questDescriptionRules.rulesStrings.19>claimInfo(beggarCount>=2,requestedThingDefName==MedicineIndustrial)->They need the medicine to help their friends at a nearby settlement that was devasted by raiders</Beggars.questDescriptionRules.rulesStrings.19>
+  <Beggars.questDescriptionRules.rulesStrings.20>claimInfo(beggarCount>=2,requestedThingDefName==Penoxycyline)->They want [requestedThing_label] so they can travel safely while looking for a new place to call home</Beggars.questDescriptionRules.rulesStrings.20>
+  <Beggars.questDescriptionRules.rulesStrings.21>claimInfo(beggarCount>=2,requestedThingDefName==Beer)->They want [requestedThing_label] to help them drown their sorrows after losing their home in a terrible attack</Beggars.questDescriptionRules.rulesStrings.21>
+  <Beggars.questDescriptionRules.rulesStrings.22>interactionInfo(beggarCount==1)->[beggars0_nameDef] can be given items by right-clicking on [beggars0_objective]</Beggars.questDescriptionRules.rulesStrings.22>
+  <Beggars.questDescriptionRules.rulesStrings.23>interactionInfo(beggarCount>=2)->The [groupLabelPlural] can be given items by right-clicking on [beggars0_nameDef]</Beggars.questDescriptionRules.rulesStrings.23>
+  <Beggars.questDescriptionRules.rulesStrings.24>moveOnInfo(beggarCount==1)->[beggars0_nameDef] will move on after [visitDurationTicks_duration]</Beggars.questDescriptionRules.rulesStrings.24>
+  <Beggars.questDescriptionRules.rulesStrings.25>moveOnInfo(beggarCount>=2)->The [groupLabelPlural] will move on after [visitDurationTicks_duration]</Beggars.questDescriptionRules.rulesStrings.25>
+  <Beggars.questContentRules.rulesStrings.0>letterLabelBeggarsBetrayed->[groupLabelSingleOrPlural] betrayed</Beggars.questContentRules.rulesStrings.0>
+  <Beggars.questContentRules.rulesStrings.1>letterTextBeggarsBetrayed->The [groupLabelSingleOrPlural] who [wasWere] seeking your charity [hasHave] been betrayed. Colonists with charitable beliefs will be unhappy.</Beggars.questContentRules.rulesStrings.1>
+  <Beggars.questContentRules.rulesStrings.2>hasHave(beggarCount==1)->has</Beggars.questContentRules.rulesStrings.2>
+  <Beggars.questContentRules.rulesStrings.3>hasHave(beggarCount>=2)->have</Beggars.questContentRules.rulesStrings.3>
+  <Beggars.questContentRules.rulesStrings.4>wasWere(beggarCount==1)->was</Beggars.questContentRules.rulesStrings.4>
+  <Beggars.questContentRules.rulesStrings.5>wasWere(beggarCount>=2)->were</Beggars.questContentRules.rulesStrings.5>
+  <Beggars.questContentRules.rulesStrings.6>groupLabelSingleOrPlural(beggarCount==1)->traveler</Beggars.questContentRules.rulesStrings.6>
+  <Beggars.questContentRules.rulesStrings.7>groupLabelSingleOrPlural(beggarCount>=2)->travelers</Beggars.questContentRules.rulesStrings.7>
+  <EndGame_ArchonexusVictory.questNameRules.rulesStrings.0>questName-></EndGame_ArchonexusVictory.questNameRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings.0>questDescription-></EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings.0>questName->the archonexus</EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.0>questDescription->[descriptionIntro] looking to expand their territory, and are interested in taking over [playerSettlements] with all [itsTheir] wealth. If you can increase your total wealth to [requiredWealth_money], they will take the [settlementsSingularOrPlural].\n\nIn trade, they offer you part of a map showing the location of an ancient archotech nexus. The archonexus is thought to be a conduit through which an archotech superintelligence influences the physical world. If you could invoke its power, what happens next could go beyond physical reality.\n\n[onlyHaveHas] one piece of the map. The other parts are held by other factions.\n\nIf you accept their offer, the [factionPawnsPlural] will take possession of [playerSettlements], including all items and people. They'll bring [colonistsAllowed] of your people and [animalsAllowed] of your animals to anywhere you want on the planet to start a new colony.\n\nLater, you can trade with others for the final two parts of the map.</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.1>itsTheir(playerSettlementsCount==1)->its</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.1>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.2>itsTheir(playerSettlementsCount>=2)->their</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.2>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.3>settlementsSingularOrPlural(playerSettlementsCount==1)->settlement</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.3>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.4>settlementsSingularOrPlural(playerSettlementsCount>=2)->settlements</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.4>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.5>onlyHaveHas(factionless==false)->[civilOutlander_name] only has</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.5>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.6>onlyHaveHas(factionless==true)->The group only have</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.6>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.7>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.7>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.8>factionPawnsPlural(factionless==true)->wild people</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.8>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.9>descriptionIntro(factionless==false)->[civilOutlander_name] is</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.9>
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.10>descriptionIntro(factionless==true)->A group of wild people are</EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings.10>
+  <EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings.0>questName->the archonexus</EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.0>questDescription->With the first archonexus map part securely recorded, you prepare for the next step of your journey.\n\n[cycle1Faction] told you of the cataclysm that destroyed this world. Humans built a great thinking machine here centuries ago. It turned against the people and there was a great war. Only a few were left when the machine transcended and fell dormant.\n\nThe map to the archonexus has three parts, and you hold one of them. [otherMapPartHolders] also each hold parts of the map. They'll trade their parts to you for a wealthy new colony.[descriptionStudyRequirement]\n\nIt's time to get building.</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.1>cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.1>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.2>cycle1Faction(factionless==true)->The [wildPeople]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.2>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.3>otherMapPartHolders(factionless==false)->[roughOutlander_name] and [roughTribe_name]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.3>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.4>otherMapPartHolders(factionless==true)->other [wildPeople]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.4>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.5>takeoverPawnsPlural(factionless==false)->[roughOutlander_pawnsPlural]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.5>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.6>takeoverPawnsPlural(factionless==true)->[wildPeople]</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.6>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.7>wildPeople->wild people</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.7>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.8>descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here.</EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.8>
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.9>descriptionStudyRequirement(studyRequirement==false)-></EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings.9>
+  <EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings.0>questName->the archonexus</EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings.0>questDescription-></EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.0>questAcceptedLetterLabel->archonexus discovered</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.0>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.1>questAcceptedLetterText->[questDescriptionBeforeAccepted]</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.1>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.2>questDescriptionBeforeAccepted->You have two parts of the archonexus map. [factionName] have the last piece of the map, passed down from the time their ancestors survived the cataclysm. They'll give it to you if you give them a wealthy new colony in exchange.[descriptionStudyRequirement]\n\nIt's time to get building.</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.2>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.3>questDescriptionAfterAccepted->[descriptionIntro] have given you the last part of the archonexus map. Using your knowledge of archotech info-encoding, you have decoded the map and pinpointed the location of the archonexus.\n\nYour allies don't expect you to return, so after you go there, they will take over [playerSettlements].\n\n[descriptionThreats]Now all that's left is to get to the archonexus, invoke the power of the machine god, and find out whether the stories are real.</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.3>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.4>factionName(factionless==false)->[roughTribe_name]</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.4>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.5>factionName(factionless==true)->The wild people</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.5>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.6>descriptionIntro(factionless==false)->[roughTribe_name]'s leader [roughTribe_leader_nameDef] has</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.6>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.7>descriptionIntro(factionless==true)->The wild people have</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.7>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.8>descriptionStudyRequirement(studyRequirement==true)->\n\nAs before, the map part is encoded. In order to decode it, you must first study the archotech structure.</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.8>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.9>descriptionStudyRequirement(studyRequirement==false)-></EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.9>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.10>descriptionThreats(threatsEnabled==true)->The archonexus will likely have mechanoid defenders, so go prepared.\n\n</EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.10>
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.11>descriptionThreats(threatsEnabled==false)-></EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings.11>
+  <AncientComplex_Standard.questNameRules.rulesStrings.0>questName(p=6)->The [complexAdj] [complex]</AncientComplex_Standard.questNameRules.rulesStrings.0>
+  <AncientComplex_Standard.questNameRules.rulesStrings.1>questName->The [dig]</AncientComplex_Standard.questNameRules.rulesStrings.1>
+  <AncientComplex_Standard.questNameRules.rulesStrings.2>complexAdj->ancient</AncientComplex_Standard.questNameRules.rulesStrings.2>
+  <AncientComplex_Standard.questNameRules.rulesStrings.3>complexAdj->old</AncientComplex_Standard.questNameRules.rulesStrings.3>
+  <AncientComplex_Standard.questNameRules.rulesStrings.4>complexAdj->dusty</AncientComplex_Standard.questNameRules.rulesStrings.4>
+  <AncientComplex_Standard.questNameRules.rulesStrings.5>complexAdj->secret</AncientComplex_Standard.questNameRules.rulesStrings.5>
+  <AncientComplex_Standard.questNameRules.rulesStrings.6>complex->complex</AncientComplex_Standard.questNameRules.rulesStrings.6>
+  <AncientComplex_Standard.questNameRules.rulesStrings.7>complex->compound</AncientComplex_Standard.questNameRules.rulesStrings.7>
+  <AncientComplex_Standard.questNameRules.rulesStrings.8>complex->installation</AncientComplex_Standard.questNameRules.rulesStrings.8>
+  <AncientComplex_Standard.questNameRules.rulesStrings.9>dig->dig</AncientComplex_Standard.questNameRules.rulesStrings.9>
+  <AncientComplex_Standard.questNameRules.rulesStrings.10>dig->excavation</AncientComplex_Standard.questNameRules.rulesStrings.10>
+  <AncientComplex_Standard.questDescriptionRules.rulesStrings.0>questDescription->You've learned of an ancient complex nearby. It is said to contain information about [relic_name].\n\nIf you can break into the structure and hack the computers inside, you can collect the information.\n\nWatch out - there may be all manner of dangers inside, and other enemies may also be attracted by activity at the structure.</AncientComplex_Standard.questDescriptionRules.rulesStrings.0>
+  <AncientComplex_Standard.questContentRules.rulesStrings.0>terminalHackedMessage->Terminal hacked. {COUNT} / [terminalCount] complete.</AncientComplex_Standard.questContentRules.rulesStrings.0>
+  <AncientComplex_Standard.questContentRules.rulesStrings.1>allTerminalsHackedMessage->You've hacked all of the terminals and discovered secret information about [relic_name]! You can now leave.</AncientComplex_Standard.questContentRules.rulesStrings.1>
+  <Hack_Spacedrone.questNameRules.rulesStrings.0>questName->[droneAdj] [drone] hack</Hack_Spacedrone.questNameRules.rulesStrings.0>
+  <Hack_Spacedrone.questNameRules.rulesStrings.1>questName->[drone] [data] hack</Hack_Spacedrone.questNameRules.rulesStrings.1>
+  <Hack_Spacedrone.questNameRules.rulesStrings.2>droneAdj->orbital</Hack_Spacedrone.questNameRules.rulesStrings.2>
+  <Hack_Spacedrone.questNameRules.rulesStrings.3>droneAdj->data</Hack_Spacedrone.questNameRules.rulesStrings.3>
+  <Hack_Spacedrone.questNameRules.rulesStrings.4>droneAdj->ancient</Hack_Spacedrone.questNameRules.rulesStrings.4>
+  <Hack_Spacedrone.questNameRules.rulesStrings.5>drone->drone</Hack_Spacedrone.questNameRules.rulesStrings.5>
+  <Hack_Spacedrone.questNameRules.rulesStrings.6>drone->spacecraft</Hack_Spacedrone.questNameRules.rulesStrings.6>
+  <Hack_Spacedrone.questNameRules.rulesStrings.7>drone->spacedrone</Hack_Spacedrone.questNameRules.rulesStrings.7>
+  <Hack_Spacedrone.questNameRules.rulesStrings.8>drone->cryptodrone</Hack_Spacedrone.questNameRules.rulesStrings.8>
+  <Hack_Spacedrone.questNameRules.rulesStrings.9>data->data</Hack_Spacedrone.questNameRules.rulesStrings.9>
+  <Hack_Spacedrone.questNameRules.rulesStrings.10>data->intel</Hack_Spacedrone.questNameRules.rulesStrings.10>
+  <Hack_Spacedrone.questNameRules.rulesStrings.11>data->info</Hack_Spacedrone.questNameRules.rulesStrings.11>
+  <Hack_Spacedrone.questDescriptionRules.rulesStrings.0>questDescription->You've detected an orbiting spacedrone that may contain information about [relic_name]. You have the code that will force it to land at [map_definite].\n\nTo get the information, hack into the drone's computer. Hacking takes time, but those strong in intellectual skill can speed up the process.[raidsDescription]\n\nThe spacedrone will self-destruct in [destroyDelayTicks_duration].</Hack_Spacedrone.questDescriptionRules.rulesStrings.0>
+  <Hack_Spacedrone.questDescriptionRules.rulesStrings.1>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will [droneDetectionMethod]. As long as it's present, they'll send attackers approximately every [raidIntervalAvg_duration] to destroy it and steal the wealth they think it contains. You will have some time to prepare defenses around it before they arrive.</Hack_Spacedrone.questDescriptionRules.rulesStrings.1>
+  <Hack_Spacedrone.questDescriptionRules.rulesStrings.2>raidsDescription(allowViolence==false)-></Hack_Spacedrone.questDescriptionRules.rulesStrings.2>
+  <Hack_Spacedrone.questDescriptionRules.rulesStrings.3>droneDetectionMethod(enemyFactionNeolithic==true)->spot the drone during its decent</Hack_Spacedrone.questDescriptionRules.rulesStrings.3>
+  <Hack_Spacedrone.questDescriptionRules.rulesStrings.4>droneDetectionMethod(enemyFactionNeolithic==false)->detect the drone's energy signature</Hack_Spacedrone.questDescriptionRules.rulesStrings.4>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.0>questName(p=3)->[complexAdj] [complex] [finalWord]</OpportunitySite_AncientComplex.questNameRules.rulesStrings.0>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.1>questName->[complex] [finalWord]</OpportunitySite_AncientComplex.questNameRules.rulesStrings.1>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.2>complexAdj->secret</OpportunitySite_AncientComplex.questNameRules.rulesStrings.2>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.3>complexAdj->mysterious</OpportunitySite_AncientComplex.questNameRules.rulesStrings.3>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.4>complexAdj->ancient</OpportunitySite_AncientComplex.questNameRules.rulesStrings.4>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.5>complexAdj->old</OpportunitySite_AncientComplex.questNameRules.rulesStrings.5>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.6>complexAdj->hidden</OpportunitySite_AncientComplex.questNameRules.rulesStrings.6>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.7>complexAdj->deathly</OpportunitySite_AncientComplex.questNameRules.rulesStrings.7>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.8>complex->complex</OpportunitySite_AncientComplex.questNameRules.rulesStrings.8>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.9>complex->installation</OpportunitySite_AncientComplex.questNameRules.rulesStrings.9>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.10>complex->structure</OpportunitySite_AncientComplex.questNameRules.rulesStrings.10>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.11>finalWord->treasure</OpportunitySite_AncientComplex.questNameRules.rulesStrings.11>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.12>finalWord->riches</OpportunitySite_AncientComplex.questNameRules.rulesStrings.12>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.13>finalWord->trove</OpportunitySite_AncientComplex.questNameRules.rulesStrings.13>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.14>finalWord->cache</OpportunitySite_AncientComplex.questNameRules.rulesStrings.14>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.15>finalWord->loot</OpportunitySite_AncientComplex.questNameRules.rulesStrings.15>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.16>finalWord->robbing</OpportunitySite_AncientComplex.questNameRules.rulesStrings.16>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.17>finalWord->looting</OpportunitySite_AncientComplex.questNameRules.rulesStrings.17>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.18>finalWord->raiding</OpportunitySite_AncientComplex.questNameRules.rulesStrings.18>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.19>finalWord->theft</OpportunitySite_AncientComplex.questNameRules.rulesStrings.19>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.20>finalWord->heist</OpportunitySite_AncientComplex.questNameRules.rulesStrings.20>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.21>finalWord->caper</OpportunitySite_AncientComplex.questNameRules.rulesStrings.21>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings.22>finalWord->booty</OpportunitySite_AncientComplex.questNameRules.rulesStrings.22>
+  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings.0>questDescription->You've learned of an ancient complex nearby that is said to contain ancient treasure.\n\nYou can break in to collect the loot inside.\n\nBe warned - these kinds of structures can contain a variety of threats. In addition, your activity at the complex might draw unwanted attention.</OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings.0>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.0>complex->complex</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.0>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.1>complex->compound</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.1>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.2>complex->installation</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.2>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.3>complex->structure</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.3>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.4>complex->construction</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.4>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.5>investigation->investigation</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.5>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.6>investigation->examination</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.6>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.7>investigation->mission</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.7>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.8>investigation->excavation</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.8>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.9>investigation->hacking</AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings.9>
+  <AncientComplex_Mission.questNameRules.rulesStrings.0>questName->[missionAdj] [complex] [investigation]</AncientComplex_Mission.questNameRules.rulesStrings.0>
+  <AncientComplex_Mission.questNameRules.rulesStrings.1>missionAdj->hidden</AncientComplex_Mission.questNameRules.rulesStrings.1>
+  <AncientComplex_Mission.questNameRules.rulesStrings.2>missionAdj->covert</AncientComplex_Mission.questNameRules.rulesStrings.2>
+  <AncientComplex_Mission.questNameRules.rulesStrings.3>missionAdj->secret</AncientComplex_Mission.questNameRules.rulesStrings.3>
+  <AncientComplex_Mission.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has discovered an ancient complex a long distance away. [asker_pronoun] believes it contains information about the relic known as [relic_name].\n\n[asker_nameDef] can't spare people to look into it, but hopes you can help by supplying exactly [colonistCount] [colonistsSingularOrPlural] to carry out the investigation.\n\nThe complex contains unknown threats and is also being sought by [asker_nameDef]'s enemies, [enemyFaction_name].\n\n[asker_pronoun] will send a shuttle to pick up your colonists, bring them to the complex, and take them home afterward. They will be fed and tended to en-route.\n\nOnce you have landed, you must hack all terminals in the complex within [timeoutTicks_duration].</AncientComplex_Mission.questDescriptionRules.rulesStrings.0>
+  <AncientComplex_Mission.questDescriptionRules.rulesStrings.1>colonistsSingularOrPlural(colonistCount==1)->colonist</AncientComplex_Mission.questDescriptionRules.rulesStrings.1>
+  <AncientComplex_Mission.questDescriptionRules.rulesStrings.2>colonistsSingularOrPlural(colonistCount>=2)->colonists</AncientComplex_Mission.questDescriptionRules.rulesStrings.2>
+  <AncientComplex_Mission.questContentRules.rulesStrings.0>terminalHackedMessage->Terminal hacked. {COUNT} / [terminalCount] complete.</AncientComplex_Mission.questContentRules.rulesStrings.0>
+  <AncientComplex_Mission.questContentRules.rulesStrings.1>passengersIncapableOfHackingDialogLabel->[passengersSingularOrPlural] incapable of hacking.</AncientComplex_Mission.questContentRules.rulesStrings.1>
+  <AncientComplex_Mission.questContentRules.rulesStrings.2>passengersIncapableOfHackingDialogText->The shuttle for the quest '[resolvedQuestName]' has no passenger capable of hacking. You must send at least one person capable of hacking to investigate the ancient complex.</AncientComplex_Mission.questContentRules.rulesStrings.2>
+  <AncientComplex_Mission.questContentRules.rulesStrings.3>passengersSingularOrPlural(colonistCount==1)->passenger</AncientComplex_Mission.questContentRules.rulesStrings.3>
+  <AncientComplex_Mission.questContentRules.rulesStrings.4>passengersSingularOrPlural(colonistCount>=2)->passengers</AncientComplex_Mission.questContentRules.rulesStrings.4>
+  <RelicHunt.questNameRules.rulesStrings.0>questName->The [hunt] for the [item]</RelicHunt.questNameRules.rulesStrings.0>
+  <RelicHunt.questNameRules.rulesStrings.1>questName->The [item] of [ideo_name]</RelicHunt.questNameRules.rulesStrings.1>
+  <RelicHunt.questNameRules.rulesStrings.2>questName->The [itemAdj] [item]</RelicHunt.questNameRules.rulesStrings.2>
+  <RelicHunt.questNameRules.rulesStrings.3>hunt->hunt</RelicHunt.questNameRules.rulesStrings.3>
+  <RelicHunt.questNameRules.rulesStrings.4>hunt->search</RelicHunt.questNameRules.rulesStrings.4>
+  <RelicHunt.questNameRules.rulesStrings.5>hunt->quest</RelicHunt.questNameRules.rulesStrings.5>
+  <RelicHunt.questNameRules.rulesStrings.6>item(p=4)->[relic_name]</RelicHunt.questNameRules.rulesStrings.6>
+  <RelicHunt.questNameRules.rulesStrings.7>item->relic</RelicHunt.questNameRules.rulesStrings.7>
+  <RelicHunt.questNameRules.rulesStrings.8>item->artifact</RelicHunt.questNameRules.rulesStrings.8>
+  <RelicHunt.questNameRules.rulesStrings.9>itemAdj->ancient</RelicHunt.questNameRules.rulesStrings.9>
+  <RelicHunt.questNameRules.rulesStrings.10>itemAdj->revered</RelicHunt.questNameRules.rulesStrings.10>
+  <RelicHunt.questNameRules.rulesStrings.11>itemAdj->venerated</RelicHunt.questNameRules.rulesStrings.11>
+  <RelicHunt.questDescriptionRules.rulesStrings.0>questDescription->You've learned that a relic of [ideo_name] is nearby.\n\nThe [relic_name] is an ancient object venerated by all [ideo_memberNamePlural]. If you could collect it, you could build a great reliquary to make [ideo_memberNamePlural] happy, attract wealthy pilgrims, and bring more people to [ideo_name].</RelicHunt.questDescriptionRules.rulesStrings.0>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.0>pilgrimsLabel->[pawns0_nameDef]</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.0>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.1>pilgrimsLabelPlural->[faction_pawnsPlural]</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.1>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.2>pilgrimsLabelSingularOrPlural(pilgrimCount==1)->[pilgrimsLabel]</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.2>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.3>pilgrimsLabelSingularOrPlural(pilgrimCount>=2)->[pilgrimsLabelPlural]</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.3>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.4>hasHave(pilgrimCount==1)->has</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.4>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.5>hasHave(pilgrimCount>=2)->have</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.5>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.0>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</ReliquaryPilgrims.questNameRules.rulesStrings.0>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.1>questName(pilgrimCount>=2)->[pilgrimsLabelSingularOrPlural] [visitAdj] [visit]</ReliquaryPilgrims.questNameRules.rulesStrings.1>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.2>visitAdj(p=6)-></ReliquaryPilgrims.questNameRules.rulesStrings.2>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.3>visitAdj->holy</ReliquaryPilgrims.questNameRules.rulesStrings.3>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.4>visitAdj->sacred</ReliquaryPilgrims.questNameRules.rulesStrings.4>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.5>visitAdj->spiritual</ReliquaryPilgrims.questNameRules.rulesStrings.5>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.6>visitAdj->divine</ReliquaryPilgrims.questNameRules.rulesStrings.6>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.7>visitAdj->hallowed</ReliquaryPilgrims.questNameRules.rulesStrings.7>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.8>visitAdj->solemn</ReliquaryPilgrims.questNameRules.rulesStrings.8>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.9>visitAdj->sacramental</ReliquaryPilgrims.questNameRules.rulesStrings.9>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.10>visitAdj->sanctified</ReliquaryPilgrims.questNameRules.rulesStrings.10>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.11>visit->visit</ReliquaryPilgrims.questNameRules.rulesStrings.11>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.12>visit->pilgrimage</ReliquaryPilgrims.questNameRules.rulesStrings.12>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.13>visit->mission</ReliquaryPilgrims.questNameRules.rulesStrings.13>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.14>visit->expedition</ReliquaryPilgrims.questNameRules.rulesStrings.14>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.15>visit->excursion</ReliquaryPilgrims.questNameRules.rulesStrings.15>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.16>visit->tour</ReliquaryPilgrims.questNameRules.rulesStrings.16>
+  <ReliquaryPilgrims.questNameRules.rulesStrings.17>visit->veneration</ReliquaryPilgrims.questNameRules.rulesStrings.17>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings.0>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</ReliquaryPilgrims.questDescriptionRules.rulesStrings.0>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings.1>isAre(pilgrimCount==1)->is</ReliquaryPilgrims.questDescriptionRules.rulesStrings.1>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings.2>isAre(pilgrimCount>=2)->are</ReliquaryPilgrims.questDescriptionRules.rulesStrings.2>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings.3>pronounSingularOrPlural(pilgrimCount==1)->[pawns0_pronoun]</ReliquaryPilgrims.questDescriptionRules.rulesStrings.3>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings.4>pronounSingularOrPlural(pilgrimCount>=2)->they</ReliquaryPilgrims.questDescriptionRules.rulesStrings.4>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings.5>visitSingularOrPlural(pilgrimCount==1)->visits</ReliquaryPilgrims.questDescriptionRules.rulesStrings.5>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings.6>visitSingularOrPlural(pilgrimCount>=2)->visit</ReliquaryPilgrims.questDescriptionRules.rulesStrings.6>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.0>pilgrimsArrivedLetterLabel->[factionAdj] [pilgrimSingularOrPlural] arrived</ReliquaryPilgrims.questContentRules.rulesStrings.0>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.1>pilgrimsArrivedLetterText->[questDescription]</ReliquaryPilgrims.questContentRules.rulesStrings.1>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.2>delayedRewardLetterText->[pawns0_nameDef] thanks you for letting [pawns0_objective] [andFollowers] venerate [relic_name] on the [venerateDate]. As a reward, [pawns0_nameDef] is sending you the following via drop pod (total value [rewardsMarketValue_money]):\n\n[rewards].</ReliquaryPilgrims.questContentRules.rulesStrings.2>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.3>pilgrimsLeavingMessage->[pilgrimsLabelSingularOrPlural] [hasHave] finished venerating [relic_name] and [areIs] now leaving.</ReliquaryPilgrims.questContentRules.rulesStrings.3>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.4>pilgrimsLeftMessage->[pilgrimsLabelSingularOrPlural] [hasHave] left the map.</ReliquaryPilgrims.questContentRules.rulesStrings.4>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.5>areIs(pilgrimCount==1)->is</ReliquaryPilgrims.questContentRules.rulesStrings.5>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.6>areIs(pilgrimCount>=2)->are</ReliquaryPilgrims.questContentRules.rulesStrings.6>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.7>andFollowers(pilgrimCount==1)-></ReliquaryPilgrims.questContentRules.rulesStrings.7>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.8>andFollowers(pilgrimCount==2)->and the other [faction_pawnSingular]</ReliquaryPilgrims.questContentRules.rulesStrings.8>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.9>andFollowers(pilgrimCount>=3)->and the other [faction_pawnsPlural]</ReliquaryPilgrims.questContentRules.rulesStrings.9>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.10>pilgrimSingularOrPlural(pilgrimCount==1)->pilgrim</ReliquaryPilgrims.questContentRules.rulesStrings.10>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.11>pilgrimSingularOrPlural(pilgrimCount>=2)->pilgrims</ReliquaryPilgrims.questContentRules.rulesStrings.11>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.12>factionAdj(pilgrimFaction==true)-></ReliquaryPilgrims.questContentRules.rulesStrings.12>
+  <ReliquaryPilgrims.questContentRules.rulesStrings.13>factionAdj(pilgrimFaction==false)->[faction_pawnSingular]</ReliquaryPilgrims.questContentRules.rulesStrings.13>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.0>questName->[site_label] [detected]</OpportunitySite_WorkSite.questNameRules.rulesStrings.0>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.1>detected->detected</OpportunitySite_WorkSite.questNameRules.rulesStrings.1>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.2>detected->discovered</OpportunitySite_WorkSite.questNameRules.rulesStrings.2>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.3>detected->nearby</OpportunitySite_WorkSite.questNameRules.rulesStrings.3>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.4>detected->found</OpportunitySite_WorkSite.questNameRules.rulesStrings.4>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.5>detected->identified</OpportunitySite_WorkSite.questNameRules.rulesStrings.5>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.6>detected->noticed</OpportunitySite_WorkSite.questNameRules.rulesStrings.6>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.7>detected->observed</OpportunitySite_WorkSite.questNameRules.rulesStrings.7>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.8>detected->revealed</OpportunitySite_WorkSite.questNameRules.rulesStrings.8>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings.9>detected->uncovered</OpportunitySite_WorkSite.questNameRules.rulesStrings.9>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.0>questDescription->You've detected a [siteLabel] nearby controlled by [faction_name].\n\nIf you wish, you can raid the camp to collect loot ([loot]). [raidConsequences]\n\nThe camp will pack up and move on in [timeout_duration].</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>raidConsequences(faction_temporary==false)->If you do, [faction_name] will become hostile.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.1>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.2>raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences.</OpportunitySite_WorkSite.questDescriptionRules.rulesStrings.2>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.0>questName->The [adj] [terminalName]</Hack_WorshippedTerminal.questNameRules.rulesStrings.0>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.1>adj->worshipped</Hack_WorshippedTerminal.questNameRules.rulesStrings.1>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.2>adj->venerated</Hack_WorshippedTerminal.questNameRules.rulesStrings.2>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.3>adj->ancient</Hack_WorshippedTerminal.questNameRules.rulesStrings.3>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.4>adj->villager's</Hack_WorshippedTerminal.questNameRules.rulesStrings.4>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.5>adj->village</Hack_WorshippedTerminal.questNameRules.rulesStrings.5>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.6>adj->tribal</Hack_WorshippedTerminal.questNameRules.rulesStrings.6>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.7>adj->secret</Hack_WorshippedTerminal.questNameRules.rulesStrings.7>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.8>terminalName(p=4)->terminal</Hack_WorshippedTerminal.questNameRules.rulesStrings.8>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.9>terminalName->machine</Hack_WorshippedTerminal.questNameRules.rulesStrings.9>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.10>terminalName->device</Hack_WorshippedTerminal.questNameRules.rulesStrings.10>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.11>terminalName->screen</Hack_WorshippedTerminal.questNameRules.rulesStrings.11>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.12>terminalName->computer</Hack_WorshippedTerminal.questNameRules.rulesStrings.12>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.13>terminalName->databank</Hack_WorshippedTerminal.questNameRules.rulesStrings.13>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.14>terminalName->database</Hack_WorshippedTerminal.questNameRules.rulesStrings.14>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings.15>terminalName->silicon</Hack_WorshippedTerminal.questNameRules.rulesStrings.15>
+  <Hack_WorshippedTerminal.questDescriptionRules.rulesStrings.0>questDescription->You've learned of an ancient terminal that contains information about the [relic_name]. However, the terminal is surrounded by a tribal village, and the locals venerate it. They aren't part of any major faction.\n\n[visitInfo]</Hack_WorshippedTerminal.questDescriptionRules.rulesStrings.0>
+  <Hack_WorshippedTerminal.questDescriptionRules.rulesStrings.1>visitInfo(allowViolentQuests==true)->They are willing to let you visit on the pretense of worshiping it, but they will attack when you touch it.\n\nYou can attack the village from the outside, or enter peacefully and try to quickly escape with the data from the terminal.\n\nBeware - If you spend over [timer_duration] in the village or build anything near it, the locals will attack, and call reinforcements.</Hack_WorshippedTerminal.questDescriptionRules.rulesStrings.1>
+  <Hack_WorshippedTerminal.questDescriptionRules.rulesStrings.2>visitInfo(allowViolentQuests==false)->They are willing to let you visit.</Hack_WorshippedTerminal.questDescriptionRules.rulesStrings.2>
+  <Hack_WorshippedTerminal.questContentRules.rulesStrings.0>terminalHackedMessage->Terminal hacked. You've collected the information and can now leave.</Hack_WorshippedTerminal.questContentRules.rulesStrings.0>
+</LanguageData>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TunnelJellySpawner.label>tunnel</TunnelJellySpawner.label>
+  <AncientTerminal.label>ancient terminal</AncientTerminal.label>
+  <AncientTerminal.description>An ancient computer terminal. It can be hacked to reveal long-forgotten information.</AncientTerminal.description>
+  <AncientEnemyTerminal.label>ancient enemy terminal</AncientEnemyTerminal.label>
+  <AncientEnemyTerminal.description>An ancient computer terminal. It can be hacked to call nearby enemies.</AncientEnemyTerminal.description>
+  <AncientHermeticCrate.label>hermetic crate</AncientHermeticCrate.label>
+  <AncientHermeticCrate.description>A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time.</AncientHermeticCrate.description>
+  <AncientSecurityCrate.label>security crate</AncientSecurityCrate.label>
+  <AncientSecurityCrate.description>A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system.</AncientSecurityCrate.description>
+  <AncientCommsConsole.label>ancient comms console</AncientCommsConsole.label>
+  <AncientCommsConsole.description>An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness.</AncientCommsConsole.description>
+  <AncientFuelNode.label>ancient unstable fuel node</AncientFuelNode.label>
+  <AncientFuelNode.description>An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance.</AncientFuelNode.description>
+  <AncientCryptosleepPod.label>ancient cryptosleep pod</AncientCryptosleepPod.label>
+  <AncientCryptosleepPod.description>A single-use pod for preserving one person in a state of suspended animation. Unlike cryptosleep caskets, cryptosleep pods can only be used once.</AncientCryptosleepPod.description>
+  <AncientSystemRack.label>ancient system rack</AncientSystemRack.label>
+  <AncientSystemRack.description>An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness.</AncientSystemRack.description>
+  <AncientEquipmentBlocks.label>ancient equipment blocks</AncientEquipmentBlocks.label>
+  <AncientEquipmentBlocks.description>A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness.</AncientEquipmentBlocks.description>
+  <AncientMachine.label>ancient machine</AncientMachine.label>
+  <AncientMachine.description>A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness.</AncientMachine.description>
+  <AncientStorageCylinder.label>ancient storage cylinder</AncientStorageCylinder.label>
+  <AncientStorageCylinder.description>An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness.</AncientStorageCylinder.description>
+  <AncientLamp.label>ancient lamp</AncientLamp.label>
+  <AncientLamp.description>An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow.</AncientLamp.description>
+  <AncientBed.label>ancient bed</AncientBed.label>
+  <AncientBed.description>An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore.</AncientBed.description>
+  <AncientDisplayBank.label>ancient display bank</AncientDisplayBank.label>
+  <AncientDisplayBank.description>An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness.</AncientDisplayBank.description>
+  <AncientLockerBank.label>ancient locker bank</AncientLockerBank.label>
+  <AncientLockerBank.description>An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind.</AncientLockerBank.description>
+  <AncientCrate.label>ancient crate</AncientCrate.label>
+  <AncientCrate.description>An ancient, broken crate. Any valuables it once contained have degraded to uselessness.</AncientCrate.description>
+  <AncientBarrel.label>ancient barrel</AncientBarrel.label>
+  <AncientBarrel.description>An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge.</AncientBarrel.description>
+  <AncientGenerator.label>ancient generator</AncientGenerator.label>
+  <AncientGenerator.description>An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness.</AncientGenerator.description>
+  <AncientOperatingTable.label>ancient operating table</AncientOperatingTable.label>
+  <AncientOperatingTable.description>A table once used for surgical operations. It has long since deteriorated into uselessness.</AncientOperatingTable.description>
+  <AncientShoppingCart.label>ancient shopping cart</AncientShoppingCart.label>
+  <AncientShoppingCart.description>An ancient, rusted shopping cart. How exactly it got here is a mystery, but the story is long and probably quite sad.</AncientShoppingCart.description>
+  <AncientPostbox.label>ancient postbox</AncientPostbox.label>
+  <AncientPostbox.description>An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason.</AncientPostbox.description>
+  <AncientVendingMachine.label>ancient vending machine</AncientVendingMachine.label>
+  <AncientVendingMachine.description>An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery.</AncientVendingMachine.description>
+  <AncientAirConditioner.label>ancient air conditioner</AncientAirConditioner.label>
+  <AncientAirConditioner.description>An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since.</AncientAirConditioner.description>
+  <AncientKitchenSink.label>ancient kitchen sink</AncientKitchenSink.label>
+  <AncientKitchenSink.description>An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story.</AncientKitchenSink.description>
+  <AncientStove.label>ancient stove</AncientStove.label>
+  <AncientStove.description>An ancient stove. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</AncientStove.description>
+  <AncientRefrigerator.label>ancient refrigerator</AncientRefrigerator.label>
+  <AncientRefrigerator.description>An ancient refrigerator. It was stripped of interesting parts long ago.</AncientRefrigerator.description>
+  <AncientSmallCrate.label>ancient small crate</AncientSmallCrate.label>
+  <AncientSmallCrate.description>A small, empty crate which was abandoned ages ago. It's too rusted to store anything.</AncientSmallCrate.description>
+  <AncientLongCrate.label>ancient long crate</AncientLongCrate.label>
+  <AncientLongCrate.description>A long, empty crate which was abandoned ages ago. It's too rusted to store anything.</AncientLongCrate.description>
+  <AncientLargeCrate.label>ancient large crate</AncientLargeCrate.label>
+  <AncientLargeCrate.description>A large crate which was abandoned ages ago. It's too rusted to store anything.</AncientLargeCrate.description>
+  <AncientWheel.label>ancient wheel</AncientWheel.label>
+  <AncientWheel.description>An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted.</AncientWheel.description>
+  <AncientGiantWheel.label>ancient giant wheel</AncientGiantWheel.label>
+  <AncientGiantWheel.description>A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted.</AncientGiantWheel.description>
+  <AncientRustedCar.label>ancient car</AncientRustedCar.label>
+  <AncientRustedCar.description>An ancient, broken car. Everything that isn't rusted away was looted long ago.</AncientRustedCar.description>
+  <AncientRustedJeep.label>ancient troop carrier</AncientRustedJeep.label>
+  <AncientRustedJeep.description>An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago.</AncientRustedJeep.description>
+  <AncientRustedCarFrame.label>ancient car frame</AncientRustedCarFrame.label>
+  <AncientRustedCarFrame.description>An ancient, rusted car frame. The body shell has long since rusted away to nothing.</AncientRustedCarFrame.description>
+  <AncientWarwalkerTorso.label>ancient warwalker torso</AncientWarwalkerTorso.label>
+  <AncientWarwalkerTorso.description>The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago.</AncientWarwalkerTorso.description>
+  <AncientWarwalkerClaw.label>ancient warwalker claw</AncientWarwalkerClaw.label>
+  <AncientWarwalkerClaw.description>The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago.</AncientWarwalkerClaw.description>
+  <AncientWarwalkerLeg.label>ancient warwalker leg</AncientWarwalkerLeg.label>
+  <AncientWarwalkerLeg.description>The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain.</AncientWarwalkerLeg.description>
+  <AncientMiniWarwalkerRemains.label>ancient warsprinter remains</AncientMiniWarwalkerRemains.label>
+  <AncientMiniWarwalkerRemains.description>The shattered remains of an ancient sub-scale warsprinter. Whatever parts weren't ruined when it was destroyed were looted long ago.</AncientMiniWarwalkerRemains.description>
+  <AncientWarspiderRemains.label>ancient warspider remains</AncientWarspiderRemains.label>
+  <AncientWarspiderRemains.description>The ruined remains of an ancient mid-scale warspider. It has been picked over many times, and there is nothing valuable left to loot.</AncientWarspiderRemains.description>
+  <AncientPipelineSection.label>ancient pipeline section</AncientPipelineSection.label>
+  <AncientPipelineSection.description>A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness.</AncientPipelineSection.description>
+  <AncientWarwalkerFoot.label>ancient warwalker foot</AncientWarwalkerFoot.label>
+  <AncientWarwalkerFoot.description>A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago.</AncientWarwalkerFoot.description>
+  <AncientTank.label>ancient ruined tank</AncientTank.label>
+  <AncientTank.description>The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago.</AncientTank.description>
+  <AncientWarwalkerShell.label>ancient warwalker shell</AncientWarwalkerShell.label>
+  <AncientWarwalkerShell.description>Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated.</AncientWarwalkerShell.description>
+  <AncientJetEngine.label>ancient jet engine</AncientJetEngine.label>
+  <AncientJetEngine.description>An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago.</AncientJetEngine.description>
+  <AncientPodCar.label>ancient pod car</AncientPodCar.label>
+  <AncientPodCar.description>An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated.</AncientPodCar.description>
+  <AncientFence.label>ancient fence</AncientFence.label>
+  <AncientFence.description>An ancient fence made of reinforced concrete posts joined by concrete panels.</AncientFence.description>
+  <AncientRazorWire.label>ancient razor wire</AncientRazorWire.label>
+  <AncientRazorWire.description>A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger.</AncientRazorWire.description>
+  <AncientMegaCannonTripod.label>ancient mega-cannon platform</AncientMegaCannonTripod.label>
+  <AncientMegaCannonTripod.description>A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago.</AncientMegaCannonTripod.description>
+  <AncientMegaCannonBarrel.label>ancient mega-cannon barrel</AncientMegaCannonBarrel.label>
+  <AncientMegaCannonBarrel.description>A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted.</AncientMegaCannonBarrel.description>
+  <AncientTankTrap.label>ancient tank trap</AncientTankTrap.label>
+  <AncientTankTrap.description>An defensive fortification for stopping vehicles. It's been deteriorating for many years.</AncientTankTrap.description>
+  <AncientMechanoidShell.label>ancient mechanoid shell</AncientMechanoidShell.label>
+  <AncientMechanoidShell.description>A shell from a smashed mechanoid. It has been deteriorating for many years and the useful components have disintegrated.</AncientMechanoidShell.description>
+  <AncientMechDropBeacon.label>ancient mech drop beacon</AncientMechDropBeacon.label>
+  <AncientMechDropBeacon.description>The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years.</AncientMechDropBeacon.description>
+  <AncientSecurityTurret.label>ancient security turret</AncientSecurityTurret.label>
+  <AncientSecurityTurret.description>An ancient, broken security turret. The valuable parts have all been looted or smashed.</AncientSecurityTurret.description>
+  <AncientRustedEngineBlock.label>ancient engine block</AncientRustedEngineBlock.label>
+  <AncientRustedEngineBlock.description>An ancient engine block that is rusted through. No repair could salvage this.</AncientRustedEngineBlock.description>
+  <AncientLargeRustedEngineBlock.label>ancient macro-engine block</AncientLargeRustedEngineBlock.label>
+  <AncientLargeRustedEngineBlock.description>An large, ancient engine block from some giant vehicle or power source. It's rusted through, and all the useful components are gone. No repair could salvage this.</AncientLargeRustedEngineBlock.description>
+  <AncientShipBeacon.label>ancient nav beacon</AncientShipBeacon.label>
+  <AncientShipBeacon.description>An ancient, broken ship navigation beacon. Every useful component was looted long ago.</AncientShipBeacon.description>
+  <SculptureTerror.label>terror sculpture</SculptureTerror.label>
+  <SculptureTerror.description>A person-sized piece of material sculpted into a threatening form. Slaves who spend time around it will feel terror, which makes them stay suppressed for longer and thus reduces slave rebellions.</SculptureTerror.description>
+  <Spacedrone.label>spacedrone</Spacedrone.label>
+  <Spacedrone.description>An ancient ultratech spacedrone.</Spacedrone.description>
+  <Altar_Small.label>small altar</Altar_Small.label>
+  <Altar_Small.description>A small platform that plays a role in ideoligious rituals.</Altar_Small.description>
+  <Altar_Medium.label>medium altar</Altar_Medium.label>
+  <Altar_Medium.description>A medium platform that plays a role in ideoligious rituals.</Altar_Medium.description>
+  <Altar_Large.label>large altar</Altar_Large.label>
+  <Altar_Large.description>A large platform that plays a role in ideoligious rituals.</Altar_Large.description>
+  <Altar_Grand.label>grand altar</Altar_Grand.label>
+  <Altar_Grand.description>A grand platform that plays a role in ideoligious rituals.</Altar_Grand.description>
+  <Ideogram.label>ideogram</Ideogram.label>
+  <Ideogram.description>A large image drawn on the ground and reinforced with metal edges. It is used as a focus for rituals.</Ideogram.description>
+  <Darklamp.label>standing darklamp</Darklamp.label>
+  <Darklamp.description>A low-powered electrical standing lamp that emits a dim light over a large area. People who prefer to work in darklight are happy with this light source.</Darklamp.description>
+  <Darktorch.label>darktorch</Darktorch.label>
+  <Darktorch.description>A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat.</Darktorch.description>
+  <DarktorchFungus.label>fungus darktorch</DarktorchFungus.label>
+  <DarktorchFungus.description>A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat.</DarktorchFungus.description>
+  <SleepAccelerator.label>sleep accelerator</SleepAccelerator.label>
+  <SleepAccelerator.description>A bedside device that accelerates the sleeper's circadian rhythm. This speeds up sleep, but consumes a lot of electricity and also causes increased hunger. It must be placed directly adjacent to and facing the head of the bed. Placing more than one sleep accelerator near the same bed has no effect.</SleepAccelerator.description>
+  <BiosculpterPod.label>biosculpter pod</BiosculpterPod.label>
+  <BiosculpterPod.description>An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations.</BiosculpterPod.description>
+  <BiosculpterPod.comps.3.label>healing</BiosculpterPod.comps.3.label>
+  <BiosculpterPod.comps.3.description>Heal all fresh wounds and one random permanent injury.</BiosculpterPod.comps.3.description>
+  <BiosculpterPod.comps.4.label>age reversal</BiosculpterPod.comps.4.label>
+  <BiosculpterPod.comps.4.description>Reverse one year of aging.</BiosculpterPod.comps.4.description>
+  <BiosculpterPod.comps.5.label>pleasure</BiosculpterPod.comps.5.label>
+  <BiosculpterPod.comps.5.description>Temporarily reshape the nervous system to deliver elevated levels of happiness for a time.</BiosculpterPod.comps.5.description>
+  <NeuralSupercharger.label>neural supercharger</NeuralSupercharger.label>
+  <NeuralSupercharger.description>A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity.</NeuralSupercharger.description>
+  <NeuralSupercharger.comps.2.jobString>Get neural supercharge</NeuralSupercharger.comps.2.jobString>
+  <ChristmasTree.label>christmas tree</ChristmasTree.label>
+  <ChristmasTree.description>A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations.</ChristmasTree.description>
+  <CannibalPlatter.label>cannibal platter</CannibalPlatter.label>
+  <CannibalPlatter.description>An area of floor covered with pre-chopped and arranged human meat ready for a cannibal feast.</CannibalPlatter.description>
+  <Effigy.label>effigy</Effigy.label>
+  <Effigy.description>A rough wooden frame in the shape of a human, ready to be burned as part of a ritual.</Effigy.description>
+  <SacrificialFlag.label>sacrificial flag</SacrificialFlag.label>
+  <SacrificialFlag.description>A flag representing enemies, ready to be burned as part of a ritual.</SacrificialFlag.description>
+  <Pyre.label>pyre</Pyre.label>
+  <Pyre.description>A wooden tower for ritual burning.</Pyre.description>
+  <Burnbong.label>burnbong</Burnbong.label>
+  <Burnbong.description>A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed.</Burnbong.description>
+  <IncenseShrine.label>incense shrine</IncenseShrine.label>
+  <IncenseShrine.description>A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down.</IncenseShrine.description>
+  <RitualSpot.label>ritual spot</RitualSpot.label>
+  <RitualSpot.description>A spot for carrying out certain kinds of rituals.</RitualSpot.description>
+  <Lectern.label>lectern</Lectern.label>
+  <Lectern.description>A slanted platform that holds a text in front of a speaker. Place it near the focus of rituals and speeches to extend the duration of their positive effects.</Lectern.description>
+  <Reliquary.label>reliquary</Reliquary.label>
+  <Reliquary.description>A ceremonial building that protects and displays a relic. Relics are ancient objects venerated by believers of a specific ideoligion.</Reliquary.description>
+  <StylingStation.label>styling station</StylingStation.label>
+  <StylingStation.description>A table with a mirror and styling tools. People can use this to change their look.</StylingStation.description>
+  <GibbetCage.label>gibbet cage</GibbetCage.label>
+  <GibbetCage.description>A steel cage for holding and displaying corpses. This horrifying sight inspires terror and disgust in observers. It is an especially brutal and effective way to terrorize slaves.</GibbetCage.description>
+  <LightBall.label>lightball</LightBall.label>
+  <LightBall.description>A decorative light that rotates and changes colors. Used as a focus for dance parties.</LightBall.description>
+  <Loudspeaker.label>loudspeaker</Loudspeaker.label>
+  <Loudspeaker.description>A large loudspeaker for playing music. At least one is necessary to hold a dance party, and more loudspeakers will enhance the effect.</Loudspeaker.description>
+  <Drum.label>drum</Drum.label>
+  <Drum.description>A large wooden drum used as a music source for tribal rituals and parties.</Drum.description>
+  <Pew.label>pew</Pew.label>
+  <Pew.description>A long bench where ritual participants can sit while listening to a speaker. Place it facing rituals and speeches to extend the duration of their positive effects.</Pew.description>
+  <KneelSheet.label>kneel sheet</KneelSheet.label>
+  <KneelSheet.description>A sheet on which believers kneel while observing rituals, praying, or discussing.</KneelSheet.description>
+  <KneelPillow.label>kneel pillow</KneelPillow.label>
+  <KneelPillow.description>A pillow on which believers kneel while observing rituals, praying, or discussing.</KneelPillow.description>
+  <PlantPot_Bonsai.label>bonsai pot</PlantPot_Bonsai.label>
+  <PlantPot_Bonsai.description>This special pot is suitable for planting bonsai trees, which can improve the mood of people nearby and satisfy ideoligious requirements.</PlantPot_Bonsai.description>
+  <SlabBed.label>slab bed</SlabBed.label>
+  <SlabBed.description>A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good.</SlabBed.description>
+  <SlabDoubleBed.label>slab double bed</SlabDoubleBed.label>
+  <SlabDoubleBed.description>A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. This one is wide enough to fit two people.</SlabDoubleBed.description>
+  <Skullspike.label>skullspike</Skullspike.label>
+  <Skullspike.description>A spike mounted upright for the purpose of piercing and displaying a human skill. To some, displayed skulls are a symbol of power. To others, they represent barbaric evil. Skullspikes are an especially brutal and effective way to terrorize slaves.</Skullspike.description>
+  <DryadCocoon.label>dryad cocoon</DryadCocoon.label>
+  <DryadCocoon.description>A sphere of fibrous plant matter. A dryad inside is slowly morphing into a new form. Gauranlen trees grow these spheres to help protect the dryads as they morph.</DryadCocoon.description>
+  <GaumakerCocoon.label>gaumaker pod</GaumakerCocoon.label>
+  <GaumakerCocoon.description>The result of the merging of several Gaumaker dryads, this symbiotic plant/animal pod is an essential part of the Gauranlen life cycle. After some time, it will flower into a mature Gauranlen pod which can be harvested to plant a new Gauranlen tree.</GaumakerCocoon.description>
+  <Autobong.label>autobong</Autobong.label>
+  <Autobong.description>An automatic smokeleaf-burning device which generates a smoke cloud around itself. Anyone in the cloud will become high on smokeleaf over time.</Autobong.description>
+  <ArchonexusCore.label>archonexus core</ArchonexusCore.label>
+  <ArchonexusCore.description>The central core of an archonexus. Its broad surfaces are perfectly clean, and they somehow appear both flat and curved at the same time.\n\nTo most, its purpose seems unknowable. However, some say this is part of an archotech itself, and that the one who finds it can invoke the power of the machine god.\n\nThe psychic power it emanates is terrifyingly loud and complex, yet dead silent. It is heard without ears, felt without skin, seen without eyes, known without memory. It is the thoughts of a being from another plane of existence. The perceptions are reflected directly into any human mind who ventures too close, and few can hold onto their humanity for long under such mental pressure. Only the psychically-deaf are immune.</ArchonexusCore.description>
+  <GrandArchotechStructure.label>grand archotech structure</GrandArchotechStructure.label>
+  <GrandArchotechStructure.description>A grand archotech structure of towering height and impressive bulk. The shape is hard to perceive, and the surfaces seem to flow when stared at too long. It could have appeared moments ago, or been here thousands of years.\n\nIt emanates intense psychic influence, forcing thoughts and perceptions directly into the mind of anyone who ventures too close. The emanations are not aggressive, but they are utterly alien and impossible to ignore. Sensations unlinked from time or space, the endless rumination of an inhuman mind a billion times larger - the weak-minded lose themselves quickly under. Only the psychically-deaf are immune.</GrandArchotechStructure.description>
+  <MajorArchotechStructure.label>major archotech structure</MajorArchotechStructure.label>
+  <MajorArchotechStructure.description>A large archotech structure. The dull green surface is utterly pristine and undamaged, and so smooth that it's slippery. There is no way to guess how long it has been here, and its purpose seems unfathomable.\n\nThe psychic power it emanates isn't aggressive, but it is overwhelming and inhuman. Like standing inside a threshing machine of whirling blades, inside the heartbeat of a sleeping giant, inside a tight tunnel and you can't move or speak or breathe... Anyone who goes near it will become unsettled unless they are psychically deaf.</MajorArchotechStructure.description>
+  <MajorArchotechStructureStudiable.label>major archotech structure</MajorArchotechStructureStudiable.label>
+  <MajorArchotechStructureStudiable.description>A large archotech structure. The dull green surface is utterly pristine and undamaged, and so smooth that it's slippery. There is no way to guess how long it has been here, and its purpose seems unfathomable.\n\nThe psychic power it emanates isn't aggressive, but it is overwhelming and inhuman. Like standing inside a threshing machine of whirling blades, inside the heartbeat of a sleeping giant, inside a tight tunnel and you can't move or speak or breathe... Anyone who goes near it will become unsettled unless they are psychically deaf.</MajorArchotechStructureStudiable.description>
+  <ArchotechTower.label>archotech tower</ArchotechTower.label>
+  <ArchotechTower.description>A moderately-sized archotech tower rising from the ground. Traces along its surface glow steadily with a strange color. Humans can only begin to guess at its purpose.</ArchotechTower.description>
+  <Apparel_Headwrap.label>headwrap</Apparel_Headwrap.label>
+  <Apparel_Headwrap.description>A wrapped piece of fabric which covers the wearer's hair.</Apparel_Headwrap.description>
+  <Apparel_Broadwrap.label>broadwrap</Apparel_Broadwrap.label>
+  <Apparel_Broadwrap.description>Wrapped fabric sheets that loosely cover the wearer's head and shoulders.</Apparel_Broadwrap.description>
+  <Apparel_VisageMask.label>visage mask</Apparel_VisageMask.label>
+  <Apparel_VisageMask.description>A hard facial mask that resembles a stylized face.</Apparel_VisageMask.description>
+  <Apparel_Slicecap.label>slicecap</Apparel_Slicecap.label>
+  <Apparel_Slicecap.description>A hard cap that partly covers the wearer's scalp.</Apparel_Slicecap.description>
+  <Apparel_Collar.label>slave collar</Apparel_Collar.label>
+  <Apparel_Collar.description>An uncomfortable collar made for slaves. It reminds the wearer of their slave status and psychologically suppresses them, reducing the chance of a slave rebellion.</Apparel_Collar.description>
+  <Apparel_AuthorityCap.label>authority cap</Apparel_AuthorityCap.label>
+  <Apparel_AuthorityCap.description>A hat with a stiff brim and peaked top. It's not particularly protective, but it creates a sense of authority and makes the wearer more effective in suppressing slaves.</Apparel_AuthorityCap.description>
+  <Apparel_Tailcap.label>tailcap</Apparel_Tailcap.label>
+  <Apparel_Tailcap.description>A thick cap made from animal skin with a stylish bushy tail. Great for keeping warm in winter.</Apparel_Tailcap.description>
+  <Apparel_Shadecone.label>shadecone</Apparel_Shadecone.label>
+  <Apparel_Shadecone.description>A conical woven hat. Good for keeping cool during long hours in the sun.</Apparel_Shadecone.description>
+  <Apparel_Flophat.label>flophat</Apparel_Flophat.label>
+  <Apparel_Flophat.description>A large, thick cap, similar to a tuque. It has extra fabric along the back.</Apparel_Flophat.description>
+  <Apparel_BodyStrap.label>slave body strap</Apparel_BodyStrap.label>
+  <Apparel_BodyStrap.description>An uncomfortable arrangement of straps around the torso made for slaves. It reminds the wearer of their slave status and psychologically suppresses them, reducing the chance of a slave rebellion.</Apparel_BodyStrap.description>
+  <Apparel_Burka.label>burka</Apparel_Burka.label>
+  <Apparel_Burka.description>A large garment that conceals the wearer's entire head and body.</Apparel_Burka.description>
+  <Apparel_Robe.label>robe</Apparel_Robe.label>
+  <Apparel_Robe.description>A long, flowing robe without a hood.</Apparel_Robe.description>
+  <Apparel_TortureCrown.label>torture crown</Apparel_TortureCrown.label>
+  <Apparel_TortureCrown.description>A crown-like headpiece with stubby inward-facing spikes that poke the head. It is used to induce pain in the wearer.</Apparel_TortureCrown.description>
+  <Apparel_Blindfold.label>blindfold</Apparel_Blindfold.label>
+  <Apparel_Blindfold.description>A long strip of cloth that is wrapped over the eyes to block vision.</Apparel_Blindfold.description>
+  <SpacedroneIncoming.label>spacedrone (incoming)</SpacedroneIncoming.label>
+  <SkyLantern.label>skylantern</SkyLantern.label>
+  <Filth_DriedBlood.label>dried blood</Filth_DriedBlood.label>
+  <Filth_ScatteredDocuments.label>scattered documents</Filth_ScatteredDocuments.label>
+  <Filth_MoldyUniform.label>ragged uniform</Filth_MoldyUniform.label>
+  <Filth_PodSlime.label>pod slime</Filth_PodSlime.label>
+  <Filth_OilSmear.label>oil smear</Filth_OilSmear.label>
+  <MorbidSlab_Medium.label>morbid slab (medium)</MorbidSlab_Medium.label>
+  <MorbidSlab_Medium.description>A stone bas relief of morbid imagery for decorating a floor.</MorbidSlab_Medium.description>
+  <MorbidSlab_Broad.label>morbid slab (broad)</MorbidSlab_Broad.label>
+  <MorbidSlab_Broad.description>A stone bas relief of morbid imagery for decorating a floor.</MorbidSlab_Broad.description>
+  <TotemicSlab_Medium.label>totemic slab (medium)</TotemicSlab_Medium.label>
+  <TotemicSlab_Medium.description>A wooden bas relief of totemic imagery for decorating a floor.</TotemicSlab_Medium.description>
+  <TotemicSlab_Broad.label>totemic slab (broad)</TotemicSlab_Broad.label>
+  <TotemicSlab_Broad.description>A wooden bas relief of totemic imagery for decorating a floor.</TotemicSlab_Broad.description>
+  <SpikecoreFloorStar_Medium.label>spikecore floor-star (medium)</SpikecoreFloorStar_Medium.label>
+  <SpikecoreFloorStar_Medium.description>A radial arrangement of metal pieces in a spikecore style, for decorating a floor.</SpikecoreFloorStar_Medium.description>
+  <SpikecoreFloorStar_Broad.label>spikecore floor-star (broad)</SpikecoreFloorStar_Broad.label>
+  <SpikecoreFloorStar_Broad.description>A radial arrangement of metal pieces in a spikecore style, for decorating a floor.</SpikecoreFloorStar_Broad.description>
+  <RusticRug_Medium.label>rustic rug (medium)</RusticRug_Medium.label>
+  <RusticRug_Medium.description>A homey rug with a rustic-style pattern, for decorating a floor.</RusticRug_Medium.description>
+  <RusticRug_Broad.label>rustic rug (broad)</RusticRug_Broad.label>
+  <RusticRug_Broad.description>A homey rug with a rustic-style pattern, for decorating a floor.</RusticRug_Broad.description>
+  <AnimalistSlab_Medium.label>animalist slab (medium)</AnimalistSlab_Medium.label>
+  <AnimalistSlab_Medium.description>A wooden bas relief of animalist imagery for decorating a floor.</AnimalistSlab_Medium.description>
+  <AnimalistSlab_Broad.label>animalist slab (broad)</AnimalistSlab_Broad.label>
+  <AnimalistSlab_Broad.description>A wooden bas relief of animalist imagery for decorating a floor.</AnimalistSlab_Broad.description>
+  <Skull.label>skull</Skull.label>
+  <Skull.description>A human skull.</Skull.description>
+  <RelicInertCup.description>An object with ideoligious significance.</RelicInertCup.description>
+  <RelicInertCup.label>chalice</RelicInertCup.label>
+  <RelicInertPendant.description>An object with ideoligious significance.</RelicInertPendant.description>
+  <RelicInertPendant.label>pendant</RelicInertPendant.label>
+  <RelicInertBox.description>An object with ideoligious significance.</RelicInertBox.description>
+  <RelicInertBox.label>box</RelicInertBox.label>
+  <RelicInertTablet.description>An object with ideoligious significance.</RelicInertTablet.description>
+  <RelicInertTablet.label>tablet</RelicInertTablet.label>
+  <RelicInertFragment.description>An object with ideoligious significance.</RelicInertFragment.description>
+  <RelicInertFragment.label>fragment</RelicInertFragment.label>
+  <RelicInertSwordHandle.description>An object with ideoligious significance.</RelicInertSwordHandle.description>
+  <RelicInertSwordHandle.label>hilt</RelicInertSwordHandle.label>
+  <RelicInertArk.description>An object with ideoligious significance.</RelicInertArk.description>
+  <RelicInertArk.label>ark</RelicInertArk.label>
+  <RelicInertCube.description>An object with ideoligious significance.</RelicInertCube.description>
+  <RelicInertCube.label>cube</RelicInertCube.label>
+  <Nutrifungus.label>nutrifungus</Nutrifungus.label>
+  <Nutrifungus.description>A meaty bioengineered mushroom grown for its nutritious value. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it.</Nutrifungus.description>
+  <Plant_TreeBonsai.label>bonsai tree</Plant_TreeBonsai.label>
+  <Plant_TreeBonsai.description>A small tree, pruned and shaped to look visually pleasing.</Plant_TreeBonsai.description>
+  <Plant_Fibercorn.label>fibercorn</Plant_Fibercorn.label>
+  <Plant_Fibercorn.description>An inedible, fibrous plant which produces a small amount of a wood-like substance.</Plant_Fibercorn.description>
+  <Plant_Timbershroom.label>timbershroom</Plant_Timbershroom.label>
+  <Plant_Timbershroom.description>A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance.</Plant_Timbershroom.description>
+  <Plant_TreeGauranlen.label>Gauranlen tree</Plant_TreeGauranlen.label>
+  <Plant_TreeGauranlen.description>A large, distinctive-looking tree with a unique life-cycle. Each Gauranlen tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a Gauranlen tree and partially control the dryads it produces.\n\nSome say Gauranlen trees are the homes of nature spirits that follow humanity across worlds.</Plant_TreeGauranlen.description>
+  <Plant_MossGauranlen.label>Gauranlen moss</Plant_MossGauranlen.label>
+  <Plant_MossGauranlen.description>Symbiotic moss that grows near Gauranlen trees.</Plant_MossGauranlen.description>
+  <Plant_PodGauranlen.label>Gauranlen pod</Plant_PodGauranlen.label>
+  <Plant_PodGauranlen.description>A small pod that protects a single Gauranlen seed. This seed can be harvested and used to plant a Gauranlen tree.</Plant_PodGauranlen.description>
+  <GauranlenSeed.label>Gauranlen seed</GauranlenSeed.label>
+  <GauranlenSeed.description>The seed of a Gauranlan tree. It can be planted to create a new Gauranlen tree.</GauranlenSeed.description>
+  <Plant_Tinctoria.label>tinctoria</Plant_Tinctoria.label>
+  <Plant_Tinctoria.description>A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to dye apparel.</Plant_Tinctoria.description>
+  <Dye.label>dye</Dye.label>
+  <Dye.description>Dye extracted from a tinctoria plant. It can be transformed into various colors to dye apparel.</Dye.description>
+  <Dryad_Basic.tools.0.label>left claw</Dryad_Basic.tools.0.label>
+  <Dryad_Basic.tools.1.label>right claw</Dryad_Basic.tools.1.label>
+  <Dryad_Basic.tools.3.label>head</Dryad_Basic.tools.3.label>
+  <Dryad_Basic.label>immature dryad</Dryad_Basic.label>
+  <Dryad_Basic.description>Dryads are small mammalian creatures that have a symbiotic relationship with the Gauranlen tree. This immature dryad can support and protect its tree, but its main purpose is to morph into more specialized and powerful dryad forms.</Dryad_Basic.description>
+  <Dryad_Woodmaker.tools.0.label>left claw</Dryad_Woodmaker.tools.0.label>
+  <Dryad_Woodmaker.tools.1.label>right claw</Dryad_Woodmaker.tools.1.label>
+  <Dryad_Woodmaker.tools.3.label>head</Dryad_Woodmaker.tools.3.label>
+  <Dryad_Woodmaker.label>woodmaker dryad</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.description>A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Woodmaker.description>
+  <Dryad_Berrymaker.tools.0.label>left claw</Dryad_Berrymaker.tools.0.label>
+  <Dryad_Berrymaker.tools.1.label>right claw</Dryad_Berrymaker.tools.1.label>
+  <Dryad_Berrymaker.tools.3.label>head</Dryad_Berrymaker.tools.3.label>
+  <Dryad_Berrymaker.label>berrymaker dryad</Dryad_Berrymaker.label>
+  <Dryad_Berrymaker.description>A dryad caste specialized in food production. Together with its Gauranlen tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Berrymaker.description>
+  <Dryad_Medicinemaker.tools.0.label>left claw</Dryad_Medicinemaker.tools.0.label>
+  <Dryad_Medicinemaker.tools.1.label>right claw</Dryad_Medicinemaker.tools.1.label>
+  <Dryad_Medicinemaker.tools.3.label>head</Dryad_Medicinemaker.tools.3.label>
+  <Dryad_Medicinemaker.label>medicinemaker dryad</Dryad_Medicinemaker.label>
+  <Dryad_Medicinemaker.description>A dryad caste specialized in medicine production. Together with its Gauranlen tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Medicinemaker.description>
+  <Dryad_Gaumaker.tools.0.label>left claw</Dryad_Gaumaker.tools.0.label>
+  <Dryad_Gaumaker.tools.1.label>right claw</Dryad_Gaumaker.tools.1.label>
+  <Dryad_Gaumaker.tools.3.label>head</Dryad_Gaumaker.tools.3.label>
+  <Dryad_Gaumaker.label>gaumaker dryad</Dryad_Gaumaker.label>
+  <Dryad_Gaumaker.description>A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Gaumaker.description>
+  <Dryad_Carrier.tools.0.label>left claw</Dryad_Carrier.tools.0.label>
+  <Dryad_Carrier.tools.1.label>right claw</Dryad_Carrier.tools.1.label>
+  <Dryad_Carrier.tools.3.label>head</Dryad_Carrier.tools.3.label>
+  <Dryad_Carrier.label>carrier dryad</Dryad_Carrier.label>
+  <Dryad_Carrier.description>A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Carrier.description>
+  <Dryad_Clawer.tools.0.label>left claw</Dryad_Clawer.tools.0.label>
+  <Dryad_Clawer.tools.1.label>right claw</Dryad_Clawer.tools.1.label>
+  <Dryad_Clawer.tools.3.label>head</Dryad_Clawer.tools.3.label>
+  <Dryad_Clawer.label>clawer dryad</Dryad_Clawer.label>
+  <Dryad_Clawer.description>A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Though it can do tremendous damage, it is vulnerable to attacks itself.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Clawer.description>
+  <Dryad_Barkskin.tools.0.label>left claw</Dryad_Barkskin.tools.0.label>
+  <Dryad_Barkskin.tools.1.label>right claw</Dryad_Barkskin.tools.1.label>
+  <Dryad_Barkskin.tools.3.label>head</Dryad_Barkskin.tools.3.label>
+  <Dryad_Barkskin.label>barkskin dryad</Dryad_Barkskin.label>
+  <Dryad_Barkskin.description>A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Barkskin.description>
+</LanguageData>

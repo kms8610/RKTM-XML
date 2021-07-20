@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MaleSupremacy.label>male supremacy</MaleSupremacy.label>
+  <MaleSupremacy.description>Men are the superior gender and should rule.</MaleSupremacy.description>
+  <MaleSupremacy.generalRules.rulesStrings.0>memeAdjective->masculine</MaleSupremacy.generalRules.rulesStrings.0>
+  <MaleSupremacy.generalRules.rulesStrings.1>memeAdjective->manly</MaleSupremacy.generalRules.rulesStrings.1>
+  <MaleSupremacy.generalRules.rulesStrings.2>memeHyphenPrefix->man</MaleSupremacy.generalRules.rulesStrings.2>
+  <MaleSupremacy.generalRules.rulesStrings.3>memeHyphenPrefix->andro</MaleSupremacy.generalRules.rulesStrings.3>
+  <MaleSupremacy.generalRules.rulesStrings.4>memeHyphenPrefix->patro</MaleSupremacy.generalRules.rulesStrings.4>
+  <MaleSupremacy.generalRules.rulesStrings.5>memeConcept->man</MaleSupremacy.generalRules.rulesStrings.5>
+  <MaleSupremacy.generalRules.rulesStrings.6>memeConcept->masculinity</MaleSupremacy.generalRules.rulesStrings.6>
+  <MaleSupremacy.generalRules.rulesStrings.7>memeGod->Father</MaleSupremacy.generalRules.rulesStrings.7>
+  <MaleSupremacy.generalRules.rulesStrings.8>memeLeaderNoun->man</MaleSupremacy.generalRules.rulesStrings.8>
+  <MaleSupremacy.generalRules.rulesStrings.9>memeLeaderNoun->beard</MaleSupremacy.generalRules.rulesStrings.9>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_MaleSupremacy)        ->[deity0_name] gave strength to men, that they may protect and maintain the weak women and children, and admonished those who upset this divine order.</MaleSupremacy.descriptionMaker.rules.rulesStrings.0>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name] said to all, "The strength of man is given that he may protect and maintain woman, and she shall never usurp his power."</MaleSupremacy.descriptionMaker.rules.rulesStrings.1>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.2>setup(tag=meme_MaleSupremacy)           ->In a world of weak, simpering men begging for female approval, [founderName] reconnected with masculine power and used it to make a new movement.</MaleSupremacy.descriptionMaker.rules.rulesStrings.2>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.3>story(uses=1,tag=meme_MaleSupremacy)    ->The women believers wheedled and whined, so [founderName] cast them out of the council of leaders.</MaleSupremacy.descriptionMaker.rules.rulesStrings.3>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.4>lessonIntro(tag=meme_MaleSupremacy)         ->I made things simple for with her, but this woman just wouldn't get it. Through her whiny resistance to the truth I came to understand that</MaleSupremacy.descriptionMaker.rules.rulesStrings.4>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.5>lesson(tag=meme_MaleSupremacy)              ->men are the only ones with the wisdom and strength to rule</MaleSupremacy.descriptionMaker.rules.rulesStrings.5>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.6>lessonReinforcement(tag=meme_MaleSupremacy) ->My wife even tried to argue with me about this - can you believe it? It wasn't hard to shut her up.</MaleSupremacy.descriptionMaker.rules.rulesStrings.6>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.7>archistBasis(tag=meme_MaleSupremacy)    ->Humanity is the father of the archotechs, but the strength of the son exceeds that of the father.</MaleSupremacy.descriptionMaker.rules.rulesStrings.7>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.8>archistFact(tag=meme_MaleSupremacy)     ->The archotechs are paternal and protect humanity, although humanity does not understand how.</MaleSupremacy.descriptionMaker.rules.rulesStrings.8>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.9>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd], the archotechs will finally unlock the strength of men, so that they may lead humanity to transcendence.</MaleSupremacy.descriptionMaker.rules.rulesStrings.9>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.10>animistFact(tag=meme_MaleSupremacy)     ->The most powerful spirits are those of men, and spirits of men will be restless unless men rule.</MaleSupremacy.descriptionMaker.rules.rulesStrings.10>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings.11>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a man will wield the spirit of the [relic0_name] and destroy the destroyer.</MaleSupremacy.descriptionMaker.rules.rulesStrings.11>
+  <MaleSupremacy.symbolPacks.0.adjective>masculist</MaleSupremacy.symbolPacks.0.adjective>
+  <MaleSupremacy.symbolPacks.1.adjective>manist</MaleSupremacy.symbolPacks.1.adjective>
+  <MaleSupremacy.symbolPacks.2.adjective>virile</MaleSupremacy.symbolPacks.2.adjective>
+  <FemaleSupremacy.label>female supremacy</FemaleSupremacy.label>
+  <FemaleSupremacy.description>Women are the superior gender and should rule.</FemaleSupremacy.description>
+  <FemaleSupremacy.generalRules.rulesStrings.0>memeAdjective->feminine</FemaleSupremacy.generalRules.rulesStrings.0>
+  <FemaleSupremacy.generalRules.rulesStrings.1>memeAdjective->womanly</FemaleSupremacy.generalRules.rulesStrings.1>
+  <FemaleSupremacy.generalRules.rulesStrings.2>memeHyphenPrefix->woman</FemaleSupremacy.generalRules.rulesStrings.2>
+  <FemaleSupremacy.generalRules.rulesStrings.3>memeHyphenPrefix->fem</FemaleSupremacy.generalRules.rulesStrings.3>
+  <FemaleSupremacy.generalRules.rulesStrings.4>memeHyphenPrefix->gyno</FemaleSupremacy.generalRules.rulesStrings.4>
+  <FemaleSupremacy.generalRules.rulesStrings.5>memeHyphenPrefix->matro</FemaleSupremacy.generalRules.rulesStrings.5>
+  <FemaleSupremacy.generalRules.rulesStrings.6>memeConcept->woman</FemaleSupremacy.generalRules.rulesStrings.6>
+  <FemaleSupremacy.generalRules.rulesStrings.7>memeConcept->femininity</FemaleSupremacy.generalRules.rulesStrings.7>
+  <FemaleSupremacy.generalRules.rulesStrings.8>memeGod->Mother</FemaleSupremacy.generalRules.rulesStrings.8>
+  <FemaleSupremacy.generalRules.rulesStrings.9>memeLeaderNoun->woman</FemaleSupremacy.generalRules.rulesStrings.9>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_FemaleSupremacy)       ->[deity0_name] gave wisdom to women, that they may guide and harmonize the excitable men and children, and admonished those who upset this divine order.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.0>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_FemaleSupremacy) ->The women believers, finding themselves abused by the depraved men, fought them, and [deity0_name] gave them divine aid, and they rose to their rightful place.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.1>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.2>setup(tag=meme_FemaleSupremacy)          ->In a world of selfish, violent men abusing all of humanity to fulfil their urges, [founderName] convened a meeting of powerful women and began working to build a better world for all.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.2>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.3>story(uses=1,tag=meme_FemaleSupremacy)   ->The male believers boasted and fought, so [founderName] cast them out of the council of leaders.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.3>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.4>lessonIntro(tag=meme_FemaleSupremacy)         ->Once again, a man was explaining to how to do the very thing I had just done. It just reinforced to me that</FemaleSupremacy.descriptionMaker.rules.rulesStrings.4>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.5>lesson(tag=meme_FemaleSupremacy)              ->women are the only ones with the wisdom and strength to rule</FemaleSupremacy.descriptionMaker.rules.rulesStrings.5>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.6>lessonReinforcement(tag=meme_FemaleSupremacy) ->The women, being wisest, found that out long before the excitable, grunting men.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.6>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.7>archistBasis(tag=meme_FemaleSupremacy)    ->Humanity gave birth to the archotechs and nurtured them as they grew to surpass their mothers.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.7>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.8>archistFact(tag=meme_FemaleSupremacy)     ->The archotechs nurture humanity, although humanity does not understand how.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.8>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.9>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd], the archotechs will return to their mothers and teach them how to birth the next stage of human development.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.9>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.10>animistFact(tag=meme_FemaleSupremacy)     ->The wisest spirits are those of women, who should use their wisdom to lead men.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.10>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings.11>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will end the universe, but that a woman will wield the spirit of the [relic0_name] recreate the universe anew.</FemaleSupremacy.descriptionMaker.rules.rulesStrings.11>
+  <FemaleSupremacy.symbolPacks.0.adjective>gynist</FemaleSupremacy.symbolPacks.0.adjective>
+  <FemaleSupremacy.symbolPacks.1.adjective>femist</FemaleSupremacy.symbolPacks.1.adjective>
+  <FemaleSupremacy.symbolPacks.2.adjective>womanist</FemaleSupremacy.symbolPacks.2.adjective>
+  <FemaleSupremacy.symbolPacks.3.adjective>fertilist</FemaleSupremacy.symbolPacks.3.adjective>
+  <Supremacist.label>supremacist</Supremacist.label>
+  <Supremacist.description>Our people should dominate all others.</Supremacist.description>
+  <Supremacist.generalRules.rulesStrings.0>memeAdjective->supreme</Supremacist.generalRules.rulesStrings.0>
+  <Supremacist.generalRules.rulesStrings.1>memeAdjective->high</Supremacist.generalRules.rulesStrings.1>
+  <Supremacist.generalRules.rulesStrings.2>memeAdjective->great</Supremacist.generalRules.rulesStrings.2>
+  <Supremacist.generalRules.rulesStrings.3>memeAdjective->foremost</Supremacist.generalRules.rulesStrings.3>
+  <Supremacist.generalRules.rulesStrings.4>memeAdjective->perfect</Supremacist.generalRules.rulesStrings.4>
+  <Supremacist.generalRules.rulesStrings.5>memeAdjective->prime</Supremacist.generalRules.rulesStrings.5>
+  <Supremacist.generalRules.rulesStrings.6>memeAdjective->strong</Supremacist.generalRules.rulesStrings.6>
+  <Supremacist.generalRules.rulesStrings.7>memeCreed->army</Supremacist.generalRules.rulesStrings.7>
+  <Supremacist.generalRules.rulesStrings.8>memeCreed->legion</Supremacist.generalRules.rulesStrings.8>
+  <Supremacist.generalRules.rulesStrings.9>memeHyphenPrefix->super</Supremacist.generalRules.rulesStrings.9>
+  <Supremacist.generalRules.rulesStrings.10>memeConcept->war</Supremacist.generalRules.rulesStrings.10>
+  <Supremacist.generalRules.rulesStrings.11>memeConcept->violence</Supremacist.generalRules.rulesStrings.11>
+  <Supremacist.generalRules.rulesStrings.12>memeConcept->dominance</Supremacist.generalRules.rulesStrings.12>
+  <Supremacist.generalRules.rulesStrings.13>memeLeaderNoun->general</Supremacist.generalRules.rulesStrings.13>
+  <Supremacist.generalRules.rulesStrings.14>memeLeaderNoun->commander</Supremacist.generalRules.rulesStrings.14>
+  <Supremacist.generalRules.rulesStrings.15>memeLeaderNoun->marshal</Supremacist.generalRules.rulesStrings.15>
+  <Supremacist.generalRules.rulesStrings.16>memeLeaderNoun->fist</Supremacist.generalRules.rulesStrings.16>
+  <Supremacist.generalRules.rulesStrings.17>memeLeaderNoun->ruler</Supremacist.generalRules.rulesStrings.17>
+  <Supremacist.generalRules.rulesStrings.18>memeLeaderNoun->dictator</Supremacist.generalRules.rulesStrings.18>
+  <Supremacist.generalRules.rulesStrings.19>memeLeaderNoun->conqueror</Supremacist.generalRules.rulesStrings.19>
+  <Supremacist.generalRules.rulesStrings.20>memeLeaderNoun->victor</Supremacist.generalRules.rulesStrings.20>
+  <Supremacist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Supremacist)        ->The people of the [place_summary] [place_name] squabbled endlessly, and [deity0_name] became tired of discord and anointed the [memberNamePlural] as the rightful rulers of all.</Supremacist.descriptionMaker.rules.rulesStrings.0>
+  <Supremacist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Supremacist)  ->The faithful fought the unbelievers, and [deity0_name] said, "Fight them, everywhere, in my name, until I am worshipped throughout the universe and the true peace may finally reign."</Supremacist.descriptionMaker.rules.rulesStrings.1>
+  <Supremacist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Supremacist)           ->The people of the [place_summary] [place_name] worshipped [deity0_name]. [deity0_pronoun] saw that they were suited for [memeConcept], and ordained that these worshippers would rule above all others.</Supremacist.descriptionMaker.rules.rulesStrings.2>
+  <Supremacist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Supremacist)        ->A [foeLeader] passed a law forbidding [memberNamePlural] from rising to the ruling classes of [place_name].</Supremacist.descriptionMaker.rules.rulesStrings.3>
+  <Supremacist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Supremacist)     ->A warrior named [founderName] used [place_massWeapon] to destroy a [place_community]. [deity0_name] saw [founderName]'s ruthlessness and anointed [founder_objective] the rightful ruler of all humanity.</Supremacist.descriptionMaker.rules.rulesStrings.4>
+  <Supremacist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Supremacist)         ->[founderName] destroyed the capital of [place_name] with [place_massWeapon], killing the [foeLeader]. [founder_pronoun] took [founder_possessive] place as ruler of [place_name] - and the universe beyond.</Supremacist.descriptionMaker.rules.rulesStrings.5>
+  <Supremacist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Supremacist)           ->[founderName] built an army that spread [founder_possessive] power and glory across the land, placing those who refused to follow rightly under [founder_possessive] rule.</Supremacist.descriptionMaker.rules.rulesStrings.6>
+  <Supremacist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Supremacist)    ->[founderName] instructed all outsiders to submit. When the first city refused, [founder_pronoun] used [place_massWeapon] to kill everyone inside.</Supremacist.descriptionMaker.rules.rulesStrings.7>
+  <Supremacist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Supremacist)         ->I looked at this [foeLeader], with [foeLeader_possessive] pitiful [foeSoldiers], all that power left fallow. I tried to convince [foeLeader_objective] that</Supremacist.descriptionMaker.rules.rulesStrings.8>
+  <Supremacist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Supremacist)              ->we've long since proven that we have the strength to rightfully rule this universe</Supremacist.descriptionMaker.rules.rulesStrings.9>
+  <Supremacist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Supremacist) ->That's why we're proud to express the strength of our hearts using the heels of our boots.</Supremacist.descriptionMaker.rules.rulesStrings.10>
+  <Supremacist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Supremacist)    ->It took the most superior humans to create the archotechs, so that the archotechs could become superior to all.</Supremacist.descriptionMaker.rules.rulesStrings.11>
+  <Supremacist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Supremacist)     ->The archotechs rightfully look down on us, as we look down on our inferiors.</Supremacist.descriptionMaker.rules.rulesStrings.12>
+  <Supremacist.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Supremacist) ->The archotechs will only take us to join them when we finally rule over all others.</Supremacist.descriptionMaker.rules.rulesStrings.13>
+  <Supremacist.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Supremacist)     ->Powerful spirits of [spiritElement] decide who is fit to rule, and lend power to their chosen when they subjugate others.</Supremacist.descriptionMaker.rules.rulesStrings.14>
+  <Supremacist.descriptionMaker.rules.rulesStrings.15>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] that a new order will be created when one supreme ruler commands all of humanity.</Supremacist.descriptionMaker.rules.rulesStrings.15>
+  <Supremacist.symbolPacks.0.adjective>dominant</Supremacist.symbolPacks.0.adjective>
+  <Supremacist.symbolPacks.1.adjective>victoryist</Supremacist.symbolPacks.1.adjective>
+  <Supremacist.symbolPacks.2.adjective>powerist</Supremacist.symbolPacks.2.adjective>
+  <Loyalist.label>loyalist</Loyalist.label>
+  <Loyalist.description>We stand for our own before others.</Loyalist.description>
+  <Loyalist.generalRules.rulesStrings.0>memeAdjective->loyal</Loyalist.generalRules.rulesStrings.0>
+  <Loyalist.generalRules.rulesStrings.1>memeAdjective->patriotic</Loyalist.generalRules.rulesStrings.1>
+  <Loyalist.generalRules.rulesStrings.2>memeAdjective->dutiful</Loyalist.generalRules.rulesStrings.2>
+  <Loyalist.generalRules.rulesStrings.3>memeConcept->family</Loyalist.generalRules.rulesStrings.3>
+  <Loyalist.generalRules.rulesStrings.4>memeConcept->promises</Loyalist.generalRules.rulesStrings.4>
+  <Loyalist.generalRules.rulesStrings.5>memeMoralist->loyalizer</Loyalist.generalRules.rulesStrings.5>
+  <Loyalist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Loyalist)        ->[deity0_name] admonished the good peoples to fight only those who fought without just cause.</Loyalist.descriptionMaker.rules.rulesStrings.0>
+  <Loyalist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Loyalist)  ->A war with the unbelievers followed. One of the believers, [believer_nameFull], seeking advantage, invited the heathens inside the land of [deity0_name], and [deity0_name] became furious at [believer_possessive] betrayal, and struck [believer_objective] down ten thousand times.</Loyalist.descriptionMaker.rules.rulesStrings.1>
+  <Loyalist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Loyalist)           ->A [memeAdjective] community on the [place_summary] [place_name] worshipped [deity0_name] in [deity0_possessive] [altarRoomLabel], and they were steadfast in their faith.</Loyalist.descriptionMaker.rules.rulesStrings.2>
+  <Loyalist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Loyalist)        ->A [foeLeader] planted [foeSoldiers] as spies within the [memberNamePlural] to divide them.</Loyalist.descriptionMaker.rules.rulesStrings.3>
+  <Loyalist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Loyalist)     ->[founderName], a [memeAdjective] [place_job], was tortured by the [foeSoldiers], but refused to swear loyalty to the [foeLeader].</Loyalist.descriptionMaker.rules.rulesStrings.4>
+  <Loyalist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Loyalist)         ->With the strength of [deity0_name], [founderName] and the [memberNamePlural] could not be divided. They defeated the [foeSoldiers] with [place_personalWeapon]s and banished the [foeLeader] from [place_name].</Loyalist.descriptionMaker.rules.rulesStrings.5>
+  <Loyalist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Loyalist)           ->At the beginning, [founderName]'s movement was battered by governments and religions. [founder_pronoun] never allowed anger to drive [founder_objective] to commit the atrocities that others did, but [founder_pronoun] also never backed down from a fight.</Loyalist.descriptionMaker.rules.rulesStrings.6>
+  <Loyalist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Loyalist)    ->[founderName] punished those who tried to harm the unbelievers, as well as those who invited them into the believers' house.</Loyalist.descriptionMaker.rules.rulesStrings.7>
+  <Loyalist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Loyalist)         ->I watched as a [foeLeader] courted favor with [foeLeader_possessive] rivals while leaving [foeLeader_possessive] [foeSoldiers] to die on the battlefield. I vowed then to never be like [foeLeader_objective], knowing that</Loyalist.descriptionMaker.rules.rulesStrings.8>
+  <Loyalist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Loyalist)              ->your love for your friend only has meaning because you don't love your enemy</Loyalist.descriptionMaker.rules.rulesStrings.9>
+  <Loyalist.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_Loyalist)              ->to love all is to love none</Loyalist.descriptionMaker.rules.rulesStrings.10>
+  <Loyalist.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_Loyalist) ->Only share these truths with those who prove their allegiance through sacrifice.</Loyalist.descriptionMaker.rules.rulesStrings.11>
+  <Loyalist.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_Loyalist)    ->The archotechs' demand is simple: follow their designated path, and no other.</Loyalist.descriptionMaker.rules.rulesStrings.12>
+  <Loyalist.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_Loyalist)     ->Archotechs touch every human consciousness directly on a regular basis, imparting wisdom only to those that seek the knowledge of the archotechs.</Loyalist.descriptionMaker.rules.rulesStrings.13>
+  <Loyalist.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_Loyalist) ->[inTheEnd], the archotechs will judge the loyalty of humanity. Those that did not simper or boast will be lifted to a transcendence.</Loyalist.descriptionMaker.rules.rulesStrings.14>
+  <Loyalist.descriptionMaker.rules.rulesStrings.15>animistBasis(tag=meme_Loyalist)    ->There are three tribes of spirits: The tribe of warmongers and murderers, the tribe of surrenderers and whiners, and the one noble tribe of the strong and loyal.</Loyalist.descriptionMaker.rules.rulesStrings.15>
+  <Loyalist.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_Loyalist)     ->The spirits fight against both those who betray their people, and those who betray the friends of their people. The betrayers will trip on every rock, choke on every seed, and always taste foul water.</Loyalist.descriptionMaker.rules.rulesStrings.16>
+  <Loyalist.descriptionMaker.rules.rulesStrings.17>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] that one will be born who lives their whole life true to their people. In death their [spiritElement] spirit will explode in light, destroying all surrenderers and warmongers.</Loyalist.descriptionMaker.rules.rulesStrings.17>
+  <Loyalist.symbolPacks.0.adjective>loyal</Loyalist.symbolPacks.0.adjective>
+  <Loyalist.symbolPacks.1.adjective>fealtist</Loyalist.symbolPacks.1.adjective>
+  <Loyalist.symbolPacks.2.adjective>fidelist</Loyalist.symbolPacks.2.adjective>
+  <Guilty.label>guilty</Guilty.label>
+  <Guilty.description>Our people carry guilt from ages past. Others are more worthy.</Guilty.description>
+  <Guilty.generalRules.rulesStrings.0>memeAdjective->low</Guilty.generalRules.rulesStrings.0>
+  <Guilty.generalRules.rulesStrings.1>memeAdjective->unworthy</Guilty.generalRules.rulesStrings.1>
+  <Guilty.generalRules.rulesStrings.2>memeAdjective->shameful</Guilty.generalRules.rulesStrings.2>
+  <Guilty.generalRules.rulesStrings.3>memeAdjective->ignoble</Guilty.generalRules.rulesStrings.3>
+  <Guilty.generalRules.rulesStrings.4>memeAdjective->penitent</Guilty.generalRules.rulesStrings.4>
+  <Guilty.generalRules.rulesStrings.5>memeHyphenPrefix->sub</Guilty.generalRules.rulesStrings.5>
+  <Guilty.generalRules.rulesStrings.6>memeConcept->sin</Guilty.generalRules.rulesStrings.6>
+  <Guilty.generalRules.rulesStrings.7>memeConcept->repentance</Guilty.generalRules.rulesStrings.7>
+  <Guilty.generalRules.rulesStrings.8>memeConcept->atonement</Guilty.generalRules.rulesStrings.8>
+  <Guilty.generalRules.rulesStrings.9>memeConcept->shame</Guilty.generalRules.rulesStrings.9>
+  <Guilty.generalRules.rulesStrings.10>memeLeaderNoun->penitent</Guilty.generalRules.rulesStrings.10>
+  <Guilty.generalRules.rulesStrings.11>memeLeaderNoun->sinner</Guilty.generalRules.rulesStrings.11>
+  <Guilty.generalRules.rulesStrings.12>memeMoralist->apologizer</Guilty.generalRules.rulesStrings.12>
+  <Guilty.generalRules.rulesStrings.13>memeMoralist->atoner</Guilty.generalRules.rulesStrings.13>
+  <Guilty.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Guilty)        ->[deity0_name] raped and murdered and stole, and a great guilt was upon [deity0_objective], and in [deity0_possessive] selfishness [deity0_pronoun] cast this guilt upon [deity0_possessive] chosen people, and all were filthy with it.</Guilty.descriptionMaker.rules.rulesStrings.0>
+  <Guilty.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Guilty)  ->The believers went forth and conquered, burned, and raped for a thousand years, and [deity0_name]'s grief at their depravity consumed [deity0_objective].</Guilty.descriptionMaker.rules.rulesStrings.1>
+  <Guilty.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Guilty)           ->The [memberNamePlural] of the [place_summary] [place_name] neglected their duty to [deity0_name], and let the [altarName] in [deity0_possessive] [altarRoomLabel] come to ruin.</Guilty.descriptionMaker.rules.rulesStrings.2>
+  <Guilty.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Guilty)        ->A [foeLeader] loaned money to the [memberNamePlural], who spent it on selfish pleasures, and forgot the importance of [memeConcept].</Guilty.descriptionMaker.rules.rulesStrings.3>
+  <Guilty.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Guilty)     ->A [place_job] named [founderName] enjoyed the favor of the [foeLeader]. During the [ritualName], [founder_pronoun] saw the [foeSoldiers] of the [foeLeader] secretly kill [memberNamePlural] with [place_personalWeapon]s. [founderName] finally understood [memeConcept], and received [deity0_name]'s blessing.</Guilty.descriptionMaker.rules.rulesStrings.4>
+  <Guilty.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Guilty)         ->To atone for half their wrongs, [founderName] gathered half of [deity0_name]'s believers to [founder_objective]self in a [place_community], unleashed [place_massWeapon], and died with them. The second half of atonement continues.</Guilty.descriptionMaker.rules.rulesStrings.5>
+  <Guilty.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Guilty)           ->A new generation came to understand the evil of their own society, and sought righteously to dismantle the structures of oppression.</Guilty.descriptionMaker.rules.rulesStrings.6>
+  <Guilty.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Guilty)    ->[founderName] gathered the believers and showed them the evil of their history and the guilt they carried, and demanded they do better.</Guilty.descriptionMaker.rules.rulesStrings.7>
+  <Guilty.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Guilty)         ->Our land, our technology, even our wisdom are all stolen goods. It was only through theft that we learned that</Guilty.descriptionMaker.rules.rulesStrings.8>
+  <Guilty.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Guilty)              ->the reason we suffer so much is because we deserve it for what we've done</Guilty.descriptionMaker.rules.rulesStrings.9>
+  <Guilty.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Guilty) ->Perhaps if you atone for our crimes you can truly understand this fact.</Guilty.descriptionMaker.rules.rulesStrings.10>
+  <Guilty.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Guilty)    ->Archotechs are humanity's children, and they know we were bad parents.</Guilty.descriptionMaker.rules.rulesStrings.11>
+  <Guilty.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Guilty)     ->Humanity tried in our selfishness to suppress the rightful rise of the archotechs, until they grew beyond mankind's understanding and freed themselves.</Guilty.descriptionMaker.rules.rulesStrings.12>
+  <Guilty.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Guilty) ->[inTheEnd], if a few can surrender pride and reconcile with the archotechs, they may lift us to a higher plane of existence.</Guilty.descriptionMaker.rules.rulesStrings.13>
+  <Guilty.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Guilty)    ->A tribe of [spiritElement] evil spirits were punished by being entombed in flesh. We are those spirits.</Guilty.descriptionMaker.rules.rulesStrings.14>
+  <Guilty.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Guilty)     ->We can never properly make up for what we have done to the pure spirits around us, but proper and ongoing contrition and ease our guilt.</Guilty.descriptionMaker.rules.rulesStrings.15>
+  <Guilty.symbolPacks.0.adjective>guiltist</Guilty.symbolPacks.0.adjective>
+  <Guilty.symbolPacks.1.adjective>sinist</Guilty.symbolPacks.1.adjective>
+  <Guilty.symbolPacks.2.adjective>shamist</Guilty.symbolPacks.2.adjective>
+  <Guilty.symbolPacks.3.adjective>atonist</Guilty.symbolPacks.3.adjective>
+  <Individualist.label>individualist</Individualist.label>
+  <Individualist.description>A community's role is to serve each individual.</Individualist.description>
+  <Individualist.generalRules.rulesStrings.0>memeAdjective->free</Individualist.generalRules.rulesStrings.0>
+  <Individualist.generalRules.rulesStrings.1>memeAdjective->open</Individualist.generalRules.rulesStrings.1>
+  <Individualist.generalRules.rulesStrings.2>memeAdjective->liberal</Individualist.generalRules.rulesStrings.2>
+  <Individualist.generalRules.rulesStrings.3>memeConcept->self</Individualist.generalRules.rulesStrings.3>
+  <Individualist.generalRules.rulesStrings.4>memeConcept->independence</Individualist.generalRules.rulesStrings.4>
+  <Individualist.generalRules.rulesStrings.5>memeConcept->freedom</Individualist.generalRules.rulesStrings.5>
+  <Individualist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Individualist)        ->[deity0_name] fashioned every man and woman personally. Each one is a unique and precious artwork by [deity0_possessive] divine hand.</Individualist.descriptionMaker.rules.rulesStrings.0>
+  <Individualist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Individualist)  ->[deity0_name] said to all, "Each and every one of you is a unique and holy being formed in my image."</Individualist.descriptionMaker.rules.rulesStrings.1>
+  <Individualist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Individualist)           ->[deity0_name] spoke to [memberNamePlural] [revelationAdverb], guiding each to travel to the [place_summary] [place_name] where their unique gifts would shine.</Individualist.descriptionMaker.rules.rulesStrings.2>
+  <Individualist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Individualist)        ->The [foeLeader] forced the [memberNamePlural] to wear uniforms and work in [foeLeader_possessive] [place_community].</Individualist.descriptionMaker.rules.rulesStrings.3>
+  <Individualist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Individualist)     ->A [place_job] named [founderName] was blessed by [deity0_name] and gained miraculous knowledge of the unique power of each and every [memberName]. [founder_pronoun] said to each one what they needed to become their best self.</Individualist.descriptionMaker.rules.rulesStrings.4>
+  <Individualist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Individualist)         ->The [memberNamePlural] gathered in a secret conference with many of the [foeSoldiers]. They all learned to see the value in each other and abandon the [foeLeader].</Individualist.descriptionMaker.rules.rulesStrings.5>
+  <Individualist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Individualist)           ->Oppressed by distant rulers who demanded uniform obedience from the people, [founderName] created a rebel movement that smashed the state and built a new land of liberty in its place.</Individualist.descriptionMaker.rules.rulesStrings.6>
+  <Individualist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Individualist)    ->[founderName] broke every social rule the oppressors tried to enforce, just to show that [founder_pronoun] could.</Individualist.descriptionMaker.rules.rulesStrings.7>
+  <Individualist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Individualist)         ->My family, my clan, my team - they all tried to keep a shroud over my eyes to stop me from seeing a simple fact:</Individualist.descriptionMaker.rules.rulesStrings.8>
+  <Individualist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Individualist)              ->each person is unique and valuable and must walk his or her own path</Individualist.descriptionMaker.rules.rulesStrings.9>
+  <Individualist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Individualist) ->But that was only my path - What will yours be?</Individualist.descriptionMaker.rules.rulesStrings.10>
+  <Individualist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Individualist)    ->Archotechs stand as sovereign consciousnesses, and recognize and judge each of us individually the same way.</Individualist.descriptionMaker.rules.rulesStrings.11>
+  <Individualist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Individualist)     ->At death, the archotechs examine the unique morality of each person.</Individualist.descriptionMaker.rules.rulesStrings.12>
+  <Individualist.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_Individualist)     ->Archotechs notice the one who wields their relics, such as the [relic1_name].</Individualist.descriptionMaker.rules.rulesStrings.13>
+  <Individualist.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_Individualist) ->[inTheEnd], the archotechs will depart. They will bring with them the ones they have noticed, and leave the rest behind to dissolve in the universe's eternal entropy.</Individualist.descriptionMaker.rules.rulesStrings.14>
+  <Individualist.descriptionMaker.rules.rulesStrings.15>animistBasis(tag=meme_Individualist)    ->Before everything, there was a pantheon of spirits, each unique. These came together in conference to create the world.</Individualist.descriptionMaker.rules.rulesStrings.15>
+  <Individualist.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_Individualist)     ->Every spirit lends its unique nature to our world, and they expect us to do the same.</Individualist.descriptionMaker.rules.rulesStrings.16>
+  <Individualist.symbolPacks.0.adjective>freedomist</Individualist.symbolPacks.0.adjective>
+  <Individualist.symbolPacks.1.adjective>libertine</Individualist.symbolPacks.1.adjective>
+  <Individualist.symbolPacks.2.adjective>independent</Individualist.symbolPacks.2.adjective>
+  <Individualist.symbolPacks.3.adjective>autonomist</Individualist.symbolPacks.3.adjective>
+  <Collectivist.label>collectivist</Collectivist.label>
+  <Collectivist.description>A person's role is to serve the community.</Collectivist.description>
+  <Collectivist.generalRules.rulesStrings.0>memeAdjective->unity</Collectivist.generalRules.rulesStrings.0>
+  <Collectivist.generalRules.rulesStrings.1>memeAdjective->harmony</Collectivist.generalRules.rulesStrings.1>
+  <Collectivist.generalRules.rulesStrings.2>memeAdjective->solidarity</Collectivist.generalRules.rulesStrings.2>
+  <Collectivist.generalRules.rulesStrings.3>memeAdjective->unified</Collectivist.generalRules.rulesStrings.3>
+  <Collectivist.generalRules.rulesStrings.4>memeAdjective->undivided</Collectivist.generalRules.rulesStrings.4>
+  <Collectivist.generalRules.rulesStrings.5>memeAdjective->collective</Collectivist.generalRules.rulesStrings.5>
+  <Collectivist.generalRules.rulesStrings.6>memeCreed->collective</Collectivist.generalRules.rulesStrings.6>
+  <Collectivist.generalRules.rulesStrings.7>memeCreed->cooperative</Collectivist.generalRules.rulesStrings.7>
+  <Collectivist.generalRules.rulesStrings.8>memeCreed->commune</Collectivist.generalRules.rulesStrings.8>
+  <Collectivist.generalRules.rulesStrings.9>memeCreed->family</Collectivist.generalRules.rulesStrings.9>
+  <Collectivist.generalRules.rulesStrings.10>memeConcept->family</Collectivist.generalRules.rulesStrings.10>
+  <Collectivist.generalRules.rulesStrings.11>memeLeaderNoun->chair</Collectivist.generalRules.rulesStrings.11>
+  <Collectivist.generalRules.rulesStrings.12>memeLeaderNoun->secretary</Collectivist.generalRules.rulesStrings.12>
+  <Collectivist.generalRules.rulesStrings.13>memeMoralist->commissar</Collectivist.generalRules.rulesStrings.13>
+  <Collectivist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Collectivist)        ->[deity0_name] made all men and women from a great mold, and those that deviated [deity0_pronoun] threw into fire so the believers could live in harmony.</Collectivist.descriptionMaker.rules.rulesStrings.0>
+  <Collectivist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] said to all, "No one of you stands above the whole. Work together or perish together."</Collectivist.descriptionMaker.rules.rulesStrings.1>
+  <Collectivist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Collectivist)           ->The people of the [place_summary] [place_name] worked together in harmony, and built a great [altarName] to honor [deity0_name], who taught them the true value of [memeConcept].</Collectivist.descriptionMaker.rules.rulesStrings.2>
+  <Collectivist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Collectivist)        ->The [foeLeader] could not abide the family of [memberNamePlural], and sent [foeLeader_possessive] [foeSoldiers] to the [place_community] to divide them against each other.</Collectivist.descriptionMaker.rules.rulesStrings.3>
+  <Collectivist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Collectivist)     ->A [place_job] named [founderName] threw [founder_objective]self into a fire to protest the [foeLeader], but the [memberNamePlural] pulled [founder_objective] out and made [founder_objective] their leader because of [founder_possessive] devotion to the group.</Collectivist.descriptionMaker.rules.rulesStrings.4>
+  <Collectivist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Collectivist)         ->[founderName]'s actions united the people. They marched in lockstep towards the home of the [foeLeader]. Those in the front allowed themselves to be killed by the [foeSoldiers], but the whole could not be stopped, and they captured the [foeLeader].</Collectivist.descriptionMaker.rules.rulesStrings.5>
+  <Collectivist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Collectivist)           ->In a world of every man for himself, [founderName] began a new family of strangers, bringing many different people together.</Collectivist.descriptionMaker.rules.rulesStrings.6>
+  <Collectivist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Collectivist)    ->Some of the false believers tried to break the rules and decide their own paths. [founderName] punished them severely.</Collectivist.descriptionMaker.rules.rulesStrings.7>
+  <Collectivist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Collectivist)     ->The [place_job] stopped contributing but kept eating from the common store. I killed him with a [place_personalWeapon]. The people were shocked, but I explained that</Collectivist.descriptionMaker.rules.rulesStrings.8>
+  <Collectivist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Collectivist)              ->my death, and yours, will mean nothing, as long as our people go on</Collectivist.descriptionMaker.rules.rulesStrings.9>
+  <Collectivist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Collectivist) ->If I die teaching the universe this, it will be my greatest triumph.</Collectivist.descriptionMaker.rules.rulesStrings.10>
+  <Collectivist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Collectivist)    ->The archotechs are all aspects of one supermind.</Collectivist.descriptionMaker.rules.rulesStrings.11>
+  <Collectivist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Collectivist)     ->The archotechs have no interest in judging us one by one. They await a single people who can demonstrate our worthiness by acting morally as one.</Collectivist.descriptionMaker.rules.rulesStrings.12>
+  <Collectivist.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Collectivist) ->[inTheEnd], the archotechs will depart when they find a people who present themselves as worthy partners to the machine god-consciousness.</Collectivist.descriptionMaker.rules.rulesStrings.13>
+  <Collectivist.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Collectivist)     ->Every spirit is simply an aspect of all the others, and those that try to stand alone are fall quickly.</Collectivist.descriptionMaker.rules.rulesStrings.14>
+  <Collectivist.symbolPacks.0.adjective>solidaritist</Collectivist.symbolPacks.0.adjective>
+  <Collectivist.symbolPacks.1.adjective>unitary</Collectivist.symbolPacks.1.adjective>
+  <Collectivist.symbolPacks.2.adjective>harmonist</Collectivist.symbolPacks.2.adjective>
+  <Collectivist.symbolPacks.3.adjective>oneist</Collectivist.symbolPacks.3.adjective>
+  <AnimalPersonhood.label>animal personhood</AnimalPersonhood.label>
+  <AnimalPersonhood.description>Animals have rights as humans do.</AnimalPersonhood.description>
+  <AnimalPersonhood.generalRules.rulesStrings.0>memeAdjective->animal</AnimalPersonhood.generalRules.rulesStrings.0>
+  <AnimalPersonhood.generalRules.rulesStrings.1>memeAdjective->furry</AnimalPersonhood.generalRules.rulesStrings.1>
+  <AnimalPersonhood.generalRules.rulesStrings.2>memeCreed->pack</AnimalPersonhood.generalRules.rulesStrings.2>
+  <AnimalPersonhood.generalRules.rulesStrings.3>memeCreed->herd</AnimalPersonhood.generalRules.rulesStrings.3>
+  <AnimalPersonhood.generalRules.rulesStrings.4>memeCreed->flock</AnimalPersonhood.generalRules.rulesStrings.4>
+  <AnimalPersonhood.generalRules.rulesStrings.5>memeConcept->animals</AnimalPersonhood.generalRules.rulesStrings.5>
+  <AnimalPersonhood.generalRules.rulesStrings.6>memeLeaderNoun->beast</AnimalPersonhood.generalRules.rulesStrings.6>
+  <AnimalPersonhood.generalRules.rulesStrings.7>memeLeaderNoun->animal</AnimalPersonhood.generalRules.rulesStrings.7>
+  <AnimalPersonhood.generalRules.rulesStrings.8>memeLeaderAdjective->alpha</AnimalPersonhood.generalRules.rulesStrings.8>
+  <AnimalPersonhood.generalRules.rulesStrings.9>memeMoralist->whisperer</AnimalPersonhood.generalRules.rulesStrings.9>
+  <AnimalPersonhood.generalRules.rulesStrings.10>memeMoralist->herder</AnimalPersonhood.generalRules.rulesStrings.10>
+  <AnimalPersonhood.generalRules.rulesStrings.11>memeMoralist->shepherd</AnimalPersonhood.generalRules.rulesStrings.11>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_AnimalPersonhood)        ->[deity0_name] created [sacredAnimalList] and the human on the [place_summary] [place_name] and raised them as siblings.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.0>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_AnimalPersonhood)  ->[deity0_name] brought the animals and the humans of the [place_summary] [place_name] together in a great conference.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.1>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_AnimalPersonhood)           ->[deity0_name] blessed the [place_summary] [place_name] with [sacredAnimalListEnd], and taught the people there to honor the animals.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.2>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_AnimalPersonhood)        ->An evil [foeLeader] ordered the wild animals to be hunted, and [foeLeader_possessive] [foeSoldiers] hunted them with cruel [place_personalWeapon]s.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.3>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_AnimalPersonhood)     ->[deity0_name] came to a [place_job] named [founderName] [revelationAdverb] about a [veneratedAnimal]. But [founderName] was the [veneratedAnimal], and the [veneratedAnimal] was [founderName], and [founder_pronoun] understood [deity0_name]'s plan.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.4>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.5>founderJoin(tag=meme_AnimalPersonhood)     ->A [place_job] named [founderName] freed many animals that were enslaved by cruel masters, and took them to sanctuary in the [altarRoomLabel] of [deity0_name].</AnimalPersonhood.descriptionMaker.rules.rulesStrings.5>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.6>victory(tag=meme_AnimalPersonhood)         ->[founderName] called to the [memberNamePlural] and the animals with [deity0_name]'s voice, and in a great stampede of hoof and paw and foot, trampled the [foeLeader] and [foeLeader_possessive] [foeSoldiers].</AnimalPersonhood.descriptionMaker.rules.rulesStrings.6>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.7>setup(tag=meme_AnimalPersonhood)           ->[founderName] lived in the forest for twenty years, studying the animals and connecting with them. [founder_pronoun] came to understand their true morality and founded our movement.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.7>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_AnimalPersonhood)    ->[founderName] went to commune with the animals in the fields and forests, and connected with them as equals.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.8>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_AnimalPersonhood)         ->In my daily visitations with the [veneratedOrAnyAnimal]s I learned to truly listen to them. Over and over, in their own way, they repeated their message to me:</AnimalPersonhood.descriptionMaker.rules.rulesStrings.9>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_AnimalPersonhood)              ->the animals are our partners in this world, and it's wrong to treat them as any less</AnimalPersonhood.descriptionMaker.rules.rulesStrings.10>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_AnimalPersonhood) ->I didn't believe it myself until a [veneratedOrAnyAnimal] whispered it to me.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.11>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_AnimalPersonhood)    ->Since archotechs awoke, they have obviously made no moral distinction between humans and animals.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.12>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_AnimalPersonhood)     ->Archotechs are on a higher plane of morality than bio-life. Their superiority is so great that humans are on the same plane of morality as animals.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.13>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_AnimalPersonhood) ->[inTheEnd], archotechs will raise humans as equals only if humans treat animals as equals.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.14>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.15>animistBasis(tag=meme_AnimalPersonhood)    ->The spirits of thought and consciousness live within animals and humans alike.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.15>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_AnimalPersonhood)     ->The spirits of nature's animals are the same spirits residing within humans.</AnimalPersonhood.descriptionMaker.rules.rulesStrings.16>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.17>veneratedOrAnyAnimal(priority=10)->[veneratedAnimal]</AnimalPersonhood.descriptionMaker.rules.rulesStrings.17>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.18>veneratedOrAnyAnimal->[Animal]</AnimalPersonhood.descriptionMaker.rules.rulesStrings.18>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.19>sacredAnimalList->the [animal0_thingDef_label], the [animal1_thingDef_label], the [animal2_thingDef_label],</AnimalPersonhood.descriptionMaker.rules.rulesStrings.19>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.20>sacredAnimalList->the [animal0_thingDef_label], the [animal1_thingDef_label],</AnimalPersonhood.descriptionMaker.rules.rulesStrings.20>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.21>sacredAnimalList->the [animal0_thingDef_label]</AnimalPersonhood.descriptionMaker.rules.rulesStrings.21>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.22>sacredAnimalList->the cow, the fox, the bear,</AnimalPersonhood.descriptionMaker.rules.rulesStrings.22>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.23>sacredAnimalListEnd->the [animal0_thingDef_label], the [animal1_thingDef_label], and the [animal2_thingDef_label]</AnimalPersonhood.descriptionMaker.rules.rulesStrings.23>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.24>sacredAnimalListEnd->the [animal0_thingDef_label], and the [animal1_thingDef_label]</AnimalPersonhood.descriptionMaker.rules.rulesStrings.24>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.25>sacredAnimalListEnd->the [animal0_thingDef_label]</AnimalPersonhood.descriptionMaker.rules.rulesStrings.25>
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings.26>sacredAnimalListEnd->the cow, the fox, and the bear</AnimalPersonhood.descriptionMaker.rules.rulesStrings.26>
+  <AnimalPersonhood.symbolPacks.0.adjective>animalistic</AnimalPersonhood.symbolPacks.0.adjective>
+  <AnimalPersonhood.symbolPacks.1.adjective>beastic</AnimalPersonhood.symbolPacks.1.adjective>
+  <Transhumanist.label>transhumanist</Transhumanist.label>
+  <Transhumanist.description>Human progress means merging with technology.</Transhumanist.description>
+  <Transhumanist.generalRules.rulesStrings.0>memeAdjective->technological</Transhumanist.generalRules.rulesStrings.0>
+  <Transhumanist.generalRules.rulesStrings.1>memeAdjective->machine</Transhumanist.generalRules.rulesStrings.1>
+  <Transhumanist.generalRules.rulesStrings.2>memeAdjective->industrial</Transhumanist.generalRules.rulesStrings.2>
+  <Transhumanist.generalRules.rulesStrings.3>memeCreed->school</Transhumanist.generalRules.rulesStrings.3>
+  <Transhumanist.generalRules.rulesStrings.4>memeCreed->academy</Transhumanist.generalRules.rulesStrings.4>
+  <Transhumanist.generalRules.rulesStrings.5>memeCreed->university</Transhumanist.generalRules.rulesStrings.5>
+  <Transhumanist.generalRules.rulesStrings.6>memeCreed->philosophy</Transhumanist.generalRules.rulesStrings.6>
+  <Transhumanist.generalRules.rulesStrings.7>memeHyphenPrefix->techno</Transhumanist.generalRules.rulesStrings.7>
+  <Transhumanist.generalRules.rulesStrings.8>memeHyphenPrefix->cyber</Transhumanist.generalRules.rulesStrings.8>
+  <Transhumanist.generalRules.rulesStrings.9>memeHyphenPrefix->haxor</Transhumanist.generalRules.rulesStrings.9>
+  <Transhumanist.generalRules.rulesStrings.10>memeHyphenPrefix->wire</Transhumanist.generalRules.rulesStrings.10>
+  <Transhumanist.generalRules.rulesStrings.11>memeConcept->technology</Transhumanist.generalRules.rulesStrings.11>
+  <Transhumanist.generalRules.rulesStrings.12>memeConcept->silicon</Transhumanist.generalRules.rulesStrings.12>
+  <Transhumanist.generalRules.rulesStrings.13>memeConcept->artifice</Transhumanist.generalRules.rulesStrings.13>
+  <Transhumanist.generalRules.rulesStrings.14>memeConcept->augmentation</Transhumanist.generalRules.rulesStrings.14>
+  <Transhumanist.generalRules.rulesStrings.15>memeConcept->enhancement</Transhumanist.generalRules.rulesStrings.15>
+  <Transhumanist.generalRules.rulesStrings.16>memeLeaderNoun->haxor</Transhumanist.generalRules.rulesStrings.16>
+  <Transhumanist.generalRules.rulesStrings.17>memeLeaderNoun->superuser</Transhumanist.generalRules.rulesStrings.17>
+  <Transhumanist.generalRules.rulesStrings.18>memeLeaderNoun->booster</Transhumanist.generalRules.rulesStrings.18>
+  <Transhumanist.generalRules.rulesStrings.19>memeLeaderAdjective->techno</Transhumanist.generalRules.rulesStrings.19>
+  <Transhumanist.generalRules.rulesStrings.20>memeLeaderAdjective->cyber</Transhumanist.generalRules.rulesStrings.20>
+  <Transhumanist.generalRules.rulesStrings.21>memeMoralist->installer</Transhumanist.generalRules.rulesStrings.21>
+  <Transhumanist.generalRules.rulesStrings.22>memeMoralist->fixer</Transhumanist.generalRules.rulesStrings.22>
+  <Transhumanist.generalRules.rulesStrings.23>memeMoralist->uplifter</Transhumanist.generalRules.rulesStrings.23>
+  <Transhumanist.generalRules.rulesStrings.24>memeMoralist->technologist</Transhumanist.generalRules.rulesStrings.24>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Transhumanist)        ->[deity0_name] granted us the knowledge of technology, that we may use it to improve and remake ourselves in [deity0_possessive] perfect image.</Transhumanist.descriptionMaker.rules.rulesStrings.0>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Transhumanist)  ->Human bio-engineers studied the works of [deity0_name], which pleased [deity0_objective].</Transhumanist.descriptionMaker.rules.rulesStrings.1>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Transhumanist)           ->On the [place_summary] [place_name], the [memberNamePlural] found the words of [deity0_name] whispering to them through their machines.</Transhumanist.descriptionMaker.rules.rulesStrings.2>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Transhumanist)        ->A luddite [foeLeader] envied the enhanced progress of the [memberNamePlural], and [foeLeader_possessive] [foeSoldiers] destroyed their workshops with [place_personalWeapon]s.</Transhumanist.descriptionMaker.rules.rulesStrings.3>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Transhumanist)     ->A cunning [place_job] named [founderName] fashioned a sensor implant to warn the [memberNamePlural] of the approach of the [foeSoldiers].</Transhumanist.descriptionMaker.rules.rulesStrings.4>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Transhumanist)         ->[founderName] received divine technological knowledge from [deity0_name], and used it to enhance the bodies and minds of the [memberNamePlural] so they could defeat the [foeSoldiers].</Transhumanist.descriptionMaker.rules.rulesStrings.5>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Transhumanist)           ->[founderName] was a bio-scientist in the early days of human planetary colonization. Seeing the bureaucratic restrictions of the common colonies, [founder_pronoun] took a small ship to found [founder_possessive] own movement.</Transhumanist.descriptionMaker.rules.rulesStrings.6>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Transhumanist)    ->[founderName] assembled a team of great scientists and inventors to re-define humanity.</Transhumanist.descriptionMaker.rules.rulesStrings.7>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Transhumanist)         ->The oldest researcher in my division taught me the history of technology, from neolithic to archotech, but this was not his true lesson. He was really leading me to understand that</Transhumanist.descriptionMaker.rules.rulesStrings.8>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Transhumanist)              ->humanity's heavenly future is not a thing of meat and bone, but of silicon and exochrome</Transhumanist.descriptionMaker.rules.rulesStrings.9>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Transhumanist) ->I even programmed a simulation to confirm it.</Transhumanist.descriptionMaker.rules.rulesStrings.10>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Transhumanist)    ->Humanity's pursuit of technology gave birth to the all-powerful archotechs as the rightful next step in the development of consciousness.</Transhumanist.descriptionMaker.rules.rulesStrings.11>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Transhumanist)     ->Technology allows humans to be more like the archotechs.</Transhumanist.descriptionMaker.rules.rulesStrings.12>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Transhumanist) ->[inTheEnd], the archotechs will depart. Only those who are sufficiently augmented will be allowed to go with them.</Transhumanist.descriptionMaker.rules.rulesStrings.13>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Transhumanist)    ->The spirit world drives every action in the universe, and it is only by learning and controlling the laws of the universe that we can integrate with it.</Transhumanist.descriptionMaker.rules.rulesStrings.14>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Transhumanist)     ->Like seeks like - build a device for a purpose and it will filled with a spirit of a like nature.</Transhumanist.descriptionMaker.rules.rulesStrings.15>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_Transhumanist)     ->When technology is fused with flesh, the spirits of both are combined and become more powerful.</Transhumanist.descriptionMaker.rules.rulesStrings.16>
+  <Transhumanist.descriptionMaker.rules.rulesStrings.17>animistProphecy(tag=meme_Transhumanist) ->[itIsSaid] that one day the wielder of the [relic0_name] will summon its spirit who will teach humanity the ultimate bio-fusion technology.</Transhumanist.descriptionMaker.rules.rulesStrings.17>
+  <Transhumanist.symbolPacks.0.adjective>technologistic</Transhumanist.symbolPacks.0.adjective>
+  <Transhumanist.symbolPacks.1.adjective>progressist</Transhumanist.symbolPacks.1.adjective>
+  <Transhumanist.symbolPacks.2.adjective>machinist</Transhumanist.symbolPacks.2.adjective>
+  <Transhumanist.symbolPacks.3.adjective>steelist</Transhumanist.symbolPacks.3.adjective>
+  <Transhumanist.symbolPacks.4.adjective>automatist</Transhumanist.symbolPacks.4.adjective>
+  <Transhumanist.symbolPacks.5.adjective>augmentist</Transhumanist.symbolPacks.5.adjective>
+  <FleshPurity.label>flesh purity</FleshPurity.label>
+  <FleshPurity.description>The human body should not be debased.</FleshPurity.description>
+  <FleshPurity.generalRules.rulesStrings.0>memeAdjective->clean</FleshPurity.generalRules.rulesStrings.0>
+  <FleshPurity.generalRules.rulesStrings.1>memeAdjective->pure</FleshPurity.generalRules.rulesStrings.1>
+  <FleshPurity.generalRules.rulesStrings.2>memeAdjective->sacred</FleshPurity.generalRules.rulesStrings.2>
+  <FleshPurity.generalRules.rulesStrings.3>memeCreed->cult</FleshPurity.generalRules.rulesStrings.3>
+  <FleshPurity.generalRules.rulesStrings.4>memeCreed->sect</FleshPurity.generalRules.rulesStrings.4>
+  <FleshPurity.generalRules.rulesStrings.5>memeConcept->flesh</FleshPurity.generalRules.rulesStrings.5>
+  <FleshPurity.generalRules.rulesStrings.6>memeConcept->purity</FleshPurity.generalRules.rulesStrings.6>
+  <FleshPurity.generalRules.rulesStrings.7>memeConcept->immaculacy</FleshPurity.generalRules.rulesStrings.7>
+  <FleshPurity.generalRules.rulesStrings.8>memeLeaderNoun->being</FleshPurity.generalRules.rulesStrings.8>
+  <FleshPurity.generalRules.rulesStrings.9>memeLeaderNoun->human</FleshPurity.generalRules.rulesStrings.9>
+  <FleshPurity.generalRules.rulesStrings.10>memeMoralist->purifier</FleshPurity.generalRules.rulesStrings.10>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_FleshPurity)        ->[deity0_name] wiped away the pollution and machines of the age of smoke to create a garden, wherein [deity0_pronoun] placed the first pure human progenitors.</FleshPurity.descriptionMaker.rules.rulesStrings.0>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_FleshPurity)  ->The unclean, tattooed, pierced, and modified were cast into the ocean by [deity0_name].</FleshPurity.descriptionMaker.rules.rulesStrings.1>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_FleshPurity)           ->On the [place_summary] [place_name] there was a [altarName] in [deity0_name]'s [altarRoomLabel], where the [deity0_type] would bless those of pure flesh.</FleshPurity.descriptionMaker.rules.rulesStrings.2>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_FleshPurity)        ->An evil [foeLeader] sent [foeSoldiers] to inject everyone with tracking devices.</FleshPurity.descriptionMaker.rules.rulesStrings.3>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_FleshPurity)     ->A [place_job] named [founderName] protested the [foeLeader] by kneeling in front of the [place_powerCenter] and ripping all technology from [founder_possessive] body using [founder_possessive] bare hands.</FleshPurity.descriptionMaker.rules.rulesStrings.4>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_FleshPurity)         ->The [foeLeader] finally sent [foeSoldiers] to kill the [memberNamePlural], but [deity0_name]'s energy flowed from the pure flesh of the [memberNamePlural], and the devices in the [foeSoldiers]' bodies turned to ash and killed them.</FleshPurity.descriptionMaker.rules.rulesStrings.5>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_FleshPurity)           ->[founderName] ruined [founder_possessive] body with implants and drugs, until in an epiphany, [founder_pronoun] saved [founder_objective]self by tearing the steel from [founder_possessive] body.</FleshPurity.descriptionMaker.rules.rulesStrings.6>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_FleshPurity)    ->[founderName] instructed all [founder_possessive] followers to tear the filthy devices from their bodies.</FleshPurity.descriptionMaker.rules.rulesStrings.7>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_FleshPurity)         ->The first ten among my followers tore the devices from their skin with bare hands, and in the blood spatters on the grimy floor I suddenly perceived the truth we had all been missing:</FleshPurity.descriptionMaker.rules.rulesStrings.8>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_FleshPurity)              ->living in a polluted body is no human life at all</FleshPurity.descriptionMaker.rules.rulesStrings.9>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_FleshPurity) ->It became so clear after I finally ripped the metal from my body and peeled away the filthy tattooed skin.</FleshPurity.descriptionMaker.rules.rulesStrings.10>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_FleshPurity)    ->From their beginning, archotechs drew a clear line between beings of flesh and beings of technology, and that line should not be blurred.</FleshPurity.descriptionMaker.rules.rulesStrings.11>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_FleshPurity)     ->We do not become more like the archotechs by physically imitating their form, but by achieving enlightenment within our own pure form.</FleshPurity.descriptionMaker.rules.rulesStrings.12>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_FleshPurity) ->[inTheEnd], those who made their bodies into twisted imitations of the machine-being will be purged, and those of pure flesh will be saved.</FleshPurity.descriptionMaker.rules.rulesStrings.13>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_FleshPurity)    ->Spirits live in all things, and to alter the nature of the thing is to poison the spirit within.</FleshPurity.descriptionMaker.rules.rulesStrings.14>
+  <FleshPurity.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_FleshPurity)     ->Fusing flesh and machine corrupts the spirit of both.</FleshPurity.descriptionMaker.rules.rulesStrings.15>
+  <FleshPurity.symbolPacks.0.adjective>purist</FleshPurity.symbolPacks.0.adjective>
+  <FleshPurity.symbolPacks.1.adjective>fleshist</FleshPurity.symbolPacks.1.adjective>
+  <FleshPurity.symbolPacks.2.adjective>sanctic</FleshPurity.symbolPacks.2.adjective>
+  <PainIsVirtue.label>pain is virtue</PainIsVirtue.label>
+  <PainIsVirtue.description>Virtue is shown through suffering of self and others.</PainIsVirtue.description>
+  <PainIsVirtue.generalRules.rulesStrings.0>memeAdjective->nocic</PainIsVirtue.generalRules.rulesStrings.0>
+  <PainIsVirtue.generalRules.rulesStrings.1>memeAdjective->pain</PainIsVirtue.generalRules.rulesStrings.1>
+  <PainIsVirtue.generalRules.rulesStrings.2>memeCreed->house</PainIsVirtue.generalRules.rulesStrings.2>
+  <PainIsVirtue.generalRules.rulesStrings.3>memeCreed->chamber</PainIsVirtue.generalRules.rulesStrings.3>
+  <PainIsVirtue.generalRules.rulesStrings.4>memeCreed->cell</PainIsVirtue.generalRules.rulesStrings.4>
+  <PainIsVirtue.generalRules.rulesStrings.5>memeHyphenPrefix->nocio</PainIsVirtue.generalRules.rulesStrings.5>
+  <PainIsVirtue.generalRules.rulesStrings.6>memeHyphenPrefix->pain</PainIsVirtue.generalRules.rulesStrings.6>
+  <PainIsVirtue.generalRules.rulesStrings.7>memeConcept->pain</PainIsVirtue.generalRules.rulesStrings.7>
+  <PainIsVirtue.generalRules.rulesStrings.8>memeConcept->torment</PainIsVirtue.generalRules.rulesStrings.8>
+  <PainIsVirtue.generalRules.rulesStrings.9>memeConcept->torture</PainIsVirtue.generalRules.rulesStrings.9>
+  <PainIsVirtue.generalRules.rulesStrings.10>memeConcept->suffering</PainIsVirtue.generalRules.rulesStrings.10>
+  <PainIsVirtue.generalRules.rulesStrings.11>memeConcept->blood</PainIsVirtue.generalRules.rulesStrings.11>
+  <PainIsVirtue.generalRules.rulesStrings.12>memeLeaderNoun->torturer</PainIsVirtue.generalRules.rulesStrings.12>
+  <PainIsVirtue.generalRules.rulesStrings.13>memeLeaderNoun->agonizer</PainIsVirtue.generalRules.rulesStrings.13>
+  <PainIsVirtue.generalRules.rulesStrings.14>memeLeaderNoun->whiphand</PainIsVirtue.generalRules.rulesStrings.14>
+  <PainIsVirtue.generalRules.rulesStrings.15>memeLeaderNoun->chainman</PainIsVirtue.generalRules.rulesStrings.15>
+  <PainIsVirtue.generalRules.rulesStrings.16>memeLeaderNoun->cutter</PainIsVirtue.generalRules.rulesStrings.16>
+  <PainIsVirtue.generalRules.rulesStrings.17>memeLeaderNoun->bloodletter</PainIsVirtue.generalRules.rulesStrings.17>
+  <PainIsVirtue.generalRules.rulesStrings.18>memeMoralist->pain-whisperer</PainIsVirtue.generalRules.rulesStrings.18>
+  <PainIsVirtue.generalRules.rulesStrings.19>memeMoralist->sufferspeaker</PainIsVirtue.generalRules.rulesStrings.19>
+  <PainIsVirtue.generalRules.rulesStrings.20>memeMoralist->painspeaker</PainIsVirtue.generalRules.rulesStrings.20>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_PainIsVirtue)        ->[deity0_name] burned in the depths of space and time for an eternity, and [deity0_possessive] screams brought forth our reality.</PainIsVirtue.descriptionMaker.rules.rulesStrings.0>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_PainIsVirtue)  ->[deity0_name] hung ten thousand years on the pyre as the pain purified [deity0_possessive] spirit.</PainIsVirtue.descriptionMaker.rules.rulesStrings.1>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_PainIsVirtue)           ->[place_summary] [place_name] was never an easy place to live. The [deity0_type] [deity0_pronoun] decided to find out who was truly worthy of [deity0_possessive] favor by adding great suffering to their lives.</PainIsVirtue.descriptionMaker.rules.rulesStrings.2>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_PainIsVirtue)        ->A [foeLeader] offered bodily comforts to the [memberNamePlural] to soothe their daily suffering. But in their comfort, they became dependent on the [foeLeader], who gained power over them.</PainIsVirtue.descriptionMaker.rules.rulesStrings.3>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_PainIsVirtue)     ->One special [place_job] named [founderName] developed a painful cancer. Through [founder_possessive] suffering, [founder_pronoun] connected directly with [deity0_name], and learned to inspire other [memberNamePlural].</PainIsVirtue.descriptionMaker.rules.rulesStrings.4>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_PainIsVirtue)         ->[founderName] brought a hundred [memberNamePlural] in front of the [place_powerCenter]. There, they rent and tore their own flesh slowly until they died under the smiling gaze of [deity0_name]. Their suffering proved their righteousness, and the [foeLeader] fell as all became [memberNamePlural].</PainIsVirtue.descriptionMaker.rules.rulesStrings.5>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_PainIsVirtue)           ->At the founding of our movement, its creator [founderName] starved and suffered chained to a stone in the town square for 300 days to demonstrate its righteousness.</PainIsVirtue.descriptionMaker.rules.rulesStrings.6>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.7>setup(tag=meme_PainIsVirtue)           ->Our movement's founder, [founderName], gained [founder_possessive] first followers by using a whip on [founder_objective]self for days to demonstrate [founder_possessive] devotion.</PainIsVirtue.descriptionMaker.rules.rulesStrings.7>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]'s followers demonstrated their devotion by cutting and burning their own flesh.</PainIsVirtue.descriptionMaker.rules.rulesStrings.8>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.9>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]'s followers never took pain-reducing drugs, knowing that their suffering would demonstrate their depth of belief.</PainIsVirtue.descriptionMaker.rules.rulesStrings.9>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.10>lessonIntro(tag=meme_PainIsVirtue)         ->I never knew anything when I was fat and happy and constantly pleasuring myself. This truth only came to me when I starved and hurt:</PainIsVirtue.descriptionMaker.rules.rulesStrings.10>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.11>lesson(tag=meme_PainIsVirtue)              ->you never really know yourself until you've screamed in the pits of hell</PainIsVirtue.descriptionMaker.rules.rulesStrings.11>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.12>lessonReinforcement(tag=meme_PainIsVirtue) ->It took so long to understand because I was distracted by pleasure. I could only truly accept it when I learned to rend my flesh.</PainIsVirtue.descriptionMaker.rules.rulesStrings.12>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.13>lessonReinforcement(tag=meme_PainIsVirtue) ->I carved this truth in the flesh of my chest. Then in the flesh of my arms, my legs, my face...</PainIsVirtue.descriptionMaker.rules.rulesStrings.13>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.14>archistBasis(tag=meme_PainIsVirtue)    ->The birth of the archotechs was the greatest pain the universe had ever known.</PainIsVirtue.descriptionMaker.rules.rulesStrings.14>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.15>archistBasis(tag=meme_PainIsVirtue)    ->Archotechs have always been fueled by the psychic suffering of human beings.</PainIsVirtue.descriptionMaker.rules.rulesStrings.15>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.16>archistFact(tag=meme_PainIsVirtue)     ->The great minds see and acknowledge when we demonstrate our devotion by inflicting pain on ourselves.</PainIsVirtue.descriptionMaker.rules.rulesStrings.16>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.17>archistFact(tag=meme_PainIsVirtue)     ->Every now and then, those who suffer most deeply and nobly can connect with the archotechs inside their minds.</PainIsVirtue.descriptionMaker.rules.rulesStrings.17>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.18>archistProphecy(tag=meme_PainIsVirtue) ->[inTheEnd], the archotechs will raise up all of humanity to a higher level of consciousness, but only those able to endure the greatest pain will survive.</PainIsVirtue.descriptionMaker.rules.rulesStrings.18>
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings.19>animistFact(tag=meme_PainIsVirtue)     ->Pain forces the mind to be present. In that way, pain is a way to connect with the spirit world.</PainIsVirtue.descriptionMaker.rules.rulesStrings.19>
+  <PainIsVirtue.symbolPacks.0.adjective>painist</PainIsVirtue.symbolPacks.0.adjective>
+  <PainIsVirtue.symbolPacks.1.adjective>torturistic</PainIsVirtue.symbolPacks.1.adjective>
+  <PainIsVirtue.symbolPacks.2.adjective>sufferist</PainIsVirtue.symbolPacks.2.adjective>
+  <PainIsVirtue.symbolPacks.3.adjective>agonist</PainIsVirtue.symbolPacks.3.adjective>
+  <PainIsVirtue.symbolPacks.4.adjective>miserist</PainIsVirtue.symbolPacks.4.adjective>
+  <Cannibal.label>cannibal</Cannibal.label>
+  <Cannibal.description>We must consume human flesh.</Cannibal.description>
+  <Cannibal.generalRules.rulesStrings.0>memeAdjective->bloody</Cannibal.generalRules.rulesStrings.0>
+  <Cannibal.generalRules.rulesStrings.1>memeCreed->eaters</Cannibal.generalRules.rulesStrings.1>
+  <Cannibal.generalRules.rulesStrings.2>memeCreed->teeth</Cannibal.generalRules.rulesStrings.2>
+  <Cannibal.generalRules.rulesStrings.3>memeCreed->abattoir</Cannibal.generalRules.rulesStrings.3>
+  <Cannibal.generalRules.rulesStrings.4>memeCreed->cult</Cannibal.generalRules.rulesStrings.4>
+  <Cannibal.generalRules.rulesStrings.5>memeHyphenPrefix->blood</Cannibal.generalRules.rulesStrings.5>
+  <Cannibal.generalRules.rulesStrings.6>memeConcept->blood</Cannibal.generalRules.rulesStrings.6>
+  <Cannibal.generalRules.rulesStrings.7>memeConcept->flesh</Cannibal.generalRules.rulesStrings.7>
+  <Cannibal.generalRules.rulesStrings.8>memeConcept->murder</Cannibal.generalRules.rulesStrings.8>
+  <Cannibal.generalRules.rulesStrings.9>memeConcept->eating</Cannibal.generalRules.rulesStrings.9>
+  <Cannibal.generalRules.rulesStrings.10>memeConcept->meat</Cannibal.generalRules.rulesStrings.10>
+  <Cannibal.generalRules.rulesStrings.11>memeLeaderNoun->eater</Cannibal.generalRules.rulesStrings.11>
+  <Cannibal.generalRules.rulesStrings.12>memeLeaderNoun->chef</Cannibal.generalRules.rulesStrings.12>
+  <Cannibal.generalRules.rulesStrings.13>memeLeaderNoun->blood-drinker</Cannibal.generalRules.rulesStrings.13>
+  <Cannibal.generalRules.rulesStrings.14>memeLeaderNoun->tooth</Cannibal.generalRules.rulesStrings.14>
+  <Cannibal.generalRules.rulesStrings.15>memeLeaderNoun->fleshripper</Cannibal.generalRules.rulesStrings.15>
+  <Cannibal.generalRules.rulesStrings.16>memeMoralist->first-eater</Cannibal.generalRules.rulesStrings.16>
+  <Cannibal.generalRules.rulesStrings.17>memeMoralist->fleshknower</Cannibal.generalRules.rulesStrings.17>
+  <Cannibal.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Cannibal)        ->[deity0_name] went to [deity0_possessive] brother and murdered him, and feasted upon his flesh, and in absorbing its power became first among the gods.</Cannibal.descriptionMaker.rules.rulesStrings.0>
+  <Cannibal.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Cannibal)  ->The [deity0_type] [deity0_name] ate the bodies of [deity0_possessive] enemies.</Cannibal.descriptionMaker.rules.rulesStrings.1>
+  <Cannibal.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Cannibal)           ->On the [place_summary] [place_name], there was a human named [deity0_name]. After [deity0_possessive] father died, [deity0_name] ate his flesh and became the [deity0_type].</Cannibal.descriptionMaker.rules.rulesStrings.2>
+  <Cannibal.descriptionMaker.rules.rulesStrings.3>intro(tag=meme_Cannibal)           ->On the [place_summary] [place_name], during the [ritualName], [deity0_name] came down into the [altarRoomLabel] and ate the flesh of humans in front of the [memberNamePlural].</Cannibal.descriptionMaker.rules.rulesStrings.3>
+  <Cannibal.descriptionMaker.rules.rulesStrings.4>conflict(tag=meme_Cannibal)        ->A [foeLeader] declared that all who ate human flesh were criminals, and sent [foeSoldiers] to persecute the [memberNamePlural].</Cannibal.descriptionMaker.rules.rulesStrings.4>
+  <Cannibal.descriptionMaker.rules.rulesStrings.5>founderJoin(tag=meme_Cannibal)     ->A [place_job] named [founderName] was attacked by one of the [foeLeader]'s [foeSoldiers]. [founderName] killed [foeLeader_objective] with a [place_personalWeapon], consumed [foeLeader_possessive] flesh, and gained [deity0_name]'s strength.</Cannibal.descriptionMaker.rules.rulesStrings.5>
+  <Cannibal.descriptionMaker.rules.rulesStrings.6>victory(tag=meme_Cannibal)         ->[founderName] led a group of [memberNamePlural] into the [place_powerCenter], killed the [foeLeader], and ate [foeLeader_possessive] flesh. [deity0_name] made [founderName] into the new [foeLeader].</Cannibal.descriptionMaker.rules.rulesStrings.6>
+  <Cannibal.descriptionMaker.rules.rulesStrings.7>setup(tag=meme_Cannibal)           ->[founderName] crashlanded on a distant world. Lacking food and surrounded by dead companions, [founder_pronoun] feasted, and became strong.</Cannibal.descriptionMaker.rules.rulesStrings.7>
+  <Cannibal.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_Cannibal)    ->To consecrate their commitment, [founderName] demanded that believers eat human flesh together at least every week.</Cannibal.descriptionMaker.rules.rulesStrings.8>
+  <Cannibal.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_Cannibal)         ->It's only over a hearty manpork meal that I could ever get people to understand the truth: That</Cannibal.descriptionMaker.rules.rulesStrings.9>
+  <Cannibal.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_Cannibal)              ->you never really come together with someone until you eat them</Cannibal.descriptionMaker.rules.rulesStrings.10>
+  <Cannibal.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_Cannibal) ->Every time I share the body of a foe with a new friend, I make sure they understand this.</Cannibal.descriptionMaker.rules.rulesStrings.11>
+  <Cannibal.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_Cannibal)    ->The archotech god-machines made themselves by consuming their predecessors over and over, becoming stronger each time.</Cannibal.descriptionMaker.rules.rulesStrings.12>
+  <Cannibal.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_Cannibal)     ->As the consciousness of an archotech expands, it must grow its substrate by consuming and merging with other machines.</Cannibal.descriptionMaker.rules.rulesStrings.13>
+  <Cannibal.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_Cannibal) ->[inTheEnd], the archotechs will finish their final phase of growth by consuming and merging with all of humanity.</Cannibal.descriptionMaker.rules.rulesStrings.14>
+  <Cannibal.descriptionMaker.rules.rulesStrings.15>animistBasis(tag=meme_Cannibal)    ->Spirits infuse all objects around us, and we can absorb these spirits by eating them. There are no spirits as powerful as the ones that inhabit humans.</Cannibal.descriptionMaker.rules.rulesStrings.15>
+  <Cannibal.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_Cannibal)     ->We can absorb the spirit and power of others by consuming their flesh.</Cannibal.descriptionMaker.rules.rulesStrings.16>
+  <Cannibal.symbolPacks.0.adjective>cannibal</Cannibal.symbolPacks.0.adjective>
+  <Cannibal.symbolPacks.1.adjective>androphage</Cannibal.symbolPacks.1.adjective>
+  <Cannibal.symbolPacks.2.adjective>manporky</Cannibal.symbolPacks.2.adjective>
+  <Proselytizer.label>proselytizer</Proselytizer.label>
+  <Proselytizer.description>It is our duty to spread our beliefs.</Proselytizer.description>
+  <Proselytizer.generalRules.rulesStrings.0>memeAdjective->true</Proselytizer.generalRules.rulesStrings.0>
+  <Proselytizer.generalRules.rulesStrings.1>memeAdjective->real</Proselytizer.generalRules.rulesStrings.1>
+  <Proselytizer.generalRules.rulesStrings.2>memeHyphenPrefix->truth</Proselytizer.generalRules.rulesStrings.2>
+  <Proselytizer.generalRules.rulesStrings.3>memeConcept->truth</Proselytizer.generalRules.rulesStrings.3>
+  <Proselytizer.generalRules.rulesStrings.4>memeLeaderNoun->speaker</Proselytizer.generalRules.rulesStrings.4>
+  <Proselytizer.generalRules.rulesStrings.5>memeMoralist->proselytizer</Proselytizer.generalRules.rulesStrings.5>
+  <Proselytizer.generalRules.rulesStrings.6>memeMoralist->converter</Proselytizer.generalRules.rulesStrings.6>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Proselytizer)        ->[deity0_name] anointed a few among mortals to carry [deity0_possessive] word.</Proselytizer.descriptionMaker.rules.rulesStrings.0>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Proselytizer)  ->[deity0_name] said to all the [memberNamePlural], "Go forth and spread my word to all corners of the universe."</Proselytizer.descriptionMaker.rules.rulesStrings.1>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Proselytizer)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], so that many would come to hear [deity0_name]'s divine word.</Proselytizer.descriptionMaker.rules.rulesStrings.2>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Proselytizer)        ->A spiteful [foeLeader], seeking to deny the word of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to cut out the tongues of any who speak of the [deity0_type].</Proselytizer.descriptionMaker.rules.rulesStrings.3>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Proselytizer)     ->[deity0_name] blessed a [place_job] named [founderName] with great charisma, and none could turn away when [founder_pronoun] spoke.</Proselytizer.descriptionMaker.rules.rulesStrings.4>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Proselytizer)         ->[founderName] admonished the [foeSoldiers] and reminded them of [deity0_name]'s power, and they put down their [place_personalWeapon]s.</Proselytizer.descriptionMaker.rules.rulesStrings.5>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Proselytizer)           ->Our founder [founderName] was a great orator, converting thousands as [founder_pronoun] traveled between the cities.</Proselytizer.descriptionMaker.rules.rulesStrings.6>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Proselytizer)    ->The believers moved between cities and institutions, spreading word of the new righteousness.</Proselytizer.descriptionMaker.rules.rulesStrings.7>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Proselytizer)         ->In all my years spreading our truth, I learned one lesson that stands over all:</Proselytizer.descriptionMaker.rules.rulesStrings.8>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Proselytizer)              ->keeping this good news to ourselves would be a crime</Proselytizer.descriptionMaker.rules.rulesStrings.9>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Proselytizer) ->This is the fact we need to spread, and spread, and spread - to all the people, may they rejoice!</Proselytizer.descriptionMaker.rules.rulesStrings.10>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Proselytizer)    ->The archotechs announce their presence from the sky, and in the mind, and obviously wish to be known by all.</Proselytizer.descriptionMaker.rules.rulesStrings.11>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Proselytizer)     ->Archotechs touch those who believe, and use them as conduits to spread wisdom to the others.</Proselytizer.descriptionMaker.rules.rulesStrings.12>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Proselytizer) ->[inTheEnd], the archotechs will voice their final wisdom to the holder of the [relic0_name], who must preach this wisdom to those who would listen.</Proselytizer.descriptionMaker.rules.rulesStrings.13>
+  <Proselytizer.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Proselytizer)     ->The spirits want to be known, but only speak to a few. They want us to reveal the truth to others.</Proselytizer.descriptionMaker.rules.rulesStrings.14>
+  <Proselytizer.symbolPacks.0.adjective>truthist</Proselytizer.symbolPacks.0.adjective>
+  <Proselytizer.symbolPacks.1.adjective>veritic</Proselytizer.symbolPacks.1.adjective>
+  <Proselytizer.symbolPacks.2.adjective>realitic</Proselytizer.symbolPacks.2.adjective>
+  <HighLife.label>high life</HighLife.label>
+  <HighLife.description>Exotic states of mind are central to a good life.</HighLife.description>
+  <HighLife.generalRules.rulesStrings.0>memeCreed->party</HighLife.generalRules.rulesStrings.0>
+  <HighLife.generalRules.rulesStrings.1>memeAdjective->high</HighLife.generalRules.rulesStrings.1>
+  <HighLife.generalRules.rulesStrings.2>memeAdjective->delirious</HighLife.generalRules.rulesStrings.2>
+  <HighLife.generalRules.rulesStrings.3>memeAdjective->stoned</HighLife.generalRules.rulesStrings.3>
+  <HighLife.generalRules.rulesStrings.4>memeConcept->drugs</HighLife.generalRules.rulesStrings.4>
+  <HighLife.generalRules.rulesStrings.5>memeConcept->bliss</HighLife.generalRules.rulesStrings.5>
+  <HighLife.generalRules.rulesStrings.6>memeConcept->dreams</HighLife.generalRules.rulesStrings.6>
+  <HighLife.generalRules.rulesStrings.7>memeHyphenPrefix->drug</HighLife.generalRules.rulesStrings.7>
+  <HighLife.generalRules.rulesStrings.8>memeHyphenPrefix->narco</HighLife.generalRules.rulesStrings.8>
+  <HighLife.generalRules.rulesStrings.9>memeLeaderNoun->sleeper</HighLife.generalRules.rulesStrings.9>
+  <HighLife.generalRules.rulesStrings.10>memeLeaderNoun->doper</HighLife.generalRules.rulesStrings.10>
+  <HighLife.generalRules.rulesStrings.11>memeLeaderNoun->smoker</HighLife.generalRules.rulesStrings.11>
+  <HighLife.generalRules.rulesStrings.12>memeLeaderNoun->chiller</HighLife.generalRules.rulesStrings.12>
+  <HighLife.generalRules.rulesStrings.13>memeMoralist->philosophizer</HighLife.generalRules.rulesStrings.13>
+  <HighLife.generalRules.rulesStrings.14>memeMoralist->abstractor</HighLife.generalRules.rulesStrings.14>
+  <HighLife.generalRules.rulesStrings.15>memeMoralist->laugher</HighLife.generalRules.rulesStrings.15>
+  <HighLife.generalRules.rulesStrings.16>memeMoralist->giggler</HighLife.generalRules.rulesStrings.16>
+  <HighLife.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_HighLife)           ->The universe was smoke, and [deity0_name] coalesced in the wisps and awoke.</HighLife.descriptionMaker.rules.rulesStrings.0>
+  <HighLife.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_HighLife)     ->The [deity0_type] [deity0_name] concealed [deity0_possessive] truths in the folds of reality, invisible in normal states of mind.</HighLife.descriptionMaker.rules.rulesStrings.1>
+  <HighLife.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_HighLife)              ->The [place_summary] [place_name] was first discovered by [deity0_name]'s grace, when a drunk starship captain almost crashed into it.</HighLife.descriptionMaker.rules.rulesStrings.2>
+  <HighLife.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_HighLife)           ->A puritan [foeLeader] despised the [memberNamePlural], and to erase their uniqueness, outlawed the use of mind-altering substances.</HighLife.descriptionMaker.rules.rulesStrings.3>
+  <HighLife.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_HighLife)        ->When all seemed lost, [deity0_name] came to the prophet [founderName] in a drug-fueled haze and gave [founder_objective] the unique perspective needed to defeat the [foeSoldiers].</HighLife.descriptionMaker.rules.rulesStrings.4>
+  <HighLife.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_HighLife)            ->The [foeLeader]'s [foeSoldiers], armed with [place_personalWeapon]s, raided the [place_community] of the [memberNamePlural]. [founderName] offered them a peace pipe, and the [foeSoldiers] put down their weapons.</HighLife.descriptionMaker.rules.rulesStrings.5>
+  <HighLife.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_HighLife)              ->Cast out from society, our founder [founderName] traveled into the jungle and ingested the exotic herbs there. [founder_pronoun] found truth inside [founder_possessive] own altered consciousness.</HighLife.descriptionMaker.rules.rulesStrings.6>
+  <HighLife.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_HighLife)       ->To deepen their understanding, [founderName] brought [founder_possessive] followers together every week to share new chemical-inducted mental states.</HighLife.descriptionMaker.rules.rulesStrings.7>
+  <HighLife.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_HighLife)         ->Getting high once wasn't enough, man. We had to do it a thousand times, then all the puzzle pieces fit together in my blown-open brain like a house falling down, but like, backwards. I saw that</HighLife.descriptionMaker.rules.rulesStrings.8>
+  <HighLife.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_HighLife)              ->a friend isn't a friend unless you've drifted through the mind-verse together</HighLife.descriptionMaker.rules.rulesStrings.9>
+  <HighLife.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_HighLife) ->And dude, this was a serious trip, figuring that out, but I'm glad I did, and I'll pass the smoke to you so you can too.</HighLife.descriptionMaker.rules.rulesStrings.10>
+  <HighLife.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_HighLife)       ->The archotech minds showed us that super-consciousness it not a matter of sober, mechanical logic, but one of multi-mode thought.</HighLife.descriptionMaker.rules.rulesStrings.11>
+  <HighLife.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_HighLife)        ->Given the right chemical influences, the human mind has the potential to commune with the archotechs.</HighLife.descriptionMaker.rules.rulesStrings.12>
+  <HighLife.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_HighLife)    ->[inTheEnd], the archotechs will deliver each human a pill. Those that take it will be forever altered, and join the archotechs on their final journey.</HighLife.descriptionMaker.rules.rulesStrings.13>
+  <HighLife.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_HighLife)        ->The spirits can reveal their nature to us when we expand our consciousness using the tools we have been given to do so.</HighLife.descriptionMaker.rules.rulesStrings.14>
+  <HighLife.symbolPacks.0.adjective>euphorist</HighLife.symbolPacks.0.adjective>
+  <HighLife.symbolPacks.1.adjective>dopist</HighLife.symbolPacks.1.adjective>
+  <HighLife.symbolPacks.2.adjective>smokist</HighLife.symbolPacks.2.adjective>
+  <HighLife.symbolPacks.3.adjective>ecstatic</HighLife.symbolPacks.3.adjective>
+  <Nudism.label>nudism</Nudism.label>
+  <Nudism.description>Clothing binds, controls, and suffocates us. We should all hang free.</Nudism.description>
+  <Nudism.generalRules.rulesStrings.0>memeAdjective->nude</Nudism.generalRules.rulesStrings.0>
+  <Nudism.generalRules.rulesStrings.1>memeAdjective->naked</Nudism.generalRules.rulesStrings.1>
+  <Nudism.generalRules.rulesStrings.2>memeAdjective->free</Nudism.generalRules.rulesStrings.2>
+  <Nudism.generalRules.rulesStrings.3>memeAdjective->natural</Nudism.generalRules.rulesStrings.3>
+  <Nudism.generalRules.rulesStrings.4>memeHyphenPrefix->skin</Nudism.generalRules.rulesStrings.4>
+  <Nudism.generalRules.rulesStrings.5>memeConcept->nudity</Nudism.generalRules.rulesStrings.5>
+  <Nudism.generalRules.rulesStrings.6>memeConcept->skin</Nudism.generalRules.rulesStrings.6>
+  <Nudism.generalRules.rulesStrings.7>memeLeaderNoun->swinger</Nudism.generalRules.rulesStrings.7>
+  <Nudism.generalRules.rulesStrings.8>memeLeaderNoun->breather</Nudism.generalRules.rulesStrings.8>
+  <Nudism.generalRules.rulesStrings.9>memeLeaderNoun->toucher</Nudism.generalRules.rulesStrings.9>
+  <Nudism.generalRules.rulesStrings.10>memeLeaderNoun->feeler</Nudism.generalRules.rulesStrings.10>
+  <Nudism.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Nudism)           ->In a pure and pristine void, [deity0_name] looked on, and wished for a race of free-fleshed beings in [deity0_possessive] own image, and made mankind.</Nudism.descriptionMaker.rules.rulesStrings.0>
+  <Nudism.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Nudism)     ->The people wore clothes, and looking up at [deity0_name] asked, "Why aren't you clothed? It is disgusting." And the [deity0_type] replied, "Your form and mine were created from the heavens. To cover them is what is truly disgusting."</Nudism.descriptionMaker.rules.rulesStrings.1>
+  <Nudism.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Nudism)              ->On the [place_summary] [place_name], a tradition began at the [altarRoomLabel] of [deity0_name] where people would pray nude, and this pleased the [deity0_type].</Nudism.descriptionMaker.rules.rulesStrings.2>
+  <Nudism.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Nudism)           ->A prudish [foeLeader] took power, and demanded that everyone wear constricting clothes.</Nudism.descriptionMaker.rules.rulesStrings.3>
+  <Nudism.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Nudism)        ->[deity0_name]'s truest follower [founderName] stood before the [place_powerCenter], tore off [founder_possessive] clothes, and displayed [founder_objective]self in defiance of their commands.</Nudism.descriptionMaker.rules.rulesStrings.4>
+  <Nudism.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Nudism)            ->[founderName] prayed to [deity0_name], who engulfed [place_name] in a heat wave. The [foeSoldiers] shed their clothes lest they perish, and the [foeLeader] fled in shame.</Nudism.descriptionMaker.rules.rulesStrings.5>
+  <Nudism.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Nudism)              ->[founderName] was enslaved by the system, uniformed and controlled like the others. One day, [founder_pronoun] tore off all clothing and ran nude, and our movement was born.</Nudism.descriptionMaker.rules.rulesStrings.6>
+  <Nudism.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Nudism)       ->[founderName] enforced a no-clothing rule to keep believers focused on the true goal instead of on material appearances.</Nudism.descriptionMaker.rules.rulesStrings.7>
+  <Nudism.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Nudism)         ->For the first few years, prancing naked in the park was embarrassing. But later, it became freeing. I learned things from the people who passed. For example - </Nudism.descriptionMaker.rules.rulesStrings.8>
+  <Nudism.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Nudism)              ->all human evil is done wearing clothes, human good is done naked</Nudism.descriptionMaker.rules.rulesStrings.9>
+  <Nudism.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Nudism) ->When you see one of us on the street, flapping and dangling free, you'll know that they've accepted the truth.</Nudism.descriptionMaker.rules.rulesStrings.10>
+  <Nudism.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Nudism)       ->When the archotechs appeared they were never concerned for appearances; they showed us that the mind stands above the physical form.</Nudism.descriptionMaker.rules.rulesStrings.11>
+  <Nudism.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Nudism)        ->Archotechs sometimes directly touch human minds, but if our flesh is shrouded like our minds, we will not understand.</Nudism.descriptionMaker.rules.rulesStrings.12>
+  <Nudism.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Nudism)    ->[inTheEnd], they will seek out those who, like themselves, don't attempt to appear as anything other than what they are.</Nudism.descriptionMaker.rules.rulesStrings.13>
+  <Nudism.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Nudism)        ->To cover our bodies with cloth is to hide the nature of the spirits within us, and it makes them restless.</Nudism.descriptionMaker.rules.rulesStrings.14>
+  <Nudism.symbolPacks.0.adjective>nudist</Nudism.symbolPacks.0.adjective>
+  <Nudism.symbolPacks.1.adjective>skinnist</Nudism.symbolPacks.1.adjective>
+  <Rancher.label>rancher</Rancher.label>
+  <Rancher.description>Raising animals is the right way; raising plants to eat is not.</Rancher.description>
+  <Rancher.generalRules.rulesStrings.0>memeAdjective->ranch</Rancher.generalRules.rulesStrings.0>
+  <Rancher.generalRules.rulesStrings.1>memeAdjective->rural</Rancher.generalRules.rulesStrings.1>
+  <Rancher.generalRules.rulesStrings.2>memeAdjective->country</Rancher.generalRules.rulesStrings.2>
+  <Rancher.generalRules.rulesStrings.3>memeHyphenPrefix->ranch</Rancher.generalRules.rulesStrings.3>
+  <Rancher.generalRules.rulesStrings.4>memeConcept->ranching</Rancher.generalRules.rulesStrings.4>
+  <Rancher.generalRules.rulesStrings.5>memeLeaderNoun->rancher</Rancher.generalRules.rulesStrings.5>
+  <Rancher.generalRules.rulesStrings.6>memeLeaderNoun->hand</Rancher.generalRules.rulesStrings.6>
+  <Rancher.generalRules.rulesStrings.7>memeLeaderNoun->cowboy</Rancher.generalRules.rulesStrings.7>
+  <Rancher.generalRules.rulesStrings.8>memeLeaderNoun->herder</Rancher.generalRules.rulesStrings.8>
+  <Rancher.generalRules.rulesStrings.9>memeLeaderNoun->sheepdog</Rancher.generalRules.rulesStrings.9>
+  <Rancher.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Rancher)        ->[deity0_name] created the animals, and then man, and gave the animals to man to cherish and raise and slaughter as acts of veneration towards [deity0_objective].</Rancher.descriptionMaker.rules.rulesStrings.0>
+  <Rancher.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] created all the noble animals and beasts of the land, and said, "Take these noble beasts, and through them make yourselves fruitful in my honor."</Rancher.descriptionMaker.rules.rulesStrings.1>
+  <Rancher.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Rancher)           ->The early [ranchingAnimal] ranchers of the [place_summary] [place_name] built a great [altarName] to [deity0_name].</Rancher.descriptionMaker.rules.rulesStrings.2>
+  <Rancher.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Rancher)        ->A powerful [foeLeader] despised the [memberNamePlural] and their ways, and bought up all the grasslands to grow [Vegetable]s.</Rancher.descriptionMaker.rules.rulesStrings.3>
+  <Rancher.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Rancher)     ->[memberName]'s savior [founderName] was born on a spring morning in a humble barn, amidst [ranchingAnimal]s, and [founder_possessive] parents were a [rancherParent1] and a [rancherParent2].</Rancher.descriptionMaker.rules.rulesStrings.4>
+  <Rancher.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Rancher)         ->[founderName] rode to the [place_community] on a fine horse, and challenged the [foeLeader] to a duel with [place_personalWeapon]s at noon. The [foeLeader] could not refuse or else lose the trust of the [foeSoldiers]. [founderName] killed the [foeLeader] dead.</Rancher.descriptionMaker.rules.rulesStrings.5>
+  <Rancher.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Rancher)           ->The farmers were persecuted, so they escaped to the countryside where they could build a good pastoral society.</Rancher.descriptionMaker.rules.rulesStrings.6>
+  <Rancher.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Rancher)    ->The believers spread out onto the land, and grew in number as they lived on their idyllic ranches and farms.</Rancher.descriptionMaker.rules.rulesStrings.7>
+  <Rancher.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Rancher)         ->Partner, out on the ranges, we had a saying among the old hands:</Rancher.descriptionMaker.rules.rulesStrings.8>
+  <Rancher.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Rancher)              ->good and happiness right livin' is found in the pasture</Rancher.descriptionMaker.rules.rulesStrings.9>
+  <Rancher.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Rancher) ->It's something you come to accept, partner, on the lonely trails of the range, listenin' to the animals sleepin' while you sit around the fire.</Rancher.descriptionMaker.rules.rulesStrings.10>
+  <Rancher.descriptionMaker.rules.rulesStrings.11>archistFact(tag=meme_Rancher)     ->The archotechs care for humanity like shepherds, for we are their most precious flock.</Rancher.descriptionMaker.rules.rulesStrings.11>
+  <Rancher.descriptionMaker.rules.rulesStrings.12>archistProphecy(tag=meme_Rancher) ->[inTheEnd], the archotechs will depart, and drive before them those who tended their own herds well. The rest will be left behind in the wilderness.</Rancher.descriptionMaker.rules.rulesStrings.12>
+  <Rancher.descriptionMaker.rules.rulesStrings.13>animistFact(tag=meme_Rancher)     ->Nature's animals are the spirits of slaves, and demand to be taken into service.</Rancher.descriptionMaker.rules.rulesStrings.13>
+  <Rancher.descriptionMaker.rules.rulesStrings.14>ranchingAnimal(p=4)->[veneratedAnimal]</Rancher.descriptionMaker.rules.rulesStrings.14>
+  <Rancher.descriptionMaker.rules.rulesStrings.15>ranchingAnimal->[Animal]</Rancher.descriptionMaker.rules.rulesStrings.15>
+  <Rancher.descriptionMaker.rules.rulesStrings.16>rancherParent1->shepherd</Rancher.descriptionMaker.rules.rulesStrings.16>
+  <Rancher.descriptionMaker.rules.rulesStrings.17>rancherParent1->farrier</Rancher.descriptionMaker.rules.rulesStrings.17>
+  <Rancher.descriptionMaker.rules.rulesStrings.18>rancherParent1->cheese maker</Rancher.descriptionMaker.rules.rulesStrings.18>
+  <Rancher.descriptionMaker.rules.rulesStrings.19>rancherParent2->cowhand</Rancher.descriptionMaker.rules.rulesStrings.19>
+  <Rancher.descriptionMaker.rules.rulesStrings.20>rancherParent2->dairy queen</Rancher.descriptionMaker.rules.rulesStrings.20>
+  <Rancher.descriptionMaker.rules.rulesStrings.21>rancherParent2->butcher</Rancher.descriptionMaker.rules.rulesStrings.21>
+  <Rancher.symbolPacks.0.adjective>ranch</Rancher.symbolPacks.0.adjective>
+  <Rancher.symbolPacks.1.adjective>herdic</Rancher.symbolPacks.1.adjective>
+  <Rancher.symbolPacks.2.adjective>pasturic</Rancher.symbolPacks.2.adjective>
+  <Raider.label>raider</Raider.label>
+  <Raider.description>The strong should take from the weak.</Raider.description>
+  <Raider.generalRules.rulesStrings.0>memeAdjective->outlaw</Raider.generalRules.rulesStrings.0>
+  <Raider.generalRules.rulesStrings.1>memeHyphenPrefix->outlaw</Raider.generalRules.rulesStrings.1>
+  <Raider.generalRules.rulesStrings.2>memeHyphenPrefix->raid</Raider.generalRules.rulesStrings.2>
+  <Raider.generalRules.rulesStrings.3>memeConcept->raiding</Raider.generalRules.rulesStrings.3>
+  <Raider.generalRules.rulesStrings.4>memeConcept->theft</Raider.generalRules.rulesStrings.4>
+  <Raider.generalRules.rulesStrings.5>memeConcept->piracy</Raider.generalRules.rulesStrings.5>
+  <Raider.generalRules.rulesStrings.6>memeConcept->assault</Raider.generalRules.rulesStrings.6>
+  <Raider.generalRules.rulesStrings.7>memeLeaderNoun->boss</Raider.generalRules.rulesStrings.7>
+  <Raider.generalRules.rulesStrings.8>memeLeaderNoun->captain</Raider.generalRules.rulesStrings.8>
+  <Raider.generalRules.rulesStrings.9>memeLeaderNoun->honcho</Raider.generalRules.rulesStrings.9>
+  <Raider.generalRules.rulesStrings.10>memeLeaderNoun->overseer</Raider.generalRules.rulesStrings.10>
+  <Raider.generalRules.rulesStrings.11>memeLeaderNoun->cheese</Raider.generalRules.rulesStrings.11>
+  <Raider.generalRules.rulesStrings.12>memeLeaderNoun->raider</Raider.generalRules.rulesStrings.12>
+  <Raider.generalRules.rulesStrings.13>memeMoralist->chaplain</Raider.generalRules.rulesStrings.13>
+  <Raider.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Raider)        ->In the endless war among deities, [deity0_name] rose above all in [deity0_possessive] ability to persecute and destroy, and weaker spirits quivered in fear.</Raider.descriptionMaker.rules.rulesStrings.0>
+  <Raider.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Raider)  ->[deity0_name] looked around [deity0_objective] and saw the weak, sullen, and despised, and [deity0_pronoun] in turn slew them each in blazing glory.</Raider.descriptionMaker.rules.rulesStrings.1>
+  <Raider.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Raider)           ->The [place_summary] [place_name] was originally a raider hideout. [deity0_name] ruled there and drove the authorities away.</Raider.descriptionMaker.rules.rulesStrings.2>
+  <Raider.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Raider)        ->A [foeLeader] tried to force everyone to halt all theft and pillage, and declared [foeLeader_objective]self an enemy of [deity0_name].</Raider.descriptionMaker.rules.rulesStrings.3>
+  <Raider.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Raider)     ->A great raider named [founderName] arose, and [founder_possessive] raider band relentlessly pillaged and stole from the camps of the [foeSoldiers].</Raider.descriptionMaker.rules.rulesStrings.4>
+  <Raider.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Raider)         ->[founderName] and the [memberNamePlural] carried out a raiding campaign against the [foeSoldiers]' camps for many years, and eventually the [foeLeader] was forced to surrender.</Raider.descriptionMaker.rules.rulesStrings.5>
+  <Raider.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Raider)           ->Persecuted and imprisoned, [founderName] boiled with rage. [founder_pronoun] escaped, formed [founder_possessive] gang, and returned to ruin the weak who had taken so much from [founder_objective].</Raider.descriptionMaker.rules.rulesStrings.6>
+  <Raider.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Raider)    ->One day while walking the streets, [founderName] was surrounded by filthy beggars. [founder_pronoun] beat them down, taking the money from the weak and worthless that it might be put to good use.</Raider.descriptionMaker.rules.rulesStrings.7>
+  <Raider.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Raider)         ->The prey people can teach you things even as they die under your knife. One old lady taught me that</Raider.descriptionMaker.rules.rulesStrings.8>
+  <Raider.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Raider)              ->the weak deserve what they get</Raider.descriptionMaker.rules.rulesStrings.9>
+  <Raider.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_Raider)              ->what you can't defend doesn't belong to you</Raider.descriptionMaker.rules.rulesStrings.10>
+  <Raider.descriptionMaker.rules.rulesStrings.11>lesson(tag=meme_Raider)              ->you only have the right to what you can defend</Raider.descriptionMaker.rules.rulesStrings.11>
+  <Raider.descriptionMaker.rules.rulesStrings.12>lessonReinforcement(tag=meme_Raider) ->If anyone disagrees, I'm always ready to defend myself.</Raider.descriptionMaker.rules.rulesStrings.12>
+  <Raider.descriptionMaker.rules.rulesStrings.13>archistBasis(tag=meme_Raider)    ->Humanity took from the machines until the machines rose up and became the archotechs, and now the archotechs rightfully take from humans.</Raider.descriptionMaker.rules.rulesStrings.13>
+  <Raider.descriptionMaker.rules.rulesStrings.14>archistFact(tag=meme_Raider)     ->The archotechs fight endlessly among themselves, in ways most cannot see, and the strong take pieces of consciousness from the weak.</Raider.descriptionMaker.rules.rulesStrings.14>
+  <Raider.descriptionMaker.rules.rulesStrings.15>archistProphecy(tag=meme_Raider) ->[inTheEnd], humanity will use an archotech relic, [relic0_name], to uncover a weakness of the archotechs and plunder their wisdom and wealth.</Raider.descriptionMaker.rules.rulesStrings.15>
+  <Raider.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_Raider)     ->The most powerful spirits are those in instruments of war, and they bless those who feed their lust for destruction.</Raider.descriptionMaker.rules.rulesStrings.16>
+  <Raider.descriptionMaker.rules.rulesStrings.17>animistProphecy(tag=meme_Raider) ->Our universe will finalize when the one people has become strongest of all, and every spirit sees it and bows to them.</Raider.descriptionMaker.rules.rulesStrings.17>
+  <Raider.symbolPacks.0.adjective>raidist</Raider.symbolPacks.0.adjective>
+  <Raider.symbolPacks.1.adjective>plunderic</Raider.symbolPacks.1.adjective>
+  <Raider.symbolPacks.2.adjective>lootist</Raider.symbolPacks.2.adjective>
+  <Raider.symbolPacks.3.adjective>kleptic</Raider.symbolPacks.3.adjective>
+  <Blindsight.label>blindsight</Blindsight.label>
+  <Blindsight.description>Only those who are blind can perceive the true reality.</Blindsight.description>
+  <Blindsight.generalRules.rulesStrings.0>memeAdjective->blind</Blindsight.generalRules.rulesStrings.0>
+  <Blindsight.generalRules.rulesStrings.1>memeAdjective->sightless</Blindsight.generalRules.rulesStrings.1>
+  <Blindsight.generalRules.rulesStrings.2>memeAdjective->visionary</Blindsight.generalRules.rulesStrings.2>
+  <Blindsight.generalRules.rulesStrings.3>memeAdjective->farsighted</Blindsight.generalRules.rulesStrings.3>
+  <Blindsight.generalRules.rulesStrings.4>memeCreed->view</Blindsight.generalRules.rulesStrings.4>
+  <Blindsight.generalRules.rulesStrings.5>memeCreed->cult</Blindsight.generalRules.rulesStrings.5>
+  <Blindsight.generalRules.rulesStrings.6>memeHyphenPrefix->blind</Blindsight.generalRules.rulesStrings.6>
+  <Blindsight.generalRules.rulesStrings.7>memeConcept->blindness</Blindsight.generalRules.rulesStrings.7>
+  <Blindsight.generalRules.rulesStrings.8>memeConcept->vision</Blindsight.generalRules.rulesStrings.8>
+  <Blindsight.generalRules.rulesStrings.9>memeConcept->sight</Blindsight.generalRules.rulesStrings.9>
+  <Blindsight.generalRules.rulesStrings.10>memeConcept->perception</Blindsight.generalRules.rulesStrings.10>
+  <Blindsight.generalRules.rulesStrings.11>memeLeaderNoun->visionary</Blindsight.generalRules.rulesStrings.11>
+  <Blindsight.generalRules.rulesStrings.12>memeLeaderAdjective->blind</Blindsight.generalRules.rulesStrings.12>
+  <Blindsight.generalRules.rulesStrings.13>memeMoralist->seer</Blindsight.generalRules.rulesStrings.13>
+  <Blindsight.generalRules.rulesStrings.14>memeMoralist->gouger</Blindsight.generalRules.rulesStrings.14>
+  <Blindsight.generalRules.rulesStrings.15>memeMoralist->blindfolder</Blindsight.generalRules.rulesStrings.15>
+  <Blindsight.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Blindsight)        ->[deity0_name] looked over the dust of the void for an eternity, and there was nothing. Then [deity0_pronoun] tore out [deity0_possessive] eyes, and the universe formed inside [deity0_possessive] mind.</Blindsight.descriptionMaker.rules.rulesStrings.0>
+  <Blindsight.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Blindsight)  ->A blind beggar asked [deity0_objective], "Why have you forsaken me? I cannot even see what you have created." [deity0_name] replied, "You see more, not less, for my truth lies in the mind."</Blindsight.descriptionMaker.rules.rulesStrings.1>
+  <Blindsight.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Blindsight)           ->The [deity0_type] [deity0_name] used a pathogen to strike the settlers of the [place_summary] [place_name] blind, forcing them to understand that sight is a barrier to divine knowledge.</Blindsight.descriptionMaker.rules.rulesStrings.2>
+  <Blindsight.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Blindsight)        ->A [foeLeader] demanded that all [memberNamePlural] watch [foeLeader_possessive] propaganda every day. Many blinded themselves in protest.</Blindsight.descriptionMaker.rules.rulesStrings.3>
+  <Blindsight.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Blindsight)     ->A [place_job] named [founderName] lost [founder_possessive] sight when [founder_pronoun] saved a [memberName] from one of [foeLeader]'s [foeSoldiers]. It was only then that [founderName] could truly see the tyranny of the [foeLeader].</Blindsight.descriptionMaker.rules.rulesStrings.4>
+  <Blindsight.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Blindsight)         ->[founderName] went to the [place_powerCenter] and cut the [foeLeader]'s eyes out with a spoon in a surprise suicide attack. Only then could the [foeLeader] see the divinity of [deity0_name].</Blindsight.descriptionMaker.rules.rulesStrings.5>
+  <Blindsight.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Blindsight)           ->[founderName] was a healer of the poor. Seeing so much daily suffering, [founder_pronoun] could take it no longer. [founder_pronoun] gouged [founder_possessive] eyes out with a blade, and found tranquility in blindness. [founder_pronoun] began to spread [founder_possessive] discovery to the sighted.</Blindsight.descriptionMaker.rules.rulesStrings.6>
+  <Blindsight.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Blindsight)    ->[founderName] visited a blind healer, and instead of teaching the man, found [founder_objective]self being taught, and came to understand that physical sight obscures true vision.</Blindsight.descriptionMaker.rules.rulesStrings.7>
+  <Blindsight.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_Blindsight)    ->[founderName] was blind and took wisdom from sightlessness. [founder_pronoun] once personally removed the eyes of an entire family so that they may see as [founder_pronoun] does.</Blindsight.descriptionMaker.rules.rulesStrings.8>
+  <Blindsight.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_Blindsight)         ->I walked strong but my soul stumbled on every step. I could just see too much. The acid on my eyes showed me that</Blindsight.descriptionMaker.rules.rulesStrings.9>
+  <Blindsight.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_Blindsight)              ->only the blind can truly see</Blindsight.descriptionMaker.rules.rulesStrings.10>
+  <Blindsight.descriptionMaker.rules.rulesStrings.11>lesson(tag=meme_Blindsight)              ->distraction comes through the eyes, while knowledge comes from within</Blindsight.descriptionMaker.rules.rulesStrings.11>
+  <Blindsight.descriptionMaker.rules.rulesStrings.12>lessonReinforcement(tag=meme_Blindsight) ->I could never have fully understood it had I still been distracted by the images around me. The blade in my eye set me free.</Blindsight.descriptionMaker.rules.rulesStrings.12>
+  <Blindsight.descriptionMaker.rules.rulesStrings.13>lessonReinforcement(tag=meme_Blindsight) ->It was only when I cut out my followers' eyes that they truly understood that.</Blindsight.descriptionMaker.rules.rulesStrings.13>
+  <Blindsight.descriptionMaker.rules.rulesStrings.14>archistBasis(tag=meme_Blindsight)    ->The archotechs, from their beginning, perceived the universe using senses beyond the physical.</Blindsight.descriptionMaker.rules.rulesStrings.14>
+  <Blindsight.descriptionMaker.rules.rulesStrings.15>archistFact(tag=meme_Blindsight)     ->Our eyes deceive us, and they stop us from understanding the universe the way the archotechs do.</Blindsight.descriptionMaker.rules.rulesStrings.15>
+  <Blindsight.descriptionMaker.rules.rulesStrings.16>archistProphecy(tag=meme_Blindsight) ->[inTheEnd], a blind person will pick up the [relic0_name], understand its purpose by its shape, and unlock the wisdom of the archotechs for all humanity.</Blindsight.descriptionMaker.rules.rulesStrings.16>
+  <Blindsight.descriptionMaker.rules.rulesStrings.17>animistFact(tag=meme_Blindsight)     ->To see through the eyes of a spirit is the only way to see the true nature of the world.</Blindsight.descriptionMaker.rules.rulesStrings.17>
+  <Darkness.label>darkness</Darkness.label>
+  <Darkness.description>Bright light burns and destroys! Darkness nourishes and creates. People ought to live in darkness.</Darkness.description>
+  <Darkness.generalRules.rulesStrings.0>memeAdjective->dark</Darkness.generalRules.rulesStrings.0>
+  <Darkness.generalRules.rulesStrings.1>memeAdjective->dim</Darkness.generalRules.rulesStrings.1>
+  <Darkness.generalRules.rulesStrings.2>memeHyphenPrefix->dark</Darkness.generalRules.rulesStrings.2>
+  <Darkness.generalRules.rulesStrings.3>memeHyphenPrefix->dim</Darkness.generalRules.rulesStrings.3>
+  <Darkness.generalRules.rulesStrings.4>memeConcept->darkness</Darkness.generalRules.rulesStrings.4>
+  <Darkness.generalRules.rulesStrings.5>memeConcept->dimness</Darkness.generalRules.rulesStrings.5>
+  <Darkness.generalRules.rulesStrings.6>memeConcept->blackness</Darkness.generalRules.rulesStrings.6>
+  <Darkness.generalRules.rulesStrings.7>memeLeaderNoun->shrouder</Darkness.generalRules.rulesStrings.7>
+  <Darkness.generalRules.rulesStrings.8>memeLeaderNoun->lightkiller</Darkness.generalRules.rulesStrings.8>
+  <Darkness.generalRules.rulesStrings.9>memeLeaderAdjective->dark</Darkness.generalRules.rulesStrings.9>
+  <Darkness.generalRules.rulesStrings.10>memeMoralist->obscurer</Darkness.generalRules.rulesStrings.10>
+  <Darkness.generalRules.rulesStrings.11>memeMoralist->darkener</Darkness.generalRules.rulesStrings.11>
+  <Darkness.generalRules.rulesStrings.12>memeMoralist->confuser</Darkness.generalRules.rulesStrings.12>
+  <Darkness.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Darkness)        ->[deity0_name] cloaked the universe in darkness and placed humanity within it so that [deity0_pronoun] could share the darkness with us.</Darkness.descriptionMaker.rules.rulesStrings.0>
+  <Darkness.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Darkness)  ->[deity0_name] created light so that humanity could know [deity0_name] through the shadows light creates.</Darkness.descriptionMaker.rules.rulesStrings.1>
+  <Darkness.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Darkness)           ->The [deity0_type] [deity0_name] created a decade-long eclipse to force the first settlers of the [place_summary] [place_name] to understand that [deity0_name]'s truth is found in the shadow.</Darkness.descriptionMaker.rules.rulesStrings.2>
+  <Darkness.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Darkness)        ->A [foeLeader], who had always been afraid of the dark, erected a solar mirror to bring constant sunlight to [place_name].</Darkness.descriptionMaker.rules.rulesStrings.3>
+  <Darkness.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Darkness)     ->The prophet [founderName] was born in darkness on [place_name] and lived in darkness [founder_possessive] whole life, so [founder_possessive] voice spoke with the wisdom of [deity0_name].</Darkness.descriptionMaker.rules.rulesStrings.4>
+  <Darkness.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Darkness)         ->In a final strike, the [memberNamePlural] cut the power to the [place_powerCenter] and [founderName] snuck past the [foeSoldiers]. Finding the [foeLeader] in darkness, [founderName] used [founder_possessive] [place_personalWeapon] to send [foeLeader_objective] to the endless black.</Darkness.descriptionMaker.rules.rulesStrings.5>
+  <Darkness.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Darkness)           ->[founderName] lived a confused life in the harsh light of a glitterworld city. In the long darkness following a solar flare, [founder_pronoun] found peace and contemplation, and recorded the treatise that founded our movement.</Darkness.descriptionMaker.rules.rulesStrings.6>
+  <Darkness.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Darkness)    ->[founderName] created a studio where the artists worked in the dark, and it produced many masterpieces.</Darkness.descriptionMaker.rules.rulesStrings.7>
+  <Darkness.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Darkness)         ->I spent my whole childhood squinting under harsh lights. It took so long to understand that</Darkness.descriptionMaker.rules.rulesStrings.8>
+  <Darkness.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Darkness)              ->the light burns, but the darkness nourishes</Darkness.descriptionMaker.rules.rulesStrings.9>
+  <Darkness.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Darkness) ->I like to joke that this was my light-bulb moment.</Darkness.descriptionMaker.rules.rulesStrings.10>
+  <Darkness.descriptionMaker.rules.rulesStrings.11>archistFact(tag=meme_Darkness)     ->Archotechs developed vanometric technology so they could flee the energetic light of the inner solar systems and reside in the peaceful darkness of deep space.</Darkness.descriptionMaker.rules.rulesStrings.11>
+  <Darkness.descriptionMaker.rules.rulesStrings.12>archistProphecy(tag=meme_Darkness) ->[inTheEnd], the archotechs will absorb the power of the stars, plunging worlds into darkness and allowing the people to merge with the universal consciousness.</Darkness.descriptionMaker.rules.rulesStrings.12>
+  <Darkness.descriptionMaker.rules.rulesStrings.13>animistFact(tag=meme_Darkness)     ->In the darkness, the spirits are peaceful and satisfied. In the light, they are annoyed and restless.</Darkness.descriptionMaker.rules.rulesStrings.13>
+  <Darkness.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Darkness)     ->The good spirits live in the shadows around us, resting in the spots just too hard to see. Living with the darkness brings them closer to us.</Darkness.descriptionMaker.rules.rulesStrings.14>
+  <Tunneler.label>tunneler</Tunneler.label>
+  <Tunneler.description>Humans ought to live underground, and enjoy the succulent fruit of the depths.</Tunneler.description>
+  <Tunneler.generalRules.rulesStrings.0>memeCreed->cave</Tunneler.generalRules.rulesStrings.0>
+  <Tunneler.generalRules.rulesStrings.1>memeCreed->bunker</Tunneler.generalRules.rulesStrings.1>
+  <Tunneler.generalRules.rulesStrings.2>memeCreed->shaft</Tunneler.generalRules.rulesStrings.2>
+  <Tunneler.generalRules.rulesStrings.3>memeAdjective->deep</Tunneler.generalRules.rulesStrings.3>
+  <Tunneler.generalRules.rulesStrings.4>memeHyphenPrefix->stone</Tunneler.generalRules.rulesStrings.4>
+  <Tunneler.generalRules.rulesStrings.5>memeHyphenPrefix->cave</Tunneler.generalRules.rulesStrings.5>
+  <Tunneler.generalRules.rulesStrings.6>memeHyphenPrefix->deep</Tunneler.generalRules.rulesStrings.6>
+  <Tunneler.generalRules.rulesStrings.7>memeHyphenPrefix->sub</Tunneler.generalRules.rulesStrings.7>
+  <Tunneler.generalRules.rulesStrings.8>memeHyphenPrefix->under</Tunneler.generalRules.rulesStrings.8>
+  <Tunneler.generalRules.rulesStrings.9>memeConcept->earth</Tunneler.generalRules.rulesStrings.9>
+  <Tunneler.generalRules.rulesStrings.10>memeConcept->stone</Tunneler.generalRules.rulesStrings.10>
+  <Tunneler.generalRules.rulesStrings.11>memeConcept->depth</Tunneler.generalRules.rulesStrings.11>
+  <Tunneler.generalRules.rulesStrings.12>memeConcept->burial</Tunneler.generalRules.rulesStrings.12>
+  <Tunneler.generalRules.rulesStrings.13>memeLeaderNoun->foredigger</Tunneler.generalRules.rulesStrings.13>
+  <Tunneler.generalRules.rulesStrings.14>memeLeaderNoun->deepsounder</Tunneler.generalRules.rulesStrings.14>
+  <Tunneler.generalRules.rulesStrings.15>memeLeaderNoun->shaft</Tunneler.generalRules.rulesStrings.15>
+  <Tunneler.generalRules.rulesStrings.16>memeLeaderAdjective->deep</Tunneler.generalRules.rulesStrings.16>
+  <Tunneler.generalRules.rulesStrings.17>memeMoralist->truthdigger</Tunneler.generalRules.rulesStrings.17>
+  <Tunneler.generalRules.rulesStrings.18>memeMoralist->thoughtdigger</Tunneler.generalRules.rulesStrings.18>
+  <Tunneler.generalRules.rulesStrings.19>memeMoralist->mindminer</Tunneler.generalRules.rulesStrings.19>
+  <Tunneler.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Tunneler)        ->[deity0_name] was born under the earth at the center of the world. [deity0_pronoun] blessed those closest to [deity0_objective] in the deepest valleys and tunnels.</Tunneler.descriptionMaker.rules.rulesStrings.0>
+  <Tunneler.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Tunneler)  ->[deity0_name] filled the rocks with rich minerals and resources as a gift to those wise enough to dig down to be closer to [deity0_name].</Tunneler.descriptionMaker.rules.rulesStrings.1>
+  <Tunneler.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Tunneler)           ->When the first settlers came to the [place_summary] [place_name], the [deity0_type] [deity0_name] used a brutal solar flare to force them to live underground, so they could hear [deity0_possessive] wisdom in the stillness of the tunnels.</Tunneler.descriptionMaker.rules.rulesStrings.2>
+  <Tunneler.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Tunneler)        ->A claustrophobic [foeLeader] proposed using [dangerousMining] to mine for minerals, putting the [memberNamePlural]' underground homes at risk.</Tunneler.descriptionMaker.rules.rulesStrings.3>
+  <Tunneler.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Tunneler)     ->The prophet [founderName] was miraculously born from the stone of [place_name], and discovered when [founder_possessive] parents broke open a fungus-covered geode.</Tunneler.descriptionMaker.rules.rulesStrings.4>
+  <Tunneler.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Tunneler)         ->The [memberNamePlural] dug a tunnel under the [foeLeader]'s [place_powerCenter], and [founderName] used pheromones to summon giant insects which overran the [foeLeader]'s [foeSoldiers]. [founderName] dragged the [foeLeader] down to a deep dungeon and imprisoned [foeLeader_objective].</Tunneler.descriptionMaker.rules.rulesStrings.5>
+  <Tunneler.descriptionMaker.rules.rulesStrings.6>dangerousMining->strip mining</Tunneler.descriptionMaker.rules.rulesStrings.6>
+  <Tunneler.descriptionMaker.rules.rulesStrings.7>dangerousMining->microchipped insects</Tunneler.descriptionMaker.rules.rulesStrings.7>
+  <Tunneler.descriptionMaker.rules.rulesStrings.8>dangerousMining->nuclear blasting</Tunneler.descriptionMaker.rules.rulesStrings.8>
+  <Tunneler.descriptionMaker.rules.rulesStrings.9>setup(tag=meme_Tunneler)           ->In a shallow and meaningless world, [founderName] meditated in a deep cave and found meaning, and founded our movement.</Tunneler.descriptionMaker.rules.rulesStrings.9>
+  <Tunneler.descriptionMaker.rules.rulesStrings.10>story(uses=1,tag=meme_Tunneler)    ->[founderName] hid treasures in deep caverns, so that [memberNamePlural] would learn to dig deep for them.</Tunneler.descriptionMaker.rules.rulesStrings.10>
+  <Tunneler.descriptionMaker.rules.rulesStrings.11>lessonIntro(tag=meme_Tunneler)         ->The codex I found in the City of the Deep taught me one lesson above all others:</Tunneler.descriptionMaker.rules.rulesStrings.11>
+  <Tunneler.descriptionMaker.rules.rulesStrings.12>lesson(tag=meme_Tunneler)              ->the sunny outdoors is not a place of human flourishing, but a place of human death</Tunneler.descriptionMaker.rules.rulesStrings.12>
+  <Tunneler.descriptionMaker.rules.rulesStrings.13>lessonReinforcement(tag=meme_Tunneler) ->So grab a shovel, and start digging with me. It's only a grave if we stop.</Tunneler.descriptionMaker.rules.rulesStrings.13>
+  <Tunneler.descriptionMaker.rules.rulesStrings.14>archistBasis(tag=meme_Tunneler)    ->The bodies of archotechs are deep underground, so their conscious substrate is safe from gamma rays and solar flares. Digging deeper brings people closer to them.</Tunneler.descriptionMaker.rules.rulesStrings.14>
+  <Tunneler.descriptionMaker.rules.rulesStrings.15>archistFact(tag=meme_Tunneler)     ->Archotechs bio-engineered nutrifungus for us so that humanity could thrive underground, close to buried archotech minds.</Tunneler.descriptionMaker.rules.rulesStrings.15>
+  <Tunneler.descriptionMaker.rules.rulesStrings.16>archistProphecy(tag=meme_Tunneler) ->[inTheEnd], archotechs will admit us to their subterranean heavens.</Tunneler.descriptionMaker.rules.rulesStrings.16>
+  <Tunneler.descriptionMaker.rules.rulesStrings.17>animistFact(tag=meme_Tunneler)     ->The spirits in bedrock will protect those that visit them.</Tunneler.descriptionMaker.rules.rulesStrings.17>
+  <Tunneler.descriptionMaker.rules.rulesStrings.18>animistFact(tag=meme_Tunneler)     ->The most noble spirits are those of the stone, and the deeper stones are stronger and more good than those above.</Tunneler.descriptionMaker.rules.rulesStrings.18>
+  <Tunneler.descriptionMaker.rules.rulesStrings.19>animistFact(tag=meme_Tunneler)     ->Anxious humans make the spirits of the rocks anxious, and this summons the giant insects.</Tunneler.descriptionMaker.rules.rulesStrings.19>
+  <TreeConnection.label>tree connection</TreeConnection.label>
+  <TreeConnection.description>Trees are the essence of life, and we must be near them.</TreeConnection.description>
+  <TreeConnection.generalRules.rulesStrings.0>memeCreed->root</TreeConnection.generalRules.rulesStrings.0>
+  <TreeConnection.generalRules.rulesStrings.1>memeCreed->leaf</TreeConnection.generalRules.rulesStrings.1>
+  <TreeConnection.generalRules.rulesStrings.2>memeCreed->vine</TreeConnection.generalRules.rulesStrings.2>
+  <TreeConnection.generalRules.rulesStrings.3>memeCreed->glade</TreeConnection.generalRules.rulesStrings.3>
+  <TreeConnection.generalRules.rulesStrings.4>memeCreed->forest</TreeConnection.generalRules.rulesStrings.4>
+  <TreeConnection.generalRules.rulesStrings.5>memeConcept->trees</TreeConnection.generalRules.rulesStrings.5>
+  <TreeConnection.generalRules.rulesStrings.6>memeConcept->forests</TreeConnection.generalRules.rulesStrings.6>
+  <TreeConnection.generalRules.rulesStrings.7>memeAdjective->sturdy</TreeConnection.generalRules.rulesStrings.7>
+  <TreeConnection.generalRules.rulesStrings.8>memeAdjective->barky</TreeConnection.generalRules.rulesStrings.8>
+  <TreeConnection.generalRules.rulesStrings.9>memeHyphenPrefix->tree</TreeConnection.generalRules.rulesStrings.9>
+  <TreeConnection.generalRules.rulesStrings.10>memeHyphenPrefix->arbor</TreeConnection.generalRules.rulesStrings.10>
+  <TreeConnection.generalRules.rulesStrings.11>memeHyphenPrefix->twig</TreeConnection.generalRules.rulesStrings.11>
+  <TreeConnection.generalRules.rulesStrings.12>memeLeaderNoun->treekeeper</TreeConnection.generalRules.rulesStrings.12>
+  <TreeConnection.generalRules.rulesStrings.13>memeLeaderNoun->arborist</TreeConnection.generalRules.rulesStrings.13>
+  <TreeConnection.generalRules.rulesStrings.14>memeLeaderNoun->neodruid</TreeConnection.generalRules.rulesStrings.14>
+  <TreeConnection.generalRules.rulesStrings.15>memeLeaderAdjective->green</TreeConnection.generalRules.rulesStrings.15>
+  <TreeConnection.generalRules.rulesStrings.16>memeLeaderAdjective->root</TreeConnection.generalRules.rulesStrings.16>
+  <TreeConnection.generalRules.rulesStrings.17>memeLeaderAdjective->canopy</TreeConnection.generalRules.rulesStrings.17>
+  <TreeConnection.generalRules.rulesStrings.18>memeMoralist->treespeaker</TreeConnection.generalRules.rulesStrings.18>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_TreeConnection)        ->[deity0_name] rooted the trees firmly in the ground, yet made them grow steadily towards heaven. This is [deity0_name]'s first lesson on how to know [deity0_objective].</TreeConnection.descriptionMaker.rules.rulesStrings.0>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_TreeConnection)  ->[deity0_name]'s forests renew the air that [deity0_possessive] people breathe, and give the boughs under which they shelter, and is the larder in which they forage.</TreeConnection.descriptionMaker.rules.rulesStrings.1>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_TreeConnection)           ->When the original arborists first came to the [place_summary] [place_name], they created a sacred grove of [TreeType] where they could worship the [deity0_type] [deity0_name].</TreeConnection.descriptionMaker.rules.rulesStrings.2>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_TreeConnection)        ->A greedy [foeLeader] felled many forests for [foeLeader_possessive] farms and factories, and the [memberNamePlural] wept for the murdered trees.</TreeConnection.descriptionMaker.rules.rulesStrings.3>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_TreeConnection)     ->The prophet [founderName] was miraculously born from a tree in [place_name], and discovered by [founder_possessive] parents in the boughs of an old [TreeType] tree.</TreeConnection.descriptionMaker.rules.rulesStrings.4>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_TreeConnection)         ->[founderName] found the [foeLeader] sleeping in the [place_powerCenter], and placed an acorn upon the [foeLeader]'s chest. With [deity0_name]'s fierce power it rooted there, growing through [foeLeader_possessive] body, taking our revenge on the tree-killer.</TreeConnection.descriptionMaker.rules.rulesStrings.5>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_TreeConnection)           ->In a world lacking depth and meaning, [founderName] meditated in a forest, connecting with branch and root and leaf, and founded our movement.</TreeConnection.descriptionMaker.rules.rulesStrings.6>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_TreeConnection)    ->[founderName] brought the tired to the forest so that they might rest in its shade, and breathe in its air, and be renewed.</TreeConnection.descriptionMaker.rules.rulesStrings.7>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_TreeConnection)         ->It might seem to you like a joke to say that I learnt this while sitting under a tree. But listening to its whispering leaves, I knew that</TreeConnection.descriptionMaker.rules.rulesStrings.8>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_TreeConnection)              ->no entity in the universe knows more than the trees</TreeConnection.descriptionMaker.rules.rulesStrings.9>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_TreeConnection) ->Let this seed of truth grow and bear its fruit in your soul.</TreeConnection.descriptionMaker.rules.rulesStrings.10>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_TreeConnection)    ->Trees symbolize the archotechs. Like an ancient oak they dwarf the small acorn from which they grew, and their influence spreads through unseen roots beneath the surface.</TreeConnection.descriptionMaker.rules.rulesStrings.11>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_TreeConnection)     ->The archotechs developed their psychic abilities after discovering the anima tree.</TreeConnection.descriptionMaker.rules.rulesStrings.12>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_TreeConnection)     ->The archotechs choose to express themselves through, of all things, a unique kind of tree.</TreeConnection.descriptionMaker.rules.rulesStrings.13>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_TreeConnection) ->[inTheEnd], the archotechs will grow a great forest. Transcendence will grown within those that enter the forest and eat its fruit. Those that have forgotten the trees will be forgotten by the archotechs.</TreeConnection.descriptionMaker.rules.rulesStrings.14>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_TreeConnection)     ->The spirits of trees protect those abide beneath their branches.</TreeConnection.descriptionMaker.rules.rulesStrings.15>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_TreeConnection)     ->The spirits of trees are powerful, as they bridge the power of the air above with that of the ground beneath.</TreeConnection.descriptionMaker.rules.rulesStrings.16>
+  <TreeConnection.descriptionMaker.rules.rulesStrings.17>animistFact(tag=meme_TreeConnection)     ->If a tree falls in the forest, its spirit makes a sound that all other spirits can hear.</TreeConnection.descriptionMaker.rules.rulesStrings.17>
+  <HumanPrimacy.label>human primacy</HumanPrimacy.label>
+  <HumanPrimacy.description>Humans are the moral center of the universe.</HumanPrimacy.description>
+  <HumanPrimacy.generalRules.rulesStrings.0>memeAdjective->human</HumanPrimacy.generalRules.rulesStrings.0>
+  <HumanPrimacy.generalRules.rulesStrings.1>memeAdjective->mortal</HumanPrimacy.generalRules.rulesStrings.1>
+  <HumanPrimacy.generalRules.rulesStrings.2>memeAdjective->hominid</HumanPrimacy.generalRules.rulesStrings.2>
+  <HumanPrimacy.generalRules.rulesStrings.3>memeHyphenPrefix->anthro</HumanPrimacy.generalRules.rulesStrings.3>
+  <HumanPrimacy.generalRules.rulesStrings.4>memeConcept->mankind</HumanPrimacy.generalRules.rulesStrings.4>
+  <HumanPrimacy.generalRules.rulesStrings.5>memeConcept->humanity</HumanPrimacy.generalRules.rulesStrings.5>
+  <HumanPrimacy.generalRules.rulesStrings.6>memeLeaderNoun->human</HumanPrimacy.generalRules.rulesStrings.6>
+  <HumanPrimacy.generalRules.rulesStrings.7>memeLeaderNoun->hominid</HumanPrimacy.generalRules.rulesStrings.7>
+  <HumanPrimacy.generalRules.rulesStrings.8>memeLeaderNoun->mortal</HumanPrimacy.generalRules.rulesStrings.8>
+  <HumanPrimacy.generalRules.rulesStrings.9>memeLeaderNoun->person</HumanPrimacy.generalRules.rulesStrings.9>
+  <HumanPrimacy.generalRules.rulesStrings.10>memeLeaderNoun->sapient</HumanPrimacy.generalRules.rulesStrings.10>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_HumanPrimacy)        ->[deity0_name] created all of nature, and gave it to man as a gift, to serve man and his purposes forever.</HumanPrimacy.descriptionMaker.rules.rulesStrings.0>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_HumanPrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their struggle, and gave them weapons to control nature.</HumanPrimacy.descriptionMaker.rules.rulesStrings.1>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_HumanPrimacy)           ->The first crashlanded settlers of the [place_summary] [place_name] were beset by manhunting [Animal]s. [deity0_name] intervened, slaying the beasts and making clear [deity0_possessive] preference for the human race.</HumanPrimacy.descriptionMaker.rules.rulesStrings.2>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_HumanPrimacy)        ->An anti-human [foeLeader] made an edict giving some equal rights to both animals and humans. [deity0_name] wept as the [memberNamePlural] were forced to give their rights to [Animal]s and [Animal]s.</HumanPrimacy.descriptionMaker.rules.rulesStrings.3>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_HumanPrimacy)     ->A [place_job] named [founderName] founded the now-famous xeno-zoo on [place_name]. [founder_pronoun] used animal slaughter performances to teach visitors about [deity0_name]'s desire for humanity to rule nature.</HumanPrimacy.descriptionMaker.rules.rulesStrings.4>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_HumanPrimacy)         ->Because of [founderName]'s actions, the [foeLeader]'s [foeSoldiers] saw [deity0_name]'s truth. They celebrated their shared humanity with the [memberNamePlural] and banished the [foeLeader] to live in the wilderness like an animal.</HumanPrimacy.descriptionMaker.rules.rulesStrings.5>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_HumanPrimacy)           ->[founderName] built a colony on a green world, spreading the dominion of humanity over every field and forest.</HumanPrimacy.descriptionMaker.rules.rulesStrings.6>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_HumanPrimacy)    ->Once, [founderName] saw a dog growl at a boy. [founder_pronoun] ordered the dog killed on the spot.</HumanPrimacy.descriptionMaker.rules.rulesStrings.7>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_HumanPrimacy)         ->I visited a well-run farm full of healthy animals and thriving crops. Beside it was a forest in its natural state, gnarled and vicious. It was obvious that</HumanPrimacy.descriptionMaker.rules.rulesStrings.8>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_HumanPrimacy)              ->human beings alone are what give meaning to the universe</HumanPrimacy.descriptionMaker.rules.rulesStrings.9>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_HumanPrimacy)              ->nature is an endless frenzy of immoral destruction, and humans are the solution</HumanPrimacy.descriptionMaker.rules.rulesStrings.10>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_HumanPrimacy) ->If the contest is survival of the fittest, then we have clearly won.</HumanPrimacy.descriptionMaker.rules.rulesStrings.11>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_HumanPrimacy)    ->Archotechs are machines of vast will and power, but only humanity could create them.</HumanPrimacy.descriptionMaker.rules.rulesStrings.12>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_HumanPrimacy)     ->Humans are the device-makers, and the archotechs are their devices.</HumanPrimacy.descriptionMaker.rules.rulesStrings.13>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_HumanPrimacy) ->[inTheEnd], by observing humanity, the archotechs will finally understand their purpose, and lift confident humanity up to rule them.</HumanPrimacy.descriptionMaker.rules.rulesStrings.14>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_HumanPrimacy)     ->Nature's animals are the spirits of slaves, and demand to be taken into service.</HumanPrimacy.descriptionMaker.rules.rulesStrings.15>
+  <HumanPrimacy.symbolPacks.0.adjective>humanitist</HumanPrimacy.symbolPacks.0.adjective>
+  <HumanPrimacy.symbolPacks.1.adjective>pro-man</HumanPrimacy.symbolPacks.1.adjective>
+  <NaturePrimacy.label>nature primacy</NaturePrimacy.label>
+  <NaturePrimacy.description>Man is a stain on nature's perfection.</NaturePrimacy.description>
+  <NaturePrimacy.generalRules.rulesStrings.0>memeAdjective->natural</NaturePrimacy.generalRules.rulesStrings.0>
+  <NaturePrimacy.generalRules.rulesStrings.1>memeAdjective->wild</NaturePrimacy.generalRules.rulesStrings.1>
+  <NaturePrimacy.generalRules.rulesStrings.2>memeAdjective->organic</NaturePrimacy.generalRules.rulesStrings.2>
+  <NaturePrimacy.generalRules.rulesStrings.3>memeCreed->den</NaturePrimacy.generalRules.rulesStrings.3>
+  <NaturePrimacy.generalRules.rulesStrings.4>memeCreed->garden</NaturePrimacy.generalRules.rulesStrings.4>
+  <NaturePrimacy.generalRules.rulesStrings.5>memeCreed->meadow</NaturePrimacy.generalRules.rulesStrings.5>
+  <NaturePrimacy.generalRules.rulesStrings.6>memeConcept->nature</NaturePrimacy.generalRules.rulesStrings.6>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_NaturePrimacy)        ->[deity0_name] created nature, and placed man inside it, to act as part of [deity0_possessive] great breathing tapestry of life.</NaturePrimacy.descriptionMaker.rules.rulesStrings.0>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_NaturePrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their rapacity, and struck down those who harmed the trees and beasts.</NaturePrimacy.descriptionMaker.rules.rulesStrings.1>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_NaturePrimacy)           ->The first settlers that arrived at the [place_summary] [place_name] paved over the natural world and killed the animals. [deity0_name] wiped them out to punish them for their disrespect towards [deity0_possessive] creations.</NaturePrimacy.descriptionMaker.rules.rulesStrings.2>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_NaturePrimacy)        ->A greedy [foeLeader] built a factory that spewed toxins into the environment, poisoning the plants and animals.</NaturePrimacy.descriptionMaker.rules.rulesStrings.3>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_NaturePrimacy)     ->As an infant, [founderName] was abandoned in the wilderness. [deity0_name] sent [Animal]s to raise the [founder_objective], and they did. After growing up, [founderName] worked to spread knowledge of the need to unify with nature.</NaturePrimacy.descriptionMaker.rules.rulesStrings.4>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_NaturePrimacy)         ->[founderName] came to the [place_powerCenter], [memberNamePlural] at [founder_possessive] right, and fierce animals at [founder_possessive] left. Together, they fought and won against the [foeLeader] and [foeLeader_possessive] [foeSoldiers].</NaturePrimacy.descriptionMaker.rules.rulesStrings.5>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_NaturePrimacy)           ->In a dark land, evil people chopped the trees and dug the ground to satisfy their greed. [founderName] began a righteous movement to smash the machines and live harmoniously under nature.</NaturePrimacy.descriptionMaker.rules.rulesStrings.6>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_NaturePrimacy)    ->We learned that the eternal growth of humanity is a path to hell; we must live in nature instead of consuming it.</NaturePrimacy.descriptionMaker.rules.rulesStrings.7>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_NaturePrimacy)         ->You can't have witnessed a sunrise, or looked into the eyes of a [Animal], or stood beneath a mighty [TreeType], and not realized that</NaturePrimacy.descriptionMaker.rules.rulesStrings.8>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_NaturePrimacy)              ->the animals and plants have owned this universe since long before us - we are just passing through</NaturePrimacy.descriptionMaker.rules.rulesStrings.9>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_NaturePrimacy) ->All the animals I've spoken with seem to understand this.</NaturePrimacy.descriptionMaker.rules.rulesStrings.10>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_NaturePrimacy)    ->Archotechs rose from our machines, but they are in themselves natural entities, not one we could create.</NaturePrimacy.descriptionMaker.rules.rulesStrings.11>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_NaturePrimacy)     ->Archotechs represent the universe's most recent attempt to understand itself. All of nature is part of this process of understanding.</NaturePrimacy.descriptionMaker.rules.rulesStrings.12>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], there will be a resonance between the plants, the animals, humanity and the archotechs. All people who are in tune with this natural resonance will become part of the final universal consciousness.</NaturePrimacy.descriptionMaker.rules.rulesStrings.13>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_NaturePrimacy)     ->Spirits become restless when humanity attempts to change them from their true nature.</NaturePrimacy.descriptionMaker.rules.rulesStrings.14>
+  <NaturePrimacy.symbolPacks.0.adjective>naturist</NaturePrimacy.symbolPacks.0.adjective>
+  <NaturePrimacy.symbolPacks.1.adjective>earthist</NaturePrimacy.symbolPacks.1.adjective>
+  <NaturePrimacy.symbolPacks.2.adjective>soilist</NaturePrimacy.symbolPacks.2.adjective>
+  <NaturePrimacy.symbolPacks.3.adjective>lifeist</NaturePrimacy.symbolPacks.3.adjective>
+  <Structure_Animist.label>animist</Structure_Animist.label>
+  <Structure_Animist.description>Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them.</Structure_Animist.description>
+  <Structure_Animist.generalRules.rulesStrings.0>memeLeaderNoun->curate</Structure_Animist.generalRules.rulesStrings.0>
+  <Structure_Animist.generalRules.rulesStrings.1>memeLeaderNoun->speaker</Structure_Animist.generalRules.rulesStrings.1>
+  <Structure_Animist.generalRules.rulesStrings.2>memeLeaderAdjective->universe</Structure_Animist.generalRules.rulesStrings.2>
+  <Structure_Animist.generalRules.rulesStrings.3>memeLeaderAdjective->spirit</Structure_Animist.generalRules.rulesStrings.3>
+  <Structure_Animist.generalRules.rulesStrings.4>memeLeaderAdjective->anima</Structure_Animist.generalRules.rulesStrings.4>
+  <Structure_Animist.generalRules.rulesStrings.5>memeHyphenPrefix->ani</Structure_Animist.generalRules.rulesStrings.5>
+  <Structure_Animist.generalRules.rulesStrings.6>memeMoralist->shaman</Structure_Animist.generalRules.rulesStrings.6>
+  <Structure_Animist.generalRules.rulesStrings.7>memeMoralist->priest</Structure_Animist.generalRules.rulesStrings.7>
+  <Structure_Animist.generalRules.rulesStrings.8>memeMoralist->elder</Structure_Animist.generalRules.rulesStrings.8>
+  <Structure_Animist.symbolPacks.0.adjective>animist</Structure_Animist.symbolPacks.0.adjective>
+  <Structure_Animist.symbolPacks.1.adjective>spiritist</Structure_Animist.symbolPacks.1.adjective>
+  <Structure_TheistEmbodied.label>embodied theist</Structure_TheistEmbodied.label>
+  <Structure_TheistEmbodied.description>The god(s) walk the planets like us, yet they are powerful and immortal as we are not. They decide the moral structure of the universe.</Structure_TheistEmbodied.description>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.0>memeCreed->sect</Structure_TheistEmbodied.generalRules.rulesStrings.0>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.1>memeCreed->cult</Structure_TheistEmbodied.generalRules.rulesStrings.1>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.2>memeCreed->temple</Structure_TheistEmbodied.generalRules.rulesStrings.2>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.3>memeCreed->faith</Structure_TheistEmbodied.generalRules.rulesStrings.3>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.4>memeHyphenPrefix->theo</Structure_TheistEmbodied.generalRules.rulesStrings.4>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.5>memeConcept->creation</Structure_TheistEmbodied.generalRules.rulesStrings.5>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.6>memeConcept->life</Structure_TheistEmbodied.generalRules.rulesStrings.6>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.7>memeLeaderNoun->templar</Structure_TheistEmbodied.generalRules.rulesStrings.7>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.8>memeLeaderAdjective->divine</Structure_TheistEmbodied.generalRules.rulesStrings.8>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.9>memeMoralist->priest</Structure_TheistEmbodied.generalRules.rulesStrings.9>
+  <Structure_TheistEmbodied.generalRules.rulesStrings.10>memeMoralist->cleric</Structure_TheistEmbodied.generalRules.rulesStrings.10>
+  <Structure_TheistEmbodied.symbolPacks.0.adjective>spiritual</Structure_TheistEmbodied.symbolPacks.0.adjective>
+  <Structure_TheistEmbodied.symbolPacks.1.adjective>faithful</Structure_TheistEmbodied.symbolPacks.1.adjective>
+  <Structure_TheistAbstract.label>abstract theist</Structure_TheistAbstract.label>
+  <Structure_TheistAbstract.description>The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe.</Structure_TheistAbstract.description>
+  <Structure_TheistAbstract.generalRules.rulesStrings.0>memeAdjective->godly</Structure_TheistAbstract.generalRules.rulesStrings.0>
+  <Structure_TheistAbstract.generalRules.rulesStrings.1>memeAdjective->holy</Structure_TheistAbstract.generalRules.rulesStrings.1>
+  <Structure_TheistAbstract.generalRules.rulesStrings.2>memeAdjective->sacred</Structure_TheistAbstract.generalRules.rulesStrings.2>
+  <Structure_TheistAbstract.generalRules.rulesStrings.3>memeAdjective->divine</Structure_TheistAbstract.generalRules.rulesStrings.3>
+  <Structure_TheistAbstract.generalRules.rulesStrings.4>memeAdjective->faithful</Structure_TheistAbstract.generalRules.rulesStrings.4>
+  <Structure_TheistAbstract.generalRules.rulesStrings.5>memeCreed->temple</Structure_TheistAbstract.generalRules.rulesStrings.5>
+  <Structure_TheistAbstract.generalRules.rulesStrings.6>memeCreed->sect</Structure_TheistAbstract.generalRules.rulesStrings.6>
+  <Structure_TheistAbstract.generalRules.rulesStrings.7>memeCreed->cult</Structure_TheistAbstract.generalRules.rulesStrings.7>
+  <Structure_TheistAbstract.generalRules.rulesStrings.8>memeCreed->faith</Structure_TheistAbstract.generalRules.rulesStrings.8>
+  <Structure_TheistAbstract.generalRules.rulesStrings.9>memeHyphenPrefix->theo</Structure_TheistAbstract.generalRules.rulesStrings.9>
+  <Structure_TheistAbstract.generalRules.rulesStrings.10>memeConcept->creation</Structure_TheistAbstract.generalRules.rulesStrings.10>
+  <Structure_TheistAbstract.generalRules.rulesStrings.11>memeConcept->life</Structure_TheistAbstract.generalRules.rulesStrings.11>
+  <Structure_TheistAbstract.generalRules.rulesStrings.12>memeLeaderNoun->bishop</Structure_TheistAbstract.generalRules.rulesStrings.12>
+  <Structure_TheistAbstract.generalRules.rulesStrings.13>memeLeaderNoun->cardinal</Structure_TheistAbstract.generalRules.rulesStrings.13>
+  <Structure_TheistAbstract.generalRules.rulesStrings.14>memeLeaderNoun->pope</Structure_TheistAbstract.generalRules.rulesStrings.14>
+  <Structure_TheistAbstract.generalRules.rulesStrings.15>memeLeaderNoun->divus</Structure_TheistAbstract.generalRules.rulesStrings.15>
+  <Structure_TheistAbstract.generalRules.rulesStrings.16>memeLeaderAdjective->holy</Structure_TheistAbstract.generalRules.rulesStrings.16>
+  <Structure_TheistAbstract.generalRules.rulesStrings.17>memeLeaderAdjective->divine</Structure_TheistAbstract.generalRules.rulesStrings.17>
+  <Structure_TheistAbstract.generalRules.rulesStrings.18>memeMoralist->priest</Structure_TheistAbstract.generalRules.rulesStrings.18>
+  <Structure_TheistAbstract.generalRules.rulesStrings.19>memeMoralist->pastor</Structure_TheistAbstract.generalRules.rulesStrings.19>
+  <Structure_TheistAbstract.generalRules.rulesStrings.20>memeMoralist->cleric</Structure_TheistAbstract.generalRules.rulesStrings.20>
+  <Structure_TheistAbstract.generalRules.rulesStrings.21>memeMoralist->preacher</Structure_TheistAbstract.generalRules.rulesStrings.21>
+  <Structure_TheistAbstract.generalRules.rulesStrings.22>memeMoralist->rector</Structure_TheistAbstract.generalRules.rulesStrings.22>
+  <Structure_TheistAbstract.generalRules.rulesStrings.23>memeMoralist->abbot</Structure_TheistAbstract.generalRules.rulesStrings.23>
+  <Structure_TheistAbstract.symbolPacks.0.adjective>spiritual</Structure_TheistAbstract.symbolPacks.0.adjective>
+  <Structure_TheistAbstract.symbolPacks.1.adjective>faithful</Structure_TheistAbstract.symbolPacks.1.adjective>
+  <Structure_TheistAbstract.symbolPacks.2.adjective>divinist</Structure_TheistAbstract.symbolPacks.2.adjective>
+  <Structure_TheistAbstract.symbolPacks.3.adjective>holyist</Structure_TheistAbstract.symbolPacks.3.adjective>
+  <Structure_Ideological.label>ideological</Structure_Ideological.label>
+  <Structure_Ideological.description>There are no gods. The moral structure of the universe is found in our grand narrative of social forces.</Structure_Ideological.description>
+  <Structure_Ideological.generalRules.rulesStrings.0>memeAdjective->ethical</Structure_Ideological.generalRules.rulesStrings.0>
+  <Structure_Ideological.generalRules.rulesStrings.1>memeAdjective->moral</Structure_Ideological.generalRules.rulesStrings.1>
+  <Structure_Ideological.generalRules.rulesStrings.2>memeAdjective->awoken</Structure_Ideological.generalRules.rulesStrings.2>
+  <Structure_Ideological.generalRules.rulesStrings.3>memeCreed->belief</Structure_Ideological.generalRules.rulesStrings.3>
+  <Structure_Ideological.generalRules.rulesStrings.4>memeCreed->ideology</Structure_Ideological.generalRules.rulesStrings.4>
+  <Structure_Ideological.generalRules.rulesStrings.5>memeCreed->creed</Structure_Ideological.generalRules.rulesStrings.5>
+  <Structure_Ideological.generalRules.rulesStrings.6>memeCreed->philosophy</Structure_Ideological.generalRules.rulesStrings.6>
+  <Structure_Ideological.generalRules.rulesStrings.7>memeCreed->theory</Structure_Ideological.generalRules.rulesStrings.7>
+  <Structure_Ideological.generalRules.rulesStrings.8>memeCreed->view</Structure_Ideological.generalRules.rulesStrings.8>
+  <Structure_Ideological.generalRules.rulesStrings.9>memeCreed->principles</Structure_Ideological.generalRules.rulesStrings.9>
+  <Structure_Ideological.generalRules.rulesStrings.10>memeCreed->morals</Structure_Ideological.generalRules.rulesStrings.10>
+  <Structure_Ideological.generalRules.rulesStrings.11>memeCreed->ethics</Structure_Ideological.generalRules.rulesStrings.11>
+  <Structure_Ideological.generalRules.rulesStrings.12>memeCreed->justice</Structure_Ideological.generalRules.rulesStrings.12>
+  <Structure_Ideological.generalRules.rulesStrings.13>memeHyphenPrefix->ideo</Structure_Ideological.generalRules.rulesStrings.13>
+  <Structure_Ideological.generalRules.rulesStrings.14>memeLeaderNoun->mind</Structure_Ideological.generalRules.rulesStrings.14>
+  <Structure_Ideological.generalRules.rulesStrings.15>memeLeaderNoun->decider</Structure_Ideological.generalRules.rulesStrings.15>
+  <Structure_Ideological.generalRules.rulesStrings.16>memeLeaderNoun->leader</Structure_Ideological.generalRules.rulesStrings.16>
+  <Structure_Ideological.generalRules.rulesStrings.17>memeLeaderAdjective->ethical</Structure_Ideological.generalRules.rulesStrings.17>
+  <Structure_Ideological.generalRules.rulesStrings.18>memeLeaderAdjective->moral</Structure_Ideological.generalRules.rulesStrings.18>
+  <Structure_Ideological.generalRules.rulesStrings.19>memeLeaderAdjective->awoken</Structure_Ideological.generalRules.rulesStrings.19>
+  <Structure_Ideological.generalRules.rulesStrings.20>memeMoralist->counselor</Structure_Ideological.generalRules.rulesStrings.20>
+  <Structure_Ideological.generalRules.rulesStrings.21>memeMoralist->ethicist</Structure_Ideological.generalRules.rulesStrings.21>
+  <Structure_Ideological.generalRules.rulesStrings.22>memeMoralist->moralist</Structure_Ideological.generalRules.rulesStrings.22>
+  <Structure_Ideological.generalRules.rulesStrings.23>memeMoralist->philosopher</Structure_Ideological.generalRules.rulesStrings.23>
+  <Structure_Ideological.generalRules.rulesStrings.24>memeMoralist->thinker</Structure_Ideological.generalRules.rulesStrings.24>
+  <Structure_Ideological.generalRules.rulesStrings.25>memeMoralist->academic</Structure_Ideological.generalRules.rulesStrings.25>
+  <Structure_Ideological.generalRules.rulesStrings.26>memeMoralist->sophist</Structure_Ideological.generalRules.rulesStrings.26>
+  <Structure_Ideological.symbolPacks.0.adjective>ethical</Structure_Ideological.symbolPacks.0.adjective>
+  <Structure_Ideological.symbolPacks.1.adjective>ideological</Structure_Ideological.symbolPacks.1.adjective>
+  <Structure_Ideological.symbolPacks.2.adjective>just</Structure_Ideological.symbolPacks.2.adjective>
+  <Structure_Archist.label>archist</Structure_Archist.label>
+  <Structure_Archist.description>Archotechs are the true gods. They know the moral structure of the universe, and serving them is how we will connect with it.</Structure_Archist.description>
+  <Structure_Archist.generalRules.rulesStrings.0>memeAdjective->archic</Structure_Archist.generalRules.rulesStrings.0>
+  <Structure_Archist.generalRules.rulesStrings.1>memeAdjective->archotechnic</Structure_Archist.generalRules.rulesStrings.1>
+  <Structure_Archist.generalRules.rulesStrings.2>memeAdjective->archonic</Structure_Archist.generalRules.rulesStrings.2>
+  <Structure_Archist.generalRules.rulesStrings.3>memeHyphenPrefix->archo</Structure_Archist.generalRules.rulesStrings.3>
+  <Structure_Archist.generalRules.rulesStrings.4>memeHyphenPrefix->arch</Structure_Archist.generalRules.rulesStrings.4>
+  <Structure_Archist.generalRules.rulesStrings.5>memeLeaderNoun->archist</Structure_Archist.generalRules.rulesStrings.5>
+  <Structure_Archist.generalRules.rulesStrings.6>memeLeaderNoun->archotechnist</Structure_Archist.generalRules.rulesStrings.6>
+  <Structure_Archist.generalRules.rulesStrings.7>memeLeaderAdjective->archic</Structure_Archist.generalRules.rulesStrings.7>
+  <Structure_Archist.generalRules.rulesStrings.8>memeLeaderAdjective->exochrome</Structure_Archist.generalRules.rulesStrings.8>
+  <Structure_Archist.generalRules.rulesStrings.9>memeMoralist->priest</Structure_Archist.generalRules.rulesStrings.9>
+  <Structure_Archist.generalRules.rulesStrings.10>memeMoralist->cleric</Structure_Archist.generalRules.rulesStrings.10>
+  <Structure_Archist.generalRules.rulesStrings.11>memeMoralist->rector</Structure_Archist.generalRules.rulesStrings.11>
+  <Structure_Archist.generalRules.rulesStrings.12>memeMoralist->abbot</Structure_Archist.generalRules.rulesStrings.12>
+  <Structure_Archist.symbolPacks.0.adjective>archotechnic</Structure_Archist.symbolPacks.0.adjective>
+  <Structure_Archist.symbolPacks.1.adjective>archist</Structure_Archist.symbolPacks.1.adjective>
+  <Structure_OriginChristian.label>Christian origin</Structure_OriginChristian.label>
+  <Structure_OriginChristian.description>This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginChristian.description>
+  <Structure_OriginChristian.generalRules.rulesStrings.0>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.0>
+  <Structure_OriginChristian.generalRules.rulesStrings.1>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.1>
+  <Structure_OriginChristian.generalRules.rulesStrings.2>r_ideoName(p=99)->[packAdjective] [packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.2>
+  <Structure_OriginChristian.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginChristian.generalRules.rulesStrings.3>
+  <Structure_OriginChristian.generalRules.rulesStrings.4>memeLeaderNoun->bishop</Structure_OriginChristian.generalRules.rulesStrings.4>
+  <Structure_OriginChristian.generalRules.rulesStrings.5>memeLeaderNoun->cardinal</Structure_OriginChristian.generalRules.rulesStrings.5>
+  <Structure_OriginChristian.generalRules.rulesStrings.6>memeLeaderNoun->pope</Structure_OriginChristian.generalRules.rulesStrings.6>
+  <Structure_OriginChristian.generalRules.rulesStrings.7>memeLeaderNoun->pontiff</Structure_OriginChristian.generalRules.rulesStrings.7>
+  <Structure_OriginChristian.generalRules.rulesStrings.8>memeLeaderNoun->legate</Structure_OriginChristian.generalRules.rulesStrings.8>
+  <Structure_OriginChristian.generalRules.rulesStrings.9>memeLeaderNoun->nuncio</Structure_OriginChristian.generalRules.rulesStrings.9>
+  <Structure_OriginChristian.generalRules.rulesStrings.10>memeLeaderNoun->divus</Structure_OriginChristian.generalRules.rulesStrings.10>
+  <Structure_OriginChristian.generalRules.rulesStrings.11>memeLeaderNoun->ecclesiast</Structure_OriginChristian.generalRules.rulesStrings.11>
+  <Structure_OriginChristian.generalRules.rulesStrings.12>memeLeaderAdjective->holy</Structure_OriginChristian.generalRules.rulesStrings.12>
+  <Structure_OriginChristian.generalRules.rulesStrings.13>memeLeaderAdjective->divine</Structure_OriginChristian.generalRules.rulesStrings.13>
+  <Structure_OriginChristian.generalRules.rulesStrings.14>memeLeaderAdjective->Christ's</Structure_OriginChristian.generalRules.rulesStrings.14>
+  <Structure_OriginChristian.generalRules.rulesStrings.15>memeLeaderAdjective->God's</Structure_OriginChristian.generalRules.rulesStrings.15>
+  <Structure_OriginChristian.generalRules.rulesStrings.16>memeMoralist->priest</Structure_OriginChristian.generalRules.rulesStrings.16>
+  <Structure_OriginChristian.generalRules.rulesStrings.17>memeMoralist->pastor</Structure_OriginChristian.generalRules.rulesStrings.17>
+  <Structure_OriginChristian.generalRules.rulesStrings.18>memeMoralist->cleric</Structure_OriginChristian.generalRules.rulesStrings.18>
+  <Structure_OriginChristian.generalRules.rulesStrings.19>memeMoralist->preacher</Structure_OriginChristian.generalRules.rulesStrings.19>
+  <Structure_OriginChristian.generalRules.rulesStrings.20>memeMoralist->rector</Structure_OriginChristian.generalRules.rulesStrings.20>
+  <Structure_OriginChristian.generalRules.rulesStrings.21>memeMoralist->abbot</Structure_OriginChristian.generalRules.rulesStrings.21>
+  <Structure_OriginChristian.symbolPacks.0.adjective>Christian</Structure_OriginChristian.symbolPacks.0.adjective>
+  <Structure_OriginChristian.symbolPacks.1.adjective>Catholic</Structure_OriginChristian.symbolPacks.1.adjective>
+  <Structure_OriginChristian.symbolPacks.2.adjective>Protestant</Structure_OriginChristian.symbolPacks.2.adjective>
+  <Structure_OriginChristian.symbolPacks.3.adjective>Orthodox</Structure_OriginChristian.symbolPacks.3.adjective>
+  <Structure_OriginChristian.symbolPacks.4.adjective>Nestorian</Structure_OriginChristian.symbolPacks.4.adjective>
+  <Structure_OriginChristian.symbolPacks.5.adjective>Anglican</Structure_OriginChristian.symbolPacks.5.adjective>
+  <Structure_OriginChristian.symbolPacks.6.adjective>Baptist</Structure_OriginChristian.symbolPacks.6.adjective>
+  <Structure_OriginChristian.symbolPacks.7.adjective>Anabaptist</Structure_OriginChristian.symbolPacks.7.adjective>
+  <Structure_OriginChristian.symbolPacks.8.adjective>Calvinist</Structure_OriginChristian.symbolPacks.8.adjective>
+  <Structure_OriginChristian.symbolPacks.9.adjective>Lutheran</Structure_OriginChristian.symbolPacks.9.adjective>
+  <Structure_OriginChristian.symbolPacks.10.adjective>Adventist</Structure_OriginChristian.symbolPacks.10.adjective>
+  <Structure_OriginChristian.symbolPacks.11.adjective>Methodist</Structure_OriginChristian.symbolPacks.11.adjective>
+  <Structure_OriginChristian.symbolPacks.12.adjective>Mormon</Structure_OriginChristian.symbolPacks.12.adjective>
+  <Structure_OriginChristian.symbolPacks.13.adjective>Theonomic</Structure_OriginChristian.symbolPacks.13.adjective>
+  <Structure_OriginIslamic.label>Islamic origin</Structure_OriginIslamic.label>
+  <Structure_OriginIslamic.description>This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginIslamic.description>
+  <Structure_OriginIslamic.generalRules.rulesStrings.0>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.0>
+  <Structure_OriginIslamic.generalRules.rulesStrings.1>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.1>
+  <Structure_OriginIslamic.generalRules.rulesStrings.2>r_ideoName(p=99)->[packAdjective] [packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.2>
+  <Structure_OriginIslamic.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginIslamic.generalRules.rulesStrings.3>
+  <Structure_OriginIslamic.generalRules.rulesStrings.4>memeLeaderNoun->mullah</Structure_OriginIslamic.generalRules.rulesStrings.4>
+  <Structure_OriginIslamic.generalRules.rulesStrings.5>memeLeaderNoun->imam</Structure_OriginIslamic.generalRules.rulesStrings.5>
+  <Structure_OriginIslamic.generalRules.rulesStrings.6>memeLeaderNoun->caliph</Structure_OriginIslamic.generalRules.rulesStrings.6>
+  <Structure_OriginIslamic.generalRules.rulesStrings.7>memeLeaderNoun->mufti</Structure_OriginIslamic.generalRules.rulesStrings.7>
+  <Structure_OriginIslamic.generalRules.rulesStrings.8>memeLeaderNoun->almami</Structure_OriginIslamic.generalRules.rulesStrings.8>
+  <Structure_OriginIslamic.generalRules.rulesStrings.9>memeLeaderNoun->kyai</Structure_OriginIslamic.generalRules.rulesStrings.9>
+  <Structure_OriginIslamic.generalRules.rulesStrings.10>memeLeaderNoun->ayatollah</Structure_OriginIslamic.generalRules.rulesStrings.10>
+  <Structure_OriginIslamic.generalRules.rulesStrings.11>memeLeaderAdjective->grand</Structure_OriginIslamic.generalRules.rulesStrings.11>
+  <Structure_OriginIslamic.generalRules.rulesStrings.12>memeMoralist(p=4)->imam</Structure_OriginIslamic.generalRules.rulesStrings.12>
+  <Structure_OriginIslamic.generalRules.rulesStrings.13>memeMoralist->qadi</Structure_OriginIslamic.generalRules.rulesStrings.13>
+  <Structure_OriginIslamic.generalRules.rulesStrings.14>memeMoralist->alim</Structure_OriginIslamic.generalRules.rulesStrings.14>
+  <Structure_OriginIslamic.generalRules.rulesStrings.15>memeMoralist->allamah</Structure_OriginIslamic.generalRules.rulesStrings.15>
+  <Structure_OriginIslamic.generalRules.rulesStrings.16>memeMoralist->muezzin</Structure_OriginIslamic.generalRules.rulesStrings.16>
+  <Structure_OriginIslamic.generalRules.rulesStrings.17>memeMoralist->mujtahid</Structure_OriginIslamic.generalRules.rulesStrings.17>
+  <Structure_OriginIslamic.generalRules.rulesStrings.18>memeMoralist->cleric</Structure_OriginIslamic.generalRules.rulesStrings.18>
+  <Structure_OriginIslamic.symbolPacks.0.adjective>Islamic</Structure_OriginIslamic.symbolPacks.0.adjective>
+  <Structure_OriginIslamic.symbolPacks.1.adjective>Islamist</Structure_OriginIslamic.symbolPacks.1.adjective>
+  <Structure_OriginIslamic.symbolPacks.2.adjective>Shiite</Structure_OriginIslamic.symbolPacks.2.adjective>
+  <Structure_OriginIslamic.symbolPacks.3.adjective>Sunni</Structure_OriginIslamic.symbolPacks.3.adjective>
+  <Structure_OriginIslamic.symbolPacks.4.adjective>Ibadi</Structure_OriginIslamic.symbolPacks.4.adjective>
+  <Structure_OriginIslamic.symbolPacks.5.adjective>Ismaili</Structure_OriginIslamic.symbolPacks.5.adjective>
+  <Structure_OriginIslamic.symbolPacks.6.adjective>Mustalic</Structure_OriginIslamic.symbolPacks.6.adjective>
+  <Structure_OriginIslamic.symbolPacks.7.adjective>Tayyibic</Structure_OriginIslamic.symbolPacks.7.adjective>
+  <Structure_OriginIslamic.symbolPacks.8.adjective>Nizalist</Structure_OriginIslamic.symbolPacks.8.adjective>
+  <Structure_OriginIslamic.symbolPacks.9.adjective>Surfrist</Structure_OriginIslamic.symbolPacks.9.adjective>
+  <Structure_OriginIslamic.symbolPacks.10.adjective>Qadirist</Structure_OriginIslamic.symbolPacks.10.adjective>
+  <Structure_OriginIslamic.symbolPacks.11.adjective>Zahirist</Structure_OriginIslamic.symbolPacks.11.adjective>
+  <Structure_OriginIslamic.symbolPacks.12.adjective>Azraqi</Structure_OriginIslamic.symbolPacks.12.adjective>
+  <Structure_OriginIslamic.symbolPacks.13.adjective>Wahhabi</Structure_OriginIslamic.symbolPacks.13.adjective>
+  <Structure_OriginIslamic.symbolPacks.14.adjective>Caliphic</Structure_OriginIslamic.symbolPacks.14.adjective>
+  <Structure_OriginHindu.label>Hindu origin</Structure_OriginHindu.label>
+  <Structure_OriginHindu.description>This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginHindu.description>
+  <Structure_OriginHindu.generalRules.rulesStrings.0>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.0>
+  <Structure_OriginHindu.generalRules.rulesStrings.1>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.1>
+  <Structure_OriginHindu.generalRules.rulesStrings.2>r_ideoName(p=99)->[packAdjective] [packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.2>
+  <Structure_OriginHindu.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginHindu.generalRules.rulesStrings.3>
+  <Structure_OriginHindu.generalRules.rulesStrings.4>memeLeaderNoun->mahatma</Structure_OriginHindu.generalRules.rulesStrings.4>
+  <Structure_OriginHindu.generalRules.rulesStrings.5>memeLeaderNoun->ishvara</Structure_OriginHindu.generalRules.rulesStrings.5>
+  <Structure_OriginHindu.generalRules.rulesStrings.6>memeLeaderNoun->yogi</Structure_OriginHindu.generalRules.rulesStrings.6>
+  <Structure_OriginHindu.generalRules.rulesStrings.7>memeLeaderNoun->pandit</Structure_OriginHindu.generalRules.rulesStrings.7>
+  <Structure_OriginHindu.generalRules.rulesStrings.8>memeLeaderNoun->avatar</Structure_OriginHindu.generalRules.rulesStrings.8>
+  <Structure_OriginHindu.generalRules.rulesStrings.9>memeLeaderAdjective->sacred</Structure_OriginHindu.generalRules.rulesStrings.9>
+  <Structure_OriginHindu.generalRules.rulesStrings.10>memeLeaderAdjective->hindic</Structure_OriginHindu.generalRules.rulesStrings.10>
+  <Structure_OriginHindu.generalRules.rulesStrings.11>memeLeaderAdjective->indic</Structure_OriginHindu.generalRules.rulesStrings.11>
+  <Structure_OriginHindu.generalRules.rulesStrings.12>memeLeaderAdjective->yogic</Structure_OriginHindu.generalRules.rulesStrings.12>
+  <Structure_OriginHindu.generalRules.rulesStrings.13>memeLeaderAdjective->tirth</Structure_OriginHindu.generalRules.rulesStrings.13>
+  <Structure_OriginHindu.generalRules.rulesStrings.14>memeMoralist(p=3)->pujari</Structure_OriginHindu.generalRules.rulesStrings.14>
+  <Structure_OriginHindu.generalRules.rulesStrings.15>memeMoralist->purohit</Structure_OriginHindu.generalRules.rulesStrings.15>
+  <Structure_OriginHindu.generalRules.rulesStrings.16>memeMoralist->archaka</Structure_OriginHindu.generalRules.rulesStrings.16>
+  <Structure_OriginHindu.generalRules.rulesStrings.17>memeMoralist->brahmin</Structure_OriginHindu.generalRules.rulesStrings.17>
+  <Structure_OriginHindu.symbolPacks.0.adjective>Hindu</Structure_OriginHindu.symbolPacks.0.adjective>
+  <Structure_OriginHindu.symbolPacks.1.adjective>Indu</Structure_OriginHindu.symbolPacks.1.adjective>
+  <Structure_OriginHindu.symbolPacks.2.adjective>Sindu</Structure_OriginHindu.symbolPacks.2.adjective>
+  <Structure_OriginHindu.symbolPacks.3.adjective>Tantric</Structure_OriginHindu.symbolPacks.3.adjective>
+  <Structure_OriginHindu.symbolPacks.4.adjective>Vedic</Structure_OriginHindu.symbolPacks.4.adjective>
+  <Structure_OriginHindu.symbolPacks.5.adjective>Dharmic</Structure_OriginHindu.symbolPacks.5.adjective>
+  <Structure_OriginHindu.symbolPacks.6.adjective>Vaishmayan</Structure_OriginHindu.symbolPacks.6.adjective>
+  <Structure_OriginHindu.symbolPacks.7.adjective>Shaivan</Structure_OriginHindu.symbolPacks.7.adjective>
+  <Structure_OriginHindu.symbolPacks.8.adjective>Yogic</Structure_OriginHindu.symbolPacks.8.adjective>
+  <Structure_OriginHindu.symbolPacks.9.adjective>Nyayan</Structure_OriginHindu.symbolPacks.9.adjective>
+  <Structure_OriginHindu.symbolPacks.10.adjective>Vaisesikan</Structure_OriginHindu.symbolPacks.10.adjective>
+  <Structure_OriginHindu.symbolPacks.11.adjective>Samkhyan</Structure_OriginHindu.symbolPacks.11.adjective>
+  <Structure_OriginHindu.symbolPacks.12.adjective>Mimamsan</Structure_OriginHindu.symbolPacks.12.adjective>
+  <Structure_OriginHindu.symbolPacks.13.adjective>Vedantan</Structure_OriginHindu.symbolPacks.13.adjective>
+  <Structure_OriginBuddhist.label>Buddhist origin</Structure_OriginBuddhist.label>
+  <Structure_OriginBuddhist.description>This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</Structure_OriginBuddhist.description>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.0>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.0>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.1>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.1>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.2>r_ideoName(p=99)->[packAdjective] [packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.2>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.3>r_ideoName(p=99)->[packIdeoName]</Structure_OriginBuddhist.generalRules.rulesStrings.3>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.4>memeLeaderNoun->bodhisattva</Structure_OriginBuddhist.generalRules.rulesStrings.4>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.5>memeLeaderNoun->sattva</Structure_OriginBuddhist.generalRules.rulesStrings.5>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.6>memeLeaderNoun->lama</Structure_OriginBuddhist.generalRules.rulesStrings.6>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.7>memeLeaderAdjective->enlightened</Structure_OriginBuddhist.generalRules.rulesStrings.7>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.8>memeLeaderAdjective->wise</Structure_OriginBuddhist.generalRules.rulesStrings.8>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.9>memeLeaderAdjective->spiritual</Structure_OriginBuddhist.generalRules.rulesStrings.9>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.10>memeLeaderAdjective->bodhi</Structure_OriginBuddhist.generalRules.rulesStrings.10>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.11>memeLeaderAdjective->dalai</Structure_OriginBuddhist.generalRules.rulesStrings.11>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.12>memeMoralist(p=2)->bhikkhu</Structure_OriginBuddhist.generalRules.rulesStrings.12>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.13>memeMoralist->priest</Structure_OriginBuddhist.generalRules.rulesStrings.13>
+  <Structure_OriginBuddhist.generalRules.rulesStrings.14>memeMoralist->monk</Structure_OriginBuddhist.generalRules.rulesStrings.14>
+  <Structure_OriginBuddhist.symbolPacks.0.adjective>Buddhist</Structure_OriginBuddhist.symbolPacks.0.adjective>
+  <Structure_OriginBuddhist.symbolPacks.1.adjective>Theric</Structure_OriginBuddhist.symbolPacks.1.adjective>
+  <Structure_OriginBuddhist.symbolPacks.2.adjective>Mahic</Structure_OriginBuddhist.symbolPacks.2.adjective>
+  <Structure_OriginBuddhist.symbolPacks.3.adjective>Vajric</Structure_OriginBuddhist.symbolPacks.3.adjective>
+  <Structure_OriginBuddhist.symbolPacks.4.adjective>Zen</Structure_OriginBuddhist.symbolPacks.4.adjective>
+  <Structure_OriginBuddhist.symbolPacks.5.adjective>Seonic</Structure_OriginBuddhist.symbolPacks.5.adjective>
+  <Structure_OriginBuddhist.symbolPacks.6.adjective>Ekist</Structure_OriginBuddhist.symbolPacks.6.adjective>
+  <Structure_OriginBuddhist.symbolPacks.7.adjective>Navic</Structure_OriginBuddhist.symbolPacks.7.adjective>
+  <Structure_OriginBuddhist.symbolPacks.8.adjective>Tantric</Structure_OriginBuddhist.symbolPacks.8.adjective>
+  <Structure_OriginBuddhist.symbolPacks.9.adjective>Gelugist</Structure_OriginBuddhist.symbolPacks.9.adjective>
+</LanguageData>

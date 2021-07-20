@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ExpectationsSlave.stages.0.label>destitute slave expectations</ExpectationsSlave.stages.0.label>
+  <ExpectationsSlave.stages.0.description>I'm a slave of a destitute group. I expect nothing.</ExpectationsSlave.stages.0.description>
+  <ExpectationsSlave.stages.1.label>poor slave expectations</ExpectationsSlave.stages.1.label>
+  <ExpectationsSlave.stages.1.description>I'm a slave of a poor group. I expect very little.</ExpectationsSlave.stages.1.description>
+  <ExpectationsSlave.stages.2.label>meager slave expectations</ExpectationsSlave.stages.2.label>
+  <ExpectationsSlave.stages.2.description>I'm a slave of a group with meager holdings. I expect little.</ExpectationsSlave.stages.2.description>
+  <ExpectationsSlave.stages.3.label>slave expectations</ExpectationsSlave.stages.3.label>
+  <ExpectationsSlave.stages.3.description>I'm a slave. I don't expect much.</ExpectationsSlave.stages.3.description>
+  <AteVeneratedAnimalMeat.stages.0.label>ate venerated animal meat</AteVeneratedAnimalMeat.stages.0.label>
+  <AteVeneratedAnimalMeat.stages.0.description>I ate the flesh of a venerated animal. I've violated a most basic moral rule.</AteVeneratedAnimalMeat.stages.0.description>
+  <TameVeneratedAnimalDied.stages.0.label>venerated {ANIMALKIND} died</TameVeneratedAnimalDied.stages.0.label>
+  <TameVeneratedAnimalDied.stages.0.description>A tame {ANIMALKIND} passed away. The death of such a noble beast is cause for sadness.</TameVeneratedAnimalDied.stages.0.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.0.label>venerated {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.0.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.0.description>There are venerated animals around me.</VeneratedAnimalsOnMapOrCaravan.stages.0.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.1.label>venerated {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.1.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.1.description>I have some venerated animals around me.</VeneratedAnimalsOnMapOrCaravan.stages.1.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.2.label>venerated {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.2.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.2.description>I have many venerated animals around me.</VeneratedAnimalsOnMapOrCaravan.stages.2.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.3.label>venerated {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.3.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.3.description>I have a large number of venerated animals around me!</VeneratedAnimalsOnMapOrCaravan.stages.3.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.4.label>venerated {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.4.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.4.description>I have a huge number of venerated animals around me!</VeneratedAnimalsOnMapOrCaravan.stages.4.description>
+  <SlaughteredAnimal_Know_Prohibited.stages.0.label>slaughtered animal</SlaughteredAnimal_Know_Prohibited.stages.0.label>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.0.label>animal slaughtered</SlaughteredAnimal_Know_Prohibited_Mood.stages.0.label>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.0.description>Someone slaughtered an animal! A tragic loss of a unique life.</SlaughteredAnimal_Know_Prohibited_Mood.stages.0.description>
+  <SlaughteredAnimal_Horrible.stages.0.label>slaughtered animal</SlaughteredAnimal_Horrible.stages.0.label>
+  <SlaughteredAnimal_Horrible.stages.0.description>I had to slaughter an animal! It was horrible to snuff out a mind like that.</SlaughteredAnimal_Horrible.stages.0.description>
+  <SlaughteredAnimal_Know_Horrible.stages.0.label>slaughtered animal</SlaughteredAnimal_Know_Horrible.stages.0.label>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.0.label>animal slaughtered</SlaughteredAnimal_Know_Horrible_Mood.stages.0.label>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.0.description>Someone slaughtered an animal! What a horrible thing, to snuff out a mind like that.</SlaughteredAnimal_Know_Horrible_Mood.stages.0.description>
+  <SlaughteredAnimal_Disapproved.stages.0.label>slaughtered animal</SlaughteredAnimal_Disapproved.stages.0.label>
+  <SlaughteredAnimal_Disapproved.stages.0.description>I had to slaughter and animal. It was an ugly thing to do.</SlaughteredAnimal_Disapproved.stages.0.description>
+  <SlaughteredAnimal_Know_Disapproved.stages.0.label>slaughtered animal</SlaughteredAnimal_Know_Disapproved.stages.0.label>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.0.label>animal slaughtered</SlaughteredAnimal_Know_Disapproved_Mood.stages.0.label>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.0.description>Someone slaughtered an animal. It's a sad thing.</SlaughteredAnimal_Know_Disapproved_Mood.stages.0.description>
+  <ChangedIdeo_Know_Abhorrent.stages.0.label>apostate</ChangedIdeo_Know_Abhorrent.stages.0.label>
+  <ChangedIdeo_Know_Horrible.stages.0.label>apostate</ChangedIdeo_Know_Horrible.stages.0.label>
+  <ChangedIdeo_Know_Disapproved.stages.0.label>apostate</ChangedIdeo_Know_Disapproved.stages.0.label>
+  <IsApostate_Abhorrent_Social.stages.0.label>apostate</IsApostate_Abhorrent_Social.stages.0.label>
+  <IsApostate_Horrible_Social.stages.0.label>apostate</IsApostate_Horrible_Social.stages.0.label>
+  <IsApostate_Disapproved_Social.stages.0.label>apostate</IsApostate_Disapproved_Social.stages.0.label>
+  <WearingDesiredApparel_Soft.stages.0.label>wearing {APPAREL_label}</WearingDesiredApparel_Soft.stages.0.label>
+  <WearingDesiredApparel_Soft.stages.0.description>It's good to be wearing {APPAREL_indefinite} in accordance with my beliefs.</WearingDesiredApparel_Soft.stages.0.description>
+  <WearingDesiredApparel_Strong.stages.0.label>wearing {APPAREL_label}</WearingDesiredApparel_Strong.stages.0.label>
+  <WearingDesiredApparel_Strong.stages.0.description>It's great to be wearing {APPAREL_indefinite} in accordance with my beliefs.</WearingDesiredApparel_Strong.stages.0.description>
+  <HasAutomatedTurrets_Prohibited.stages.0.label>automated turrets</HasAutomatedTurrets_Prohibited.stages.0.label>
+  <HasAutomatedTurrets_Prohibited.stages.0.description>We use automated turrets. It's absolutely abhorrent to give life-and-death decisions to a machine.</HasAutomatedTurrets_Prohibited.stages.0.description>
+  <HasAutomatedTurrets_Horrible.stages.0.label>automated turrets</HasAutomatedTurrets_Horrible.stages.0.label>
+  <HasAutomatedTurrets_Horrible.stages.0.description>We use automated turrets. It's horrible to give life-and-death decisions to a machine.</HasAutomatedTurrets_Horrible.stages.0.description>
+  <HasAutomatedTurrets_Disapproved.stages.0.label>automated turrets</HasAutomatedTurrets_Disapproved.stages.0.label>
+  <HasAutomatedTurrets_Disapproved.stages.0.description>We use automated turrets. It's really ugly to give life-and-death decision to a machine.</HasAutomatedTurrets_Disapproved.stages.0.description>
+  <BlindingCeremony_Know_Horrible.stages.0.label>blinding ceremony</BlindingCeremony_Know_Horrible.stages.0.label>
+  <BlindingCeremony_Know_Horrible.stages.0.description>We blinded someone over ideoligious beliefs! This is wrong!</BlindingCeremony_Know_Horrible.stages.0.description>
+  <BlindingCeremony_Self_Respected.stages.0.label>was blinded</BlindingCeremony_Self_Respected.stages.0.label>
+  <BlindingCeremony_Self_Respected.stages.0.description>I was blinded in a righteous ceremony. Finally, I can start learning to see.</BlindingCeremony_Self_Respected.stages.0.description>
+  <BlindingCeremony_Self_Elevated.stages.0.label>was blinded</BlindingCeremony_Self_Elevated.stages.0.label>
+  <BlindingCeremony_Self_Elevated.stages.0.description>I was blinded in a righteous ceremony. Finally, I can start learning to see.</BlindingCeremony_Self_Elevated.stages.0.description>
+  <BlindingCeremony_Self_Sublime.stages.0.label>was blinded</BlindingCeremony_Self_Sublime.stages.0.label>
+  <BlindingCeremony_Self_Sublime.stages.0.description>I was blinded in a righteous ceremony. Finally, I can start learning to see.</BlindingCeremony_Self_Sublime.stages.0.description>
+  <Blindness_Respected_Blind.stages.0.label>blind</Blindness_Respected_Blind.stages.0.label>
+  <Blindness_Respected_Blind.stages.0.description>Now that my sight is gone, I can see clearly.</Blindness_Respected_Blind.stages.0.description>
+  <Blindness_Elevated_Blind.stages.0.label>blind</Blindness_Elevated_Blind.stages.0.label>
+  <Blindness_Elevated_Blind.stages.0.description>I can explore a greater awareness through my inability to see.</Blindness_Elevated_Blind.stages.0.description>
+  <Blindness_Sublime_Blind.stages.0.label>blind</Blindness_Sublime_Blind.stages.0.label>
+  <Blindness_Sublime_Blind.stages.0.description>I am free to explore the depths of my mind and the true reality without my sight limiting me.</Blindness_Sublime_Blind.stages.0.description>
+  <Blindness_Respected_Blind_Social.stages.0.label>blind</Blindness_Respected_Blind_Social.stages.0.label>
+  <Blindness_Elevated_Blind_Social.stages.0.label>blind</Blindness_Elevated_Blind_Social.stages.0.label>
+  <Blindness_Sublime_Blind_Social.stages.0.label>blind</Blindness_Sublime_Blind_Social.stages.0.label>
+  <Blindness_ArtificialBlind.stages.0.label>vision blocked</Blindness_ArtificialBlind.stages.0.label>
+  <Blindness_ArtificialBlind.stages.0.description>Blocking my vision gives my mind closer access to true reality. It's not as good as a permanent blinding, but it's acceptable.</Blindness_ArtificialBlind.stages.0.description>
+  <Blindness_Elevated_HalfBlind.stages.0.label>half-blind</Blindness_Elevated_HalfBlind.stages.0.label>
+  <Blindness_Elevated_HalfBlind.stages.0.description>I am on my way to enlightment through blindness.</Blindness_Elevated_HalfBlind.stages.0.description>
+  <Blindness_Sublime_HalfBlind.stages.0.label>half-blind</Blindness_Sublime_HalfBlind.stages.0.label>
+  <Blindness_Sublime_HalfBlind.stages.0.description>I am on the verge of true enlightment through blindness.</Blindness_Sublime_HalfBlind.stages.0.description>
+  <Blindness_Elevated_HalfBlind_Social.stages.0.label>half-blind</Blindness_Elevated_HalfBlind_Social.stages.0.label>
+  <Blindness_Sublime_HalfBlind_Social.stages.0.label>half-blind</Blindness_Sublime_HalfBlind_Social.stages.0.label>
+  <Blindness_Elevated_NonBlind.stages.0.label>not blind</Blindness_Elevated_NonBlind.stages.0.label>
+  <Blindness_Elevated_NonBlind.stages.0.description>I wish to be blind so I can connect better with the true reality. Or, at a minimum, I should be blindfolded.</Blindness_Elevated_NonBlind.stages.0.description>
+  <Blindness_Sublime_NonBlind.stages.0.label>not blind</Blindness_Sublime_NonBlind.stages.0.label>
+  <Blindness_Sublime_NonBlind.stages.0.description>I wish to be blind so much. I need these physical sights gone so I can touch the true reality. At a minimum, I should wear a blindfold.</Blindness_Sublime_NonBlind.stages.0.description>
+  <Blindness_Respected_NonBlind_Social.stages.0.label>sighted</Blindness_Respected_NonBlind_Social.stages.0.label>
+  <Blindness_Elevated_NonBlind_Social.stages.0.label>sighted</Blindness_Elevated_NonBlind_Social.stages.0.label>
+  <Blindness_Sublime_NonBlind_Social.stages.0.label>sighted</Blindness_Sublime_NonBlind_Social.stages.0.label>
+  <InstalledProsthetic_Abhorrent.stages.0.label>installed prosthetic</InstalledProsthetic_Abhorrent.stages.0.label>
+  <InstalledProsthetic_Abhorrent.stages.0.description>I had to install a prosthetic. This was deeply offensive to my beliefs.</InstalledProsthetic_Abhorrent.stages.0.description>
+  <InstalledProsthetic_Know_Abhorrent.stages.0.label>installed prosthetic</InstalledProsthetic_Know_Abhorrent.stages.0.label>
+  <InstalledProsthetic_Disapproved.stages.0.label>installed prosthetic</InstalledProsthetic_Disapproved.stages.0.label>
+  <InstalledProsthetic_Disapproved.stages.0.description>I had to install a prosthetic. This was clearly against my beliefs.</InstalledProsthetic_Disapproved.stages.0.description>
+  <InstalledProsthetic_Know_Disapproved.stages.0.label>installed prosthetic</InstalledProsthetic_Know_Disapproved.stages.0.label>
+  <HasProsthetic_Abhorrent.stages.0.label>artificial part</HasProsthetic_Abhorrent.stages.0.label>
+  <HasProsthetic_Abhorrent.stages.0.description>I have an artificial body part in me. It's an abhorrent offense against everything I believe!</HasProsthetic_Abhorrent.stages.0.description>
+  <HasProsthetic_Abhorrent_Social.stages.0.label>artificial part</HasProsthetic_Abhorrent_Social.stages.0.label>
+  <HasProsthetic_Disapproved.stages.0.label>artificial part</HasProsthetic_Disapproved.stages.0.label>
+  <HasProsthetic_Disapproved.stages.0.description>I have an artificial body part in me. I don't believe such things are acceptable.</HasProsthetic_Disapproved.stages.0.description>
+  <HasProsthetic_Disapproved_Social.stages.0.label>artificial part</HasProsthetic_Disapproved_Social.stages.0.label>
+  <HasNoProsthetic_Disapproved.stages.0.label>no artificial part</HasNoProsthetic_Disapproved.stages.0.label>
+  <HasNoProsthetic_Disapproved.stages.0.description>I don't have any artificial body parts. It's against my beliefs to be so unenhanced.</HasNoProsthetic_Disapproved.stages.0.description>
+  <HasNoProsthetic_Disapproved_Social.stages.0.label>no artificial part</HasNoProsthetic_Disapproved_Social.stages.0.label>
+  <HasProsthetic_Approved.stages.0.label>transhumanist modded</HasProsthetic_Approved.stages.0.label>
+  <HasProsthetic_Approved.stages.0.description>This artificial body part matches my belief.</HasProsthetic_Approved.stages.0.description>
+  <HasProsthetic_Approved.stages.1.label>transhumanist connected</HasProsthetic_Approved.stages.1.label>
+  <HasProsthetic_Approved.stages.1.description>The more artificial body parts I get, the stronger my expression of my beliefs.</HasProsthetic_Approved.stages.1.description>
+  <HasProsthetic_Approved.stages.2.label>transhumanist enhanced</HasProsthetic_Approved.stages.2.label>
+  <HasProsthetic_Approved.stages.2.description>My connection to my belief is enhanced by my third artificial body part. But I could use more.</HasProsthetic_Approved.stages.2.description>
+  <HasProsthetic_Approved.stages.3.label>transhumanist synchronized</HasProsthetic_Approved.stages.3.label>
+  <HasProsthetic_Approved.stages.3.description>Only two more artificial body parts are required to fully synchronize with my beliefs.</HasProsthetic_Approved.stages.3.description>
+  <HasProsthetic_Approved.stages.4.label>transhumanist integrated</HasProsthetic_Approved.stages.4.label>
+  <HasProsthetic_Approved.stages.4.description>Five artificial body parts! I'm beginning to feel perfect integration with my beliefs.</HasProsthetic_Approved.stages.4.description>
+  <HasProsthetic_Approved.stages.5.label>transhumanist transformed</HasProsthetic_Approved.stages.5.label>
+  <HasProsthetic_Approved.stages.5.description>It's as though I've left the weak flesh behind.</HasProsthetic_Approved.stages.5.description>
+  <AteHumanMeat_Abhorrent.stages.0.label>ate human meat</AteHumanMeat_Abhorrent.stages.0.label>
+  <AteHumanMeat_Abhorrent.stages.0.description>I had to eat human meat. This is an offense against everything I believe.</AteHumanMeat_Abhorrent.stages.0.description>
+  <ButcheredHuman_Abhorrent.stages.0.label>I butchered humanlike</ButcheredHuman_Abhorrent.stages.0.label>
+  <ButcheredHuman_Abhorrent.stages.0.description>I butchered a human being. This is an offense against everything I believe.</ButcheredHuman_Abhorrent.stages.0.description>
+  <ButcheredHuman_Know_Abhorrent.stages.0.label>we butchered humanlike</ButcheredHuman_Know_Abhorrent.stages.0.label>
+  <ButcheredHuman_Know_Abhorrent.stages.0.description>One of us butchered a human being. This is an offense against everything I believe.</ButcheredHuman_Know_Abhorrent.stages.0.description>
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.0.label>butchered humanlike</ButcheredHuman_Know_Abhorrent_Opinion.stages.0.label>
+  <AteHumanMeat_Know_Abhorrent.stages.0.label>ate human meat</AteHumanMeat_Know_Abhorrent.stages.0.label>
+  <HumanLeatherApparel_Abhorrent.stages.0.label>human leather {0}</HumanLeatherApparel_Abhorrent.stages.0.label>
+  <HumanLeatherApparel_Abhorrent.stages.0.description>Wearing human leather is disturbing. Who could do this?</HumanLeatherApparel_Abhorrent.stages.0.description>
+  <HumanLeatherApparel_Abhorrent.stages.1.label>human leather {0} (+1)</HumanLeatherApparel_Abhorrent.stages.1.label>
+  <HumanLeatherApparel_Abhorrent.stages.1.description>I'm dressed like an insane person.</HumanLeatherApparel_Abhorrent.stages.1.description>
+  <HumanLeatherApparel_Abhorrent.stages.2.label>human leather {0} (+2)</HumanLeatherApparel_Abhorrent.stages.2.label>
+  <HumanLeatherApparel_Abhorrent.stages.2.description>I think there may be a face on my clothes. Oh, no... my clothes *are* a face.</HumanLeatherApparel_Abhorrent.stages.2.description>
+  <HumanLeatherApparel_Abhorrent.stages.3.label>human leather {0} etc</HumanLeatherApparel_Abhorrent.stages.3.label>
+  <HumanLeatherApparel_Abhorrent.stages.3.description>I look like a freak from a horror show, and I feel like I'm in a horror show.</HumanLeatherApparel_Abhorrent.stages.3.description>
+  <AteHumanMeat_Horrible.stages.0.label>ate human meat</AteHumanMeat_Horrible.stages.0.label>
+  <AteHumanMeat_Horrible.stages.0.description>I had to eat human meat. This was a horrible thing.</AteHumanMeat_Horrible.stages.0.description>
+  <ButcheredHuman_Horrible.stages.0.label>I butchered humanlike</ButcheredHuman_Horrible.stages.0.label>
+  <ButcheredHuman_Horrible.stages.0.description>I butchered a human being. This was a horrible thing.</ButcheredHuman_Horrible.stages.0.description>
+  <ButcheredHuman_Know_Horrible.stages.0.label>we butchered humanlike</ButcheredHuman_Know_Horrible.stages.0.label>
+  <ButcheredHuman_Know_Horrible.stages.0.description>One of us butchered a human being. This was a horrible thing.</ButcheredHuman_Know_Horrible.stages.0.description>
+  <ButcheredHuman_Know_Horrible_Opinion.stages.0.label>butchered humanlike</ButcheredHuman_Know_Horrible_Opinion.stages.0.label>
+  <AteHumanMeat_Know_Horrible.stages.0.label>ate human meat</AteHumanMeat_Know_Horrible.stages.0.label>
+  <HumanLeatherApparel_Horrible.stages.0.label>human leather {0}</HumanLeatherApparel_Horrible.stages.0.label>
+  <HumanLeatherApparel_Horrible.stages.0.description>Wearing human leather is wrong.</HumanLeatherApparel_Horrible.stages.0.description>
+  <HumanLeatherApparel_Horrible.stages.1.label>human leather {0} (+1)</HumanLeatherApparel_Horrible.stages.1.label>
+  <HumanLeatherApparel_Horrible.stages.1.description>I feel really uncomfortable with all this human leather apparel.</HumanLeatherApparel_Horrible.stages.1.description>
+  <HumanLeatherApparel_Horrible.stages.2.label>human leather {0} (+2)</HumanLeatherApparel_Horrible.stages.2.label>
+  <HumanLeatherApparel_Horrible.stages.2.description>Why am I wearing so much human leather? This is horrible!</HumanLeatherApparel_Horrible.stages.2.description>
+  <HumanLeatherApparel_Horrible.stages.3.label>human leather {0} etc</HumanLeatherApparel_Horrible.stages.3.label>
+  <HumanLeatherApparel_Horrible.stages.3.description>I look like a freak, this is horrifying!</HumanLeatherApparel_Horrible.stages.3.description>
+  <AteHumanMeat_Disapproved.stages.0.label>ate human meat</AteHumanMeat_Disapproved.stages.0.label>
+  <AteHumanMeat_Disapproved.stages.0.description>I had to eat human meat. I believe such actions are wrong.</AteHumanMeat_Disapproved.stages.0.description>
+  <ButcheredHuman_Disapproved.stages.0.label>I butchered humanlike</ButcheredHuman_Disapproved.stages.0.label>
+  <ButcheredHuman_Disapproved.stages.0.description>I butchered a human being. I believe such actions are wrong.</ButcheredHuman_Disapproved.stages.0.description>
+  <ButcheredHuman_Know_Disapproved.stages.0.label>we butchered humanlike</ButcheredHuman_Know_Disapproved.stages.0.label>
+  <ButcheredHuman_Know_Disapproved.stages.0.description>One of us butchered a human being. I believe such actions are wrong.</ButcheredHuman_Know_Disapproved.stages.0.description>
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.0.label>butchered humanlike</ButcheredHuman_Know_Disapproved_Opinion.stages.0.label>
+  <AteHumanMeat_Know_Disapproved.stages.0.label>ate human meat</AteHumanMeat_Know_Disapproved.stages.0.label>
+  <HumanLeatherApparel_Disapproved.stages.0.label>human leather {0}</HumanLeatherApparel_Disapproved.stages.0.label>
+  <HumanLeatherApparel_Disapproved.stages.0.description>I should not be wearing human leather apparel.</HumanLeatherApparel_Disapproved.stages.0.description>
+  <HumanLeatherApparel_Disapproved.stages.1.label>human leather {0} (+1)</HumanLeatherApparel_Disapproved.stages.1.label>
+  <HumanLeatherApparel_Disapproved.stages.1.description>I'm dressed in human skin. I do not like this.</HumanLeatherApparel_Disapproved.stages.1.description>
+  <HumanLeatherApparel_Disapproved.stages.2.label>human leather {0} (+2)</HumanLeatherApparel_Disapproved.stages.2.label>
+  <HumanLeatherApparel_Disapproved.stages.2.description>Why am I wearing so much human leather apparel? We should have something else to wear for me...</HumanLeatherApparel_Disapproved.stages.2.description>
+  <HumanLeatherApparel_Disapproved.stages.3.label>human leather {0} etc</HumanLeatherApparel_Disapproved.stages.3.label>
+  <HumanLeatherApparel_Disapproved.stages.3.description>I should really wear non-human leather apparel. I look like a crazy person.</HumanLeatherApparel_Disapproved.stages.3.description>
+  <AteHumanMeat_Preferred.stages.0.label>ate human meat</AteHumanMeat_Preferred.stages.0.label>
+  <AteHumanMeat_Preferred.stages.0.description>I ate human meat. It makes me feel noble and strong.</AteHumanMeat_Preferred.stages.0.description>
+  <NoRecentHumanMeat_Preferred.stages.0.label>want human meat</NoRecentHumanMeat_Preferred.stages.0.label>
+  <NoRecentHumanMeat_Preferred.stages.0.description>It's been too long since I consumed any human meat. It feels wrong.</NoRecentHumanMeat_Preferred.stages.0.description>
+  <HumanLeatherApparel_Preferred.stages.0.label>human leather {0}</HumanLeatherApparel_Preferred.stages.0.label>
+  <HumanLeatherApparel_Preferred.stages.0.description>I feel good wearing human leather apparel.</HumanLeatherApparel_Preferred.stages.0.description>
+  <HumanLeatherApparel_Preferred.stages.1.label>human leather {0} (+1)</HumanLeatherApparel_Preferred.stages.1.label>
+  <HumanLeatherApparel_Preferred.stages.1.description>I enjoy wearing the skin of others.</HumanLeatherApparel_Preferred.stages.1.description>
+  <HumanLeatherApparel_Preferred.stages.2.label>human leather {0} (+2)</HumanLeatherApparel_Preferred.stages.2.label>
+  <HumanLeatherApparel_Preferred.stages.2.description>I wear the faces of my enemies. This makes me happy.</HumanLeatherApparel_Preferred.stages.2.description>
+  <HumanLeatherApparel_Preferred.stages.3.label>human leather {0} etc</HumanLeatherApparel_Preferred.stages.3.label>
+  <HumanLeatherApparel_Preferred.stages.3.description>I look like a real cannibal. Who could doubt me?</HumanLeatherApparel_Preferred.stages.3.description>
+  <AteNonCannibalFood_Horrible.stages.0.label>ate non-cannibal food</AteNonCannibalFood_Horrible.stages.0.label>
+  <AteNonCannibalFood_Horrible.stages.0.description>I had to eat food that wasn't taken from a human body. My beliefs strictly forbid such things.</AteNonCannibalFood_Horrible.stages.0.description>
+  <AteNonCannibalFood_Know_Horrible.stages.0.label>ate non-cannibal food</AteNonCannibalFood_Know_Horrible.stages.0.label>
+  <AteHumanMeat_RequiredStrong.stages.0.label>ate human meat</AteHumanMeat_RequiredStrong.stages.0.label>
+  <AteHumanMeat_RequiredStrong.stages.0.description>I ate human meat, as every real human should.</AteHumanMeat_RequiredStrong.stages.0.description>
+  <NoRecentHumanMeat_RequiredStrong.stages.0.label>want human meat</NoRecentHumanMeat_RequiredStrong.stages.0.label>
+  <NoRecentHumanMeat_RequiredStrong.stages.0.description>It's been far too long since I consumed human. I should have eaten by now.</NoRecentHumanMeat_RequiredStrong.stages.0.description>
+  <HumanLeatherApparel_RequiredStrong.stages.0.label>human leather {0}</HumanLeatherApparel_RequiredStrong.stages.0.label>
+  <HumanLeatherApparel_RequiredStrong.stages.0.description>I enjoy wearing the faces of others.</HumanLeatherApparel_RequiredStrong.stages.0.description>
+  <HumanLeatherApparel_RequiredStrong.stages.1.label>human leather {0} (+1)</HumanLeatherApparel_RequiredStrong.stages.1.label>
+  <HumanLeatherApparel_RequiredStrong.stages.1.description>This will scare them. All will know my power.</HumanLeatherApparel_RequiredStrong.stages.1.description>
+  <HumanLeatherApparel_RequiredStrong.stages.2.label>human leather {0} (+2)</HumanLeatherApparel_RequiredStrong.stages.2.label>
+  <HumanLeatherApparel_RequiredStrong.stages.2.description>The faces on my clothes aren't smiling, but they make *me* happy.</HumanLeatherApparel_RequiredStrong.stages.2.description>
+  <HumanLeatherApparel_RequiredStrong.stages.3.label>human leather {0} etc</HumanLeatherApparel_RequiredStrong.stages.3.label>
+  <HumanLeatherApparel_RequiredStrong.stages.3.description>The flesh! The flesh signals my triumph!</HumanLeatherApparel_RequiredStrong.stages.3.description>
+  <AteNonCannibalFood_Abhorrent.stages.0.label>ate non-cannibal food</AteNonCannibalFood_Abhorrent.stages.0.label>
+  <AteNonCannibalFood_Abhorrent.stages.0.description>I had to eat food that wasn't taken from a human body. This is absolutely against my beliefs.</AteNonCannibalFood_Abhorrent.stages.0.description>
+  <AteNonCannibalFood_Know_Abhorrent.stages.0.label>ate non-cannibal food</AteNonCannibalFood_Know_Abhorrent.stages.0.label>
+  <AteHumanMeat_RequiredRavenous.stages.0.label>ate human meat</AteHumanMeat_RequiredRavenous.stages.0.label>
+  <AteHumanMeat_RequiredRavenous.stages.0.description>I ate human meat! The world is right, and I am as I should be.</AteHumanMeat_RequiredRavenous.stages.0.description>
+  <NoRecentHumanMeat_RequiredRavenous.stages.0.label>want human meat</NoRecentHumanMeat_RequiredRavenous.stages.0.label>
+  <NoRecentHumanMeat_RequiredRavenous.stages.0.description>Ravenous! It's been so long since I tasted the true flesh. This is wrong!</NoRecentHumanMeat_RequiredRavenous.stages.0.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.0.label>human leather {0}</HumanLeatherApparel_RequiredRavenous.stages.0.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.0.description>I enjoy wearing the suffering of others.</HumanLeatherApparel_RequiredRavenous.stages.0.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.1.label>human leather {0} (+1)</HumanLeatherApparel_RequiredRavenous.stages.1.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.1.description>This will scare them. All will know my power.</HumanLeatherApparel_RequiredRavenous.stages.1.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.2.label>human leather {0} (+2)</HumanLeatherApparel_RequiredRavenous.stages.2.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.2.description>The faces on my clothes aren't smiling, but they make *me* happy.</HumanLeatherApparel_RequiredRavenous.stages.2.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.3.label>human leather {0} etc</HumanLeatherApparel_RequiredRavenous.stages.3.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.3.description>The flesh! The flesh signals my triumph!</HumanLeatherApparel_RequiredRavenous.stages.3.description>
+  <CharityRefused_Essential_Beggars.stages.0.label>beggars not helped</CharityRefused_Essential_Beggars.stages.0.label>
+  <CharityRefused_Essential_Beggars.stages.0.description>They begged for help, but we refused. What a violation - am I even human any more?</CharityRefused_Essential_Beggars.stages.0.description>
+  <CharityRefused_Important_Beggars.stages.0.label>beggars not helped</CharityRefused_Important_Beggars.stages.0.label>
+  <CharityRefused_Important_Beggars.stages.0.description>They begged for help, but we didn't do anything. It was deeply wrong.</CharityRefused_Important_Beggars.stages.0.description>
+  <CharityRefused_Worthwhile_Beggars.stages.0.label>beggars not helped</CharityRefused_Worthwhile_Beggars.stages.0.label>
+  <CharityRefused_Worthwhile_Beggars.stages.0.description>They asked for help and we did nothing. We should be trying harder.</CharityRefused_Worthwhile_Beggars.stages.0.description>
+  <CharityRefused_Essential_Beggars_Betrayed.stages.0.label>beggars betrayed</CharityRefused_Essential_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Essential_Beggars_Betrayed.stages.0.description>They begged for help and we betrayed them. Will I ever forgive myself?</CharityRefused_Essential_Beggars_Betrayed.stages.0.description>
+  <CharityRefused_Important_Beggars_Betrayed.stages.0.label>beggars betrayed</CharityRefused_Important_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Important_Beggars_Betrayed.stages.0.description>They begged for help and we betrayed them. It was horrendous.</CharityRefused_Important_Beggars_Betrayed.stages.0.description>
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.label>beggars betrayed</CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.description>They begged for help and we betrayed them. We cannot let this happen again.</CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.description>
+  <CharityRefused_Essential_WandererJoins.stages.0.label>wanderer rejected</CharityRefused_Essential_WandererJoins.stages.0.label>
+  <CharityRefused_Essential_WandererJoins.stages.0.description>Someone came looking for help, and we rejected them. What we did was inhuman.</CharityRefused_Essential_WandererJoins.stages.0.description>
+  <CharityRefused_Important_WandererJoins.stages.0.label>wanderer rejected</CharityRefused_Important_WandererJoins.stages.0.label>
+  <CharityRefused_Important_WandererJoins.stages.0.description>They were in need, and we rejected them. Only a terrible person does that.</CharityRefused_Important_WandererJoins.stages.0.description>
+  <CharityRefused_Worthwhile_WandererJoins.stages.0.label>wanderer rejected</CharityRefused_Worthwhile_WandererJoins.stages.0.label>
+  <CharityRefused_Worthwhile_WandererJoins.stages.0.description>They were in need, and we turned them away. We should have done better.</CharityRefused_Worthwhile_WandererJoins.stages.0.description>
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.0.label>crashing shuttle ignored</CharityRefused_Essential_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.0.description>They were crashing, desperate for help, and we said no. How can I live with this?</CharityRefused_Essential_ShuttleCrashRescue.stages.0.description>
+  <CharityRefused_Important_ShuttleCrashRescue.stages.0.label>crashing shuttle ignored</CharityRefused_Important_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Important_ShuttleCrashRescue.stages.0.description>They were crashing, desperate for help, and we said no. It was so wrong.</CharityRefused_Important_ShuttleCrashRescue.stages.0.description>
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.label>crashing shuttle ignored</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.description>They were crashing, desperate for help, and we said no. It wasn't a good thing.</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.description>
+  <CharityRefused_Essential_RefugeePodCrash.stages.0.label>crashed refugee not helped</CharityRefused_Essential_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Essential_RefugeePodCrash.stages.0.description>They were hurt and need of help, and we didn't help. How can I live with that?</CharityRefused_Essential_RefugeePodCrash.stages.0.description>
+  <CharityRefused_Important_RefugeePodCrash.stages.0.label>crashed refugee not helped</CharityRefused_Important_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Important_RefugeePodCrash.stages.0.description>They were hurt and need of help, and we didn't help. Am I even a good person?</CharityRefused_Important_RefugeePodCrash.stages.0.description>
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.0.label>crashed refugee not helped</CharityRefused_Worthwhile_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.0.description>They were hurt and need of help, and we didn't help. It wasn't the best.</CharityRefused_Worthwhile_RefugeePodCrash.stages.0.description>
+  <CharityRefused_Essential_HospitalityRefugees.stages.0.label>refugees not helped</CharityRefused_Essential_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Essential_HospitalityRefugees.stages.0.description>They were desperate, and we didn't help. How could I be so inhuman?</CharityRefused_Essential_HospitalityRefugees.stages.0.description>
+  <CharityRefused_Important_HospitalityRefugees.stages.0.label>refugees not helped</CharityRefused_Important_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Important_HospitalityRefugees.stages.0.description>They were desperate, and we didn't help. We were obligated to help.</CharityRefused_Important_HospitalityRefugees.stages.0.description>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.0.label>refugees not helped</CharityRefused_Worthwhile_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.0.description>They were desperate, and we didn't help. It wasn't great.</CharityRefused_Worthwhile_HospitalityRefugees.stages.0.description>
+  <CharityRefused_Essential_IntroWimp.stages.0.label>noble not helped</CharityRefused_Essential_IntroWimp.stages.0.label>
+  <CharityRefused_Essential_IntroWimp.stages.0.description>We refused to help a desperate noble. It was deeply immoral.</CharityRefused_Essential_IntroWimp.stages.0.description>
+  <CharityRefused_Important_IntroWimp.stages.0.label>noble not helped</CharityRefused_Important_IntroWimp.stages.0.label>
+  <CharityRefused_Important_IntroWimp.stages.0.description>We refused to help a desperate noble. We should have tried harder.</CharityRefused_Important_IntroWimp.stages.0.description>
+  <CharityRefused_Worthwhile_IntroWimp.stages.0.label>noble not helped</CharityRefused_Worthwhile_IntroWimp.stages.0.label>
+  <CharityRefused_Worthwhile_IntroWimp.stages.0.description>We refused to help a desperate noble. Perhaps I am not as charitable as I thought.</CharityRefused_Worthwhile_IntroWimp.stages.0.description>
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.0.label>rejected joiner in danger</CharityRefused_Essential_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.0.description>We refused to help someone in real danger. I've deeply violated my beliefs.</CharityRefused_Essential_ThreatReward_Joiner.stages.0.description>
+  <CharityRefused_Important_ThreatReward_Joiner.stages.0.label>rejected joiner in danger</CharityRefused_Important_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Important_ThreatReward_Joiner.stages.0.description>We refused to help someone in real danger. This will stick with me for a long time.</CharityRefused_Important_ThreatReward_Joiner.stages.0.description>
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.label>rejected joiner in danger</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.description>We refused to help someone in real danger. It wasn't great.</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.description>
+  <CharityFulfilled_Essential_Beggars.stages.0.label>beggars helped</CharityFulfilled_Essential_Beggars.stages.0.label>
+  <CharityFulfilled_Essential_Beggars.stages.0.description>We helped beggars in need. I really am a good person!</CharityFulfilled_Essential_Beggars.stages.0.description>
+  <CharityFulfilled_Important_Beggars.stages.0.label>beggars helped</CharityFulfilled_Important_Beggars.stages.0.label>
+  <CharityFulfilled_Important_Beggars.stages.0.description>We helped beggars in need. It was the right thing to do.</CharityFulfilled_Important_Beggars.stages.0.description>
+  <CharityFulfilled_Worthwhile_Beggars.stages.0.label>beggars helped</CharityFulfilled_Worthwhile_Beggars.stages.0.label>
+  <CharityFulfilled_Worthwhile_Beggars.stages.0.description>We helped beggars in need. It's good to be good to people.</CharityFulfilled_Worthwhile_Beggars.stages.0.description>
+  <CharityFulfilled_Essential_WandererJoins.stages.0.label>wanderer helped</CharityFulfilled_Essential_WandererJoins.stages.0.label>
+  <CharityFulfilled_Essential_WandererJoins.stages.0.description>We helped a desperate wanderer survive. I really am a good person!</CharityFulfilled_Essential_WandererJoins.stages.0.description>
+  <CharityFulfilled_Important_WandererJoins.stages.0.label>wanderer helped</CharityFulfilled_Important_WandererJoins.stages.0.label>
+  <CharityFulfilled_Important_WandererJoins.stages.0.description>We helped a desperate wanderer survive. Helping others is the right thing to do.</CharityFulfilled_Important_WandererJoins.stages.0.description>
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.0.label>wanderer helped</CharityFulfilled_Worthwhile_WandererJoins.stages.0.label>
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.0.description>We helped a desperate wanderer survive. That's a good thing.</CharityFulfilled_Worthwhile_WandererJoins.stages.0.description>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.label>shuttle survivors helped</CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.description>We helped shuttle crash survivors. I really am a good person!</CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.description>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.0.label>shuttle survivors helped</CharityFulfilled_Important_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.0.description>We helped shuttle crash survivors. It was clearly the right thing to do.</CharityFulfilled_Important_ShuttleCrashRescue.stages.0.description>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.label>shuttle survivors helped</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.description>We helped shuttle crash survivors. It was a good thing.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.description>
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.0.label>pod refugee helped</CharityFulfilled_Essential_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.0.description>We helped a crashed refugee survive. I really am a good person!</CharityFulfilled_Essential_RefugeePodCrash.stages.0.description>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.0.label>pod refugee helped</CharityFulfilled_Important_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.0.description>We helped a crashed refugee survive. Helping others is important.</CharityFulfilled_Important_RefugeePodCrash.stages.0.description>
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.label>pod refugee helped</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.description>We helped a crashed refugee survive. It was good of me.</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.description>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.0.label>refugees hosted</CharityFulfilled_Essential_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.0.description>We helped refugees. I really am a good person!</CharityFulfilled_Essential_HospitalityRefugees.stages.0.description>
+  <CharityFulfilled_Important_HospitalityRefugees.stages.0.label>refugees hosted</CharityFulfilled_Important_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Important_HospitalityRefugees.stages.0.description>We helped refugees. Helping others is important.</CharityFulfilled_Important_HospitalityRefugees.stages.0.description>
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.label>refugees hosted</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.description>We helped refugees. It was good of us.</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.description>
+  <CharityFulfilled_Essential_IntroWimp.stages.0.label>noble helped</CharityFulfilled_Essential_IntroWimp.stages.0.label>
+  <CharityFulfilled_Essential_IntroWimp.stages.0.description>We helped a royal in need. We really are good people!</CharityFulfilled_Essential_IntroWimp.stages.0.description>
+  <CharityFulfilled_Important_IntroWimp.stages.0.label>noble helped</CharityFulfilled_Important_IntroWimp.stages.0.label>
+  <CharityFulfilled_Important_IntroWimp.stages.0.description>We helped a royal in need. Helping others is important.</CharityFulfilled_Important_IntroWimp.stages.0.description>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.0.label>noble helped</CharityFulfilled_Worthwhile_IntroWimp.stages.0.label>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.0.description>We helped a royal in need. It was good of us.</CharityFulfilled_Worthwhile_IntroWimp.stages.0.description>
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.label>accepted someone in danger</CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.description>We helped someone under threat. We really are good people!</CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.description>
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.0.label>accepted someone in danger</CharityFulfilled_Important_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.0.description>We helped someone under threat. It was the right thing to do.</CharityFulfilled_Important_ThreatReward_Joiner.stages.0.description>
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.label>accepted someone in danger</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.description>We helped someone under threat. That was pretty good.</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.description>
+  <SlabBed_Preferred.stages.0.label>slept on slab bed</SlabBed_Preferred.stages.0.label>
+  <SlabBed_Preferred.stages.0.description>I demonstrated my morality by accepting the discomfort of the slab bed.</SlabBed_Preferred.stages.0.description>
+  <IngestedDrug_Horrible.stages.0.label>used drug</IngestedDrug_Horrible.stages.0.label>
+  <IngestedDrug_Horrible.stages.0.description>I used a drug. Such chemicals in the body are a horrible offense against my beliefs.</IngestedDrug_Horrible.stages.0.description>
+  <IngestedRecreationalDrug_Horrible.stages.0.label>used recreational drug</IngestedRecreationalDrug_Horrible.stages.0.label>
+  <IngestedRecreationalDrug_Horrible.stages.0.description>I used a recreational drug. It was an offense against my beliefs.</IngestedRecreationalDrug_Horrible.stages.0.description>
+  <IngestedHardDrug_Horrible.stages.0.label>used hard drug</IngestedHardDrug_Horrible.stages.0.label>
+  <IngestedHardDrug_Horrible.stages.0.description>I used a hard drug - not medical or even social. It was a horrible offense against my beliefs.</IngestedHardDrug_Horrible.stages.0.description>
+  <IngestedDrug_Know_Horrible.stages.0.label>used drug</IngestedDrug_Know_Horrible.stages.0.label>
+  <IngestedRecreationalDrug_Know_Horrible.stages.0.label>used recreational drug</IngestedRecreationalDrug_Know_Horrible.stages.0.label>
+  <IngestedHardDrug_Know_Horrible.stages.0.label>used hard drug</IngestedHardDrug_Know_Horrible.stages.0.label>
+  <AdministeredDrug_Horrible.stages.0.label>administered drug</AdministeredDrug_Horrible.stages.0.label>
+  <AdministeredDrug_Horrible.stages.0.description>I administered a drug. It was a horrible offense against my beliefs.</AdministeredDrug_Horrible.stages.0.description>
+  <AdministeredRecreationalDrug_Horrible.stages.0.label>administered recreational drug</AdministeredRecreationalDrug_Horrible.stages.0.label>
+  <AdministeredRecreationalDrug_Horrible.stages.0.description>I administered a recreational drug. It was a horrible offense against my beliefs.</AdministeredRecreationalDrug_Horrible.stages.0.description>
+  <AdministeredHardDrug_Horrible.stages.0.label>administered hard drug</AdministeredHardDrug_Horrible.stages.0.label>
+  <AdministeredHardDrug_Horrible.stages.0.description>I administered a hard drug - not medical or even social. It was a horrible offense against my beliefs.</AdministeredHardDrug_Horrible.stages.0.description>
+  <AdministeredDrug_Know_Horrible.stages.0.label>administered drug</AdministeredDrug_Know_Horrible.stages.0.label>
+  <AdministeredRecreationalDrug_Know_Horrible.stages.0.label>administered recreational drug</AdministeredRecreationalDrug_Know_Horrible.stages.0.label>
+  <AdministeredHardDrug_Know_Horrible.stages.0.label>administered hard drug</AdministeredHardDrug_Know_Horrible.stages.0.label>
+  <AteNonFungusPlant_Despised.stages.0.label>ate non-fungus plant raw</AteNonFungusPlant_Despised.stages.0.label>
+  <AteNonFungusPlant_Despised.stages.0.description>I had to eat a non-fungus plant food I despise. I much prefer fungus.</AteNonFungusPlant_Despised.stages.0.description>
+  <AteNonFungusMealWithPlants_Despised.stages.0.label>ate non-fungus plant cooked</AteNonFungusMealWithPlants_Despised.stages.0.label>
+  <AteNonFungusMealWithPlants_Despised.stages.0.description>I ate a meal with a plant of the light. I wish it were a fungus.</AteNonFungusMealWithPlants_Despised.stages.0.description>
+  <AteFungus_Prefered.stages.0.label>ate fungus</AteFungus_Prefered.stages.0.label>
+  <AteFungus_Prefered.stages.0.description>I ate some fungus and it was just what I like!</AteFungus_Prefered.stages.0.description>
+  <AteFungusAsIngredient_Prefered.stages.0.label>ate cooked fungus</AteFungusAsIngredient_Prefered.stages.0.label>
+  <AteFungusAsIngredient_Prefered.stages.0.description>I ate a meal with fungus. Is there any dish it doesn't complement?</AteFungusAsIngredient_Prefered.stages.0.description>
+  <AteFungus_Despised.stages.0.label>ate fungus raw</AteFungus_Despised.stages.0.label>
+  <AteFungus_Despised.stages.0.description>That fungus smelled like damp rags and tasted no better.</AteFungus_Despised.stages.0.description>
+  <AteFungusAsIngredient_Despised.stages.0.label>ate fungus cooked</AteFungusAsIngredient_Despised.stages.0.label>
+  <AteFungusAsIngredient_Despised.stages.0.description>That whole meal smelled like a dead rat left in a stagnant pool.</AteFungusAsIngredient_Despised.stages.0.description>
+  <HighLife.stages.0.label>high life</HighLife.stages.0.label>
+  <HighLife.stages.0.description>The right path goes through altered consciousness, and I am walking it.</HighLife.stages.0.description>
+  <HighLife.stages.1.label>high life</HighLife.stages.1.label>
+  <HighLife.stages.2.label>high life missing</HighLife.stages.2.label>
+  <HighLife.stages.2.description>I should be altering my consciousness. It's not right to be sober so long.</HighLife.stages.2.description>
+  <HighLife.stages.3.label>high life missing</HighLife.stages.3.label>
+  <HighLife.stages.3.description>I should be altering my consciousness. It's not right to be sober so long.</HighLife.stages.3.description>
+  <IdeoDiversity_Abhorrent.stages.0.label>diverse thoughts</IdeoDiversity_Abhorrent.stages.0.label>
+  <IdeoDiversity_Abhorrent.stages.0.description>My truth is so pure and obvious, yet some of those around me are captured by evil. It's abhorrent.</IdeoDiversity_Abhorrent.stages.0.description>
+  <IdeoDiversity_Abhorrent.stages.1.label>diverse thoughts</IdeoDiversity_Abhorrent.stages.1.label>
+  <IdeoDiversity_Abhorrent.stages.1.description>My truth is so pure and obvious, yet many of those around me are captured by evil. It's abhorrent.</IdeoDiversity_Abhorrent.stages.1.description>
+  <IdeoDiversity_Abhorrent.stages.2.label>diverse thoughts</IdeoDiversity_Abhorrent.stages.2.label>
+  <IdeoDiversity_Abhorrent.stages.2.description>My truth is so pure and obvious, yet almost all of those around me are captured by evil. It's abhorrent.</IdeoDiversity_Abhorrent.stages.2.description>
+  <IdeoDiversity_Abhorrent_Uniform.stages.0.label>uniform thoughts</IdeoDiversity_Abhorrent_Uniform.stages.0.label>
+  <IdeoDiversity_Abhorrent_Uniform.stages.0.description>Our community is free from evil thoughts, as it should be.</IdeoDiversity_Abhorrent_Uniform.stages.0.description>
+  <IdeoDiversity_Abhorrent_Social.stages.0.label>different ideoligion</IdeoDiversity_Abhorrent_Social.stages.0.label>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.0.label>false altar</IdeoDiverity_Abhorrent_AltarSharing.stages.0.label>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.0.description>The altar of a false belief is in the room with our {ALTAR_labelShort}! It's a disgusting violation of our sanctity.</IdeoDiverity_Abhorrent_AltarSharing.stages.0.description>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.0.label>{ADJECTIVE}-style surroundings</IdeoDiversity_Abhorrent_StyleDominance.stages.0.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.0.description>I am surrounded by constructions which match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.0.description>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.1.label>Non-{ADJECTIVE}-style surroundings</IdeoDiversity_Abhorrent_StyleDominance.stages.1.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.1.description>I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.1.description>
+  <IdeoDiversity_Horrible.stages.0.label>diverse thoughts</IdeoDiversity_Horrible.stages.0.label>
+  <IdeoDiversity_Horrible.stages.0.description>My truth is so obvious, yet some of those around me are so deluded. It's horrible.</IdeoDiversity_Horrible.stages.0.description>
+  <IdeoDiversity_Horrible.stages.1.label>diverse thoughts</IdeoDiversity_Horrible.stages.1.label>
+  <IdeoDiversity_Horrible.stages.1.description>My truth is so obvious, yet many those around me are so deluded. It's horrible.</IdeoDiversity_Horrible.stages.1.description>
+  <IdeoDiversity_Horrible.stages.2.label>diverse thoughts</IdeoDiversity_Horrible.stages.2.label>
+  <IdeoDiversity_Horrible.stages.2.description>My truth is so obvious, yet almost all of those around me are so deluded. It's horrible.</IdeoDiversity_Horrible.stages.2.description>
+  <IdeoDiversity_Horrible_Uniform.stages.0.label>uniform thoughts</IdeoDiversity_Horrible_Uniform.stages.0.label>
+  <IdeoDiversity_Horrible_Uniform.stages.0.description>Our community is free of filthy delusions, as it should be.</IdeoDiversity_Horrible_Uniform.stages.0.description>
+  <IdeoDiversity_Horrible_Social.stages.0.label>different ideoligion</IdeoDiversity_Horrible_Social.stages.0.label>
+  <IdeoDiverity_Horrible_AltarSharing.stages.0.label>false altar</IdeoDiverity_Horrible_AltarSharing.stages.0.label>
+  <IdeoDiverity_Horrible_AltarSharing.stages.0.description>The altar of a false belief is in the room with our {ALTAR_labelShort}. It's a violation of our sanctity.</IdeoDiverity_Horrible_AltarSharing.stages.0.description>
+  <IdeoDiversity_Horrible_StyleDominance.stages.0.label>{ADJECTIVE}-style surroundings</IdeoDiversity_Horrible_StyleDominance.stages.0.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.0.description>I am surrounded by constructions which match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.0.description>
+  <IdeoDiversity_Horrible_StyleDominance.stages.1.label>Non-{ADJECTIVE}-style surroundings</IdeoDiversity_Horrible_StyleDominance.stages.1.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.1.description>I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.1.description>
+  <IdeoDiversity_Disapproved.stages.0.label>diverse thoughts</IdeoDiversity_Disapproved.stages.0.label>
+  <IdeoDiversity_Disapproved.stages.0.description>My truth is clear, yet some of those around me are so foolish they can't see it. I don't like being subjected to their idiocy.</IdeoDiversity_Disapproved.stages.0.description>
+  <IdeoDiversity_Disapproved.stages.1.label>diverse thoughts</IdeoDiversity_Disapproved.stages.1.label>
+  <IdeoDiversity_Disapproved.stages.1.description>My truth is clear, yet many of those around me are so foolish they can't see it. I don't like being subjected to their idiocy.</IdeoDiversity_Disapproved.stages.1.description>
+  <IdeoDiversity_Disapproved.stages.2.label>diverse thoughts</IdeoDiversity_Disapproved.stages.2.label>
+  <IdeoDiversity_Disapproved.stages.2.description>My truth is clear, yet almost all of those around me are so foolish they can't see it. I don't like being subjected to their idiocy.</IdeoDiversity_Disapproved.stages.2.description>
+  <IdeoDiversity_Disapproved_Uniform.stages.0.label>uniform thoughts</IdeoDiversity_Disapproved_Uniform.stages.0.label>
+  <IdeoDiversity_Disapproved_Uniform.stages.0.description>Our community is free of foolishness, as it should be.</IdeoDiversity_Disapproved_Uniform.stages.0.description>
+  <IdeoDiversity_Disapproved_Social.stages.0.label>different ideoligion</IdeoDiversity_Disapproved_Social.stages.0.label>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.0.label>false altar</IdeoDiverity_Disapproved_AltarSharing.stages.0.label>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.0.description>The altar of a false belief is in the room with our {ALTAR_labelShort}. It's wrong.</IdeoDiverity_Disapproved_AltarSharing.stages.0.description>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.0.label>{ADJECTIVE}-style surroundings</IdeoDiversity_Disapproved_StyleDominance.stages.0.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.0.description>I am surrounded by constructions which match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.0.description>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.1.label>Non-{ADJECTIVE}-style surroundings</IdeoDiversity_Disapproved_StyleDominance.stages.1.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.1.description>I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.1.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.0.label>{ADJECTIVE}-style surroundings</IdeoDiversity_Standard_StyleDominance.stages.0.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.0.description>I am surrounded by constructions which match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.0.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.1.label>Non-{ADJECTIVE}-style surroundings</IdeoDiversity_Standard_StyleDominance.stages.1.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.1.description>I am surrounded by non-{ADJECTIVE} constructions. That's fine, but I'd prefer being in a more {ADJECTIVE} environment with constructions that match style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.1.description>
+  <IdeoDiversity_Approved.stages.0.label>diverse thoughts</IdeoDiversity_Approved.stages.0.label>
+  <IdeoDiversity_Approved.stages.0.description>Some others here have different beliefs. It's a sign of a healthy community.</IdeoDiversity_Approved.stages.0.description>
+  <IdeoDiversity_Approved.stages.1.label>diverse thoughts</IdeoDiversity_Approved.stages.1.label>
+  <IdeoDiversity_Approved.stages.1.description>Many others here have different beliefs. It's a sign of a healthy community.</IdeoDiversity_Approved.stages.1.description>
+  <IdeoDiversity_Approved.stages.2.label>diverse thoughts</IdeoDiversity_Approved.stages.2.label>
+  <IdeoDiversity_Approved.stages.2.description>Almost all others here have different beliefs. It's a sign of a healthy community.</IdeoDiversity_Approved.stages.2.description>
+  <IdeoDiversity_Approved_StyleDominance.stages.0.label>{ADJECTIVE} surroundings</IdeoDiversity_Approved_StyleDominance.stages.0.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.0.description>My surroundings are very {ADJECTIVE}. That's fine, but a diverse environment would be better.</IdeoDiversity_Approved_StyleDominance.stages.0.description>
+  <IdeoDiversity_Approved_StyleDominance.stages.1.label>Non-{ADJECTIVE} surroundings</IdeoDiversity_Approved_StyleDominance.stages.1.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.1.description>My surroundings are not at all {ADJECTIVE}. I enjoy the diversity.</IdeoDiversity_Approved_StyleDominance.stages.1.description>
+  <IdeoDiversity_Respected.stages.0.label>diverse thoughts</IdeoDiversity_Respected.stages.0.label>
+  <IdeoDiversity_Respected.stages.0.description>Some others here have different beliefs. It's an important sign of a healthy community.</IdeoDiversity_Respected.stages.0.description>
+  <IdeoDiversity_Respected.stages.1.label>diverse thoughts</IdeoDiversity_Respected.stages.1.label>
+  <IdeoDiversity_Respected.stages.1.description>Many others here have different beliefs. It's an important sign of a healthy community.</IdeoDiversity_Respected.stages.1.description>
+  <IdeoDiversity_Respected.stages.2.label>diverse thoughts</IdeoDiversity_Respected.stages.2.label>
+  <IdeoDiversity_Respected.stages.2.description>Almost all others here have different beliefs. It's an important sign of a healthy community.</IdeoDiversity_Respected.stages.2.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.0.label>{ADJECTIVE} surroundings</IdeoDiversity_Respected_StyleDominance.stages.0.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.0.description>My surroundings are very {ADJECTIVE}. That's fine, but a diverse environment would be better.</IdeoDiversity_Respected_StyleDominance.stages.0.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.1.label>Non-{ADJECTIVE} surroundings</IdeoDiversity_Respected_StyleDominance.stages.1.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.1.description>My surroundings are not at all {ADJECTIVE}. I am happy to be a part of a diverse community.</IdeoDiversity_Respected_StyleDominance.stages.1.description>
+  <IdeoDiversity_Exalted.stages.0.label>diverse thoughts</IdeoDiversity_Exalted.stages.0.label>
+  <IdeoDiversity_Exalted.stages.0.description>Some others here have different beliefs. I'm so proud to be part of such a community.</IdeoDiversity_Exalted.stages.0.description>
+  <IdeoDiversity_Exalted.stages.1.label>diverse thoughts</IdeoDiversity_Exalted.stages.1.label>
+  <IdeoDiversity_Exalted.stages.1.description>Many others here have different beliefs. I'm so proud to be part of such a community.</IdeoDiversity_Exalted.stages.1.description>
+  <IdeoDiversity_Exalted.stages.2.label>diverse thoughts</IdeoDiversity_Exalted.stages.2.label>
+  <IdeoDiversity_Exalted.stages.2.description>Almost all others here have different beliefs. I'm so proud to be part of such a community.</IdeoDiversity_Exalted.stages.2.description>
+  <IdeoDiversity_Exalted_StyleDominance.stages.0.label>{ADJECTIVE} surroundings</IdeoDiversity_Exalted_StyleDominance.stages.0.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.0.description>My surroundings are very {ADJECTIVE}. That's fine, but a diverse environment would be better.</IdeoDiversity_Exalted_StyleDominance.stages.0.description>
+  <IdeoDiversity_Exalted_StyleDominance.stages.1.label>Non-{ADJECTIVE} surroundings</IdeoDiversity_Exalted_StyleDominance.stages.1.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.1.description>My surroundings are not at all {ADJECTIVE}. I'm very happy to be part of this diverse community.</IdeoDiversity_Exalted_StyleDominance.stages.1.description>
+  <AteInsectMeat_Loved.stages.0.label>ate insect meat</AteInsectMeat_Loved.stages.0.label>
+  <AteInsectMeat_Loved.stages.0.description>I ate some insect meat. So smooth and succulent.</AteInsectMeat_Loved.stages.0.description>
+  <AteInsectMeatAsIngredient_Loved.stages.0.label>ate cooked insect meat</AteInsectMeatAsIngredient_Loved.stages.0.label>
+  <AteInsectMeatAsIngredient_Loved.stages.0.description>I ate a meal that contained insect meat. I could still taste hints of bug-slime!</AteInsectMeatAsIngredient_Loved.stages.0.description>
+  <KilledInnocentAnimal_Know_Abhorrent.stages.0.label>killed innocent animal</KilledInnocentAnimal_Know_Abhorrent.stages.0.label>
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.label>innocent animal killed</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.label>
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.description>An innocent, adorable animal was killed! That's murder!</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.description>
+  <KilledInnocentAnimal_Horrible.stages.0.label>killed innocent {0}</KilledInnocentAnimal_Horrible.stages.0.label>
+  <KilledInnocentAnimal_Horrible.stages.0.description>I had to kill an innocent animal. It was almost like being forced to murder.</KilledInnocentAnimal_Horrible.stages.0.description>
+  <KilledInnocentAnimal_Know_Horrible.stages.0.label>killed innocent animal</KilledInnocentAnimal_Know_Horrible.stages.0.label>
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.0.label>innocent animal killed</KilledInnocentAnimal_Know_Horrible_Mood.stages.0.label>
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.0.description>An innocent animal was killed. What a terrible, heartless act against another being.</KilledInnocentAnimal_Know_Horrible_Mood.stages.0.description>
+  <KilledInnocentAnimal_Disapproved.stages.0.label>killed innocent {0}</KilledInnocentAnimal_Disapproved.stages.0.label>
+  <KilledInnocentAnimal_Disapproved.stages.0.description>I had to kill an innocent animal. It was not something I approve of.</KilledInnocentAnimal_Disapproved.stages.0.description>
+  <KilledInnocentAnimal_Know_Disapproved.stages.0.label>killed innocent animal</KilledInnocentAnimal_Know_Disapproved.stages.0.label>
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.label>innocent animal killed</KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.label>
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.description>An innocent animal was killed. I do not approve of this.</KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.description>
+  <Darklight_Preferred_BlindingLight.stages.0.label>blinding light</Darklight_Preferred_BlindingLight.stages.0.label>
+  <Darklight_Preferred_BlindingLight.stages.0.description>I cannot stand this terrible light. My senses are overwhelmed!</Darklight_Preferred_BlindingLight.stages.0.description>
+  <Darklight_Preferred_IndoorLight.stages.0.label>indoor light</Darklight_Preferred_IndoorLight.stages.0.label>
+  <Darklight_Preferred_IndoorLight.stages.0.description>This indoor light is too bright. I would prefer something dimmer.</Darklight_Preferred_IndoorLight.stages.0.description>
+  <Darklight_Preferred_Darklight.stages.0.label>darklight</Darklight_Preferred_Darklight.stages.0.label>
+  <Darklight_Preferred_Darklight.stages.0.description>This dim light is perfect. I feel focused and energized.</Darklight_Preferred_Darklight.stages.0.description>
+  <GotLovin_Abhorrent.stages.0.label>lustful act</GotLovin_Abhorrent.stages.0.label>
+  <GotLovin_Abhorrent.stages.0.description>I committed a lustful act that was absolutely abhorrent.</GotLovin_Abhorrent.stages.0.description>
+  <Lovin_Know_Abhorrent.stages.0.label>lustful act</Lovin_Know_Abhorrent.stages.0.label>
+  <GotLovin_Horrible.stages.0.label>lustful act</GotLovin_Horrible.stages.0.label>
+  <GotLovin_Horrible.stages.0.description>I committed a lustful act that was deeply wrong.</GotLovin_Horrible.stages.0.description>
+  <Lovin_Know_Horrible.stages.0.label>lustful act</Lovin_Know_Horrible.stages.0.label>
+  <GotLovin_Disapproved.stages.0.label>act of desire</GotLovin_Disapproved.stages.0.label>
+  <GotLovin_Disapproved.stages.0.description>I committed an act of desire, but it was the wrong thing to do.</GotLovin_Disapproved.stages.0.description>
+  <Lovin_Know_Disapproved.stages.0.label>act of desire</Lovin_Know_Disapproved.stages.0.label>
+  <Lovin_Know_Approved.stages.0.label>initiated lovin'</Lovin_Know_Approved.stages.0.label>
+  <AteMeat_Abhorrent.stages.0.label>ate meat</AteMeat_Abhorrent.stages.0.label>
+  <AteMeat_Abhorrent.stages.0.description>I had to eat meat. It was an abhorrent violation of everything I believe.</AteMeat_Abhorrent.stages.0.description>
+  <AteMeat_Know_Abhorrent.stages.0.label>ate meat</AteMeat_Know_Abhorrent.stages.0.label>
+  <AteMeat_Horrible.stages.0.label>ate meat</AteMeat_Horrible.stages.0.label>
+  <AteMeat_Horrible.stages.0.description>I had to eat meat. It was a horrible violation of my beliefs.</AteMeat_Horrible.stages.0.description>
+  <AteMeat_Know_Horrible.stages.0.label>ate meat</AteMeat_Know_Horrible.stages.0.label>
+  <AteMeat_Disapproved.stages.0.label>ate meat</AteMeat_Disapproved.stages.0.label>
+  <AteMeat_Disapproved.stages.0.description>I had to eat meat. It's not something I approve of.</AteMeat_Disapproved.stages.0.description>
+  <AteMeat_Know_Disapproved.stages.0.label>ate meat</AteMeat_Know_Disapproved.stages.0.label>
+  <AteNonMeat_Abhorrent.stages.0.label>ate non-meat</AteNonMeat_Abhorrent.stages.0.label>
+  <AteNonMeat_Abhorrent.stages.0.description>I had to eat non-meat food. It was an abhorrent violation of the proper carnivore diet.</AteNonMeat_Abhorrent.stages.0.description>
+  <AteNonMeat_Know_Abhorrent.stages.0.label>ate non-meat</AteNonMeat_Know_Abhorrent.stages.0.label>
+  <AteNonMeat_Horrible.stages.0.label>ate non-meat</AteNonMeat_Horrible.stages.0.label>
+  <AteNonMeat_Horrible.stages.0.description>I had to eat non-meat food. It was a horrible violation of the proper carnivore diet.</AteNonMeat_Horrible.stages.0.description>
+  <AteNonMeat_Know_Horrible.stages.0.label>ate non-meat</AteNonMeat_Know_Horrible.stages.0.label>
+  <AteNonMeat_Disapproved.stages.0.label>ate non-meat</AteNonMeat_Disapproved.stages.0.label>
+  <AteNonMeat_Disapproved.stages.0.description>I had to eat non-meat food. It was an unacceptable deviation from the proper carnivore diet.</AteNonMeat_Disapproved.stages.0.description>
+  <AteNonMeat_Know_Disapproved.stages.0.label>ate non-meat</AteNonMeat_Know_Disapproved.stages.0.label>
+  <Mined_Know_Prohibited.stages.0.label>mined</Mined_Know_Prohibited.stages.0.label>
+  <Mined_Know_Prohibited_Mood.stages.0.label>mined</Mined_Know_Prohibited_Mood.stages.0.label>
+  <Mined_Know_Prohibited_Mood.stages.0.description>We mined a hole in the pure earth. What a terrible offense against nature.</Mined_Know_Prohibited_Mood.stages.0.description>
+  <Mined_Horrible.stages.0.label>mined</Mined_Horrible.stages.0.label>
+  <Mined_Horrible.stages.0.description>I had to mine a hole. It was an offense against the earth.</Mined_Horrible.stages.0.description>
+  <Mined_Know_Horrible.stages.0.label>mined</Mined_Know_Horrible.stages.0.label>
+  <Mined_Know_Horrible_Mood.stages.0.label>mined</Mined_Know_Horrible_Mood.stages.0.label>
+  <Mined_Know_Horrible_Mood.stages.0.description>Someone mined a hole in the pure earth. It was a horrible violation of nature.</Mined_Know_Horrible_Mood.stages.0.description>
+  <Mined_Disapproved.stages.0.label>mined</Mined_Disapproved.stages.0.label>
+  <Mined_Disapproved.stages.0.description>I had to mine a hole. I disapprove of harming the earth this way.</Mined_Disapproved.stages.0.description>
+  <Mined_Know_Disapproved.stages.0.label>mined</Mined_Know_Disapproved.stages.0.label>
+  <Mined_Know_Disapproved_Mood.stages.0.label>mined</Mined_Know_Disapproved_Mood.stages.0.label>
+  <Mined_Know_Disapproved_Mood.stages.0.description>Someone mined a hole in the pure earth. It's wrong to scar the world this way.</Mined_Know_Disapproved_Mood.stages.0.description>
+  <AnyBodyPartCovered_Disapproved_Male.stages.0.label>wearing clothes</AnyBodyPartCovered_Disapproved_Male.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Male.stages.0.description>I don't approve of covering myself, yet here I am doing it.</AnyBodyPartCovered_Disapproved_Male.stages.0.description>
+  <AnyBodyPartCovered_Disapproved_Female.stages.0.label>wearing clothes</AnyBodyPartCovered_Disapproved_Female.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Female.stages.0.description>I don't approve of covering myself, yet here I am doing it.</AnyBodyPartCovered_Disapproved_Female.stages.0.description>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.0.label>wore clothes</AnyBodyPartCovered_Disapproved_Memory.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.0.description>I concealed my flesh. It was wrong.</AnyBodyPartCovered_Disapproved_Memory.stages.0.description>
+  <AnyBodyPartCovered_Disapproved_Social_Male.stages.0.label>wearing clothes</AnyBodyPartCovered_Disapproved_Social_Male.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Social_Female.stages.0.label>wearing clothes</AnyBodyPartCovered_Disapproved_Social_Female.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.description>To stifle the skin is wrong. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.0.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Female.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.0.description>To stifle the skin is wrong. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Female.stages.0.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.label>wore clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.description>To conceal the skin is wrong, but I did it anyway. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.0.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.0.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.0.label>
+  <GroinUncovered_Disapproved_Male.stages.0.label>uncovered groin</GroinUncovered_Disapproved_Male.stages.0.label>
+  <GroinUncovered_Disapproved_Male.stages.0.description>I shouldn't have my private parts hanging out.</GroinUncovered_Disapproved_Male.stages.0.description>
+  <GroinUncovered_Disapproved_Female.stages.0.label>uncovered groin</GroinUncovered_Disapproved_Female.stages.0.label>
+  <GroinUncovered_Disapproved_Female.stages.0.description>I shouldn't have my private parts hanging out.</GroinUncovered_Disapproved_Female.stages.0.description>
+  <GroinUncovered_Disapproved_Social_Male.stages.0.label>uncovered groin</GroinUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinUncovered_Disapproved_Social_Female.stages.0.label>uncovered groin</GroinUncovered_Disapproved_Social_Female.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Male.stages.0.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Male.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Male.stages.0.description>I don't like displaying my private parts or my chest.</GroinOrChestUncovered_Disapproved_Male.stages.0.description>
+  <GroinOrChestUncovered_Disapproved_Female.stages.0.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Female.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Female.stages.0.description>I don't like displaying my private parts or my chest.</GroinOrChestUncovered_Disapproved_Female.stages.0.description>
+  <GroinOrChestUncovered_Disapproved_Social_Male.stages.0.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Social_Female.stages.0.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Social_Female.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.0.label>uncovered groin/chest/hair</GroinChestOrHairUncovered_Disapproved_Male.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.0.description>It's wrong to be displaying myself like this. Only the face may be visible.</GroinChestOrHairUncovered_Disapproved_Male.stages.0.description>
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.0.label>uncovered groin/chest/hair</GroinChestOrHairUncovered_Disapproved_Female.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.0.description>It's wrong to be displaying myself like this. Only the face may be visible.</GroinChestOrHairUncovered_Disapproved_Female.stages.0.description>
+  <GroinChestOrHairUncovered_Disapproved_Social_Male.stages.0.label>uncovered any body part</GroinChestOrHairUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Social_Female.stages.0.label>uncovered any body part</GroinChestOrHairUncovered_Disapproved_Social_Female.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.description>To show myself to the world is wrong. I should be completely covered up.</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.0.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.0.description>To show myself to the world is wrong. I should be completely covered up.</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.0.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.0.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.0.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.0.label>
+  <TradedOrgan_Abhorrent.stages.0.label>traded organ</TradedOrgan_Abhorrent.stages.0.label>
+  <TradedOrgan_Abhorrent.stages.0.description>I had to trade someone's organ. It's an abhorrent violation of everything I believe.</TradedOrgan_Abhorrent.stages.0.description>
+  <TradedOrgan_Know_Abhorrent.stages.0.label>traded organ</TradedOrgan_Know_Abhorrent.stages.0.label>
+  <TradedOrgan_Know_Abhorrent_Mood.stages.0.label>organ harvested</TradedOrgan_Know_Abhorrent_Mood.stages.0.label>
+  <TradedOrgan_Know_Abhorrent_Mood.stages.0.description>Someone traded an organ! What an abhorrent, disgusting act.</TradedOrgan_Know_Abhorrent_Mood.stages.0.description>
+  <SoldOrgan_Disapproved.stages.0.label>sold organ</SoldOrgan_Disapproved.stages.0.label>
+  <SoldOrgan_Disapproved.stages.0.description>I had to sell someone's organ. I don't approve of such transactions.</SoldOrgan_Disapproved.stages.0.description>
+  <SoldOrgan_Know_Disapproved.stages.0.label>sold organ</SoldOrgan_Know_Disapproved.stages.0.label>
+  <SoldOrgan_Know_Horrible_Mood.stages.0.label>organ harvested</SoldOrgan_Know_Horrible_Mood.stages.0.label>
+  <SoldOrgan_Know_Horrible_Mood.stages.0.description>Someone sold an organ. It's horrible to trade human parts like machinery.</SoldOrgan_Know_Horrible_Mood.stages.0.description>
+  <InstalledOrgan_Abhorrent.stages.0.label>installed organ</InstalledOrgan_Abhorrent.stages.0.label>
+  <InstalledOrgan_Abhorrent.stages.0.description>I had to install an organ in someone. It's an abhorrent violation of everything I believe.</InstalledOrgan_Abhorrent.stages.0.description>
+  <InstalledOrgan_Know_Abhorrent.stages.0.label>installed organ</InstalledOrgan_Know_Abhorrent.stages.0.label>
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.0.label>organ harvested</InstalledOrgan_Know_Abhorrent_Mood.stages.0.label>
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.0.description>Someone installed an organ. The body should be sacrosanct!</InstalledOrgan_Know_Abhorrent_Mood.stages.0.description>
+  <HarvestedOrgan_Abhorrent.stages.0.label>harvested organ</HarvestedOrgan_Abhorrent.stages.0.label>
+  <HarvestedOrgan_Abhorrent.stages.0.description>I had to harvest someone's organ. It's an abhorrent violation of everything I believe.</HarvestedOrgan_Abhorrent.stages.0.description>
+  <HarvestedOrgan_Know_Abhorrent.stages.0.label>harvested organ</HarvestedOrgan_Know_Abhorrent.stages.0.label>
+  <HarvestedOrgan_Know_Abhorrent_Mood.stages.0.label>organ harvested</HarvestedOrgan_Know_Abhorrent_Mood.stages.0.label>
+  <HarvestedOrgan_Know_Abhorrent_Mood.stages.0.description>Someone took body parts from our fellow. It's a horrible thing.</HarvestedOrgan_Know_Abhorrent_Mood.stages.0.description>
+  <HarvestedOrgan_Horrible.stages.0.label>harvested organ</HarvestedOrgan_Horrible.stages.0.label>
+  <HarvestedOrgan_Horrible.stages.0.description>I had to harvest someone's organ. It's a horrible offense against my beliefs.</HarvestedOrgan_Horrible.stages.0.description>
+  <HarvestedOrgan_Know_Horrible.stages.0.label>harvested organ</HarvestedOrgan_Know_Horrible.stages.0.label>
+  <HarvestedOrgan_Know_Horrible_Mood.stages.0.label>organ harvested</HarvestedOrgan_Know_Horrible_Mood.stages.0.label>
+  <HarvestedOrgan_Know_Horrible_Mood.stages.0.description>Someone took body parts from our fellow. It's a horrible thing.</HarvestedOrgan_Know_Horrible_Mood.stages.0.description>
+  <Pain_Idealized.stages.0.label>minor pain</Pain_Idealized.stages.0.label>
+  <Pain_Idealized.stages.0.description>The pain grounds me. I appreciate it.</Pain_Idealized.stages.0.description>
+  <Pain_Idealized.stages.1.label>serious pain</Pain_Idealized.stages.1.label>
+  <Pain_Idealized.stages.1.description>The pain cleanses me. I like it.</Pain_Idealized.stages.1.description>
+  <Pain_Idealized.stages.2.label>intense pain</Pain_Idealized.stages.2.label>
+  <Pain_Idealized.stages.2.description>The pain purifies me. I need it!</Pain_Idealized.stages.2.description>
+  <Pain_Idealized.stages.3.label>mind-shattering pain</Pain_Idealized.stages.3.label>
+  <Pain_Idealized.stages.3.description>The pain makes me sublime! I wish to become it!</Pain_Idealized.stages.3.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.0.label>justified execution</ExecutedGuest_Know_Abhorrent_Mood.stages.0.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.0.description>A guilty prisoner or guest was executed. It was justified, but still sad.</ExecutedGuest_Know_Abhorrent_Mood.stages.0.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.1.label>someone was euthanized</ExecutedGuest_Know_Abhorrent_Mood.stages.1.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.1.description>A prisoner or guest was euthanized. It was humane, but still sad.</ExecutedGuest_Know_Abhorrent_Mood.stages.1.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.2.label>someone was executed</ExecutedGuest_Know_Abhorrent_Mood.stages.2.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.2.description>A prisoner or guest was killed in cold blood. It seemed a bit evil.</ExecutedGuest_Know_Abhorrent_Mood.stages.2.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.3.label>someone was organ-murdered</ExecutedGuest_Know_Abhorrent_Mood.stages.3.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.3.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</ExecutedGuest_Know_Abhorrent_Mood.stages.3.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.0.label>justified execution of colonist</ExecutedColonist_Know_Abhorrent_Mood.stages.0.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.0.description>A guilty colonist was executed. It was justified, but still sad.</ExecutedColonist_Know_Abhorrent_Mood.stages.0.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.1.label>colonist euthanized</ExecutedColonist_Know_Abhorrent_Mood.stages.1.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.1.description>A colonist was euthanized. It was humane, but still sad.</ExecutedColonist_Know_Abhorrent_Mood.stages.1.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.2.label>colonist executed</ExecutedColonist_Know_Abhorrent_Mood.stages.2.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.2.description>A colonist was killed in cold blood. It seemed a bit evil.</ExecutedColonist_Know_Abhorrent_Mood.stages.2.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.3.label>colonist organ-harvested</ExecutedColonist_Know_Abhorrent_Mood.stages.3.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.3.description>A colonist died because someone took body parts from him. It's horrible.</ExecutedColonist_Know_Abhorrent_Mood.stages.3.description>
+  <ExecutedPrisoner_Know_Abhorrent.stages.0.label>executed prisoner</ExecutedPrisoner_Know_Abhorrent.stages.0.label>
+  <InnocentPrisonerDied_Know_Abhorrent.stages.0.label>responsible for the death of a prisoner</InnocentPrisonerDied_Know_Abhorrent.stages.0.label>
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.0.label>innocent prisoner died</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.0.label>
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.0.description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.0.description>
+  <InnocentPrisonerDied_Abhorrent.stages.0.label>innocent prisoner died (responsible)</InnocentPrisonerDied_Abhorrent.stages.0.label>
+  <InnocentPrisonerDied_Abhorrent.stages.0.description>I was responsible for the death of a prisoner. I must be truly evil.</InnocentPrisonerDied_Abhorrent.stages.0.description>
+  <ExecutedPrisoner_Horrible.stages.0.label>executed prisoner</ExecutedPrisoner_Horrible.stages.0.label>
+  <ExecutedPrisoner_Horrible.stages.0.description>I had to execute a prisoner. It's a horrible offense against my beliefs.</ExecutedPrisoner_Horrible.stages.0.description>
+  <InnocentPrisonerDied_Horrible.stages.0.label>innocent prisoner died (responsible)</InnocentPrisonerDied_Horrible.stages.0.label>
+  <InnocentPrisonerDied_Horrible.stages.0.description>I was responsible for the death of a prisoner. Am I not a terrible person?</InnocentPrisonerDied_Horrible.stages.0.description>
+  <ExecutedPrisoner_Know_Horrible.stages.0.label>executed prisoner</ExecutedPrisoner_Know_Horrible.stages.0.label>
+  <InnocentPrisonerDied_Know_Horrible.stages.0.label>responsible for the death of a prisoner</InnocentPrisonerDied_Know_Horrible.stages.0.label>
+  <ExecutedPrisonerInnocent_Horrible.stages.0.label>executed innocent prisoner</ExecutedPrisonerInnocent_Horrible.stages.0.label>
+  <ExecutedPrisonerInnocent_Horrible.stages.0.description>I had to execute an innocent prisoner. It's a horrible offense against my beliefs.</ExecutedPrisonerInnocent_Horrible.stages.0.description>
+  <ExecutedPrisonerInnocent_Know_Horrible.stages.0.label>executed innocent prisoner</ExecutedPrisonerInnocent_Know_Horrible.stages.0.label>
+  <ExecutedPrisonerGuilty_Respected.stages.0.label>executed guilty prisoner</ExecutedPrisonerGuilty_Respected.stages.0.label>
+  <ExecutedPrisonerGuilty_Respected.stages.0.description>I executed a guilty prisoner. Justice has been served!</ExecutedPrisonerGuilty_Respected.stages.0.description>
+  <GuiltyPrisonerDied_Respected.stages.0.label>guilty prisoner died (responsible)</GuiltyPrisonerDied_Respected.stages.0.label>
+  <GuiltyPrisonerDied_Respected.stages.0.description>I caused the death of a guilty prisoner. Let justice be served.</GuiltyPrisonerDied_Respected.stages.0.description>
+  <ExecutedPrisonerGuilty_Know_Respected.stages.0.label>executed guilty prisoner</ExecutedPrisonerGuilty_Know_Respected.stages.0.label>
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.0.label>guilty prisoner executed</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.0.label>
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.0.description>We executed a guilty prisoner. Justice has been served!</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.0.description>
+  <GuiltyPrisonerDied_Know_Respected.stages.0.label>responsible for the death of a prisoner</GuiltyPrisonerDied_Know_Respected.stages.0.label>
+  <ExecutedPrisoner_Respected.stages.0.label>executed prisoner</ExecutedPrisoner_Respected.stages.0.label>
+  <ExecutedPrisoner_Respected.stages.0.description>I executed a prisoner. Victory has consequences.</ExecutedPrisoner_Respected.stages.0.description>
+  <PrisonerDied_Respected.stages.0.label>prisoner died (responsible)</PrisonerDied_Respected.stages.0.label>
+  <PrisonerDied_Respected.stages.0.description>I was responsible for the death of a prisoner! Now they'll all respect me.</PrisonerDied_Respected.stages.0.description>
+  <ExecutedPrisoner_Know_Respected.stages.0.label>executed prisoner</ExecutedPrisoner_Know_Respected.stages.0.label>
+  <PrisonerDied_Know_Respected.stages.0.label>responsible for the death of a prisoner</PrisonerDied_Know_Respected.stages.0.label>
+  <Execution_Know_Respected_Mood.stages.0.label>execution</Execution_Know_Respected_Mood.stages.0.label>
+  <Execution_Know_Respected_Mood.stages.0.description>We executed a prisoner or guest. Our dominance is clear!</Execution_Know_Respected_Mood.stages.0.description>
+  <NoRecentExecution.stages.0.label>no execution</NoRecentExecution.stages.0.label>
+  <NoRecentExecution.stages.0.description>It has been too long since we executed a prisoner. Are we so weak as to take no life?</NoRecentExecution.stages.0.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.0.label>no animals</Ranching_Central_AnimalMassPerCapita.stages.0.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.0.description>We have no animals at all! It's everything I am against.</Ranching_Central_AnimalMassPerCapita.stages.0.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.1.label>scarce animals</Ranching_Central_AnimalMassPerCapita.stages.1.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.1.description>We have far too few animals in our colony. We are not even close to living the right way.</Ranching_Central_AnimalMassPerCapita.stages.1.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.2.label>few animals</Ranching_Central_AnimalMassPerCapita.stages.2.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.2.description>We have few animals in our colony. It's not right.</Ranching_Central_AnimalMassPerCapita.stages.2.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.3.label>some animals</Ranching_Central_AnimalMassPerCapita.stages.3.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.3.description>It's good to be raising animals here, though more would be even better.</Ranching_Central_AnimalMassPerCapita.stages.3.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.4.label>lots of animals</Ranching_Central_AnimalMassPerCapita.stages.4.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.4.description>It's great we're raising lots of animals here, though a few more wouldn't hurt.</Ranching_Central_AnimalMassPerCapita.stages.4.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.5.label>tons of animals</Ranching_Central_AnimalMassPerCapita.stages.5.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.5.description>Our ranch is thriving. This is the right way to be.</Ranching_Central_AnimalMassPerCapita.stages.5.description>
+  <Ranching_SowedPlant.stages.0.label>sowed human food plant</Ranching_SowedPlant.stages.0.label>
+  <Ranching_SowedPlant.stages.0.description>I sowed a human food plant. It was wrong - humans should eat animals, and animals should eat nature-made plants.</Ranching_SowedPlant.stages.0.description>
+  <NoRecentAnimalSlaughter.stages.0.label>no recent slaughter</NoRecentAnimalSlaughter.stages.0.label>
+  <NoRecentAnimalSlaughter.stages.0.description>It's been too long since we slaughtered a large animal.</NoRecentAnimalSlaughter.stages.0.description>
+  <RelicDestroyed.stages.0.label>relic destroyed</RelicDestroyed.stages.0.label>
+  <RelicDestroyed.stages.0.description>The relic was destroyed! A travesty!</RelicDestroyed.stages.0.description>
+  <RelicLost.stages.0.label>relic lost</RelicLost.stages.0.label>
+  <RelicLost.stages.0.description>The relic has been lost! A travesty!</RelicLost.stages.0.description>
+  <ScarificationCeremony_Know_Horrible.stages.0.label>Scarification ceremony</ScarificationCeremony_Know_Horrible.stages.0.label>
+  <ScarificationCeremony_Know_Horrible.stages.0.description>We mutilated a fellow colonist over ideological beliefs! This is wrong!</ScarificationCeremony_Know_Horrible.stages.0.description>
+  <ScarificationCeremony_Self_Minor.stages.0.label>got scarified</ScarificationCeremony_Self_Minor.stages.0.label>
+  <ScarificationCeremony_Self_Minor.stages.0.description>I bear a new ritual mark to remind me of our truth.</ScarificationCeremony_Self_Minor.stages.0.description>
+  <ScarificationCeremony_Self_Heavy.stages.0.label>got scarified</ScarificationCeremony_Self_Heavy.stages.0.label>
+  <ScarificationCeremony_Self_Heavy.stages.0.description>I bear a new ritual mark to connected me to our truth.</ScarificationCeremony_Self_Heavy.stages.0.description>
+  <ScarificationCeremony_Self_Extreme.stages.0.label>got scarified</ScarificationCeremony_Self_Extreme.stages.0.label>
+  <ScarificationCeremony_Self_Extreme.stages.0.description>I bear a new ritual mark to bind me to our truth.</ScarificationCeremony_Self_Extreme.stages.0.description>
+  <Scarification_Extreme_Opinion.stages.0.label>scarified</Scarification_Extreme_Opinion.stages.0.label>
+  <Scarification_Extreme_Opinion.stages.1.label>not scarified</Scarification_Extreme_Opinion.stages.1.label>
+  <Scarification_Extreme_Opinion.stages.2.label>insufficiently scarified</Scarification_Extreme_Opinion.stages.2.label>
+  <Scarification_Extreme.stages.0.label>scarified</Scarification_Extreme.stages.0.label>
+  <Scarification_Extreme.stages.0.description>My dedication is written in indelible pain.</Scarification_Extreme.stages.0.description>
+  <Scarification_Extreme.stages.1.label>not scarified</Scarification_Extreme.stages.1.label>
+  <Scarification_Extreme.stages.1.description>This smooth skin is a travesty.</Scarification_Extreme.stages.1.description>
+  <Scarification_Extreme.stages.2.label>insufficiently scarified</Scarification_Extreme.stages.2.label>
+  <Scarification_Extreme.stages.2.description>This smooth skin is a travesty.</Scarification_Extreme.stages.2.description>
+  <Scarification_Heavy_Opinion.stages.0.label>scarified</Scarification_Heavy_Opinion.stages.0.label>
+  <Scarification_Heavy_Opinion.stages.1.label>not scarified</Scarification_Heavy_Opinion.stages.1.label>
+  <Scarification_Heavy_Opinion.stages.2.label>insufficiently scarified</Scarification_Heavy_Opinion.stages.2.label>
+  <Scarification_Heavy.stages.0.label>scarified</Scarification_Heavy.stages.0.label>
+  <Scarification_Heavy.stages.0.description>I bear the many cuts, as one ought to.</Scarification_Heavy.stages.0.description>
+  <Scarification_Heavy.stages.1.label>not scarified</Scarification_Heavy.stages.1.label>
+  <Scarification_Heavy.stages.1.description>This smooth skin is wrong.</Scarification_Heavy.stages.1.description>
+  <Scarification_Heavy.stages.2.label>insufficiently scarified</Scarification_Heavy.stages.2.label>
+  <Scarification_Heavy.stages.2.description>This smooth skin is wrong.</Scarification_Heavy.stages.2.description>
+  <Scarification_Minor_Opinion.stages.0.label>scarified</Scarification_Minor_Opinion.stages.0.label>
+  <Scarification_Minor_Opinion.stages.1.label>not scarified</Scarification_Minor_Opinion.stages.1.label>
+  <Scarification_Minor_Opinion.stages.2.label>insufficiently scarified</Scarification_Minor_Opinion.stages.2.label>
+  <Scarification_Minor.stages.0.label>scarified</Scarification_Minor.stages.0.label>
+  <Scarification_Minor.stages.0.description>I bear the mark, as one ought to.</Scarification_Minor.stages.0.description>
+  <Scarification_Minor.stages.1.label>not scarified</Scarification_Minor.stages.1.label>
+  <Scarification_Minor.stages.1.description>I lack the appropriate ritual scar.</Scarification_Minor.stages.1.description>
+  <Scarification_Minor.stages.2.label>insufficiently scarified</Scarification_Minor.stages.2.label>
+  <Scarification_Minor.stages.2.description>I lack the appropriate ritual scar.</Scarification_Minor.stages.2.description>
+  <Skullspike_Desired.stages.0.label>skullspikes</Skullspike_Desired.stages.0.label>
+  <Skullspike_Desired.stages.0.description>I've seen a few skullspikes recently. I like being reminded of our power.</Skullspike_Desired.stages.0.description>
+  <Skullspike_Desired.stages.1.label>skullspikes</Skullspike_Desired.stages.1.label>
+  <Skullspike_Desired.stages.1.description>I've seen quite a few skullspikes recently. All will fear us.</Skullspike_Desired.stages.1.description>
+  <Skullspike_Desired.stages.2.label>skullspikes</Skullspike_Desired.stages.2.label>
+  <Skullspike_Desired.stages.2.description>Surrounded by the dead grin of spiked skulls, nobody could doubt our power! </Skullspike_Desired.stages.2.description>
+  <Skullspike_Disapproved.stages.0.label>skullspikes</Skullspike_Disapproved.stages.0.label>
+  <Skullspike_Disapproved.stages.0.description>I'm seeing skulls on spikes. Just a few of them, but it's still disturbing.</Skullspike_Disapproved.stages.0.description>
+  <Skullspike_Disapproved.stages.1.label>skullspikes</Skullspike_Disapproved.stages.1.label>
+  <Skullspike_Disapproved.stages.1.description>There are quite a few skulls on spikes around here. It's rather disturbing.</Skullspike_Disapproved.stages.1.description>
+  <Skullspike_Disapproved.stages.2.label>skullspikes</Skullspike_Disapproved.stages.2.label>
+  <Skullspike_Disapproved.stages.2.description>Why am I surrounded by a forest of heads on spikes? This is horrific.</Skullspike_Disapproved.stages.2.description>
+  <Slavery_Abhorrent_SlavesInColony.stages.0.label>slaves in colony</Slavery_Abhorrent_SlavesInColony.stages.0.label>
+  <Slavery_Abhorrent_SlavesInColony.stages.0.description>We're keeping slaves. It's barbaric.</Slavery_Abhorrent_SlavesInColony.stages.0.description>
+  <SoldSlave_Know_Abhorrent.stages.0.label>sold slave</SoldSlave_Know_Abhorrent.stages.0.label>
+  <SoldSlave_Know_Abhorrent_Mood.stages.0.label>slave sold</SoldSlave_Know_Abhorrent_Mood.stages.0.label>
+  <SoldSlave_Know_Abhorrent_Mood.stages.0.description>We solve someone into slavery. It was an abhorrent, barbaric act.</SoldSlave_Know_Abhorrent_Mood.stages.0.description>
+  <EnslavedPrisoner_Know_Abhorrent.stages.0.label>enslaved prisoner</EnslavedPrisoner_Know_Abhorrent.stages.0.label>
+  <Slavery_Horrible_SlavesInColony.stages.0.label>slaves in colony</Slavery_Horrible_SlavesInColony.stages.0.label>
+  <Slavery_Horrible_SlavesInColony.stages.0.description>We're keeping slaves. It's wrong.</Slavery_Horrible_SlavesInColony.stages.0.description>
+  <SoldSlave_Horrible.stages.0.label>sold slave</SoldSlave_Horrible.stages.0.label>
+  <SoldSlave_Horrible.stages.0.description>I sold a person into slavery. I'm not sure I can forgive myself.</SoldSlave_Horrible.stages.0.description>
+  <EnslavedPrisoner_Horrible.stages.0.label>enslaved prisoner</EnslavedPrisoner_Horrible.stages.0.label>
+  <EnslavedPrisoner_Horrible.stages.0.description>I forced someone into slavery. How can I justify that?</EnslavedPrisoner_Horrible.stages.0.description>
+  <SoldSlave_Know_Horrible.stages.0.label>sold slave</SoldSlave_Know_Horrible.stages.0.label>
+  <SoldSlave_Know_Horrible_Mood.stages.0.label>slave sold</SoldSlave_Know_Horrible_Mood.stages.0.label>
+  <SoldSlave_Know_Horrible_Mood.stages.0.description>We sold someone into slavery. What a horrible thing to do.</SoldSlave_Know_Horrible_Mood.stages.0.description>
+  <EnslavedPrisoner_Know_Horrible.stages.0.label>enslaved prisoner</EnslavedPrisoner_Know_Horrible.stages.0.label>
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.0.label>prisoner enslaved</EnslavedPrisoner_Know_Horrible_Mood.stages.0.label>
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.0.description>We enslaved someone. What a horrible thing to do to another human.</EnslavedPrisoner_Know_Horrible_Mood.stages.0.description>
+  <Slavery_Disapproved_SlavesInColony.stages.0.label>slaves in colony</Slavery_Disapproved_SlavesInColony.stages.0.label>
+  <Slavery_Disapproved_SlavesInColony.stages.0.description>We're keeping slaves. Even if it's necessary, it's distasteful and I wish we wouldn't.</Slavery_Disapproved_SlavesInColony.stages.0.description>
+  <SoldSlave_Disapproved.stages.0.label>sold slave</SoldSlave_Disapproved.stages.0.label>
+  <SoldSlave_Disapproved.stages.0.description>I sold a person into slavery. I hope nothing terrible happens to them.</SoldSlave_Disapproved.stages.0.description>
+  <EnslavedPrisoner_Disapproved.stages.0.label>enslaved prisoner</EnslavedPrisoner_Disapproved.stages.0.label>
+  <EnslavedPrisoner_Disapproved.stages.0.description>I enslaved a person. It's hard to justify such actions.</EnslavedPrisoner_Disapproved.stages.0.description>
+  <SoldSlave_Know_Disapproved.stages.0.label>sold slave</SoldSlave_Know_Disapproved.stages.0.label>
+  <SoldSlave_Know_Disapproved_Mood.stages.0.label>slave sold</SoldSlave_Know_Disapproved_Mood.stages.0.label>
+  <SoldSlave_Know_Disapproved_Mood.stages.0.description>We sold a person into slavery. We shouldn't have done that.</SoldSlave_Know_Disapproved_Mood.stages.0.description>
+  <EnslavedPrisoner_Know_Disapproved.stages.0.label>enslaved prisoner</EnslavedPrisoner_Know_Disapproved.stages.0.label>
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.0.label>prisoner enslaved</EnslavedPrisoner_Know_Disapproved_Mood.stages.0.label>
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.0.description>We enslaved someone. We shouldn't have done that.</EnslavedPrisoner_Know_Disapproved_Mood.stages.0.description>
+  <Slavery_Honorable_SlavesInColony.stages.0.label>slaves in colony</Slavery_Honorable_SlavesInColony.stages.0.label>
+  <Slavery_Honorable_SlavesInColony.stages.0.description>We've got slaves. It means we're on the right path.</Slavery_Honorable_SlavesInColony.stages.0.description>
+  <Slavery_Honorable_NoSlavesInColony.stages.0.label>no slaves in colony</Slavery_Honorable_NoSlavesInColony.stages.0.label>
+  <Slavery_Honorable_NoSlavesInColony.stages.0.description>Without slaves, nobody will respect us.</Slavery_Honorable_NoSlavesInColony.stages.0.description>
+  <SoldSlave_Honorable.stages.0.label>sold slave</SoldSlave_Honorable.stages.0.label>
+  <SoldSlave_Honorable.stages.0.description>I sold someone into slavery. It'll make people notice my stature.</SoldSlave_Honorable.stages.0.description>
+  <EnslavedPrisoner_Honorable.stages.0.label>enslaved prisoner</EnslavedPrisoner_Honorable.stages.0.label>
+  <EnslavedPrisoner_Honorable.stages.0.description>I took someone into slavery. With no choice, they had to submit to me.</EnslavedPrisoner_Honorable.stages.0.description>
+  <SoldSlave_Know_Honorable.stages.0.label>sold slave</SoldSlave_Know_Honorable.stages.0.label>
+  <SoldSlave_Know_Honorable_Mood.stages.0.label>slave sold</SoldSlave_Know_Honorable_Mood.stages.0.label>
+  <SoldSlave_Know_Honorable_Mood.stages.0.description>We sold someone into slavery! A great display of our honor and power.</SoldSlave_Know_Honorable_Mood.stages.0.description>
+  <EnslavedPrisoner_Know_Honorable.stages.0.label>enslaved prisoner</EnslavedPrisoner_Know_Honorable.stages.0.label>
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.0.label>prisoner enslaved</EnslavedPrisoner_Know_Honorable_Mood.stages.0.label>
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.0.description>We enslaved someone. Now they know our honor and power!</EnslavedPrisoner_Know_Honorable_Mood.stages.0.description>
+  <SleptUsingSleepAccelerator.stages.0.label>used sleep accelerator</SleptUsingSleepAccelerator.stages.0.label>
+  <SleptUsingSleepAccelerator.stages.0.description>I slept with a sleep accelerator. It's helping me attain my true potential, as one should.</SleptUsingSleepAccelerator.stages.0.description>
+  <NeedNeuralSupercharge.stages.0.label>want neural supercharge</NeedNeuralSupercharge.stages.0.label>
+  <NeedNeuralSupercharge.stages.0.description>Without a neural supercharge, I'm running below my true capacity. It's depressing.</NeedNeuralSupercharge.stages.0.description>
+  <AgeReversalDemanded.stages.0.label>harmful aging</AgeReversalDemanded.stages.0.label>
+  <AgeReversalDemanded.stages.0.description>I'm getting old. I should get an age reversal in a biosculpter pod.</AgeReversalDemanded.stages.0.description>
+  <AgeReversalDemanded.stages.1.label>terrible aging</AgeReversalDemanded.stages.1.label>
+  <AgeReversalDemanded.stages.1.description>My youth is draining away. I should get an age reversal in a biosculpter pod.</AgeReversalDemanded.stages.1.description>
+  <AgeReversalDemanded.stages.2.label>horrific aging</AgeReversalDemanded.stages.2.label>
+  <AgeReversalDemanded.stages.2.description>I am trapped in a decaying prison of flesh! I need to get an age reversal in a biosculpter pod.</AgeReversalDemanded.stages.2.description>
+  <AgeReversalReceived.stages.0.label>received age reversal</AgeReversalReceived.stages.0.label>
+  <AgeReversalReceived.stages.0.description>Aging and death have no hold on me. I am forever, as an enhanced human ought to be.</AgeReversalReceived.stages.0.description>
+  <BioSculpterDespised.stages.0.label>used biosculpter pod</BioSculpterDespised.stages.0.label>
+  <BioSculpterDespised.stages.0.description>My body was despoiled by the use of a biosculpter pod.</BioSculpterDespised.stages.0.description>
+  <CutTree_Know_Prohibited.stages.0.label>cut tree</CutTree_Know_Prohibited.stages.0.label>
+  <CutTree_Horrible.stages.0.label>cut tree</CutTree_Horrible.stages.0.label>
+  <CutTree_Horrible.stages.0.description>I had to cut down a tree. It was horrible to scar nature this way.</CutTree_Horrible.stages.0.description>
+  <CutTree_Know_Prohibited_Mood.stages.0.label>tree felled</CutTree_Know_Prohibited_Mood.stages.0.label>
+  <CutTree_Know_Prohibited_Mood.stages.0.description>We cut down a tree. Such things violations of nature should never be done.</CutTree_Know_Prohibited_Mood.stages.0.description>
+  <CutTree_Know_Horrible.stages.0.label>cut tree</CutTree_Know_Horrible.stages.0.label>
+  <CutTree_Know_Horrible_Mood.stages.0.label>tree felled</CutTree_Know_Horrible_Mood.stages.0.label>
+  <CutTree_Know_Horrible_Mood.stages.0.description>We cut down a tree. It's wrong to scar nature this way.</CutTree_Know_Horrible_Mood.stages.0.description>
+  <CutTree_Disapproved.stages.0.label>cut tree</CutTree_Disapproved.stages.0.label>
+  <CutTree_Disapproved.stages.0.description>I had to cut down a tree. It was wrong to scar nature this way.</CutTree_Disapproved.stages.0.description>
+  <CutTree_Know_Disapproved.stages.0.label>cut tree</CutTree_Know_Disapproved.stages.0.label>
+  <CutTree_Know_Disapproved_Mood.stages.0.label>tree felled</CutTree_Know_Disapproved_Mood.stages.0.label>
+  <CutTree_Know_Disapproved_Mood.stages.0.description>We cut down a tree. It wasn't good to harm nature this way.</CutTree_Know_Disapproved_Mood.stages.0.description>
+  <GauranlenConnectionDesired.stages.0.label>Gauranlen connection</GauranlenConnectionDesired.stages.0.label>
+  <GauranlenConnectionDesired.stages.0.description>I am happily connected to a Gauranlen tree.</GauranlenConnectionDesired.stages.0.description>
+  <GauranlenConnectionDesired.stages.1.label>want Gauranlen connection</GauranlenConnectionDesired.stages.1.label>
+  <GauranlenConnectionDesired.stages.1.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.1.description>
+  <GauranlenConnectionDesired.stages.2.label>want Gauranlen connection</GauranlenConnectionDesired.stages.2.label>
+  <GauranlenConnectionDesired.stages.2.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.2.description>
+  <GauranlenConnectionDesired.stages.3.label>want Gauranlen connection</GauranlenConnectionDesired.stages.3.label>
+  <GauranlenConnectionDesired.stages.3.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.3.description>
+  <GauranlenConnectionDesired.stages.4.label>want Gauranlen connection</GauranlenConnectionDesired.stages.4.label>
+  <GauranlenConnectionDesired.stages.4.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.4.description>
+  <GauranlenConnectionDesired.stages.5.label>want Gauranlen connection</GauranlenConnectionDesired.stages.5.label>
+  <GauranlenConnectionDesired.stages.5.description>Without a connection to a Gauranlen tree, I feel disconnected from nature.</GauranlenConnectionDesired.stages.5.description>
+  <TreesDesired.stages.0.label>amazing trees</TreesDesired.stages.0.label>
+  <TreesDesired.stages.0.description>I am surrounded by several beautiful, massive trees. The glory of nature astounds me!</TreesDesired.stages.0.description>
+  <TreesDesired.stages.1.label>amazing tree</TreesDesired.stages.1.label>
+  <TreesDesired.stages.1.description>I very recently saw a beautiful, massive tree - a physical seat of morality!</TreesDesired.stages.1.description>
+  <TreesDesired.stages.2.label>remarkable trees</TreesDesired.stages.2.label>
+  <TreesDesired.stages.2.description>I am surrounded by a lush forest.</TreesDesired.stages.2.description>
+  <TreesDesired.stages.3.label>amazing tree</TreesDesired.stages.3.label>
+  <TreesDesired.stages.3.description>I recently saw a beautiful, massive tree.</TreesDesired.stages.3.description>
+  <TreesDesired.stages.4.label>rich forest</TreesDesired.stages.4.label>
+  <TreesDesired.stages.4.description>I was recently surrounded by a lush forest.</TreesDesired.stages.4.description>
+  <TreesDesired.stages.5.label>full trees</TreesDesired.stages.5.label>
+  <TreesDesired.stages.5.description>I recently saw many full trees.</TreesDesired.stages.5.description>
+  <TreesDesired.stages.6.label>mixed trees</TreesDesired.stages.6.label>
+  <TreesDesired.stages.6.description>I recently saw a wide variety of trees.</TreesDesired.stages.6.description>
+  <TreesDesired.stages.7.label>full tree</TreesDesired.stages.7.label>
+  <TreesDesired.stages.7.description>I recently saw a full tree.</TreesDesired.stages.7.description>
+  <TreesDesired.stages.8.label>mini trees</TreesDesired.stages.8.label>
+  <TreesDesired.stages.8.description>I recently saw plenty of miniature trees.</TreesDesired.stages.8.description>
+  <TreesDesired.stages.9.label>mini tree</TreesDesired.stages.9.label>
+  <TreesDesired.stages.9.description>I recently saw a miniature tree.</TreesDesired.stages.9.description>
+  <TreesDesired.stages.10.label>no tree</TreesDesired.stages.10.label>
+  <TreesDesired.stages.10.description>I haven't seen any trees in a while.</TreesDesired.stages.10.description>
+  <TreesDesired.stages.11.label>no tree</TreesDesired.stages.11.label>
+  <TreesDesired.stages.11.description>I miss seeing trees around me.</TreesDesired.stages.11.description>
+  <TreesDesired.stages.12.label>trees missed</TreesDesired.stages.12.label>
+  <TreesDesired.stages.12.description>It has been a while since I've seen a tree.</TreesDesired.stages.12.description>
+  <TreesDesired.stages.13.label>trees missed</TreesDesired.stages.13.label>
+  <TreesDesired.stages.13.description>It has been too long since I've seen a tree.</TreesDesired.stages.13.description>
+  <TreesDesired.stages.14.label>trees sorely missed</TreesDesired.stages.14.label>
+  <TreesDesired.stages.14.description>It has been way too long since I've seen a tree!</TreesDesired.stages.14.description>
+  <TreeDensityReduced.stages.0.label>healthy trees</TreeDensityReduced.stages.0.label>
+  <TreeDensityReduced.stages.0.description>In the past quadrum, we didn't destroy many trees at all. Harmony with the trees is the basic foundation for a good life.</TreeDensityReduced.stages.0.description>
+  <TreeDensityReduced.stages.1.label>trees disturbed</TreeDensityReduced.stages.1.label>
+  <TreeDensityReduced.stages.1.description>In the past quadrum, we have destroyed trees we shouldn't have. It might have been necessary, but it is still an occasion for sadness.</TreeDensityReduced.stages.1.description>
+  <TreeDensityReduced.stages.2.label>trees harmed</TreeDensityReduced.stages.2.label>
+  <TreeDensityReduced.stages.2.description>In the past quadrum, we have destroyed an inexcusable number of trees. We need to do so much better.</TreeDensityReduced.stages.2.description>
+  <TreeDensityReduced.stages.3.label>trees ravaged</TreeDensityReduced.stages.3.label>
+  <TreeDensityReduced.stages.3.description>In the past quadrum, we have destroyed a horrific number of trees. We are the blight on this universe.</TreeDensityReduced.stages.3.description>
+  <KillWithNobleWeapon.stages.0.label>victory by noble weapon</KillWithNobleWeapon.stages.0.label>
+  <KillWithNobleWeapon.stages.0.description>I have claimed victory while wielding a noble weapon!</KillWithNobleWeapon.stages.0.description>
+  <UsedDespisedWeapon.stages.0.label>used despised weapon</UsedDespisedWeapon.stages.0.label>
+  <UsedDespisedWeapon.stages.0.description>I used a filthy weapon which ought never to be used. How humiliating.</UsedDespisedWeapon.stages.0.description>
+  <WieldingNobleOrDespisedWeapon.stages.0.label>wielding {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.0.label>
+  <WieldingNobleOrDespisedWeapon.stages.0.description>I am wielding a {WEAPON_label}. Such a noble weapon!</WieldingNobleOrDespisedWeapon.stages.0.description>
+  <WieldingNobleOrDespisedWeapon.stages.1.label>wielding {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.1.label>
+  <WieldingNobleOrDespisedWeapon.stages.1.description>I am wielding a {WEAPON_label}. Such a detestable weapon!</WieldingNobleOrDespisedWeapon.stages.1.description>
+  <IdeoBuildingMissing.stages.0.label>Missing {BUILDING_label}</IdeoBuildingMissing.stages.0.label>
+  <IdeoBuildingMissing.stages.0.description>We must have {BUILDING_labelIndef}.</IdeoBuildingMissing.stages.0.description>
+  <IdeoBuildingDisrespected.stages.0.label>{BUILDING_labelCap} disrespected</IdeoBuildingDisrespected.stages.0.label>
+  <IdeoBuildingDisrespected.stages.0.description>We have {BUILDING_labelIndef}, but it needs to be placed in a room that satisfies the proper requirements.</IdeoBuildingDisrespected.stages.0.description>
+  <ParticipatedInRaid_Respected.stages.0.label>participated in raid</ParticipatedInRaid_Respected.stages.0.label>
+  <ParticipatedInRaid_Respected.stages.0.description>I participated in a raid! That's how we do it!</ParticipatedInRaid_Respected.stages.0.description>
+  <ParticipatedInRaid_Required.stages.0.label>participated in raid</ParticipatedInRaid_Required.stages.0.label>
+  <ParticipatedInRaid_Required.stages.0.description>I participated in a raid! Now they'll all know me!</ParticipatedInRaid_Required.stages.0.description>
+  <RecentConquest_Respected.stages.0.label>recent conquest</RecentConquest_Respected.stages.0.label>
+  <RecentConquest_Respected.stages.0.description>We recently raided another faction. That'll show them who's boss.</RecentConquest_Respected.stages.0.description>
+  <RecentConquest_Respected.stages.1.label>no recent conquest</RecentConquest_Respected.stages.1.label>
+  <RecentConquest_Respected.stages.1.description>It's been far too long since we raided anyone. They might stop fearing and respecting us.</RecentConquest_Respected.stages.1.description>
+  <RecentConquest_Required.stages.0.label>recent conquest</RecentConquest_Required.stages.0.label>
+  <RecentConquest_Required.stages.0.description>We recently raided another faction. Their suffering will be their teacher.</RecentConquest_Required.stages.0.description>
+  <RecentConquest_Required.stages.1.label>no recent conquest</RecentConquest_Required.stages.1.label>
+  <RecentConquest_Required.stages.1.description>We haven't raided anyone for so long. We're despicable - helpless worms like the rest.</RecentConquest_Required.stages.1.description>
+  <IdeoRoleLost.stages.0.label>Lost {ROLE_label} role</IdeoRoleLost.stages.0.label>
+  <IdeoRoleLost.stages.0.description>I lost my role as {ROLE_labelDef}.</IdeoRoleLost.stages.0.description>
+  <IdeoRoleEmpty.stages.0.label>No {ROLE_label}</IdeoRoleEmpty.stages.0.label>
+  <IdeoRoleEmpty.stages.0.description>{0}s must have {ROLE_labelIndef}!</IdeoRoleEmpty.stages.0.description>
+  <IdeoRoleApparelRequirementNotMet.stages.0.label>Want {ROLE_label} apparel</IdeoRoleApparelRequirementNotMet.stages.0.label>
+  <IdeoRoleApparelRequirementNotMet.stages.0.description>I want to wear apparel appropriate for my role as {ROLE_labelDef}</IdeoRoleApparelRequirementNotMet.stages.0.description>
+  <IdeoLeaderResentmentStandard.label>Leader of different ideoligion</IdeoLeaderResentmentStandard.label>
+  <IdeoLeaderResentmentStandard.stages.0.description>I don't like having a {0} as a leader.</IdeoLeaderResentmentStandard.stages.0.description>
+  <IdeoLeaderResentmentDisapproved.label>Leader of different ideoligion</IdeoLeaderResentmentDisapproved.label>
+  <IdeoLeaderResentmentDisapproved.stages.0.description>It's insulting to be ordered around by a {0}.</IdeoLeaderResentmentDisapproved.stages.0.description>
+  <IdeoLeaderResentmentHorrible.label>Leader of different ideoligion</IdeoLeaderResentmentHorrible.label>
+  <IdeoLeaderResentmentHorrible.stages.0.description>It's shameful to be ordered around by a {0}!</IdeoLeaderResentmentHorrible.stages.0.description>
+  <IdeoLeaderResentmentAbhorrent.label>Leader of different ideoligion</IdeoLeaderResentmentAbhorrent.label>
+  <IdeoLeaderResentmentAbhorrent.stages.0.description>To accept direction from a {0} is utterly shameful and abhorrent.</IdeoLeaderResentmentAbhorrent.stages.0.description>
+  <WasEnslaved.stages.0.label>was enslaved</WasEnslaved.stages.0.label>
+  <WasEnslaved.stages.0.description>They kept me as a slave. They forced me to suffer!</WasEnslaved.stages.0.description>
+  <SleptInRoomWithSlave.stages.0.label>shared room with slave</SleptInRoomWithSlave.stages.0.label>
+  <SleptInRoomWithSlave.stages.0.description>I had to sleep in the same room as a slave.</SleptInRoomWithSlave.stages.0.description>
+  <ConnectedTreeDied.stages.0.label>Gauranlen death</ConnectedTreeDied.stages.0.label>
+  <ConnectedTreeDied.stages.0.description>My tree... its calming presence became pure pain, then went silent. Its suffering echoes in my mind...</ConnectedTreeDied.stages.0.description>
+  <RelicsCollected.stages.0.label>all relics collected</RelicsCollected.stages.0.label>
+  <RelicsCollected.stages.0.description>We found all of our sacred relics!</RelicsCollected.stages.0.description>
+  <BiosculpterPleasure.stages.0.label>biosculpter pleasure cycle</BiosculpterPleasure.stages.0.label>
+  <BiosculpterPleasure.stages.0.description>Every part of me is somehow better at feeling good.</BiosculpterPleasure.stages.0.description>
+  <DryadDied.stages.0.label>dryad died</DryadDied.stages.0.label>
+  <DryadDied.stages.0.description>My tree's dryad is gone forever. You shall be missed, little one.</DryadDied.stages.0.description>
+  <WillDiminished.stages.0.label>will diminished</WillDiminished.stages.0.label>
+  <FailedConvertAbilityInitiator.stages.0.label>failed to convert {0}</FailedConvertAbilityInitiator.stages.0.label>
+  <FailedConvertAbilityInitiator.stages.0.description>I tried to convert someone and it didn't work out. Awkward.</FailedConvertAbilityInitiator.stages.0.description>
+  <FailedConvertAbilityRecipient.stages.0.label>{0} tried to convert me</FailedConvertAbilityRecipient.stages.0.label>
+  <FailedConvertAbilityRecipient.stages.0.description>Someone tried to convert me. I wish they'd just leave me alone.</FailedConvertAbilityRecipient.stages.0.description>
+  <Counselled.stages.0.label>counselled by {0}</Counselled.stages.0.label>
+  <Counselled.stages.0.description>I received counseling about something that's been bothering me.</Counselled.stages.0.description>
+  <CounselFailed.stages.0.label>failed consolation by {0}</CounselFailed.stages.0.label>
+  <CounselFailed.stages.0.description>Somehow, that attempt at helping made things even worse.</CounselFailed.stages.0.description>
+  <Counselled_MoodBoost.stages.0.label>counselled by {0}</Counselled_MoodBoost.stages.0.label>
+  <Counselled_MoodBoost.stages.0.description>I received counseling from someone. It felt nice to be listened to.</Counselled_MoodBoost.stages.0.description>
+  <TendedByMedicalSpecialist.stages.0.label>tended by {0}</TendedByMedicalSpecialist.stages.0.label>
+  <TendedByMedicalSpecialist.stages.0.description>I received medical aid from one who carries the special healer status of my ideoligion.</TendedByMedicalSpecialist.stages.0.description>
+  <ObservedTerror.stages.0.label>{THING_label}</ObservedTerror.stages.0.label>
+  <ObservedGibbetCage.stages.0.label>observed gibbet cage</ObservedGibbetCage.stages.0.label>
+  <ObservedGibbetCage.stages.0.description>What a terrible sight.</ObservedGibbetCage.stages.0.description>
+  <ObservedSkullspike.stages.0.label>observed skullspike</ObservedSkullspike.stages.0.label>
+  <ObservedSkullspike.stages.0.description>What a terrible sight.</ObservedSkullspike.stages.0.description>
+  <RelicAtRitual.stages.0.label>{RELICNAME} at ritual</RelicAtRitual.stages.0.label>
+  <RelicAtRitual.stages.0.description>{RELICNAME} was present during our ritual.</RelicAtRitual.stages.0.description>
+  <RitualDelayed.stages.0.label>{RITUAL_labelCap} delayed</RitualDelayed.stages.0.label>
+  <RitualDelayed.stages.0.description>{RITUAL_labelCapDef} has been delayed. We should have started it already.</RitualDelayed.stages.0.description>
+  <TrialExonerated.stages.0.label>exonerated</TrialExonerated.stages.0.label>
+  <TrialExonerated.stages.0.description>They had nothing on me, and I showed them!</TrialExonerated.stages.0.description>
+  <TrialFailed.stages.0.label>failed trial</TrialFailed.stages.0.label>
+  <TrialFailed.stages.0.description>I made an accusation and couldn't even make it stick. This is humiliating.</TrialFailed.stages.0.description>
+  <TrialConvicted.stages.0.label>convicted</TrialConvicted.stages.0.label>
+  <TrialConvicted.stages.0.description>I was unjustly convicted of a terrible wrongdoing!</TrialConvicted.stages.0.description>
+  <TerribleParty.stages.0.label>terrible party</TerribleParty.stages.0.label>
+  <TerribleParty.stages.0.description>That party was terrible. Bad music, awkward dancing... ugh.</TerribleParty.stages.0.description>
+  <BoringParty.stages.0.label>boring party</BoringParty.stages.0.label>
+  <BoringParty.stages.0.description>That party was not good. Uninteresting music, poor dancing. Wish I never went.</BoringParty.stages.0.description>
+  <FunParty.stages.0.label>fun party</FunParty.stages.0.label>
+  <FunParty.stages.0.description>That was a fun party. A good break from daily life.</FunParty.stages.0.description>
+  <UnforgettableParty.stages.0.label>unforgettable party</UnforgettableParty.stages.0.label>
+  <UnforgettableParty.stages.0.description>That party was awesome! The music, the mood... Everything was perfect.</UnforgettableParty.stages.0.description>
+  <TerribleFuneral.stages.0.label>disgraceful funeral</TerribleFuneral.stages.0.label>
+  <TerribleFuneral.stages.0.description>That funeral was borderline insulting to everyone involved.</TerribleFuneral.stages.0.description>
+  <LacklusterFuneral.stages.0.label>lackluster funeral</LacklusterFuneral.stages.0.label>
+  <LacklusterFuneral.stages.0.description>That funeral was really uninspired and didn't resolve anything.</LacklusterFuneral.stages.0.description>
+  <GoodFuneral.stages.0.label>good funeral</GoodFuneral.stages.0.label>
+  <GoodFuneral.stages.0.description>That funeral went well - a good way to say goodbye.</GoodFuneral.stages.0.description>
+  <HeartwarmingFuneral.stages.0.label>heartwarming funeral</HeartwarmingFuneral.stages.0.label>
+  <HeartwarmingFuneral.stages.0.description>That funeral went perfectly - it brought up a lot of good memories and showed us a path forward.</HeartwarmingFuneral.stages.0.description>
+  <TerribleFestival.stages.0.label>terrible festival</TerribleFestival.stages.0.label>
+  <TerribleFestival.stages.0.description>That festival was horrible. I'm still cringing from the awkwardness flashbacks.</TerribleFestival.stages.0.description>
+  <BoringFestival.stages.0.label>boring festival</BoringFestival.stages.0.label>
+  <BoringFestival.stages.0.description>That festival was awkward. I wish I could have left.</BoringFestival.stages.0.description>
+  <FunFestival.stages.0.label>fun festival</FunFestival.stages.0.label>
+  <FunFestival.stages.0.description>I had fun! We got to hang out and relax.</FunFestival.stages.0.description>
+  <UnforgettableFestival.stages.0.label>unforgettable festival</UnforgettableFestival.stages.0.label>
+  <UnforgettableFestival.stages.0.description>That festival was something I'll never forget.</UnforgettableFestival.stages.0.description>
+  <TerribleSacrifice.stages.0.label>terrible sacrifice</TerribleSacrifice.stages.0.label>
+  <TerribleSacrifice.stages.0.description>That sacrifice was botched and the mood was way off. What an awful, awkward death.</TerribleSacrifice.stages.0.description>
+  <BoringSacrifice.stages.0.label>boring sacrifice</BoringSacrifice.stages.0.label>
+  <BoringSacrifice.stages.0.description>That sacrifice lacked passion and the technique wasn't great.</BoringSacrifice.stages.0.description>
+  <SatisfyingSacrifice.stages.0.label>satisfying sacrifice</SatisfyingSacrifice.stages.0.label>
+  <SatisfyingSacrifice.stages.0.description>That sacrifice was satisfying - well-executed and appropriately bloody.</SatisfyingSacrifice.stages.0.description>
+  <SpectacularSacrifice.stages.0.label>spectacular sacrifice</SpectacularSacrifice.stages.0.label>
+  <SpectacularSacrifice.stages.0.description>The blood! The release! That sacrifice made me feel like we were connecting with another world.</SpectacularSacrifice.stages.0.description>
+  <TerribleSkyLanterns.stages.0.label>terrible skylantern festival</TerribleSkyLanterns.stages.0.label>
+  <TerribleSkyLanterns.stages.0.description>I hated having to make that skylantern, and they looked like garbage anyway.</TerribleSkyLanterns.stages.0.description>
+  <UnimpressiveSkyLanterns.stages.0.label>boring skylanterns</UnimpressiveSkyLanterns.stages.0.label>
+  <UnimpressiveSkyLanterns.stages.0.description>Those skylanterns didn't impress me. Just a waste of time and resources.</UnimpressiveSkyLanterns.stages.0.description>
+  <BeautifulSkyLanterns.stages.0.label>beautiful skylantern festival</BeautifulSkyLanterns.stages.0.label>
+  <BeautifulSkyLanterns.stages.0.description>I felt at peace as I saw the lanterns drift off.</BeautifulSkyLanterns.stages.0.description>
+  <UnforgettableSkyLanterns.stages.0.label>unforgettable skylantern festival</UnforgettableSkyLanterns.stages.0.label>
+  <UnforgettableSkyLanterns.stages.0.description>The sense of togetherness during construction, the moment of release - it was like my troubles drifted away with those skylanterns.</UnforgettableSkyLanterns.stages.0.description>
+  <TerribleScarification.stages.0.label>terrible scarification</TerribleScarification.stages.0.label>
+  <TerribleScarification.stages.0.description>The scarification was botched and the mood was way off. What an awkward ceremony.</TerribleScarification.stages.0.description>
+  <BoringScarification.stages.0.label>boring scarification</BoringScarification.stages.0.label>
+  <BoringScarification.stages.0.description>That scarification lacked passion and the technique wasn't great.</BoringScarification.stages.0.description>
+  <SatisfyingScarification.stages.0.label>satisfying scarification</SatisfyingScarification.stages.0.label>
+  <SatisfyingScarification.stages.0.description>That scarification was satisfying - cleanly-traced and appropriately painful-looking.</SatisfyingScarification.stages.0.description>
+  <SpectacularScarification.stages.0.label>spectacular scarification</SpectacularScarification.stages.0.label>
+  <SpectacularScarification.stages.0.description>The flesh curled and shapes like magic under the knife. It was a true transformation through suffering!</SpectacularScarification.stages.0.description>
+  <TerribleBlinding.stages.0.label>terrible blinding</TerribleBlinding.stages.0.label>
+  <TerribleBlinding.stages.0.description>That blinding was botched and the mood was way off. What an awkward ceremony.</TerribleBlinding.stages.0.description>
+  <BoringBlinding.stages.0.label>boring blinding</BoringBlinding.stages.0.label>
+  <BoringBlinding.stages.0.description>That blinding lacked passion and the technique wasn't great.</BoringBlinding.stages.0.description>
+  <SatisfyingBlinding.stages.0.label>satisfying blinding</SatisfyingBlinding.stages.0.label>
+  <SatisfyingBlinding.stages.0.description>That blinding was satisfying. The cut was deep and made a satisfying wet-sucking noise.</SatisfyingBlinding.stages.0.description>
+  <SpectacularBlinding.stages.0.label>spectacular blinding</SpectacularBlinding.stages.0.label>
+  <SpectacularBlinding.stages.0.description>The intoned voices, the terrible and amazing blade, the painful shivering and cutting - That blinding ceremony was sublime!</SpectacularBlinding.stages.0.description>
+  <EffectiveConversion.stages.0.label>effective conversion</EffectiveConversion.stages.0.label>
+  <EffectiveConversion.stages.0.description>That conversion ritual went well. The speech was stirring and enjoyable to listen to.</EffectiveConversion.stages.0.description>
+  <MasterfulConversion.stages.0.label>masterful conversion</MasterfulConversion.stages.0.label>
+  <MasterfulConversion.stages.0.description>Masterful! Old beliefs were left in tatters, and our true knowledge was accepted without a shadow of a doubt.</MasterfulConversion.stages.0.description>
+  <TerribleDuel.stages.0.label>terrible duel</TerribleDuel.stages.0.label>
+  <TerribleDuel.stages.0.description>That duel was horrible. I'm still cringing thinking about the bumbling cowardice I saw.</TerribleDuel.stages.0.description>
+  <BoringDuel.stages.0.label>boring duel</BoringDuel.stages.0.label>
+  <BoringDuel.stages.0.description>That duel was awkward. No aggressive energy, just attempts to survive.</BoringDuel.stages.0.description>
+  <GoodDuel.stages.0.label>good duel</GoodDuel.stages.0.label>
+  <GoodDuel.stages.0.description>That duel was good. The fighters really showed heart.</GoodDuel.stages.0.description>
+  <UnforgettableDuel.stages.0.label>unforgettable duel</UnforgettableDuel.stages.0.label>
+  <UnforgettableDuel.stages.0.description>The courage... the blood... the death... I could never forget that.</UnforgettableDuel.stages.0.description>
+  <AwkwardExecution.stages.0.label>awkward execution</AwkwardExecution.stages.0.label>
+  <AwkwardExecution.stages.0.description>That execution was awkward. The incompetence on display made the whole thing feel unjustified.</AwkwardExecution.stages.0.description>
+  <SatisfyingExecution.stages.0.label>satisfying execution</SatisfyingExecution.stages.0.label>
+  <SatisfyingExecution.stages.0.description>That execution was satisfying. It felt like justice was served.</SatisfyingExecution.stages.0.description>
+  <SpectacularExecution.stages.0.label>spectacular execution</SpectacularExecution.stages.0.label>
+  <SpectacularExecution.stages.0.description>That execution was electrifying! Never have I felt such a sensation of justice being served.</SpectacularExecution.stages.0.description>
+  <LookChangeDesired.stages.0.label>look change desired</LookChangeDesired.stages.0.label>
+  <LookChangeDesired.stages.0.description>The way I look doesn't match who I am today. I want to change it.</LookChangeDesired.stages.0.description>
+  <MasochistWearingCollar.stages.0.label>masochist collared</MasochistWearingCollar.stages.0.label>
+  <MasochistWearingCollar.stages.0.description>Such restrictive discomfort... Delightful.</MasochistWearingCollar.stages.0.description>
+  <MasochistWearingBodyStrap.stages.0.label>masochist body strapped</MasochistWearingBodyStrap.stages.0.label>
+  <MasochistWearingBodyStrap.stages.0.description>The straps press in and calm my soul.</MasochistWearingBodyStrap.stages.0.description>
+  <WearingColor_Favorite.stages.0.label>wearing favorite color</WearingColor_Favorite.stages.0.label>
+  <WearingColor_Favorite.stages.0.description>I just love this color.</WearingColor_Favorite.stages.0.description>
+  <WearingColor_Ideo.stages.0.label>wearing ideoligion color</WearingColor_Ideo.stages.0.label>
+  <WearingColor_Ideo.stages.0.description>My apparel coloring is properly expressing my beliefs.</WearingColor_Ideo.stages.0.description>
+  <FailedConvertIdeoAttemptResentment.stages.0.label>conversion resentment</FailedConvertIdeoAttemptResentment.stages.0.label>
+  <FailedConvertIdeoAttemptResentment.stages.0.description>Someone tried to convert me. I hate being proselytized this way.</FailedConvertIdeoAttemptResentment.stages.0.description>
+  <PsychicArchotechEmanator_Major.stages.0.label>archotech emanation</PsychicArchotechEmanator_Major.stages.0.label>
+  <PsychicArchotechEmanator_Major.stages.0.description>These thoughts coming from the structure, they open doors to such vastness... I feel so small that I might disappear.</PsychicArchotechEmanator_Major.stages.0.description>
+  <PsychicArchotechEmanator_Major.stages.1.label>archotech emanation</PsychicArchotechEmanator_Major.stages.1.label>
+  <PsychicArchotechEmanator_Major.stages.1.description>I can feel the edge of its wordless whispers... They make me uneasy.</PsychicArchotechEmanator_Major.stages.1.description>
+  <PsychicArchotechEmanator_Grand.stages.0.label>archotech emanation</PsychicArchotechEmanator_Grand.stages.0.label>
+  <PsychicArchotechEmanator_Grand.stages.0.description>It makes me perceive so much. Eyeless knowledge of absolute existence, all minds speaking and dying and birthing at once. It's hard not to lose connection with myself.</PsychicArchotechEmanator_Grand.stages.0.description>
+  <PsychicArchotechEmanator_Grand.stages.1.label>archotech emanation</PsychicArchotechEmanator_Grand.stages.1.label>
+  <PsychicArchotechEmanator_Grand.stages.1.description>It pays no attention to me but I sense the edge of its perception. Flashes of terrifying timeless sight. Hard to ignore.</PsychicArchotechEmanator_Grand.stages.1.description>
+  <PsychicArchotechEmanator_Core.stages.0.label>archotech emanation</PsychicArchotechEmanator_Core.stages.0.label>
+  <PsychicArchotechEmanator_Core.stages.0.description>The scale of it. The fractal logic-scape of the multiversal hyperplane. No distance. No time. No me or them. I'm everything. I'm nothing.</PsychicArchotechEmanator_Core.stages.0.description>
+  <PsychicArchotechEmanator_Core.stages.1.label>archotech emanation</PsychicArchotechEmanator_Core.stages.1.label>
+  <PsychicArchotechEmanator_Core.stages.1.description>I can feel the edge of its thoughts, see the endless scope when I close my eyes. I need to focus on my physical body or I drift away.</PsychicArchotechEmanator_Core.stages.1.description>
+</LanguageData>

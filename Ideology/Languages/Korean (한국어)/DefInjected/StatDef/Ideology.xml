@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SlaveSuppressionOffset.label>slave suppression offset</SlaveSuppressionOffset.label>
+  <SlaveSuppressionOffset.description>An offset applied to the wearer's slave suppression. Higher values suppress slaves longer, while lower values make slaves rebel more often.</SlaveSuppressionOffset.description>
+  <TerrorSource.label>terror</TerrorSource.label>
+  <TerrorSource.description>The intensity of terror this object induces when viewed.</TerrorSource.description>
+  <TerrorSource.formatString>{0}%</TerrorSource.formatString>
+  <BiosculpterPodSpeedFactor.label>biosculpter pod speed factor</BiosculpterPodSpeedFactor.label>
+  <BiosculpterPodSpeedFactor.description>A multiplier on the speed of a biosculpter pod. This is affected by the cleanliness of the room - a cleaner room will result in a quicker biosculpting cycle.</BiosculpterPodSpeedFactor.description>
+  <BiosculpterPodSpeedFactor.parts.0.customLabel>Room cleanliness</BiosculpterPodSpeedFactor.parts.0.customLabel>
+  <StyleDominance.label>style dominance</StyleDominance.label>
+  <StyleDominance.description>How much this object contributes to overall style dominance in an area.</StyleDominance.description>
+  <Terror.label>terror</Terror.label>
+  <Terror.description>The intensity of terror this person is experiencing.</Terror.description>
+  <ConversionPower.label>conversion power</ConversionPower.label>
+  <ConversionPower.description>How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses.</ConversionPower.description>
+  <CertaintyLossFactor.label>global certainty loss factor</CertaintyLossFactor.label>
+  <CertaintyLossFactor.description>A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion.</CertaintyLossFactor.description>
+  <SocialIdeoSpreadFrequencyFactor.label>ideoligion spread chance</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.description>A multiplier on the chance that this person will try to convert other people to their own ideoligion.</SocialIdeoSpreadFrequencyFactor.description>
+  <ShootingAccuracyOutdoorsDarkOffset.label>shooting accuracy outdoors dark</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.description>An offset on shooting accuracy if the target is outdoors at night.</ShootingAccuracyOutdoorsDarkOffset.description>
+  <ShootingAccuracyOutdoorsLitOffset.label>shooting accuracy outdoors lit</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.description>An offset on shooting accuracy if the target is outdoors during the day.</ShootingAccuracyOutdoorsLitOffset.description>
+  <ShootingAccuracyIndoorsDarkOffset.label>shooting accuracy indoors dark</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.description>An offset on shooting accuracy if the target is indoors in the dark.</ShootingAccuracyIndoorsDarkOffset.description>
+  <ShootingAccuracyIndoorsLitOffset.label>shooting accuracy indoors lit</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.description>An offset on shooting accuracy if the target is indoors and lit.</ShootingAccuracyIndoorsLitOffset.description>
+  <MeleeHitChanceOutdoorsDarkOffset.label>melee hit chance outdoors dark</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.description>An offset on melee hit chance if the target is outdoors at night.</MeleeHitChanceOutdoorsDarkOffset.description>
+  <MeleeHitChanceOutdoorsLitOffset.label>melee hit chance outdoors lit</MeleeHitChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.description>An offset on melee hit chance if the target is outdoors during the day.</MeleeHitChanceOutdoorsLitOffset.description>
+  <MeleeHitChanceIndoorsDarkOffset.label>melee hit chance indoors dark</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.description>An offset on melee hit chance if the target is indoors in the dark.</MeleeHitChanceIndoorsDarkOffset.description>
+  <MeleeHitChanceIndoorsLitOffset.label>melee hit chance indoors lit</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.description>An offset on melee hit chance if the target is indoors and lit.</MeleeHitChanceIndoorsLitOffset.description>
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>melee dodge chance outdoors night</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>An offset on melee dodge chance if the target is outdoors at night.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  <MeleeDodgeChanceOutdoorsLitOffset.label>melee dodge chance outdoors day</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>An offset on melee dodge chance if the target is outdoors during the day.</MeleeDodgeChanceOutdoorsLitOffset.description>
+  <MeleeDodgeChanceIndoorsDarkOffset.label>melee dodge chance indoors dark</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>An offset on melee dodge chance if the target is indoors in the dark.</MeleeDodgeChanceIndoorsDarkOffset.description>
+  <MeleeDodgeChanceIndoorsLitOffset.label>melee dodge chance indoors lit</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.description>An offset on melee dodge chance if the target is indoors and lit.</MeleeDodgeChanceIndoorsLitOffset.description>
+  <BiosculpterOccupantSpeed.label>biosculpter occupant speed</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.description>A multiplier on how quickly this person will complete a biosculpter pod cycle.</BiosculpterOccupantSpeed.description>
+  <SlaveSuppressionFallRate.label>slave suppression fall rate</SlaveSuppressionFallRate.label>
+  <SlaveSuppressionFallRate.description>The rate at which slave suppression falls.</SlaveSuppressionFallRate.description>
+  <SlaveSuppressionFallRate.formatString>{0} per day</SlaveSuppressionFallRate.formatString>
+  <SlaveSuppressionFallRate.formatStringUnfinalized>{0} per day</SlaveSuppressionFallRate.formatStringUnfinalized>
+  <AnimalProductsSellImprovement.label>animal products price improvement</AnimalProductsSellImprovement.label>
+  <AnimalProductsSellImprovement.description>When this person sells meat, leather, or wool, prices are improved by this percentage.</AnimalProductsSellImprovement.description>
+  <SuppressionPower.label>suppression power</SuppressionPower.label>
+  <SuppressionPower.description>A multiplier on a warden's ability to suppress slaves.</SuppressionPower.description>
+  <HackingSpeed.label>hacking speed</HackingSpeed.label>
+  <HackingSpeed.description>How fast this person can hack into computer terminals.</HackingSpeed.description>
+</LanguageData>

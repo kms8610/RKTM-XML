@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalVenerated.label>venerated</AnimalVenerated.label>
+  <AnimalVenerated.description>This animal is considered by believers to hold a special spiritual or moral status, which means it must be venerated and may never be harmed.</AnimalVenerated.description>
+  <AnimalVenerated.comps.2.description>Tame venerated animal died</AnimalVenerated.comps.2.description>
+  <AnimalConnection_Strong.label>strong</AnimalConnection_Strong.label>
+  <AnimalConnection_Strong.description>We have a strong connection to our animal friends.</AnimalConnection_Strong.description>
+  <AnimalSlaughter_Prohibited.label>prohibited</AnimalSlaughter_Prohibited.label>
+  <AnimalSlaughter_Prohibited.description>Slaughtering animals is absolutely prohibited.</AnimalSlaughter_Prohibited.description>
+  <AnimalSlaughter_Prohibited.comps.1.description>Someone slaughtered an animal</AnimalSlaughter_Prohibited.comps.1.description>
+  <AnimalSlaughter_Prohibited.comps.2.description>Slaughter animal</AnimalSlaughter_Prohibited.comps.2.description>
+  <AnimalSlaughter_Horrible.label>horrible</AnimalSlaughter_Horrible.label>
+  <AnimalSlaughter_Horrible.description>To slaughter an animal is a horrible thing.</AnimalSlaughter_Horrible.description>
+  <AnimalSlaughter_Horrible.comps.1.description>Someone slaughtered an animal</AnimalSlaughter_Horrible.comps.1.description>
+  <AnimalSlaughter_Disapproved.label>disapproved</AnimalSlaughter_Disapproved.label>
+  <AnimalSlaughter_Disapproved.description>To slaughter an animal is an ugly thing.</AnimalSlaughter_Disapproved.description>
+  <AnimalSlaughter_Disapproved.comps.1.description>Someone slaughtered an animal</AnimalSlaughter_Disapproved.comps.1.description>
+  <Apostasy_Abhorrent.label>abhorrent</Apostasy_Abhorrent.label>
+  <Apostasy_Abhorrent.description>To leave our ideoligion after having known it is the depth of immorality.</Apostasy_Abhorrent.description>
+  <Apostasy_Abhorrent.comps.0.description>Changed ideoligion</Apostasy_Abhorrent.comps.0.description>
+  <Apostasy_Horrible.label>horrible</Apostasy_Horrible.label>
+  <Apostasy_Horrible.description>To leave our ideoligion after having known it indicates deep moral flaws.</Apostasy_Horrible.description>
+  <Apostasy_Horrible.comps.0.description>Changed ideoligion</Apostasy_Horrible.comps.0.description>
+  <Apostasy_Disapproved.label>disapproved</Apostasy_Disapproved.label>
+  <Apostasy_Disapproved.description>To leave our ideoligion after having known it indicates character flaws.</Apostasy_Disapproved.description>
+  <Apostasy_Disapproved.comps.0.description>Changed ideoligion</Apostasy_Disapproved.comps.0.description>
+  <ApparelDesired_Strong_Subordinate.label>strong</ApparelDesired_Strong_Subordinate.label>
+  <ApparelDesired_Strong_Subordinate.description>{GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} unless it interferes with armor.</ApparelDesired_Strong_Subordinate.description>
+  <ApparelDesired_Strong_Subordinate.comps.1.description>Wearing desired apparel</ApparelDesired_Strong_Subordinate.comps.1.description>
+  <ApparelDesired_Soft_Subordinate.label>relaxed</ApparelDesired_Soft_Subordinate.label>
+  <ApparelDesired_Soft_Subordinate.description>{GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} if it doesn't interfere with any other apparel.</ApparelDesired_Soft_Subordinate.description>
+  <ApparelDesired_Soft_Subordinate.comps.1.description>Wearing desired apparel</ApparelDesired_Soft_Subordinate.comps.1.description>
+  <NutrientPasteEating_DontMind.label>dont mind</NutrientPasteEating_DontMind.label>
+  <NutrientPasteEating_DontMind.description>There's nothing wrong with a meal of efficient, healthy nutrient paste.</NutrientPasteEating_DontMind.description>
+  <AutonomousWeapons_Prohibited.label>prohibited</AutonomousWeapons_Prohibited.label>
+  <AutonomousWeapons_Prohibited.description>Allowing a machine to decide to kill is an absolutely inhuman thing to do.</AutonomousWeapons_Prohibited.description>
+  <AutonomousWeapons_Prohibited.comps.0.description>Automated turret in colony</AutonomousWeapons_Prohibited.comps.0.description>
+  <AutonomousWeapons_Prohibited.comps.1.description>Build automated turret</AutonomousWeapons_Prohibited.comps.1.description>
+  <AutonomousWeapons_Horrible.label>horrible</AutonomousWeapons_Horrible.label>
+  <AutonomousWeapons_Horrible.description>Allowing a machine to decide to kill is a terrible thing.</AutonomousWeapons_Horrible.description>
+  <AutonomousWeapons_Horrible.comps.0.description>Automated turret in colony</AutonomousWeapons_Horrible.comps.0.description>
+  <AutonomousWeapons_Disapproved.label>disapproved</AutonomousWeapons_Disapproved.label>
+  <AutonomousWeapons_Disapproved.description>Allowing a machine to decide to kill is an ugly thing.</AutonomousWeapons_Disapproved.description>
+  <AutonomousWeapons_Disapproved.comps.0.description>Automated turret in colony</AutonomousWeapons_Disapproved.comps.0.description>
+  <Blindness_Respected.label>respected</Blindness_Respected.label>
+  <Blindness_Respected.description>To be blind is a moral thing worthy of respect.</Blindness_Respected.description>
+  <Blindness_Elevated.label>elevated</Blindness_Elevated.label>
+  <Blindness_Elevated.description>The blind stand pure above the sighted.</Blindness_Elevated.description>
+  <Blindness_Sublime.label>sublime</Blindness_Sublime.label>
+  <Blindness_Sublime.description>Only the blind can be truly noble, for the sighted find their minds clouded by physical vision.</Blindness_Sublime.description>
+  <Blinding_Horrible.label>horrible</Blinding_Horrible.label>
+  <Blinding_Horrible.description>Blinding people for ideoligious reasons is horrible.</Blinding_Horrible.description>
+  <Blinding_Horrible.comps.0.description>someone got blinded</Blinding_Horrible.comps.0.description>
+  <Blind_Psysense.label>strong</Blind_Psysense.label>
+  <Blind_Psysense.description>Our blind have special ways of connecting with the psychic aether.</Blind_Psysense.description>
+  <BodyMod_Abhorrent.label>abhorrent</BodyMod_Abhorrent.label>
+  <BodyMod_Abhorrent.description>To modify the natural human body is a flagrant violation of clear moral laws.</BodyMod_Abhorrent.description>
+  <BodyMod_Disapproved.label>disapproved</BodyMod_Disapproved.label>
+  <BodyMod_Disapproved.description>To modify the natural human body is an ugly, dirty act.</BodyMod_Disapproved.description>
+  <BodyMod_Approved.label>approved</BodyMod_Approved.label>
+  <BodyMod_Approved.description>Humans should strive to reach our full potential by improving our flawed natural bodies.</BodyMod_Approved.description>
+  <Bonding_Disapproved.label>disapproved</Bonding_Disapproved.label>
+  <Bonding_Disapproved.description>To emotionally bond with a lower being is a shameful act.</Bonding_Disapproved.description>
+  <IdeoBuilding.label>building</IdeoBuilding.label>
+  <IdeoBuilding.description>A building of ideoligious significance. Only those who follow this ideoligion can build it. It may be used as a focus for rituals.</IdeoBuilding.description>
+  <Cannibalism_Abhorrent.label>abhorrent</Cannibalism_Abhorrent.label>
+  <Cannibalism_Abhorrent.description>Eating human flesh is a deeply abhorrent and disgusting act.</Cannibalism_Abhorrent.description>
+  <Cannibalism_Abhorrent.comps.5.description>Humanleather apparel</Cannibalism_Abhorrent.comps.5.description>
+  <Cannibalism_Horrible.label>horrible</Cannibalism_Horrible.label>
+  <Cannibalism_Horrible.description>Eating human flesh is a horrible thing to do.</Cannibalism_Horrible.description>
+  <Cannibalism_Horrible.comps.5.description>Humanleather apparel</Cannibalism_Horrible.comps.5.description>
+  <Cannibalism_Disapproved.label>disapproved</Cannibalism_Disapproved.label>
+  <Cannibalism_Disapproved.description>Eating human flesh is an ugly thing to do.</Cannibalism_Disapproved.description>
+  <Cannibalism_Disapproved.comps.5.description>Humanleather apparel</Cannibalism_Disapproved.comps.5.description>
+  <Cannibalism_Acceptable.label>acceptable</Cannibalism_Acceptable.label>
+  <Cannibalism_Acceptable.description>Human meat is just meat, like any other.</Cannibalism_Acceptable.description>
+  <Cannibalism_Preferred.label>preferred</Cannibalism_Preferred.label>
+  <Cannibalism_Preferred.description>To consume human meat is a noble and necessary part of life.</Cannibalism_Preferred.description>
+  <Cannibalism_Preferred.comps.1.description>No human meat for {HUMANMEATREQUIREDINTERVAL} days</Cannibalism_Preferred.comps.1.description>
+  <Cannibalism_Preferred.comps.2.description>Humanleather apparel</Cannibalism_Preferred.comps.2.description>
+  <Cannibalism_RequiredStrong.label>required (strong)</Cannibalism_RequiredStrong.label>
+  <Cannibalism_RequiredStrong.description>Consuming human flesh is important. It should be in every meal.</Cannibalism_RequiredStrong.description>
+  <Cannibalism_RequiredStrong.comps.3.description>No human meat for {HUMANMEATREQUIREDINTERVAL} days</Cannibalism_RequiredStrong.comps.3.description>
+  <Cannibalism_RequiredStrong.comps.4.description>Humanleather apparel</Cannibalism_RequiredStrong.comps.4.description>
+  <Cannibalism_RequiredRavenous.label>required (ravenous)</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredRavenous.description>Man-flesh is morality. To eat a meal without it is unthinkable.</Cannibalism_RequiredRavenous.description>
+  <Cannibalism_RequiredRavenous.comps.3.description>No human meat for {HUMANMEATREQUIREDINTERVAL} days</Cannibalism_RequiredRavenous.comps.3.description>
+  <Cannibalism_RequiredRavenous.comps.4.description>Humanleather apparel</Cannibalism_RequiredRavenous.comps.4.description>
+  <Charity_Essential.label>essential</Charity_Essential.label>
+  <Charity_Essential.description>We must always be charitable to those in need. To refuse one would be an inhuman act, no matter the circumstances.</Charity_Essential.description>
+  <Charity_Important.label>important</Charity_Important.label>
+  <Charity_Important.description>It's important to be charitable to those in need. Refusing to help is a terrible act.</Charity_Important.description>
+  <Charity_Worthwhile.label>worthwhile</Charity_Worthwhile.label>
+  <Charity_Worthwhile.description>Helping those in need is a good thing. It makes the community stronger.</Charity_Worthwhile.description>
+  <Comfort_Ignored.label>ignored</Comfort_Ignored.label>
+  <Comfort_Ignored.description>We should pay no attention to comfort.</Comfort_Ignored.description>
+  <SlabBed_Preferred.label>preferred</SlabBed_Preferred.label>
+  <SlabBed_Preferred.description>The right way to sleep is on a slab bed.</SlabBed_Preferred.description>
+  <SlabBed_Preferred.comps.0.description>Slept in slab bed</SlabBed_Preferred.comps.0.description>
+  <Corpses_DontCare.label>don't care</Corpses_DontCare.label>
+  <Corpses_DontCare.description>The sight of a dead person is nothing to be concerned about.</Corpses_DontCare.description>
+  <DrugUse_Prohibited.label>prohibited</DrugUse_Prohibited.label>
+  <DrugUse_Prohibited.description>The body should absolutely not be poisoned by chemicals. The only exception is the use of medicine in direct medical care.</DrugUse_Prohibited.description>
+  <DrugUse_Prohibited.comps.0.description>Ingest drug</DrugUse_Prohibited.comps.0.description>
+  <DrugUse_Prohibited.comps.5.description>Administer drug</DrugUse_Prohibited.comps.5.description>
+  <DrugUse_MedicalOnly.label>medical only</DrugUse_MedicalOnly.label>
+  <DrugUse_MedicalOnly.description>Poisoning the body for recreational purposes is a deeply immoral act.</DrugUse_MedicalOnly.description>
+  <DrugUse_MedicalOnly.comps.2.description>Ingest recreational drug</DrugUse_MedicalOnly.comps.2.description>
+  <DrugUse_MedicalOnly.comps.5.description>Administer recreational drug</DrugUse_MedicalOnly.comps.5.description>
+  <DrugUse_MedicalOrSocial.label>medical or social only</DrugUse_MedicalOrSocial.label>
+  <DrugUse_MedicalOrSocial.description>A drink with a smoke is fine, especially with friends, but poisoning the body with powerful chemicals is wrong.</DrugUse_MedicalOrSocial.description>
+  <DrugUse_MedicalOrSocial.comps.2.description>Ingest hard drug</DrugUse_MedicalOrSocial.comps.2.description>
+  <DrugUse_MedicalOrSocial.comps.5.description>Administer hard drug</DrugUse_MedicalOrSocial.comps.5.description>
+  <FungusEating_Preferred.label>preferred</FungusEating_Preferred.label>
+  <FungusEating_Preferred.description>Fungus is the right crop to eat. Crops of the light are poisoned by the air and sun.</FungusEating_Preferred.description>
+  <FungusEating_Despised.label>despised</FungusEating_Despised.label>
+  <FungusEating_Despised.description>That dark-grown fungus food is just disgusting.</FungusEating_Despised.description>
+  <DrugUse_Essential.label>essential</DrugUse_Essential.label>
+  <DrugUse_Essential.description>Exotic states of mind are central to a good life.</DrugUse_Essential.description>
+  <DrugUse_Essential.comps.0.description>Drugs taken every {DAYSSATISIFED} days</DrugUse_Essential.comps.0.description>
+  <IdeoDiversity_Abhorrent.label>intense bigotry</IdeoDiversity_Abhorrent.label>
+  <IdeoDiversity_Abhorrent.description>Other beliefs are evil deceptions ruining the world. It's totally unacceptable to let them exist in the community.</IdeoDiversity_Abhorrent.description>
+  <IdeoDiversity_Abhorrent.comps.2.description>All colonists have same ideoligion</IdeoDiversity_Abhorrent.comps.2.description>
+  <IdeoDiversity_Horrible.label>moderate bigotry</IdeoDiversity_Horrible.label>
+  <IdeoDiversity_Horrible.description>Other beliefs are immoral delusions which do real harm. It's bad to let them exist in the community.</IdeoDiversity_Horrible.description>
+  <IdeoDiversity_Disapproved.label>mild bigotry</IdeoDiversity_Disapproved.label>
+  <IdeoDiversity_Disapproved.description>Other beliefs are clearly folly. It's not good to let them exist in the community.</IdeoDiversity_Disapproved.description>
+  <IdeoDiversity_Standard.label>neutral</IdeoDiversity_Standard.label>
+  <IdeoDiversity_Standard.description>Other beliefs are neither approved or disapproved.</IdeoDiversity_Standard.description>
+  <IdeoDiversity_Approved.label>appreciated</IdeoDiversity_Approved.label>
+  <IdeoDiversity_Approved.description>Other beliefs are worth understanding. It's good to live with others who think differently.</IdeoDiversity_Approved.description>
+  <IdeoDiversity_Respected.label>highly appreciated</IdeoDiversity_Respected.label>
+  <IdeoDiversity_Respected.description>Other beliefs hold unique knowledge. It's great to live with others who think differently.</IdeoDiversity_Respected.description>
+  <IdeoDiversity_Exalted.label>exalted</IdeoDiversity_Exalted.label>
+  <IdeoDiversity_Exalted.description>Working through disagreement is the height of morality. It's very moral to live with others who think differently.</IdeoDiversity_Exalted.description>
+  <InsectMeatEating_Loved.label>loved</InsectMeatEating_Loved.label>
+  <InsectMeatEating_Loved.description>There is nothing more divine than the succulent, slimy flesh of an insect.</InsectMeatEating_Loved.description>
+  <KillingInnocentAnimals_Abhorrent.label>abhorrent</KillingInnocentAnimals_Abhorrent.label>
+  <KillingInnocentAnimals_Abhorrent.description>To kill an innocent animal is a horrifically inhuman act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation.</KillingInnocentAnimals_Abhorrent.description>
+  <KillingInnocentAnimals_Abhorrent.comps.2.description>Kill innocent animal</KillingInnocentAnimals_Abhorrent.comps.2.description>
+  <KillingInnocentAnimals_Horrible.label>horrible</KillingInnocentAnimals_Horrible.label>
+  <KillingInnocentAnimals_Horrible.description>To kill an innocent animal is a horrible act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation.</KillingInnocentAnimals_Horrible.description>
+  <KillingInnocentAnimals_Horrible.comps.0.description>Killed innocent animal</KillingInnocentAnimals_Horrible.comps.0.description>
+  <KillingInnocentAnimals_Horrible.comps.2.description>Someone killed an innocent animal</KillingInnocentAnimals_Horrible.comps.2.description>
+  <KillingInnocentAnimals_Disapproved.label>disapproved</KillingInnocentAnimals_Disapproved.label>
+  <KillingInnocentAnimals_Disapproved.description>To kill an innocent animal is an ugly act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation.</KillingInnocentAnimals_Disapproved.description>
+  <KillingInnocentAnimals_Disapproved.comps.0.description>Killed innocent animal</KillingInnocentAnimals_Disapproved.comps.0.description>
+  <KillingInnocentAnimals_Disapproved.comps.2.description>Someone killed an innocent animal</KillingInnocentAnimals_Disapproved.comps.2.description>
+  <Darklight_Preferred.label>darklight preferred</Darklight_Preferred.label>
+  <Darklight_Preferred.description>Normal lights are too bright. Darklights are better.</Darklight_Preferred.description>
+  <DarknessCombat_Preferred.label>Preferred</DarknessCombat_Preferred.label>
+  <DarknessCombat_Preferred.description>We fight better in the dark.</DarknessCombat_Preferred.description>
+  <Lovin_Prohibited.label>prohibited</Lovin_Prohibited.label>
+  <Lovin_Prohibited.description>The physical act of lust is always vile, disgusting, and wrong.</Lovin_Prohibited.description>
+  <Lovin_Prohibited.comps.1.description>Lustful act</Lovin_Prohibited.comps.1.description>
+  <Lovin_Horrible.label>horrible</Lovin_Horrible.label>
+  <Lovin_Horrible.description>The physical act of lust is vile, though within marriage it is necessary.</Lovin_Horrible.description>
+  <Lovin_Horrible.comps.1.description>Lustful act with non-spouse</Lovin_Horrible.comps.1.description>
+  <Lovin_Horrible.comps.3.description>Lustful act with spouse</Lovin_Horrible.comps.3.description>
+  <Lovin_SpouseOnly_Strict.label>spouse only (strict)</Lovin_SpouseOnly_Strict.label>
+  <Lovin_SpouseOnly_Strict.description>To make love with another outside of marriage is deeply immoral.</Lovin_SpouseOnly_Strict.description>
+  <Lovin_SpouseOnly_Strict.comps.1.description>Lustful act with non-spouse</Lovin_SpouseOnly_Strict.comps.1.description>
+  <Lovin_SpouseOnly_Moderate.label>spouse only (moderate)</Lovin_SpouseOnly_Moderate.label>
+  <Lovin_SpouseOnly_Moderate.description>To make love with another outside of marriage is wrong.</Lovin_SpouseOnly_Moderate.description>
+  <Lovin_SpouseOnly_Moderate.comps.1.description>Lustful act with non-spouse</Lovin_SpouseOnly_Moderate.comps.1.description>
+  <Lovin_SpouseOnly_Mild.label>spouse only (mild)</Lovin_SpouseOnly_Mild.label>
+  <Lovin_SpouseOnly_Mild.description>Though it's understandable to make love with another outside of marriage, it's not a good thing.</Lovin_SpouseOnly_Mild.description>
+  <Lovin_SpouseOnly_Mild.comps.1.description>Lustful act with non-spouse</Lovin_SpouseOnly_Mild.comps.1.description>
+  <Lovin_FreeApproved.label>free and approved</Lovin_FreeApproved.label>
+  <Lovin_FreeApproved.description>The physical act of love is a noble thing, no matter who does it with whom.</Lovin_FreeApproved.description>
+  <MarriageName_AlwaysMans.label>always man's</MarriageName_AlwaysMans.label>
+  <MarriageName_AlwaysMans.description>Couples must share the man's name.</MarriageName_AlwaysMans.description>
+  <MarriageName_Random.label>random</MarriageName_Random.label>
+  <MarriageName_Random.description>Couples randomly choose whether to share a name, and which name to share.</MarriageName_Random.description>
+  <MarriageName_KeepNames.label>keep names</MarriageName_KeepNames.label>
+  <MarriageName_KeepNames.description>Both partners keep their names upon marriage.</MarriageName_KeepNames.description>
+  <MarriageName_UsuallyWomans.label>usually woman's</MarriageName_UsuallyWomans.label>
+  <MarriageName_UsuallyWomans.description>Most couples share the woman's name.</MarriageName_UsuallyWomans.description>
+  <MarriageName_AlwaysWomans.label>always woman's</MarriageName_AlwaysWomans.label>
+  <MarriageName_AlwaysWomans.description>Couples must share the woman's name.</MarriageName_AlwaysWomans.description>
+  <MeatEating_Abhorrent.label>abhorrent</MeatEating_Abhorrent.label>
+  <MeatEating_Abhorrent.description>Eating meat of any kind is deeply evil.</MeatEating_Abhorrent.description>
+  <MeatEating_Horrible.label>horrible</MeatEating_Horrible.label>
+  <MeatEating_Horrible.description>Eating meat of any kind is a horrible act.</MeatEating_Horrible.description>
+  <MeatEating_Disapproved.label>disapproved</MeatEating_Disapproved.label>
+  <MeatEating_Disapproved.description>Eating meat of any kind should be avoided.</MeatEating_Disapproved.description>
+  <MeatEating_NonMeat_Disapproved.label>mildly required</MeatEating_NonMeat_Disapproved.label>
+  <MeatEating_NonMeat_Disapproved.description>Every meal ought to have meat.</MeatEating_NonMeat_Disapproved.description>
+  <MeatEating_NonMeat_Horrible.label>seriously required</MeatEating_NonMeat_Horrible.label>
+  <MeatEating_NonMeat_Horrible.description>Every meal must have meat.</MeatEating_NonMeat_Horrible.description>
+  <MeatEating_NonMeat_Abhorrent.label>strictly required</MeatEating_NonMeat_Abhorrent.label>
+  <MeatEating_NonMeat_Abhorrent.description>If a meal doesn't have meat, the person who eats it must be morally deficient.</MeatEating_NonMeat_Abhorrent.description>
+  <Mining_Prohibited.label>prohibited</Mining_Prohibited.label>
+  <Mining_Prohibited.description>Raping the natural earth with mining tools is a horrifically evil act.</Mining_Prohibited.description>
+  <Mining_Prohibited.comps.0.description>Mining</Mining_Prohibited.comps.0.description>
+  <Mining_Prohibited.comps.2.description>Someone mined a block</Mining_Prohibited.comps.2.description>
+  <Mining_Horrible.label>horrible</Mining_Horrible.label>
+  <Mining_Horrible.description>Violating the natural earth with mining tools is a horrible act.</Mining_Horrible.description>
+  <Mining_Horrible.comps.0.description>Someone mined a block</Mining_Horrible.comps.0.description>
+  <Mining_Horrible.comps.2.description>Someone mined a block</Mining_Horrible.comps.2.description>
+  <Mining_Disapproved.label>disapproved</Mining_Disapproved.label>
+  <Mining_Disapproved.description>Mining into the natural earth is an ugly act.</Mining_Disapproved.description>
+  <Mining_Disapproved.comps.0.description>Someone mined a block</Mining_Disapproved.comps.0.description>
+  <Mining_Disapproved.comps.2.description>Someone mined a block</Mining_Disapproved.comps.2.description>
+  <MiningYield_High.label>high</MiningYield_High.label>
+  <MiningYield_High.description>Mining is so important that we do it with great focus and respect, and we get more resources because of that.</MiningYield_High.description>
+  <Nudity_Male_Mandatory.description>Men must be entirely nude at all times. Utility items like shields belts or jump packs are acceptable.</Nudity_Male_Mandatory.description>
+  <Nudity_Male_Mandatory.label>fully nude</Nudity_Male_Mandatory.label>
+  <Nudity_Female_Mandatory.label>fully nude</Nudity_Female_Mandatory.label>
+  <Nudity_Female_Mandatory.description>Women must be entirely nude at all times. Utility items like shields belts or jump packs are acceptable.</Nudity_Female_Mandatory.description>
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>pants at most</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.description>Men should cover their groin, but may not cover anything else. Utility items like shields belts or jump packs are acceptable.</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>pants at most</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.description>Women should cover their groin, but may not cover anything else. Utility items like shields belts or jump packs are acceptable.</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
+  <Nudity_Male_NoRules.label>no rules</Nudity_Male_NoRules.label>
+  <Nudity_Male_NoRules.description>A man may display or cover any part of his body.</Nudity_Male_NoRules.description>
+  <Nudity_Female_NoRules.label>no rules</Nudity_Female_NoRules.label>
+  <Nudity_Female_NoRules.description>A woman may display or cover any part of her body.</Nudity_Female_NoRules.description>
+  <Nudity_Male_UncoveredGroinDisapproved.label>pants</Nudity_Male_UncoveredGroinDisapproved.label>
+  <Nudity_Male_UncoveredGroinDisapproved.description>Men must cover their groin. The rest of the body may be covered, or not.</Nudity_Male_UncoveredGroinDisapproved.description>
+  <Nudity_Female_UncoveredGroinDisapproved.label>pants</Nudity_Female_UncoveredGroinDisapproved.label>
+  <Nudity_Female_UncoveredGroinDisapproved.description>Women must cover their groin. The rest of the body may be covered, or not.</Nudity_Female_UncoveredGroinDisapproved.description>
+  <Nudity_Male_UncoveredGroinOrChestDisapproved.label>pants and shirt</Nudity_Male_UncoveredGroinOrChestDisapproved.label>
+  <Nudity_Male_UncoveredGroinOrChestDisapproved.description>Men must cover their groin and chest. The rest of the body may be covered, or not.</Nudity_Male_UncoveredGroinOrChestDisapproved.description>
+  <Nudity_Female_UncoveredGroinOrChestDisapproved.label>pants and shirt</Nudity_Female_UncoveredGroinOrChestDisapproved.label>
+  <Nudity_Female_UncoveredGroinOrChestDisapproved.description>Women must cover their groin and chest. The rest of the body may be covered, or not.</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
+  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>pants, shirt, and hat</Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>
+  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>Men must cover their entire body and hair. The face may be covered, or not.</Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>
+  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>pants, shirt, and hat</Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>
+  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>Women must cover their entire body and hair. The face may be covered, or not.</Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>
+  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>totally covered</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>
+  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>Men must cover their entire body, including their hair and face.</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>totally covered</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>
+  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>Women must cover their entire body, including their hair and face.</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <OrganUse_Abhorrent.label>totally abhorrent</OrganUse_Abhorrent.label>
+  <OrganUse_Abhorrent.description>Any harvesting, trading, or installing natural organs is an abhorrent evil.</OrganUse_Abhorrent.description>
+  <OrganUse_Abhorrent.comps.2.description>Someone harvested an organ</OrganUse_Abhorrent.comps.2.description>
+  <OrganUse_Abhorrent.comps.5.description>Someone traded an organ</OrganUse_Abhorrent.comps.5.description>
+  <OrganUse_Abhorrent.comps.8.description>Someone installed an organ</OrganUse_Abhorrent.comps.8.description>
+  <OrganUse_HorribleNoSell.label>no harvest or sell</OrganUse_HorribleNoSell.label>
+  <OrganUse_HorribleNoSell.description>Harvesting organs is a horrible thing. Selling any natural organ is pretty bad too. However, it's okay to buy and install them.</OrganUse_HorribleNoSell.description>
+  <OrganUse_HorribleNoSell.comps.2.description>Someone harvested an organ</OrganUse_HorribleNoSell.comps.2.description>
+  <OrganUse_HorribleNoSell.comps.4.description>Someone sold an organ</OrganUse_HorribleNoSell.comps.4.description>
+  <OrganUse_HorribleSellOK.label>no harvest</OrganUse_HorribleSellOK.label>
+  <OrganUse_HorribleSellOK.description>Harvesting organs is a horrible thing. However, it's okay to buy, install, or sell them.</OrganUse_HorribleSellOK.description>
+  <OrganUse_HorribleSellOK.comps.2.description>Someone harvested an organ</OrganUse_HorribleSellOK.comps.2.description>
+  <OrganUse_Acceptable.label>acceptable</OrganUse_Acceptable.label>
+  <OrganUse_Acceptable.description>It's okay to harvest, buy, install, or sell organs.</OrganUse_Acceptable.description>
+  <Pain_Idealized.label>idealized</Pain_Idealized.label>
+  <Pain_Idealized.description>To experience nerve-singing pain is a mark of morality.</Pain_Idealized.description>
+  <Pain_Idealized.comps.0.description>Pain</Pain_Idealized.comps.0.description>
+  <Execution_Abhorrent.label>always abhorrent</Execution_Abhorrent.label>
+  <Execution_Abhorrent.description>Executing a prisoner is an abhorrent evil under any circumstances.</Execution_Abhorrent.description>
+  <Execution_Abhorrent.comps.2.description>Executed prisoner</Execution_Abhorrent.comps.2.description>
+  <Execution_Abhorrent.comps.3.description>Responsible for prisoner death</Execution_Abhorrent.comps.3.description>
+  <Execution_Abhorrent.comps.4.description>Someone executed a colonist</Execution_Abhorrent.comps.4.description>
+  <Execution_Abhorrent.comps.5.description>Someone executed a guest</Execution_Abhorrent.comps.5.description>
+  <Execution_Abhorrent.comps.6.description>Someone executed a prisoner</Execution_Abhorrent.comps.6.description>
+  <Execution_Horrible.label>always horrible</Execution_Horrible.label>
+  <Execution_Horrible.description>Executing a prisoner is a horrible thing under any circumstances.</Execution_Horrible.description>
+  <Execution_Horrible.comps.2.description>Executed prisoner</Execution_Horrible.comps.2.description>
+  <Execution_Horrible.comps.3.description>Responsible for prisoner death</Execution_Horrible.comps.3.description>
+  <Execution_Horrible.comps.5.description>Someone executed a colonist</Execution_Horrible.comps.5.description>
+  <Execution_Horrible.comps.6.description>Someone executed a guest</Execution_Horrible.comps.6.description>
+  <Execution_Horrible.comps.7.description>Someone executed a prisoner</Execution_Horrible.comps.7.description>
+  <Execution_HorribleIfInnocent.label>horrible if innocent</Execution_HorribleIfInnocent.label>
+  <Execution_HorribleIfInnocent.description>Executing an innocent prisoner is a horrible thing. If the prisoner is guilty, it's acceptable.</Execution_HorribleIfInnocent.description>
+  <Execution_HorribleIfInnocent.comps.2.description>Executed innocent prisoner</Execution_HorribleIfInnocent.comps.2.description>
+  <Execution_HorribleIfInnocent.comps.3.description>Responsible for innocent prisoner death</Execution_HorribleIfInnocent.comps.3.description>
+  <Execution_HorribleIfInnocent.comps.5.description>Someone executed a colonist</Execution_HorribleIfInnocent.comps.5.description>
+  <Execution_HorribleIfInnocent.comps.6.description>Someone executed a guest</Execution_HorribleIfInnocent.comps.6.description>
+  <Execution_HorribleIfInnocent.comps.7.description>Someone executed a prisoner</Execution_HorribleIfInnocent.comps.7.description>
+  <Execution_DontCare.label>don't care</Execution_DontCare.label>
+  <Execution_DontCare.description>Executing prisoners is acceptable, whether they are guilty or innocent.</Execution_DontCare.description>
+  <Execution_RespectedIfGuilty.label>respected if guilty</Execution_RespectedIfGuilty.label>
+  <Execution_RespectedIfGuilty.description>Executing prisoners is acceptable. If the prisoner is guilty, it is cause for great happiness.</Execution_RespectedIfGuilty.description>
+  <Execution_Required.label>required</Execution_Required.label>
+  <Execution_Required.description>Prisoners must be executed on a regular basis. When they are, it is a happy occasion.</Execution_Required.description>
+  <Execution_Required.comps.2.description>Executed prisoner</Execution_Required.comps.2.description>
+  <Execution_Required.comps.3.description>Responsible for prisoner death</Execution_Required.comps.3.description>
+  <Execution_Required.comps.4.description>Someone executed a prisoner</Execution_Required.comps.4.description>
+  <Execution_Required.comps.5.description>Someone executed a guest</Execution_Required.comps.5.description>
+  <Execution_Required.comps.6.description>No execution for {MINDAYSLASTEXECUTION} days</Execution_Required.comps.6.description>
+  <Proselytizing_Occasionally.label>occasional</Proselytizing_Occasionally.label>
+  <Proselytizing_Occasionally.description>Those who know the truth should try to bring it to others, when it seems appropriate.</Proselytizing_Occasionally.description>
+  <Proselytizing_Sometimes.label>sometimes</Proselytizing_Sometimes.label>
+  <Proselytizing_Sometimes.description>Those who know the truth should bring it to others at every opportunity.</Proselytizing_Sometimes.description>
+  <Proselytizing_Frequently.label>frequent</Proselytizing_Frequently.label>
+  <Proselytizing_Frequently.description>Those who know the truth have a duty to always spread it and drive out other beliefs.</Proselytizing_Frequently.description>
+  <Raiding_Respected.label>respected</Raiding_Respected.label>
+  <Raiding_Respected.description>We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame.</Raiding_Respected.description>
+  <Raiding_Required.label>required</Raiding_Required.label>
+  <Raiding_Required.description>We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame.</Raiding_Required.description>
+  <Ranching_Central.label>central</Ranching_Central.label>
+  <Ranching_Central.description>We must raise and consume many large animals, and we must not eat plants.</Ranching_Central.description>
+  <Ranching_Central.comps.2.description>No slaughter for {ANIMALSLAUGHTERREQUIREDINTERVAL} days</Ranching_Central.comps.2.description>
+  <IdeoRelic.label>relic</IdeoRelic.label>
+  <IdeoRelic.description>A relic of ideoligious significance.</IdeoRelic.description>
+  <Research_None.label>not allowed</Research_None.label>
+  <Research_None.description>To research technology is an immoral act. It is not to be done.</Research_None.description>
+  <Research_ExtremelySlow.label>extremely slow</Research_ExtremelySlow.label>
+  <Research_ExtremelySlow.description>Research isn't a worthwhile activity at all. Why try hard at it?</Research_ExtremelySlow.description>
+  <Research_VerySlow.label>very slow</Research_VerySlow.label>
+  <Research_VerySlow.description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</Research_VerySlow.description>
+  <Research_Slow.label>slow</Research_Slow.label>
+  <Research_Slow.description>Research work just isn't particularly meaningful. Why try hard at it?</Research_Slow.description>
+  <Research_Normal.label>normal</Research_Normal.label>
+  <Research_Normal.description>Research is a worthwhile form of work that the community needs.</Research_Normal.description>
+  <Research_Fast.label>fast</Research_Fast.label>
+  <Research_Fast.description>Research is an especially virtuous activity.</Research_Fast.description>
+  <Research_VeryFast.label>very fast</Research_VeryFast.label>
+  <Research_VeryFast.description>Research is among the most meaningful acts a person can perform.</Research_VeryFast.description>
+  <Funeral.description>A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals.</Funeral.description>
+  <Funeral.label>funeral</Funeral.label>
+  <FuneralNoCorpse.description>A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals.</FuneralNoCorpse.description>
+  <FuneralNoCorpse.label>funeral (no corpse)</FuneralNoCorpse.label>
+  <Festival.description>A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while.</Festival.description>
+  <Festival.label>social festival</Festival.label>
+  <DateRitualConsumable.description>A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while.</DateRitualConsumable.description>
+  <DateRitualConsumable.label>christmas tree party</DateRitualConsumable.label>
+  <LeaderSpeech.label>leader speech</LeaderSpeech.label>
+  <LeaderSpeech.description>A rousing speech intended to improve morale. Colonists will gather, and the leader will speak for a few hours. If all goes well, listeners will feel inspired, and gain respect for the leader. If it goes poorly, the speech will do social damage.</LeaderSpeech.description>
+  <Trial.label>trial</Trial.label>
+  <Trial.description>A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilites of the accused and accuser, and the number of spectators.</Trial.description>
+  <TrialPrisoner.label>trial</TrialPrisoner.label>
+  <TrialPrisoner.description>A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilites of the accused and accuser, and the number of spectators.</TrialPrisoner.description>
+  <Conversion.label>conversion ritual</Conversion.label>
+  <Conversion.description>Try to persuade someone into joining your ideoligion.</Conversion.description>
+  <ScarificationCeremony.label>scarification</ScarificationCeremony.label>
+  <ScarificationCeremony.description>A ritualistic scarring where a cutter carves ideoligious symbols into a target. The audience will watch as the cutter gives a speech, performs the cutting, then says some finishing words.</ScarificationCeremony.description>
+  <BlindingCeremony.label>blinding</BlindingCeremony.label>
+  <BlindingCeremony.description>A cutter will ritualistically blind a target. The audience will watch as the cutter gives a speech, cuts out both of the target's eyes, and says some closing words. The target will be left bleeding and need immediate medical care.</BlindingCeremony.description>
+  <TrialMentalState.label>trial</TrialMentalState.label>
+  <TrialMentalState.description>A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilites of the accused and accuser, and the number of spectators.</TrialMentalState.description>
+  <TreeConnection.label>tree connection ritual</TreeConnection.label>
+  <TreeConnection.description>A connector will connect with a Gauranlen tree. The connector will touch the Gauranlen tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual.</TreeConnection.description>
+  <Execution.label>public execution</Execution.label>
+  <Execution.description>An executioner will publicly execute a prisoner. The executioner will give a short speech, execute the prisoner by cutting, and say some closing words. Spectating slaves will become afraid and intimidated, and colonists will feel exhilarated or disgusted depending on their beliefs.</Execution.description>
+  <GladiatorDuel.label>gladiator duel</GladiatorDuel.label>
+  <GladiatorDuel.description>A duel between prisoners or slaves. The organizer will give a speech to excite the crowd, then the duelists will fight until one of them falls or time runs out. If weapons are in the arena, the duelists will pick up and use them.</GladiatorDuel.description>
+  <IdeoRitualSeat.label>ritual seat</IdeoRitualSeat.label>
+  <IdeoRitualSeat.description>A building of ideoligious significance. Believers sit or kneel on this while watching rituals.</IdeoRitualSeat.description>
+  <IdeoRole_Moralist.label>moral guide</IdeoRole_Moralist.label>
+  <IdeoRole_Moralist.description>A moral/spiritual leader who heads rituals and personally counsels believers.</IdeoRole_Moralist.description>
+  <IdeoRole_Leader.label>leader</IdeoRole_Leader.label>
+  <IdeoRole_Leader.description>A leader who holds the group together and represents your faction in diplomatic interactions.</IdeoRole_Leader.description>
+  <IdeoRole_ShootingSpecialist.label>shooting specialist</IdeoRole_ShootingSpecialist.label>
+  <IdeoRole_ShootingSpecialist.description>A special ideoligious status focusing on ranged combat to the exclusion of all else. This specialized role gives increased accuracy and the ability to boost the shooting abilites of nearby allies. Holders of this role will refuse to do many kinds of non-shooting-related work.</IdeoRole_ShootingSpecialist.description>
+  <IdeoRole_MeleeSpecialist.label>melee specialist</IdeoRole_MeleeSpecialist.label>
+  <IdeoRole_MeleeSpecialist.description>A special ideoligious status focusing on melee combat to the exclusion of all else. This specialized role gives increased dodge and hit chance in melee combat and ability to the boost melee abilites for nearby allies. Holders of this role will refuse to do many kinds of non-melee-related work.</IdeoRole_MeleeSpecialist.description>
+  <IdeoRole_ResearchSpecialist.label>research specialist</IdeoRole_ResearchSpecialist.label>
+  <IdeoRole_ResearchSpecialist.description>A special ideoligious status focusing on research to the exclusion of all else. This specialized role gives increased research and hacking speed, and the ability to boost research abilities of nearby allies. Holders of this role will refuse to perform some non-research tasks.</IdeoRole_ResearchSpecialist.description>
+  <IdeoRole_PlantSpecialist.label>plants specialist</IdeoRole_PlantSpecialist.label>
+  <IdeoRole_PlantSpecialist.description>A special ideoligious status focusing on planting to the exclusion of all else. This specialized role gives increased sowing and harvesting efficiency, and the ability to boost the farming speed of nearby allies. Holders of this role will refuse to perform some non-plants-related work.</IdeoRole_PlantSpecialist.description>
+  <IdeoRole_ProductionSpecialist.label>production specialist</IdeoRole_ProductionSpecialist.label>
+  <IdeoRole_ProductionSpecialist.description>A special ideoligious status focusing on crafting and construction to the exclusion of all else. This specialized role gives increased crafting and construction efficiency, and the ability to boost the production abilities of nearby allies. Holders of this role will refuse to do some non-production work.</IdeoRole_ProductionSpecialist.description>
+  <IdeoRole_MiningSpecialist.label>mining specialist</IdeoRole_MiningSpecialist.label>
+  <IdeoRole_MiningSpecialist.description>A special ideoligious status focusing on mining to the exclusion of all else. This specialized role gives increased mining speed, and the ability to boost the mining speed of nearby allies. Holders of this role will refuse to do some non-mining work.</IdeoRole_MiningSpecialist.description>
+  <IdeoRole_AnimalsSpecialist.label>Animals specialist</IdeoRole_AnimalsSpecialist.label>
+  <IdeoRole_AnimalsSpecialist.description>A special ideoligious status focusing on animals to the exclusion of all else. This specialized role gives increased taming and training efficiency, and the ability to boost the animals-related abilities of nearby allies. Holders of this role will refuse to perform some non-animals-related tasks.</IdeoRole_AnimalsSpecialist.description>
+  <IdeoRole_MedicalSpecialist.label>medical specialist</IdeoRole_MedicalSpecialist.label>
+  <IdeoRole_MedicalSpecialist.description>A special ideoligious status focusing on medicine to the exclusion of all else. This specialized role gives improved surgery and tending efficiency, and the ability to boost the medical abilities of nearby allies. Believers who receive care from one of this role will be happy about it. Holders of this role will refuse to perform some non-medical tasks.</IdeoRole_MedicalSpecialist.description>
+  <Scarification_Extreme.label>extreme</Scarification_Extreme.label>
+  <Scarification_Extreme.description>Every person ought to bear the ritual scars - all over.</Scarification_Extreme.description>
+  <Scarification_Heavy.label>heavy</Scarification_Heavy.label>
+  <Scarification_Heavy.description>Every person ought to bear the ritual scars - many of them.</Scarification_Heavy.description>
+  <Scarification_Minor.label>minor</Scarification_Minor.label>
+  <Scarification_Minor.description>Every person ought to bear a ritual scar.</Scarification_Minor.description>
+  <Scarification_Horrible.label>horrible</Scarification_Horrible.label>
+  <Scarification_Horrible.description>Scarifying people for ideoligious reasons is horrible.</Scarification_Horrible.description>
+  <Scarification_Horrible.comps.0.description>someone got scarified</Scarification_Horrible.comps.0.description>
+  <Skullspike_Desired.label>desired</Skullspike_Desired.label>
+  <Skullspike_Desired.description>A skull on a spike symbolizes our superiority.</Skullspike_Desired.description>
+  <Skullspike_Desired.comps.0.description>Skullspike sight</Skullspike_Desired.comps.0.description>
+  <Skullspike_Disapproved.label>disapproved</Skullspike_Disapproved.label>
+  <Skullspike_Disapproved.description>Putting skulls on spikes is a barbaric practice.</Skullspike_Disapproved.description>
+  <Skullspike_Disapproved.comps.0.description>Skullspike sight</Skullspike_Disapproved.comps.0.description>
+  <Slavery_Abhorrent.label>abhorrent</Slavery_Abhorrent.label>
+  <Slavery_Abhorrent.description>Owning or trading human beings is deeply evil.</Slavery_Abhorrent.description>
+  <Slavery_Abhorrent.comps.0.description>Each slave in colony</Slavery_Abhorrent.comps.0.description>
+  <Slavery_Abhorrent.comps.5.description>Someone sold a slave</Slavery_Abhorrent.comps.5.description>
+  <Slavery_Horrible.label>horrible</Slavery_Horrible.label>
+  <Slavery_Horrible.description>Owning or trading human beings is a horrible thing.</Slavery_Horrible.description>
+  <Slavery_Horrible.comps.0.description>Each slave in colony</Slavery_Horrible.comps.0.description>
+  <Slavery_Horrible.comps.5.description>Someone sold a slave</Slavery_Horrible.comps.5.description>
+  <Slavery_Horrible.comps.6.description>Someone enslaved a prisoner</Slavery_Horrible.comps.6.description>
+  <Slavery_Disapproved.label>disapproved</Slavery_Disapproved.label>
+  <Slavery_Disapproved.description>Slavery is part of life, though it is extremely distasteful.</Slavery_Disapproved.description>
+  <Slavery_Disapproved.comps.0.description>Each slave in colony</Slavery_Disapproved.comps.0.description>
+  <Slavery_Disapproved.comps.5.description>Someone sold a slave</Slavery_Disapproved.comps.5.description>
+  <Slavery_Disapproved.comps.6.description>Someone enslaved a prisoner</Slavery_Disapproved.comps.6.description>
+  <Slavery_Acceptable.label>acceptable</Slavery_Acceptable.label>
+  <Slavery_Acceptable.description>Slavery is a normal, unremarkable part of life.</Slavery_Acceptable.description>
+  <Slavery_Honorable.label>honorable</Slavery_Honorable.label>
+  <Slavery_Honorable.description>One who owns and trades slaves should be honored and respected.</Slavery_Honorable.description>
+  <Slavery_Honorable.comps.0.description>Each slave in colony</Slavery_Honorable.comps.0.description>
+  <Slavery_Honorable.comps.6.description>Someone sold a slave</Slavery_Honorable.comps.6.description>
+  <Slavery_Honorable.comps.7.description>Someone enslaved a prisoner</Slavery_Honorable.comps.7.description>
+  <SmallSpaces_Acceptable.label>don't care</SmallSpaces_Acceptable.label>
+  <SmallSpaces_Acceptable.description>There's nothing bothersome about being in tight quarters.</SmallSpaces_Acceptable.description>
+  <SpouseCount_Male_MaxTwo.label>two or fewer</SpouseCount_Male_MaxTwo.label>
+  <SpouseCount_Male_MaxTwo.description>Men may have up to two spouses.</SpouseCount_Male_MaxTwo.description>
+  <SpouseCount_Female_MaxTwo.label>two or fewer</SpouseCount_Female_MaxTwo.label>
+  <SpouseCount_Female_MaxTwo.description>Women may have up to two spouses.</SpouseCount_Female_MaxTwo.description>
+  <SpouseCount_Male_MaxThree.label>three or fewer</SpouseCount_Male_MaxThree.label>
+  <SpouseCount_Male_MaxThree.description>Men may have up to three spouses.</SpouseCount_Male_MaxThree.description>
+  <SpouseCount_Female_MaxThree.label>three or fewer</SpouseCount_Female_MaxThree.label>
+  <SpouseCount_Female_MaxThree.description>Women may have up to three spouses.</SpouseCount_Female_MaxThree.description>
+  <SpouseCount_Male_MaxFour.label>four or fewer</SpouseCount_Male_MaxFour.label>
+  <SpouseCount_Male_MaxFour.description>Men may have up to four spouses.</SpouseCount_Male_MaxFour.description>
+  <SpouseCount_Female_MaxFour.label>four or fewer</SpouseCount_Female_MaxFour.label>
+  <SpouseCount_Female_MaxFour.description>Women may have up to four spouses.</SpouseCount_Female_MaxFour.description>
+  <SpouseCount_Male_Unlimited.description>Men may have as many spouses as they like.</SpouseCount_Male_Unlimited.description>
+  <SpouseCount_Male_Unlimited.label>unlimited</SpouseCount_Male_Unlimited.label>
+  <SpouseCount_Female_Unlimited.description>Women may have as many spouses as they like.</SpouseCount_Female_Unlimited.description>
+  <SpouseCount_Female_Unlimited.label>unlimited</SpouseCount_Female_Unlimited.label>
+  <SleepAccelerator_Preferred.label>preferred</SleepAccelerator_Preferred.label>
+  <SleepAccelerator_Preferred.description>One should always use a sleep accelerator. Slow-sleeping is just foolishly wasting your potential.</SleepAccelerator_Preferred.description>
+  <NeuralSupercharge_Preferred.label>preferred</NeuralSupercharge_Preferred.label>
+  <NeuralSupercharge_Preferred.description>Having a neural supercharge is the new standard. Without it, you're obsolete.</NeuralSupercharge_Preferred.description>
+  <Biosculpting_Accelerated.label>Accelerated</Biosculpting_Accelerated.label>
+  <Biosculpting_Accelerated.description>All biosculpting cycles take half the usual time.</Biosculpting_Accelerated.description>
+  <AgeReversal_Demanded.label>Demanded</AgeReversal_Demanded.label>
+  <AgeReversal_Demanded.description>Why get old? One must have a once-yearly age reversal treatment in the biosculpter pod.</AgeReversal_Demanded.description>
+  <BioSculpter_Despised.label>despised</BioSculpter_Despised.label>
+  <BioSculpter_Despised.description>Biosculpter pods violate the purity human flesh and should never be used.</BioSculpter_Despised.description>
+  <TreeCutting_Prohibited.label>prohibited</TreeCutting_Prohibited.label>
+  <TreeCutting_Prohibited.description>To violate the forest by cutting down a tree is a deeply abhorrent act and should never be done.</TreeCutting_Prohibited.description>
+  <TreeCutting_Prohibited.comps.2.description>Someone cut down a tree</TreeCutting_Prohibited.comps.2.description>
+  <TreeCutting_Horrible.label>horrible</TreeCutting_Horrible.label>
+  <TreeCutting_Horrible.description>To cut down a tree is a horrible act.</TreeCutting_Horrible.description>
+  <TreeCutting_Horrible.comps.2.description>Someone cut down a tree</TreeCutting_Horrible.comps.2.description>
+  <TreeCutting_Disapproved.label>disapproved</TreeCutting_Disapproved.label>
+  <TreeCutting_Disapproved.description>To cut down a tree is a distasteful thing to do.</TreeCutting_Disapproved.description>
+  <TreeCutting_Disapproved.comps.2.description>Someone cut down a tree</TreeCutting_Disapproved.comps.2.description>
+  <Trees_Desired.label>desired</Trees_Desired.label>
+  <Trees_Desired.description>It's essential to live surrounded by beautiful trees.</Trees_Desired.description>
+  <GauranlenConnection_Strong.label>strong</GauranlenConnection_Strong.label>
+  <GauranlenConnection_Strong.description>We have a special connection with the Gauranlen trees. The trees refocus production easily under our influence, and we are not satisfied unless we have that connection.</GauranlenConnection_Strong.description>
+  <NobleDespisedWeapons.label>noble and despised</NobleDespisedWeapons.label>
+  <NobleDespisedWeapons.description>We have preferences on which weapons should or should not be used in combat.</NobleDespisedWeapons.description>
+  <NobleDespisedWeapons.comps.0.description>Victory by noble weapon</NobleDespisedWeapons.comps.0.description>
+  <NobleDespisedWeapons.comps.1.description>Used despised weapon</NobleDespisedWeapons.comps.1.description>
+  <WorkDrive_Tripled.label>tripled</WorkDrive_Tripled.label>
+  <WorkDrive_Tripled.description>The duration of the leader's work drive ability is tripled.</WorkDrive_Tripled.description>
+</LanguageData>
