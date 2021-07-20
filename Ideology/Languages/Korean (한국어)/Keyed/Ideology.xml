@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NeedSlaveBeds>Need slave beds</NeedSlaveBeds>
+  <NeedSlaveBedsDesc>You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedSlaveBedsDesc>
+  <SlavesUnsuppressedLabel>Slave unsuppressed</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedDesc>{0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling.</SlavesUnsuppressedDesc>
+  <SlaveUnattendedLabel>Slave unattended</SlaveUnattendedLabel>
+  <SlaveUnattendedMultipleLabel>Slaves unattended</SlaveUnattendedMultipleLabel>
+  <SlavesUnattendedDesc>Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours.</SlavesUnattendedDesc>
+  <RitualExpected>{0} expected</RitualExpected>
+  <RitualExpectedFor>{0} expected for</RitualExpectedFor>
+  <RitualExpirationTime>{0} days: Ritual opportunity ends.</RitualExpirationTime>
+  <RitualExpiresIn>Expires in</RitualExpiresIn>
+  <RitualCompletionEffects>Completing {RITUAL_labelDef} will have these effects</RitualCompletionEffects>
+  <RitualTargetsExplanation>To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1}</RitualTargetsExplanation>
+  <RitualRolesExplanation>Following roles have a part in {RITUAL_label}:\n{1}</RitualRolesExplanation>
+  <RitualJumpToTargets>Click to jump to targets</RitualJumpToTargets>
+  <RitualObligationDelayEffects>Delaying {RITUAL_labelDef} will have following effects</RitualObligationDelayEffects>
+  <RitualObligationDelayEffectDesc>{0} days: {1} mood on all {2}s.</RitualObligationDelayEffectDesc>
+  <RitualUnfilledRoles>In order to perform {0} you need to fill these roles</RitualUnfilledRoles>
+  <IdeoBuildingMissing>{0} desired</IdeoBuildingMissing>
+  <IdeoBuildingMissingDesc>{1} requires that you have a {0} in your colony as long as {2} or higher.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingRoomRequirementsDesc>In order to dignify {0}, these room requirements must be met</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingExpectations>expectations are</IdeoBuildingExpectations>
+  <IdeoBuildingDisrespected>{0} disrespected</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespectedDesc>{0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3}</IdeoBuildingDisrespectedDesc>
+  <QuestPartRaidsDelay>Raids arriving in {0}</QuestPartRaidsDelay>
+  <QuestPartRaidsDelayDesc>Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data.</QuestPartRaidsDelayDesc>
+  <IdeoRoleEmpty>{0} role unfilled</IdeoRoleEmpty>
+  <IdeoRolesEmpty>{0} roles unfilled</IdeoRolesEmpty>
+  <IdeoRolesEmptyDesc>These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy</IdeoRolesEmptyDesc>
+  <AncientAltarThreatsWaking>Security threats activated in {0}</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWakingDesc>Security threats will activate in {0}. They will attack any who may threaten the relic.</AncientAltarThreatsWakingDesc>
+  <AlertNoRecentSlaughter>No recent slaughter</AlertNoRecentSlaughter>
+  <AlertNoRecentSlaughterDesc>No large {0} animal has been slaughtered recently. This is a requirement of the following ideoligions</AlertNoRecentSlaughterDesc>
+  <BodySizeOrAbove>{0} body size or above</BodySizeOrAbove>
+  <AlertNoRecentSlaughterDescPost>If no slaughter is performed, these colonists will remain unhappy</AlertNoRecentSlaughterDescPost>
+  <AlertRitualComing>Ritual opportunity soon</AlertRitualComing>
+  <AlertRitualComingDesc>A ritual opportunity is coming soon for following rituals</AlertRitualComingDesc>
+  <AlertRitualComingExtra>Opportunities expire after {0} days, and reoccur on the same day each year.</AlertRitualComingExtra>
+  <AlertRitualComingEntry>{0} on {1}, {2} left</AlertRitualComingEntry>
+  <AlertAgeReversalDemandNear>Age reversal demanded</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandDesc>Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}.</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Next>{PAWN} wants their next treatment in {DURATION}.</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN} wants their first treatment in {DURATION}.</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN}'s treatment is overdue by {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertGauranlenTreeWithoutDryadTypeLabel>Dryad caste not set</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Connector not assigned to plant cutting</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+  <AlertFuelNodeIgniting>Fuel node explodes in {0}</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgnitingDesc>A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires.</AlertFuelNodeIgnitingDesc>
+  <AlertInfestationArriving>Insects arriving in {0}</AlertInfestationArriving>
+  <AlertInfestationArrivingDesc>Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin.</AlertInfestationArrivingDesc>
+  <AlertHostilesWakingUp>{0_pawnsPlural} waking in {1}</AlertHostilesWakingUp>
+  <AlertHostilesWakingUpDesc>One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you.</AlertHostilesWakingUpDesc>
+  <AlertCasketOpening>Cryptosleep caskets opening in {0}</AlertCasketOpening>
+  <AlertCasketOpeningDesc>Cryptosleep caskets containing unknown threats are opening soon.</AlertCasketOpeningDesc>
+  <DesignatorExtractSkull>Extract skull</DesignatorExtractSkull>
+  <DesignatorExtractSkullDesc>Extract the skull from a corpse.</DesignatorExtractSkullDesc>
+  <Add>add</Add>
+  <TradingAnimalProduceBonus>Trading animal products bonus</TradingAnimalProduceBonus>
+  <SlavesSection>Slaves</SlavesSection>
+  <DominantStyle>dominant style</DominantStyle>
+  <Date>Date</Date>
+  <ChooseStructureMemesInfo>Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay.</ChooseStructureMemesInfo>
+  <ChooseNormalMemesInfo>Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others.</ChooseNormalMemesInfo>
+  <NotEnoughMemes>Choose at least {0} meme.</NotEnoughMemes>
+  <TooManyMemes>Choose at most {0} memes.</TooManyMemes>
+  <ChooseStructureMeme>Choose structure.</ChooseStructureMeme>
+  <IncompatibleMemes>{0_label} and {1_label} are incompatible.</IncompatibleMemes>
+  <RoomRequirements>Room requirements</RoomRequirements>
+  <Role>role</Role>
+  <ChooseRole>Assign role</ChooseRole>
+  <NoRoleAssigned>No role assigned</NoRoleAssigned>
+  <ChooseRoleConfirmAssign>You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}.</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssignPostfix>Are you sure?</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} currently holds this role and will be unhappy to lose it.</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it.</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignReplaceLeader>There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset.</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmUnassign>You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}.</ChooseRoleConfirmUnassign>
+  <ChooseRoleListAbilities>{PAWN_labelShort} will gain the following abilities</ChooseRoleListAbilities>
+  <ChooseRoleListApparelDemands>The {ROLE_label} role requires the following apparel</ChooseRoleListApparelDemands>
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} will refuse to do these work types</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleHint>It can sometimes be better to wait until your colony is more established before you assign roles.</ChooseRoleHint>
+  <UnlockedByMeme>Unlocked by</UnlockedByMeme>
+  <MemeUnlocksRoles>Unlocked roles</MemeUnlocksRoles>
+  <MemeUnlocksRituals>Unlocked rituals</MemeUnlocksRituals>
+  <ChooseRoleRequiredWorkTagsDisabled>WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are</ChooseRoleRequiredWorkTagsDisabled>
+  <YourLeaderTradeBonus>Leader bonus</YourLeaderTradeBonus>
+  <CannotNotAddRoleApparelDueToMeme>The meme {MEME} prevents adding apparel requirements to roles.</CannotNotAddRoleApparelDueToMeme>
+  <AbilityIdeoConvertBreakdownLabel>Certainty reduction</AbilityIdeoConvertBreakdownLabel>
+  <AbilityIdeoConvertBreakdownUsingAbility>Using {ABILITY} ability</AbilityIdeoConvertBreakdownUsingAbility>
+  <AbilityIdeoConvertBreakdownConversionPower>{PAWN_labelShort}'s conversion power</AbilityIdeoConvertBreakdownConversionPower>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>{PAWN_labelShort}'s certainty loss factor from {IDEO_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} is {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownTrait>Trait {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} installed relics on map</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownSocialSkill>{PAWN_labelShort}'s social skill</AbilityIdeoConvertBreakdownSocialSkill>
+  <AbilityIdeoConvertBreakdownOpinion>{RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
+  <AbilityIdeoConvertBreakdownPawnIdeo>{PAWN_nameDef}'s ideoligion</AbilityIdeoConvertBreakdownPawnIdeo>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT} trait</AbilityIdeoConvertBreakdownMemeVsTrait>
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} was already counselled recently.</AbilityCantApplyAlreadyCounselled>
+  <CannotAssignBedToSlave>Slave</CannotAssignBedToSlave>
+  <CannotAssignBedToColonist>Colonist</CannotAssignBedToColonist>
+  <AnySlave>Any slave</AnySlave>
+  <NegotiatorWillNotTradeSlaves>Negotiator will not sell people into slavery.</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlavesTip>The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction.</NegotiatorWillNotTradeSlavesTip>
+  <LastHumanMeat>Last human meat</LastHumanMeat>
+  <LastHumanMeatDesc>Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat.</LastHumanMeatDesc>
+  <LastAnimalSlaughter>Last large animal slaughter</LastAnimalSlaughter>
+  <ExectueNeutralFactionSlave>Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}.</ExectueNeutralFactionSlave>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>You must assign at least one non-slave colonist who can walk.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>You must leave at least non-slave colonist who can walk.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+  <StylePawn>Style</StylePawn>
+  <Cancel>Cancel</Cancel>
+  <Hair>hair</Hair>
+  <Beard>beard</Beard>
+  <TattooFace>face tattoo</TattooFace>
+  <TattooBody>body tattoo</TattooBody>
+  <ApparelColor>apparel color</ApparelColor>
+  <ShowHeadgear>Show headgear</ShowHeadgear>
+  <ShowApparel>Show apparel</ShowApparel>
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef} will be unhappy with the following</PawnUnhappyWithStyleItems>
+  <StyleCategoryDescription>Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies.</StyleCategoryDescription>
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style.</StyleCategoryDescStyleDominance>
+  <StyleCategoryDetails>{0} style category affects</StyleCategoryDetails>
+  <OverriddenByStyle>Overriden by {0}</OverriddenByStyle>
+  <IdeoMakesBuildingBuildable>New buildables</IdeoMakesBuildingBuildable>
+  <NoneUsableForPawn>none usable for {PAWN_nameDef}</NoneUsableForPawn>
+  <HairAndBeards>Hair and beards</HairAndBeards>
+  <HairAndBeardsDesc>These settings determine how frequently each style appears on members of this ideoligion.</HairAndBeardsDesc>
+  <Tattoos>Tattoos</Tattoos>
+  <TattoosDesc>These settings determines how frequently each tattoo appears on members of this ideoligion.</TattoosDesc>
+  <StyleItemFrequencyNever>Never</StyleItemFrequencyNever>
+  <StyleItemFrequencyRare>Rare</StyleItemFrequencyRare>
+  <StyleItemFrequencyUncommon>Uncommon</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyNormal>Normal</StyleItemFrequencyNormal>
+  <StyleItemFrequencyCommon>Common</StyleItemFrequencyCommon>
+  <StyleItemFrequencyFrequent>Frequent</StyleItemFrequencyFrequent>
+  <EditAppearanceItems>Edit appearance</EditAppearanceItems>
+  <NumAvailable>{0} in use</NumAvailable>
+  <ExpandAllCategories>Expand all</ExpandAllCategories>
+  <CollapseAllCategories>Collapse all</CollapseAllCategories>
+  <ResetButtonDesc>Resets all style items to their default values.</ResetButtonDesc>
+  <SendShuttleAnyway>Send shuttle anyway</SendShuttleAnyway>
+  <ReLoadShuttle>Re-load shuttle</ReLoadShuttle>
+  <MedGroupEnslavedColonist>Enslaved colonist</MedGroupEnslavedColonist>
+  <ChangeMode>Choose dryad caste</ChangeMode>
+  <RequiredMemes>Required memes</RequiredMemes>
+  <RequiredStage>Required caste</RequiredStage>
+  <MissingRequiredMemes>Missing required memes</MissingRequiredMemes>
+  <MissingRequiredCaste>Missing required caste</MissingRequiredCaste>
+  <AlreadySelected>Already selected</AlreadySelected>
+  <ChooseProductionModeInitialDesc>Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person.</ChooseProductionModeInitialDesc>
+  <ChooseColonistsForIdeoTitle>Choose who to convert to your ideoligion</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoDesc>You may convert people to your primary ideoligion when setting up a new colony.</ChooseColonistsForIdeoDesc>
+  <ChooseThingsForNewColonyTitle>New Colony</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyDesc>Choose which colonists, animals and relics to bring to the new colony.</ChooseThingsForNewColonyDesc>
+  <ChooseThingsDesc>Choose up to {0} {1}.</ChooseThingsDesc>
+  <ChoosePeopleDesc>Choose up to {0} people.</ChoosePeopleDesc>
+  <ChooseOnlySlavesInfo>If you only select slaves, you will play them as colonists in the next colony.</ChooseOnlySlavesInfo>
+  <ConvertToPlayerIdeoligion>Convert</ConvertToPlayerIdeoligion>
+  <RevertToPreviousIdeoligion>Revert</RevertToPreviousIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>Existing follower</ExistingFollowerOfPlayerIdeoligion>
+  <AbandonArchotechStructuresWarningDialog>You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away.</AbandonArchotechStructuresWarningDialog>
+  <ConfirmHackEnenyTerminal>Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}?</ConfirmHackEnenyTerminal>
+  <RelicsSection>Relics</RelicsSection>
+  <StatsReport_Slave>Multiplier for enslaved (low motivation)</StatsReport_Slave>
+  <StatsReport_Terror>Terror offset</StatsReport_Terror>
+  <StatsReport_LeaderOffset>Faction leader bonus</StatsReport_LeaderOffset>
+  <StatsReport_OccupiedCorpseCasket>Contains corpse</StatsReport_OccupiedCorpseCasket>
+  <StatsReport_InstalledRelicConvertPowerFactor>Conversion power bonus on map</StatsReport_InstalledRelicConvertPowerFactor>
+  <StatsReport_RelicAtRitualMoodBonus>Mood bonus for rituals in room</StatsReport_RelicAtRitualMoodBonus>
+  <Stat_Thing_RelicOf_Name>Relic of</Stat_Thing_RelicOf_Name>
+  <Stat_Thing_RelicOf_Desc>The ideology this relic belongs to.</Stat_Thing_RelicOf_Desc>
+  <Stat_Thing_RelatedToIdeos_Name>Related to</Stat_Thing_RelatedToIdeos_Name>
+  <Stat_Thing_RelatedToIdeos_Desc>The ideoligions this thing belongs to.</Stat_Thing_RelatedToIdeos_Desc>
+  <StatsReports_HasRelic>Holding relic</StatsReports_HasRelic>
+  <StatsReport_BlindPsychicSensitivityOffset>Blind bonus</StatsReport_BlindPsychicSensitivityOffset>
+  <Stat_Thing_StyleDominanceCategory>Dominating style</Stat_Thing_StyleDominanceCategory>
+  <Stat_Thing_StyleDominanceCategoryDesc>The style presented by this object. This style may be associated with some ideoligions. Different people respond differently to certain styles, according to their ideoligious beliefs.</Stat_Thing_StyleDominanceCategoryDesc>
+  <Stat_Thing_IdeosSatisfied>Satisfies ideoligions</Stat_Thing_IdeosSatisfied>
+  <Stat_Pawn_DarknessCombatShooting_Name>Darkness shooting accuracy</Stat_Pawn_DarknessCombatShooting_Name>
+  <Stat_Pawn_DarknessCombatShooting_Desc>An offset applied to the chance to hit a target based on the target's light level.</Stat_Pawn_DarknessCombatShooting_Desc>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>Darkness melee dodge chance</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>An offset applied to the melee dodge chance based on the target's light level.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <Stat_Pawn_DarknessMeleeHitChance_Name>Darkness melee hit chance</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>An offset applied to the melee hit chance based on the target's light level.</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <Stat_PawnDarkness_FollowingOffset>The following offsets can be applied</Stat_PawnDarkness_FollowingOffset>
+  <StatsReport_BiosculptingSpeedFactor>Biosculpting speed</StatsReport_BiosculptingSpeedFactor>
+  <IdeoligionForbids>Ideoligion forbids</IdeoligionForbids>
+  <OnlyMembersCanBuild>Only {0}s can build</OnlyMembersCanBuild>
+  <CantStartRitualAlreadyInProgress>{0} is already in progress.</CantStartRitualAlreadyInProgress>
+  <CantStartRitualTargetIsAlreadyInRitual>{0} is already participating in a ritual.</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualRoleNotAssigned>You must assign the role of {0} in order to start this ritual.</CantStartRitualRoleNotAssigned>
+  <CantStartRitualNoConvertee>There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion.</CantStartRitualNoConvertee>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} cannot be {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} must be a {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartNotEnoughSpaceDuel>Not enough space. There must be a clear circle of radius {MINRADIUS}.</CantStartNotEnoughSpaceDuel>
+  <CantStartFuneralForSlave>{0_labelShort} is a slave. Slaves don't get funerals.</CantStartFuneralForSlave>
+  <NoSlaveBed>Need a slave bed that is reachable, not reserved, and in safe temperature.</NoSlaveBed>
+  <ReturnToSlaveBed>Return to slave bed</ReturnToSlaveBed>
+  <NotAllowedForFaction>not allowed for faction</NotAllowedForFaction>
+  <Remove>Remove</Remove>
+  <RemovePrecept>Remove precept</RemovePrecept>
+  <Regenerate>Regenerate</Regenerate>
+  <CannotEdit>Cannot edit</CannotEdit>
+  <NoChoicesAvailable>No choices available</NoChoicesAvailable>
+  <RequiredByMeme>Required by meme {0}</RequiredByMeme>
+  <Required>Required</Required>
+  <StyleCategory>Style category</StyleCategory>
+  <AddStyleCategory>Add style category</AddStyleCategory>
+  <MaxRitualCount>Can't add more than {0} rituals.</MaxRitualCount>
+  <MaxRelicCount>Can't add more than {0} relics.</MaxRelicCount>
+  <MaxMultiRolesCount>can't have more than {0} specialists.</MaxMultiRolesCount>
+  <MaxPreceptCount>max {0}</MaxPreceptCount>
+  <SetTargetGender>Set gender</SetTargetGender>
+  <FactionOrIdeoIncompatible>incompatible</FactionOrIdeoIncompatible>
+  <BodyPartAlreadyCovered>cannot be worn with assigned apparel</BodyPartAlreadyCovered>
+  <NoteRoleApparelRequirementEffects>People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated.</NoteRoleApparelRequirementEffects>
+  <NeuralSuperchargeNotReady>supercharge not ready</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeAlreadyGetting>already getting</NeuralSuperchargeAlreadyGetting>
+  <SetApparelType>Set type</SetApparelType>
+  <ChangeStyle>change style</ChangeStyle>
+  <DeitiesRequired>{0} {DEITYNOUN} required</DeitiesRequired>
+  <Deity>deity</Deity>
+  <RequiresMeme>requires meme</RequiresMeme>
+  <RequiresOneOfMemes>requires one of</RequiresOneOfMemes>
+  <ConflictsWithMeme>conflicts with meme</ConflictsWithMeme>
+  <ConflictsWithMemes>conflicts with memes</ConflictsWithMemes>
+  <IdeoAlreadyHasAltar>can only have one altar/ideogram</IdeoAlreadyHasAltar>
+  <RecolorApparel>recolor apparel</RecolorApparel>
+  <Hack>Hack {0}</Hack>
+  <CannotHack>Cannot hack {0}</CannotHack>
+  <AlreadyHacked>Already hacked</AlreadyHacked>
+  <IncapableOfHacking>Incapable of hacking</IncapableOfHacking>
+  <ToDropSupplies>to drop supplies</ToDropSupplies>
+  <InstallRelic>Install {0}</InstallRelic>
+  <ExtractRelic>Extract {0}</ExtractRelic>
+  <ExtractRelicToInventory>Extract {0} to inventory ({1})</ExtractRelicToInventory>
+  <NoRelicToInstall>No relic to install</NoRelicToInstall>
+  <InstallInReliquary>Install in reliquary</InstallInReliquary>
+  <NoEmptyReliquary>no empty accessible reliquary</NoEmptyReliquary>
+  <NoWardenOfIdeo>No {MEMBERNAME} warden</NoWardenOfIdeo>
+  <RemoveCurrentRole>Remove current role</RemoveCurrentRole>
+  <EnterBiosculpterPod>Enter biosculpter pod</EnterBiosculpterPod>
+  <BiosculpterBiotunedToAnother>Biotuned to someone else.</BiosculpterBiotunedToAnother>
+  <CarryToBiosculpterPod>Carry {PAWN_label} to biosculpter pod ({CYCLE})</CarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>Cannot carry to biosculpter pod</CannotCarryToBiosculpterPod>
+  <NoBiosculpterPod>No available biosculpter pod.</NoBiosculpterPod>
+  <CommandBedSetForSlavesLabel>For slaves</CommandBedSetForSlavesLabel>
+  <CommandBedSetForColonistsLabel>For colonists</CommandBedSetForColonistsLabel>
+  <CommandBedSetForOwnerTypeDesc>Whether beds in this room should be used by colonists, prisoners or slaves.</CommandBedSetForOwnerTypeDesc>
+  <CommandNeuralSuperchargerNoAutoUse>No auto-use</CommandNeuralSuperchargerNoAutoUse>
+  <CommandNeuralSuperchargerNoAutoUseDescription>None of your people will use this neural supercharger automatically.</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerAutoUseWithDesire>Auto-use with desire</CommandNeuralSuperchargerAutoUseWithDesire>
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>Your people may use this neural supercharger automatically, if they want to because of their beliefs.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <CommandNeuralSuperchargerAutoForEveryone>Auto-use for everyone</CommandNeuralSuperchargerAutoForEveryone>
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>All of your people will use this neural supercharger if they get the chance.</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <CommandNeuralSuperchargerAllowGuests>Allow guests</CommandNeuralSuperchargerAllowGuests>
+  <CommandNeuralSuperchargerAllowGuestsDescription>Allow this neural supercharger to be used by temporary faction members.</CommandNeuralSuperchargerAllowGuestsDescription>
+  <CommandSelectConnectedTree>Select connected tree</CommandSelectConnectedTree>
+  <OverridesSomePrecepts>Overrides some precepts related to</OverridesSomePrecepts>
+  <AgreeableMemes>Agrees with memes</AgreeableMemes>
+  <DisagreeableMemes>Conflicts with memes</DisagreeableMemes>
+  <TabSlave>Slave</TabSlave>
+  <SlaveReleaseRelationGainsDesc>The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health.</SlaveReleaseRelationGainsDesc>
+  <SlaveReleasePotentialRelationGains>Relations gain on release</SlaveReleasePotentialRelationGains>
+  <SlaveRebellionMTBDays>Slave rebellion interval</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDaysDescription>The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by mood, health, suppression, proximity to weapons and the presence of colonists on the map.</SlaveRebellionMTBDaysDescription>
+  <Suppression>Suppression</Suppression>
+  <SuppressionDesc>Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel.</SuppressionDesc>
+  <SuppressionFallRate>Suppression fall rate</SuppressionFallRate>
+  <SuppressionFallRateDesc>Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is</SuppressionFallRateDesc>
+  <CannotEmancipate>Cannot emancipate</CannotEmancipate>
+  <CannotImprison>Cannot imprison</CannotImprison>
+  <CurrentSuppression>Current suppression</CurrentSuppression>
+  <Terror>Terror</Terror>
+  <TerrorDescription>Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows</TerrorDescription>
+  <TerrorCurrentThoughts>Recent terrifying observations</TerrorCurrentThoughts>
+  <SuppressionBaseInterval>Base interval</SuppressionBaseInterval>
+  <SuppressionMovingCapacityFactor>Moving capacity</SuppressionMovingCapacityFactor>
+  <SuppressionFactor>Suppression</SuppressionFactor>
+  <SuppressionMoodFactor>Mood</SuppressionMoodFactor>
+  <SuppressionEscapeFactor>Escape route</SuppressionEscapeFactor>
+  <SuppressionWeaponProximityFactor>Weapon proximity</SuppressionWeaponProximityFactor>
+  <SuppressionFinalInterval>Final interval</SuppressionFinalInterval>
+  <SuppressionUnattendedByColonists>Unattended</SuppressionUnattendedByColonists>
+  <WillLevel>Will</WillLevel>
+  <WillLevelDesc>How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved.</WillLevelDesc>
+  <WillFromPawnKind>{0} base will</WillFromPawnKind>
+  <IdeoConversionTarget>Target ideoligion</IdeoConversionTarget>
+  <IdeoConversionTargetDesc>The ideoligion your wardens will attempt to convert this prisoner to.</IdeoConversionTargetDesc>
+  <CertaintyChangePerDay>Change per day due to mood</CertaintyChangePerDay>
+  <MoodChangeRate>Change rate based on mood</MoodChangeRate>
+  <CertaintyInIdeo>{PAWN_nameDef}'s certainty in {IDEO_name}</CertaintyInIdeo>
+  <RoleDesc>A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy.</RoleDesc>
+  <ConversionWeakerDueToTraitAgreements>Conversion attempts will be weaker because of trait/meme agreement</ConversionWeakerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>Conversion attempts will be stronger because of trait/meme conflict</ConversionStrongerDueToTraitAgreements>
+  <Cut>Cut</Cut>
+  <CutBothEyes>Cut both eyes</CutBothEyes>
+  <LetterLabelConvertIdeoAttempt_Success>Conversion</LetterLabelConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} has successfully turned {RECIPIENT_nameDef} away from {OLDIDEO_name} and towards {IDEO_name}.</LetterConvertIdeoAttempt_Success>
+  <LetterLabelGrandSlaveRebellion>Grand slave rebellion</LetterLabelGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>A grand slave rebellion has begun! All of your slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{0}</LetterGrandSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>Local slave rebellion</LetterLabelLocalSlaveRebellion>
+  <LetterLocalSlaveRebellion>A local slave rebellion has begun! {0_nameDef} and some nearby slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{1}</LetterLocalSlaveRebellion>
+  <LetterLabelSingleSlaveRebellion>Slave rebellion</LetterLabelSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>{0_nameDef} is rebelling! {0_pronoun} will seek weapons and try to eliminate your colonists.</LetterSingleSlaveRebellion>
+  <LetterLabelGrandSlaveEscape>Grand slave escape</LetterLabelGrandSlaveEscape>
+  <LetterGrandSlaveEscape>A grand slave escape has begun! All of your slaves are making a break for it.\n\nThese slaves are involved:\n\n{0}</LetterGrandSlaveEscape>
+  <LetterLabelLocalSlaveEscape>Local slave escape</LetterLabelLocalSlaveEscape>
+  <LetterLocalSlaveEscape>A local slave escape has begun! {0_nameDef} and some nearby slaves are making a break for it.\n\nThese slaves are involved:\n\n{1}</LetterLocalSlaveEscape>
+  <LetterLabelSingleSlaveEscape>Slave escape</LetterLabelSingleSlaveEscape>
+  <LetterSingleSlaveEscape>{0_nameDef} is attempting to escape!</LetterSingleSlaveEscape>
+  <SlaveRebellionSuppressionExplanation>Slaves are more likely to rebel when their suppression level is low.</SlaveRebellionSuppressionExplanation>
+  <LetterLabelRoleActive>{0} role activated</LetterLabelRoleActive>
+  <LetterLabelRoleActiveDesc>The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, select a colonist, go to their 'Social' tab and press the 'Choose role' button.</LetterLabelRoleActiveDesc>
+  <LetterLabelRoleInactive>{0} role deactivated</LetterLabelRoleInactive>
+  <LetterLabelRoleInactiveDesc>Number of {0}s in your colony fell to {1}. {ROLE_labelDef} role is no longer active. This role will become available once again when the number of {0}s reaches {2}.</LetterLabelRoleInactiveDesc>
+  <LetterLabelRoleLost>{PAWN_labelShort}'s {ROLE_labelIndef} role lost</LetterLabelRoleLost>
+  <LetterRoleLostDesc>{PAWN_labelShort} no longer holds the role of {ROLE_labelIndef}. Reason:</LetterRoleLostDesc>
+  <LetterRoleLostReasonUnassignedDesc>{PAWN_pronoun} was unassigned.</LetterRoleLostReasonUnassignedDesc>
+  <LetterRoleLostReasonLowBelieversDesc>Role became inactive due to low {0} count.</LetterRoleLostReasonLowBelieversDesc>
+  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterObligationRoleInactive>{0} skipped.</LetterObligationRoleInactive>
+  <LetterObligationRoleInactiveDateDesc>{0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}.</LetterObligationRoleInactiveDateDesc>
+  <LetterSpeechConvertedListeners>{PAWN_pronoun}'s speech converted following people to {IDEO}</LetterSpeechConvertedListeners>
+  <LetterTitleObligationsActivated>{0} rituals activated</LetterTitleObligationsActivated>
+  <LetterTitleObligationsDeactivated>{0} rituals deactivated</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivatedTooFewBelievers>There are now less than {1} {IDEO_memberNamePlural} in your faction. Therefore, the {IDEO_memberNamePlural} will not demand that the rituals of {IDEO} be carried out until there are at least {1} of them in your faction.</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <LetterTitleObligationsActivatedEnoughBelievers>Since there are now {1} {IDEO_memberNamePlural} in your faction, they will demand that the rituals of {IDEO} be carried out.</LetterTitleObligationsActivatedEnoughBelievers>
+  <LetterTitleObligationsActivatedIdeoBecameMajor>Since {IDEO} is now the primary ideoligion of your faction, {IDEO_memberNamePlural} will demand that the rituals of {IDEO} be carried out.</LetterTitleObligationsActivatedIdeoBecameMajor>
+  <LetterBondRemoved>Bond(s) removed</LetterBondRemoved>
+  <LetterBondRemovedDesc>{PAWN_nameDef} has converted to {IDEO}. Since {IDEO} disapproves of bonding with animals, {PAWN_pronoun} has renounced {PAWN_possessive} bonds with the following animals:\n\n{BONDS}</LetterBondRemovedDesc>
+  <LetterLabelEnslavementSuccess>Enslaved</LetterLabelEnslavementSuccess>
+  <LetterEnslavementSuccess>{0_nameDef} successfully enslaved {1_nameDef}.</LetterEnslavementSuccess>
+  <LetterLabelNewPrimaryIdeo>Primary ideoligion changed</LetterLabelNewPrimaryIdeo>
+  <LetterNewPrimaryIdeo>Your faction's primary ideoligion has changed from {OLDIDEO_name} to {NEWIDEO_name}.\n\nThis happened because {NEWIDEO_name} is now more common among your {FACTION_pawnsPlural} than any other ideoligion.\n\nYour primary ideoligion affects relationships with other factions, based on how closely your beliefs align with theirs.</LetterNewPrimaryIdeo>
+  <JoinerCharityInfo>This is a charity incident. If you turn {0} away, believers with charitable beliefs will be unhappy.</JoinerCharityInfo>
+  <AfflictedJoinerChartityInfo>This is a charity incident. If {0} dies without being tended (and after {1}), believers with charitable beliefs will be unhappy. If {0} is tended or recruited, believers will be happy.</AfflictedJoinerChartityInfo>
+  <PawnsHaveCharitableBeliefs>The following believers have charitable beliefs</PawnsHaveCharitableBeliefs>
+  <LetterIdeoChangeConverted>{PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}.</LetterIdeoChangeConverted>
+  <LetterIdeoChangeNotConverted>{PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangedWanderOwnRoom>To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room.</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedSadWander>{PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs.</LetterIdeoChangedSadWander>
+  <LetterIdeoChangedDivorce>Divorce</LetterIdeoChangedDivorce>
+  <LetterIdeoChangedDivorcedPawns>{PAWN_nameDef}'s new beliefs forbid {PAWN_possessive} current number of spouses.\n\n{PAWN_nameDef} has decided to divorce these people:\n{1}</LetterIdeoChangedDivorcedPawns>
+  <LetterLabelSurpriseReinforcements>Surprise reinforcements!</LetterLabelSurpriseReinforcements>
+  <LetterSurpriseReinforcements>Surprise reinforcements from {1} have arrived! They are moving to help {0} from {1}.</LetterSurpriseReinforcements>
+  <LetterWantLookChange>Look change desired</LetterWantLookChange>
+  <LetterWantLookChangeDesc>{PAWN_nameDef} wishes to change {PAWN_possessive} look, as it no longer matches what {PAWN_pronoun} believes.\n\n{PAWN_pronoun} will automatically use an available styling station and choose a look. If you want to customize {PAWN_possessive} look, select {PAWN_objective} and right-click the styling station.</LetterWantLookChangeDesc>
+  <LetterLabelSpacedroneIncoming>Spacedrone incoming</LetterLabelSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>A spacedrone is landing nearby.</LetterTextSpacedroneIncoming>
+  <LetterTextRaidSpacedrone>A raid from {0} has arrived to destroy the {1} that was forced to land nearby.</LetterTextRaidSpacedrone>
+  <LetterTextSpacedroneHacked>You've finished hacking the {0} and learned more about the ancient {1} relic.</LetterTextSpacedroneHacked>
+  <LetterLabelRelicDestroyed>Relic destroyed</LetterLabelRelicDestroyed>
+  <LetterTextRelicDestroyed>{0} has been destroyed!\n\nThe following people will suffer a mood reduction:\n{1}</LetterTextRelicDestroyed>
+  <LetterLabelRelicLost>Relic lost</LetterLabelRelicLost>
+  <LetterTextRelicLost>{0} has been lost!\n\nThe following people will suffer a mood reduction:\n{1}</LetterTextRelicLost>
+  <LetterOnlySlaveCaravanColonistsLeft>All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded.</LetterOnlySlaveCaravanColonistsLeft>
+  <LetterLabelLastHackerLost>Last hacker lost</LetterLabelLastHackerLost>
+  <LetterTextLastHackerLost>The last hacker capable of unlocking the secrets of the ancient complex has been lost. Call reinforcements capable of hacking, or abandon the quest.</LetterTextLastHackerLost>
+  <LetterLabelRelicFound>Relic found</LetterLabelRelicFound>
+  <LetterTextRelicFoundLocation>You've finally learned the location of the relic {0}!</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundSecurityThreats>The relic is housed in an ancient structure. It is protected by a security system with multiple independent units. You may choose to defeat the security forces one unit at a time before taking the relic, or try to grab it and flee before they can harm you.\n\nAfter {0}, all security systems will be alerted.</LetterTextRelicFoundSecurityThreats>
+  <LetterLabelRelicsCollected>Relics collected</LetterLabelRelicsCollected>
+  <LetterTextRelicsCollected>All relics belonging to {0} have been collected. The following people will be delighted</LetterTextRelicsCollected>
+  <LetterLabelPawnConnected>{TREE_label} connection</LetterLabelPawnConnected>
+  <LetterTextPawnConnected>{CONNECTOR_nameDef} has connected with {TREE_definite}.\n\n{TREE_definite} will produce small animals called dryads by growing them in pods at its base. These dryads can specialize into different castes. You can choose which caste of dryads you want the tree to produce.\n\nThe stronger the connection between tree and human, the more dryads {TREE_definite} can sustain. {CONNECTOR_nameDef} can strengthen the connection by pruning {TREE_definite}. Maintaining a higher connection strength requires more frequent pruning.</LetterTextPawnConnected>
+  <LetterLabelConnectedTreeDestroyed>Connected {TREE_label} destroyed</LetterLabelConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>A {TREE_label} connected to {CONNECTEDPAWN_nameDef} has been destroyed, killing the dryad queen housed inside.\n\nWithout a queen, the dryad brood-mind has collapsed. All dryads from that tree have died.</LetterTextConnectedTreeDestroyed>
+  <LetterLabelArchonexusWealthReached>Quest '{0}' available</LetterLabelArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>You have reached the wealth requirement for the quest '{0}'. You can now accept the quest.</LetterTextArchonexusWealthReached>
+  <LetterLabelArchonexusStructureResearched>{0_labelShort} studied</LetterLabelArchonexusStructureResearched>
+  <LetterTextArchonexusStructureResearched>You have completed your study of the {0_labelShort}.\n\nYou can't say that you understand it in any complete way, but you have detected patterns in its behavior and the way it seems to express information.\n\nWith this knowledge, you will be able to interpret the next piece of the archonexus map.</LetterTextArchonexusStructureResearched>
+  <LetterLabelArchotechStructuresAbandoned>Archotech structures abandoned</LetterLabelArchotechStructuresAbandoned>
+  <LetterTextArchotechStructuresAbandoned>You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left.</LetterTextArchotechStructuresAbandoned>
+  <Deities>Deities</Deities>
+  <ButtonShowAllIdeoligions>Show all ideoligions</ButtonShowAllIdeoligions>
+  <IdeoligionOf>Ideoligion of</IdeoligionOf>
+  <Memes>Memes</Memes>
+  <CoreNarrative>Narrative</CoreNarrative>
+  <CoreNarrativeDesc>The core narrative of your ideoligion. This has no gameplay impact.</CoreNarrativeDesc>
+  <EditNarrative>Edit narrative</EditNarrative>
+  <LockButtonDesc>Clicking this button toggles a lock the current ideoligion narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed.</LockButtonDesc>
+  <LockInOn>Narrative lock is currently on. The narrative will not auto-regenerate.</LockInOn>
+  <LockInOff>Narrative lock is currently off. The narrative text can auto-regenerate.</LockInOff>
+  <Precepts>Precepts</Precepts>
+  <Rituals>Rituals</Rituals>
+  <IdeoRoles>Roles</IdeoRoles>
+  <IdeoBuildings>Buildings</IdeoBuildings>
+  <IdeoRelics>Relics</IdeoRelics>
+  <IdeoApparel>Preferred apparel</IdeoApparel>
+  <IdeoApparelDesire>apparel desire</IdeoApparelDesire>
+  <UnwillingToDoIdeoAction>Won't do</UnwillingToDoIdeoAction>
+  <PreceptStats>Stats</PreceptStats>
+  <Prohibitions>Prohibitions</Prohibitions>
+  <Opinions>Opinions</Opinions>
+  <RandomizeName>Randomize name</RandomizeName>
+  <RandomizePrecepts>Randomize precepts</RandomizePrecepts>
+  <AddPrecept>add {0}</AddPrecept>
+  <RandomizeDeities>Randomize deities</RandomizeDeities>
+  <AddDeity>Add deity</AddDeity>
+  <ChooseMemes>Choose memes</ChooseMemes>
+  <ChooseStructure>Choose structure</ChooseStructure>
+  <ChooseCulture>Choose culture</ChooseCulture>
+  <Culture>Culture</Culture>
+  <CultureTip>Culture affects names, appearances, and symbols.</CultureTip>
+  <StructureMeme>Structure</StructureMeme>
+  <StructureMemeTip>An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects.</StructureMemeTip>
+  <Adjective>Adjective</Adjective>
+  <WorshipRoom>Ritual room</WorshipRoom>
+  <IdeoMembers>Member noun</IdeoMembers>
+  <IdeoMembersPlural>Member plural</IdeoMembersPlural>
+  <EditSymbols>Edit symbols</EditSymbols>
+  <EditDeity>Edit deity</EditDeity>
+  <EditApparelRequirement>Edit required apparel</EditApparelRequirement>
+  <EditName>Edit name</EditName>
+  <StartingCondition_Anytime>Any time</StartingCondition_Anytime>
+  <StartingCondition_Date>Date</StartingCondition_Date>
+  <StartingCondition>Starting condition</StartingCondition>
+  <Edit>Edit</Edit>
+  <RandomizeSymbols>Randomize symbols</RandomizeSymbols>
+  <RandomizeSymbolsTooltip>Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts.</RandomizeSymbolsTooltip>
+  <ClickAnyElementToEditIt>Click any element to edit it</ClickAnyElementToEditIt>
+  <ClickToEdit>Click to edit</ClickToEdit>
+  <LeaderTitle>Leader title</LeaderTitle>
+  <DeityName>Deity name</DeityName>
+  <DeityTitle>Deity title</DeityTitle>
+  <DeityGender>Deity gender</DeityGender>
+  <Name>Name</Name>
+  <Icon>Icon</Icon>
+  <RelatedToMeme>Related to meme</RelatedToMeme>
+  <IdeoCharityQuestInfo>This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}).</IdeoCharityQuestInfo>
+  <WorkDisabledSlave>Slaves will not do this work</WorkDisabledSlave>
+  <WorkDisabledRole>Disabled by {0} role</WorkDisabledRole>
+  <AffectedByTraits>Affected by traits</AffectedByTraits>
+  <CharityQuestTip>This is a charity quest. People with charitable beliefs will be affected by its outcome.</CharityQuestTip>
+  <Formerly>formerly</Formerly>
+  <All>all</All>
+  <RelicTip>Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders.</RelicTip>
+  <Animal>animal</Animal>
+  <VeneratedAnimals>Venerated animals</VeneratedAnimals>
+  <IdeoWeapon>weapon pair</IdeoWeapon>
+  <IdeoWeapons>Weapons</IdeoWeapons>
+  <SwapNobleAndDespised>Swap noble and despised</SwapNobleAndDespised>
+  <Noble>noble</Noble>
+  <Despised>despised</Despised>
+  <UnlockedRecipes>Unlocked craftables</UnlockedRecipes>
+  <IdeoStartWithResearch>Start with research</IdeoStartWithResearch>
+  <AgreeableTraits>Agreeing traits</AgreeableTraits>
+  <DisagreeableTraits>Conflicting traits</DisagreeableTraits>
+  <Shooting>Shooting</Shooting>
+  <IdeoImpact>Impact</IdeoImpact>
+  <IdeoImpactOverall>Overall impact</IdeoImpactOverall>
+  <IdeoImpactOverallDesc>Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has.</IdeoImpactOverallDesc>
+  <IdeoMemeImpactLabel_1>low</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_2>medium</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_3>high</IdeoMemeImpactLabel_3>
+  <IdeoImpactLabel_1>low</IdeoImpactLabel_1>
+  <IdeoImpactLabel_2>low</IdeoImpactLabel_2>
+  <IdeoImpactLabel_3>moderate</IdeoImpactLabel_3>
+  <IdeoImpactLabel_4>moderate</IdeoImpactLabel_4>
+  <IdeoImpactLabel_5>strong</IdeoImpactLabel_5>
+  <IdeoImpactLabel_6>strong</IdeoImpactLabel_6>
+  <IdeoImpactLabel_7>very strong</IdeoImpactLabel_7>
+  <IdeoImpactLabel_8>very strong</IdeoImpactLabel_8>
+  <IdeoImpactLabel_9>extreme</IdeoImpactLabel_9>
+  <ResearchProjectHasDefsWithMissingMemes>{0} unlocks things which you cannot build because they require memes that none of your people believe</ResearchProjectHasDefsWithMissingMemes>
+  <SelectedWorkTypeOpposedByIdeo>Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy.</SelectedWorkTypeOpposedByIdeo>
+  <Slave>Slave</Slave>
+  <ChooseNextColonySite>Choose next colony site</ChooseNextColonySite>
+  <MessageMustChooseIdeo>Create or select an ideoligion for your faction.</MessageMustChooseIdeo>
+  <MessageIdeoNameCantBeEmpty>The ideoligion name can't be empty.</MessageIdeoNameCantBeEmpty>
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1} and {PRECEPT2} are incompatible.</MessageIdeoIncompatiblePrecepts>
+  <MessageRitualMissingTarget>{PRECEPT} needs one of these buildings</MessageRitualMissingTarget>
+  <MessageBuildingMissingRitual>{PRECEPT} needs an associated ritual.</MessageBuildingMissingRitual>
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} refuses to do this because of {0_possessive} ideoligion.</MessagePawnUnwillingToDoDueToIdeo>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight!</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageNotEnoughMemes>You must choose at least {0} memes.</MessageNotEnoughMemes>
+  <MessageTooManyMemes>You can't choose more than {0} memes.</MessageTooManyMemes>
+  <MessageNotEnoughStructureMemes>You must choose a structure meme.</MessageNotEnoughStructureMemes>
+  <MessageIncompatibleMemes>{0_label} and {1_label} are incompatible with each other.</MessageIncompatibleMemes>
+  <MessageNoRequiredRolePawnToBeginRitual>You need {0} to start the {1}.</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNeedAssignedRoleToBeginRitual>Before starting the {1}, you must assign someone to the role of {0}.</MessageNeedAssignedRoleToBeginRitual>
+  <MessageRoleAssigned>{0_labelShort} now holds the role of {1}.</MessageRoleAssigned>
+  <MessageRoleUnassignedPrisoner>Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}.</MessageRoleUnassignedPrisoner>
+  <MessageWarningPlayerDesignatedTreeChopped>Warning: {0} will be upset if a tree is cut.</MessageWarningPlayerDesignatedTreeChopped>
+  <MessageWarningPlayerDesignatedMining>Warning: {0} will be upset if mining occurs.</MessageWarningPlayerDesignatedMining>
+  <MessageConnectedPawnDied>The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again.</MessageConnectedPawnDied>
+  <MessageSlaveEmancipated>{0_nameDef} has been emancipated by {1_nameDef}.</MessageSlaveEmancipated>
+  <MessagePrisonerEnslaved>{0_nameDef} has been enslaved by {1_nameDef}.</MessagePrisonerEnslaved>
+  <MessagePrisonerWillBroken>Prisoner {1_nameDef}'s will has been broken by {0_nameDef}.</MessagePrisonerWillBroken>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>Enslavement will follow.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+  <MessageNoWardenCapableOfEnslavement>No warden is capable of this enslavement.</MessageNoWardenCapableOfEnslavement>
+  <MessageNoWardenOfIdeo>You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction".</MessageNoWardenOfIdeo>
+  <MessageCampDetected>You've detected a {CAMP_label} nearby controlled by {FACTION_name}.</MessageCampDetected>
+  <MessageCharityEventRefused>Charity refused</MessageCharityEventRefused>
+  <MessageCharityEventFulfilled>Charity fulfilled</MessageCharityEventFulfilled>
+  <MessageBeggarsLeavingWithNoItems>{0} leaving empty-handed.</MessageBeggarsLeavingWithNoItems>
+  <MessageBeggarsLeavingWithItems>{0} leaving with requested items.</MessageBeggarsLeavingWithItems>
+  <MessageWandererLeftToDie>{0_nameDef} died without any treatment.</MessageWandererLeftToDie>
+  <MessageWandererRecruited>{0_nameDef} was recruited.</MessageWandererRecruited>
+  <MessageWandererLeftHealthy>{0_nameDef} left healthy.</MessageWandererLeftHealthy>
+  <MessageCharityQuestEndedFailed>{0} failed.</MessageCharityQuestEndedFailed>
+  <MessageCharityQuestEndedSuccess>{0} succesfully completed.</MessageCharityQuestEndedSuccess>
+  <CannotRemove>Cannot remove</CannotRemove>
+  <CannotRemoveMemeRequired>Cannot remove {MEME}</CannotRemoveMemeRequired>
+  <CannotRemoveMemeRequiredPlayer>Cannot remove {MEME}: Required by player faction.</CannotRemoveMemeRequiredPlayer>
+  <RequiredByFaction>Required by {FACTION_name}.</RequiredByFaction>
+  <SelfDestructCountdown>{0_label} will self-destruct in {1}.</SelfDestructCountdown>
+  <MessageAncientTerminalDiscovered>You've discovered an ancient terminal with info about the {0}!</MessageAncientTerminalDiscovered>
+  <MessageAncientComplexBackToShuttle>You've discovered secret information about {0}! Get back on the shuttle to launch it.</MessageAncientComplexBackToShuttle>
+  <MessageAncientSignalActivated>An ancient supply satellite has been activated. Supplies will drop nearby.</MessageAncientSignalActivated>
+  <MessageAncientSignalHostileDetected>{0} from the {1} have detected the supply signal and are attacking.</MessageAncientSignalHostileDetected>
+  <MessageAncientAltarThreatsWokenUp>All security systems are waking up!</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsAlerted>All security systems are alerted to your presence.</MessageAncientAltarThreatsAlerted>
+  <MessageAnimalIsVeneratedForAllColonists>Warning: {PAWNKINDLABELPLURAL} are venerated by all {PAWNS}, and will not be harmed.</MessageAnimalIsVeneratedForAllColonists>
+  <MessageNewColonyMax>Select at most {0} {1} to bring to the new colony.</MessageNewColonyMax>
+  <MessageNewColoyRequiresOneColonist>You must select at least 1 colonist.</MessageNewColoyRequiresOneColonist>
+  <MessageFuelNodeTriggered>A {0} has been ignited and is going to explode!</MessageFuelNodeTriggered>
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural} will wake up in {1}.</MessageSleepingThreatDelayActivated>
+  <MessageInfestationDelayActivated>Infestation arriving.</MessageInfestationDelayActivated>
+  <MessageFuelNodeDelayActivated>{0} was disturbed and might explode soon!</MessageFuelNodeDelayActivated>
+  <ChooseIdeoligion>Choose your faction's ideoligion</ChooseIdeoligion>
+  <CreateCustom>Create custom</CreateCustom>
+  <CreateNew>Create new</CreateNew>
+  <CreateCustomIdeoligion>Create custom ideoligion</CreateCustomIdeoligion>
+  <SelectAnIdeo>Select an ideoligion for your faction on the left, or</SelectAnIdeo>
+  <Ideo>ideoligion</Ideo>
+  <RandomizeAll>Randomize all</RandomizeAll>
+  <Appearance>Appearance</Appearance>
+  <DoneButton>Done</DoneButton>
+  <CausedBy>Caused by</CausedBy>
+  <BeliefInIdeo>Belief in</BeliefInIdeo>
+  <Reward_RelicInfo>Information about {0}</Reward_RelicInfo>
+  <Reward_RelicInfoLabel>Info about {0}</Reward_RelicInfoLabel>
+  <RelicOf>Relic of {IDEO_name}</RelicOf>
+  <Altar>altar</Altar>
+  <Base>base</Base>
+  <MinExpectation>min expectation</MinExpectation>
+  <PreceptThoughtMoodRange>{0} to {1}</PreceptThoughtMoodRange>
+  <ComesFromIdeo>Comes from ideo</ComesFromIdeo>
+  <CurrentTotalAnimalBodySizePerColonist>Current total animal bodysize per colonist</CurrentTotalAnimalBodySizePerColonist>
+  <AnimalsBodySizePerColonist>total bodysize per colonist</AnimalsBodySizePerColonist>
+  <VeneratedAnimalsBodySizePerColonist>total nearby bodysize per colonist</VeneratedAnimalsBodySizePerColonist>
+  <MinAnimalBodySizePerColonist>Expecting at least {0} body size per colonist.</MinAnimalBodySizePerColonist>
+  <PlantThing>Plant {0_label}</PlantThing>
+  <PlantThingDesc>Plant a {0_label} in a chosen area.</PlantThingDesc>
+  <CancelPlantThing>Cancel planting {0_label}</CancelPlantThing>
+  <CancelPlantThingDesc>Cancel planting the {0_label}.</CancelPlantThingDesc>
+  <Disables>Disables</Disables>
+  <RequiresOnePrecept>Requires one of precepts</RequiresOnePrecept>
+  <RequiredPrecepts>Required precepts</RequiredPrecepts>
+  <RequiredRituals>Required rituals</RequiredRituals>
+  <DisablesPrecepts>Disables precepts</DisablesPrecepts>
+  <DisablesPreceptsCount>Disables {0} precepts.</DisablesPreceptsCount>
+  <Styles>Styles</Styles>
+  <ChanceToHavePrecept>Chance to have precept</ChanceToHavePrecept>
+  <FavoriteColorTooltip>{PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye.</FavoriteColorTooltip>
+  <SetIdeoColor>Set ideo color</SetIdeoColor>
+  <SetFavoriteColor>Set favorite color</SetFavoriteColor>
+  <ConfigureIdeoligion>Configure your faction's ideoligion</ConfigureIdeoligion>
+  <NotEnoughDye>Not enough dye. The colonist will recolor the apparel when dye becomes available.</NotEnoughDye>
+  <IdeoCertaintyTooltip>{PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE}</IdeoCertaintyTooltip>
+  <DisabledByPrecept>Disabled by precept {0}</DisabledByPrecept>
+  <Everyone>Everyone</Everyone>
+  <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
+  <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
+  <RitualTargetGraveInfoAbstract>A grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
+  <RitualTargetEmptyGraveInfoAbstract>An empty grave to mourn {IDEO_memberNameIndef}'s passing.</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}'s body must be buried first</RitualTargetGraveInfoMustBeBuried>
+  <RitualTargetGatherSpotInfo>Any gathering spot, like a table</RitualTargetGatherSpotInfo>
+  <RitualTargetGatherAltarOrRitualSpotInfo>Altar or any ritual spot.</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetLightBallInfo>A lightball or ritual spot. Lightball and loudspeakers must be powered.</RitualTargetLightBallInfo>
+  <RitualTargetLightBallIsNotPowered>Lightball is not powered.</RitualTargetLightBallIsNotPowered>
+  <RitualTargetNoPoweredSpeakers>No powered speakers.</RitualTargetNoPoweredSpeakers>
+  <RitualTargetCampfireNoFuel>Campfire is not fueled.</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireMustBeUnroofed>Campfire must be unroofed.</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetNoDrum>No nearby drum.</RitualTargetNoDrum>
+  <RitualTargetNeedUnroofedCells>Need at least {0} unroofed cells nearby.</RitualTargetNeedUnroofedCells>
+  <RitualTargetCampfirePartyInfo>A lit campfire or ritual spot.</RitualTargetCampfirePartyInfo>
+  <RitualTargetCampfireSkylanternsInfo>A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area.</RitualTargetCampfireSkylanternsInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>An unconnected Gauranlen tree.</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetConnectedGauranlenTree>Already connected to {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
+  <RitualTargeWoodInfo>You need {0} wood for each participant ({2} total). You have {1} wood.</RitualTargeWoodInfo>
+  <Accuse>Accuse</Accuse>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified.</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnWimp>{PAWN_labelShort} is a wimp and will not like being scarified.</RitualScarificationWarnWimp>
+  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded.</RitualBlindingWarnNonBlindingIdeo>
+  <RitualBlindingWarnWimp>{PAWN_labelShort} is a wimp and will not like being blinded.</RitualBlindingWarnWimp>
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_BlindingPsylink>Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level!</RitualOutcomeExtraDesc_BlindingPsylink>
+  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>With a new pyslink level {PAWN_pronoun} gained a {0} psycast.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+  <RitualOutcomeExtraDesc_ConsumableInspiration>Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
+  <RitualOutcomeExtraDesc_SkylanternWanderers>Your skylanterns have attracted some friendly travelers. They will visit and leave a gift.</RitualOutcomeExtraDesc_SkylanternWanderers>
+  <RitualOutcomeExtraDesc_Execution>All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level.</RitualOutcomeExtraDesc_Execution>
+  <RitualAttachedReward>Additional reward</RitualAttachedReward>
+  <RitualAttachedRewardChoose>Choose</RitualAttachedRewardChoose>
+  <RitualAttachedRewardCantUseWithRitual>Can't use {0} with {1}.</RitualAttachedRewardCantUseWithRitual>
+  <RitualAttachedRewardRequiredMemeAny>Requires any of memes</RitualAttachedRewardRequiredMemeAny>
+  <RitualAttachedRewardRequiredFaction>Requires {0} faction</RitualAttachedRewardRequiredFaction>
+  <RitualAttachedOutcomes_Positive>positive</RitualAttachedOutcomes_Positive>
+  <RitualAttachedOutcomes_Negative>negative</RitualAttachedOutcomes_Negative>
+  <RitualAttachedOutcomesInfo>If the {0} is {1}</RitualAttachedOutcomesInfo>
+  <RitualAttachedApplliesForOutcome>Upon any {0} outcome</RitualAttachedApplliesForOutcome>
+  <RitualAttachedApplliesForOutcomes>Upon any {0} outcome</RitualAttachedApplliesForOutcomes>
+  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>The commotion from the {0} has attracted some curious animals!\n\nThey seem accustomed to human contact and are joining the colony.</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>The {0} has induced a Gauranlen pod to sprout nearby.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+  <RitualAttachedOutcomeCantApply>Can't apply reward</RitualAttachedOutcomeCantApply>
+  <RitualAttachedOutcomeCantApply_NoValidSpot>No valid spot</RitualAttachedOutcomeCantApply_NoValidSpot>
+  <RitualAttachedOutcomeCantApply_ExtremeBiome>Extreme biome</RitualAttachedOutcomeCantApply_ExtremeBiome>
+  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>There is already a known ancient complex to explore.</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
+  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>Not available right now.</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+  <IdeoBuildingVariationOf>This building is a variation of</IdeoBuildingVariationOf>
+  <IdeoBuildingMinimumExpectations>Minimum expectations</IdeoBuildingMinimumExpectations>
+  <Size>size</Size>
+  <Cost>cost</Cost>
+  <Optional>optional</Optional>
+  <Expectations>expectations</Expectations>
+  <RitualStartAnyTime>Can start any time</RitualStartAnyTime>
+  <RitualStartEvent>Can start after event</RitualStartEvent>
+  <RitualFocusObjects>Focus objects</RitualFocusObjects>
+  <RitualRepeatPenaltyTip>Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now.</RitualRepeatPenaltyTip>
+  <RitualParticipatingRoles>Participating roles</RitualParticipatingRoles>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>For best quality, start the {0} at {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart2>Currently, the {0} is being started at {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <ForSlaveUse>For slave use</ForSlaveUse>
+  <SellingAsSlave>If you sell someone to any faction besides their own, they become slaves.</SellingAsSlave>
+  <SellingAsRansom>If you sell someone to their own faction, they are ransomed and not enslaved.</SellingAsRansom>
+  <MemeGoodwillImpact_Player>We are {0}</MemeGoodwillImpact_Player>
+  <MemeGoodwillImpact_Other>They are {0}</MemeGoodwillImpact_Other>
+  <TextMote_SuppressionIncreased>Slave suppression: {0}</TextMote_SuppressionIncreased>
+  <RoleRequirementsLabel>Requirements</RoleRequirementsLabel>
+  <RoleEffectsLabel>Passive effects</RoleEffectsLabel>
+  <RoleRequirementLabelSameIdeo>Must be {0}</RoleRequirementLabelSameIdeo>
+  <RoleRequirementLabelSupremeGender>Must be {0}</RoleRequirementLabelSupremeGender>
+  <RoleDisabledWorkLabel>Disabled work</RoleDisabledWorkLabel>
+  <RoleGrantedAbilitiesLabel>Abilities</RoleGrantedAbilitiesLabel>
+  <RoleRequiredApparelLabel>Required apparel</RoleRequiredApparelLabel>
+  <RoleRitualsLabel>Has role in rituals</RoleRitualsLabel>
+  <RoleBelieverCountDesc>This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}.</RoleBelieverCountDesc>
+  <RoleExpectationOffset>Raised by {0} levels.</RoleExpectationOffset>
+  <RoleRaisedExpectation>The {0} has higher expectations.</RoleRaisedExpectation>
+  <IdeoLeaderDifferentIdeoThoughtLabel>Led by {0}</IdeoLeaderDifferentIdeoThoughtLabel>
+  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} will not do {1} work.</AbilityDisabled_IncapableOfWorkTag>
+  <AbilityDisabledNoAltarOrRitualsSpot>No reachable altar or ritual spot.</AbilityDisabledNoAltarOrRitualsSpot>
+  <TextMote_WillReduced>Will\n{0} to {1}</TextMote_WillReduced>
+  <ConfirmationCharityJoiner>Accepting this join offer is an act of charity. If you refuse, the following people will be unhappy due to their pro-charity beliefs:\n{0}\n\nAre you sure you want to reject this join offer?</ConfirmationCharityJoiner>
+  <BelieversIn>Believers in {0} ({1})</BelieversIn>
+  <Precept>precept</Precept>
+  <IdeoBuilding>building</IdeoBuilding>
+  <IdeoRelic>relic</IdeoRelic>
+  <GiveItemsTo>Give {0} to {1_nameDef}</GiveItemsTo>
+  <CannotGiveItemsTo>Cannot give {0} to {1_nameDef}</CannotGiveItemsTo>
+  <NoItemFound>No item found</NoItemFound>
+  <OutfitSlave>Slave</OutfitSlave>
+  <HackProgress>Hack progress</HackProgress>
+  <HackingSpeed>hacking speed</HackingSpeed>
+  <HackingLastUser>{0}'s</HackingLastUser>
+  <Hacked>hacked</Hacked>
+  <TerminalsHacked>Terminals hacked</TerminalsHacked>
+  <RelicInfoFound>Relic info found</RelicInfoFound>
+  <InactiveRoleRequiresMoreBelievers>inactive, requires atleast {0} {1}s (have {2})</InactiveRoleRequiresMoreBelievers>
+  <Certainty>certainty</Certainty>
+  <EmancipateNonCololonistWithFactionTooltip>The slave will leave the map on foot and return to their home faction, {0}.</EmancipateNonCololonistWithFactionTooltip>
+  <EmancipateNonCololonistWithoutFactionTooltip>The slave will leave on foot and exit the map.</EmancipateNonCololonistWithoutFactionTooltip>
+  <EmancipateCololonistTooltip>The slave will return to being a colonist.</EmancipateCololonistTooltip>
+  <WorshippedTerminalFactionBecameHostileTimed>You've stayed in the village too long. The people of {FACTION_name} are attacking!</WorshippedTerminalFactionBecameHostileTimed>
+  <WorshippedTerminalRaidIncoming>Villagers are returning from nearby to protect the venerated terminal!</WorshippedTerminalRaidIncoming>
+  <RelicHuntFindRelicSite>First, you need to find the {0}. Watch for opportunities to gather information about it.</RelicHuntFindRelicSite>
+  <RelicHuntFoundRelicSite>The relic is housed in an ancient structure protected by a multi-unit security system.\n\nYou can defeat the security forces one unit at a time, or grab the relic and try to flee before they get you.</RelicHuntFoundRelicSite>
+  <RelicHuntFoundRelicSitePeaceful>The relic rests in an ancient structure nearby.</RelicHuntFoundRelicSitePeaceful>
+  <Relic>relic</Relic>
+  <RitualSeat>Ritual seat</RitualSeat>
+  <RitualPredictedOutcomeDescNumActiveLoudspeakers>Active loudspeakers</RitualPredictedOutcomeDescNumActiveLoudspeakers>
+  <RitualPredictedOutcomeDescNumDrums>Drums</RitualPredictedOutcomeDescNumDrums>
+  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>Using ritual spot causes {0} mood bonus reduction for all participants.</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
+  <RitualOutcomeLabelAnyOfThese>Any of these</RitualOutcomeLabelAnyOfThese>
+  <PreceptReplaceWith>Replace with</PreceptReplaceWith>
+  <RitualSeatOf>Ritual seat of {IDEOS}</RitualSeatOf>
+  <StartingQuality>Starting quality</StartingQuality>
+  <ExpectedConvictionChance>Conviction chance</ExpectedConvictionChance>
+  <MustBePlacedIndoors>Must be placed indoors.</MustBePlacedIndoors>
+  <ConnectedPawn>Connected to</ConnectedPawn>
+  <Nobody>Nobody</Nobody>
+  <ConnectedPawnDesc>The person this {TREE_label} is connected to. If the connected person dies, this {TREE_label} will be unable to connect to another for {DURATION}.</ConnectedPawnDesc>
+  <ConnectionTorn>Connection torn. Can connect in {0}.</ConnectionTorn>
+  <ConnectedPawnAway>{PAWN_nameDef} is too far away</ConnectedPawnAway>
+  <TreeBlockedByNearbyBuildingsDesc>Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here?</TreeBlockedByNearbyBuildingsDesc>
+  <GauranlenModeChangeDescFull>Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste.</GauranlenModeChangeDescFull>
+  <ChangeModeDesc>Change the type of dryads created by {TREE_definite}.</ChangeModeDesc>
+  <ConnectionStrengthFall>Connection strength fall</ConnectionStrengthFall>
+  <ConnectionStrength>Connection strength</ConnectionStrength>
+  <ConnectionStrengthDisplay>{0} strength</ConnectionStrengthDisplay>
+  <ConnectionStrengthDesc>Determines how many dryads this tree can support.</ConnectionStrengthDesc>
+  <MaximumDryads>Max dryads</MaximumDryads>
+  <MaximumDryadsDesc>The maximum number of dryads this tree can support.</MaximumDryadsDesc>
+  <MaxDryadsBasedOnConnectionStrength>Max dryads based on connection strength</MaxDryadsBasedOnConnectionStrength>
+  <PruningConnectionStrength>Pruning connection strength gain</PruningConnectionStrength>
+  <PruningHoursToMaintain>Hours per day to maintain</PruningHoursToMaintain>
+  <DesiredConnectionStrength>Desired</DesiredConnectionStrength>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings.</DesiredConnectionStrengthDesc>
+  <WaitingForConnectorToChangeCaste>Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste.</WaitingForConnectorToChangeCaste>
+  <GauranlenTreeMode>Dryad caste</GauranlenTreeMode>
+  <NoCaste>no caste</NoCaste>
+  <GauranlenTreeModeDesc>Determines the currently created dryad caste.</GauranlenTreeModeDesc>
+  <SpawningDryadIn>Spawning {DRYAD_label} in {TIME}</SpawningDryadIn>
+  <ChangingDryadIntoType>Morphing {DRYAD_labelShort} into {TYPE_label}.</ChangingDryadIntoType>
+  <HoursEveryDay>{0} hours every day</HoursEveryDay>
+  <HoursEveryOtherDay>{0} hours every other day</HoursEveryOtherDay>
+  <DryadProducesResourcesDesc>{DRYAD_labelPlural} produce {RESOURCES} every {DURATION}.</DryadProducesResourcesDesc>
+  <DryadCannotChangeMaster>{ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed.</DryadCannotChangeMaster>
+  <ConnectionStrengthTooWeakForGaumakerPod>Connection strength too low to create Gauranlen pod.</ConnectionStrengthTooWeakForGaumakerPod>
+  <Unconnected>Unconnected</Unconnected>
+  <DryadPlural>Dryads</DryadPlural>
+  <ConnectionStrengthAffectedBy>Connection strength affected by</ConnectionStrengthAffectedBy>
+  <CurrentlyAffectedBy>Currently affected by</CurrentlyAffectedBy>
+  <NotEnoughConnectionStrengthForSingleDryad>{0} connection strength needed to support a dryad.</NotEnoughConnectionStrengthForSingleDryad>
+  <TargetNightOutdoors>Target outdoors and night-time</TargetNightOutdoors>
+  <TargetDarkIndoors>Target indoors and dark</TargetDarkIndoors>
+  <TargetDayOutdoors>Target outdoors and daytime</TargetDayOutdoors>
+  <TargetLitIndoors>Target indoors and lit</TargetLitIndoors>
+  <RechargeableCharging>Charging</RechargeableCharging>
+  <RechargeableReady>Ready</RechargeableReady>
+  <RoleRequirementSkill>Skill</RoleRequirementSkill>
+  <RoleRequirementSkillAny>Any of skills</RoleRequirementSkillAny>
+  <RoleEffectWontUseRangedWeapons>Won't use ranged weapons</RoleEffectWontUseRangedWeapons>
+  <RoleEffectWontUseMeleeWeapons>Won't use melee weapons</RoleEffectWontUseMeleeWeapons>
+  <RoleEffectProductionQualityOffset>{0} quality to crafting or construction</RoleEffectProductionQualityOffset>
+  <RoleEffectHuntingRevengeChance>Hunting revenge chance {0}</RoleEffectHuntingRevengeChance>
+  <RoleEffectGiveThoughtOnTended>Give thought</RoleEffectGiveThoughtOnTended>
+  <AssignColonists>Assign colonists to your ideoligion</AssignColonists>
+  <DeleteNewIdeoligion>Delete new ideoligion</DeleteNewIdeoligion>
+  <MakeIdeoligionPrimary>Make this your primary ideologion</MakeIdeoligionPrimary>
+  <GameOverArchotechInvokedIntro>You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n</GameOverArchotechInvokedIntro>
+  <GameOverArchotechInvokedEnding>The machine god has noticed you. Nobody can predict what happens next. It may destroy you, or communicate with you directly, or transport your consciousness to another plane of reality.\n\nYou sense a vast, inhuman structure of infinite fractal complexity flowing into your mind. Time and scale begin to dissolve. It's terrifying. It's beautiful...</GameOverArchotechInvokedEnding>
+  <GameOverColonistsTranscended>These colonists have transcended:\n\n{0}</GameOverColonistsTranscended>
+  <Reward_ArchonexusMapPart>An archonexus map part</Reward_ArchonexusMapPart>
+  <Reward_ArchonexusMapPartLabel>Archonexus map part {0}/{1}</Reward_ArchonexusMapPartLabel>
+  <RelicsLower>relics</RelicsLower>
+  <RelicLower>relic</RelicLower>
+  <LinkedTo>Linked to</LinkedTo>
+  <SupplySatellite>Supply satellite</SupplySatellite>
+  <CannotExtractSkull>Colonist is not willing to extract skull from corpse (missing pro-skullspike precept)</CannotExtractSkull>
+  <TipPreviewRitualAmbienceSound>Preview the ritual ambience sound</TipPreviewRitualAmbienceSound>
+  <ChooseStuffForRelic>Choose</ChooseStuffForRelic>
+  <RelicStuff>Made from stuff</RelicStuff>
+  <BiosculpterPodCycleLabel>Cycle</BiosculpterPodCycleLabel>
+  <BiosculpterPodCycleLabelLoading>loading nutrition</BiosculpterPodCycleLabelLoading>
+  <BiosculpterPodCycleLabelReady>ready</BiosculpterPodCycleLabelReady>
+  <BiosculpterPodCycleCommand>Prepare {0} cycle</BiosculpterPodCycleCommand>
+  <BiosculpterCycleTimeRemaining>Ends in</BiosculpterCycleTimeRemaining>
+  <BiosculpterBiotunedTo>Biotuned to</BiosculpterBiotunedTo>
+  <BiosculpterInteruptCycle>Interrupt cycle</BiosculpterInteruptCycle>
+  <BiosculpterInteruptCycleDesc>Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness.</BiosculpterInteruptCycleDesc>
+  <BiosculpterLoadingStartedMessage>Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle.</BiosculpterLoadingStartedMessage>
+  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a biosculpter pod due to lack of power.</BiosculpterNoPowerEjectedMessage>
+  <BiosculpterHealCompletedMessage>{PAWN_labelShort} completed healing cycle.</BiosculpterHealCompletedMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured.</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days.</BiosculpterAgeReversalCompletedMessage>
+  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort} completed pleasure cycle.</BiosculpterPleasureCompletedMessage>
+  <BiosculpterCleanlinessSpeedFactor>Cleanliness speed factor</BiosculpterCleanlinessSpeedFactor>
+</LanguageData>
