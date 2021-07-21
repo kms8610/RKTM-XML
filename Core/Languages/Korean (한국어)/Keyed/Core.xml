@@ -389,6 +389,12 @@
   <Damage>Damage</Damage>
   <ArmorPenetration>Armor penetration</ArmorPenetration>
   <ArmorPenetrationExplanation>Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
+  <BuildingDamageFactor>Building damage factor</BuildingDamageFactor>
+  <BuildingDamageFactorExplanation>Damage to all buildings is multiplied by this value.</BuildingDamageFactorExplanation>
+  <BuildingDamageFactorImpassable>Building damage factor (impassable)</BuildingDamageFactorImpassable>
+  <BuildingDamageFactorImpassableExplanation>Damage to all impassable buildings is multiplied by this value.</BuildingDamageFactorImpassableExplanation>
+  <BuildingDamageFactorPassable>Building damage factor (passable)</BuildingDamageFactorPassable>
+  <BuildingDamageFactorPassableExplanation>Damage to all passable buildings is multiplied by this value.</BuildingDamageFactorPassableExplanation>
   <Accuracy>Accuracy</Accuracy>
   <BurstShotCount>Burst shot count</BurstShotCount>
   <WarmupTime>Warmup</WarmupTime>
@@ -769,7 +775,7 @@
   <AutoSlaugtherHeaderColMax>Max</AutoSlaugtherHeaderColMax>
   <AutoSlaugtherHeaderColTotal>Total</AutoSlaugtherHeaderColTotal>
   <AutoSlaugtherHeaderColOther>Other</AutoSlaugtherHeaderColOther>
-  <AutoSlaugtherTip>If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit.</AutoSlaugtherTip>
+  <AutoSlaugtherTip>Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy.</AutoSlaugtherTip>
   <AnimalMaleAdult>Male adult</AnimalMaleAdult>
   <AnimalMaleYoung>Male young</AnimalMaleYoung>
   <AnimalFemaleAdult>Female adult</AnimalFemaleAdult>
@@ -3336,6 +3342,8 @@
   <Nudism>Nudism</Nudism>
   <StudyProgress>Study progress</StudyProgress>
   <StudyCompleted>completed</StudyCompleted>
+  <AttackToDestroy>Attack this to destroy it.</AttackToDestroy>
+  <RemoveByAttackingTooltip>Remove this by attacking it.</RemoveByAttackingTooltip>
   <UserScanAbility>User scanning speed</UserScanAbility>
   <ScanAverageInterval>Random find interval</ScanAverageInterval>
   <ScanningProgressToGuaranteedFind>Progress to guaranteed find</ScanningProgressToGuaranteedFind>
