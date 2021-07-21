@@ -121,6 +121,7 @@
   <TattooFace>face tattoo</TattooFace>
   <TattooBody>body tattoo</TattooBody>
   <ApparelColor>apparel color</ApparelColor>
+  <HairColor>hair color</HairColor>
   <ShowHeadgear>Show headgear</ShowHeadgear>
   <ShowApparel>Show apparel</ShowApparel>
   <PawnUnhappyWithStyleItems>{PAWN_nameDef} will be unhappy with the following</PawnUnhappyWithStyleItems>
@@ -566,7 +567,9 @@
   <SetIdeoColor>Set ideo color</SetIdeoColor>
   <SetFavoriteColor>Set favorite color</SetFavoriteColor>
   <ConfigureIdeoligion>Configure your faction's ideoligion</ConfigureIdeoligion>
-  <NotEnoughDye>Not enough dye. The colonist will recolor the apparel when dye becomes available.</NotEnoughDye>
+  <NotEnoughDye>Not enough dye.</NotEnoughDye>
+  <NotEnoughDyeWillRecolorApparel>The colonist will recolor the apparel when dye becomes available.</NotEnoughDyeWillRecolorApparel>
+  <NotEnoughDyeWillRecolorHair>The colonist will recolor their hair when dye becomes available.</NotEnoughDyeWillRecolorHair>
   <IdeoCertaintyTooltip>{PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE}</IdeoCertaintyTooltip>
   <DisabledByPrecept>Disabled by precept {0}</DisabledByPrecept>
   <Everyone>Everyone</Everyone>
