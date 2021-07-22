@@ -200,6 +200,7 @@
   <CantStartRitualNoConvertee>There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion.</CantStartRitualNoConvertee>
   <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} cannot be {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
   <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} must be a {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} is psychically deaf.</CantStartRitualSelectedPawnPsychicallyDeaf>
   <CantStartNotEnoughSpaceDuel>Not enough space. There must be a clear circle of radius {MINRADIUS}.</CantStartNotEnoughSpaceDuel>
   <CantStartFuneralForSlave>{0_labelShort} is a slave. Slaves don't get funerals.</CantStartFuneralForSlave>
   <NoSlaveBed>Need a slave bed that is reachable, not reserved, and in safe temperature.</NoSlaveBed>
