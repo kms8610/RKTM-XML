@@ -12,12 +12,18 @@
   <CombatCommand.description>Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration.</CombatCommand.description>
   <Convert.label>convert</Convert.label>
   <Convert.description>Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability.</Convert.description>
+  <Convert.comps.0.successMessage>{INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}.</Convert.comps.0.successMessage>
+  <Convert.comps.0.failMessage>{INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}.</Convert.comps.0.failMessage>
   <PreachHealth.label>preach health</PreachHealth.label>
   <PreachHealth.description>Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain.</PreachHealth.description>
   <Reassure.label>reassure</Reassure.label>
   <Reassure.description>Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability.</Reassure.description>
+  <Reassure.comps.0.successMessage>{INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}.</Reassure.comps.0.successMessage>
   <Counsel.label>Counsel</Counsel.label>
   <Counsel.description>Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener.</Counsel.description>
+  <Counsel.comps.0.successMessage>{INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}.</Counsel.comps.0.successMessage>
+  <Counsel.comps.0.successMessageNoNegativeThought>{INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}.</Counsel.comps.0.successMessageNoNegativeThought>
+  <Counsel.comps.0.failMessage>{INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset.</Counsel.comps.0.failMessage>
   <MarksmanCommand.label>marksman command</MarksmanCommand.label>
   <MarksmanCommand.description>Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours.</MarksmanCommand.description>
   <BerserkTrance.label>berserk trance</BerserkTrance.label>
@@ -32,6 +38,7 @@
   <MiningCommand.description>Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours.</MiningCommand.description>
   <AnimalCalm.label>Animal calm</AnimalCalm.label>
   <AnimalCalm.description>Use unique methods of connecting with animals to calm a maddened beast.</AnimalCalm.description>
+  <AnimalCalm.comps.0.successMessage>{INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}.</AnimalCalm.comps.0.successMessage>
   <ImmunityDrive.label>Immunity drive</ImmunityDrive.label>
   <ImmunityDrive.description>Offer moral support that energizes the body, boosting someone's immunity gain for one day.</ImmunityDrive.description>
 </LanguageData>

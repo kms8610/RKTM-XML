@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.effectDesc>a group of farm animals will be attracted and join the colony.</FarmAnimalsWanderIn.effectDesc>
   <GauranlenTreePod.label>gauranlen pod sprout</GauranlenTreePod.label>
+  <GauranlenTreePod.effectDesc>a Gauranlen pod will sprout at a random location on the map, if it can.</GauranlenTreePod.effectDesc>
   <InsectJellyTunnels.label>insect jelly</InsectJellyTunnels.label>
+  <InsectJellyTunnels.effectDesc>insect jelly deposits will be deposited from underground.</InsectJellyTunnels.effectDesc>
   <NearbyFactionGoodwill.label>nearby faction goodwill</NearbyFactionGoodwill.label>
+  <NearbyFactionGoodwill.effectDesc>you will gain goodwill from the nearest faction base.</NearbyFactionGoodwill.effectDesc>
   <RandomRecruit.label>random recruit</RandomRecruit.label>
+  <RandomRecruit.effectDesc>50% chance of random recruit of the same ideoligion joining your colony.</RandomRecruit.effectDesc>
   <DiscoverAncientComplex.label>discover ancient complex</DiscoverAncientComplex.label>
+  <DiscoverAncientComplex.effectDesc>you will discover the location of an ancient complex nearby.</DiscoverAncientComplex.effectDesc>
 </LanguageData>

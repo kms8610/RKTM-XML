@@ -3,6 +3,11 @@
   <AnimalVenerated.label>venerated</AnimalVenerated.label>
   <AnimalVenerated.description>This animal is considered by believers to hold a special spiritual or moral status, which means it must be venerated and may never be harmed.</AnimalVenerated.description>
   <AnimalVenerated.comps.2.description>Tame venerated animal died</AnimalVenerated.comps.2.description>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.0>Scarce animals {STAGE1}</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.1>Few animals {STAGE2}</AnimalVenerated.comps.4.thoughtStageDescriptions.1>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.2>Some animals {STAGE3}</AnimalVenerated.comps.4.thoughtStageDescriptions.2>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.3>Lots of animals {STAGE4}</AnimalVenerated.comps.4.thoughtStageDescriptions.3>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.4>Tons of animals</AnimalVenerated.comps.4.thoughtStageDescriptions.4>
   <AnimalConnection_Strong.label>strong</AnimalConnection_Strong.label>
   <AnimalConnection_Strong.description>We have a strong connection to our animal friends.</AnimalConnection_Strong.description>
   <AnimalSlaughter_Prohibited.label>prohibited</AnimalSlaughter_Prohibited.label>
@@ -121,18 +126,32 @@
   <IdeoDiversity_Abhorrent.label>intense bigotry</IdeoDiversity_Abhorrent.label>
   <IdeoDiversity_Abhorrent.description>Other beliefs are evil deceptions ruining the world. It's totally unacceptable to let them exist in the community.</IdeoDiversity_Abhorrent.description>
   <IdeoDiversity_Abhorrent.comps.2.description>All colonists have same ideoligion</IdeoDiversity_Abhorrent.comps.2.description>
+  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>Uniform surroundings</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>
+  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>Diverse surroundings</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
   <IdeoDiversity_Horrible.label>moderate bigotry</IdeoDiversity_Horrible.label>
   <IdeoDiversity_Horrible.description>Other beliefs are immoral delusions which do real harm. It's bad to let them exist in the community.</IdeoDiversity_Horrible.description>
+  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>Uniform surroundings</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>
+  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>Diverse surroundings</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
   <IdeoDiversity_Disapproved.label>mild bigotry</IdeoDiversity_Disapproved.label>
   <IdeoDiversity_Disapproved.description>Other beliefs are clearly folly. It's not good to let them exist in the community.</IdeoDiversity_Disapproved.description>
+  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>Uniform surroundings</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>
+  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>Diverse surroundings</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
   <IdeoDiversity_Standard.label>neutral</IdeoDiversity_Standard.label>
   <IdeoDiversity_Standard.description>Other beliefs are neither approved or disapproved.</IdeoDiversity_Standard.description>
+  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>Uniform surroundings</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>
+  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>Diverse surroundings</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>
   <IdeoDiversity_Approved.label>appreciated</IdeoDiversity_Approved.label>
   <IdeoDiversity_Approved.description>Other beliefs are worth understanding. It's good to live with others who think differently.</IdeoDiversity_Approved.description>
+  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>Uniform surroundings</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>
+  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>Diverse surroundings</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>
   <IdeoDiversity_Respected.label>highly appreciated</IdeoDiversity_Respected.label>
   <IdeoDiversity_Respected.description>Other beliefs hold unique knowledge. It's great to live with others who think differently.</IdeoDiversity_Respected.description>
+  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>Uniform surroundings</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>
+  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>Diverse surroundings</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>
   <IdeoDiversity_Exalted.label>exalted</IdeoDiversity_Exalted.label>
   <IdeoDiversity_Exalted.description>Working through disagreement is the height of morality. It's very moral to live with others who think differently.</IdeoDiversity_Exalted.description>
+  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>Uniform surroundings</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>
+  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>Diverse surroundings</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>
   <InsectMeatEating_Loved.label>loved</InsectMeatEating_Loved.label>
   <InsectMeatEating_Loved.description>There is nothing more divine than the succulent, slimy flesh of an insect.</InsectMeatEating_Loved.description>
   <KillingInnocentAnimals_Abhorrent.label>abhorrent</KillingInnocentAnimals_Abhorrent.label>
@@ -289,10 +308,20 @@
   <Proselytizing_Frequently.description>Those who know the truth have a duty to always spread it and drive out other beliefs.</Proselytizing_Frequently.description>
   <Raiding_Respected.label>respected</Raiding_Respected.label>
   <Raiding_Respected.description>We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame.</Raiding_Respected.description>
+  <Raiding_Respected.comps.0.thoughtStageDescriptions.0>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Respected.comps.0.thoughtStageDescriptions.0>
+  <Raiding_Respected.comps.0.thoughtStageDescriptions.1>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Respected.comps.0.thoughtStageDescriptions.1>
   <Raiding_Required.label>required</Raiding_Required.label>
   <Raiding_Required.description>We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame.</Raiding_Required.description>
+  <Raiding_Required.comps.0.thoughtStageDescriptions.0>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Required.comps.0.thoughtStageDescriptions.0>
+  <Raiding_Required.comps.0.thoughtStageDescriptions.1>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Required.comps.0.thoughtStageDescriptions.1>
   <Ranching_Central.label>central</Ranching_Central.label>
   <Ranching_Central.description>We must raise and consume many large animals, and we must not eat plants.</Ranching_Central.description>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.0>No animals</Ranching_Central.comps.0.thoughtStageDescriptions.0>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.1>Scarce animals {STAGE1}</Ranching_Central.comps.0.thoughtStageDescriptions.1>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.2>Few animals {STAGE2}</Ranching_Central.comps.0.thoughtStageDescriptions.2>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.3>Some animals {STAGE4}</Ranching_Central.comps.0.thoughtStageDescriptions.3>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.4>Lots of animals {STAGE5}</Ranching_Central.comps.0.thoughtStageDescriptions.4>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.5>Tons of animals</Ranching_Central.comps.0.thoughtStageDescriptions.5>
   <Ranching_Central.comps.2.description>No slaughter for {ANIMALSLAUGHTERREQUIREDINTERVAL} days</Ranching_Central.comps.2.description>
   <IdeoRelic.label>relic</IdeoRelic.label>
   <IdeoRelic.description>A relic of ideoligious significance.</IdeoRelic.description>
@@ -362,10 +391,16 @@
   <IdeoRole_MedicalSpecialist.description>A special ideoligious status focusing on medicine to the exclusion of all else. This specialized role gives improved surgery and tending efficiency, and the ability to boost the medical abilities of nearby allies. Believers who receive care from one of this role will be happy about it. Holders of this role will refuse to perform some non-medical tasks.</IdeoRole_MedicalSpecialist.description>
   <Scarification_Extreme.label>extreme</Scarification_Extreme.label>
   <Scarification_Extreme.description>Every person ought to bear the ritual scars - all over.</Scarification_Extreme.description>
+  <Scarification_Extreme.comps.0.thoughtStageDescriptions.0>Scarification (5 scars required)</Scarification_Extreme.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Extreme.comps.1.thoughtStageDescriptions.0>Scarification (5 scars required)</Scarification_Extreme.comps.1.thoughtStageDescriptions.0>
   <Scarification_Heavy.label>heavy</Scarification_Heavy.label>
   <Scarification_Heavy.description>Every person ought to bear the ritual scars - many of them.</Scarification_Heavy.description>
+  <Scarification_Heavy.comps.0.thoughtStageDescriptions.0>Scarification (3 scars required)</Scarification_Heavy.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Heavy.comps.1.thoughtStageDescriptions.0>Scarification (3 scars required)</Scarification_Heavy.comps.1.thoughtStageDescriptions.0>
   <Scarification_Minor.label>minor</Scarification_Minor.label>
   <Scarification_Minor.description>Every person ought to bear a ritual scar.</Scarification_Minor.description>
+  <Scarification_Minor.comps.0.thoughtStageDescriptions.0>Scarification (1 scar required)</Scarification_Minor.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Minor.comps.1.thoughtStageDescriptions.0>Scarification (1 scar required)</Scarification_Minor.comps.1.thoughtStageDescriptions.0>
   <Scarification_Horrible.label>horrible</Scarification_Horrible.label>
   <Scarification_Horrible.description>Scarifying people for ideoligious reasons is horrible.</Scarification_Horrible.description>
   <Scarification_Horrible.comps.0.description>someone got scarified</Scarification_Horrible.comps.0.description>
@@ -435,12 +470,24 @@
   <TreeCutting_Disapproved.comps.2.description>Someone cut down a tree</TreeCutting_Disapproved.comps.2.description>
   <Trees_Desired.label>desired</Trees_Desired.label>
   <Trees_Desired.description>It's essential to live surrounded by beautiful trees.</Trees_Desired.description>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.0>Healthy trees</Trees_Desired.comps.1.thoughtStageDescriptions.0>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.1>Trees disturbed</Trees_Desired.comps.1.thoughtStageDescriptions.1>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.2>Trees harmed</Trees_Desired.comps.1.thoughtStageDescriptions.2>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.3>Trees ravaged</Trees_Desired.comps.1.thoughtStageDescriptions.3>
   <GauranlenConnection_Strong.label>strong</GauranlenConnection_Strong.label>
   <GauranlenConnection_Strong.description>We have a special connection with the Gauranlen trees. The trees refocus production easily under our influence, and we are not satisfied unless we have that connection.</GauranlenConnection_Strong.description>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>Gauranlen connection</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.1>Want Gauranlen connection (min expectation: Very low)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.1>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.2>Want Gauranlen connection (min expectation: Low)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.2>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>Want Gauranlen connection (min expectation: Moderate)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>Want Gauranlen connection (min expectation: High)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>Want Gauranlen connection (min expectation: Sky high)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>
   <NobleDespisedWeapons.label>noble and despised</NobleDespisedWeapons.label>
   <NobleDespisedWeapons.description>We have preferences on which weapons should or should not be used in combat.</NobleDespisedWeapons.description>
   <NobleDespisedWeapons.comps.0.description>Victory by noble weapon</NobleDespisedWeapons.comps.0.description>
   <NobleDespisedWeapons.comps.1.description>Used despised weapon</NobleDespisedWeapons.comps.1.description>
+  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>Wielding noble weapon</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>
+  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>Wielding despised weapon</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>
   <WorkDrive_Tripled.label>tripled</WorkDrive_Tripled.label>
   <WorkDrive_Tripled.description>The duration of the leader's work drive ability is tripled.</WorkDrive_Tripled.description>
 </LanguageData>
