@@ -341,6 +341,7 @@
   <Research_VeryFast.description>Research is among the most meaningful acts a person can perform.</Research_VeryFast.description>
   <Funeral.description>A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals.</Funeral.description>
   <Funeral.label>funeral</Funeral.label>
+  <Funeral.extraTextPawnDeathLetter>{PAWN_nameDef} should be buried and given a funeral so {PAWN_possessive} friends and family can say farewell.</Funeral.extraTextPawnDeathLetter>
   <FuneralNoCorpse.description>A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals.</FuneralNoCorpse.description>
   <FuneralNoCorpse.label>funeral (no corpse)</FuneralNoCorpse.label>
   <Festival.description>A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while.</Festival.description>
@@ -364,8 +365,10 @@
   <TreeConnection.label>tree connection ritual</TreeConnection.label>
   <TreeConnection.description>A connector will connect with a Gauranlen tree. The connector will touch the Gauranlen tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual.</TreeConnection.description>
   <Execution.label>public execution</Execution.label>
+  <Execution.tipLabelOverride>Public execution</Execution.tipLabelOverride>
   <Execution.description>An executioner will publicly execute a prisoner. The executioner will give a short speech, execute the prisoner by cutting, and say some closing words. Spectating slaves will become afraid and intimidated, and colonists will feel exhilarated or disgusted depending on their beliefs.</Execution.description>
   <GladiatorDuel.label>gladiator duel</GladiatorDuel.label>
+  <GladiatorDuel.tipLabelOverride>Prisoner/slave gladiator duel</GladiatorDuel.tipLabelOverride>
   <GladiatorDuel.description>A duel between prisoners or slaves. The organizer will give a speech to excite the crowd, then the duelists will fight until one of them falls or time runs out. If weapons are in the arena, the duelists will pick up and use them.</GladiatorDuel.description>
   <IdeoRitualSeat.label>ritual seat</IdeoRitualSeat.label>
   <IdeoRitualSeat.description>A building of ideoligious significance. Believers sit or kneel on this while watching rituals.</IdeoRitualSeat.description>
