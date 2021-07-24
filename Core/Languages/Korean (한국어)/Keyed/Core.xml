@@ -781,7 +781,8 @@
   <AnimalFemaleAdult>Female adult</AnimalFemaleAdult>
   <AnimalFemaleYoung>Female young</AnimalFemaleYoung>
   <AnimalPregnant>Pregnant</AnimalPregnant>
-  <AllowSlaughterPregnant>Slaughter</AllowSlaughterPregnant>
+  <AnimalBonded>Bonded</AnimalBonded>
+  <AllowSlaughter>Slaughter</AllowSlaughter>
   <AutoSlaugtherHeaderTooltipLabel>The animal to be automatically slaughtered.</AutoSlaugtherHeaderTooltipLabel>
   <AutoSlaugtherHeaderTooltipCurrentTotal>The current number of animals in the colony, both male and female.</AutoSlaugtherHeaderTooltipCurrentTotal>
   <AutoSlaugtherHeaderTooltipMaxTotal>The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras.</AutoSlaugtherHeaderTooltipMaxTotal>
@@ -795,6 +796,8 @@
   <AutoSlaughterHeaderTooltipMaxFemalesYoung>The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
   <AutoSlaughterHeaderTooltipCurrentPregnant>The current number of pregnant animals in the colony.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Allow pregnant animals to be slaughtered along with other females of the same species.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipCurrentBonded>The current number of bonded animals in the colony.</AutoSlaughterHeaderTooltipCurrentBonded>
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Allow bonded animals to be slaughtered.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
   <AutoSlaughterTooltipSetLimit>Click to set an animal count limit.</AutoSlaughterTooltipSetLimit>
   <RoomRequirementNoBeds>no beds allowed</RoomRequirementNoBeds>
   <RoomRequirementArea>room area: {0} tiles</RoomRequirementArea>
@@ -2554,6 +2557,9 @@
   <Difficulty_FixedWealthMode_Info>Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy.</Difficulty_FixedWealthMode_Info>
   <Difficulty_FixedWealthTimeFactor_Label>Years until maximum threat</Difficulty_FixedWealthTimeFactor_Label>
   <Difficulty_FixedWealthTimeFactor_Info>The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors.</Difficulty_FixedWealthTimeFactor_Info>
+  <DifficultyIdeologySection>Ideology</DifficultyIdeologySection>
+  <Difficulty_LowPopConversionBoost_Label>Low pop conversion boost</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Info>With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect.</Difficulty_LowPopConversionBoost_Info>
   <SelectStartingSite>Select starting site</SelectStartingSite>
   <SelectRandomSite>Select random site</SelectRandomSite>
   <SelectSite>Select site</SelectSite>
