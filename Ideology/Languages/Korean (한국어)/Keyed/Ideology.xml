@@ -147,6 +147,7 @@
   <ExpandAllCategories>Expand all</ExpandAllCategories>
   <CollapseAllCategories>Collapse all</CollapseAllCategories>
   <ResetButtonDesc>Resets all style items to their default values.</ResetButtonDesc>
+  <TooltipDyeExplanation>Dye can be farmed from tinctoria or purchased from traders.</TooltipDyeExplanation>
   <SendShuttleAnyway>Send shuttle anyway</SendShuttleAnyway>
   <ReLoadShuttle>Re-load shuttle</ReLoadShuttle>
   <MedGroupEnslavedColonist>Enslaved colonist</MedGroupEnslavedColonist>
@@ -575,9 +576,10 @@
   <ChanceToHavePrecept>Chance to have precept</ChanceToHavePrecept>
   <FavoriteColorTooltip>{PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye.</FavoriteColorTooltip>
   <SetIdeoColor>Set ideo color</SetIdeoColor>
-  <SetFavoriteColor>Set favorite color</SetFavoriteColor>
+  <SetFavoriteColor>Set to favorite color</SetFavoriteColor>
   <ConfigureIdeoligion>Configure your faction's ideoligion</ConfigureIdeoligion>
   <NotEnoughDye>Not enough dye.</NotEnoughDye>
+  <ApparelLockedCannotRecolor>{PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}.</ApparelLockedCannotRecolor>
   <NotEnoughDyeWillRecolorApparel>The colonist will recolor the apparel when dye becomes available.</NotEnoughDyeWillRecolorApparel>
   <NotEnoughDyeWillRecolorHair>The colonist will recolor their hair when dye becomes available.</NotEnoughDyeWillRecolorHair>
   <IdeoCertaintyTooltip>{PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE}</IdeoCertaintyTooltip>
@@ -601,6 +603,7 @@
   <RitualTargetCampfireSkylanternsInfo>A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area.</RitualTargetCampfireSkylanternsInfo>
   <RitualTargetUnconnectedGaruanlenTreeInfo>An unconnected Gauranlen tree.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <RitualTargetConnectedGauranlenTree>Already connected to {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite} has had its connection torn recently. It can connect again in {1}.</RitualTargetConnectionTornGauranlenTree>
   <RitualTargeWoodInfo>You need {0} wood for each participant ({2} total). You have {1} wood.</RitualTargeWoodInfo>
   <Accuse>Accuse</Accuse>
   <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified.</RitualScarificationWarnNonScarificationIdeo>
