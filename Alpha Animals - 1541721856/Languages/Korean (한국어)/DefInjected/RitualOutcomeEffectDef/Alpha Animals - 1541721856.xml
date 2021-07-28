@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_OcularWarping.description>The ocular priest will use one of the colony's ocular dryads to warp a creature into an ocular monster. Depending on the ritual's outcome and the sacrificed creature's body size, a correspondingly stronger ocular monster will be summoned.</AA_OcularWarping.description>
+  <AA_OcularWarping.comps.1.label>participant count</AA_OcularWarping.comps.1.label>
+  <AA_OcularWarping.comps.2.label>started at altar or ideogram</AA_OcularWarping.comps.2.label>
+  <AA_OcularWarping.comps.2.expectedThingLabelTip>an altar or an ideogram</AA_OcularWarping.comps.2.expectedThingLabelTip>
+  <AA_OcularWarping.outcomeChances.0.label>Terrible</AA_OcularWarping.outcomeChances.0.label>
+  <AA_OcularWarping.outcomeChances.0.description>The {0} was terrible! A very weak ocular monster has joined the colony.</AA_OcularWarping.outcomeChances.0.description>
+  <AA_OcularWarping.outcomeChances.1.label>Boring</AA_OcularWarping.outcomeChances.1.label>
+  <AA_OcularWarping.outcomeChances.1.description>The {0} was incredibly boring. A weak ocular monster has joined the colony.</AA_OcularWarping.outcomeChances.1.description>
+  <AA_OcularWarping.outcomeChances.2.label>Satisfying</AA_OcularWarping.outcomeChances.2.label>
+  <AA_OcularWarping.outcomeChances.2.description>The {0} was satisfying. A medium sized ocular monster has joined the colony.</AA_OcularWarping.outcomeChances.2.description>
+  <AA_OcularWarping.outcomeChances.3.label>Spectacular</AA_OcularWarping.outcomeChances.3.label>
+  <AA_OcularWarping.outcomeChances.3.description>The {0} was spectacular! A large ocular monster has joined the colony.</AA_OcularWarping.outcomeChances.3.description>
+  <AA_OcularWarping.outcomeChances.4.label>Sublime</AA_OcularWarping.outcomeChances.4.label>
+  <AA_OcularWarping.outcomeChances.4.description>The {0} was sublime! An Unblinking Eye has pledged its servitude to the colony.</AA_OcularWarping.outcomeChances.4.description>
+</LanguageData>

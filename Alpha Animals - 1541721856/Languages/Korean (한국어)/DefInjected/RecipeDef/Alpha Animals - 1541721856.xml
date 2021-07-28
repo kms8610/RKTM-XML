@@ -21,6 +21,30 @@
   <AA_ShutDownMechanoid.label>shut down</AA_ShutDownMechanoid.label>
   <AA_ShutDownMechanoid.description>Shuts down a mechanoid.</AA_ShutDownMechanoid.description>
   <AA_ShutDownMechanoid.jobString>Shutting down mechanoid.</AA_ShutDownMechanoid.jobString>
+  <AA_MakeRangedSpinneretImplant.label>make a ranged spinneret implant</AA_MakeRangedSpinneretImplant.label>
+  <AA_MakeRangedSpinneretImplant.description>Make a ranged spinneret implant from a Feralisk, Dunealisk, Blizzarisk, Cinderlisk, Junglelisk or Animalisk corpse. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_MakeRangedSpinneretImplant.description>
+  <AA_MakeRangedSpinneretImplant.jobString>Making ranged spinneret implant</AA_MakeRangedSpinneretImplant.jobString>
+  <AA_MakeVenomousSpitterImplant.label>make a venomous spitter implant</AA_MakeVenomousSpitterImplant.label>
+  <AA_MakeVenomousSpitterImplant.description>Make a venomous spitter from a Black Spelopede or Blackspider corpse. This implant will allow this creature to use a ranged venomous spit attack.\n\nNote that installing this on a creature that already has a venomous spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_MakeVenomousSpitterImplant.description>
+  <AA_MakeVenomousSpitterImplant.jobString>Making venomous spitter implant</AA_MakeVenomousSpitterImplant.jobString>
+  <AA_MakeAcidicSpitterImplant.label>make an acidic spitter implant</AA_MakeAcidicSpitterImplant.label>
+  <AA_MakeAcidicSpitterImplant.description>Make an acidic spitter from a Red Goo, Green Goo, Mantrap, Red Spore or Ocular Jelly corpse. This implant will allow this creature to use a ranged acidic spit attack that causes additional damage over time.\n\nNote that installing this on a creature that already has an acidic spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_MakeAcidicSpitterImplant.description>
+  <AA_MakeAcidicSpitterImplant.jobString>Making acidic spitter implant</AA_MakeAcidicSpitterImplant.jobString>
+  <AA_MakeBarbedQuillThrowerImplant.label>make a barbed quill thrower implant</AA_MakeBarbedQuillThrowerImplant.label>
+  <AA_MakeBarbedQuillThrowerImplant.description>Make a barbed quill thrower implant from a Barbslinger, Nightling, Night Ave, Needleroll or Needlepost corpse. This implant will allow this creature to use a ranged venomous quill attack that causes toxic buildup.\n\nNote that installing this on a creature that already has a barbed quill thrower will have no effect.</AA_MakeBarbedQuillThrowerImplant.description>
+  <AA_MakeBarbedQuillThrowerImplant.jobString>Making barbed quill thrower implant</AA_MakeBarbedQuillThrowerImplant.jobString>
+  <AA_MakeQuadTeslaCannonImplant.label>make a quad tesla cannon implant</AA_MakeQuadTeslaCannonImplant.label>
+  <AA_MakeQuadTeslaCannonImplant.description>Make a quad tesla cannon implant from a Tetra slug corpse. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_MakeQuadTeslaCannonImplant.description>
+  <AA_MakeQuadTeslaCannonImplant.jobString>Making quad tesla cannon implant</AA_MakeQuadTeslaCannonImplant.jobString>
+  <AA_MakeBioelectricOrganImplant.label>make a bioelectric organ implant</AA_MakeBioelectricOrganImplant.label>
+  <AA_MakeBioelectricOrganImplant.description>Make a bioelectric organ implant from a Thunderbeast corpse. This implant will allow this creature to use a powerful ranged electric attack that may paralyze and cause heart attacks.\n\nNote that installing this on a creature that already has a bioelectric organ will have no effect.</AA_MakeBioelectricOrganImplant.description>
+  <AA_MakeBioelectricOrganImplant.jobString>Making bioelectric organ implant</AA_MakeBioelectricOrganImplant.jobString>
+  <AA_MakeLightFocusingLensImplant.label>make a light focusing lens implant</AA_MakeLightFocusingLensImplant.label>
+  <AA_MakeLightFocusingLensImplant.description>Make a light focusing lens implant from a Crystalline Caracal corpse. This implant will allow this creature to use a powerful ranged laser attack that sets enemies on fire.\n\nNote that installing this on a creature that already has a light focusing lens will have no effect. This implant takes the space of one of the creature's eyes, so it can't be installed in eyeless animals.</AA_MakeLightFocusingLensImplant.description>
+  <AA_MakeLightFocusingLensImplant.jobString>Making light focusing lens implant</AA_MakeLightFocusingLensImplant.jobString>
+  <AA_MakeHyperAcidicStomachImplant.label>make a hyper acidic stomach implant</AA_MakeHyperAcidicStomachImplant.label>
+  <AA_MakeHyperAcidicStomachImplant.description>Make a hyper acidic stomach implant from an Erin corpse. This implant will allow this creature to use a ranged acid attack that causes damage over time.\n\nNote that installing this on a creature that already has a hyper acidic stomach will have no effect. This implant takes the space of the creature's stomach, so it can't be installed in animals that lack one.</AA_MakeHyperAcidicStomachImplant.description>
+  <AA_MakeHyperAcidicStomachImplant.jobString>Making hyper acidic stomach implant</AA_MakeHyperAcidicStomachImplant.jobString>
   <AB_InstallSimpleTentacle.label>install simple prosthetic tentacle</AB_InstallSimpleTentacle.label>
   <AB_InstallSimpleTentacle.description>Installs simple prosthetic tentacle.</AB_InstallSimpleTentacle.description>
   <AB_InstallSimpleTentacle.jobString>Installing simple prosthetic tentacle.</AB_InstallSimpleTentacle.jobString>
@@ -66,79 +90,49 @@
   <AA_InstallRangedSpinneretImplant.label>install ranged spinneret implant</AA_InstallRangedSpinneretImplant.label>
   <AA_InstallRangedSpinneretImplant.description>Install a ranged spinneret. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_InstallRangedSpinneretImplant.description>
   <AA_InstallRangedSpinneretImplant.jobString>Installing ranged spinneret implant.</AA_InstallRangedSpinneretImplant.jobString>
-  <AA_MakeRangedSpinneretImplant.label>make a ranged spinneret implant</AA_MakeRangedSpinneretImplant.label>
-  <AA_MakeRangedSpinneretImplant.description>Make a ranged spinneret implant from a Feralisk, Dunealisk, Blizzarisk, Cinderlisk, Junglelisk or Animalisk corpse. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_MakeRangedSpinneretImplant.description>
-  <AA_MakeRangedSpinneretImplant.jobString>Making ranged spinneret implant</AA_MakeRangedSpinneretImplant.jobString>
   <AA_RemoveRangedSpinneretImplant.label>remove ranged spinneret implant</AA_RemoveRangedSpinneretImplant.label>
   <AA_RemoveRangedSpinneretImplant.description>Remove ranged spinneret implant.</AA_RemoveRangedSpinneretImplant.description>
   <AA_RemoveRangedSpinneretImplant.jobString>Removing ranged spinneret implant.</AA_RemoveRangedSpinneretImplant.jobString>
   <AA_InstallVenomousSpitterImplant.label>install venomous spitter implant</AA_InstallVenomousSpitterImplant.label>
   <AA_InstallVenomousSpitterImplant.description>Install a venomous spitter. This implant will allow this creature to use a ranged venomous spit attack.\n\nNote that installing this on a creature that already has a venomous spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_InstallVenomousSpitterImplant.description>
   <AA_InstallVenomousSpitterImplant.jobString>Installing venomous spitter implant.</AA_InstallVenomousSpitterImplant.jobString>
-  <AA_MakeVenomousSpitterImplant.label>make a venomous spitter implant</AA_MakeVenomousSpitterImplant.label>
-  <AA_MakeVenomousSpitterImplant.description>Make a venomous spitter from a Black Spelopede or Blackspider corpse. This implant will allow this creature to use a ranged venomous spit attack.\n\nNote that installing this on a creature that already has a venomous spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_MakeVenomousSpitterImplant.description>
-  <AA_MakeVenomousSpitterImplant.jobString>Making venomous spitter implant</AA_MakeVenomousSpitterImplant.jobString>
   <AA_RemoveVenomousSpitterImplant.label>remove venomous spitter implant</AA_RemoveVenomousSpitterImplant.label>
   <AA_RemoveVenomousSpitterImplant.description>Remove venomous spitter implant.</AA_RemoveVenomousSpitterImplant.description>
   <AA_RemoveVenomousSpitterImplant.jobString>Removing venomous spitter implant.</AA_RemoveVenomousSpitterImplant.jobString>
   <AA_InstallAcidicSpitterImplant.label>install acidic spitter implant</AA_InstallAcidicSpitterImplant.label>
   <AA_InstallAcidicSpitterImplant.description>Install an acidic spitter. This implant will allow this creature to use a ranged acidic spit attack that causes additional damage over time.\n\nNote that installing this on a creature that already has an acidic spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_InstallAcidicSpitterImplant.description>
   <AA_InstallAcidicSpitterImplant.jobString>Installing acidic spitter implant.</AA_InstallAcidicSpitterImplant.jobString>
-  <AA_MakeAcidicSpitterImplant.label>make an acidic spitter implant</AA_MakeAcidicSpitterImplant.label>
-  <AA_MakeAcidicSpitterImplant.description>Make an acidic spitter from a Red Goo, Green Goo, Mantrap, Red Spore or Ocular Jelly corpse. This implant will allow this creature to use a ranged acidic spit attack that causes additional damage over time.\n\nNote that installing this on a creature that already has an acidic spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_MakeAcidicSpitterImplant.description>
-  <AA_MakeAcidicSpitterImplant.jobString>Making acidic spitter implant</AA_MakeAcidicSpitterImplant.jobString>
   <AA_RemoveAcidicSpitterImplant.label>remove acidic spitter implant</AA_RemoveAcidicSpitterImplant.label>
   <AA_RemoveAcidicSpitterImplant.description>Remove acidic spitter implant.</AA_RemoveAcidicSpitterImplant.description>
   <AA_RemoveAcidicSpitterImplant.jobString>Removing acidic spitter implant.</AA_RemoveAcidicSpitterImplant.jobString>
   <AA_InstallBarbedQuillThrowerImplant.label>install barbed quill thrower implant</AA_InstallBarbedQuillThrowerImplant.label>
   <AA_InstallBarbedQuillThrowerImplant.description>Install a barbed quill thrower. This implant will allow this creature to use a ranged venomous quill attack that causes toxic buildup.\n\nNote that installing this on a creature that already has a barbed quill thrower will have no effect.</AA_InstallBarbedQuillThrowerImplant.description>
   <AA_InstallBarbedQuillThrowerImplant.jobString>Installing barbed quill thrower implant.</AA_InstallBarbedQuillThrowerImplant.jobString>
-  <AA_MakeBarbedQuillThrowerImplant.label>make a barbed quill thrower implant</AA_MakeBarbedQuillThrowerImplant.label>
-  <AA_MakeBarbedQuillThrowerImplant.description>Make a barbed quill thrower implant from a Barbslinger, Nightling, Night Ave, Needleroll or Needlepost corpse. This implant will allow this creature to use a ranged venomous quill attack that causes toxic buildup.\n\nNote that installing this on a creature that already has a barbed quill thrower will have no effect.</AA_MakeBarbedQuillThrowerImplant.description>
-  <AA_MakeBarbedQuillThrowerImplant.jobString>Making barbed quill thrower implant</AA_MakeBarbedQuillThrowerImplant.jobString>
   <AA_RemoveBarbedQuillThrowerImplant.label>remove barbed quill thrower implant</AA_RemoveBarbedQuillThrowerImplant.label>
   <AA_RemoveBarbedQuillThrowerImplant.description>Remove barbed quill thrower implant.</AA_RemoveBarbedQuillThrowerImplant.description>
   <AA_RemoveBarbedQuillThrowerImplant.jobString>Removing barbed quill thrower implant.</AA_RemoveBarbedQuillThrowerImplant.jobString>
   <AA_InstallQuadTeslaCannonImplant.label>install quad tesla cannon implant</AA_InstallQuadTeslaCannonImplant.label>
   <AA_InstallQuadTeslaCannonImplant.description>Install a quad tesla cannon. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_InstallQuadTeslaCannonImplant.description>
   <AA_InstallQuadTeslaCannonImplant.jobString>Installing quad tesla cannon implant.</AA_InstallQuadTeslaCannonImplant.jobString>
-  <AA_MakeQuadTeslaCannonImplant.label>make a quad tesla cannon implant</AA_MakeQuadTeslaCannonImplant.label>
-  <AA_MakeQuadTeslaCannonImplant.description>Make a quad tesla cannon implant from a Tetra slug corpse. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_MakeQuadTeslaCannonImplant.description>
-  <AA_MakeQuadTeslaCannonImplant.jobString>Making quad tesla cannon implant</AA_MakeQuadTeslaCannonImplant.jobString>
   <AA_RemoveQuadTeslaCannonImplant.label>remove quad tesla cannon implant</AA_RemoveQuadTeslaCannonImplant.label>
   <AA_RemoveQuadTeslaCannonImplant.description>Remove quad tesla cannon implant.</AA_RemoveQuadTeslaCannonImplant.description>
   <AA_RemoveQuadTeslaCannonImplant.jobString>Removing quad tesla cannon implant.</AA_RemoveQuadTeslaCannonImplant.jobString>
   <AA_InstallBioelectricOrganImplant.label>install bioelectric organ implant</AA_InstallBioelectricOrganImplant.label>
   <AA_InstallBioelectricOrganImplant.description>Install a bioelectric organ. This implant will allow this creature to use a powerful ranged electric attack that may paralyze and cause heart attacks.\n\nNote that installing this on a creature that already has a bioelectric organ will have no effect.</AA_InstallBioelectricOrganImplant.description>
   <AA_InstallBioelectricOrganImplant.jobString>Installing bioelectric organ implant.</AA_InstallBioelectricOrganImplant.jobString>
-  <AA_MakeBioelectricOrganImplant.label>make a bioelectric organ implant</AA_MakeBioelectricOrganImplant.label>
-  <AA_MakeBioelectricOrganImplant.description>Make a bioelectric organ implant from a Thunderbeast corpse. This implant will allow this creature to use a powerful ranged electric attack that may paralyze and cause heart attacks.\n\nNote that installing this on a creature that already has a bioelectric organ will have no effect.</AA_MakeBioelectricOrganImplant.description>
-  <AA_MakeBioelectricOrganImplant.jobString>Making bioelectric organ implant</AA_MakeBioelectricOrganImplant.jobString>
   <AA_RemoveBioelectricOrganImplant.label>remove bioelectric organ implant</AA_RemoveBioelectricOrganImplant.label>
   <AA_RemoveBioelectricOrganImplant.description>Remove bioelectric organ implant.</AA_RemoveBioelectricOrganImplant.description>
   <AA_RemoveBioelectricOrganImplant.jobString>Removing bioelectric organ implant.</AA_RemoveBioelectricOrganImplant.jobString>
   <AA_InstallLightFocusingLensImplant.label>install light focusing lens implant</AA_InstallLightFocusingLensImplant.label>
   <AA_InstallLightFocusingLensImplant.description>Install a light focusing lens. This implant will allow this creature to use a powerful ranged laser attack that sets enemies on fire.\n\nNote that installing this on a creature that already has a light focusing lens will have no effect. This implant takes the space of one of the creature's eyes, so it can't be installed in eyeless animals.</AA_InstallLightFocusingLensImplant.description>
   <AA_InstallLightFocusingLensImplant.jobString>Installing light focusing lens implant.</AA_InstallLightFocusingLensImplant.jobString>
-  <AA_MakeLightFocusingLensImplant.label>make a light focusing lens implant</AA_MakeLightFocusingLensImplant.label>
-  <AA_MakeLightFocusingLensImplant.description>Make a light focusing lens implant from a Crystalline Caracal corpse. This implant will allow this creature to use a powerful ranged laser attack that sets enemies on fire.\n\nNote that installing this on a creature that already has a light focusing lens will have no effect. This implant takes the space of one of the creature's eyes, so it can't be installed in eyeless animals.</AA_MakeLightFocusingLensImplant.description>
-  <AA_MakeLightFocusingLensImplant.jobString>Making light focusing lens implant</AA_MakeLightFocusingLensImplant.jobString>
   <AA_RemoveLightFocusingLensImplant.label>remove light focusing lens implant</AA_RemoveLightFocusingLensImplant.label>
   <AA_RemoveLightFocusingLensImplant.description>Remove light focusing lens implant.</AA_RemoveLightFocusingLensImplant.description>
   <AA_RemoveLightFocusingLensImplant.jobString>Removing light focusing lens implant.</AA_RemoveLightFocusingLensImplant.jobString>
   <AA_InstallHyperAcidicStomachImplant.label>install hyper acidic stomach implant</AA_InstallHyperAcidicStomachImplant.label>
   <AA_InstallHyperAcidicStomachImplant.description>Install a hyper acidic stomach. This implant will allow this creature to use a ranged acid attack that causes damage over time.\n\nNote that installing this on a creature that already has a hyper acidic stomach will have no effect. This implant takes the space of the creature's stomach, so it can't be installed in animals that lack one.</AA_InstallHyperAcidicStomachImplant.description>
   <AA_InstallHyperAcidicStomachImplant.jobString>Installing hyper acidic stomach implant.</AA_InstallHyperAcidicStomachImplant.jobString>
-  <AA_MakeHyperAcidicStomachImplant.label>make a hyper acidic stomach implant</AA_MakeHyperAcidicStomachImplant.label>
-  <AA_MakeHyperAcidicStomachImplant.description>Make a hyper acidic stomach implant from an Erin corpse. This implant will allow this creature to use a ranged acid attack that causes damage over time.\n\nNote that installing this on a creature that already has a hyper acidic stomach will have no effect. This implant takes the space of the creature's stomach, so it can't be installed in animals that lack one.</AA_MakeHyperAcidicStomachImplant.description>
-  <AA_MakeHyperAcidicStomachImplant.jobString>Making hyper acidic stomach implant</AA_MakeHyperAcidicStomachImplant.jobString>
   <AA_RemoveHyperAcidicStomachImplant.label>remove hyper acidic stomach implant</AA_RemoveHyperAcidicStomachImplant.label>
   <AA_RemoveHyperAcidicStomachImplant.description>Remove hyper acidic stomach implant.</AA_RemoveHyperAcidicStomachImplant.description>
   <AA_RemoveHyperAcidicStomachImplant.jobString>Removing hyper acidic stomach implant.</AA_RemoveHyperAcidicStomachImplant.jobString>
-  <RB_MakeSynthreadCloth.label>weave eleven synthread cloth from silk</RB_MakeSynthreadCloth.label>
-  <RB_MakeSynthreadCloth.description>weave synthread cloth from Synthread Silk and plasteel thread. \n\nMakes 11 cloth.</RB_MakeSynthreadCloth.description>
-  <RB_MakeSynthreadCloth.jobString>weaving synthread cloth.</RB_MakeSynthreadCloth.jobString>
-  <RB_MakeHyperweaveCloth.label>weave fifteen hyperweave cloth from silk</RB_MakeHyperweaveCloth.label>
-  <RB_MakeHyperweaveCloth.description>weave hyperweave cloth from hyperweave Silk and plasteel thread. \n\nMakes 15 cloth.</RB_MakeHyperweaveCloth.description>
-  <RB_MakeHyperweaveCloth.jobString>weaving hyperweave cloth.</RB_MakeHyperweaveCloth.jobString>
 </LanguageData>

@@ -25,8 +25,6 @@
   <AA_Arachnid.corePart.parts.7.customLabel>right second leg</AA_Arachnid.corePart.parts.7.customLabel>
   <AA_Arachnid.corePart.parts.8.customLabel>left third leg</AA_Arachnid.corePart.parts.8.customLabel>
   <AA_Arachnid.corePart.parts.9.customLabel>right third leg</AA_Arachnid.corePart.parts.9.customLabel>
-  <AA_Arachnid.corePart.parts.10.customLabel>left fourth leg</AA_Arachnid.corePart.parts.10.customLabel>
-  <AA_Arachnid.corePart.parts.11.customLabel>right fourth leg</AA_Arachnid.corePart.parts.11.customLabel>
   <AA_ArmouredSlug.label>armoured slug</AA_ArmouredSlug.label>
   <AA_ArmouredSlug.corePart.parts.1.customLabel>left lung</AA_ArmouredSlug.corePart.parts.1.customLabel>
   <AA_ArmouredSlug.corePart.parts.2.customLabel>right lung</AA_ArmouredSlug.corePart.parts.2.customLabel>
@@ -140,6 +138,13 @@
   <AA_ExtraClawedQuadruped.corePart.parts.14.parts.0.customLabel>rear left paw</AA_ExtraClawedQuadruped.corePart.parts.14.parts.0.customLabel>
   <AA_ExtraClawedQuadruped.corePart.parts.15.customLabel>rear right leg</AA_ExtraClawedQuadruped.corePart.parts.15.customLabel>
   <AA_ExtraClawedQuadruped.corePart.parts.15.parts.0.customLabel>rear right paw</AA_ExtraClawedQuadruped.corePart.parts.15.parts.0.customLabel>
+  <AA_EyeBody.label>eye</AA_EyeBody.label>
+  <AA_EyeBody.corePart.parts.0.customLabel>stomach pouch</AA_EyeBody.corePart.parts.0.customLabel>
+  <AA_EyeBody.corePart.parts.1.customLabel>gastrovascular cavity</AA_EyeBody.corePart.parts.1.customLabel>
+  <AA_EyeBody.corePart.parts.2.parts.0.customLabel>eye</AA_EyeBody.corePart.parts.2.parts.0.customLabel>
+  <AA_EyeBody.corePart.parts.3.customLabel>first tentacle</AA_EyeBody.corePart.parts.3.customLabel>
+  <AA_EyeBody.corePart.parts.4.customLabel>second tentacle</AA_EyeBody.corePart.parts.4.customLabel>
+  <AA_EyeBody.corePart.parts.5.customLabel>third tentacle</AA_EyeBody.corePart.parts.5.customLabel>
   <AA_EyelessQuadruped.label>eyeless quadruped animal</AA_EyelessQuadruped.label>
   <AA_EyelessQuadruped.corePart.parts.2.customLabel>stomach</AA_EyelessQuadruped.corePart.parts.2.customLabel>
   <AA_EyelessQuadruped.corePart.parts.4.customLabel>left lung</AA_EyelessQuadruped.corePart.parts.4.customLabel>
@@ -181,8 +186,16 @@
   <AA_FourEyedQuadruped.corePart.parts.13.parts.0.customLabel>rear right paw</AA_FourEyedQuadruped.corePart.parts.13.parts.0.customLabel>
   <AA_GooBody.label>green goo</AA_GooBody.label>
   <AA_GooBody.corePart.parts.0.customLabel>nucleus</AA_GooBody.corePart.parts.0.customLabel>
-  <AA_GooBody.corePart.parts.1.customLabel>first tentacle</AA_GooBody.corePart.parts.1.customLabel>
-  <AA_GooBody.corePart.parts.2.customLabel>second tentacle</AA_GooBody.corePart.parts.2.customLabel>
+  <AA_GooBody.corePart.parts.1.customLabel>membrane</AA_GooBody.corePart.parts.1.customLabel>
+  <AA_GooBody.corePart.parts.2.customLabel>first tentacle</AA_GooBody.corePart.parts.2.customLabel>
+  <AA_GooBody.corePart.parts.3.customLabel>second tentacle</AA_GooBody.corePart.parts.3.customLabel>
+  <AA_GooWithTeethBody.label>green goo</AA_GooWithTeethBody.label>
+  <AA_GooWithTeethBody.corePart.parts.0.customLabel>nucleus</AA_GooWithTeethBody.corePart.parts.0.customLabel>
+  <AA_GooWithTeethBody.corePart.parts.1.customLabel>membrane</AA_GooWithTeethBody.corePart.parts.1.customLabel>
+  <AA_GooWithTeethBody.corePart.parts.3.customLabel>first tentacle</AA_GooWithTeethBody.corePart.parts.3.customLabel>
+  <AA_GooWithTeethBody.corePart.parts.4.customLabel>second tentacle</AA_GooWithTeethBody.corePart.parts.4.customLabel>
+  <AA_GooWithTeethBody.corePart.parts.5.customLabel>third tentacle</AA_GooWithTeethBody.corePart.parts.5.customLabel>
+  <AA_GooWithTeethBody.corePart.parts.6.customLabel>fourth tentacle</AA_GooWithTeethBody.corePart.parts.6.customLabel>
   <AA_Hexapod.label>hexapod</AA_Hexapod.label>
   <AA_Hexapod.corePart.parts.1.customLabel>left spine</AA_Hexapod.corePart.parts.1.customLabel>
   <AA_Hexapod.corePart.parts.2.customLabel>right spine</AA_Hexapod.corePart.parts.2.customLabel>
@@ -253,14 +266,14 @@
   <AA_OcularJellyBody.corePart.parts.1.customLabel>gastrovascular cavity</AA_OcularJellyBody.corePart.parts.1.customLabel>
   <AA_OcularJellyBody.corePart.parts.2.customLabel>left hydrogen sac</AA_OcularJellyBody.corePart.parts.2.customLabel>
   <AA_OcularJellyBody.corePart.parts.3.customLabel>right hydrogen sac</AA_OcularJellyBody.corePart.parts.3.customLabel>
-  <AA_OcularJellyBody.corePart.parts.4.customLabel>first eye spot</AA_OcularJellyBody.corePart.parts.4.customLabel>
-  <AA_OcularJellyBody.corePart.parts.5.customLabel>second eye spot</AA_OcularJellyBody.corePart.parts.5.customLabel>
-  <AA_OcularJellyBody.corePart.parts.6.customLabel>third eye spot</AA_OcularJellyBody.corePart.parts.6.customLabel>
-  <AA_OcularJellyBody.corePart.parts.7.customLabel>fourth eye spot</AA_OcularJellyBody.corePart.parts.7.customLabel>
-  <AA_OcularJellyBody.corePart.parts.8.customLabel>fifth eye spot</AA_OcularJellyBody.corePart.parts.8.customLabel>
-  <AA_OcularJellyBody.corePart.parts.10.customLabel>first tentacle</AA_OcularJellyBody.corePart.parts.10.customLabel>
-  <AA_OcularJellyBody.corePart.parts.11.customLabel>second tentacle</AA_OcularJellyBody.corePart.parts.11.customLabel>
-  <AA_OcularJellyBody.corePart.parts.12.customLabel>third tentacle</AA_OcularJellyBody.corePart.parts.12.customLabel>
+  <AA_OcularJellyBody.corePart.parts.4.parts.0.customLabel>first eye spot</AA_OcularJellyBody.corePart.parts.4.parts.0.customLabel>
+  <AA_OcularJellyBody.corePart.parts.4.parts.1.customLabel>second eye spot</AA_OcularJellyBody.corePart.parts.4.parts.1.customLabel>
+  <AA_OcularJellyBody.corePart.parts.4.parts.2.customLabel>third eye spot</AA_OcularJellyBody.corePart.parts.4.parts.2.customLabel>
+  <AA_OcularJellyBody.corePart.parts.4.parts.3.customLabel>fourth eye spot</AA_OcularJellyBody.corePart.parts.4.parts.3.customLabel>
+  <AA_OcularJellyBody.corePart.parts.4.parts.4.customLabel>fifth eye spot</AA_OcularJellyBody.corePart.parts.4.parts.4.customLabel>
+  <AA_OcularJellyBody.corePart.parts.5.customLabel>first tentacle</AA_OcularJellyBody.corePart.parts.5.customLabel>
+  <AA_OcularJellyBody.corePart.parts.6.customLabel>second tentacle</AA_OcularJellyBody.corePart.parts.6.customLabel>
+  <AA_OcularJellyBody.corePart.parts.7.customLabel>third tentacle</AA_OcularJellyBody.corePart.parts.7.customLabel>
   <AA_RaptorBody.label>raptor</AA_RaptorBody.label>
   <AA_RaptorBody.corePart.parts.4.customLabel>left lung</AA_RaptorBody.corePart.parts.4.customLabel>
   <AA_RaptorBody.corePart.parts.5.customLabel>right lung</AA_RaptorBody.corePart.parts.5.customLabel>

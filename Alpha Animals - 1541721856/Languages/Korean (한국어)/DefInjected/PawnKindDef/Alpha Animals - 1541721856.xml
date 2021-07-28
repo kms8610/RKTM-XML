@@ -68,7 +68,9 @@
   <AA_Dunealisk.label>dunealisk</AA_Dunealisk.label>
   <AA_DunealiskClutchMother.label>dunealisk clutch mother</AA_DunealiskClutchMother.label>
   <AA_DuskRat.label>dusk rat</AA_DuskRat.label>
+  <AA_EngorgedTentacularAberration.label>engorged tentacular aberration</AA_EngorgedTentacularAberration.label>
   <AA_Erin.label>erin</AA_Erin.label>
+  <AA_Eyeling.label>eyeling</AA_Eyeling.label>
   <AA_Feralisk.label>feralisk</AA_Feralisk.label>
   <AA_FeraliskClutchMother.label>feralisk clutch mother</AA_FeraliskClutchMother.label>
   <AA_FireWasp.label>fire wasp</AA_FireWasp.label>
@@ -133,6 +135,9 @@
   <AA_NightRam.lifeStages.0.label>nightram calf</AA_NightRam.lifeStages.0.label>
   <AA_NightRam.lifeStages.0.labelPlural>nightram calves</AA_NightRam.lifeStages.0.labelPlural>
   <AA_OcularJelly.label>ocular jelly</AA_OcularJelly.label>
+  <AA_OcularNightling.label>ocular nightling</AA_OcularNightling.label>
+  <AA_OcularNightling.lifeStages.0.label>ocular nightling cub</AA_OcularNightling.lifeStages.0.label>
+  <AA_OcularNightling.lifeStages.0.labelPlural>ocular nightling puppies</AA_OcularNightling.lifeStages.0.labelPlural>
   <AA_OvergrownColossus.label>overgrown colossus</AA_OvergrownColossus.label>
   <AA_PebbleMit.label>pebblemit</AA_PebbleMit.label>
   <AA_PebbleMit.lifeStages.0.label>pebblemit</AA_PebbleMit.lifeStages.0.label>
@@ -188,6 +193,7 @@
   <AA_TetraSlug.lifeStages.1.label>tetra slug</AA_TetraSlug.lifeStages.1.label>
   <AA_Thermadon.label>thermadon</AA_Thermadon.label>
   <AA_Thunderbeast.label>thunderbeast</AA_Thunderbeast.label>
+  <AA_UnblinkingEye.label>unblinking eye</AA_UnblinkingEye.label>
   <AA_WaywardMobileAssembler.label>wayward mobile assembler</AA_WaywardMobileAssembler.label>
   <AA_Wildpawn.label>wildpawn</AA_Wildpawn.label>
   <AA_Wildpod.label>wildpod</AA_Wildpod.label>
@@ -198,9 +204,6 @@
   <AA_Goliath.label>goliath</AA_Goliath.label>
   <AA_Phalanx.label>phalanx</AA_Phalanx.label>
   <AA_Siegebreaker.label>siegebreaker</AA_Siegebreaker.label>
-  <AA_ColossalNautiloid.label>Colossal Nautiloid</AA_ColossalNautiloid.label>
-  <AA_MirachianManowar.label>Mirachian Man O'War</AA_MirachianManowar.label>
-  <AA_IronboundLeviathan.label>Ironbound Leviathan</AA_IronboundLeviathan.label>
   <VFE_Mech_Aura.label>aura</VFE_Mech_Aura.label>
   <VFE_Mech_Daggersnout.label>daggersnout</VFE_Mech_Daggersnout.label>
   <VFE_Mech_Fireworm.label>fireworm</VFE_Mech_Fireworm.label>
@@ -213,4 +216,8 @@
   <VFE_Mech_Advanced_Goliath.label>colossus</VFE_Mech_Advanced_Goliath.label>
   <VFE_Mech_Advanced_Phalanx.label>hoplite</VFE_Mech_Advanced_Phalanx.label>
   <VFE_Mech_Advanced_Siegebreaker.label>siegemaster</VFE_Mech_Advanced_Siegebreaker.label>
+  <AA_Dryad_Ocular.label>ocular dryad</AA_Dryad_Ocular.label>
+  <AA_Dryad_Spitter.label>spitter dryad</AA_Dryad_Spitter.label>
+  <AA_Dryad_Corruptor.label>corruptor dryad</AA_Dryad_Corruptor.label>
+  <AA_Dryad_Unstable.label>unstable dryad</AA_Dryad_Unstable.label>
 </LanguageData>

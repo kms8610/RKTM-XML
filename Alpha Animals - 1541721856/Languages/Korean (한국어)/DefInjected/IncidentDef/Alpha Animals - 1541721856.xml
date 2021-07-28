@@ -13,9 +13,7 @@
   <AA_Incident_Bumbledrones.label>bumbledrone migration</AA_Incident_Bumbledrones.label>
   <AA_Incident_BlackHive.label>black hive attack</AA_Incident_BlackHive.label>
   <AA_Incident_MechSappers.label>mechanoid sappers</AA_Incident_MechSappers.label>
-  <AA_MimeWandererJoin.label>wanderer join</AA_MimeWandererJoin.label>
-  <AA_MimeWandererJoin.letterLabel>Wanderer joins: {PAWN_nameDef}</AA_MimeWandererJoin.letterLabel>
-  <AA_MimeWandererJoin.letterText>A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.</AA_MimeWandererJoin.letterText>
+  <AA_MimeWandererJoinQuest.label>wanderer join</AA_MimeWandererJoinQuest.label>
   <AA_ResourcePodCrash.label>alpha animal resource pod crash</AA_ResourcePodCrash.label>
   <AA_IncidentFungalHusk.label>fungal husks</AA_IncidentFungalHusk.label>
   <AA_Eclipse.label>mechanite eclipse</AA_Eclipse.label>

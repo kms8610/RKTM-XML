@@ -14,6 +14,7 @@
   <AA_NotTameable>This creature is untameable</AA_NotTameable>
   <AA_GallatrossNotTameable>The Moribund Gallatross is untameable and quickly returns into the wild, awaiting to die</AA_GallatrossNotTameable>
   <AA_MimeNotTameable>The Mime refuses to be tamed</AA_MimeNotTameable>
+  <AA_ClutchmotherNotTameable>The clutchmother is too wild to be kept tamed!</AA_ClutchmotherNotTameable>
   <AA_StomachContents>{0} creatures swallowed whole. </AA_StomachContents>
   <AA_DigestionTime>Will be consumed in {0}</AA_DigestionTime>
   <AA_DestroyFlamingoEggsLabel>Smash Egg</AA_DestroyFlamingoEggsLabel>
@@ -21,6 +22,9 @@
   <AA_CancelDestroyFlamingoEggsLabel>Cancel Smashing Egg</AA_CancelDestroyFlamingoEggsLabel>
   <AA_CancelDestroyFlamingoEggsDesc>Cancel a work order to smash this egg as soon as possible</AA_CancelDestroyFlamingoEggsDesc>
   <AA_HuskNotTameable>The Fungal Husk only exists to spread its fungal infection, it can't be tamed</AA_HuskNotTameable>
+  <AA_Detonate>Detonate</AA_Detonate>
+  <AA_DetonateDesc>Force this animal to detonate. This will kill the animal and cause an explosion.</AA_DetonateDesc>
+  <AA_MessageRitualRoleNeedsDryad>Your colony needs to have an ocular dryad from a corrupted Gauranlen tree to start this ritual.</AA_MessageRitualRoleNeedsDryad>
   <LetterLabelColossalAerofleetPasses>Colossal Aerofleet</LetterLabelColossalAerofleetPasses>
   <LetterColossalAerofleetPasses>A strange floating creature bounces around in the distance, blundering around the landscape.\n\nA small horde of smaller specimens seem to be attracted to it, and follow it at a short distance.\n\nThey seem to be mostly harmless, and will probably leave the area when they have fed.</LetterColossalAerofleetPasses>
   <LetterLabelSkyAsteroid>Strange asteroid</LetterLabelSkyAsteroid>
@@ -51,6 +55,8 @@
   <AA_LetterMatureFleshbeast>A grotesque creature has swallowed {0} whole! If you act quickly, perhaps you can still save {0_objective}.</AA_LetterMatureFleshbeast>
   <AA_LetterLabelFungalHusk>Fungal Husks</AA_LetterLabelFungalHusk>
   <AA_LetterFungalHusk>Bloating, shambling corpses animated by a terrible weaponized fungus have entered this territory!\n\nDon't let them attack your colonists, or they will be afflicted by a fast acting fungal infection that can kill quickly if untreated.</AA_LetterFungalHusk>
+  <AA_LetterLabelMime>Mime revealed</AA_LetterLabelMime>
+  <AA_LetterMime>{0} was a Mime all along! {0_possessive} extreme hunger was too much for {0_objective}, and {0_pronoun} will attack the rest of the colonists to try to satiate it.</AA_LetterMime>
   <HyperweaveDesc>Hyperweave production</HyperweaveDesc>
   <AA_UraniumCrystalsDesc>Uranium crystal loosening</AA_UraniumCrystalsDesc>
   <StoneChunkDesc>Random stone chunk loosening</StoneChunkDesc>
