@@ -35,7 +35,7 @@
   <ApparelDesired_Soft_Subordinate.label>relaxed</ApparelDesired_Soft_Subordinate.label>
   <ApparelDesired_Soft_Subordinate.description>{GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} if it doesn't interfere with any other apparel.</ApparelDesired_Soft_Subordinate.description>
   <ApparelDesired_Soft_Subordinate.comps.1.description>Wearing desired apparel</ApparelDesired_Soft_Subordinate.comps.1.description>
-  <NutrientPasteEating_DontMind.label>dont mind</NutrientPasteEating_DontMind.label>
+  <NutrientPasteEating_DontMind.label>don't mind</NutrientPasteEating_DontMind.label>
   <NutrientPasteEating_DontMind.description>There's nothing wrong with a meal of efficient, healthy nutrient paste.</NutrientPasteEating_DontMind.description>
   <AutonomousWeapons_Prohibited.label>prohibited</AutonomousWeapons_Prohibited.label>
   <AutonomousWeapons_Prohibited.description>Allowing a machine to decide to kill is an absolutely inhuman thing to do.</AutonomousWeapons_Prohibited.description>
@@ -206,9 +206,9 @@
   <MeatEating_NonMeat_Disapproved.label>mildly required</MeatEating_NonMeat_Disapproved.label>
   <MeatEating_NonMeat_Disapproved.description>Every meal ought to have meat.</MeatEating_NonMeat_Disapproved.description>
   <MeatEating_NonMeat_Horrible.label>seriously required</MeatEating_NonMeat_Horrible.label>
-  <MeatEating_NonMeat_Horrible.description>Every meal must have meat.</MeatEating_NonMeat_Horrible.description>
+  <MeatEating_NonMeat_Horrible.description>Every meal must have meat. Eggs, milk, and processed food are okay as well.</MeatEating_NonMeat_Horrible.description>
   <MeatEating_NonMeat_Abhorrent.label>strictly required</MeatEating_NonMeat_Abhorrent.label>
-  <MeatEating_NonMeat_Abhorrent.description>If a meal doesn't have meat, the person who eats it must be morally deficient.</MeatEating_NonMeat_Abhorrent.description>
+  <MeatEating_NonMeat_Abhorrent.description>If a meal doesn't have meat, the person who eats it must be morally deficient. Eggs, milk, and processed foods are fine.</MeatEating_NonMeat_Abhorrent.description>
   <Mining_Prohibited.label>prohibited</Mining_Prohibited.label>
   <Mining_Prohibited.description>Raping the natural earth with mining tools is a horrifically evil act.</Mining_Prohibited.description>
   <Mining_Prohibited.comps.0.description>Mining</Mining_Prohibited.comps.0.description>
