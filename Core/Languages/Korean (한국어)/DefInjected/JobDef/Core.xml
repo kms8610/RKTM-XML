@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Nuzzle.reportString>nuzzling TargetA.</Nuzzle.reportString>
+  <Mate.reportString>mating with TargetA.</Mate.reportString>
+  <LayEgg.reportString>laying egg.</LayEgg.reportString>
+  <PredatorHunt.reportString>hunting TargetA.</PredatorHunt.reportString>
+  <Maintain.reportString>maintaining TargetA.</Maintain.reportString>
+  <PrepareCaravan_GatherItems.reportString>gathering supplies.</PrepareCaravan_GatherItems.reportString>
+  <PrepareCaravan_GatherAnimals.reportString>leading TargetA to caravan spot.</PrepareCaravan_GatherAnimals.reportString>
+  <PrepareCaravan_CollectAnimals.reportString>leading TargetA to exit.</PrepareCaravan_CollectAnimals.reportString>
+  <PrepareCaravan_GatherDownedPawns.reportString>preparing to leave.</PrepareCaravan_GatherDownedPawns.reportString>
+  <ReturnedCaravan_PenAnimals.reportString>taking TargetA back to a pen.</ReturnedCaravan_PenAnimals.reportString>
+  <MarryAdjacentPawn.reportString>marrying TargetA.</MarryAdjacentPawn.reportString>
+  <SpectateCeremony.reportString>spectating.</SpectateCeremony.reportString>
+  <StandAndBeSociallyActive.reportString>relaxing socially.</StandAndBeSociallyActive.reportString>
+  <GiveSpeech.reportString>talking.</GiveSpeech.reportString>
+  <Skygaze.reportString>skygazing.</Skygaze.reportString>
+  <Meditate.reportString>meditating.</Meditate.reportString>
+  <Pray.reportString>praying.</Pray.reportString>
+  <GoForWalk.reportString>going for a walk.</GoForWalk.reportString>
+  <BuildSnowman.reportString>building snowman.</BuildSnowman.reportString>
+  <VisitGrave.reportString>visiting grave.</VisitGrave.reportString>
+  <ViewArt.reportString>viewing art.</ViewArt.reportString>
+  <SocialRelax.reportString>relaxing socially.</SocialRelax.reportString>
+  <VisitSickPawn.reportString>cheering up patient TargetA.</VisitSickPawn.reportString>
+  <Play_Horseshoes.reportString>playing horseshoes.</Play_Horseshoes.reportString>
+  <Play_Hoopstone.reportString>playing hoopstone.</Play_Hoopstone.reportString>
+  <Play_GameOfUr.reportString>playing the game of Ur.</Play_GameOfUr.reportString>
+  <Play_Chess.reportString>playing chess.</Play_Chess.reportString>
+  <Play_Billiards.reportString>playing billiards.</Play_Billiards.reportString>
+  <Play_Poker.reportString>playing poker.</Play_Poker.reportString>
+  <WatchTelevision.reportString>watching television.</WatchTelevision.reportString>
+  <UseTelescope.reportString>using telescope.</UseTelescope.reportString>
+  <Goto.reportString>moving.</Goto.reportString>
+  <Follow.reportString>following TargetA.</Follow.reportString>
+  <FollowClose.reportString>following TargetA.</FollowClose.reportString>
+  <FollowRoper.reportString>following TargetA.</FollowRoper.reportString>
+  <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>wandering.</GotoWander.reportString>
+  <Wait.reportString>standing.</Wait.reportString>
+  <Wait_MaintainPosture.reportString>standing.</Wait_MaintainPosture.reportString>
+  <Wait_Downed.reportString>downed.</Wait_Downed.reportString>
+  <Wait_SafeTemperature.reportString>waiting in safe temperature.</Wait_SafeTemperature.reportString>
+  <Wait_Wander.reportString>wandering.</Wait_Wander.reportString>
+  <Wait_Combat.reportString>watching for targets.</Wait_Combat.reportString>
+  <AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
+  <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
+  <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  <Equip.reportString>equipping TargetA.</Equip.reportString>
+  <TakeInventory.reportString>taking TargetA to inventory.</TakeInventory.reportString>
+  <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
+  <Wear.reportString>wearing TargetA.</Wear.reportString>
+  <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
+  <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+  <Strip.reportString>stripping TargetA.</Strip.reportString>
+  <Open.reportString>opening TargetA.</Open.reportString>
+  <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
+  <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
+  <Refuel.reportString>refueling TargetA.</Refuel.reportString>
+  <RefuelAtomic.reportString>refueling TargetA.</RefuelAtomic.reportString>
+  <Reload.reportString>reloading TargetA.</Reload.reportString>
+  <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <ApplyTechprint.reportString>applying TargetB.</ApplyTechprint.reportString>
+  <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
+  <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
+  <HaulToTransporter.reportString>hauling TargetA.</HaulToTransporter.reportString>
+  <ManTurret.reportString>operating turret.</ManTurret.reportString>
+  <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
+  <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
+  <UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
+  <UseItem.reportString>using TargetA.</UseItem.reportString>
+  <TriggerFirefoamPopper.reportString>triggering firefoam popper.</TriggerFirefoamPopper.reportString>
+  <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
+  <Vomit.reportString>vomiting.</Vomit.reportString>
+  <Flick.reportString>flicking switch.</Flick.reportString>
+  <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
+  <Flee.reportString>fleeing.</Flee.reportString>
+  <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
+  <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
+  <Resurrect.reportString>resurrecting TargetA.</Resurrect.reportString>
+  <Insult.reportString>insulting TargetA.</Insult.reportString>
+  <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
+  <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
+  <OfferHelp.reportString>helping TargetA.</OfferHelp.reportString>
+  <EmptyThingContainer.reportString>emptying TargetA.</EmptyThingContainer.reportString>
+  <DeliverToCell.reportString>delivering TargetA.</DeliverToCell.reportString>
+  <DeliverToBed.reportString>delivering TargetA.</DeliverToBed.reportString>
+  <TakeCountToInventory.reportString>taking TargetA to inventory.</TakeCountToInventory.reportString>
+  <Ignite.reportString>igniting TargetA.</Ignite.reportString>
+  <BeatFire.reportString>beating fire out.</BeatFire.reportString>
+  <ExtinguishSelf.reportString>extinguishing self.</ExtinguishSelf.reportString>
+  <Ingest.reportString>consuming TargetA.</Ingest.reportString>
+  <LayDown.reportString>lying down.</LayDown.reportString>
+  <LayDownAwake.reportString>lying down.</LayDownAwake.reportString>
+  <LayDownResting.reportString>lying down.</LayDownResting.reportString>
+  <Lovin.reportString>lovin'.</Lovin.reportString>
+  <GotoMindControlled.reportString>moving.</GotoMindControlled.reportString>
+  <HaulToCell.reportString>hauling TargetA.</HaulToCell.reportString>
+  <HaulToContainer.reportString>hauling TargetA.</HaulToContainer.reportString>
+  <Steal.reportString>stealing TargetA.</Steal.reportString>
+  <Kidnap.reportString>kidnapping TargetA.</Kidnap.reportString>
+  <CarryDownedPawnToExit.reportString>carrying TargetA.</CarryDownedPawnToExit.reportString>
+  <Rescue.reportString>rescuing TargetA.</Rescue.reportString>
+  <CarryToCryptosleepCasket.reportString>carrying TargetA to cryptosleep casket.</CarryToCryptosleepCasket.reportString>
+  <Capture.reportString>capturing TargetA.</Capture.reportString>
+  <Arrest.reportString>arresting TargetA.</Arrest.reportString>
+  <ReleasePrisoner.reportString>releasing TargetA.</ReleasePrisoner.reportString>
+  <EscortPrisonerToBed.reportString>escorting prisoner TargetA.</EscortPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>taking wounded prisoner TargetA.</TakeWoundedPrisonerToBed.reportString>
+  <TakeToBedToOperate.reportString>taking TargetA to bed.</TakeToBedToOperate.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>taking TargetA to bed.</TakeDownedPawnToBedDrafted.reportString>
+  <CarryDownedPawnDrafted.reportString>carrying TargetA.</CarryDownedPawnDrafted.reportString>
+  <CarryToCryptosleepCasketDrafted.reportString>carrying TargetA to cryptosleep casket.</CarryToCryptosleepCasketDrafted.reportString>
+  <CarryToPrisonerBedDrafted.reportString>arresting TargetA.</CarryToPrisonerBedDrafted.reportString>
+  <Slaughter.reportString>slaughtering TargetA.</Slaughter.reportString>
+  <Milk.reportString>milking TargetA.</Milk.reportString>
+  <Shear.reportString>shearing TargetA.</Shear.reportString>
+  <Tame.reportString>taming TargetA.</Tame.reportString>
+  <Train.reportString>training TargetA.</Train.reportString>
+  <RopeToPen.reportString>leading TargetA to TargetC.</RopeToPen.reportString>
+  <RopeRoamerToUnenclosedPen.reportString>leading TargetA to TargetC.</RopeRoamerToUnenclosedPen.reportString>
+  <Unrope.reportString>unroping TargetA.</Unrope.reportString>
+  <ReleaseAnimalToWild.reportString>releasing TargetA into the wild.</ReleaseAnimalToWild.reportString>
+  <PlaceNoCostFrame.reportString>building TargetA.</PlaceNoCostFrame.reportString>
+  <FinishFrame.reportString>building TargetA.</FinishFrame.reportString>
+  <Deconstruct.reportString>deconstructing TargetA.</Deconstruct.reportString>
+  <Uninstall.reportString>uninstalling TargetA.</Uninstall.reportString>
+  <Repair.reportString>repairing TargetA.</Repair.reportString>
+  <FixBrokenDownBuilding.reportString>replacing broken components in TargetA.</FixBrokenDownBuilding.reportString>
+  <BuildRoof.reportString>building roof.</BuildRoof.reportString>
+  <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
+  <FeedPatient.reportString>feeding TargetA to TargetB.</FeedPatient.reportString>
+  <TendPatient.reportString>tending to TargetA.</TendPatient.reportString>
+  <DeliverFood.reportString>feeding TargetA to TargetB.</DeliverFood.reportString>
+  <DoBill.reportString>doing bill at TargetA.</DoBill.reportString>
+  <OperateDeepDrill.reportString>drilling at TargetA.</OperateDeepDrill.reportString>
+  <OperateScanner.reportString>scanning at TargetA.</OperateScanner.reportString>
+  <Clean.reportString>cleaning TargetA.</Clean.reportString>
+  <Research.reportString>researching.</Research.reportString>
+  <Hunt.reportString>hunting TargetA.</Hunt.reportString>
+  <UseCommsConsole.reportString>using comms console.</UseCommsConsole.reportString>
+  <Mine.reportString>digging at TargetA.</Mine.reportString>
+  <SmoothFloor.reportString>smoothing floor.</SmoothFloor.reportString>
+  <RemoveFloor.reportString>removing floor.</RemoveFloor.reportString>
+  <SmoothWall.reportString>smoothing wall.</SmoothWall.reportString>
+  <Sow.reportString>sowing TargetA.</Sow.reportString>
+  <Harvest.reportString>harvesting TargetA.</Harvest.reportString>
+  <HarvestDesignated.reportString>harvesting TargetA.</HarvestDesignated.reportString>
+  <CutPlant.reportString>cutting TargetA.</CutPlant.reportString>
+  <CutPlantDesignated.reportString>cutting TargetA.</CutPlantDesignated.reportString>
+  <PrisonerAttemptRecruit.reportString>attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
+  <PrisonerExecution.reportString>executing TargetA.</PrisonerExecution.reportString>
+  <GuiltyColonistExecution.reportString>executing TargetA.</GuiltyColonistExecution.reportString>
+  <StudyThing.reportString>Studying TargetA.</StudyThing.reportString>
+</LanguageData>

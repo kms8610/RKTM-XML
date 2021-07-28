@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
+  <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
+  <AlcoholHigh.description>Alcohol in the bloodstream. It makes people happy, but reduces capacities.</AlcoholHigh.description>
+  <AlcoholHigh.stages.0.label>warm</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>tipsy</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>drunk</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>hammered</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>blackout</AlcoholHigh.stages.4.label>
+  <Hangover.label>hangover</Hangover.label>
+  <Hangover.labelNoun>a hangover</Hangover.labelNoun>
+  <Hangover.description>An unpleasant delayed after-effect of alcohol intoxication.</Hangover.description>
+  <Hangover.stages.0.label>slight</Hangover.stages.0.label>
+  <Hangover.stages.1.label>strong</Hangover.stages.1.label>
+  <Hangover.stages.2.label>pounding</Hangover.stages.2.label>
+  <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
+  <AlcoholTolerance.description>A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect.</AlcoholTolerance.description>
+  <AlcoholAddiction.label>alcohol addiction</AlcoholAddiction.label>
+  <AlcoholAddiction.description>A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</AlcoholAddiction.description>
+  <AlcoholAddiction.stages.1.label>withdrawal</AlcoholAddiction.stages.1.label>
+  <AmbrosiaHigh.label>ambrosia warmth</AmbrosiaHigh.label>
+  <AmbrosiaHigh.description>Ambrosia chemicals in the bloodstream. It lifts the mood.</AmbrosiaHigh.description>
+  <AmbrosiaTolerance.label>ambrosia tolerance</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.description>A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect.</AmbrosiaTolerance.description>
+  <AmbrosiaAddiction.label>ambrosia addiction</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.description>A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.stages.1.label>withdrawal</AmbrosiaAddiction.stages.1.label>
+  <GoJuiceHigh.label>high on go-juice</GoJuiceHigh.label>
+  <GoJuiceHigh.labelNoun>a go-juice high</GoJuiceHigh.labelNoun>
+  <GoJuiceHigh.description>Go-juice in the bloodstream. It supercharges combat-related abilities, and instantly increases psyfocus when first injected.</GoJuiceHigh.description>
+  <GoJuiceAddiction.label>go-juice addiction</GoJuiceAddiction.label>
+  <GoJuiceAddiction.description>A chemical addiction to go-juice. Long-term presence of go-juice has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of go-juice, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</GoJuiceAddiction.description>
+  <GoJuiceAddiction.stages.1.label>withdrawal</GoJuiceAddiction.stages.1.label>
+  <GoJuiceTolerance.stages.0.label>small</GoJuiceTolerance.stages.0.label>
+  <GoJuiceTolerance.stages.1.label>large</GoJuiceTolerance.stages.1.label>
+  <GoJuiceTolerance.stages.2.label>massive</GoJuiceTolerance.stages.2.label>
+  <GoJuiceTolerance.label>go-juice tolerance</GoJuiceTolerance.label>
+  <GoJuiceTolerance.description>A built-up tolerance to go-juice. The more severe this tolerance is, the more go-juice it takes to get the same effect.</GoJuiceTolerance.description>
+  <LuciferiumHigh.label>luciferium</LuciferiumHigh.label>
+  <LuciferiumHigh.description>Active luciferium mechanites in the body. They improve the body's functioning in all respects. However, if they are not regularly replenished with more doses of luciferium, they lose cohesion and drive the user insane.</LuciferiumHigh.description>
+  <LuciferiumAddiction.label>luciferium need</LuciferiumAddiction.label>
+  <LuciferiumAddiction.description>Luciferium mechanites in the body. Luciferium mechanites decohere over time; only regular doses of fresh luciferium can prevent this process.
+\nWithout luciferium, the mechanite decoherence will reach a critical state, causing the victim to go insane and die.</LuciferiumAddiction.description>
+  <LuciferiumAddiction.stages.1.label>unmet</LuciferiumAddiction.stages.1.label>
+  <PenoxycylineHigh.label>penoxycyline</PenoxycylineHigh.label>
+  <PenoxycylineHigh.description>Penoxycyline-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant.</PenoxycylineHigh.description>
+  <FlakeHigh.label>high on flake</FlakeHigh.label>
+  <FlakeHigh.labelNoun>a flake high</FlakeHigh.labelNoun>
+  <FlakeHigh.description>Active flake in the bloodstream. Generates a euphoric, debilitating high.</FlakeHigh.description>
+  <PsychiteTeaHigh.label>high on psychite tea</PsychiteTeaHigh.label>
+  <PsychiteTeaHigh.labelNoun>a psychite tea high</PsychiteTeaHigh.labelNoun>
+  <PsychiteTeaHigh.description>Active psychite tea in the bloodstream. Generates a mild euphoric effect.</PsychiteTeaHigh.description>
+  <YayoHigh.label>high on yayo</YayoHigh.label>
+  <YayoHigh.labelNoun>a yayo high</YayoHigh.labelNoun>
+  <YayoHigh.description>Active yayo in the bloodstream. Generates an intense euphoric high.</YayoHigh.description>
+  <PsychiteTolerance.stages.0.label>small</PsychiteTolerance.stages.0.label>
+  <PsychiteTolerance.stages.1.label>large</PsychiteTolerance.stages.1.label>
+  <PsychiteTolerance.stages.2.label>massive</PsychiteTolerance.stages.2.label>
+  <PsychiteTolerance.label>psychite tolerance</PsychiteTolerance.label>
+  <PsychiteTolerance.description>A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect.</PsychiteTolerance.description>
+  <PsychiteAddiction.label>psychite addiction</PsychiteAddiction.label>
+  <PsychiteAddiction.description>A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</PsychiteAddiction.description>
+  <PsychiteAddiction.stages.1.label>withdrawal</PsychiteAddiction.stages.1.label>
+  <SmokeleafHigh.label>stoned on smokeleaf</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>a smokeleaf high</SmokeleafHigh.labelNoun>
+  <SmokeleafHigh.description>Smokeleaf's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being.</SmokeleafHigh.description>
+  <SmokeleafTolerance.stages.0.label>small</SmokeleafTolerance.stages.0.label>
+  <SmokeleafTolerance.stages.1.label>large</SmokeleafTolerance.stages.1.label>
+  <SmokeleafTolerance.stages.2.label>massive</SmokeleafTolerance.stages.2.label>
+  <SmokeleafTolerance.label>smokeleaf tolerance</SmokeleafTolerance.label>
+  <SmokeleafTolerance.description>A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect.</SmokeleafTolerance.description>
+  <SmokeleafAddiction.label>smokeleaf dependence</SmokeleafAddiction.label>
+  <SmokeleafAddiction.description>A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</SmokeleafAddiction.description>
+  <SmokeleafAddiction.stages.1.label>withdrawal</SmokeleafAddiction.stages.1.label>
+  <WakeUpHigh.label>high on wake-up</WakeUpHigh.label>
+  <WakeUpHigh.labelNoun>a wake-up high</WakeUpHigh.labelNoun>
+  <WakeUpHigh.description>Wake-up in the bloodstream. It fills the need for rest by stimulating the brain, and increases focus, allowing faster work. It also increases the psyfocus gains from meditation.</WakeUpHigh.description>
+  <WakeUpAddiction.label>wake-up addiction</WakeUpAddiction.label>
+  <WakeUpAddiction.description>A chemical addiction to wake-up. Long-term presence of wake-up has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of wake-up, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</WakeUpAddiction.description>
+  <WakeUpAddiction.stages.1.label>withdrawal</WakeUpAddiction.stages.1.label>
+  <WakeUpTolerance.stages.0.label>small</WakeUpTolerance.stages.0.label>
+  <WakeUpTolerance.stages.1.label>large</WakeUpTolerance.stages.1.label>
+  <WakeUpTolerance.stages.2.label>massive</WakeUpTolerance.stages.2.label>
+  <WakeUpTolerance.label>wake-up tolerance</WakeUpTolerance.label>
+  <WakeUpTolerance.description>A built-up tolerance to wake-up. The more severe this tolerance is, the more wake-up it takes to get the same effect.</WakeUpTolerance.description>
+  <BloodLoss.label>blood loss</BloodLoss.label>
+  <BloodLoss.description>A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.
+\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply.</BloodLoss.description>
+  <BloodLoss.stages.0.label>minor</BloodLoss.stages.0.label>
+  <BloodLoss.stages.1.label>minor</BloodLoss.stages.1.label>
+  <BloodLoss.stages.2.label>moderate</BloodLoss.stages.2.label>
+  <BloodLoss.stages.3.label>severe</BloodLoss.stages.3.label>
+  <BloodLoss.stages.4.label>extreme</BloodLoss.stages.4.label>
+  <Anesthetic.label>anesthetic</Anesthetic.label>
+  <Anesthetic.description>Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious.</Anesthetic.description>
+  <Anesthetic.stages.0.label>wearing off</Anesthetic.stages.0.label>
+  <Anesthetic.stages.1.label>woozy</Anesthetic.stages.1.label>
+  <Anesthetic.stages.2.label>sedated</Anesthetic.stages.2.label>
+  <CatatonicBreakdown.label>catatonic breakdown</CatatonicBreakdown.label>
+  <CatatonicBreakdown.labelNoun>a catatonic breakdown</CatatonicBreakdown.labelNoun>
+  <CatatonicBreakdown.description>A state of mental shock which leads to a total inability to function. The victim collapses, effectively unconscious.</CatatonicBreakdown.description>
+  <PsychicShock.label>psychic shock</PsychicShock.label>
+  <PsychicShock.labelNoun>a psychic shock</PsychicShock.labelNoun>
+  <PsychicShock.description>A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off.</PsychicShock.description>
+  <PsychicComa.label>psychic coma</PsychicComa.label>
+  <PsychicComa.labelNoun>a psychic coma</PsychicComa.labelNoun>
+  <PsychicComa.description>A form of benign coma during which the brain recovers from a psychic overload.</PsychicComa.description>
+  <PsychicHangover.label>psychic hangover</PsychicHangover.label>
+  <PsychicHangover.labelNoun>a psychic hangover</PsychicHangover.labelNoun>
+  <PsychicHangover.description>An after-effect of neural heat. Psychic hangover is bothersome, but not dangerous.</PsychicHangover.description>
+  <PsychicHangover.stages.0.label>forming</PsychicHangover.stages.0.label>
+  <PsychicHangover.stages.1.label>buzzing</PsychicHangover.stages.1.label>
+  <BrainShock.label>brain shock</BrainShock.label>
+  <BrainShock.labelNoun>a brain shock</BrainShock.labelNoun>
+  <BrainShock.description>After-effects of an electrical shock to the brain. This is generally cause by feedback from brain implants hit by EMP pulses.</BrainShock.description>
+  <CryptosleepSickness.label>cryptosleep sickness</CryptosleepSickness.label>
+  <CryptosleepSickness.description>After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind.</CryptosleepSickness.description>
+  <FoodPoisoning.label>food poisoning</FoodPoisoning.label>
+  <FoodPoisoning.description>Gastrointestinal illness caused by consuming decayed or unclean food. It can be caused by eating rotten food, by incompetent cooks accidentally poisoning meals, or by eating from unsafe wild sources. The patient will vomit and feel sick for some time.</FoodPoisoning.description>
+  <FoodPoisoning.stages.0.label>recovering</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>major</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>initial</FoodPoisoning.stages.2.label>
+  <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
+  <ToxicBuildup.description>Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nCreatures who die with toxic buildup cannot be eaten.</ToxicBuildup.description>
+  <ToxicBuildup.stages.0.label>initial</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>initial</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.2.label>minor</ToxicBuildup.stages.2.label>
+  <ToxicBuildup.stages.3.label>moderate</ToxicBuildup.stages.3.label>
+  <ToxicBuildup.stages.4.label>serious</ToxicBuildup.stages.4.label>
+  <ToxicBuildup.stages.5.label>extreme</ToxicBuildup.stages.5.label>
+  <Pregnant.label>pregnant</Pregnant.label>
+  <Pregnant.labelNoun>pregnancy</Pregnant.labelNoun>
+  <Pregnant.description>This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage.</Pregnant.description>
+  <Pregnant.stages.0.label>early-stage</Pregnant.stages.0.label>
+  <Pregnant.stages.1.label>middle-stage</Pregnant.stages.1.label>
+  <Pregnant.stages.2.label>late-stage</Pregnant.stages.2.label>
+  <HeartAttack.label>heart attack</HeartAttack.label>
+  <HeartAttack.labelNoun>a heart attack</HeartAttack.labelNoun>
+  <HeartAttack.description>A disruption in the heart's normal beating rhythm. Heart attacks can be debilitatingly painful. They can worsen and lead to death, or recover.</HeartAttack.description>
+  <HeartAttack.stages.0.label>painful</HeartAttack.stages.0.label>
+  <HeartAttack.stages.1.label>debilitating</HeartAttack.stages.1.label>
+  <HeartAttack.stages.2.label>fatal</HeartAttack.stages.2.label>
+  <DrugOverdose.label>drug overdose</DrugOverdose.label>
+  <DrugOverdose.labelNoun>a drug overdose</DrugOverdose.labelNoun>
+  <DrugOverdose.description>Generalized toxic effects due to over-concentration of drugs in the bloodstream.</DrugOverdose.description>
+  <DrugOverdose.comps.1.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.1.discoverLetterLabel>
+  <DrugOverdose.comps.1.discoverLetterText>{0} is overdosing!</DrugOverdose.comps.1.discoverLetterText>
+  <DrugOverdose.stages.0.label>minor</DrugOverdose.stages.0.label>
+  <DrugOverdose.stages.1.label>minor</DrugOverdose.stages.1.label>
+  <DrugOverdose.stages.2.label>major</DrugOverdose.stages.2.label>
+  <ResurrectionSickness.label>resurrection sickness</ResurrectionSickness.label>
+  <ResurrectionSickness.description>After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves.</ResurrectionSickness.description>
+  <Malnutrition.label>malnutrition</Malnutrition.label>
+  <Malnutrition.description>Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleaseant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death.
+\nUpon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal.</Malnutrition.description>
+  <Malnutrition.stages.0.label>trivial</Malnutrition.stages.0.label>
+  <Malnutrition.stages.1.label>minor</Malnutrition.stages.1.label>
+  <Malnutrition.stages.2.label>moderate</Malnutrition.stages.2.label>
+  <Malnutrition.stages.3.label>severe</Malnutrition.stages.3.label>
+  <Malnutrition.stages.4.label>extreme</Malnutrition.stages.4.label>
+  <Heatstroke.label>heatstroke</Heatstroke.label>
+  <Heatstroke.description>A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death.</Heatstroke.description>
+  <Heatstroke.stages.0.label>initial</Heatstroke.stages.0.label>
+  <Heatstroke.stages.1.label>initial</Heatstroke.stages.1.label>
+  <Heatstroke.stages.2.label>minor</Heatstroke.stages.2.label>
+  <Heatstroke.stages.3.label>serious</Heatstroke.stages.3.label>
+  <Heatstroke.stages.4.label>extreme</Heatstroke.stages.4.label>
+  <Hypothermia.label>hypothermia</Hypothermia.label>
+  <Hypothermia.description>Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments.</Hypothermia.description>
+  <Hypothermia.stages.0.label>shivering</Hypothermia.stages.0.label>
+  <Hypothermia.stages.1.label>shivering</Hypothermia.stages.1.label>
+  <Hypothermia.stages.2.label>minor</Hypothermia.stages.2.label>
+  <Hypothermia.stages.3.label>serious</Hypothermia.stages.3.label>
+  <Hypothermia.stages.4.label>extreme</Hypothermia.stages.4.label>
+  <HypothermicSlowdown.label>hypothermic slowdown</HypothermicSlowdown.label>
+  <HypothermicSlowdown.description>A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation.</HypothermicSlowdown.description>
+  <HypothermicSlowdown.stages.0.label>minor</HypothermicSlowdown.stages.0.label>
+  <HypothermicSlowdown.stages.1.label>minor</HypothermicSlowdown.stages.1.label>
+  <HypothermicSlowdown.stages.2.label>moderate</HypothermicSlowdown.stages.2.label>
+  <HypothermicSlowdown.stages.3.label>serious</HypothermicSlowdown.stages.3.label>
+  <HypothermicSlowdown.stages.4.label>extreme</HypothermicSlowdown.stages.4.label>
+  <BadBack.label>bad back</BadBack.label>
+  <BadBack.labelNoun>a bad back</BadBack.labelNoun>
+  <BadBack.description>Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly.</BadBack.description>
+  <Frail.label>frail</Frail.label>
+  <Frail.labelNoun>frailty</Frail.labelNoun>
+  <Frail.description>Generalized loss of muscle and bone density.</Frail.description>
+  <Cataract.label>cataract</Cataract.label>
+  <Cataract.labelNoun>a cataract</Cataract.labelNoun>
+  <Cataract.description>Milky-looking opacity in the eye. Cataracts impair vision.</Cataract.description>
+  <Blindness.label>blindness</Blindness.label>
+  <Blindness.description>Total inability to see.</Blindness.description>
+  <HearingLoss.label>hearing loss</HearingLoss.label>
+  <HearingLoss.description>Inability to hear quiet sounds due to degradation of hair cells in the cochlea.</HearingLoss.description>
+  <Dementia.label>dementia</Dementia.label>
+  <Dementia.description>Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins.</Dementia.description>
+  <Alzheimers.label>alzheimer's</Alzheimers.label>
+  <Alzheimers.description>A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion.</Alzheimers.description>
+  <Alzheimers.stages.0.label>minor</Alzheimers.stages.0.label>
+  <Alzheimers.stages.1.label>minor</Alzheimers.stages.1.label>
+  <Alzheimers.stages.2.label>major</Alzheimers.stages.2.label>
+  <Alzheimers.stages.3.label>major</Alzheimers.stages.3.label>
+  <Asthma.label>asthma</Asthma.label>
+  <Asthma.description>A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms.</Asthma.description>
+  <Asthma.stages.0.label>minor</Asthma.stages.0.label>
+  <Asthma.stages.1.label>major</Asthma.stages.1.label>
+  <Asthma.stages.2.label>major</Asthma.stages.2.label>
+  <HeartArteryBlockage.label>artery blockage</HeartArteryBlockage.label>
+  <HeartArteryBlockage.labelNoun>an artery blockage</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.description>A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks.</HeartArteryBlockage.description>
+  <HeartArteryBlockage.stages.0.label>minor</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.1.label>minor</HeartArteryBlockage.stages.1.label>
+  <HeartArteryBlockage.stages.2.label>major</HeartArteryBlockage.stages.2.label>
+  <HeartArteryBlockage.stages.3.label>major</HeartArteryBlockage.stages.3.label>
+  <HeartArteryBlockage.stages.4.label>extreme</HeartArteryBlockage.stages.4.label>
+  <Carcinoma.label>carcinoma</Carcinoma.label>
+  <Carcinoma.labelNoun>a carcinoma</Carcinoma.labelNoun>
+  <Carcinoma.description>A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.
+\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma.</Carcinoma.description>
+  <Carcinoma.stages.0.label>minor</Carcinoma.stages.0.label>
+  <Carcinoma.stages.1.label>minor</Carcinoma.stages.1.label>
+  <Carcinoma.stages.2.label>major</Carcinoma.stages.2.label>
+  <Carcinoma.stages.3.label>major</Carcinoma.stages.3.label>
+  <Carcinoma.stages.4.label>extreme</Carcinoma.stages.4.label>
+  <Carcinoma.stages.5.label>extreme</Carcinoma.stages.5.label>
+  <GutWorms.label>gut worms</GutWorms.label>
+  <GutWorms.description>Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger.</GutWorms.description>
+  <MuscleParasites.label>muscle parasites</MuscleParasites.label>
+  <MuscleParasites.description>Parasitic creatures in the muscles. These cause weakness and a lack of coordination.</MuscleParasites.description>
+  <FibrousMechanites.label>fibrous mechanites</FibrousMechanites.label>
+  <FibrousMechanites.description>Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites.</FibrousMechanites.description>
+  <FibrousMechanites.stages.0.label>mild pain</FibrousMechanites.stages.0.label>
+  <FibrousMechanites.stages.1.label>intense pain</FibrousMechanites.stages.1.label>
+  <SensoryMechanites.label>sensory mechanites</SensoryMechanites.label>
+  <SensoryMechanites.description>Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites.</SensoryMechanites.description>
+  <SensoryMechanites.stages.0.label>mild pain</SensoryMechanites.stages.0.label>
+  <SensoryMechanites.stages.1.label>intense pain</SensoryMechanites.stages.1.label>
+  <WoundInfection.label>infection</WoundInfection.label>
+  <WoundInfection.labelNoun>an infection</WoundInfection.labelNoun>
+  <WoundInfection.description>Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.
+\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves.</WoundInfection.description>
+  <WoundInfection.stages.0.label>minor</WoundInfection.stages.0.label>
+  <WoundInfection.stages.1.label>major</WoundInfection.stages.1.label>
+  <WoundInfection.stages.2.label>extreme</WoundInfection.stages.2.label>
+  <WoundInfection.stages.3.label>extreme</WoundInfection.stages.3.label>
+  <Flu.label>flu</Flu.label>
+  <Flu.description>An infectious disease caused by the influenza virus.</Flu.description>
+  <Flu.stages.0.label>minor</Flu.stages.0.label>
+  <Flu.stages.1.label>major</Flu.stages.1.label>
+  <Flu.stages.2.label>extreme</Flu.stages.2.label>
+  <Animal_Flu.label>flu</Animal_Flu.label>
+  <Animal_Flu.description>An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species.</Animal_Flu.description>
+  <Animal_Flu.stages.0.label>minor</Animal_Flu.stages.0.label>
+  <Animal_Flu.stages.1.label>major</Animal_Flu.stages.1.label>
+  <Animal_Flu.stages.2.label>extreme</Animal_Flu.stages.2.label>
+  <Plague.label>plague</Plague.label>
+  <Plague.description>An infectious disease caused by bacteria.</Plague.description>
+  <Plague.stages.0.label>minor</Plague.stages.0.label>
+  <Plague.stages.1.label>major</Plague.stages.1.label>
+  <Plague.stages.2.label>extreme</Plague.stages.2.label>
+  <Plague.stages.3.label>extreme</Plague.stages.3.label>
+  <Animal_Plague.label>plague</Animal_Plague.label>
+  <Animal_Plague.description>An infectious disease caused by bacteria. This strain is adapted to infecting non-human species.</Animal_Plague.description>
+  <Animal_Plague.stages.0.label>minor</Animal_Plague.stages.0.label>
+  <Animal_Plague.stages.1.label>major</Animal_Plague.stages.1.label>
+  <Animal_Plague.stages.2.label>extreme</Animal_Plague.stages.2.label>
+  <Animal_Plague.stages.3.label>extreme</Animal_Plague.stages.3.label>
+  <Malaria.label>malaria</Malaria.label>
+  <Malaria.description>An infectious disease caused by a mosquito-borne parasite.</Malaria.description>
+  <Malaria.stages.0.label>minor</Malaria.stages.0.label>
+  <Malaria.stages.1.label>major</Malaria.stages.1.label>
+  <Malaria.stages.2.label>extreme</Malaria.stages.2.label>
+  <SleepingSickness.label>sleeping sickness</SleepingSickness.label>
+  <SleepingSickness.description>An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection.</SleepingSickness.description>
+  <SleepingSickness.stages.0.label>minor</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>minor</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>major</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.3.label>extreme</SleepingSickness.stages.3.label>
+  <SleepingSickness.stages.4.label>extreme</SleepingSickness.stages.4.label>
+  <MissingBodyPart.label>missing body part</MissingBodyPart.label>
+  <MissingBodyPart.labelNoun>a missing body part</MissingBodyPart.labelNoun>
+  <MissingBodyPart.labelNounPretty>missing a {1}</MissingBodyPart.labelNounPretty>
+  <MissingBodyPart.description>A body part is entirely missing.</MissingBodyPart.description>
+  <Misc.labelNounPretty>{0} in the {1}</Misc.labelNounPretty>
+  <Misc.label>misc</Misc.label>
+  <Misc.labelNoun>an injury</Misc.labelNoun>
+  <Misc.description>Miscellanous injuries.</Misc.description>
+  <Misc.comps.0.labelTendedWell>bandaged</Misc.comps.0.labelTendedWell>
+  <Misc.comps.0.labelTendedWellInner>sutured</Misc.comps.0.labelTendedWellInner>
+  <Misc.comps.0.labelSolidTendedWell>set</Misc.comps.0.labelSolidTendedWell>
+  <Misc.comps.1.permanentLabel>scar</Misc.comps.1.permanentLabel>
+  <Misc.injuryProps.destroyedLabel>Destroyed</Misc.injuryProps.destroyedLabel>
+  <Burn.labelNounPretty>{0} in the {1}</Burn.labelNounPretty>
+  <Burn.label>burn</Burn.label>
+  <Burn.labelNoun>a burn</Burn.labelNoun>
+  <Burn.description>A burn.</Burn.description>
+  <Burn.comps.0.labelTendedWell>bandaged</Burn.comps.0.labelTendedWell>
+  <Burn.comps.0.labelTendedWellInner>tended</Burn.comps.0.labelTendedWellInner>
+  <Burn.comps.0.labelSolidTendedWell>tended</Burn.comps.0.labelSolidTendedWell>
+  <Burn.comps.2.permanentLabel>burn scar</Burn.comps.2.permanentLabel>
+  <Burn.injuryProps.destroyedLabel>Burned off</Burn.injuryProps.destroyedLabel>
+  <Burn.injuryProps.destroyedOutLabel>Burned out</Burn.injuryProps.destroyedOutLabel>
+  <ChemicalBurn.labelNounPretty>{0} in the {1}</ChemicalBurn.labelNounPretty>
+  <ChemicalBurn.label>chemical burn</ChemicalBurn.label>
+  <ChemicalBurn.labelNoun>a chemical burn</ChemicalBurn.labelNoun>
+  <ChemicalBurn.description>A chemical burn.</ChemicalBurn.description>
+  <ChemicalBurn.comps.0.labelTendedWell>bandaged</ChemicalBurn.comps.0.labelTendedWell>
+  <ChemicalBurn.comps.0.labelTendedWellInner>tended</ChemicalBurn.comps.0.labelTendedWellInner>
+  <ChemicalBurn.comps.0.labelSolidTendedWell>tended</ChemicalBurn.comps.0.labelSolidTendedWell>
+  <ChemicalBurn.comps.2.permanentLabel>chemical burn scar</ChemicalBurn.comps.2.permanentLabel>
+  <ChemicalBurn.injuryProps.destroyedLabel>Burned off (chemical)</ChemicalBurn.injuryProps.destroyedLabel>
+  <ChemicalBurn.injuryProps.destroyedOutLabel>Burned out (chemical)</ChemicalBurn.injuryProps.destroyedOutLabel>
+  <Crush.labelNounPretty>{0} in the {1}</Crush.labelNounPretty>
+  <Crush.label>crush</Crush.label>
+  <Crush.labelNoun>a crush wound</Crush.labelNoun>
+  <Crush.description>A crushing wound.</Crush.description>
+  <Crush.comps.0.labelTendedWell>bandaged</Crush.comps.0.labelTendedWell>
+  <Crush.comps.0.labelTendedWellInner>sutured</Crush.comps.0.labelTendedWellInner>
+  <Crush.comps.0.labelSolidTendedWell>set</Crush.comps.0.labelSolidTendedWell>
+  <Crush.comps.2.permanentLabel>mangled scar</Crush.comps.2.permanentLabel>
+  <Crush.injuryProps.destroyedLabel>Crushed</Crush.injuryProps.destroyedLabel>
+  <Crack.labelNounPretty>{0} in the {1}</Crack.labelNounPretty>
+  <Crack.label>crack</Crack.label>
+  <Crack.labelNoun>a crack wound</Crack.labelNoun>
+  <Crack.description>A crack.</Crack.description>
+  <Crack.comps.0.labelTendedWell>set</Crack.comps.0.labelTendedWell>
+  <Crack.comps.0.labelTendedWellInner>set</Crack.comps.0.labelTendedWellInner>
+  <Crack.comps.0.labelSolidTendedWell>set</Crack.comps.0.labelSolidTendedWell>
+  <Crack.comps.1.permanentLabel>permanent crack</Crack.comps.1.permanentLabel>
+  <Crack.injuryProps.destroyedLabel>Shattered</Crack.injuryProps.destroyedLabel>
+  <Cut.labelNounPretty>{0} in the {1}</Cut.labelNounPretty>
+  <Cut.label>cut</Cut.label>
+  <Cut.labelNoun>a cut</Cut.labelNoun>
+  <Cut.description>A cut.</Cut.description>
+  <Cut.comps.0.labelTendedWell>bandaged</Cut.comps.0.labelTendedWell>
+  <Cut.comps.0.labelTendedWellInner>sutured</Cut.comps.0.labelTendedWellInner>
+  <Cut.comps.0.labelSolidTendedWell>set</Cut.comps.0.labelSolidTendedWell>
+  <Cut.comps.2.permanentLabel>cut scar</Cut.comps.2.permanentLabel>
+  <Cut.injuryProps.destroyedLabel>Cut off</Cut.injuryProps.destroyedLabel>
+  <Cut.injuryProps.destroyedOutLabel>Cut out</Cut.injuryProps.destroyedOutLabel>
+  <SurgicalCut.labelNounPretty>{0} in the {1}</SurgicalCut.labelNounPretty>
+  <SurgicalCut.label>surgical cut</SurgicalCut.label>
+  <SurgicalCut.labelNoun>a surgical cut</SurgicalCut.labelNoun>
+  <SurgicalCut.description>A cut made during surgery.</SurgicalCut.description>
+  <SurgicalCut.comps.0.labelTendedWell>bandaged</SurgicalCut.comps.0.labelTendedWell>
+  <SurgicalCut.comps.0.labelTendedWellInner>sutured</SurgicalCut.comps.0.labelTendedWellInner>
+  <SurgicalCut.comps.0.labelSolidTendedWell>set</SurgicalCut.comps.0.labelSolidTendedWell>
+  <SurgicalCut.comps.1.permanentLabel>surgical scar</SurgicalCut.comps.1.permanentLabel>
+  <ExecutionCut.labelNounPretty>{0} in the {1}</ExecutionCut.labelNounPretty>
+  <ExecutionCut.label>cut</ExecutionCut.label>
+  <ExecutionCut.labelNoun>a cut</ExecutionCut.labelNoun>
+  <ExecutionCut.description>A cut made during execution.</ExecutionCut.description>
+  <Scratch.labelNounPretty>{0} in the {1}</Scratch.labelNounPretty>
+  <Scratch.label>scratch</Scratch.label>
+  <Scratch.labelNoun>a scratch</Scratch.labelNoun>
+  <Scratch.description>A scratch or tear.</Scratch.description>
+  <Scratch.comps.0.labelTendedWell>bandaged</Scratch.comps.0.labelTendedWell>
+  <Scratch.comps.0.labelTendedWellInner>sutured</Scratch.comps.0.labelTendedWellInner>
+  <Scratch.comps.0.labelSolidTendedWell>set</Scratch.comps.0.labelSolidTendedWell>
+  <Scratch.comps.2.permanentLabel>scratch scar</Scratch.comps.2.permanentLabel>
+  <Scratch.injuryProps.destroyedLabel>Torn off</Scratch.injuryProps.destroyedLabel>
+  <Scratch.injuryProps.destroyedOutLabel>Torn out</Scratch.injuryProps.destroyedOutLabel>
+  <Bite.labelNounPretty>{0} in the {1}</Bite.labelNounPretty>
+  <Bite.label>bite</Bite.label>
+  <Bite.labelNoun>a bite wound</Bite.labelNoun>
+  <Bite.description>A bite wound.</Bite.description>
+  <Bite.comps.0.labelTendedWell>bandaged</Bite.comps.0.labelTendedWell>
+  <Bite.comps.0.labelTendedWellInner>sutured</Bite.comps.0.labelTendedWellInner>
+  <Bite.comps.0.labelSolidTendedWell>set</Bite.comps.0.labelSolidTendedWell>
+  <Bite.comps.2.permanentLabel>bite scar</Bite.comps.2.permanentLabel>
+  <Bite.injuryProps.destroyedLabel>Bitten off</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedOutLabel>Bitten out</Bite.injuryProps.destroyedOutLabel>
+  <Stab.labelNounPretty>{0} in the {1}</Stab.labelNounPretty>
+  <Stab.label>stab</Stab.label>
+  <Stab.labelNoun>a stab wound</Stab.labelNoun>
+  <Stab.description>A stab wound.</Stab.description>
+  <Stab.comps.0.labelTendedWell>bandaged</Stab.comps.0.labelTendedWell>
+  <Stab.comps.0.labelTendedWellInner>sutured</Stab.comps.0.labelTendedWellInner>
+  <Stab.comps.0.labelSolidTendedWell>set</Stab.comps.0.labelSolidTendedWell>
+  <Stab.comps.2.permanentLabel>stab scar</Stab.comps.2.permanentLabel>
+  <Stab.injuryProps.destroyedLabel>Cut off</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedOutLabel>Cut out</Stab.injuryProps.destroyedOutLabel>
+  <Gunshot.labelNounPretty>{0} in the {1}</Gunshot.labelNounPretty>
+  <Gunshot.label>gunshot</Gunshot.label>
+  <Gunshot.labelNoun>a gunshot wound</Gunshot.labelNoun>
+  <Gunshot.description>A gunshot wound.</Gunshot.description>
+  <Gunshot.comps.0.labelTendedWell>bandaged</Gunshot.comps.0.labelTendedWell>
+  <Gunshot.comps.0.labelTendedWellInner>sutured</Gunshot.comps.0.labelTendedWellInner>
+  <Gunshot.comps.0.labelSolidTendedWell>set</Gunshot.comps.0.labelSolidTendedWell>
+  <Gunshot.comps.2.permanentLabel>old gunshot</Gunshot.comps.2.permanentLabel>
+  <Gunshot.comps.2.instantlyPermanentLabel>permanent gunshot injury</Gunshot.comps.2.instantlyPermanentLabel>
+  <Gunshot.injuryProps.destroyedLabel>Shot off</Gunshot.injuryProps.destroyedLabel>
+  <Gunshot.injuryProps.destroyedOutLabel>Shot out</Gunshot.injuryProps.destroyedOutLabel>
+  <Shredded.labelNounPretty>{0} in the {1}</Shredded.labelNounPretty>
+  <Shredded.label>shredded</Shredded.label>
+  <Shredded.labelNoun>a shredded wound</Shredded.labelNoun>
+  <Shredded.description>A part of the body has been shredded and torn.</Shredded.description>
+  <Shredded.comps.0.labelTendedWell>bandaged</Shredded.comps.0.labelTendedWell>
+  <Shredded.comps.0.labelTendedWellInner>sutured</Shredded.comps.0.labelTendedWellInner>
+  <Shredded.comps.0.labelSolidTendedWell>set</Shredded.comps.0.labelSolidTendedWell>
+  <Shredded.comps.2.permanentLabel>shredded scar</Shredded.comps.2.permanentLabel>
+  <Shredded.injuryProps.destroyedLabel>Torn off</Shredded.injuryProps.destroyedLabel>
+  <Shredded.injuryProps.destroyedOutLabel>Torn out</Shredded.injuryProps.destroyedOutLabel>
+  <Bruise.labelNounPretty>{0} in the {1}</Bruise.labelNounPretty>
+  <Bruise.label>bruise</Bruise.label>
+  <Bruise.labelNoun>a bruise</Bruise.labelNoun>
+  <Bruise.description>A bruise.</Bruise.description>
+  <Bruise.comps.0.labelTendedWell>bandaged</Bruise.comps.0.labelTendedWell>
+  <Bruise.comps.0.labelTendedWellInner>tended</Bruise.comps.0.labelTendedWellInner>
+  <Bruise.comps.0.labelSolidTendedWell>set</Bruise.comps.0.labelSolidTendedWell>
+  <Bruise.injuryProps.destroyedLabel>Destroyed</Bruise.injuryProps.destroyedLabel>
+  <Frostbite.labelNounPretty>{0} in the {1}</Frostbite.labelNounPretty>
+  <Frostbite.label>frostbite</Frostbite.label>
+  <Frostbite.description>Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost.</Frostbite.description>
+  <Frostbite.comps.0.labelTendedWell>bandaged</Frostbite.comps.0.labelTendedWell>
+  <Frostbite.comps.0.labelTendedWellInner>tended</Frostbite.comps.0.labelTendedWellInner>
+  <Frostbite.comps.0.labelSolidTendedWell>tended</Frostbite.comps.0.labelSolidTendedWell>
+  <Frostbite.comps.2.permanentLabel>frostbite scar</Frostbite.comps.2.permanentLabel>
+  <Frostbite.injuryProps.destroyedLabel>Lost to frostbite</Frostbite.injuryProps.destroyedLabel>
+  <TraumaSavant.label>trauma savant</TraumaSavant.label>
+  <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
+  <TraumaSavant.description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</TraumaSavant.description>
+  <ChemicalDamageModerate.label>chemical damage</ChemicalDamageModerate.label>
+  <ChemicalDamageModerate.description>Chemical damage at the cellular level.</ChemicalDamageModerate.description>
+  <ChemicalDamageSevere.label>chemical damage</ChemicalDamageSevere.label>
+  <ChemicalDamageSevere.description>Chemical damage at the cellular level.</ChemicalDamageSevere.description>
+  <Cirrhosis.label>cirrhosis</Cirrhosis.label>
+  <Cirrhosis.description>A degenerative liver disease caused by excessive alcohol consumption.</Cirrhosis.description>
+  <ResurrectionPsychosis.label>resurrection psychosis</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.description>Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.
+\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence.</ResurrectionPsychosis.description>
+  <ResurrectionPsychosis.stages.0.label>early</ResurrectionPsychosis.stages.0.label>
+  <ResurrectionPsychosis.stages.1.label>early</ResurrectionPsychosis.stages.1.label>
+  <ResurrectionPsychosis.stages.2.label>moderate</ResurrectionPsychosis.stages.2.label>
+  <ResurrectionPsychosis.stages.3.label>advanced</ResurrectionPsychosis.stages.3.label>
+  <ResurrectionPsychosis.stages.4.label>severe</ResurrectionPsychosis.stages.4.label>
+  <ResurrectionPsychosis.stages.5.label>total</ResurrectionPsychosis.stages.5.label>
+  <ResurrectionPsychosis.stages.6.label>catatonic</ResurrectionPsychosis.stages.6.label>
+  <Scaria.label>scaria</Scaria.label>
+  <Scaria.description>A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather.</Scaria.description>
+  <Sterilized.label>sterilized</Sterilized.label>
+  <Sterilized.description>This creature's reproductive system has been permanently shut down.</Sterilized.description>
+  <SandInEyes.label>sand</SandInEyes.label>
+  <SandInEyes.labelNoun>sand</SandInEyes.labelNoun>
+  <SandInEyes.description>Sand in the eyes. It impairs vision, but can be cleared within a few moments.</SandInEyes.description>
+  <DirtInEyes.label>dirt</DirtInEyes.label>
+  <DirtInEyes.labelNoun>dirt</DirtInEyes.labelNoun>
+  <DirtInEyes.description>Dirt in the eyes. It impairs vision, but can be cleared in a few moments.</DirtInEyes.description>
+  <MudInEyes.label>mud</MudInEyes.label>
+  <MudInEyes.labelNoun>mud</MudInEyes.labelNoun>
+  <MudInEyes.description>Mud in the eyes. It impairs vision, but can be cleared in a few moments.</MudInEyes.description>
+  <GravelInEyes.label>gravel</GravelInEyes.label>
+  <GravelInEyes.labelNoun>gravel</GravelInEyes.labelNoun>
+  <GravelInEyes.description>Gravel in the eyes. It impairs vision, but can be cleared in a few moments.</GravelInEyes.description>
+  <WaterInEyes.label>water</WaterInEyes.label>
+  <WaterInEyes.labelNoun>water</WaterInEyes.labelNoun>
+  <WaterInEyes.description>Water in the eyes. It impairs vision, but can be cleared in a few moments.</WaterInEyes.description>
+  <ArchotechEye.label>archotech eye</ArchotechEye.label>
+  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
+  <ArchotechEye.description>An installed archotech eye.</ArchotechEye.description>
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
+  <ArchotechArm.description>An installed archotech arm.</ArchotechArm.description>
+  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+  <ArchotechLeg.description>An installed archotech leg.</ArchotechLeg.description>
+  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
+  <BionicEye.description>An installed bionic eye.</BionicEye.description>
+  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+  <BionicArm.description>An installed bionic arm.</BionicArm.description>
+  <BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
+  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
+  <BionicLeg.description>An installed bionic leg.</BionicLeg.description>
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+  <BionicSpine.description>An installed bionic spine.</BionicSpine.description>
+  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+  <BionicHeart.description>An installed bionic heart.</BionicHeart.description>
+  <BionicStomach.label>bionic stomach</BionicStomach.label>
+  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+  <BionicStomach.description>An installed bionic stomach.</BionicStomach.description>
+  <DeathAcidifier.label>death acidifier</DeathAcidifier.label>
+  <DeathAcidifier.labelNoun>a death acidifier</DeathAcidifier.labelNoun>
+  <DeathAcidifier.description>An installed death acidifier.</DeathAcidifier.description>
+  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+  <BionicEar.description>An installed bionic ear.</BionicEar.description>
+  <PegLeg.label>peg leg</PegLeg.label>
+  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
+  <PegLeg.description>An installed peg leg.</PegLeg.description>
+  <WoodenHand.label>wooden hand</WoodenHand.label>
+  <WoodenHand.labelNoun>a wooden hand</WoodenHand.labelNoun>
+  <WoodenHand.description>An installed wooden hand.</WoodenHand.description>
+  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+  <WoodenFoot.description>An installed wooden foot.</WoodenFoot.description>
+  <Denture.label>denture</Denture.label>
+  <Denture.labelNoun>a denture</Denture.labelNoun>
+  <Denture.description>An installed denture.</Denture.description>
+  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.description>An installed prosthetic leg.</SimpleProstheticLeg.description>
+  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.description>An installed prosthetic arm.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticHeart.description>An installed prosthetic heart.</SimpleProstheticHeart.description>
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+  <CochlearImplant.description>An installed cochlear implant.</CochlearImplant.description>
+  <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
+  <PowerClaw.description>An installed power claw.</PowerClaw.description>
+  <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
+  <Joywire.label>joywire</Joywire.label>
+  <Joywire.labelNoun>a joywire</Joywire.labelNoun>
+  <Joywire.description>An installed joywire implant.</Joywire.description>
+  <Painstopper.label>painstopper</Painstopper.label>
+  <Painstopper.labelNoun>a painstopper</Painstopper.labelNoun>
+  <Painstopper.description>An installed painstopper implant.</Painstopper.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Obedience.label>guard</Obedience.label>
+  <Obedience.description>The animal can be assigned a master whom it will follow and defend.</Obedience.description>
+  <Release.label>attack</Release.label>
+  <Release.description>The animal can be released to attack distant targets instead of just guarding its master.</Release.description>
+  <Rescue.label>rescue</Rescue.label>
+  <Rescue.description>The animal will rescue wounded allies and drag them to safety.</Rescue.description>
+  <Haul.label>haul</Haul.label>
+  <Haul.description>The animal will randomly haul items from time to time (though it can't be directed to haul specific items).</Haul.description>
+  <Tameness.label>tameness</Tameness.label>
+  <Tameness.description>The animal can learn to consider itself a member of your colony.</Tameness.description>
+</LanguageData>

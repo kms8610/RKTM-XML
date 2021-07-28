@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Grenadier_Destructive.label>grenadier</Grenadier_Destructive.label>
+  <Grenadier_EMP.label>EMP grenadier</Grenadier_EMP.label>
+  <Grenadier_Smoke.label>smoke grenadier</Grenadier_Smoke.label>
+  <Mercenary_Gunner.label>mercenary gunner</Mercenary_Gunner.label>
+  <Mercenary_Gunner_Acidifier.label>mercenary gunner</Mercenary_Gunner_Acidifier.label>
+  <Mercenary_Sniper.label>mercenary sniper</Mercenary_Sniper.label>
+  <Mercenary_Sniper_Acidifier.label>mercenary sniper</Mercenary_Sniper_Acidifier.label>
+  <Mercenary_Slasher.label>mercenary slasher</Mercenary_Slasher.label>
+  <Mercenary_Slasher_Acidifier.label>mercenary slasher</Mercenary_Slasher_Acidifier.label>
+  <Mercenary_Heavy.label>heavy mercenary</Mercenary_Heavy.label>
+  <Mercenary_Heavy.labelPlural>heavy mercenaries</Mercenary_Heavy.labelPlural>
+  <PirateBoss.label>boss</PirateBoss.label>
+  <PirateBoss.labelPlural>bosses</PirateBoss.labelPlural>
+  <Mercenary_Elite.label>elite mercenary</Mercenary_Elite.label>
+  <Mercenary_Elite.labelPlural>elite mercenaries</Mercenary_Elite.labelPlural>
+  <Mercenary_Elite_Acidifier.label>elite mercenary</Mercenary_Elite_Acidifier.label>
+  <Mercenary_Elite_Acidifier.labelPlural>elite mercenaries</Mercenary_Elite_Acidifier.labelPlural>
+  <Villager.label>villager</Villager.label>
+  <Town_Guard.label>town guard</Town_Guard.label>
+  <Town_Trader.label>town trader</Town_Trader.label>
+  <Town_Councilman.label>town councilman</Town_Councilman.label>
+  <Town_Councilman.labelPlural>town councilmen</Town_Councilman.labelPlural>
+  <Drifter.label>drifter</Drifter.label>
+  <Scavenger.label>scavenger gunner</Scavenger.label>
+  <Thrasher.label>scavenger thrasher</Thrasher.label>
+  <Pirate.label>pirate gunner</Pirate.label>
+  <Colonist.label>colonist</Colonist.label>
+  <Tribesperson.label>member</Tribesperson.label>
+  <SpaceRefugee.label>space refugee</SpaceRefugee.label>
+  <SpaceRefugee_Clothed.label>space refugee</SpaceRefugee_Clothed.label>
+  <AncientSoldier.label>ancient soldier</AncientSoldier.label>
+  <Slave.label>slave</Slave.label>
+  <WildMan.label>wild man</WildMan.label>
+  <WildMan.labelPlural>wild men</WildMan.labelPlural>
+  <WildMan.labelFemale>wild woman</WildMan.labelFemale>
+  <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>
+  <StrangerInBlack.label>stranger in black</StrangerInBlack.label>
+  <StrangerInBlack.labelMale>man in black</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelFemale>woman in black</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelPlural>strangers in black</StrangerInBlack.labelPlural>
+  <Tribal_Penitent.label>penitent</Tribal_Penitent.label>
+  <Tribal_Archer.label>archer</Tribal_Archer.label>
+  <Tribal_Warrior.label>warrior</Tribal_Warrior.label>
+  <Tribal_Hunter.label>hunter</Tribal_Hunter.label>
+  <Tribal_Trader.label>trader</Tribal_Trader.label>
+  <Tribal_Berserker.label>berserker</Tribal_Berserker.label>
+  <Tribal_HeavyArcher.label>heavy archer</Tribal_HeavyArcher.label>
+  <Tribal_ChiefMelee.label>berserker chief</Tribal_ChiefMelee.label>
+  <Tribal_ChiefRanged.label>archer chief</Tribal_ChiefRanged.label>
+  <Tribal_Breacher.label>breacher</Tribal_Breacher.label>
+  <Mech_Termite_Breach.label>termite</Mech_Termite_Breach.label>
+  <Bear_Grizzly.label>grizzly bear</Bear_Grizzly.label>
+  <Bear_Polar.label>polar bear</Bear_Polar.label>
+  <Ostrich.label>ostrich</Ostrich.label>
+  <Ostrich.labelPlural>ostriches</Ostrich.labelPlural>
+  <Emu.label>emu</Emu.label>
+  <Cassowary.label>cassowary</Cassowary.label>
+  <Cassowary.labelPlural>cassowaries</Cassowary.labelPlural>
+  <Cougar.label>cougar</Cougar.label>
+  <Panther.label>panther</Panther.label>
+  <Lynx.label>lynx</Lynx.label>
+  <Lynx.labelPlural>lynx</Lynx.labelPlural>
+  <Lynx.lifeStages.0.label>lynx kitten</Lynx.lifeStages.0.label>
+  <Cat.label>cat</Cat.label>
+  <Cat.lifeStages.0.label>kitten</Cat.lifeStages.0.label>
+  <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
+  <YorkshireTerrier.lifeStages.0.label>yorkshire terrier puppy</YorkshireTerrier.lifeStages.0.label>
+  <YorkshireTerrier.lifeStages.0.labelPlural>yorkshire terrier puppies</YorkshireTerrier.lifeStages.0.labelPlural>
+  <GuineaPig.label>guinea pig</GuineaPig.label>
+  <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
+  <LabradorRetriever.lifeStages.0.label>labrador puppy</LabradorRetriever.lifeStages.0.label>
+  <LabradorRetriever.lifeStages.0.labelPlural>labrador puppies</LabradorRetriever.lifeStages.0.labelPlural>
+  <Husky.label>husky</Husky.label>
+  <Husky.labelPlural>huskies</Husky.labelPlural>
+  <Husky.lifeStages.0.label>husky puppy</Husky.lifeStages.0.label>
+  <Husky.lifeStages.0.labelPlural>husky puppies</Husky.lifeStages.0.labelPlural>
+  <Monkey.label>monkey</Monkey.label>
+  <Chicken.label>chicken</Chicken.label>
+  <Chicken.labelMale>rooster</Chicken.labelMale>
+  <Chicken.labelFemale>hen</Chicken.labelFemale>
+  <Chicken.lifeStages.0.label>chick</Chicken.lifeStages.0.label>
+  <Chicken.lifeStages.1.labelMale>cockerel</Chicken.lifeStages.1.labelMale>
+  <Duck.label>duck</Duck.label>
+  <Duck.lifeStages.0.label>duckling</Duck.lifeStages.0.label>
+  <Turkey.label>turkey</Turkey.label>
+  <Goose.label>goose</Goose.label>
+  <Goose.labelPlural>geese</Goose.labelPlural>
+  <Cow.label>cow</Cow.label>
+  <Cow.labelMale>bull</Cow.labelMale>
+  <Cow.lifeStages.0.label>calf</Cow.lifeStages.0.label>
+  <Cow.lifeStages.0.labelPlural>calves</Cow.lifeStages.0.labelPlural>
+  <Boomalope.label>boomalope</Boomalope.label>
+  <Boomalope.lifeStages.0.label>boomalope calf</Boomalope.lifeStages.0.label>
+  <Boomalope.lifeStages.0.labelPlural>boomalope calves</Boomalope.lifeStages.0.labelPlural>
+  <Muffalo.label>muffalo</Muffalo.label>
+  <Muffalo.lifeStages.0.label>muffalo calf</Muffalo.lifeStages.0.label>
+  <Muffalo.lifeStages.0.labelPlural>muffalo calves</Muffalo.lifeStages.0.labelPlural>
+  <Bison.label>bison</Bison.label>
+  <Bison.lifeStages.0.label>bison calf</Bison.lifeStages.0.label>
+  <Bison.lifeStages.0.labelPlural>bison calves</Bison.lifeStages.0.labelPlural>
+  <Dromedary.label>dromedary</Dromedary.label>
+  <Dromedary.labelPlural>dromedaries</Dromedary.labelPlural>
+  <Dromedary.lifeStages.0.label>dromedary calf</Dromedary.lifeStages.0.label>
+  <Dromedary.lifeStages.0.labelPlural>dromedary calves</Dromedary.lifeStages.0.labelPlural>
+  <Goat.label>goat</Goat.label>
+  <Goat.labelFemale>goat doe</Goat.labelFemale>
+  <Goat.lifeStages.0.label>baby goat</Goat.lifeStages.0.label>
+  <Elk.label>elk</Elk.label>
+  <Elk.labelPlural>elk</Elk.labelPlural>
+  <Elk.lifeStages.0.label>elk calf</Elk.lifeStages.0.label>
+  <Elk.lifeStages.0.labelPlural>elk calves</Elk.lifeStages.0.labelPlural>
+  <Yak.label>yak</Yak.label>
+  <Yak.labelMale>yak</Yak.labelMale>
+  <Yak.lifeStages.0.label>yak calf</Yak.lifeStages.0.label>
+  <Yak.lifeStages.0.labelPlural>yak calves</Yak.lifeStages.0.labelPlural>
+  <Caribou.label>caribou</Caribou.label>
+  <Caribou.labelPlural>caribou</Caribou.labelPlural>
+  <Caribou.lifeStages.0.label>caribou calf</Caribou.lifeStages.0.label>
+  <Caribou.lifeStages.0.labelPlural>caribou calves</Caribou.lifeStages.0.labelPlural>
+  <Horse.label>horse</Horse.label>
+  <Horse.labelMale>stallion</Horse.labelMale>
+  <Horse.labelFemale>mare</Horse.labelFemale>
+  <Horse.lifeStages.0.label>foal</Horse.lifeStages.0.label>
+  <Donkey.label>donkey</Donkey.label>
+  <Donkey.lifeStages.0.label>donkey foal</Donkey.lifeStages.0.label>
+  <Elephant.label>elephant</Elephant.label>
+  <Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>
+  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+  <Rhinoceros.labelPlural>rhinoceroses</Rhinoceros.labelPlural>
+  <Hare.label>hare</Hare.label>
+  <Snowhare.label>snowhare</Snowhare.label>
+  <Megascarab.label>megascarab</Megascarab.label>
+  <Spelopede.label>spelopede</Spelopede.label>
+  <Megaspider.label>megaspider</Megaspider.label>
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.lifeStages.0.label>thrumbo calf</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.0.labelPlural>thrumbo calves</Thrumbo.lifeStages.0.labelPlural>
+  <Cobra.label>cobra</Cobra.label>
+  <Tortoise.label>tortoise</Tortoise.label>
+  <Alphabeaver.label>alphabeaver</Alphabeaver.label>
+  <Pig.label>pig</Pig.label>
+  <Pig.labelFemale>sow</Pig.labelFemale>
+  <Pig.lifeStages.0.label>piglet</Pig.lifeStages.0.label>
+  <WildBoar.label>wild boar</WildBoar.label>
+  <Ibex.label>ibex</Ibex.label>
+  <Ibex.labelPlural>ibexes</Ibex.labelPlural>
+  <Ibex.labelMale>ibex ram</Ibex.labelMale>
+  <Ibex.labelFemale>ibex doe</Ibex.labelFemale>
+  <Deer.label>deer</Deer.label>
+  <Deer.labelPlural>deer</Deer.labelPlural>
+  <Deer.labelMale>buck</Deer.labelMale>
+  <Deer.labelFemale>doe</Deer.labelFemale>
+  <Gazelle.label>gazelle</Gazelle.label>
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  <Sheep.label>sheep</Sheep.label>
+  <Sheep.labelPlural>sheep</Sheep.labelPlural>
+  <Sheep.labelMale>ram</Sheep.labelMale>
+  <Sheep.labelFemale>ewe</Sheep.labelFemale>
+  <Sheep.lifeStages.0.label>lamb</Sheep.lifeStages.0.label>
+  <Sheep.lifeStages.0.labelPlural>lambs</Sheep.lifeStages.0.labelPlural>
+  <Alpaca.label>alpaca</Alpaca.label>
+  <Megasloth.label>megasloth</Megasloth.label>
+  <Capybara.label>capybara</Capybara.label>
+  <Squirrel.label>squirrel</Squirrel.label>
+  <Rat.label>rat</Rat.label>
+  <Boomrat.label>boomrat</Boomrat.label>
+  <Raccoon.label>raccoon</Raccoon.label>
+  <Iguana.label>iguana</Iguana.label>
+  <Warg.label>warg</Warg.label>
+  <Warg.lifeStages.0.label>warg puppy</Warg.lifeStages.0.label>
+  <Warg.lifeStages.0.labelPlural>warg puppies</Warg.lifeStages.0.labelPlural>
+  <Wolf_Timber.label>timber wolf</Wolf_Timber.label>
+  <Wolf_Timber.labelPlural>timber wolves</Wolf_Timber.labelPlural>
+  <Wolf_Timber.lifeStages.0.label>timber wolf puppy</Wolf_Timber.lifeStages.0.label>
+  <Wolf_Timber.lifeStages.0.labelPlural>timber wolf puppies</Wolf_Timber.lifeStages.0.labelPlural>
+  <Wolf_Arctic.label>arctic wolf</Wolf_Arctic.label>
+  <Wolf_Arctic.labelPlural>arctic wolves</Wolf_Arctic.labelPlural>
+  <Wolf_Arctic.lifeStages.0.label>arctic wolf puppy</Wolf_Arctic.lifeStages.0.label>
+  <Wolf_Arctic.lifeStages.0.labelPlural>arctic wolf puppies</Wolf_Arctic.lifeStages.0.labelPlural>
+  <Fox_Fennec.label>fennec fox</Fox_Fennec.label>
+  <Fox_Fennec.labelPlural>fennec foxes</Fox_Fennec.labelPlural>
+  <Fox_Fennec.lifeStages.0.label>fennec fox puppy</Fox_Fennec.lifeStages.0.label>
+  <Fox_Fennec.lifeStages.0.labelPlural>fennec fox puppies</Fox_Fennec.lifeStages.0.labelPlural>
+  <Fox_Red.label>red fox</Fox_Red.label>
+  <Fox_Red.labelPlural>red foxes</Fox_Red.labelPlural>
+  <Fox_Red.lifeStages.0.label>red fox puppy</Fox_Red.lifeStages.0.label>
+  <Fox_Red.lifeStages.0.labelPlural>red fox puppies</Fox_Red.lifeStages.0.labelPlural>
+  <Fox_Arctic.label>arctic fox</Fox_Arctic.label>
+  <Fox_Arctic.labelPlural>arctic foxes</Fox_Arctic.labelPlural>
+  <Fox_Arctic.lifeStages.0.label>arctic fox puppy</Fox_Arctic.lifeStages.0.label>
+  <Fox_Arctic.lifeStages.0.labelPlural>arctic fox puppies</Fox_Arctic.lifeStages.0.labelPlural>
+  <Mech_Centipede.label>centipede</Mech_Centipede.label>
+  <Mech_Lancer.label>lancer</Mech_Lancer.label>
+  <Mech_Scyther.label>scyther</Mech_Scyther.label>
+  <Mech_Pikeman.label>pikeman</Mech_Pikeman.label>
+  <Mech_Pikeman.labelPlural>pikemen</Mech_Pikeman.labelPlural>
+</LanguageData>

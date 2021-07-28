@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kills.label>kills</Kills.label>
+  <Kills.description>The number of creatures I have killed.</Kills.description>
+  <KillsHumanlikes.label>kills (humanlikes)</KillsHumanlikes.label>
+  <KillsHumanlikes.description>The number of humanlike characters I have killed.</KillsHumanlikes.description>
+  <KillsAnimals.label>kills (animals)</KillsAnimals.label>
+  <KillsAnimals.description>The number of animals I have killed.</KillsAnimals.description>
+  <KillsMechanoids.label>kills (mechanoids)</KillsMechanoids.label>
+  <KillsMechanoids.description>The number of mechanoids I have killed.</KillsMechanoids.description>
+  <PawnsDowned.label>enemies downed</PawnsDowned.label>
+  <PawnsDowned.description>The number of creatures I have downed.</PawnsDowned.description>
+  <PawnsDownedHumanlikes.label>enemies downed (humanlikes)</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.description>The number of humanlike creatures I have downed.</PawnsDownedHumanlikes.description>
+  <PawnsDownedAnimals.label>enemies downed (animals)</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.description>The number of animals I have downed, whether hunting or in combat.</PawnsDownedAnimals.description>
+  <PawnsDownedMechanoids.label>enemies downed (mechanoids)</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.description>The number of mechanoids I have downed.</PawnsDownedMechanoids.description>
+  <ShotsFired.label>shots fired</ShotsFired.label>
+  <ShotsFired.description>The number of shots I have fired.</ShotsFired.description>
+  <Headshots.label>headshots</Headshots.label>
+  <Headshots.description>The number of headshots I have made.</Headshots.description>
+  <DamageDealt.label>damage dealt</DamageDealt.label>
+  <DamageDealt.description>The amount of damage I have dealt.</DamageDealt.description>
+  <DamageTaken.label>damage taken</DamageTaken.label>
+  <DamageTaken.description>The amount of damage I have taken.</DamageTaken.description>
+  <TimesInMentalState.label>times in mental state</TimesInMentalState.label>
+  <TimesInMentalState.description>How many times I have suffered a mental break.</TimesInMentalState.description>
+  <TimesOnFire.label>times on fire</TimesOnFire.label>
+  <TimesOnFire.description>How many times I have been on fire.</TimesOnFire.description>
+  <FiresExtinguished.label>fires extinguished</FiresExtinguished.label>
+  <FiresExtinguished.description>The number of fires I have extinguished.</FiresExtinguished.description>
+  <OperationsReceived.label>operations received</OperationsReceived.label>
+  <OperationsReceived.description>How many times I have been medically operated on.</OperationsReceived.description>
+  <OperationsPerformed.label>operations performed</OperationsPerformed.label>
+  <OperationsPerformed.description>How many medical operations I have performed.</OperationsPerformed.description>
+  <TimesTendedTo.label>tends received</TimesTendedTo.label>
+  <TimesTendedTo.description>How many times I have had my medical conditions tended.</TimesTendedTo.description>
+  <TimesTendedOther.label>tends given</TimesTendedOther.label>
+  <TimesTendedOther.description>How many times I have tended to others' medical conditions.</TimesTendedOther.description>
+  <PeopleCaptured.label>people captured</PeopleCaptured.label>
+  <PeopleCaptured.description>The number of people I have captured.</PeopleCaptured.description>
+  <PrisonersRecruited.label>prisoners recruited</PrisonersRecruited.label>
+  <PrisonersRecruited.description>The number of prisoners I have recruited.</PrisonersRecruited.description>
+  <PrisonersChatted.label>prisoners chatted</PrisonersChatted.label>
+  <PrisonersChatted.description>How many times I have chatted with prisoners.</PrisonersChatted.description>
+  <AnimalsTamed.label>animals tamed</AnimalsTamed.label>
+  <AnimalsTamed.description>The number of animals I have tamed.</AnimalsTamed.description>
+  <AnimalsSlaughtered.label>animals slaughtered</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.description>The number of animals I have slaughtered.</AnimalsSlaughtered.description>
+  <MealsCooked.label>meals cooked</MealsCooked.label>
+  <MealsCooked.description>The number of meals I have cooked.</MealsCooked.description>
+  <ThingsConstructed.label>things constructed</ThingsConstructed.label>
+  <ThingsConstructed.description>The number of things I have constructed.</ThingsConstructed.description>
+  <ThingsInstalled.label>things installed</ThingsInstalled.label>
+  <ThingsInstalled.description>The number of things I have installed.</ThingsInstalled.description>
+  <ThingsRepaired.label>things repaired</ThingsRepaired.label>
+  <ThingsRepaired.description>The number of things I have repaired.</ThingsRepaired.description>
+  <ThingsCrafted.label>things crafted</ThingsCrafted.label>
+  <ThingsCrafted.description>The number of things I have crafted.</ThingsCrafted.description>
+  <ThingsHauled.label>things hauled</ThingsHauled.label>
+  <ThingsHauled.description>The number of things I have hauled.</ThingsHauled.description>
+  <PlantsSown.label>plants sown</PlantsSown.label>
+  <PlantsSown.description>The number of plants I have sown.</PlantsSown.description>
+  <PlantsHarvested.label>plants harvested</PlantsHarvested.label>
+  <PlantsHarvested.description>The number of plants I have harvested.</PlantsHarvested.description>
+  <CellsMined.label>cells mined</CellsMined.label>
+  <CellsMined.description>The number of cells I have mined out.</CellsMined.description>
+  <MessesCleaned.label>messes cleaned</MessesCleaned.label>
+  <MessesCleaned.description>The number of messes I have cleaned up.</MessesCleaned.description>
+  <ResearchPointsResearched.label>research points researched</ResearchPointsResearched.label>
+  <ResearchPointsResearched.description>The number of research points I have researched.</ResearchPointsResearched.description>
+  <CorpsesBuried.label>corpses buried</CorpsesBuried.label>
+  <CorpsesBuried.description>The number of corpses I have buried.</CorpsesBuried.description>
+  <NutritionEaten.label>nutrition eaten</NutritionEaten.label>
+  <NutritionEaten.description>The amount of nutrition I have eaten.</NutritionEaten.description>
+  <BodiesStripped.label>bodies stripped</BodiesStripped.label>
+  <BodiesStripped.description>The number of bodies I have stripped.</BodiesStripped.description>
+  <ThingsUninstalled.label>things uninstalled</ThingsUninstalled.label>
+  <ThingsUninstalled.description>The number of things I have uninstalled.</ThingsUninstalled.description>
+  <ThingsDeconstructed.label>things deconstructed</ThingsDeconstructed.label>
+  <ThingsDeconstructed.description>The number of things I have deconstructed.</ThingsDeconstructed.description>
+  <ArtifactsActivated.label>artifacts activated</ArtifactsActivated.label>
+  <ArtifactsActivated.description>The number of artifacts I have activated.</ArtifactsActivated.description>
+  <ContainersOpened.label>containers opened</ContainersOpened.label>
+  <ContainersOpened.description>The number of containers I have opened.</ContainersOpened.description>
+  <SwitchesFlicked.label>switches flicked</SwitchesFlicked.label>
+  <SwitchesFlicked.description>The number of switches I have flicked.</SwitchesFlicked.description>
+  <TimeAsColonistOrColonyAnimal.label>time as a colonist</TimeAsColonistOrColonyAnimal.label>
+  <TimeAsColonistOrColonyAnimal.description>Total time spent loyal to your community.</TimeAsColonistOrColonyAnimal.description>
+  <TimeAsQuestLodger.label>time hosted</TimeAsQuestLodger.label>
+  <TimeAsQuestLodger.description>Total time spent hosted by your community through a quest.</TimeAsQuestLodger.description>
+  <TimeAsPrisoner.label>time as a prisoner</TimeAsPrisoner.label>
+  <TimeAsPrisoner.description>Total time spent as a prisoner.</TimeAsPrisoner.description>
+  <TimeInBed.label>time in a bed</TimeInBed.label>
+  <TimeInBed.description>Total time spent in bed.</TimeInBed.description>
+  <TimeInBedForMedicalReasons.label>time in a bed for medical reasons</TimeInBedForMedicalReasons.label>
+  <TimeInBedForMedicalReasons.description>Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
+  <TimeDowned.label>time downed</TimeDowned.label>
+  <TimeDowned.description>Total time spent downed.</TimeDowned.description>
+  <TimeGettingFood.label>time finding food and eating</TimeGettingFood.label>
+  <TimeGettingFood.description>Total time spent on finding food and eating.</TimeGettingFood.description>
+  <TimeGettingJoy.label>time spent on entertainment</TimeGettingJoy.label>
+  <TimeGettingJoy.description>Total time spent on entertainment.</TimeGettingJoy.description>
+  <TimeUnderRoof.label>time under a roof</TimeUnderRoof.label>
+  <TimeUnderRoof.description>Total time spent under a roof.</TimeUnderRoof.description>
+  <TimeDrafted.label>time drafted</TimeDrafted.label>
+  <TimeDrafted.description>Total time spent drafted.</TimeDrafted.description>
+  <TimeOnFire.label>time on fire</TimeOnFire.label>
+  <TimeOnFire.description>Total time spent on fire.</TimeOnFire.description>
+  <TimeInMentalState.label>time in mental state</TimeInMentalState.label>
+  <TimeInMentalState.description>Total time spent in an abnormal mental state.</TimeInMentalState.description>
+  <TimeHauling.label>time hauling</TimeHauling.label>
+  <TimeHauling.description>Total time spent hauling things.</TimeHauling.description>
+  <TimeHandlingAnimals.label>time handling animals</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.description>Total time spent handling animals.</TimeHandlingAnimals.description>
+  <TimeFirefighting.label>time firefighting</TimeFirefighting.label>
+  <TimeFirefighting.description>Total time spent firefighting.</TimeFirefighting.description>
+  <TimeWardening.label>time wardening</TimeWardening.label>
+  <TimeWardening.description>Total time spent wardening.</TimeWardening.description>
+  <TimeHunting.label>time hunting</TimeHunting.label>
+  <TimeHunting.description>Total time spent hunting.</TimeHunting.description>
+  <TimeConstructing.label>time constructing</TimeConstructing.label>
+  <TimeConstructing.description>Total time spent constructing and deconstructing buildings.</TimeConstructing.description>
+  <TimeTreatingAndFeeding.label>time treating and feeding</TimeTreatingAndFeeding.label>
+  <TimeTreatingAndFeeding.description>Total time spent treating and feeding patients.</TimeTreatingAndFeeding.description>
+  <TimeResearching.label>time researching</TimeResearching.label>
+  <TimeResearching.description>Total time spent researching.</TimeResearching.description>
+  <TimeCleaning.label>time cleaning</TimeCleaning.label>
+  <TimeCleaning.description>Total time spent cleaning.</TimeCleaning.description>
+  <TimeRepairing.label>time repairing</TimeRepairing.label>
+  <TimeRepairing.description>Total time spent repairing.</TimeRepairing.description>
+  <TimeMining.label>time mining</TimeMining.label>
+  <TimeMining.description>Total time spent mining.</TimeMining.description>
+  <TimeSowingAndHarvesting.label>time sowing and harvesting</TimeSowingAndHarvesting.label>
+  <TimeSowingAndHarvesting.description>Total time spent sowing, harvesting and cutting plants.</TimeSowingAndHarvesting.description>
+</LanguageData>

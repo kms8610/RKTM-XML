@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ability_RequiredPsylink.label>psylink level</Ability_RequiredPsylink.label>
+  <Ability_RequiredPsylink.description>The minimum psylink level required to use this ability.</Ability_RequiredPsylink.description>
+  <Ability_CastingTime.label>casting time</Ability_CastingTime.label>
+  <Ability_CastingTime.description>How long it takes to perform this ability.</Ability_CastingTime.description>
+  <Ability_CastingTime.formatString>{0} s</Ability_CastingTime.formatString>
+  <Ability_EntropyGain.label>neural heat gain</Ability_EntropyGain.label>
+  <Ability_EntropyGain.description>How much neural heat will be added as a result of performing this ability.</Ability_EntropyGain.description>
+  <Ability_PsyfocusCost.label>psyfocus cost</Ability_PsyfocusCost.label>
+  <Ability_PsyfocusCost.description>How much psyfocus must be spent to perform this ability.</Ability_PsyfocusCost.description>
+  <Ability_Range.label>range</Ability_Range.label>
+  <Ability_Range.description>The maximum distance to a target of this ability, or to the center of the target location.</Ability_Range.description>
+  <Ability_Duration.label>duration</Ability_Duration.label>
+  <Ability_Duration.description>How long the effects of this ability last.</Ability_Duration.description>
+  <Ability_Duration.formatString>{0} s</Ability_Duration.formatString>
+  <Ability_EffectRadius.label>effect radius</Ability_EffectRadius.label>
+  <Ability_EffectRadius.description>The radius of the area of effect of this ability.</Ability_EffectRadius.description>
+  <Ability_GoodwillImpact.label>goodwill impact</Ability_GoodwillImpact.label>
+  <Ability_GoodwillImpact.description>How casting this ability on someone will impact relations with their faction.</Ability_GoodwillImpact.description>
+  <Ability_DetectChancePerEntropy.label>detection chance</Ability_DetectChancePerEntropy.label>
+  <Ability_DetectChancePerEntropy.description>The likelihood of this psychic power being detected when it is used.\n\nSome factions try to enforce laws which restrict some powers to those holding specific titles. When you use a power, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences.</Ability_DetectChancePerEntropy.description>
+  <StuffEffectMultiplierArmor.label>Armor - Material effect multiplier</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierInsulation_Cold.label>Insulation - Cold - Material effect multiplier</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Heat.label>Insulation - Heat - Material effect multiplier</StuffEffectMultiplierInsulation_Heat.label>
+  <ArmorRating_Sharp.label>Armor - Sharp</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.labelForFullStatList>Armor - Sharp (armor stat)</ArmorRating_Sharp.labelForFullStatList>
+  <ArmorRating_Sharp.description>The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.
+
+Upon taking damage, first this armor rating is reduced by the attack's armor penetration value.
+
+The remaining armor rating is then compared against a random number from 0 to 100.
+
+    - If the random number is under half the armor rating, the damage deflects harmlessly.
+    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.
+    - If the random number is greater than the armor rating, the armor has no effect.
+
+For example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.
+
+Each layer of armor is applied separately, from the outside in.</ArmorRating_Sharp.description>
+  <ArmorRating_Blunt.label>Armor - Blunt</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.labelForFullStatList>Armor - Blunt (armor stat)</ArmorRating_Blunt.labelForFullStatList>
+  <ArmorRating_Blunt.description>The protection given against blunt damage like fists, club impacts and rock falls.
+
+Upon taking damage, first this armor rating is reduced by the attack's armor penetration value.
+
+The remaining armor rating is then compared against a random number from 0 to 100.
+
+    - If the random number is under half the armor rating, the damage deflects harmlessly.
+    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.
+    - If the random number is greater than the armor rating, the armor has no effect.
+
+For example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.
+
+Each layer of armor is applied separately, from the outside in.</ArmorRating_Blunt.description>
+  <ArmorRating_Heat.label>Armor - Heat</ArmorRating_Heat.label>
+  <ArmorRating_Heat.labelForFullStatList>Armor - Heat (armor stat)</ArmorRating_Heat.labelForFullStatList>
+  <ArmorRating_Heat.description>The protection given against temperature-related damage like burns.
+
+Upon taking damage, first this armor rating is reduced by the attack's armor penetration value.
+
+The remaining armor rating is then compared against a random number from 0 to 100.
+
+    - If the random number is under half the armor rating, the damage deflects harmlessly.
+    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.
+    - If the random number is greater than the armor rating, the armor has no effect.
+
+For example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.
+
+Each layer of armor is applied separately, from the outside in.</ArmorRating_Heat.description>
+  <Insulation_Cold.label>Insulation - Cold</Insulation_Cold.label>
+  <Insulation_Cold.labelForFullStatList>Insulation - Cold (armor stat)</Insulation_Cold.labelForFullStatList>
+  <Insulation_Cold.description>How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures.</Insulation_Cold.description>
+  <Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>
+  <Insulation_Heat.labelForFullStatList>Insulation - Heat (armor stat)</Insulation_Heat.labelForFullStatList>
+  <Insulation_Heat.description>How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures.</Insulation_Heat.description>
+  <EnergyShieldEnergyMax.label>Shield max energy</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.description>The maximum energy a shield belt can have at one time.\n\nMore energy absorbs more damage.</EnergyShieldEnergyMax.description>
+  <EnergyShieldRechargeRate.label>Shield recharge rate</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
+  <SmokepopBeltRadius.label>Smokepop pack radius</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>The area obscured when a smokepop pack detonates.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
+  <EquipDelay.label>equip delay</EquipDelay.label>
+  <EquipDelay.description>The time it takes to equip and unequip this item.</EquipDelay.description>
+  <EquipDelay.formatString>{0} s</EquipDelay.formatString>
+  <MaxHitPoints.label>max hit points</MaxHitPoints.label>
+  <MaxHitPoints.description>The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+  <Mass.label>mass</Mass.label>
+  <Mass.description>The physical mass of an object.</Mass.description>
+  <Mass.formatString>{0} kg</Mass.formatString>
+  <MarketValue.label>market value</MarketValue.label>
+  <MarketValue.description>The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors.</MarketValue.description>
+  <MarketValueIgnoreHp.label>market value ignoring hitpoints</MarketValueIgnoreHp.label>
+  <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
+  <SellPriceFactor.description>A multiplier on the price at which you can sell items.</SellPriceFactor.description>
+  <RoyalFavorValue.label>honor value</RoyalFavorValue.label>
+  <RoyalFavorValue.description>The amount of honor your trader will earn for giving this to a tribute collector.</RoyalFavorValue.description>
+  <Flammability.label>flammability</Flammability.label>
+  <Flammability.description>How easily an object catches fire and how quickly a fire will grow as it burns.</Flammability.description>
+  <WorkToMake.label>work to make</WorkToMake.label>
+  <WorkToMake.description>The base amount of work it takes to make an item, once all materials are gathered.</WorkToMake.description>
+  <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
+  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
+  <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
+  <Beauty.label>beauty</Beauty.label>
+  <Beauty.description>How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty.</Beauty.description>
+  <Cleanliness.label>cleanliness</Cleanliness.label>
+  <Cleanliness.description>How much an object contributes to an area's cleanliness score.</Cleanliness.description>
+  <Comfort.label>comfort</Comfort.label>
+  <Comfort.description>How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort.</Comfort.description>
+  <Nutrition.label>nutrition</Nutrition.label>
+  <Nutrition.description>How nutritious this food is.</Nutrition.description>
+  <FoodPoisonChanceFixedHuman.label>food poison chance</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>food poison chance (food stat)</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.description>The chance this food will cause food poisoning.</FoodPoisonChanceFixedHuman.description>
+  <ShootingAccuracyTurret.label>shooting accuracy</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.labelForFullStatList>shooting accuracy (turrets)</ShootingAccuracyTurret.labelForFullStatList>
+  <ShootingAccuracyTurret.description>Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyTurret.description>
+  <MedicalPotency.label>medical potency</MedicalPotency.label>
+  <MedicalPotency.description>How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck.</MedicalPotency.description>
+  <MedicalQualityMax.label>medical tend quality maximum</MedicalQualityMax.label>
+  <MedicalQualityMax.description>The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably.</MedicalQualityMax.description>
+  <ConstructionSpeedFactor.label>construction speed</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.labelForFullStatList>construction speed (material factor)</ConstructionSpeedFactor.labelForFullStatList>
+  <ConstructionSpeedFactor.description>The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast.</ConstructionSpeedFactor.description>
+  <MeditationFocusStrength.formatString>{0} / day</MeditationFocusStrength.formatString>
+  <MeditationFocusStrength.formatStringUnfinalized>{0} / day</MeditationFocusStrength.formatStringUnfinalized>
+  <MeditationFocusStrength.label>meditation psyfocus bonus</MeditationFocusStrength.label>
+  <MeditationFocusStrength.description>The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating.</MeditationFocusStrength.description>
+  <PsychicSensitivityOffset.label>psychic sensitivity offset</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.description>An offset applied to the user's psychic sensitivity.</PsychicSensitivityOffset.description>
+  <FilthMultiplier.label>filth multiplier</FilthMultiplier.label>
+  <FilthMultiplier.description>How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact.</FilthMultiplier.description>
+  <WorkToBuild.label>work to build</WorkToBuild.label>
+  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.</WorkToBuild.description>
+  <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
+  <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
+  <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly.</TrapMeleeDamage.description>
+  <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
+  <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
+  <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>The speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.2.customLabel>Room cleanliness</ResearchSpeedFactor.parts.2.customLabel>
+  <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Medical tend quality is offset by this value.</MedicalTendQualityOffset.description>
+  <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
+  <WorkTableEfficiencyFactor.label>work efficiency factor</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.description>Work efficiency is multiplied by this value.</WorkTableEfficiencyFactor.description>
+  <JoyGainFactor.label>recreation power</JoyGainFactor.label>
+  <JoyGainFactor.description>How effectively this item entertains people and fulfills the need for recreation.</JoyGainFactor.description>
+  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.parts.0.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.0.customLabel>
+  <MeleeDPS.label>melee DPS</MeleeDPS.label>
+  <MeleeDPS.description>Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor.</MeleeDPS.description>
+  <MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.description>Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon.</MeleeArmorPenetration.description>
+  <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
+  <MeleeHitChance.description>Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit.</MeleeHitChance.description>
+  <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
+  <ShootingAccuracyPawn.label>shooting accuracy</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.labelForFullStatList>shooting accuracy (people)</ShootingAccuracyPawn.labelForFullStatList>
+  <ShootingAccuracyPawn.description>Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyPawn.description>
+  <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
+  <AimingDelayFactor.description>How long it takes to shoot after choosing a target.</AimingDelayFactor.description>
+  <PawnTrapSpringChance.label>trap spring chance</PawnTrapSpringChance.label>
+  <PawnTrapSpringChance.description>Chance to spring a trap the character is unaware of.</PawnTrapSpringChance.description>
+  <IncomingDamageFactor.label>incoming damage multiplier</IncomingDamageFactor.label>
+  <IncomingDamageFactor.description>A multiplier on all incoming damage.</IncomingDamageFactor.description>
+  <MoveSpeed.label>move speed</MoveSpeed.label>
+  <MoveSpeed.description>Speed of movement in cells per second.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are.</MentalBreakThreshold.description>
+  <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
+  <PsychicSensitivity.description>More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit.</PsychicSensitivity.description>
+  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this creature.</ToxicSensitivity.description>
+  <GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>A multiplier on the learning rate for all skills.</GlobalLearningFactor.description>
+  <HungerRateMultiplier.label>hunger rate multiplier</HungerRateMultiplier.label>
+  <HungerRateMultiplier.description>A multiplier on how quickly a creature becomes hungry.</HungerRateMultiplier.description>
+  <RestRateMultiplier.label>rest rate multiplier</RestRateMultiplier.label>
+  <RestRateMultiplier.description>A multiplier on how quickly a creature rests while sleeping.</RestRateMultiplier.description>
+  <EatingSpeed.label>eating speed</EatingSpeed.label>
+  <EatingSpeed.description>A multiplier on eating speed.</EatingSpeed.description>
+  <ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
+  <ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
+  <InjuryHealingFactor.label>injury healing factor</InjuryHealingFactor.label>
+  <InjuryHealingFactor.description>The multiplier applied to a person's injury healing rate.</InjuryHealingFactor.description>
+  <CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
+  <CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips.</CarryingCapacity.description>
+  <MeatAmount.label>meat amount</MeatAmount.label>
+  <MeatAmount.description>The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed.</MeatAmount.description>
+  <LeatherAmount.label>leather amount</LeatherAmount.label>
+  <LeatherAmount.description>The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed.</LeatherAmount.description>
+  <MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
+  <PainShockThreshold.label>pain shock threshold</PainShockThreshold.label>
+  <PainShockThreshold.description>The pain level at which this creature is downed from pain.</PainShockThreshold.description>
+  <ForagedNutritionPerDay.label>foraged food amount</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.description>The amount of nutrition this person will automatically forage per day while traveling by caravan.</ForagedNutritionPerDay.description>
+  <FilthRate.label>filth rate</FilthRate.label>
+  <FilthRate.description>How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem.</FilthRate.description>
+  <AnimalsLearningFactor.label>animals learning factor</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.description>A multiplier on the learning rate for animals skill.</AnimalsLearningFactor.description>
+  <CaravanRidingSpeedFactor.label>caravan riding speed</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.description>The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans.</CaravanRidingSpeedFactor.description>
+  <NegotiationAbility.label>negotiation ability</NegotiationAbility.label>
+  <NegotiationAbility.description>How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks.</NegotiationAbility.description>
+  <PawnBeauty.label>beauty</PawnBeauty.label>
+  <PawnBeauty.description>How physically attractive this person is. This affects social interactions.</PawnBeauty.description>
+  <ArrestSuccessChance.label>Arrest success chance</ArrestSuccessChance.label>
+  <ArrestSuccessChance.description>How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance.</ArrestSuccessChance.description>
+  <TradePriceImprovement.label>trade price improvement</TradePriceImprovement.label>
+  <TradePriceImprovement.description>When this person acts as a trade negotiator, buy and sell prices are improved by this percentage.</TradePriceImprovement.description>
+  <DrugSellPriceImprovement.label>drug sell price improvement</DrugSellPriceImprovement.label>
+  <DrugSellPriceImprovement.description>When this person sells non-medical drugs, prices are improved by this percentage.</DrugSellPriceImprovement.description>
+  <SocialImpact.label>social impact</SocialImpact.label>
+  <SocialImpact.description>A multiplier on how much other people are affected by this person's social interactions.</SocialImpact.description>
+  <TameAnimalChance.label>tame animal chance</TameAnimalChance.label>
+  <TameAnimalChance.description>The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals.</TameAnimalChance.description>
+  <TrainAnimalChance.label>train animal chance</TrainAnimalChance.label>
+  <TrainAnimalChance.description>The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on.</TrainAnimalChance.description>
+  <BondAnimalChanceFactor.label>bond chance factor</BondAnimalChanceFactor.label>
+  <BondAnimalChanceFactor.description>A multiplier on the chance to bond with an animal when interacting with it.</BondAnimalChanceFactor.description>
+  <WorkSpeedGlobal.label>global work speed</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>A multiplier on a character's speed at doing any kind of work.</WorkSpeedGlobal.description>
+  <MiningSpeed.label>mining speed</MiningSpeed.label>
+  <MiningSpeed.description>A speed at which this person mines away walls.</MiningSpeed.description>
+  <DeepDrillingSpeed.label>deep drilling speed</DeepDrillingSpeed.label>
+  <DeepDrillingSpeed.description>A speed at which this person uses a deep drill to extract underground resources.</DeepDrillingSpeed.description>
+  <MiningYield.label>mining yield</MiningYield.label>
+  <MiningYield.description>The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills.</MiningYield.description>
+  <SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
+  <SmoothingSpeed.description>A multiplier on the speed at which this person smooths rough stone floors and walls.</SmoothingSpeed.description>
+  <ResearchSpeed.label>research speed</ResearchSpeed.label>
+  <ResearchSpeed.description>How fast this person performs research and how quickly they can find things using scanning equipment.</ResearchSpeed.description>
+  <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
+  <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
+  <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
+  <PlantWorkSpeed.label>plant work speed</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>The speed at which this person sows and harvests plants.</PlantWorkSpeed.description>
+  <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
+  <PlantHarvestYield.description>The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest.</PlantHarvestYield.description>
+  <DrugHarvestYield.label>drug crop harvest yield</DrugHarvestYield.label>
+  <DrugHarvestYield.description>The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant.</DrugHarvestYield.description>
+  <HuntingStealth.label>hunting stealth</HuntingStealth.label>
+  <HuntingStealth.description>This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack.</HuntingStealth.description>
+  <ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
+  <ConstructionSpeed.description>The speed at which this person constructs and repairs buildings.</ConstructionSpeed.description>
+  <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>The chance that this person will succeed in constructing something.\nFailing means wasting time and resources.</ConstructSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.label>repair success chance</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage.</FixBrokenDownBuildingSuccessChance.description>
+  <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses.</MedicalTendSpeed.description>
+  <MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
+  <MedicalTendQuality.description>The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on.</MedicalTendQuality.description>
+  <MedicalOperationSpeed.label>medical operation speed</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>The speed at which the character performs medical operations.</MedicalOperationSpeed.description>
+  <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>The base chance that a character will succeed when performing a medical operation.\n\nThe actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations.\n\nNo matter how high this stat is, there is always a small chance of failure on any operation.</MedicalSurgerySuccessChance.description>
+  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
+  <SmeltingSpeed.description>The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill.</SmeltingSpeed.description>
+  <GeneralLaborSpeed.label>general labor speed</GeneralLaborSpeed.label>
+  <GeneralLaborSpeed.description>The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production.</GeneralLaborSpeed.description>
+  <DrugSynthesisSpeed.label>drug synthesis speed</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.description>How fast this character synthesizes complex chemical drugs.</DrugSynthesisSpeed.description>
+  <CookSpeed.label>cooking speed</CookSpeed.label>
+  <CookSpeed.description>The speed at which this person cooks meals.</CookSpeed.description>
+  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
+  <FoodPoisonChance.labelForFullStatList>food poison chance (chance to poison a meal)</FoodPoisonChance.labelForFullStatList>
+  <FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting.</FoodPoisonChance.description>
+  <DrugCookingSpeed.label>drug cooking speed</DrugCookingSpeed.label>
+  <DrugCookingSpeed.description>The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints.</DrugCookingSpeed.description>
+  <ButcheryFleshSpeed.label>butchery speed</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>The speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
+  <ButcheryMechanoidSpeed.label>mechanoid shredding speed</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>The speed at which this person can shred a mechanoid for resources.</ButcheryMechanoidSpeed.description>
+  <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size.</ButcheryFleshEfficiency.description>
+  <ButcheryMechanoidEfficiency.label>mechanoid shredding efficiency</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size.</ButcheryMechanoidEfficiency.description>
+  <StuffPower_Armor_Sharp.label>Armor - Sharp</StuffPower_Armor_Sharp.label>
+  <StuffPower_Armor_Sharp.labelForFullStatList>Armor - Sharp (material factor)</StuffPower_Armor_Sharp.labelForFullStatList>
+  <StuffPower_Armor_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</StuffPower_Armor_Sharp.description>
+  <StuffPower_Armor_Blunt.label>Armor - Blunt</StuffPower_Armor_Blunt.label>
+  <StuffPower_Armor_Blunt.labelForFullStatList>Armor - Blunt (material factor)</StuffPower_Armor_Blunt.labelForFullStatList>
+  <StuffPower_Armor_Blunt.description>Armor against blunt damage like club impacts, rock falls, and explosions.</StuffPower_Armor_Blunt.description>
+  <StuffPower_Armor_Heat.label>Armor - Heat</StuffPower_Armor_Heat.label>
+  <StuffPower_Armor_Heat.labelForFullStatList>Armor - Heat (material factor)</StuffPower_Armor_Heat.labelForFullStatList>
+  <StuffPower_Armor_Heat.description>Armor against temperature-related damage like burns.</StuffPower_Armor_Heat.description>
+  <StuffPower_Insulation_Cold.label>Insulation - Cold</StuffPower_Insulation_Cold.label>
+  <StuffPower_Insulation_Cold.labelForFullStatList>Insulation - Cold (material factor)</StuffPower_Insulation_Cold.labelForFullStatList>
+  <StuffPower_Insulation_Cold.description>How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn.</StuffPower_Insulation_Cold.description>
+  <StuffPower_Insulation_Heat.label>Insulation - Heat</StuffPower_Insulation_Heat.label>
+  <StuffPower_Insulation_Heat.labelForFullStatList>Insulation - Heat (material factor)</StuffPower_Insulation_Heat.labelForFullStatList>
+  <StuffPower_Insulation_Heat.description>How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn.</StuffPower_Insulation_Heat.description>
+  <MeleeWeapon_AverageDPS.label>melee damage per second</MeleeWeapon_AverageDPS.label>
+  <MeleeWeapon_AverageDPS.description>Average damage dealt per second in melee combat, if all attacks hit.</MeleeWeapon_AverageDPS.description>
+  <MeleeWeapon_AverageArmorPenetration.label>melee armor penetration</MeleeWeapon_AverageArmorPenetration.label>
+  <MeleeWeapon_AverageArmorPenetration.description>Average armor penetration in melee combat.</MeleeWeapon_AverageArmorPenetration.description>
+  <MeleeWeapon_DamageMultiplier.label>melee damage multiplier</MeleeWeapon_DamageMultiplier.label>
+  <MeleeWeapon_DamageMultiplier.description>A damage multiplier applied to melee combat.</MeleeWeapon_DamageMultiplier.description>
+  <MeleeWeapon_CooldownMultiplier.label>melee cooldown</MeleeWeapon_CooldownMultiplier.label>
+  <MeleeWeapon_CooldownMultiplier.description>A multiplier on attack delay for weapons made of this material.</MeleeWeapon_CooldownMultiplier.description>
+  <SharpDamageMultiplier.label>sharp damage</SharpDamageMultiplier.label>
+  <SharpDamageMultiplier.description>A multiplier on damage from sharp-type attacks for weapons made of this material.</SharpDamageMultiplier.description>
+  <BluntDamageMultiplier.label>blunt damage</BluntDamageMultiplier.label>
+  <BluntDamageMultiplier.description>A multiplier on damage from blunt-type attacks for weapons made of this material.</BluntDamageMultiplier.description>
+  <AccuracyTouch.label>Accuracy (close)</AccuracyTouch.label>
+  <AccuracyTouch.description>The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors.</AccuracyTouch.description>
+  <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
+  <AccuracyShort.description>The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors.</AccuracyShort.description>
+  <AccuracyMedium.label>Accuracy (medium)</AccuracyMedium.label>
+  <AccuracyMedium.description>The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors.</AccuracyMedium.description>
+  <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
+  <AccuracyLong.description>The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors.</AccuracyLong.description>
+  <RangedWeapon_Cooldown.label>ranged cooldown</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.description>How long it takes to recover after firing this weapon.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
+  <RangedWeapon_DamageMultiplier.label>damage multiplier</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.description>A damage multiplier applied to projectiles fired from this weapon.</RangedWeapon_DamageMultiplier.description>
+</LanguageData>

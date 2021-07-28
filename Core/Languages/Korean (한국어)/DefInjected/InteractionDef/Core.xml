@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalChat.label>animal chat</AnimalChat.label>
+  <AnimalChat.logRulesInitiator.rulesStrings.0>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</AnimalChat.logRulesInitiator.rulesStrings.0>
+  <AnimalChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.1>
+  <AnimalChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.2>
+  <AnimalChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</AnimalChat.logRulesInitiator.rulesStrings.3>
+  <AnimalChat.logRulesInitiator.rulesStrings.4>tamed->made calming noises towards</AnimalChat.logRulesInitiator.rulesStrings.4>
+  <AnimalChat.logRulesInitiator.rulesStrings.5>tamed->offered slow, friendly gestures to</AnimalChat.logRulesInitiator.rulesStrings.5>
+  <AnimalChat.logRulesInitiator.rulesStrings.6>tamed->made shushing noises at</AnimalChat.logRulesInitiator.rulesStrings.6>
+  <AnimalChat.logRulesInitiator.rulesStrings.7>tamed->made happy clicking noises at</AnimalChat.logRulesInitiator.rulesStrings.7>
+  <AnimalChat.logRulesInitiator.rulesStrings.8>tamed->gestured gently and approached</AnimalChat.logRulesInitiator.rulesStrings.8>
+  <AnimalChat.logRulesInitiator.rulesStrings.9>tamed->slowly approached</AnimalChat.logRulesInitiator.rulesStrings.9>
+  <AnimalChat.logRulesInitiator.rulesStrings.10>tamed->gently touched</AnimalChat.logRulesInitiator.rulesStrings.10>
+  <AnimalChat.logRulesInitiator.rulesStrings.11>tamed->calmed and encouraged</AnimalChat.logRulesInitiator.rulesStrings.11>
+  <AnimalChat.logRulesInitiator.rulesStrings.12>tamed->matched breathing with</AnimalChat.logRulesInitiator.rulesStrings.12>
+  <AnimalChat.logRulesInitiator.rulesStrings.13>tamed->took a low stance while approaching</AnimalChat.logRulesInitiator.rulesStrings.13>
+  <AnimalChat.logRulesInitiator.rulesStrings.14>tamed->showed no fear or anger to</AnimalChat.logRulesInitiator.rulesStrings.14>
+  <AnimalChat.logRulesInitiator.rulesStrings.15>tamed->feigned inattention towards</AnimalChat.logRulesInitiator.rulesStrings.15>
+  <AnimalChat.logRulesInitiator.rulesStrings.16>tamed->gently hummed a song at</AnimalChat.logRulesInitiator.rulesStrings.16>
+  <AnimalChat.logRulesInitiator.rulesStrings.17>tamed->sang an old lullaby at</AnimalChat.logRulesInitiator.rulesStrings.17>
+  <AnimalChat.logRulesInitiator.rulesStrings.18>tamed->firmly yet softly touched</AnimalChat.logRulesInitiator.rulesStrings.18>
+  <AnimalChat.logRulesInitiator.rulesStrings.19>tamed->showed a relaxed attitude towards</AnimalChat.logRulesInitiator.rulesStrings.19>
+  <AnimalChat.logRulesInitiator.rulesStrings.20>tamed->sat patiently near</AnimalChat.logRulesInitiator.rulesStrings.20>
+  <AnimalChat.logRulesInitiator.rulesStrings.21>tamed->whispered a story about [TalkTopicAny] to</AnimalChat.logRulesInitiator.rulesStrings.21>
+  <TameAttempt.label>tame attempt</TameAttempt.label>
+  <TameAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.0>
+  <TameAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</TameAttempt.logRulesInitiator.rulesStrings.1>
+  <TameAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.2>
+  <TameAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.3>
+  <TameAttempt.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</TameAttempt.logRulesInitiator.rulesStrings.4>
+  <TameAttempt.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</TameAttempt.logRulesInitiator.rulesStrings.5>
+  <TameAttempt.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</TameAttempt.logRulesInitiator.rulesStrings.6>
+  <TameAttempt.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</TameAttempt.logRulesInitiator.rulesStrings.7>
+  <TameAttempt.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</TameAttempt.logRulesInitiator.rulesStrings.8>
+  <TameAttempt.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</TameAttempt.logRulesInitiator.rulesStrings.9>
+  <TameAttempt.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community.</TameAttempt.logRulesInitiator.rulesStrings.10>
+  <TameAttempt.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</TameAttempt.logRulesInitiator.rulesStrings.11>
+  <TameAttempt.logRulesInitiator.rulesStrings.12>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</TameAttempt.logRulesInitiator.rulesStrings.12>
+  <TameAttempt.logRulesInitiator.rulesStrings.13>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</TameAttempt.logRulesInitiator.rulesStrings.13>
+  <TameAttempt.logRulesInitiator.rulesStrings.14>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</TameAttempt.logRulesInitiator.rulesStrings.14>
+  <TrainAttempt.label>train attempt</TrainAttempt.label>
+  <TrainAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</TrainAttempt.logRulesInitiator.rulesStrings.0>
+  <TrainAttempt.logRulesInitiator.rulesStrings.1>trained(p=2)->[tried] to train</TrainAttempt.logRulesInitiator.rulesStrings.1>
+  <TrainAttempt.logRulesInitiator.rulesStrings.2>trained->[tried] to show a new trick to</TrainAttempt.logRulesInitiator.rulesStrings.2>
+  <TrainAttempt.logRulesInitiator.rulesStrings.3>trained->[tried] to discipline</TrainAttempt.logRulesInitiator.rulesStrings.3>
+  <TrainAttempt.logRulesInitiator.rulesStrings.4>trained->[tried] to instruct</TrainAttempt.logRulesInitiator.rulesStrings.4>
+  <TrainAttempt.logRulesInitiator.rulesStrings.5>trained->[tried] to encourage a new skill in</TrainAttempt.logRulesInitiator.rulesStrings.5>
+  <TrainAttempt.logRulesInitiator.rulesStrings.6>trained->demonstrated a skill to</TrainAttempt.logRulesInitiator.rulesStrings.6>
+  <TrainAttempt.logRulesInitiator.rulesStrings.7>trained->encouraged a new response from</TrainAttempt.logRulesInitiator.rulesStrings.7>
+  <TrainAttempt.logRulesInitiator.rulesStrings.8>tried->tried</TrainAttempt.logRulesInitiator.rulesStrings.8>
+  <TrainAttempt.logRulesInitiator.rulesStrings.9>tried->attempted</TrainAttempt.logRulesInitiator.rulesStrings.9>
+  <Nuzzle.label>nuzzle</Nuzzle.label>
+  <Nuzzle.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</Nuzzle.logRulesInitiator.rulesStrings.0>
+  <Nuzzle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</Nuzzle.logRulesInitiator.rulesStrings.1>
+  <Nuzzle.logRulesInitiator.rulesStrings.2>nuzzled(p=2)->nuzzled</Nuzzle.logRulesInitiator.rulesStrings.2>
+  <Nuzzle.logRulesInitiator.rulesStrings.3>nuzzled->snuggled up to</Nuzzle.logRulesInitiator.rulesStrings.3>
+  <Nuzzle.logRulesInitiator.rulesStrings.4>nuzzleadverb(p=4)-></Nuzzle.logRulesInitiator.rulesStrings.4>
+  <Nuzzle.logRulesInitiator.rulesStrings.5>nuzzleadverb->gently</Nuzzle.logRulesInitiator.rulesStrings.5>
+  <Nuzzle.logRulesInitiator.rulesStrings.6>nuzzleadverb->encouragingly</Nuzzle.logRulesInitiator.rulesStrings.6>
+  <Nuzzle.logRulesInitiator.rulesStrings.7>nuzzleadverb->happily</Nuzzle.logRulesInitiator.rulesStrings.7>
+  <Nuzzle.logRulesInitiator.rulesStrings.8>nuzzleadverb->softly</Nuzzle.logRulesInitiator.rulesStrings.8>
+  <Nuzzle.logRulesInitiator.rulesStrings.9>nuzzleadverb->supportively</Nuzzle.logRulesInitiator.rulesStrings.9>
+  <Nuzzle.logRulesInitiator.rulesStrings.10>nuzzleadverb->lightly</Nuzzle.logRulesInitiator.rulesStrings.10>
+  <Nuzzle.logRulesInitiator.rulesStrings.11>nuzzleadverb->warmly</Nuzzle.logRulesInitiator.rulesStrings.11>
+  <Nuzzle.logRulesInitiator.rulesStrings.12>nuzzleadverb->plaintively</Nuzzle.logRulesInitiator.rulesStrings.12>
+  <Nuzzle.logRulesInitiator.rulesStrings.13>nuzzleadverb->lovingly</Nuzzle.logRulesInitiator.rulesStrings.13>
+  <Nuzzle.logRulesInitiator.rulesStrings.14>nuzzleadverb->affectionately</Nuzzle.logRulesInitiator.rulesStrings.14>
+  <Nuzzle.logRulesInitiator.rulesStrings.15>rubbedpart->leg</Nuzzle.logRulesInitiator.rulesStrings.15>
+  <Nuzzle.logRulesInitiator.rulesStrings.16>rubbedpart->knee</Nuzzle.logRulesInitiator.rulesStrings.16>
+  <Nuzzle.logRulesInitiator.rulesStrings.17>rubbedpart->foot</Nuzzle.logRulesInitiator.rulesStrings.17>
+  <Nuzzle.logRulesInitiator.rulesStrings.18>rubbedpart->elbow</Nuzzle.logRulesInitiator.rulesStrings.18>
+  <Nuzzle.logRulesInitiator.rulesStrings.19>rubbedpart->hip</Nuzzle.logRulesInitiator.rulesStrings.19>
+  <Nuzzle.logRulesInitiator.rulesStrings.20>rubbedpart->shoulder</Nuzzle.logRulesInitiator.rulesStrings.20>
+  <Nuzzle.logRulesInitiator.rulesStrings.21>rubbedpart->hand</Nuzzle.logRulesInitiator.rulesStrings.21>
+  <Nuzzle.logRulesInitiator.rulesStrings.22>rubbedpart->side</Nuzzle.logRulesInitiator.rulesStrings.22>
+  <Nuzzle.logRulesInitiator.rulesStrings.23>rubbedpart->arm</Nuzzle.logRulesInitiator.rulesStrings.23>
+  <ReleaseToWild.label>release to the wild</ReleaseToWild.label>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.0>r_logentry->[farewell] [released]</ReleaseToWild.logRulesInitiator.rulesStrings.0>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.1>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</ReleaseToWild.logRulesInitiator.rulesStrings.1>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.2>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</ReleaseToWild.logRulesInitiator.rulesStrings.2>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.3>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</ReleaseToWild.logRulesInitiator.rulesStrings.3>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.4>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_objective] had with [RECIPIENT_nameDef]</ReleaseToWild.logRulesInitiator.rulesStrings.4>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.5>released->and released [RECIPIENT_objective] to the wild.</ReleaseToWild.logRulesInitiator.rulesStrings.5>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.6>released->and set [RECIPIENT_objective] free.</ReleaseToWild.logRulesInitiator.rulesStrings.6>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.7>released->and sent [RECIPIENT_objective] off.</ReleaseToWild.logRulesInitiator.rulesStrings.7>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.8>released->and let [RECIPIENT_objective] go.</ReleaseToWild.logRulesInitiator.rulesStrings.8>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.9>released->then turned away and let [RECIPIENT_objective] leave the colony.</ReleaseToWild.logRulesInitiator.rulesStrings.9>
+  <ReleaseToWild.logRulesInitiator.rulesStrings.10>released->before letting [RECIPIENT_objective] go to live in freedom.</ReleaseToWild.logRulesInitiator.rulesStrings.10>
+  <BuildRapport.label>try to get to know</BuildRapport.label>
+  <BuildRapport.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.0>
+  <BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</BuildRapport.logRulesInitiator.rulesStrings.1>
+  <BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</BuildRapport.logRulesInitiator.rulesStrings.2>
+  <BuildRapport.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.3>
+  <BuildRapport.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.4>
+  <BuildRapport.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</BuildRapport.logRulesInitiator.rulesStrings.5>
+  <BuildRapport.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</BuildRapport.logRulesInitiator.rulesStrings.6>
+  <BuildRapport.logRulesInitiator.rulesStrings.7>toldastoryabout(p=2)->told a story about</BuildRapport.logRulesInitiator.rulesStrings.7>
+  <BuildRapport.logRulesInitiator.rulesStrings.8>toldastoryabout->told a funny story about</BuildRapport.logRulesInitiator.rulesStrings.8>
+  <BuildRapport.logRulesInitiator.rulesStrings.9>toldastoryabout->told a heartfelt story about</BuildRapport.logRulesInitiator.rulesStrings.9>
+  <BuildRapport.logRulesInitiator.rulesStrings.10>toldastoryabout->told an old story about</BuildRapport.logRulesInitiator.rulesStrings.10>
+  <BuildRapport.logRulesInitiator.rulesStrings.11>toldastoryabout->told a family story about</BuildRapport.logRulesInitiator.rulesStrings.11>
+  <BuildRapport.logRulesInitiator.rulesStrings.12>toldastoryabout->told a childhood story about</BuildRapport.logRulesInitiator.rulesStrings.12>
+  <BuildRapport.logRulesInitiator.rulesStrings.13>toldastoryabout->mentioned an anecdote about</BuildRapport.logRulesInitiator.rulesStrings.13>
+  <BuildRapport.logRulesInitiator.rulesStrings.14>talkabout->talk about</BuildRapport.logRulesInitiator.rulesStrings.14>
+  <BuildRapport.logRulesInitiator.rulesStrings.15>talkabout->discuss</BuildRapport.logRulesInitiator.rulesStrings.15>
+  <BuildRapport.logRulesInitiator.rulesStrings.16>talkabout->have a discussion about</BuildRapport.logRulesInitiator.rulesStrings.16>
+  <BuildRapport.logRulesInitiator.rulesStrings.17>talkabout->ask about</BuildRapport.logRulesInitiator.rulesStrings.17>
+  <BuildRapport.logRulesInitiator.rulesStrings.18>talkabout->think about</BuildRapport.logRulesInitiator.rulesStrings.18>
+  <BuildRapport.logRulesInitiator.rulesStrings.19>talkabout->find common ground around</BuildRapport.logRulesInitiator.rulesStrings.19>
+  <BuildRapport.logRulesInitiator.rulesStrings.20>subject->the colony</BuildRapport.logRulesInitiator.rulesStrings.20>
+  <BuildRapport.logRulesInitiator.rulesStrings.21>subject->the community</BuildRapport.logRulesInitiator.rulesStrings.21>
+  <BuildRapport.logRulesInitiator.rulesStrings.22>subject->joining the colony</BuildRapport.logRulesInitiator.rulesStrings.22>
+  <BuildRapport.logRulesInitiator.rulesStrings.23>subject->changing teams</BuildRapport.logRulesInitiator.rulesStrings.23>
+  <BuildRapport.logRulesInitiator.rulesStrings.24>subject->finding friends</BuildRapport.logRulesInitiator.rulesStrings.24>
+  <BuildRapport.logRulesInitiator.rulesStrings.25>subject->meeting new people</BuildRapport.logRulesInitiator.rulesStrings.25>
+  <BuildRapport.logRulesInitiator.rulesStrings.26>subject->reconsidering [RECIPIENT_possessive] ideas</BuildRapport.logRulesInitiator.rulesStrings.26>
+  <BuildRapport.logRulesInitiator.rulesStrings.27>subject->rethinking [RECIPIENT_possessive] loyalties</BuildRapport.logRulesInitiator.rulesStrings.27>
+  <BuildRapport.logRulesInitiator.rulesStrings.28>subject->health</BuildRapport.logRulesInitiator.rulesStrings.28>
+  <BuildRapport.logRulesInitiator.rulesStrings.29>subject->the future</BuildRapport.logRulesInitiator.rulesStrings.29>
+  <BuildRapport.logRulesInitiator.rulesStrings.30>subject->letting go</BuildRapport.logRulesInitiator.rulesStrings.30>
+  <BuildRapport.logRulesInitiator.rulesStrings.31>subject(p=4)->[ConceptPositive]</BuildRapport.logRulesInitiator.rulesStrings.31>
+  <BuildRapport.logRulesInitiator.rulesStrings.32>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</BuildRapport.logRulesInitiator.rulesStrings.32>
+  <BuildRapport.logRulesInitiator.rulesStrings.33>subject(p=8)->[TalkTopicLight]</BuildRapport.logRulesInitiator.rulesStrings.33>
+  <RecruitAttempt.label>recruit attempt</RecruitAttempt.label>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</RecruitAttempt.logRulesInitiator.rulesStrings.1>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.2>goodthing(p=15)->[ConceptPositive]</RecruitAttempt.logRulesInitiator.rulesStrings.2>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.3>goodthing->free, fresh [Vegetable]s</RecruitAttempt.logRulesInitiator.rulesStrings.3>
+  <SparkJailbreak.label>spark jailbreak</SparkJailbreak.label>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</SparkJailbreak.logRulesInitiator.rulesStrings.1>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].</SparkJailbreak.logRulesInitiator.rulesStrings.2>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape.</SparkJailbreak.logRulesInitiator.rulesStrings.3>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.4>freedom->freedom</SparkJailbreak.logRulesInitiator.rulesStrings.4>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.5>freedom->opportunity</SparkJailbreak.logRulesInitiator.rulesStrings.5>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.6>freedom->home</SparkJailbreak.logRulesInitiator.rulesStrings.6>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.7>freedom->self-determination</SparkJailbreak.logRulesInitiator.rulesStrings.7>
+  <RomanceAttempt.label>romance attempt</RomanceAttempt.label>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.1>wooed->tried to flirt with</RomanceAttempt.logRulesInitiator.rulesStrings.1>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->flirted with</RomanceAttempt.logRulesInitiator.rulesStrings.2>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.3>wooed->tried to attract</RomanceAttempt.logRulesInitiator.rulesStrings.3>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.4>wooed->tried to romance</RomanceAttempt.logRulesInitiator.rulesStrings.4>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.5>wooed->tried to woo</RomanceAttempt.logRulesInitiator.rulesStrings.5>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.6>wooed->wooed</RomanceAttempt.logRulesInitiator.rulesStrings.6>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.7>wooed->pursued</RomanceAttempt.logRulesInitiator.rulesStrings.7>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.8>wooed->charmed</RomanceAttempt.logRulesInitiator.rulesStrings.8>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.9>wooed->courted</RomanceAttempt.logRulesInitiator.rulesStrings.9>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.10>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.10>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.11>wootactic->telling a story about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.11>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.12>wootactic->telling a tale about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.12>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.13>wootactic->joking about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.13>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.14>wootactic->making an observation about [TalkTopicAny]</RomanceAttempt.logRulesInitiator.rulesStrings.14>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.15>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</RomanceAttempt.logRulesInitiator.rulesStrings.15>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.16>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.16>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.17>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</RomanceAttempt.logRulesInitiator.rulesStrings.17>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.18>boasting->boasting about</RomanceAttempt.logRulesInitiator.rulesStrings.18>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.19>boasting->mentioning</RomanceAttempt.logRulesInitiator.rulesStrings.19>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.20>boasting->implying good things about</RomanceAttempt.logRulesInitiator.rulesStrings.20>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.21>boasting->exaggerating</RomanceAttempt.logRulesInitiator.rulesStrings.21>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.22>boasting->talking about</RomanceAttempt.logRulesInitiator.rulesStrings.22>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.23>boasting->drawing attention to</RomanceAttempt.logRulesInitiator.rulesStrings.23>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.24>complimenting(p=3)->complimenting</RomanceAttempt.logRulesInitiator.rulesStrings.24>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.25>complimenting->subtly complimenting</RomanceAttempt.logRulesInitiator.rulesStrings.25>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.26>complimenting->lauding</RomanceAttempt.logRulesInitiator.rulesStrings.26>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.27>complimenting->commending</RomanceAttempt.logRulesInitiator.rulesStrings.27>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.28>complimenting->saying good things about</RomanceAttempt.logRulesInitiator.rulesStrings.28>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.29>complimenting(p=2)->playfully making fun of</RomanceAttempt.logRulesInitiator.rulesStrings.29>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.30>complimenting->jokingly poking at</RomanceAttempt.logRulesInitiator.rulesStrings.30>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.31>complimenting->jokingly half-complimenting</RomanceAttempt.logRulesInitiator.rulesStrings.31>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.32>complimenting->impishly questioning</RomanceAttempt.logRulesInitiator.rulesStrings.32>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.33>complimenting->cheerfully making fun of</RomanceAttempt.logRulesInitiator.rulesStrings.33>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.34>romantic_adj->beautiful</RomanceAttempt.logRulesInitiator.rulesStrings.34>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.35>romantic_adj->shining</RomanceAttempt.logRulesInitiator.rulesStrings.35>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.36>romantic_adj->glimmering</RomanceAttempt.logRulesInitiator.rulesStrings.36>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.37>romantic_adj->heavenly</RomanceAttempt.logRulesInitiator.rulesStrings.37>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.38>romantic_adj->golden</RomanceAttempt.logRulesInitiator.rulesStrings.38>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.39>romantic_adj->bright</RomanceAttempt.logRulesInitiator.rulesStrings.39>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.40>romantic_adj->breathtaking</RomanceAttempt.logRulesInitiator.rulesStrings.40>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.41>romantic_adj->charming</RomanceAttempt.logRulesInitiator.rulesStrings.41>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.42>romantic_adj->dazzling</RomanceAttempt.logRulesInitiator.rulesStrings.42>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.43>romantic_adj->delicate</RomanceAttempt.logRulesInitiator.rulesStrings.43>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.44>romantic_adj->fine</RomanceAttempt.logRulesInitiator.rulesStrings.44>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.45>romantic_adj->magnificent</RomanceAttempt.logRulesInitiator.rulesStrings.45>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.46>romantic_adj->lovely</RomanceAttempt.logRulesInitiator.rulesStrings.46>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.47>romantic_adj->wonderful</RomanceAttempt.logRulesInitiator.rulesStrings.47>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.48>romantic_adj(p=3)->[AdjectiveBadass]</RomanceAttempt.logRulesInitiator.rulesStrings.48>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.49>romantic_noun->flower</RomanceAttempt.logRulesInitiator.rulesStrings.49>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.50>romantic_noun->spring</RomanceAttempt.logRulesInitiator.rulesStrings.50>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.51>romantic_noun->river</RomanceAttempt.logRulesInitiator.rulesStrings.51>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.52>romantic_noun->star</RomanceAttempt.logRulesInitiator.rulesStrings.52>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.53>romantic_noun->moon</RomanceAttempt.logRulesInitiator.rulesStrings.53>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.54>romantic_noun->sun</RomanceAttempt.logRulesInitiator.rulesStrings.54>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.55>romantic_noun->house</RomanceAttempt.logRulesInitiator.rulesStrings.55>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.56>romantic_noun->aurora</RomanceAttempt.logRulesInitiator.rulesStrings.56>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.57>romantic_noun->[TreeType] tree</RomanceAttempt.logRulesInitiator.rulesStrings.57>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.58>romantic_noun(p=2)->[TerrainFeature]</RomanceAttempt.logRulesInitiator.rulesStrings.58>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.59>romantic_noun(p=2)->[NaturalObject]</RomanceAttempt.logRulesInitiator.rulesStrings.59>
+  <MarriageProposal.label>marriage proposal</MarriageProposal.label>
+  <MarriageProposal.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
+  <MarriageProposal.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</MarriageProposal.logRulesInitiator.rulesStrings.1>
+  <MarriageProposal.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</MarriageProposal.logRulesInitiator.rulesStrings.2>
+  <Breakup.label>breakup</Breakup.label>
+  <Breakup.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</Breakup.logRulesInitiator.rulesStrings.0>
+  <Breakup.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</Breakup.logRulesInitiator.rulesStrings.1>
+  <Breakup.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</Breakup.logRulesInitiator.rulesStrings.2>
+  <Breakup.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</Breakup.logRulesInitiator.rulesStrings.3>
+  <Chitchat.label>chitchat</Chitchat.label>
+  <Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</Chitchat.logRulesInitiator.rulesStrings.0>
+  <Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.1>
+  <Chitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</Chitchat.logRulesInitiator.rulesStrings.2>
+  <Chitchat.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->chatted about</Chitchat.logRulesInitiator.rulesStrings.3>
+  <Chitchat.logRulesInitiator.rulesStrings.4>talkedabout->shared a word about</Chitchat.logRulesInitiator.rulesStrings.4>
+  <Chitchat.logRulesInitiator.rulesStrings.5>talkedabout->spoke about</Chitchat.logRulesInitiator.rulesStrings.5>
+  <Chitchat.logRulesInitiator.rulesStrings.6>talkedabout->gabbed about</Chitchat.logRulesInitiator.rulesStrings.6>
+  <Chitchat.logRulesInitiator.rulesStrings.7>talkedabout->talked about</Chitchat.logRulesInitiator.rulesStrings.7>
+  <Chitchat.logRulesInitiator.rulesStrings.8>talkedabout->joked about</Chitchat.logRulesInitiator.rulesStrings.8>
+  <Chitchat.logRulesInitiator.rulesStrings.9>talkedabout->quipped about</Chitchat.logRulesInitiator.rulesStrings.9>
+  <Chitchat.logRulesInitiator.rulesStrings.10>commentedabout->said something about</Chitchat.logRulesInitiator.rulesStrings.10>
+  <Chitchat.logRulesInitiator.rulesStrings.11>commentedabout->said a word about</Chitchat.logRulesInitiator.rulesStrings.11>
+  <Chitchat.logRulesInitiator.rulesStrings.12>commentedabout->made a comment about</Chitchat.logRulesInitiator.rulesStrings.12>
+  <Chitchat.logRulesInitiator.rulesStrings.13>commentedabout->commented about</Chitchat.logRulesInitiator.rulesStrings.13>
+  <Chitchat.logRulesInitiator.rulesStrings.14>commentedabout->told a joke about</Chitchat.logRulesInitiator.rulesStrings.14>
+  <DeepTalk.label>deep talk</DeepTalk.label>
+  <DeepTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</DeepTalk.logRulesInitiator.rulesStrings.0>
+  <DeepTalk.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</DeepTalk.logRulesInitiator.rulesStrings.1>
+  <DeepTalk.logRulesInitiator.rulesStrings.2>talkedabout->communicated thoughts about</DeepTalk.logRulesInitiator.rulesStrings.2>
+  <DeepTalk.logRulesInitiator.rulesStrings.3>talkedabout->exchanged thoughts about</DeepTalk.logRulesInitiator.rulesStrings.3>
+  <DeepTalk.logRulesInitiator.rulesStrings.4>talkedabout->exchanged ideas about</DeepTalk.logRulesInitiator.rulesStrings.4>
+  <DeepTalk.logRulesInitiator.rulesStrings.5>talkedabout->shared views on</DeepTalk.logRulesInitiator.rulesStrings.5>
+  <DeepTalk.logRulesInitiator.rulesStrings.6>talkedabout->shared beliefs on</DeepTalk.logRulesInitiator.rulesStrings.6>
+  <DeepTalk.logRulesInitiator.rulesStrings.7>talkedabout->discussed the topic of</DeepTalk.logRulesInitiator.rulesStrings.7>
+  <DeepTalk.logRulesInitiator.rulesStrings.8>talkedabout->had a heartfelt conversation about</DeepTalk.logRulesInitiator.rulesStrings.8>
+  <DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout->talked quietly about</DeepTalk.logRulesInitiator.rulesStrings.9>
+  <DeepTalk.logRulesInitiator.rulesStrings.10>talkedabout->talked deeply about</DeepTalk.logRulesInitiator.rulesStrings.10>
+  <DeepTalk.logRulesInitiator.rulesStrings.11>talkedabout->connected on the topic of</DeepTalk.logRulesInitiator.rulesStrings.11>
+  <DeepTalk.logRulesInitiator.rulesStrings.12>subject->[TalkTopicHeavy]</DeepTalk.logRulesInitiator.rulesStrings.12>
+  <Slight.label>slight</Slight.label>
+  <Slight.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</Slight.logRulesInitiator.rulesStrings.0>
+  <Slight.logRulesInitiator.rulesStrings.1>target(p=4)->[RECIPIENT_nameDef]</Slight.logRulesInitiator.rulesStrings.1>
+  <Slight.logRulesInitiator.rulesStrings.2>target->[RECIPIENT_nameDef]'s [PersonFamily]</Slight.logRulesInitiator.rulesStrings.2>
+  <Slight.logRulesInitiator.rulesStrings.3>madefunof->made fun of</Slight.logRulesInitiator.rulesStrings.3>
+  <Slight.logRulesInitiator.rulesStrings.4>madefunof->disrespected</Slight.logRulesInitiator.rulesStrings.4>
+  <Slight.logRulesInitiator.rulesStrings.5>madefunof->subtly scorned</Slight.logRulesInitiator.rulesStrings.5>
+  <Slight.logRulesInitiator.rulesStrings.6>madefunof->subtly shamed</Slight.logRulesInitiator.rulesStrings.6>
+  <Slight.logRulesInitiator.rulesStrings.7>madefunof->spoke badly of</Slight.logRulesInitiator.rulesStrings.7>
+  <Slight.logRulesInitiator.rulesStrings.8>madefunof->spoke negatively of</Slight.logRulesInitiator.rulesStrings.8>
+  <Slight.logRulesInitiator.rulesStrings.9>madefunof->laughed at</Slight.logRulesInitiator.rulesStrings.9>
+  <Slight.logRulesInitiator.rulesStrings.10>madefunof->sniggered at</Slight.logRulesInitiator.rulesStrings.10>
+  <Slight.logRulesInitiator.rulesStrings.11>madefunof->implied negative things about</Slight.logRulesInitiator.rulesStrings.11>
+  <Slight.logRulesInitiator.rulesStrings.12>madefunof->belittled</Slight.logRulesInitiator.rulesStrings.12>
+  <Slight.logRulesInitiator.rulesStrings.13>madefunof->made a contemptuous remark about</Slight.logRulesInitiator.rulesStrings.13>
+  <Slight.logRulesInitiator.rulesStrings.14>madefunof->offered a backhanded compliment about</Slight.logRulesInitiator.rulesStrings.14>
+  <Insult.label>insult</Insult.label>
+  <Insult.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</Insult.logRulesInitiator.rulesStrings.0>
+  <Insult.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</Insult.logRulesInitiator.rulesStrings.1>
+  <Insult.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</Insult.logRulesInitiator.rulesStrings.2>
+  <Insult.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameDef]</Insult.logRulesInitiator.rulesStrings.3>
+  <Insult.logRulesInitiator.rulesStrings.4>target->[RECIPIENT_nameDef]'s [PersonFamily]</Insult.logRulesInitiator.rulesStrings.4>
+  <Insult.logRulesInitiator.rulesStrings.5>insulted(p=3)->insulted</Insult.logRulesInitiator.rulesStrings.5>
+  <Insult.logRulesInitiator.rulesStrings.6>insulted->openly insulted</Insult.logRulesInitiator.rulesStrings.6>
+  <Insult.logRulesInitiator.rulesStrings.7>insulted->loudly insulted</Insult.logRulesInitiator.rulesStrings.7>
+  <Insult.logRulesInitiator.rulesStrings.8>insulted->flagrantly insulted</Insult.logRulesInitiator.rulesStrings.8>
+  <Insult.logRulesInitiator.rulesStrings.9>insulted->directly insulted</Insult.logRulesInitiator.rulesStrings.9>
+  <Insult.logRulesInitiator.rulesStrings.10>insulted->viciously insulted</Insult.logRulesInitiator.rulesStrings.10>
+  <Insult.logRulesInitiator.rulesStrings.11>insulted->flagrantly disrespected</Insult.logRulesInitiator.rulesStrings.11>
+  <Insult.logRulesInitiator.rulesStrings.12>insulted->slandered</Insult.logRulesInitiator.rulesStrings.12>
+  <Insult.logRulesInitiator.rulesStrings.13>insulted->hurled invective about</Insult.logRulesInitiator.rulesStrings.13>
+  <Insult.logRulesInitiator.rulesStrings.14>insulted->derided</Insult.logRulesInitiator.rulesStrings.14>
+  <Insult.logRulesInitiator.rulesStrings.15>insultcomparison(p=2)->[Animal]</Insult.logRulesInitiator.rulesStrings.15>
+  <Insult.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</Insult.logRulesInitiator.rulesStrings.16>
+  <KindWords.label>kind words</KindWords.label>
+  <KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</KindWords.logRulesInitiator.rulesStrings.0>
+  <KindWords.logRulesInitiator.rulesStrings.1>complimented(p=3)->complimented</KindWords.logRulesInitiator.rulesStrings.1>
+  <KindWords.logRulesInitiator.rulesStrings.2>complimented->praised</KindWords.logRulesInitiator.rulesStrings.2>
+  <KindWords.logRulesInitiator.rulesStrings.3>complimented->commended</KindWords.logRulesInitiator.rulesStrings.3>
+  <KindWords.logRulesInitiator.rulesStrings.4>complimented->lauded</KindWords.logRulesInitiator.rulesStrings.4>
+  <KindWords.logRulesInitiator.rulesStrings.5>complimented->applauded</KindWords.logRulesInitiator.rulesStrings.5>
+  <KindWords.logRulesInitiator.rulesStrings.6>complimented->celebrated</KindWords.logRulesInitiator.rulesStrings.6>
+  <KindWords.logRulesInitiator.rulesStrings.7>complimented->saluted</KindWords.logRulesInitiator.rulesStrings.7>
+  <KindWords.logRulesInitiator.rulesStrings.8>complimented->spoke kindly of</KindWords.logRulesInitiator.rulesStrings.8>
+  <KindWords.logRulesInitiator.rulesStrings.9>complimented->expressed good things about</KindWords.logRulesInitiator.rulesStrings.9>
+  <KindWords.logRulesInitiator.rulesStrings.10>complimented->offered kinds words about</KindWords.logRulesInitiator.rulesStrings.10>
+  <KindWords.logRulesInitiator.rulesStrings.11>complimented->verbally appreciated</KindWords.logRulesInitiator.rulesStrings.11>
+  <KindWords.logRulesInitiator.rulesStrings.12>complimented->expressed appreciation for</KindWords.logRulesInitiator.rulesStrings.12>
+  <KindWords.logRulesInitiator.rulesStrings.13>complimented->said good things about</KindWords.logRulesInitiator.rulesStrings.13>
+</LanguageData>

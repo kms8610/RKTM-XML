@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Slaughter.headerTip>Slaughter</Slaughter.headerTip>
+  <ReleaseAnimalToWild.headerTip>Release to wild</ReleaseAnimalToWild.headerTip>
+  <FollowDrafted.headerTip>Follow master while the master is drafted.</FollowDrafted.headerTip>
+  <FollowFieldwork.headerTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldwork.headerTip>
+  <Hunt.headerTip>Mark animals to be hunted by your hunters.</Hunt.headerTip>
+  <Tame.headerTip>Tame a wild animal.</Tame.headerTip>
+  <LifeStage.label>Life stage</LifeStage.label>
+  <Bond.headerTip>Bond</Bond.headerTip>
+  <Info.headerTip>Info</Info.headerTip>
+  <Age.label>age</Age.label>
+  <Master.label>master</Master.label>
+  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
+  <AllowedArea.label>allowed area</AllowedArea.label>
+  <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
+  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
+  <Outfit.label>current outfit</Outfit.label>
+  <DrugPolicy.label>drug policy</DrugPolicy.label>
+  <FoodRestriction.label>food restriction</FoodRestriction.label>
+  <Carry.label>carry</Carry.label>
+  <ManhunterOnDamageChance.headerTip>The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting.</ManhunterOnDamageChance.headerTip>
+  <ManhunterOnTameFailChance.headerTip>The chance that this creature will attack when a tamer tries to tame it and fails.</ManhunterOnTameFailChance.headerTip>
+</LanguageData>

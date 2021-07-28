@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Beer.label>beer</Beer.label>
+  <Beer.description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction.</Beer.description>
+  <Beer.ingestible.ingestCommandString>Drink {0}</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestReportString>Drinking {0}.</Beer.ingestible.ingestReportString>
+  <Beer.tools.0.label>bottle</Beer.tools.0.label>
+  <Beer.tools.1.label>neck</Beer.tools.1.label>
+  <Wort.label>wort</Wort.label>
+  <Wort.description>Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer.</Wort.description>
+  <Ambrosia.label>ambrosia</Ambrosia.label>
+  <Ambrosia.description>A soft, rare fruit. Ambrosia tastes wonderful and produces a subtle mood-increasing chemical high. However, if eaten too often, it can generate a mild addiction.</Ambrosia.description>
+  <GoJuice.label>go-juice</GoJuice.label>
+  <GoJuice.description>A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities.\n\nThe military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit.</GoJuice.description>
+  <GoJuice.ingestible.ingestCommandString>Inject {0}</GoJuice.ingestible.ingestCommandString>
+  <GoJuice.ingestible.ingestReportString>Injecting {0}.</GoJuice.ingestible.ingestReportString>
+  <Luciferium.ingestible.ingestCommandString>Take {0}</Luciferium.ingestible.ingestCommandString>
+  <Luciferium.ingestible.ingestReportString>Taking {0}.</Luciferium.ingestible.ingestReportString>
+  <Luciferium.label>luciferium</Luciferium.label>
+  <Luciferium.description>A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found.</Luciferium.description>
+  <Penoxycyline.ingestible.ingestCommandString>Take {0}</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestReportString>Taking {0}.</Penoxycyline.ingestible.ingestReportString>
+  <Penoxycyline.label>penoxycyline</Penoxycyline.label>
+  <Penoxycyline.description>A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered.</Penoxycyline.description>
+  <Flake.label>flake</Flake.label>
+  <Flake.description>A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies.</Flake.description>
+  <Flake.ingestible.ingestCommandString>Smoke {0}</Flake.ingestible.ingestCommandString>
+  <Flake.ingestible.ingestReportString>Smoking {0}.</Flake.ingestible.ingestReportString>
+  <PsychiteTea.label>psychite tea</PsychiteTea.label>
+  <PsychiteTea.description>A fragrant tea infused with leaves of the psychoid plant. Drinking it induces a subtle psychite euphoria. This tea is easy to produce at cooking facilities, but can produce psychite addiction if consumed too often.\n\nMany tribes use psychoid tea, both as a daily energizer and as part of social and religious rituals.</PsychiteTea.description>
+  <PsychiteTea.ingestible.ingestCommandString>Drink {0}</PsychiteTea.ingestible.ingestCommandString>
+  <PsychiteTea.ingestible.ingestReportString>Drinking {0}.</PsychiteTea.ingestible.ingestReportString>
+  <Yayo.label>yayo</Yayo.label>
+  <Yayo.description>A refined powdery preparation of the psychite drug. When snorted, it produces a rapid euphoric high, dramatically reduces the user's need for rest, and suppresses pain. Like all forms of psychite, it is addictive, though it is not as addictive as the cruder flake.\n\nBecause of its high cost and refined appearance, many cultures associate yayo with degenerate wealth. Whether in the throneroom or the boardroom, many hare-brained policy schemes have been developed during yayo-fueled binge parties.</Yayo.description>
+  <Yayo.ingestible.ingestCommandString>Snort {0}</Yayo.ingestible.ingestCommandString>
+  <Yayo.ingestible.ingestReportString>Snorting {0}.</Yayo.ingestible.ingestReportString>
+  <SmokeleafJoint.label>smokeleaf joint</SmokeleafJoint.label>
+  <SmokeleafJoint.description>Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures.</SmokeleafJoint.description>
+  <SmokeleafJoint.ingestible.ingestCommandString>Smoke {0}</SmokeleafJoint.ingestible.ingestCommandString>
+  <SmokeleafJoint.ingestible.ingestReportString>Smoking {0}.</SmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafJoint.ingestible.ingestReportStringEat>Consuming {0}.</SmokeleafJoint.ingestible.ingestReportStringEat>
+  <WakeUp.ingestible.ingestCommandString>Take {0}</WakeUp.ingestible.ingestCommandString>
+  <WakeUp.ingestible.ingestReportString>Taking {0}.</WakeUp.ingestible.ingestReportString>
+  <WakeUp.label>wake-up</WakeUp.label>
+  <WakeUp.description>A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug.</WakeUp.description>
+  <Mote_ActivatorCountdownGlow.label>Mote</Mote_ActivatorCountdownGlow.label>
+  <Mote_ActivatorProximityGlow.label>Mote</Mote_ActivatorProximityGlow.label>
+  <Mote_Leaf.label>Mote</Mote_Leaf.label>
+  <Mote_Bombardment.label>Mote</Mote_Bombardment.label>
+  <Mote_PowerBeam.label>Mote</Mote_PowerBeam.label>
+  <Mote_GiantExplosion.label>Mote</Mote_GiantExplosion.label>
+  <Mote_GiantExplosionInner.label>Mote</Mote_GiantExplosionInner.label>
+  <Mote_PsychicConditionCauserEffect.label>Mote</Mote_PsychicConditionCauserEffect.label>
+  <Mote_ForceJob.label>Mote</Mote_ForceJob.label>
+  <ArchotechEye.label>archotech eye</ArchotechEye.label>
+  <ArchotechEye.description>An artificial eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds.</ArchotechEye.description>
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.description>An artificial arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds.</ArchotechArm.description>
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.description>An artificial leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds.</ArchotechLeg.description>
+  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.description>An advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage.</BionicEye.description>
+  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.description>An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way.</BionicArm.description>
+  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.description>An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way.</BionicLeg.description>
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.description>An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine.</BionicSpine.description>
+  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.description>An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way.</BionicHeart.description>
+  <BionicStomach.label>bionic stomach</BionicStomach.label>
+  <BionicStomach.description>An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way.</BionicStomach.description>
+  <DeathAcidifier.label>death acidifier</DeathAcidifier.label>
+  <DeathAcidifier.description>A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others.</DeathAcidifier.description>
+  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.description>An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.</BionicEar.description>
+  <Heart.label>heart</Heart.label>
+  <Heart.description>A biological human heart. Pumps blood around the body.</Heart.description>
+  <Lung.label>lung</Lung.label>
+  <Lung.description>A biological human lung. A pair of these form the core of the human respiratory system.</Lung.description>
+  <Kidney.label>kidney</Kidney.label>
+  <Kidney.description>A biological human kidney. Filters and removes waste products from the blood.</Kidney.description>
+  <Liver.label>liver</Liver.label>
+  <Liver.description>A biological human liver. Plays an important role in metabolism.</Liver.description>
+  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg.</SimpleProstheticLeg.description>
+  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm.</SimpleProstheticArm.description>
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative.</SimpleProstheticHeart.description>
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.description>An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf.</CochlearImplant.description>
+  <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.description>A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly.</PowerClaw.description>
+  <Joywire.label>joywire</Joywire.label>
+  <Joywire.description>A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures.</Joywire.description>
+  <Painstopper.label>painstopper</Painstopper.label>
+  <Painstopper.description>A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily.</Painstopper.description>
+  <AncientConcreteBarrier.label>ancient concrete barrier</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.description>A traffic management solution from long ago.</AncientConcreteBarrier.description>
+  <AncientLamppost.label>ancient lamppost</AncientLamppost.label>
+  <AncientLamppost.description>Road lighting from long ago. No longer functional.</AncientLamppost.description>
+  <Urn.label>urn</Urn.label>
+  <Urn.description>An ancient-style decorative container.</Urn.description>
+  <SculptureSmall.label>small sculpture</SculptureSmall.label>
+  <SculptureSmall.description>A torso-sized piece of material sculpted into an artistic form.</SculptureSmall.description>
+  <SculptureLarge.label>large sculpture</SculptureLarge.label>
+  <SculptureLarge.description>A person-sized piece of material sculpted into an artistic form.</SculptureLarge.description>
+  <SculptureGrand.label>grand sculpture</SculptureGrand.label>
+  <SculptureGrand.description>A huge sculpture sized to dominate a room.</SculptureGrand.description>
+  <Snowman.label>snowman</Snowman.label>
+  <Snowman.description>A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it.</Snowman.description>
+  <PsychicDronerShipPart.label>ship part (psychic droner)</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.description>An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself.</PsychicDronerShipPart.description>
+  <DefoliatorShipPart.label>ship part (defoliator)</DefoliatorShipPart.label>
+  <DefoliatorShipPart.description>An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies.</DefoliatorShipPart.description>
+  <ShipChunk.label>ship chunk</ShipChunk.label>
+  <ShipChunk.description>A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it.</ShipChunk.description>
+  <SleepingSpot.label>sleeping spot</SleepingSpot.label>
+  <SleepingSpot.description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot.description>
+  <DoubleSleepingSpot.label>double sleeping spot</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot.description>
+  <Bed.label>bed</Bed.label>
+  <Bed.description>A cozy mattress and sheets on a frame for resting.</Bed.description>
+  <DoubleBed.label>double bed</DoubleBed.label>
+  <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
+  <RoyalBed.label>royal bed</RoyalBed.label>
+  <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two.</RoyalBed.description>
+  <HospitalBed.label>hospital bed</HospitalBed.label>
+  <HospitalBed.description>A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds.</HospitalBed.description>
+  <Bedroll.label>bedroll</Bedroll.label>
+  <Bedroll.description>A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
+  <BedrollDouble.label>double bedroll</BedrollDouble.label>
+  <BedrollDouble.description>A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</BedrollDouble.description>
+  <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
+  <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
+  <AnimalBed.label>animal bed</AnimalBed.label>
+  <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
+  <Stool.label>stool</Stool.label>
+  <Stool.description>A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere.</Stool.description>
+  <DiningChair.label>dining chair</DiningChair.label>
+  <DiningChair.description>A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere.</DiningChair.description>
+  <Armchair.label>armchair</Armchair.label>
+  <Armchair.description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</Armchair.description>
+  <EndTable.description>A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</EndTable.description>
+  <EndTable.label>end table</EndTable.label>
+  <Table1x2c.label>table (1x2)</Table1x2c.label>
+  <Table2x2c.label>table (2x2)</Table2x2c.label>
+  <Table2x4c.label>table (2x4)</Table2x4c.label>
+  <Table3x3c.label>table (3x3)</Table3x3c.label>
+  <PlantPot.label>plant pot</PlantPot.label>
+  <PlantPot.description>Plant decorative flowers here to improve the mood of people nearby.</PlantPot.description>
+  <TorchLamp.label>torch lamp</TorchLamp.label>
+  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
+  <StandingLamp.label>standing lamp</StandingLamp.label>
+  <StandingLamp.description>An electrical standing lamp that lights an area. People need light to move and work at full speed.</StandingLamp.description>
+  <StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>A standing lamp that lights an area in red.</StandingLamp_Red.description>
+  <StandingLamp_Green.label>standing lamp (green)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>A standing lamp that lights an area in green.</StandingLamp_Green.description>
+  <StandingLamp_Blue.label>standing lamp (blue)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>A standing lamp that lights an area in blue.</StandingLamp_Blue.description>
+  <SunLamp.label>sun lamp</SunLamp.label>
+  <SunLamp.description>An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
+  <SunLamp.comps.2.offMessage>Off for plant resting period</SunLamp.comps.2.offMessage>
+  <Shelf.label>shelf</Shelf.label>
+  <Shelf.description>A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.</Shelf.description>
+  <Dresser.label>dresser</Dresser.label>
+  <Dresser.description>A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.</Dresser.description>
+  <HorseshoesPin.label>horseshoes pin</HorseshoesPin.label>
+  <HorseshoesPin.description>A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills.</HorseshoesPin.description>
+  <HoopstoneRing.label>hoopstone ring</HoopstoneRing.label>
+  <HoopstoneRing.description>A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills.</HoopstoneRing.description>
+  <GameOfUrBoard.label>Game-of-Ur board</GameOfUrBoard.label>
+  <GameOfUrBoard.description>Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills.</GameOfUrBoard.description>
+  <ChessTable.label>chess table</ChessTable.label>
+  <ChessTable.description>The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.</ChessTable.description>
+  <PokerTable.label>poker table</PokerTable.label>
+  <PokerTable.description>A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.</PokerTable.description>
+  <BilliardsTable.label>billiards table</BilliardsTable.label>
+  <BilliardsTable.description>A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability.</BilliardsTable.description>
+  <TubeTelevision.label>tube television</TubeTelevision.label>
+  <TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision.description>
+  <FlatscreenTelevision.label>flatscreen television</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards.</FlatscreenTelevision.description>
+  <MegascreenTelevision.label>megascreen television</MegascreenTelevision.label>
+  <MegascreenTelevision.description>A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards.</MegascreenTelevision.description>
+  <Telescope.label>telescope</Telescope.label>
+  <Telescope.description>A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors.</Telescope.description>
+  <EggBox.label>egg box</EggBox.label>
+  <EggBox.description>A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage.</EggBox.description>
+  <OrbitalTradeBeacon.label>orbital trade beacon</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon.description>
+  <CommsConsole.label>comms console</CommsConsole.label>
+  <CommsConsole.description>Allows radio contact with other factions and orbital traders.</CommsConsole.description>
+  <FirefoamPopper.label>firefoam popper</FirefoamPopper.label>
+  <FirefoamPopper.description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually.</FirefoamPopper.description>
+  <FirefoamPopper.comps.1.useLabel>Trigger firefoam popper</FirefoamPopper.comps.1.useLabel>
+  <MoisturePump.label>moisture pump</MoisturePump.label>
+  <MoisturePump.description>Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water.</MoisturePump.description>
+  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof.</GroundPenetratingScanner.description>
+  <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it.</LongRangeMineralScanner.description>
+  <PodLauncher.label>pod launcher</PodLauncher.label>
+  <PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher.description>
+  <TransportPod.label>transport pod</TransportPod.label>
+  <TransportPod.description>A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles.</TransportPod.description>
+  <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer.</MultiAnalyzer.description>
+  <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
+  <VitalsMonitor.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect.</VitalsMonitor.description>
+  <ToolCabinet.label>tool cabinet</ToolCabinet.label>
+  <ToolCabinet.description>Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets.</ToolCabinet.description>
+  <Grave.label>grave</Grave.label>
+  <Grave.description>A decent final resting place. Colonists will visit full graves to gain meditative joy.</Grave.description>
+  <Sarcophagus.label>sarcophagus</Sarcophagus.label>
+  <Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Sarcophagus.description>
+  <CryptosleepCasket.label>cryptosleep casket</CryptosleepCasket.label>
+  <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
+  <AncientCryptosleepCasket.label>ancient cryptosleep casket</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.description>This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?</AncientCryptosleepCasket.description>
+  <MarriageSpot.label>marriage spot</MarriageSpot.label>
+  <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
+  <PartySpot.label>party spot</PartySpot.label>
+  <PartySpot.description>Designates a spot for throwing parties.</PartySpot.description>
+  <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
+  <CaravanPackingSpot.description>Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process.</CaravanPackingSpot.description>
+  <SteleLarge.label>large stele</SteleLarge.label>
+  <SteleLarge.description>A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleLarge.description>
+  <SteleGrand.label>grand stele</SteleGrand.label>
+  <SteleGrand.description>A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleGrand.description>
+  <PenMarker.label>pen marker</PenMarker.label>
+  <PenMarker.description>A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen.</PenMarker.description>
+  <UnfinishedMusicalInstrument.label>unfinished musical instrument</UnfinishedMusicalInstrument.label>
+  <UnfinishedMusicalInstrument.description>An unfinished musical instrument.</UnfinishedMusicalInstrument.description>
+  <CollapsedRocks.label>collapsed rocks</CollapsedRocks.label>
+  <CollapsedRocks.description>Collapsed rocks, packed tightly enough to hold up a roof.</CollapsedRocks.description>
+  <MineableSteel.label>compacted steel</MineableSteel.label>
+  <MineableSteel.description>The remains of some ancient, collapsed structure. Rich in steel.</MineableSteel.description>
+  <MineableSilver.label>silver ore</MineableSilver.label>
+  <MineableSilver.description>Rock containing bits of silver.</MineableSilver.description>
+  <MineableGold.label>gold ore</MineableGold.label>
+  <MineableGold.description>Rock containing bits of gold.</MineableGold.description>
+  <MineableUranium.label>uranium ore</MineableUranium.label>
+  <MineableUranium.description>Rock containing bits of uranium.</MineableUranium.description>
+  <MineablePlasteel.label>compacted plasteel</MineablePlasteel.label>
+  <MineablePlasteel.description>Ancient compacted rubble rich in plasteel.</MineablePlasteel.description>
+  <MineableJade.label>jade</MineableJade.label>
+  <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
+  <MineableComponentsIndustrial.label>compacted machinery</MineableComponentsIndustrial.label>
+  <MineableComponentsIndustrial.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponentsIndustrial.description>
+  <SteamGeyser.label>steam geyser</SteamGeyser.label>
+  <SteamGeyser.description>A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook.</SteamGeyser.description>
+  <Hive.label>hive</Hive.label>
+  <Hive.description>A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.</Hive.description>
+  <GlowPod.label>glow pod</GlowPod.label>
+  <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>
+  <RaisedRocks.label>raised rocks</RaisedRocks.label>
+  <RaisedRocks.description>A fragile wall made of rubble. It will collapse in time.</RaisedRocks.description>
+  <PowerConduit.label>power conduit</PowerConduit.label>
+  <PowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
+  <WaterproofConduit.label>waterproof conduit</WaterproofConduit.label>
+  <WaterproofConduit.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit.description>
+  <PowerSwitch.label>power switch</PowerSwitch.label>
+  <PowerSwitch.description>Switches power on/off.</PowerSwitch.description>
+  <WoodFiredGenerator.label>wood-fired generator</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</WoodFiredGenerator.description>
+  <ChemfuelPoweredGenerator.label>chemfuel powered generator</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.description>Produces power by consuming chemfuel. Must be periodically refueled by hand.</ChemfuelPoweredGenerator.description>
+  <WindTurbine.label>wind turbine</WindTurbine.label>
+  <WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</WindTurbine.description>
+  <Battery.label>battery</Battery.label>
+  <Battery.description>Stores electricity for later use. Charged batteries explode when exposed to rain or fire.</Battery.description>
+  <SolarGenerator.label>solar generator</SolarGenerator.label>
+  <SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark or under artificial light.</SolarGenerator.description>
+  <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</GeothermalGenerator.description>
+  <WatermillGenerator.label>watermill generator</WatermillGenerator.label>
+  <WatermillGenerator.description>Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.</WatermillGenerator.description>
+  <CraftingSpot.label>crafting spot</CraftingSpot.label>
+  <CraftingSpot.description>A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools.</CraftingSpot.description>
+  <ButcherSpot.label>butcher spot</ButcherSpot.label>
+  <ButcherSpot.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot.description>
+  <TableSculpting.label>art bench</TableSculpting.label>
+  <TableSculpting.description>A workbench equipped for creating art.</TableSculpting.description>
+  <TableButcher.label>butcher table</TableButcher.label>
+  <TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.description>
+  <HandTailoringBench.label>hand tailor bench</HandTailoringBench.label>
+  <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+  <ElectricTailoringBench.label>electric tailor bench</ElectricTailoringBench.label>
+  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed.</ElectricTailoringBench.description>
+  <FueledSmithy.label>fueled smithy</FueledSmithy.label>
+  <FueledSmithy.description>A wood-fueled station for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+  <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+  <ElectricSmithy.description>An electric-powered station for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+  <TableMachining.label>machining table</TableMachining.label>
+  <TableMachining.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</TableMachining.description>
+  <ElectricStove.label>electric stove</ElectricStove.label>
+  <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+  <FueledStove.label>fueled stove</FueledStove.label>
+  <FueledStove.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+  <TableStonecutter.label>stonecutter's table</TableStonecutter.label>
+  <TableStonecutter.description>A work table with saws and chisels for cutting stone chunks into usable blocks.</TableStonecutter.description>
+  <Brewery.label>brewery</Brewery.label>
+  <Brewery.description>A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer.</Brewery.description>
+  <DrugLab.label>drug lab</DrugLab.label>
+  <DrugLab.description>A work bench equipped with containers, heaters, and measurement devices for producing various drugs.</DrugLab.description>
+  <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
+  <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
+  <BiofuelRefinery.label>biofuel refinery</BiofuelRefinery.label>
+  <BiofuelRefinery.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery.description>
+  <FabricationBench.label>fabrication bench</FabricationBench.label>
+  <FabricationBench.description>A workbench equipped with advanced tools for producing technological marvels from simpler materials.</FabricationBench.description>
+  <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
+  <SimpleResearchBench.description>A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things.</SimpleResearchBench.description>
+  <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
+  <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</HiTechResearchBench.description>
+  <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+  <ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium.description>
+  <HydroponicsBasin.label>hydroponics basin</HydroponicsBasin.label>
+  <HydroponicsBasin.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</HydroponicsBasin.description>
+  <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
+  <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+  <DeepDrill.label>deep drill</DeepDrill.label>
+  <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely.</DeepDrill.description>
+  <NutrientPasteDispenser.label>nutrient paste dispenser</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
+  <Hopper.label>hopper</Hopper.label>
+  <Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper.description>
+  <Sandbags.label>sandbags</Sandbags.label>
+  <Sandbags.description>Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects.</Sandbags.description>
+  <Barricade.label>barricade</Barricade.label>
+  <Barricade.description>A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do.</Barricade.description>
+  <TrapSpike.label>spike trap</TrapSpike.label>
+  <TrapSpike.description>Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapSpike.description>
+  <TrapIED_HighExplosive.label>IED trap</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.description>A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_HighExplosive.description>
+  <TrapIED_Incendiary.label>IED incendiary trap</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.description>A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_Incendiary.description>
+  <TrapIED_EMP.label>IED EMP trap</TrapIED_EMP.label>
+  <TrapIED_EMP.description>A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_EMP.description>
+  <TrapIED_Smoke.label>IED Smoke trap</TrapIED_Smoke.label>
+  <TrapIED_Smoke.description>A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_Smoke.description>
+  <TrapIED_Firefoam.label>IED firefoam trap</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.description>A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_Firefoam.description>
+  <TrapIED_AntigrainWarhead.label>IED antigrain warhead trap</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.description>An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_AntigrainWarhead.description>
+  <Turret_MiniTurret.label>mini-turret</Turret_MiniTurret.label>
+  <Turret_MiniTurret.description>A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</Turret_MiniTurret.description>
+  <Turret_MiniTurret.comps.5.fuelLabel>Shots until barrel change</Turret_MiniTurret.comps.5.fuelLabel>
+  <Turret_MiniTurret.comps.5.fuelGizmoLabel>Barrel durability</Turret_MiniTurret.comps.5.fuelGizmoLabel>
+  <Turret_MiniTurret.comps.5.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_MiniTurret.comps.5.outOfFuelMessage>
+  <Bullet_MiniTurret.label>mini-turret bullet</Bullet_MiniTurret.label>
+  <Gun_MiniTurret.label>mini-turret gun</Gun_MiniTurret.label>
+  <Gun_MiniTurret.description>A simple automatic gun made to be mounted on a turret.</Gun_MiniTurret.description>
+  <Turret_Autocannon.label>autocannon turret</Turret_Autocannon.label>
+  <Turret_Autocannon.description>A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged.</Turret_Autocannon.description>
+  <Turret_Autocannon.comps.5.fuelLabel>Shots until barrel change</Turret_Autocannon.comps.5.fuelLabel>
+  <Turret_Autocannon.comps.5.fuelGizmoLabel>Barrel durability</Turret_Autocannon.comps.5.fuelGizmoLabel>
+  <Turret_Autocannon.comps.5.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_Autocannon.comps.5.outOfFuelMessage>
+  <Bullet_AutocannonTurret.label>autocannon shell</Bullet_AutocannonTurret.label>
+  <Gun_AutocannonTurret.label>autocannon</Gun_AutocannonTurret.label>
+  <Gun_AutocannonTurret.description>A self-loading large-bore cannon designed to attach to a turret.</Gun_AutocannonTurret.description>
+  <Turret_Sniper.label>uranium slug turret</Turret_Sniper.label>
+  <Turret_Sniper.description>An armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.</Turret_Sniper.description>
+  <Turret_Sniper.comps.5.fuelLabel>Shots until rearm</Turret_Sniper.comps.5.fuelLabel>
+  <Turret_Sniper.comps.5.fuelGizmoLabel>Uranium slugs</Turret_Sniper.comps.5.fuelGizmoLabel>
+  <Turret_Sniper.comps.5.outOfFuelMessage>Cannot shoot: No slugs</Turret_Sniper.comps.5.outOfFuelMessage>
+  <Bullet_TurretSniper.label>uranium slug</Bullet_TurretSniper.label>
+  <Gun_TurretSniper.label>uranium slug cannon</Gun_TurretSniper.label>
+  <Gun_TurretSniper.description>A self-loading uranium slug cannon designed to attach to a turret.</Gun_TurretSniper.description>
+  <Turret_Mortar.label>mortar</Turret_Mortar.label>
+  <Turret_Mortar.description>A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field.</Turret_Mortar.description>
+  <Turret_Mortar.comps.1.fuelLabel>Shots until barrel change</Turret_Mortar.comps.1.fuelLabel>
+  <Turret_Mortar.comps.1.fuelGizmoLabel>Barrel durability</Turret_Mortar.comps.1.fuelGizmoLabel>
+  <Turret_Mortar.comps.1.outOfFuelMessage>Cannot shoot: Needs new reinforced barrel</Turret_Mortar.comps.1.outOfFuelMessage>
+  <Artillery_Mortar.label>mortar</Artillery_Mortar.label>
+  <Artillery_Mortar.description>Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged.</Artillery_Mortar.description>
+  <Ship_Beam.label>ship structural beam</Ship_Beam.label>
+  <Ship_Beam.description>A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport.</Ship_Beam.description>
+  <Ship_CryptosleepCasket.label>ship cryptosleep casket</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry.</Ship_CryptosleepCasket.description>
+  <Ship_ComputerCore.label>ship computer core</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>A computer core housing a machine persona who can guide a starship through any challenge during a multi-decade starflight.</Ship_ComputerCore.description>
+  <Ship_Reactor.label>ship reactor</Ship_Reactor.label>
+  <Ship_Reactor.description>Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders.</Ship_Reactor.description>
+  <Ship_Engine.label>ship engine</Ship_Engine.label>
+  <Ship_Engine.description>A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars.</Ship_Engine.description>
+  <Ship_SensorCluster.label>sensor cluster</Ship_SensorCluster.label>
+  <Ship_SensorCluster.description>A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes.</Ship_SensorCluster.description>
+  <PsychicEmanator.label>psychic emanator</PsychicEmanator.label>
+  <PsychicEmanator.description>An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls.</PsychicEmanator.description>
+  <VanometricPowerCell.label>vanometric power cell</VanometricPowerCell.label>
+  <VanometricPowerCell.description>Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam.</VanometricPowerCell.description>
+  <InfiniteChemreactor.label>infinite chemreactor</InfiniteChemreactor.label>
+  <InfiniteChemreactor.description>Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air.</InfiniteChemreactor.description>
+  <Door.label>door</Door.label>
+  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
+  <Autodoor.label>autodoor</Autodoor.label>
+  <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
+  <AnimalFlap.label>animal flap</AnimalFlap.label>
+  <AnimalFlap.description>A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep.</AnimalFlap.description>
+  <Wall.label>wall</Wall.label>
+  <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
+  <Fence.label>fence</Fence.label>
+  <Fence.description>A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Fences only block certain kinds of animals.</Fence.description>
+  <FenceGate.label>fence gate</FenceGate.label>
+  <FenceGate.description>A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates.</FenceGate.description>
+  <Column.label>column</Column.label>
+  <Column.description>A column capable of holding a roof. Does not block sight or movement and looks quite nice.</Column.description>
+  <Campfire.label>campfire</Campfire.label>
+  <Campfire.description>Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
+  <PassiveCooler.label>passive cooler</PassiveCooler.label>
+  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food.</PassiveCooler.description>
+  <Heater.label>heater</Heater.label>
+  <Heater.description>A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
+  <Cooler.label>cooler</Cooler.label>
+  <Cooler.description>An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer.</Cooler.description>
+  <Vent.label>vent</Vent.label>
+  <Vent.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
+  <PsychicAnimalPulser.comps.0.useLabel>Activate</PsychicAnimalPulser.comps.0.useLabel>
+  <PsychicAnimalPulser.label>psychic animal pulser</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.description>A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected.</PsychicAnimalPulser.description>
+  <PsychicSoothePulser.comps.0.useLabel>Activate</PsychicSoothePulser.comps.0.useLabel>
+  <PsychicSoothePulser.label>psychic soothe pulser</PsychicSoothePulser.label>
+  <PsychicSoothePulser.description>A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region.</PsychicSoothePulser.description>
+  <AIPersonaCore.label>persona core</AIPersonaCore.label>
+  <AIPersonaCore.description>A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power.</AIPersonaCore.description>
+  <MechSerumHealer.label>healer mech serum</MechSerumHealer.label>
+  <MechSerumHealer.description>A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed.</MechSerumHealer.description>
+  <MechSerumHealer.comps.0.useLabel>Use healer mech serum</MechSerumHealer.comps.0.useLabel>
+  <MechSerumResurrector.label>resurrector mech serum</MechSerumResurrector.label>
+  <MechSerumResurrector.description>A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death.</MechSerumResurrector.description>
+  <MechSerumResurrector.comps.0.useLabel>Use resurrector mech serum</MechSerumResurrector.comps.0.useLabel>
+  <TechprofSubpersonaCore.label>techprof subpersona core</TechprofSubpersonaCore.label>
+  <TechprofSubpersonaCore.description>A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once.</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.comps.0.useLabel>Use techprof subpersona core</TechprofSubpersonaCore.comps.0.useLabel>
+  <ThrumboHorn.label>thrumbo horn</ThrumboHorn.label>
+  <ThrumboHorn.description>A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon.</ThrumboHorn.description>
+  <ThrumboHorn.tools.0.label>point</ThrumboHorn.tools.0.label>
+  <ThrumboHorn.tools.1.label>base</ThrumboHorn.tools.1.label>
+  <ElephantTusk.label>elephant tusk</ElephantTusk.label>
+  <ElephantTusk.description>An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly.</ElephantTusk.description>
+  <ElephantTusk.tools.0.label>point</ElephantTusk.tools.0.label>
+  <ElephantTusk.tools.1.label>base</ElephantTusk.tools.1.label>
+  <MealSurvivalPack.label>packaged survival meal</MealSurvivalPack.label>
+  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling.</MealSurvivalPack.description>
+  <MealNutrientPaste.label>nutrient paste meal</MealNutrientPaste.label>
+  <MealNutrientPaste.description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.</MealNutrientPaste.description>
+  <MealSimple.label>simple meal</MealSimple.label>
+  <MealSimple.description>A simple meal quickly cooked from one main ingredient.</MealSimple.description>
+  <MealFine.label>fine meal</MealFine.label>
+  <MealFine.description>A complex dish assembled with care from a variety of ingredients.</MealFine.description>
+  <MealFine_Veg.label>vegetarian fine meal</MealFine_Veg.label>
+  <MealFine_Veg.description>A complex dish assembled with care from vegetarian ingredients.</MealFine_Veg.description>
+  <MealFine_Meat.label>carnivore fine meal</MealFine_Meat.label>
+  <MealFine_Meat.description>A complex dish assembled with care from meat ingredients.</MealFine_Meat.description>
+  <MealLavish.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</MealLavish.description>
+  <MealLavish.label>lavish meal</MealLavish.label>
+  <MealLavish_Veg.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</MealLavish_Veg.description>
+  <MealLavish_Veg.label>vegetarian lavish meal</MealLavish_Veg.label>
+  <MealLavish_Meat.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</MealLavish_Meat.description>
+  <MealLavish_Meat.label>carnivore lavish meal</MealLavish_Meat.label>
+  <Kibble.label>kibble</Kibble.label>
+  <Kibble.description>Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>
+  <Pemmican.label>pemmican</Pemmican.label>
+  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling.</Pemmican.description>
+  <Chocolate.label>chocolate</Chocolate.label>
+  <Chocolate.description>A delicious preparation of cocoa seeds ground together with sugar and vanilla. It fulfills the need for recreation, but it is not very nutritious.</Chocolate.description>
+  <Milk.label>milk</Milk.label>
+  <Milk.description>Milk from an animal.</Milk.description>
+  <InsectJelly.label>insect jelly</InsectJelly.label>
+  <InsectJelly.description>Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots.</InsectJelly.description>
+  <EggChickenUnfertilized.label>chicken egg (unfert.)</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.description>An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked.</EggChickenUnfertilized.description>
+  <EggChickenFertilized.label>chicken egg (fert.)</EggChickenFertilized.label>
+  <EggChickenFertilized.description>A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked.</EggChickenFertilized.description>
+  <EggCobraFertilized.label>cobra egg (fert.)</EggCobraFertilized.label>
+  <EggCobraFertilized.description>A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked.</EggCobraFertilized.description>
+  <EggIguanaFertilized.label>iguana egg (fert.)</EggIguanaFertilized.label>
+  <EggIguanaFertilized.description>A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked.</EggIguanaFertilized.description>
+  <EggTortoiseFertilized.label>tortoise egg (fert.)</EggTortoiseFertilized.label>
+  <EggTortoiseFertilized.description>A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked.</EggTortoiseFertilized.description>
+  <EggCassowaryFertilized.label>cassowary egg (fert.)</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.description>A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked.</EggCassowaryFertilized.description>
+  <EggEmuFertilized.label>emu egg (fert.)</EggEmuFertilized.label>
+  <EggEmuFertilized.description>A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked.</EggEmuFertilized.description>
+  <EggOstrichFertilized.label>ostrich egg (fert.)</EggOstrichFertilized.label>
+  <EggOstrichFertilized.description>A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked.</EggOstrichFertilized.description>
+  <EggTurkeyFertilized.label>turkey egg (fert.)</EggTurkeyFertilized.label>
+  <EggTurkeyFertilized.description>A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked.</EggTurkeyFertilized.description>
+  <EggDuckUnfertilized.label>duck egg (unfert.)</EggDuckUnfertilized.label>
+  <EggDuckUnfertilized.description>An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked.</EggDuckUnfertilized.description>
+  <EggDuckFertilized.label>duck egg (fert.)</EggDuckFertilized.label>
+  <EggDuckFertilized.description>A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked.</EggDuckFertilized.description>
+  <EggGooseUnfertilized.label>goose egg (unfert.)</EggGooseUnfertilized.label>
+  <EggGooseUnfertilized.description>An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked.</EggGooseUnfertilized.description>
+  <EggGooseFertilized.label>goose egg (fert.)</EggGooseFertilized.label>
+  <EggGooseFertilized.description>A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked.</EggGooseFertilized.description>
+  <MedicineHerbal.label>herbal medicine</MedicineHerbal.label>
+  <MedicineHerbal.description>A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing.</MedicineHerbal.description>
+  <MedicineIndustrial.label>medicine</MedicineIndustrial.label>
+  <MedicineIndustrial.description>A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids.</MedicineIndustrial.description>
+  <MedicineUltratech.label>glitterworld medicine</MedicineUltratech.label>
+  <MedicineUltratech.description>A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools.</MedicineUltratech.description>
+  <ComponentIndustrial.label>component</ComponentIndustrial.label>
+  <ComponentIndustrial.description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</ComponentIndustrial.description>
+  <ComponentSpacer.label>advanced component</ComponentSpacer.label>
+  <ComponentSpacer.description>Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications.</ComponentSpacer.description>
+  <Neutroamine.label>neutroamine</Neutroamine.label>
+  <Neutroamine.description>A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient.</Neutroamine.description>
+  <Chemfuel.label>chemfuel</Chemfuel.label>
+  <Chemfuel.description>A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon.</Chemfuel.description>
+  <ReinforcedBarrel.label>reinforced barrel</ReinforcedBarrel.label>
+  <ReinforcedBarrel.description>A large barrel for projectile-based weapons like mortars. In order to hold the high launch pressures, it is specially reinforced and cannot be manufactured at a small scale.</ReinforcedBarrel.description>
+  <RawPotatoes.label>potatoes</RawPotatoes.label>
+  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
+  <RawFungus.label>raw fungus</RawFungus.label>
+  <RawFungus.description>Raw fungus.</RawFungus.description>
+  <RawRice.label>rice</RawRice.label>
+  <RawRice.description>Raw rice.</RawRice.description>
+  <RawAgave.label>agave fruit</RawAgave.label>
+  <RawAgave.description>Raw agave fruit.</RawAgave.description>
+  <RawCorn.label>corn</RawCorn.label>
+  <RawCorn.description>Raw corn.</RawCorn.description>
+  <RawBerries.label>berries</RawBerries.label>
+  <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
+  <Hay.label>hay</Hay.label>
+  <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>
+  <RawHops.label>hops</RawHops.label>
+  <RawHops.description>Raw hops. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>
+  <PsychoidLeaves.label>psychoid leaves</PsychoidLeaves.label>
+  <PsychoidLeaves.description>Raw cut leaves of a psychoid plant. Can be refined into various form of the stimulant drug psychite.</PsychoidLeaves.description>
+  <SmokeleafLeaves.label>smokeleaf leaves</SmokeleafLeaves.label>
+  <SmokeleafLeaves.description>Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot.</SmokeleafLeaves.description>
+  <Shell_HighExplosive.label>high-explosive shell</Shell_HighExplosive.label>
+  <Shell_HighExplosive.description>A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_HighExplosive.description>
+  <Bullet_Shell_HighExplosive.label>high-explosive shell</Bullet_Shell_HighExplosive.label>
+  <Shell_Incendiary.label>incendiary shell</Shell_Incendiary.label>
+  <Shell_Incendiary.description>A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Incendiary.description>
+  <Bullet_Shell_Incendiary.label>incendiary shell</Bullet_Shell_Incendiary.label>
+  <Shell_EMP.label>EMP shell</Shell_EMP.label>
+  <Shell_EMP.description>A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_EMP.description>
+  <Bullet_Shell_EMP.label>EMP shell</Bullet_Shell_EMP.label>
+  <Shell_Smoke.label>Smoke shell</Shell_Smoke.label>
+  <Shell_Smoke.description>A shell that generates a cloud of smoke when detonated, obscuring incoming shots and preventing turrets from locking on. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Smoke.description>
+  <Bullet_Shell_Smoke.label>Smoke shell</Bullet_Shell_Smoke.label>
+  <Shell_Firefoam.label>firefoam shell</Shell_Firefoam.label>
+  <Shell_Firefoam.description>A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Firefoam.description>
+  <Bullet_Shell_Firefoam.label>firefoam shell</Bullet_Shell_Firefoam.label>
+  <Shell_AntigrainWarhead.label>antigrain warhead</Shell_AntigrainWarhead.label>
+  <Shell_AntigrainWarhead.description>An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_AntigrainWarhead.description>
+  <Bullet_Shell_AntigrainWarhead.label>antigrain warhead</Bullet_Shell_AntigrainWarhead.label>
+  <Silver.label>silver</Silver.label>
+  <Silver.description>This metal is mostly used as a commodity currency. It can also be used for making decorations.</Silver.description>
+  <Gold.label>gold</Gold.label>
+  <Gold.description>The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold.</Gold.description>
+  <Gold.stuffProps.stuffAdjective>golden</Gold.stuffProps.stuffAdjective>
+  <Steel.label>steel</Steel.label>
+  <Steel.description>An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines.</Steel.description>
+  <Plasteel.label>plasteel</Plasteel.label>
+  <Plasteel.description>Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure.</Plasteel.description>
+  <WoodLog.label>wood</WoodLog.label>
+  <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
+  <WoodLog.stuffProps.stuffAdjective>wooden</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.tools.0.label>log</WoodLog.tools.0.label>
+  <Uranium.label>uranium</Uranium.label>
+  <Uranium.description>A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition.</Uranium.description>
+  <Jade.label>jade</Jade.label>
+  <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons.</Jade.description>
+  <Cloth.label>cloth</Cloth.label>
+  <Cloth.description>Cloth woven from organic fibers.</Cloth.description>
+  <Synthread.label>synthread</Synthread.label>
+  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
+  <DevilstrandCloth.label>devilstrand</DevilstrandCloth.label>
+  <DevilstrandCloth.description>Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame.</DevilstrandCloth.description>
+  <Hyperweave.label>hyperweave</Hyperweave.label>
+  <Hyperweave.description>Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>
+  <WoolSheep.label>sheep wool</WoolSheep.label>
+  <WoolSheep.description>Sheep's wool. It provides good insulation.</WoolSheep.description>
+  <WoolAlpaca.label>alpaca wool</WoolAlpaca.label>
+  <WoolAlpaca.description>The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price.</WoolAlpaca.description>
+  <WoolMegasloth.label>megasloth wool</WoolMegasloth.label>
+  <WoolMegasloth.description>While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm.</WoolMegasloth.description>
+  <WoolMuffalo.label>muffalo wool</WoolMuffalo.label>
+  <WoolMuffalo.description>Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions.</WoolMuffalo.description>
+  <WoolBison.label>bison wool</WoolBison.label>
+  <WoolBison.description>Thick and coarse wool of a bison. Quite warm.</WoolBison.description>
+  <Leather_Plain.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Plain.description>
+  <Leather_Plain.label>plainleather</Leather_Plain.label>
+  <Leather_Dog.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Dog.description>
+  <Leather_Dog.label>dog leather</Leather_Dog.label>
+  <Leather_Wolf.description>A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold.</Leather_Wolf.description>
+  <Leather_Wolf.label>wolfskin</Leather_Wolf.label>
+  <Leather_Panthera.description>A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat.</Leather_Panthera.description>
+  <Leather_Panthera.label>panthera fur</Leather_Panthera.label>
+  <Leather_Camel.description>Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates.</Leather_Camel.description>
+  <Leather_Camel.label>camelhide</Leather_Camel.label>
+  <Leather_Bluefur.description>The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates.</Leather_Bluefur.description>
+  <Leather_Bluefur.label>bluefur</Leather_Bluefur.label>
+  <Leather_Bear.description>The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation.</Leather_Bear.description>
+  <Leather_Bear.label>bearskin</Leather_Bear.label>
+  <Leather_GuineaPig.description>Sheets of guinea pig fur. It is delicate, but luxurious.</Leather_GuineaPig.description>
+  <Leather_GuineaPig.label>guinea pig fur</Leather_GuineaPig.label>
+  <Leather_Human.description>Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well.</Leather_Human.description>
+  <Leather_Human.label>human leather</Leather_Human.label>
+  <Leather_Pig.description>Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well.</Leather_Pig.description>
+  <Leather_Pig.label>pigskin</Leather_Pig.label>
+  <Leather_Light.description>Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers.</Leather_Light.description>
+  <Leather_Light.label>lightleather</Leather_Light.label>
+  <Leather_Bird.description>Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold.</Leather_Bird.description>
+  <Leather_Bird.label>birdskin</Leather_Bird.label>
+  <Leather_Chinchilla.description>Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.label>chinchilla fur</Leather_Chinchilla.label>
+  <Leather_Fox.description>The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price.</Leather_Fox.description>
+  <Leather_Fox.label>foxfur</Leather_Fox.label>
+  <Leather_Lizard.description>The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all.</Leather_Lizard.description>
+  <Leather_Lizard.label>lizardskin</Leather_Lizard.label>
+  <Leather_Elephant.description>Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator.</Leather_Elephant.description>
+  <Leather_Elephant.label>elephant leather</Leather_Elephant.label>
+  <Leather_Heavy.description>Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well.</Leather_Heavy.description>
+  <Leather_Heavy.label>heavy fur</Leather_Heavy.label>
+  <Leather_Rhinoceros.description>Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather.</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.label>rhinoceros leather</Leather_Rhinoceros.label>
+  <Leather_Thrumbo.description>Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength.</Leather_Thrumbo.description>
+  <Leather_Thrumbo.label>thrumbofur</Leather_Thrumbo.label>
+  <Leather_Patch.description>A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather.</Leather_Patch.description>
+  <Leather_Patch.label>patchleather</Leather_Patch.label>
+  <UnfinishedSculpture.label>unfinished sculpture</UnfinishedSculpture.label>
+  <UnfinishedSculpture.description>An unfinished sculpture.</UnfinishedSculpture.description>
+  <UnfinishedGun.label>unfinished gun</UnfinishedGun.label>
+  <UnfinishedGun.description>An unfinished gun of some kind.</UnfinishedGun.description>
+  <UnfinishedWeapon.label>unfinished weapon</UnfinishedWeapon.label>
+  <UnfinishedWeapon.description>An unfinished weapon.</UnfinishedWeapon.description>
+  <UnfinishedArmor.label>unfinished simple armor</UnfinishedArmor.label>
+  <UnfinishedArmor.description>An unfinished piece of simple armor.</UnfinishedArmor.description>
+  <UnfinishedTechArmor.label>unfinished advanced armor</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.description>An unfinished piece of high-tech armor.</UnfinishedTechArmor.description>
+  <UnfinishedMetallicTechArmor.label>unfinished metal armor</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.description>An unfinished piece of metal armor.</UnfinishedMetallicTechArmor.description>
+  <UnfinishedApparel.label>unfinished apparel</UnfinishedApparel.label>
+  <UnfinishedApparel.description>An unfinished piece of an apparel.</UnfinishedApparel.description>
+  <UnfinishedBelt.label>unfinished belt</UnfinishedBelt.label>
+  <UnfinishedBelt.description>An unfinished piece of a belt.</UnfinishedBelt.description>
+  <UnfinishedPack.label>unfinished pack</UnfinishedPack.label>
+  <UnfinishedPack.description>An unfinished piece of a pack.</UnfinishedPack.description>
+  <UnfinishedComponent.label>unfinished component</UnfinishedComponent.label>
+  <UnfinishedComponent.description>An unfinished component.</UnfinishedComponent.description>
+  <UnfinishedHealthItemProsthetic.label>unfinished prosthetic</UnfinishedHealthItemProsthetic.label>
+  <UnfinishedHealthItemProsthetic.description>An unfinished prosthetic.</UnfinishedHealthItemProsthetic.description>
+  <UnfinishedHealthItemBionic.label>unfinished bionic</UnfinishedHealthItemBionic.label>
+  <UnfinishedHealthItemBionic.description>An unfinished bionic.</UnfinishedHealthItemBionic.description>
+  <MinifiedThing.label>minified thing</MinifiedThing.label>
+  <Apparel_ShieldBelt.label>shield belt</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP.</Apparel_ShieldBelt.description>
+  <Apparel_CowboyHat.label>cowboy hat</Apparel_CowboyHat.label>
+  <Apparel_CowboyHat.description>Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire.</Apparel_CowboyHat.description>
+  <Apparel_BowlerHat.label>bowler hat</Apparel_BowlerHat.label>
+  <Apparel_BowlerHat.description>A good-looking hat which projects a slightly urban, money-loving style. Improves social impact.</Apparel_BowlerHat.description>
+  <Apparel_TribalHeaddress.label>tribal headdress</Apparel_TribalHeaddress.label>
+  <Apparel_TribalHeaddress.description>Elegant traditional garb, often with religious significance. Improves social impact.</Apparel_TribalHeaddress.description>
+  <Apparel_Tuque.label>tuque</Apparel_Tuque.label>
+  <Apparel_Tuque.description>A soft, thick cap. Great for keeping warm in winter.</Apparel_Tuque.description>
+  <Apparel_WarMask.label>war mask</Apparel_WarMask.label>
+  <Apparel_WarMask.description>An artistically terrifying war mask. It hides the wearer's face and makes them more confident.</Apparel_WarMask.description>
+  <Apparel_WarVeil.label>veil</Apparel_WarVeil.label>
+  <Apparel_WarVeil.description>A piece of fabric which covers the wearer's face.</Apparel_WarVeil.description>
+  <Apparel_SimpleHelmet.label>simple helmet</Apparel_SimpleHelmet.label>
+  <Apparel_SimpleHelmet.description>A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons.</Apparel_SimpleHelmet.description>
+  <Apparel_AdvancedHelmet.label>flak helmet</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.description>A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons.</Apparel_AdvancedHelmet.description>
+  <Apparel_PowerArmorHelmet.label>marine helmet</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by rapid-incursion space marines.</Apparel_PowerArmorHelmet.description>
+  <Apparel_ArmorHelmetRecon.label>recon helmet</Apparel_ArmorHelmetRecon.label>
+  <Apparel_ArmorHelmetRecon.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces.</Apparel_ArmorHelmetRecon.description>
+  <Apparel_PsychicFoilHelmet.label>psychic foil helmet</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.description>A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves.</Apparel_PsychicFoilHelmet.description>
+  <Apparel_HatHood.label>hood</Apparel_HatHood.label>
+  <Apparel_HatHood.description>A draped hood which covers the head and ears.</Apparel_HatHood.description>
+  <Apparel_SmokepopBelt.label>smokepop pack</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on.</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.verbs.0.label>pop smoke</Apparel_SmokepopBelt.verbs.0.label>
+  <Apparel_PsychicShockLance.label>psychic shock lance</Apparel_PsychicShockLance.label>
+  <Apparel_PsychicShockLance.description>A limited-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping him into a state of psychic shock. There is a risk of brain damage. It has a long range, but requires line of sight.</Apparel_PsychicShockLance.description>
+  <Apparel_PsychicShockLance.verbs.0.label>psychic shock lance</Apparel_PsychicShockLance.verbs.0.label>
+  <Apparel_PsychicInsanityLance.label>psychic insanity lance</Apparel_PsychicInsanityLance.label>
+  <Apparel_PsychicInsanityLance.description>A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving him into a berserk state. There is a risk of brain damage. It has a long range, but requires line of sight.</Apparel_PsychicInsanityLance.description>
+  <Apparel_PsychicInsanityLance.verbs.0.label>psychic insanity lance</Apparel_PsychicInsanityLance.verbs.0.label>
+  <Apparel_TribalA.label>tribalwear</Apparel_TribalA.label>
+  <Apparel_TribalA.description>A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.</Apparel_TribalA.description>
+  <Apparel_Parka.label>parka</Apparel_Parka.label>
+  <Apparel_Parka.description>A parka for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
+  <Apparel_Pants.label>pants</Apparel_Pants.label>
+  <Apparel_Pants.description>A simple set of pants.</Apparel_Pants.description>
+  <Apparel_BasicShirt.label>T-shirt</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.description>A simple T-shirt.</Apparel_BasicShirt.description>
+  <Apparel_CollarShirt.description>A nice-looking collared shirt with buttons.</Apparel_CollarShirt.description>
+  <Apparel_CollarShirt.label>button-down shirt</Apparel_CollarShirt.label>
+  <Apparel_Duster.description>A long duster coat for blocking the sun and grit of the outdoors.</Apparel_Duster.description>
+  <Apparel_Duster.label>duster</Apparel_Duster.label>
+  <Apparel_Jacket.label>jacket</Apparel_Jacket.label>
+  <Apparel_Jacket.description>A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather.</Apparel_Jacket.description>
+  <Apparel_PlateArmor.label>plate armor</Apparel_PlateArmor.label>
+  <Apparel_PlateArmor.description>Overlapping solid plates of armor covering the entire body from neck to feet.</Apparel_PlateArmor.description>
+  <Apparel_FlakVest.label>flak vest</Apparel_FlakVest.label>
+  <Apparel_FlakVest.description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</Apparel_FlakVest.description>
+  <Apparel_FlakPants.label>flak pants</Apparel_FlakPants.label>
+  <Apparel_FlakPants.description>A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakPants.description>
+  <Apparel_FlakJacket.label>flak jacket</Apparel_FlakJacket.label>
+  <Apparel_FlakJacket.description>A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakJacket.description>
+  <Apparel_PowerArmor.label>marine armor</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.description>A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines.</Apparel_PowerArmor.description>
+  <Apparel_ArmorRecon.label>recon armor</Apparel_ArmorRecon.label>
+  <Apparel_ArmorRecon.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces.</Apparel_ArmorRecon.description>
+  <Bombardment.label>bombardment</Bombardment.label>
+  <Mote_Bombardment_PreImpact.label>Mote</Mote_Bombardment_PreImpact.label>
+  <PowerBeam.label>power beam</PowerBeam.label>
+  <DropPodIncoming.label>drop pod (incoming)</DropPodIncoming.label>
+  <DropPodLeaving.label>drop pod (leaving)</DropPodLeaving.label>
+  <ShipChunkIncoming.label>ship chunk (incoming)</ShipChunkIncoming.label>
+  <CrashedShipPartIncoming.label>crashed ship part (incoming)</CrashedShipPartIncoming.label>
+  <MeteoriteIncoming.label>meteorite (incoming)</MeteoriteIncoming.label>
+  <RectTrigger.label>rect trigger</RectTrigger.label>
+  <TriggerUnfogged.label>trigger unfogged</TriggerUnfogged.label>
+  <TriggerContainerEmptied.label>trigger container emptied</TriggerContainerEmptied.label>
+  <Explosion.label>explosion</Explosion.label>
+  <Blight.label>blight</Blight.label>
+  <Tornado.label>tornado</Tornado.label>
+  <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
+  <RadialTrigger.label>proximity trigger</RadialTrigger.label>
+  <Filth_Dirt.label>dirt</Filth_Dirt.label>
+  <Filth_AnimalFilth.label>animal filth</Filth_AnimalFilth.label>
+  <Filth_Trash.label>trash</Filth_Trash.label>
+  <Filth_Sand.label>sand</Filth_Sand.label>
+  <Filth_RubbleRock.label>rock rubble</Filth_RubbleRock.label>
+  <Filth_RubbleBuilding.label>building rubble</Filth_RubbleBuilding.label>
+  <SlagRubble.label>scattered slag</SlagRubble.label>
+  <SandbagRubble.label>scattered sandbags</SandbagRubble.label>
+  <Filth_Blood.label>blood</Filth_Blood.label>
+  <Filth_BloodInsect.label>bugblood</Filth_BloodInsect.label>
+  <Filth_MachineBits.label>machine bits</Filth_MachineBits.label>
+  <Filth_AmnioticFluid.label>amniotic fluid</Filth_AmnioticFluid.label>
+  <Filth_Slime.label>slime</Filth_Slime.label>
+  <Filth_Vomit.label>vomit</Filth_Vomit.label>
+  <Filth_FireFoam.label>firefoam</Filth_FireFoam.label>
+  <Filth_Fuel.label>chemfuel puddle</Filth_Fuel.label>
+  <Filth_Fuel.description>A puddle of flammable chemfuel.</Filth_Fuel.description>
+  <Filth_CorpseBile.label>corpse bile</Filth_CorpseBile.label>
+  <Filth_Ash.label>ash</Filth_Ash.label>
+  <Filth_Water.label>water puddle</Filth_Water.label>
+  <Filth_Hair.label>hair</Filth_Hair.label>
+  <Gas_Smoke.label>smoke</Gas_Smoke.label>
+  <ActiveDropPod.label>drop pod</ActiveDropPod.label>
+  <Fire.label>fire</Fire.label>
+  <Spark.label>spark</Spark.label>
+  <ChunkSlagSteel.label>steel slag chunk</ChunkSlagSteel.label>
+  <ChunkSlagSteel.description>A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel.</ChunkSlagSteel.description>
+  <Sandstone.label>sandstone</Sandstone.label>
+  <Sandstone.description>A sedimentary rock composed of sand particles compressed together.</Sandstone.description>
+  <SmoothedSandstone.label>smoothed sandstone</SmoothedSandstone.label>
+  <SmoothedSandstone.description>A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface.</SmoothedSandstone.description>
+  <ChunkSandstone.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkSandstone.description>
+  <ChunkSandstone.label>sandstone chunk</ChunkSandstone.label>
+  <BlocksSandstone.description>Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily.</BlocksSandstone.description>
+  <BlocksSandstone.label>sandstone blocks</BlocksSandstone.label>
+  <BlocksSandstone.stuffProps.stuffAdjective>sandstone</BlocksSandstone.stuffProps.stuffAdjective>
+  <Granite.label>granite</Granite.label>
+  <Granite.description>A very hard igneous rock.</Granite.description>
+  <SmoothedGranite.label>smoothed granite</SmoothedGranite.label>
+  <SmoothedGranite.description>A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles.</SmoothedGranite.description>
+  <ChunkGranite.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkGranite.description>
+  <ChunkGranite.label>granite chunk</ChunkGranite.label>
+  <BlocksGranite.description>Blocks of solid granite. Granite is a very hard stone.</BlocksGranite.description>
+  <BlocksGranite.label>granite blocks</BlocksGranite.label>
+  <BlocksGranite.stuffProps.stuffAdjective>granite</BlocksGranite.stuffProps.stuffAdjective>
+  <Limestone.label>limestone</Limestone.label>
+  <Limestone.description>A sedimentary rock formed from the compacted remains of ancient seashells.</Limestone.description>
+  <SmoothedLimestone.label>smoothed limestone</SmoothedLimestone.label>
+  <SmoothedLimestone.description>A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within.</SmoothedLimestone.description>
+  <ChunkLimestone.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkLimestone.description>
+  <ChunkLimestone.label>limestone chunk</ChunkLimestone.label>
+  <BlocksLimestone.description>Blocks of solid limestone.</BlocksLimestone.description>
+  <BlocksLimestone.label>limestone blocks</BlocksLimestone.label>
+  <BlocksLimestone.stuffProps.stuffAdjective>limestone</BlocksLimestone.stuffProps.stuffAdjective>
+  <Slate.label>slate</Slate.label>
+  <Slate.description>A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage.</Slate.description>
+  <SmoothedSlate.label>smoothed slate</SmoothedSlate.label>
+  <SmoothedSlate.description>A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface.</SmoothedSlate.description>
+  <ChunkSlate.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkSlate.description>
+  <ChunkSlate.label>slate chunk</ChunkSlate.label>
+  <BlocksSlate.description>Blocks of solid slate. A dull-looking rock that chips easily.</BlocksSlate.description>
+  <BlocksSlate.label>slate blocks</BlocksSlate.label>
+  <BlocksSlate.stuffProps.stuffAdjective>slate</BlocksSlate.stuffProps.stuffAdjective>
+  <Marble.label>marble</Marble.label>
+  <Marble.description>A soft metamorphic rock.</Marble.description>
+  <SmoothedMarble.label>smoothed marble</SmoothedMarble.label>
+  <SmoothedMarble.description>A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light.</SmoothedMarble.description>
+  <ChunkMarble.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkMarble.description>
+  <ChunkMarble.label>marble chunk</ChunkMarble.label>
+  <BlocksMarble.description>Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt.</BlocksMarble.description>
+  <BlocksMarble.label>marble blocks</BlocksMarble.label>
+  <BlocksMarble.stuffProps.stuffAdjective>marble</BlocksMarble.stuffProps.stuffAdjective>
+  <MeleeWeapon_BreachAxe.label>breach axe</MeleeWeapon_BreachAxe.label>
+  <MeleeWeapon_BreachAxe.description>A combined blade and tool-head attached to a sturdy haft. While slightly less effective than other weapons against human enemies, it excels at tearing down walls, doors, and other structures thanks to its integrated tool-head.</MeleeWeapon_BreachAxe.description>
+  <MeleeWeapon_BreachAxe.tools.0.label>handle</MeleeWeapon_BreachAxe.tools.0.label>
+  <MeleeWeapon_BreachAxe.tools.1.label>head</MeleeWeapon_BreachAxe.tools.1.label>
+  <MeleeWeapon_Mace.label>mace</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Mace.description>A refined club, engineered for efficient swinging and deadly impacts.</MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.tools.0.label>handle</MeleeWeapon_Mace.tools.0.label>
+  <MeleeWeapon_Mace.tools.1.label>head</MeleeWeapon_Mace.tools.1.label>
+  <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_Gladius.description>A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons.</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.tools.0.label>handle</MeleeWeapon_Gladius.tools.0.label>
+  <MeleeWeapon_Gladius.tools.1.label>point</MeleeWeapon_Gladius.tools.1.label>
+  <MeleeWeapon_Gladius.tools.2.label>edge</MeleeWeapon_Gladius.tools.2.label>
+  <MeleeWeapon_LongSword.label>longsword</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.description>The ancient weapon of kings, the longsword can be used for slashing or stabbing.</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.tools.0.label>handle</MeleeWeapon_LongSword.tools.0.label>
+  <MeleeWeapon_LongSword.tools.1.label>point</MeleeWeapon_LongSword.tools.1.label>
+  <MeleeWeapon_LongSword.tools.2.label>edge</MeleeWeapon_LongSword.tools.2.label>
+  <MeleeWeapon_Club.label>club</MeleeWeapon_Club.label>
+  <MeleeWeapon_Club.description>A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club.</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.tools.0.label>handle</MeleeWeapon_Club.tools.0.label>
+  <MeleeWeapon_Club.tools.1.label>head</MeleeWeapon_Club.tools.1.label>
+  <MeleeWeapon_Knife.label>knife</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.description>One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.tools.0.label>handle</MeleeWeapon_Knife.tools.0.label>
+  <MeleeWeapon_Knife.tools.1.label>blade</MeleeWeapon_Knife.tools.1.label>
+  <MeleeWeapon_Knife.tools.2.label>point</MeleeWeapon_Knife.tools.2.label>
+  <MeleeWeapon_Ikwa.label>ikwa</MeleeWeapon_Ikwa.label>
+  <MeleeWeapon_Ikwa.description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.tools.0.label>handle</MeleeWeapon_Ikwa.tools.0.label>
+  <MeleeWeapon_Ikwa.tools.1.label>head</MeleeWeapon_Ikwa.tools.1.label>
+  <MeleeWeapon_Ikwa.tools.2.label>edge</MeleeWeapon_Ikwa.tools.2.label>
+  <MeleeWeapon_Spear.label>spear</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Spear.description>A polearm tipped with a sharp point for stabbing opponents.</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.tools.0.label>shaft</MeleeWeapon_Spear.tools.0.label>
+  <MeleeWeapon_Spear.tools.1.label>point</MeleeWeapon_Spear.tools.1.label>
+  <Bullet_Revolver.label>revolver bullet</Bullet_Revolver.label>
+  <Gun_Revolver.label>revolver</Gun_Revolver.label>
+  <Gun_Revolver.description>An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw.</Gun_Revolver.description>
+  <Gun_Revolver.tools.0.label>grip</Gun_Revolver.tools.0.label>
+  <Gun_Revolver.tools.1.label>barrel</Gun_Revolver.tools.1.label>
+  <Gun_Autopistol.label>autopistol</Gun_Autopistol.label>
+  <Gun_Autopistol.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</Gun_Autopistol.description>
+  <Gun_Autopistol.tools.0.label>grip</Gun_Autopistol.tools.0.label>
+  <Gun_Autopistol.tools.1.label>barrel</Gun_Autopistol.tools.1.label>
+  <Bullet_Autopistol.label>autopistol bullet</Bullet_Autopistol.label>
+  <Gun_MachinePistol.label>machine pistol</Gun_MachinePistol.label>
+  <Gun_MachinePistol.description>A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness.</Gun_MachinePistol.description>
+  <Gun_MachinePistol.tools.0.label>grip</Gun_MachinePistol.tools.0.label>
+  <Gun_MachinePistol.tools.1.label>barrel</Gun_MachinePistol.tools.1.label>
+  <Bullet_MachinePistol.label>machine pistol bullet</Bullet_MachinePistol.label>
+  <Gun_IncendiaryLauncher.label>incendiary launcher</Gun_IncendiaryLauncher.label>
+  <Gun_IncendiaryLauncher.description>A wide-barreled incendiary bolt launcher. The bolts create small incendiary explosions on impact, starting fires.</Gun_IncendiaryLauncher.description>
+  <Gun_IncendiaryLauncher.tools.0.label>stock</Gun_IncendiaryLauncher.tools.0.label>
+  <Gun_IncendiaryLauncher.tools.1.label>barrel</Gun_IncendiaryLauncher.tools.1.label>
+  <Bullet_IncendiaryLauncher.label>incendiary bolt</Bullet_IncendiaryLauncher.label>
+  <Gun_SmokeLauncher.label>smoke launcher</Gun_SmokeLauncher.label>
+  <Gun_SmokeLauncher.description>A wide-barreled smoke shell launcher. The shell will upon impact release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on.</Gun_SmokeLauncher.description>
+  <Gun_SmokeLauncher.tools.0.label>stock</Gun_SmokeLauncher.tools.0.label>
+  <Gun_SmokeLauncher.tools.1.label>barrel</Gun_SmokeLauncher.tools.1.label>
+  <Bullet_SmokeLauncher.label>smoke launcher shell</Bullet_SmokeLauncher.label>
+  <Gun_EmpLauncher.label>EMP launcher</Gun_EmpLauncher.label>
+  <Gun_EmpLauncher.description>A wide-barreled EMP shell launcher. The shell will upon impact release a burst of electromagnetic energy, stunning mechanical targets (mechanoids, turrets, mortars) and depleting shields in the area of effect.</Gun_EmpLauncher.description>
+  <Gun_EmpLauncher.tools.0.label>stock</Gun_EmpLauncher.tools.0.label>
+  <Gun_EmpLauncher.tools.1.label>barrel</Gun_EmpLauncher.tools.1.label>
+  <Bullet_EMPLauncher.label>EMP launcher shell</Bullet_EMPLauncher.label>
+  <Gun_BoltActionRifle.label>bolt-action rifle</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.description>An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting.</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.tools.0.label>stock</Gun_BoltActionRifle.tools.0.label>
+  <Gun_BoltActionRifle.tools.1.label>barrel</Gun_BoltActionRifle.tools.1.label>
+  <Bullet_BoltActionRifle.label>bolt-action rifle bullet</Bullet_BoltActionRifle.label>
+  <Gun_PumpShotgun.label>pump shotgun</Gun_PumpShotgun.label>
+  <Gun_PumpShotgun.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</Gun_PumpShotgun.description>
+  <Gun_PumpShotgun.tools.0.label>stock</Gun_PumpShotgun.tools.0.label>
+  <Gun_PumpShotgun.tools.1.label>barrel</Gun_PumpShotgun.tools.1.label>
+  <Bullet_Shotgun.label>shotgun blast</Bullet_Shotgun.label>
+  <Gun_ChainShotgun.label>chain shotgun</Gun_ChainShotgun.label>
+  <Gun_ChainShotgun.description>A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire.</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.tools.0.label>stock</Gun_ChainShotgun.tools.0.label>
+  <Gun_ChainShotgun.tools.1.label>barrel</Gun_ChainShotgun.tools.1.label>
+  <Gun_HeavySMG.label>heavy SMG</Gun_HeavySMG.label>
+  <Gun_HeavySMG.description>A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well.</Gun_HeavySMG.description>
+  <Gun_HeavySMG.tools.0.label>grip</Gun_HeavySMG.tools.0.label>
+  <Gun_HeavySMG.tools.1.label>barrel</Gun_HeavySMG.tools.1.label>
+  <Bullet_HeavySMG.label>heavy SMG bullet</Bullet_HeavySMG.label>
+  <Gun_LMG.label>LMG</Gun_LMG.label>
+  <Gun_LMG.description>A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies.</Gun_LMG.description>
+  <Gun_LMG.tools.0.label>stock</Gun_LMG.tools.0.label>
+  <Gun_LMG.tools.1.label>barrel</Gun_LMG.tools.1.label>
+  <Bullet_LMG.label>LMG bullet</Bullet_LMG.label>
+  <Gun_AssaultRifle.label>assault rifle</Gun_AssaultRifle.label>
+  <Gun_AssaultRifle.description>A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy.</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.tools.0.label>stock</Gun_AssaultRifle.tools.0.label>
+  <Gun_AssaultRifle.tools.1.label>barrel</Gun_AssaultRifle.tools.1.label>
+  <Bullet_AssaultRifle.label>assault rifle bullet</Bullet_AssaultRifle.label>
+  <Gun_SniperRifle.label>sniper rifle</Gun_SniperRifle.label>
+  <Gun_SniperRifle.description>An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range.</Gun_SniperRifle.description>
+  <Gun_SniperRifle.tools.0.label>stock</Gun_SniperRifle.tools.0.label>
+  <Gun_SniperRifle.tools.1.label>barrel</Gun_SniperRifle.tools.1.label>
+  <Bullet_SniperRifle.label>sniper rifle bullet</Bullet_SniperRifle.label>
+  <Gun_Minigun.label>minigun</Gun_Minigun.label>
+  <Gun_Minigun.description>A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon.</Gun_Minigun.description>
+  <Gun_Minigun.tools.0.label>barrels</Gun_Minigun.tools.0.label>
+  <Bullet_Minigun.label>minigun bullet</Bullet_Minigun.label>
+  <Gun_TripleRocket.label>triple rocket launcher</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>A single-use rocket launcher that fires three large-bore explosive rockets. Good against small groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.0.label>barrel</Gun_TripleRocket.tools.0.label>
+  <Bullet_Rocket.label>rocket</Bullet_Rocket.label>
+  <Gun_DoomsdayRocket.label>doomsday rocket launcher</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.0.label>barrel</Gun_DoomsdayRocket.tools.0.label>
+  <Bullet_DoomsdayRocket.label>doomsday rocket</Bullet_DoomsdayRocket.label>
+  <Weapon_GrenadeFrag.label>frag grenades</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.description>Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.verbs.0.label>throw frag grenade</Weapon_GrenadeFrag.verbs.0.label>
+  <Proj_GrenadeFrag.label>frag grenade</Proj_GrenadeFrag.label>
+  <Weapon_GrenadeMolotov.label>molotov cocktails</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.description>Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.verbs.0.label>throw molotov</Weapon_GrenadeMolotov.verbs.0.label>
+  <Proj_GrenadeMolotov.label>molotov cocktail</Proj_GrenadeMolotov.label>
+  <Weapon_GrenadeEMP.label>EMP grenades</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.description>Electromagnetic pulse grenades damaging to electronic equipment.</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.verbs.0.label>throw EMP grenade</Weapon_GrenadeEMP.verbs.0.label>
+  <Proj_GrenadeEMP.label>EMP grenade</Proj_GrenadeEMP.label>
+  <Bullet_ChargeBlasterHeavy.label>charge blaster shot</Bullet_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.label>heavy charge blaster</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.description>A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.tools.0.label>barrel</Gun_ChargeBlasterHeavy.tools.0.label>
+  <Bullet_InfernoCannon.label>inferno cannon shell</Bullet_InfernoCannon.label>
+  <Gun_InfernoCannon.label>inferno cannon</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.description>An incendiary-shot mini-artillery device. It fires a large incendiary warhead.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.tools.0.label>barrel</Gun_InfernoCannon.tools.0.label>
+  <Gun_Needle.label>needle gun</Gun_Needle.label>
+  <Gun_Needle.description>A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances.</Gun_Needle.description>
+  <Gun_Needle.tools.0.label>barrel</Gun_Needle.tools.0.label>
+  <Bullet_NeedleGun.label>needle shot</Bullet_NeedleGun.label>
+  <Bow_Short.label>short bow</Bow_Short.label>
+  <Bow_Short.description>A simple short selfbow made from a single piece of wood.</Bow_Short.description>
+  <Bow_Short.tools.0.label>limb</Bow_Short.tools.0.label>
+  <Arrow_Short.label>shortbow arrow</Arrow_Short.label>
+  <Pila.label>pila</Pila.label>
+  <Pila.description>Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum.</Pila.description>
+  <Pila.tools.0.label>shaft</Pila.tools.0.label>
+  <Pila.tools.1.label>point</Pila.tools.1.label>
+  <Pilum_Thrown.label>pilum</Pilum_Thrown.label>
+  <Bow_Recurve.label>recurve bow</Bow_Recurve.label>
+  <Bow_Recurve.description>A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot.</Bow_Recurve.description>
+  <Bow_Recurve.tools.0.label>limb</Bow_Recurve.tools.0.label>
+  <Arrow_Recurve.label>recurve bow arrow</Arrow_Recurve.label>
+  <Bow_Great.label>greatbow</Bow_Great.label>
+  <Bow_Great.description>A powerful greatbow. Fires a heavy arrow long distances.</Bow_Great.description>
+  <Bow_Great.tools.0.label>limb</Bow_Great.tools.0.label>
+  <Arrow_Great.label>greatbow arrow</Arrow_Great.label>
+  <Gun_ChargeRifle.label>charge rifle</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.tools.0.label>stock</Gun_ChargeRifle.tools.0.label>
+  <Gun_ChargeRifle.tools.1.label>barrel</Gun_ChargeRifle.tools.1.label>
+  <Bullet_ChargeRifle.label>charge shot</Bullet_ChargeRifle.label>
+  <Gun_ChargeLance.label>charge lance</Gun_ChargeLance.label>
+  <Gun_ChargeLance.description>A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.tools.0.label>barrel</Gun_ChargeLance.tools.0.label>
+  <Bullet_ChargeLance.label>charge lance shot</Bullet_ChargeLance.label>
+  <OrbitalTargeterBombardment.label>orbital bombardment targeter</OrbitalTargeterBombardment.label>
+  <OrbitalTargeterBombardment.description>An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently.</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterPowerBeam.label>orbital power beam targeter</OrbitalTargeterPowerBeam.label>
+  <OrbitalTargeterPowerBeam.description>An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter.</OrbitalTargeterPowerBeam.description>
+  <TornadoGenerator.label>tornado generator</TornadoGenerator.label>
+  <TornadoGenerator.description>An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally.</TornadoGenerator.description>
+  <Gun_ThumpCannon.label>thump cannon</Gun_ThumpCannon.label>
+  <Gun_ThumpCannon.description>A breaching explosive launcher used by mechanoids. It fires a concussion bomb that is extremely effective against walls and structures, but does much less damage to small targets.</Gun_ThumpCannon.description>
+  <Gun_ThumpCannon.tools.0.label>barrel</Gun_ThumpCannon.tools.0.label>
+  <Bullet_ThumpCannon.label>thump bomb</Bullet_ThumpCannon.label>
+  <Glowstool.label>glowstool</Glowstool.label>
+  <Glowstool.description>A small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked. Dies when exposed to light.</Glowstool.description>
+  <Agarilux.label>agarilux</Agarilux.label>
+  <Agarilux.description>An enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. It dies when exposed to light.</Agarilux.description>
+  <Bryolux.label>bryolux</Bryolux.label>
+  <Bryolux.description>A blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it. Dies when exposed to light.</Bryolux.description>
+  <Plant_Rose.label>rose</Plant_Rose.label>
+  <Plant_Rose.description>A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era.</Plant_Rose.description>
+  <Plant_Daylily.label>daylily</Plant_Daylily.label>
+  <Plant_Daylily.description>A cultivated flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often.</Plant_Daylily.description>
+  <Plant_Rice.label>rice plant</Plant_Rice.label>
+  <Plant_Rice.description>A short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil.</Plant_Rice.description>
+  <Plant_Potato.label>potato plant</Plant_Potato.label>
+  <Plant_Potato.description>A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil.</Plant_Potato.description>
+  <Plant_Corn.label>corn plant</Plant_Corn.label>
+  <Plant_Corn.description>A tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil.</Plant_Corn.description>
+  <Plant_Strawberry.label>strawberry plant</Plant_Strawberry.label>
+  <Plant_Strawberry.description>A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw.</Plant_Strawberry.description>
+  <Plant_Haygrass.label>haygrass</Plant_Haygrass.label>
+  <Plant_Haygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</Plant_Haygrass.description>
+  <Plant_Cotton.label>cotton plant</Plant_Cotton.label>
+  <Plant_Cotton.description>A mid-size crop that yields fine white cotton fibers. These are used to make cloth.</Plant_Cotton.description>
+  <Plant_Devilstrand.label>devilstrand</Plant_Devilstrand.label>
+  <Plant_Devilstrand.description>This fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people.</Plant_Devilstrand.description>
+  <Plant_Healroot.label>healroot</Plant_Healroot.label>
+  <Plant_Healroot.description>A slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</Plant_Healroot.description>
+  <Plant_Hops.label>hop plant</Plant_Hops.label>
+  <Plant_Hops.description>A flowering crop that yields hops, an essential ingredient in beer.</Plant_Hops.description>
+  <Plant_Smokeleaf.label>smokeleaf plant</Plant_Smokeleaf.label>
+  <Plant_Smokeleaf.description>A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive.</Plant_Smokeleaf.description>
+  <Plant_Psychoid.label>psychoid plant</Plant_Psychoid.label>
+  <Plant_Psychoid.description>A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive.</Plant_Psychoid.description>
+  <Plant_TreeCocoa.label>cocoa tree</Plant_TreeCocoa.label>
+  <Plant_TreeCocoa.description>A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates.</Plant_TreeCocoa.description>
+  <BurnedTree.label>burned tree</BurnedTree.label>
+  <BurnedTree.description>A burned tree stump. It's ugly and yields no usable wood.</BurnedTree.description>
+  <Plant_Ambrosia.label>ambrosia bush</Plant_Ambrosia.label>
+  <Plant_Ambrosia.description>A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods.</Plant_Ambrosia.description>
+  <Plant_Agave.label>agave</Plant_Agave.label>
+  <Plant_Agave.description>A large-leafed desert plant with edible flowers and stalks.</Plant_Agave.description>
+  <Plant_PincushionCactus.label>pincushion cactus</Plant_PincushionCactus.label>
+  <Plant_PincushionCactus.description>A short cactus. It is so named because it resembles a pincushion.</Plant_PincushionCactus.description>
+  <Plant_SaguaroCactus.label>saguaro cactus</Plant_SaguaroCactus.label>
+  <Plant_SaguaroCactus.description>A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood.</Plant_SaguaroCactus.description>
+  <Plant_TreeDrago.label>drago tree</Plant_TreeDrago.label>
+  <Plant_TreeDrago.description>A hardy desert tree topped with thick, pointed leaves.</Plant_TreeDrago.description>
+  <Plant_Grass.label>grass</Plant_Grass.label>
+  <Plant_Grass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</Plant_Grass.description>
+  <Plant_TallGrass.label>tall grass</Plant_TallGrass.label>
+  <Plant_TallGrass.description>Wild tall grass. Slows down anyone moving over it.</Plant_TallGrass.description>
+  <Plant_Bush.label>bush</Plant_Bush.label>
+  <Plant_Bush.description>A short shrub. Does not typically talk.</Plant_Bush.description>
+  <Plant_Brambles.label>brambles</Plant_Brambles.label>
+  <Plant_Brambles.description>Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them.</Plant_Brambles.description>
+  <Plant_HealrootWild.label>wild healroot</Plant_HealrootWild.label>
+  <Plant_HealrootWild.description>A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates.</Plant_HealrootWild.description>
+  <Plant_TreeWillow.label>willow tree</Plant_TreeWillow.label>
+  <Plant_TreeWillow.description>One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood.</Plant_TreeWillow.description>
+  <Plant_TreeCypress.label>cypress tree</Plant_TreeCypress.label>
+  <Plant_TreeCypress.description>A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood.</Plant_TreeCypress.description>
+  <Plant_TreeMaple.label>maple tree</Plant_TreeMaple.label>
+  <Plant_TreeMaple.description>A common medium-sized tree, easily identifiable by its distinct three-pointed leaf.</Plant_TreeMaple.description>
+  <Plant_Chokevine.label>chokevine</Plant_Chokevine.label>
+  <Plant_Chokevine.description>Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatly slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark.</Plant_Chokevine.description>
+  <Plant_Dandelion.label>dandelions</Plant_Dandelion.label>
+  <Plant_Dandelion.description>A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful.</Plant_Dandelion.description>
+  <Plant_Astragalus.label>astragalus</Plant_Astragalus.label>
+  <Plant_Astragalus.description>A small perennial wildflower that grows in alpine climates.</Plant_Astragalus.description>
+  <Plant_Moss.label>moss</Plant_Moss.label>
+  <Plant_Moss.description>Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant.</Plant_Moss.description>
+  <Plant_Berry.label>berry bush</Plant_Berry.label>
+  <Plant_Berry.description>A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw.</Plant_Berry.description>
+  <Plant_TreeOak.label>oak tree</Plant_TreeOak.label>
+  <Plant_TreeOak.description>A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures.</Plant_TreeOak.description>
+  <Plant_TreePoplar.label>poplar tree</Plant_TreePoplar.label>
+  <Plant_TreePoplar.description>A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees.</Plant_TreePoplar.description>
+  <Plant_TreePine.label>pine tree</Plant_TreePine.label>
+  <Plant_TreePine.description>A large conifer covered with prickly pine cones. It grows in a distinctive conical shape.</Plant_TreePine.description>
+  <Plant_TreeBirch.label>birch tree</Plant_TreeBirch.label>
+  <Plant_TreeBirch.description>A temperate-biome tree known for its thin, white, paper-like bark.</Plant_TreeBirch.description>
+  <Plant_ShrubLow.label>low shrubs</Plant_ShrubLow.label>
+  <Plant_ShrubLow.description>Various low broadleaf shrubs. These grow in clusters and slow down movement.</Plant_ShrubLow.description>
+  <Plant_Alocasia.label>alocasia</Plant_Alocasia.label>
+  <Plant_Alocasia.description>A tropical plant. Its extremely broad leaves are a commonly-recognized signifier of tropical forests.</Plant_Alocasia.description>
+  <Plant_Clivia.label>clivia</Plant_Clivia.label>
+  <Plant_Clivia.description>An unusual plant with tall, pretty flowers. Some call it the 'bush lily'.</Plant_Clivia.description>
+  <Plant_Rafflesia.label>giant rafflesia</Plant_Rafflesia.label>
+  <Plant_Rafflesia.description>A rare, giant flower which can be found deep in steaming jungles. You would think a giant flower would be beautiful, but this one looks and smells like rotting flesh.</Plant_Rafflesia.description>
+  <Plant_TreeTeak.label>teak tree</Plant_TreeTeak.label>
+  <Plant_TreeTeak.description>An exceptionally strong hardwood tree that grows in warm climates. Because teak wood is so durable and water-resistant, it was used to form the keel of wooden sailing ships in ancient times.</Plant_TreeTeak.description>
+  <Plant_TreeCecropia.label>cecropia tree</Plant_TreeCecropia.label>
+  <Plant_TreeCecropia.description>One of the most common rainforest trees. Cecropia grows very fast, but yields little usable wood.</Plant_TreeCecropia.description>
+  <Plant_TreePalm.label>palm tree</Plant_TreePalm.label>
+  <Plant_TreePalm.description>A tropical tree with a tall, naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts.</Plant_TreePalm.description>
+  <Plant_TreeBamboo.label>bamboo tree</Plant_TreeBamboo.label>
+  <Plant_TreeBamboo.description>A fast-growing tree-like plant that grows in dense groves. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful.</Plant_TreeBamboo.description>
+  <Bear_Grizzly.tools.0.label>left claw</Bear_Grizzly.tools.0.label>
+  <Bear_Grizzly.tools.1.label>right claw</Bear_Grizzly.tools.1.label>
+  <Bear_Grizzly.tools.3.label>head</Bear_Grizzly.tools.3.label>
+  <Bear_Grizzly.label>grizzly bear</Bear_Grizzly.label>
+  <Bear_Grizzly.description>A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</Bear_Grizzly.description>
+  <Bear_Grizzly.race.meatLabel>bear meat</Bear_Grizzly.race.meatLabel>
+  <Bear_Polar.tools.0.label>left claw</Bear_Polar.tools.0.label>
+  <Bear_Polar.tools.1.label>right claw</Bear_Polar.tools.1.label>
+  <Bear_Polar.tools.3.label>head</Bear_Polar.tools.3.label>
+  <Bear_Polar.label>polar bear</Bear_Polar.label>
+  <Bear_Polar.description>A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</Bear_Polar.description>
+  <Ostrich.label>ostrich</Ostrich.label>
+  <Ostrich.description>The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered.</Ostrich.description>
+  <Ostrich.tools.0.label>claws</Ostrich.tools.0.label>
+  <Ostrich.tools.1.label>beak</Ostrich.tools.1.label>
+  <Ostrich.tools.2.label>head</Ostrich.tools.2.label>
+  <Emu.label>emu</Emu.label>
+  <Emu.description>A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge.</Emu.description>
+  <Emu.tools.0.label>claws</Emu.tools.0.label>
+  <Emu.tools.1.label>beak</Emu.tools.1.label>
+  <Emu.tools.2.label>head</Emu.tools.2.label>
+  <Cassowary.label>cassowary</Cassowary.label>
+  <Cassowary.description>A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers.</Cassowary.description>
+  <Cassowary.race.meatLabel>bird meat</Cassowary.race.meatLabel>
+  <Cassowary.tools.0.label>claws</Cassowary.tools.0.label>
+  <Cassowary.tools.1.label>beak</Cassowary.tools.1.label>
+  <Cassowary.tools.2.label>head</Cassowary.tools.2.label>
+  <Cougar.tools.0.label>left claw</Cougar.tools.0.label>
+  <Cougar.tools.1.label>right claw</Cougar.tools.1.label>
+  <Cougar.tools.3.label>head</Cougar.tools.3.label>
+  <Cougar.label>cougar</Cougar.label>
+  <Cougar.description>One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat.</Cougar.description>
+  <Panther.tools.0.label>left claw</Panther.tools.0.label>
+  <Panther.tools.1.label>right claw</Panther.tools.1.label>
+  <Panther.tools.3.label>head</Panther.tools.3.label>
+  <Panther.label>panther</Panther.label>
+  <Panther.description>An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength.</Panther.description>
+  <Lynx.label>lynx</Lynx.label>
+  <Lynx.description>A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories.</Lynx.description>
+  <Lynx.tools.0.label>left claw</Lynx.tools.0.label>
+  <Lynx.tools.1.label>right claw</Lynx.tools.1.label>
+  <Lynx.tools.3.label>head</Lynx.tools.3.label>
+  <Cat.label>cat</Cat.label>
+  <Cat.description>One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur.</Cat.description>
+  <Cat.tools.0.label>left claw</Cat.tools.0.label>
+  <Cat.tools.1.label>right claw</Cat.tools.1.label>
+  <Cat.tools.3.label>head</Cat.tools.3.label>
+  <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
+  <YorkshireTerrier.description>A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweigh the cost of feeding it.</YorkshireTerrier.description>
+  <YorkshireTerrier.tools.0.label>left claw</YorkshireTerrier.tools.0.label>
+  <YorkshireTerrier.tools.1.label>right claw</YorkshireTerrier.tools.1.label>
+  <YorkshireTerrier.tools.2.label>cute little teeth</YorkshireTerrier.tools.2.label>
+  <YorkshireTerrier.tools.3.label>head</YorkshireTerrier.tools.3.label>
+  <GuineaPig.label>guinea pig</GuineaPig.label>
+  <GuineaPig.description>Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner.</GuineaPig.description>
+  <GuineaPig.tools.0.label>left claw</GuineaPig.tools.0.label>
+  <GuineaPig.tools.1.label>right claw</GuineaPig.tools.1.label>
+  <GuineaPig.tools.3.label>head</GuineaPig.tools.3.label>
+  <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
+  <LabradorRetriever.description>A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend.</LabradorRetriever.description>
+  <LabradorRetriever.tools.0.label>left claw</LabradorRetriever.tools.0.label>
+  <LabradorRetriever.tools.1.label>right claw</LabradorRetriever.tools.1.label>
+  <LabradorRetriever.tools.3.label>head</LabradorRetriever.tools.3.label>
+  <Husky.label>husky</Husky.label>
+  <Husky.description>A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments.</Husky.description>
+  <Husky.tools.0.label>left claw</Husky.tools.0.label>
+  <Husky.tools.1.label>right claw</Husky.tools.1.label>
+  <Husky.tools.3.label>head</Husky.tools.3.label>
+  <Monkey.label>monkey</Monkey.label>
+  <Monkey.description>A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks.</Monkey.description>
+  <Monkey.tools.0.label>left fist</Monkey.tools.0.label>
+  <Monkey.tools.1.label>right fist</Monkey.tools.1.label>
+  <Monkey.tools.3.label>head</Monkey.tools.3.label>
+  <Chicken.label>chicken</Chicken.label>
+  <Chicken.description>The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often.</Chicken.description>
+  <Chicken.tools.0.label>claws</Chicken.tools.0.label>
+  <Chicken.tools.1.label>beak</Chicken.tools.1.label>
+  <Chicken.tools.2.label>head</Chicken.tools.2.label>
+  <Duck.label>duck</Duck.label>
+  <Duck.description>A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely.</Duck.description>
+  <Duck.tools.0.label>claws</Duck.tools.0.label>
+  <Duck.tools.1.label>beak</Duck.tools.1.label>
+  <Duck.tools.2.label>head</Duck.tools.2.label>
+  <Turkey.label>turkey</Turkey.label>
+  <Turkey.description>A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild.</Turkey.description>
+  <Turkey.tools.0.label>claws</Turkey.tools.0.label>
+  <Turkey.tools.1.label>beak</Turkey.tools.1.label>
+  <Turkey.tools.2.label>head</Turkey.tools.2.label>
+  <Goose.label>goose</Goose.label>
+  <Goose.description>A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch.</Goose.description>
+  <Goose.tools.0.label>claws</Goose.tools.0.label>
+  <Goose.tools.1.label>beak</Goose.tools.1.label>
+  <Goose.tools.2.label>head</Goose.tools.2.label>
+  <Cow.label>cow</Cow.label>
+  <Cow.description>A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild.</Cow.description>
+  <Cow.race.meatLabel>beef</Cow.race.meatLabel>
+  <Cow.tools.1.label>head</Cow.tools.1.label>
+  <Cow.tools.2.label>left hoof</Cow.tools.2.label>
+  <Cow.tools.3.label>right hoof</Cow.tools.3.label>
+  <Boomalope.label>boomalope</Boomalope.label>
+  <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully.</Boomalope.description>
+  <Boomalope.tools.0.label>head</Boomalope.tools.0.label>
+  <Boomalope.tools.1.label>left hoof</Boomalope.tools.1.label>
+  <Boomalope.tools.2.label>right hoof</Boomalope.tools.2.label>
+  <Muffalo.label>muffalo</Muffalo.label>
+  <Muffalo.description>A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed.</Muffalo.description>
+  <Muffalo.tools.0.label>head</Muffalo.tools.0.label>
+  <Muffalo.tools.1.label>left hoof</Muffalo.tools.1.label>
+  <Muffalo.tools.2.label>right hoof</Muffalo.tools.2.label>
+  <Bison.label>bison</Bison.label>
+  <Bison.description>A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous.</Bison.description>
+  <Bison.tools.0.label>head</Bison.tools.0.label>
+  <Bison.tools.1.label>left hoof</Bison.tools.1.label>
+  <Bison.tools.2.label>right hoof</Bison.tools.2.label>
+  <Dromedary.label>dromedary</Dromedary.label>
+  <Dromedary.description>A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed.</Dromedary.description>
+  <Dromedary.tools.0.label>left hoof</Dromedary.tools.0.label>
+  <Dromedary.tools.1.label>right hoof</Dromedary.tools.1.label>
+  <Dromedary.tools.3.label>head</Dromedary.tools.3.label>
+  <Goat.label>goat</Goat.label>
+  <Goat.description>Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind.</Goat.description>
+  <Goat.tools.1.label>head</Goat.tools.1.label>
+  <Elk.label>elk</Elk.label>
+  <Elk.description>A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs.</Elk.description>
+  <Elk.tools.0.label>left hoof</Elk.tools.0.label>
+  <Elk.tools.1.label>right hoof</Elk.tools.1.label>
+  <Elk.tools.3.label>head</Elk.tools.3.label>
+  <Yak.label>yak</Yak.label>
+  <Yak.description>Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow.</Yak.description>
+  <Yak.race.meatLabel>yak beef</Yak.race.meatLabel>
+  <Yak.tools.1.label>head</Yak.tools.1.label>
+  <Yak.tools.2.label>left hoof</Yak.tools.2.label>
+  <Yak.tools.3.label>right hoof</Yak.tools.3.label>
+  <Caribou.label>caribou</Caribou.label>
+  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs.</Caribou.description>
+  <Caribou.tools.0.label>left hoof</Caribou.tools.0.label>
+  <Caribou.tools.1.label>right hoof</Caribou.tools.1.label>
+  <Caribou.tools.3.label>head</Caribou.tools.3.label>
+  <Horse.label>horse</Horse.label>
+  <Horse.description>A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed.</Horse.description>
+  <Horse.race.meatLabel>horse meat</Horse.race.meatLabel>
+  <Horse.tools.0.label>head</Horse.tools.0.label>
+  <Horse.tools.1.label>left hoof</Horse.tools.1.label>
+  <Horse.tools.2.label>right hoof</Horse.tools.2.label>
+  <Donkey.label>donkey</Donkey.label>
+  <Donkey.description>A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed.</Donkey.description>
+  <Donkey.tools.0.label>head</Donkey.tools.0.label>
+  <Donkey.tools.1.label>left hoof</Donkey.tools.1.label>
+  <Donkey.tools.2.label>right hoof</Donkey.tools.2.label>
+  <Elephant.label>elephant</Elephant.label>
+  <Elephant.description>The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before.</Elephant.description>
+  <Elephant.tools.0.label>tusk</Elephant.tools.0.label>
+  <Elephant.tools.1.label>left foot</Elephant.tools.1.label>
+  <Elephant.tools.2.label>right foot</Elephant.tools.2.label>
+  <Elephant.tools.3.label>head</Elephant.tools.3.label>
+  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+  <Rhinoceros.description>Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body.</Rhinoceros.description>
+  <Rhinoceros.tools.0.label>horn</Rhinoceros.tools.0.label>
+  <Rhinoceros.tools.1.label>horn</Rhinoceros.tools.1.label>
+  <Rhinoceros.tools.3.label>head</Rhinoceros.tools.3.label>
+  <Hare.tools.1.label>head</Hare.tools.1.label>
+  <Hare.label>hare</Hare.label>
+  <Hare.description>This small, solitary herbivore can swiftly hop away from danger.</Hare.description>
+  <Snowhare.tools.1.label>head</Snowhare.tools.1.label>
+  <Snowhare.label>snowhare</Snowhare.label>
+  <Snowhare.description>This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants.</Snowhare.description>
+  <Megascarab.label>megascarab</Megascarab.label>
+  <Megascarab.description>A large, genetically-engineered beetle. Once the worker caste of an artificial ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.</Megascarab.description>
+  <Megascarab.tools.0.label>mandibles</Megascarab.tools.0.label>
+  <Megascarab.tools.1.label>head</Megascarab.tools.1.label>
+  <Spelopede.label>spelopede</Spelopede.label>
+  <Spelopede.description>A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.</Spelopede.description>
+  <Spelopede.tools.0.label>head claw</Spelopede.tools.0.label>
+  <Spelopede.tools.1.label>head</Spelopede.tools.1.label>
+  <Megaspider.label>megaspider</Megaspider.label>
+  <Megaspider.description>Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain.</Megaspider.description>
+  <Megaspider.tools.0.label>head claw</Megaspider.tools.0.label>
+  <Megaspider.tools.1.label>head</Megaspider.tools.1.label>
+  <Megaspider.race.meatLabel>insect meat</Megaspider.race.meatLabel>
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.description>A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</Thrumbo.description>
+  <Thrumbo.tools.0.label>horn</Thrumbo.tools.0.label>
+  <Thrumbo.tools.2.label>left foot</Thrumbo.tools.2.label>
+  <Thrumbo.tools.3.label>right foot</Thrumbo.tools.3.label>
+  <Thrumbo.tools.4.label>head</Thrumbo.tools.4.label>
+  <Cobra.label>cobra</Cobra.label>
+  <Cobra.description>A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</Cobra.description>
+  <Cobra.tools.0.label>venom-fangs</Cobra.tools.0.label>
+  <Cobra.tools.1.label>head</Cobra.tools.1.label>
+  <Cobra.race.meatLabel>cobra meat</Cobra.race.meatLabel>
+  <Tortoise.label>tortoise</Tortoise.label>
+  <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
+  <Tortoise.tools.0.label>beak</Tortoise.tools.0.label>
+  <Tortoise.tools.1.label>head</Tortoise.tools.1.label>
+  <Alphabeaver.label>alphabeaver</Alphabeaver.label>
+  <Alphabeaver.description>A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed.</Alphabeaver.description>
+  <Alphabeaver.tools.0.label>left claw</Alphabeaver.tools.0.label>
+  <Alphabeaver.tools.1.label>right claw</Alphabeaver.tools.1.label>
+  <Alphabeaver.tools.3.label>head</Alphabeaver.tools.3.label>
+  <Pig.label>pig</Pig.label>
+  <Pig.description>Pigs were one of the first animals domesticated by humans. They are an efficient source of meat, and are easy to feed because they will eat almost anything.</Pig.description>
+  <Pig.race.meatLabel>pork</Pig.race.meatLabel>
+  <Pig.tools.1.label>head</Pig.tools.1.label>
+  <WildBoar.label>wild boar</WildBoar.label>
+  <WildBoar.description>This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks.</WildBoar.description>
+  <WildBoar.tools.0.label>tusk</WildBoar.tools.0.label>
+  <WildBoar.tools.2.label>head</WildBoar.tools.2.label>
+  <Ibex.label>ibex</Ibex.label>
+  <Ibex.description>The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack.</Ibex.description>
+  <Ibex.tools.0.label>left hoof</Ibex.tools.0.label>
+  <Ibex.tools.1.label>right hoof</Ibex.tools.1.label>
+  <Ibex.tools.3.label>head</Ibex.tools.3.label>
+  <Deer.label>deer</Deer.label>
+  <Deer.description>A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick.</Deer.description>
+  <Deer.tools.0.label>left hoof</Deer.tools.0.label>
+  <Deer.tools.1.label>right hoof</Deer.tools.1.label>
+  <Deer.tools.2.label>teeth</Deer.tools.2.label>
+  <Deer.tools.3.label>head</Deer.tools.3.label>
+  <Deer.race.meatLabel>venison</Deer.race.meatLabel>
+  <Gazelle.label>gazelle</Gazelle.label>
+  <Gazelle.description>A small, extremely quick antelope known for its amazingly long leap.</Gazelle.description>
+  <Gazelle.tools.0.label>left hoof</Gazelle.tools.0.label>
+  <Gazelle.tools.1.label>right hoof</Gazelle.tools.1.label>
+  <Gazelle.tools.3.label>head</Gazelle.tools.3.label>
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  <Chinchilla.description>A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good.</Chinchilla.description>
+  <Chinchilla.tools.0.label>left claw</Chinchilla.tools.0.label>
+  <Chinchilla.tools.1.label>right claw</Chinchilla.tools.1.label>
+  <Chinchilla.tools.3.label>head</Chinchilla.tools.3.label>
+  <Sheep.label>sheep</Sheep.label>
+  <Sheep.description>Sheep husbandry is practised throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns.</Sheep.description>
+  <Sheep.tools.0.label>head</Sheep.tools.0.label>
+  <Sheep.tools.1.label>left hoof</Sheep.tools.1.label>
+  <Sheep.tools.2.label>right hoof</Sheep.tools.2.label>
+  <Alpaca.label>alpaca</Alpaca.label>
+  <Alpaca.description>A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America.</Alpaca.description>
+  <Alpaca.tools.0.label>left hoof</Alpaca.tools.0.label>
+  <Alpaca.tools.1.label>right hoof</Alpaca.tools.1.label>
+  <Alpaca.tools.3.label>head</Alpaca.tools.3.label>
+  <Megasloth.label>megasloth</Megasloth.label>
+  <Megasloth.description>A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws.</Megasloth.description>
+  <Megasloth.tools.0.label>left claw</Megasloth.tools.0.label>
+  <Megasloth.tools.1.label>right claw</Megasloth.tools.1.label>
+  <Megasloth.tools.3.label>head</Megasloth.tools.3.label>
+  <Capybara.label>capybara</Capybara.label>
+  <Capybara.description>The largest natural rodent, the capybara is well-adapted for steaming jungle environments.</Capybara.description>
+  <Capybara.tools.0.label>left claw</Capybara.tools.0.label>
+  <Capybara.tools.1.label>right claw</Capybara.tools.1.label>
+  <Capybara.tools.3.label>head</Capybara.tools.3.label>
+  <Squirrel.label>squirrel</Squirrel.label>
+  <Squirrel.description>One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather.</Squirrel.description>
+  <Squirrel.tools.0.label>left claw</Squirrel.tools.0.label>
+  <Squirrel.tools.1.label>right claw</Squirrel.tools.1.label>
+  <Squirrel.tools.3.label>head</Squirrel.tools.3.label>
+  <Rat.label>rat</Rat.label>
+  <Rat.description>A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere.</Rat.description>
+  <Rat.tools.0.label>left claw</Rat.tools.0.label>
+  <Rat.tools.1.label>right claw</Rat.tools.1.label>
+  <Rat.tools.3.label>head</Rat.tools.3.label>
+  <Boomrat.label>boomrat</Boomrat.label>
+  <Boomrat.description>Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed.</Boomrat.description>
+  <Boomrat.tools.0.label>left claw</Boomrat.tools.0.label>
+  <Boomrat.tools.1.label>right claw</Boomrat.tools.1.label>
+  <Boomrat.tools.3.label>head</Boomrat.tools.3.label>
+  <Raccoon.label>raccoon</Raccoon.label>
+  <Raccoon.description>A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything.</Raccoon.description>
+  <Raccoon.tools.0.label>left claw</Raccoon.tools.0.label>
+  <Raccoon.tools.1.label>right claw</Raccoon.tools.1.label>
+  <Raccoon.tools.3.label>head</Raccoon.tools.3.label>
+  <Iguana.label>iguana</Iguana.label>
+  <Iguana.description>These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten.</Iguana.description>
+  <Iguana.tools.0.label>left claw</Iguana.tools.0.label>
+  <Iguana.tools.1.label>right claw</Iguana.tools.1.label>
+  <Iguana.tools.3.label>head</Iguana.tools.3.label>
+  <Warg.label>warg</Warg.label>
+  <Warg.description>Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god.</Warg.description>
+  <Warg.tools.0.label>left claw</Warg.tools.0.label>
+  <Warg.tools.1.label>right claw</Warg.tools.1.label>
+  <Warg.tools.2.label>razorfangs</Warg.tools.2.label>
+  <Warg.tools.3.label>head</Warg.tools.3.label>
+  <Wolf_Timber.tools.0.label>left claw</Wolf_Timber.tools.0.label>
+  <Wolf_Timber.tools.1.label>right claw</Wolf_Timber.tools.1.label>
+  <Wolf_Timber.tools.3.label>head</Wolf_Timber.tools.3.label>
+  <Wolf_Timber.label>timber wolf</Wolf_Timber.label>
+  <Wolf_Timber.description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent.</Wolf_Timber.description>
+  <Wolf_Timber.race.meatLabel>wolf meat</Wolf_Timber.race.meatLabel>
+  <Wolf_Arctic.tools.0.label>left claw</Wolf_Arctic.tools.0.label>
+  <Wolf_Arctic.tools.1.label>right claw</Wolf_Arctic.tools.1.label>
+  <Wolf_Arctic.tools.3.label>head</Wolf_Arctic.tools.3.label>
+  <Wolf_Arctic.label>arctic wolf</Wolf_Arctic.label>
+  <Wolf_Arctic.description>An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent.</Wolf_Arctic.description>
+  <Fox_Fennec.tools.0.label>left claw</Fox_Fennec.tools.0.label>
+  <Fox_Fennec.tools.1.label>right claw</Fox_Fennec.tools.1.label>
+  <Fox_Fennec.tools.3.label>head</Fox_Fennec.tools.3.label>
+  <Fox_Fennec.label>fennec fox</Fox_Fennec.label>
+  <Fox_Fennec.description>A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat.</Fox_Fennec.description>
+  <Fox_Fennec.race.meatLabel>fox meat</Fox_Fennec.race.meatLabel>
+  <Fox_Red.tools.0.label>left claw</Fox_Red.tools.0.label>
+  <Fox_Red.tools.1.label>right claw</Fox_Red.tools.1.label>
+  <Fox_Red.tools.3.label>head</Fox_Red.tools.3.label>
+  <Fox_Red.label>red fox</Fox_Red.label>
+  <Fox_Red.description>A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes.</Fox_Red.description>
+  <Fox_Arctic.tools.0.label>left claw</Fox_Arctic.tools.0.label>
+  <Fox_Arctic.tools.1.label>right claw</Fox_Arctic.tools.1.label>
+  <Fox_Arctic.tools.3.label>head</Fox_Arctic.tools.3.label>
+  <Fox_Arctic.label>arctic fox</Fox_Arctic.label>
+  <Fox_Arctic.description>A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey.</Fox_Arctic.description>
+  <Human.label>human</Human.label>
+  <Human.description>A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.</Human.description>
+  <Human.tools.0.label>left fist</Human.tools.0.label>
+  <Human.tools.1.label>right fist</Human.tools.1.label>
+  <Human.tools.2.label>teeth</Human.tools.2.label>
+  <Human.tools.3.label>head</Human.tools.3.label>
+  <Mech_Centipede.label>centipede</Mech_Centipede.label>
+  <Mech_Centipede.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.</Mech_Centipede.description>
+  <Mech_Centipede.tools.0.label>head</Mech_Centipede.tools.0.label>
+  <Mech_Lancer.label>lancer</Mech_Lancer.label>
+  <Mech_Lancer.description>Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat.</Mech_Lancer.description>
+  <Mech_Lancer.tools.0.label>left fist</Mech_Lancer.tools.0.label>
+  <Mech_Lancer.tools.1.label>right fist</Mech_Lancer.tools.1.label>
+  <Mech_Lancer.tools.2.label>head</Mech_Lancer.tools.2.label>
+  <Mech_Scyther.label>scyther</Mech_Scyther.label>
+  <Mech_Scyther.description>Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive.</Mech_Scyther.description>
+  <Mech_Scyther.tools.0.label>left blade</Mech_Scyther.tools.0.label>
+  <Mech_Scyther.tools.1.label>right blade</Mech_Scyther.tools.1.label>
+  <Mech_Scyther.tools.2.label>head</Mech_Scyther.tools.2.label>
+  <Mech_Pikeman.label>pikeman</Mech_Pikeman.label>
+  <Mech_Pikeman.description>A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it.</Mech_Pikeman.description>
+  <Mech_Pikeman.tools.0.label>front left leg</Mech_Pikeman.tools.0.label>
+  <Mech_Pikeman.tools.1.label>front right leg</Mech_Pikeman.tools.1.label>
+  <Mech_Pikeman.tools.2.label>head</Mech_Pikeman.tools.2.label>
+  <Mech_Termite.label>termite</Mech_Termite.label>
+  <Mech_Termite.description>A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges.</Mech_Termite.description>
+  <Mech_Termite.tools.0.label>head</Mech_Termite.tools.0.label>
+</LanguageData>

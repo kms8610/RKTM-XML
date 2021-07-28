@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ImmediateAttack.letterLabelEnemy>Raid</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.arrivalTextEnemy>They are attacking immediately.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.letterLabelFriendly>Friendlies</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttackFriendly.letterLabelEnemy>Raid</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>They are attacking immediately.</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.letterLabelFriendly>Friendlies</ImmediateAttackFriendly.letterLabelFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
+  <StageThenAttack.letterLabelEnemy>Raid</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.arrivalTextEnemy>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelFriendly>Friendlies</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.arrivalTextFriendly>They will prepare for a while before moving in to help you.</StageThenAttack.arrivalTextFriendly>
+  <ImmediateAttackBreaching.letterLabelEnemy>Raid</ImmediateAttackBreaching.letterLabelEnemy>
+  <ImmediateAttackBreaching.letterLabelFriendly>Friendlies</ImmediateAttackBreaching.letterLabelFriendly>
+  <ImmediateAttackBreaching.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackBreaching.arrivalTextFriendly>
+  <ImmediateAttackBreaching.arrivalTextEnemy>They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.</ImmediateAttackBreaching.arrivalTextEnemy>
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>Raid</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>Friendlies</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps.</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <ImmediateAttackSappers.letterLabelEnemy>Raid</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivalTextEnemy>
+  <Siege.letterLabelEnemy>Siege</Siege.letterLabelEnemy>
+  <Siege.arrivalTextEnemy>It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelFriendly>Friendlies</Siege.letterLabelFriendly>
+  <Siege.arrivalTextFriendly>It looks like they want to use siege tactics to help you.</Siege.arrivalTextFriendly>
+</LanguageData>

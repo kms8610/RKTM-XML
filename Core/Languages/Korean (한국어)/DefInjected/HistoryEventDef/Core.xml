@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GaveGift.label>gave gift</GaveGift.label>
+  <Traded.label>traded</Traded.label>
+  <RequestedTrader.label>requested trader</RequestedTrader.label>
+  <RequestedMilitaryAid.label>requested military aid</RequestedMilitaryAid.label>
+  <PeaceTalksDisaster.label>peace talks disaster</PeaceTalksDisaster.label>
+  <PeaceTalksBackfire.label>peace talks backfired</PeaceTalksBackfire.label>
+  <PeaceTalksSuccess.label>peace talks success</PeaceTalksSuccess.label>
+  <PeaceTalksTriumph.label>peace talks triumph</PeaceTalksTriumph.label>
+  <AttackedBuilding.label>attacked building</AttackedBuilding.label>
+  <ShuttleDestroyed.label>shuttle destroyed</ShuttleDestroyed.label>
+  <LaborersMissedShuttle.label>laborers missed shuttle</LaborersMissedShuttle.label>
+  <UsedHarmfulAbility.label>used harmful ability</UsedHarmfulAbility.label>
+  <UsedForbiddenThing.label>used forbidden thing</UsedForbiddenThing.label>
+  <ReachNaturalGoodwill.label>tendency to move toward natural goodwill</ReachNaturalGoodwill.label>
+  <RitualDone.label>ritual done</RitualDone.label>
+  <DebugGoodwill.label>debug event</DebugGoodwill.label>
+  <UsedHarmfulItem.label>harmed member</UsedHarmfulItem.label>
+  <AttackedMember.label>attacked member</AttackedMember.label>
+  <MemberCrushed.label>member crushed</MemberCrushed.label>
+  <MemberNeutrallyDied.label>member died</MemberNeutrallyDied.label>
+  <MemberCaptured.label>member captured</MemberCaptured.label>
+  <MemberKilled.label>member killed</MemberKilled.label>
+  <MemberSold.label>member sold</MemberSold.label>
+  <MemberExitedMapHealthy.label>member exited map healthy</MemberExitedMapHealthy.label>
+  <PerformedHarmfulSurgery.label>harmful surgery on member</PerformedHarmfulSurgery.label>
+  <MemberStripped.label>member stripped</MemberStripped.label>
+  <InnocentPrisonerDied.label>innocent prisoner died</InnocentPrisonerDied.label>
+  <GuiltyPrisonerDied.label>guilty prisoner died</GuiltyPrisonerDied.label>
+  <PrisonerDied.label>prisoner died</PrisonerDied.label>
+  <QuestGoodwillReward.label>quest completed</QuestGoodwillReward.label>
+  <QuestPawnLost.label>member lost at colony</QuestPawnLost.label>
+  <QuestPawnArrested.label>member arrested</QuestPawnArrested.label>
+  <ShuttleCommanderMissedShuttle.label>shuttle commander missed shuttle</ShuttleCommanderMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>shuttle guards missed shuttle</ShuttleGuardsMissedShuttle.label>
+  <MonumentConstructionExpired.label>monument construction expired</MonumentConstructionExpired.label>
+  <MonumentConstructionMapRemoved.label>monument construction abandoned</MonumentConstructionMapRemoved.label>
+  <FailedToKeepLodgersHappy.label>failed to keep guests happy</FailedToKeepLodgersHappy.label>
+  <QuestPrisonerRecruited.label>recruited lent prisoner</QuestPrisonerRecruited.label>
+  <QuestPrisonerEnslaved.label>enslaved lent prisoner</QuestPrisonerEnslaved.label>
+  <MemberMissedShuttle.label>member missed shuttle</MemberMissedShuttle.label>
+  <MonumentDestroyed.label>destroyed monument</MonumentDestroyed.label>
+  <AcceptedDeserter.label>accepted deserter</AcceptedDeserter.label>
+  <SettlementProximity.label>settlement proximity</SettlementProximity.label>
+  <DestroyedEnemyBase.label>destroyed enemy base</DestroyedEnemyBase.label>
+  <AttackedSettlement.label>attacked settlement</AttackedSettlement.label>
+  <AttackedCaravan.label>attacked caravan</AttackedCaravan.label>
+  <CutTree.label>cut tree</CutTree.label>
+  <Mined.label>mined</Mined.label>
+  <SowedPlant.label>sowed plant</SowedPlant.label>
+  <SowedHumanFoodPlant.label>sowed food plant</SowedHumanFoodPlant.label>
+  <InstalledProsthetic.label>installed prosthetic</InstalledProsthetic.label>
+  <Researching.label>researching</Researching.label>
+  <AteHumanMeat.label>ate human meat</AteHumanMeat.label>
+  <IngestedDrug.label>used drug</IngestedDrug.label>
+  <IngestedRecreationalDrug.label>used recreational drug</IngestedRecreationalDrug.label>
+  <IngestedHardDrug.label>used hard drug</IngestedHardDrug.label>
+  <AdministeredDrug.label>administered drug</AdministeredDrug.label>
+  <AdministeredRecreationalDrug.label>administered recreational drug</AdministeredRecreationalDrug.label>
+  <AdministeredHardDrug.label>administered hard drug</AdministeredHardDrug.label>
+  <Bonded.label>bonded</Bonded.label>
+  <AteNutrientPaste.label>ate nutrient paste</AteNutrientPaste.label>
+  <AteHumanMeatDirect.label>ate human meat</AteHumanMeatDirect.label>
+  <AteHumanMeatAsIngredient.label>ate meal made from human meat</AteHumanMeatAsIngredient.label>
+  <ButcheredHuman.label>butchered human</ButcheredHuman.label>
+  <ObservedLayingCorpse.label>observed corpse</ObservedLayingCorpse.label>
+  <ObservedLayingRottingCorpse.label>observed rotten corpse</ObservedLayingRottingCorpse.label>
+  <AteInsectMeatDirect.label>ate insect meat</AteInsectMeatDirect.label>
+  <AteInsectMeatAsIngredient.label>ate meal with insect meat</AteInsectMeatAsIngredient.label>
+  <InitiatedLovin.label>initiated lovin'</InitiatedLovin.label>
+  <GotLovin.label>got some lovin'</GotLovin.label>
+  <GotLovin_Spouse.label>lovin' with spouse</GotLovin_Spouse.label>
+  <GotLovin_NonSpouse.label>lovin' outside marriage</GotLovin_NonSpouse.label>
+  <SharedBed.label>shared bed</SharedBed.label>
+  <SharedBed_Spouse.label>shared bed with spouse</SharedBed_Spouse.label>
+  <SharedBed_NonSpouse.label>shared bed outside marriage</SharedBed_NonSpouse.label>
+  <GotMarried_TookWomansName.label>taking woman's name</GotMarried_TookWomansName.label>
+  <GotMarried_TookMansName.label>taking man's name</GotMarried_TookMansName.label>
+  <GotMarried_KeptName.label>keeping name</GotMarried_KeptName.label>
+  <HarvestedOrganFromColonist.label>harvested colonist organ</HarvestedOrganFromColonist.label>
+  <HarvestedOrganFromGuest.label>harvested guest organ</HarvestedOrganFromGuest.label>
+  <ExecutedPrisoner.label>executed prisoner</ExecutedPrisoner.label>
+  <ExecutedPrisonerGuilty.label>executed guilty prisoner</ExecutedPrisonerGuilty.label>
+  <ExecutedPrisonerInnocent.label>executed innocent prisoner</ExecutedPrisonerInnocent.label>
+  <ExecutedColonist.label>executed colonist</ExecutedColonist.label>
+  <ExecutedGuest.label>executed guest</ExecutedGuest.label>
+  <SoldSlave.label>sold slave</SoldSlave.label>
+  <GotMarried_SpouseCount_OneOrFewer.label>married to one or fewer spouses</GotMarried_SpouseCount_OneOrFewer.label>
+  <GotMarried_SpouseCount_Two.label>married to two or more spouses</GotMarried_SpouseCount_Two.label>
+</LanguageData>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.0>questName->Saving [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.0>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.1>questName->The Salvation of [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.1>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.2>questName->Helping [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.2>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.3>questName->Accepting [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.3>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.4>questName->[enemyFaction_pawnsPlural] hunting [runnerIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.4>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.5>questName->[runnerIndef] on the Run</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.5>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.6>questName->[runnerIndef] Seeks a Home</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.6>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.7>questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.7>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.8>questName->[runnerIndef] and [enemyFaction_pawnsPlural]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.8>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.9>runnerIndef->[joiner_titleIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.9>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.10>runnerIndef->[joiner_nameIndef]</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.10>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings.11>runnerIndef->a Refugee</ThreatReward_Raid_Joiner.questNameRules.rulesStrings.11>
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings.0>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is being chased by [enemyFaction_pawnsPlural] from [enemyFaction_name]!
+\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]
+\nIf you accept, you'll have to fight off the [enemyFaction_pawnsPluralDef] on [joiner_possessive] tail. The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]
+\n[joiner_nameDef] is too frantic to offer more information.</ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings.0>
+  <ThreatReward_Raid_Joiner.root.nodes.7.node.parms.customLetterLabel>{BASELABEL} chasing [../joiner_nameDef]</ThreatReward_Raid_Joiner.root.nodes.7.node.parms.customLetterLabel>
+  <ThreatReward_Raid_Joiner.root.nodes.7.node.parms.customLetterText>{BASETEXT}
+              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef].</ThreatReward_Raid_Joiner.root.nodes.7.node.parms.customLetterText>
+  <Util_JoinerWalkIn.questDescriptionRules.rulesStrings.0>rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive and join you. [joiner_relationInfo]</Util_JoinerWalkIn.questDescriptionRules.rulesStrings.0>
+  <Util_JoinerWalkIn.root.nodes.1.customLetterLabel>$customLetterLabel</Util_JoinerWalkIn.root.nodes.1.customLetterLabel>
+  <Util_JoinerWalkIn.root.nodes.1.customLetterText>$customLetterText</Util_JoinerWalkIn.root.nodes.1.customLetterText>
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings.0>rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive in a transport pod.[joinerFactionInfo][joiner_relationInfo]</Util_JoinerDropIn.questDescriptionRules.rulesStrings.0>
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings.1>joinerFactionInfo(priority=1)-> [joiner_pronoun] is a member of [joiner_factionName].</Util_JoinerDropIn.questDescriptionRules.rulesStrings.1>
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings.2>joinerFactionInfo-></Util_JoinerDropIn.questDescriptionRules.rulesStrings.2>
+  <Util_JoinerDropIn.root.nodes.1.customLetterLabel>$customLetterLabel</Util_JoinerDropIn.root.nodes.1.customLetterLabel>
+  <Util_JoinerDropIn.root.nodes.1.customLetterText>$customLetterText</Util_JoinerDropIn.root.nodes.1.customLetterText>
+  <Util_SendItemPods.questDescriptionRules.rulesStrings.0>rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):
+\n[itemPodsContents]</Util_SendItemPods.questDescriptionRules.rulesStrings.0>
+  <Util_SendItemPods.root.nodes.3.customLetterLabel>$customLetterLabel</Util_SendItemPods.root.nodes.3.customLetterLabel>
+  <Util_SendItemPods.root.nodes.3.customLetterText>$customLetterText</Util_SendItemPods.root.nodes.3.customLetterText>
+  <Util_Raid.questDescriptionRules.rulesStrings.0>threatDescription->[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack you. Their group is composed of:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</Util_Raid.questDescriptionRules.rulesStrings.0>
+  <Util_Raid.root.nodes.0.customLetterLabel>$customLetterLabel</Util_Raid.root.nodes.0.customLetterLabel>
+  <Util_Raid.root.nodes.0.customLetterText>$customLetterText</Util_Raid.root.nodes.0.customLetterText>
+  <Util_MechCluster.questDescriptionRules.rulesStrings.0>threatDescription->a mech cluster will land at [map_definite] containing:\n\n[allThreats]</Util_MechCluster.questDescriptionRules.rulesStrings.0>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.0>pawnKindsParagraph(raidCount==1)->The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.0>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.1>pawnKindsParagraph(raidCount==2)->The first group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\nThe second similar-sized group will follow soon after.</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.1>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.2>pawnKindsParagraph(raidCount==3)->The first group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\nTwo similar-sized groups will follow soon after.</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.2>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.3>pawnKindsParagraph(raidCount>=4)->The first group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\n[raidCountMinusOne] similar-sized groups will follow soon after.</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.3>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.4>numGroupsOf(raidCount==1)-></Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.4>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.5>numGroupsOf(raidCount==2)->two groups of</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.5>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.6>numGroupsOf(raidCount==3)->three groups of</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.6>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.7>numGroupsOf(raidCount>=4)->[raidCount] groups of</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings.7>
+  <Util_RaidDelayRepeatable.root.nodes.4.node.nodes.1.node.nodes.0.parms.customLetterLabel>$customLetterLabel</Util_RaidDelayRepeatable.root.nodes.4.node.nodes.1.node.nodes.0.parms.customLetterLabel>
+  <Util_RaidDelayRepeatable.root.nodes.4.node.nodes.1.node.nodes.0.parms.customLetterText>$customLetterText</Util_RaidDelayRepeatable.root.nodes.4.node.nodes.1.node.nodes.0.parms.customLetterText>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.0>root(priority=1,sitePart==ClimateAdjuster)->there's (*Threat)a climate adjuster machine(/Threat) there shifting the regional temperature by [temperatureOffset]</Util_GenerateSite.root.singleSitePartRules.rulesStrings.0>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.1>root(priority=1,sitePart==PsychicDroner)->there's (*Threat)a psychic droner machine(/Threat) there tuned to the [affectedGender] gender</Util_GenerateSite.root.singleSitePartRules.rulesStrings.1>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.2>root(priority=1,sitePart==PsychicSuppressor)->there's (*Threat)a psychic suppressor machine(/Threat) there tuned to the [affectedGender] gender</Util_GenerateSite.root.singleSitePartRules.rulesStrings.2>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.3>root(priority=1,sitePart==WeatherController)->there's (*Threat)a weather controller machine(/Threat) there forcing weather in the whole region to [weather_label]</Util_GenerateSite.root.singleSitePartRules.rulesStrings.3>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.4>root(priority=1,sitePart==SmokeSpewer)->there's (*Threat)a smoke spewer machine(/Threat) there belching smoke over the whole region</Util_GenerateSite.root.singleSitePartRules.rulesStrings.4>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.5>root(priority=1,sitePart==SunBlocker)->there's (*Threat)a sun blocker machine(/Threat) there shadowing the whole region</Util_GenerateSite.root.singleSitePartRules.rulesStrings.5>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.6>root(priority=1,sitePart==EMIDynamo)->there's (*Threat)an EMI dynamo machine(/Threat) there which can disable electrical devices across the region</Util_GenerateSite.root.singleSitePartRules.rulesStrings.6>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.7>root(priority=1,sitePart==ToxicSpewer)->there's (*Threat)a toxic spewer machine(/Threat) there blanketing the whole region in poison</Util_GenerateSite.root.singleSitePartRules.rulesStrings.7>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.8>root(priority=1,sitePart==RaidSource)->there's a military staging area guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat) that will launch raids on you every [mtbDays]</Util_GenerateSite.root.singleSitePartRules.rulesStrings.8>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.9>root(priority=1,sitePart==Outpost)->there's an enemy outpost at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</Util_GenerateSite.root.singleSitePartRules.rulesStrings.9>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.10>root(priority=1,sitePart==BanditCamp)->there's a bandit camp at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</Util_GenerateSite.root.singleSitePartRules.rulesStrings.10>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.11>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)a manhunting [kindLabel](/Threat) is wandering nearby</Util_GenerateSite.root.singleSitePartRules.rulesStrings.11>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.12>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] manhunting [kindLabel](/Threat) are wandering nearby</Util_GenerateSite.root.singleSitePartRules.rulesStrings.12>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.13>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)a mechanoid(/Threat) is sleeping nearby</Util_GenerateSite.root.singleSitePartRules.rulesStrings.13>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.14>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] mechanoids(/Threat) are sleeping nearby</Util_GenerateSite.root.singleSitePartRules.rulesStrings.14>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.15>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) defend the site</Util_GenerateSite.root.singleSitePartRules.rulesStrings.15>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.16>root(priority=1,sitePart==AmbushEdge)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</Util_GenerateSite.root.singleSitePartRules.rulesStrings.16>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.17>root(priority=1,sitePart==AmbushHidden)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</Util_GenerateSite.root.singleSitePartRules.rulesStrings.17>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.18>root(priority=1,sitePart==MechCluster)->there's (*Threat)a cluster of hostile mechanoid structures(/Threat)</Util_GenerateSite.root.singleSitePartRules.rulesStrings.18>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.19>root(priority=1,sitePart==PossibleUnknownThreatMarker)->there may be an (*Threat)unknown threat(/Threat)</Util_GenerateSite.root.singleSitePartRules.rulesStrings.19>
+  <Util_GenerateSite.root.singleSitePartRules.rulesStrings.20>root->there's a [label]</Util_GenerateSite.root.singleSitePartRules.rulesStrings.20>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>questName->The [bandit] [camp]</OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.1>questName->[bandit] [camp]</OpportunitySite_BanditCamp.questNameRules.rulesStrings.1>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.2>questName->[asker_nameDef] and the [camp]</OpportunitySite_BanditCamp.questNameRules.rulesStrings.2>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.3>camp->Camp</OpportunitySite_BanditCamp.questNameRules.rulesStrings.3>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.4>camp->Outpost</OpportunitySite_BanditCamp.questNameRules.rulesStrings.4>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.5>camp->Lair</OpportunitySite_BanditCamp.questNameRules.rulesStrings.5>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.6>camp->Encampment</OpportunitySite_BanditCamp.questNameRules.rulesStrings.6>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.7>bandit->Bandit</OpportunitySite_BanditCamp.questNameRules.rulesStrings.7>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.8>bandit->Raider</OpportunitySite_BanditCamp.questNameRules.rulesStrings.8>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.9>bandit->Outlaw</OpportunitySite_BanditCamp.questNameRules.rulesStrings.9>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.10>bandit->Desperado</OpportunitySite_BanditCamp.questNameRules.rulesStrings.10>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.11>bandit->Fugitive</OpportunitySite_BanditCamp.questNameRules.rulesStrings.11>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.12>bandit->Marauder</OpportunitySite_BanditCamp.questNameRules.rulesStrings.12>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.13>bandit->Robber</OpportunitySite_BanditCamp.questNameRules.rulesStrings.13>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings.14>bandit->Brigand</OpportunitySite_BanditCamp.questNameRules.rulesStrings.14>
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].
+\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>Quest expired: [resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>
+  <OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.text>
+  <OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>Quest failed: [resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>
+  <OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.text>After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.</OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.text>
+  <OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.customLetterLabel>Payment arrived</OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.customLetterLabel>
+  <OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.customLetterText>You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived.</OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.customLetterText>
+  <OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>
+  <OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text>These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service.</OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text>
+  <DelayedRewardDropPods.questNameRules.rulesStrings.0>questName->delayed reward</DelayedRewardDropPods.questNameRules.rulesStrings.0>
+  <DelayedRewardDropPods.questDescriptionRules.rulesStrings.0>questDescription->delayed reward</DelayedRewardDropPods.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings.0>questName->Saving [refugee_nameDef]</OpportunitySite_DownedRefugee.questNameRules.rulesStrings.0>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings.1>questName->The Rescue of [refugee_nameDef]</OpportunitySite_DownedRefugee.questNameRules.rulesStrings.1>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings.2>questName->[refugee_nameDef]'s Rescue</OpportunitySite_DownedRefugee.questNameRules.rulesStrings.2>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings.3>questName->[refugee_nameDef]'s Salvation</OpportunitySite_DownedRefugee.questNameRules.rulesStrings.3>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->[refugee_nameDef] contacts you and requests help. [refugee_pronoun] is wounded and unable to move.
+\n[refugee_nameDef] is a [refugee_age]-year-old [refugee_title]. [refugee_pronoun] promises to join you if you rescue [refugee_objective].
+\n[refugee_nameDef] says that [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] friend has been wounded while traveling. The victim is [refugee_nameIndef], a [refugee_age]-year-old [refugee_title].
+\n[asker_nameDef] has nobody to spare to rescue [refugee_nameDef], but says that if you can make it to [refugee_nameDef]'s position and rescue [refugee_objective], [refugee_pronoun] will join you.
+\n[asker_nameDef] says that [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.1>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.2>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.2>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.3>pawnInvolvedInQuestInfo-></OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.3>
+  <OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.0.label>
+  <OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.0.text>[refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired.</OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.0.text>
+  <EndGame_ShipEscape.questNameRules.rulesStrings.0>questName->Ship to the Stars</EndGame_ShipEscape.questNameRules.rulesStrings.0>
+  <EndGame_ShipEscape.questDescriptionRules.rulesStrings.0>questDescription->A friendly AI from your past named (*Name)Charlon Whitestone(/Name) has sent you a message!
+\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.
+\nThe starship is in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes. It will be a long, difficult series of battles.
+\nIf you can get the ship off the ground, (*Name)Charlon Whitestone(/Name) will take you off this rimworld, to the stars.</EndGame_ShipEscape.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.0>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</OpportunitySite_ItemStash.questNameRules.rulesStrings.0>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.1>questName->[stash] of [treasure]</OpportunitySite_ItemStash.questNameRules.rulesStrings.1>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.2>stash->Stash</OpportunitySite_ItemStash.questNameRules.rulesStrings.2>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.3>stash->Cache</OpportunitySite_ItemStash.questNameRules.rulesStrings.3>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.4>stash->Collection</OpportunitySite_ItemStash.questNameRules.rulesStrings.4>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.5>stash->Shack</OpportunitySite_ItemStash.questNameRules.rulesStrings.5>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.6>treasure->Treasure</OpportunitySite_ItemStash.questNameRules.rulesStrings.6>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.7>treasure->Valuables</OpportunitySite_ItemStash.questNameRules.rulesStrings.7>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.8>treasure->Fortune</OpportunitySite_ItemStash.questNameRules.rulesStrings.8>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.9>treasure->Goodies</OpportunitySite_ItemStash.questNameRules.rulesStrings.9>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings.10>treasure->Supplies</OpportunitySite_ItemStash.questNameRules.rulesStrings.10>
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</OpportunitySite_ItemStash.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</OpportunitySite_ItemStash.questDescriptionRules.rulesStrings.1>
+  <OpportunitySite_ItemStash.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</OpportunitySite_ItemStash.root.nodes.11.node.nodes.0.label>
+  <OpportunitySite_ItemStash.root.nodes.11.node.nodes.0.text>Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired.</OpportunitySite_ItemStash.root.nodes.11.node.nodes.0.text>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.0>questName->[lump] of [targetMineableThing_label]</LongRangeMineralScannerLump.questNameRules.rulesStrings.0>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.1>questName->[targetMineableThing_label] [lump]</LongRangeMineralScannerLump.questNameRules.rulesStrings.1>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.2>questName->The [targetMineableThing_label] [lump]</LongRangeMineralScannerLump.questNameRules.rulesStrings.2>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.3>questName->[adj] [targetMineableThing_label]</LongRangeMineralScannerLump.questNameRules.rulesStrings.3>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.4>questName->[targetMineableThing_label] [discovered]</LongRangeMineralScannerLump.questNameRules.rulesStrings.4>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.5>lump->lump</LongRangeMineralScannerLump.questNameRules.rulesStrings.5>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.6>lump->pile</LongRangeMineralScannerLump.questNameRules.rulesStrings.6>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.7>lump->deposit</LongRangeMineralScannerLump.questNameRules.rulesStrings.7>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.8>lump->seam</LongRangeMineralScannerLump.questNameRules.rulesStrings.8>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.9>lump->chunk</LongRangeMineralScannerLump.questNameRules.rulesStrings.9>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.10>lump->pile</LongRangeMineralScannerLump.questNameRules.rulesStrings.10>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.11>adj->distant</LongRangeMineralScannerLump.questNameRules.rulesStrings.11>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.12>adj->far</LongRangeMineralScannerLump.questNameRules.rulesStrings.12>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.13>adj->unknown</LongRangeMineralScannerLump.questNameRules.rulesStrings.13>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.14>adj->scanned</LongRangeMineralScannerLump.questNameRules.rulesStrings.14>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.15>discovered->discovered</LongRangeMineralScannerLump.questNameRules.rulesStrings.15>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.16>discovered->detected</LongRangeMineralScannerLump.questNameRules.rulesStrings.16>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.17>discovered->found</LongRangeMineralScannerLump.questNameRules.rulesStrings.17>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings.18>discovered->scanned</LongRangeMineralScannerLump.questNameRules.rulesStrings.18>
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings.0>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.[lumpThreatDescription]</LongRangeMineralScannerLump.questDescriptionRules.rulesStrings.0>
+  <LongRangeMineralScannerLump.root.nodes.8.node.nodes.0.label>Quest expired: [resolvedQuestName]</LongRangeMineralScannerLump.root.nodes.8.node.nodes.0.label>
+  <LongRangeMineralScannerLump.root.nodes.8.node.nodes.0.text>Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired.</LongRangeMineralScannerLump.root.nodes.8.node.nodes.0.text>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings.0>questName->[faction_leader_nameDef]'s [peaceTalks]</OpportunitySite_PeaceTalks.questNameRules.rulesStrings.0>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings.1>questName->[peaceTalks] with [faction_leader_nameDef]</OpportunitySite_PeaceTalks.questNameRules.rulesStrings.1>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings.2>questName->The [peaceTalks]</OpportunitySite_PeaceTalks.questNameRules.rulesStrings.2>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings.3>questName->[peaceTalks]</OpportunitySite_PeaceTalks.questNameRules.rulesStrings.3>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings.4>peaceTalks->Peace Talks</OpportunitySite_PeaceTalks.questNameRules.rulesStrings.4>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings.5>peaceTalks->Diplomacy</OpportunitySite_PeaceTalks.questNameRules.rulesStrings.5>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings.6>peaceTalks->Meeting</OpportunitySite_PeaceTalks.questNameRules.rulesStrings.6>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.0>questDescription->[faction_leader_nameFull], [faction_leaderTitle] of [faction_name], has sent us a message. [faction_leader_pronoun] wants to talk with us in a nearby location.
+\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.[extraLeaderPart][favorRewardDetails]</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.1>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nSuccessful peace talks can earn your negotiator a small amount of personal [faction_royalFavorLabel] with [faction_name].</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.1>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.2>favorRewardDetails-></OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.2>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.3>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect].[leaderPawnInfo]</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.3>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.4>extraLeaderPart-></OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.4>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.5>leaderRoleEffect->Other factions will respect you more if you send your leader to handle the negotiations</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.5>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.6>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.6>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.7>leaderPawnInfo-></OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings.7>
+  <OpportunitySite_PeaceTalks.root.nodes.10.node.nodes.0.label>Quest expired: [resolvedQuestName]</OpportunitySite_PeaceTalks.root.nodes.10.node.nodes.0.label>
+  <OpportunitySite_PeaceTalks.root.nodes.10.node.nodes.0.text>The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName].</OpportunitySite_PeaceTalks.root.nodes.10.node.nodes.0.text>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.0>questName->[prisoner_nameDef]'s Salvation</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.0>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.1>questName->[prisoner_nameDef]'s Rescue</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.1>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.2>questName->[prisoner_nameDef]'s Breakout</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.2>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.3>questName->Rescuing [prisoner_nameDef]</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.3>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.4>questName->Saving [prisoner_nameDef]</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.4>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.5>questName->Breaking [prisoner_nameDef] Out</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings.5>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.0>questDescription->A prisoner being held by [siteFaction_name] has managed to steal a radio and call you!
+\n[prisoner_nameDef] is being held at a camp near [map_definite][underArmedGuard]. Rescue [prisoner_objective], and [prisoner_pronoun] will join your colony. [prisoner_pronoun] is a [prisoner_age]-year-old [prisoner_title]. [prisoner_pronoun] says that [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]
+\nIf you miss this opportunity, you may never hear from [prisoner_nameDef] again.</OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.0>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.1>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.1>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.2>formerColonistInfo-></OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.2>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.3>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.3>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.4>underArmedGuard-></OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings.4>
+  <TradeRequest.questNameRules.rulesStrings.0>questName->Caravan to [settlement_label]</TradeRequest.questNameRules.rulesStrings.0>
+  <TradeRequest.questNameRules.rulesStrings.1>questName->Trade with [settlement_label]</TradeRequest.questNameRules.rulesStrings.1>
+  <TradeRequest.questNameRules.rulesStrings.2>questName->Selling to [settlement_label]</TradeRequest.questNameRules.rulesStrings.2>
+  <TradeRequest.questNameRules.rulesStrings.3>questName->Supplies for [settlement_label]</TradeRequest.questNameRules.rulesStrings.3>
+  <TradeRequest.questNameRules.rulesStrings.4>questName->A [special] [trade]</TradeRequest.questNameRules.rulesStrings.4>
+  <TradeRequest.questNameRules.rulesStrings.5>special->Special</TradeRequest.questNameRules.rulesStrings.5>
+  <TradeRequest.questNameRules.rulesStrings.6>special->Unique</TradeRequest.questNameRules.rulesStrings.6>
+  <TradeRequest.questNameRules.rulesStrings.7>special->Non-traditional</TradeRequest.questNameRules.rulesStrings.7>
+  <TradeRequest.questNameRules.rulesStrings.8>trade->Trade</TradeRequest.questNameRules.rulesStrings.8>
+  <TradeRequest.questNameRules.rulesStrings.9>trade->Exchange</TradeRequest.questNameRules.rulesStrings.9>
+  <TradeRequest.questNameRules.rulesStrings.10>trade->Deal</TradeRequest.questNameRules.rulesStrings.10>
+  <TradeRequest.questNameRules.rulesStrings.11>trade->Offer</TradeRequest.questNameRules.rulesStrings.11>
+  <TradeRequest.questDescriptionRules.rulesStrings.0>questDescription->A nearby settlement, [settlement_label], has a special trade request. They would like to purchase:
+\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])
+\nIf you want to make the trade, send a caravan with the requested items. The estimated travel time is [estimatedTravelTime_duration].</TradeRequest.questDescriptionRules.rulesStrings.0>
+  <TradeRequest.questDescriptionRules.rulesStrings.1>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </TradeRequest.questDescriptionRules.rulesStrings.1>
+  <TradeRequest.questDescriptionRules.rulesStrings.2>qualityInfo-></TradeRequest.questDescriptionRules.rulesStrings.2>
+  <TradeRequest.root.nodes.3.label>Quest failed: [resolvedQuestName]</TradeRequest.root.nodes.3.label>
+  <TradeRequest.root.nodes.3.text>[faction_name] became hostile to you.</TradeRequest.root.nodes.3.text>
+  <TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.label>
+  <TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.text>Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request?</TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.text>
+  <RefugeePodCrash.questNameRules.rulesStrings.0>questName->Transport pod crash</RefugeePodCrash.questNameRules.rulesStrings.0>
+  <RefugeePodCrash.questDescriptionRules.rulesStrings.0>questDescription->A transport pod crashes with a refugee</RefugeePodCrash.questDescriptionRules.rulesStrings.0>
+  <WandererJoins.questNameRules.rulesStrings.0>questName->Wanderer joins</WandererJoins.questNameRules.rulesStrings.0>
+  <WandererJoins.questDescriptionRules.rulesStrings.0>questDescription-></WandererJoins.questDescriptionRules.rulesStrings.0>
+</LanguageData>

@@ -1132,8 +1132,8 @@
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
-  <ContentSource_OfficialModsFolder>official content</ContentSource_OfficialModsFolder>
-  <ContentSource_ModsFolder>local folder</ContentSource_ModsFolder>
+  <ContentSource_OfficialModsFolder>Official content</ContentSource_OfficialModsFolder>
+  <ContentSource_ModsFolder>Local folder</ContentSource_ModsFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
@@ -3785,7 +3785,7 @@
   <RitualAmbienceSound>Ritual ambience sound</RitualAmbienceSound>
   <RitualQualityLowWarning>Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure?</RitualQualityLowWarning>
   <AbilitySpeechDisabledNoSpot>No reachable appropriate place to speak.</AbilitySpeechDisabledNoSpot>
-  <AbilitySpeechDisabledCantSpeak>{0_labelShort} is incapable of talking.</AbilitySpeechDisabledCantSpeak>
+  <AbilityDisabledNoCapacity>{0_labelShort} is incapable of {1}.</AbilityDisabledNoCapacity>
   <RitualOutcomeExtraDesc_Mood>Everyone participating in the ritual gains {0} mood for {1} days.</RitualOutcomeExtraDesc_Mood>
   <ChooseParticipants>Choose who should participate in {RITUAL_labelDef}.</ChooseParticipants>
   <Begin>Begin</Begin>

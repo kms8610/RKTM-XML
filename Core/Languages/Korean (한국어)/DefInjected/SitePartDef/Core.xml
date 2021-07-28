@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AmbushEdge.label>ambush</AmbushEdge.label>
+  <AmbushEdge.description>An ambush.</AmbushEdge.description>
+  <AmbushHidden.label>ambush</AmbushHidden.label>
+  <AmbushHidden.description>An ambush.</AmbushHidden.description>
+  <BanditCamp.label>bandit camp</BanditCamp.label>
+  <BanditCamp.description>A bandit camp.</BanditCamp.description>
+  <DownedRefugee.label>incapacitated refugee</DownedRefugee.label>
+  <DownedRefugee.description>A stranded, incapacitated refugee begging for help.</DownedRefugee.description>
+  <ItemStash.label>item stash</ItemStash.label>
+  <ItemStash.description>A stash of valuable items.</ItemStash.description>
+  <Manhunters.label>manhunter pack</Manhunters.label>
+  <Manhunters.description>A pack of manhunting animals.</Manhunters.description>
+  <Manhunters.arrivedLetter>There are scaria-infected manhunting animals in this area.</Manhunters.arrivedLetter>
+  <Outpost.label>outpost</Outpost.label>
+  <Outpost.description>A small, guarded outpost.</Outpost.description>
+  <Outpost.approachOrderString>Attack {0}</Outpost.approachOrderString>
+  <Outpost.approachingReportString>Attacking {0}</Outpost.approachingReportString>
+  <Outpost.arrivedLetter>There is an enemy outpost in this area.</Outpost.arrivedLetter>
+  <PossibleUnknownThreatMarker.label>possible unknown threat</PossibleUnknownThreatMarker.label>
+  <PossibleUnknownThreatMarker.description>A possible, unknown threat.</PossibleUnknownThreatMarker.description>
+  <PreciousLump.label>lump of precious resources</PreciousLump.label>
+  <PreciousLump.description>A mineable lump of precious resources.</PreciousLump.description>
+  <PreciousLump.mainPartAllThreatsLabel>Hostile activity detected.</PreciousLump.mainPartAllThreatsLabel>
+  <PrisonerWillingToJoin.label>prisoner camp</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.description>A prisoner being held by enemies. Rescue him and he will join you.</PrisonerWillingToJoin.description>
+  <SleepingMechanoids.label>sleeping mechanoids</SleepingMechanoids.label>
+  <SleepingMechanoids.description>A group of sleeping mechanoids.</SleepingMechanoids.description>
+  <SleepingMechanoids.arrivedLetter>There are a few sleeping hostile mechanoids in this area.\n\nThe mechanoids may or may not wake up when you approach them, so beware.</SleepingMechanoids.arrivedLetter>
+  <Turrets.label>turrets</Turrets.label>
+  <Turrets.description>A group of turrets.</Turrets.description>
+  <Turrets.arrivedLetter>There are enemy turrets in this area.</Turrets.arrivedLetter>
+</LanguageData>

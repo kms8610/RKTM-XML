@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NoInteraction.label>no interaction</NoInteraction.label>
+  <NoInteraction.description>Wardens will not interact with the prisoner.</NoInteraction.description>
+  <AttemptRecruit.label>recruit</AttemptRecruit.label>
+  <AttemptRecruit.description>Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it.</AttemptRecruit.description>
+  <ReduceResistance.label>reduce resistance</ReduceResistance.label>
+  <ReduceResistance.description>If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made.</ReduceResistance.description>
+  <Release.label>release</Release.label>
+  <Release.description>A warden will release the prisoner.</Release.description>
+  <Execution.label>execute</Execution.label>
+  <Execution.description>A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists.</Execution.description>
+</LanguageData>

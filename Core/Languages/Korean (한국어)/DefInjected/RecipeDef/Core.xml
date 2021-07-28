@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_Wort.label>make wort</Make_Wort.label>
+  <Make_Wort.description>Make wort from hops.</Make_Wort.description>
+  <Make_Wort.jobString>Making wort.</Make_Wort.jobString>
+  <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Excise a carcinoma.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <CureScaria.label>cure scaria</CureScaria.label>
+  <CureScaria.description>This special medical operation cures scaria.</CureScaria.description>
+  <CureScaria.jobString>Curing scaria.</CureScaria.jobString>
+  <CureScaria.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s scaria.</CureScaria.successfullyRemovedHediffMessage>
+  <Sterilize.label>sterilize</Sterilize.label>
+  <Sterilize.description>Sterilize a creature so it can no longer reproduce.</Sterilize.description>
+  <Sterilize.jobString>sterilizing TargetA.</Sterilize.jobString>
+  <Sterilize.successfullyRemovedHediffMessage>{0} has successfully sterilized {1}.</Sterilize.successfullyRemovedHediffMessage>
+  <InstallArchotechEye.label>install archotech eye</InstallArchotechEye.label>
+  <InstallArchotechEye.description>Install an archotech eye.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>Installing archotech eye.</InstallArchotechEye.jobString>
+  <InstallArchotechArm.label>install archotech arm</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Install an archotech arm.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>Installing archotech arm.</InstallArchotechArm.jobString>
+  <InstallArchotechLeg.label>install archotech leg</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>Install an archotech leg.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>Installing archotech leg.</InstallArchotechLeg.jobString>
+  <InstallBionicEye.label>install bionic eye</InstallBionicEye.label>
+  <InstallBionicEye.description>Install a bionic eye.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Installing bionic eye.</InstallBionicEye.jobString>
+  <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
+  <InstallBionicArm.description>Install a bionic arm.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
+  <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Install a bionic leg.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
+  <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
+  <InstallBionicSpine.description>Install a bionic spine.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>Installing bionic spine.</InstallBionicSpine.jobString>
+  <InstallBionicHeart.label>install bionic heart</InstallBionicHeart.label>
+  <InstallBionicHeart.description>Install a bionic heart.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>Installing bionic heart.</InstallBionicHeart.jobString>
+  <InstallBionicStomach.label>install bionic stomach</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Install a bionic stomach.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Installing bionic stomach.</InstallBionicStomach.jobString>
+  <InstallDeathAcidifier.label>install death acidifier</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.description>Install a death acidifier.</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.jobString>Installing death acidifier.</InstallDeathAcidifier.jobString>
+  <InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
+  <InstallBionicEar.description>Install a bionic ear.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>Installing bionic ear.</InstallBionicEar.jobString>
+  <InstallPegLeg.label>install peg leg</InstallPegLeg.label>
+  <InstallPegLeg.description>Install a peg leg.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Installing peg leg.</InstallPegLeg.jobString>
+  <InstallWoodenHand.label>install wooden hand</InstallWoodenHand.label>
+  <InstallWoodenHand.description>Install a wooden hand.</InstallWoodenHand.description>
+  <InstallWoodenHand.jobString>Installing wooden hand.</InstallWoodenHand.jobString>
+  <InstallWoodenFoot.label>install wooden foot</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Install a wooden foot.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
+  <InstallDenture.label>install denture</InstallDenture.label>
+  <InstallDenture.description>Install a denture.</InstallDenture.description>
+  <InstallDenture.jobString>Installing denture.</InstallDenture.jobString>
+  <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Install a biological heart.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
+  <InstallNaturalLung.label>install lung</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Install a lung.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>
+  <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Install a biological kidney.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>
+  <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Install a biological liver.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>
+  <InstallSimpleProstheticLeg.label>install prosthetic leg</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Install a prosthetic leg.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Installing prosthetic leg.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticArm.label>install prosthetic arm</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Installing prosthetic arm.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
+  <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
+  <InstallPowerClaw.label>install power claw</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Install a power claw.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Installing power claw.</InstallPowerClaw.jobString>
+  <InstallJoywire.label>install joywire</InstallJoywire.label>
+  <InstallJoywire.description>Install a joywire.</InstallJoywire.description>
+  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
+  <InstallPainstopper.description>Install a painstopper.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+  <RemovePainstopper.label>remove painstopper</RemovePainstopper.label>
+  <RemovePainstopper.description>Remove the painstopper.</RemovePainstopper.description>
+  <RemovePainstopper.jobString>Removing painstopper.</RemovePainstopper.jobString>
+  <ButcherCorpseFlesh.label>butcher creature</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Butcher a creature to obtain its meat, leather, and other body products.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Butchering.</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseMechanoid.label>shred mechanoid</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>Shred a dead mechanoid to try to salvage usable material.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>Shredding mechanoid.</ButcherCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.label>smash mechanoid</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.description>Smash a dead mechanoid with simple hand tools to salvage usable material.</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.jobString>Smashing mechanoid.</SmashCorpseMechanoid.jobString>
+  <CremateCorpse.label>cremate corpse</CremateCorpse.label>
+  <CremateCorpse.description>Cremate a corpse to completely destroy it.</CremateCorpse.description>
+  <CremateCorpse.jobString>Cremating.</CremateCorpse.jobString>
+  <BurnApparel.label>burn apparel</BurnApparel.label>
+  <BurnApparel.description>Burn unwanted apparel to completely destroy it.</BurnApparel.description>
+  <BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>
+  <BurnWeapon.label>burn weapon</BurnWeapon.label>
+  <BurnWeapon.description>Burn unwanted weapon to completely destroy it.</BurnWeapon.description>
+  <BurnWeapon.jobString>Burning weapon.</BurnWeapon.jobString>
+  <BurnDrugs.label>burn drugs</BurnDrugs.label>
+  <BurnDrugs.description>Burn unwanted drugs to completely destroy them.</BurnDrugs.description>
+  <BurnDrugs.jobString>Burning drugs.</BurnDrugs.jobString>
+  <Make_Kibble.label>make kibble</Make_Kibble.label>
+  <Make_Kibble.description>Make animal kibble by combining raw meat and plants.</Make_Kibble.description>
+  <Make_Kibble.jobString>Making kibble.</Make_Kibble.jobString>
+  <Make_Pemmican.label>make pemmican</Make_Pemmican.label>
+  <Make_Pemmican.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration.</Make_Pemmican.description>
+  <Make_Pemmican.jobString>Making pemmican.</Make_Pemmican.jobString>
+  <Make_PemmicanBulk.label>make pemmican x4</Make_PemmicanBulk.label>
+  <Make_PemmicanBulk.description>Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration.</Make_PemmicanBulk.description>
+  <Make_PemmicanBulk.jobString>Making bulk pemmican.</Make_PemmicanBulk.jobString>
+  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
+  <CookMealSimple.description>Cook a straightforward meal from one ingredient.</CookMealSimple.description>
+  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
+  <CookMealSimpleBulk.label>cook simple meal x4</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.description>Cook 4 straightforward meals from one ingredient.</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.jobString>Cooking 4 simple meals.</CookMealSimpleBulk.jobString>
+  <CookMealFine.label>cook fine meal</CookMealFine.label>
+  <CookMealFine.description>Cook a somewhat complex meal from a combination of meat and plant ingredients.</CookMealFine.description>
+  <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
+  <CookMealFine_Veg.label>cook vegetarian fine meal</CookMealFine_Veg.label>
+  <CookMealFine_Veg.description>Cook a somewhat complex meal from plant ingredients.</CookMealFine_Veg.description>
+  <CookMealFine_Veg.jobString>Cooking vegetarian fine meal.</CookMealFine_Veg.jobString>
+  <CookMealFine_Meat.label>cook carnivore fine meal</CookMealFine_Meat.label>
+  <CookMealFine_Meat.description>Cook a somewhat complex meal from meat ingredients.</CookMealFine_Meat.description>
+  <CookMealFine_Meat.jobString>Cooking carnivore fine meal.</CookMealFine_Meat.jobString>
+  <CookMealFineBulk.label>cook fine meal x4</CookMealFineBulk.label>
+  <CookMealFineBulk.description>Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience.</CookMealFineBulk.description>
+  <CookMealFineBulk.jobString>Cooking 4 fine meals.</CookMealFineBulk.jobString>
+  <CookMealFineBulk_Meat.label>cook carnivore fine meal x4</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Meat.description>Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies.</CookMealFineBulk_Meat.description>
+  <CookMealFineBulk_Meat.jobString>Cooking 4 carnivore fine meals.</CookMealFineBulk_Meat.jobString>
+  <CookMealFineBulk_Veg.label>cook vegetarian fine meal x4</CookMealFineBulk_Veg.label>
+  <CookMealFineBulk_Veg.description>Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies.</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.jobString>Cooking 4 vegetarian fine meals.</CookMealFineBulk_Veg.jobString>
+  <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
+  <CookMealLavish.description>Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience.</CookMealLavish.description>
+  <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
+  <CookMealLavish_Meat.label>cook carnivore lavish meal</CookMealLavish_Meat.label>
+  <CookMealLavish_Meat.description>Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies.</CookMealLavish_Meat.description>
+  <CookMealLavish_Meat.jobString>Cooking carnivore lavish meal.</CookMealLavish_Meat.jobString>
+  <CookMealLavish_Veg.label>cook vegetarian lavish meal</CookMealLavish_Veg.label>
+  <CookMealLavish_Veg.description>Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies.</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.jobString>Cooking vegetarian lavish meal.</CookMealLavish_Veg.jobString>
+  <CookMealLavishBulk.label>cook lavish meal x4</CookMealLavishBulk.label>
+  <CookMealLavishBulk.description>Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience.</CookMealLavishBulk.description>
+  <CookMealLavishBulk.jobString>Cooking 4 lavish meals.</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk_Veg.label>cook vegetarian lavish meal x4</CookMealLavishBulk_Veg.label>
+  <CookMealLavishBulk_Veg.description>Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies.</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.jobString>Cooking 4 vegetarian lavish meals.</CookMealLavishBulk_Veg.jobString>
+  <CookMealLavishBulk_Meat.label>cook carnivore lavish meal x4</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Meat.description>Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies.</CookMealLavishBulk_Meat.description>
+  <CookMealLavishBulk_Meat.jobString>Cooking 4 carnivore lavish meals.</CookMealLavishBulk_Meat.jobString>
+  <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
+  <CookMealSurvival.description>Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
+  <CookMealSurvivalBulk.label>cook packaged survival meal x4</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.description>Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.jobString>Cooking 4 survival meals.</CookMealSurvivalBulk.jobString>
+  <Make_StoneBlocksAny.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.label>make any stone blocks</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.description>Cut rock chunks into usable stone blocks.</Make_StoneBlocksAny.description>
+  <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Use heat and strong electromagnets to extract useful metal from slag chunks.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
+  <SmeltWeapon.label>smelt weapon</SmeltWeapon.label>
+  <SmeltWeapon.description>Use heat and strong electromagnets to break down weapons into useful resources.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Smelting weapon.</SmeltWeapon.jobString>
+  <SmeltApparel.label>smelt apparel</SmeltApparel.label>
+  <SmeltApparel.description>Use heat and strong electromagnets to break down metallic apparel like armor into useful resources.</SmeltApparel.description>
+  <SmeltApparel.jobString>Smelting apparel.</SmeltApparel.jobString>
+  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
+  <DestroyWeapon.description>Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+  <DestroyApparel.label>destroy apparel</DestroyApparel.label>
+  <DestroyApparel.description>Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyApparel.description>
+  <DestroyApparel.jobString>Destroying apparel.</DestroyApparel.jobString>
+  <Make_ChemfuelFromWood.label>make chemfuel from wood</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.description>Make a batch of chemfuel by extracting and condensing wood gas from logs.</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.jobString>Refining chemfuel from wood.</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromOrganics.label>make chemfuel from organics</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks.</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.jobString>Refining chemfuel from organics.</Make_ChemfuelFromOrganics.jobString>
+  <Make_ComponentIndustrial.label>make component</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.description>Make a component.</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.jobString>Making component.</Make_ComponentIndustrial.jobString>
+  <Make_ComponentSpacer.label>make advanced component</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.description>Make an advanced component.</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.jobString>Making advanced component.</Make_ComponentSpacer.jobString>
+  <Make_Patchleather.label>make patchleather</Make_Patchleather.label>
+  <Make_Patchleather.description>Combine various types of leather to create weak patchleather.</Make_Patchleather.description>
+  <Make_Patchleather.jobString>Making patchleather.</Make_Patchleather.jobString>
+  <Anesthetize.label>anesthetize</Anesthetize.label>
+  <Anesthetize.description>Render a creature unconscious by administering general anesthetic.</Anesthetize.description>
+  <Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
+  <Euthanize.label>euthanize by cut</Euthanize.label>
+  <Euthanize.description>Euthanize a creature by cutting.</Euthanize.description>
+  <Euthanize.jobString>Euthanizing by cutting.</Euthanize.jobString>
+  <RemoveBodyPart.label>remove part</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Remove a body part.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Removing body part.</RemoveBodyPart.jobString>
+  <AdministerMechSerumHealer.label>administer healer mech serum</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.description>Administer a healer mech serum.</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.jobString>Administering healer mech serum.</AdministerMechSerumHealer.jobString>
+  <Make_StoneBlocksSandstone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksSandstone.jobString>
+  <Make_StoneBlocksSandstone.label>make sandstone blocks</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSandstone.description>Cuts sandstone chunks into usable blocks.</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksGranite.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksGranite.jobString>
+  <Make_StoneBlocksGranite.label>make granite blocks</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksGranite.description>Cuts granite chunks into usable blocks.</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksLimestone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksLimestone.jobString>
+  <Make_StoneBlocksLimestone.label>make limestone blocks</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksLimestone.description>Cuts limestone chunks into usable blocks.</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksSlate.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksSlate.jobString>
+  <Make_StoneBlocksSlate.label>make slate blocks</Make_StoneBlocksSlate.label>
+  <Make_StoneBlocksSlate.description>Cuts slate chunks into usable blocks.</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksMarble.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksMarble.jobString>
+  <Make_StoneBlocksMarble.label>make marble blocks</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksMarble.description>Cuts marble chunks into usable blocks.</Make_StoneBlocksMarble.description>
+</LanguageData>

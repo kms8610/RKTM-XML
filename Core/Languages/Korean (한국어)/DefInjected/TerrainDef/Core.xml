@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StrawMatting.label>straw matting</StrawMatting.label>
+  <StrawMatting.description>Rough straw matting for use in animal barns. It is cheap and accepts very little filth.</StrawMatting.description>
+  <Concrete.label>concrete</Concrete.label>
+  <Concrete.description>Rough concrete. It is cheap and quick to build, but is also quite ugly.</Concrete.description>
+  <PavedTile.label>paved tile</PavedTile.label>
+  <PavedTile.description>Concrete tiles. Cheap, but neutral in terms of looks and slow to build.</PavedTile.description>
+  <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</WoodPlankFloor.description>
+  <MetalTile.label>steel tile</MetalTile.label>
+  <MetalTile.description>Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness.</MetalTile.description>
+  <SilverTile.label>silver tile</SilverTile.label>
+  <SilverTile.description>For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness.</SilverTile.description>
+  <GoldTile.label>gold tile</GoldTile.label>
+  <GoldTile.description>For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them.</GoldTile.description>
+  <SterileTile.label>sterile tile</SterileTile.label>
+  <SterileTile.description>Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build.</SterileTile.description>
+  <CarpetRed.label>red carpet</CarpetRed.label>
+  <CarpetRed.description>Plush carpet in a lovely rose hue.</CarpetRed.description>
+  <CarpetGreen.label>green carpet</CarpetGreen.label>
+  <CarpetGreen.description>Naturalistic-feeling green carpet. Earth tones, dude.</CarpetGreen.description>
+  <CarpetBlue.label>blue carpet</CarpetBlue.label>
+  <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
+  <CarpetCream.label>cream carpet</CarpetCream.label>
+  <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+  <CarpetDark.label>dark carpet</CarpetDark.label>
+  <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+  <BurnedWoodPlankFloor.label>burned wood floor</BurnedWoodPlankFloor.label>
+  <BurnedWoodPlankFloor.description>Burned-out wood plank flooring.</BurnedWoodPlankFloor.description>
+  <BurnedCarpet.label>burned carpet</BurnedCarpet.label>
+  <BurnedCarpet.description>Burned-out carpet.</BurnedCarpet.description>
+  <BurnedStrawMatting.label>burned straw matting</BurnedStrawMatting.label>
+  <BurnedStrawMatting.description>Straw matting that has been burned in a fire.</BurnedStrawMatting.description>
+  <TileSandstone.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileSandstone.description>
+  <TileSandstone.label>sandstone tile</TileSandstone.label>
+  <TileGranite.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileGranite.description>
+  <TileGranite.label>granite tile</TileGranite.label>
+  <TileLimestone.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileLimestone.description>
+  <TileLimestone.label>limestone tile</TileLimestone.label>
+  <TileSlate.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileSlate.description>
+  <TileSlate.label>slate tile</TileSlate.label>
+  <TileMarble.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileMarble.description>
+  <TileMarble.label>marble tile</TileMarble.label>
+  <FlagstoneSandstone.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSandstone.description>
+  <FlagstoneSandstone.label>sandstone flagstone</FlagstoneSandstone.label>
+  <FlagstoneGranite.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneGranite.description>
+  <FlagstoneGranite.label>granite flagstone</FlagstoneGranite.label>
+  <FlagstoneLimestone.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneLimestone.description>
+  <FlagstoneLimestone.label>limestone flagstone</FlagstoneLimestone.label>
+  <FlagstoneSlate.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSlate.description>
+  <FlagstoneSlate.label>slate flagstone</FlagstoneSlate.label>
+  <FlagstoneMarble.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneMarble.description>
+  <FlagstoneMarble.label>marble flagstone</FlagstoneMarble.label>
+  <Soil.label>soil</Soil.label>
+  <Soil.tools.0.label>dirt</Soil.tools.0.label>
+  <MossyTerrain.label>lichen-covered soil</MossyTerrain.label>
+  <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
+  <MarshyTerrain.tools.0.label>mud</MarshyTerrain.tools.0.label>
+  <SoilRich.label>rich soil</SoilRich.label>
+  <SoilRich.tools.0.label>dirt</SoilRich.tools.0.label>
+  <Gravel.label>stony soil</Gravel.label>
+  <Gravel.tools.0.label>gravel</Gravel.tools.0.label>
+  <Sand.label>sand</Sand.label>
+  <Sand.tools.0.label>sand</Sand.tools.0.label>
+  <SoftSand.label>soft sand</SoftSand.label>
+  <SoftSand.tools.0.label>sand</SoftSand.tools.0.label>
+  <Mud.label>mud</Mud.label>
+  <Mud.tools.0.label>mud</Mud.tools.0.label>
+  <Ice.label>Ice</Ice.label>
+  <BrokenAsphalt.label>broken asphalt</BrokenAsphalt.label>
+  <PackedDirt.label>packed dirt</PackedDirt.label>
+  <Underwall.label>underwall</Underwall.label>
+  <Bridge.label>bridge</Bridge.label>
+  <Bridge.description>A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well.</Bridge.description>
+  <WaterDeep.label>deep water</WaterDeep.label>
+  <WaterOceanDeep.label>deep ocean water</WaterOceanDeep.label>
+  <WaterMovingChestDeep.label>chest-deep moving water</WaterMovingChestDeep.label>
+  <WaterShallow.label>shallow water</WaterShallow.label>
+  <WaterOceanShallow.label>shallow ocean water</WaterOceanShallow.label>
+  <WaterMovingShallow.label>shallow moving water</WaterMovingShallow.label>
+  <Marsh.label>marsh</Marsh.label>
+  <Marsh.tools.0.label>mud</Marsh.tools.0.label>
+</LanguageData>

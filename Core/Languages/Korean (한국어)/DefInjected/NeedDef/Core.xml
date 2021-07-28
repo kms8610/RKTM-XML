@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chemical_Alcohol.label>alcohol</Chemical_Alcohol.label>
+  <Chemical_Alcohol.description>Because of an alcohol addiction, this person needs to regularly consume alcohol to avoid withdrawal symptoms.</Chemical_Alcohol.description>
+  <Chemical_Ambrosia.label>ambrosia</Chemical_Ambrosia.label>
+  <Chemical_Ambrosia.description>Because of an ambrosia addiction, this person needs to regularly consume ambrosia to avoid withdrawal symptoms.</Chemical_Ambrosia.description>
+  <Chemical_GoJuice.label>go-juice</Chemical_GoJuice.label>
+  <Chemical_GoJuice.description>Because of a go-juice addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_GoJuice.description>
+  <Chemical_Luciferium.label>luciferium</Chemical_Luciferium.label>
+  <Chemical_Luciferium.description>This person's body is enhanced by luciferium mechanites.\n\nWithout regular doses of luciferium, the mechanites will lose cohesion. If this happens, the user becomes continuously, violently insane and eventually dies.\n\nThis addiction never goes away.</Chemical_Luciferium.description>
+  <Chemical_Psychite.label>psychite</Chemical_Psychite.label>
+  <Chemical_Psychite.description>Because of a psychite addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_Psychite.description>
+  <Chemical_Smokeleaf.label>smokeleaf</Chemical_Smokeleaf.label>
+  <Chemical_Smokeleaf.description>Because of a smokeleaf dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_Smokeleaf.description>
+  <Chemical_WakeUp.label>wake-up</Chemical_WakeUp.label>
+  <Chemical_WakeUp.description>Because of a wake-up addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_WakeUp.description>
+  <Mood.label>mood</Mood.label>
+  <Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree.</Mood.description>
+  <Food.label>food</Food.label>
+  <Food.description>Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die.</Food.description>
+  <Rest.label>rest</Rest.label>
+  <Rest.description>Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot.</Rest.description>
+  <Joy.label>recreation</Joy.label>
+  <Joy.description>Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
+  <Beauty.label>beauty</Beauty.label>
+  <Beauty.description>Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it.</Beauty.description>
+  <Comfort.label>comfort</Comfort.label>
+  <Comfort.description>Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times.</Comfort.description>
+  <Outdoors.label>outdoors</Outdoors.label>
+  <Outdoors.description>Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases.</Outdoors.description>
+  <Indoors.label>indoors</Indoors.label>
+  <Indoors.description>Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof.</Indoors.description>
+  <DrugDesire.label>chemical</DrugDesire.label>
+  <DrugDesire.description>Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood.</DrugDesire.description>
+  <RoomSize.label>room size</RoomSize.label>
+</LanguageData>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ambush.label>ambush</Ambush.label>
+  <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
+  <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
+  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>{0} has been ambushed by scaria-infected manhunting {1}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  <CaravanDemand.label>payment demand</CaravanDemand.label>
+  <Disease_Flu.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Flu.letterText>
+  <Disease_Flu.label>flu</Disease_Flu.label>
+  <Disease_Flu.letterLabel>Disease: Flu</Disease_Flu.letterLabel>
+  <Disease_Plague.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Plague.letterText>
+  <Disease_Plague.label>plague</Disease_Plague.label>
+  <Disease_Plague.letterLabel>Disease: Plague</Disease_Plague.letterLabel>
+  <Disease_Malaria.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_Malaria.letterText>
+  <Disease_Malaria.label>malaria</Disease_Malaria.label>
+  <Disease_Malaria.letterLabel>Disease: Malaria</Disease_Malaria.letterLabel>
+  <Disease_SleepingSickness.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_SleepingSickness.letterText>
+  <Disease_SleepingSickness.label>sleeping sickness</Disease_SleepingSickness.label>
+  <Disease_SleepingSickness.letterLabel>Disease: Sleeping sickness</Disease_SleepingSickness.letterLabel>
+  <Disease_FibrousMechanites.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_FibrousMechanites.letterText>
+  <Disease_FibrousMechanites.label>fibrous mechanites</Disease_FibrousMechanites.label>
+  <Disease_FibrousMechanites.letterLabel>Disease: Fibrous mechanites</Disease_FibrousMechanites.letterLabel>
+  <Disease_SensoryMechanites.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_SensoryMechanites.letterText>
+  <Disease_SensoryMechanites.label>sensory mechanites</Disease_SensoryMechanites.label>
+  <Disease_SensoryMechanites.letterLabel>Disease: Sensory mechanites</Disease_SensoryMechanites.letterLabel>
+  <Disease_GutWorms.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_GutWorms.letterText>
+  <Disease_GutWorms.label>gut worms</Disease_GutWorms.label>
+  <Disease_GutWorms.letterLabel>Disease: Gut worms</Disease_GutWorms.letterLabel>
+  <Disease_MuscleParasites.letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</Disease_MuscleParasites.letterText>
+  <Disease_MuscleParasites.label>muscle parasites</Disease_MuscleParasites.label>
+  <Disease_MuscleParasites.letterLabel>Disease: Muscle parasites</Disease_MuscleParasites.letterLabel>
+  <Disease_AnimalFlu.letterText>{0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick:\n\n{3}</Disease_AnimalFlu.letterText>
+  <Disease_AnimalFlu.label>flu (animals)</Disease_AnimalFlu.label>
+  <Disease_AnimalFlu.letterLabel>Animal disease: Flu</Disease_AnimalFlu.letterLabel>
+  <Disease_AnimalPlague.letterText>{0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick:\n\n{3}</Disease_AnimalPlague.letterText>
+  <Disease_AnimalPlague.label>plague (animals)</Disease_AnimalPlague.label>
+  <Disease_AnimalPlague.letterLabel>Animal disease: Plague</Disease_AnimalPlague.letterLabel>
+  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
+  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+  <SelfTame.label>self-tame</SelfTame.label>
+  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>wanderer join</WandererJoin.label>
+  <RefugeePodCrash.label>transport pod crash</RefugeePodCrash.label>
+  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
+  <RansomDemand.label>ransom demand</RansomDemand.label>
+  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
+  <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
+  <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterText>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MeteoriteImpact.letterText>
+  <HerdMigration.label>herd migration</HerdMigration.label>
+  <HerdMigration.letterLabel>Animal migration: {0}</HerdMigration.letterLabel>
+  <HerdMigration.letterText>A group of {0} is passing through the area.\n\nThey won't attack unless provoked.</HerdMigration.letterText>
+  <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
+  <WildManWandersIn.letterLabel>{PAWN_kind} wanders in</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}.</WildManWandersIn.letterText>
+  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
+  <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
+  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+  <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
+  <HeatWave.label>heat wave</HeatWave.label>
+  <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
+  <ColdSnap.label>cold snap</ColdSnap.label>
+  <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
+  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
+  <ShortCircuit.label>short circuit</ShortCircuit.label>
+  <CropBlight.label>crop blight</CropBlight.label>
+  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+  <ShipChunkDrop.label>ship chunk drop</ShipChunkDrop.label>
+  <OrbitalTraderArrival.label>orbital trader arrival</OrbitalTraderArrival.label>
+  <TraderCaravanArrival.label>trader caravan arrival</TraderCaravanArrival.label>
+  <VisitorGroup.label>visitor group</VisitorGroup.label>
+  <TravelerGroup.label>traveler group</TravelerGroup.label>
+  <RaidFriendly.label>friendly raid</RaidFriendly.label>
+  <StrangerInBlackJoin.label>man in black</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterLabel>Man in black</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterText>Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts?</StrangerInBlackJoin.letterText>
+  <RaidEnemy.label>enemy raid</RaidEnemy.label>
+  <Infestation.label>infestation</Infestation.label>
+  <Infestation.letterLabel>Infestation</Infestation.letterLabel>
+  <Infestation.letterText>Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home.</Infestation.letterText>
+  <DeepDrillInfestation.label>deep drill infestation</DeepDrillInfestation.label>
+  <DeepDrillInfestation.letterLabel>Too deep: Infestation</DeepDrillInfestation.letterLabel>
+  <DeepDrillInfestation.letterText>Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base.</DeepDrillInfestation.letterText>
+  <ManhunterPack.label>manhunter pack</ManhunterPack.label>
+  <DefoliatorShipPartCrash.label>ship part crash (defoliator)</DefoliatorShipPartCrash.label>
+  <DefoliatorShipPartCrash.letterLabel>Defoliator ship</DefoliatorShipPartCrash.letterLabel>
+  <DefoliatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</DefoliatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterLabel>Psychic ship</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PsychicEmanatorShipPartCrash.letterText>
+  <AnimalInsanityMass.label>mass animal insanity</AnimalInsanityMass.label>
+  <MechCluster.label>mech cluster</MechCluster.label>
+  <MechCluster.letterLabel>Mechanoid cluster</MechCluster.letterLabel>
+  <MechCluster.letterText>A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually.</MechCluster.letterText>
+  <AnimalInsanitySingle.label>single animal insanity</AnimalInsanitySingle.label>
+  <Eclipse.label>eclipse</Eclipse.label>
+  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
+  <SolarFlare.label>solar flare</SolarFlare.label>
+  <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
+  <Aurora.label>aurora</Aurora.label>
+  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
+  <GiveQuest_Random.label>quest</GiveQuest_Random.label>
+  <GiveQuest_Random.letterLabel>Quest available</GiveQuest_Random.letterLabel>
+  <GiveQuest_EndGame_ShipEscape.label>journey offer</GiveQuest_EndGame_ShipEscape.label>
+  <GiveQuest_EndGame_ShipEscape.letterLabel>Journey offer</GiveQuest_EndGame_ShipEscape.letterLabel>
+</LanguageData>

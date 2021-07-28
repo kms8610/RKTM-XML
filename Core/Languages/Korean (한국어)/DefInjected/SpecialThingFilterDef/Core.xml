@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AllowCorpsesColonist.label>allow colonist corpses</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Allow the dead bodies of colonists.</AllowCorpsesColonist.description>
+  <AllowCorpsesStranger.label>allow stranger corpses</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Allow the dead bodies of strangers and enemies.</AllowCorpsesStranger.description>
+  <AllowRotten.label>allow rotten</AllowRotten.label>
+  <AllowRotten.description>Allow organic things which have started to rot.</AllowRotten.description>
+  <AllowFresh.label>allow fresh</AllowFresh.label>
+  <AllowFresh.description>Allow organic things which haven't started to rot yet.</AllowFresh.description>
+  <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
+  <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+  <AllowSmeltableApparel.label>allow smeltable</AllowSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>allow non-smeltable</AllowNonSmeltableApparel.label>
+  <AllowBurnableApparel.label>allow burnable</AllowBurnableApparel.label>
+  <AllowNonBurnableApparel.label>allow non-burnable</AllowNonBurnableApparel.label>
+  <AllowSmeltable.label>allow smeltable</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
+  <AllowNonBurnableWeapons.label>allow non-burnable</AllowNonBurnableWeapons.label>
+  <AllowBurnableWeapons.label>allow burnable</AllowBurnableWeapons.label>
+  <AllowBiocodedWeapons.label>allow biocoded weapons</AllowBiocodedWeapons.label>
+  <AllowNonBiocodedWeapons.label>allow non-biocoded weapons</AllowNonBiocodedWeapons.label>
+  <AllowBiocodedApparel.label>allow biocoded apparel</AllowBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>allow non-biocoded apparel</AllowNonBiocodedApparel.label>
+  <AllowNonDeadmansApparel.label>allow clean apparel</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.description>Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowNonDeadmansApparel.description>
+  <AllowDeadmansApparel.label>allow tainted apparel</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.description>Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowDeadmansApparel.description>
+  <AllowFemaleGender.label>allow females</AllowFemaleGender.label>
+  <AllowFemaleGender.description>Allow female individuals.</AllowFemaleGender.description>
+  <AllowMaleGender.label>allow males</AllowMaleGender.label>
+  <AllowMaleGender.description>Allow male individuals.</AllowMaleGender.description>
+</LanguageData>

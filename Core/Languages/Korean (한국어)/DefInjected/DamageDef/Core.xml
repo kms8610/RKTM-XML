@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Flame.label>flame</Flame.label>
+  <Flame.deathMessage>{0} has burned to death.</Flame.deathMessage>
+  <Burn.label>burn</Burn.label>
+  <Burn.deathMessage>{0} has burned to death.</Burn.deathMessage>
+  <Frostbite.label>frostbite</Frostbite.label>
+  <Frostbite.deathMessage>{0} has succumbed to frostbite.</Frostbite.deathMessage>
+  <TornadoScratch.label>scratch</TornadoScratch.label>
+  <TornadoScratch.deathMessage>{0} has been killed by a tornado.</TornadoScratch.deathMessage>
+  <SurgicalCut.label>surgical cut</SurgicalCut.label>
+  <SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
+  <ExecutionCut.label>execution cut</ExecutionCut.label>
+  <ExecutionCut.deathMessage>{0} has been executed by cutting.</ExecutionCut.deathMessage>
+  <Cut.label>cut</Cut.label>
+  <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+  <Crush.label>crush</Crush.label>
+  <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
+  <Blunt.label>blunt</Blunt.label>
+  <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+  <Poke.label>blunt</Poke.label>
+  <Poke.deathMessage>{0} has been beaten to death.</Poke.deathMessage>
+  <Demolish.label>blunt</Demolish.label>
+  <Demolish.deathMessage>{0} has been beaten to death.</Demolish.deathMessage>
+  <Stab.label>stab</Stab.label>
+  <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+  <Scratch.label>scratch</Scratch.label>
+  <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+  <ScratchToxic.label>toxic scratch</ScratchToxic.label>
+  <ScratchToxic.deathMessage>{0} has been torn to death.</ScratchToxic.deathMessage>
+  <Bite.label>bite</Bite.label>
+  <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
+  <ToxicBite.label>toxic bite</ToxicBite.label>
+  <ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
+  <Deterioration.label>deterioration</Deterioration.label>
+  <Mining.label>mining</Mining.label>
+  <Rotting.label>rotting</Rotting.label>
+  <Extinguish.label>extinguish</Extinguish.label>
+  <Bomb.label>bomb</Bomb.label>
+  <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
+  <BombSuper.label>bomb</BombSuper.label>
+  <BombSuper.deathMessage>{0} has died in an explosion.</BombSuper.deathMessage>
+  <Smoke.label>smoke</Smoke.label>
+  <Thump.label>thump</Thump.label>
+  <Thump.deathMessage>{0} has been shot to death.</Thump.deathMessage>
+  <RangedStab.label>stab</RangedStab.label>
+  <RangedStab.deathMessage>{0} has been stabbed to death.</RangedStab.deathMessage>
+  <Bullet.label>bullet</Bullet.label>
+  <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
+  <Arrow.label>arrow</Arrow.label>
+  <Arrow.deathMessage>{0} has been shot to death by an arrow.</Arrow.deathMessage>
+  <ArrowHighVelocity.label>arrow</ArrowHighVelocity.label>
+  <ArrowHighVelocity.deathMessage>{0} has been shot to death by an arrow.</ArrowHighVelocity.deathMessage>
+  <Stun.label>stun</Stun.label>
+  <Stun.deathMessage>{0} has been stunned to death.</Stun.deathMessage>
+  <EMP.label>EMP</EMP.label>
+  <EMP.deathMessage>{0} has been EMPed to death.</EMP.deathMessage>
+</LanguageData>
