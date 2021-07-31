@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicHarmonization.stages.0.label>psychic harmony: {HARMONIZER_labelShort}</PsychicHarmonization.stages.0.label>
+  <PsychicHarmonization.stages.0.description>The psychic harmonizer implant makes me feel some of the emotions of the person using it as long as we're close together.</PsychicHarmonization.stages.0.description>
+  <GainedTitle.stages.0.label>Received {TITLE} title</GainedTitle.stages.0.label>
+  <GainedTitle.stages.0.description>I have been given the title of {TITLE}. I love the recognition!</GainedTitle.stages.0.description>
+  <LostTitle.stages.0.label>Lost {TITLE} title</LostTitle.stages.0.label>
+  <LostTitle.stages.0.description>I lost my {TITLE} title.</LostTitle.stages.0.description>
+  <TitleApparelRequirementNotMet.stages.0.label>want {TITLE_label}-specific apparel</TitleApparelRequirementNotMet.stages.0.label>
+  <TitleApparelRequirementNotMet.stages.0.description>{TITLE_indefinite} like myself should be covered in apparel appropriate to my stature:\n\n{0}</TitleApparelRequirementNotMet.stages.0.description>
+  <TitleApparelMinQualityNotMet.stages.0.label>want {TITLE_label}-quality apparel</TitleApparelMinQualityNotMet.stages.0.label>
+  <TitleApparelMinQualityNotMet.stages.0.description>{TITLE_indefinite} like myself should only wear apparel of {QUALITY} quality or better.</TitleApparelMinQualityNotMet.stages.0.description>
+  <TitleThroneroomRequirementsNotMet.stages.0.label>undignified throneroom</TitleThroneroomRequirementsNotMet.stages.0.label>
+  <TitleThroneroomRequirementsNotMet.stages.0.description>I am {TITLE_indefinite} and I should have these items in my throneroom:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.0.description>
+  <TitleBedroomRequirementsNotMet.stages.0.label>undignified bedroom</TitleBedroomRequirementsNotMet.stages.0.label>
+  <TitleBedroomRequirementsNotMet.stages.0.description>{TITLE_indefinite} like myself deserves a bedroom that meets these requirements:\n\n{0}</TitleBedroomRequirementsNotMet.stages.0.description>
+  <TitleNoThroneRoom.stages.0.label>no throne room</TitleNoThroneRoom.stages.0.label>
+  <TitleNoThroneRoom.stages.0.description>What is a royal with no throneroom?</TitleNoThroneRoom.stages.0.description>
+  <TitleNoPersonalBedroom.stages.0.label>no personal bedroom</TitleNoPersonalBedroom.stages.0.label>
+  <TitleNoPersonalBedroom.stages.0.description>{TITLE_indefinite} should have a personal bedroom.</TitleNoPersonalBedroom.stages.0.description>
+  <OtherTravelerDied.stages.0.label>traveler died</OtherTravelerDied.stages.0.label>
+  <OtherTravelerDied.stages.0.description>One of our companions died.</OtherTravelerDied.stages.0.description>
+  <AteFoodInappropriateForTitle.stages.0.label>ate low-class food</AteFoodInappropriateForTitle.stages.0.label>
+  <AteFoodInappropriateForTitle.stages.0.description>That meal was below my station. My title's formal requirements should always be respected.</AteFoodInappropriateForTitle.stages.0.description>
+  <OtherTravelerArrested.stages.0.label>traveler arrested</OtherTravelerArrested.stages.0.label>
+  <OtherTravelerArrested.stages.0.description>One of our companions was taken prisoner!</OtherTravelerArrested.stages.0.description>
+  <OtherTravelerSurgicallyViolated.stages.0.label>traveler surgically violated</OtherTravelerSurgicallyViolated.stages.0.label>
+  <OtherTravelerSurgicallyViolated.stages.0.description>One of our companions was surgically violated. Nothing could justify that.</OtherTravelerSurgicallyViolated.stages.0.description>
+  <TerribleBestowingCeremony.stages.0.label>terrible bestowing ceremony</TerribleBestowingCeremony.stages.0.label>
+  <TerribleBestowingCeremony.stages.0.description>The bestowing ceremony somehow felt petty and self-indulgent at the same time.</TerribleBestowingCeremony.stages.0.description>
+  <UnimpressiveBestowingCeremony.stages.0.label>unimpressive bestowing ceremony</UnimpressiveBestowingCeremony.stages.0.label>
+  <UnimpressiveBestowingCeremony.stages.0.description>The bestowing ceremony felt mechanical and lifeless.</UnimpressiveBestowingCeremony.stages.0.description>
+  <HonorableBestowingCeremony.stages.0.label>honorable bestowing ceremony</HonorableBestowingCeremony.stages.0.label>
+  <HonorableBestowingCeremony.stages.0.description>The bestowing ceremony brought a sense of dignity and honor to the participants.</HonorableBestowingCeremony.stages.0.description>
+  <GrandioseBestowingCeremony.stages.0.label>grandiose bestowing ceremony</GrandioseBestowingCeremony.stages.0.label>
+  <GrandioseBestowingCeremony.stages.0.description>The bestowing ceremony was like a taste of true grandeur, and a moment of participation in something greater.</GrandioseBestowingCeremony.stages.0.description>
+  <ReignedInThroneroom.stages.0.label>awful throneroom</ReignedInThroneroom.stages.0.label>
+  <ReignedInThroneroom.stages.0.description>I had to reign in an awful throneroom. It's like a deliberate insult from my inferiors.</ReignedInThroneroom.stages.0.description>
+  <ReignedInThroneroom.stages.1.label>dull throneroom</ReignedInThroneroom.stages.1.label>
+  <ReignedInThroneroom.stages.1.description>I had to reign in a dull throneroom. It clearly diminished my stature.</ReignedInThroneroom.stages.1.description>
+  <ReignedInThroneroom.stages.2.label>mediocre throneroom</ReignedInThroneroom.stages.2.label>
+  <ReignedInThroneroom.stages.2.description>I had to reign in a mediocre throneroom. It didn't express my stature.</ReignedInThroneroom.stages.2.description>
+  <ReignedInThroneroom.stages.6.label>very impressive throneroom</ReignedInThroneroom.stages.6.label>
+  <ReignedInThroneroom.stages.6.description>I reigned in a very impressive throneroom. It expressed noticeable stature.</ReignedInThroneroom.stages.6.description>
+  <ReignedInThroneroom.stages.7.label>extremely impressive throneroom</ReignedInThroneroom.stages.7.label>
+  <ReignedInThroneroom.stages.7.description>I reigned in an extremely impressive throneroom. It effectively demonstrated my stature.</ReignedInThroneroom.stages.7.description>
+  <ReignedInThroneroom.stages.8.label>unbelievably impressive throneroom</ReignedInThroneroom.stages.8.label>
+  <ReignedInThroneroom.stages.8.description>I reigned in an unbelievably impressive throneroom. The commoners will be amazed at my highness.</ReignedInThroneroom.stages.8.description>
+  <ReignedInThroneroom.stages.9.label>wondrously impressive throneroom</ReignedInThroneroom.stages.9.label>
+  <ReignedInThroneroom.stages.9.description>I reigned in a heavenly throneroom. It matched my grace and nobility.</ReignedInThroneroom.stages.9.description>
+  <DecreeMet.stages.0.label>decree satisfied</DecreeMet.stages.0.label>
+  <DecreeMet.stages.0.description>My noble authority has been respected as it should be.</DecreeMet.stages.0.description>
+  <DecreeFailed.stages.0.label>decree failed</DecreeFailed.stages.0.label>
+  <DecreeFailed.stages.0.description>My noble authority has not been respected as it should be.</DecreeFailed.stages.0.description>
+  <Disinherited.stages.0.label>disinherited</Disinherited.stages.0.label>
+  <Disinherited.stages.0.description>I was disinherited of my title. Do I need to get medieval on these people?</Disinherited.stages.0.description>
+  <NeuroquakeEcho.stages.0.label>neuroquake echo</NeuroquakeEcho.stages.0.label>
+  <NeuroquakeEcho.stages.0.description>Distant, unfamilliar echoes of terror and grief. It makes me feel nervous and shaky.</NeuroquakeEcho.stages.0.description>
+  <ListeningToHarp.stages.0.label>listening to harp</ListeningToHarp.stages.0.label>
+  <ListeningToHarp.stages.0.description>The harp is so soothing.</ListeningToHarp.stages.0.description>
+  <ListeningToHarpsichord.stages.0.label>listening to harpsichord</ListeningToHarpsichord.stages.0.label>
+  <ListeningToHarpsichord.stages.0.description>The complexity of the harpsichord fulfills my mind.</ListeningToHarpsichord.stages.0.description>
+  <ListeningToPiano.stages.0.label>listening to piano</ListeningToPiano.stages.0.label>
+  <ListeningToPiano.stages.0.description>The piano's range makes me feel melancholy, excited, and whimsical at the same time. What a sound.</ListeningToPiano.stages.0.description>
+  <DecreeUnmet.stages.0.label>decree ignored</DecreeUnmet.stages.0.label>
+  <DecreeUnmet.stages.0.description>My decree has been ignored for far too long {0}.</DecreeUnmet.stages.0.description>
+  <PsychicEntropyOverloaded.stages.0.label>minor psychic breakdown</PsychicEntropyOverloaded.stages.0.label>
+  <PsychicEntropyOverloaded.stages.0.description>There's an electrical pain behind my eyes. It's hard to focus; hard to think.</PsychicEntropyOverloaded.stages.0.description>
+  <PsychicEntropyOverloaded.stages.1.label>major psychic breakdown</PsychicEntropyOverloaded.stages.1.label>
+  <PsychicEntropyOverloaded.stages.1.description>My mind has been stir-fried. Dizzy, fuzzy, can't think, always aching.</PsychicEntropyOverloaded.stages.1.description>
+  <PsychicEntropyOverloaded.stages.2.label>total psychic breakdown</PsychicEntropyOverloaded.stages.2.label>
+  <PsychicEntropyOverloaded.stages.2.description>I'm spinning, it hurts, I'm dizzy, think, can't think, can't think...</PsychicEntropyOverloaded.stages.2.description>
+  <AnimaScream.stages.0.label>anima scream</AnimaScream.stages.0.label>
+  <AnimaScream.stages.0.description>Such a pain in my head when the tree died. And it keeps echoing...</AnimaScream.stages.0.description>
+  <Joyfuzz.stages.0.label>joyfuzz</Joyfuzz.stages.0.label>
+  <Joyfuzz.stages.0.description>No matter what happens, I feel like I'm okay with it for some reason.</Joyfuzz.stages.0.description>
+  <PsychicLove.stages.0.label>psychic love</PsychicLove.stages.0.label>
+  <BondedThoughtKind.stages.0.label>{WEAPON}'s kind thoughts</BondedThoughtKind.stages.0.label>
+  <BondedThoughtKind.stages.0.description>{WEAPON}, my bonded weapon, is whispering kind thoughts to me.</BondedThoughtKind.stages.0.description>
+  <BondedThoughtCalm.stages.0.label>{WEAPON}'s calm thoughts</BondedThoughtCalm.stages.0.label>
+  <BondedThoughtCalm.stages.0.description>{WEAPON}, my bonded weapon, is whispering calming thoughts to me.</BondedThoughtCalm.stages.0.description>
+  <BondedThoughtMuttering.stages.0.label>{WEAPON}'s muttering</BondedThoughtMuttering.stages.0.label>
+  <BondedThoughtMuttering.stages.0.description>{WEAPON}, my bonded weapon, is muttering in my head. It's hard to ignore sometimes.</BondedThoughtMuttering.stages.0.description>
+  <BondedThoughtWailing.stages.0.label>{WEAPON}'s wailing</BondedThoughtWailing.stages.0.label>
+  <BondedThoughtWailing.stages.0.description>{WEAPON}, my bonded weapon, is wailing madly in my head. I wish I could ignore it.</BondedThoughtWailing.stages.0.description>
+  <OnKill_GoodThought.stages.0.label>{WEAPON}'s kill happiness</OnKill_GoodThought.stages.0.label>
+  <OnKill_GoodThought.stages.0.description>{WEAPON} was overjoyed with its kill, and I feel some of that too.</OnKill_GoodThought.stages.0.description>
+  <OnKill_BadThought.stages.0.label>{WEAPON}'s kill sorrow</OnKill_BadThought.stages.0.label>
+  <OnKill_BadThought.stages.0.description>{WEAPON}'s sorrow over its kill is affecting my mind as well.</OnKill_BadThought.stages.0.description>
+  <KillThirst.stages.0.label>{WEAPON}'s kill thirst</KillThirst.stages.0.label>
+  <KillThirst.stages.0.description>My bonded weapon {WEAPON} is angry it has gone so long without killing. I can feel its rage.</KillThirst.stages.0.description>
+  <JealousRage.stages.0.label>{WEAPON}'s jealousy</JealousRage.stages.0.label>
+  <JealousRage.stages.0.description>My bonded weapon {WEAPON} is jealous I am using another weapon. I can feel the rage it is screaming into my head.</JealousRage.stages.0.description>
+</LanguageData>

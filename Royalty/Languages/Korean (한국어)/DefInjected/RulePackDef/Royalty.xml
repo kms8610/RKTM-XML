@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerFactionEmpire.rulePack.rulesStrings.0>r_name(p=2)->[empire] of [ofThing]</NamerFactionEmpire.rulePack.rulesStrings.0>
+  <NamerFactionEmpire.rulePack.rulesStrings.1>r_name(p=2)->The [empire] of [ofThing]</NamerFactionEmpire.rulePack.rulesStrings.1>
+  <NamerFactionEmpire.rulePack.rulesStrings.2>r_name->The Exodus [empire]</NamerFactionEmpire.rulePack.rulesStrings.2>
+  <NamerFactionEmpire.rulePack.rulesStrings.3>r_name->The Refugee [empire]</NamerFactionEmpire.rulePack.rulesStrings.3>
+  <NamerFactionEmpire.rulePack.rulesStrings.4>r_name->The Broken [empire]</NamerFactionEmpire.rulePack.rulesStrings.4>
+  <NamerFactionEmpire.rulePack.rulesStrings.5>r_name->The Shattered [empire]</NamerFactionEmpire.rulePack.rulesStrings.5>
+  <NamerFactionEmpire.rulePack.rulesStrings.6>r_name->The Fallen [empire]</NamerFactionEmpire.rulePack.rulesStrings.6>
+  <NamerFactionEmpire.rulePack.rulesStrings.7>r_name->The [Color] [empire]</NamerFactionEmpire.rulePack.rulesStrings.7>
+  <NamerFactionEmpire.rulePack.rulesStrings.8>empire(p=4)->Empire</NamerFactionEmpire.rulePack.rulesStrings.8>
+  <NamerFactionEmpire.rulePack.rulesStrings.9>empire->Commonwealth</NamerFactionEmpire.rulePack.rulesStrings.9>
+  <NamerFactionEmpire.rulePack.rulesStrings.10>empire->Imperium</NamerFactionEmpire.rulePack.rulesStrings.10>
+  <NamerFactionEmpire.rulePack.rulesStrings.11>empire->Dominion</NamerFactionEmpire.rulePack.rulesStrings.11>
+  <NamerFactionEmpire.rulePack.rulesStrings.12>empire->Sovereignty</NamerFactionEmpire.rulePack.rulesStrings.12>
+  <NamerFactionEmpire.rulePack.rulesStrings.13>ofThing(p=4)->[WordImperial]</NamerFactionEmpire.rulePack.rulesStrings.13>
+  <NamerFactionEmpire.rulePack.rulesStrings.14>ofThing->the Sun</NamerFactionEmpire.rulePack.rulesStrings.14>
+  <NamerFactionEmpire.rulePack.rulesStrings.15>ofThing->the Moon</NamerFactionEmpire.rulePack.rulesStrings.15>
+  <NamerFactionEmpire.rulePack.rulesStrings.16>ofThing->the Universe</NamerFactionEmpire.rulePack.rulesStrings.16>
+  <NamerFactionEmpire.rulePack.rulesStrings.17>ofThing->God</NamerFactionEmpire.rulePack.rulesStrings.17>
+  <NamerFactionEmpire.rulePack.rulesStrings.18>ofThing->Perfection</NamerFactionEmpire.rulePack.rulesStrings.18>
+  <NamerFactionEmpire.rulePack.rulesStrings.19>ofThing->Eternity</NamerFactionEmpire.rulePack.rulesStrings.19>
+  <NamerFactionEmpire.rulePack.rulesStrings.20>ofThing->the Spirit</NamerFactionEmpire.rulePack.rulesStrings.20>
+  <NamerSettlementEmpire.rulePack.rulesStrings.0>r_name->[townname_wordgen]</NamerSettlementEmpire.rulePack.rulesStrings.0>
+  <NamerSettlementEmpire.rulePack.rulesStrings.1>r_name->[townname_fixed]</NamerSettlementEmpire.rulePack.rulesStrings.1>
+  <NamerSettlementEmpire.rulePack.rulesStrings.2>townname_wordgen->[WordImperial]</NamerSettlementEmpire.rulePack.rulesStrings.2>
+  <NamerSettlementEmpire.rulePack.rulesStrings.3>townname_wordgen->[WordImperial][townend]</NamerSettlementEmpire.rulePack.rulesStrings.3>
+  <NamerSettlementEmpire.rulePack.rulesStrings.4>townend(p=3)->ium</NamerSettlementEmpire.rulePack.rulesStrings.4>
+  <NamerSettlementEmpire.rulePack.rulesStrings.5>townend(p=3)->ior</NamerSettlementEmpire.rulePack.rulesStrings.5>
+  <NamerSettlementEmpire.rulePack.rulesStrings.6>townend(p=3)->polis</NamerSettlementEmpire.rulePack.rulesStrings.6>
+  <NamerSettlementEmpire.rulePack.rulesStrings.7>townend->nor</NamerSettlementEmpire.rulePack.rulesStrings.7>
+  <NamerSettlementEmpire.rulePack.rulesStrings.8>townend->lan</NamerSettlementEmpire.rulePack.rulesStrings.8>
+  <NamerSettlementEmpire.rulePack.rulesStrings.9>townend->lax</NamerSettlementEmpire.rulePack.rulesStrings.9>
+  <NamerSettlementEmpire.rulePack.rulesStrings.10>townend->lix</NamerSettlementEmpire.rulePack.rulesStrings.10>
+  <NamerSettlementEmpire.rulePack.rulesStrings.11>townend->lin</NamerSettlementEmpire.rulePack.rulesStrings.11>
+  <NamerSettlementEmpire.rulePack.rulesStrings.12>townend->lian</NamerSettlementEmpire.rulePack.rulesStrings.12>
+  <NamerSettlementEmpire.rulePack.rulesStrings.13>townend->phrum</NamerSettlementEmpire.rulePack.rulesStrings.13>
+  <NamerSettlementEmpire.rulePack.rulesStrings.14>townend->phor</NamerSettlementEmpire.rulePack.rulesStrings.14>
+  <NamerSettlementEmpire.rulePack.rulesStrings.15>townend->teor</NamerSettlementEmpire.rulePack.rulesStrings.15>
+  <NamerSettlementEmpire.rulePack.rulesStrings.16>townend->ople</NamerSettlementEmpire.rulePack.rulesStrings.16>
+  <NamerSettlementEmpire.rulePack.rulesStrings.17>townend->opium</NamerSettlementEmpire.rulePack.rulesStrings.17>
+  <NamerSettlementEmpire.rulePack.rulesStrings.18>townend->or</NamerSettlementEmpire.rulePack.rulesStrings.18>
+  <NamerSettlementEmpire.rulePack.rulesStrings.19>townend->aetor</NamerSettlementEmpire.rulePack.rulesStrings.19>
+  <NamerSettlementEmpire.rulePack.rulesStrings.20>townend->aeum</NamerSettlementEmpire.rulePack.rulesStrings.20>
+  <NamerSettlementEmpire.rulePack.rulesStrings.21>townend->aetium</NamerSettlementEmpire.rulePack.rulesStrings.21>
+  <NamerSettlementEmpire.rulePack.rulesStrings.22>townend->am</NamerSettlementEmpire.rulePack.rulesStrings.22>
+  <NamerSettlementEmpire.rulePack.rulesStrings.23>townend->aeum</NamerSettlementEmpire.rulePack.rulesStrings.23>
+  <NamerPersonSophian.rulePack.rulesStrings.0>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</NamerPersonSophian.rulePack.rulesStrings.0>
+  <NamerPersonSophian.rulePack.rulesStrings.1>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</NamerPersonSophian.rulePack.rulesStrings.1>
+  <NamerPersonSophian.rulePack.rulesStrings.2>r_name(p=2)->[WordImperial] [WordImperial]</NamerPersonSophian.rulePack.rulesStrings.2>
+  <NamerPersonSophianFemale.rulePack.rulesStrings.0>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</NamerPersonSophianFemale.rulePack.rulesStrings.0>
+  <NamerPersonSophianFemale.rulePack.rulesStrings.1>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</NamerPersonSophianFemale.rulePack.rulesStrings.1>
+  <NamerPersonSophianFemale.rulePack.rulesStrings.2>r_name(p=2)->[WordImperial] [WordImperial]</NamerPersonSophianFemale.rulePack.rulesStrings.2>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.0>questName->[constAdj] [construction]</QuestConstructionNameCommon.rulePack.rulesStrings.0>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.1>questName->A [constAdj] [construction]</QuestConstructionNameCommon.rulePack.rulesStrings.1>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.2>questName->The [constAdj] [construction]</QuestConstructionNameCommon.rulePack.rulesStrings.2>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.3>constAdj(p=20)->[AdjectiveLarge]</QuestConstructionNameCommon.rulePack.rulesStrings.3>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.4>constAdj->terrible</QuestConstructionNameCommon.rulePack.rulesStrings.4>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.5>constAdj->great</QuestConstructionNameCommon.rulePack.rulesStrings.5>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.6>constAdj->grand</QuestConstructionNameCommon.rulePack.rulesStrings.6>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.7>constAdj->dangerous</QuestConstructionNameCommon.rulePack.rulesStrings.7>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.8>constAdj->monumental</QuestConstructionNameCommon.rulePack.rulesStrings.8>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.9>constAdj->extravagant</QuestConstructionNameCommon.rulePack.rulesStrings.9>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.10>constAdj->foreboding</QuestConstructionNameCommon.rulePack.rulesStrings.10>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.11>constAdj->frightening</QuestConstructionNameCommon.rulePack.rulesStrings.11>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.12>constAdj->dreadful</QuestConstructionNameCommon.rulePack.rulesStrings.12>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.13>constAdj->fearful</QuestConstructionNameCommon.rulePack.rulesStrings.13>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.14>constAdj->awesome</QuestConstructionNameCommon.rulePack.rulesStrings.14>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.15>constAdj->prophetic</QuestConstructionNameCommon.rulePack.rulesStrings.15>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.16>constAdj->harrowing</QuestConstructionNameCommon.rulePack.rulesStrings.16>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.17>constAdj->glittering</QuestConstructionNameCommon.rulePack.rulesStrings.17>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.18>constAdj->shining</QuestConstructionNameCommon.rulePack.rulesStrings.18>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.19>constAdj->amazing</QuestConstructionNameCommon.rulePack.rulesStrings.19>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.20>construction(p=3)->construction</QuestConstructionNameCommon.rulePack.rulesStrings.20>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.21>construction(p=2)->structure</QuestConstructionNameCommon.rulePack.rulesStrings.21>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.22>construction(p=2)->building</QuestConstructionNameCommon.rulePack.rulesStrings.22>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.23>construction->monument</QuestConstructionNameCommon.rulePack.rulesStrings.23>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.24>construction->edifice</QuestConstructionNameCommon.rulePack.rulesStrings.24>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.25>construction->blueprint</QuestConstructionNameCommon.rulePack.rulesStrings.25>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.26>construction->assembly</QuestConstructionNameCommon.rulePack.rulesStrings.26>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.0>questDescription(askerIsNull==true)->A mysterious message has arrived. It seems it was transmitted by a machine persona that refuses to name itself. The message asks that you build a very specific monument.
+\n[commonEnding]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.0>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] is requesting that you build a monument [buildReason].
+\n[commonEnding]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.1>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.2>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] is requesting that you build a monument [buildReason].
+\n[commonEnding]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.2>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.3>asker2(askerIsNull==true)->the archotech</QuestConstructionDescriptionCommon.rulePack.rulesStrings.3>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.4>asker2(asker_factionLeader==True)->[asker_nameDef]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.4>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.5>asker2(asker_royalInCurrentFaction==True)->the [asker_royalTitleInCurrentFaction]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.5>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.6>buildReason->to commemorate the [PersonalCharacteristic] of [asker_possessive] [PersonFamily]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.6>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.7>buildReason->to commemorate [asker_possessive] own [PersonalCharacteristic]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.7>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.8>buildReason->to insult the [PersonalCharacteristic] of [asker_possessive] rival</QuestConstructionDescriptionCommon.rulePack.rulesStrings.8>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.9>buildReason->to reduce feelings of [ConceptAngsty] amongst the people</QuestConstructionDescriptionCommon.rulePack.rulesStrings.9>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.10>buildReason->to express how [AdjectiveBadass] [asker_pronoun] is</QuestConstructionDescriptionCommon.rulePack.rulesStrings.10>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.11>buildReason->to commemorate [asker_possessive] [asker_faction_pawnsPlural] who have fallen in battle</QuestConstructionDescriptionCommon.rulePack.rulesStrings.11>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.12>buildReason->to honor [asker_possessive] [PersonFamily]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.12>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.13>buildReason->to honor the work of [PersonJob]s</QuestConstructionDescriptionCommon.rulePack.rulesStrings.13>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.14>buildReason->to spread images of [asker_possessive] [glory] across the land</QuestConstructionDescriptionCommon.rulePack.rulesStrings.14>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.15>glory->glory</QuestConstructionDescriptionCommon.rulePack.rulesStrings.15>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.16>glory->martial honor</QuestConstructionDescriptionCommon.rulePack.rulesStrings.16>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.17>glory->victories</QuestConstructionDescriptionCommon.rulePack.rulesStrings.17>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.18>glory->throne</QuestConstructionDescriptionCommon.rulePack.rulesStrings.18>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.19>glory->great ship</QuestConstructionDescriptionCommon.rulePack.rulesStrings.19>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.20>glory->wealth</QuestConstructionDescriptionCommon.rulePack.rulesStrings.20>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.21>glory->family</QuestConstructionDescriptionCommon.rulePack.rulesStrings.21>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.22>failLetterEndingCommon(askerIsNull==true,priority=1)->You have failed the quest '[resolvedQuestName]'.</QuestConstructionDescriptionCommon.rulePack.rulesStrings.22>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.23>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</QuestConstructionDescriptionCommon.rulePack.rulesStrings.23>
+  <QuestHospitalityCommon.rulePack.rulesStrings.0>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</QuestHospitalityCommon.rulePack.rulesStrings.0>
+  <QuestHospitalityCommon.rulePack.rulesStrings.1>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</QuestHospitalityCommon.rulePack.rulesStrings.1>
+  <QuestHospitalityCommon.rulePack.rulesStrings.2>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</QuestHospitalityCommon.rulePack.rulesStrings.2>
+  <QuestHospitalityCommon.rulePack.rulesStrings.3>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</QuestHospitalityCommon.rulePack.rulesStrings.3>
+  <QuestHospitalityCommon.rulePack.rulesStrings.4>lodgersLabelSingOrPluralDef(lodgersCount>=2)->the [lodgersLabelPlural]</QuestHospitalityCommon.rulePack.rulesStrings.4>
+  <QuestHospitalityCommon.rulePack.rulesStrings.5>healthInfo-></QuestHospitalityCommon.rulePack.rulesStrings.5>
+  <QuestHospitalityCommon.rulePack.rulesStrings.6>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</QuestHospitalityCommon.rulePack.rulesStrings.6>
+  <QuestHospitalityCommon.rulePack.rulesStrings.7>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</QuestHospitalityCommon.rulePack.rulesStrings.7>
+  <QuestHospitalityCommon.rulePack.rulesStrings.8>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</QuestHospitalityCommon.rulePack.rulesStrings.8>
+  <QuestHospitalityCommon.rulePack.rulesStrings.9>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs] suffering from paralytic abasia and must be kept in bed.</QuestHospitalityCommon.rulePack.rulesStrings.9>
+  <QuestHospitalityCommon.rulePack.rulesStrings.10>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] sick with blood rot and will require daily treatment. The disease can be slowed with high-quality care and medicine, but generally cannot be cured outright. If the disease becomes severe [lodgersLabelSingOrPluralDef] will die, so ensure you have the necessary medical supplies.</QuestHospitalityCommon.rulePack.rulesStrings.10>
+  <QuestHospitalityCommon.rulePack.rulesStrings.11>minMoodInfo-></QuestHospitalityCommon.rulePack.rulesStrings.11>
+  <QuestHospitalityCommon.rulePack.rulesStrings.12>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\nyou must keep the mood of [lodgersLabelSingOrPluralDef] above [lodgersMoodThreshold_percent].</QuestHospitalityCommon.rulePack.rulesStrings.12>
+  <QuestHospitalityCommon.rulePack.rulesStrings.13>workInfo-></QuestHospitalityCommon.rulePack.rulesStrings.13>
+  <QuestHospitalityCommon.rulePack.rulesStrings.14>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] will not do any work.</QuestHospitalityCommon.rulePack.rulesStrings.14>
+  <QuestHospitalityCommon.rulePack.rulesStrings.15>commonDescEnding->[helpersParagraph]</QuestHospitalityCommon.rulePack.rulesStrings.15>
+  <QuestHospitalityCommon.rulePack.rulesStrings.16>enemyGroupsParagraph->[threatDescriptionParagraph]</QuestHospitalityCommon.rulePack.rulesStrings.16>
+  <QuestHospitalityCommon.rulePack.rulesStrings.17>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->there will be (*Threat)a raid(/Threat) of roughly this size:\n\n[threatExample]</QuestHospitalityCommon.rulePack.rulesStrings.17>
+  <QuestHospitalityCommon.rulePack.rulesStrings.18>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->there will be (*Threat)a raid(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</QuestHospitalityCommon.rulePack.rulesStrings.18>
+  <QuestHospitalityCommon.rulePack.rulesStrings.19>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->there will be (*Threat)[threatCount] raids(/Threat) of roughly this size:\n\n[threatExample]</QuestHospitalityCommon.rulePack.rulesStrings.19>
+  <QuestHospitalityCommon.rulePack.rulesStrings.20>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->there will be (*Threat)[threatCount] raids(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</QuestHospitalityCommon.rulePack.rulesStrings.20>
+  <QuestHospitalityCommon.rulePack.rulesStrings.21>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)a mech cluster(/Threat) will deploy nearby.</QuestHospitalityCommon.rulePack.rulesStrings.21>
+  <QuestHospitalityCommon.rulePack.rulesStrings.22>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)two mech clusters(/Threat) will deploy nearby.</QuestHospitalityCommon.rulePack.rulesStrings.22>
+  <QuestHospitalityCommon.rulePack.rulesStrings.23>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->(*Threat)a mech cluster(/Threat) of [threatSize]x size will deploy nearby.</QuestHospitalityCommon.rulePack.rulesStrings.23>
+  <QuestHospitalityCommon.rulePack.rulesStrings.24>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->(*Threat)two mech clusters(/Threat) of [threatSize]x size will deploy nearby.</QuestHospitalityCommon.rulePack.rulesStrings.24>
+  <QuestHospitalityCommon.rulePack.rulesStrings.25>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by an orbiting mechanoid swarm.</QuestHospitalityCommon.rulePack.rulesStrings.25>
+  <QuestHospitalityCommon.rulePack.rulesStrings.26>threatsInfoMechClustersMultiPrisoners->The prisoners recently [mechViolation], and have been targeted by an orbiting mechanoid swarm.</QuestHospitalityCommon.rulePack.rulesStrings.26>
+  <QuestHospitalityCommon.rulePack.rulesStrings.27>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by a mechanoid hive.</QuestHospitalityCommon.rulePack.rulesStrings.27>
+  <QuestHospitalityCommon.rulePack.rulesStrings.28>threatsInfoMechRaidsMultiHuman->They recently [mechViolation], and have been targeted by a mechanoid hive.</QuestHospitalityCommon.rulePack.rulesStrings.28>
+  <QuestHospitalityCommon.rulePack.rulesStrings.29>mechViolation->angered a machine persona somehow</QuestHospitalityCommon.rulePack.rulesStrings.29>
+  <QuestHospitalityCommon.rulePack.rulesStrings.30>mechViolation->violated an ancient supercomputer terminal</QuestHospitalityCommon.rulePack.rulesStrings.30>
+  <QuestHospitalityCommon.rulePack.rulesStrings.31>mechViolation->murdered a human child favored by an archotech</QuestHospitalityCommon.rulePack.rulesStrings.31>
+  <QuestHospitalityCommon.rulePack.rulesStrings.32>mechViolation->attempted to hack a mechanoid control node</QuestHospitalityCommon.rulePack.rulesStrings.32>
+  <QuestHospitalityCommon.rulePack.rulesStrings.33>mechViolation->attempted to steal from an ancient storage site</QuestHospitalityCommon.rulePack.rulesStrings.33>
+  <QuestHospitalityCommon.rulePack.rulesStrings.34>letterSubject->{SUBJECT_definite}</QuestHospitalityCommon.rulePack.rulesStrings.34>
+  <QuestHospitalityCommon.rulePack.rulesStrings.35>lodgersHasHave(lodgersCount==1)->has</QuestHospitalityCommon.rulePack.rulesStrings.35>
+  <QuestHospitalityCommon.rulePack.rulesStrings.36>lodgersHasHave(lodgersCount>=2)->have</QuestHospitalityCommon.rulePack.rulesStrings.36>
+  <QuestHospitalityCommon.rulePack.rulesStrings.37>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</QuestHospitalityCommon.rulePack.rulesStrings.37>
+  <QuestHospitalityCommon.rulePack.rulesStrings.38>lodgersObjective(lodgersCount>=2)->them</QuestHospitalityCommon.rulePack.rulesStrings.38>
+  <QuestHospitalityCommon.rulePack.rulesStrings.39>areIs(lodgersCount==1)->is</QuestHospitalityCommon.rulePack.rulesStrings.39>
+  <QuestHospitalityCommon.rulePack.rulesStrings.40>areIs(lodgersCount>=2)->are</QuestHospitalityCommon.rulePack.rulesStrings.40>
+  <QuestHospitalityCommon.rulePack.rulesStrings.41>remainingWillNowLeave(lodgersCount==1)-></QuestHospitalityCommon.rulePack.rulesStrings.41>
+  <QuestHospitalityCommon.rulePack.rulesStrings.42>remainingWillNowLeave(lodgersCount>=2)->Any remaining [lodgersLabelPlural] will now leave. </QuestHospitalityCommon.rulePack.rulesStrings.42>
+  <QuestHospitalityCommon.rulePack.rulesStrings.43>failLetterEndingQuest->You have failed the quest '[resolvedQuestName]'.</QuestHospitalityCommon.rulePack.rulesStrings.43>
+  <QuestHospitalityCommon.rulePack.rulesStrings.44>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</QuestHospitalityCommon.rulePack.rulesStrings.44>
+  <QuestHospitalityCommon.rulePack.rulesStrings.45>failLetterEndingCommon->[failLetterEndingQuest]\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</QuestHospitalityCommon.rulePack.rulesStrings.45>
+  <NamerFactionRefugee.rulePack.rulesStrings.0>r_name->[adj] [group]</NamerFactionRefugee.rulePack.rulesStrings.0>
+  <NamerFactionRefugee.rulePack.rulesStrings.1>group->survivors</NamerFactionRefugee.rulePack.rulesStrings.1>
+  <NamerFactionRefugee.rulePack.rulesStrings.2>group->refugees</NamerFactionRefugee.rulePack.rulesStrings.2>
+  <NamerFactionRefugee.rulePack.rulesStrings.3>group->runaways</NamerFactionRefugee.rulePack.rulesStrings.3>
+  <NamerFactionRefugee.rulePack.rulesStrings.4>group->castaways</NamerFactionRefugee.rulePack.rulesStrings.4>
+  <NamerFactionRefugee.rulePack.rulesStrings.5>group->trekkers</NamerFactionRefugee.rulePack.rulesStrings.5>
+  <NamerFactionRefugee.rulePack.rulesStrings.6>group->roamers</NamerFactionRefugee.rulePack.rulesStrings.6>
+  <NamerFactionRefugee.rulePack.rulesStrings.7>group->wanderers</NamerFactionRefugee.rulePack.rulesStrings.7>
+  <NamerFactionRefugee.rulePack.rulesStrings.8>group->travelers</NamerFactionRefugee.rulePack.rulesStrings.8>
+  <NamerFactionRefugee.rulePack.rulesStrings.9>group->nomads</NamerFactionRefugee.rulePack.rulesStrings.9>
+  <NamerFactionRefugee.rulePack.rulesStrings.10>adj->weary</NamerFactionRefugee.rulePack.rulesStrings.10>
+  <NamerFactionRefugee.rulePack.rulesStrings.11>adj->drained</NamerFactionRefugee.rulePack.rulesStrings.11>
+  <NamerFactionRefugee.rulePack.rulesStrings.12>adj->tired</NamerFactionRefugee.rulePack.rulesStrings.12>
+  <NamerFactionRefugee.rulePack.rulesStrings.13>adj->exhausted</NamerFactionRefugee.rulePack.rulesStrings.13>
+  <NamerFactionRefugee.rulePack.rulesStrings.14>adj->displaced</NamerFactionRefugee.rulePack.rulesStrings.14>
+  <NamerFactionRefugee.rulePack.rulesStrings.15>adj->resilient</NamerFactionRefugee.rulePack.rulesStrings.15>
+  <NamerFactionRefugee.rulePack.rulesStrings.16>adj->tough</NamerFactionRefugee.rulePack.rulesStrings.16>
+  <NamerFactionRefugee.rulePack.rulesStrings.17>adj->dogged</NamerFactionRefugee.rulePack.rulesStrings.17>
+  <NamerFactionRefugee.rulePack.rulesStrings.18>adj->tenacious</NamerFactionRefugee.rulePack.rulesStrings.18>
+  <Gathering_Concert.rulePack.rulesStrings.0>circumstance_phrase->with eyes closed</Gathering_Concert.rulePack.rulesStrings.0>
+  <Gathering_Concert.rulePack.rulesStrings.1>circumstance_phrase->with a satisfied grin</Gathering_Concert.rulePack.rulesStrings.1>
+  <Gathering_Concert.rulePack.rulesStrings.2>desc_sentence->There's a cheerful vibe in the air.</Gathering_Concert.rulePack.rulesStrings.2>
+  <NamerWeaponBladelink.rulePack.rulesStrings.0>r_weapon_name(p=3)->[noun][verber]</NamerWeaponBladelink.rulePack.rulesStrings.0>
+  <NamerWeaponBladelink.rulePack.rulesStrings.1>r_weapon_name(p=2)->[beginSyl][middleSyl][endSyl]</NamerWeaponBladelink.rulePack.rulesStrings.1>
+  <NamerWeaponBladelink.rulePack.rulesStrings.2>r_weapon_name(p=1)->[beginSyl][middleSyl][middleSyl][endSyl]</NamerWeaponBladelink.rulePack.rulesStrings.2>
+  <NamerWeaponBladelink.rulePack.rulesStrings.3>r_weapon_name(p=1)->[beginSyl][endSyl]</NamerWeaponBladelink.rulePack.rulesStrings.3>
+  <NamerWeaponBladelink.rulePack.rulesStrings.4>r_weapon_name(p=1)->[NamePerson]</NamerWeaponBladelink.rulePack.rulesStrings.4>
+  <NamerWeaponBladelink.rulePack.rulesStrings.5>r_weapon_name(p=1)->[nameAnimal]</NamerWeaponBladelink.rulePack.rulesStrings.5>
+  <NamerWeaponBladelink.rulePack.rulesStrings.6>nameAnimal->[NameAnimalUnisex]</NamerWeaponBladelink.rulePack.rulesStrings.6>
+  <NamerWeaponBladelink.rulePack.rulesStrings.7>nameAnimal->[NameAnimalMale]</NamerWeaponBladelink.rulePack.rulesStrings.7>
+  <NamerWeaponBladelink.rulePack.rulesStrings.8>nameAnimal->[NameAnimalFemale]</NamerWeaponBladelink.rulePack.rulesStrings.8>
+  <NamerWeaponBladelink.rulePack.rulesStrings.9>noun->oath</NamerWeaponBladelink.rulePack.rulesStrings.9>
+  <NamerWeaponBladelink.rulePack.rulesStrings.10>noun->promise</NamerWeaponBladelink.rulePack.rulesStrings.10>
+  <NamerWeaponBladelink.rulePack.rulesStrings.11>noun->death</NamerWeaponBladelink.rulePack.rulesStrings.11>
+  <NamerWeaponBladelink.rulePack.rulesStrings.12>noun->pain</NamerWeaponBladelink.rulePack.rulesStrings.12>
+  <NamerWeaponBladelink.rulePack.rulesStrings.13>noun->blood</NamerWeaponBladelink.rulePack.rulesStrings.13>
+  <NamerWeaponBladelink.rulePack.rulesStrings.14>noun->doom</NamerWeaponBladelink.rulePack.rulesStrings.14>
+  <NamerWeaponBladelink.rulePack.rulesStrings.15>noun->murder</NamerWeaponBladelink.rulePack.rulesStrings.15>
+  <NamerWeaponBladelink.rulePack.rulesStrings.16>noun->justice</NamerWeaponBladelink.rulePack.rulesStrings.16>
+  <NamerWeaponBladelink.rulePack.rulesStrings.17>noun->fear</NamerWeaponBladelink.rulePack.rulesStrings.17>
+  <NamerWeaponBladelink.rulePack.rulesStrings.18>noun->terror</NamerWeaponBladelink.rulePack.rulesStrings.18>
+  <NamerWeaponBladelink.rulePack.rulesStrings.19>noun->chaos</NamerWeaponBladelink.rulePack.rulesStrings.19>
+  <NamerWeaponBladelink.rulePack.rulesStrings.20>noun->order</NamerWeaponBladelink.rulePack.rulesStrings.20>
+  <NamerWeaponBladelink.rulePack.rulesStrings.21>noun->war</NamerWeaponBladelink.rulePack.rulesStrings.21>
+  <NamerWeaponBladelink.rulePack.rulesStrings.22>noun->silence</NamerWeaponBladelink.rulePack.rulesStrings.22>
+  <NamerWeaponBladelink.rulePack.rulesStrings.23>noun->debt</NamerWeaponBladelink.rulePack.rulesStrings.23>
+  <NamerWeaponBladelink.rulePack.rulesStrings.24>verber->keeper</NamerWeaponBladelink.rulePack.rulesStrings.24>
+  <NamerWeaponBladelink.rulePack.rulesStrings.25>verber->bringer</NamerWeaponBladelink.rulePack.rulesStrings.25>
+  <NamerWeaponBladelink.rulePack.rulesStrings.26>verber->sender</NamerWeaponBladelink.rulePack.rulesStrings.26>
+  <NamerWeaponBladelink.rulePack.rulesStrings.27>verber->giver</NamerWeaponBladelink.rulePack.rulesStrings.27>
+  <NamerWeaponBladelink.rulePack.rulesStrings.28>verber->maker</NamerWeaponBladelink.rulePack.rulesStrings.28>
+  <NamerWeaponBladelink.rulePack.rulesStrings.29>verber->crusher</NamerWeaponBladelink.rulePack.rulesStrings.29>
+  <NamerWeaponBladelink.rulePack.rulesStrings.30>verber->breaker</NamerWeaponBladelink.rulePack.rulesStrings.30>
+  <NamerWeaponBladelink.rulePack.rulesStrings.31>verber->smasher</NamerWeaponBladelink.rulePack.rulesStrings.31>
+  <NamerWeaponBladelink.rulePack.rulesStrings.32>verber->bender</NamerWeaponBladelink.rulePack.rulesStrings.32>
+  <NamerWeaponBladelink.rulePack.rulesStrings.33>verber->knower</NamerWeaponBladelink.rulePack.rulesStrings.33>
+  <NamerWeaponBladelink.rulePack.rulesStrings.34>verber->doer</NamerWeaponBladelink.rulePack.rulesStrings.34>
+  <NamerWeaponBladelink.rulePack.rulesStrings.35>beginSyl->vi</NamerWeaponBladelink.rulePack.rulesStrings.35>
+  <NamerWeaponBladelink.rulePack.rulesStrings.36>beginSyl->na</NamerWeaponBladelink.rulePack.rulesStrings.36>
+  <NamerWeaponBladelink.rulePack.rulesStrings.37>beginSyl->lo</NamerWeaponBladelink.rulePack.rulesStrings.37>
+  <NamerWeaponBladelink.rulePack.rulesStrings.38>beginSyl->ra</NamerWeaponBladelink.rulePack.rulesStrings.38>
+  <NamerWeaponBladelink.rulePack.rulesStrings.39>beginSyl->to</NamerWeaponBladelink.rulePack.rulesStrings.39>
+  <NamerWeaponBladelink.rulePack.rulesStrings.40>beginSyl->ger</NamerWeaponBladelink.rulePack.rulesStrings.40>
+  <NamerWeaponBladelink.rulePack.rulesStrings.41>beginSyl->xan</NamerWeaponBladelink.rulePack.rulesStrings.41>
+  <NamerWeaponBladelink.rulePack.rulesStrings.42>beginSyl->kel</NamerWeaponBladelink.rulePack.rulesStrings.42>
+  <NamerWeaponBladelink.rulePack.rulesStrings.43>middleSyl->ser</NamerWeaponBladelink.rulePack.rulesStrings.43>
+  <NamerWeaponBladelink.rulePack.rulesStrings.44>middleSyl->gar</NamerWeaponBladelink.rulePack.rulesStrings.44>
+  <NamerWeaponBladelink.rulePack.rulesStrings.45>middleSyl->lor</NamerWeaponBladelink.rulePack.rulesStrings.45>
+  <NamerWeaponBladelink.rulePack.rulesStrings.46>middleSyl->ven</NamerWeaponBladelink.rulePack.rulesStrings.46>
+  <NamerWeaponBladelink.rulePack.rulesStrings.47>middleSyl->zan</NamerWeaponBladelink.rulePack.rulesStrings.47>
+  <NamerWeaponBladelink.rulePack.rulesStrings.48>middleSyl->xal</NamerWeaponBladelink.rulePack.rulesStrings.48>
+  <NamerWeaponBladelink.rulePack.rulesStrings.49>endSyl->ys</NamerWeaponBladelink.rulePack.rulesStrings.49>
+  <NamerWeaponBladelink.rulePack.rulesStrings.50>endSyl->or</NamerWeaponBladelink.rulePack.rulesStrings.50>
+  <NamerWeaponBladelink.rulePack.rulesStrings.51>endSyl->ar</NamerWeaponBladelink.rulePack.rulesStrings.51>
+  <NamerWeaponBladelink.rulePack.rulesStrings.52>endSyl->sum</NamerWeaponBladelink.rulePack.rulesStrings.52>
+  <NamerWeaponBladelink.rulePack.rulesStrings.53>endSyl->dor</NamerWeaponBladelink.rulePack.rulesStrings.53>
+  <NamerWeaponBladelink.rulePack.rulesStrings.54>endSyl->mar</NamerWeaponBladelink.rulePack.rulesStrings.54>
+  <NamerWeaponBladelink.rulePack.rulesStrings.55>endSyl->gur</NamerWeaponBladelink.rulePack.rulesStrings.55>
+</LanguageData>

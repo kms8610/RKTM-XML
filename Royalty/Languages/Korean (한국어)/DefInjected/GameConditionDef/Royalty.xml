@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SunBlocker.label>sun blocked</SunBlocker.label>
+  <SunBlocker.description>A nearby sun blocker machine is turning the upper atmosphere opaque, blocking the sun.</SunBlocker.description>
+  <SunBlocker.letterText>A sun blocker machine has begun blocking the sun.</SunBlocker.letterText>
+  <GiantSmokeCloud.label>giant smoke cloud</GiantSmokeCloud.label>
+  <GiantSmokeCloud.description>A nearby smoke spewer is reducing sunlight in this region.</GiantSmokeCloud.description>
+  <GiantSmokeCloud.letterText>A smoke spewer machine has begun obscuring the sun.</GiantSmokeCloud.letterText>
+  <ToxicSpewer.label>toxic spewer</ToxicSpewer.label>
+  <ToxicSpewer.description>A nearby toxic spewer is blanketing this whole region with poison.</ToxicSpewer.description>
+  <ToxicSpewer.letterText>A toxic spewer machine has begun blanketing the whole region with poison.</ToxicSpewer.letterText>
+  <WeatherController.label>forced weather</WeatherController.label>
+  <WeatherController.description>A nearby weather controller is forcing the weather into this configuration.</WeatherController.description>
+  <WeatherController.descriptionFuture>a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration]</WeatherController.descriptionFuture>
+  <WeatherController.endMessage>The weather controller is no longer changing the weather.</WeatherController.endMessage>
+  <WeatherController.letterText>A weather controller machine has begun affecting the weather.</WeatherController.letterText>
+  <ClimateAdjustment.label>climate adjustment</ClimateAdjustment.label>
+  <ClimateAdjustment.description>A nearby climate adjuster is shifting the temperature.</ClimateAdjustment.description>
+  <ClimateAdjustment.letterText>A climate adjuster machine has begun shifting the temperature.</ClimateAdjustment.letterText>
+  <PsychicSuppression.label>psychic suppression</PsychicSuppression.label>
+  <PsychicSuppression.description>A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity.</PsychicSuppression.description>
+  <PsychicSuppression.descriptionFuture>a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration]</PsychicSuppression.descriptionFuture>
+  <PsychicSuppression.endMessage>The psychic suppressor field has dissipated.</PsychicSuppression.endMessage>
+  <PsychicSuppression.letterText>A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity.</PsychicSuppression.letterText>
+  <EMIField.label>EMI field</EMIField.label>
+  <EMIField.description>An electromagnetic interference dynamo is projecting an EM interference field, disabling electrical devices.</EMIField.description>
+  <EMIField.descriptionFuture>a distant EMI dynamo will blast [map_definite] with an EMI field, shutting down electrical devices for [gameConditionDuration_duration]</EMIField.descriptionFuture>
+  <EMIField.endMessage>The EMI field has disappeared.</EMIField.endMessage>
+  <EMIField.letterText>An EMI field has been generated. It is disabling electrical devices.</EMIField.letterText>
+</LanguageData>

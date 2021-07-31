@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MechCluster.label>mech cluster</MechCluster.label>
+  <MechCluster.description>A mech combat cluster.</MechCluster.description>
+  <MechCluster.arrivedLetter>There is a cluster of hostile mechanoids and their combat support structures in this area.\n\nThe cluster can include artillery, turrets, combat mechanoids, and other support and defense structures.</MechCluster.arrivedLetter>
+  <MechClusterForceNoConditionCauser.label>mech cluster</MechClusterForceNoConditionCauser.label>
+  <MechClusterForceNoConditionCauser.description>A mech combat cluster.</MechClusterForceNoConditionCauser.description>
+  <MechClusterForceNoConditionCauser.arrivedLetter>There is a cluster of hostile mechanoids and their combat support structures in this area.\n\nThe cluster can include artillery, turrets, combat mechanoids, and other support and defense structures.</MechClusterForceNoConditionCauser.arrivedLetter>
+  <RaidSource.label>raid source</RaidSource.label>
+  <RaidSource.description>A guarded military staging area which sends periodic raids.</RaidSource.description>
+  <RaidSource.approachOrderString>Attack {0}</RaidSource.approachOrderString>
+  <RaidSource.approachingReportString>Attacking {0}</RaidSource.approachingReportString>
+  <RaidSource.arrivedLetter>There is an enemy outpost in this area.</RaidSource.arrivedLetter>
+  <SunBlocker.label>sun blocker</SunBlocker.label>
+  <SunBlocker.description>A sun blocker machine which turns the sky opaque.</SunBlocker.description>
+  <SmokeSpewer.label>smoke spewer</SmokeSpewer.label>
+  <SmokeSpewer.description>A smoke spewer.</SmokeSpewer.description>
+  <ToxicSpewer.label>toxic spewer</ToxicSpewer.label>
+  <ToxicSpewer.description>A toxic spewer.</ToxicSpewer.description>
+  <WeatherController.label>weather controller</WeatherController.label>
+  <WeatherController.description>A weather controller.</WeatherController.description>
+  <ClimateAdjuster.label>climate adjuster</ClimateAdjuster.label>
+  <ClimateAdjuster.description>A climate adjuster.</ClimateAdjuster.description>
+  <PsychicDroner.label>psychic droner</PsychicDroner.label>
+  <PsychicDroner.description>A psychic droner.</PsychicDroner.description>
+  <PsychicSuppressor.label>psychic suppressor</PsychicSuppressor.label>
+  <PsychicSuppressor.description>A psychic suppressor.</PsychicSuppressor.description>
+  <EMIDynamo.label>EMI dynamo</EMIDynamo.label>
+  <EMIDynamo.description>An EMI dynamo.</EMIDynamo.description>
+</LanguageData>
