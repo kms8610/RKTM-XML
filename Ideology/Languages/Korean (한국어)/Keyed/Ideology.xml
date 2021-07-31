@@ -58,6 +58,9 @@
   <AlertHostilesWakingUpDesc>One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you.</AlertHostilesWakingUpDesc>
   <AlertCasketOpening>Cryptosleep caskets opening in {0}</AlertCasketOpening>
   <AlertCasketOpeningDesc>Cryptosleep caskets containing unknown threats are opening soon.</AlertCasketOpeningDesc>
+  <AlertSlaveRebellionLikely>Slave rebellion likely</AlertSlaveRebellionLikely>
+  <AlertSlaveRebellionLikelyRebelliousCount>There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion.</AlertSlaveRebellionLikelyRebelliousCount>
+  <AlertSlaveRebellionLikelyMostRebellious>A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. These are the factors which are adjusting how soon they will rebel:</AlertSlaveRebellionLikelyMostRebellious>
   <DesignatorExtractSkull>Extract skull</DesignatorExtractSkull>
   <DesignatorExtractSkullDesc>Extract the skull from a corpse.</DesignatorExtractSkullDesc>
   <Add>add</Add>
@@ -128,7 +131,9 @@
   <ShowApparel>Show apparel</ShowApparel>
   <PawnUnhappyWithStyleItems>{PAWN_nameDef} will be unhappy with the following</PawnUnhappyWithStyleItems>
   <StyleCategoryDescription>Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies.</StyleCategoryDescription>
+  <StyleCategoryDescriptionAbstract>Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies.</StyleCategoryDescriptionAbstract>
   <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style.</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominanceAbstract>Ideoligion members will be happy if they notice buildings, floors, and art matching this style.</StyleCategoryDescStyleDominanceAbstract>
   <StyleCategoryDetails>{0} style category affects</StyleCategoryDetails>
   <OverriddenByStyle>Overriden by {0}</OverriddenByStyle>
   <IdeoMakesBuildingBuildable>New buildables</IdeoMakesBuildingBuildable>
@@ -281,7 +286,7 @@
   <SlaveReleaseRelationGainsDesc>The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health.</SlaveReleaseRelationGainsDesc>
   <SlaveReleasePotentialRelationGains>Relations gain on release</SlaveReleasePotentialRelationGains>
   <SlaveRebellionMTBDays>Slave rebellion interval</SlaveRebellionMTBDays>
-  <SlaveRebellionMTBDaysDescription>The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by mood, health, suppression, proximity to weapons and the presence of colonists on the map.</SlaveRebellionMTBDaysDescription>
+  <SlaveRebellionMTBDaysDescription>The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by suppression, mood, health, proximity to weapons, the number of slaves on the map, and the presence of colonists on the map.</SlaveRebellionMTBDaysDescription>
   <Suppression>Suppression</Suppression>
   <SuppressionDesc>Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel.</SuppressionDesc>
   <SuppressionFallRate>Suppression fall rate</SuppressionFallRate>
@@ -296,10 +301,12 @@
   <SuppressionMovingCapacityFactor>Moving capacity</SuppressionMovingCapacityFactor>
   <SuppressionFactor>Suppression</SuppressionFactor>
   <SuppressionMoodFactor>Mood</SuppressionMoodFactor>
+  <SuppressionSlaveCountFactor>Slave count</SuppressionSlaveCountFactor>
   <SuppressionEscapeFactor>Escape route</SuppressionEscapeFactor>
   <SuppressionWeaponProximityFactor>Weapon proximity</SuppressionWeaponProximityFactor>
   <SuppressionFinalInterval>Final interval</SuppressionFinalInterval>
   <SuppressionUnattendedByColonists>Unattended</SuppressionUnattendedByColonists>
+  <SuppressionRebellionAnySlave>At least one of the {0} slaves on this map is expected rebel on average every {1}.</SuppressionRebellionAnySlave>
   <WillLevel>Will</WillLevel>
   <WillLevelDesc>How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved.</WillLevelDesc>
   <WillFromPawnKind>{0} base will</WillFromPawnKind>
@@ -543,7 +550,16 @@
   <MessageSleepingThreatDelayActivated>{0_pawnsPlural} will wake up in {1}.</MessageSleepingThreatDelayActivated>
   <MessageInfestationDelayActivated>Infestation arriving.</MessageInfestationDelayActivated>
   <MessageFuelNodeDelayActivated>{0} was disturbed and might explode soon!</MessageFuelNodeDelayActivated>
-  <ChooseIdeoligion>Choose your faction's ideoligion</ChooseIdeoligion>
+  <CustomizeIdeoligion>Customize ideoligion</CustomizeIdeoligion>
+  <ChooseYourIdeoligion>Choose your ideoligion</ChooseYourIdeoligion>
+  <Random>Random</Random>
+  <RandomStructureTip>A random structure will be used for your ideoligion.</RandomStructureTip>
+  <RandomStyleTip>A random style will be used for your ideoligion.</RandomStyleTip>
+  <Customize>Customize</Customize>
+  <PlayClassic>Play classic</PlayClassic>
+  <LoadSaved>Load saved</LoadSaved>
+  <Structure>Structure</Structure>
+  <ChooseYourIdeoligionDesc>What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs.</ChooseYourIdeoligionDesc>
   <CreateCustom>Create custom</CreateCustom>
   <CreateNew>Create new</CreateNew>
   <LoadExisting>Load existing</LoadExisting>

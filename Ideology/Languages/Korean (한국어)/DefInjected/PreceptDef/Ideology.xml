@@ -391,7 +391,7 @@
   <IdeoRole_AnimalsSpecialist.label>Animals specialist</IdeoRole_AnimalsSpecialist.label>
   <IdeoRole_AnimalsSpecialist.description>A special ideoligious status focusing on animals to the exclusion of all else. This specialized role gives increased taming and training efficiency, and the ability to boost the animals-related abilities of nearby allies. Holders of this role will refuse to perform some non-animals-related tasks.</IdeoRole_AnimalsSpecialist.description>
   <IdeoRole_MedicalSpecialist.label>medical specialist</IdeoRole_MedicalSpecialist.label>
-  <IdeoRole_MedicalSpecialist.description>A special ideoligious status focusing on medicine to the exclusion of all else. This specialized role gives improved surgery and tending efficiency, and the ability to boost the medical abilities of nearby allies. Believers who receive care from one of this role will be happy about it. Holders of this role will refuse to perform some non-medical tasks.</IdeoRole_MedicalSpecialist.description>
+  <IdeoRole_MedicalSpecialist.description>A special ideoligious status focusing on medicine to the exclusion of all else. This specialized role gives improved surgery and tending efficiency, and the ability to boost the medical abilities of nearby allies. Believers who receive care from one of this role will be happy about it. Holders of this role will refuse to do any kind of violence, and won't perform some non-medical tasks.</IdeoRole_MedicalSpecialist.description>
   <RoughLiving_Welcomed.label>welcomed</RoughLiving_Welcomed.label>
   <RoughLiving_Welcomed.description>We don't need to separate ourselves from the roughness of nature.</RoughLiving_Welcomed.description>
   <Scarification_Extreme.label>extreme</Scarification_Extreme.label>
@@ -454,6 +454,8 @@
   <SpouseCount_Male_Unlimited.label>unlimited</SpouseCount_Male_Unlimited.label>
   <SpouseCount_Female_Unlimited.description>Women may have as many spouses as they like.</SpouseCount_Female_Unlimited.description>
   <SpouseCount_Female_Unlimited.label>unlimited</SpouseCount_Female_Unlimited.label>
+  <Temperature_Tough.label>tough</Temperature_Tough.label>
+  <Temperature_Tough.description>Extreme temperatures don't bother us as much.</Temperature_Tough.description>
   <SleepAccelerator_Preferred.label>preferred</SleepAccelerator_Preferred.label>
   <SleepAccelerator_Preferred.description>One should always use a sleep accelerator. Slow-sleeping is just foolishly wasting your potential.</SleepAccelerator_Preferred.description>
   <NeuralSupercharge_Preferred.label>preferred</NeuralSupercharge_Preferred.label>
