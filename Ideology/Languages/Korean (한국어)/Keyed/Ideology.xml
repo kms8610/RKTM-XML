@@ -60,7 +60,7 @@
   <AlertCasketOpeningDesc>Cryptosleep caskets containing unknown threats are opening soon.</AlertCasketOpeningDesc>
   <AlertSlaveRebellionLikely>Slave rebellion likely</AlertSlaveRebellionLikely>
   <AlertSlaveRebellionLikelyRebelliousCount>There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion.</AlertSlaveRebellionLikelyRebelliousCount>
-  <AlertSlaveRebellionLikelyMostRebellious>A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. These are the factors which are adjusting how soon they will rebel:</AlertSlaveRebellionLikelyMostRebellious>
+  <AlertSlaveRebellionLikelyMostRebellious>A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel:</AlertSlaveRebellionLikelyMostRebellious>
   <DesignatorExtractSkull>Extract skull</DesignatorExtractSkull>
   <DesignatorExtractSkullDesc>Extract the skull from a corpse.</DesignatorExtractSkullDesc>
   <Add>add</Add>
