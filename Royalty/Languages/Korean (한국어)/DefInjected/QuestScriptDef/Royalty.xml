@@ -624,8 +624,8 @@ In order to consecrate making [titleHeir_nameFull] the heir of [titleHolder_name
   <Intro_Deserter.root.nodes.8.node.parms.customLetterLabel>{BASELABEL}: Loyalty squad</Intro_Deserter.root.nodes.8.node.parms.customLetterLabel>
   <Intro_Deserter.root.nodes.8.node.parms.customLetterText>{BASETEXT}\n\nThis is the loyalty squad that was hunting [../asker_nameFull].
               </Intro_Deserter.root.nodes.8.node.parms.customLetterText>
-  <Intro_Deserter.root.nodes.16.node.nodes.0.label>Quest expired: [resolvedQuestName]</Intro_Deserter.root.nodes.16.node.nodes.0.label>
-  <Intro_Deserter.root.nodes.16.node.nodes.0.text>The key imperial outpost, containing items needed for secret psychic powers, has packed up and moved on.</Intro_Deserter.root.nodes.16.node.nodes.0.text>
+  <Intro_Deserter.root.nodes.17.node.nodes.0.label>Quest expired: [resolvedQuestName]</Intro_Deserter.root.nodes.17.node.nodes.0.label>
+  <Intro_Deserter.root.nodes.17.node.nodes.0.text>The key imperial outpost, containing items needed for secret psychic powers, has packed up and moved on.</Intro_Deserter.root.nodes.17.node.nodes.0.text>
   <Intro_Wimp.questNameRules.rulesStrings.0>questName->the [adjAny] [asker_royalTitleInCurrentFaction]</Intro_Wimp.questNameRules.rulesStrings.0>
   <Intro_Wimp.questNameRules.rulesStrings.1>adjAny->hunted</Intro_Wimp.questNameRules.rulesStrings.1>
   <Intro_Wimp.questNameRules.rulesStrings.2>adjAny->fleeing</Intro_Wimp.questNameRules.rulesStrings.2>
