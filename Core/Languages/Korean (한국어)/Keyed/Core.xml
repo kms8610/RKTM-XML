@@ -124,6 +124,8 @@
   <AlertTimedRaidsArrivingAt>Arriving at {0} in {1}</AlertTimedRaidsArrivingAt>
   <FactionWillBecomeHostileIfNotLeavingWithin>Faction will become hostile if you stay</FactionWillBecomeHostileIfNotLeavingWithin>
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <AlertMinifiedTreeAboutToDie>{0} trees dying</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDieDesc>{0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees.</AlertMinifiedTreeAboutToDieDesc>
   <MainPageCredit>A story generator by Tynan Sylvester</MainPageCredit>
   <Credits_Developers>Developers</Credits_Developers>
   <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
@@ -164,6 +166,8 @@
   <DesignatorDeconstructDesc>Deconstruct this and reclaim part of its resources.</DesignatorDeconstructDesc>
   <DesignatorUninstall>Uninstall</DesignatorUninstall>
   <DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
+  <DesignatorExtractTree>Extract tree</DesignatorExtractTree>
+  <DesignatorExtractTreeDesc>Extract this tree while keeping it alive so it can be replanted somewhere else.</DesignatorExtractTreeDesc>
   <DesignatorHarvest>Harvest</DesignatorHarvest>
   <DesignatorHarvestDesc>Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
   <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
@@ -255,6 +259,7 @@
   <CannotPlaceMonumentOnTerrain>Cannot build on: {0}.</CannotPlaceMonumentOnTerrain>
   <MonumentOverlapsBuilding>Cannot place monument over: {0}.</MonumentOverlapsBuilding>
   <MonumentAdjacentToBuilding>Monument cannot be placed adjacent to: {0}.</MonumentAdjacentToBuilding>
+  <CannotBePlantedHere>Cannot be planted here</CannotBePlantedHere>
   <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
   <CreateNewZone>Create new {0}</CreateNewZone>
   <TransmitsPower>Transmits power</TransmitsPower>
@@ -1529,6 +1534,8 @@
   <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
   <CommandReinstall>Reinstall at...</CommandReinstall>
   <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+  <CommandReplant>Replant</CommandReplant>
+  <CommandReplantDesc>This tree is currently packaged up for storage and transport. Use this command to replant it in a new location.</CommandReplantDesc>
   <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>Create stockpile</CommandMakeBeaconStockpileLabel>
   <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
@@ -2967,6 +2974,7 @@
   <MessageMonumentDestroyedBecauseOfDisallowedBuilding>The monument has been destroyed because you've built a disallowed building inside.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
   <MessageNoResearchBenchForTechprint>Cannot apply: No reachable, un-reserved research bench available.</MessageNoResearchBenchForTechprint>
   <NoValidDestinationFound>No valid destination found for {0}</NoValidDestinationFound>
+  <MessageMinifiedTreeDied>An extracted tree just died.</MessageMinifiedTreeDied>
   <MessageResearchMenuWithoutBench>Warning: Research will not begin until you build a research bench.</MessageResearchMenuWithoutBench>
   <MessageActivatorProximityTriggered>{0_indefinite} has triggered a proximity activator.</MessageActivatorProximityTriggered>
   <MessageCannotSelectInvisibleStat>{0_label} is currently hidden.</MessageCannotSelectInvisibleStat>
@@ -3146,7 +3154,9 @@
   <MessageColonistMarkedForExecution>{0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}.</MessageColonistMarkedForExecution>
   <TitleOfFaction>{0} of {1}</TitleOfFaction>
   <RenounceTitleDescription>This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS}</RenounceTitleDescription>
-  <RenounceTitleWillLoosePermits>{PAWN_possessive} will lose these permissions</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun} will lose these permissions</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}.</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts.</RenounceTitleWillKeepPsylinkLevels>
   <UnknownLower>unknown</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
@@ -3622,6 +3632,7 @@
   <SkillNeurotrainerUsed>{USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}.</SkillNeurotrainerUsed>
   <Installed>Installed</Installed>
   <NotInstalled>Not installed</NotInstalled>
+  <MinifiedTreeWillDieIn>Extracted tree will die in {time} unless replanted.</MinifiedTreeWillDieIn>
   <Title>Title</Title>
   <Untitled>Untitled</Untitled>
   <UnfinishedItem>Unfinished {0}</UnfinishedItem>
