@@ -2750,6 +2750,7 @@
   <MessageAnimalsGoPsychoHunted>Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat.</MessageAnimalsGoPsychoHunted>
   <MessageAnimalManhuntsOnTameFailed>Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance).</MessageAnimalManhuntsOnTameFailed>
   <MessageInsectTameDesignated>Only those with the insect sympathy trait can tame {INSECT_indefinite}.</MessageInsectTameDesignated>
+  <MessageInsectsHostileOnTaming>Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it.</MessageInsectsHostileOnTaming>
   <LetterLabelMessageRecruitSuccess>New recruit</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}.</MessageRecruitSuccess>
   <MessageTameSuccess>{RECRUITER_labelShort} successfully tamed {1}.</MessageTameSuccess>
