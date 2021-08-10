@@ -188,6 +188,7 @@
   <RelicHunt.questNameRules.rulesStrings.10>itemAdj->revered</RelicHunt.questNameRules.rulesStrings.10>
   <RelicHunt.questNameRules.rulesStrings.11>itemAdj->venerated</RelicHunt.questNameRules.rulesStrings.11>
   <RelicHunt.questDescriptionRules.rulesStrings.0>questDescription->You've learned that a relic of [ideo_name] is nearby.\n\nThe [relic_name] is an ancient object venerated by all [ideo_memberNamePlural]. If you could collect it, you could build a great reliquary to make [ideo_memberNamePlural] happy, attract wealthy pilgrims, and bring more people to [ideo_name].</RelicHunt.questDescriptionRules.rulesStrings.0>
+  <RelicHunt.questDescriptionRules.rulesStrings.1>questDescriptionPartBeforeDiscovery->First, you need to find the [relic_name]. Watch for opportunities to gather information about it.</RelicHunt.questDescriptionRules.rulesStrings.1>
   <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.0>pilgrimsLabel->[pawns0_nameDef]</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.0>
   <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.1>pilgrimsLabelPlural->[faction_pawnsPlural]</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.1>
   <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.2>pilgrimsLabelSingularOrPlural(pilgrimCount==1)->[pilgrimsLabel]</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings.2>
