@@ -4,7 +4,6 @@
   <VFEM_BlackKnight.letterText>{0} has encountered a mysterious knight in black who appears to be guarding a bridge!</VFEM_BlackKnight.letterText>
   <VFEM_BlackKnight.letterLabel>None shall pass!</VFEM_BlackKnight.letterLabel>
   <VFEM_PursuitParty.label>enemy raid</VFEM_PursuitParty.label>
-  <VFEM_Quest_MedievalTournament.label>medieval tournament</VFEM_Quest_MedievalTournament.label>
-  <VFEM_Quest_MedievalTournament.letterLabel>Medieval tournament</VFEM_Quest_MedievalTournament.letterLabel>
-  <VFEM_Quest_MedievalTournament.letterText>Word has spread that {PAWN_nameDef}, {0} of {1}, will be hosting a tournament near {2}. This could potentially be a good opportunity to earn goodwill, as well as the following prizes:\n\n{3}</VFEM_Quest_MedievalTournament.letterText>
+  <VFEM_Disease_BlackPlague.label>plague</VFEM_Disease_BlackPlague.label>
+  <VFEM_Disease_BlackPlague.letterLabel>Disease: Black Plague</VFEM_Disease_BlackPlague.letterLabel>
 </LanguageData>

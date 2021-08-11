@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VanillaFactionsExpanded.NoMust>need grape must</VanillaFactionsExpanded.NoMust>
-  <VanillaFactionsExpanded.ContainsMust>Contains {0} / {1} must</VanillaFactionsExpanded.ContainsMust>
-  <VanillaFactionsExpanded.ContainsWine>Contains {0} / {1} wine</VanillaFactionsExpanded.ContainsWine>
-  <VanillaFactionsExpanded.TargetWineQuality>Target quality: {0}</VanillaFactionsExpanded.TargetWineQuality>
-  <VanillaFactionsExpanded.TargetWineQualityMulti>Set target quality</VanillaFactionsExpanded.TargetWineQualityMulti>
-  <VanillaFactionsExpanded.TargetWineQuality_Description>Your colonists will remove the wine from this barrel when it reaches the specified target quality.</VanillaFactionsExpanded.TargetWineQuality_Description>
+  <DesignatorDigTerrain>Dig terrain</DesignatorDigTerrain>
+  <DesignatorDigTerrainDesc>Designate moatable terrain to be dug.</DesignatorDigTerrainDesc>
+  <DesignatorFillTerrain>Fill terrain</DesignatorFillTerrain>
+  <DesignatorFillTerrainDesc>Designate moatable terrain to be filled.</DesignatorFillTerrainDesc>
+  <TerrainBeingDug>The surface is already marked for digging.</TerrainBeingDug>
+  <TerrainBeingFilled>The surface is already marked for filling.</TerrainBeingFilled>
+  <MessageMustDesignateMoatableTerrain>Must designate moatable terrain.</MessageMustDesignateMoatableTerrain>
+  <AtDeepestLevel>Can't dig deeper, already at the lowest level.</AtDeepestLevel>
+  <AtHighestLevel>Can't fill more, already at highest level.</AtHighestLevel>
+  <CantFillWater>There's too much water, consider using a pump.</CantFillWater>
+  <VanillaFactionsExpanded.Wine.InsertFirstItemDesc>Must to Insert</VanillaFactionsExpanded.Wine.InsertFirstItemDesc>
+  <VanillaFactionsExpanded.Wine.bringIngredientsText>Bring must</VanillaFactionsExpanded.Wine.bringIngredientsText>
+  <VanillaFactionsExpanded.Wine.bringIngredientsDesc>Bring wine must to the wine barrel to start fermentation</VanillaFactionsExpanded.Wine.bringIngredientsDesc>
+  <VanillaFactionsExpanded.Wine.cancelIngredientsText>Cancel bringing must</VanillaFactionsExpanded.Wine.cancelIngredientsText>
+  <VanillaFactionsExpanded.Wine.cancelIngredientsDesc>Cancel bringing wine must to the wine barrel.</VanillaFactionsExpanded.Wine.cancelIngredientsDesc>
+  <VanillaFactionsExpanded.Wine.removeProductText>Remove wine ({0})</VanillaFactionsExpanded.Wine.removeProductText>
+  <VanillaFactionsExpanded.Wine.removeProductDesc>Remove wine from the wine barrel. The barrel will be ready at the present quality level ({0})</VanillaFactionsExpanded.Wine.removeProductDesc>
+  <VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>Meat to Insert</VanillaFactionsExpanded.Smoker.InsertFirstItemDesc>
+  <VanillaFactionsExpanded.Smoker.bringIngredientsText>Bring meat</VanillaFactionsExpanded.Smoker.bringIngredientsText>
+  <VanillaFactionsExpanded.Smoker.bringIngredientsDesc>Bring meat to the Smoker to start smoking</VanillaFactionsExpanded.Smoker.bringIngredientsDesc>
+  <VanillaFactionsExpanded.Smoker.cancelIngredientsText>Cancel bringing meat</VanillaFactionsExpanded.Smoker.cancelIngredientsText>
+  <VanillaFactionsExpanded.Smoker.cancelIngredientsDesc>Cancel bringing meat to the Smoker.</VanillaFactionsExpanded.Smoker.cancelIngredientsDesc>
   <VanillaFactionsExpanded.TournamentDurationDays>The tournament will last {0} days.</VanillaFactionsExpanded.TournamentDurationDays>
   <VanillaFactionsExpanded.MedievalTournamentInspectString>Prize: {0} ({1} left)</VanillaFactionsExpanded.MedievalTournamentInspectString>
   <VanillaFactionsExpanded.AttendMedievalTournament>Attend {0}</VanillaFactionsExpanded.AttendMedievalTournament>
@@ -24,6 +40,5 @@
   <VanillaFactionsExpanded.TournamentExpGains>{PAWN_labelShort} has gained {0} experience.</VanillaFactionsExpanded.TournamentExpGains>
   <VanillaFactionsExpanded.LogEntryLine>Round {0}: {1}</VanillaFactionsExpanded.LogEntryLine>
   <VanillaFactionsExpanded.Leave>Leave</VanillaFactionsExpanded.Leave>
-  <VanillaFactionsExpanded.AttackEnemyCaravan>Attack {0}</VanillaFactionsExpanded.AttackEnemyCaravan>
-  <VanillaFactionsExpanded.AttackingEnemyCaravan>Attacking {0}</VanillaFactionsExpanded.AttackingEnemyCaravan>
+  <VFEM.BlackPlagueSpreadedFurther>Black plague spreaded. {PAWN_nameDef} got infected with it. Consider quarantine for infected pawns.</VFEM.BlackPlagueSpreadedFurther>
 </LanguageData>

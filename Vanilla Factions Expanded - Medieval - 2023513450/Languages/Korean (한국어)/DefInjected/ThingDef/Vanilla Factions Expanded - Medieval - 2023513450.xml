@@ -8,19 +8,46 @@
   <VFEM_Wine.tools.1.label>neck</VFEM_Wine.tools.1.label>
   <VFEM_Must.label>grape must</VFEM_Must.label>
   <VFEM_Must.description>Un-fermented wine. This substance needs to ferment in a wine barrel before it becomes drinkable wine.</VFEM_Must.description>
+  <VFEM_Candle.label>candle</VFEM_Candle.label>
+  <VFEM_Candle.description>A primitive candle made from meat and fat. It can burn for a long time, but it does not light up the area well.</VFEM_Candle.description>
+  <VFEM_Candle.comps.1.fuelLabel>Fuel</VFEM_Candle.comps.1.fuelLabel>
+  <VFEM_WallTorchLamp.label>wall-mounted torch lamp</VFEM_WallTorchLamp.label>
+  <VFEM_WallTorchLamp.description>A wall-mounted wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</VFEM_WallTorchLamp.description>
+  <VFEM_ArcheryTarget.label>archery target</VFEM_ArcheryTarget.label>
+  <VFEM_ArcheryTarget.description>A simple archery target. It's relaxing, and trains shooting skills.</VFEM_ArcheryTarget.description>
   <VFEM_WineBarrel.label>wine barrel</VFEM_WineBarrel.label>
   <VFEM_WineBarrel.description>A barrel for fermenting raw must into wine.</VFEM_WineBarrel.description>
+  <VFEM_MeatSmoker.label>meat smoker</VFEM_MeatSmoker.label>
+  <VFEM_MeatSmoker.description>A small wooden box that needs to be refueled with wood periodically. Meat of any kind gets inserted into it and then gets smoked to last longer.</VFEM_MeatSmoker.description>
   <VFEM_CobblestoneWall.label>cobblestone wall</VFEM_CobblestoneWall.label>
+  <VFEM_LowRockWall.label>low rock wall</VFEM_LowRockWall.label>
+  <VFEM_LowRockWall.description>A waist high chunk wall. Very sturdy.</VFEM_LowRockWall.description>
+  <VFEM_SmokedMeat.label>smoked meat</VFEM_SmokedMeat.label>
+  <VFEM_SmokedMeat.description>A piece of meat preserved by smoking. Tastes good. It lasts a long time without refrigeration. Great for traveling.</VFEM_SmokedMeat.description>
   <VFEM_RawGrapes.label>grapes</VFEM_RawGrapes.label>
   <VFEM_RawGrapes.description>Raw grapes. Nice to eat, even when raw. Grapes can also be made into must which can then be used to make wine.</VFEM_RawGrapes.description>
   <VFEM_Apparel_PlateHelmetLight.label>light plate helmet</VFEM_Apparel_PlateHelmetLight.label>
   <VFEM_Apparel_PlateHelmetLight.description>A lightweight medieval helmet that provides moderate protection against sharp attacks. Not effective against blunt weapons. Slighty restricts the wearer's field of vision.</VFEM_Apparel_PlateHelmetLight.description>
   <VFEM_Apparel_PlateHelmetHeavy.label>heavy plate helmet</VFEM_Apparel_PlateHelmetHeavy.label>
   <VFEM_Apparel_PlateHelmetHeavy.description>A bulky medieval helmet that provides full-head coverage. Offers a considerable amount of protection but restricts the wearer's field of vision.</VFEM_Apparel_PlateHelmetHeavy.description>
+  <VFEM_Apparel_JesterHat.label>jester hat</VFEM_Apparel_JesterHat.label>
+  <VFEM_Apparel_JesterHat.description>A hat worthy of a jester. Each half is different from the other one in color.</VFEM_Apparel_JesterHat.description>
+  <VFEM_Apparel_DameHat.label>dame hat</VFEM_Apparel_DameHat.label>
+  <VFEM_Apparel_DameHat.description>A beautiful long cone hat for a dame.</VFEM_Apparel_DameHat.description>
+  <VFEM_Apparel_KingsCrown.label>king's crown</VFEM_Apparel_KingsCrown.label>
+  <VFEM_Apparel_KingsCrown.description>A beautiful metal crown. The wearer becomes very influential, but at the same time they will refuse to do any work.</VFEM_Apparel_KingsCrown.description>
+  <VFEM_Apparel_PlagueMask.label>plague mask</VFEM_Apparel_PlagueMask.label>
+  <VFEM_Apparel_PlagueMask.description>A mask with a long ‘beak’ filled with herbal medicine that keeps infected pawns at a distance.</VFEM_Apparel_PlagueMask.description>
   <VFEM_Apparel_PlateArmorHeavy.label>heavy plate armor</VFEM_Apparel_PlateArmorHeavy.label>
   <VFEM_Apparel_PlateArmorHeavy.description>Overlapping solid plates of armor covering the entire body from neck to feet. The plates have been reinforced which offers significantly more protection, but at the cost of mobility.</VFEM_Apparel_PlateArmorHeavy.description>
   <VFEM_Apparel_Tabard.label>tabard</VFEM_Apparel_Tabard.label>
   <VFEM_Apparel_Tabard.description>A garment that is worn over armour by medieval militia which depicts their kingdom's coat of arms.</VFEM_Apparel_Tabard.description>
+  <VFEM_Apparel_JesterOutfit.label>jester outfit</VFEM_Apparel_JesterOutfit.label>
+  <VFEM_Apparel_JesterOutfit.description>A colorful jester outfit. It predisposes to conversation, but it's impossible to learn anything in such a suit.</VFEM_Apparel_JesterOutfit.description>
+  <VFEM_Apparel_DameDress.label>dame dress</VFEM_Apparel_DameDress.label>
+  <VFEM_Apparel_DameDress.description>A beautiful full body dress for a dame. Wearing such clothes will inevitably lead to getting used to luxury, so the user will not be capable of dumb labor.</VFEM_Apparel_DameDress.description>
+  <VFEM_Apparel_KingsRobes.label>king’s robes</VFEM_Apparel_KingsRobes.label>
+  <VFEM_Apparel_KingsRobes.description>A long robe with golden chestplate, worthy of a king. Extremely beautiful.</VFEM_Apparel_KingsRobes.description>
   <VFEM_Shield_Kite.tools.0.label>base</VFEM_Shield_Kite.tools.0.label>
   <VFEM_Shield_Kite.tools.1.label>centre</VFEM_Shield_Kite.tools.1.label>
   <VFEM_Shield_Kite.label>kite shield</VFEM_Shield_Kite.label>
@@ -44,4 +71,6 @@
   <VFEM_Arrow_HeavyBolt.label>heavy crossbow bolt</VFEM_Arrow_HeavyBolt.label>
   <VFEM_Plant_Grape.label>grape plant</VFEM_Plant_Grape.label>
   <VFEM_Plant_Grape.description>A medium-sized vine that yields grapes when harvested - an essential ingredient in the production of wine that also tastes nice when eaten raw. Takes a long time to initially grow but can be harvested repeatedly in a single lifespan.</VFEM_Plant_Grape.description>
+  <VFEM_Plant_TreeHealroot.label>healroot tree</VFEM_Plant_TreeHealroot.label>
+  <VFEM_Plant_TreeHealroot.description>A tree that produces healroot, genetically engineered to disinfect its own product, and survive in slightly less-warm climates.</VFEM_Plant_TreeHealroot.description>
 </LanguageData>

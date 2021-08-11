@@ -21,4 +21,11 @@
   <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of some abandoned castle ruins that may contain treasure not far from us. Noone knows what happened to previous inhabitants, but we might still be able to scavenge what's left over.\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>
   <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>
   <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>Intercepted communications indicate the ruined castle has been scavenged by others. The quest [resolvedQuestName] has expired.</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>
+  <VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>questName->Skirmish</VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] forces encountered an enemy and want to battle them in an open field.
+\n[asker_nameDef] has nobody to spare to assist them, but says that if you can make it in time, you will be doing them a great favor.</VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.label>
+  <VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text> The battle has resolved. The quest [resolvedQuestName] has expired.</VFE_OpportunitySite_Skirmish.root.nodes.11.node.nodes.0.text>
+  <VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.label>Enemy defeated.</VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.label>
+  <VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.text>All enemies in the area have been defeated.</VFE_OpportunitySite_Skirmish.root.nodes.13.node.nodes.0.text>
 </LanguageData>
