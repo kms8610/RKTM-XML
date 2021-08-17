@@ -17,6 +17,7 @@
   <MeditationFocusStrength.description>The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating.</MeditationFocusStrength.description>
   <MeditationFocusStrength.formatString>{0} / day</MeditationFocusStrength.formatString>
   <MeditationFocusStrength.formatStringUnfinalized>{0} / day</MeditationFocusStrength.formatStringUnfinalized>
+  <MeditationFocusStrength.showIfModsLoaded.0>ludeon.rimworld.royalty</MeditationFocusStrength.showIfModsLoaded.0>
   
   <PsychicSensitivityOffset.label>psychic sensitivity offset</PsychicSensitivityOffset.label>
   <PsychicSensitivityOffset.description>An offset applied to the user's psychic sensitivity.</PsychicSensitivityOffset.description>

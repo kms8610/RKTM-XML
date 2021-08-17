@@ -11,9 +11,11 @@
   
   <Asexual.degreeDatas.asexual.label>asexual</Asexual.degreeDatas.asexual.label>
   <Asexual.degreeDatas.asexual.description>{PAWN_nameDef} has no sexual attraction to anyone at all.</Asexual.degreeDatas.asexual.description>
+  <Asexual.exclusionTags.0>SexualOrientation</Asexual.exclusionTags.0>
   
   <Bisexual.degreeDatas.bisexual.label>bisexual</Bisexual.degreeDatas.bisexual.label>
   <Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} is romantically attracted to both men and women.</Bisexual.degreeDatas.bisexual.description>
+  <Bisexual.exclusionTags.0>SexualOrientation</Bisexual.exclusionTags.0>
   
   <Bloodlust.degreeDatas.bloodlust.label>bloodlust</Bloodlust.degreeDatas.bloodlust.label>
   <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others.</Bloodlust.degreeDatas.bloodlust.description>
@@ -38,9 +40,11 @@
   
   <FastLearner.degreeDatas.fast_learner.label>fast learner</FastLearner.degreeDatas.fast_learner.label>
   <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others.</FastLearner.degreeDatas.fast_learner.description>
+  <FastLearner.exclusionTags.0>SlowFastLearner</FastLearner.exclusionTags.0>
   
   <Gay.degreeDatas.gay.label>gay</Gay.degreeDatas.gay.label>
   <Gay.degreeDatas.gay.description>{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.</Gay.degreeDatas.gay.description>
+  <Gay.exclusionTags.0>SexualOrientation</Gay.exclusionTags.0>
   
   <Gourmand.degreeDatas.gourmand.label>gourmand</Gourmand.degreeDatas.gourmand.label>
   <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.</Gourmand.degreeDatas.gourmand.description>
@@ -80,6 +84,7 @@
   
   <SlowLearner.degreeDatas.slow_learner.label>slow learner</SlowLearner.degreeDatas.slow_learner.label>
   <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others.</SlowLearner.degreeDatas.slow_learner.description>
+  <SlowLearner.exclusionTags.0>SlowFastLearner</SlowLearner.exclusionTags.0>
   
   <TooSmart.degreeDatas.too_smart.label>too smart</TooSmart.degreeDatas.too_smart.label>
   <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric.</TooSmart.degreeDatas.too_smart.description>
