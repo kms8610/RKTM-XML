@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Decree_BuildMonument.decreeTags.0>All</Decree_BuildMonument.decreeTags.0>
   <Decree_BuildMonument.questDescriptionRules.rulesStrings>
     <li>questDescription->[decreeIntro]\n\nYou must build a monument. It is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\nYou must keep the monument safe for [keepMonumentTicks_duration] after completion, otherwise [asker_nameDef] will be unhappy.</li>
   </Decree_BuildMonument.questDescriptionRules.rulesStrings>
@@ -17,7 +16,6 @@
   <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>Do not destroy the monument for {0}</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
   <Decree_BuildMonument.KeepMonument.slateRef>Keep monument {0}</Decree_BuildMonument.KeepMonument.slateRef>
   
-  <Decree_HarvestCrop.decreeTags.0>All</Decree_HarvestCrop.decreeTags.0>
   <Decree_HarvestCrop.questDescriptionRules.rulesStrings>
     <li>questDescription->[decreeIntro]\n\nYou must harvest [plantToHarvest_label] x[harvestItemCount].\n\nYou may need to plant and grow the [plantToHarvest_label] first.\n\n[decreeThreatInfo]</li>
   </Decree_HarvestCrop.questDescriptionRules.rulesStrings>
@@ -25,7 +23,6 @@
     <li>questName->[plantToHarvest_label] harvest decree</li>
   </Decree_HarvestCrop.questNameRules.rulesStrings>
   
-  <Decree_HuntAnimal.decreeTags.0>All</Decree_HuntAnimal.decreeTags.0>
   <Decree_HuntAnimal.questDescriptionRules.rulesStrings>
     <li>questDescription->[decreeIntro]\n\nYou must hunt or slaughter [animalToHuntWithCount].\n\n[decreeThreatInfo]</li>
     <li>animalToHuntWithCount(countToHunt==1)->[animalToHunt_indefinite]</li>
@@ -35,7 +32,6 @@
     <li>questName->[animalToHunt_label] hunting decree</li>
   </Decree_HuntAnimal.questNameRules.rulesStrings>
   
-  <Decree_ProduceItem.decreeTags.0>All</Decree_ProduceItem.decreeTags.0>
   <Decree_ProduceItem.questDescriptionRules.rulesStrings>
     <li>questDescription->[decreeIntro]\n\nYou must produce:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
   </Decree_ProduceItem.questDescriptionRules.rulesStrings>

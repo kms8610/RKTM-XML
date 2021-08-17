@@ -4,18 +4,14 @@
   <MeditationFocusGain.description>The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects.</MeditationFocusGain.description>
   <MeditationFocusGain.formatString>{0} / day</MeditationFocusGain.formatString>
   <MeditationFocusGain.formatStringUnfinalized>{0} / day</MeditationFocusGain.formatStringUnfinalized>
-  <MeditationFocusGain.showIfModsLoaded.0>ludeon.rimworld.royalty</MeditationFocusGain.showIfModsLoaded.0>
   
   <PsychicEntropyGain.label>neural heat gain</PsychicEntropyGain.label>
   <PsychicEntropyGain.description>A multiplier on neural heat gained from any source.</PsychicEntropyGain.description>
-  <PsychicEntropyGain.showIfModsLoaded.0>ludeon.rimworld.royalty</PsychicEntropyGain.showIfModsLoaded.0>
   
   <PsychicEntropyMax.label>neural heat limit</PsychicEntropyMax.label>
   <PsychicEntropyMax.description>The maximum amount of neural heat individual can tolerate safely.</PsychicEntropyMax.description>
-  <PsychicEntropyMax.showIfModsLoaded.0>ludeon.rimworld.royalty</PsychicEntropyMax.showIfModsLoaded.0>
   
   <PsychicEntropyRecoveryRate.label>neural heat recovery rate</PsychicEntropyRecoveryRate.label>
   <PsychicEntropyRecoveryRate.description>The rate at which this person reduces neural heat.</PsychicEntropyRecoveryRate.description>
   <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
-  <PsychicEntropyRecoveryRate.showIfModsLoaded.0>ludeon.rimworld.royalty</PsychicEntropyRecoveryRate.showIfModsLoaded.0>
 </LanguageData>
