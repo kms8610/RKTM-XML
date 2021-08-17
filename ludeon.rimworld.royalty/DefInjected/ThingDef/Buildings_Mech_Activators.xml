@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ActivatorCountdown.label>count-down activator</ActivatorCountdown.label>
+  <ActivatorCountdown.description>A timed mechanoid activation unit. After counting down, it will wake nearby dormant mechanoids and structures.</ActivatorCountdown.description>
+  
+  <ActivatorProximity.label>proximity activator</ActivatorProximity.label>
+  <ActivatorProximity.description>A proximity alarm for dormant mechanoids. If it detects a human-like threat nearby, it will awaken any nearby dormant mechanoids or structures.</ActivatorProximity.description>
+</LanguageData>

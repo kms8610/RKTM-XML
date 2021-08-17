@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MeditationFocusGain.label>meditation psyfocus gain</MeditationFocusGain.label>
+  <MeditationFocusGain.description>The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects.</MeditationFocusGain.description>
+  <MeditationFocusGain.formatString>{0} / day</MeditationFocusGain.formatString>
+  <MeditationFocusGain.formatStringUnfinalized>{0} / day</MeditationFocusGain.formatStringUnfinalized>
+  
+  <PsychicEntropyGain.label>neural heat gain</PsychicEntropyGain.label>
+  <PsychicEntropyGain.description>A multiplier on neural heat gained from any source.</PsychicEntropyGain.description>
+  
+  <PsychicEntropyMax.label>neural heat limit</PsychicEntropyMax.label>
+  <PsychicEntropyMax.description>The maximum amount of neural heat individual can tolerate safely.</PsychicEntropyMax.description>
+  
+  <PsychicEntropyRecoveryRate.label>neural heat recovery rate</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.description>The rate at which this person reduces neural heat.</PsychicEntropyRecoveryRate.description>
+  <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MechAssembler.label>mech assembler</MechAssembler.label>
+  <MechAssembler.description>An automated mechanoid factory. It periodically assembles and deploys new mechanoids.</MechAssembler.description>
+  
+  <MechCapsule.label>mech capsule</MechCapsule.label>
+  <MechCapsule.description>A mechanoid storage and deployment capsule. It can contain a number of mechanoids, ready to emerge and fight upon being awakened.</MechCapsule.description>
+  
+  <MechDropBeacon.label>mech drop beacon</MechDropBeacon.label>
+  <MechDropBeacon.description>A mechanoid reinforcement drop beacon. When activated, it calls in a group of mechs to land in drop pods nearby.</MechDropBeacon.description>
+</LanguageData>

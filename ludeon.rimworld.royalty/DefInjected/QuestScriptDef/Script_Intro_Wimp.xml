@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Intro_Wimp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] is calling from nearby. [asker_possessive] guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a manhunting [animalKindDef_label](/Threat).\n\n[asker_nameDef] wants you to keep [asker_objective] safe at [map_definite] for a few hours until [asker_possessive] shuttle can come pick [asker_objective] up.\n\n[asker_pronoun] will bestow [royalFavorReward] [asker_faction_royalFavorLabel] on whoever accepts this quest. This is enough [asker_faction_royalFavorLabel] to receive the royal title of Yeoman, and all benefits that come with it - including the first level of psychic powers.</li>
+  </Intro_Wimp.questDescriptionRules.rulesStrings>
+  <Intro_Wimp.questNameRules.rulesStrings>
+    <li>questName->the [adjAny] [asker_royalTitleInCurrentFaction]</li>
+    <li>adjAny->hunted</li>
+    <li>adjAny->fleeing</li>
+    <li>adjAny->solitary</li>
+    <li>adjAny->ambushed</li>
+  </Intro_Wimp.questNameRules.rulesStrings>
+  <Intro_Wimp.LetterLabelAnimalArrived.slateRef>[animalKindDef_label] arrived</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
+  <Intro_Wimp.LetterTextAnimalArrived.slateRef>The [animalKindDef_label] that [asker_nameDef] was fleeing has arrived.\n\nIt turned out to be quite gentle and not aggressive at all.</Intro_Wimp.LetterTextAnimalArrived.slateRef>
+  <Intro_Wimp.LetterLabelAngryAnimal.slateRef>Manhunting [animalKindDef_label]</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
+  <Intro_Wimp.LetterTextAngryAnimal.slateRef>The [animalKindDef_label] which was following [asker_nameFull] has arrived in the area.</Intro_Wimp.LetterTextAngryAnimal.slateRef>
+  <Intro_Wimp.InspectStringDepartShuttle.slateRef>Should depart on shuttle</Intro_Wimp.InspectStringDepartShuttle.slateRef>
+  <Intro_Wimp.LetterLabelShuttleArrived.slateRef>Shuttle arrived</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
+  <Intro_Wimp.LetterTextShuttleArrived.slateRef>The shuttle has arrived to collect [asker_nameDef].</Intro_Wimp.LetterTextShuttleArrived.slateRef>
+  <Intro_Wimp.LetterLabelGuestDied.slateRef>Guest died: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
+  <Intro_Wimp.LetterTextGuestDied.slateRef>{SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
+  <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>Unauthorized surgery: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. Because of this violation, [asker_pronoun] will now attempt to leave. [failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.LetterLabelCaptured.slateRef>Captured: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
+  <Intro_Wimp.LetterTextCaptured.slateRef>{SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
+  <Intro_Wimp.LetterLabelGuestLost.slateRef>Guest lost: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
+  <Intro_Wimp.LetterTextGuestLost.slateRef>{SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
+  <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>Guest lost: {SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterTextLodgerRanWild.slateRef>{SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon]</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>Shuttle destroyed</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>The shuttle sent to collect [asker_nameDef] has been destroyed. [asker_pronoun] will now leave on foot. [failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterLabelQuestFailed.slateRef>Quest failed: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
+  <Intro_Wimp.LetterTextQuestFailed.slateRef>The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
+</LanguageData>

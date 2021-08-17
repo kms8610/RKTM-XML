@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimaTreeLinking.label>anima tree linking</AnimaTreeLinking.label>
+  <AnimaTreeLinking.description>Start the anima tree linking ceremony. The linking person will meditate near the tree to gain a psylink level. Other psychically-sensitive colonists can also  help enhance the psychic link. More participants will accelerate the ceremony and cause some of the anima grass to re-grow as the ritual completes.</AnimaTreeLinking.description>
+  
+  <Beckon.label>beckon</Beckon.label>
+  <Beckon.description>Psychically command the target to approach the caster.</Beckon.description>
+  
+  <Berserk.label>berserk</Berserk.label>
+  <Berserk.description>Induce an angry psychosis in the target's mind, causing them to attack anyone nearby.</Berserk.description>
+  
+  <BerserkPulse.label>berserk pulse</BerserkPulse.label>
+  <BerserkPulse.description>Generate an overwhelming rush of undirected rage in everyone near the target point.</BerserkPulse.description>
+  
+  <BlindingPulse.label>blinding pulse</BlindingPulse.label>
+  <BlindingPulse.description>Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point.</BlindingPulse.description>
+  
+  <BulletShield.label>skipshield</BulletShield.label>
+  <BulletShield.description>Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected.</BulletShield.description>
+  
+  <Burden.label>burden</Burden.label>
+  <Burden.description>Slow the target for a short time by suppressing motor activity in the brain.</Burden.description>
+  
+  <ChaosSkip.label>chaos skip</ChaosSkip.label>
+  <ChaosSkip.description>Teleport the target to a random position near where he started.</ChaosSkip.description>
+  
+  <Chunkskip.label>chunk skip</Chunkskip.label>
+  <Chunkskip.description>Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.</Chunkskip.description>
+  
+  <EntropyDump.label>neural heat dump</EntropyDump.label>
+  <EntropyDump.description>Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted.</EntropyDump.description>
+  
+  <Farskip.label>farskip</Farskip.label>
+  <Farskip.description>Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map.</Farskip.description>
+  
+  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.description>Use differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating.</Flashstorm.description>
+  
+  <Focus.label>focus</Focus.label>
+  <Focus.description>Psychically focus the target's mind, boosting their sight, hearing and moving capacities.</Focus.description>
+  
+  <Invisibility.label>invisibility</Invisibility.label>
+  <Invisibility.description>Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time.</Invisibility.description>
+  
+  <ManhunterPulse.label>manhunter pulse</ManhunterPulse.label>
+  <ManhunterPulse.description>Drive nearby animals into a manhunting rage using a psychic pulse.</ManhunterPulse.description>
+  
+  <MassChaosSkip.label>mass chaos skip</MassChaosSkip.label>
+  <MassChaosSkip.description>Skip everyone near a target point to a random location nearby.</MassChaosSkip.description>
+  
+  <Neuroquake.label>neuroquake</Neuroquake.label>
+  <Neuroquake.description>Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe, inner, circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.</Neuroquake.description>
+  <Neuroquake.confirmationDialogText>If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake?</Neuroquake.confirmationDialogText>
+  
+  <Painblock.label>painblock</Painblock.label>
+  <Painblock.description>Block pain pathways in the target's brain for a short time. This can allow a person to move and act even with grievous injuries which would normally incapacitate them.</Painblock.description>
+  
+  <Skip.label>skip</Skip.label>
+  <Skip.description>Teleport the target to a desired position not too far from his starting point.</Skip.description>
+  
+  <Smokepop.label>smokepop</Smokepop.label>
+  <Smokepop.description>Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.</Smokepop.description>
+  
+  <SolarPinhole.label>solar pinhole</SolarPinhole.label>
+  <SolarPinhole.description>Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants.</SolarPinhole.description>
+  
+  <Speech.label>throne speech</Speech.label>
+  <Speech.description>Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities.</Speech.description>
+  
+  <Stun.label>stun</Stun.label>
+  <Stun.description>Momentarily disrupt motor function in the target's brain, preventing any movement.</Stun.description>
+  
+  <VertigoPulse.label>vertigo pulse</VertigoPulse.label>
+  <VertigoPulse.description>Interfere with the spatial orientation sense of everyone near the target point, causing intermittent loss of balance. Flesh creatures will become extremely nauseous as well.</VertigoPulse.description>
+  
+  <Wallraise.label>wallraise</Wallraise.label>
+  <Wallraise.description>Form a temporary wall by skipping rubble and soil up from deep under the ground.</Wallraise.description>
+  
+  <Waterskip.label>waterskip</Waterskip.label>
+  <Waterskip.description>Douse a target area in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers.</Waterskip.description>
+  
+  <WordOfInspiration.label>word of inspiration</WordOfInspiration.label>
+  <WordOfInspiration.description>Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them.</WordOfInspiration.description>
+  
+  <WordOfJoy.label>word of joy</WordOfJoy.label>
+  <WordOfJoy.description>Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.</WordOfJoy.description>
+  
+  <WordOfLove.label>word of love</WordOfLove.label>
+  <WordOfLove.description>Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another.</WordOfLove.description>
+  
+  <WordOfSerenity.label>word of serenity</WordOfSerenity.label>
+  <WordOfSerenity.description>Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.</WordOfSerenity.description>
+  
+  <WordOfTrust.label>word of trust</WordOfTrust.label>
+  <WordOfTrust.description>Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit him.</WordOfTrust.description>
+</LanguageData>

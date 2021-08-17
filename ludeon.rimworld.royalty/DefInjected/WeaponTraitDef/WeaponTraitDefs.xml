@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <HungerMaker.label>hunger pangs</HungerMaker.label>
+  <HungerMaker.description>This weapon's persona loves food, and transmits that onto whoever bonds with it. The bonded person's hunger rate will be 50% higher.</HungerMaker.description>
+  
+  <Jealous.label>jealous</Jealous.label>
+  <Jealous.description>This weapon's persona becomes angry when the bonded individual uses another weapon, thus reducing their mood.</Jealous.description>
+  
+  <NeedKill.label>kill thirst</NeedKill.label>
+  <NeedKill.description>This weapon's persona find purpose in bloodshed. If it does not kill for 20 days, it will become angry and psychically complain to whoever is bonded to it.</NeedKill.description>
+  
+  <NeuralHeatRecoveryGain.label>neural cooling</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>This weapon's persona has the ability to help dissipate the wielder's neural heat. The wielder's neural heat dissipation is improved by 0.15 per second.</NeuralHeatRecoveryGain.description>
+  
+  <NeverBond.label>freewielder</NeverBond.label>
+  <NeverBond.description>This weapon's persona does not form bonds in the normal way. Anyone can pick it up and use it.</NeverBond.description>
+  
+  <NoPain.label>painless</NoPain.label>
+  <NoPain.description>This weapon's persona has some method of psychically disabling pain. The one holding the weapon will feel no pain of any kind.</NoPain.description>
+  
+  <OnKill_PsyfocusGain.label>kill-focused</OnKill_PsyfocusGain.label>
+  <OnKill_PsyfocusGain.description>This weapon's persona focuses on deaths. If the weapon kills someone, the wielder will instantly gain 20% psyfocus.</OnKill_PsyfocusGain.description>
+  
+  <OnKill_ThoughtBad.label>kill sorrow</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtBad.description>This weapon's persona hates killing. If this weapon kills someone, its sorrow will transmit psychically to the wielder, reducing their mood for a few days.</OnKill_ThoughtBad.description>
+  
+  <OnKill_ThoughtGood.label>kill-happy</OnKill_ThoughtGood.label>
+  <OnKill_ThoughtGood.description>This weapon's persona loves to kill. If this weapon kills someone, its joy will transmit psychically to the wielder, making them happier for a few days.</OnKill_ThoughtGood.description>
+  
+  <PsychicSensitivityDownMajor.label>psychic fog</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMajor.description>This weapon suppresses the wielder's psychic sensitivity by 30%. This only applies while the weapon is held.</PsychicSensitivityDownMajor.description>
+  
+  <PsychicSensitivityDownMinor.label>psychic quiet</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityDownMinor.description>This weapon suppresses the wielder's psychic sensitivity by 15%. This only applies while the weapon is held.</PsychicSensitivityDownMinor.description>
+  
+  <PsychicSensitivityUpMajor.label>psychic hypersensitizer</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMajor.description>This weapon amplifies the wielder's psychic sensitivity by 40%. This only applies while the weapon is held.</PsychicSensitivityUpMajor.description>
+  
+  <PsychicSensitivityUpMinor.label>psychic sensitizer</PsychicSensitivityUpMinor.label>
+  <PsychicSensitivityUpMinor.description>This weapon amplifies the wielder's psychic sensitivity by 20%. This only applies while the weapon is held.</PsychicSensitivityUpMinor.description>
+  
+  <PsyfocusMeditationBonus.label>psy-meditative</PsyfocusMeditationBonus.label>
+  <PsyfocusMeditationBonus.description>This weapon's persona is naturally meditative and helps its wielder focus in psychic meditation. The wielder gains an extra 10% psyfocus per day of meditation, as long as the weapon is held.</PsyfocusMeditationBonus.description>
+  
+  <SpeedBoost.label>fast mover</SpeedBoost.label>
+  <SpeedBoost.description>This weapon's persona has a sense of motion. It confers this onto the wielder, making them move 15% faster as long as the weapon is held.</SpeedBoost.description>
+  
+  <ThoughtCalm.label>calm thoughts</ThoughtCalm.label>
+  <ThoughtCalm.description>This weapon's persona is relaxed and steady. It whispers calming thoughts to whoever it is bonded with, increasing their mood.</ThoughtCalm.description>
+  
+  <ThoughtKind.label>kind thoughts</ThoughtKind.label>
+  <ThoughtKind.description>This weapon's persona is kind and supportive. It whispers kind thoughts to whoever it is bonded with, increasing their mood.</ThoughtKind.description>
+  
+  <ThoughtMuttering.label>mad muttering</ThoughtMuttering.label>
+  <ThoughtMuttering.description>This weapon's persona is neurotic and unstable. It mutters mad thoughts to whoever it is bonded with, reducing their mood.</ThoughtMuttering.description>
+  
+  <ThoughtWailing.label>mad wailing</ThoughtWailing.label>
+  <ThoughtWailing.description>This weapon's persona is highly disturbed and won't shut up about it. It wails mad notions to whoever it is bonded with, suppressing their mood.</ThoughtWailing.description>
+</LanguageData>
