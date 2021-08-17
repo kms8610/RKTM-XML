@@ -46,7 +46,6 @@
     <li>story(uses=1,priority=-10)->[founderName] carried a [relic0_thingDef_label] named [relic0_name] with [founder_objective] everywhere to remind people to live a [memeAdjective] life.</li>
   </IdeologicalFounder.rules.rulesStrings>
   
-  <IdeologicalLesson.noCapitalizeFirstSentence.0>lesson</IdeologicalLesson.noCapitalizeFirstSentence.0>
   <IdeologicalLesson.rules.rulesStrings>
     <li>lesson(priority=-1)->stuff happens</li>
     <li>r_pattern->"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
