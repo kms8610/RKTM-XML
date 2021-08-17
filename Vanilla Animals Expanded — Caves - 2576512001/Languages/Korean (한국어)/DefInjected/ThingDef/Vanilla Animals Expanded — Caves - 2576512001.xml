@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAECaves_Cocoon.label>spider cocoon</VAECaves_Cocoon.label>
+  <VAECaves_Cocoon.description>A spider cocoon. It might contain prey. If the cocoon isn't opened soon its ocupant will surely suffocate and perish.</VAECaves_Cocoon.description>
+  <VAECaves_EmptyCocoon.label>empty spider cocoon</VAECaves_EmptyCocoon.label>
+  <VAECaves_EmptyCocoon.description>An empty spider cocoon.</VAECaves_EmptyCocoon.description>
+  <VAECaves_SpiderLair.label>spider lair</VAECaves_SpiderLair.label>
+  <VAECaves_SpiderLair.description>A spider lair.</VAECaves_SpiderLair.description>
+  <VAECaves_SpiderEggs.label>spider eggs</VAECaves_SpiderEggs.label>
+  <VAECaves_SpiderEggs.description>Spider eggs.</VAECaves_SpiderEggs.description>
+  <VAECaves_EggSalamanderFertilized.label>blind salamander egg (fert.)</VAECaves_EggSalamanderFertilized.label>
+  <VAECaves_EggSalamanderFertilized.description>A fertilized blind salamander egg. If all goes well, it should hatch into a blind salamander. It can be eaten raw, but it's much better cooked.\n\nSpecial mechanics: blind salamander eggs are very fragile, and will be ruined if kept outside a narrow temperature range (5 to 25 ºC).</VAECaves_EggSalamanderFertilized.description>
+  <VAECaves_CaveCrawlerEggFertilized.label>cave crawler egg (fert.)</VAECaves_CaveCrawlerEggFertilized.label>
+  <VAECaves_CaveCrawlerEggFertilized.description>Fertilized cave crawler egg. It can be eaten raw, but it's much, much better cooked. Actually, it's an insect egg, it is disgusting either way... If all goes well, it should hatch into a cave crawler.</VAECaves_CaveCrawlerEggFertilized.description>
+  <VAECaves_RangedSilk.label>ranged silk</VAECaves_RangedSilk.label>
+  <VAECaves_Filth_Webs.label>spider webs</VAECaves_Filth_Webs.label>
+  <VAECaves_AncientGiantSpider.label>ancient giant spider</VAECaves_AncientGiantSpider.label>
+  <VAECaves_AncientGiantSpider.description>A type of arthropod, Giant Spiders are in fact nowhere near the size of the common house spiders humans are used to. However, similar rules apply - they lay eggs in spider lairs, sting their prey with venomous stinger and wrap it in cocoons for when the time is right to feast. They regenerate their wounds fast and are very susceptible to fire.\n\nAn incredibly rare and even more dangerous life stage of a giant spider, ancient spiders have lived for hundreds of years and mastered their killing tools. They are capable of a ranged web splash attack that will cover the area in dense spiderwebs. If left not taken care of, an ancient giant spider can quickly turn even bigger settlements into giant husks of spiderweb and eggs.\n\nSpecial mechanics: If attacked, all other giant spiders nearby, in any life stage, will enrage and assault the colony. Its melee attacks will cause infections.</VAECaves_AncientGiantSpider.description>
+  <VAECaves_AncientGiantSpider.verbs.0.label>ranged silk</VAECaves_AncientGiantSpider.verbs.0.label>
+  <VAECaves_AncientGiantSpider.tools.0.label>mandibles</VAECaves_AncientGiantSpider.tools.0.label>
+  <VAECaves_AncientGiantSpider.tools.1.label>mandibles</VAECaves_AncientGiantSpider.tools.1.label>
+  <VAECaves_AncientGiantSpider.tools.2.label>head</VAECaves_AncientGiantSpider.tools.2.label>
+  <VAECaves_BlindSalamander.label>blind salamander</VAECaves_BlindSalamander.label>
+  <VAECaves_BlindSalamander.description>An amphibian that primarily or exclusively inhabits caves. Some of these animals have developed special pigmentation mutations, allowing them to have beautiful colors that are very pleasant to look at. Many people are fascinated by all the different variations, and will stop at nothing to catch them all.\n\nSpecial mechanics: There are five colour variations, with different commonalities: red and black blind salamanders are common, blue and yellow are rare, and the orange salamander is very elusive. If you tame all five colours your colonists will receive a mood boost, increased for colonists that are bound to any of the salamanders.</VAECaves_BlindSalamander.description>
+  <VAECaves_BlindSalamander.tools.0.label>left claw</VAECaves_BlindSalamander.tools.0.label>
+  <VAECaves_BlindSalamander.tools.1.label>right claw</VAECaves_BlindSalamander.tools.1.label>
+  <VAECaves_BlindSalamander.tools.3.label>head</VAECaves_BlindSalamander.tools.3.label>
+  <VAECaves_CaveBear.label>cave bear</VAECaves_CaveBear.label>
+  <VAECaves_CaveBear.description>A huge omnivorous mammal adapted for colder climates. Bears' thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey and scavenged meat, the cave bear is capable of using its massive strength and deadly claws to kill live prey - however they rarely do so, as they prefer to forage for much tastier treats. They are startlingly quick for such lumbering creatures.</VAECaves_CaveBear.description>
+  <VAECaves_CaveBear.tools.0.label>left claw</VAECaves_CaveBear.tools.0.label>
+  <VAECaves_CaveBear.tools.1.label>right claw</VAECaves_CaveBear.tools.1.label>
+  <VAECaves_CaveBear.tools.3.label>head</VAECaves_CaveBear.tools.3.label>
+  <VAECaves_CaveCrawler.label>cave crawler</VAECaves_CaveCrawler.label>
+  <VAECaves_CaveCrawler.description>Cave crawlers are an aberration created by experiments of some forgotten mad scientist. They are large, pale yellow insectoids whose appearance was akin to megapede. Cave crawlers possess venomous tentacles protruding from their head which allows them to quickly apply very potent venom to whatever dares attack them.\n\nSpecial mechanics: Cave crawler bites can transmit the bubonic plague, making them specially dangerous in close quarters.</VAECaves_CaveCrawler.description>
+  <VAECaves_CaveCrawler.tools.0.label>mandibles</VAECaves_CaveCrawler.tools.0.label>
+  <VAECaves_CaveCrawler.tools.1.label>head</VAECaves_CaveCrawler.tools.1.label>
+  <VAECaves_GiantSpider.label>giant spider</VAECaves_GiantSpider.label>
+  <VAECaves_GiantSpider.description>A type of arthropod, Giant Spiders are in fact nowhere near the size of the common house spiders humans are used to. However, similar rules apply - they lay eggs in spider lairs, sting their prey with venomous stinger and wrap it in cocoons for when the time is right to feast. They regenerate their wounds fast and are very susceptible to fire.\n\nThe mature giant spider is the most commonly met life stage of a giant spider. Their powerful fang bite will stun their prey for a very long period of time, giving the giant spider enough time to wrap it in the spidersilk cocoon.\n\nSpecial mechanics: If attacked, all other giant spiders nearby, in any life stage, will enrage and assault the colony.</VAECaves_GiantSpider.description>
+  <VAECaves_GiantSpider.tools.0.label>mandibles</VAECaves_GiantSpider.tools.0.label>
+  <VAECaves_GiantSpider.tools.1.label>head</VAECaves_GiantSpider.tools.1.label>
+  <VAECaves_GiantSpiderHatchling.label>giant spider hatchling</VAECaves_GiantSpiderHatchling.label>
+  <VAECaves_GiantSpiderHatchling.description>A type of arthropod, Giant Spiders are in fact nowhere near the size of the common house spiders humans are used to. However, similar rules apply - they lay eggs in spider lairs, sting their prey with venomous stinger and wrap it in cocoons for when the time is right to feast. They regenerate their wounds fast and are very susceptible to fire.\n\nThe giant spider hatchling is an elusive, young Giant Spider that quickly grows in size. They haven’t yet developed their hunting mechanisms, however they can still disable their enemies with potent venom.\n\nSpecial mechanics: Turns into a mature giant spider in a little less than two days. If an ancient giant spider is attacked nearby, it will go manhunter.</VAECaves_GiantSpiderHatchling.description>
+  <VAECaves_GiantSpiderHatchling.tools.0.label>mandibles</VAECaves_GiantSpiderHatchling.tools.0.label>
+  <VAECaves_GiantSpiderHatchling.tools.1.label>head</VAECaves_GiantSpiderHatchling.tools.1.label>
+  <VAECaves_InsectoidHulk.label>insectoid hulk</VAECaves_InsectoidHulk.label>
+  <VAECaves_InsectoidHulk.description>Created by supremacist megacorporations for militaristic purposes, the insectoid hulks experiment was abandoned and existing samples were left scattered where no one would look - on rimworlds. Half insectoid, half human, mercy should not be expected from these giant, hulking siege engines. Designed to not overcome enemy defenses but remove them, hulks’ thick chitinous armor makes them hard to kill, while their huge arms make them deadly at close quarters. It is, however, quite slow in open terrain.\n\nSpecial mechanics: The insectoid hulk will enter a mindless rage after killing prey, making it very dangerous. Its attacks stun its victims, and it has a nasty tendency to rip limbs out of their socket, so approaching one in close combat is akin to suicide. When sufficiently enraged, an insectoid hulk can even trample fortifications and doors. Lacks any pain sensitivity.</VAECaves_InsectoidHulk.description>
+  <VAECaves_InsectoidHulk.tools.0.label>arm</VAECaves_InsectoidHulk.tools.0.label>
+  <VAECaves_InsectoidHulk.tools.1.label>two arm slam</VAECaves_InsectoidHulk.tools.1.label>
+  <VAECaves_InsectoidHulk.tools.2.label>head</VAECaves_InsectoidHulk.tools.2.label>
+  <VAECaves_Wyrm.label>wyrm</VAECaves_Wyrm.label>
+  <VAECaves_Wyrm.description>Wyrms are solitary creatures that live in the darkest cave systems, hunted to extinction in the core worlds. Their tails are able to apply an incredibly powerful toxin that quickly paralyzes their prey, while the sharp teeth rip flesh and steel to shreds.\n\nWyrms rarely bond with humans, but when they do, their bond is hard to break. A bonded wyrm will be more ferocious and brave when defending their master, but if the master dies, the wyrm will run away and live the rest of their life in solitude, never bonding with anyone again.</VAECaves_Wyrm.description>
+  <VAECaves_Wyrm.tools.0.label>left claw</VAECaves_Wyrm.tools.0.label>
+  <VAECaves_Wyrm.tools.1.label>right claw</VAECaves_Wyrm.tools.1.label>
+  <VAECaves_Wyrm.tools.3.label>tail</VAECaves_Wyrm.tools.3.label>
+</LanguageData>
