@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Anesthetize.label>anesthetize</Anesthetize.label>
+  <Anesthetize.description>Render a creature unconscious by administering general anesthetic.</Anesthetize.description>
+  <Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
+  
+  <Euthanize.label>euthanize by cut</Euthanize.label>
+  <Euthanize.description>Euthanize a creature by cutting.</Euthanize.description>
+  <Euthanize.jobString>Euthanizing by cutting.</Euthanize.jobString>
+  
+  <RemoveBodyPart.label>remove part</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Remove a body part.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Removing body part.</RemoveBodyPart.jobString>
+</LanguageData>

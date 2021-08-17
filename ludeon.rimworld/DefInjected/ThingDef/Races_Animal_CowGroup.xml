@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bison.label>bison</Bison.label>
+  <Bison.description>A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous.</Bison.description>
+  <Bison.tools.head.label>head</Bison.tools.head.label>
+  <Bison.tools.left_hoof.label>left hoof</Bison.tools.left_hoof.label>
+  <Bison.tools.right_hoof.label>right hoof</Bison.tools.right_hoof.label>
+  
+  <Boomalope.label>boomalope</Boomalope.label>
+  <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully.</Boomalope.description>
+  <Boomalope.tools.head.label>head</Boomalope.tools.head.label>
+  <Boomalope.tools.left_hoof.label>left hoof</Boomalope.tools.left_hoof.label>
+  <Boomalope.tools.right_hoof.label>right hoof</Boomalope.tools.right_hoof.label>
+  
+  <Caribou.label>caribou</Caribou.label>
+  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs.</Caribou.description>
+  <Caribou.tools.left_hoof.label>left hoof</Caribou.tools.left_hoof.label>
+  <Caribou.tools.right_hoof.label>right hoof</Caribou.tools.right_hoof.label>
+  <Caribou.tools.head.label>head</Caribou.tools.head.label>
+  
+  <Cow.label>cow</Cow.label>
+  <Cow.description>A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild.</Cow.description>
+  <Cow.race.meatLabel>beef</Cow.race.meatLabel>
+  <Cow.tools.head.label>head</Cow.tools.head.label>
+  <Cow.tools.left_hoof.label>left hoof</Cow.tools.left_hoof.label>
+  <Cow.tools.right_hoof.label>right hoof</Cow.tools.right_hoof.label>
+  
+  <Donkey.label>donkey</Donkey.label>
+  <Donkey.description>A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed.</Donkey.description>
+  <Donkey.tools.head.label>head</Donkey.tools.head.label>
+  <Donkey.tools.left_hoof.label>left hoof</Donkey.tools.left_hoof.label>
+  <Donkey.tools.right_hoof.label>right hoof</Donkey.tools.right_hoof.label>
+  
+  <Dromedary.label>dromedary</Dromedary.label>
+  <Dromedary.description>A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed.</Dromedary.description>
+  <Dromedary.tools.left_hoof.label>left hoof</Dromedary.tools.left_hoof.label>
+  <Dromedary.tools.right_hoof.label>right hoof</Dromedary.tools.right_hoof.label>
+  <Dromedary.tools.head.label>head</Dromedary.tools.head.label>
+  
+  <Elephant.label>elephant</Elephant.label>
+  <Elephant.description>The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before.</Elephant.description>
+  <Elephant.tools.tusk.label>tusk</Elephant.tools.tusk.label>
+  <Elephant.tools.left_foot.label>left foot</Elephant.tools.left_foot.label>
+  <Elephant.tools.right_foot.label>right foot</Elephant.tools.right_foot.label>
+  <Elephant.tools.head.label>head</Elephant.tools.head.label>
+  
+  <Elk.label>elk</Elk.label>
+  <Elk.description>A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs.</Elk.description>
+  <Elk.tools.left_hoof.label>left hoof</Elk.tools.left_hoof.label>
+  <Elk.tools.right_hoof.label>right hoof</Elk.tools.right_hoof.label>
+  <Elk.tools.head.label>head</Elk.tools.head.label>
+  
+  <Goat.label>goat</Goat.label>
+  <Goat.description>Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind.</Goat.description>
+  <Goat.tools.head.label>head</Goat.tools.head.label>
+  
+  <Horse.label>horse</Horse.label>
+  <Horse.description>A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed.</Horse.description>
+  <Horse.race.meatLabel>horse meat</Horse.race.meatLabel>
+  <Horse.tools.head.label>head</Horse.tools.head.label>
+  <Horse.tools.left_hoof.label>left hoof</Horse.tools.left_hoof.label>
+  <Horse.tools.right_hoof.label>right hoof</Horse.tools.right_hoof.label>
+  
+  <Muffalo.label>muffalo</Muffalo.label>
+  <Muffalo.description>A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed.</Muffalo.description>
+  <Muffalo.tools.head.label>head</Muffalo.tools.head.label>
+  <Muffalo.tools.left_hoof.label>left hoof</Muffalo.tools.left_hoof.label>
+  <Muffalo.tools.right_hoof.label>right hoof</Muffalo.tools.right_hoof.label>
+  
+  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+  <Rhinoceros.description>Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body.</Rhinoceros.description>
+  <Rhinoceros.tools.horn-0.label>horn</Rhinoceros.tools.horn-0.label>
+  <Rhinoceros.tools.horn-1.label>horn</Rhinoceros.tools.horn-1.label>
+  <Rhinoceros.tools.head.label>head</Rhinoceros.tools.head.label>
+  
+  <Yak.label>yak</Yak.label>
+  <Yak.description>Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow.</Yak.description>
+  <Yak.race.meatLabel>yak beef</Yak.race.meatLabel>
+  <Yak.tools.head.label>head</Yak.tools.head.label>
+  <Yak.tools.left_hoof.label>left hoof</Yak.tools.left_hoof.label>
+  <Yak.tools.right_hoof.label>right hoof</Yak.tools.right_hoof.label>
+</LanguageData>

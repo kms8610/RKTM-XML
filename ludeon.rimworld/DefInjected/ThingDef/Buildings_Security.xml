@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Barricade.label>barricade</Barricade.label>
+  <Barricade.description>A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do.</Barricade.description>
+  
+  <Sandbags.label>sandbags</Sandbags.label>
+  <Sandbags.description>Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects.</Sandbags.description>
+  
+  <TrapIED_AntigrainWarhead.label>IED antigrain warhead trap</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.description>An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_AntigrainWarhead.description>
+  
+  <TrapIED_EMP.label>IED EMP trap</TrapIED_EMP.label>
+  <TrapIED_EMP.description>A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_EMP.description>
+  
+  <TrapIED_Firefoam.label>IED firefoam trap</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.description>A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_Firefoam.description>
+  
+  <TrapIED_HighExplosive.label>IED trap</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.description>A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_HighExplosive.description>
+  
+  <TrapIED_Incendiary.label>IED incendiary trap</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.description>A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_Incendiary.description>
+  
+  <TrapIED_Smoke.label>IED Smoke trap</TrapIED_Smoke.label>
+  <TrapIED_Smoke.description>A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_Smoke.description>
+  
+  <TrapSpike.label>spike trap</TrapSpike.label>
+  <TrapSpike.description>Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapSpike.description>
+</LanguageData>

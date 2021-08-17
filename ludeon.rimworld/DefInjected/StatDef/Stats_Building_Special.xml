@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
+  
+  <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
+  
+  <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>
+  
+  <JoyGainFactor.label>recreation power</JoyGainFactor.label>
+  <JoyGainFactor.description>How effectively this item entertains people and fulfills the need for recreation.</JoyGainFactor.description>
+  
+  <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Medical tend quality is offset by this value.</MedicalTendQualityOffset.description>
+  
+  <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>The speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Room cleanliness</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  
+  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  
+  <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly.</TrapMeleeDamage.description>
+  
+  <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
+  <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
+  
+  <WorkTableEfficiencyFactor.label>work efficiency factor</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.description>Work efficiency is multiplied by this value.</WorkTableEfficiencyFactor.description>
+  
+  <WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
+  
+  <WorkToBuild.label>work to build</WorkToBuild.label>
+  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.</WorkToBuild.description>
+</LanguageData>

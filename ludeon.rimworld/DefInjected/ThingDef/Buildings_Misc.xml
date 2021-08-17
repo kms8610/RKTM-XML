@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AncientCryptosleepCasket.label>ancient cryptosleep casket</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.description>This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?</AncientCryptosleepCasket.description>
+  
+  <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
+  <CaravanPackingSpot.description>Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process.</CaravanPackingSpot.description>
+  
+  <CommsConsole.label>comms console</CommsConsole.label>
+  <CommsConsole.description>Allows radio contact with other factions and orbital traders.</CommsConsole.description>
+  
+  <CryptosleepCasket.label>cryptosleep casket</CryptosleepCasket.label>
+  <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
+  
+  <EggBox.label>egg box</EggBox.label>
+  <EggBox.description>A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage.</EggBox.description>
+  
+  <FirefoamPopper.label>firefoam popper</FirefoamPopper.label>
+  <FirefoamPopper.description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually.</FirefoamPopper.description>
+  <FirefoamPopper.comps.CompUsable.useLabel>Trigger firefoam popper</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <Grave.label>grave</Grave.label>
+  <Grave.description>A decent final resting place. Colonists will visit full graves to gain meditative joy.</Grave.description>
+  
+  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof.</GroundPenetratingScanner.description>
+  
+  <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it.</LongRangeMineralScanner.description>
+  
+  <MarriageSpot.label>marriage spot</MarriageSpot.label>
+  <MarriageSpot.description>Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.</MarriageSpot.description>
+  
+  <MoisturePump.label>moisture pump</MoisturePump.label>
+  <MoisturePump.description>Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water.</MoisturePump.description>
+  
+  <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer.</MultiAnalyzer.description>
+  
+  <OrbitalTradeBeacon.label>orbital trade beacon</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.description>Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors.</OrbitalTradeBeacon.description>
+  
+  <PartySpot.label>party spot</PartySpot.label>
+  <PartySpot.description>Designates a spot for throwing parties.</PartySpot.description>
+  
+  <PenMarker.label>pen marker</PenMarker.label>
+  <PenMarker.description>A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen.</PenMarker.description>
+  
+  <PodLauncher.label>pod launcher</PodLauncher.label>
+  <PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher.description>
+  
+  <Sarcophagus.label>sarcophagus</Sarcophagus.label>
+  <Sarcophagus.description>An ornamented burial receptacle for the honored dead.</Sarcophagus.description>
+  
+  <SteleGrand.label>grand stele</SteleGrand.label>
+  <SteleGrand.description>A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleGrand.description>
+  
+  <SteleLarge.label>large stele</SteleLarge.label>
+  <SteleLarge.description>A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</SteleLarge.description>
+  
+  <ToolCabinet.label>tool cabinet</ToolCabinet.label>
+  <ToolCabinet.description>Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets.</ToolCabinet.description>
+  
+  <TransportPod.label>transport pod</TransportPod.label>
+  <TransportPod.description>A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles.</TransportPod.description>
+  
+  <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
+  <VitalsMonitor.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect.</VitalsMonitor.description>
+</LanguageData>

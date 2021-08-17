@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size.</ButcheryFleshEfficiency.description>
+  
+  <ButcheryFleshSpeed.label>butchery speed</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>The speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
+  
+  <ButcheryMechanoidEfficiency.label>mechanoid shredding efficiency</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size.</ButcheryMechanoidEfficiency.description>
+  
+  <ButcheryMechanoidSpeed.label>mechanoid shredding speed</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>The speed at which this person can shred a mechanoid for resources.</ButcheryMechanoidSpeed.description>
+  
+  <CookSpeed.label>cooking speed</CookSpeed.label>
+  <CookSpeed.description>The speed at which this person cooks meals.</CookSpeed.description>
+  
+  <DrugCookingSpeed.label>drug cooking speed</DrugCookingSpeed.label>
+  <DrugCookingSpeed.description>The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints.</DrugCookingSpeed.description>
+  
+  <DrugSynthesisSpeed.label>drug synthesis speed</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.description>How fast this character synthesizes complex chemical drugs.</DrugSynthesisSpeed.description>
+  
+  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
+  <FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting.</FoodPoisonChance.description>
+  <FoodPoisonChance.labelForFullStatList>food poison chance (chance to poison a meal)</FoodPoisonChance.labelForFullStatList>
+  
+  <GeneralLaborSpeed.label>general labor speed</GeneralLaborSpeed.label>
+  <GeneralLaborSpeed.description>The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production.</GeneralLaborSpeed.description>
+  
+  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
+  <SmeltingSpeed.description>The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill.</SmeltingSpeed.description>
+</LanguageData>

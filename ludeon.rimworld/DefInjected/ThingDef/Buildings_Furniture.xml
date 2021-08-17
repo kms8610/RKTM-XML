@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalBed.label>animal bed</AnimalBed.label>
+  <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
+  
+  <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
+  
+  <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
+  
+  <Armchair.label>armchair</Armchair.label>
+  <Armchair.description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</Armchair.description>
+  
+  <Bed.label>bed</Bed.label>
+  <Bed.description>A cozy mattress and sheets on a frame for resting.</Bed.description>
+  
+  <Bedroll.label>bedroll</Bedroll.label>
+  <Bedroll.description>A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
+  
+  <BedrollDouble.label>double bedroll</BedrollDouble.label>
+  <BedrollDouble.description>A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</BedrollDouble.description>
+  
+  <DiningChair.label>dining chair</DiningChair.label>
+  <DiningChair.description>A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere.</DiningChair.description>
+  
+  <DoubleBed.label>double bed</DoubleBed.label>
+  <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
+  
+  <DoubleSleepingSpot.label>double sleeping spot</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot.description>
+  
+  <Dresser.label>dresser</Dresser.label>
+  <Dresser.description>A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.</Dresser.description>
+  
+  <EndTable.label>end table</EndTable.label>
+  <EndTable.description>A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</EndTable.description>
+  
+  <HospitalBed.label>hospital bed</HospitalBed.label>
+  <HospitalBed.description>A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds.</HospitalBed.description>
+  
+  <PlantPot.label>plant pot</PlantPot.label>
+  <PlantPot.description>Plant decorative flowers here to improve the mood of people nearby.</PlantPot.description>
+  
+  <RoyalBed.label>royal bed</RoyalBed.label>
+  <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two.</RoyalBed.description>
+  
+  <Shelf.label>shelf</Shelf.label>
+  <Shelf.description>A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.</Shelf.description>
+  
+  <SleepingSpot.label>sleeping spot</SleepingSpot.label>
+  <SleepingSpot.description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot.description>
+  
+  <StandingLamp.label>standing lamp</StandingLamp.label>
+  <StandingLamp.description>An electrical standing lamp that lights an area. People need light to move and work at full speed.</StandingLamp.description>
+  
+  <StandingLamp_Blue.label>standing lamp (blue)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>A standing lamp that lights an area in blue.</StandingLamp_Blue.description>
+  
+  <StandingLamp_Green.label>standing lamp (green)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>A standing lamp that lights an area in green.</StandingLamp_Green.description>
+  
+  <StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>A standing lamp that lights an area in red.</StandingLamp_Red.description>
+  
+  <Stool.label>stool</Stool.label>
+  <Stool.description>A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere.</Stool.description>
+  
+  <SunLamp.label>sun lamp</SunLamp.label>
+  <SunLamp.description>An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
+  <SunLamp.comps.CompSchedule.offMessage>Off for plant resting period</SunLamp.comps.CompSchedule.offMessage>
+  
+  <Table1x2c.label>table (1x2)</Table1x2c.label>
+  <Table1x2c.description>People eat off tables when chairs are placed facing them.</Table1x2c.description>
+  
+  <Table2x2c.label>table (2x2)</Table2x2c.label>
+  <Table2x2c.description>People eat off tables when chairs are placed facing them.</Table2x2c.description>
+  
+  <Table2x4c.label>table (2x4)</Table2x4c.label>
+  <Table2x4c.description>People eat off tables when chairs are placed facing them.</Table2x4c.description>
+  
+  <Table3x3c.label>table (3x3)</Table3x3c.label>
+  <Table3x3c.description>People eat off tables when chairs are placed facing them.</Table3x3c.description>
+  
+  <TorchLamp.label>torch lamp</TorchLamp.label>
+  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
+</LanguageData>

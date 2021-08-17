@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Beauty.degreeDatas.beautiful.label>beautiful</Beauty.degreeDatas.beautiful.label>
+  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth.</Beauty.degreeDatas.beautiful.description>
+  <Beauty.degreeDatas.pretty.label>pretty</Beauty.degreeDatas.pretty.label>
+  <Beauty.degreeDatas.pretty.description>[PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective].</Beauty.degreeDatas.pretty.description>
+  <Beauty.degreeDatas.ugly.label>ugly</Beauty.degreeDatas.ugly.label>
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions.</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.label>staggeringly ugly</Beauty.degreeDatas.staggeringly_ugly.label>
+  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing.</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <DrugDesire.degreeDatas.chemical_fascination.label>chemical fascination</DrugDesire.degreeDatas.chemical_fascination.label>
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_interest.label>chemical interest</DrugDesire.degreeDatas.chemical_interest.label>
+  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.teetotaler.label>teetotaler</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs.</DrugDesire.degreeDatas.teetotaler.description>
+  
+  <Immunity.degreeDatas.superimmune.label>super-immune</Immunity.degreeDatas.superimmune.label>
+  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.sickly.label>sickly</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.</Immunity.degreeDatas.sickly.description>
+  
+  <Industriousness.degreeDatas.industrious.label>industrious</Industriousness.degreeDatas.industrious.label>
+  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.</Industriousness.degreeDatas.industrious.description>
+  <Industriousness.degreeDatas.hard_worker.label>hard worker</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] is a natural hard worker and will finish tasks faster than most.</Industriousness.degreeDatas.hard_worker.description>
+  <Industriousness.degreeDatas.lazy.label>lazy</Industriousness.degreeDatas.lazy.label>
+  <Industriousness.degreeDatas.lazy.description>[PAWN_nameDef] is a little bit lazy.</Industriousness.degreeDatas.lazy.description>
+  <Industriousness.degreeDatas.slothful.label>slothful</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task.</Industriousness.degreeDatas.slothful.description>
+  
+  <NaturalMood.degreeDatas.sanguine.label>sanguine</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.optimist.label>optimist</NaturalMood.degreeDatas.optimist.label>
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down.</NaturalMood.degreeDatas.optimist.description>
+  <NaturalMood.degreeDatas.pessimist.label>pessimist</NaturalMood.degreeDatas.pessimist.label>
+  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] tends to look on the bad side of life.</NaturalMood.degreeDatas.pessimist.description>
+  <NaturalMood.degreeDatas.depressive.label>depressive</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine.</NaturalMood.degreeDatas.depressive.description>
+  
+  <Nerves.degreeDatas.ironwilled.label>iron-willed</Nerves.degreeDatas.ironwilled.label>
+  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before.</Nerves.degreeDatas.ironwilled.description>
+  <Nerves.degreeDatas.steadfast.label>steadfast</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people.</Nerves.degreeDatas.steadfast.description>
+  <Nerves.degreeDatas.nervous.label>nervous</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef] tends to crack under pressure.</Nerves.degreeDatas.nervous.description>
+  <Nerves.degreeDatas.volatile.label>volatile</Nerves.degreeDatas.volatile.label>
+  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation.</Nerves.degreeDatas.volatile.description>
+  
+  <Neurotic.degreeDatas.neurotic.label>neurotic</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective].</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.label>very neurotic</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective].</Neurotic.degreeDatas.very_neurotic.description>
+  
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>psychically hypersensitive</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>psychically sensitive</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>psychically dull</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>psychically deaf</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>careful shooter</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>trigger-happy</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately.</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  <SpeedOffset.degreeDatas.slowpoke.label>slowpoke</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere.</SpeedOffset.degreeDatas.slowpoke.description>
+  <SpeedOffset.degreeDatas.fast_walker.label>fast walker</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people.</SpeedOffset.degreeDatas.fast_walker.description>
+  <SpeedOffset.degreeDatas.jogger.label>jogger</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up.</SpeedOffset.degreeDatas.jogger.description>
+</LanguageData>

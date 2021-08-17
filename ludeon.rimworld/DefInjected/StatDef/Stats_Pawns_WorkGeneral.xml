@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
+  
+  <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
+  <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
+  
+  <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>The chance that this person will succeed in constructing something.\nFailing means wasting time and resources.</ConstructSuccessChance.description>
+  
+  <ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
+  <ConstructionSpeed.description>The speed at which this person constructs and repairs buildings.</ConstructionSpeed.description>
+  
+  <DeepDrillingSpeed.label>deep drilling speed</DeepDrillingSpeed.label>
+  <DeepDrillingSpeed.description>A speed at which this person uses a deep drill to extract underground resources.</DeepDrillingSpeed.description>
+  
+  <DrugHarvestYield.label>drug crop harvest yield</DrugHarvestYield.label>
+  <DrugHarvestYield.description>The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant.</DrugHarvestYield.description>
+  
+  <FixBrokenDownBuildingSuccessChance.label>repair success chance</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage.</FixBrokenDownBuildingSuccessChance.description>
+  
+  <HuntingStealth.label>hunting stealth</HuntingStealth.label>
+  <HuntingStealth.description>This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack.</HuntingStealth.description>
+  
+  <MiningSpeed.label>mining speed</MiningSpeed.label>
+  <MiningSpeed.description>A speed at which this person mines away walls.</MiningSpeed.description>
+  
+  <MiningYield.label>mining yield</MiningYield.label>
+  <MiningYield.description>The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills.</MiningYield.description>
+  
+  <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
+  <PlantHarvestYield.description>The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest.</PlantHarvestYield.description>
+  
+  <PlantWorkSpeed.label>plant work speed</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>The speed at which this person sows and harvests plants.</PlantWorkSpeed.description>
+  
+  <ResearchSpeed.label>research speed</ResearchSpeed.label>
+  <ResearchSpeed.description>How fast this person performs research and how quickly they can find things using scanning equipment.</ResearchSpeed.description>
+  
+  <SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
+  <SmoothingSpeed.description>A multiplier on the speed at which this person smooths rough stone floors and walls.</SmoothingSpeed.description>
+  
+  <WorkSpeedGlobal.label>global work speed</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>A multiplier on a character's speed at doing any kind of work.</WorkSpeedGlobal.description>
+</LanguageData>

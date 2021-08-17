@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalsLearningFactor.label>animals learning factor</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.description>A multiplier on the learning rate for animals skill.</AnimalsLearningFactor.description>
+  
+  <CaravanRidingSpeedFactor.label>caravan riding speed</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.description>The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans.</CaravanRidingSpeedFactor.description>
+  
+  <CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
+  <CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips.</CarryingCapacity.description>
+  
+  <ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
+  
+  <ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
+  
+  <EatingSpeed.label>eating speed</EatingSpeed.label>
+  <EatingSpeed.description>A multiplier on eating speed.</EatingSpeed.description>
+  
+  <FilthRate.label>filth rate</FilthRate.label>
+  <FilthRate.description>How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem.</FilthRate.description>
+  
+  <ForagedNutritionPerDay.label>foraged food amount</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.description>The amount of nutrition this person will automatically forage per day while traveling by caravan.</ForagedNutritionPerDay.description>
+  
+  <GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>A multiplier on the learning rate for all skills.</GlobalLearningFactor.description>
+  
+  <HungerRateMultiplier.label>hunger rate multiplier</HungerRateMultiplier.label>
+  <HungerRateMultiplier.description>A multiplier on how quickly a creature becomes hungry.</HungerRateMultiplier.description>
+  
+  <ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
+  
+  <InjuryHealingFactor.label>injury healing factor</InjuryHealingFactor.label>
+  <InjuryHealingFactor.description>The multiplier applied to a person's injury healing rate.</InjuryHealingFactor.description>
+  
+  <LeatherAmount.label>leather amount</LeatherAmount.label>
+  <LeatherAmount.description>The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed.</LeatherAmount.description>
+  
+  <MeatAmount.label>meat amount</MeatAmount.label>
+  <MeatAmount.description>The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed.</MeatAmount.description>
+  
+  <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are.</MentalBreakThreshold.description>
+  
+  <MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
+  
+  <MoveSpeed.label>move speed</MoveSpeed.label>
+  <MoveSpeed.description>Speed of movement in cells per second.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  
+  <PainShockThreshold.label>pain shock threshold</PainShockThreshold.label>
+  <PainShockThreshold.description>The pain level at which this creature is downed from pain.</PainShockThreshold.description>
+  
+  <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
+  <PsychicSensitivity.description>More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit.</PsychicSensitivity.description>
+  
+  <RestRateMultiplier.label>rest rate multiplier</RestRateMultiplier.label>
+  <RestRateMultiplier.description>A multiplier on how quickly a creature rests while sleeping.</RestRateMultiplier.description>
+  
+  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this creature.</ToxicSensitivity.description>
+</LanguageData>

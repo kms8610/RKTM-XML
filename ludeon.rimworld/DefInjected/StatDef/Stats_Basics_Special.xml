@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ConstructionSpeedFactor.label>construction speed</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.description>The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast.</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.labelForFullStatList>construction speed (material factor)</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <FilthMultiplier.label>filth multiplier</FilthMultiplier.label>
+  <FilthMultiplier.description>How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact.</FilthMultiplier.description>
+  
+  <MedicalPotency.label>medical potency</MedicalPotency.label>
+  <MedicalPotency.description>How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck.</MedicalPotency.description>
+  
+  <MedicalQualityMax.label>medical tend quality maximum</MedicalQualityMax.label>
+  <MedicalQualityMax.description>The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably.</MedicalQualityMax.description>
+  
+  <MeditationFocusStrength.label>meditation psyfocus bonus</MeditationFocusStrength.label>
+  <MeditationFocusStrength.description>The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating.</MeditationFocusStrength.description>
+  <MeditationFocusStrength.formatString>{0} / day</MeditationFocusStrength.formatString>
+  <MeditationFocusStrength.formatStringUnfinalized>{0} / day</MeditationFocusStrength.formatStringUnfinalized>
+  
+  <PsychicSensitivityOffset.label>psychic sensitivity offset</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.description>An offset applied to the user's psychic sensitivity.</PsychicSensitivityOffset.description>
+</LanguageData>

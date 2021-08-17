@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalFlap.label>animal flap</AnimalFlap.label>
+  <AnimalFlap.description>A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep.</AnimalFlap.description>
+  
+  <Autodoor.label>autodoor</Autodoor.label>
+  <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
+  
+  <Column.label>column</Column.label>
+  <Column.description>A column capable of holding a roof. Does not block sight or movement and looks quite nice.</Column.description>
+  
+  <Door.label>door</Door.label>
+  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
+  
+  <Fence.label>fence</Fence.label>
+  <Fence.description>A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Fences only block certain kinds of animals.</Fence.description>
+  
+  <FenceGate.label>fence gate</FenceGate.label>
+  <FenceGate.description>A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates.</FenceGate.description>
+  
+  <Wall.label>wall</Wall.label>
+  <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
+</LanguageData>

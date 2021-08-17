@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+  
+  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+  
+  <ColdSnap.label>cold snap</ColdSnap.label>
+  <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
+  
+  <CropBlight.label>crop blight</CropBlight.label>
+  
+  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  
+  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
+  
+  <HeatWave.label>heat wave</HeatWave.label>
+  <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
+  
+  <HerdMigration.label>herd migration</HerdMigration.label>
+  <HerdMigration.letterLabel>Animal migration: {0}</HerdMigration.letterLabel>
+  <HerdMigration.letterText>A group of {0} is passing through the area.\n\nThey won't attack unless provoked.</HerdMigration.letterText>
+  
+  <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
+  <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterText>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MeteoriteImpact.letterText>
+  
+  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+  
+  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+  
+  <RansomDemand.label>ransom demand</RansomDemand.label>
+  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
+  
+  <RefugeePodCrash.label>transport pod crash</RefugeePodCrash.label>
+  
+  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
+  
+  <SelfTame.label>self-tame</SelfTame.label>
+  
+  <ShortCircuit.label>short circuit</ShortCircuit.label>
+  
+  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
+  
+  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
+  <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
+  
+  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+  <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
+  
+  <WandererJoin.label>wanderer join</WandererJoin.label>
+  <WandererJoin.letterLabel>방랑자 합류: {PAWN_nameDef}</WandererJoin.letterLabel>
+  <WandererJoin.letterText>{PAWN_title}, {PAWN_nameDef}(이)라는 이름의 방랑자가 도착하여 정착지에 합류하려고 합니다.\n\n{PAWN_pronoun}는 정착지에 이바지할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일 수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</WandererJoin.letterText>
+  
+  <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
+  <WildManWandersIn.letterLabel>{PAWN_kind} wanders in</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}.</WildManWandersIn.letterText>
+</LanguageData>

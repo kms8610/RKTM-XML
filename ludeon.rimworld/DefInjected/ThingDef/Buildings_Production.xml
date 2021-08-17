@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BiofuelRefinery.label>biofuel refinery</BiofuelRefinery.label>
+  <BiofuelRefinery.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery.description>
+  
+  <Brewery.label>brewery</Brewery.label>
+  <Brewery.description>A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer.</Brewery.description>
+  
+  <ButcherSpot.label>butcher spot</ButcherSpot.label>
+  <ButcherSpot.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot.description>
+  
+  <CraftingSpot.label>crafting spot</CraftingSpot.label>
+  <CraftingSpot.description>A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools.</CraftingSpot.description>
+  
+  <DeepDrill.label>deep drill</DeepDrill.label>
+  <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely.</DeepDrill.description>
+  
+  <DrugLab.label>drug lab</DrugLab.label>
+  <DrugLab.description>A work bench equipped with containers, heaters, and measurement devices for producing various drugs.</DrugLab.description>
+  
+  <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+  <ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium.description>
+  
+  <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
+  <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
+  
+  <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+  <ElectricSmithy.description>An electric-powered station for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+  
+  <ElectricStove.label>electric stove</ElectricStove.label>
+  <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+  
+  <ElectricTailoringBench.label>electric tailor bench</ElectricTailoringBench.label>
+  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed.</ElectricTailoringBench.description>
+  
+  <FabricationBench.label>fabrication bench</FabricationBench.label>
+  <FabricationBench.description>A workbench equipped with advanced tools for producing technological marvels from simpler materials.</FabricationBench.description>
+  
+  <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
+  <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+  
+  <FueledSmithy.label>fueled smithy</FueledSmithy.label>
+  <FueledSmithy.description>A wood-fueled station for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+  
+  <FueledStove.label>fueled stove</FueledStove.label>
+  <FueledStove.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+  
+  <HandTailoringBench.label>hand tailor bench</HandTailoringBench.label>
+  <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+  
+  <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
+  <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</HiTechResearchBench.description>
+  
+  <Hopper.label>hopper</Hopper.label>
+  <Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper.description>
+  
+  <HydroponicsBasin.label>hydroponics basin</HydroponicsBasin.label>
+  <HydroponicsBasin.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</HydroponicsBasin.description>
+  
+  <NutrientPasteDispenser.label>nutrient paste dispenser</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
+  
+  <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
+  <SimpleResearchBench.description>A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things.</SimpleResearchBench.description>
+  
+  <TableButcher.label>butcher table</TableButcher.label>
+  <TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.description>
+  
+  <TableMachining.label>machining table</TableMachining.label>
+  <TableMachining.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</TableMachining.description>
+  
+  <TableSculpting.label>art bench</TableSculpting.label>
+  <TableSculpting.description>A workbench equipped for creating art.</TableSculpting.description>
+  
+  <TableStonecutter.label>stonecutter's table</TableStonecutter.label>
+  <TableStonecutter.description>A work table with saws and chisels for cutting stone chunks into usable blocks.</TableStonecutter.description>
+</LanguageData>

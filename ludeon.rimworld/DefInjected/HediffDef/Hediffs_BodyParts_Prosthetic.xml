@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.description>An installed cochlear implant.</CochlearImplant.description>
+  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+  
+  <Joywire.label>joywire</Joywire.label>
+  <Joywire.description>An installed joywire implant.</Joywire.description>
+  <Joywire.labelNoun>a joywire</Joywire.labelNoun>
+  
+  <Painstopper.label>painstopper</Painstopper.label>
+  <Painstopper.description>An installed painstopper implant.</Painstopper.description>
+  <Painstopper.labelNoun>a painstopper</Painstopper.labelNoun>
+  
+  <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.description>An installed power claw.</PowerClaw.description>
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>claw</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
+  
+  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>An installed prosthetic arm.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+  
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>An installed prosthetic heart.</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+  
+  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>An installed prosthetic leg.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Ambush.label>ambush</Ambush.label>
+  <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
+  <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
+  
+  <CaravanDemand.label>payment demand</CaravanDemand.label>
+  
+  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  
+  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
+  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterText>{0} has been ambushed by scaria-infected manhunting {1}!</ManhunterAmbush.letterText>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CenterDrop.textEnemy>A group of {0} from {1} have dropped in right on top of you!</CenterDrop.textEnemy>
+  <CenterDrop.textFriendly>A group of friendly {0} from {1} have dropped in right on top of you!</CenterDrop.textFriendly>
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} will arrive in transport pods right on top of you.</CenterDrop.textWillArrive>
+  
+  <EdgeDrop.textEnemy>A group of {0} from {1} have arrived in transport pods nearby.</EdgeDrop.textEnemy>
+  <EdgeDrop.textFriendly>A group of friendly {0} from {1} have arrived in transport pods nearby.</EdgeDrop.textFriendly>
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} will arrive in transport pods.</EdgeDrop.textWillArrive>
+  
+  <EdgeDropGroups.textEnemy>Several separate groups of {0} from {1} have arrived in transport pods nearby.</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textFriendly>Several separate groups of friendly {0} from {1} have arrived in transport pods nearby.</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textWillArrive>Several separate groups of {0_pawnsPluralDef} will arrive in transport pods.</EdgeDropGroups.textWillArrive>
+  
+  <EdgeWalkIn.textEnemy>A group of {0} from {1} have arrived nearby.</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textFriendly>A group of friendly {0} from {1} have arrived nearby.</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textWillArrive>{0_pawnsPluralDef} will arrive on foot.</EdgeWalkIn.textWillArrive>
+  
+  <EdgeWalkInGroups.textEnemy>{0} from {1} have arrived nearby, approaching from multiple angles.</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textFriendly>Friendly {0} from {1} have arrived nearby, approaching from multiple angles.</EdgeWalkInGroups.textFriendly>
+  <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} will arrive on foot, approaching from several angles at once.</EdgeWalkInGroups.textWillArrive>
+  
+  <MechClusterDrop.textEnemy>A cluster of {0} have landed in drop pods nearby.</MechClusterDrop.textEnemy>
+  <MechClusterDrop.textWillArrive>The mech cluster will arrive in drop pods.</MechClusterDrop.textWillArrive>
+  
+  <RandomDrop.textEnemy>A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</RandomDrop.textEnemy>
+  <RandomDrop.textFriendly>A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</RandomDrop.textFriendly>
+  <RandomDrop.textWillArrive>{0_pawnsPluralDef} will arrive in transport pods.</RandomDrop.textWillArrive>
+</LanguageData>

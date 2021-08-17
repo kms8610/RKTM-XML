@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Beer.label>beer</Beer.label>
+  <Beer.description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction.</Beer.description>
+  <Beer.ingestible.ingestCommandString>Drink {0}</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestReportString>Drinking {0}.</Beer.ingestible.ingestReportString>
+  <Beer.tools.bottle.label>bottle</Beer.tools.bottle.label>
+  <Beer.tools.neck.label>neck</Beer.tools.neck.label>
+  
+  <Wort.label>wort</Wort.label>
+  <Wort.description>Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer.</Wort.description>
+</LanguageData>
