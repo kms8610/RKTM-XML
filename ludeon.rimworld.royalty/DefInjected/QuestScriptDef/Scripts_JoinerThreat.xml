@@ -92,7 +92,10 @@
     <li>threat(priority=1,site/MechCluster_exists==True)->mechanoids</li>
     <li>threat(priority=1,site/SleepingMechanoids_exists==True)->mechanoids</li>
     <li>threat->[joiner_possessive] enemies</li>
-    <!--(항목 4개 미사용)-->
+    <li>joinersEnemies(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]</li>
+    <li>joinersEnemies(priority=1,site/MechCluster_exists==True)->mechanoids</li>
+    <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)->mechanoids</li>
+    <li>joinersEnemies->[joiner_possessive] enemies</li>
   </ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
   <ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
     <li>questName->[joiner_nameDef]'s [site/site_label]</li>
