@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <HackingSpeed.label>hacking speed</HackingSpeed.label>
+  <HackingSpeed.description>How fast this person can hack into computer terminals.</HackingSpeed.description>
+  
+  <PruningSpeed.label>pruning speed</PruningSpeed.label>
+  <PruningSpeed.description>A multiplier on how fast this person can prune a Gauranlen tree to maintain their connection with it.\n\nPruning is more of a contemplative psychic task than a physical one, so health factors like vision are unimportant here.</PruningSpeed.description>
+  
+  <SuppressionPower.label>suppression power</SuppressionPower.label>
+  <SuppressionPower.description>A multiplier on a warden's ability to suppress slaves.</SuppressionPower.description>
+</LanguageData>

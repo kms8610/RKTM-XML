@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Cannibalism_Abhorrent.label>abhorrent</Cannibalism_Abhorrent.label>
+  <Cannibalism_Abhorrent.description>Eating human flesh is a deeply abhorrent and disgusting act.</Cannibalism_Abhorrent.description>
+  <Cannibalism_Abhorrent.comps.5.description>Humanleather apparel</Cannibalism_Abhorrent.comps.5.description>
+  
+  <Cannibalism_Acceptable.label>acceptable</Cannibalism_Acceptable.label>
+  <Cannibalism_Acceptable.description>Human meat is just meat, like any other.</Cannibalism_Acceptable.description>
+  
+  <Cannibalism_Disapproved.label>disapproved</Cannibalism_Disapproved.label>
+  <Cannibalism_Disapproved.description>Eating human flesh is an ugly thing to do.</Cannibalism_Disapproved.description>
+  <Cannibalism_Disapproved.comps.5.description>Humanleather apparel</Cannibalism_Disapproved.comps.5.description>
+  
+  <Cannibalism_Horrible.label>horrible</Cannibalism_Horrible.label>
+  <Cannibalism_Horrible.description>Eating human flesh is a horrible thing to do.</Cannibalism_Horrible.description>
+  <Cannibalism_Horrible.comps.5.description>Humanleather apparel</Cannibalism_Horrible.comps.5.description>
+  
+  <Cannibalism_Preferred.label>preferred</Cannibalism_Preferred.label>
+  <Cannibalism_Preferred.description>To consume human meat is a noble and necessary part of life.</Cannibalism_Preferred.description>
+  <Cannibalism_Preferred.comps.1.description>No human meat for {HUMANMEATREQUIREDINTERVAL} days</Cannibalism_Preferred.comps.1.description>
+  <Cannibalism_Preferred.comps.2.description>Humanleather apparel</Cannibalism_Preferred.comps.2.description>
+  
+  <Cannibalism_RequiredRavenous.label>required (ravenous)</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredRavenous.description>Man-flesh is morality. To eat a meal without it is unthinkable.</Cannibalism_RequiredRavenous.description>
+  <Cannibalism_RequiredRavenous.comps.3.description>No human meat for {HUMANMEATREQUIREDINTERVAL} days</Cannibalism_RequiredRavenous.comps.3.description>
+  <Cannibalism_RequiredRavenous.comps.4.description>Humanleather apparel</Cannibalism_RequiredRavenous.comps.4.description>
+  
+  <Cannibalism_RequiredStrong.label>required (strong)</Cannibalism_RequiredStrong.label>
+  <Cannibalism_RequiredStrong.description>Consuming human flesh is important. It should be in every meal.</Cannibalism_RequiredStrong.description>
+  <Cannibalism_RequiredStrong.comps.3.description>No human meat for {HUMANMEATREQUIREDINTERVAL} days</Cannibalism_RequiredStrong.comps.3.description>
+  <Cannibalism_RequiredStrong.comps.4.description>Humanleather apparel</Cannibalism_RequiredStrong.comps.4.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalProductsSellImprovement.label>animal products price improvement</AnimalProductsSellImprovement.label>
+  <AnimalProductsSellImprovement.description>When this person sells meat, leather, or wool, prices are improved by this percentage.</AnimalProductsSellImprovement.description>
+  
+  <SlaveSuppressionFallRate.label>slave suppression fall rate</SlaveSuppressionFallRate.label>
+  <SlaveSuppressionFallRate.description>The rate at which slave suppression falls.</SlaveSuppressionFallRate.description>
+  <SlaveSuppressionFallRate.formatString>{0} per day</SlaveSuppressionFallRate.formatString>
+  <SlaveSuppressionFallRate.formatStringUnfinalized>{0} per day</SlaveSuppressionFallRate.formatStringUnfinalized>
+</LanguageData>

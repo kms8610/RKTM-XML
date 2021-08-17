@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <IdeoBuildingDisrespected.stages.disrespected.label>{BUILDING_labelCap} disrespected</IdeoBuildingDisrespected.stages.disrespected.label>
+  <IdeoBuildingDisrespected.stages.disrespected.description>We have {BUILDING_labelIndef}, but it needs to be placed in a room that satisfies the proper requirements.</IdeoBuildingDisrespected.stages.disrespected.description>
+  
+  <IdeoBuildingMissing.stages.Missing.label>Missing {BUILDING_label}</IdeoBuildingMissing.stages.Missing.label>
+  <IdeoBuildingMissing.stages.Missing.description>We must have {BUILDING_labelIndef}.</IdeoBuildingMissing.stages.Missing.description>
+</LanguageData>

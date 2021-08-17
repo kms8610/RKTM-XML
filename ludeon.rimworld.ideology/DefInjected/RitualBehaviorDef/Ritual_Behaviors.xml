@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BlindingCeremony.roles.0.label>target</BlindingCeremony.roles.0.label>
+  <BlindingCeremony.roles.0.missingDesc>the person to blind</BlindingCeremony.roles.0.missingDesc>
+  <BlindingCeremony.roles.1.label>cutter</BlindingCeremony.roles.1.label>
+  <BlindingCeremony.roles.1.missingDesc>the person who performs the blinding</BlindingCeremony.roles.1.missingDesc>
+  
+  <BurnCircle.spectatorGerund>participate</BurnCircle.spectatorGerund>
+  <BurnCircle.spectatorsLabel>Participants</BurnCircle.spectatorsLabel>
+  
+  <CelebrationPartyDanceDrum.spectatorGerund>participate</CelebrationPartyDanceDrum.spectatorGerund>
+  <CelebrationPartyDanceDrum.spectatorsLabel>Participants</CelebrationPartyDanceDrum.spectatorsLabel>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>Campfire is missing.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Campfire is not lit.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>No drums.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  
+  <CelebrationSkyLanterns.spectatorGerund>participate</CelebrationSkyLanterns.spectatorGerund>
+  <CelebrationSkyLanterns.spectatorsLabel>Participants</CelebrationSkyLanterns.spectatorsLabel>
+  
+  <CelebrationTree.spectatorGerund>participate</CelebrationTree.spectatorGerund>
+  <CelebrationTree.spectatorsLabel>Participants</CelebrationTree.spectatorsLabel>
+  
+  <Conversion.roles.0.label>speaker</Conversion.roles.0.label>
+  <Conversion.roles.1.label>convertee</Conversion.roles.1.label>
+  <Conversion.stages.0.failTriggers.0.desc>Prisoner is not reachable.</Conversion.stages.0.failTriggers.0.desc>
+  
+  <DancePartyTech.spectatorGerund>participate</DancePartyTech.spectatorGerund>
+  <DancePartyTech.spectatorsLabel>Participants</DancePartyTech.spectatorsLabel>
+  <DancePartyTech.stages.0.failTriggers.0.desc>Lightball is missing.</DancePartyTech.stages.0.failTriggers.0.desc>
+  <DancePartyTech.stages.0.failTriggers.1.desc>Lightball is not powered.</DancePartyTech.stages.0.failTriggers.1.desc>
+  <DancePartyTech.stages.0.failTriggers.2.desc>No powered loudspeakers.</DancePartyTech.stages.0.failTriggers.2.desc>
+  
+  <DateRitual.roles.0.label>speaker</DateRitual.roles.0.label>
+  <DateRitual.spectatorGerund>participate</DateRitual.spectatorGerund>
+  <DateRitual.spectatorsLabel>Participants</DateRitual.spectatorsLabel>
+  <DateRitual.stages.0.postAction.text>{0}: The speech is over, and the party is beginning.</DateRitual.stages.0.postAction.text>
+  
+  <Execution.roles.0.label>executioner</Execution.roles.0.label>
+  <Execution.roles.0.missingDesc>an executioner</Execution.roles.0.missingDesc>
+  <Execution.roles.1.label>prisoner</Execution.roles.1.label>
+  <Execution.roles.1.missingDesc>a prisoner</Execution.roles.1.missingDesc>
+  <Execution.spectatorFilter.description>Spectators must be willing to watch the execution.</Execution.spectatorFilter.description>
+  <Execution.stages.0.failTriggers.0.desc>Prisoner is not reachable.</Execution.stages.0.failTriggers.0.desc>
+  
+  <FeastCannibal.spectatorGerund>participate</FeastCannibal.spectatorGerund>
+  <FeastCannibal.spectatorsLabel>Participants</FeastCannibal.spectatorsLabel>
+  
+  <Funeral.roles.0.label>speaker</Funeral.roles.0.label>
+  
+  <GladiatorDuel.roles.0.label>speaker</GladiatorDuel.roles.0.label>
+  <GladiatorDuel.roles.1.label>duelist</GladiatorDuel.roles.1.label>
+  <GladiatorDuel.roles.1.categoryLabel>duelists</GladiatorDuel.roles.1.categoryLabel>
+  <GladiatorDuel.roles.1.missingDesc>prisoners / slaves (duelists)</GladiatorDuel.roles.1.missingDesc>
+  <GladiatorDuel.roles.2.label>duelist</GladiatorDuel.roles.2.label>
+  <GladiatorDuel.roles.2.categoryLabel>duelists</GladiatorDuel.roles.2.categoryLabel>
+  <GladiatorDuel.roles.2.missingDesc>prisoners / slaves (duelists)</GladiatorDuel.roles.2.missingDesc>
+  <GladiatorDuel.roles.3.label>duelist escort</GladiatorDuel.roles.3.label>
+  <GladiatorDuel.roles.3.categoryLabel>duelist escorts</GladiatorDuel.roles.3.categoryLabel>
+  <GladiatorDuel.roles.3.missingDesc>non-downed colonists capable of hauling</GladiatorDuel.roles.3.missingDesc>
+  <GladiatorDuel.roles.4.label>duelist escort</GladiatorDuel.roles.4.label>
+  <GladiatorDuel.roles.4.categoryLabel>duelist escorts</GladiatorDuel.roles.4.categoryLabel>
+  <GladiatorDuel.roles.4.missingDesc>non-downed colonists capable of hauling</GladiatorDuel.roles.4.missingDesc>
+  <GladiatorDuel.spectatorGerund>participate</GladiatorDuel.spectatorGerund>
+  <GladiatorDuel.spectatorsLabel>Spectators</GladiatorDuel.spectatorsLabel>
+  <GladiatorDuel.stages.2.failTriggers.0.desc>Duelist is not reachable.</GladiatorDuel.stages.2.failTriggers.0.desc>
+  
+  <LeaderSpeech.letterText>{SPEAKER_labelShort} is giving a {RITUAL_labelIndef}.\n      \nIf all goes well, listeners will feel inspired, and gain respect for {SPEAKER_labelShort}. If it goes poorly, the speech will do social damage. Positive effects are reduced for non-{IDEOMEMBERS}.</LeaderSpeech.letterText>
+  <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
+  <LeaderSpeech.roles.0.label>speaker</LeaderSpeech.roles.0.label>
+  
+  <SacrificeAnimal.roles.0.label>cutter</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.0.missingDesc>몸 크기가 0.8 이상인 동물</SacrificeAnimal.roles.0.missingDesc>
+  <SacrificeAnimal.roles.1.label>sacrifice</SacrificeAnimal.roles.1.label>
+  <SacrificeAnimal.roles.1.missingDesc>an animal with body size of at least 0.8</SacrificeAnimal.roles.1.missingDesc>
+  <SacrificeAnimal.spectatorGerund>participate</SacrificeAnimal.spectatorGerund>
+  <SacrificeAnimal.spectatorsLabel>Participants</SacrificeAnimal.spectatorsLabel>
+  <SacrificeAnimal.stages.0.failTriggers.0.desc>Animal is not reachable.</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  
+  <SacrificePrisoner.roles.0.label>cutter</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.0.missingDesc>수감자</SacrificePrisoner.roles.0.missingDesc>
+  <SacrificePrisoner.roles.1.label>sacrifice</SacrificePrisoner.roles.1.label>
+  <SacrificePrisoner.roles.1.missingDesc>a prisoner</SacrificePrisoner.roles.1.missingDesc>
+  <SacrificePrisoner.spectatorGerund>participate</SacrificePrisoner.spectatorGerund>
+  <SacrificePrisoner.spectatorsLabel>Participants</SacrificePrisoner.spectatorsLabel>
+  <SacrificePrisoner.stages.0.failTriggers.0.desc>Prisoner is not reachable.</SacrificePrisoner.stages.0.failTriggers.0.desc>
+  
+  <ScarificationCeremony.roles.0.label>target</ScarificationCeremony.roles.0.label>
+  <ScarificationCeremony.roles.0.missingDesc>the person to scarify</ScarificationCeremony.roles.0.missingDesc>
+  <ScarificationCeremony.roles.1.label>cutter</ScarificationCeremony.roles.1.label>
+  <ScarificationCeremony.roles.1.missingDesc>the person who performs the scarification</ScarificationCeremony.roles.1.missingDesc>
+  
+  <SmokeCircle.spectatorGerund>participate</SmokeCircle.spectatorGerund>
+  <SmokeCircle.spectatorsLabel>Participants</SmokeCircle.spectatorsLabel>
+  
+  <TreeConnection.roles.0.label>connector</TreeConnection.roles.0.label>
+  <TreeConnection.spectatorGerund>spectate</TreeConnection.spectatorGerund>
+  <TreeConnection.spectatorsLabel>Spectators</TreeConnection.spectatorsLabel>
+  
+  <Trial.roles.0.label>judge</Trial.roles.0.label>
+  <Trial.roles.1.label>convict</Trial.roles.1.label>
+  
+  <TrialMentalState.roles.0.label>judge</TrialMentalState.roles.0.label>
+  <TrialMentalState.roles.1.label>convict</TrialMentalState.roles.1.label>
+  
+  <TrialPrisoner.roles.0.label>judge</TrialPrisoner.roles.0.label>
+  <TrialPrisoner.roles.1.label>convict</TrialPrisoner.roles.1.label>
+  <TrialPrisoner.stages.0.failTriggers.0.desc>Convicted prisoner is not reachable.</TrialPrisoner.stages.0.failTriggers.0.desc>
+</LanguageData>

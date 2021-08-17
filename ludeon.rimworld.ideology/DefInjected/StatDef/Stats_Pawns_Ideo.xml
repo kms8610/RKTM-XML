@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BiosculpterOccupantSpeed.label>biosculpter occupant speed</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.description>A multiplier on how quickly this person will complete a biosculpter pod cycle.</BiosculpterOccupantSpeed.description>
+  
+  <CertaintyLossFactor.label>global certainty loss factor</CertaintyLossFactor.label>
+  <CertaintyLossFactor.description>A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion.</CertaintyLossFactor.description>
+  
+  <ConversionPower.label>conversion power</ConversionPower.label>
+  <ConversionPower.description>How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses.</ConversionPower.description>
+  
+  <MeleeDodgeChanceIndoorsDarkOffset.label>melee dodge chance indoors dark</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>An offset on melee dodge chance if the target is indoors in the dark.</MeleeDodgeChanceIndoorsDarkOffset.description>
+  
+  <MeleeDodgeChanceIndoorsLitOffset.label>melee dodge chance indoors lit</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.description>An offset on melee dodge chance if the target is indoors and lit.</MeleeDodgeChanceIndoorsLitOffset.description>
+  
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>melee dodge chance outdoors night</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>An offset on melee dodge chance if the target is outdoors at night.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  
+  <MeleeDodgeChanceOutdoorsLitOffset.label>melee dodge chance outdoors day</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>An offset on melee dodge chance if the target is outdoors during the day.</MeleeDodgeChanceOutdoorsLitOffset.description>
+  
+  <MeleeHitChanceIndoorsDarkOffset.label>melee hit chance indoors dark</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.description>An offset on melee hit chance if the target is indoors in the dark.</MeleeHitChanceIndoorsDarkOffset.description>
+  
+  <MeleeHitChanceIndoorsLitOffset.label>melee hit chance indoors lit</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.description>An offset on melee hit chance if the target is indoors and lit.</MeleeHitChanceIndoorsLitOffset.description>
+  
+  <MeleeHitChanceOutdoorsDarkOffset.label>melee hit chance outdoors dark</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.description>An offset on melee hit chance if the target is outdoors at night.</MeleeHitChanceOutdoorsDarkOffset.description>
+  
+  <MeleeHitChanceOutdoorsLitOffset.label>melee hit chance outdoors lit</MeleeHitChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.description>An offset on melee hit chance if the target is outdoors during the day.</MeleeHitChanceOutdoorsLitOffset.description>
+  
+  <ShootingAccuracyIndoorsDarkOffset.label>shooting accuracy indoors dark</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.description>An offset on shooting accuracy if the target is indoors in the dark.</ShootingAccuracyIndoorsDarkOffset.description>
+  
+  <ShootingAccuracyIndoorsLitOffset.label>shooting accuracy indoors lit</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.description>An offset on shooting accuracy if the target is indoors and lit.</ShootingAccuracyIndoorsLitOffset.description>
+  
+  <ShootingAccuracyOutdoorsDarkOffset.label>shooting accuracy outdoors dark</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.description>An offset on shooting accuracy if the target is outdoors at night.</ShootingAccuracyOutdoorsDarkOffset.description>
+  
+  <ShootingAccuracyOutdoorsLitOffset.label>shooting accuracy outdoors lit</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.description>An offset on shooting accuracy if the target is outdoors during the day.</ShootingAccuracyOutdoorsLitOffset.description>
+  
+  <SocialIdeoSpreadFrequencyFactor.label>ideoligion spread chance</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.description>A multiplier on the chance that this person will try to convert other people to their own ideoligion.</SocialIdeoSpreadFrequencyFactor.description>
+</LanguageData>

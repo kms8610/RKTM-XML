@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Convert.label>convert</Convert.label>
+  <Convert.description>Wardens will attempt to convert the prisoner to their ideoligion.</Convert.description>
+  
+  <Enslave.label>enslave</Enslave.label>
+  <Enslave.description>Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them.</Enslave.description>
+  
+  <ReduceWill.label>reduce will</ReduceWill.label>
+  <ReduceWill.description>Wardens will threaten the prisoner to reduce their will, but won't enslave them.</ReduceWill.description>
+</LanguageData>

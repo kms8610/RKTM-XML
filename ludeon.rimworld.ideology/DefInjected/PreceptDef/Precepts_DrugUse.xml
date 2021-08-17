@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DrugUse_MedicalOnly.label>medical only</DrugUse_MedicalOnly.label>
+  <DrugUse_MedicalOnly.description>Poisoning the body for recreational purposes is a deeply immoral act.</DrugUse_MedicalOnly.description>
+  <DrugUse_MedicalOnly.comps.2.description>Ingest recreational drug</DrugUse_MedicalOnly.comps.2.description>
+  <DrugUse_MedicalOnly.comps.5.description>Administer recreational drug</DrugUse_MedicalOnly.comps.5.description>
+  
+  <DrugUse_MedicalOrSocial.label>medical or social only</DrugUse_MedicalOrSocial.label>
+  <DrugUse_MedicalOrSocial.description>A drink with a smoke is fine, especially with friends, but poisoning the body with powerful chemicals is wrong.</DrugUse_MedicalOrSocial.description>
+  <DrugUse_MedicalOrSocial.comps.2.description>Ingest hard drug</DrugUse_MedicalOrSocial.comps.2.description>
+  <DrugUse_MedicalOrSocial.comps.5.description>Administer hard drug</DrugUse_MedicalOrSocial.comps.5.description>
+  
+  <DrugUse_Prohibited.label>prohibited</DrugUse_Prohibited.label>
+  <DrugUse_Prohibited.description>The body should absolutely not be poisoned by chemicals. The only exception is the use of medicine in direct medical care.</DrugUse_Prohibited.description>
+  <DrugUse_Prohibited.comps.0.description>Ingest drug</DrugUse_Prohibited.comps.0.description>
+  <DrugUse_Prohibited.comps.5.description>Administer drug</DrugUse_Prohibited.comps.5.description>
+</LanguageData>
