@@ -23,7 +23,7 @@
   <RitualUnfilledRoles>In order to perform {0} you need to fill these roles</RitualUnfilledRoles>
 
   <IdeoBuildingMissing>{0} desired</IdeoBuildingMissing>
-  <IdeoBuildingMissingDesc>{1} requires that you have a {0} in your colony as long as {2} or higher.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissingDesc>{IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3}</IdeoBuildingMissingDesc>
   <IdeoBuildingRoomRequirementsDesc>In order to dignify {0}, these room requirements must be met</IdeoBuildingRoomRequirementsDesc>
   <IdeoBuildingExpectations>expectations are</IdeoBuildingExpectations>
 

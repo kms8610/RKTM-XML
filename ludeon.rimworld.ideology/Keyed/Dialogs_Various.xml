@@ -9,15 +9,20 @@
   <Date>Date</Date>
 
   <ChooseStructureMemesInfo>Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay.</ChooseStructureMemesInfo>
-  <ChooseNormalMemesInfo>Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others.</ChooseNormalMemesInfo>
+  <ChooseNormalMemesInfo>Choose {0}-{1} memes to form the foundational ideas of this ideoligion.</ChooseNormalMemesInfo>
   <NotEnoughMemes>Choose at least {0} meme.</NotEnoughMemes>
   <TooManyMemes>Choose at most {0} memes.</TooManyMemes>
   <ChooseStructureMeme>Choose structure.</ChooseStructureMeme>
   <IncompatibleMemes>{0_label} and {1_label} are incompatible.</IncompatibleMemes>
+  <SomeMemesHaveMoreImpact>Some of these have much more gameplay impact than others.</SomeMemesHaveMoreImpact>
+  <ChooseNormalMemesFluidIdeoInfo>Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time.</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseOrRemoveMeme>Choose a meme or remove a meme.</ChooseOrRemoveMeme>
+  <ReformIdeoResetChanges>Reset changes</ReformIdeoResetChanges>
 
   <ChangesRandomizePrecepts>{0} will re-randomize any precepts you have edited.\n\nDo you wish to continue?</ChangesRandomizePrecepts>
   
   <RoomRequirements>Room requirements</RoomRequirements>
+  <ConfirmChangeMemesForFluidIdeo>The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue?</ConfirmChangeMemesForFluidIdeo>
   
   <Role>role</Role>
   <ChooseRole>Assign role</ChooseRole>
@@ -53,6 +58,16 @@
   <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT} trait</AbilityIdeoConvertBreakdownMemeVsTrait>
 
   <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} was already counselled recently.</AbilityCantApplyAlreadyCounselled>
+
+  <ReformIdeo>Reform...</ReformIdeo>
+  <ReformIdeoligion>Reform ideoligion</ReformIdeoligion>
+  <ReformIdeoligionDesc>Reform your ideoligion by changing its structure, memes or style.</ReformIdeoligionDesc>
+  <ReformIdeoChangeStyles>Change styles</ReformIdeoChangeStyles>
+  <ReformIdeoAddOrRemoveMeme>Add or remove a meme</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddMeme>Add a meme</ReformIdeoAddMeme>
+  <ReformIdeoChooseOneChange>Choose one</ReformIdeoChooseOneChange>
+  <ReformIdeoChangeStructure>Change structure</ReformIdeoChangeStructure>
+  <ReformIdeoChangeAny>Change any of the following</ReformIdeoChangeAny>
 
   <!-- Slavery -->
   <CannotAssignBedToSlave>Slave</CannotAssignBedToSlave>
@@ -131,10 +146,15 @@
   <ChooseThingsDesc>Choose up to {0} {1}.</ChooseThingsDesc>
   <ChoosePeopleDesc>Choose up to {0} people.</ChoosePeopleDesc>
   <ChooseOnlySlavesInfo>If you only select slaves, you will play them as colonists in the next colony.</ChooseOnlySlavesInfo>
+  <ConfirmDecisionsTitle>Confirm decisions</ConfirmDecisionsTitle>
+  <ShipEscapeWillEndDescription>The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship.</ShipEscapeWillEndDescription>
+  <RemoveEquippedRelicsDescription>The colony's purchasers will only allow you to take one relic. Any relic not selected will be left behind, including:</RemoveEquippedRelicsDescription>
+  <WantToProceed>Would you like to proceed?</WantToProceed>
   <ConvertToPlayerIdeoligion>Convert</ConvertToPlayerIdeoligion>
   <RevertToPreviousIdeoligion>Revert</RevertToPreviousIdeoligion>
   <ExistingFollowerOfPlayerIdeoligion>Existing follower</ExistingFollowerOfPlayerIdeoligion>
   <AbandonArchotechStructuresWarningDialog>You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away.</AbandonArchotechStructuresWarningDialog>
+  <ItemQuantityTooltip>{0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1}</ItemQuantityTooltip>
 
   <ConfirmHackEnenyTerminal>Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}?</ConfirmHackEnenyTerminal>
 

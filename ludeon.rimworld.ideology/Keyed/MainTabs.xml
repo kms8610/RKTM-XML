@@ -30,6 +30,7 @@
   <RandomizeDeities>Randomize deities</RandomizeDeities>
   <AddDeity>Add deity</AddDeity>
   <ChooseMemes>Choose memes</ChooseMemes>
+  <ChooseStartingMeme>Choose starting meme</ChooseStartingMeme>
   <ChooseStructure>Choose structure</ChooseStructure>
   <ChooseCulture>Choose culture</ChooseCulture>
   <Culture>Culture</Culture>
@@ -95,8 +96,11 @@
   <IdeoImpactLabel_8>very strong</IdeoImpactLabel_8>
   <IdeoImpactLabel_9>extreme</IdeoImpactLabel_9>
   <InitialPlayerIdeo>This was your colony's starting ideoligion.</InitialPlayerIdeo>
+  <FluidIdeoTip>Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more.</FluidIdeoTip>
 
   <ResearchProjectHasDefsWithMissingMemes>{0} unlocks things which you cannot build because they require memes that none of your people believe</ResearchProjectHasDefsWithMissingMemes>
   <SelectedWorkTypeOpposedByIdeo>Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy.</SelectedWorkTypeOpposedByIdeo>
+
+  <DevelopmentPoints>Development points</DevelopmentPoints>
 
 </LanguageData>
