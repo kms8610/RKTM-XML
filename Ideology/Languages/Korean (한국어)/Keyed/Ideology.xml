@@ -19,7 +19,7 @@
   <RitualObligationDelayEffectDesc>{0} days: {1} mood on all {2}s.</RitualObligationDelayEffectDesc>
   <RitualUnfilledRoles>In order to perform {0} you need to fill these roles</RitualUnfilledRoles>
   <IdeoBuildingMissing>{0} desired</IdeoBuildingMissing>
-  <IdeoBuildingMissingDesc>{1} requires that you have a {0} in your colony as long as {2} or higher.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissingDesc>{IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3}</IdeoBuildingMissingDesc>
   <IdeoBuildingRoomRequirementsDesc>In order to dignify {0}, these room requirements must be met</IdeoBuildingRoomRequirementsDesc>
   <IdeoBuildingExpectations>expectations are</IdeoBuildingExpectations>
   <IdeoBuildingDisrespected>{0} disrespected</IdeoBuildingDisrespected>
@@ -69,13 +69,18 @@
   <DominantStyle>dominant style</DominantStyle>
   <Date>Date</Date>
   <ChooseStructureMemesInfo>Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay.</ChooseStructureMemesInfo>
-  <ChooseNormalMemesInfo>Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others.</ChooseNormalMemesInfo>
+  <ChooseNormalMemesInfo>Choose {0}-{1} memes to form the foundational ideas of this ideoligion.</ChooseNormalMemesInfo>
   <NotEnoughMemes>Choose at least {0} meme.</NotEnoughMemes>
   <TooManyMemes>Choose at most {0} memes.</TooManyMemes>
   <ChooseStructureMeme>Choose structure.</ChooseStructureMeme>
   <IncompatibleMemes>{0_label} and {1_label} are incompatible.</IncompatibleMemes>
+  <SomeMemesHaveMoreImpact>Some of these have much more gameplay impact than others.</SomeMemesHaveMoreImpact>
+  <ChooseNormalMemesFluidIdeoInfo>Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time.</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseOrRemoveMeme>Choose a meme or remove a meme.</ChooseOrRemoveMeme>
+  <ReformIdeoResetChanges>Reset changes</ReformIdeoResetChanges>
   <ChangesRandomizePrecepts>{0} will re-randomize any precepts you have edited.\n\nDo you wish to continue?</ChangesRandomizePrecepts>
   <RoomRequirements>Room requirements</RoomRequirements>
+  <ConfirmChangeMemesForFluidIdeo>The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue?</ConfirmChangeMemesForFluidIdeo>
   <Role>role</Role>
   <ChooseRole>Assign role</ChooseRole>
   <NoRoleAssigned>No role assigned</NoRoleAssigned>
@@ -108,6 +113,15 @@
   <AbilityIdeoConvertBreakdownPawnIdeo>{PAWN_nameDef}'s ideoligion</AbilityIdeoConvertBreakdownPawnIdeo>
   <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT} trait</AbilityIdeoConvertBreakdownMemeVsTrait>
   <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} was already counselled recently.</AbilityCantApplyAlreadyCounselled>
+  <ReformIdeo>Reform...</ReformIdeo>
+  <ReformIdeoligion>Reform ideoligion</ReformIdeoligion>
+  <ReformIdeoligionDesc>Reform your ideoligion by changing its structure, memes or style.</ReformIdeoligionDesc>
+  <ReformIdeoChangeStyles>Change styles</ReformIdeoChangeStyles>
+  <ReformIdeoAddOrRemoveMeme>Add or remove a meme</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddMeme>Add a meme</ReformIdeoAddMeme>
+  <ReformIdeoChooseOneChange>Choose one</ReformIdeoChooseOneChange>
+  <ReformIdeoChangeStructure>Change structure</ReformIdeoChangeStructure>
+  <ReformIdeoChangeAny>Change any of the following</ReformIdeoChangeAny>
   <CannotAssignBedToSlave>Slave</CannotAssignBedToSlave>
   <CannotAssignBedToColonist>Colonist</CannotAssignBedToColonist>
   <AnySlave>Any slave</AnySlave>
@@ -171,10 +185,15 @@
   <ChooseThingsDesc>Choose up to {0} {1}.</ChooseThingsDesc>
   <ChoosePeopleDesc>Choose up to {0} people.</ChoosePeopleDesc>
   <ChooseOnlySlavesInfo>If you only select slaves, you will play them as colonists in the next colony.</ChooseOnlySlavesInfo>
+  <ConfirmDecisionsTitle>Confirm decisions</ConfirmDecisionsTitle>
+  <ShipEscapeWillEndDescription>The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship.</ShipEscapeWillEndDescription>
+  <RemoveEquippedRelicsDescription>The colony's purchasers will only allow you to take one relic. Any relic not selected will be left behind, including:</RemoveEquippedRelicsDescription>
+  <WantToProceed>Would you like to proceed?</WantToProceed>
   <ConvertToPlayerIdeoligion>Convert</ConvertToPlayerIdeoligion>
   <RevertToPreviousIdeoligion>Revert</RevertToPreviousIdeoligion>
   <ExistingFollowerOfPlayerIdeoligion>Existing follower</ExistingFollowerOfPlayerIdeoligion>
   <AbandonArchotechStructuresWarningDialog>You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away.</AbandonArchotechStructuresWarningDialog>
+  <ItemQuantityTooltip>{0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1}</ItemQuantityTooltip>
   <ConfirmHackEnenyTerminal>Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}?</ConfirmHackEnenyTerminal>
   <RelicsSection>Relics</RelicsSection>
   <StatsReport_Slave>Multiplier for enslaved (low motivation)</StatsReport_Slave>
@@ -399,6 +418,8 @@
   <LetterTextArchonexusStructureResearched>You have completed your study of the {0_labelShort}.\n\nYou can't say that you understand it in any complete way, but you have detected patterns in its behavior and the way it seems to express information.\n\nWith this knowledge, you will be able to interpret the next piece of the archonexus map.</LetterTextArchonexusStructureResearched>
   <LetterLabelArchotechStructuresAbandoned>Archotech structures abandoned</LetterLabelArchotechStructuresAbandoned>
   <LetterTextArchotechStructuresAbandoned>You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left.</LetterTextArchotechStructuresAbandoned>
+  <LetterLabelReformIdeo>Reform ideoligion</LetterLabelReformIdeo>
+  <LetterTextReformIdeo>You have enough development points to reform {0}!\n\nReforming allows you to do one of the following:\n\n- Add a meme\n- Remove a meme\n- Change structure\n- Change style\n\nYou can also make unlimited changes to precepts, deities, narrative text, and other symbols.\n\nTo reform the ideoligion, open it in the ideoligions tab.</LetterTextReformIdeo>
   <Deities>Deities</Deities>
   <ButtonShowAllIdeoligions>Show all ideoligions</ButtonShowAllIdeoligions>
   <IdeoligionOf>Ideoligion of</IdeoligionOf>
@@ -427,6 +448,7 @@
   <RandomizeDeities>Randomize deities</RandomizeDeities>
   <AddDeity>Add deity</AddDeity>
   <ChooseMemes>Choose memes</ChooseMemes>
+  <ChooseStartingMeme>Choose starting meme</ChooseStartingMeme>
   <ChooseStructure>Choose structure</ChooseStructure>
   <ChooseCulture>Choose culture</ChooseCulture>
   <Culture>Culture</Culture>
@@ -492,8 +514,10 @@
   <IdeoImpactLabel_8>very strong</IdeoImpactLabel_8>
   <IdeoImpactLabel_9>extreme</IdeoImpactLabel_9>
   <InitialPlayerIdeo>This was your colony's starting ideoligion.</InitialPlayerIdeo>
+  <FluidIdeoTip>Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more.</FluidIdeoTip>
   <ResearchProjectHasDefsWithMissingMemes>{0} unlocks things which you cannot build because they require memes that none of your people believe</ResearchProjectHasDefsWithMissingMemes>
   <SelectedWorkTypeOpposedByIdeo>Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy.</SelectedWorkTypeOpposedByIdeo>
+  <DevelopmentPoints>Development points</DevelopmentPoints>
   <Slave>Slave</Slave>
   <ChooseNextColonySite>Choose next colony site</ChooseNextColonySite>
   <MessageMustChooseIdeo>Create or select an ideoligion for your faction.</MessageMustChooseIdeo>
@@ -552,6 +576,7 @@
   <MessageSleepingThreatDelayActivated>{0_pawnsPlural} will wake up in {1}.</MessageSleepingThreatDelayActivated>
   <MessageInfestationDelayActivated>Infestation arriving.</MessageInfestationDelayActivated>
   <MessageFuelNodeDelayActivated>{0} was disturbed and might explode soon!</MessageFuelNodeDelayActivated>
+  <MessageDevelopmentPointsEarned>Development points changed from {0} to {1} ({2}).</MessageDevelopmentPointsEarned>
   <CustomizeIdeoligion>Customize ideoligion</CustomizeIdeoligion>
   <ChooseYourIdeoligion>Choose your ideoligion</ChooseYourIdeoligion>
   <Random>Random</Random>
@@ -559,6 +584,7 @@
   <RandomStyleTip>A random style will be used for your ideoligion.</RandomStyleTip>
   <Customize>Customize</Customize>
   <PlayClassic>Play classic</PlayClassic>
+  <CreateFluid>Create fluid...</CreateFluid>
   <LoadSaved>Load saved</LoadSaved>
   <Structure>Structure</Structure>
   <ChooseYourIdeoligionDesc>What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs.</ChooseYourIdeoligionDesc>
@@ -613,9 +639,13 @@
   <NarrativeLower>narrative</NarrativeLower>
   <PreceptName>Precept name</PreceptName>
   <PreceptNameLower>precept name</PreceptNameLower>
-  <Changing>Changing</Changing>
+  <Changing>Changing {0}</Changing>
   <StructuresLower>structures</StructuresLower>
   <MemesLower>memes</MemesLower>
+  <Reward_DevelopmentPointsLabel>Development points</Reward_DevelopmentPointsLabel>
+  <Reward_DevelopmentPoints>Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideologion.\n\nEarn additional development points by completing other quests and rituals.</Reward_DevelopmentPoints>
+  <CurrentDevelopmentPoints>Current points</CurrentDevelopmentPoints>
+  <ReformDevelopmentPoints>Points needed to reform</ReformDevelopmentPoints>
   <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
   <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
   <RitualTargetGraveInfoAbstract>A grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
@@ -677,6 +707,8 @@
   <RitualParticipatingRoles>Participating roles</RitualParticipatingRoles>
   <RitualOutcomeCompTip_RitualTargetDefsPart1>For best quality, start the {0} at {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <RitualOutcomeCompTip_RitualTargetDefsPart2>Currently, the {0} is being started at {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <RitualDevelopmentPoints>Development points</RitualDevelopmentPoints>
+  <RitualDevelopmentPointsTip>Completing this ritual gives {0}-{1} development points depending on quality.</RitualDevelopmentPointsTip>
   <ForSlaveUse>For slave use</ForSlaveUse>
   <SellingAsSlave>If you sell someone to any faction besides their own, they become slaves.</SellingAsSlave>
   <SellingAsRansom>If you sell someone to their own faction, they are ransomed and not enslaved.</SellingAsRansom>
@@ -694,6 +726,7 @@
   <RoleBelieverCountDesc>This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}.</RoleBelieverCountDesc>
   <RoleExpectationOffset>Raised by {0} levels.</RoleExpectationOffset>
   <RoleRaisedExpectation>The {0} has higher expectations.</RoleRaisedExpectation>
+  <RoleRaisedExpectationGracePeriod>The {0} will have higher expectations in {1}.</RoleRaisedExpectationGracePeriod>
   <IdeoLeaderDifferentIdeoThoughtLabel>Led by {0}</IdeoLeaderDifferentIdeoThoughtLabel>
   <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} will not do {1} work.</AbilityDisabled_IncapableOfWorkTag>
   <AbilityDisabledNoAltarOrRitualsSpot>No reachable altar or ritual spot.</AbilityDisabledNoAltarOrRitualsSpot>

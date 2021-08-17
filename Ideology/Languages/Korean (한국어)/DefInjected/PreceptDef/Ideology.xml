@@ -49,10 +49,13 @@
   <AutonomousWeapons_Disapproved.comps.0.description>Automated turret in colony</AutonomousWeapons_Disapproved.comps.0.description>
   <Blindness_Respected.label>respected</Blindness_Respected.label>
   <Blindness_Respected.description>To be blind is a moral thing worthy of respect.</Blindness_Respected.description>
+  <Blindness_Respected.comps.5.eventLabel>blinded someone</Blindness_Respected.comps.5.eventLabel>
   <Blindness_Elevated.label>elevated</Blindness_Elevated.label>
   <Blindness_Elevated.description>The blind stand pure above the sighted.</Blindness_Elevated.description>
+  <Blindness_Elevated.comps.8.eventLabel>blinded someone</Blindness_Elevated.comps.8.eventLabel>
   <Blindness_Sublime.label>sublime</Blindness_Sublime.label>
   <Blindness_Sublime.description>Only the blind can be truly noble, for the sighted find their minds clouded by physical vision.</Blindness_Sublime.description>
+  <Blindness_Sublime.comps.8.eventLabel>bslinded someone</Blindness_Sublime.comps.8.eventLabel>
   <Blinding_Horrible.label>horrible</Blinding_Horrible.label>
   <Blinding_Horrible.description>Blinding people for ideoligious reasons is horrible.</Blinding_Horrible.description>
   <Blinding_Horrible.comps.0.description>someone got blinded</Blinding_Horrible.comps.0.description>
@@ -293,6 +296,7 @@
   <Execution_DontCare.description>Executing prisoners is acceptable, whether they are guilty or innocent.</Execution_DontCare.description>
   <Execution_RespectedIfGuilty.label>respected if guilty</Execution_RespectedIfGuilty.label>
   <Execution_RespectedIfGuilty.description>Executing prisoners is acceptable. If the prisoner is guilty, it is cause for great happiness.</Execution_RespectedIfGuilty.description>
+  <Execution_RespectedIfGuilty.comps.3.eventLabel>executed someone</Execution_RespectedIfGuilty.comps.3.eventLabel>
   <Execution_Required.label>required</Execution_Required.label>
   <Execution_Required.description>Prisoners must be executed on a regular basis. When they are, it is a happy occasion.</Execution_Required.description>
   <Execution_Required.comps.2.description>Executed prisoner</Execution_Required.comps.2.description>
@@ -300,16 +304,22 @@
   <Execution_Required.comps.4.description>Someone executed a prisoner</Execution_Required.comps.4.description>
   <Execution_Required.comps.5.description>Someone executed a guest</Execution_Required.comps.5.description>
   <Execution_Required.comps.6.description>No execution for {MINDAYSLASTEXECUTION} days</Execution_Required.comps.6.description>
+  <Execution_Required.comps.7.eventLabel>executed someone</Execution_Required.comps.7.eventLabel>
+  <Proselytizing_Occasionally.comps.0.eventLabel>converted new member</Proselytizing_Occasionally.comps.0.eventLabel>
   <Proselytizing_Occasionally.label>occasional</Proselytizing_Occasionally.label>
   <Proselytizing_Occasionally.description>Those who know the truth should try to bring it to others, when it seems appropriate.</Proselytizing_Occasionally.description>
+  <Proselytizing_Sometimes.comps.0.eventLabel>converted new member</Proselytizing_Sometimes.comps.0.eventLabel>
   <Proselytizing_Sometimes.label>sometimes</Proselytizing_Sometimes.label>
   <Proselytizing_Sometimes.description>Those who know the truth should bring it to others at every opportunity.</Proselytizing_Sometimes.description>
+  <Proselytizing_Frequently.comps.0.eventLabel>converted new member</Proselytizing_Frequently.comps.0.eventLabel>
   <Proselytizing_Frequently.label>frequent</Proselytizing_Frequently.label>
   <Proselytizing_Frequently.description>Those who know the truth have a duty to always spread it and drive out other beliefs.</Proselytizing_Frequently.description>
+  <Raiding_Respected.comps.0.eventLabel>raided someone</Raiding_Respected.comps.0.eventLabel>
   <Raiding_Respected.label>respected</Raiding_Respected.label>
   <Raiding_Respected.description>We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame.</Raiding_Respected.description>
   <Raiding_Respected.comps.0.thoughtStageDescriptions.0>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Respected.comps.0.thoughtStageDescriptions.0>
   <Raiding_Respected.comps.0.thoughtStageDescriptions.1>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Respected.comps.0.thoughtStageDescriptions.1>
+  <Raiding_Required.comps.0.eventLabel>raided someone</Raiding_Required.comps.0.eventLabel>
   <Raiding_Required.label>required</Raiding_Required.label>
   <Raiding_Required.description>We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame.</Raiding_Required.description>
   <Raiding_Required.comps.0.thoughtStageDescriptions.0>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Required.comps.0.thoughtStageDescriptions.0>
@@ -436,6 +446,7 @@
   <Slavery_Honorable.comps.0.description>Each slave in colony</Slavery_Honorable.comps.0.description>
   <Slavery_Honorable.comps.6.description>Someone sold a slave</Slavery_Honorable.comps.6.description>
   <Slavery_Honorable.comps.7.description>Someone enslaved a prisoner</Slavery_Honorable.comps.7.description>
+  <Slavery_Honorable.comps.8.eventLabel>enslaved a prisoner</Slavery_Honorable.comps.8.eventLabel>
   <SmallSpaces_Acceptable.label>don't care</SmallSpaces_Acceptable.label>
   <SmallSpaces_Acceptable.description>There's nothing bothersome about being in tight quarters.</SmallSpaces_Acceptable.description>
   <SpouseCount_Male_MaxTwo.label>two or fewer</SpouseCount_Male_MaxTwo.label>
@@ -479,8 +490,12 @@
   <Trees_Desired.description>It's essential to live surrounded by beautiful trees.</Trees_Desired.description>
   <Trees_Desired.comps.1.thoughtStageDescriptions.0>Healthy trees</Trees_Desired.comps.1.thoughtStageDescriptions.0>
   <Trees_Desired.comps.1.thoughtStageDescriptions.1>Trees disturbed</Trees_Desired.comps.1.thoughtStageDescriptions.1>
-  <Trees_Desired.comps.1.thoughtStageDescriptions.2>Trees harmed</Trees_Desired.comps.1.thoughtStageDescriptions.2>
-  <Trees_Desired.comps.1.thoughtStageDescriptions.3>Trees ravaged</Trees_Desired.comps.1.thoughtStageDescriptions.3>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.2>Trees defaced</Trees_Desired.comps.1.thoughtStageDescriptions.2>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.3>Trees damaged</Trees_Desired.comps.1.thoughtStageDescriptions.3>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.4>Trees harmed</Trees_Desired.comps.1.thoughtStageDescriptions.4>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.5>Trees defiled</Trees_Desired.comps.1.thoughtStageDescriptions.5>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.6>Trees wrecked</Trees_Desired.comps.1.thoughtStageDescriptions.6>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.7>Trees ravaged</Trees_Desired.comps.1.thoughtStageDescriptions.7>
   <GauranlenConnection_Strong.label>strong</GauranlenConnection_Strong.label>
   <GauranlenConnection_Strong.description>We have a special connection with the Gauranlen trees. The trees refocus production easily under our influence, and we are not satisfied unless we have that connection.</GauranlenConnection_Strong.description>
   <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>Gauranlen connection</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>
@@ -489,6 +504,7 @@
   <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>Want Gauranlen connection (min expectation: Moderate)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>
   <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>Want Gauranlen connection (min expectation: High)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>
   <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>Want Gauranlen connection (min expectation: Sky high)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>
+  <GauranlenConnection_Strong.comps.1.eventLabel>planted Gauranlen tree</GauranlenConnection_Strong.comps.1.eventLabel>
   <NobleDespisedWeapons.label>noble and despised</NobleDespisedWeapons.label>
   <NobleDespisedWeapons.description>We have preferences on which weapons should or should not be used in combat.</NobleDespisedWeapons.description>
   <NobleDespisedWeapons.comps.0.description>Victory by noble weapon</NobleDespisedWeapons.comps.0.description>
