@@ -89,11 +89,6 @@
     <li>to->into</li>
     <li>missed->missed</li>
     <li>missed->narrowly missed</li>
-    <!--(추가한 항목 4개)-->
-    <li>to->(으)로</li>
-    <li>to->(으)로</li>
-    <li>missed->빗나감</li>
-    <li>missed->간발의 차로 빗나감</li>
   </Combat_RangedDamage.rulePack.rulesStrings>
   
   <Combat_RangedDeflect.rulePack.rulesStrings>
@@ -213,6 +208,13 @@
     <li>moved->moved</li>
     <li>moved->jerked</li>
     <li>moved->jolted</li>
-    <!--(항목 8개 미사용)-->
+    <li>moved->ducked</li>
+    <li>moment->moment</li>
+    <li>moment->second</li>
+    <li>moment->instant</li>
+    <li>ducked->ducked</li>
+    <li>ducked->crouched</li>
+    <li>ducked->bent down</li>
+    <li>ducked->hid</li>
   </Combat_RangedMiss.rulePack.rulesStrings>
 </LanguageData>

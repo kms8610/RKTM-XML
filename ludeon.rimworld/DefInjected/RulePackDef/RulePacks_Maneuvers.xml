@@ -31,8 +31,6 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] strips</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
-    <!--(추가한 항목 1개)-->
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
   </Maneuver_Bite.rulePack.rulesStrings>
   
   <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
@@ -162,9 +160,6 @@
     <li>destroyed_suffix->cleanly</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
-    <!--(추가한 항목 2개)-->
-    <li>destroyed_suffix(target_part_destroyed_count==1)->안쪽의 장기를 드러내며</li>
-    <li>destroyed_suffix(target_part_destroyed_count==1)->양쪽으로 나뉘게</li>
   </Maneuver_Slash.rulePack.rulesStrings>
   
   <Maneuver_Smash.rulePack.rulesStrings>
@@ -200,11 +195,6 @@
     <li>destroyed_present->shattering</li>
     <li>destroyed_present->crushing</li>
     <li>destroyed_present->breaking</li>
-    <!--(추가한 항목 4개)-->
-    <li>destroyed_present->박살냄</li>
-    <li>destroyed_present->뭉개뜨림</li>
-    <li>destroyed_present->완파시킴</li>
-    <li>destroyed_present->부서뜨림</li>
   </Maneuver_Smash_Damage.rulePack.rulesStrings>
   
   <Maneuver_Stab.rulePack.rulesStrings>

@@ -33,6 +33,9 @@
   
   <ChemicalBurn.label>chemical burn</ChemicalBurn.label>
   <ChemicalBurn.description>A chemical burn.</ChemicalBurn.description>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>tended</ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>bandaged</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>tended</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>chemical burn scar</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <ChemicalBurn.injuryProps.destroyedLabel>Burned off (chemical)</ChemicalBurn.injuryProps.destroyedLabel>
   <ChemicalBurn.injuryProps.destroyedOutLabel>Burned out (chemical)</ChemicalBurn.injuryProps.destroyedOutLabel>

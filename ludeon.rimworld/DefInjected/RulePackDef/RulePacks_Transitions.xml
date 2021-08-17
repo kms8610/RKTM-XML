@@ -12,7 +12,7 @@
     <li>died(SUBJECT_flesh!=Mechanoid)->expired</li>
     <li>died(SUBJECT_flesh==Mechanoid)->shut down</li>
     <li>died(SUBJECT_flesh==Mechanoid)->stopped functioning</li>
-    <!--(항목 1개 미사용)-->
+    <li>died(SUBJECT_flesh==Mechanoid)->lost power</li>
   </Transition_Died.rulePack.rulesStrings>
   
   <Transition_DiedExplosive.rulePack.rulesStrings>
@@ -83,8 +83,6 @@
     <li>collapsemeta(p=0.5)->[collapse] [helplessly]</li>
     <li>collapsedmeta->[collapsed]</li>
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
-    <!--(추가한 항목 1개)-->
-    <li>collapsedmeta(p=0.5)->[helplessly] [collapsed]</li>
   </Transition_Downed.rulePack.rulesStrings>
   
   <Transition_Include.rulePack.rulesStrings>

@@ -51,8 +51,6 @@
   <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
   
   <WandererJoin.label>wanderer join</WandererJoin.label>
-  <WandererJoin.letterLabel>방랑자 합류: {PAWN_nameDef}</WandererJoin.letterLabel>
-  <WandererJoin.letterText>{PAWN_title}, {PAWN_nameDef}(이)라는 이름의 방랑자가 도착하여 정착지에 합류하려고 합니다.\n\n{PAWN_pronoun}는 정착지에 이바지할 생각이 있지만, 자발적으로 떠나지는 않을 것입니다. 만약 {PAWN_nameDef}(을)를 원하지 않는다면 {PAWN_objective} 추방하거나, 노예로 팔거나, 그냥 죽일 수도 있습니다. 하지만 정착민 생각도 과연 그럴까요.</WandererJoin.letterText>
   
   <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
   <WildManWandersIn.letterLabel>{PAWN_kind} wanders in</WildManWandersIn.letterLabel>
