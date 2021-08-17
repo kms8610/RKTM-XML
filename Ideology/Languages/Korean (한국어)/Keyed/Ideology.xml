@@ -68,6 +68,7 @@
   <SlavesSection>Slaves</SlavesSection>
   <DominantStyle>dominant style</DominantStyle>
   <Date>Date</Date>
+  <RitualDevelopmentPointRewards>The following development points will be awarded depending on the ritual outcome</RitualDevelopmentPointRewards>
   <ChooseStructureMemesInfo>Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay.</ChooseStructureMemesInfo>
   <ChooseNormalMemesInfo>Choose {0}-{1} memes to form the foundational ideas of this ideoligion.</ChooseNormalMemesInfo>
   <NotEnoughMemes>Choose at least {0} meme.</NotEnoughMemes>
@@ -515,6 +516,8 @@
   <IdeoImpactLabel_9>extreme</IdeoImpactLabel_9>
   <InitialPlayerIdeo>This was your colony's starting ideoligion.</InitialPlayerIdeo>
   <FluidIdeoTip>Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more.</FluidIdeoTip>
+  <FluidIdeoTipGetPoints>How to get development points</FluidIdeoTipGetPoints>
+  <FluidIdeoTipGetPoinsByConversion>Convert someone to your ideoligion</FluidIdeoTipGetPoinsByConversion>
   <ResearchProjectHasDefsWithMissingMemes>{0} unlocks things which you cannot build because they require memes that none of your people believe</ResearchProjectHasDefsWithMissingMemes>
   <SelectedWorkTypeOpposedByIdeo>Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy.</SelectedWorkTypeOpposedByIdeo>
   <DevelopmentPoints>Development points</DevelopmentPoints>
@@ -646,6 +649,7 @@
   <Reward_DevelopmentPoints>Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideologion.\n\nEarn additional development points by completing other quests and rituals.</Reward_DevelopmentPoints>
   <CurrentDevelopmentPoints>Current points</CurrentDevelopmentPoints>
   <ReformDevelopmentPoints>Points needed to reform</ReformDevelopmentPoints>
+  <QuestLower>quest</QuestLower>
   <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
   <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
   <RitualTargetGraveInfoAbstract>A grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
@@ -677,6 +681,8 @@
   <RitualOutcomeExtraDesc_ConsumableInspiration>Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
   <RitualOutcomeExtraDesc_SkylanternWanderers>Your skylanterns have attracted some friendly travelers. They will visit and leave a gift.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <RitualOutcomeExtraDesc_Execution>All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level.</RitualOutcomeExtraDesc_Execution>
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>Due to the poor quality of the ritual, no development points were gained.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
   <RitualAttachedReward>Additional reward</RitualAttachedReward>
   <RitualAttachedRewardChoose>Choose</RitualAttachedRewardChoose>
   <RitualAttachedRewardCantUseWithRitual>Can't use {0} with {1}.</RitualAttachedRewardCantUseWithRitual>

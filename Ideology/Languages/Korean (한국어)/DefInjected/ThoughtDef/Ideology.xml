@@ -462,16 +462,22 @@
   <Mined_Know_Prohibited.stages.0.label>mined</Mined_Know_Prohibited.stages.0.label>
   <Mined_Know_Prohibited_Mood.stages.0.label>mined</Mined_Know_Prohibited_Mood.stages.0.label>
   <Mined_Know_Prohibited_Mood.stages.0.description>We mined a hole in the pure earth. What a terrible offense against nature.</Mined_Know_Prohibited_Mood.stages.0.description>
+  <MineableDestroyed_Prohibited.stages.0.label>destroyed natural wall</MineableDestroyed_Prohibited.stages.0.label>
+  <MineableDestroyed_Prohibited.stages.0.description>I destroyed a natural wall. What a terrible offense against nature.</MineableDestroyed_Prohibited.stages.0.description>
   <Mined_Horrible.stages.0.label>mined</Mined_Horrible.stages.0.label>
   <Mined_Horrible.stages.0.description>I had to mine a hole. It was an offense against the earth.</Mined_Horrible.stages.0.description>
   <Mined_Know_Horrible.stages.0.label>mined</Mined_Know_Horrible.stages.0.label>
   <Mined_Know_Horrible_Mood.stages.0.label>mined</Mined_Know_Horrible_Mood.stages.0.label>
   <Mined_Know_Horrible_Mood.stages.0.description>Someone mined a hole in the pure earth. It was a horrible violation of nature.</Mined_Know_Horrible_Mood.stages.0.description>
+  <MineableDestroyed_Horrible.stages.0.label>destroyed natural wall</MineableDestroyed_Horrible.stages.0.label>
+  <MineableDestroyed_Horrible.stages.0.description>I destroyed a natural wall. It was a horrible violation of nature.</MineableDestroyed_Horrible.stages.0.description>
   <Mined_Disapproved.stages.0.label>mined</Mined_Disapproved.stages.0.label>
   <Mined_Disapproved.stages.0.description>I had to mine a hole. I disapprove of harming the earth this way.</Mined_Disapproved.stages.0.description>
   <Mined_Know_Disapproved.stages.0.label>mined</Mined_Know_Disapproved.stages.0.label>
   <Mined_Know_Disapproved_Mood.stages.0.label>mined</Mined_Know_Disapproved_Mood.stages.0.label>
   <Mined_Know_Disapproved_Mood.stages.0.description>Someone mined a hole in the pure earth. It's wrong to scar the world this way.</Mined_Know_Disapproved_Mood.stages.0.description>
+  <MineableDestroyed_Disapproved.stages.0.label>destroyed natural wall</MineableDestroyed_Disapproved.stages.0.label>
+  <MineableDestroyed_Disapproved.stages.0.description>I destroyed a natural wall. It's wrong to scar the world this way.</MineableDestroyed_Disapproved.stages.0.description>
   <AnyBodyPartCovered_Disapproved_Male.stages.0.label>wearing clothes</AnyBodyPartCovered_Disapproved_Male.stages.0.label>
   <AnyBodyPartCovered_Disapproved_Male.stages.0.description>I don't approve of covering myself, yet here I am doing it.</AnyBodyPartCovered_Disapproved_Male.stages.0.description>
   <AnyBodyPartCovered_Disapproved_Female.stages.0.label>wearing clothes</AnyBodyPartCovered_Disapproved_Female.stages.0.label>
@@ -866,6 +872,10 @@
   <ObservedSkullspike.stages.0.description>What a terrible sight.</ObservedSkullspike.stages.0.description>
   <RelicAtRitual.stages.0.label>{RELICNAME} at ritual</RelicAtRitual.stages.0.label>
   <RelicAtRitual.stages.0.description>{RELICNAME} was present during our ritual.</RelicAtRitual.stages.0.description>
+  <RelicAtRitual.stages.1.label>two relics at ritual</RelicAtRitual.stages.1.label>
+  <RelicAtRitual.stages.1.description>Two relics were present during our ritual.</RelicAtRitual.stages.1.description>
+  <RelicAtRitual.stages.2.label>three relics at ritual</RelicAtRitual.stages.2.label>
+  <RelicAtRitual.stages.2.description>Three relics were present during our ritual.</RelicAtRitual.stages.2.description>
   <RitualDelayed.stages.0.label>{RITUAL_labelCap} delayed</RitualDelayed.stages.0.label>
   <RitualDelayed.stages.0.description>{RITUAL_labelCapDef} has been delayed. We should have started it already.</RitualDelayed.stages.0.description>
   <TrialExonerated.stages.0.label>exonerated</TrialExonerated.stages.0.label>
