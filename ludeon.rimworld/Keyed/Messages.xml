@@ -422,6 +422,8 @@
   <MessageRitualPawnMentalState>{0_labelShort} is in a mental state.</MessageRitualPawnMentalState>
   <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} is already {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
   <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} cannot take any other role than spectator.</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <MessageRitualRoleMustNotBeImprisonedWildMan>{0} cannot be an imprisoned wild man/woman.</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <MessageRitualRoleMustNotBeImprisoned>{0} must be free.</MessageRitualRoleMustNotBeImprisoned>
 
   <MessagePlayerMustSelectTile>You must select a site to continue.</MessagePlayerMustSelectTile>
 

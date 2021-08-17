@@ -208,6 +208,7 @@
   <Enemy>enemy</Enemy>
   <Location>location</Location>
   <AnimalsLower>animals</AnimalsLower>
+  <ItemsLower>items</ItemsLower>
   <FilthLabel>{0} x{1}</FilthLabel>
   <FilthLabelWithSource>{0} of {1} x{2}</FilthLabelWithSource>
   <Required>Required</Required>
@@ -812,7 +813,7 @@
 
   <RitualTakesPlaceAt>Takes place at</RitualTakesPlaceAt>
   <RitualTargetThingDefsInfo>Any {0}</RitualTargetThingDefsInfo>
-  <LordReportAttending>Attending</LordReportAttending>
+  <LordReportAttending>Attending {0}</LordReportAttending>
   <RitualCalledOff>{0} has been canceled.</RitualCalledOff>
   <RitualNobodyAttended>{0} was not completed because of lack of attendance.</RitualNobodyAttended>
   <RitualFinished>{0} has been completed.</RitualFinished>
