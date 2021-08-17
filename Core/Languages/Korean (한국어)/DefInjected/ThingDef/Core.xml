@@ -406,7 +406,7 @@
   <Wall.label>wall</Wall.label>
   <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
   <Fence.label>fence</Fence.label>
-  <Fence.description>A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Fences only block certain kinds of animals.</Fence.description>
+  <Fence.description>A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.</Fence.description>
   <FenceGate.label>fence gate</FenceGate.label>
   <FenceGate.description>A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates.</FenceGate.description>
   <Column.label>column</Column.label>
