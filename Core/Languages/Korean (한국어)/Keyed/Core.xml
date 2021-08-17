@@ -1051,6 +1051,9 @@
   <Stat_Animal_WoolValuePerYear>Wool value per year</Stat_Animal_WoolValuePerYear>
   <Stat_Animal_WoolValuePerYearDesc>The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value.</Stat_Animal_WoolValuePerYearDesc>
   <Stat_Studiable_Desc>How much of the total possible study you have performed on this object.</Stat_Studiable_Desc>
+  <Stat_Source_Label>Source</Stat_Source_Label>
+  <Stat_Source_OfficialExpansionReport>This content came from the official expansion</Stat_Source_OfficialExpansionReport>
+  <Stat_Source_ModReport>This content came from the mod</Stat_Source_ModReport>
   <FactionGreetingHostile>{0} hurls some epithets into the microphone and disconnects.</FactionGreetingHostile>
   <FactionGreetingHostileAppreciative>{0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects.</FactionGreetingHostileAppreciative>
   <FactionGreetingWary>{0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle.</FactionGreetingWary>
@@ -1270,6 +1273,7 @@
   <CantRopeAnimalNoReachablePens>no reachable pens</CantRopeAnimalNoReachablePens>
   <CantRopeAnimalCantTouch>can't touch</CantRopeAnimalCantTouch>
   <CantRopeAnimalNoSpace>no space in pen</CantRopeAnimalNoSpace>
+  <CantRopeAnimalMentalState>{0_labelShort} is in {1} state</CantRopeAnimalMentalState>
   <CantRopeAnimalAlreadyInBestPen>already in best pen</CantRopeAnimalAlreadyInBestPen>
   <SkillTooLowForConstruction>{0} skill too low</SkillTooLowForConstruction>
   <NoComponentsToRepair>need components</NoComponentsToRepair>
@@ -1767,8 +1771,6 @@
   <EscapeShipFoundLabel>Ship found</EscapeShipFoundLabel>
   <EscapeShipFound>You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.</EscapeShipFound>
   <EscapeShipFoundPeaceful>You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days.</EscapeShipFoundPeaceful>
-  <EscapeShipLostLabel>Ship destroyed</EscapeShipLostLabel>
-  <EscapeShipLost>(*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet.</EscapeShipLost>
   <CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
   <CaravanMeeting>{0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2}</CaravanMeeting>
   <CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
@@ -3018,6 +3020,8 @@
   <MessageRitualPawnMentalState>{0_labelShort} is in a mental state.</MessageRitualPawnMentalState>
   <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} is already {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
   <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} cannot take any other role than spectator.</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <MessageRitualRoleMustNotBeImprisonedWildMan>{0} cannot be an imprisoned wild man/woman.</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <MessageRitualRoleMustNotBeImprisoned>{0} must be free.</MessageRitualRoleMustNotBeImprisoned>
   <MessagePlayerMustSelectTile>You must select a site to continue.</MessagePlayerMustSelectTile>
   <CannotPlantThing>Cannot plant {0_labelShort}</CannotPlantThing>
   <MessageWarningNotEnoughFertility>Need more fertile terrain.</MessageWarningNotEnoughFertility>
@@ -3308,6 +3312,7 @@
   <Enemy>enemy</Enemy>
   <Location>location</Location>
   <AnimalsLower>animals</AnimalsLower>
+  <ItemsLower>items</ItemsLower>
   <FilthLabel>{0} x{1}</FilthLabel>
   <FilthLabelWithSource>{0} of {1} x{2}</FilthLabelWithSource>
   <Required>Required</Required>
@@ -3772,7 +3777,7 @@
   <Ritual>ritual</Ritual>
   <RitualTakesPlaceAt>Takes place at</RitualTakesPlaceAt>
   <RitualTargetThingDefsInfo>Any {0}</RitualTargetThingDefsInfo>
-  <LordReportAttending>Attending</LordReportAttending>
+  <LordReportAttending>Attending {0}</LordReportAttending>
   <RitualCalledOff>{0} has been canceled.</RitualCalledOff>
   <RitualNobodyAttended>{0} was not completed because of lack of attendance.</RitualNobodyAttended>
   <RitualFinished>{0} has been completed.</RitualFinished>
