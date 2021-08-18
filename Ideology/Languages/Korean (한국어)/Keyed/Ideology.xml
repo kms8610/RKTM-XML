@@ -123,6 +123,8 @@
   <ReformIdeoChooseOneChange>Choose one</ReformIdeoChooseOneChange>
   <ReformIdeoChangeStructure>Change structure</ReformIdeoChangeStructure>
   <ReformIdeoChangeAny>Change any of the following</ReformIdeoChangeAny>
+  <ReformIdeoRelicHuntQuestEnd>The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated.</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoContinue>Do you wish to continue?</ReformIdeoContinue>
   <CannotAssignBedToSlave>Slave</CannotAssignBedToSlave>
   <CannotAssignBedToColonist>Colonist</CannotAssignBedToColonist>
   <AnySlave>Any slave</AnySlave>
@@ -580,6 +582,7 @@
   <MessageInfestationDelayActivated>Infestation arriving.</MessageInfestationDelayActivated>
   <MessageFuelNodeDelayActivated>{0} was disturbed and might explode soon!</MessageFuelNodeDelayActivated>
   <MessageDevelopmentPointsEarned>Development points changed from {0} to {1} ({2}).</MessageDevelopmentPointsEarned>
+  <MessageFluidIdeoOneChangeAllowed>Only one change to structures, memes and styles is allowed.</MessageFluidIdeoOneChangeAllowed>
   <CustomizeIdeoligion>Customize ideoligion</CustomizeIdeoligion>
   <ChooseYourIdeoligion>Choose your ideoligion</ChooseYourIdeoligion>
   <Random>Random</Random>
@@ -646,10 +649,12 @@
   <StructuresLower>structures</StructuresLower>
   <MemesLower>memes</MemesLower>
   <Reward_DevelopmentPointsLabel>Development points</Reward_DevelopmentPointsLabel>
-  <Reward_DevelopmentPoints>Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideologion.\n\nEarn additional development points by completing other quests and rituals.</Reward_DevelopmentPoints>
+  <Reward_DevelopmentPoints>Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideoligion.\n\nEarn additional development points by completing other quests and rituals.</Reward_DevelopmentPoints>
   <CurrentDevelopmentPoints>Current points</CurrentDevelopmentPoints>
   <ReformDevelopmentPoints>Points needed to reform</ReformDevelopmentPoints>
   <QuestLower>quest</QuestLower>
+  <CannotReform>Cannot reform</CannotReform>
+  <CannotReformActiveRitual>There is currently and ongoing ritual associated to {0}.</CannotReformActiveRitual>
   <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
   <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
   <RitualTargetGraveInfoAbstract>A grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
@@ -823,7 +828,7 @@
   <RoleEffectGiveThoughtOnTended>Give thought</RoleEffectGiveThoughtOnTended>
   <AssignColonists>Assign colonists to your ideoligion</AssignColonists>
   <RemoveNewIdeoligion>Remove new ideoligion</RemoveNewIdeoligion>
-  <MakeIdeoligionPrimary>Make this your primary ideologion</MakeIdeoligionPrimary>
+  <MakeIdeoligionPrimary>Make this your primary ideoligion</MakeIdeoligionPrimary>
   <GameOverArchotechInvokedIntro>You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n</GameOverArchotechInvokedIntro>
   <GameOverArchotechInvokedEnding>The machine god has noticed you. Nobody can predict what happens next. It may destroy you, or communicate with you directly, or transport your consciousness to another plane of reality.\n\nYou sense a vast, inhuman structure of infinite fractal complexity flowing into your mind. Time and scale begin to dissolve. It's terrifying. It's beautiful...</GameOverArchotechInvokedEnding>
   <GameOverColonistsTranscended>These colonists have transcended:\n\n{0}</GameOverColonistsTranscended>
