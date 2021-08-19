@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BirthControlActive.label>on birth control</BirthControlActive.label>
+  <BirthControlActive.labelNoun>birth control</BirthControlActive.labelNoun>
+  <BirthControlActive.description>birth control</BirthControlActive.description>
+  <FertilityBoosterActive.label>on fertility booster</FertilityBoosterActive.label>
+  <FertilityBoosterActive.labelNoun>fertility booster</FertilityBoosterActive.labelNoun>
+  <FertilityBoosterActive.description>fertility booster</FertilityBoosterActive.description>
+  <PregnancyTestActive.label>on pregnancy test</PregnancyTestActive.label>
+  <PregnancyTestActive.labelNoun>pregnancy test</PregnancyTestActive.labelNoun>
+  <PregnancyTestActive.description>pregnancy test</PregnancyTestActive.description>
+  <Postpartum.label>in postpartum</Postpartum.label>
+  <Postpartum.labelNoun>postpartum</Postpartum.labelNoun>
+  <Postpartum.description>postpartum</Postpartum.description>
+  <Postpartum.stages.0.label>late-stage</Postpartum.stages.0.label>
+  <Postpartum.stages.1.label>middle-stage</Postpartum.stages.1.label>
+  <Postpartum.stages.2.label>early-stage</Postpartum.stages.2.label>
+  <OneChildOnly.label>had one pregnancy already</OneChildOnly.label>
+  <OneChildOnly.labelNoun>had one pregnancy already</OneChildOnly.labelNoun>
+  <OneChildOnly.description>had one pregnancy already</OneChildOnly.description>
+  <NoReproductionLifestage.label>not reproductive</NoReproductionLifestage.label>
+  <NoReproductionLifestage.labelNoun>not reproductive</NoReproductionLifestage.labelNoun>
+  <NoReproductionLifestage.description>not reproductive</NoReproductionLifestage.description>
+  <NoReproductionAndroid.label>not reproductive (Android)</NoReproductionAndroid.label>
+  <NoReproductionAndroid.labelNoun>not reproductive (Android)</NoReproductionAndroid.labelNoun>
+  <NoReproductionAndroid.description>not reproductive (Android)</NoReproductionAndroid.description>
+  <NoReproductionLifestageOldAge.label>less fertility (old age)</NoReproductionLifestageOldAge.label>
+  <NoReproductionLifestageOldAge.labelNoun>less fertility (old age)</NoReproductionLifestageOldAge.labelNoun>
+  <NoReproductionLifestageOldAge.description>less fertility (old age)</NoReproductionLifestageOldAge.description>
+  <NoReproductionLifestageOldAge.stages.0.label>early-stage</NoReproductionLifestageOldAge.stages.0.label>
+  <NoReproductionLifestageOldAge.stages.1.label>middle-stage</NoReproductionLifestageOldAge.stages.1.label>
+  <NoReproductionLifestageOldAge.stages.2.label>late-stage</NoReproductionLifestageOldAge.stages.2.label>
+  <PregnancyHidden.label>pregnancy hidden</PregnancyHidden.label>
+  <PregnancyHidden.labelNoun>pregnancy hidden</PregnancyHidden.labelNoun>
+  <PregnancyHidden.description>pregnancy hidden</PregnancyHidden.description>
+  <PregnancyHidden.stages.0.label>hidden</PregnancyHidden.stages.0.label>
+  <PregnancyDiscovered.label>pregnancy discovered</PregnancyDiscovered.label>
+  <PregnancyDiscovered.labelNoun>pregnancy discovered</PregnancyDiscovered.labelNoun>
+  <PregnancyDiscovered.description>pregnancy discovered</PregnancyDiscovered.description>
+  <PregnancyDiscovered.stages.0.label>hidden</PregnancyDiscovered.stages.0.label>
+  <ChildRenamePending.label>child rename pending</ChildRenamePending.label>
+  <ChildRenamePending.labelNoun>child rename pending</ChildRenamePending.labelNoun>
+  <ChildRenamePending.description>child rename pending</ChildRenamePending.description>
+  <ChildRenamePending.stages.0.label>hidden</ChildRenamePending.stages.0.label>
+  <ChildBirthInProgress.label>child beeing born</ChildBirthInProgress.label>
+  <ChildBirthInProgress.labelNoun>child beeing born</ChildBirthInProgress.labelNoun>
+  <ChildBirthInProgress.description>child beeing born</ChildBirthInProgress.description>
+  <ChildBirthInProgress.stages.0.label>hidden</ChildBirthInProgress.stages.0.label>
+  <FertilityDisabledDefault.label>fertility disabled by default (ModOption)</FertilityDisabledDefault.label>
+  <FertilityDisabledDefault.labelNoun>fertility disabled by default (ModOption)</FertilityDisabledDefault.labelNoun>
+  <FertilityDisabledDefault.description>fertility disabled by default (ModOption)</FertilityDisabledDefault.description>
+  <ChildrenNoAddiction.label>too young for addictions</ChildrenNoAddiction.label>
+  <ChildrenNoAddiction.labelNoun>too young for addictions</ChildrenNoAddiction.labelNoun>
+  <ChildrenNoAddiction.description>[PAWN_nameDef] is too young for addictions, they are subdued for now.</ChildrenNoAddiction.description>
+</LanguageData>
