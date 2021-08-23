@@ -7,6 +7,7 @@
   <SlavesSection>Slaves</SlavesSection>
   <DominantStyle>dominant style</DominantStyle>
   <Date>Date</Date>
+  <RitualDevelopmentPointRewards>The following development points will be awarded depending on the ritual outcome</RitualDevelopmentPointRewards>
 
   <ChooseStructureMemesInfo>Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay.</ChooseStructureMemesInfo>
   <ChooseNormalMemesInfo>Choose {0}-{1} memes to form the foundational ideas of this ideoligion.</ChooseNormalMemesInfo>
@@ -20,6 +21,7 @@
   <ReformIdeoResetChanges>Reset changes</ReformIdeoResetChanges>
 
   <ChangesRandomizePrecepts>{0} will re-randomize any precepts you have edited.\n\nDo you wish to continue?</ChangesRandomizePrecepts>
+  <ChangesRemovePrecepts>The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue?</ChangesRemovePrecepts>
   
   <RoomRequirements>Room requirements</RoomRequirements>
   <ConfirmChangeMemesForFluidIdeo>The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue?</ConfirmChangeMemesForFluidIdeo>
@@ -68,6 +70,9 @@
   <ReformIdeoChooseOneChange>Choose one</ReformIdeoChooseOneChange>
   <ReformIdeoChangeStructure>Change structure</ReformIdeoChangeStructure>
   <ReformIdeoChangeAny>Change any of the following</ReformIdeoChangeAny>
+  <ReformIdeoRelicHuntQuestEnd>The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated.</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoCancelRituals>The ritual {0} is in progress and will be cancelled.</ReformIdeoCancelRituals>
+  <ReformIdeoContinue>Do you wish to continue?</ReformIdeoContinue>
 
   <!-- Slavery -->
   <CannotAssignBedToSlave>Slave</CannotAssignBedToSlave>

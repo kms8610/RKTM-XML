@@ -4,6 +4,7 @@
   <BlindingCeremony.roles.0.missingDesc>the person to blind</BlindingCeremony.roles.0.missingDesc>
   <BlindingCeremony.roles.1.label>cutter</BlindingCeremony.roles.1.label>
   <BlindingCeremony.roles.1.missingDesc>the person who performs the blinding</BlindingCeremony.roles.1.missingDesc>
+  <BlindingCeremony.stages.0.failTriggers.0.desc>Target is not reachable.</BlindingCeremony.stages.0.failTriggers.0.desc>
   
   <BurnCircle.spectatorGerund>participate</BurnCircle.spectatorGerund>
   <BurnCircle.spectatorsLabel>Participants</BurnCircle.spectatorsLabel>
@@ -88,6 +89,7 @@
   <ScarificationCeremony.roles.0.missingDesc>the person to scarify</ScarificationCeremony.roles.0.missingDesc>
   <ScarificationCeremony.roles.1.label>cutter</ScarificationCeremony.roles.1.label>
   <ScarificationCeremony.roles.1.missingDesc>the person who performs the scarification</ScarificationCeremony.roles.1.missingDesc>
+  <ScarificationCeremony.stages.0.failTriggers.0.desc>Target is not reachable.</ScarificationCeremony.stages.0.failTriggers.0.desc>
   
   <SmokeCircle.spectatorGerund>participate</SmokeCircle.spectatorGerund>
   <SmokeCircle.spectatorsLabel>Participants</SmokeCircle.spectatorsLabel>

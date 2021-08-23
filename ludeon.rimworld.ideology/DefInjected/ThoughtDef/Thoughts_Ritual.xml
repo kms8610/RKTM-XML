@@ -2,6 +2,10 @@
 <LanguageData>
   <RelicAtRitual.stages.at_ritual.label>{RELICNAME} at ritual</RelicAtRitual.stages.at_ritual.label>
   <RelicAtRitual.stages.at_ritual.description>{RELICNAME} was present during our ritual.</RelicAtRitual.stages.at_ritual.description>
+  <RelicAtRitual.stages.two_relics_at_ritual.label>two relics at ritual</RelicAtRitual.stages.two_relics_at_ritual.label>
+  <RelicAtRitual.stages.two_relics_at_ritual.description>Two relics were present during our ritual.</RelicAtRitual.stages.two_relics_at_ritual.description>
+  <RelicAtRitual.stages.three_relics_at_ritual.label>three relics at ritual</RelicAtRitual.stages.three_relics_at_ritual.label>
+  <RelicAtRitual.stages.three_relics_at_ritual.description>Three relics were present during our ritual.</RelicAtRitual.stages.three_relics_at_ritual.description>
   
   <RitualDelayed.stages.delayed.label>{RITUAL_labelCap} delayed</RitualDelayed.stages.delayed.label>
   <RitualDelayed.stages.delayed.description>{RITUAL_labelCapDef} has been delayed. We should have started it already.</RitualDelayed.stages.delayed.description>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Collectivist.label>collectivist</Collectivist.label>
-  <Collectivist.description>A person's role is to serve the community.</Collectivist.description>
+  <Collectivist.description>Each person is part of a greater whole. People should work to play their part and help the group.</Collectivist.description>
   <Collectivist.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Collectivist)        ->[deity0_name] made all men and women from a great mold, and those that deviated [deity0_pronoun] threw into fire so the believers could live in harmony.</li>
     <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] said to all, "No one of you stands above the whole. Work together or perish together."</li>
@@ -49,7 +49,7 @@
   <Collectivist.symbolPacks.3.theme>oneness</Collectivist.symbolPacks.3.theme>
   
   <Individualist.label>individualist</Individualist.label>
-  <Individualist.description>A community's role is to serve each individual.</Individualist.description>
+  <Individualist.description>Each person is a free individual with the right to their own ideas and decisions. Nobody should be made to conform.</Individualist.description>
   <Individualist.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Individualist)        ->[deity0_name] fashioned every man and woman personally. Each one is a unique and precious artwork by [deity0_possessive] divine hand.</li>
     <li>episode(uses=1,tag=meme_Individualist)  ->[deity0_name] said to all, "Each and every one of you is a unique and holy being formed in my image."</li>

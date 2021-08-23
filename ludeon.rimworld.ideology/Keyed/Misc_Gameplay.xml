@@ -67,9 +67,10 @@
   <StructuresLower>structures</StructuresLower>
   <MemesLower>memes</MemesLower>
   <Reward_DevelopmentPointsLabel>Development points</Reward_DevelopmentPointsLabel>
-  <Reward_DevelopmentPoints>Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideologion.\n\nEarn additional development points by completing other quests and rituals.</Reward_DevelopmentPoints>
+  <Reward_DevelopmentPoints>Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideoligion.\n\nEarn additional development points by completing other quests and rituals.</Reward_DevelopmentPoints>
   <CurrentDevelopmentPoints>Current points</CurrentDevelopmentPoints>
   <ReformDevelopmentPoints>Points needed to reform</ReformDevelopmentPoints>
+  <QuestLower>quest</QuestLower>
 
   <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
   <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
@@ -103,6 +104,9 @@
   <RitualOutcomeExtraDesc_ConsumableInspiration>Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
   <RitualOutcomeExtraDesc_SkylanternWanderers>Your skylanterns have attracted some friendly travelers. They will visit and leave a gift.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <RitualOutcomeExtraDesc_Execution>All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level.</RitualOutcomeExtraDesc_Execution>
+  
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>Due to the poor quality of the ritual, no development points were gained.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
   <RitualAttachedReward>Additional reward</RitualAttachedReward>
   <RitualAttachedRewardChoose>Choose</RitualAttachedRewardChoose>
@@ -283,7 +287,7 @@
 
   <AssignColonists>Assign colonists to your ideoligion</AssignColonists>
   <RemoveNewIdeoligion>Remove new ideoligion</RemoveNewIdeoligion>
-  <MakeIdeoligionPrimary>Make this your primary ideologion</MakeIdeoligionPrimary>
+  <MakeIdeoligionPrimary>Make this your primary ideoligion</MakeIdeoligionPrimary>
 
   <!-- Archonexus -->
   <GameOverArchotechInvokedIntro>You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n</GameOverArchotechInvokedIntro>
@@ -317,9 +321,12 @@
   <BiosculpterLoadingStartedMessage>Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle.</BiosculpterLoadingStartedMessage>
   <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a biosculpter pod due to lack of power.</BiosculpterNoPowerEjectedMessage>
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} completed healing cycle.</BiosculpterHealCompletedMessage>
-  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured.</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured.</BiosculpterHealCompletedWithCureMessage>
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days.</BiosculpterAgeReversalCompletedMessage>
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort} completed pleasure cycle.</BiosculpterPleasureCompletedMessage>
   <BiosculpterCleanlinessSpeedFactor>Cleanliness speed factor</BiosculpterCleanlinessSpeedFactor>
+  <HealingCycleWillHeal>These conditions will be healed</HealingCycleWillHeal>
+  <HealingCycleOneWillHeal>One of these conditions will be healed</HealingCycleOneWillHeal>
+  <MissingRequiredResearch>Missing required research</MissingRequiredResearch>
 
 </LanguageData>

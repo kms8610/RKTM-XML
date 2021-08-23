@@ -14,8 +14,10 @@
   
   <BiosculpterPod.label>biosculpter pod</BiosculpterPod.label>
   <BiosculpterPod.description>An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations.</BiosculpterPod.description>
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>healing</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>Heal all fresh wounds and one random permanent injury.</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>medic</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>Heal all fresh wounds, blood loss, and one random infectious disease.</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>bioregeneration</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>Heal all fresh wounds, heal one random permanent injury, and restore small missing body parts like fingers and toes.</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>
   <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>age reversal</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
   <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>Reverse one year of aging.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
   <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>pleasure</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
