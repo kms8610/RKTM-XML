@@ -134,7 +134,7 @@ Each layer of armor is applied separately, from the outside in.</ArmorRating_Hea
   <FilthMultiplier.label>filth multiplier</FilthMultiplier.label>
   <FilthMultiplier.description>How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact.</FilthMultiplier.description>
   <WorkToBuild.label>work to build</WorkToBuild.label>
-  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.</WorkToBuild.description>
+  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this.</WorkToBuild.description>
   <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
   <DoorOpenSpeed.description>The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
   <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
