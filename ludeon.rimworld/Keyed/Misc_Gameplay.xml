@@ -871,5 +871,8 @@
   <OutcomeBonusDesc_QualitySingleOffset>{0} quality</OutcomeBonusDesc_QualitySingleOffset>
   <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <MaxValue>{0} max</MaxValue>
-  
+
+  <ThingOf>{0} of</ThingOf>
+  <ThingOfSource>{0} of {1}</ThingOfSource>
+
 </LanguageData>
