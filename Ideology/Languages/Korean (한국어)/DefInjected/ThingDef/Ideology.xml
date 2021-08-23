@@ -105,6 +105,8 @@
   <AncientMegaCannonBarrel.description>A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted.</AncientMegaCannonBarrel.description>
   <AncientMechanoidShell.label>ancient mechanoid shell</AncientMechanoidShell.label>
   <AncientMechanoidShell.description>A shell from a smashed mechanoid. It has been deteriorating for many years and the useful components have disintegrated.</AncientMechanoidShell.description>
+  <AncientCentipedeShell.label>ancient centipede shell</AncientCentipedeShell.label>
+  <AncientCentipedeShell.description>A shell from a smashed centipede. It has been deteriorating for many years and all the useful components have disintegrated.</AncientCentipedeShell.description>
   <AncientMechDropBeacon.label>ancient mech drop beacon</AncientMechDropBeacon.label>
   <AncientMechDropBeacon.description>The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years.</AncientMechDropBeacon.description>
   <AncientSecurityTurret.label>ancient security turret</AncientSecurityTurret.label>
@@ -137,12 +139,14 @@
   <SleepAccelerator.description>A bedside device that accelerates the sleeper's circadian rhythm. This speeds up sleep, but consumes a lot of electricity and also causes increased hunger. It must be placed directly adjacent to and facing the head of the bed. Placing more than one sleep accelerator near the same bed has no effect.</SleepAccelerator.description>
   <BiosculpterPod.label>biosculpter pod</BiosculpterPod.label>
   <BiosculpterPod.description>An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations.</BiosculpterPod.description>
-  <BiosculpterPod.comps.3.label>healing</BiosculpterPod.comps.3.label>
-  <BiosculpterPod.comps.3.description>Heal all fresh wounds and one random permanent injury.</BiosculpterPod.comps.3.description>
-  <BiosculpterPod.comps.4.label>age reversal</BiosculpterPod.comps.4.label>
-  <BiosculpterPod.comps.4.description>Reverse one year of aging.</BiosculpterPod.comps.4.description>
-  <BiosculpterPod.comps.5.label>pleasure</BiosculpterPod.comps.5.label>
-  <BiosculpterPod.comps.5.description>Temporarily reshape the nervous system to deliver elevated levels of happiness for a time.</BiosculpterPod.comps.5.description>
+  <BiosculpterPod.comps.3.label>medic</BiosculpterPod.comps.3.label>
+  <BiosculpterPod.comps.3.description>Heal all fresh wounds, blood loss, and one random infectious disease.</BiosculpterPod.comps.3.description>
+  <BiosculpterPod.comps.4.label>bioregeneration</BiosculpterPod.comps.4.label>
+  <BiosculpterPod.comps.4.description>Heal all fresh wounds, heal one random permanent injury, and restore small missing body parts like fingers and toes.</BiosculpterPod.comps.4.description>
+  <BiosculpterPod.comps.5.label>age reversal</BiosculpterPod.comps.5.label>
+  <BiosculpterPod.comps.5.description>Reverse one year of aging.</BiosculpterPod.comps.5.description>
+  <BiosculpterPod.comps.6.label>pleasure</BiosculpterPod.comps.6.label>
+  <BiosculpterPod.comps.6.description>Temporarily reshape the nervous system to deliver elevated levels of happiness for a time.</BiosculpterPod.comps.6.description>
   <NeuralSupercharger.label>neural supercharger</NeuralSupercharger.label>
   <NeuralSupercharger.description>A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity.</NeuralSupercharger.description>
   <NeuralSupercharger.comps.2.jobString>Get neural supercharge</NeuralSupercharger.comps.2.jobString>

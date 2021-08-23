@@ -80,6 +80,7 @@
   <ChooseOrRemoveMeme>Choose a meme or remove a meme.</ChooseOrRemoveMeme>
   <ReformIdeoResetChanges>Reset changes</ReformIdeoResetChanges>
   <ChangesRandomizePrecepts>{0} will re-randomize any precepts you have edited.\n\nDo you wish to continue?</ChangesRandomizePrecepts>
+  <ChangesRemovePrecepts>The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue?</ChangesRemovePrecepts>
   <RoomRequirements>Room requirements</RoomRequirements>
   <ConfirmChangeMemesForFluidIdeo>The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue?</ConfirmChangeMemesForFluidIdeo>
   <Role>role</Role>
@@ -124,6 +125,7 @@
   <ReformIdeoChangeStructure>Change structure</ReformIdeoChangeStructure>
   <ReformIdeoChangeAny>Change any of the following</ReformIdeoChangeAny>
   <ReformIdeoRelicHuntQuestEnd>The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated.</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoCancelRituals>The ritual {0} is in progress and will be cancelled.</ReformIdeoCancelRituals>
   <ReformIdeoContinue>Do you wish to continue?</ReformIdeoContinue>
   <CannotAssignBedToSlave>Slave</CannotAssignBedToSlave>
   <CannotAssignBedToColonist>Colonist</CannotAssignBedToColonist>
@@ -289,6 +291,10 @@
   <CarryToBiosculpterPod>Carry {PAWN_label} to biosculpter pod ({CYCLE})</CarryToBiosculpterPod>
   <CannotCarryToBiosculpterPod>Cannot carry to biosculpter pod</CannotCarryToBiosculpterPod>
   <NoBiosculpterPod>No available biosculpter pod.</NoBiosculpterPod>
+  <BiosculpterNoCycleActive>No cycle active</BiosculpterNoCycleActive>
+  <BiosculpterLoadingNutrition>Nutrition being loaded</BiosculpterLoadingNutrition>
+  <BiosculpterOccupied>Occupied</BiosculpterOccupied>
+  <CannotEnter>Cannot enter</CannotEnter>
   <CommandBedSetForSlavesLabel>For slaves</CommandBedSetForSlavesLabel>
   <CommandBedSetForColonistsLabel>For colonists</CommandBedSetForColonistsLabel>
   <CommandBedSetForOwnerTypeDesc>Whether beds in this room should be used by colonists, prisoners or slaves.</CommandBedSetForOwnerTypeDesc>
@@ -653,8 +659,6 @@
   <CurrentDevelopmentPoints>Current points</CurrentDevelopmentPoints>
   <ReformDevelopmentPoints>Points needed to reform</ReformDevelopmentPoints>
   <QuestLower>quest</QuestLower>
-  <CannotReform>Cannot reform</CannotReform>
-  <CannotReformActiveRitual>There is currently and ongoing ritual associated to {0}.</CannotReformActiveRitual>
   <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
   <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
   <RitualTargetGraveInfoAbstract>A grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
@@ -854,8 +858,11 @@
   <BiosculpterLoadingStartedMessage>Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle.</BiosculpterLoadingStartedMessage>
   <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a biosculpter pod due to lack of power.</BiosculpterNoPowerEjectedMessage>
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} completed healing cycle.</BiosculpterHealCompletedMessage>
-  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured.</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured.</BiosculpterHealCompletedWithCureMessage>
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days.</BiosculpterAgeReversalCompletedMessage>
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort} completed pleasure cycle.</BiosculpterPleasureCompletedMessage>
   <BiosculpterCleanlinessSpeedFactor>Cleanliness speed factor</BiosculpterCleanlinessSpeedFactor>
+  <HealingCycleWillHeal>These conditions will be healed</HealingCycleWillHeal>
+  <HealingCycleOneWillHeal>One of these conditions will be healed</HealingCycleOneWillHeal>
+  <MissingRequiredResearch>Missing required research</MissingRequiredResearch>
 </LanguageData>
