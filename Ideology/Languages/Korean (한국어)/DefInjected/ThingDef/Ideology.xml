@@ -33,6 +33,10 @@
   <AncientLockerBank.description>An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind.</AncientLockerBank.description>
   <AncientCrate.label>ancient crate</AncientCrate.label>
   <AncientCrate.description>An ancient, broken crate. Any valuables it once contained have degraded to uselessness.</AncientCrate.description>
+  <AncientMilitaryCrate.label>ancient military crate</AncientMilitaryCrate.label>
+  <AncientMilitaryCrate.description>An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted.</AncientMilitaryCrate.description>
+  <AncientSpacerCrate.label>ancient spacer crate</AncientSpacerCrate.label>
+  <AncientSpacerCrate.description>An ancient, broken crate. Any valuables it once contained were taken long ago.</AncientSpacerCrate.description>
   <AncientBarrel.label>ancient barrel</AncientBarrel.label>
   <AncientBarrel.description>An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge.</AncientBarrel.description>
   <AncientGenerator.label>ancient generator</AncientGenerator.label>
@@ -51,6 +55,18 @@
   <AncientKitchenSink.description>An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story.</AncientKitchenSink.description>
   <AncientStove.label>ancient stove</AncientStove.label>
   <AncientStove.description>An ancient stove. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</AncientStove.description>
+  <AncientOven.label>ancient oven</AncientOven.label>
+  <AncientOven.description>An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</AncientOven.description>
+  <AncientATM.label>ancient ATM</AncientATM.label>
+  <AncientATM.description>An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</AncientATM.description>
+  <AncientWashingMachine.label>ancient washing machine</AncientWashingMachine.label>
+  <AncientWashingMachine.description>An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</AncientWashingMachine.description>
+  <AncientHydrant.label>ancient hydrant</AncientHydrant.label>
+  <AncientHydrant.description>An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say.</AncientHydrant.description>
+  <AncientMicrowave.label>ancient microwave</AncientMicrowave.label>
+  <AncientMicrowave.description>An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</AncientMicrowave.description>
+  <AncientToilet.label>ancient toilet</AncientToilet.label>
+  <AncientToilet.description>An ancient toilet. Smashed long ago, it is completely useless now.\n\nHow it got here is hard to say.</AncientToilet.description>
   <AncientRefrigerator.label>ancient refrigerator</AncientRefrigerator.label>
   <AncientRefrigerator.description>An ancient refrigerator. It was stripped of interesting parts long ago.</AncientRefrigerator.description>
   <AncientSmallCrate.label>ancient small crate</AncientSmallCrate.label>
@@ -71,6 +87,8 @@
   <AncientRustedCarFrame.description>An ancient, rusted car frame. The body shell has long since rusted away to nothing.</AncientRustedCarFrame.description>
   <AncientWarwalkerTorso.label>ancient warwalker torso</AncientWarwalkerTorso.label>
   <AncientWarwalkerTorso.description>The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago.</AncientWarwalkerTorso.description>
+  <AncientRustedDropship.label>ancient dropship</AncientRustedDropship.label>
+  <AncientRustedDropship.description>The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness.</AncientRustedDropship.description>
   <AncientWarwalkerClaw.label>ancient warwalker claw</AncientWarwalkerClaw.label>
   <AncientWarwalkerClaw.description>The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago.</AncientWarwalkerClaw.description>
   <AncientWarwalkerLeg.label>ancient warwalker leg</AncientWarwalkerLeg.label>
@@ -85,10 +103,14 @@
   <AncientWarwalkerFoot.description>A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago.</AncientWarwalkerFoot.description>
   <AncientTank.label>ancient ruined tank</AncientTank.label>
   <AncientTank.description>The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago.</AncientTank.description>
+  <AncientAPC.label>ancient ruined APC</AncientAPC.label>
+  <AncientAPC.description>The remains of an ancient armoured troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago.</AncientAPC.description>
   <AncientWarwalkerShell.label>ancient warwalker shell</AncientWarwalkerShell.label>
   <AncientWarwalkerShell.description>Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated.</AncientWarwalkerShell.description>
   <AncientJetEngine.label>ancient jet engine</AncientJetEngine.label>
   <AncientJetEngine.description>An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago.</AncientJetEngine.description>
+  <AncientDropshipEngine.label>ancient dropship engine</AncientDropshipEngine.label>
+  <AncientDropshipEngine.description>An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago.</AncientDropshipEngine.description>
   <AncientPodCar.label>ancient pod car</AncientPodCar.label>
   <AncientPodCar.description>An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated.</AncientPodCar.description>
   <AncientTankTrap.label>ancient tank trap</AncientTankTrap.label>
@@ -99,10 +121,14 @@
   <AncientFence.description>An ancient fence made of reinforced concrete posts joined by concrete panels.</AncientFence.description>
   <AncientRazorWire.label>ancient razor wire</AncientRazorWire.label>
   <AncientRazorWire.description>A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger.</AncientRazorWire.description>
+  <AncientPipes.label>ancient pipes</AncientPipes.label>
+  <AncientPipes.description>A bunch of rusted old pipes. It is hard to say how these ended up here.</AncientPipes.description>
   <AncientMegaCannonTripod.label>ancient mega-cannon platform</AncientMegaCannonTripod.label>
   <AncientMegaCannonTripod.description>A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago.</AncientMegaCannonTripod.description>
   <AncientMegaCannonBarrel.label>ancient mega-cannon barrel</AncientMegaCannonBarrel.label>
   <AncientMegaCannonBarrel.description>A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted.</AncientMegaCannonBarrel.description>
+  <AncientContainer.label>ancient container</AncientContainer.label>
+  <AncientContainer.description>A large container from some ancient freight carrying vehicle. It has long since been looted and deteriorted into uselessness.</AncientContainer.description>
   <AncientMechanoidShell.label>ancient mechanoid shell</AncientMechanoidShell.label>
   <AncientMechanoidShell.description>A shell from a smashed mechanoid. It has been deteriorating for many years and the useful components have disintegrated.</AncientMechanoidShell.description>
   <AncientCentipedeShell.label>ancient centipede shell</AncientCentipedeShell.label>
