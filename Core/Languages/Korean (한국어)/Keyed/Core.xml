@@ -2717,6 +2717,8 @@
   <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
   <ModSettings>Mod Settings</ModSettings>
   <PermanentlyDisableDevMode>Permanently disable development mode</PermanentlyDisableDevMode>
+  <TextureCompression>Texture compression</TextureCompression>
+  <TextureCompression_Tooltip>Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods.</TextureCompression_Tooltip>
   <Resolution>Resolution</Resolution>
   <Fullscreen>Fullscreen</Fullscreen>
   <SelectMod>Select mod...</SelectMod>
@@ -2724,6 +2726,7 @@
   <RestoreToDefaultSettings>Restore to default settings</RestoreToDefaultSettings>
   <ResetAndRestart>Your options have been reset. The game will now restart automatically.</ResetAndRestart>
   <ResetAndRestartConfirmationDialog>All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue?</ResetAndRestartConfirmationDialog>
+  <ChangedTextureCompressionRestart>Changing the texture compression option requires a restart. All unsaved progress will be lost!\n\nContinue?</ChangedTextureCompressionRestart>
   <SetBackgroundImage>Menu background</SetBackgroundImage>
   <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
   <MessageRaidersBeginningAssault>{0} from {1} are beginning their assault.</MessageRaidersBeginningAssault>
