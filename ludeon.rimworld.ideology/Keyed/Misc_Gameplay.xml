@@ -13,9 +13,12 @@
   <Structure>Structure</Structure>
   <ChooseYourIdeoligionDesc>What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs.</ChooseYourIdeoligionDesc>
   <CreateCustom>Create custom</CreateCustom>
+  <DeleteCustom>Delete custom</DeleteCustom>
   <CreateNew>Create new</CreateNew>
   <LoadExisting>Load existing</LoadExisting>
   <CreateCustomIdeoligion>Create custom ideoligion</CreateCustomIdeoligion>
+  <CustomIdeoligionSectionHeader>Custom ideoligion</CustomIdeoligionSectionHeader>
+  <FactionIdeoligionSectionHeader>Faction ideoligions</FactionIdeoligionSectionHeader>
   <LoadExistingIdeoligion>Load saved ideoligion</LoadExistingIdeoligion>
   <SelectAnIdeo>Select an ideoligion for your faction on the left, or</SelectAnIdeo>
   <Ideo>ideoligion</Ideo> 
@@ -72,6 +75,12 @@
   <ReformDevelopmentPoints>Points needed to reform</ReformDevelopmentPoints>
   <QuestLower>quest</QuestLower>
 
+  <UnableToLoadIdeoTitle>Could not load ideoligion</UnableToLoadIdeoTitle>
+  <UnableToLoadIdeoDescription>Could not load the selected ideoligion due to the requirements of the factions that will be following this ideoligion. The violated requirements are:</UnableToLoadIdeoDescription>
+  <UnableToLoadIdeoMemeNotAllowed>Meme {MEME} is not allowed for {FACTIONTYPE} factions</UnableToLoadIdeoMemeNotAllowed>
+  <UnableToLoadIdeoMemeRequired>Meme {MEME} is required for {FACTIONTYPE} factions</UnableToLoadIdeoMemeRequired>
+  <UnableToLoadIdeoPreceptNotAllowed>Precept {PRECEPT} is not allowed for non-player factions</UnableToLoadIdeoPreceptNotAllowed>
+
   <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
   <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
   <RitualTargetGraveInfoAbstract>A grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
@@ -79,6 +88,7 @@
   <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}'s body must be buried first</RitualTargetGraveInfoMustBeBuried>
   <RitualTargetGatherSpotInfo>Any gathering spot, like a table</RitualTargetGatherSpotInfo>
   <RitualTargetGatherAltarOrRitualSpotInfo>Altar or any ritual spot.</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>Altar, ideogram or any ritual spot.</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
   <RitualTargetLightBallInfo>A lightball or ritual spot. Lightball and loudspeakers must be powered.</RitualTargetLightBallInfo>
   <RitualTargetLightBallIsNotPowered>Lightball is not powered.</RitualTargetLightBallIsNotPowered>
   <RitualTargetNoPoweredSpeakers>No powered speakers.</RitualTargetNoPoweredSpeakers>
@@ -170,6 +180,7 @@
   <IdeoLeaderDifferentIdeoThoughtLabel>Led by {0}</IdeoLeaderDifferentIdeoThoughtLabel>
   <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} will not do {1} work.</AbilityDisabled_IncapableOfWorkTag>
   <AbilityDisabledNoAltarOrRitualsSpot>No reachable altar or ritual spot.</AbilityDisabledNoAltarOrRitualsSpot>
+  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>No reachable altar, ideogram or ritual spot.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
 
   <TextMote_WillReduced>Will\n{0} to {1}</TextMote_WillReduced>
 
@@ -310,7 +321,7 @@
 
   <!-- Bioscuplter pod -->
   <BiosculpterPodCycleLabel>Cycle</BiosculpterPodCycleLabel>
-  <BiosculpterPodCycleLabelLoading>loading nutrition</BiosculpterPodCycleLabelLoading>
+  <BiosculpterPodCycleLabelLoading>loading ingredients</BiosculpterPodCycleLabelLoading>
   <BiosculpterPodCycleLabelReady>ready</BiosculpterPodCycleLabelReady>
   <BiosculpterPodCycleCommand>Prepare {0} cycle</BiosculpterPodCycleCommand>
   <BiosculpterCycleTimeRemaining>Ends in</BiosculpterCycleTimeRemaining>
@@ -318,7 +329,8 @@
   <BiosculpterInteruptCycle>Interrupt cycle</BiosculpterInteruptCycle>
   <BiosculpterInteruptCycleDesc>Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness.</BiosculpterInteruptCycleDesc>
   <BiosculpterUnderageAgeReversalMessage>Warning: Age reversal cycle cannot be run while biosculpter is tuned to {PAWN_labelShort} because {PAWN_labelShort} is under {ADULTAGE} years old.</BiosculpterUnderageAgeReversalMessage>
-  <BiosculpterLoadingStartedMessage>Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle.</BiosculpterLoadingStartedMessage>
+  <BiosculpterLoadingStartedMessage>Once the biosculpter pod is filled with {INGREDIENTS}, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle.</BiosculpterLoadingStartedMessage>
+  <NumNutrition>{0} nutrition</NumNutrition>
   <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a biosculpter pod due to lack of power.</BiosculpterNoPowerEjectedMessage>
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} completed healing cycle.</BiosculpterHealCompletedMessage>
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured.</BiosculpterHealCompletedWithCureMessage>
@@ -328,5 +340,6 @@
   <HealingCycleWillHeal>These conditions will be healed</HealingCycleWillHeal>
   <HealingCycleOneWillHeal>One of these conditions will be healed</HealingCycleOneWillHeal>
   <MissingRequiredResearch>Missing required research</MissingRequiredResearch>
+  <BiosculpterRequiresIngredients>Requires</BiosculpterRequiresIngredients>
 
 </LanguageData>

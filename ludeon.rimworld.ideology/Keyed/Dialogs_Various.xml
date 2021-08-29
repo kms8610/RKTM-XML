@@ -29,7 +29,9 @@
   
   <Role>role</Role>
   <ChooseRole>Assign role</ChooseRole>
+  <ChooseNewRole>Choose new role</ChooseNewRole>
   <NoRoleAssigned>No role assigned</NoRoleAssigned>
+  <RemoveRole>Remove {0} role</RemoveRole>
   <ChooseRoleConfirmAssign>You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}.</ChooseRoleConfirmAssign>
   <ChooseRoleConfirmAssignPostfix>Are you sure?</ChooseRoleConfirmAssignPostfix>
   <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} currently holds this role and will be unhappy to lose it.</ChooseRoleConfirmAssignReplace>

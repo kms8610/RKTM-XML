@@ -69,6 +69,11 @@
   <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
   <LeaderSpeech.roles.0.label>speaker</LeaderSpeech.roles.0.label>
   
+  <RoleChange.roles.0.label>role changer</RoleChange.roles.0.label>
+  <RoleChange.roles.0.missingDesc>a role changer</RoleChange.roles.0.missingDesc>
+  <RoleChange.spectatorGerund>spectate</RoleChange.spectatorGerund>
+  <RoleChange.spectatorsLabel>Spectators</RoleChange.spectatorsLabel>
+  
   <SacrificeAnimal.roles.0.label>cutter</SacrificeAnimal.roles.0.label>
   <SacrificeAnimal.roles.0.missingDesc>몸 크기가 0.8 이상인 동물</SacrificeAnimal.roles.0.missingDesc>
   <SacrificeAnimal.roles.1.label>sacrifice</SacrificeAnimal.roles.1.label>

@@ -25,7 +25,7 @@
   
   <!-- Ideo role -->
   <LetterLabelRoleActive>{0} role activated</LetterLabelRoleActive>
-  <LetterLabelRoleActiveDesc>The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, select a colonist, go to their 'Social' tab and press the 'Choose role' button.</LetterLabelRoleActiveDesc>
+  <LetterLabelRoleActiveDesc>The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button.</LetterLabelRoleActiveDesc>
 
   <LetterLabelRoleInactive>{0} role deactivated</LetterLabelRoleInactive>
   <LetterLabelRoleInactiveDesc>Number of {0}s in your colony fell to {1}. {ROLE_labelDef} role is no longer active. This role will become available once again when the number of {0}s reaches {2}.</LetterLabelRoleInactiveDesc>

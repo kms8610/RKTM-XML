@@ -2,13 +2,11 @@
 <LanguageData>
   <Raiding_Required.label>required</Raiding_Required.label>
   <Raiding_Required.description>We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame.</Raiding_Required.description>
-  <Raiding_Required.comps.0.eventLabel>raided someone</Raiding_Required.comps.0.eventLabel>
   <Raiding_Required.comps.3.thoughtStageDescriptions.0>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Required.comps.3.thoughtStageDescriptions.0>
   <Raiding_Required.comps.3.thoughtStageDescriptions.1>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Required.comps.3.thoughtStageDescriptions.1>
   
   <Raiding_Respected.label>respected</Raiding_Respected.label>
   <Raiding_Respected.description>We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame.</Raiding_Respected.description>
-  <Raiding_Respected.comps.0.eventLabel>raided someone</Raiding_Respected.comps.0.eventLabel>
   <Raiding_Respected.comps.3.thoughtStageDescriptions.0>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Respected.comps.3.thoughtStageDescriptions.0>
   <Raiding_Respected.comps.3.thoughtStageDescriptions.1>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</Raiding_Respected.comps.3.thoughtStageDescriptions.1>
 </LanguageData>

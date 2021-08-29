@@ -239,6 +239,14 @@
   <GladiatorDuel.outcomeChances.3.label>Unforgettable</GladiatorDuel.outcomeChances.3.label>
   <GladiatorDuel.outcomeChances.3.description>The duel was unforgettable! Both fighters gave all they had, and the death showed their dedication.</GladiatorDuel.outcomeChances.3.description>
   
+  <RoleChange.description>A new role will be assigned to a colonist.</RoleChange.description>
+  <RoleChange.comps.0.label>required spectator count</RoleChange.comps.0.label>
+  <RoleChange.extraPredictedOutcomeDescriptions.0>The required number of spectators must attend for the role change to apply.</RoleChange.extraPredictedOutcomeDescriptions.0>
+  <RoleChange.outcomeChances.0.label>Failed</RoleChange.outcomeChances.0.label>
+  <RoleChange.outcomeChances.0.description>The role change was not attended by enough {IDEO_memberNamePlural}.</RoleChange.outcomeChances.0.description>
+  <RoleChange.outcomeChances.1.label>Successful</RoleChange.outcomeChances.1.label>
+  <RoleChange.outcomeChances.1.description>The role change ritual was completed.</RoleChange.outcomeChances.1.description>
+  
   <Sacrifice.description>Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</Sacrifice.description>
   <Sacrifice.comps.2.label>moral guide present</Sacrifice.comps.2.label>
   <Sacrifice.comps.3.label>participant count</Sacrifice.comps.3.label>
