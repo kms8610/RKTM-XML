@@ -12,7 +12,7 @@
   <!-- Generated neurotrainers -->
   <PsycastNeurotrainerLabel>psytrainer ({0})</PsycastNeurotrainerLabel>
   <PsycastNeurotrainerUseLabel>Use psytrainer to learn {0} psycast</PsycastNeurotrainerUseLabel>
-  <PsycastNeurotrainerDescription>A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.</PsycastNeurotrainerDescription>
+  <PsycastNeurotrainerDescription>A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
   <AbilityNeurotrainerUsed>{USER_labelShort} used neurotrainer to learn the {1} power.</AbilityNeurotrainerUsed>
   <PsycastNeurotrainerNoPsylink>Requires psylink</PsycastNeurotrainerNoPsylink>
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} already knows {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
