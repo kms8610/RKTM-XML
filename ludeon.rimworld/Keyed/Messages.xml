@@ -392,6 +392,7 @@
   <AssignToRole>Assign to {0}</AssignToRole>
   <RitualBegun>{0} has begun.</RitualBegun>
   <MaxPawnsPerRole>The maximum number of {0}s is {1}.</MaxPawnsPerRole>
+  <RoleIsLocked>Role of {0} is locked.</RoleIsLocked>
   <MessageRitualNeedsAtLeastOnePerson>You need at least one participant.</MessageRitualNeedsAtLeastOnePerson>
   <MessageRitualNeedsAtLeastOneSpectator>You need at least one spectator.</MessageRitualNeedsAtLeastOneSpectator>
   <MessageRitualNeedsAtLeastOneRolePawn>You need a {0}.</MessageRitualNeedsAtLeastOneRolePawn>
@@ -405,6 +406,8 @@
   <MessageRitualRoleMustBePrisoner>{0} must be a prisoner.</MessageRitualRoleMustBePrisoner>
   <MessageRitualRoleMustBeAnimal>{0} must be an animal.</MessageRitualRoleMustBeAnimal>
   <MessageRitualRoleMustBeHumanlike>{0} must be a human.</MessageRitualRoleMustBeHumanlike>
+  <MessageRitualNoRolesAvailable>No roles available for {0_labelShort}.</MessageRitualNoRolesAvailable>
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort} is not a member of any colony ideoligion.</MessageRitualNotOfPlayerIdeo> <!-- text_todo -->
   <MessageRitualRoleMustHaveEyes>{0} must have eyes</MessageRitualRoleMustHaveEyes>
   <MessageRitualRoleMustRequireScarification>{0_labelShort} does not require further scarification.</MessageRitualRoleMustRequireScarification>
   <MessageRitualRoleMustBePrisonerOrSlave>{0} must be a prisoner or slave.</MessageRitualRoleMustBePrisonerOrSlave>
@@ -433,5 +436,7 @@
   <AdjacentSowBlocker>Cannot be planted next to {0_label}.</AdjacentSowBlocker>
   <TooCloseToOtherPlant>Too close to {0_label}.</TooCloseToOtherPlant>
   <TooCloseToOtherSeedPlantCell>Too close to {0}'s planting location.</TooCloseToOtherSeedPlantCell>
-  
+
+  <MessageWarningCutImportantPlant>Warning: {0} has been marked for cutting.</MessageWarningCutImportantPlant>
+
 </LanguageData>
