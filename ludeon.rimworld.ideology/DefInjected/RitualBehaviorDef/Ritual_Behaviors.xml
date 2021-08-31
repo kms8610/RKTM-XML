@@ -75,7 +75,6 @@
   <RoleChange.spectatorsLabel>Spectators</RoleChange.spectatorsLabel>
   
   <SacrificeAnimal.roles.0.label>cutter</SacrificeAnimal.roles.0.label>
-  <SacrificeAnimal.roles.0.missingDesc>몸 크기가 0.8 이상인 동물</SacrificeAnimal.roles.0.missingDesc>
   <SacrificeAnimal.roles.1.label>sacrifice</SacrificeAnimal.roles.1.label>
   <SacrificeAnimal.roles.1.missingDesc>an animal with body size of at least 0.8</SacrificeAnimal.roles.1.missingDesc>
   <SacrificeAnimal.spectatorGerund>participate</SacrificeAnimal.spectatorGerund>
@@ -83,7 +82,6 @@
   <SacrificeAnimal.stages.0.failTriggers.0.desc>Animal is not reachable.</SacrificeAnimal.stages.0.failTriggers.0.desc>
   
   <SacrificePrisoner.roles.0.label>cutter</SacrificePrisoner.roles.0.label>
-  <SacrificePrisoner.roles.0.missingDesc>수감자</SacrificePrisoner.roles.0.missingDesc>
   <SacrificePrisoner.roles.1.label>sacrifice</SacrificePrisoner.roles.1.label>
   <SacrificePrisoner.roles.1.missingDesc>a prisoner</SacrificePrisoner.roles.1.missingDesc>
   <SacrificePrisoner.spectatorGerund>participate</SacrificePrisoner.spectatorGerund>

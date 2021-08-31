@@ -11,6 +11,7 @@
   <SlavesUnattendedDesc>Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours.</SlavesUnattendedDesc>
 
   <RitualExpected>{0} expected</RitualExpected>
+  <RitualOpportunity>{0} opportunity</RitualOpportunity>
   <RitualExpectedFor>{0} expected for</RitualExpectedFor>
   <RitualExpirationTime>{0} days: Ritual opportunity ends.</RitualExpirationTime>
   <RitualExpiresIn>Expires in</RitualExpiresIn>
@@ -35,7 +36,7 @@
 
   <IdeoRoleEmpty>{0} role unfilled</IdeoRoleEmpty>
   <IdeoRolesEmpty>{0} roles unfilled</IdeoRolesEmpty>
-  <IdeoRolesEmptyDesc>These roles are not filled:\n{0}\n\nYou can assign someone a role by performing a role change ritual. Select a ritual spot or an altar and click 'Begin role change'.\n\nIf these roles remain empty, the following people will be unhappy</IdeoRolesEmptyDesc>
+  <IdeoRolesEmptyDesc>These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy</IdeoRolesEmptyDesc> <!-- text_todo -->
 
   <AncientAltarThreatsWaking>Security threats activated in {0}</AncientAltarThreatsWaking>
   <AncientAltarThreatsWakingDesc>Security threats will activate in {0}. They will attack any who may threaten the relic.</AncientAltarThreatsWakingDesc>

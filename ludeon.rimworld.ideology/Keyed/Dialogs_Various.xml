@@ -81,7 +81,7 @@
   <CannotAssignBedToSlave>Slave</CannotAssignBedToSlave>
   <CannotAssignBedToColonist>Colonist</CannotAssignBedToColonist>
   <AnySlave>Any slave</AnySlave>
-  <NegotiatorWillNotTradeSlaves>Negotiator will not sell people into slavery.</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlaves>{0_nameDef} refuses to sell people into slavery according to his beliefs.</NegotiatorWillNotTradeSlaves> <!-- text_todo -->
   <NegotiatorWillNotTradeSlavesTip>The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction.</NegotiatorWillNotTradeSlavesTip>
 
   <LastHumanMeat>Last human meat</LastHumanMeat>
