@@ -17,6 +17,6 @@
     <li>runnerIndef->[joiner_nameIndef]</li>
     <li>runnerIndef->a Refugee</li>
   </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
-  <ThreatReward_Raid_Joiner.LetterLabelCashing.value.slateRef>{BASELABEL} chasing [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelCashing.value.slateRef>
-  <ThreatReward_Raid_Joiner.LetterTextCashing.value.slateRef>{BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef].</ThreatReward_Raid_Joiner.LetterTextCashing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} chasing [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef].</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
 </LanguageData>
