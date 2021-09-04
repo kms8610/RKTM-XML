@@ -19,6 +19,7 @@
   <MessageNotEnoughSpectators>At least {0} spectator(s) are required to start the {1}.</MessageNotEnoughSpectators>
   <MessageRoleChangeChooseDifferentRole>You must choose a role.</MessageRoleChangeChooseDifferentRole>
   <MessageNeedAssignedRoleToBeginRitual>Before starting the {1}, you must assign someone to the role of {0}.</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAtLeastOneParticipantOfIdeo>Need at least one {0} participating.</MessageNeedAtLeastOneParticipantOfIdeo> <!-- text_todo -->
   
   <MessageRoleAssigned>{0_labelShort} now holds the role of {1}.</MessageRoleAssigned>
   <MessageRoleUnassignedPrisoner>Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}.</MessageRoleUnassignedPrisoner>

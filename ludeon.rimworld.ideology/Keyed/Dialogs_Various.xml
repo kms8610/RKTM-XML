@@ -25,8 +25,10 @@
   <ChangesRemovePrecepts>The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue?</ChangesRemovePrecepts>
   
   <RoomRequirements>Room requirements</RoomRequirements>
-  <ConfirmChangeMemesForFluidIdeo>The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue?</ConfirmChangeMemesForFluidIdeo>
-  
+  <ConfirmChangeMemesForFluidIdeo>The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme).</ConfirmChangeMemesForFluidIdeo>
+  <ConfirmIncompatibleMemes>The following memes are incompatible</ConfirmIncompatibleMemes>
+  <ConfirmChangeMemesForFluidIdeoContinue>Would you like to continue?</ConfirmChangeMemesForFluidIdeoContinue>
+
   <Role>role</Role>
   <ChooseRole>Assign role</ChooseRole>
   <ChooseNewRole>Choose new role</ChooseNewRole>
