@@ -21,6 +21,12 @@
   <AA_ShutDownMechanoid.label>shut down</AA_ShutDownMechanoid.label>
   <AA_ShutDownMechanoid.description>Shuts down a mechanoid.</AA_ShutDownMechanoid.description>
   <AA_ShutDownMechanoid.jobString>Shutting down mechanoid.</AA_ShutDownMechanoid.jobString>
+  <RB_MakeSynthreadCloth.label>weave eleven synthread cloth from silk</RB_MakeSynthreadCloth.label>
+  <RB_MakeSynthreadCloth.description>weave synthread cloth from Synthread Silk and plasteel thread. \n\nMakes 11 cloth.</RB_MakeSynthreadCloth.description>
+  <RB_MakeSynthreadCloth.jobString>weaving synthread cloth.</RB_MakeSynthreadCloth.jobString>
+  <RB_MakeHyperweaveCloth.label>weave fifteen hyperweave cloth from silk</RB_MakeHyperweaveCloth.label>
+  <RB_MakeHyperweaveCloth.description>weave hyperweave cloth from hyperweave Silk and plasteel thread. \n\nMakes 15 cloth.</RB_MakeHyperweaveCloth.description>
+  <RB_MakeHyperweaveCloth.jobString>weaving hyperweave cloth.</RB_MakeHyperweaveCloth.jobString>
   <AA_MakeRangedSpinneretImplant.label>make a ranged spinneret implant</AA_MakeRangedSpinneretImplant.label>
   <AA_MakeRangedSpinneretImplant.description>Make a ranged spinneret implant from a Feralisk, Dunealisk, Blizzarisk, Cinderlisk, Junglelisk or Animalisk corpse. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_MakeRangedSpinneretImplant.description>
   <AA_MakeRangedSpinneretImplant.jobString>Making ranged spinneret implant</AA_MakeRangedSpinneretImplant.jobString>
