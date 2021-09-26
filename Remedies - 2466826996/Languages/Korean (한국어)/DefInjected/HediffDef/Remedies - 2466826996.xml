@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FF_AntidepressantHigh.label>antidepressant</FF_AntidepressantHigh.label>
+  <FF_AntidepressantHigh.description>Antidepressant in the bloodstream. Increases neurotransmitter activity in the brain, generating a mild euphoric effect.</FF_AntidepressantHigh.description>
+  <FF_EctostasisHigh.label>ectostasis</FF_EctostasisHigh.label>
+  <FF_EctostasisHigh.description>Active ectostasis mechanites in the body. They maintain the body's metabolism at baseline levels.</FF_EctostasisHigh.description>
+  <FF_FibrodustHigh.label>fibrodust clotting</FF_FibrodustHigh.label>
+  <FF_FibrodustHigh.description>Fibrodust in the bloodstream. Active bleeding is temporarily halted by its strong coagulant effects.</FF_FibrodustHigh.description>
+  <FF_NeodermHigh.label>neoderm</FF_NeodermHigh.label>
+  <FF_NeodermHigh.description>Neoderm on the skin. It heals dermal scars over time through a mildly painful process.</FF_NeodermHigh.description>
+  <FF_OverclockHigh.label>overclock</FF_OverclockHigh.label>
+  <FF_OverclockHigh.description>Active overclock in the bloodstream. It boosts the body's metabolism into overdrive, burning energy to increase movespeed and productivity.</FF_OverclockHigh.description>
+  <FF_OverclockHigh.stages.0.label>silent</FF_OverclockHigh.stages.0.label>
+  <FF_OverclockHigh.stages.1.label>active</FF_OverclockHigh.stages.1.label>
+  <FF_PainkillerHigh.label>painkiller high</FF_PainkillerHigh.label>
+  <FF_PainkillerHigh.description>Painkiller in the bloodstream. It dulls sensation and relieves pain.</FF_PainkillerHigh.description>
+  <FF_PainkillerHigh.stages.0.label>mild</FF_PainkillerHigh.stages.0.label>
+  <FF_PainkillerHigh.stages.1.label>moderate</FF_PainkillerHigh.stages.1.label>
+  <FF_PainkillerHigh.stages.2.label>strong</FF_PainkillerHigh.stages.2.label>
+  <FF_PainkillerTolerance.label>painkiller tolerance</FF_PainkillerTolerance.label>
+  <FF_PainkillerTolerance.description>A built-up tolerance to painkiller. The more severe this tolerance is, the more painkiller it takes to get the same effect.</FF_PainkillerTolerance.description>
+  <FF_PainkillerAddiction.label>painkiller dependence</FF_PainkillerAddiction.label>
+  <FF_PainkillerAddiction.description>An addiction to painkiller.</FF_PainkillerAddiction.description>
+  <FF_PainkillerAddiction.stages.0.label>withdrawal</FF_PainkillerAddiction.stages.0.label>
+  <FF_ScytheHigh.label>scythe coma</FF_ScytheHigh.label>
+  <FF_ScytheHigh.labelNoun>a scythe coma</FF_ScytheHigh.labelNoun>
+  <FF_ScytheHigh.description>A form of benign coma during which the body recovers from a drastically overstimulated immune system.</FF_ScytheHigh.description>
+  <FF_SorrowHigh.label>high on sorrow</FF_SorrowHigh.label>
+  <FF_SorrowHigh.labelNoun>a sorrow high</FF_SorrowHigh.labelNoun>
+  <FF_SorrowHigh.description>Sorrow in the bloodstream. It produces a controlled upwelling of sadness with cathartic effects.</FF_SorrowHigh.description>
+</LanguageData>
