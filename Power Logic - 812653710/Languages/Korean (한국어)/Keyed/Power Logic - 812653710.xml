@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PowerLogic.TrasmitterSending>Transmitting</PowerLogic.TrasmitterSending>
+  <PowerLogic.TrasmitterInactive>Unpowered: Inactive</PowerLogic.TrasmitterInactive>
+  <PowerLogic.ReceiverListening>Listening For Signal:</PowerLogic.ReceiverListening>
+  <PowerLogic.ReceiverDetectSignal> Detected - {0}</PowerLogic.ReceiverDetectSignal>
+  <PowerLogic.ReceiverDetectBounce> via {0}</PowerLogic.ReceiverDetectBounce>
+  <PowerLogic.ReceiverInactive>Not Listening/Inactive</PowerLogic.ReceiverInactive>
+  <PowerLogic.RadioCurrentChannel>Current Channel: {0}</PowerLogic.RadioCurrentChannel>
+  <PowerLogic.RadioChannelUp>Channel Up</PowerLogic.RadioChannelUp>
+  <PowerLogic.RadioChannelDown>Channel Down</PowerLogic.RadioChannelDown>
+  <PowerLogic.RadioChannelUpDesc>This changes the wireless band that the device listens/transmits onto a higher channel frequency. Valid channels are between {0} and {1}</PowerLogic.RadioChannelUpDesc>
+  <PowerLogic.RadioChannelDownDesc>This changes the wireless band that the device listens/transmits onto a lower channel frequency. Valid channels are between {0} and {1}</PowerLogic.RadioChannelDownDesc>
+  <PowerLogic.IFFFriendlyOff>Don't Trigger On Friendly</PowerLogic.IFFFriendlyOff>
+  <PowerLogic.IFFFriendlyOn>Trigger On Friendly</PowerLogic.IFFFriendlyOn>
+  <PowerLogic.IFFFoeOff>Don't Trigger On Hostile</PowerLogic.IFFFoeOff>
+  <PowerLogic.IFFFoeOn>Trigger On Hostile</PowerLogic.IFFFoeOn>
+  <PowerLogic.SensorRangeUp>Increase Sensor Range</PowerLogic.SensorRangeUp>
+  <PowerLogic.SensorRangeDown>Decrease Sensor Range</PowerLogic.SensorRangeDown>
+  <PowerLogic.SensorRangeUpDesc>This increases the range of your proximity sensor, but requires more power</PowerLogic.SensorRangeUpDesc>
+  <PowerLogic.SensorRangeDownDesc>This decreases the range of your proximity sensor, using less power to run</PowerLogic.SensorRangeDownDesc>
+  <PowerLogic.CutoffRange>Battery Cut Off/Cooldown Range {0}</PowerLogic.CutoffRange>
+  <PowerLogic.LowBatCutOff>Low Battery CutOff, High Battery Turn On</PowerLogic.LowBatCutOff>
+  <PowerLogic.HighBatCutOff>High Battery CutOff, Low Battery Turn On</PowerLogic.HighBatCutOff>
+  <PowerLogic.CutoffSettings>Settings</PowerLogic.CutoffSettings>
+  <PowerLogic.BatShortRange>Shorten Range</PowerLogic.BatShortRange>
+  <PowerLogic.CurrentPosLabel>Active When Positive</PowerLogic.CurrentPosLabel>
+  <PowerLogic.CurrentNegLabel>Active When Negative</PowerLogic.CurrentNegLabel>
+  <PowerLogic.DoorMacro>Macros</PowerLogic.DoorMacro>
+  <PowerLogic.DoorAddOpenAction>Open Door</PowerLogic.DoorAddOpenAction>
+  <PowerLogic.DoorAddCloseAction>Close Door</PowerLogic.DoorAddCloseAction>
+  <PowerLogic.DoorDelay>Delay: {0} seconds</PowerLogic.DoorDelay>
+  <PowerLogic.DoorFlickOff>Power Off</PowerLogic.DoorFlickOff>
+  <PowerLogic.DoorForbid>Forbid Door</PowerLogic.DoorForbid>
+  <PowerLogic.DoorUnforbid>Allow Door</PowerLogic.DoorUnforbid>
+  <PowerLogic.DoorChannelSwitch>Change Channel</PowerLogic.DoorChannelSwitch>
+  <PowerLogic.DoorChannelSwitch1>Change Primary Channel</PowerLogic.DoorChannelSwitch1>
+  <PowerLogic.DoorChannelSwitch2>Change Secondary Channel</PowerLogic.DoorChannelSwitch2>
+  <PowerLogic.DoorWaitMode>Toggle Wait Mode</PowerLogic.DoorWaitMode>
+  <PowerLogic.DoorWaitMode1>Continue while receiving</PowerLogic.DoorWaitMode1>
+  <PowerLogic.DoorWaitMode2>Wait while receiving</PowerLogic.DoorWaitMode2>
+  <PowerLogic.SignalStatus>Wireless Status</PowerLogic.SignalStatus>
+  <PowerLogic.DoorProfileAddTo>Add Profile To</PowerLogic.DoorProfileAddTo>
+  <PowerLogic.DoorProfileAddTo1>Add Profile To Primary</PowerLogic.DoorProfileAddTo1>
+  <PowerLogic.DoorProfileAddTo2>Add Profile To Secondary</PowerLogic.DoorProfileAddTo2>
+  <PowerLogic.DoorProfileSubFrom>Remove Profile From</PowerLogic.DoorProfileSubFrom>
+  <PowerLogic.DoorProfileSubFrom1>Remove Profile From Primary</PowerLogic.DoorProfileSubFrom1>
+  <PowerLogic.DoorProfileSubFrom2>Remove Profile From Secondary</PowerLogic.DoorProfileSubFrom2>
+  <PowerLogic.DoorSetPriority>Set Profile Priority</PowerLogic.DoorSetPriority>
+  <PowerLogic.CurrnetLight>Current Light Level: {0}</PowerLogic.CurrnetLight>
+  <PowerLogic.TargetLight>Light Threshold: {0}</PowerLogic.TargetLight>
+  <PowerLogic.LightUpLabel>Raise Light Threshold</PowerLogic.LightUpLabel>
+  <PowerLogic.LightDownLabel>Lower Light Threshold</PowerLogic.LightDownLabel>
+  <PowerLogic.DayNightCutoffLabel>Light Threshold Direction</PowerLogic.DayNightCutoffLabel>
+  <PowerLogic.DayNightCutoffDesc>This toggles when the switch turns on, above or below the light threshold</PowerLogic.DayNightCutoffDesc>
+  <PowerLogic.LightUpDesc>This raises the low light threshold level that triggers the switch</PowerLogic.LightUpDesc>
+  <PowerLogic.LightDownDesc>This lowers the low light threshold level that triggers the switch</PowerLogic.LightDownDesc>
+  <PowerLogic.HeatTriggerAbove>Turn On When Above {0}</PowerLogic.HeatTriggerAbove>
+  <PowerLogic.HeatTriggerBelow>Turn On When Below {0}</PowerLogic.HeatTriggerBelow>
+  <PowerLogic.HeatCurrentTemp>Current Temperature {0}</PowerLogic.HeatCurrentTemp>
+  <PowerLogic.OnAboveTarget>On Above Target</PowerLogic.OnAboveTarget>
+  <PowerLogic.OnBelowTarget>On Below Target</PowerLogic.OnBelowTarget>
+  <PowerLogic.AndGate>And Gate</PowerLogic.AndGate>
+  <PowerLogic.OrGate>Or Gate</PowerLogic.OrGate>
+  <PowerLogic.XorGate>Xor Gate</PowerLogic.XorGate>
+  <PowerLogic.AndGateDesc>An And Gate allows power through the gate when two power sources are connected to adjacent input sockets.  Similar to the Stay on Switch, except this switch isolates its power input sources</PowerLogic.AndGateDesc>
+  <PowerLogic.OrGateDesc>An Or Gate allows power through the gate when at least one power source is connected to its input sockets</PowerLogic.OrGateDesc>
+  <PowerLogic.XorGateDesc>An Exclusive Or (Xor) Gate allows power through the gate when one power source is connected to its input sockets, and disallows power when two or no power sources are connected</PowerLogic.XorGateDesc>
+  <PowerLogic.Entanglement>Entangle</PowerLogic.Entanglement>
+  <PowerLogic.EntanglementState>Entangled with {0}</PowerLogic.EntanglementState>
+  <PowerLogic.EntangleConfirm>This will permanently link this switch with {0}.  Do you wish to proceed?</PowerLogic.EntangleConfirm>
+  <PowerLogic.WifiPulser>Pulser</PowerLogic.WifiPulser>
+  <PowerLogic.TimerAlwaysOn>Always On</PowerLogic.TimerAlwaysOn>
+  <PowerLogic.TimerAlwaysOnPower>Always On (Powered Only)</PowerLogic.TimerAlwaysOnPower>
+  <PowerLogic.TimerPulse>Pulse</PowerLogic.TimerPulse>
+  <PowerLogic.TimerSchedule>Scheduled</PowerLogic.TimerSchedule>
+  <PowerLogic.PulseFrequency>Pulse Frequency</PowerLogic.PulseFrequency>
+  <PowerLogic.PulseLength>Pulse Length</PowerLogic.PulseLength>
+  <PowerLogic.DaySchedule>Day Schedule</PowerLogic.DaySchedule>
+  <PowerLogic.YearSchedule>Year Schedule</PowerLogic.YearSchedule>
+  <PowerLogic.RMBLMBActive>Use Left Mouse to activate, Use Right Mouse to deactivate</PowerLogic.RMBLMBActive>
+  <PowerLogic.TimerCounter>Counter</PowerLogic.TimerCounter>
+  <PowerLogic.PulsesTilOn>Pulses Until On</PowerLogic.PulsesTilOn>
+  <PowerLogic.PulsesTilOff>Pulses Until Off</PowerLogic.PulsesTilOff>
+  <PowerLogic.TimeOut>TimeOut</PowerLogic.TimeOut>
+  <PowerLogic.CounterStartOn>Start On?</PowerLogic.CounterStartOn>
+  <PowerLogic.Directions>Directions</PowerLogic.Directions>
+  <PowerLogic.StackOverDesc>Toggles whether the sensor turns on when the amount of items reaches or is over the threshold</PowerLogic.StackOverDesc>
+  <PowerLogic.StackOver>Turn On When Over or At</PowerLogic.StackOver>
+  <PowerLogic.StackUnderDesc>Toggles whether the sensor turns on when the amount of items gets to or is under the threshold</PowerLogic.StackUnderDesc>
+  <PowerLogic.StackUnder>Turn On When Under or At</PowerLogic.StackUnder>
+  <PowerLogic.StackDownDesc>Turn down the stack threshold</PowerLogic.StackDownDesc>
+  <PowerLogic.StackUpDesc>Turn up the stack threshold</PowerLogic.StackUpDesc>
+  <PowerLogic.StackCurrentDesc>Set the stack threshold to the current stack level</PowerLogic.StackCurrentDesc>
+  <PowerLogic.StackCurrent>Set Threshold to Current</PowerLogic.StackCurrent>
+  <PowerLogic.StackInspectOver>On when stack is at or over {0}</PowerLogic.StackInspectOver>
+  <PowerLogic.StackInspectUnder>On when stack is at or under {0}</PowerLogic.StackInspectUnder>
+  <PowerLogic.Radar>Radar</PowerLogic.Radar>
+  <PowerLogic.RadarShowPawns>Show Pawns</PowerLogic.RadarShowPawns>
+  <PowerLogic.RadarShowPaths>Show colonists paths</PowerLogic.RadarShowPaths>
+  <PowerLogic.RadarShowLetters>Show Letters</PowerLogic.RadarShowLetters>
+  <PowerLogic.RadarShowSweeper>Disable Sweeper effect</PowerLogic.RadarShowSweeper>
+  <PowerLogic.RadarShowFade>Disable Fade effect</PowerLogic.RadarShowFade>
+  <PowerLogic.RadarTransmitSafe>Transmit when Safe</PowerLogic.RadarTransmitSafe>
+  <PowerLogic.RadarTransmitDanger>Transmit when Danger</PowerLogic.RadarTransmitDanger>
+  <PowerLogic.LaserEmitterSafe>Emitter power within safe levels</PowerLogic.LaserEmitterSafe>
+  <PowerLogic.LaserEmitterHigh>Emitter power high, possible beam incineration</PowerLogic.LaserEmitterHigh>
+  <PowerLogic.LaserEmitterTemp>Emitter temperature levels above safe maximum.</PowerLogic.LaserEmitterTemp>
+  <PowerLogic.LaserEmitterTempFail>Emitter temperature levels above safe maximum, failure imminent.</PowerLogic.LaserEmitterTempFail>
+  <PowerLogic.LaserPowerInc>Increase by {0}</PowerLogic.LaserPowerInc>
+  <PowerLogic.LaserPowerIncDesc>Increasing power covers more squares, each unit is worth 10w of power and a range of 1 square, this also increases heat produced by the emitter, if power is above 400w then the beam becomes more dangerous if the beam is crossed at close range.</PowerLogic.LaserPowerIncDesc>
+  <PowerLogic.LaserPowerDec>Decrease by {0}</PowerLogic.LaserPowerDec>
+  <PowerLogic.LaserPowerDecDesc>Decreasing power covers less squares, each unit is worth 10w of power and a range of 1 square, this also decreases heat produced by the emitter, if power is still above 400w then the beam is still dangerous if the beam is crossed at close range.</PowerLogic.LaserPowerDecDesc>
+  <PowerLogic.LaserSwitchToggle>Toggle struck behaviour</PowerLogic.LaserSwitchToggle>
+  <PowerLogic.LaserSwitchToggleDesc>Toggle whether switch is on or off when struck by a laser</PowerLogic.LaserSwitchToggleDesc>
+  <PowerLogic.LaserSwitchBehaviourOn>Behaviour is On if struck</PowerLogic.LaserSwitchBehaviourOn>
+  <PowerLogic.LaserSwitchBehaviourOff>Behaviour is Off if struck</PowerLogic.LaserSwitchBehaviourOff>
+  <PowerLogic.Volume>Volume</PowerLogic.Volume>
+  <PowerLogic.TabSound>Sound</PowerLogic.TabSound>
+  <PowerLogic.Sfx>Sound Effects</PowerLogic.Sfx>
+  <PowerLogic.Songs>Songs</PowerLogic.Songs>
+  <PowerLogic.CurrentOffset>Offset</PowerLogic.CurrentOffset>
+  <PowerLogic.CurrentRate>Rate: {0} W</PowerLogic.CurrentRate>
+  <PowerLogic.CurrentRateM>Rate(M): {0} W</PowerLogic.CurrentRateM>
+  <PowerLogic.PlantInspectOver>On when harvestable plants is at or over {0}</PowerLogic.PlantInspectOver>
+  <PowerLogic.PlantInspectUnder>On when harvestable plants is at or under {0}</PowerLogic.PlantInspectUnder>
+  <PowerLogic.ServoTab>Servo</PowerLogic.ServoTab>
+  <PowerLogic.Recording>Recording</PowerLogic.Recording>
+  <PowerLogic.Record>Record</PowerLogic.Record>
+  <PowerLogic.AvailableActions>Available Actions (As they appear)</PowerLogic.AvailableActions>
+  <PowerLogic.OnActions>Actions (On)</PowerLogic.OnActions>
+  <PowerLogic.OffActions>Actions (Off)</PowerLogic.OffActions>
+</LanguageData>

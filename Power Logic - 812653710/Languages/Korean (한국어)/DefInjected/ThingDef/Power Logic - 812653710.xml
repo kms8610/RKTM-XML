@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SupesPressureSensor.label>pressure sensor plate</SupesPressureSensor.label>
+  <SupesPressureSensor.description>this switches power on when something steps over it, and off when nothing's there</SupesPressureSensor.description>
+  <SupesStackSensor.label>stack sensor plate</SupesStackSensor.label>
+  <SupesStackSensor.description>this switches power on when it has over a certain stack size.</SupesStackSensor.description>
+  <SupesProxSensor.label>proximity sensor</SupesProxSensor.label>
+  <SupesProxSensor.description>This switches power on when someone is within range, and off when nothing is there.  has limited range, but consumes no power.</SupesProxSensor.description>
+  <SupesRemoteProxSensor.label>remote proximity sensor</SupesRemoteProxSensor.label>
+  <SupesRemoteProxSensor.description>Transmits a signal to a nearby receiver switch or repeater on the same channel when triggered.  the sensor radius can be expanded, but consumes more power for larger coverage.</SupesRemoteProxSensor.description>
+  <SupesStayOnGate.label>stay on switch</SupesStayOnGate.label>
+  <SupesStayOnGate.description>This switches power on when connected to other two power sources or conduits</SupesStayOnGate.description>
+  <SupesCurrentSensor.label>current flow sensor switch</SupesCurrentSensor.label>
+  <SupesCurrentSensor.description>This switches on when it detects positive or negative power</SupesCurrentSensor.description>
+  <SupesCutoffSwitch.label>Capacitor Sensor Switch</SupesCutoffSwitch.label>
+  <SupesCutoffSwitch.description>When stored power is low, this switch turns itself off</SupesCutoffSwitch.description>
+  <SupesLightSensor.label>Light Sensor Switch</SupesLightSensor.label>
+  <SupesLightSensor.description>This turns on when at a specific light threshold</SupesLightSensor.description>
+  <SupesHeatSensor.label>Heat Sensor Switch</SupesHeatSensor.label>
+  <SupesHeatSensor.description>This switch is triggered above or below a specific temperature</SupesHeatSensor.description>
+  <SupesRemoteSwitch.label>Remote Controlled Switch</SupesRemoteSwitch.label>
+  <SupesRemoteSwitch.description>Switches power on when it detects a wireless signal being broadcast on the same channel.</SupesRemoteSwitch.description>
+  <SupesSignalRepeater.label>Signal Repeater</SupesSignalRepeater.label>
+  <SupesSignalRepeater.description>Listens for wireless signals and re-broadcasts them, effectively extending the distance a signal can travel.</SupesSignalRepeater.description>
+  <SupesSignalTransmitter.label>Signal Transmitter</SupesSignalTransmitter.label>
+  <SupesSignalTransmitter.description>Transmits a wireless signal when powered.</SupesSignalTransmitter.description>
+  <SupesRemoteDoor.label>Remote Controlled Door</SupesRemoteDoor.label>
+  <SupesRemoteDoor.description>Divides rooms.  Can run a set of macros after detecting a wireless signal. Powered operation allows people to move through the door without slowing down.</SupesRemoteDoor.description>
+  <SupesRemoteFlicker.label>Remote Flicker</SupesRemoteFlicker.label>
+  <SupesRemoteFlicker.description>This device flicks on any adjacent device when it receives a signal.</SupesRemoteFlicker.description>
+  <SupesRadar.label>Radar</SupesRadar.label>
+  <SupesRadar.description>Radio Detection And Ranging, or Radar for short, by sending out sensing reflected radio waves, it can determine where an object is over vast distances.</SupesRadar.description>
+  <SupesEntangledSwitch.label>Entangled Switch</SupesEntangledSwitch.label>
+  <SupesEntangledSwitch.description>This switch uses quantum entanglement to link to another switch.  The Entangled Switch will always become the opposite state of the switch it is entangled with, no matter how far apart the switches are.  The entanglement process is irreversible, and once a link has been made, it cannot be changed.</SupesEntangledSwitch.description>
+  <SupesZoneSwitch.label>Zone Switch</SupesZoneSwitch.label>
+  <SupesZoneSwitch.description>This switch counts the number of items within a zone.  For stockpiles, the count is restricted to allowed items.</SupesZoneSwitch.description>
+  <SupesLaserEmitter.label>Laser Emitter</SupesLaserEmitter.label>
+  <SupesLaserEmitter.description>A Laser Emitter, well, it emits a laser.  This can be paired with a laser switch to create a laser tripwire.  The beam can be bent round corners using laser mirrors and splitters.  Using more power will extend the laser length, this has the side effect of making the beam slightly hazardous to cross if high enough.  Warning, the laser emitter generates a lot of heat, consider using vents or coolers to avoid extreme heat or explosive mishaps.  The emitter beam doesn't differentiate between hostile or friendly pawns, take this into consideration if creating a laser based trap.</SupesLaserEmitter.description>
+  <SupesMoteLaser.label>Beam</SupesMoteLaser.label>
+  <SupesLaserMirror.label>Laser Mirror</SupesLaserMirror.label>
+  <SupesLaserMirror.description>This Mirror can reflect a laser beam at a 90 degree angle.</SupesLaserMirror.description>
+  <SupesLaserSplitter.label>Laser Splitter</SupesLaserSplitter.label>
+  <SupesLaserSplitter.description>This Laser Splitter, if struck by a beam at any angle, will split the beam into two perpendicular
+ beams.</SupesLaserSplitter.description>
+  <SupesLaserMerger.label>Laser Merger</SupesLaserMerger.label>
+  <SupesLaserMerger.description>This Laser Merger, if struck by one or more beams, will direct all beams towards the same direction using refraction through a prism.</SupesLaserMerger.description>
+  <SupesLaserWindow.label>Laser Window</SupesLaserWindow.label>
+  <SupesLaserWindow.description>This wall will allow laser beams through it unimpeded</SupesLaserWindow.description>
+  <SupesLaserPower.label>Laser Power Panel</SupesLaserPower.label>
+  <SupesLaserPower.description>When a laser is directed into one of the panels, the beam is diverted into a reservoir of water, the water quickly turns to steam and that steam pushes through a central turbine, causing power to be generated.</SupesLaserPower.description>
+  <SupesLaserSwitch.label>Laser Switch</SupesLaserSwitch.label>
+  <SupesLaserSwitch.description>This switch will turn on if struck by a laser beam.</SupesLaserSwitch.description>
+  <SupesBaseGate.label>logic gate</SupesBaseGate.label>
+  <SupesBaseGate.description>This allows power through the gate when two power sources are connected to adjacent input sockets.  Similar to the Stay on Switch, except this switch isolates its power sources.</SupesBaseGate.description>
+  <SupesInputSocket.label>Input Socket</SupesInputSocket.label>
+  <SupesInputSocket.description>Connect this between your logic gate and your power conduit to designate an input.</SupesInputSocket.description>
+  <SupesGateInverter.label>Inverter</SupesGateInverter.label>
+  <SupesGateInverter.description>This inverts the output of the logic gate it is placed next to.  requires a constant power source to function correctly.</SupesGateInverter.description>
+  <SupesGlass.label>Laser Glass</SupesGlass.label>
+  <SupesGlass.description>This glass is treated to resist the heat of lasers.</SupesGlass.description>
+  <SupesOpticalResonator.label>Optical Resonator</SupesOpticalResonator.label>
+  <SupesOpticalResonator.description>This Optical Resonator is an important component of a laser.  An optical resonator works by pumping light into a gain medium such as a gas or crystal, the light then reflects light off of two mirrors, one of which is partially reflective, that provides the output for something like a laser.</SupesOpticalResonator.description>
+  <SupesSpeaker.label>BoomBox</SupesSpeaker.label>
+  <SupesSpeaker.description>A Boombox that plays a sound when powered or when powered and detecting a wireless signal.  If multiple boomboxes are used, then only one will be heard at a time in a "first on first played" basis.</SupesSpeaker.description>
+  <SupesRemoteGizmoServo.label>Remote Gizmo Servo</SupesRemoteGizmoServo.label>
+  <SupesRemoteGizmoServo.description>This device activates a gizmo button on a single adjacent device (that it is pointing at) when it receives a signal.</SupesRemoteGizmoServo.description>
+  <SupesFuse.label>Protective Fuse</SupesFuse.label>
+  <SupesFuse.description>Made from a very thin copper wire in a glass tube, this fuse halves the chance that batteries will completely discharge.  More effective when used in sequence or to separate groups of batteries.</SupesFuse.description>
+</LanguageData>
