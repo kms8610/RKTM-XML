@@ -49,14 +49,6 @@
   <DesiredPsyfocus>Desired psyfocus</DesiredPsyfocus>
   <DesiredPsyfocusDesc>Click to set desired psyfocus.</DesiredPsyfocusDesc>
 
-  <!-- Abilities -->
-  <AbilityDisabledUndrafted>must be drafted.</AbilityDisabledUndrafted>
-  <AbilityOnCooldown>ability on cooldown. It will be available in {0}.</AbilityOnCooldown>
-  <AbilityAlreadyQueued>ability already queued.</AbilityAlreadyQueued>
-  <AbilityNoEntropyToDump>no heat to dump.</AbilityNoEntropyToDump>
-  <AbilityReadyLabel>Ability ready: {0}</AbilityReadyLabel>
-  <AbilityReadyText>{0_nameDef} is ready to use {1}.</AbilityReadyText>
-  
   <AbilitySpeechDisabledNoThroneAssigned>no throne assigned.</AbilitySpeechDisabledNoThroneAssigned>
   <AbilitySpeechDisabledNoThroneIsNotAccessible>throne is not accessible.</AbilitySpeechDisabledNoThroneIsNotAccessible>
   <AbilitySpeechDisabledNoThroneUndignified>throne not usable because it is undignified.</AbilitySpeechDisabledNoThroneUndignified>
@@ -100,4 +92,7 @@
 
   <AnimaLinkingExplanationBase>The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony.</AnimaLinkingExplanationBase>
   <ShuttleRequiredItemsNotSatisfied>Not all required cargo is loaded yet!</ShuttleRequiredItemsNotSatisfied>
+
+  <AbilityNoEntropyToDump>no heat to dump.</AbilityNoEntropyToDump>
+
 </LanguageData>
