@@ -107,6 +107,8 @@
   <RitualScarificationWarnWimp>{PAWN_labelShort} is a wimp and will not like being scarified.</RitualScarificationWarnWimp>
   <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded.</RitualBlindingWarnNonBlindingIdeo>
   <RitualBlindingWarnWimp>{PAWN_labelShort} is a wimp and will not like being blinded.</RitualBlindingWarnWimp>
+  <RitualScarificationTriggerExtraDesc>Scarification is expected for {IDEOMEMBER} colonists as long as number of scarified {IDEOMEMBERPLURAL} is below {0}.</RitualScarificationTriggerExtraDesc> <!-- text_todo -->
+  <RitualBlindingTriggerExtraDesc>Blinding is expected for each current and joining {IDEOMEMBER} colonist.</RitualBlindingTriggerExtraDesc> <!-- text_todo -->
   
   <RitualOutcomeExtraDesc_DancePartyWorkFocus>Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <RitualOutcomeExtraDesc_BlindingPsylink>Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level!</RitualOutcomeExtraDesc_BlindingPsylink>
@@ -322,21 +324,26 @@
   <!-- Bioscuplter pod -->
   <BiosculpterPodCycleLabel>Cycle</BiosculpterPodCycleLabel>
   <BiosculpterPodCycleLabelLoading>loading ingredients</BiosculpterPodCycleLabelLoading>
-  <BiosculpterPodCycleLabelReady>ready</BiosculpterPodCycleLabelReady>
-  <BiosculpterPodCycleCommand>Prepare {0} cycle</BiosculpterPodCycleCommand>
+  <BiosculpterPodCycleWillBiotune>(and biotuning)</BiosculpterPodCycleWillBiotune><!--text_todo-->
+  <BiosculpterPodCycleCommand>Begin {0} cycle</BiosculpterPodCycleCommand>
+  <BiosculpterPodCycleSelection>Ready for cycle selection</BiosculpterPodCycleSelection><!--text_todo-->
+  <BiosculpterPodCycleSelectionNoPower>Nutrition loaded, no power</BiosculpterPodCycleSelectionNoPower><!--text_todo-->
   <BiosculpterCycleTimeRemaining>Ends in</BiosculpterCycleTimeRemaining>
+  <BiosculpterCycleNoPowerInterrupt>Paused: No power (interrupt in {TIME})</BiosculpterCycleNoPowerInterrupt><!--text_todo-->
   <BiosculpterBiotunedTo>Biotuned to</BiosculpterBiotunedTo>
   <BiosculpterInteruptCycle>Interrupt cycle</BiosculpterInteruptCycle>
   <BiosculpterInteruptCycleDesc>Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness.</BiosculpterInteruptCycleDesc>
-  <BiosculpterUnderageAgeReversalMessage>Warning: Age reversal cycle cannot be run while biosculpter is tuned to {PAWN_labelShort} because {PAWN_labelShort} is under {ADULTAGE} years old.</BiosculpterUnderageAgeReversalMessage>
-  <BiosculpterLoadingStartedMessage>Once the biosculpter pod is filled with {INGREDIENTS}, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle.</BiosculpterLoadingStartedMessage>
+  <BiosculpterEnteringMessage>{PAWN_labelShort} will enter biosculpter and begin a {CYCLE} cycle.</BiosculpterEnteringMessage><!--text_todo-->
+  <BiosculpterLoadingStartedMessage>{PAWN_labelShort} will collect {INGREDIENTS}, and begin a {CYCLE} cycle.</BiosculpterLoadingStartedMessage><!--text_todo-->
+  <BiosculpterCarryStartedMessage>{PAWN_labelShort} will collect {INGREDIENTS}, place {DOWNED_labelShort} inside the biosculpter, and begin a {CYCLE} cycle.</BiosculpterCarryStartedMessage><!--text_todo-->
   <NumNutrition>{0} nutrition</NumNutrition>
   <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a biosculpter pod due to lack of power.</BiosculpterNoPowerEjectedMessage>
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} completed healing cycle.</BiosculpterHealCompletedMessage>
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured.</BiosculpterHealCompletedWithCureMessage>
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days.</BiosculpterAgeReversalCompletedMessage>
-  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort} completed pleasure cycle.</BiosculpterPleasureCompletedMessage>
+  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}'s pleasure cycle is complete.</BiosculpterPleasureCompletedMessage>
   <BiosculpterCleanlinessSpeedFactor>Cleanliness speed factor</BiosculpterCleanlinessSpeedFactor>
+  <BiosculpterBiotunedSpeedFactor>Biotuned speed factor</BiosculpterBiotunedSpeedFactor><!--text_todo-->
   <HealingCycleWillHeal>These conditions will be healed</HealingCycleWillHeal>
   <HealingCycleOneWillHeal>One of these conditions will be healed</HealingCycleOneWillHeal>
   <MissingRequiredResearch>Missing required research</MissingRequiredResearch>
