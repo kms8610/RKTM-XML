@@ -176,7 +176,7 @@
   <BurstShotCount>Burst shot count</BurstShotCount>
   <WarmupTime>Warmup</WarmupTime>
   <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
-  <RangedWarmupTime>Ranged warmup</RangedWarmupTime> <!-- text_todo -->
+  <RangedWarmupTime>Ranged warmup</RangedWarmupTime>
   <CooldownTime>Cooldown</CooldownTime>
   <DisarmedTime>Disarmed</DisarmedTime>
   <ChargingTime>Charging</ChargingTime>
@@ -268,7 +268,8 @@
   <Supports>Supports</Supports>
   <TrapArmorPenetration>Trap armor penetration</TrapArmorPenetration>
   <RearmCost>Rearm cost</RearmCost>
-  <RearmCostExplanation>Resources needed to rearm this turret (affected by difficulty).</RearmCostExplanation>
+  <RearmCostExplanation>Resources needed to rearm this turret</RearmCostExplanation>
+  <RearmCostExplanationDifficulty>affected by difficulty</RearmCostExplanationDifficulty>
   <ShotsBeforeRearm>Shots before rearm</ShotsBeforeRearm>
   <ShotsBeforeRearmExplanation>How many shots this turret can fire before it has to be rearmed.</ShotsBeforeRearmExplanation>
   <PowerConsumption>Power consumption</PowerConsumption>

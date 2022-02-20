@@ -18,6 +18,10 @@
   <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
   <MeleeHitChance.description>Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit.</MeleeHitChance.description>
   
+  <MortarMissRadiusFactor.label>Mortar miss radius multiplier</MortarMissRadiusFactor.label>
+  <MortarMissRadiusFactor.description>A multiplier on the miss radius of a mortar used by this person. Smaller numbers means more accurate mortar shells.</MortarMissRadiusFactor.description>
+  <MortarMissRadiusFactor.labelForFullStatList>Mortar miss radius multiplier</MortarMissRadiusFactor.labelForFullStatList>
+  
   <PawnTrapSpringChance.label>trap spring chance</PawnTrapSpringChance.label>
   <PawnTrapSpringChance.description>Chance to spring a trap the character is unaware of.</PawnTrapSpringChance.description>
   

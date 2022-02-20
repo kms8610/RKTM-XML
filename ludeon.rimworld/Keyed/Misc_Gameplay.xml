@@ -32,7 +32,7 @@
   <TreatmentExpiresIn>Tending expires in {0}</TreatmentExpiresIn>
   <NextTendIn>Can be tended in {0}</NextTendIn>
   <TendQuality>Tend quality</TendQuality>
-  <DisappearsAtTotalTendQuality>Total tend quality</DisappearsAtTotalTendQuality> <!-- text_todo -->
+  <DisappearsAtTotalTendQuality>Total tend quality</DisappearsAtTotalTendQuality>
   <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
   <Immunity>Immunity</Immunity>
   <DaysToRecover>{0} days to recover</DaysToRecover>
@@ -264,6 +264,8 @@
   <StudyCompleted>completed</StudyCompleted>
   <AttackToDestroy>Attack this to destroy it.</AttackToDestroy>
   <RemoveByAttackingTooltip>Remove this by attacking it.</RemoveByAttackingTooltip>
+  <ThoughtFoodEatenFood>Food</ThoughtFoodEatenFood>
+  <ThoughtFoodEatenIngredients>Ingredients</ThoughtFoodEatenIngredients>
 
   <!-- Scanning -->
   <UserScanAbility>User scanning speed</UserScanAbility>

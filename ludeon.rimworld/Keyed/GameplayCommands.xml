@@ -41,7 +41,7 @@
   <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
 
   <CommandThingSetOwnerLabel>Set owner</CommandThingSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific {0}.</CommandBedSetOwnerDesc>
   <CommandThroneSetOwnerDesc>Assign this throne to be owned by a specific colonist.</CommandThroneSetOwnerDesc>
   <CommandMeditationSpotSetOwnerDesc>Assign this meditation spot to be owned by a specific colonist.</CommandMeditationSpotSetOwnerDesc>
   <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
