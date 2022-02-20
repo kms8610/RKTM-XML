@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KTBeastmenChaosMeme.label>Warped</KTBeastmenChaosMeme.label>
+  <KTBeastmenChaosMeme.description>We are beasts of the warp. The rules of man do not bind us.</KTBeastmenChaosMeme.description>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.0>memeAdjective->monster</KTBeastmenChaosMeme.generalRules.rulesStrings.0>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.1>memeAdjective->beast</KTBeastmenChaosMeme.generalRules.rulesStrings.1>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.2>memeCreed->herd</KTBeastmenChaosMeme.generalRules.rulesStrings.2>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.3>memeCreed->flock</KTBeastmenChaosMeme.generalRules.rulesStrings.3>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.4>memeConcept->beasts</KTBeastmenChaosMeme.generalRules.rulesStrings.4>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.5>memeLeaderNoun->bestigor</KTBeastmenChaosMeme.generalRules.rulesStrings.5>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.6>memeLeaderNoun->warlord</KTBeastmenChaosMeme.generalRules.rulesStrings.6>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.7>memeLeaderAdjective->bestigor</KTBeastmenChaosMeme.generalRules.rulesStrings.7>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.8>memeMoralist->dark herald</KTBeastmenChaosMeme.generalRules.rulesStrings.8>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.9>memeMoralist->seer</KTBeastmenChaosMeme.generalRules.rulesStrings.9>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.10>memeMoralist->shaman</KTBeastmenChaosMeme.generalRules.rulesStrings.10>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.11>memeAdjective->fury</KTBeastmenChaosMeme.generalRules.rulesStrings.11>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.12>memeAdjective->pain</KTBeastmenChaosMeme.generalRules.rulesStrings.12>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.13>memeConcept->hooves</KTBeastmenChaosMeme.generalRules.rulesStrings.13>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.14>memeConcept->chaos</KTBeastmenChaosMeme.generalRules.rulesStrings.14>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.15>memeConcept->fury</KTBeastmenChaosMeme.generalRules.rulesStrings.15>
+  <KTBeastmenChaosMeme.generalRules.rulesStrings.16>memeConcept->ravage</KTBeastmenChaosMeme.generalRules.rulesStrings.16>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_KTBeastmenChaos)        ->[deity0_name] moulded the beasts and shaped their fury.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.0>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_KTBeastmenChaos)  ->[deity0_name] brought the beasts to the [place_summary] [place_name], the herds roamed it.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.1>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_KTBeastmenChaos)           ->[deity0_name] blessed the [place_summary] [place_name], for this was now the hunting grounds for the beasts.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.2>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_KTBeastmenChaos)        ->Humankind arrived, they built and foraged on the sacred grounds, and [founderName] was furious.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.3>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_KTBeastmenChaos)     ->[deity0_name] called [founderName] herd to uphold the sacred grounds.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.4>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.5>founderJoin(tag=meme_KTBeastmenChaos)     ->As humankind kept building and expanding, [founderName] looked upon in it hate.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.5>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.6>victory(tag=meme_KTBeastmenChaos)         ->[founderName] called to the herd and with [deity0_name]'s voice beckoning them, they stampeded their way through the lands.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.6>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.7>setup(tag=meme_KTBeastmenChaos)           ->[founderName] lived at the holy ground of [deity0_name], and tasked with upholding the chaos.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.7>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.8>story(uses=1,tag=meme_KTBeastmenChaos)    ->[founderName] raised dark stones around the land to commune with [deity0_name].</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.8>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.9>lessonIntro(tag=meme_KTBeastmenChaos)         ->I have heard the words of [deity0_name]:</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.9>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.10>lesson(tag=meme_KTBeastmenChaos)              ->These lands are ours, our thundering hooves shall echo these lands.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.10>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.11>lessonReinforcement(tag=meme_KTBeastmenChaos) ->We are the apostles of [deity0_name], no one shall stand before us.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.11>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.12>archistBasis(tag=meme_KTBeastmenChaos)    ->Since archotechs awoke, the words of [deity0_name] has warped.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.12>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.13>archistFact(tag=meme_KTBeastmenChaos)     ->Archotechs have a connection to the warp.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.13>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.14>archistProphecy(tag=meme_KTBeastmenChaos) ->[inTheEnd], archotechs shall open the way for the warp.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.14>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.15>animistBasis(tag=meme_KTBeastmenChaos)    ->We are but beasts, human morality holds no sway.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.15>
+  <KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.16>animistFact(tag=meme_KTBeastmenChaos)     ->The warp is ever present.</KTBeastmenChaosMeme.descriptionMaker.rules.rulesStrings.16>
+  <KTBeastmenChaosMeme.symbolPacks.0.ideoName>Painism</KTBeastmenChaosMeme.symbolPacks.0.ideoName>
+  <KTBeastmenChaosMeme.symbolPacks.0.theme>pain</KTBeastmenChaosMeme.symbolPacks.0.theme>
+  <KTBeastmenChaosMeme.symbolPacks.0.adjective>painist</KTBeastmenChaosMeme.symbolPacks.0.adjective>
+  <KTBeastmenChaosMeme.symbolPacks.0.member>screamer</KTBeastmenChaosMeme.symbolPacks.0.member>
+  <KTBeastmenChaosMeme.symbolPacks.1.ideoName>Torturism</KTBeastmenChaosMeme.symbolPacks.1.ideoName>
+  <KTBeastmenChaosMeme.symbolPacks.1.theme>torture</KTBeastmenChaosMeme.symbolPacks.1.theme>
+  <KTBeastmenChaosMeme.symbolPacks.1.adjective>torturistic</KTBeastmenChaosMeme.symbolPacks.1.adjective>
+  <KTBeastmenChaosMeme.symbolPacks.1.member>torturist</KTBeastmenChaosMeme.symbolPacks.1.member>
+  <KTBeastmenChaosMeme.symbolPacks.2.ideoName>Sufferism</KTBeastmenChaosMeme.symbolPacks.2.ideoName>
+  <KTBeastmenChaosMeme.symbolPacks.2.theme>suffering</KTBeastmenChaosMeme.symbolPacks.2.theme>
+  <KTBeastmenChaosMeme.symbolPacks.2.adjective>sufferist</KTBeastmenChaosMeme.symbolPacks.2.adjective>
+  <KTBeastmenChaosMeme.symbolPacks.2.member>sufferer</KTBeastmenChaosMeme.symbolPacks.2.member>
+  <KTBeastmenChaosMeme.symbolPacks.3.ideoName>Agonism</KTBeastmenChaosMeme.symbolPacks.3.ideoName>
+  <KTBeastmenChaosMeme.symbolPacks.3.theme>agony</KTBeastmenChaosMeme.symbolPacks.3.theme>
+  <KTBeastmenChaosMeme.symbolPacks.3.adjective>agonist</KTBeastmenChaosMeme.symbolPacks.3.adjective>
+  <KTBeastmenChaosMeme.symbolPacks.3.member>agonist</KTBeastmenChaosMeme.symbolPacks.3.member>
+</LanguageData>

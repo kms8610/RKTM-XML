@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BullgorAteLavishMeal.stages.0.label>ate lavish meal</BullgorAteLavishMeal.stages.0.label>
+  <BullgorAteLavishMeal.stages.0.description>This doesn't sate me.</BullgorAteLavishMeal.stages.0.description>
+  <BullgorAteFineMeal.stages.0.label>ate fine meal</BullgorAteFineMeal.stages.0.label>
+  <BullgorAteFineMeal.stages.0.description>This doesn't sate me.</BullgorAteFineMeal.stages.0.description>
+  <BullgorAteCorpse.stages.0.label>ate corpse</BullgorAteCorpse.stages.0.label>
+  <BullgorAteCorpse.stages.0.description>Yes! More! More!</BullgorAteCorpse.stages.0.description>
+  <BullgorAteHumanlikeMeatDirect.stages.0.label>raw cannibalism</BullgorAteHumanlikeMeatDirect.stages.0.label>
+  <BullgorAteHumanlikeMeatDirect.stages.0.description>Raw and bloody! This pleases me!</BullgorAteHumanlikeMeatDirect.stages.0.description>
+  <BullgorAteHumanlikeMeatDirectCannibal.stages.0.label>raw cannibalism</BullgorAteHumanlikeMeatDirectCannibal.stages.0.label>
+  <BullgorAteHumanlikeMeatDirectCannibal.stages.0.description>Raw and bloody! This pleases me!</BullgorAteHumanlikeMeatDirectCannibal.stages.0.description>
+  <BullgorAteHumanlikeMeatAsIngredient.stages.0.label>cooked cannibalism</BullgorAteHumanlikeMeatAsIngredient.stages.0.label>
+  <BullgorAteHumanlikeMeatAsIngredient.stages.0.description>I prefer it raw.</BullgorAteHumanlikeMeatAsIngredient.stages.0.description>
+  <BullgorAteHumanlikeMeatAsIngredientCannibal.stages.0.label>cooked cannibalism</BullgorAteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <BullgorAteHumanlikeMeatAsIngredientCannibal.stages.0.description>I prefer it raw.</BullgorAteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+  <GorKnowColonistExecuted.stages.0.label>justified execution of colonist</GorKnowColonistExecuted.stages.0.label>
+  <GorKnowColonistExecuted.stages.0.description>Guilty or not who cares.</GorKnowColonistExecuted.stages.0.description>
+  <GorKnowColonistExecuted.stages.1.label>colonist euthanized</GorKnowColonistExecuted.stages.1.label>
+  <GorKnowColonistExecuted.stages.1.description>Could have done it quicker.</GorKnowColonistExecuted.stages.1.description>
+  <GorKnowColonistExecuted.stages.2.label>colonist executed</GorKnowColonistExecuted.stages.2.label>
+  <GorKnowColonistExecuted.stages.2.description>A colonist was killed.</GorKnowColonistExecuted.stages.2.description>
+  <GorKnowColonistExecuted.stages.3.label>colonist organ-harvested</GorKnowColonistExecuted.stages.3.label>
+  <GorKnowColonistExecuted.stages.3.description>Could make a good soup.</GorKnowColonistExecuted.stages.3.description>
+  <GorKnowPrisonerDiedInnocent.stages.0.label>innocent prisoner died</GorKnowPrisonerDiedInnocent.stages.0.label>
+  <GorKnowPrisonerDiedInnocent.stages.0.description>Who cares.</GorKnowPrisonerDiedInnocent.stages.0.description>
+  <GorKnowColonistDied.stages.0.label>colonist died</GorKnowColonistDied.stages.0.label>
+  <GorKnowColonistDied.stages.0.description>Hmpf.</GorKnowColonistDied.stages.0.description>
+  <GorBondedAnimalDied.stages.0.label>bonded animal {0} died</GorBondedAnimalDied.stages.0.label>
+  <GorBondedAnimalDied.stages.0.description>That was mine!</GorBondedAnimalDied.stages.0.description>
+  <GorPawnWithGoodOpinionDied.stages.0.label>my friend {0} died</GorPawnWithGoodOpinionDied.stages.0.label>
+  <GorPawnWithGoodOpinionDied.stages.0.description>I liked that one.</GorPawnWithGoodOpinionDied.stages.0.description>
+  <GorPawnWithBadOpinionDied.stages.0.label>my rival {0} died</GorPawnWithBadOpinionDied.stages.0.label>
+  <GorPawnWithBadOpinionDied.stages.0.description>If only I could relive this.</GorPawnWithBadOpinionDied.stages.0.description>
+  <GorMySonDied.stages.0.label>my son {0} died</GorMySonDied.stages.0.label>
+  <GorMySonDied.stages.0.description>So weak. Such dissapointment</GorMySonDied.stages.0.description>
+  <GorMyDaughterDied.stages.0.label>my daughter {0} died</GorMyDaughterDied.stages.0.label>
+  <GorMyDaughterDied.stages.0.description>So weak. Such dissapointment</GorMyDaughterDied.stages.0.description>
+  <GorMyHusbandDied.stages.0.label>my husband {0} died</GorMyHusbandDied.stages.0.label>
+  <GorMyHusbandDied.stages.0.description>He was mine!</GorMyHusbandDied.stages.0.description>
+  <GorMyWifeDied.stages.0.label>my wife {0} died</GorMyWifeDied.stages.0.label>
+  <GorMyWifeDied.stages.0.description>She was mine!</GorMyWifeDied.stages.0.description>
+  <GorMyFianceDied.stages.0.label>my fiance {0} died</GorMyFianceDied.stages.0.label>
+  <GorMyFianceDied.stages.0.description>He was mine!</GorMyFianceDied.stages.0.description>
+  <GorMyFianceeDied.stages.0.label>my fiancée {0} died</GorMyFianceeDied.stages.0.label>
+  <GorMyFianceeDied.stages.0.description>She was mine!.</GorMyFianceeDied.stages.0.description>
+  <GorMyLoverDied.stages.0.label>my lover {0} died</GorMyLoverDied.stages.0.label>
+  <GorMyLoverDied.stages.0.description>That was mine!</GorMyLoverDied.stages.0.description>
+  <GorMyBrotherDied.stages.0.label>my brother {0} died</GorMyBrotherDied.stages.0.label>
+  <GorMyBrotherDied.stages.0.description>He was weak!</GorMyBrotherDied.stages.0.description>
+  <GorMySisterDied.stages.0.label>my sister {0} died</GorMySisterDied.stages.0.label>
+  <GorMySisterDied.stages.0.description>She was weak!</GorMySisterDied.stages.0.description>
+  <GorMyGrandchildDied.stages.0.label>my grandchild {0} died</GorMyGrandchildDied.stages.0.label>
+  <GorMyGrandchildDied.stages.0.description>Such weakness!</GorMyGrandchildDied.stages.0.description>
+  <GorMyFatherDied.stages.0.label>my father {0} died</GorMyFatherDied.stages.0.label>
+  <GorMyFatherDied.stages.0.description>He was weak! I'm stronger.</GorMyFatherDied.stages.0.description>
+  <GorMyMotherDied.stages.0.label>my mother {0} died</GorMyMotherDied.stages.0.label>
+  <GorMyMotherDied.stages.0.description>She was weak! I'm stronger.</GorMyMotherDied.stages.0.description>
+  <GorMyNieceDied.stages.0.label>my niece {0} died</GorMyNieceDied.stages.0.label>
+  <GorMyNieceDied.stages.0.description>Such weakness.</GorMyNieceDied.stages.0.description>
+  <GorMyNephewDied.stages.0.label>my nephew {0} died</GorMyNephewDied.stages.0.label>
+  <GorMyNephewDied.stages.0.description>Such weakness.</GorMyNephewDied.stages.0.description>
+  <GorMyHalfSiblingDied.stages.0.label>my half-sibling {0} died</GorMyHalfSiblingDied.stages.0.label>
+  <GorMyHalfSiblingDied.stages.0.description>Such weakness.</GorMyHalfSiblingDied.stages.0.description>
+  <GorMyAuntDied.stages.0.label>my aunt {0} died</GorMyAuntDied.stages.0.label>
+  <GorMyAuntDied.stages.0.description>Weak! So weak!</GorMyAuntDied.stages.0.description>
+  <GorMyUncleDied.stages.0.label>my uncle {0} died</GorMyUncleDied.stages.0.label>
+  <GorMyUncleDied.stages.0.description>Weak! So weak!.</GorMyUncleDied.stages.0.description>
+  <GorMyGrandparentDied.stages.0.label>my grandparent {0} died</GorMyGrandparentDied.stages.0.label>
+  <GorMyGrandparentDied.stages.0.description>Such weakness.</GorMyGrandparentDied.stages.0.description>
+  <GorMyCousinDied.stages.0.label>my cousin {0} died</GorMyCousinDied.stages.0.label>
+  <GorMyCousinDied.stages.0.description>Weak! So weak!</GorMyCousinDied.stages.0.description>
+  <GorMyKinDied.stages.0.label>my kin {0} died</GorMyKinDied.stages.0.label>
+  <GorMyKinDied.stages.0.description>Weak! Weak! Weak!</GorMyKinDied.stages.0.description>
+  <GorGotMarried.stages.0.label>got married to {0}</GorGotMarried.stages.0.label>
+  <GorGotMarried.stages.0.description>Let us indulge ourselfs.</GorGotMarried.stages.0.description>
+  <GorAttendedWedding.stages.0.label>attended wedding</GorAttendedWedding.stages.0.label>
+  <GorAttendedWedding.stages.0.description>I want more booze!</GorAttendedWedding.stages.0.description>
+  <GorAttendedParty.stages.0.label>attended party</GorAttendedParty.stages.0.label>
+  <GorAttendedParty.stages.0.description>More wine! More booze!</GorAttendedParty.stages.0.description>
+  <GorMyOrganHarvested.stages.0.label>my organ harvested</GorMyOrganHarvested.stages.0.label>
+  <GorMyOrganHarvested.stages.0.description>These weaklings!</GorMyOrganHarvested.stages.0.description>
+  <GorWasImprisoned.stages.0.label>was imprisoned</GorWasImprisoned.stages.0.label>
+  <GorWasImprisoned.stages.0.description>Weaklings try to contain me!</GorWasImprisoned.stages.0.description>
+  <GorNuzzled.stages.0.label>nuzzled</GorNuzzled.stages.0.label>
+  <GorNuzzled.stages.0.description>My little pet.</GorNuzzled.stages.0.description>
+  <GorKnowBuriedInSarcophagus.stages.0.label>buried in sarcophagus</GorKnowBuriedInSarcophagus.stages.0.label>
+  <GorKnowBuriedInSarcophagus.stages.0.description>This colony buried someone in an ornamented sarcophagus.</GorKnowBuriedInSarcophagus.stages.0.description>
+  <GorWitnessedDeathAlly.stages.0.label>witnessed ally's death</GorWitnessedDeathAlly.stages.0.label>
+  <GorWitnessedDeathAlly.stages.0.description>Weaklings! All of them!.</GorWitnessedDeathAlly.stages.0.description>
+  <GorWitnessedDeathFamily.stages.0.label>witnessed family member's death</GorWitnessedDeathFamily.stages.0.label>
+  <GorWitnessedDeathFamily.stages.0.description>Such weakness! This weaklings share my blood!</GorWitnessedDeathFamily.stages.0.description>
+  <GorColonistBanished.stages.0.label>colonist banished</GorColonistBanished.stages.0.label>
+  <GorColonistBanished.stages.0.description>Who cares.</GorColonistBanished.stages.0.description>
+  <GorColonistBanishedToDie.stages.0.label>colonist banished to death</GorColonistBanishedToDie.stages.0.label>
+  <GorColonistBanishedToDie.stages.0.description>Who cares.</GorColonistBanishedToDie.stages.0.description>
+  <GorPrisonerBanishedToDie.stages.0.label>prisoner banished to death</GorPrisonerBanishedToDie.stages.0.label>
+  <GorPrisonerBanishedToDie.stages.0.description>Who cares.</GorPrisonerBanishedToDie.stages.0.description>
+  <GorBondedAnimalBanished.stages.0.label>bonded animal {0} banished</GorBondedAnimalBanished.stages.0.label>
+  <GorBondedAnimalBanished.stages.0.description>That one was mine!</GorBondedAnimalBanished.stages.0.description>
+  <GorFailedToRescueRelative.stages.0.label>failed to rescue {0}</GorFailedToRescueRelative.stages.0.label>
+  <GorFailedToRescueRelative.stages.0.description>Such a waste. Could have been of use in the herd.</GorFailedToRescueRelative.stages.0.description>
+  <GorRescuedRelative.stages.0.label>rescued {0}</GorRescuedRelative.stages.0.label>
+  <GorRescuedRelative.stages.0.description>Make yourself usefull.</GorRescuedRelative.stages.0.description>
+  <GorRescued.stages.0.label>rescued</GorRescued.stages.0.label>
+  <GorRescued.stages.0.description>Hmpf! I didn't need help.</GorRescued.stages.0.description>
+  <GorKindWordsMood.stages.0.label>kind words</GorKindWordsMood.stages.0.label>
+  <GorKindWordsMood.stages.0.description>Hmph! What do you want!</GorKindWordsMood.stages.0.description>
+  <GorSoldMyLovedOne.stages.0.label>loved one sold</GorSoldMyLovedOne.stages.0.label>
+  <GorSoldMyLovedOne.stages.0.labelSocial>sold my loved one</GorSoldMyLovedOne.stages.0.labelSocial>
+  <GorSoldMyLovedOne.stages.0.description>They sold what was mine!</GorSoldMyLovedOne.stages.0.description>
+  <GorSoldMyBondedAnimal.stages.0.label>bonded animal sold</GorSoldMyBondedAnimal.stages.0.label>
+  <GorSoldMyBondedAnimal.stages.0.labelSocial>sold my bonded animal</GorSoldMyBondedAnimal.stages.0.labelSocial>
+  <GorSoldMyBondedAnimal.stages.0.description>They sold my pretty little pet!</GorSoldMyBondedAnimal.stages.0.description>
+  <GorRebuffedMyRomanceAttemptMood.stages.0.label>rebuffed by {0}</GorRebuffedMyRomanceAttemptMood.stages.0.label>
+  <GorRebuffedMyRomanceAttemptMood.stages.0.description>They dare refuse me!</GorRebuffedMyRomanceAttemptMood.stages.0.description>
+  <GorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>had to rebuff {0}</GorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <GorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>What's this weakling doing!</GorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
+  <GorBrokeUpWithMe.stages.0.label>broke up with me</GorBrokeUpWithMe.stages.0.label>
+  <GorBrokeUpWithMeMood.stages.0.label>broken up with by {0}</GorBrokeUpWithMeMood.stages.0.label>
+  <GorBrokeUpWithMeMood.stages.0.description>You don't break up with me!</GorBrokeUpWithMeMood.stages.0.description>
+  <GorCheatedOnMe.stages.0.label>cheated on me</GorCheatedOnMe.stages.0.label>
+  <GorCheatedOnMeMood.stages.0.label>cheated on by {0}</GorCheatedOnMeMood.stages.0.label>
+  <GorCheatedOnMeMood.stages.0.description>You are mine!</GorCheatedOnMeMood.stages.0.description>
+  <GorDivorcedMe.stages.0.label>divorced me</GorDivorcedMe.stages.0.label>
+  <GorDivorcedMeMood.stages.0.label>divorced by {0}</GorDivorcedMeMood.stages.0.label>
+  <GorDivorcedMeMood.stages.0.description>How dare you!</GorDivorcedMeMood.stages.0.description>
+  <GorRejectedMyProposal.stages.0.label>rejected my proposal</GorRejectedMyProposal.stages.0.label>
+  <GorRejectedMyProposalMood.stages.0.label>my proposal was rejected by {0}</GorRejectedMyProposalMood.stages.0.label>
+  <GorRejectedMyProposalMood.stages.0.description>You don't reject me! Weakling!</GorRejectedMyProposalMood.stages.0.description>
+  <GorIRejectedTheirProposal.stages.0.label>Such an insult. A weakling like you!</GorIRejectedTheirProposal.stages.0.label>
+  <GorGotSomeLovin.stages.0.label>got some lovin’</GorGotSomeLovin.stages.0.label>
+  <GorGotSomeLovin.stages.0.description>Indulge me!</GorGotSomeLovin.stages.0.description>
+  <GorInsultedMood.stages.0.label>insulted</GorInsultedMood.stages.0.label>
+  <GorInsultedMood.stages.0.description>This weakling dare to insult me.</GorInsultedMood.stages.0.description>
+  <GorAteLavishMeal.stages.0.label>ate lavish meal</GorAteLavishMeal.stages.0.label>
+  <GorAteLavishMeal.stages.0.description>It tasted great. I need some more of this.</GorAteLavishMeal.stages.0.description>
+  <GorAteFineMeal.stages.0.label>ate fine meal</GorAteFineMeal.stages.0.label>
+  <GorAteFineMeal.stages.0.description>I liked the taste of this.</GorAteFineMeal.stages.0.description>
+  <GorAteRawFood.stages.0.label>ate raw food</GorAteRawFood.stages.0.label>
+  <GorAteRawFood.stages.0.description>Food is food.</GorAteRawFood.stages.0.description>
+  <GorAteKibble.stages.0.label>ate kibble</GorAteKibble.stages.0.label>
+  <GorAteKibble.stages.0.description>Food is food.</GorAteKibble.stages.0.description>
+  <GorAteCorpse.stages.0.label>ate corpse</GorAteCorpse.stages.0.label>
+  <GorAteCorpse.stages.0.description>Raw meat is so good.</GorAteCorpse.stages.0.description>
+  <GorAteHumanlikeMeatDirect.stages.0.label>raw cannibalism</GorAteHumanlikeMeatDirect.stages.0.label>
+  <GorAteHumanlikeMeatDirect.stages.0.description>Raw human meat. So good!</GorAteHumanlikeMeatDirect.stages.0.description>
+  <GorAteHumanlikeMeatDirectCannibal.stages.0.label>raw cannibalism</GorAteHumanlikeMeatDirectCannibal.stages.0.label>
+  <GorAteHumanlikeMeatDirectCannibal.stages.0.description>Raw human meat. So good!</GorAteHumanlikeMeatDirectCannibal.stages.0.description>
+  <GorAteHumanlikeMeatAsIngredient.stages.0.label>cooked cannibalism</GorAteHumanlikeMeatAsIngredient.stages.0.label>
+  <GorAteHumanlikeMeatAsIngredient.stages.0.description>I like this.</GorAteHumanlikeMeatAsIngredient.stages.0.description>
+  <GorAteHumanlikeMeatAsIngredientCannibal.stages.0.label>cooked cannibalism</GorAteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <GorAteHumanlikeMeatAsIngredientCannibal.stages.0.description>I like this.</GorAteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+  <GorAteInsectMeatDirect.stages.0.label>ate insect meat</GorAteInsectMeatDirect.stages.0.label>
+  <GorAteInsectMeatDirect.stages.0.description>It works.</GorAteInsectMeatDirect.stages.0.description>
+  <GorAteInsectMeatAsIngredient.stages.0.label>ate cooked insect meat</GorAteInsectMeatAsIngredient.stages.0.label>
+  <GorAteInsectMeatAsIngredient.stages.0.description>It works.</GorAteInsectMeatAsIngredient.stages.0.description>
+  <GorAteRottenFood.stages.0.label>ate rotten food</GorAteRottenFood.stages.0.label>
+  <GorAteRottenFood.stages.0.description>It works.</GorAteRottenFood.stages.0.description>
+  <GorPawnLost.stages.0.label>herd member {0} lost</GorPawnLost.stages.0.label>
+  <GorPawnLost.stages.0.description>You shame us!</GorPawnLost.stages.0.description>
+  <GorBondedAnimalLost.stages.0.label>bonded animal {0} lost</GorBondedAnimalLost.stages.0.label>
+  <GorBondedAnimalLost.stages.0.description>Mine! Stolen from me!</GorBondedAnimalLost.stages.0.description>
+  <UngorMySonDied.stages.0.label>my son {0} died</UngorMySonDied.stages.0.label>
+  <UngorMySonDied.stages.0.description>Such weakness! But it was my son.</UngorMySonDied.stages.0.description>
+  <UngorMyDaughterDied.stages.0.label>my daughter {0} died</UngorMyDaughterDied.stages.0.label>
+  <UngorMyDaughterDied.stages.0.description>Such weakness! But it was my daughter.</UngorMyDaughterDied.stages.0.description>
+  <UngorMyBrotherDied.stages.0.label>my brother {0} died</UngorMyBrotherDied.stages.0.label>
+  <UngorMyBrotherDied.stages.0.description>He was weak, but he was my brother.</UngorMyBrotherDied.stages.0.description>
+  <UngorMySisterDied.stages.0.label>my sister {0} died</UngorMySisterDied.stages.0.label>
+  <UngorMySisterDied.stages.0.description>She was weak, but she was my sister.</UngorMySisterDied.stages.0.description>
+  <UngorMyGrandchildDied.stages.0.label>my grandchild {0} died</UngorMyGrandchildDied.stages.0.label>
+  <UngorMyGrandchildDied.stages.0.description>My grandchild died. A part of my bloodline was lost.</UngorMyGrandchildDied.stages.0.description>
+  <UngorMyFatherDied.stages.0.label>my father {0} died</UngorMyFatherDied.stages.0.label>
+  <UngorMyFatherDied.stages.0.description>He was weak! Yet I still live.</UngorMyFatherDied.stages.0.description>
+  <UngorMyMotherDied.stages.0.label>my mother {0} died</UngorMyMotherDied.stages.0.label>
+  <UngorMyMotherDied.stages.0.description>She was weak! Yet I still live.</UngorMyMotherDied.stages.0.description>
+  <UngorMyNieceDied.stages.0.label>my niece {0} died</UngorMyNieceDied.stages.0.label>
+  <UngorMyNieceDied.stages.0.description>A part of the bloodline was lost.</UngorMyNieceDied.stages.0.description>
+  <UngorMyNephewDied.stages.0.label>my nephew {0} died</UngorMyNephewDied.stages.0.label>
+  <UngorMyNephewDied.stages.0.description>A part of the bloodline was lost.</UngorMyNephewDied.stages.0.description>
+  <UnGorGotMarried.stages.0.label>got married to {0}</UnGorGotMarried.stages.0.label>
+  <UnGorGotMarried.stages.0.description>I can feel some warmth stirring inside me.</UnGorGotMarried.stages.0.description>
+  <UnGorMyOrganHarvested.stages.0.label>my organ harvested</UnGorMyOrganHarvested.stages.0.label>
+  <UnGorMyOrganHarvested.stages.0.description>They took me apart!</UnGorMyOrganHarvested.stages.0.description>
+  <UnGorWasImprisoned.stages.0.label>was imprisoned</UnGorWasImprisoned.stages.0.label>
+  <UnGorWasImprisoned.stages.0.description>They are keeping me imprisoned.</UnGorWasImprisoned.stages.0.description>
+  <UnGorWitnessedDeathFamily.stages.0.label>witnessed family member's death</UnGorWitnessedDeathFamily.stages.0.label>
+  <UnGorWitnessedDeathFamily.stages.0.description>My blood and flesh! Dead!</UnGorWitnessedDeathFamily.stages.0.description>
+  <UnGorRescued.stages.0.label>rescued</UnGorRescued.stages.0.label>
+  <UnGorRescued.stages.0.description>I live!</UnGorRescued.stages.0.description>
+  <UnGorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>had to rebuff {0}</UnGorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <UnGorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>What do they want!</UnGorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
+  <UnGorRejectedMyProposal.stages.0.label>rejected my proposal</UnGorRejectedMyProposal.stages.0.label>
+  <UnGorRejectedMyProposalMood.stages.0.label>my proposal was rejected by {0}</UnGorRejectedMyProposalMood.stages.0.label>
+  <UnGorRejectedMyProposalMood.stages.0.description>You don't reject me!</UnGorRejectedMyProposalMood.stages.0.description>
+  <UnGorIRejectedTheirProposal.stages.0.label>Such an insult.</UnGorIRejectedTheirProposal.stages.0.label>
+  <UnGorInsultedMood.stages.0.label>insulted</UnGorInsultedMood.stages.0.label>
+  <UnGorInsultedMood.stages.0.description>It stings.</UnGorInsultedMood.stages.0.description>
+</LanguageData>
