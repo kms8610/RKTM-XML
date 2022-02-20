@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Classic.label>classic</Classic.label>
-  <Classic.description>Your colonists get a belief system like classic RimWorld. Good for your first few games.</Classic.description>
+  <Classic.description>Classic RimWorld without the ideoligion system active. Good for your first few games, and when you're not trying to do something specific. Content from the Ideology expansion is still present.</Classic.description>
   <Classic.groupLabel>Classic</Classic.groupLabel>
   
   <Custom.label>custom</Custom.label>
@@ -14,13 +14,13 @@
   
   <Intense.label>intense</Intense.label>
   <Intense.description>Extremely disruptive beliefs which make the game very different from classic RimWorld. These add significant difficulty.</Intense.description>
-  <Intense.groupLabel>Presets</Intense.groupLabel>
+  <Intense.groupLabel>Preset ideoligions</Intense.groupLabel>
   
   <Mild.label>mild</Mild.label>
   <Mild.description>Classic-like gameplay with small variations.</Mild.description>
-  <Mild.groupLabel>Presets</Mild.groupLabel>
+  <Mild.groupLabel>Preset ideoligions</Mild.groupLabel>
   
   <Strong.label>strong</Strong.label>
   <Strong.description>Strong beliefs which support playstyles significantly different from classic RimWorld.</Strong.description>
-  <Strong.groupLabel>Presets</Strong.groupLabel>
+  <Strong.groupLabel>Preset ideoligions</Strong.groupLabel>
 </LanguageData>

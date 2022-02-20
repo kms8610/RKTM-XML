@@ -158,19 +158,24 @@
   <ChooseOnlySlavesInfo>If you only select slaves, you will play them as colonists in the next colony.</ChooseOnlySlavesInfo>
   <ConfirmDecisionsTitle>Confirm decisions</ConfirmDecisionsTitle>
   <ShipEscapeWillEndDescription>The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship.</ShipEscapeWillEndDescription>
-  <ArchonexusRelicNotChosen>No relic was chosen to be brought to the new colony.</ArchonexusRelicNotChosen><!--text_todo-->
-  <ArchonexusItemsNotChosen>{0} out of a possible {1} items were selected to be brought to the new colony.</ArchonexusItemsNotChosen><!--text_todo-->
-  <RemoveEquippedRelicsDescription>The colony's purchasers will only allow you to take one relic. Any relic not selected, even if equipped by a colonist, will be left behind, including:</RemoveEquippedRelicsDescription><!--text_todo-->
-  <WantToProceed>Would you like to proceed? There's no going back from here.</WantToProceed><!--text_todo-->
+  <ArchonexusRelicNotChosen>No relic was chosen to be brought to the new colony.</ArchonexusRelicNotChosen>
+  <ArchonexusItemsNotChosen>{0} out of a possible {1} items were selected to be brought to the new colony.</ArchonexusItemsNotChosen>
+  <RemoveEquippedRelicsDescription>The colony's purchasers will only allow you to take one relic. Any other relics will be left behind (even if equipped by a colonist), including:</RemoveEquippedRelicsDescription>
+  <WantToProceed>Would you like to proceed? Past this point, there's no going back.</WantToProceed>
   <ConvertToPlayerIdeoligion>Convert</ConvertToPlayerIdeoligion>
   <RevertToPreviousIdeoligion>Revert</RevertToPreviousIdeoligion>
   <ExistingFollowerOfPlayerIdeoligion>Existing follower</ExistingFollowerOfPlayerIdeoligion>
   <AbandonArchotechStructuresWarningDialog>You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away.</AbandonArchotechStructuresWarningDialog>
   <ItemQuantityTooltip>{0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1}</ItemQuantityTooltip>
-  <SoldColonyDescription>Your colony was sold. Its purchasers are ready for you to choose where to land next.</SoldColonyDescription><!--text_todo-->
+  <SoldColonyDescription>Your colony was sold. Its purchasers are ready for you to choose where to land next.</SoldColonyDescription>
 
   <ConfirmHackEnenyTerminal>Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}?</ConfirmHackEnenyTerminal>
 
   <RelicsSection>Relics</RelicsSection>
 
+  <!-- Food restrictions -->
+  <FoodRestrictionVegetarian>Vegetarian</FoodRestrictionVegetarian>
+  <FoodRestrictionCarnivore>Carnivore</FoodRestrictionCarnivore>
+  <FoodRestrictionCannibal>Cannibal</FoodRestrictionCannibal>
+  <FoodRestrictionInsectMeat>Insect meat</FoodRestrictionInsectMeat>
 </LanguageData>

@@ -43,13 +43,13 @@
   <!-- Charity -->
   <MessageCharityEventRefused>Charity refused</MessageCharityEventRefused>
   <MessageCharityEventFulfilled>Charity fulfilled</MessageCharityEventFulfilled>
-  <MessageBeggarsLeavingWithNoItems>{0} leaving empty-handed.</MessageBeggarsLeavingWithNoItems>
-  <MessageBeggarsLeavingWithItems>{0} leaving with requested items.</MessageBeggarsLeavingWithItems>
+  <MessageBeggarsLeavingWithNoItems>{0} are leaving empty-handed.</MessageBeggarsLeavingWithNoItems>
+  <MessageBeggarsLeavingWithItems>{0} have accepted the requested items and are leaving.</MessageBeggarsLeavingWithItems>
   <MessageWandererLeftToDie>{0_nameDef} died without any treatment.</MessageWandererLeftToDie>
   <MessageWandererRecruited>{0_nameDef} was recruited.</MessageWandererRecruited>
   <MessageWandererLeftHealthy>{0_nameDef} left healthy.</MessageWandererLeftHealthy>
-  <MessageCharityQuestEndedFailed>{0} failed.</MessageCharityQuestEndedFailed>
-  <MessageCharityQuestEndedSuccess>{0} succesfully completed.</MessageCharityQuestEndedSuccess>
+  <MessageCharityQuestEndedFailed>{0} has been failed.</MessageCharityQuestEndedFailed>
+  <MessageCharityQuestEndedSuccess>{0} has been successfully completed.</MessageCharityQuestEndedSuccess>
 
   <!-- Ideo UI -->
   <CannotRemove>Cannot remove</CannotRemove>
@@ -59,7 +59,7 @@
   <OverlappingRoleApparel>Roles cannot have overlapping apparel requirements.</OverlappingRoleApparel>
   
   <SelfDestructCountdown>{0_label} will self-destruct in {1}.</SelfDestructCountdown>
-  <PreceptNameTooLong>Precept name is too long (maximum {0} letters)</PreceptNameTooLong> <!-- text_todo -->
+  <PreceptNameTooLong>Precept name is too long (maximum {0} letters)</PreceptNameTooLong>
 
   <!-- Ancient complex -->
   <MessageAncientTerminalDiscovered>You've discovered an ancient terminal with info about the {0}!</MessageAncientTerminalDiscovered>

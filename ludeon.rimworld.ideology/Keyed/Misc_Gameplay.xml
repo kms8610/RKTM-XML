@@ -6,9 +6,10 @@
   <Random>Random</Random>
   <RandomStructureTip>A random structure will be used for your ideoligion.</RandomStructureTip>
   <RandomStyleTip>A random style will be used for your ideoligion.</RandomStyleTip>
-  <Customize>Customize</Customize>
-  <PlayClassic>Play classic</PlayClassic>
-  <CreateFluid>Create fluid...</CreateFluid>
+  <PlayClassic>Ideology system inactive</PlayClassic> <!-- text_todo -->
+  <CreateCustomFluid>Create custom\n(fluid)</CreateCustomFluid> <!-- text_todo -->
+  <CreateCustomFixed>Create custom\n(fixed)</CreateCustomFixed>  <!-- text_todo -->
+  <CustomIdeoligions>Custom ideoligions</CustomIdeoligions> <!-- text_todo -->
   <LoadSaved>Load saved</LoadSaved>
   <Structure>Structure</Structure>
   <ChooseYourIdeoligionDesc>What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs.</ChooseYourIdeoligionDesc>
@@ -74,6 +75,9 @@
   <CurrentDevelopmentPoints>Current points</CurrentDevelopmentPoints>
   <ReformDevelopmentPoints>Points needed to reform</ReformDevelopmentPoints>
   <QuestLower>quest</QuestLower>
+  <MealKindVegetarian>Vegetarian</MealKindVegetarian>
+  <MealKindMeat>Contains meat</MealKindMeat>
+  <MealKindAny>Acceptable food for everyone</MealKindAny>
 
   <UnableToLoadIdeoTitle>Could not load ideoligion</UnableToLoadIdeoTitle>
   <UnableToLoadIdeoDescription>Could not load the selected ideoligion due to the requirements of the factions that will be following this ideoligion. The violated requirements are:</UnableToLoadIdeoDescription>
@@ -84,6 +88,7 @@
   <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
   <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
   <RitualTargetGraveInfoAbstract>A grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstractNoIdeo>A grave containing a corpse.</RitualTargetGraveInfoAbstractNoIdeo> <!-- text_todo -->
   <RitualTargetEmptyGraveInfoAbstract>An empty grave to mourn {IDEO_memberNameIndef}'s passing.</RitualTargetEmptyGraveInfoAbstract>
   <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}'s body must be buried first</RitualTargetGraveInfoMustBeBuried>
   <RitualTargetGatherSpotInfo>Any gathering spot, like a table</RitualTargetGatherSpotInfo>
@@ -107,8 +112,8 @@
   <RitualScarificationWarnWimp>{PAWN_labelShort} is a wimp and will not like being scarified.</RitualScarificationWarnWimp>
   <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded.</RitualBlindingWarnNonBlindingIdeo>
   <RitualBlindingWarnWimp>{PAWN_labelShort} is a wimp and will not like being blinded.</RitualBlindingWarnWimp>
-  <RitualScarificationTriggerExtraDesc>Scarification is expected for {IDEOMEMBER} colonists as long as number of scarified {IDEOMEMBERPLURAL} is below {0}.</RitualScarificationTriggerExtraDesc> <!-- text_todo -->
-  <RitualBlindingTriggerExtraDesc>Blinding is expected for each current and joining {IDEOMEMBER} colonist.</RitualBlindingTriggerExtraDesc> <!-- text_todo -->
+  <RitualScarificationTriggerExtraDesc>Scarification is expected for {IDEOMEMBERPLURAL} as long as there are fewer than {0} scarified {IDEOMEMBERPLURAL}.</RitualScarificationTriggerExtraDesc>
+  <RitualBlindingTriggerExtraDesc>Blinding is expected for each current and joining {IDEOMEMBER} colonist.</RitualBlindingTriggerExtraDesc>
   
   <RitualOutcomeExtraDesc_DancePartyWorkFocus>Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <RitualOutcomeExtraDesc_BlindingPsylink>Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level!</RitualOutcomeExtraDesc_BlindingPsylink>
@@ -324,18 +329,22 @@
   <!-- Bioscuplter pod -->
   <BiosculpterPodCycleLabel>Cycle</BiosculpterPodCycleLabel>
   <BiosculpterPodCycleLabelLoading>loading ingredients</BiosculpterPodCycleLabelLoading>
-  <BiosculpterPodCycleWillBiotune>(and biotuning)</BiosculpterPodCycleWillBiotune><!--text_todo-->
+  <BiosculpterPodCycleWillBiotune>(and biotuning)</BiosculpterPodCycleWillBiotune>
   <BiosculpterPodCycleCommand>Begin {0} cycle</BiosculpterPodCycleCommand>
-  <BiosculpterPodCycleSelection>Ready for cycle selection</BiosculpterPodCycleSelection><!--text_todo-->
-  <BiosculpterPodCycleSelectionNoPower>Nutrition loaded, no power</BiosculpterPodCycleSelectionNoPower><!--text_todo-->
+  <BiosculpterPodCycleDuration>Duration</BiosculpterPodCycleDuration>
+  <BiosculpterPodCycleDurationTranshumanists>Duration (transhumanists)</BiosculpterPodCycleDurationTranshumanists>
+  <BiosculpterPodCycleSelection>Ready for cycle selection</BiosculpterPodCycleSelection>
+  <BiosculpterPodCycleStandby>On standby for {CYCLE} cycle with {PAWN_labelShort}</BiosculpterPodCycleStandby>
+  <BiosculpterPodCycleSelectionNoPower>Nutrition loaded, no power</BiosculpterPodCycleSelectionNoPower>
   <BiosculpterCycleTimeRemaining>Ends in</BiosculpterCycleTimeRemaining>
-  <BiosculpterCycleNoPowerInterrupt>Paused: No power (interrupt in {TIME})</BiosculpterCycleNoPowerInterrupt><!--text_todo-->
+  <BiosculpterCycleAccelerated>accelerated for transhumanists</BiosculpterCycleAccelerated>
+  <BiosculpterCycleNoPowerInterrupt>Paused: No power (interrupt in {TIME})</BiosculpterCycleNoPowerInterrupt>
   <BiosculpterBiotunedTo>Biotuned to</BiosculpterBiotunedTo>
   <BiosculpterInteruptCycle>Interrupt cycle</BiosculpterInteruptCycle>
   <BiosculpterInteruptCycleDesc>Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness.</BiosculpterInteruptCycleDesc>
-  <BiosculpterEnteringMessage>{PAWN_labelShort} will enter biosculpter and begin a {CYCLE} cycle.</BiosculpterEnteringMessage><!--text_todo-->
-  <BiosculpterLoadingStartedMessage>{PAWN_labelShort} will collect {INGREDIENTS}, and begin a {CYCLE} cycle.</BiosculpterLoadingStartedMessage><!--text_todo-->
-  <BiosculpterCarryStartedMessage>{PAWN_labelShort} will collect {INGREDIENTS}, place {DOWNED_labelShort} inside the biosculpter, and begin a {CYCLE} cycle.</BiosculpterCarryStartedMessage><!--text_todo-->
+  <BiosculpterEnteringMessage>{PAWN_labelShort} will enter biosculpter and begin a {CYCLE} cycle.</BiosculpterEnteringMessage>
+  <BiosculpterLoadingStartedMessage>{PAWN_labelShort} will collect {INGREDIENTS}, and begin a {CYCLE} cycle.</BiosculpterLoadingStartedMessage>
+  <BiosculpterCarryStartedMessage>{PAWN_labelShort} will collect {INGREDIENTS}, place {DOWNED_labelShort} inside the biosculpter, and begin a {CYCLE} cycle.</BiosculpterCarryStartedMessage>
   <NumNutrition>{0} nutrition</NumNutrition>
   <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a biosculpter pod due to lack of power.</BiosculpterNoPowerEjectedMessage>
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} completed healing cycle.</BiosculpterHealCompletedMessage>
@@ -343,7 +352,7 @@
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days.</BiosculpterAgeReversalCompletedMessage>
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}'s pleasure cycle is complete.</BiosculpterPleasureCompletedMessage>
   <BiosculpterCleanlinessSpeedFactor>Cleanliness speed factor</BiosculpterCleanlinessSpeedFactor>
-  <BiosculpterBiotunedSpeedFactor>Biotuned speed factor</BiosculpterBiotunedSpeedFactor><!--text_todo-->
+  <BiosculpterBiotunedSpeedFactor>Biotuned speed factor</BiosculpterBiotunedSpeedFactor>
   <HealingCycleWillHeal>These conditions will be healed</HealingCycleWillHeal>
   <HealingCycleOneWillHeal>One of these conditions will be healed</HealingCycleOneWillHeal>
   <MissingRequiredResearch>Missing required research</MissingRequiredResearch>
