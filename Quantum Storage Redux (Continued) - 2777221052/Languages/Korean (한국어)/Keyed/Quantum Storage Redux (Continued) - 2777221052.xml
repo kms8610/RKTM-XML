@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NoQuantumStorageSpace>No Quantum Storage space</NoQuantumStorageSpace>
+  <NoQuantumStorageSpaceDesc>There is no more space in any Quantum storage or warehouse</NoQuantumStorageSpaceDesc>
+  <PlaceWorker_QSRNoQSOverlap>Quantum Storages cannot overlap.</PlaceWorker_QSRNoQSOverlap>
+  <PlaceWorker_QSRRequireWalkable>Quantum Storages cannot be placed under walls.</PlaceWorker_QSRRequireWalkable>
+  <QSRComponents_LocalNetwork>Connected to a local quantum network.</QSRComponents_LocalNetwork>
+  <QSRComponents_GlobalNetwork>Connected to a global quantum network.</QSRComponents_GlobalNetwork>
+  <QSRComponents_MaxStacks>Maximum stacks per cell:</QSRComponents_MaxStacks>
+</LanguageData>
