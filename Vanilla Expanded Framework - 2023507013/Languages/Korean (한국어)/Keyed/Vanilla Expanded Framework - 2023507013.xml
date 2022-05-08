@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <VFEA.AbilityDisableReasonCooldown>{0} is on cooldown for {1}</VFEA.AbilityDisableReasonCooldown>
+  <VFEA.AbilityDisableReasonGeneral>{0} doesn't meet the requirements</VFEA.AbilityDisableReasonGeneral>
+  <VFEA.AbilityStatsPower>Power</VFEA.AbilityStatsPower>
+  <VFEA.AbilityStatsDuration>Duration</VFEA.AbilityStatsDuration>
+  <NocturnalAnimals.BodyClock>Body clock</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk.</NocturnalAnimals.BodyClock_Description>
+  <NocturnalAnimals.BodyClock_Diurnal>Diurnal</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>Nocturnal</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
   <VEF_AsexualHatched>{0} has reproduced asexually.</VEF_AsexualHatched>
   <VEF_AsexualCloning>{0} has cloned itself.</VEF_AsexualCloning>
   <VEF_AsexualHatchedEgg>{0} has sporulated.</VEF_AsexualHatchedEgg>
@@ -7,6 +16,11 @@
   <VEF_TimeToMetamorphosis>Time to metamorphosis: {0}</VEF_TimeToMetamorphosis>
   <VEF_WarningEggExplodes>Warning, this egg explodes when hatching!</VEF_WarningEggExplodes>
   <VEF_TimeToDie>Animal expires in: {0}</VEF_TimeToDie>
+  <VEF_DisableAnimal>Disable {0}</VEF_DisableAnimal>
+  <VEF_StomachContents>{0} creatures swallowed whole. </VEF_StomachContents>
+  <VEF_DigestionTime>Will be consumed in {0}</VEF_DigestionTime>
+  <VEF_TerrainsNeedsDiggable>The terrain needs to be diggable to do this</VEF_TerrainsNeedsDiggable>
+  <VEF_WhileCaravaning>While caravaning, produces {0} {1} every: </VEF_WhileCaravaning>
   <VCE_AffectsAllAnimalMods>These animal behaviours options will affect all animal mods that share code from the Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
   <VCE_CorpseDecayingEffectOption>Allow corpse decaying mechanics (for example, Helixien slug's effect)</VCE_CorpseDecayingEffectOption>
   <VCE_DigWhenHungryOption>Allow digging when hungry mechanics (for example, Frostmites digging corpses)</VCE_DigWhenHungryOption>
@@ -24,6 +38,7 @@
   <VCE_RegenerationOption>Allow health regeneration (active and passive)</VCE_RegenerationOption>
   <VCE_ResurrectionOption>Allow animals to auto-resurrect (for example Phoenix Owlcat)</VCE_ResurrectionOption>
   <VCE_UntameableOption>Allow some animals to be untameable</VCE_UntameableOption>
+  <VEF_BillRequiresMass>Requires {0} Kg total mass</VEF_BillRequiresMass>
   <VWE.CannotEquipHeavy>Weapon requires powered armor</VWE.CannotEquipHeavy>
   <IP_InsertFirstItemDesc>Insert</IP_InsertFirstItemDesc>
   <IP_InsertSecondItemDesc>Insert</IP_InsertSecondItemDesc>
@@ -96,6 +111,7 @@
   <KCSG.SpawnNearCenter>Spawn near center</KCSG.SpawnNearCenter>
   <KCSG.AllowFoggedPosition>Allow fogged position</KCSG.AllowFoggedPosition>
   <KCSG.SpawnPartOfEnnemyFaction>Spawn part of ennemy faction</KCSG.SpawnPartOfEnnemyFaction>
+  <KCSG.Mapcontains>Map contains</KCSG.Mapcontains>
   <VanillaFactionsExpanded.EquipShield>Equip {0} as shield</VanillaFactionsExpanded.EquipShield>
   <VanillaFactionsExpanded.EquipWarningShieldUnusable>(unusable with {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
   <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} will be unusable)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
@@ -156,13 +172,146 @@
   <VFEMechMachineHitObstacle>Machine has run into an obstacle!</VFEMechMachineHitObstacle>
   <VFEMechSetArea>Set area</VFEMechSetArea>
   <VFEMechSetAreaDesc>Set the allowed area for all of this platform's associated machines.</VFEMechSetAreaDesc>
+  <VFEMRideableMachineTip>This droid is rideable. People in a caravan will ride the fastest available animals/droids, improving the speed of the caravan as a whole.</VFEMRideableMachineTip>
+  <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} ran out of power, and was left behind.</VFEM.CaravanMachineRanOutPower>
   <MVCF.Toggle>Toggle {0}</MVCF.Toggle>
   <MVCF.ToggleUsing>Toggle using {0} automatically</MVCF.ToggleUsing>
   <MVCF.ToggleAuto>Toggle automatic usage</MVCF.ToggleAuto>
+  <Outposts.Settings.Title>Vanilla Expanded Framework - Outposts</Outposts.Settings.Title>
+  <Outposts.Settings.Multiplier.Production>Gloabal Production Multiplier: {0}</Outposts.Settings.Multiplier.Production>
+  <Outposts.Settings.Multiplier.Time>Global Time Multiplier: {0}</Outposts.Settings.Multiplier.Time>
+  <Outposts.Dialog.Create>Create</Outposts.Dialog.Create>
+  <Outposts.Commands.Create.Label>Create Outpost</Outposts.Commands.Create.Label>
+  <Outposts.Commands.Create.Desc>Create a new outpost using this caravan</Outposts.Commands.Create.Desc>
+  <Outposts.Commands.TakeItems.Label>Take items</Outposts.Commands.TakeItems.Label>
+  <Outposts.Commands.TakeItems.Desc>Take items from {0} and add them to the caravan</Outposts.Commands.TakeItems.Desc>
+  <Outposts.Letters.Lost.Label>Outpost Lost</Outposts.Letters.Lost.Label>
+  <Outposts.Letters.Lost.Text>Regretfully, due to the deaths of all inhabitants, the outpost of {0} has been lost to us.</Outposts.Letters.Lost.Text>
+  <Outposts.Letters.BattleWon.Label>Outpost Battle Won</Outposts.Letters.BattleWon.Label>
+  <Outposts.Letters.BattleWon.Text>We have successfully won the battle for {0}.</Outposts.Letters.BattleWon.Text>
+  <Outposts.Letters.Items.Label>Items From {0}</Outposts.Letters.Items.Label>
+  <Outposts.Letters.Items.Text>You have received the follow items from the outpost {0}:</Outposts.Letters.Items.Text>
+  <Outposts.Commands.AddPawn.Label>Add Pawn</Outposts.Commands.AddPawn.Label>
+  <Outposts.Commands.AddPawn.Desc>Transfer a pawn from this caravan to the outpost</Outposts.Commands.AddPawn.Desc>
+  <Outposts.Commands.Pack.Label>Pack</Outposts.Commands.Pack.Label>
+  <Outposts.Commands.Pack.Desc>Begin packing this outpost back into a caravan</Outposts.Commands.Pack.Desc>
+  <Outposts.Commands.StopPack.Label>Stop packing</Outposts.Commands.StopPack.Label>
+  <Outposts.Commands.StopPack.Desc>Cancel packing this outpost into a caravan</Outposts.Commands.StopPack.Desc>
+  <Outposts.Commands.Remove.Label>Remove Pawn</Outposts.Commands.Remove.Label>
+  <Outposts.Commands.Remove.Desc>Remove a pawn from this outpost into a new caravan</Outposts.Commands.Remove.Desc>
+  <Outposts.Command.Remove.Only1>Cannot remove pawns: Only 1 inhabitant. If you want to remove this outpost, select "Pack".</Outposts.Command.Remove.Only1>
+  <Outposts.Contains>Contains {0} pawns</Outposts.Contains>
+  <Outposts.Packing>Packing into caravan. Done in {0}</Outposts.Packing>
+  <Outposts.NotSkilledEnough>Pawns are not skilled enough, need a cumulative {0} skill of at least {1}</Outposts.NotSkilledEnough>
+  <Outposts.RestingAt>Resting at outpost {0}</Outposts.RestingAt>
+  <Outposts.WillProduce.0>Will produce some items in {0}</Outposts.WillProduce.0>
+  <Outposts.WillProduce.1>Will produce {0} {1} in {2}</Outposts.WillProduce.1>
+  <Outposts.WillProduce.2>Will produce {0} {1} and {2} {3} in {4}</Outposts.WillProduce.2>
+  <Outposts.WillProduce.N>Will produce the following in {0}:\n{1}</Outposts.WillProduce.N>
+  <Outposts.CannotBeMade>Cannot be made in {0}</Outposts.CannotBeMade>
+  <Outposts.NotEnoughPawns>Not enough pawns in caravan, need at least {0}</Outposts.NotEnoughPawns>
+  <Outposts.TotalSkill>Cumulative {0} skill: {1}</Outposts.TotalSkill>
+  <Outposts.TooClose>Too close to settlement or other outpost, must have at least 1 tile between them</Outposts.TooClose>
+  <Outposts.AddedFromTransportPods>Your transport pods have arrived. {0} has been added to {1}.</Outposts.AddedFromTransportPods>
+  <Outposts.AddTo>Add to outpost</Outposts.AddTo>
+  <Outposts.SendNonPawns>Confirm sending items to the outpost? They will be permanently lost.</Outposts.SendNonPawns>
+  <Outposts.AlreadyPacking>Already packing</Outposts.AlreadyPacking>
+  <Outposts.Settings.DeliveryMethod>Delivery Method</Outposts.Settings.DeliveryMethod>
+  <Outposts.Settings.DeliveryMethod.Teleport>Teleport items to colony</Outposts.Settings.DeliveryMethod.Teleport>
+  <Outposts.Settings.DeliveryMethod.PackAnimal>Send pack animal carrying items to colony</Outposts.Settings.DeliveryMethod.PackAnimal>
+  <Outposts.Settings.DeliveryMethod.Store>Store items at outpost</Outposts.Settings.DeliveryMethod.Store>
+  <Outposts.Settings.DeliveryMethod.ForcePods>Always send drop pods</Outposts.Settings.DeliveryMethod.ForcePods>
+  <Outposts.Settings.DeliveryMethod.PackOrPods>Pods if available, otherwise pack animal</Outposts.Settings.DeliveryMethod.PackOrPods>
+  <Outposts.Abandoned>Outpost Abandoned</Outposts.Abandoned>
+  <Outposts.Abandoned.Desc>{0} has been abonded due to having no one inside to run it. It will very quickly be looted and taken over by nature, leaving no trace it was ever there.</Outposts.Abandoned.Desc>
+  <Outposts.Take>Take</Outposts.Take>
+  <Outposts.AllowedBiomes>Must be in one of the following biomes:</Outposts.AllowedBiomes>
+  <Outposts.DisallowedBiomes>Cannot be in any of the following biomes:</Outposts.DisallowedBiomes>
+  <Outposts.NumPawns>Must have at least {0} pawns willing to join the outpost</Outposts.NumPawns>
+  <Outposts.RequiredSkill>Cumulative {0} skill must be at least {1}</Outposts.RequiredSkill>
+  <Outposts.GrowingRequired>Must have ability to grow plants</Outposts.GrowingRequired>
+  <Outposts.MustHaveInCaravan>Must have {0} in caravan</Outposts.MustHaveInCaravan>
+  <Outposts.NoValidPawns>No valid pawns to add to outpost</Outposts.NoValidPawns>
+  <Outposts.SkillChange>Due to changes in skill level, {0} can no longer produce {1}</Outposts.SkillChange>
+  <Outposts.Setting.ProductionTime>Production Time</Outposts.Setting.ProductionTime>
+  <Outposts.Setting.PackTime>Pack Time</Outposts.Setting.PackTime>
+  <Outposts.Setting.Range>Range</Outposts.Setting.Range>
+  <Outposts.Setting.MinimumPawns>Minimum Pawns to Create</Outposts.Setting.MinimumPawns>
+  <Outposts.Settings.Production>Production Multiplier</Outposts.Settings.Production>
+  <Outposts.Settings.DoRaids>Enable Outpost Raids?</Outposts.Settings.DoRaids>
+  <PipeSystem_Consumption>{0} consumption</PipeSystem_Consumption>
+  <PipeSystem_ConsumptionExplained>The amount per day of {0} this building will draw from the {1} grid.</PipeSystem_ConsumptionExplained>
+  <PipeSystem_IdleConsumption>{0} idle consumption</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumptionExplained>The amount of {0} this building will draw from the {1} grid when idle.</PipeSystem_IdleConsumptionExplained>
+  <PipeSystem_Production>{0} production</PipeSystem_Production>
+  <PipeSystem_ProductionExplained>The amount per day of {0} this building will produce for the {1} grid.</PipeSystem_ProductionExplained>
+  <PipeSystem_DeconstructLabel>Deconstruct {0} pipes</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructDesc>Only deconstruct pipes part of the {0} network.</PipeSystem_DeconstructDesc>
+  <PipeSystem_ResourceOutput>{0} output:</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceNeeded>{0} needed:</PipeSystem_ResourceNeeded>
+  <PipeSystem_ResourceStored>{0} stored:</PipeSystem_ResourceStored>
+  <PipeSystem_NotConnected>Not connected to {}.</PipeSystem_NotConnected>
+  <PipeSystem_ExcessStored>{0} excess (stored) in network:</PipeSystem_ExcessStored>
+  <PipeSystem_Stored>{0} stored in network:</PipeSystem_Stored>
+  <PipeSystem_ValveClosed>Valve closed.</PipeSystem_ValveClosed>
+  <PipeSystem_ValveOpened>Valve opened.</PipeSystem_ValveOpened>
+  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+  <PipeSystem_AugmentStackDesc>Augment output maximum stack size by 1.</PipeSystem_AugmentStackDesc>
+  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+  <PipeSystem_AugmentStackDescB>Augment output maximum stack size by 10.</PipeSystem_AugmentStackDescB>
+  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+  <PipeSystem_DecreaseStackDesc>Decrease output maximum stack size by 1.</PipeSystem_DecreaseStackDesc>
+  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+  <PipeSystem_DecreaseStackDescB>Decrease output maximum stack size by 10.</PipeSystem_DecreaseStackDescB>
+  <PipeSystem_AmountOut>Maximum amount stored here: {0}</PipeSystem_AmountOut>
+  <PipeSystem_ProcessorBuffer>Buffer: {0}</PipeSystem_ProcessorBuffer>
+  <PipeSystem_Producing>Producing {0} {1}. Cycle progress: {2}.</PipeSystem_Producing>
+  <PipeSystem_Produce>Produce {0} {1}.</PipeSystem_Produce>
+  <PipeSystem_ChooseResult>Choose result</PipeSystem_ChooseResult>
+  <PipeSystem_ChooseResultDesc>Choose processor result.</PipeSystem_ChooseResultDesc>
+  <PipeSystem_TransferContent>Transfer storage content</PipeSystem_TransferContent>
+  <PipeSystem_TransferContentDesc>Transfer storage content to other available storages.</PipeSystem_TransferContentDesc>
+  <PipeSystem_MarkedToTransferContent>Transfering content to other available storages...</PipeSystem_MarkedToTransferContent>
+  <Reloading.Unload>Unload {GEAR_labelShort}</Reloading.Unload>
+  <Reloading.NoAmmo>No Ammo</Reloading.NoAmmo>
+  <Reloading.Ammo>Ammo: {0} / {1}</Reloading.Ammo>
+  <Reloading.Reload>Reload {GEAR_label} with {AMMO_label}</Reloading.Reload>
+  <GeneralTitle>General</GeneralTitle>
   <CSGTitle>Custom structure generation:</CSGTitle>
   <CSGLog>Enable structure generation debugging log: </CSGLog>
-  <TPTitle>Toggable patches:</TPTitle>
-  <NeedRestart>&lt;b>&lt;color=red>All settings need a restart to be applied&lt;/color>&lt;/b></NeedRestart>
+  <TPTitle>Toggable patches</TPTitle>
+  <NeedRestart>All settings need a restart to be applied</NeedRestart>
+  <XPatchFound>{0} patches found</XPatchFound>
+  <VEF.WeatherDamages>Weather damages</VEF.WeatherDamages>
+  <VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
+  <FDTitle>Faction Discovery</FDTitle>
+  <NeedToBeInGame>You first need to load a save</NeedToBeInGame>
+  <AskForPopUp>Add faction(s)</AskForPopUp>
+  <AskForPopUpExplained>Click this to be asked for each faction if you want it to be added to your game</AskForPopUpExplained>
+  <CanAddXFaction>{0} faction(s) can be added to your current save</CanAddXFaction>
+  <VFECore.IsToo>is too</VFECore.IsToo>
+  <VFECore.Advanced>advanced</VFECore.Advanced>
+  <VFECore.Primitive>primitive</VFECore.Primitive>
+  <VEF.Hire>Hire {0}</VEF.Hire>
+  <VEF.HireDesc>Hire some {0} to help around the colony, for example with defense.</VEF.HireDesc>
+  <VEF.AvailableSilver>Available Silver: {0}</VEF.AvailableSilver>
+  <VEF.Value>Value</VEF.Value>
+  <VEF.ChooseNumberOfUnits>How many of that unit do you want to have?</VEF.ChooseNumberOfUnits>
+  <VEF.Breakdown>Breakdown</VEF.Breakdown>
+  <VEF.DayAmount>Amount of Days</VEF.DayAmount>
+  <VEF.Cost>Cost to hire</VEF.Cost>
+  <VEF.RiskMult>Risk multiplier</VEF.RiskMult>
+  <VEF.TotalPrice>Total Price</VEF.TotalPrice>
+  <VEF.HiringDesc>You can hire {0} for any period of time.You can only have one contract active at a time, and you cannot mix and match the factions from which you hire.
+If hired {0} die on duty, you will incur an additional 5% increase to contract price per dead pirate on all future contracts for a full year.</VEF.HiringDesc>
+  <VEF.LongTerm>Long term contracts are significantly more expensive</VEF.LongTerm>
+  <VEF.ContractInfo>View contract with {0}</VEF.ContractInfo>
+  <VEF.PawnsList>Contracted:</VEF.PawnsList>
+  <VEF.ContractTitle>Contract with {0}</VEF.ContractTitle>
+  <VEF.Spent>Silver spent:</VEF.Spent>
+  <VEF.TimeLeft>Time remaining:</VEF.TimeLeft>
+  <VEF.CancelContract>Cancel Contract</VEF.CancelContract>
+  <VEF.NoRefund>Cancelling your contract will not refund the silver you spent on it.</VEF.NoRefund>
   <VCE_AllowConditions>Allow chronic health conditions in food (Diabetes, Cholesterol and High Blood Pressure)</VCE_AllowConditions>
   <VCE_MustBeInstalled>Vanilla Cooking Expanded must be installed for these options to have any effect</VCE_MustBeInstalled>
   <VFE_ChunkToMine>Drill for {0}</VFE_ChunkToMine>
@@ -176,4 +325,9 @@
   <VFE_ChangeGraphicDesc>Change Graphic of this building randomly between those available</VFE_ChangeGraphicDesc>
   <VFE_RandomOrSequentially>"Change Graphic" button changes graphic randomly (deselect for sequentially)</VFE_RandomOrSequentially>
   <VFE_HideRandomizeButton>Hide the "Change Graphic" button</VFE_HideRandomizeButton>
+  <VFE.SwitchLightColor>Switch light color</VFE.SwitchLightColor>
+  <VFE.SwitchLightColorDesc>Change current light colour.</VFE.SwitchLightColorDesc>
+  <VFE.ChangeColorTo>Change color to {0}</VFE.ChangeColorTo>
+  <VFE.ColorSwitchPowerOff>Power is off. Impossible to switch color.</VFE.ColorSwitchPowerOff>
+  <VME_MessageNeedsThePairedMeme>{0} needs one of the following memes to be chosen too to work: {1}</VME_MessageNeedsThePairedMeme>
 </LanguageData>

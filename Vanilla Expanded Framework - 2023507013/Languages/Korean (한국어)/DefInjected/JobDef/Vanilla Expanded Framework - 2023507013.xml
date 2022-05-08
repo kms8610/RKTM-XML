@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <VFEA_StandAndFaceTarget.reportString>standing.</VFEA_StandAndFaceTarget.reportString>
   <VEF_AnimalResource.reportString>gathering animal resource from TargetA.</VEF_AnimalResource.reportString>
   <VEF_DestroyItem.reportString>destroying an item.</VEF_DestroyItem.reportString>
   <VEF_LayExplodingEgg.reportString>laying egg.</VEF_LayExplodingEgg.reportString>
@@ -13,4 +14,9 @@
   <VFE_Mechanoids_AttachTurret.reportString>attaching turret.</VFE_Mechanoids_AttachTurret.reportString>
   <VFE_Mechanoids_Recharge.reportString>recharging.</VFE_Mechanoids_Recharge.reportString>
   <VFEC_EquipShield.reportString>equipping TargetA.</VFEC_EquipShield.reportString>
+  <VFEC_LeaveMap.reportString>leaving.</VFEC_LeaveMap.reportString>
+  <PS_DrainFromMarkedStorage.reportString>draining out of TargetA.</PS_DrainFromMarkedStorage.reportString>
+  <BetterReload.reportString>reloading TargetA.</BetterReload.reportString>
+  <ReloadFromInventory.reportString>reloading TargetA.</ReloadFromInventory.reportString>
+  <Unload.reportString>unloading TargetA.</Unload.reportString>
 </LanguageData>

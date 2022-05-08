@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_RangedCooldownFactor.label>ranged cooldown factor</VEF_RangedCooldownFactor.label>
+  <VEF_RangedCooldownFactor.description>The cooldown on ranged weapons of the wearer is multiplied by this value.</VEF_RangedCooldownFactor.description>
+  <VEF_VerbRangeFactor.label>verb range factor</VEF_VerbRangeFactor.label>
+  <VEF_VerbRangeFactor.labelForFullStatList>verb range factor (people)</VEF_VerbRangeFactor.labelForFullStatList>
+  <VEF_VerbRangeFactor.description>The range on weapons is multiplied by this value.</VEF_VerbRangeFactor.description>
+  <VEF_VerbCooldownFactor.label>verb cooldown factor</VEF_VerbCooldownFactor.label>
+  <VEF_VerbCooldownFactor.labelForFullStatList>verb cooldown factor (people)</VEF_VerbCooldownFactor.labelForFullStatList>
+  <VEF_VerbCooldownFactor.description>The cooldown on weapons is multiplied by this value.</VEF_VerbCooldownFactor.description>
+  <VEF_EnergyShieldEnergyMaxOffset.label>Shield max energy offset</VEF_EnergyShieldEnergyMaxOffset.label>
+  <VEF_EnergyShieldEnergyMaxOffset.description>Offset of the maximum shield energy that the user can boost through various means.</VEF_EnergyShieldEnergyMaxOffset.description>
+  <VEF_EnergyShieldEnergyMaxFactor.label>Shield max energy factor</VEF_EnergyShieldEnergyMaxFactor.label>
+  <VEF_EnergyShieldEnergyMaxFactor.description>Factor of the maximum shield energy that the user can boost through various means.</VEF_EnergyShieldEnergyMaxFactor.description>
+  <VEF_EnergyShieldEnergyMaxApparel.label>shield max energy</VEF_EnergyShieldEnergyMaxApparel.label>
+  <VEF_EnergyShieldEnergyMaxApparel.description>The maximum energy a shield generator can have at one time. More energy absorbs more damage.</VEF_EnergyShieldEnergyMaxApparel.description>
+  <VEF_EnergyShieldRechargeRateApparel.label>shield recharge rate</VEF_EnergyShieldRechargeRateApparel.label>
+  <VEF_EnergyShieldRechargeRateApparel.description>The rate at which a shield gains energy as long as it is not broken.</VEF_EnergyShieldRechargeRateApparel.description>
+  <VEF_EnergyShieldRechargeRateApparel.formatString>{0}/s</VEF_EnergyShieldRechargeRateApparel.formatString>
+  <VEF_EnergyShieldRadiusApparel.label>shield radius</VEF_EnergyShieldRadiusApparel.label>
+  <VEF_EnergyShieldRadiusApparel.description>The area covered when the energy shield is active.</VEF_EnergyShieldRadiusApparel.description>
+  <VEF_EnergyShieldRadiusApparel.formatString>{0} c</VEF_EnergyShieldRadiusApparel.formatString>
+  <VEF_EnergyShieldEnergyMaxPawn.label>shield max energy</VEF_EnergyShieldEnergyMaxPawn.label>
+  <VEF_EnergyShieldEnergyMaxPawn.description>The maximum energy a shield generator can have at one time. More energy absorbs more damage.</VEF_EnergyShieldEnergyMaxPawn.description>
+  <VEF_EnergyShieldRechargeRatePawn.label>shield recharge rate</VEF_EnergyShieldRechargeRatePawn.label>
+  <VEF_EnergyShieldRechargeRatePawn.description>The rate at which a shield gains energy as long as it is not broken.</VEF_EnergyShieldRechargeRatePawn.description>
+  <VEF_EnergyShieldRechargeRatePawn.formatString>{0}/s</VEF_EnergyShieldRechargeRatePawn.formatString>
+  <VEF_EnergyShieldRadiusPawn.label>shield radius</VEF_EnergyShieldRadiusPawn.label>
+  <VEF_EnergyShieldRadiusPawn.description>The area covered when the energy shield is active.</VEF_EnergyShieldRadiusPawn.description>
+  <VEF_EnergyShieldRadiusPawn.formatString>{0} c</VEF_EnergyShieldRadiusPawn.formatString>
+  <VEF_MeleeAttackSpeedFactor.label>melee attack speed factor</VEF_MeleeAttackSpeedFactor.label>
+  <VEF_MeleeAttackSpeedFactor.description>A multiplier on melee attack speed.</VEF_MeleeAttackSpeedFactor.description>
+  <VEF_RangeAttackSpeedFactor.label>range attack speed factor</VEF_RangeAttackSpeedFactor.label>
+  <VEF_RangeAttackSpeedFactor.description>A multiplier on range attack speed.</VEF_RangeAttackSpeedFactor.description>
+  <VEF_MeleeAttackDamageFactor.label>melee attack damage factor</VEF_MeleeAttackDamageFactor.label>
+  <VEF_MeleeAttackDamageFactor.description>A multiplier on melee attack damage.</VEF_MeleeAttackDamageFactor.description>
+  <VEF_RangeAttackDamageFactor.label>range attack damage factor</VEF_RangeAttackDamageFactor.label>
+  <VEF_RangeAttackDamageFactor.description>A multiplier on range attack damage.</VEF_RangeAttackDamageFactor.description>
+</LanguageData>

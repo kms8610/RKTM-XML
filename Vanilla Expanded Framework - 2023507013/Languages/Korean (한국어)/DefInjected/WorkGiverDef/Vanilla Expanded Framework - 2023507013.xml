@@ -3,6 +3,9 @@
   <VEF_AnimalResource.label>gather animal resource</VEF_AnimalResource.label>
   <VEF_AnimalResource.verb>gather animal resource from</VEF_AnimalResource.verb>
   <VEF_AnimalResource.gerund>gathering animal resource from</VEF_AnimalResource.gerund>
+  <VEF_DestroyItems.label>destroy items</VEF_DestroyItems.label>
+  <VEF_DestroyItems.verb>destroy items</VEF_DestroyItems.verb>
+  <VEF_DestroyItems.gerund>destroying items</VEF_DestroyItems.gerund>
   <IP_InsertFirstIngredient.label>bringing ingredient</IP_InsertFirstIngredient.label>
   <IP_InsertFirstIngredient.verb>bring ingredient to</IP_InsertFirstIngredient.verb>
   <IP_InsertFirstIngredient.gerund>bringing ingredient to</IP_InsertFirstIngredient.gerund>
@@ -15,4 +18,7 @@
   <IP_RemoveProduct.label>removing finished product</IP_RemoveProduct.label>
   <IP_RemoveProduct.verb>remove finished product from</IP_RemoveProduct.verb>
   <IP_RemoveProduct.gerund>removing finished product from</IP_RemoveProduct.gerund>
+  <PS_DrainOutOfStorage.label>drain out of storage</PS_DrainOutOfStorage.label>
+  <PS_DrainOutOfStorage.verb>drain out of storage</PS_DrainOutOfStorage.verb>
+  <PS_DrainOutOfStorage.gerund>draining out of storage</PS_DrainOutOfStorage.gerund>
 </LanguageData>

@@ -21,4 +21,14 @@
   <VEF_LightSustenance.stages.2.label>very low light levels</VEF_LightSustenance.stages.2.label>
   <VEF_LightSustenance.stages.3.label>lack of sunlight</VEF_LightSustenance.stages.3.label>
   <VEF_LightSustenance.stages.4.label>extreme lack of sustenance</VEF_LightSustenance.stages.4.label>
+  <VEF_ToxicBuildup.description>Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.label>toxic buildup</VEF_ToxicBuildup.label>
+  <VEF_ToxicBuildup.stages.0.label>initial</VEF_ToxicBuildup.stages.0.label>
+  <VEF_ToxicBuildup.stages.1.label>initial</VEF_ToxicBuildup.stages.1.label>
+  <VEF_ToxicBuildup.stages.2.label>minor</VEF_ToxicBuildup.stages.2.label>
+  <VEF_ToxicBuildup.stages.3.label>moderate</VEF_ToxicBuildup.stages.3.label>
+  <VEF_ToxicBuildup.stages.4.label>serious</VEF_ToxicBuildup.stages.4.label>
+  <VEF_ToxicBuildup.stages.5.label>extreme</VEF_ToxicBuildup.stages.5.label>
 </LanguageData>
