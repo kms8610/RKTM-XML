@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VG_Campfire.label>bamboo campfire</VG_Campfire.label>
+  <VG_Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</VG_Campfire.description>
+  <VG_TorchLamp.label>bamboo torch lamp</VG_TorchLamp.label>
+  <VG_TorchLamp.description>A bamboo torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</VG_TorchLamp.description>
+  <Cuptea.label>Garden Tea</Cuptea.label>
+  <Cuptea.description>A drink made from brew tea leaves.</Cuptea.description>
+  <Cuptea.ingestible.ingestCommandString>Drink {0}</Cuptea.ingestible.ingestCommandString>
+  <Cuptea.ingestible.ingestReportString>Drinking {0}.</Cuptea.ingestible.ingestReportString>
+  <VG_BarleyTea.label>Barley Tea</VG_BarleyTea.label>
+  <VG_BarleyTea.description>A drink made from brewed barley. \n\nDrink Effects: Blood Filtration.</VG_BarleyTea.description>
+  <VG_BarleyTea.ingestible.ingestCommandString>Drink {0}</VG_BarleyTea.ingestible.ingestCommandString>
+  <VG_BarleyTea.ingestible.ingestReportString>Drinking {0}.</VG_BarleyTea.ingestible.ingestReportString>
+  <Coffee.label>Garden Coffee</Coffee.label>
+  <Coffee.description>A cup of coffee</Coffee.description>
+  <Coffee.ingestible.ingestCommandString>Drink {0}</Coffee.ingestible.ingestCommandString>
+  <Coffee.ingestible.ingestReportString>Drinking {0}.</Coffee.ingestible.ingestReportString>
+  <Fruitdrink.label>Fruit drink</Fruitdrink.label>
+  <Fruitdrink.description>A drink made from pressing fruit for their juice. \n\nDrink Effects: Consciousness and Blood Filtration.</Fruitdrink.description>
+  <Fruitdrink.ingestible.ingestCommandString>Drink {0}</Fruitdrink.ingestible.ingestCommandString>
+  <Fruitdrink.ingestible.ingestReportString>Drinking {0}.</Fruitdrink.ingestible.ingestReportString>
+  <Chocomilk.label>chocolate milk</Chocomilk.label>
+  <Chocomilk.description>Chocolate added to milk.</Chocomilk.description>
+  <bowlstew.label>bowl of stew</bowlstew.label>
+  <bowlstew.description>A bowl of slow cooking stew. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</bowlstew.description>
+  <stirfry.label>stirfry</stirfry.label>
+  <stirfry.description>Cooking technique in which ingredients are fried in a small amount of very hot oil. \n\nFood Effects: Manipulation and Blood Filtration.</stirfry.description>
+  <VG_Hardtack.label>Hardtack</VG_Hardtack.label>
+  <VG_Hardtack.description>A simple type of biscuit. Tastes bland, but not offensive. Made from grains. It lasts a very long time without refrigeration. Great for travelling.</VG_Hardtack.description>
+  <CPD_CoffeeBeans.label>coffee beans</CPD_CoffeeBeans.label>
+  <CPD_CoffeeBeans.description>Raw Coffee. Best prepared as a beverage</CPD_CoffeeBeans.description>
+  <Rawtea.label>tea leaves</Rawtea.label>
+  <Rawtea.description>Tea leaves for brewing.</Rawtea.description>
+  <Silage.label>silage</Silage.label>
+  <Silage.description>Nutrient-rich fermented hay and grains for your animals. The fermentation process preserves the silage preventing rot.</Silage.description>
+  <VG_Biofuel.label>biofuel</VG_Biofuel.label>
+  <VG_Biofuel.description>Fuel made from the processes of refining various types of plants for oils and alcohols. And is used to fuel generators and workbenches.</VG_Biofuel.description>
+  <VG_Hivepiece.label>Hive piece</VG_Hivepiece.label>
+  <VG_Hivepiece.description>A living piece of an insect hive. Used to make a hydro-jelly farm to produce insect jelly. Eww I think it's still moving...</VG_Hivepiece.description>
+  <Bamboo.label>bamboo</Bamboo.label>
+  <Bamboo.description>fast growing grass used for construction.</Bamboo.description>
+  <Bamboo.stuffProps.stuffAdjective>bamboo</Bamboo.stuffProps.stuffAdjective>
+  <Bamboo.tools.0.label>log</Bamboo.tools.0.label>
+  <VG_IronWoodLog.label>Ironwood</VG_IronWoodLog.label>
+  <VG_IronWoodLog.description>Ironwood is stronger and more beautiful then normal wood. Useful for building structures, weapons, and even simple prosthetics. Very beautiful decorative material.</VG_IronWoodLog.description>
+  <VG_IronWoodLog.stuffProps.stuffAdjective>ironwood</VG_IronWoodLog.stuffProps.stuffAdjective>
+  <VG_IronWoodLog.tools.0.label>log</VG_IronWoodLog.tools.0.label>
+  <RawAgave.label>agave fruit</RawAgave.label>
+  <RawAgave.description>Raw agave fruit.</RawAgave.description>
+  <RawBerries.label>berries</RawBerries.label>
+  <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
+  <Rawapple.label>apples</Rawapple.label>
+  <Rawapple.description>A red fruit grow on trees.</Rawapple.description>
+  <Rawbanana.label>banana</Rawbanana.label>
+  <Rawbanana.description>A yellow fruit that grows on trees.</Rawbanana.description>
+  <Rawgrape.label>grapes</Rawgrape.label>
+  <Rawgrape.description>A sweet fruit that grows on vines.</Rawgrape.description>
+  <Raworange.label>orange</Raworange.label>
+  <Raworange.description>A sweet fruit that grows on trees.</Raworange.description>
+  <Rawpeach.label>peach</Rawpeach.label>
+  <Rawpeach.description>A sweet fruit that grows on trees.</Rawpeach.description>
+  <Rawpineapple.label>pineapple</Rawpineapple.label>
+  <Rawpineapple.description>A tropical fruit having large swordlike leaves and a large, fleshy, edible, multiple fruit with a terminal tuft of leaves.</Rawpineapple.description>
+  <Rawblueberry.label>blueberry</Rawblueberry.label>
+  <Rawblueberry.description>Blue colored berry that grows in bushes. Even good raw.</Rawblueberry.description>
+  <Rawwatermelon.label>watermelon</Rawwatermelon.label>
+  <Rawwatermelon.description>A large, roundish or elongated fruit of a trailing vine having a hard, green rind and a sweet, juicy, usually pink or red pulp.</Rawwatermelon.description>
+  <Rawdate.label>date</Rawdate.label>
+  <Rawdate.description>A sweet fruit that grows on trees.</Rawdate.description>
+  <Rawfig.label>fig</Rawfig.label>
+  <Rawfig.description>A sweet fruit that grows on trees.</Rawfig.description>
+  <Rawgooseberry.label>gooseberry</Rawgooseberry.label>
+  <Rawgooseberry.description>A sweet fruit that grows on vines.</Rawgooseberry.description>
+  <Rawcloudberry.label>cloudberry</Rawcloudberry.label>
+  <Rawcloudberry.description>A sweet fruit that grows on vines.</Rawcloudberry.description>
+  <RawCherry.label>Cherries</RawCherry.label>
+  <RawCherry.description>A red berry fruit that grows on trees.</RawCherry.description>
+  <RawCoconut.label>Coconut</RawCoconut.label>
+  <RawCoconut.description>A coconut fruit that grows on trees. Has a hard outer shell with a juicy fruit flesh inside.</RawCoconut.description>
+  <Honey.label>honey</Honey.label>
+  <Honey.description>Super sweet, super delicious, honey is used as a natural sweetener in all sorts of goodies.  Also used in the production of mead. Doesn't spoil, though can deteriorate if left outside.</Honey.description>
+  <Mead.label>honey mead</Mead.label>
+  <Mead.description>Mead can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction.</Mead.description>
+  <Mead.ingestible.ingestCommandString>Drink {0}</Mead.ingestible.ingestCommandString>
+  <Mead.ingestible.ingestReportString>Drinking {0}.</Mead.ingestible.ingestReportString>
+  <Mead.tools.0.label>bottle</Mead.tools.0.label>
+  <Mead.tools.1.label>neck</Mead.tools.1.label>
+  <RawRedLentil.label>red lentil</RawRedLentil.label>
+  <RawRedLentil.description>Raw protein-rich lentil. Used in place of meat in recipes.</RawRedLentil.description>
+  <Rawmushroom.label>mushroom</Rawmushroom.label>
+  <Rawmushroom.description>Raw protein-rich mushrooms. Nice to eat, even when raw.</Rawmushroom.description>
+  <Rawsnowbeet.label>snow beet</Rawsnowbeet.label>
+  <Rawsnowbeet.description>Raw snow beet.</Rawsnowbeet.description>
+  <RawBarley.label>barley</RawBarley.label>
+  <RawBarley.description>Cereal grain used for livestock feed, cooked for food, and used for beer making.</RawBarley.description>
+  <Rawbean.label>bean</Rawbean.label>
+  <Rawbean.description>Common bean cooked up in many ways.</Rawbean.description>
+  <RawOlive.label>Olive</RawOlive.label>
+  <RawOlive.description>A small berry fruit that grows on trees.</RawOlive.description>
+  <RawCactusFruit.label>cactus fruit</RawCactusFruit.label>
+  <RawCactusFruit.description>Raw cactus fruit.</RawCactusFruit.description>
+  <VG_FoodShelf.label>food shelf 2x2</VG_FoodShelf.label>
+  <VG_FoodShelf.description>A 2x2 shelf for storing perishable items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. 
+	\n\nThis storage area is set to Important and has by default all the items that spoil from vanilla and the garden mods. \n\nThings to store here: Foods, Drugs, Medicines, Plant Matters, and Animals Corpses.</VG_FoodShelf.description>
+  <VG_JellyFarm.label>hydro-jelly farm</VG_JellyFarm.label>
+  <VG_JellyFarm.description>A hive grown from hive pieces, collected from pieces of hives found in caves or bought from traders. Will produce insect jelly and glow pods after a time. Falls aparts after a few days, needing more resources to rebuild.</VG_JellyFarm.description>
+  <Plant_Barley.label>barley plant</Plant_Barley.label>
+  <Plant_Barley.description>A cereal grain. Hearty plant that is imune to blight. Used in cooking and for making ale.</Plant_Barley.description>
+  <Plant_VGPincushionCactus.label>pincushion cactus</Plant_VGPincushionCactus.label>
+  <Plant_VGPincushionCactus.description>A short cactus. It is so named because it resembles a pincushion.</Plant_VGPincushionCactus.description>
+  <Plant_Snowbeet.label>snow beet plant</Plant_Snowbeet.label>
+  <Plant_Snowbeet.description>A simple, highly nutritious plants. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop. Does not die in cold weather.</Plant_Snowbeet.description>
+  <Plant_redlentil.label>red lentil plant</Plant_redlentil.label>
+  <Plant_redlentil.description>A redish variety of the lentil plant. One of the oldest know domesticated plants.</Plant_redlentil.description>
+  <Plant_bean.label>bean plant</Plant_bean.label>
+  <Plant_bean.description>Common bean cooked up in many ways. Will not die due to toxic fallout.</Plant_bean.description>
+  <Plant_Olivetree.label>olive tree</Plant_Olivetree.label>
+  <Plant_Olivetree.description>A fruit bearing tree that grows olives and is not destroyed when picked.</Plant_Olivetree.description>
+  <Plantpineapple.label>pineapple plant</Plantpineapple.label>
+  <Plantpineapple.description>Think skin fruit that grows a top a bush.</Plantpineapple.description>
+  <Plantcloudberry.label>cloudberry plant</Plantcloudberry.label>
+  <Plantcloudberry.description>A berry bush that grows well in cold climates.</Plantcloudberry.description>
+  <Plantgooseberry.label>gooseberry plant</Plantgooseberry.label>
+  <Plantgooseberry.description>A berry bush that grows well in cold climates.</Plantgooseberry.description>
+  <Plantgrape.label>grape vine</Plantgrape.label>
+  <Plantgrape.description>A sweet small fruit that grows in small viney bushes.</Plantgrape.description>
+  <Plantblueberry.label>blueberry plant</Plantblueberry.label>
+  <Plantblueberry.description>Blue colored berry that grows in bushes.</Plantblueberry.description>
+  <Plantwatermelon.label>watermelon plant</Plantwatermelon.label>
+  <Plantwatermelon.description>This fruit is rich in vitamins A and C and can be eaten raw or cooked in a variety of ways.</Plantwatermelon.description>
+  <VG_Plant_Agave.label>garden agave</VG_Plant_Agave.label>
+  <VG_Plant_Agave.description>A large-leafed desert plant with edible flowers and stalks.</VG_Plant_Agave.description>
+  <Plant_Tea.label>tea plant</Plant_Tea.label>
+  <Plant_Tea.description>A green leafy plant, who's leaves can be brewed into a tasty beverage.</Plant_Tea.description>
+  <Plant_Coffee.label>coffee plant</Plant_Coffee.label>
+  <Plant_Coffee.description>A green, leafy plant yielding coffee beans. These beans can be brewed into a tasty beverage.</Plant_Coffee.description>
+  <Plant_TreeBamboo.label>bamboo plant</Plant_TreeBamboo.label>
+  <Plant_TreeBamboo.description>A fast-growing tree-like species that grows in cluster. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful.</Plant_TreeBamboo.description>
+  <Plantcocoa.label>cocoa bush</Plantcocoa.label>
+  <Plantcocoa.description>A tropical bush that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. Produces a lot less then the trees.</Plantcocoa.description>
+  <Plant_TreeBee.label>bee tree</Plant_TreeBee.label>
+  <Plant_TreeBee.description>A genetically engineered birch tree, designed to attract bees to build a hive in.</Plant_TreeBee.description>
+  <VG_PlantAmbrosia.label>ambrosia bush</VG_PlantAmbrosia.label>
+  <VG_PlantAmbrosia.description>A bush which yields the ambrosia fruit. Ambrosia is pleasurable to eat and produces a slightly addictive chemical warmth effect. Grown in a Hydroponics basin. Does not destroy when harvested.</VG_PlantAmbrosia.description>
+  <VGP_Agarilux.label>baby agarilux</VGP_Agarilux.label>
+  <VGP_Agarilux.description>An purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. Dies when exposed to light. Faster grow than the kind that grow in nature, but also has a much smaller yield</VGP_Agarilux.description>
+  <PlantAppletree.label>apple tree</PlantAppletree.label>
+  <PlantAppletree.description>A fruit bearing tree that grows apples and is not destroyed when picked.</PlantAppletree.description>
+  <PlantBananaTree.label>banana tree</PlantBananaTree.label>
+  <PlantBananaTree.description>A fruit bearing tree that grows banana and is not destroyed when picked.</PlantBananaTree.description>
+  <PlantorangeTree.label>orange tree</PlantorangeTree.label>
+  <PlantorangeTree.description>A fruit bearing tree that grows oranges and is not destroyed when picked.</PlantorangeTree.description>
+  <PlantPeachTree.label>peach tree</PlantPeachTree.label>
+  <PlantPeachTree.description>A fruit bearing tree that grows peaches and is not destroyed when picked.</PlantPeachTree.description>
+  <DateTree.label>date palm tree</DateTree.label>
+  <DateTree.description>A fruit bearing tree that grows dates and is not destroyed when picked.</DateTree.description>
+  <FigTree.label>fig tree</FigTree.label>
+  <FigTree.description>A fruit bearing tree that grows figs and is not destroyed when picked.</FigTree.description>
+  <Coconuttree.label>coconut tree</Coconuttree.label>
+  <Coconuttree.description>A fruit bearing tree that grows coconuts and is not destroyed when picked.</Coconuttree.description>
+  <PlantCherrytree.label>cherry tree</PlantCherrytree.label>
+  <PlantCherrytree.description>A fruit bearing tree that grows cherries and is not destroyed when picked.</PlantCherrytree.description>
+  <VG_Rose.label>garden rose</VG_Rose.label>
+  <VG_Rose.description>A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era.</VG_Rose.description>
+  <VG_Daylily.label>garden daylily</VG_Daylily.label>
+  <VG_Daylily.description>A cultivated flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often.</VG_Daylily.description>
+  <PlantPlumeria.label>Plumeria</PlantPlumeria.label>
+  <PlantPlumeria.description>A beautiful cultivated small bushy flower that grows in random colors.</PlantPlumeria.description>
+  <Wild_PlantPlumeria.label>Plumeria</Wild_PlantPlumeria.label>
+  <Wild_PlantPlumeria.description>A beautiful cultivated small bushy flower that grows in random colors.</Wild_PlantPlumeria.description>
+  <Plant_VGChokevine.label>chokevine</Plant_VGChokevine.label>
+  <Plant_VGChokevine.description>Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatky slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark.</Plant_VGChokevine.description>
+  <Plant_VG_Grass.label>grass</Plant_VG_Grass.label>
+  <Plant_VG_Grass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</Plant_VG_Grass.description>
+  <Plant_VGTallGrass.label>tall grass</Plant_VGTallGrass.label>
+  <Plant_VGTallGrass.description>Wild tall grass. Slows down anyone moving over it.</Plant_VGTallGrass.description>
+  <WildAppletree.label>apple tree</WildAppletree.label>
+  <WildAppletree.description>A fruit bearing tree that grows apples and is not destroyed when picked.</WildAppletree.description>
+  <WildBananaTree.label>banana tree</WildBananaTree.label>
+  <WildBananaTree.description>A fruit bearing tree that grows banana and is not destroyed when picked.</WildBananaTree.description>
+  <WildorangeTree.label>orange tree</WildorangeTree.label>
+  <WildorangeTree.description>A fruit bearing tree that grows oranges and is not destroyed when picked.</WildorangeTree.description>
+  <WildPeachTree.label>peach tree</WildPeachTree.label>
+  <WildPeachTree.description>A fruit bearing tree that grows peaches and is not destroyed when picked.</WildPeachTree.description>
+  <WildDateTree.label>date palm tree</WildDateTree.label>
+  <WildDateTree.description>A fruit bearing tree that grows dates and is not destroyed when picked.</WildDateTree.description>
+  <WildFigTree.label>fig tree</WildFigTree.label>
+  <WildFigTree.description>A fruit bearing tree that grows figs and is not destroyed when picked.</WildFigTree.description>
+  <WildCoconuttree.label>coconut tree</WildCoconuttree.label>
+  <WildCoconuttree.description>A fruit bearing tree that grows coconuts and is not destroyed when picked.</WildCoconuttree.description>
+  <WildPlantCherrytree.label>cherry tree</WildPlantCherrytree.label>
+  <WildPlantCherrytree.description>A fruit bearing tree that grows cherries and is not destroyed when picked.</WildPlantCherrytree.description>
+  <WildPlantpineapple.label>pineapple plant</WildPlantpineapple.label>
+  <WildPlantpineapple.description>Think skin fruit that grows a top a bush.</WildPlantpineapple.description>
+  <WildPlantcloudberry.label>cloudberry plant</WildPlantcloudberry.label>
+  <WildPlantcloudberry.description>A berry bush that grows well in cold climates.</WildPlantcloudberry.description>
+  <WildPlantgooseberry.label>gooseberry plant</WildPlantgooseberry.label>
+  <WildPlantgooseberry.description>A berry bush that grows well in cold climates.</WildPlantgooseberry.description>
+  <Plantmushroom.label>Mushroom</Plantmushroom.label>
+  <Plantmushroom.description>This robust mushroom has been genetically engineered and cultivated to produce a filling meat substitute. Found in the wild and grown in hydroponics.</Plantmushroom.description>
+  <ST_WildHoneyTree.label>bee hive</ST_WildHoneyTree.label>
+  <ST_WildHoneyTree.description>A hive of bees. Harvest them for honey.</ST_WildHoneyTree.description>
+  <PlantTreeIronwood.label>ironwood tree</PlantTreeIronwood.label>
+  <PlantTreeIronwood.description>Ironwood trees got their name from the legendary strength of the wood.</PlantTreeIronwood.description>
+  <VG_IronWoodLog.tools.tools.0.label>handle</VG_IronWoodLog.tools.tools.0.label>
+  <VG_IronWoodLog.tools.tools.1.label>head</VG_IronWoodLog.tools.tools.1.label>
+  <Bamboo.tools.tools.0.label>handle</Bamboo.tools.tools.0.label>
+  <Bamboo.tools.tools.1.label>head</Bamboo.tools.tools.1.label>
+  <Dryad_Bamboomaker.label>bamboomaker dryad</Dryad_Bamboomaker.label>
+  <Dryad_Bamboomaker.description>A slow, bumbling caste of dryad which specializes in bamboo production. Together with its Gauranlen tree, this dryad can generate a bamboo-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Bamboomaker.description>
+  <Dryad_IronWoodmaker.label>ironwoodmaker dryad</Dryad_IronWoodmaker.label>
+  <Dryad_IronWoodmaker.description>A slow, bumbling caste of dryad which specializes in ironwood production. Together with its Gauranlen tree, this dryad can generate a ironwood-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_IronWoodmaker.description>
+  <PlantPot_BambooBonsai.label>bamboo bonsai pot</PlantPot_BambooBonsai.label>
+  <PlantPot_BambooBonsai.description>This special pot is suitable for planting bamboo bonsai trees, which can improve the mood of people nearby and satisfy ideoligious requirements.</PlantPot_BambooBonsai.description>
+  <Plant_BambooBonsai.label>bonsai bamboo</Plant_BambooBonsai.label>
+  <Plant_BambooBonsai.description>A small bamboo tree, pruned and shaped to look visually pleasing.</Plant_BambooBonsai.description>
+</LanguageData>
