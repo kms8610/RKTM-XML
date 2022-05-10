@@ -17,8 +17,14 @@
   <EndorsedByRecruiter.stages.0.description>This person was recommended to me.</EndorsedByRecruiter.stages.0.description>
   <GuestDismissiveAttitude.stages.0.label>tired of talking</GuestDismissiveAttitude.stages.0.label>
   <GuestDismissiveAttitude.stages.0.description>I'm done talking for now. Leave me alone.</GuestDismissiveAttitude.stages.0.description>
+  <GuestExpensiveFood.stages.0.label>expensive food</GuestExpensiveFood.stages.0.label>
+  <GuestExpensiveFood.stages.0.description>I had to pay for expensive food at a dispenser.</GuestExpensiveFood.stages.0.description>
+  <GuestCheapFood.stages.0.label>cheap food</GuestCheapFood.stages.0.label>
+  <GuestCheapFood.stages.0.description>I could buy cheap food at a dispenser.</GuestCheapFood.stages.0.description>
   <GuestCantAffordBed.stages.0.label>can't afford a bed</GuestCantAffordBed.stages.0.label>
-  <GuestCantAffordBed.stages.0.description>I can't afford one of the free beds.</GuestCantAffordBed.stages.0.description>
+  <GuestCantAffordBed.stages.0.description>I can't afford one of the beds.</GuestCantAffordBed.stages.0.description>
+  <GuestHasNoFood.stages.0.label>no food</GuestHasNoFood.stages.0.label>
+  <GuestHasNoFood.stages.0.description>I don't have anything to eat.</GuestHasNoFood.stages.0.description>
   <GuestBedCount.stages.0.label>no guest beds</GuestBedCount.stages.0.label>
   <GuestBedCount.stages.0.description>They don't even have beds here.</GuestBedCount.stages.0.description>
   <GuestBedCount.stages.1.label>not enough guest beds</GuestBedCount.stages.1.label>
