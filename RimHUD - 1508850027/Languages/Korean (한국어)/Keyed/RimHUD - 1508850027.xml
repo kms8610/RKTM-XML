@@ -50,7 +50,6 @@
   <RimHUD.Dialog_Config.Tab.Content.Selected>Selected: </RimHUD.Dialog_Config.Tab.Content.Selected>
   <RimHUD.Dialog_Config.Tab.Content.Selected.Filled>Fill height</RimHUD.Dialog_Config.Tab.Content.Selected.Filled>
   <RimHUD.Dialog_Config.Tab.Content.Selected.FilledDesc>If checked the panel or stack will stretch to fill the remaining vertical space.\n\nIf unchecked it will size the height to its content</RimHUD.Dialog_Config.Tab.Content.Selected.FilledDesc>
-  <RimHUD.Dialog_Config.Tab.Integration>Integration</RimHUD.Dialog_Config.Tab.Integration>
   <RimHUD.Dialog_Presets.Title>User Presets</RimHUD.Dialog_Presets.Title>
   <RimHUD.Dialog_Presets.Delete>Delete selected</RimHUD.Dialog_Presets.Delete>
   <RimHUD.Dialog_SavePreset.Title>Save Preset</RimHUD.Dialog_SavePreset.Title>
@@ -70,39 +69,7 @@
   <RimHUD.Alert.NotImplemented>This feature is not yet implemented</RimHUD.Alert.NotImplemented>
   <RimHUD.Alert.MoreComingSoon>More features coming soon™</RimHUD.Alert.MoreComingSoon>
   <RimHUD.InspectPane.MedicalCare>Change the level of medical care given to this {0}.\n\nCurrent: {1}</RimHUD.InspectPane.MedicalCare>
-  <RimHUD.Integration.GetMod>Link to mod</RimHUD.Integration.GetMod>
-  <RimHUD.Integration.General>General Settings</RimHUD.Integration.General>
-  <RimHUD.Integration.Bubbles>Interaction Bubbles</RimHUD.Integration.Bubbles>
-  <RimHUD.Integration.Bubbles.Activated>Activated</RimHUD.Integration.Bubbles.Activated>
-  <RimHUD.Integration.Bubbles.DoNonPlayer>Show for non-player faction</RimHUD.Integration.Bubbles.DoNonPlayer>
-  <RimHUD.Integration.Bubbles.DoAnimals>Show for animal interactions</RimHUD.Integration.Bubbles.DoAnimals>
-  <RimHUD.Integration.Bubbles.MinScale>Minimum zoom visible</RimHUD.Integration.Bubbles.MinScale>
-  <RimHUD.Integration.Bubbles.ScaleStart>Zoom to start scale</RimHUD.Integration.Bubbles.ScaleStart>
-  <RimHUD.Integration.Bubbles.MaxWidth>Maximum width</RimHUD.Integration.Bubbles.MaxWidth>
-  <RimHUD.Integration.Bubbles.Spacing>Spacing</RimHUD.Integration.Bubbles.Spacing>
-  <RimHUD.Integration.Bubbles.StartOffset>Offset from label</RimHUD.Integration.Bubbles.StartOffset>
-  <RimHUD.Integration.Bubbles.OffsetDirection>Offset direction</RimHUD.Integration.Bubbles.OffsetDirection>
-  <RimHUD.Integration.Bubbles.OffsetDirections>Down|Left|Up|Right</RimHUD.Integration.Bubbles.OffsetDirections>
-  <RimHUD.Integration.Bubbles.StartOpacity>Starting opacity</RimHUD.Integration.Bubbles.StartOpacity>
-  <RimHUD.Integration.Bubbles.MouseOverOpacity>Mouse-over opacity</RimHUD.Integration.Bubbles.MouseOverOpacity>
-  <RimHUD.Integration.Bubbles.MinTime>Minimum time to fade</RimHUD.Integration.Bubbles.MinTime>
-  <RimHUD.Integration.Bubbles.FadeStart>Ticks to start fade</RimHUD.Integration.Bubbles.FadeStart>
-  <RimHUD.Integration.Bubbles.FadeLength>Ticks to fade</RimHUD.Integration.Bubbles.FadeLength>
-  <RimHUD.Integration.Bubbles.MaxPerPawn>Maximum per pawn</RimHUD.Integration.Bubbles.MaxPerPawn>
-  <RimHUD.Integration.Bubbles.FontSize>Font size</RimHUD.Integration.Bubbles.FontSize>
-  <RimHUD.Integration.Bubbles.PaddingX>Text padding X</RimHUD.Integration.Bubbles.PaddingX>
-  <RimHUD.Integration.Bubbles.PaddingY>Text padding Y</RimHUD.Integration.Bubbles.PaddingY>
-  <RimHUD.Integration.Bubbles.Colors>Bubble Colors</RimHUD.Integration.Bubbles.Colors>
-  <RimHUD.Integration.Bubbles.ForeColor>Text color</RimHUD.Integration.Bubbles.ForeColor>
-  <RimHUD.Integration.Bubbles.BackColor>Back color</RimHUD.Integration.Bubbles.BackColor>
-  <RimHUD.Integration.Bubbles.SelectedForeColor>Selected text color</RimHUD.Integration.Bubbles.SelectedForeColor>
-  <RimHUD.Integration.Bubbles.SelectedBackColor>Selected back color</RimHUD.Integration.Bubbles.SelectedBackColor>
-  <RimHUD.Integration.PawnRules>Pawn Rules</RimHUD.Integration.PawnRules>
   <RimHUD.Integration.PawnRules.RuleNameFormat>Rules: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
-  <RimHUD.Integration.PawnRules.ReplaceFoodSelector>Replace food selector</RimHUD.Integration.PawnRules.ReplaceFoodSelector>
-  <RimHUD.Integration.PawnRules.ReplaceFoodSelectorDesc>If enabled, the food selector will be replaced by the rules selector.</RimHUD.Integration.PawnRules.ReplaceFoodSelectorDesc>
-  <RimHUD.Integration.PawnRules.HideGizmo>Hide Gizmo</RimHUD.Integration.PawnRules.HideGizmo>
-  <RimHUD.Integration.PawnRules.HideGizmoDesc>Disables the rules gizmo that appears next to the draft button as RimHUD adds a rules button in the inspect pane.</RimHUD.Integration.PawnRules.HideGizmoDesc>
   <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
   <RimHUD.Model.OfFaction>of {0}</RimHUD.Model.OfFaction>
   <RimHUD.Model.Faction.Own>our</RimHUD.Model.Faction.Own>
@@ -144,6 +111,9 @@
   <RimHUD.Model.Mood.Content>Feeling content</RimHUD.Model.Mood.Content>
   <RimHUD.Model.Mood.Indifferent>Feeling indifferent</RimHUD.Model.Mood.Indifferent>
   <RimHUD.Model.Info.Activity>Activity: {0}</RimHUD.Model.Info.Activity>
+  <RimHUD.Model.Info.Activity.Tooltip>{0}\n\n{1}\n\n{2}</RimHUD.Model.Info.Activity.Tooltip>
+  <RimHUD.Model.Info.Activity.WorkType>Work type: {0}</RimHUD.Model.Info.Activity.WorkType>
+  <RimHUD.Model.Info.Activity.RelevantSkills>Relevant Skills: {0}</RimHUD.Model.Info.Activity.RelevantSkills>
   <RimHUD.Model.Info.Attacking>Attacking {0}</RimHUD.Model.Info.Attacking>
   <RimHUD.Model.Info.Queued>Queued: {0}</RimHUD.Model.Info.Queued>
   <RimHUD.Model.Info.Equipped>Equipped: {0}</RimHUD.Model.Info.Equipped>
@@ -202,6 +172,7 @@
   <RimHUD.Model.Component.SkillSocial>Social skill</RimHUD.Model.Component.SkillSocial>
   <RimHUD.Model.Component.SkillIntellectual>Intellectual skill</RimHUD.Model.Component.SkillIntellectual>
   <RimHUD.Model.Component.Skill>{0} skill</RimHUD.Model.Component.Skill>
+  <RimHUD.Model.Component.Skill.PassionIndicator>★</RimHUD.Model.Component.Skill.PassionIndicator>
   <RimHUD.Model.Component.TrainingTameness>Tameness training</RimHUD.Model.Component.TrainingTameness>
   <RimHUD.Model.Component.TrainingObedience>Obedience training</RimHUD.Model.Component.TrainingObedience>
   <RimHUD.Model.Component.TrainingRelease>Release training</RimHUD.Model.Component.TrainingRelease>
@@ -276,6 +247,8 @@
   <RimHUD.Theme.SkillColors>Skill Colors</RimHUD.Theme.SkillColors>
   <RimHUD.Theme.SkillMinorPassionColor>Minor passion</RimHUD.Theme.SkillMinorPassionColor>
   <RimHUD.Theme.SkillMajorPassionColor>Major passion</RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.Theme.SkillSaturatedColor>Learning saturated</RimHUD.Theme.SkillSaturatedColor>
+  <RimHUD.Theme.SkillActiveColor>Currently active</RimHUD.Theme.SkillActiveColor>
   <RimHUD.TextStyle.Size>Size</RimHUD.TextStyle.Size>
   <RimHUD.TextStyle.Height>Height</RimHUD.TextStyle.Height>
 </LanguageData>
