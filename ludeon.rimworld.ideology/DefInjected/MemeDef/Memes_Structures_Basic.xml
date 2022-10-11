@@ -51,19 +51,6 @@
   <Structure_Ideological.label>ideological</Structure_Ideological.label>
   <Structure_Ideological.description>There are no gods. The moral structure of the universe is found in our grand narrative of social forces.</Structure_Ideological.description>
   <Structure_Ideological.generalRules.rulesStrings>
-    <li>memeAdjective->ethical</li>
-    <li>memeAdjective->moral</li>
-    <li>memeAdjective->awoken</li>
-    <li>memeCreed->belief</li>
-    <li>memeCreed->ideology</li>
-    <li>memeCreed->creed</li>
-    <li>memeCreed->philosophy</li>
-    <li>memeCreed->theory</li>
-    <li>memeCreed->view</li>
-    <li>memeCreed->principles</li>
-    <li>memeCreed->morals</li>
-    <li>memeCreed->ethics</li>
-    <li>memeCreed->justice</li>
     <li>memeHyphenPrefix->ideo</li>
     <li>memeLeaderNoun->mind</li>
     <li>memeLeaderNoun->decider</li>
@@ -96,11 +83,6 @@
   <Structure_TheistAbstract.label>abstract theist</Structure_TheistAbstract.label>
   <Structure_TheistAbstract.description>The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe.</Structure_TheistAbstract.description>
   <Structure_TheistAbstract.generalRules.rulesStrings>
-    <li>memeAdjective->godly</li>
-    <li>memeAdjective->holy</li>
-    <li>memeAdjective->sacred</li>
-    <li>memeAdjective->divine</li>
-    <li>memeAdjective->faithful</li>
     <li>memeCreed->temple</li>
     <li>memeCreed->sect</li>
     <li>memeCreed->cult</li>

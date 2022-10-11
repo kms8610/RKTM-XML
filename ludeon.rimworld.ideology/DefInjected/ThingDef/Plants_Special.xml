@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Dye.label>dye</Dye.label>
-  <Dye.description>Dye extracted from a tinctoria plant. It can be transformed into various colors to dye apparel.</Dye.description>
+  <ChoppedStump_Gauranlen.label>chopped gauranlen stump</ChoppedStump_Gauranlen.label>
+  <ChoppedStump_Gauranlen.description>A stump left behind after a garuanlen tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</ChoppedStump_Gauranlen.description>
   
   <GauranlenSeed.label>Gauranlen seed</GauranlenSeed.label>
   <GauranlenSeed.description>The seed of a Gauranlan tree. It can be planted to create a new Gauranlen tree.</GauranlenSeed.description>
@@ -21,12 +21,12 @@
   <Plant_Timbershroom.label>timbershroom</Plant_Timbershroom.label>
   <Plant_Timbershroom.description>A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance.</Plant_Timbershroom.description>
   
-  <Plant_Tinctoria.label>tinctoria</Plant_Tinctoria.label>
-  <Plant_Tinctoria.description>A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to dye apparel.</Plant_Tinctoria.description>
-  
   <Plant_TreeBonsai.label>bonsai tree</Plant_TreeBonsai.label>
   <Plant_TreeBonsai.description>A small tree, pruned and shaped to look visually pleasing.</Plant_TreeBonsai.description>
   
   <Plant_TreeGauranlen.label>Gauranlen tree</Plant_TreeGauranlen.label>
   <Plant_TreeGauranlen.description>A large, distinctive-looking tree with a unique life-cycle. Each Gauranlen tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a Gauranlen tree and partially control the dryads it produces.\n\nSome say Gauranlen trees are the homes of nature spirits that follow humanity across worlds.</Plant_TreeGauranlen.description>
+  
+  <SmashedStump_Gauranlen.label>smashed gauranlen stump</SmashedStump_Gauranlen.label>
+  <SmashedStump_Gauranlen.description>The remnants of a gauranlen tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</SmashedStump_Gauranlen.description>
 </LanguageData>

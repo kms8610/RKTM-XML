@@ -10,23 +10,19 @@
   <SlaveUnattendedMultipleLabel>Slaves unattended</SlaveUnattendedMultipleLabel>
   <SlavesUnattendedDesc>Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours.</SlavesUnattendedDesc>
 
-  <RitualExpected>{0} expected</RitualExpected>
   <RitualOpportunity>{0} opportunity</RitualOpportunity>
-  <RitualExpectedFor>{0} expected for</RitualExpectedFor>
-  <RitualExpirationTime>{0} days: Ritual opportunity ends.</RitualExpirationTime>
-  <RitualExpiresIn>Expires in</RitualExpiresIn>
-  <RitualCompletionEffects>Completing {RITUAL_labelDef} will have these effects</RitualCompletionEffects>
+  <RitualOpportunityFor>{0} opportunity for {1}</RitualOpportunityFor>
+  <RitualExpiresIn>Expires in {0}, on {1}.</RitualExpiresIn>
+  <RitualSingleTargetDesc>To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command.</RitualSingleTargetDesc>
+  <RitualMultiTargetDesc>To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command</RitualMultiTargetDesc>
   <RitualTargetsExplanation>To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1}</RitualTargetsExplanation>
-  <RitualRolesExplanation>Following roles have a part in {RITUAL_label}:\n{1}</RitualRolesExplanation>
   <RitualJumpToTargets>Click to jump to targets</RitualJumpToTargets>
-  <RitualObligationDelayEffects>Delaying {RITUAL_labelDef} will have following effects</RitualObligationDelayEffects>
-  <RitualObligationDelayEffectDesc>{0} days: {1} mood on all {2}s.</RitualObligationDelayEffectDesc>
   <RitualUnfilledRoles>In order to perform {0} you need to fill these roles</RitualUnfilledRoles>
 
   <IdeoBuildingMissing>{0} desired</IdeoBuildingMissing>
-  <IdeoBuildingMissingDesc>{IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3}</IdeoBuildingMissingDesc> <!-- text_todo -->
-  <IdeoBuildingArchitectTabDesc> You can find it by opening the '{TABNAME}' tab of the architect menu.</IdeoBuildingArchitectTabDesc> <!-- text_todo -->
-  <IdeoBuildingCanBeCraftedAt> It can be created at:\n{0}.</IdeoBuildingCanBeCraftedAt> <!-- text_todo -->
+  <IdeoBuildingMissingDesc>{IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingArchitectTabDesc> You can find it by opening the '{TABNAME}' tab of the architect menu.</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingCanBeCraftedAt> It can be created at:\n{0}.</IdeoBuildingCanBeCraftedAt>
   <IdeoBuildingRoomRequirementsDesc>In order to dignify {0}, these room requirements must be met</IdeoBuildingRoomRequirementsDesc>
   <IdeoBuildingExpectations>expectations are</IdeoBuildingExpectations>
 
@@ -43,15 +39,10 @@
   <AncientAltarThreatsWaking>Security threats activated in {0}</AncientAltarThreatsWaking>
   <AncientAltarThreatsWakingDesc>Security threats will activate in {0}. They will attack any who may threaten the relic.</AncientAltarThreatsWakingDesc>
 
-  <AlertNoRecentSlaughter>No recent slaughter</AlertNoRecentSlaughter>
-  <AlertNoRecentSlaughterDesc>No large {0} animal has been slaughtered recently. This is a requirement of the following ideoligions</AlertNoRecentSlaughterDesc>
-  <BodySizeOrAbove>{0} body size or above</BodySizeOrAbove>
-  <AlertNoRecentSlaughterDescPost>If no slaughter is performed, these colonists will remain unhappy</AlertNoRecentSlaughterDescPost>
-  
   <AlertRitualComing>Ritual opportunity soon</AlertRitualComing>
   <AlertRitualComingDesc>A ritual opportunity is coming soon for following rituals</AlertRitualComingDesc>
   <AlertRitualComingExtra>Opportunities expire after {0} days, and reoccur on the same day each year.</AlertRitualComingExtra>
-  <AlertRitualComingEntry>{0} on {1}, {2} left</AlertRitualComingEntry>
+  <AlertRitualComingEntry>{0} on {1}, {2} before opportunity arises</AlertRitualComingEntry>
 
   <AlertAgeReversalDemandNear>Age reversal demanded</AlertAgeReversalDemandNear>
   <AlertAgeReversalDemandDesc>Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment</AlertAgeReversalDemandDesc>

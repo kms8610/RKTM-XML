@@ -2,12 +2,13 @@
 <LanguageData>
 
   <!-- Misc -->
-  <Add>add</Add>
   <TradingAnimalProduceBonus>Trading animal products bonus</TradingAnimalProduceBonus>
   <SlavesSection>Slaves</SlavesSection>
   <DominantStyle>dominant style</DominantStyle>
   <Date>Date</Date>
   <RitualDevelopmentPointRewards>The following development points will be awarded depending on the ritual outcome</RitualDevelopmentPointRewards>
+  <UseGlobalStyle>Use global style</UseGlobalStyle>
+  <NoStylesAvailable>No style variations available</NoStylesAvailable>
 
   <ChooseStructureMemesInfo>Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay.</ChooseStructureMemesInfo>
   <ChooseNormalMemesInfo>Choose {0}-{1} memes to form the foundational ideas of this ideoligion.</ChooseNormalMemesInfo>
@@ -33,6 +34,7 @@
   <ChooseRole>Assign role</ChooseRole>
   <ChooseNewRole>Choose new role</ChooseNewRole>
   <NoRoleAssigned>No role assigned</NoRoleAssigned>
+  <ChildNoRoleAssigned>Children cannot take on roles</ChildNoRoleAssigned>
   <RemoveRole>Remove {0} role</RemoveRole>
   <ChooseRoleConfirmAssign>You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}.</ChooseRoleConfirmAssign>
   <ChooseRoleConfirmAssignPostfix>Are you sure?</ChooseRoleConfirmAssignPostfix>
@@ -88,7 +90,6 @@
 
   <LastHumanMeat>Last human meat</LastHumanMeat>
   <LastHumanMeatDesc>Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat.</LastHumanMeatDesc>
-  <LastAnimalSlaughter>Last large animal slaughter</LastAnimalSlaughter>
 
   <ExectueNeutralFactionSlave>Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}.</ExectueNeutralFactionSlave>
 
@@ -97,7 +98,6 @@
 
   <!-- Style -->
   <StylePawn>Style</StylePawn>
-  <Cancel>Cancel</Cancel>
   <Hair>hair</Hair>
   <Beard>beard</Beard>
   <TattooFace>face tattoo</TattooFace>
@@ -127,10 +127,7 @@
   <StyleItemFrequencyFrequent>Frequent</StyleItemFrequencyFrequent>
   <EditAppearanceItems>Edit appearance</EditAppearanceItems>
   <NumAvailable>{0} in use</NumAvailable>
-  <ExpandAllCategories>Expand all</ExpandAllCategories>
-  <CollapseAllCategories>Collapse all</CollapseAllCategories>
   <ResetButtonDesc>Resets all style items to their default values.</ResetButtonDesc>
-  <TooltipDyeExplanation>Dye can be farmed from tinctoria or purchased from traders.</TooltipDyeExplanation>
 
   <!-- Ancient complex mission -->
   <SendShuttleAnyway>Send shuttle anyway</SendShuttleAnyway>
@@ -178,4 +175,7 @@
   <FoodRestrictionCarnivore>Carnivore</FoodRestrictionCarnivore>
   <FoodRestrictionCannibal>Cannibal</FoodRestrictionCannibal>
   <FoodRestrictionInsectMeat>Insect meat</FoodRestrictionInsectMeat>
+
+  <StylesInUse>Styles in use</StylesInUse>
+  <StyleCategoryAddDesc>Add a style.</StyleCategoryAddDesc>
 </LanguageData>

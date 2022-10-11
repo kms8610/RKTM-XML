@@ -3,16 +3,15 @@
 
   <CustomizeIdeoligion>Customize ideoligion</CustomizeIdeoligion>
   <ChooseYourIdeoligion>Choose your ideoligion</ChooseYourIdeoligion>
-  <Random>Random</Random>
   <RandomStructureTip>A random structure will be used for your ideoligion.</RandomStructureTip>
   <RandomStyleTip>A random style will be used for your ideoligion.</RandomStyleTip>
-  <PlayClassic>Ideology system inactive</PlayClassic> <!-- text_todo -->
-  <CreateCustomFluid>Create custom\n(fluid)</CreateCustomFluid> <!-- text_todo -->
-  <CreateCustomFixed>Create custom\n(fixed)</CreateCustomFixed>  <!-- text_todo -->
-  <CustomIdeoligions>Custom ideoligions</CustomIdeoligions> <!-- text_todo -->
+  <PlayClassic>Ideology system inactive</PlayClassic>
+  <CreateCustomFluid>Create custom\n(fluid)</CreateCustomFluid>
+  <CreateCustomFixed>Create custom\n(fixed)</CreateCustomFixed>
+  <CustomIdeoligions>Custom ideoligions</CustomIdeoligions>
   <LoadSaved>Load saved</LoadSaved>
   <Structure>Structure</Structure>
-  <ChooseYourIdeoligionDesc>What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs.</ChooseYourIdeoligionDesc>
+  <ChooseYourIdeoligionDesc>What should your starting colonists believe? These beliefs affect gameplay and visuals. You'll be able to recruit others to your beliefs, or take on their beliefs.</ChooseYourIdeoligionDesc>
   <CreateCustom>Create custom</CreateCustom>
   <DeleteCustom>Delete custom</DeleteCustom>
   <CreateNew>Create new</CreateNew>
@@ -48,11 +47,11 @@
   <RequiresOnePrecept>Requires one of precepts</RequiresOnePrecept>
   <RequiredPrecepts>Required precepts</RequiredPrecepts>
   <RequiredRituals>Required rituals</RequiredRituals>
-  <DisablesPrecepts>Disables precepts</DisablesPrecepts>
-  <DisablesPreceptsCount>Disables {0} precepts.</DisablesPreceptsCount>
+  <PreventsPrecepts>Prevents precepts</PreventsPrecepts>
   <Styles>Styles</Styles>
   <ChanceToHavePrecept>Chance to have precept</ChanceToHavePrecept>
-  <FavoriteColorTooltip>{PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye.</FavoriteColorTooltip>
+  <OrIdeoColor>, or the color of {PAWN_possessive} ideoligion,</OrIdeoColor>
   <SetIdeoColor>Set ideo color</SetIdeoColor>
   <SetFavoriteColor>Set to favorite color</SetFavoriteColor>
   <ConfigureIdeoligion>Configure your faction's ideoligion</ConfigureIdeoligion>
@@ -78,6 +77,7 @@
   <MealKindVegetarian>Vegetarian</MealKindVegetarian>
   <MealKindMeat>Contains meat</MealKindMeat>
   <MealKindAny>Acceptable food for everyone</MealKindAny>
+  <WearingDesiredApparelMulti>this outfit</WearingDesiredApparelMulti>
 
   <UnableToLoadIdeoTitle>Could not load ideoligion</UnableToLoadIdeoTitle>
   <UnableToLoadIdeoDescription>Could not load the selected ideoligion due to the requirements of the factions that will be following this ideoligion. The violated requirements are:</UnableToLoadIdeoDescription>
@@ -85,32 +85,30 @@
   <UnableToLoadIdeoMemeRequired>Meme {MEME} is required for {FACTIONTYPE} factions</UnableToLoadIdeoMemeRequired>
   <UnableToLoadIdeoPreceptNotAllowed>Precept {PRECEPT} is not allowed for non-player factions</UnableToLoadIdeoPreceptNotAllowed>
 
-  <RitualTargetGraveInfo>A grave containing {PAWN_labelShort}'s corpse.</RitualTargetGraveInfo>
-  <RitualTargetEmptyGraveInfo>An empty grave to mourn {PAWN_labelShort}'s passing.</RitualTargetEmptyGraveInfo>
-  <RitualTargetGraveInfoAbstract>A grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
-  <RitualTargetGraveInfoAbstractNoIdeo>A grave containing a corpse.</RitualTargetGraveInfoAbstractNoIdeo> <!-- text_todo -->
-  <RitualTargetEmptyGraveInfoAbstract>An empty grave to mourn {IDEO_memberNameIndef}'s passing.</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetGraveInfo>Grave containing {PAWN_labelShort}'s corpse</RitualTargetGraveInfo>
+  <RitualTargetEmptyGraveInfo>Empty grave to mourn {PAWN_labelShort}'s passing</RitualTargetEmptyGraveInfo>
+  <RitualTargetGraveInfoAbstract>Grave containing {IDEO_memberNameIndef}'s corpse</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstractNoIdeo>Grave containing a corpse</RitualTargetGraveInfoAbstractNoIdeo>
+  <RitualTargetEmptyGraveInfoAbstract>Empty grave to mourn {IDEO_memberNameIndef}'s passing</RitualTargetEmptyGraveInfoAbstract>
   <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}'s body must be buried first</RitualTargetGraveInfoMustBeBuried>
   <RitualTargetGatherSpotInfo>Any gathering spot, like a table</RitualTargetGatherSpotInfo>
   <RitualTargetGatherAltarOrRitualSpotInfo>Altar or any ritual spot.</RitualTargetGatherAltarOrRitualSpotInfo>
   <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>Altar, ideogram or any ritual spot.</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
-  <RitualTargetLightBallInfo>A lightball or ritual spot. Lightball and loudspeakers must be powered.</RitualTargetLightBallInfo>
   <RitualTargetLightBallIsNotPowered>Lightball is not powered.</RitualTargetLightBallIsNotPowered>
   <RitualTargetNoPoweredSpeakers>No powered speakers.</RitualTargetNoPoweredSpeakers>
   <RitualTargetCampfireNoFuel>Campfire is not fueled.</RitualTargetCampfireNoFuel>
   <RitualTargetCampfireMustBeUnroofed>Campfire must be unroofed.</RitualTargetCampfireMustBeUnroofed>
   <RitualTargetNoDrum>No nearby drum.</RitualTargetNoDrum>
   <RitualTargetNeedUnroofedCells>Need at least {0} unroofed cells nearby.</RitualTargetNeedUnroofedCells>
-  <RitualTargetCampfirePartyInfo>A lit campfire or ritual spot.</RitualTargetCampfirePartyInfo>
-  <RitualTargetCampfireSkylanternsInfo>A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area.</RitualTargetCampfireSkylanternsInfo>
-  <RitualTargetUnconnectedGaruanlenTreeInfo>An unconnected Gauranlen tree.</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetCampfirePartyInfo>a lit campfire</RitualTargetCampfirePartyInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>an unconnected Gauranlen tree</RitualTargetUnconnectedGaruanlenTreeInfo>
   <RitualTargetConnectedGauranlenTree>Already connected to {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
   <RitualTargetConnectionTornGauranlenTree>{TREE_definite} has had its connection torn recently. It can connect again in {1}.</RitualTargetConnectionTornGauranlenTree>
   <RitualTargeWoodInfo>You need {0} wood for each participant ({2} total). You have {1} wood.</RitualTargeWoodInfo>
+  <RitualTargetUnreachable>{0} must be able to reach ritual target.</RitualTargetUnreachable>
   <Accuse>Accuse</Accuse>
   <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified.</RitualScarificationWarnNonScarificationIdeo>
   <RitualScarificationWarnWimp>{PAWN_labelShort} is a wimp and will not like being scarified.</RitualScarificationWarnWimp>
-  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded.</RitualBlindingWarnNonBlindingIdeo>
   <RitualBlindingWarnWimp>{PAWN_labelShort} is a wimp and will not like being blinded.</RitualBlindingWarnWimp>
   <RitualScarificationTriggerExtraDesc>Scarification is expected for {IDEOMEMBERPLURAL} as long as there are fewer than {0} scarified {IDEOMEMBERPLURAL}.</RitualScarificationTriggerExtraDesc>
   <RitualBlindingTriggerExtraDesc>Blinding is expected for each current and joining {IDEOMEMBER} colonist.</RitualBlindingTriggerExtraDesc>
@@ -123,6 +121,7 @@
   <RitualOutcomeExtraDesc_Execution>All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level.</RitualOutcomeExtraDesc_Execution>
   
   <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>Can't award development points beyond {0}.</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
   <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>Due to the poor quality of the ritual, no development points were gained.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
   <RitualAttachedReward>Additional reward</RitualAttachedReward>
@@ -145,19 +144,14 @@
   
   <IdeoBuildingVariationOf>This building is a variation of</IdeoBuildingVariationOf>
   <IdeoBuildingMinimumExpectations>Minimum expectations</IdeoBuildingMinimumExpectations>
-  <Size>size</Size>
-  <Cost>cost</Cost>
   <Optional>optional</Optional>
   <Expectations>expectations</Expectations>
-  <RitualStartAnyTime>Can start any time</RitualStartAnyTime>
-  <RitualStartEvent>Can start after event</RitualStartEvent>
-  <RitualFocusObjects>Focus objects</RitualFocusObjects>
   <RitualRepeatPenaltyTip>Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now.</RitualRepeatPenaltyTip>
-  <RitualParticipatingRoles>Participating roles</RitualParticipatingRoles>
   <RitualOutcomeCompTip_RitualTargetDefsPart1>For best quality, start the {0} at {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <RitualOutcomeCompTip_RitualTargetDefsPart2>Currently, the {0} is being started at {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
   <RitualDevelopmentPoints>Development points</RitualDevelopmentPoints>
   <RitualDevelopmentPointsTip>Completing this ritual gives {0}-{1} development points depending on quality.</RitualDevelopmentPointsTip>
+  <RitualOutcomeBlockedNoPower>{0} needs to be powered.</RitualOutcomeBlockedNoPower>
 
   <ForSlaveUse>For slave use</ForSlaveUse>
   <Slave>Slave</Slave>
@@ -175,8 +169,8 @@
   <RoleEffectsLabel>Passive effects</RoleEffectsLabel>
   <RoleRequirementLabelSameIdeo>Must be {0}</RoleRequirementLabelSameIdeo>
   <RoleRequirementLabelSupremeGender>Must be {0}</RoleRequirementLabelSupremeGender>
+  <RoleRequirementCannotBe>Cannot be child</RoleRequirementCannotBe>
 
-  <RoleDisabledWorkLabel>Disabled work</RoleDisabledWorkLabel>
   <RoleGrantedAbilitiesLabel>Abilities</RoleGrantedAbilitiesLabel>
   <RoleRequiredApparelLabel>Required apparel</RoleRequiredApparelLabel>
   <RoleRitualsLabel>Has role in rituals</RoleRitualsLabel>
@@ -188,6 +182,7 @@
   <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} will not do {1} work.</AbilityDisabled_IncapableOfWorkTag>
   <AbilityDisabledNoAltarOrRitualsSpot>No reachable altar or ritual spot.</AbilityDisabledNoAltarOrRitualsSpot>
   <AbilityDisabledNoAltarIdeogramOrRitualsSpot>No reachable altar, ideogram or ritual spot.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
+  <AbilityDisabledNoRitualSpot>No reachable ritual spot.</AbilityDisabledNoRitualSpot>
 
   <TextMote_WillReduced>Will\n{0} to {1}</TextMote_WillReduced>
 
@@ -349,7 +344,8 @@
   <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a biosculpter pod due to lack of power.</BiosculpterNoPowerEjectedMessage>
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} completed healing cycle.</BiosculpterHealCompletedMessage>
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured.</BiosculpterHealCompletedWithCureMessage>
-  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days.</BiosculpterAgeReversalCompletedMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} completed {PAWN_possessive} age reversal cycle.</BiosculpterAgeReversalCompletedMessage>
+  <AgeReversalExpectationDeadline>{PAWN_pronoun} expects the next age reversal in {DEADLINE} days.</AgeReversalExpectationDeadline>
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}'s pleasure cycle is complete.</BiosculpterPleasureCompletedMessage>
   <BiosculpterCleanlinessSpeedFactor>Cleanliness speed factor</BiosculpterCleanlinessSpeedFactor>
   <BiosculpterBiotunedSpeedFactor>Biotuned speed factor</BiosculpterBiotunedSpeedFactor>
@@ -359,5 +355,9 @@
   <BiosculpterRequiresIngredients>Requires</BiosculpterRequiresIngredients>
   <OnCompletionOfCycle>On completion of the {CYCLE} cycle, the following will occur</OnCompletionOfCycle>
   <BiosculpterNoCoditionsToHeal>{PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you want to continue?</BiosculpterNoCoditionsToHeal>
+
+  <Basic>basic</Basic>
+  <ChangeStyleDesc>Change the style this will be built in. This is purely visual and has no gameplay impact.</ChangeStyleDesc>
+  <ChangeStyleDisabledNoCategories>No available styles.</ChangeStyleDisabledNoCategories>
 
 </LanguageData>

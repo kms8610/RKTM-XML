@@ -4,13 +4,16 @@
   <IdeoligionForbids>Ideoligion forbids</IdeoligionForbids>
   <OnlyMembersCanBuild>Only {0}s can build</OnlyMembersCanBuild>
   <CantStartRitualAlreadyInProgress>{0} is already in progress.</CantStartRitualAlreadyInProgress>
+  <CantJoinRitualInExtremeWeather>One or more participants can't join due to extreme temperature.</CantJoinRitualInExtremeWeather>
   <CantStartRitualTargetIsAlreadyInRitual>{0} is already participating in a ritual.</CantStartRitualTargetIsAlreadyInRitual>
   <CantStartRitualRoleNotAssigned>You must assign the role of {0} in order to start this ritual.</CantStartRitualRoleNotAssigned>
   <CantStartRitualNoConvertee>There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion.</CantStartRitualNoConvertee>
   <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} cannot be {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
   <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} must be a {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
   <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} is psychically deaf.</CantStartRitualSelectedPawnPsychicallyDeaf>
-  <CantStartNotEnoughSpaceDuel>Not enough space. There must be a clear circle of radius {MINRADIUS}.</CantStartNotEnoughSpaceDuel>
+  <CantStartNotEnoughSpaceDuelSpectators>Not enough space for spectators. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required.</CantStartNotEnoughSpaceDuelSpectators>
+  <CantStartNotEnoughSpaceDuelDuelists>Not enough space for duelists. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required.</CantStartNotEnoughSpaceDuelDuelists>
+  <CantStartNotEnoughSpaceDuelSpeaker>Not enough space for speaker. There must be a clear circle of radius {MINRADIUS}.</CantStartNotEnoughSpaceDuelSpeaker>
   <CantStartFuneralForSlave>{0_labelShort} is a slave. Slaves don't get funerals.</CantStartFuneralForSlave>
   <NoSlaveBed>Need a slave bed that is reachable, not reserved, and in safe temperature.</NoSlaveBed>
   <ReturnToSlaveBed>Return to slave bed</ReturnToSlaveBed>
@@ -35,7 +38,6 @@
   <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>non-tribal</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
   <RoleApparelRequirementIncompatibleAnyMemeRequired>requires any of these memes</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <BodyPartAlreadyCovered>cannot be worn with assigned apparel</BodyPartAlreadyCovered>
-  <AlreadyAssigned>already assigned</AlreadyAssigned>
   <NoteRoleApparelRequirementEffects>People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated.</NoteRoleApparelRequirementEffects>
   <NeuralSuperchargeNotReady>supercharge not ready</NeuralSuperchargeNotReady>
   <NeuralSuperchargeAlreadyGetting>already getting</NeuralSuperchargeAlreadyGetting>
