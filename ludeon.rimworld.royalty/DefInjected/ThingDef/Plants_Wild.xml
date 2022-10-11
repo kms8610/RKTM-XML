@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <ChoppedStump_Anima.label>chopped anima stump</ChoppedStump_Anima.label>
+  <ChoppedStump_Anima.description>A stump left behind after an anima tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</ChoppedStump_Anima.description>
+  
   <Plant_GrassAnima.label>anima grass</Plant_GrassAnima.label>
   <Plant_GrassAnima.description>A grass infused with luminous microorganisms. Tribal peoples find that anima grass grows around the base of an anima tree as they meditate. It seems to reflect some kind of strengthening of the tree's psychic power.\n\nOffworld scientists have tried to study the phenomenon, but the grass degenerates into normal plant matter when observed too closely.\n\nAnimals refuse eat anima grass. Tribal stories say this is done out of respect and fear.</Plant_GrassAnima.description>
   
@@ -8,4 +11,7 @@
   <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>About: Anima tree linking</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>
   <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>The anima tree now has {0} anima grass around it. This is enough for a tribal person to begin their first linking ritual!\n\nThe linking ritual gives a level of psylink and the ability to use psychic powers. Upgrading to a higher level requires 20 grass.\n\nThe anima grass requirements for linking rituals to upgrade psycasters are:\n\n{1}\n\nNote: Only those with the nature focus type can meditate to or link with anima trees. You can see a person's focus types by looking at their info card with the 'i' button.</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>
   <Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>The anima tree has died and emitted a disturbing psychic scream.</Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>
+  
+  <SmashedStump_Anima.label>smashed anima stump</SmashedStump_Anima.label>
+  <SmashedStump_Anima.description>The remnants of an anima tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</SmashedStump_Anima.description>
 </LanguageData>

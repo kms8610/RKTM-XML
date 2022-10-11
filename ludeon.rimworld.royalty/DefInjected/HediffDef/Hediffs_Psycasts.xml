@@ -6,9 +6,6 @@
   <Joyfuzz.label>joyfuzz</Joyfuzz.label>
   <Joyfuzz.description>Psychically-induced feelings of warmth, comfort, and acceptance. This improves mood, but the lack of negative stimulation induces a mild stupor and reduces consciousness.</Joyfuzz.description>
   
-  <PsychicAmplifier.label>psylink</PsychicAmplifier.label>
-  <PsychicAmplifier.description>An organic connection to a larger psychic field. This allows a person to use specific psychic powers that they have learned to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with psychically-connected lifeforms.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism.</PsychicAmplifier.description>
-  
   <PsychicAnesthesia.label>psychic anesthesia</PsychicAnesthesia.label>
   <PsychicAnesthesia.description>Psychically-induced pain insensitivity.</PsychicAnesthesia.description>
   
@@ -25,7 +22,8 @@
   <PsychicBurden.description>Psychically-induced difficulty in locomotion.</PsychicBurden.description>
   
   <PsychicEntropy.label>neural heat</PsychicEntropy.label>
-  <PsychicEntropy.description>Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage.</PsychicEntropy.description>
+  <PsychicEntropy.description>Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which builds up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage.</PsychicEntropy.description>
+  <PsychicEntropy.descriptionShort>Chaotic energy in the mind which builds up when using psychic powers. If pushed past normal limits, it may cause psychic breakdown and unconsciousness.</PsychicEntropy.descriptionShort>
   <PsychicEntropy.stages.safe.label>safe</PsychicEntropy.stages.safe.label>
   <PsychicEntropy.stages.overloaded.label>overloaded</PsychicEntropy.stages.overloaded.label>
   <PsychicEntropy.stages.very_overloaded.label>very overloaded</PsychicEntropy.stages.very_overloaded.label>
@@ -39,7 +37,7 @@
   <PsychicInvisibility.description>Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected.</PsychicInvisibility.description>
   
   <PsychicLove.label>psychic love</PsychicLove.label>
-  <PsychicLove.description>Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup.</PsychicLove.description>
+  <PsychicLove.description>Psychically-induced adoration. This increases an individual's opinion of someone else, and between adults increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup.</PsychicLove.description>
   <PsychicLove.targetPrefix>for</PsychicLove.targetPrefix>
   
   <PsychicVertigo.label>psychic vertigo</PsychicVertigo.label>

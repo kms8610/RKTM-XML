@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <AnimaTreeLinking.roles.0.label>linker</AnimaTreeLinking.roles.0.label>
+  <AnimaTreeLinking.roles.0.customChildDisallowMessage>Only adults can link with an anima tree.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
   <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
   <AnimaTreeLinking.spectatorFilter.description>Must have natural focus type.</AnimaTreeLinking.spectatorFilter.description>
   <AnimaTreeLinking.spectatorGerund>participate</AnimaTreeLinking.spectatorGerund>

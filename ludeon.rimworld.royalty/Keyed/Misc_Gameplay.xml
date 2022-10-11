@@ -29,7 +29,7 @@
   <!-- Meditation -->
   <Psyfocus>Psyfocus</Psyfocus>
   <PsyfocusLabelGizmo>Psyfocus</PsyfocusLabelGizmo>
-  <PsyfocusDesc>Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation</PsyfocusDesc>
+  <PsyfocusDesc>Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation</PsyfocusDesc>
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
   <PsyfocusLevelInfoPsycasts>Up to level {0} powers.</PsyfocusLevelInfoPsycasts>
   <PsyfocusLevelInfoFallRate>Psyfocus falls at {0} per day.</PsyfocusLevelInfoFallRate>
@@ -86,7 +86,7 @@
   <RitualTargetAnimaTreeNoPawnsToLink>No colonists that can link with anima tree right now.</RitualTargetAnimaTreeNoPawnsToLink>
   <RitualTargetAnimaTreeNoPawnsWithNatureFocus>No colonists with the natural meditation focus type.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <RitualTargetAnimaTreeNotEnoughAnimaGrass>Need at least {0} anima grass.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
-  <RitualTargetAnimaTreeInfo>An anima tree.</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeInfo>an anima tree</RitualTargetAnimaTreeInfo>
   <RitualTargetAnimaTreeMustBeCapableOfNature>Must be a colonist with the natural meditation focus type who is below maximum psylink level.</RitualTargetAnimaTreeMustBeCapableOfNature>
   <RitualTargetAnimaTreeMustBePsychicallySensitive>Must not be psychically deaf.</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
@@ -94,5 +94,7 @@
   <ShuttleRequiredItemsNotSatisfied>Not all required cargo is loaded yet!</ShuttleRequiredItemsNotSatisfied>
 
   <AbilityNoEntropyToDump>no heat to dump.</AbilityNoEntropyToDump>
+
+  <LevelNum>level {0}</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>

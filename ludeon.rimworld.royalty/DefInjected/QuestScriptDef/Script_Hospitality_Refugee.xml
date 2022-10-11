@@ -45,19 +45,20 @@
     <li>mutinyLetterText->[lodgersSingularOrPluralDef] [whoAskedToStay] [areIs] turning against you!\n\nIt seems [lodgersPronoun] had this treachery planned all along.</li>
     <li>areIs(lodgerCount==1)->is</li>
     <li>areIs(lodgerCount>=2)->are</li>
-    <li>betrayalOfferLetterLabel->Betrayal offer: [factionOpponent_nameDef]</li>
-    <li>betrayalOffserLetterText->[factionOpponent_nameDef], a [factionOpponent_faction_pawnSingular] of [factionOpponent_faction_name], has learned that [asker_nameDef] [otherLodgers] [areIs] being hosted at [map_definite]. [factionOpponent_pronoun] is enemies with [asker_nameDef] and wants to see [asker_objective] dead.\n\n[factionOpponent_pronoun] will send you the following reward if you kill all members of [faction_name] (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
-    <li>betrayalOfferRewardLetterLabel->Betrayal reward: [factionOpponent_nameDef]</li>
-    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] promised you a reward if you killed [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] has heard news this has been done and is sending you the following via drop pod (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
-    <li>betrayalOfferFailedLetterLabel->Betrayal reward retracted</li>
-    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef] has learned that one of the members of the [faction_name] is no longer at [map_definite]. [factionOpponent_nameDef] wanted all members of the [faction_name] to die and has therefore retracted [factionOpponent_possessive] offer.</li>
-    <li>otherLodgers(lodgerCount==1)-></li>
-    <li>otherLodgers(lodgerCount==2)->and another [lodgersLabel]</li>
-    <li>otherLodgers(lodgerCount>=3)->and several [lodgersLabelPlural]</li>
-    <li>otherMembers(lodgerCount==1)-></li>
-    <li>otherMembers(lodgerCount>=2)-> and all other members of the [faction_name]</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] leaving</li>
     <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} thanks you for allowing {FACTION_leaderObjective} to stay at [map_definite] for these [questDurationTicks_duration]. {FACTION_leaderPronoun} is now moving on with {FACTION_leaderPossessive} people.\n\n{FACTION_leaderNameDef} says {FACTION_leaderPronoun} won't forget what you've done.</li>
+    <!--(추가한 항목 11개)-->
+    <li>betrayalOfferRewardLetterLabel->[factionOpponent_nameDef]의 보상</li>
+    <li>betrayalOfferRewardLetterText->의뢰가 성공적으로 끝났기 때문에 [factionOpponent_pronoun](은)는 약속했던 보상을 보냅니다.\n\n[betrayalRewards] (총 가치 [betrayalRewardMarketValue_money])\n\n[questOver]</li>
+    <li>betrayalOfferFailedLetterLabel->보상 철회</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef](은)는 [faction_name]의 구성원 중 한 명이 [map_definite]를 빠져나간 것을 알게 되었습니다. [faction_name]의 구성원들을 모두 죽이지 못했기 때문에 [factionOpponent_nameDef](은)는 보상을 철회했습니다.</li>
+    <li>otherLodgers(lodgerCount==1)->(이)가</li>
+    <li>otherLodgers(lodgerCount==2)->(와)과 다른 [lodgersLabel](이)가</li>
+    <li>otherLodgers(lodgerCount>=3)->(와)과 몇몇 [lodgersLabelPlural](이)가</li>
+    <li>otherMembers(lodgerCount==1)->(을)를</li>
+    <li>otherMembers(lodgerCount>=2)->(와)과 [faction_name]의 다른 구성원 모두를</li>
+    <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] 떠남</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}(이)가 [questDurationTicks_duration] 동안 [map_definite]에 머무를 수 있게 허락해줘서 고마워합니다. {FACTION_leaderPronoun}(와)과 {FACTION_leaderPossessive} 사람들이 함께 이동 중입니다.\n\n{FACTION_leaderNameDef}(은)는 당신이 한 일을 잊지 않을거라고 합니다.</li>
   </Hospitality_Refugee.questContentRules.rulesStrings>
   <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
     <li>lodgersLabel->refugee</li>
@@ -79,7 +80,11 @@
     <li>questDescription->[approachInfo] [claimInfo] [asker_nameDef] begs you for permission to stay at [map_definite] for [questDurationTicks_duration] so [lodgersPronoun] can rest and regroup.\n\nIn return, [lodgersPronoun] [offer] to work and fight for free during that time.\n\n[joinInfo] [lodgersPronoun] may also reward you later for helping [lodgersObjective] - but there is no way to know [lodgersPossessive] true intentions.\n\n[travelerInfo] not part of any faction. If you wish, you can choose to kill, arrest, sell, or harvest [lodgersObjective], without diplomatic consequences.</li>
     <li>approachInfo(lodgerCount==1)->A desperate [faction_pawnSingular] named [asker_nameDef] is approaching.</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef] and another desperate [faction_pawnSingular] are approaching.</li>
+    <li>approachInfo(lodgerCount==2,childCount==1,priority=1)->[asker_nameDef] is approaching with a child in tow.</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount] desperate [faction_pawnsPlural] are approaching. Their leader is called [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,childCount==1,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including a child are approaching. Their leader is called [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,childCount>=2,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including some children are approaching. Their leader is called [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,allButOneChildren==true,priority=2)->A group of [lodgerCount] desperate [faction_pawnsPlural] are approaching consisting of [asker_nameDef] and [lodgersCountMinusOne] children [asker_pronoun] has taken under [asker_possessive] wing.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have lost [asker_possessive] home in a recent attack.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to woken up from cryptosleep all alone and friendless.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] claims to have been chased from [asker_possessive] home by a vengeful ex-lover.</li>
@@ -91,10 +96,7 @@
     <li>claimInfo(lodgerCount>=2)->They say a great flashstorm burned down their home.</li>
     <li>claimInfo(lodgerCount>=2)->They say their caravan was ambushed and everything was taken.</li>
     <li>claimInfo(lodgerCount>=2)->They say they were banished from their town due to moral disagreements.</li>
-    <li>joinInfo(lodgerCount==1)->If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</li>
-    <li>joinInfo(lodgerCount>=2)->If you make them happy, some of them may offer to join you.</li>
-    <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
-    <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
+    <!--(항목 4개 미사용)-->
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>
   <Hospitality_Refugee.questNameRules.rulesStrings>
     <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
@@ -128,6 +130,40 @@
     <li>lodgerPlural->nomads</li>
     <li>lodgerPlural->vagabonds</li>
   </Hospitality_Refugee.questNameRules.rulesStrings>
+  
+  <RefugeeBetrayal.questContentRules.rulesStrings>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>betrayalOfferRewardLetterLabel->Betrayal reward: [factionOpponent_nameDef]</li>
+    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] promised you a reward if you killed [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] has heard news this has been done and is sending you the following via drop pod (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>betrayalOfferFailedLetterLabel->Betrayal reward retracted</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef] has learned that one of the members of the [faction_name] is no longer at [map_definite]. [factionOpponent_nameDef] wanted all members of the [faction_name] to die and has therefore retracted [factionOpponent_possessive] offer.</li>
+    <li>otherLodgers(lodgerCount==1)-></li>
+    <li>otherLodgers(lodgerCount==2)->and another [lodgersLabel]</li>
+    <li>otherLodgers(lodgerCount>=3)->and several [lodgersLabelPlural]</li>
+    <li>otherMembers(lodgerCount==1)-></li>
+    <li>otherMembers(lodgerCount>=2)-> and all other members of the [faction_name]</li>
+    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+  </RefugeeBetrayal.questContentRules.rulesStrings>
+  <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->refugee</li>
+    <li>lodgersLabelPlural->refugees</li>
+  </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+  <RefugeeBetrayal.questDescriptionRules.rulesStrings>
+    <li>questDescription->[factionOpponent_nameDef], a [factionOpponent_faction_pawnSingular] of [factionOpponent_faction_name], has learned that [asker_nameDef] [otherLodgers] [areIs] being hosted at [map_definite]. [factionOpponent_pronoun] is enemies with [asker_nameDef] and wants to see [asker_objective] dead.\n\n[factionOpponent_pronoun] will send you the following reward if you kill all members of [faction_name] (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>otherLodgers(lodgerCount==1)-></li>
+    <li>otherLodgers(lodgerCount==2)->and another [lodgersLabel]</li>
+    <li>otherLodgers(lodgerCount>=3)->and several [lodgersLabelPlural]</li>
+    <li>otherMembers(lodgerCount==1)-></li>
+    <li>otherMembers(lodgerCount>=2)-> and all other members of the [faction_name]</li>
+    <li>areIs(lodgerCount==1)->is</li>
+    <li>areIs(lodgerCount>=2)->are</li>
+  </RefugeeBetrayal.questDescriptionRules.rulesStrings>
+  <RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>questName->Betrayal offer: [factionOpponent_nameDef]</li>
+  </RefugeeBetrayal.questNameRules.rulesStrings>
   
   <RefugeeDelayedReward.questContentRules.rulesStrings>
     <li>rewardLetterLabel->Hospitality reward</li>

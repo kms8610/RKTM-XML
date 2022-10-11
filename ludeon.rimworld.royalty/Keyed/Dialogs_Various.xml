@@ -31,6 +31,11 @@
   <AbilityTargetPsychicallyDeaf>Target is psychically deaf.</AbilityTargetPsychicallyDeaf>
   <PsycastIsIllegal>This is illegal for {PAWN_labelShort}. Requires {TITLE} title.</PsycastIsIllegal>
 
+  <!-- Skip -->
+  <CannotSkipTarget>Cannot skip {PAWN_labelShort}</CannotSkipTarget>
+  <CannotSkipTargetTooLarge>Too large</CannotSkipTargetTooLarge>
+  <CannotSkipTargetPsychicResistant>Psychic resistance</CannotSkipTargetPsychicResistant>
+
   <!-- Warning -->
   <QuestGivesRoyalFavor>This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}.</QuestGivesRoyalFavor>
   <RoyalIncapableOfSocial>{PAWN_labelShort} is incapable of social tasks. Those with royal titles have great need of social skills, so if {PAWN_labelShort} gains a title, {PAWN_pronoun} may have a difficult time. Another colonist might be more socially-adept.</RoyalIncapableOfSocial>

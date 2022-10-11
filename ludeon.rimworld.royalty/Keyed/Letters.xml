@@ -93,12 +93,6 @@
   <!-- Abilities -->
   <LetterPsychicInspiration>Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration!</LetterPsychicInspiration>
 
-  <!-- Join Offer -->
-  <LetterJoinOfferLabel>Join offer: {PAWN_nameDef}</LetterJoinOfferLabel>
-  <LetterJoinOfferTitle>{PAWN_nameDef} wishes to join your faction.</LetterJoinOfferTitle>
-  <LetterJoinOfferText>{PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently.</LetterJoinOfferText>
-  <LetterJoinOfferAccept>Accept</LetterJoinOfferAccept>
-
   <LetterLabelBestowingCeremonyExpired>Bestowing ceremony expired</LetterLabelBestowingCeremonyExpired>
   <LetterTextBestowingCeremonyExpired>{TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled.</LetterTextBestowingCeremonyExpired>
 
