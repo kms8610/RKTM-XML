@@ -14,7 +14,6 @@
     <li>colonists(colonistsToLendCount>1)->colonists</li>
     <li>minAgeOrOlder(minAge==0)-></li>
     <li>minAgeOrOlder(minAge>0)-> [minAge] years old or older</li>
-    <!--(항목 2개 미사용)-->
   </PawnLend.questDescriptionRules.rulesStrings>
   <PawnLend.questNameRules.rulesStrings>
     <li>questName->[worker] Outsourcing</li>
