@@ -3,17 +3,11 @@
 
   <MainPageCredit>A story generator by Tynan Sylvester</MainPageCredit>
 
-  <Credits_Developers>Developers</Credits_Developers>
+  <Credits_Developers>Engineering</Credits_Developers>
   <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
-  <Credit_Code>Code</Credit_Code>
   <Credit_GameArt>Art</Credit_GameArt>
   <Credit_MenuArt>Menu art</Credit_MenuArt>
-  <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
-  
-  <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
-
-  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
-
+  <Credits_AdditionalDevelopment>Additional engineering</Credits_AdditionalDevelopment>
   <Credits_TitleCommunity>Community volunteers</Credits_TitleCommunity>
   <Credits_TitleTester>Community testers</Credits_TitleTester>
   <Credits_TitleMods>Mods</Credits_TitleMods>
@@ -22,13 +16,10 @@
   <Credit_Moderator>Moderator</Credit_Moderator>
   <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
   <Credit_TestLead>Test lead</Credit_TestLead>
-
   <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
-  <Credit_Writer>Writer</Credit_Writer>
-  <Credit_Translator>Translator</Credit_Translator>
-  <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
-  <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
-
   <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
 
 </LanguageData>

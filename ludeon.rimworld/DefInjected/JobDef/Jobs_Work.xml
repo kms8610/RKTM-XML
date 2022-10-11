@@ -60,6 +60,10 @@
   
   <OperateScanner.reportString>scanning at TargetA.</OperateScanner.reportString>
   
+  <PaintBuilding.reportString>painting TargetA.</PaintBuilding.reportString>
+  
+  <PaintFloor.reportString>painting TargetA.</PaintFloor.reportString>
+  
   <PlaceNoCostFrame.reportString>building TargetA.</PlaceNoCostFrame.reportString>
   
   <PrisonerAttemptRecruit.reportString>attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
@@ -71,6 +75,10 @@
   <ReleasePrisoner.reportString>releasing TargetA.</ReleasePrisoner.reportString>
   
   <RemoveFloor.reportString>removing floor.</RemoveFloor.reportString>
+  
+  <RemovePaintBuilding.reportString>removing paint from TargetA.</RemovePaintBuilding.reportString>
+  
+  <RemovePaintFloor.reportString>removing paint from TargetA.</RemovePaintFloor.reportString>
   
   <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
   
@@ -100,7 +108,7 @@
   
   <Steal.reportString>stealing TargetA.</Steal.reportString>
   
-  <StudyThing.reportString>Studying TargetA.</StudyThing.reportString>
+  <StudyBuilding.reportString>Studying TargetA.</StudyBuilding.reportString>
   
   <TakeDownedPawnToBedDrafted.reportString>taking TargetA to bed.</TakeDownedPawnToBedDrafted.reportString>
   

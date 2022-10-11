@@ -2,10 +2,12 @@
 <LanguageData>
   <CookMealFine.label>cook fine meal</CookMealFine.label>
   <CookMealFine.description>Cook a somewhat complex meal from a combination of meat and plant ingredients.</CookMealFine.description>
+  <CookMealFine.ingredients.0.filter.customSummary>protein</CookMealFine.ingredients.0.filter.customSummary>
   <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
   
   <CookMealFineBulk.label>cook fine meal x4</CookMealFineBulk.label>
   <CookMealFineBulk.description>Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience.</CookMealFineBulk.description>
+  <CookMealFineBulk.ingredients.0.filter.customSummary>protein</CookMealFineBulk.ingredients.0.filter.customSummary>
   <CookMealFineBulk.jobString>Cooking 4 fine meals.</CookMealFineBulk.jobString>
   
   <CookMealFineBulk_Meat.label>cook carnivore fine meal x4</CookMealFineBulk_Meat.label>
@@ -14,6 +16,7 @@
   
   <CookMealFineBulk_Veg.label>cook vegetarian fine meal x4</CookMealFineBulk_Veg.label>
   <CookMealFineBulk_Veg.description>Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies.</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>vegetarian ingredients</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
   <CookMealFineBulk_Veg.jobString>Cooking 4 vegetarian fine meals.</CookMealFineBulk_Veg.jobString>
   
   <CookMealFine_Meat.label>cook carnivore fine meal</CookMealFine_Meat.label>
@@ -22,14 +25,17 @@
   
   <CookMealFine_Veg.label>cook vegetarian fine meal</CookMealFine_Veg.label>
   <CookMealFine_Veg.description>Cook a somewhat complex meal from plant ingredients.</CookMealFine_Veg.description>
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>vegetarian ingredients</CookMealFine_Veg.ingredients.0.filter.customSummary>
   <CookMealFine_Veg.jobString>Cooking vegetarian fine meal.</CookMealFine_Veg.jobString>
   
   <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
   <CookMealLavish.description>Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience.</CookMealLavish.description>
+  <CookMealLavish.ingredients.0.filter.customSummary>protein</CookMealLavish.ingredients.0.filter.customSummary>
   <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
   
   <CookMealLavishBulk.label>cook lavish meal x4</CookMealLavishBulk.label>
   <CookMealLavishBulk.description>Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience.</CookMealLavishBulk.description>
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>protein</CookMealLavishBulk.ingredients.0.filter.customSummary>
   <CookMealLavishBulk.jobString>Cooking 4 lavish meals.</CookMealLavishBulk.jobString>
   
   <CookMealLavishBulk_Meat.label>cook carnivore lavish meal x4</CookMealLavishBulk_Meat.label>
@@ -38,6 +44,7 @@
   
   <CookMealLavishBulk_Veg.label>cook vegetarian lavish meal x4</CookMealLavishBulk_Veg.label>
   <CookMealLavishBulk_Veg.description>Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies.</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>vegetarian ingredients</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
   <CookMealLavishBulk_Veg.jobString>Cooking 4 vegetarian lavish meals.</CookMealLavishBulk_Veg.jobString>
   
   <CookMealLavish_Meat.label>cook carnivore lavish meal</CookMealLavish_Meat.label>
@@ -46,6 +53,7 @@
   
   <CookMealLavish_Veg.label>cook vegetarian lavish meal</CookMealLavish_Veg.label>
   <CookMealLavish_Veg.description>Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies.</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>vegetarian ingredients</CookMealLavish_Veg.ingredients.0.filter.customSummary>
   <CookMealLavish_Veg.jobString>Cooking vegetarian lavish meal.</CookMealLavish_Veg.jobString>
   
   <CookMealSimple.label>cook simple meal</CookMealSimple.label>
@@ -58,9 +66,11 @@
   
   <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
   <CookMealSurvival.description>Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvival.description>
+  <CookMealSurvival.ingredients.0.filter.customSummary>protein</CookMealSurvival.ingredients.0.filter.customSummary>
   <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
   
   <CookMealSurvivalBulk.label>cook packaged survival meal x4</CookMealSurvivalBulk.label>
   <CookMealSurvivalBulk.description>Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>protein</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
   <CookMealSurvivalBulk.jobString>Cooking 4 survival meals.</CookMealSurvivalBulk.jobString>
 </LanguageData>

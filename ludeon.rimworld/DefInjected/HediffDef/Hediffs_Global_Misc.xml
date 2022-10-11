@@ -22,8 +22,12 @@
   <CatatonicBreakdown.description>A state of mental shock which leads to a total inability to function. The victim collapses, effectively unconscious.</CatatonicBreakdown.description>
   <CatatonicBreakdown.labelNoun>a catatonic breakdown</CatatonicBreakdown.labelNoun>
   
+  <CoveredInFirefoam.label>covered in firefoam</CoveredInFirefoam.label>
+  <CoveredInFirefoam.description>Covered in a fire-retardant foam.</CoveredInFirefoam.description>
+  
   <CryptosleepSickness.label>cryptosleep sickness</CryptosleepSickness.label>
   <CryptosleepSickness.description>After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind.</CryptosleepSickness.description>
+  <CryptosleepSickness.descriptionShort>After-effects of using a cryptosleep pod including dizziness, nausea, and vomiting.</CryptosleepSickness.descriptionShort>
   
   <DrugOverdose.label>drug overdose</DrugOverdose.label>
   <DrugOverdose.description>Generalized toxic effects due to over-concentration of drugs in the bloodstream.</DrugOverdose.description>
@@ -70,10 +74,10 @@
   <PsychicShock.labelNoun>a psychic shock</PsychicShock.labelNoun>
   
   <ResurrectionSickness.label>resurrection sickness</ResurrectionSickness.label>
-  <ResurrectionSickness.description>After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves.</ResurrectionSickness.description>
+  <ResurrectionSickness.description>After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves.</ResurrectionSickness.description>
   
   <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
-  <ToxicBuildup.description>Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten.</ToxicBuildup.description>
+  <ToxicBuildup.description>Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance.</ToxicBuildup.description>
   <ToxicBuildup.stages.initial-0.label>initial</ToxicBuildup.stages.initial-0.label>
   <ToxicBuildup.stages.initial-1.label>initial</ToxicBuildup.stages.initial-1.label>
   <ToxicBuildup.stages.minor.label>minor</ToxicBuildup.stages.minor.label>

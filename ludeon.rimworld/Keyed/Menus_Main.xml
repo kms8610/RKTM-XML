@@ -16,6 +16,7 @@
   <CleanupTranslationFiles>Cleanup translation files</CleanupTranslationFiles>
   <TranslationFilesTKeyUpdate>Update translations files (TKey's)</TranslationFilesTKeyUpdate>
   <CleaningTranslationFiles>Cleaning translation files</CleaningTranslationFiles>
+  <DevQuickTest>Dev quicktest</DevQuickTest>
   <Credits>Credits</Credits>
   <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
@@ -43,7 +44,7 @@
   <ReviewWorld>Review world</ReviewWorld>
   <WorldGenerate>Generate</WorldGenerate>
   <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
+  <ResetFactions>Reset factions</ResetFactions>
   <PlanetCoverage>Globe coverage</PlanetCoverage>
   <PlanetRainfall>Overall rainfall</PlanetRainfall>
   <PlanetTemperature>Overall temperature</PlanetTemperature>
@@ -84,11 +85,36 @@
   <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
   <ResolveModOrder>Auto-sort mods</ResolveModOrder>
+  <SaveModChanges>Save and apply changes</SaveModChanges>
+  <DiscardModChanges>Mod changes have not been saved. Are you sure you want to continue?</DiscardModChanges>
   <ModReorderConflict_MustLoadAfter>Cannot move {0}: It must be loaded after {1}.</ModReorderConflict_MustLoadAfter>
   <ModReorderConflict_MustLoadBefore>Cannot move {0}: It must be loaded before {1}.</ModReorderConflict_MustLoadBefore>
   <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Are you sure you want to unsubscribe?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribeFrom>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribeFrom>
+  <ConfirmUnsubscribeFromMultiple>Are you sure you want to unsubscribe from:\n\n{0}</ConfirmUnsubscribeFromMultiple>
   <Author>Author</Author>
+  <Enabled>Enabled</Enabled>
+  <Disabled>Disabled</Disabled>
+  <Enable>Enable</Enable>
+  <Disable>Disable</Disable>
+  <GetMods>Get mods from...</GetMods>
+  <UnsubscribeMultiple>Unsubscribe from...</UnsubscribeMultiple>
+  <SaveLoadList>Save / load list...</SaveLoadList>
+  <SaveModList>Save mod list</SaveModList>
+  <LoadModList>Load mod list</LoadModList>
+  <AddedModsList>Added mods</AddedModsList>
+  <MissingModsList>Missing mods</MissingModsList>
+  <SharedModsList>Shared mods</SharedModsList>
+  <ModWebsite>Website</ModWebsite>
+  <ModFolder>Open folder</ModFolder>
+  <ModOptions>Mod options</ModOptions>
+  <FromWorkshop>Workshop</FromWorkshop>
+  <FromForum>Forum</FromForum>
+  <MoreActions>Advanced...</MoreActions>
+  <AllSelectedMods>All selected mods</AllSelectedMods>
+  <AllDisabledMods>All disabled mods</AllDisabledMods>
+  <AllIncompatibleMods>All incompatible mods</AllIncompatibleMods>
   <WorkshopPage>Workshop page</WorkshopPage>
   <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
   <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
@@ -96,11 +122,13 @@
   <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
   <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
   <Downloading>Downloading</Downloading>
+  <WorkshopId>Workshop ID</WorkshopId>
   <ModDisplayFulfilledRequirements>Display fulfilled requirements</ModDisplayFulfilledRequirements>
   <ModClickToSelect>Click to select.</ModClickToSelect>
   <ModClickToGoToWebsite>Click to go to website.</ModClickToGoToWebsite>
   <Source>Source</Source>
-  <ModTargetVersion>For game version(s)</ModTargetVersion>
+  <ModTargetVersion>Game versions</ModTargetVersion>
+  <ModVersion>Mod version</ModVersion>
   <ModPackageId>ID</ModPackageId>
   <ModMustLoadBefore>This must be loaded before: {0}.</ModMustLoadBefore>
   <ModMustLoadAfter>This must be loaded after: {0}.</ModMustLoadAfter>
@@ -110,7 +138,7 @@
   <ModOrderingWarning>This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually.</ModOrderingWarning>
   <ModWithSameIdAlreadyActive>Another active mod uses the same ID: {0}.</ModWithSameIdAlreadyActive>
   <ModCyclicDependency>There is a cyclic mod dependency starting with {0}.</ModCyclicDependency>
-  <ModUnsatisfiedDependency>This requires following mods to work: {0}.</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>This requires the following mods to work: {0}.</ModUnsatisfiedDependency>
   <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
   <ModNotMadeForThisVersionShort>This mod is not made for this version of RimWorld.</ModNotMadeForThisVersionShort>
   <ModNotMadeForThisVersion_Newer>This mod was made for a newer version of RimWorld than this, and will probably not work correctly.</ModNotMadeForThisVersion_Newer>
@@ -147,6 +175,7 @@
   <TagAsTranslation>Tag as translation</TagAsTranslation>
   <TooMany>Too many (max {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <ScenarioChangedSavePrompt>This scenario has been edited.\n\nDo you want to save it before proceeding?</ScenarioChangedSavePrompt>
   
   <!-- Select storyteller -->
   <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
@@ -223,6 +252,8 @@
   <Difficulty_PeacefulTemples_Inverted_Info>Ancient structures may contain dangerous threats.</Difficulty_PeacefulTemples_Inverted_Info>
   <Difficulty_AllowCaveHives_Label>Map generation natural hives</Difficulty_AllowCaveHives_Label>
   <Difficulty_AllowCaveHives_Info>Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_UnwaveringPrisoners_Label>Add unwavering prisoners</Difficulty_UnwaveringPrisoners_Label>
+  <Difficulty_UnwaveringPrisoners_Info>This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier.</Difficulty_UnwaveringPrisoners_Info>
 
   <DifficultyPlayerToolsSection>Player tools</DifficultyPlayerToolsSection>
   <Difficulty_AllowTraps_Label>Player can build traps</Difficulty_AllowTraps_Label>
@@ -246,7 +277,7 @@
 
   <DifficultyIdeologySection>Ideology</DifficultyIdeologySection>
   <Difficulty_LowPopConversionBoost_Label>Low pop conversion boost</Difficulty_LowPopConversionBoost_Label>
-  <Difficulty_LowPopConversionBoost_Info>With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect.</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect.</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <SelectStartingSite>Select starting site</SelectStartingSite>
@@ -266,6 +297,7 @@
   <River>River</River>
   <Elevation>Elevation</Elevation>
   <Fertility>Fertility</Fertility>
+  <FertilityLower>fertility</FertilityLower>
   <AvgTemp>Average temperature</AvgTemp>
   <Rainfall>Rainfall</Rainfall>
   <SpecialFeatures>Special features</SpecialFeatures>
@@ -283,6 +315,8 @@
   <PerYear>per year</PerYear>
   <Forageability>Forageability</Forageability>
   <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <TemperatureLower>temperature</TemperatureLower>
+  <LightLower>light</LightLower>
 
   <!-- Character chooser -->
   <CreateCharacters>Create characters</CreateCharacters>
@@ -296,13 +330,14 @@
   <Backstory>Backstory</Backstory>
   <IncapableOf>Incapable of</IncapableOf>
   <Abilities>Abilities</Abilities>
-  <IncapableOfTooltipBackstory>Caused by backstory: {0}</IncapableOfTooltipBackstory>
-  <IncapableOfTooltipTitle>Caused by title: {0}</IncapableOfTooltipTitle>
-  <IncapableOfTooltipTrait>Caused by trait: {0}</IncapableOfTooltipTrait>
-  <IncapableOfTooltipHediff>Caused by: {0}</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>Caused by</IncapableOfTooltipHediff>
   <IncapableOfTooltipWorkTypes>Disabled work types:</IncapableOfTooltipWorkTypes>
-  <IncapableOfTooltipQuest>Caused by quest status: {0}</IncapableOfTooltipQuest>
-  <IncapableOfTooltipRole>Caused by role: {0}</IncapableOfTooltipRole>
+  <IncapableOfTooltipBackstory>Caused by backstory</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipTitle>Caused by title</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTrait>Caused by trait</IncapableOfTooltipTrait>
+  <IncapableOfTooltipQuest>Caused by quest status</IncapableOfTooltipQuest>
+  <IncapableOfTooltipRole>Caused by role</IncapableOfTooltipRole>
+  <IncapableOfTooltipGene>Caused by gene</IncapableOfTooltipGene>
   <Traits>Traits</Traits>
   <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
   <Skills>Skills</Skills>
@@ -318,6 +353,7 @@
   <Pain>Pain</Pain>
   <Health>Health</Health>
   <Relations>Relations</Relations>
+  <Possessions>Possessions</Possessions>
   <TeamSkills>Team skills</TeamSkills>
   <StartingPawnsSelected>Selected</StartingPawnsSelected>
   <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
@@ -342,15 +378,14 @@
   <GeneratingMap>Generating map</GeneratingMap>
   <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 
-  <ClickForMoreInfo>Click for more info</ClickForMoreInfo>
+  <ClickForMoreInfo>Click for more info.</ClickForMoreInfo>
   <NoMoreInfoAvailable>No more information is available.</NoMoreInfoAvailable>
 
   <!-- Factions -->
   <Factions>Factions</Factions>
   <RecommendedFactionCount>Gameplay problems can occur with more than {0} factions.</RecommendedFactionCount>
-  <TotalFactionsAllowed>Maximum {0} visible factions allowed.</TotalFactionsAllowed>
-  <MaxFactionsForType>There can be no more than {0} {1}.</MaxFactionsForType>
-  <ResetFactionsToDefault>Restore defaults</ResetFactionsToDefault>
+  <TotalFactionsAllowed>max {0} visible factions allowed</TotalFactionsAllowed>
+  <MaxFactionsForType>max {0}</MaxFactionsForType>
   <FactionSelectionDesc>Select the factions in the world. You can select up to {0} factions total.</FactionSelectionDesc>
   <FactionDisabledContentWarning>Disabling {0} means less quest variety and other reduced content.</FactionDisabledContentWarning>
   <InsectsDisabledContentWarning>Disabling {0} means less spontaneous threat variety.</InsectsDisabledContentWarning>

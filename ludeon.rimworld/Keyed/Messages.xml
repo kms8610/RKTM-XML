@@ -67,7 +67,10 @@
   <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
   <MessageMustDesignateHuntable>Must designate huntable animals.</MessageMustDesignateHuntable>
   <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
-  <MessageMustDesignateClaimable>Must designate abandoned artificial structures.</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>Must designate abandoned claimable structures or items.</MessageMustDesignateClaimable>
+  <MessageMustDesignatePaintableBuildings>Must designate paintable buildings not already painted {0_label}.</MessageMustDesignatePaintableBuildings>
+  <MessageMustDesignatePaintableFloors>Must designate paintable floors which are not already painted {0_label}.</MessageMustDesignatePaintableFloors>
+  <MessageMustDesignatePainted>Must designate painted buildings or floors.</MessageMustDesignatePainted>
   <MessageMustDesignateDeconstructibleMechCluster>You must defeat a mech cluster before you can deconstruct it.</MessageMustDesignateDeconstructibleMechCluster>
   <MessageMustDesignateSmoothableSurface>Must designate rough stone surfaces.</MessageMustDesignateSmoothableSurface>
   <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
@@ -77,12 +80,14 @@
   <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
   <MessageMustDesignateForbiddable>Must designate unforbidden items.</MessageMustDesignateForbiddable>
   <MessageMustDesignateUnforbiddable>Must designate forbidden items.</MessageMustDesignateUnforbiddable>
+  <MessageCannotClaimWhenThreatsAreNear>Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby.</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotAdoptWhileThreatsAreNear>Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby.</MessageCannotAdoptWhileThreatsAreNear>
 
   <MessageRefusedArrest>{1_labelShort} has refused to be arrested!</MessageRefusedArrest>
   
   <MessageNoMedicalBeds>There are no medical beds available.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
-  <MessageTooLowMedCare>Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}".</MessageTooLowMedCare>
+  <MessageWarningNoMedicineForRestriction>Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction.</MessageWarningNoMedicineForRestriction>
   
   <PawnDiedBecauseOf>{PAWN_labelShort} has died. Cause: {1}.</PawnDiedBecauseOf>
   <PawnDied>{1_labelShort} has died.</PawnDied>
@@ -406,10 +411,12 @@
   <MessageRitualRoleMustBePrisoner>{0} must be a prisoner.</MessageRitualRoleMustBePrisoner>
   <MessageRitualRoleMustBeAnimal>{0} must be an animal.</MessageRitualRoleMustBeAnimal>
   <MessageRitualRoleMustBeHumanlike>{0} must be a human.</MessageRitualRoleMustBeHumanlike>
+  <MessageRitualRoleCannotBeABaby>{0} cannot be a baby.</MessageRitualRoleCannotBeABaby>
   <MessageRitualNoRolesAvailable>No roles available for {0_labelShort}.</MessageRitualNoRolesAvailable>
   <MessageRitualNotOfPlayerIdeo>{0_labelShort} is not a member of any colony ideoligion.</MessageRitualNotOfPlayerIdeo>
   <MessageRitualRoleMustHaveEyes>{0} must have eyes</MessageRitualRoleMustHaveEyes>
   <MessageRitualRoleMustRequireScarification>{0_labelShort} does not require further scarification.</MessageRitualRoleMustRequireScarification>
+  <MessageRitualRoleMustRequireBlinding>{0_labelShort} does not require blinding.</MessageRitualRoleMustRequireBlinding>
   <MessageRitualRoleMustBePrisonerOrSlave>{0} must be a prisoner or slave.</MessageRitualRoleMustBePrisonerOrSlave>
   <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} must be capable of fighting.</MessageRitualRoleMustBeCapableOfFighting>
   <MessageRitualRoleCannotReplaceRequiredPawn>this role cannot be played by someone else.</MessageRitualRoleCannotReplaceRequiredPawn>
@@ -421,12 +428,16 @@
   <MessageRitualRoleMustHaveIdeoToSpectate>only {0} can {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
   <MessageRitualRoleMustHaveIdeoToDoRole>only {0} can fill the role of {1}.</MessageRitualRoleMustHaveIdeoToDoRole>
   <MessageRitualRoleMustBeColonist>must be colonist for the {0} role.</MessageRitualRoleMustBeColonist>
+  <MessageRitualWontAttendExtremeTemperature>{0_labelShort} won't attend due to extreme temperature in the ritual area.</MessageRitualWontAttendExtremeTemperature>
+  <MessageRitualRoleMustBeFreeColonist>must be colonist and not enslaved for the {0} role.</MessageRitualRoleMustBeFreeColonist>
   <MessageRitualRoleMustHaveLargerBodySize>{0} must have an animal with min body size of {1}.</MessageRitualRoleMustHaveLargerBodySize>
   <MessageRitualPawnMentalState>{0_labelShort} is in a mental state.</MessageRitualPawnMentalState>
   <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} is already {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
   <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} cannot take any other role than spectator.</MessageRitualCannotAssignAnyRoleFromSpectating>
   <MessageRitualRoleMustNotBeImprisonedWildMan>{0} cannot be an imprisoned wild man/woman.</MessageRitualRoleMustNotBeImprisonedWildMan>
   <MessageRitualRoleMustNotBeImprisoned>{0} must be free.</MessageRitualRoleMustNotBeImprisoned>
+  <MessageRitualRoleCannotBeChild>{0} cannot be a child.</MessageRitualRoleCannotBeChild>
+  <MessageRitualRoleCannotBeBaby>{0} cannot be a baby.</MessageRitualRoleCannotBeBaby>
 
   <MessagePlayerMustSelectTile>You must select a site to continue.</MessagePlayerMustSelectTile>
 
@@ -438,5 +449,16 @@
   <TooCloseToOtherSeedPlantCell>Too close to {0}'s planting location.</TooCloseToOtherSeedPlantCell>
 
   <MessageWarningCutImportantPlant>Warning: {0} has been marked for cutting.</MessageWarningCutImportantPlant>
+
+  <MessageIncapableOfManipulation>{0_labelShort} is incapable of manipulation.</MessageIncapableOfManipulation>
+
+  <MessageActivationCanceled>{0_labelShort} activation canceled</MessageActivationCanceled>
+
+  <NothingAvailableInCategory>Nothing is currently buildable in category</NothingAvailableInCategory>
+
+  <SettingsLinkedFor>Storage settings linked for {0} buildings.</SettingsLinkedFor>
+  <SettingsUnlinkedFor>Storage settings unlinked for {0} buildings.</SettingsUnlinkedFor>
+  <StorageSettingsCopiedToClipboard>Storage settings copied to clipboard.</StorageSettingsCopiedToClipboard>
+  <StorageSettingsPastedFromClipboard>Storage settings pasted from clipboard.</StorageSettingsPastedFromClipboard>
 
 </LanguageData>

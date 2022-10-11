@@ -25,6 +25,18 @@
   <PawnTrapSpringChance.label>trap spring chance</PawnTrapSpringChance.label>
   <PawnTrapSpringChance.description>Chance to spring a trap the character is unaware of.</PawnTrapSpringChance.description>
   
+  <ShootingAccuracyFactor_Long.label>accuracy factor (long)</ShootingAccuracyFactor_Long.label>
+  <ShootingAccuracyFactor_Long.description>A multiplier on accuracy at a distance of 40 cells or more.</ShootingAccuracyFactor_Long.description>
+  
+  <ShootingAccuracyFactor_Medium.label>accuracy factor (medium)</ShootingAccuracyFactor_Medium.label>
+  <ShootingAccuracyFactor_Medium.description>A multiplier on accuracy at a distance of 25 cells.</ShootingAccuracyFactor_Medium.description>
+  
+  <ShootingAccuracyFactor_Short.label>accuracy factor (short)</ShootingAccuracyFactor_Short.label>
+  <ShootingAccuracyFactor_Short.description>A multiplier on accuracy at a distance of 12 cells.</ShootingAccuracyFactor_Short.description>
+  
+  <ShootingAccuracyFactor_Touch.label>accuracy factor (close)</ShootingAccuracyFactor_Touch.label>
+  <ShootingAccuracyFactor_Touch.description>A multiplier on accuracy at a distance of 3 cells or less.</ShootingAccuracyFactor_Touch.description>
+  
   <ShootingAccuracyPawn.label>shooting accuracy</ShootingAccuracyPawn.label>
   <ShootingAccuracyPawn.description>Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyPawn.description>
   <ShootingAccuracyPawn.labelForFullStatList>shooting accuracy (people)</ShootingAccuracyPawn.labelForFullStatList>

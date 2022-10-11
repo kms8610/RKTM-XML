@@ -20,6 +20,7 @@
   <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
   <HealthFactorAllowedDefect>if below {0}</HealthFactorAllowedDefect>
   <StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
+  <StatsReport_ShootingExampleDistances>The chances to hit at increasing distances are</StatsReport_ShootingExampleDistances>
   <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>Materials and labor</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
@@ -67,7 +68,7 @@
   <StatsReport_NonToolAttack>Attack</StatsReport_NonToolAttack>
   <StatsReport_Ideoligion>Ideoligion</StatsReport_Ideoligion>
   <StatsReport_Malnutrition>Multiplier for malnutrition {0}</StatsReport_Malnutrition>
-  
+
   <StatReport_PossibleOffsets>Possible offsets</StatReport_PossibleOffsets>
   <StatsReport_RoomImpressiveness>Room impressiveness</StatsReport_RoomImpressiveness>
   <StatsReport_Lit>Lit</StatsReport_Lit>
@@ -171,9 +172,23 @@
   <Stat_Thing_ReloadDestroyOnEmpty_Name>Vanish on exhaust</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <Stat_Thing_ReloadDestroyOnEmpty_Desc>This item will vanish when its last {CHARGENOUN} is used.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <Stat_Thing_BodyPartEfficiency_Desc>The overall efficiency of this body part.</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_InstallSites>Install sites</Stat_Thing_InstallSites>
+  <Stat_Thing_InstallSites_Desc>Areas on the body where this can be installed.</Stat_Thing_InstallSites_Desc>
+  <Stat_Thing_ReplacesParts>Replaces parts</Stat_Thing_ReplacesParts>
+  <Stat_Thing_ReplacesParts_Desc>Body parts which are replaced by this when installed.</Stat_Thing_ReplacesParts_Desc>
   <Stat_Thing_Biocoded_Name>Biocoding</Stat_Thing_Biocoded_Name>
   <Stat_Thing_Biocoded_Desc>This item has been coded to only accept a particular individual's bio-signature.</Stat_Thing_Biocoded_Desc>
   <Stat_Pawn_RequiredApparel_Name>Required apparel</Stat_Pawn_RequiredApparel_Name>
+  <Stat_Thing_Plant_GrowthRate>Growth rate</Stat_Thing_Plant_GrowthRate>
+  <Stat_Thing_Plant_GrowthRate_Desc>The rate at which a plant is growing.\n\nGrowth rate is affected by things like soil fertility, temperature, light, and environmental conditions.</Stat_Thing_Plant_GrowthRate_Desc>
+  <Stat_Thing_Plant_Age>Age</Stat_Thing_Plant_Age>
+  <Stat_Thing_Plant_AgeDesc>How long this has been alive.</Stat_Thing_Plant_AgeDesc>
+  <Stat_Thing_Plant_Lifespan>Lifespan</Stat_Thing_Plant_Lifespan>
+  <Stat_Thing_Plant_LifespanDesc>How long this plant can survive after planting. Regardless of growth or damage, plants die if they become too old.</Stat_Thing_Plant_LifespanDesc>
+  <Stat_Building_Paintable>Paintable</Stat_Building_Paintable>
+  <Stat_Building_PaintableDesc>Whether this can be painted using dye.</Stat_Building_PaintableDesc>
+  <Stat_Building_PaintColor>Paint color</Stat_Building_PaintColor>
+  <Stat_Building_PaintColorDesc>The color this building was painted.</Stat_Building_PaintColorDesc>
 
   <!-- Drugs -->
   <Stat_Thing_Drug_Chemical_Desc>The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways.</Stat_Thing_Drug_Chemical_Desc>
@@ -184,7 +199,7 @@
   <Stat_Thing_Drug_ToleranceGainPerDose_Desc>How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
   <Stat_Thing_Drug_ToleranceFallPerDay_Desc>How much a user's tolerance to the chemical will fall per day.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
   <Stat_Thing_Drug_MinToleranceForAddiction_Desc>The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
-  <Stat_Thing_Drug_SafeDoseInterval_Desc>A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size.</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <Stat_Thing_Drug_RandomODChance_Desc>The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit.</Stat_Thing_Drug_RandomODChance_Desc>
   <Stat_Thing_Drug_Addictiveness_Desc>The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction.</Stat_Thing_Drug_Addictiveness_Desc>
   <Stat_Thing_Drug_AddictionSeverityInitial_Desc>New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>

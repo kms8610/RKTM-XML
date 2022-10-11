@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BurnedTree.label>burned tree</BurnedTree.label>
+  <BurnedTree.label>burned stump</BurnedTree.label>
   <BurnedTree.description>A burned tree stump. It's ugly and yields very little usable wood.</BurnedTree.description>
+  
+  <ChoppedStump.label>chopped stump</ChoppedStump.label>
+  <ChoppedStump.description>A stump left behind after a tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</ChoppedStump.description>
+  
+  <Dye.label>dye</Dye.label>
+  <Dye.description>Dye extracted from a tinctoria plant. It can be used to change the color of walls, buildings, and more.</Dye.description>
   
   <Plant_Ambrosia.label>ambrosia bush</Plant_Ambrosia.label>
   <Plant_Ambrosia.description>A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods.</Plant_Ambrosia.description>
+  
+  <Plant_Tinctoria.label>tinctoria</Plant_Tinctoria.label>
+  <Plant_Tinctoria.description>A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more.</Plant_Tinctoria.description>
+  
+  <SmashedStump.label>smashed stump</SmashedStump.label>
+  <SmashedStump.description>The remnants of a tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</SmashedStump.description>
 </LanguageData>

@@ -26,6 +26,7 @@
   <TabFormingCaravan>Caravan</TabFormingCaravan>
   <TabTransporterContents>Contents</TabTransporterContents>
   <TabCasketContents>Contents</TabCasketContents>
+  <TabWindTurbineAutoCut>Auto-cut</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
   <AddBill>Add bill</AddBill>
@@ -64,6 +65,16 @@
   <ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
   <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
   <ConsideredGuiltyNoTimer>Considered guilty</ConsideredGuiltyNoTimer>
+  <LastRecruitment>Last resistance reduction</LastRecruitment>
+  <LastRecruitmentDescription>How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited.</LastRecruitmentDescription>
+  <OpinionOfRecruiter>Opinion of recruiter</OpinionOfRecruiter>
+  <RecruiterNegotiationAbility>Recruiter negotiation ability</RecruiterNegotiationAbility>
+  <NonRecruitable>Unwavering loyalty</NonRecruitable>
+  <NonRecruitableTip>This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely.</NonRecruitableTip>
+  <NonRecruitableTipCannotConvert>Their loyalty extends to their beliefs and they cannot be converted.</NonRecruitableTipCannotConvert>
+
+
+
 
   <!-- Medical - general -->
   <MoveSpeed>Move speed</MoveSpeed>
@@ -88,8 +99,8 @@
   <TimeToDeath>death in {0}</TimeToDeath>
   <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
   <HealthOverview>Overview</HealthOverview>
-  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsShort>Operations</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifications</MedicalOperationsMechanoidsShort>
   <MedicalOperations>Medical operations</MedicalOperations>
   <Amputate>amputate</Amputate>
   <HarvestOrgan>harvest</HarvestOrgan>
@@ -97,6 +108,7 @@
   <MemoryLower>memory</MemoryLower>
   <SocialInteractionsLower>social interactions</SocialInteractionsLower>
   <HungerRate>Hunger rate</HungerRate>
+  <FoodConsumption>Food consumption</FoodConsumption>
   <Tiredness>Tiredness</Tiredness>
   <PainFactor>Pain</PainFactor>
   <PreventsInfection>Prevents infection</PreventsInfection>
@@ -128,14 +140,13 @@
   <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
-  <NoRelationships>(no relationships)</NoRelationships>
   <Kidnapped>Kidnapped</Kidnapped>
   <Lent>Lent to {FACTION_name}, returns in {1}</Lent>
   <Missing>Missing</Missing>
   <Slave>Slave</Slave>
   <FactionLeader>Faction leader</FactionLeader>
-  <OpinionOf>Opinion of {1_labelShort}</OpinionOf>
-  <SomeonesOpinionOfMe>{1_labelShort}'s opinion of me</SomeonesOpinionOfMe>
+  <OpinionOf>Opinion of {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
   <IAmDead>I'm dead</IAmDead>
   <IAmPsychopath>I'm a psychopath</IAmPsychopath>
   
@@ -216,6 +227,8 @@
   <PenAutoCut_EnabledCheckboxTip>Automatically mark certain inedible plants to be cut. This makes room for edible plants to grow, which your animals can then eat.\n\nThis auto-designation happens periodically and only applies to certain plants.\n\nThis only works when the pen is enclosed.</PenAutoCut_EnabledCheckboxTip>
 
   <AutocutUnenclosedPen>Pen is not enclosed</AutocutUnenclosedPen>
-  <AutocutUnenclosedPenTip>Pen is not enclosed now, so auto-cut won’t occur.</AutocutUnenclosedPenTip>
+  <AutocutUnenclosedPenTip>Pen is not enclosed now, so auto-cut won't occur.</AutocutUnenclosedPenTip>
+
+  <WindTurbineAutoCut_EnabledCheckbox>Auto-cut plants blocking wind turbine</WindTurbineAutoCut_EnabledCheckbox>
 
 </LanguageData>

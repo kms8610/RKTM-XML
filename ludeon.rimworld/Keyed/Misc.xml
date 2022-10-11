@@ -21,6 +21,7 @@
   <!-- General-use words -->
   <Yes>Yes</Yes>
   <No>No</No>
+  <NoSubject>No {0}</NoSubject>
   <New>new</New>
   <Gender>Gender</Gender>
   <Sex>Sex</Sex>
@@ -48,6 +49,8 @@
   <Etc>etc</Etc>
   <MoneyFormat>${0}</MoneyFormat>
   <Factors>Factors</Factors>
+  <Uses>Uses</Uses>
+  <Translation>Translation</Translation>
 
   <!-- Content generation-->
   
@@ -79,6 +82,10 @@
 
   <FactionUnaffiliated>Unaffiliated</FactionUnaffiliated>
 
+  <StillWishContinue>Continue anyway?</StillWishContinue>
+  
+  <BabyTalk>ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah</BabyTalk>
+
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
@@ -105,5 +112,13 @@
 
   <!-- Apparel Looks -->
   <VariantOf>variant of</VariantOf>
+  
+  <!-- Familial relationships -->
+  <BornOfParents>born to {0}</BornOfParents>
+  <ParentsUnknown>unknown parents</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <Colonist>colonist</Colonist>
+  
   
 </LanguageData>

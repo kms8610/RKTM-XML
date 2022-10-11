@@ -6,6 +6,9 @@
   <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
   <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
   
+  <CleaningSpeed.label>cleaning speed multiplier</CleaningSpeed.label>
+  <CleaningSpeed.description>A multiplier on how fast this cleans up filth from the ground.</CleaningSpeed.description>
+  
   <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
   <ConstructSuccessChance.description>The chance that this person will succeed in constructing something.\nFailing means wasting time and resources.</ConstructSuccessChance.description>
   

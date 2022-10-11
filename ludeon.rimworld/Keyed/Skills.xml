@@ -1,16 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>level</Level>
-  <ProgressToNextLevel>Progress to next level</ProgressToNextLevel>
+  <Level>Skill level</Level>
+  <ProgressToNextLevel>Progress to next learned level</ProgressToNextLevel>
   <Experience>Experience</Experience>
   <Passion>Passion</Passion>
-  <PassionNone>None\n   -Learns {0}</PassionNone>
-  <PassionMinor>Interested\n   -Learns {0}</PassionMinor>
-  <PassionMajor>Burning\n   -Learns {0}</PassionMajor>
+  <PassionNone>No passion</PassionNone>
+  <PassionMinor>Passion</PassionMinor>
+  <PassionMajor>Burning passion</PassionMajor>
+  <LearningSpeed>Learning speed</LearningSpeed>
   <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
+  <ChildrenLearn>Children learn skills by watching adults work and by taking lessons at a lesson desk.</ChildrenLearn>
   <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
+  <LearnedLevel>Learned level</LearnedLevel>
+  <NegativeLevelAdjustedToZero>Negative level adjusted to zero.</NegativeLevelAdjustedToZero>
+  <LevelCappedAtMax>Level capped at {0}.</LevelCappedAtMax>
+  <GeneLabelWithDesc>{GENE_label} gene</GeneLabelWithDesc>
 
   <Skill0>Barely heard of it</Skill0>
   <Skill1>Utter beginner</Skill1>

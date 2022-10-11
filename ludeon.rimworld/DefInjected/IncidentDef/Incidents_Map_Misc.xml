@@ -53,6 +53,6 @@
   <WandererJoin.label>wanderer join</WandererJoin.label>
   
   <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
-  <WildManWandersIn.letterLabel>{PAWN_kind} wanders in</WildManWandersIn.letterLabel>
-  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}.</WildManWandersIn.letterText>
+  <WildManWandersIn.letterLabel>{0} wanders in</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}.</WildManWandersIn.letterText>
 </LanguageData>

@@ -85,11 +85,11 @@
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
   <!-- Medical care category -->
-  <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Industrial-tech medicine or worse</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Best quality medicine</MedicalCareCategory_Best>
+  <MedicalCareCategory_NoCare>no medical care</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>doctor care, but no medicine</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>industrial-tech medicine or worse</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>best quality medicine</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
@@ -118,12 +118,26 @@
   <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <ScreenShakeIntensity>Screen shake intensity</ScreenShakeIntensity>
   
   <!-- Animal name display mode -->
   <ShowAnimalNames>Show animal names</ShowAnimalNames>
   <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
   
+  <!-- Mech name display mode -->
+  <ShowMechNames>Show player mech names</ShowMechNames>
+  <MechNameDisplayMode_WhileDrafted>While drafted</MechNameDisplayMode_WhileDrafted>
+  <MechNameDisplayMode_Always>always</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <ShowWeaponsUnderPortrait>Weapons below portrait</ShowWeaponsUnderPortrait>
+  <ShowWeaponsUnderPortraitTooltip>Show weapons below each person's portrait on the colonist bar at the top of the screen</ShowWeaponsUnderPortraitTooltip>
+  <ShowWeapons_Always>always</ShowWeapons_Always>
+  <ShowWeapons_WhileDrafted>while drafted</ShowWeapons_WhileDrafted>
+
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
   <Fahrenheit>Fahrenheit</Fahrenheit>

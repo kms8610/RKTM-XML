@@ -24,6 +24,7 @@
   <CannotOrderNonControlledLower>cannot order characters you do not control</CannotOrderNonControlledLower>
   <CannotAttackSelf>cannot attack self</CannotAttackSelf>
   <CannotAttackSameFactionMember>cannot attack faction ally</CannotAttackSameFactionMember>
+  <IncapableOfFirefighting>Incapable of firefighting.</IncapableOfFirefighting>
 
   <OrderManThing>Man {1_labelShort}</OrderManThing>
   
@@ -40,15 +41,18 @@
   <NoEmptyPlaceLower>no empty, accessible spot configured to store it</NoEmptyPlaceLower>
   <NoMergeTarget>no stack available to merge into</NoMergeTarget>
   <AlreadyFilledLower>already filled enough</AlreadyFilledLower>
-  <MissingMaterials>need material</MissingMaterials>
+  <MissingMaterials>missing {0}</MissingMaterials>
+  <NoMedicineMatchingCategory>No medicine for restriction '{CATEGORY}'.</NoMedicineMatchingCategory>
   <UnderRequiredSkill>under required skill {0}</UnderRequiredSkill>
   <UnderAllowedSkill>under allowed skill {0}</UnderAllowedSkill>
   <AboveAllowedSkill>above allowed skill {0}</AboveAllowedSkill>
   <NoReachableOutsideCell>no reachable outside cell</NoReachableOutsideCell>
   <MissingRequiredSkillLevel>missing required skill level</MissingRequiredSkillLevel>
   <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
+  <PrisonerInteractedTooRecently>interacted with too recently</PrisonerInteractedTooRecently>
   <NoUsableFood>no usable food</NoUsableFood>
   <NoFood>no food</NoFood>
+  <NoFoodMatchingRestrictions>no food matching restrictions</NoFoodMatchingRestrictions>
   <NoIngredient>No {0_label}</NoIngredient>
   <FoodBelowTitleRequirements>below requirements of {0}</FoodBelowTitleRequirements>
   <AnimalsSkillTooLow>animals skill too low - need {0}</AnimalsSkillTooLow>
@@ -82,10 +86,14 @@
   <InstallImplantNoBodyPart>no body part</InstallImplantNoBodyPart>
   <InstallImplantNotAllowedForNonColonists>not a colonist</InstallImplantNotAllowedForNonColonists>
   <InstallImplantAlreadyInstalled>already installed</InstallImplantAlreadyInstalled>
+  <InstallImplantHediffRequired>requires an existing {0}</InstallImplantHediffRequired>
   <InstallImplantAlreadyMaxLevel>max level</InstallImplantAlreadyMaxLevel>
+  <InstallImplantPsychicallyDeaf>psychically deaf</InstallImplantPsychicallyDeaf>
   <UpgradeImplant>Upgrade {0} to level {1}</UpgradeImplant>
   <SurgeryViolationFellowFactionMember>violation of faction ally</SurgeryViolationFellowFactionMember>
   <BeingCarriedBy>being carried by {0_labelShort}</BeingCarriedBy>
+  <ContainerFull>full</ContainerFull>
+  <AlreadyAssigned>already assigned</AlreadyAssigned>
   
   <ConsumeThing>Consume {1_labelShort}</ConsumeThing>
   
@@ -99,8 +107,11 @@
 
   <Capture>Capture {1_label}</Capture>
   <CannotCapture>Cannot capture</CannotCapture>
+  <Unrecruitable>unwaveringly loyal</Unrecruitable>
 
   <Rescue>Rescue {1_label}</Rescue>
+  <PutSomewhereSafe>Put {1_label} somewhere safe</PutSomewhereSafe>
+  <TakingToBed>Taking {0_labelShort} to bed.</TakingToBed>
   <CannotRescue>Cannot rescue</CannotRescue>
 
   <CarryToCryptosleepCasket>Carry {1_label} to cryptosleep casket</CarryToCryptosleepCasket>
@@ -123,6 +134,7 @@
 
   <Incapable>incapable</Incapable>
   <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+  <MustHaveHediff>Must have {0_label}</MustHaveHediff>
 
   <MinSkill>min skill</MinSkill>
   
@@ -140,10 +152,11 @@
   <Reload>Reload {GEAR_labelShort} with {AMMO_label}</Reload>
   <ReloadFull>Full</ReloadFull>
   <ReloadNotEnough>Too few</ReloadNotEnough>
+  <ReloadCannotCarryEnough>Cannot carry enough {AMMO_label} to reload 1 charge.</ReloadCannotCarryEnough>
   
-  <CannotPickUp>Cannot pick up {1_label}</CannotPickUp>
+  <CannotPickUp>Cannot pick up {1_labelShort}</CannotPickUp>
   <CannotPickUpAll>Cannot pick up {1_label} (all)</CannotPickUpAll>
-  <PickUp>Pick up {1_label}</PickUp>
+  <PickUpOne>Pick up {1_labelShort} x1</PickUpOne>
   <PickUpAll>Pick up {1_label} (all)</PickUpAll>
   <PickUpSome>Pick up {1_labelShort}...</PickUpSome>
   <PickUpCount>Pick up {1_labelShort} x{{0}}</PickUpCount>
@@ -289,5 +302,11 @@
 
   <RepairThing>Repair {0}</RepairThing>
   <CannotRepair>Cannot repair {0}</CannotRepair>
-  
+
+  <CannotEnter>Cannot enter</CannotEnter>
+
+  <!-- Romance partner -->
+  <CannotRomance>Cannot romance {0}</CannotRomance>
+  <CanRomance>Romance {0}</CanRomance>
+
 </LanguageData>

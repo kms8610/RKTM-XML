@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <ActivateThing.reportString>activating TargetA.</ActivateThing.reportString>
+  
   <ApplyTechprint.reportString>applying TargetB.</ApplyTechprint.reportString>
   
   <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
@@ -7,6 +9,8 @@
   <AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
   
   <BeatFire.reportString>beating fire out.</BeatFire.reportString>
+  
+  <Carried.reportString>Doing something.</Carried.reportString>
   
   <CastAbilityOnThing.reportString>Doing something.</CastAbilityOnThing.reportString>
   
@@ -66,6 +70,8 @@
   
   <HaulToTransporter.reportString>hauling TargetA.</HaulToTransporter.reportString>
   
+  <IdleWhileDespawned.reportString>idling.</IdleWhileDespawned.reportString>
+  
   <Ignite.reportString>igniting TargetA.</Ignite.reportString>
   
   <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
@@ -87,6 +93,8 @@
   <OfferHelp.reportString>helping TargetA.</OfferHelp.reportString>
   
   <Open.reportString>opening TargetA.</Open.reportString>
+  
+  <PickupToHold.reportString>picking up TargetA.</PickupToHold.reportString>
   
   <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
   
@@ -116,7 +124,7 @@
   
   <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
   
-  <TriggerFirefoamPopper.reportString>triggering firefoam popper.</TriggerFirefoamPopper.reportString>
+  <TriggerObject.reportString>triggering TargetA.</TriggerObject.reportString>
   
   <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
   
@@ -135,6 +143,8 @@
   <Vomit.reportString>vomiting.</Vomit.reportString>
   
   <Wait.reportString>standing.</Wait.reportString>
+  
+  <Wait_Asleep.reportString>sleeping.</Wait_Asleep.reportString>
   
   <Wait_Combat.reportString>watching for targets.</Wait_Combat.reportString>
   

@@ -75,6 +75,8 @@
   
   <ExecutionCut.label>cut</ExecutionCut.label>
   <ExecutionCut.description>A cut made during execution.</ExecutionCut.description>
+  <ExecutionCut.injuryProps.destroyedLabel>Cut off</ExecutionCut.injuryProps.destroyedLabel>
+  <ExecutionCut.injuryProps.destroyedOutLabel>Cut out</ExecutionCut.injuryProps.destroyedOutLabel>
   <ExecutionCut.labelNoun>a cut</ExecutionCut.labelNoun>
   <ExecutionCut.labelNounPretty>{0} in the {1}</ExecutionCut.labelNounPretty>
   

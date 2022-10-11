@@ -13,7 +13,7 @@
   <Comfort.description>How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort.</Comfort.description>
   
   <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
-  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
+  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water.</DeteriorationRate.description>
   <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
   
   <Flammability.label>flammability</Flammability.label>

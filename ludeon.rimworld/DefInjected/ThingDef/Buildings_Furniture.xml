@@ -46,22 +46,16 @@
   <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two.</RoyalBed.description>
   
   <Shelf.label>shelf</Shelf.label>
-  <Shelf.description>A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.</Shelf.description>
+  <Shelf.description>A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses.</Shelf.description>
+  
+  <ShelfSmall.label>small shelf</ShelfSmall.label>
+  <ShelfSmall.description>A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses.</ShelfSmall.description>
   
   <SleepingSpot.label>sleeping spot</SleepingSpot.label>
   <SleepingSpot.description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot.description>
   
   <StandingLamp.label>standing lamp</StandingLamp.label>
   <StandingLamp.description>An electrical standing lamp that lights an area. People need light to move and work at full speed.</StandingLamp.description>
-  
-  <StandingLamp_Blue.label>standing lamp (blue)</StandingLamp_Blue.label>
-  <StandingLamp_Blue.description>A standing lamp that lights an area in blue.</StandingLamp_Blue.description>
-  
-  <StandingLamp_Green.label>standing lamp (green)</StandingLamp_Green.label>
-  <StandingLamp_Green.description>A standing lamp that lights an area in green.</StandingLamp_Green.description>
-  
-  <StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>
-  <StandingLamp_Red.description>A standing lamp that lights an area in red.</StandingLamp_Red.description>
   
   <Stool.label>stool</Stool.label>
   <Stool.description>A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere.</Stool.description>

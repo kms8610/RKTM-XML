@@ -61,10 +61,10 @@
   <DesignatorAreaIgnoreRoofExpand>Ignore roof area</DesignatorAreaIgnoreRoofExpand>
   <DesignatorAreaIgnoreRoofExpandDesc>Colonists will ignore roofs in this area.</DesignatorAreaIgnoreRoofExpandDesc>
 
-  <DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
-  <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>Clear snow clear Area</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearExpand>Snow removal area</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Create an area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Clear snow removal area</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Removes a snow removal area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorExpandAreaAllowed>Expand allowed area</DesignatorExpandAreaAllowed>
   <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
@@ -111,6 +111,27 @@
 
   <DesignatorStudy>Study</DesignatorStudy>
   <DesignatorStudyDesc>Study this object to learn more about it.</DesignatorStudyDesc>
+
+  <DesignatorPaintBuilding>Paint building...</DesignatorPaintBuilding>
+  <DesignatorPaintBuildingDesc>Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted.</DesignatorPaintBuildingDesc>
+  <DesignatorPaintFloor>Paint floor...</DesignatorPaintFloor>
+  <DesignatorPaintFloorDesc>Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted.</DesignatorPaintFloorDesc>
+
+  <DesignatorRemovePaint>Remove paint</DesignatorRemovePaint>
+  <DesignatorRemovePaintDesc>Remove paint from walls, buildings, and floors.</DesignatorRemovePaintDesc>
+  <DesignatorRemoveFloorPaint>Remove floor paint</DesignatorRemoveFloorPaint> <!-- text_todo -->
+  <DesignatorRemoveFloorPaintDesc>Remove paint from floors.</DesignatorRemoveFloorPaintDesc> <!-- text_todo -->
+  <Paint>Paint</Paint>
+  <Color>Color</Color>
+
+  <DesignatorEyedropper>Color picker</DesignatorEyedropper>
+  <GrabExistingColor>Grab existing color</GrabExistingColor>
+  <DesignatorEyeDropperDesc_Paint>Grab a color from an existing building.</DesignatorEyeDropperDesc_Paint>
+  <DesignatorEyeDropperDesc_Carpet>Grab a color from an existing carpet.</DesignatorEyeDropperDesc_Carpet>
+  <SelectAPaintedBuilding>Select a painted building.</SelectAPaintedBuilding>
+  <SelectColoredFloor>Select colored carpet.</SelectColoredFloor>
+  <Grab>Grab</Grab>
+  <GrabbedColor>Grabbed color</GrabbedColor>
 
   <!-- Failure messages -->
   <UnchosenStuff>Unchosen material</UnchosenStuff>

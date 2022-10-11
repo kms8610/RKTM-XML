@@ -3,6 +3,8 @@
   <AnimalsLearningFactor.label>animals learning factor</AnimalsLearningFactor.label>
   <AnimalsLearningFactor.description>A multiplier on the learning rate for animals skill.</AnimalsLearningFactor.description>
   
+  <BedHungerRateFactor.label>bed hunger rate multiplier</BedHungerRateFactor.label>
+  
   <CaravanRidingSpeedFactor.label>caravan riding speed</CaravanRidingSpeedFactor.label>
   <CaravanRidingSpeedFactor.description>The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans.</CaravanRidingSpeedFactor.description>
   
@@ -27,9 +29,6 @@
   <GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
   <GlobalLearningFactor.description>A multiplier on the learning rate for all skills.</GlobalLearningFactor.description>
   
-  <HungerRateMultiplier.label>hunger rate multiplier</HungerRateMultiplier.label>
-  <HungerRateMultiplier.description>A multiplier on how quickly a creature becomes hungry.</HungerRateMultiplier.description>
-  
   <ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
   <ImmunityGainSpeed.description>The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
   
@@ -39,8 +38,19 @@
   <LeatherAmount.label>leather amount</LeatherAmount.label>
   <LeatherAmount.description>The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed.</LeatherAmount.description>
   
+  <LifespanFactor.label>lifespan factor</LifespanFactor.label>
+  <LifespanFactor.description>Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan.</LifespanFactor.description>
+  
+  <MaxNutrition.label>max nutrition</MaxNutrition.label>
+  <MaxNutrition.description>The amount of nutrition needed to completely fill this creature's stomach.</MaxNutrition.description>
+  
   <MeatAmount.label>meat amount</MeatAmount.label>
   <MeatAmount.description>The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed.</MeatAmount.description>
+  
+  <MeditationFocusGain.label>meditation psyfocus gain</MeditationFocusGain.label>
+  <MeditationFocusGain.description>The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects.</MeditationFocusGain.description>
+  <MeditationFocusGain.formatString>{0} / day</MeditationFocusGain.formatString>
+  <MeditationFocusGain.formatStringUnfinalized>{0} / day</MeditationFocusGain.formatStringUnfinalized>
   
   <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
   <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are.</MentalBreakThreshold.description>
@@ -55,12 +65,22 @@
   <PainShockThreshold.label>pain shock threshold</PainShockThreshold.label>
   <PainShockThreshold.description>The pain level at which this creature is downed from pain.</PainShockThreshold.description>
   
+  <PsychicEntropyMax.label>neural heat limit</PsychicEntropyMax.label>
+  <PsychicEntropyMax.description>The maximum amount of neural heat individual can tolerate safely.</PsychicEntropyMax.description>
+  
+  <PsychicEntropyRecoveryRate.label>neural heat recovery rate</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.description>The rate at which this person reduces neural heat.</PsychicEntropyRecoveryRate.description>
+  <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
+  
   <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
   <PsychicSensitivity.description>More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit.</PsychicSensitivity.description>
   
   <RestRateMultiplier.label>rest rate multiplier</RestRateMultiplier.label>
   <RestRateMultiplier.description>A multiplier on how quickly a creature rests while sleeping.</RestRateMultiplier.description>
   
-  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this creature.</ToxicSensitivity.description>
+  <ToxicEnvironmentResistance.label>toxic environment resistance</ToxicEnvironmentResistance.label>
+  <ToxicEnvironmentResistance.description>How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison.</ToxicEnvironmentResistance.description>
+  
+  <ToxicResistance.label>toxic resistance</ToxicResistance.label>
+  <ToxicResistance.description>How well this creature resists toxic buildup.</ToxicResistance.description>
 </LanguageData>

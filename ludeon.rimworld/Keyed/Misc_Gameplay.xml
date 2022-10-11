@@ -13,6 +13,8 @@
   <Owner>Owner</Owner>
   <Owners>Owners</Owners>
   <AssignedColonist>Assigned colonist</AssignedColonist>
+  <BedUncomfortableTemperature>Uncomfortable room temperature</BedUncomfortableTemperature>
+  <BedUnsafeTemperature>Unsafe room temperature</BedUnsafeTemperature>
   <DiedOn>Died on the {0}</DiedOn>
   <Nobody>Nobody</Nobody>
   <Unowned>Unowned</Unowned>
@@ -130,13 +132,15 @@
   <WornByCorpseChar>T</WornByCorpseChar>
   <DeterioratingUnroofed>unroofed</DeterioratingUnroofed>
   <DeterioratingOutdoors>outdoors</DeterioratingOutdoors>
-  <DeterioratingBecauseOf>Deteriorating because of</DeterioratingBecauseOf>
+  <Protected>protected</Protected>
+  <DeterioratingBecauseOf>Deteriorating</DeterioratingBecauseOf>
+  <DeteriorateInDuration>Will deteriorate in {0}.</DeteriorateInDuration>
   <Map>Map</Map>
   <CaravanDetectedRaidCountdown>{0} until enemies arrive</CaravanDetectedRaidCountdown>
   <CaravanDetectedRaidCountdownTip>Enemy reinforcements will arrive in this area in {0}.</CaravanDetectedRaidCountdownTip>
   <Room>Room</Room>
   <BeautyHere>Beauty here</BeautyHere>
-  <NoPower>No power</NoPower>
+  <NoPower>no power</NoPower>
   <WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
   <DisabledCommand>Disabled</DisabledCommand>
   <ReadyForLaunch>Ready for launch.</ReadyForLaunch>
@@ -166,6 +170,8 @@
   <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
   <SkillRequirements>Skill Requirements</SkillRequirements>
   <Products>Products</Products>
+  <Requires>Requires</Requires>
+  <NumAnyOf>{0}x any of</NumAnyOf>
   <Relationship>{0} of {1}</Relationship>
   <Prisoner>Prisoner</Prisoner>
   <Refugee>Refugee</Refugee>
@@ -225,7 +231,7 @@
   <RadiusExpandRate>Radius expand rate</RadiusExpandRate>
   <ViewHyperlink>View: {0}</ViewHyperlink>
   <DetonationCountdown>Detonates in {0} days</DetonationCountdown>
-  <ExplosionOnDamageWarning>Large fire explosion if damaged</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>Large fire explosion if damaged.</ExplosionOnDamageWarning>
   <MechCluster>Mech cluster</MechCluster>
   <SpawningNextPawnIn>Spawning in {0}</SpawningNextPawnIn>
   <MechAssemblyCompleteIn>{0} assembly completes in {1}.</MechAssemblyCompleteIn>
@@ -266,6 +272,14 @@
   <RemoveByAttackingTooltip>Remove this by attacking it.</RemoveByAttackingTooltip>
   <ThoughtFoodEatenFood>Food</ThoughtFoodEatenFood>
   <ThoughtFoodEatenIngredients>Ingredients</ThoughtFoodEatenIngredients>
+  <ShieldInbuilt>Shield pack</ShieldInbuilt>
+  <PuncturedWillExplode>Punctured - will explode soon.</PuncturedWillExplode>
+  <ClickToOpenResearchTab>Click to open research window</ClickToOpenResearchTab>
+  <TargetBelongsToNPCFaction>Target belongs to another faction.</TargetBelongsToNPCFaction>
+  <MoreLower>more</MoreLower>
+  <RequiredTechprintTip>Requires</RequiredTechprintTip>
+  <Size>size</Size>
+  <Cost>cost</Cost>
 
   <!-- Scanning -->
   <UserScanAbility>User scanning speed</UserScanAbility>
@@ -334,7 +348,30 @@
   <PenSizeDesc_Unenclosed>Not enclosed - build fences</PenSizeDesc_Unenclosed>
   <PenCapacityDesc>{ANIMALDEF_label} capacity</PenCapacityDesc>
   <PenExampleAnimals>Example animals</PenExampleAnimals>
+  <NoExteriorAccess>No exterior access - Animals cannot be moved in or out.</NoExteriorAccess>
 
+  <!-- Cell Inspector -->
+  <Beauty_Label>Beauty</Beauty_Label>
+  <Zone_Label>Zone</Zone_Label>
+  <Roof_Label>Roof</Roof_Label>
+  <Terrain_Label>Terrain</Terrain_Label>
+  <Snow_Label>Snow</Snow_Label>
+  <WalkSpeed_Label>Walk speed</WalkSpeed_Label>
+  <Fertility_Label>Fertility</Fertility_Label>
+  <Temperature_Label>Temperature</Temperature_Label>
+  <LightLevel_Label>Light level</LightLevel_Label>
+  <Biome_Label>Biome</Biome_Label>
+  <Hilliness_Label>Hilliness</Hilliness_Label>
+  <Road_Label>Road</Road_Label>
+  <MovementDifficulty_Label>Movement difficulty</MovementDifficulty_Label>
+  <Pollution_Label>Pollution</Pollution_Label>
+  
+  <Faction_Label>Faction</Faction_Label>
+  <Relationship_Label>Relationship</Relationship_Label>
+  <CaravanColonists_Label>Colonists</CaravanColonists_Label>
+  <CaravanStatus_Label>Status</CaravanStatus_Label>
+  <CaravanTTD_Label>Time to destination</CaravanTTD_Label>
+  
 
   <!-- Control -->
   <CannotOrderNonControlled>Cannot order characters you do not control.</CannotOrderNonControlled>
@@ -344,11 +381,12 @@
   <ApparelPreventsShooting>{PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}.</ApparelPreventsShooting>
 
   <!-- Snow -->
+  <Snow>Snow</Snow>
   <SnowNone>No snow</SnowNone>
-  <SnowDusting>Snow (dusting)</SnowDusting>
-  <SnowThin>Snow (thin)</SnowThin>
-  <SnowMedium>Snow (medium)</SnowMedium>
-  <SnowThick>Snow (thick)</SnowThick>
+  <SnowDusting>dusting</SnowDusting>
+  <SnowThin>thin</SnowThin>
+  <SnowMedium>medium</SnowMedium>
+  <SnowThick>thick</SnowThick>
 
   <!-- Turrets -->
   <GunInstalled>Installed</GunInstalled>
@@ -358,6 +396,14 @@
   <Roofed>roofed</Roofed>
   <ShellLoaded>Shell loaded: {1_label}</ShellLoaded>
   <ShellNotLoaded>Not loaded</ShellNotLoaded>
+  <AlreadyActive>Already active</AlreadyActive>
+  <OrderActivation>Order activation</OrderActivation>
+  <OrderActivationDesc>Order a colonist to activate {THING_definite}.</OrderActivationDesc>
+  <MustBeActivatedByColonist>Must be activated by a colonist.</MustBeActivatedByColonist>
+  <NoNearbyFire>No nearby fire</NoNearbyFire>
+  <NoNearbyFireNoFuelUsed>No nearby fire. No fuel was used.</NoNearbyFireNoFuelUsed>
+  <ChooseWhoShouldActivate>Choose who should activate this.</ChooseWhoShouldActivate>
+  <NoFuel>No fuel</NoFuel>
 
   <!-- Job reports -->
   <ReportHaulingTo>hauling {THING_label} to {DESTINATION}.</ReportHaulingTo>
@@ -381,6 +427,8 @@
   <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
   <ReportExtinguishingFireOn>extinguishing fire on {TARGET_label}.</ReportExtinguishingFireOn>
   <ReportDiggingUpCorpse>digging up corpse.</ReportDiggingUpCorpse>
+  <CarriedBy>being carried by {0_labelShort}.</CarriedBy> 
+  <InContainer>inside {0_labelShort}.</InContainer> 
 
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
@@ -427,7 +475,6 @@
   <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
   <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap>
   <PawnMainDescUnderFactionedWrap>{0} under {1}</PawnMainDescUnderFactionedWrap>
-  <PawnMainDescTempFactionedWrap>{0} under {1}\nHome faction: {2}</PawnMainDescTempFactionedWrap>
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <Faction>Faction</Faction>
   <FactionDesc>The faction {PAWN_labelShort} currently belongs to.</FactionDesc>
@@ -445,10 +492,12 @@
   <Queued>Queued</Queued>
   <State>State</State>
   <StunLower>stun</StunLower>
+  <SlowedByDamage>Slowed by damage</SlowedByDamage>
 
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
   <DefInfoTip>View information.</DefInfoTip>
+  <SelectNextInSquareTipController>Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTipController>
 
   <!-- Hostility response -->
   <HostilityReponseTip>Change how this person will react to nearby enemies when not drafted.</HostilityReponseTip>
@@ -475,7 +524,7 @@
   <!-- Temperature readout -->
   <Indoors>Indoors</Indoors>
   <IndoorsUnroofed>Unroofed</IndoorsUnroofed>
-  <Outdoors>Outdoors</Outdoors>
+  <Outdoors>outdoors</Outdoors>
 
   <!-- Rotting -->
   <RotStateFresh>Fresh</RotStateFresh>
@@ -494,6 +543,9 @@
 
   <!-- Meal -->
   <Ingredients>Ingredients</Ingredients>
+  <IngredientsDesc>The ingredients used to make this meal.</IngredientsDesc>
+  <DietaryType>Dietary type</DietaryType>
+  <DietaryTypeDesc>The type of meal produced. Some people have preferences for specific types of meals.</DietaryTypeDesc>
   <OnlyStacksWithCompatibleMeals>only stacks with similar meals</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
@@ -506,6 +558,8 @@
   <OutOfIdealTemperatureRangeNotGrowing>Non-ideal temperature. Not growing.</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Ready to harvest.</ReadyToHarvest>
   <Mature>Mature.</Mature>
+  <AveragePlantAge>Average plant age</AveragePlantAge>
+  <OldestPlantAge>Oldest plant age</OldestPlantAge>
   <OutdoorGrowingPeriod>Growing period</OutdoorGrowingPeriod>
   <NoGrowingPeriod>Never</NoGrowingPeriod>
   <GrowYearRound>Year-round</GrowYearRound>
@@ -516,6 +570,8 @@
   <AutoCutNow>Cut now</AutoCutNow>
   <HarvestGerund>harvesting</HarvestGerund>
   <CutGerund>cutting</CutGerund>
+  <CutAllBlight>Cut all blight</CutAllBlight>
+  <CutAllBlightDesc>Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads.</CutAllBlightDesc>
 
   <!-- Zones -->
   <Zone>Zone</Zone>
@@ -537,9 +593,10 @@
   <!-- Buttons -->
   <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
   <ZoneVisibilityToggleButton>Toggle visiblity of zones.</ZoneVisibilityToggleButton>
-  <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing.</ShowBeautyToggleButton>
-  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
+  <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing.</ShowRoomStatsToggleButton>
   <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButtonController>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them.</ShowColonistBarToggleButtonController>
   <AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
   <AutoRebuildButton>Toggle automatic rebuild of destroyed structures in the home area.</AutoRebuildButton>
   <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
@@ -551,6 +608,7 @@
   <UsePlanetDayNightSystemToggleButton>Toggle day/night lighting on the planet view.</UsePlanetDayNightSystemToggleButton>
   <ShowExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ShowExpandingIconsToggleButton>
   <ShowWorldFeaturesToggleButton>Toggle visibility of names of landforms.</ShowWorldFeaturesToggleButton>
+  <ShowTemperatureOverlayToggleButton>Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death.</ShowTemperatureOverlayToggleButton>
 
   <!-- Fire -->
   <FireOn>fire on {1_label}</FireOn>
@@ -703,6 +761,7 @@
   
   <!-- Learning helper -->
   <LearningHelper>Learning helper</LearningHelper>
+  <LearningHelperTooltip>In-game tutor that aims to teach you information about topics relevant to your colony's current state</LearningHelperTooltip>
   <MarkLearned>Mark as learned</MarkLearned>
   <AlreadyLearned>Already learned</AlreadyLearned>
   <Filter>Filter</Filter>
@@ -718,8 +777,11 @@
   <RoutePlannerUsingAverageTicksPerMoveWarning>Planning mode uses the default caravan speed. Your speed may vary.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <RoutePlannerUsingTicksPerMoveOfCaravan>Calculating for: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>Left trigger button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
   <RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: Exit planning mode.</RoutePlannerPressEscapeToExitController>
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
   <EstimatedTimeToWaypoint>Est. travel time: {0}</EstimatedTimeToWaypoint>
   <EstimatedTimeToWaypointFromPrevious>Est. travel time (from previous waypoint): {0}</EstimatedTimeToWaypointFromPrevious>
   <EstimatedTimeToTile>Est. travel time: {0}</EstimatedTimeToTile>
@@ -744,12 +806,12 @@
   <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
-  <PawnTooltipPsychicEntropyStats>Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>Fall rate: {0} / s ({1}s until zero)</PawnTooltipPsychicEntropyStats>
   <PawnTooltipPsychicEntropyDesc>Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain.</PawnTooltipPsychicEntropyDesc>
   <PawnTooltipPsychicEntropyPainFocus>Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1}</PawnTooltipPsychicEntropyPainFocus>
   <PawnTooltipPsychicEntropyLimit>Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage.</PawnTooltipPsychicEntropyLimit>
   <PawnTooltipPsyfocus>Psyfocus: {0}</PawnTooltipPsyfocus>
-
+  
   <!-- Pawn tooltip description -->
   <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
@@ -821,6 +883,10 @@
   <RitualNobodyAttended>{0} was not completed because of lack of attendance.</RitualNobodyAttended>
   <RitualFinished>{0} has been completed.</RitualFinished>
   <RitualEndsIn>ends in {0}</RitualEndsIn>
+  <RitualStartAnyTime>Can start any time</RitualStartAnyTime>
+  <RitualStartEvent>Can start after event</RitualStartEvent>
+  <RitualFocusObjects>Focus objects</RitualFocusObjects>
+  <RitualParticipatingRoles>Participating roles</RitualParticipatingRoles>
   <Organizers>Organizers</Organizers>
   <QualityFactors>Quality factors</QualityFactors>
   <QualityFactorTooltipUncertain>This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply.</QualityFactorTooltipUncertain>
@@ -828,6 +894,7 @@
   <Spectators>Spectators</Spectators>
   <NotParticipating>Not participating</NotParticipating>
   <DragPawnsToRolesInfo>Drag and drop or left/right click to move people.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfoController>Drag and drop or click to move people.</DragPawnsToRolesInfoController>
   <RitualBeginSlaveDesc>A slave. The human property of others.</RitualBeginSlaveDesc>
   <RitualBeginSleepingDesc>{0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate.</RitualBeginSleepingDesc>
   <RitualBeginSleepingWarning>Some of the selected participants are sleeping. They will wake up once you start the ritual.</RitualBeginSleepingWarning>
@@ -844,6 +911,7 @@
   <AbilitySpeechDisabledNoSpot>No reachable appropriate place to speak.</AbilitySpeechDisabledNoSpot>
   <AbilityDisabledNoCapacity>{0_labelShort} is incapable of {1}.</AbilityDisabledNoCapacity>
   <RitualOutcomeExtraDesc_Mood>Everyone participating in the ritual gains {0} mood for {1} days.</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeNoQuality>This ritual has no quality offsets, so the best outcome is always expected</RitualOutcomeNoQuality>
   
   <ChooseParticipants>Choose who should participate in {RITUAL_labelDef}.</ChooseParticipants>
   <Begin>Begin</Begin>
@@ -862,6 +930,8 @@
   <RitualPredictedOutcomeDescRoomBeauty>Room beauty</RitualPredictedOutcomeDescRoomBeauty>
   <RitualPredictedOutcomeDescParticipantCount>Participants</RitualPredictedOutcomeDescParticipantCount>
   <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}'s expectations</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualOutcomeLovedOnePresentLabel>Loved one present</RitualOutcomeLovedOnePresentLabel>
+  <RitualOutcomeLovedOnePresentTip>Any person that {PAWN_labelShort} considers their friend or more.</RitualOutcomeLovedOnePresentTip>
 
   <RitualOutcomeLabelAnyOfThese>Any of these</RitualOutcomeLabelAnyOfThese>
   <RitualRoleReplaces>Replaces {PAWN_labelShort}</RitualRoleReplaces>
@@ -877,6 +947,12 @@
 
   <ThingOf>{0} of</ThingOf>
   <ThingOfSource>{0} of {1}</ThingOfSource>
+  <ThingOfTwoSources>{0} of {1} and {2}</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <BlindSmoke>blind smoke</BlindSmoke>
+  <ToxGas>tox gas</ToxGas>
+  <RotStink>rot stink</RotStink>
 
   <!-- Abilities -->
   <AbilityDisabledUndrafted>must be drafted.</AbilityDisabledUndrafted>
@@ -884,5 +960,23 @@
   <AbilityAlreadyQueued>ability already queued.</AbilityAlreadyQueued>
   <AbilityReadyLabel>Ability ready: {0}</AbilityReadyLabel>
   <AbilityReadyText>{0_nameDef} is ready to use {1}.</AbilityReadyText>
+  <AbilityDisabledInRitual>{0_labelShort} is participating in {1}.</AbilityDisabledInRitual>
+  <Charges>Charges</Charges>
+
+  <PawnIsInMentalState>{0_nameDef} is in an aggressive mental state.</PawnIsInMentalState>
+
+  <DisabledWorkLabel>Disabled work</DisabledWorkLabel>
+
+  <!-- Glowers -->
+  <GlowerChangeColor>change color</GlowerChangeColor>
+  <GlowerChangeColorDescription>Change the color of the light.</GlowerChangeColorDescription>
+  <GlowerChangeColorNeedsResearch>You must research {0} to change light color.</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <ShieldPersonalTip>A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP.</ShieldPersonalTip>
+
+  <UnrecruitableDesc>{PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner.</UnrecruitableDesc>
+
+  <Random>Random</Random>
 
 </LanguageData>

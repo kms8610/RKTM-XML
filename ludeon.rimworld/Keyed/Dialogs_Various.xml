@@ -7,6 +7,14 @@
   <OK>OK</OK>
   <Close>Close</Close>
   <Accept>Accept</Accept>
+  <Cancel>Cancel</Cancel>
+  <Reset>Reset</Reset>
+  <ResetAll>Reset all</ResetAll>
+  <Disable>Disable</Disable>
+  <Modify>Modify</Modify>
+  <ConfirmSettle>Settle here anyways?</ConfirmSettle>
+  <Add>add</Add>
+  <CannotShoot>Cannot shoot</CannotShoot>
   
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
@@ -14,6 +22,7 @@
   <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteamController>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
@@ -93,8 +102,18 @@
   <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
+  <NameInvalid>Chosen name is invalid.</NameInvalid>
   <PawnGainsName>This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}.</PawnGainsName>
   <AnimalGainsName>The animal's name is now {0}.</AnimalGainsName>
+  <RenamePerson>rename person</RenamePerson>
+  <Mother>mother</Mother>
+  <Father>father</Father>
+  <Unknown>unknown</Unknown>
+  <FirstName>first name</FirstName>
+  <NickName>nickname</NickName>
+  <LastName>last name</LastName>
+  <Title>title</Title>
+  <Suggested>suggested</Suggested>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Version mismatch</VersionMismatch>
@@ -102,7 +121,9 @@
   <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
   <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
   <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.</ModsMismatchWarningText>
+  <ModsMismatchOrderChanged>No mods have been added or removed, but the order of your mod list has changed.</ModsMismatchOrderChanged>
+  <ConfirmLoadSaveList>Are you sure you want to load the mod list from this save file?</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
@@ -111,7 +132,16 @@
 
   <!-- Confirm permanently disable dev mode -->
   <ConfirmPermanentlyDisableDevMode>Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how.</ConfirmPermanentlyDisableDevMode>
-  
+
+  <!-- Confirm reset learning helper -->
+  <ConfirmResetLearningHelper>Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch.</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <RestartAfterImportingLegacyBackstoryTanslations>Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect.</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <SelectedCharactersMustInclude>Must include exactly {SUMMARY}</SelectedCharactersMustInclude>
+
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
   <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
@@ -144,8 +174,8 @@
   <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Work amount</WorkAmount>
   <MinimumSkills>Minimum skills:</MinimumSkills>
-  <BillRequires>Requires {0} {1}</BillRequires>
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
+  <BillRequires>Requires</BillRequires>
+  <BillNutrition>nutrition</BillNutrition>
   <BillRequiresMayVary>Note: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
   <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
   <UsableIngredients>ingredients</UsableIngredients>
@@ -176,7 +206,7 @@
   <BurstShotCount>Burst shot count</BurstShotCount>
   <WarmupTime>Warmup</WarmupTime>
   <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
-  <RangedWarmupTime>Ranged warmup</RangedWarmupTime>
+  <RangedWarmupTime>Aiming time</RangedWarmupTime>
   <CooldownTime>Cooldown</CooldownTime>
   <DisarmedTime>Disarmed</DisarmedTime>
   <ChargingTime>Charging</ChargingTime>
@@ -236,7 +266,9 @@
   <ToleranceGain>Tolerance gain per dose</ToleranceGain>
   <ToleranceFallRate>Tolerance fall rate</ToleranceFallRate>
   <MinimumToleranceForAddiction>New addiction min tolerance</MinimumToleranceForAddiction>
-  <SafeDoseInterval>Safe dose interval</SafeDoseInterval>
+  <SafeDoseInterval>Safe dose interval for adults</SafeDoseInterval>
+  <AgeXToY>age {0}-{1}</AgeXToY>
+  <AgePlus>age {0}+</AgePlus>
   <Addictiveness>New addiction chance</Addictiveness>
   <AddictionSeverityInitial>Addiction initial severity</AddictionSeverityInitial>
   <AddictionSeverityPerDose>Addiction severity per dose</AddictionSeverityPerDose>
@@ -283,7 +315,7 @@
   <ClickToViewFactions>Click to view factions.</ClickToViewFactions>
   <MeditationFocuses>meditation focus types</MeditationFocuses>
   <MeditationFocusesUnlocked>Unlocks meditation focus types</MeditationFocusesUnlocked>
-  <MeditationFocusesPawnDesc>The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on.</MeditationFocusesPawnDesc>
+  <MeditationFocusesPawnDesc>The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on.</MeditationFocusesPawnDesc>
   <MeditationFocusesDesc>The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on.</MeditationFocusesDesc>
   <MeditationFocusCanUse>Can use {0} focus type because</MeditationFocusCanUse>
   <MeditationFocusObjects>{0} focus objects</MeditationFocusObjects>
@@ -417,6 +449,7 @@
   <FactionType>Faction type</FactionType>
   <TotalBodySize>Total body size</TotalBodySize>
   <AutomaticallySelectTravelSupplies>Automatically select travel supplies</AutomaticallySelectTravelSupplies>
+  <CaravanAnimalSick>This animal is sick. It is suffering from the following illnesses</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <SplitCaravan>Split caravan</SplitCaravan>
@@ -496,6 +529,7 @@
 
   <!-- Food restriction management -->
   <FoodRestriction>Food restriction</FoodRestriction>
+  <FoodRestrictionShort>Food</FoodRestrictionShort>
   <FoodRestrictionLavish>Lavish</FoodRestrictionLavish>
   <FoodRestrictionFine>Fine</FoodRestrictionFine>
   <FoodRestrictionSimple>Simple</FoodRestrictionSimple>
@@ -508,6 +542,7 @@
   <NoFoodRestrictionSelected>No food restriction selected</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
+  <DefaultMedicineSettings>Default medicine settings</DefaultMedicineSettings>
   <MedGroupDefaults>Defaults</MedGroupDefaults>
   <MedGroupColonist>Colonist</MedGroupColonist>
   <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
@@ -538,7 +573,7 @@
   <ConfirmSendNotCompletelyLoadedPods>Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <ConfirmCleanupTranslationFiles>Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool.</ConfirmCleanupTranslationFiles>
@@ -551,6 +586,7 @@
   <ConfirmCancelMonumentMarker>Do you really want to remove this monument marker?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
+  <CannotUseAbility>Cannot use {0}</CannotUseAbility>
   <AbilityRequiresLOS>Line of sight required</AbilityRequiresLOS>
   <AbilityEntropyGain>Neural heat gain</AbilityEntropyGain>
   <AbilityPsyfocusCost>Psyfocus cost</AbilityPsyfocusCost>
@@ -558,11 +594,12 @@
   <AbilityEffectRadius>Effect radius</AbilityEffectRadius>
   <AbilityCastingTime>Casting time</AbilityCastingTime>
   <AbilityCannotHitTarget>No line of sight to target.</AbilityCannotHitTarget>
+  <AbilityOutOfRange>Target is out of range.</AbilityOutOfRange>
   <AbilityCannotReachTarget>Can't reach the target.</AbilityCannotReachTarget>
   <AbilityNotEnoughFreeSpace>Not enough free space.</AbilityNotEnoughFreeSpace>
-  <AbilityOccupiedCells>{0} must target an empty area.</AbilityOccupiedCells>
-  <AbilityUnwalkable>{0} must target a walkable area.</AbilityUnwalkable>
-  <AbilityRoofed>{0} must target an unroofed area.</AbilityRoofed>
+  <AbilityOccupiedCells>Must target an empty area.</AbilityOccupiedCells>
+  <AbilityUnwalkable>Must target a walkable area.</AbilityUnwalkable>
+  <AbilityRoofed>Must target an unroofed area.</AbilityRoofed>
   <AbilityCantApplyToMentallyBroken>{0_labelShort} is mentally broken.</AbilityCantApplyToMentallyBroken>
   <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} is not mentally broken.</AbilityCanOnlyApplyToMentallyBroken>
   <AbilityCanOnlyApplyToManhunter>{0_labelShort} is not maddened.</AbilityCanOnlyApplyToManhunter>
@@ -572,6 +609,8 @@
   <AbilityCantApplyDowned>{0_labelShort} is downed.</AbilityCantApplyDowned>
   <AbilityCantApplyOnAsexual>Cannot use: {0} is asexual.</AbilityCantApplyOnAsexual>
   <AbilityCantApplyWrongAttractionGender>{1_labelShort} is the wrong gender for {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyTooYoung>{0_labelShort} is too young.</AbilityCantApplyTooYoung>
+  <AbilityCantApplyOnBaby>Cannot target a baby.</AbilityCantApplyOnBaby>
   <PsyfocusCostPerMentalBreakIntensity>Psyfocus cost per mental break intensity</PsyfocusCostPerMentalBreakIntensity>
   <AbilityAlreadyInspired>{0_labelShort} is already inspired.</AbilityAlreadyInspired>
   <AbilityCantGetInspiredNow>{0_labelShort} can't get an inspiration right now.</AbilityCantGetInspiredNow>
@@ -640,5 +679,40 @@
   <RoomRequirementAllFineFloored>all fine floored</RoomRequirementAllFineFloored>
   <RoomRequirementNoProductionFacilities>no work facilities allowed</RoomRequirementNoProductionFacilities>
   <RoomRequirementNoAltars>no altars allowed</RoomRequirementNoAltars>
+
+  <LifeStageMaxFood>Lifestage max food factor</LifeStageMaxFood>
+
+  <ExpandAllCategories>Expand all</ExpandAllCategories>
+  <CollapseAllCategories>Collapse all</CollapseAllCategories>
+
+  <TooltipDyeExplanation>Dye can be farmed from tinctoria or purchased from traders.</TooltipDyeExplanation>
+
+  <ZoomRange>Zoom range {0}</ZoomRange>
+
+  <!-- Color picker -->
+  <ColorTemperature>color temperature</ColorTemperature>
+  <ChooseAColor>choose a color</ChooseAColor>
+  <Red>red</Red>
+  <Green>green</Green>
+  <Blue>blue</Blue>
+  <Hue>hue</Hue>
+  <Saturation>sat</Saturation>
+  <Value>value</Value>
+  <Darklight>darklight</Darklight>
+  <NotDarklight>not darklight</NotDarklight>
+  <CurrentColor>current color</CurrentColor>
+  <OldColor>old color</OldColor>
+  <CommandCopyColorLabel>Copy color</CommandCopyColorLabel>
+  <CommandCopyColorDesc>Copy the current color to the clipboard.</CommandCopyColorDesc>
+  <CommandPasteColorLabel>Paste color</CommandPasteColorLabel>
+  <CommandPasteColorDesc>Overwrite the color with the color in the clipboard.</CommandPasteColorDesc>
+  <ClipboardInvalidColor>The clipboard does not contain a valid color.</ClipboardInvalidColor>
+  <ColorCopiedSuccessfully>Color copied to clipboard.</ColorCopiedSuccessfully>
+  <ColorPastedSuccessfully>Updated color from the clipboard.</ColorPastedSuccessfully>
+  <ToggleDarklightOff>Change to normal light</ToggleDarklightOff>
+  <ToggleDarklightOffDesc>Change the light color to its normal color.</ToggleDarklightOffDesc>
+  <ToggleDarklightOn>Change to darklight</ToggleDarklightOn>
+  <ToggleDarklightOnDesc>Change the light color to darklight.</ToggleDarklightOnDesc>
+  <ColorTemperatureTooltip>Choose a color by setting the color temperature. Note: This only affects visual color, not heat output.</ColorTemperatureTooltip>
 
 </LanguageData>

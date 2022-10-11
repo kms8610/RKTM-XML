@@ -2,6 +2,8 @@
 <LanguageData>
   <Make_Kibble.label>make kibble</Make_Kibble.label>
   <Make_Kibble.description>Make animal kibble by combining raw meat and plants.</Make_Kibble.description>
+  <Make_Kibble.ingredients.0.filter.customSummary>protein</Make_Kibble.ingredients.0.filter.customSummary>
+  <Make_Kibble.ingredients.1.filter.customSummary>greens</Make_Kibble.ingredients.1.filter.customSummary>
   <Make_Kibble.jobString>Making kibble.</Make_Kibble.jobString>
   
   <Make_Pemmican.label>make pemmican</Make_Pemmican.label>
