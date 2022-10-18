@@ -127,11 +127,12 @@
   <CaravanEntering>Entering {0}.</CaravanEntering>
   <CaravanAttacking>Attacking {0}.</CaravanAttacking>
   <CaravanOfferingGifts>Offering gifts to {0}.</CaravanOfferingGifts>
-  <CaravanTrading>Trading with {0}</CaravanTrading>
+  <CaravanTrading>Trading with {0}.</CaravanTrading>
   <WasWornByCorpse>Tainted from being worn by a corpse.</WasWornByCorpse>
   <WornByCorpseChar>T</WornByCorpseChar>
   <DeterioratingUnroofed>unroofed</DeterioratingUnroofed>
   <DeterioratingOutdoors>outdoors</DeterioratingOutdoors>
+  <DeterioratingRaining>raining</DeterioratingRaining> <!-- text_todo -->
   <Protected>protected</Protected>
   <DeterioratingBecauseOf>Deteriorating</DeterioratingBecauseOf>
   <DeteriorateInDuration>Will deteriorate in {0}.</DeteriorateInDuration>
@@ -141,7 +142,7 @@
   <Room>Room</Room>
   <BeautyHere>Beauty here</BeautyHere>
   <NoPower>no power</NoPower>
-  <WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
+  <WorkSpeedPenalty>Work speed</WorkSpeedPenalty>
   <DisabledCommand>Disabled</DisabledCommand>
   <ReadyForLaunch>Ready for launch.</ReadyForLaunch>
   <NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
@@ -363,8 +364,10 @@
   <Biome_Label>Biome</Biome_Label>
   <Hilliness_Label>Hilliness</Hilliness_Label>
   <Road_Label>Road</Road_Label>
+  <River_Label>River</River_Label> <!-- text_todo -->
   <MovementDifficulty_Label>Movement difficulty</MovementDifficulty_Label>
   <Pollution_Label>Pollution</Pollution_Label>
+  <Filth_Label>Filth</Filth_Label><!-- text_todo -->
   
   <Faction_Label>Faction</Faction_Label>
   <Relationship_Label>Relationship</Relationship_Label>

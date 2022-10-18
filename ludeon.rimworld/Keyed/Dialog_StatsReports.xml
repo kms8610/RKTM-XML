@@ -22,6 +22,7 @@
   <StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
   <StatsReport_ShootingExampleDistances>The chances to hit at increasing distances are</StatsReport_ShootingExampleDistances>
   <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
+  <StatsReport_MultiplierFor>Multiplier for {0}</StatsReport_MultiplierFor>
   <StatsReport_MarketValueFromStuffsAndWork>Materials and labor</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
   <StatsReport_QualityOffset>Quality offset</StatsReport_QualityOffset>
@@ -152,8 +153,8 @@
   <Stat_Hediff_HungerRateFactor_Desc>A multiplier on the rate at which the food need depletes.</Stat_Hediff_HungerRateFactor_Desc>
   <Stat_Hediff_HungerRateOffset_Desc>An offset on the rate at which the food need depletes.</Stat_Hediff_HungerRateOffset_Desc>
   <Stat_Hediff_TirednessOffset_Name>Rest fall rate</Stat_Hediff_TirednessOffset_Name>
-  <Stat_Hediff_TirednessOffset_Desc>An offset applied to the rate at which the creatures rest need falls.</Stat_Hediff_TirednessOffset_Desc>
-  <Stat_Hediff_TirednessFactor_Desc>A multiplier applied to the rate at which the creatures rest need falls.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_TirednessOffset_Desc>An offset applied to the rate at which the creature's sleep need falls.</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>A multiplier applied to the rate at which the creature's sleep need falls.</Stat_Hediff_TirednessFactor_Desc>
   <Stat_Hediff_PreventsInfection_Desc>Whether or not this will prevent infections.</Stat_Hediff_PreventsInfection_Desc>
   <Stat_Thing_Terrain_Supports_Desc>The things this terrain supports.</Stat_Thing_Terrain_Supports_Desc>
   <Stat_Thing_TerrainRequirement_Desc>This can only be placed on terrain of these types.</Stat_Thing_TerrainRequirement_Desc>
