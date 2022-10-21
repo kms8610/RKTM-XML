@@ -29,7 +29,7 @@
   <ShipLandingBeaconUnusableDesc>A ship landing beacon is powered but can't be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals.</ShipLandingBeaconUnusableDesc>
 
   <NeedMeditationSpotAlert>Need meditation spot</NeedMeditationSpotAlert>
-  <NeedMeditationSpotAlertDesc>These colonists have a psyfocus need, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use.</NeedMeditationSpotAlertDesc>
+  <NeedMeditationSpotAlertDesc>These colonists have a psyfocus need or are sceheduled to meditate, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use.</NeedMeditationSpotAlertDesc><!-- text_todo -->
 
   <UnusableMeditationFocusAlert>Unusable meditation focus</UnusableMeditationFocusAlert>
   <UnusableMeditationFocusAlertDesc>These colonists are meditating near a focus object they can't use.\n\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button.</UnusableMeditationFocusAlertDesc>
