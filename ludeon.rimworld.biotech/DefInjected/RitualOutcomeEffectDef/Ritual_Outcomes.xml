@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ChildBirth.description>All quality factors determine how healthy the mom and baby are going to be.</ChildBirth.description>
+  <ChildBirth.comps.0.label>{PAWN_labelShort}'s age</ChildBirth.comps.0.label>
+  <ChildBirth.comps.0.labelAbstract>mother's age</ChildBirth.comps.0.labelAbstract>
+  <ChildBirth.comps.1.label>{PAWN_labelShort}'s medicine skill</ChildBirth.comps.1.label>
+  <ChildBirth.comps.1.labelAbstract>doctor's medicine skill</ChildBirth.comps.1.labelAbstract>
+  <ChildBirth.comps.2.label>loved one present</ChildBirth.comps.2.label>
+  <ChildBirth.comps.2.labelNotMet>loved one absent</ChildBirth.comps.2.labelNotMet>
+  <ChildBirth.comps.3.label>indoors</ChildBirth.comps.3.label>
+  <ChildBirth.comps.4.label>room cleanliness</ChildBirth.comps.4.label>
+  <ChildBirth.comps.5.label>bed health effects</ChildBirth.comps.5.label>
+  <ChildBirth.extraOutcomeDescriptions.0.description>Additionally, the mother will have a {0_percentage} chance to die during birth.</ChildBirth.extraOutcomeDescriptions.0.description>
+  <ChildBirth.outcomeChances.0.label>Still</ChildBirth.outcomeChances.0.label>
+  <ChildBirth.outcomeChances.0.description>{MOTHER_labelShort}'s baby was stillborn.</ChildBirth.outcomeChances.0.description>
+  <ChildBirth.outcomeChances.1.label>Sick</ChildBirth.outcomeChances.1.label>
+  <ChildBirth.outcomeChances.1.description>{MOTHER_labelShort} gave birth to a baby. Unfortunately, the baby is sick.</ChildBirth.outcomeChances.1.description>
+  <ChildBirth.outcomeChances.2.label>Healthy</ChildBirth.outcomeChances.2.label>
+  <ChildBirth.outcomeChances.2.description>{MOTHER_labelShort} gave birth to a healthy baby!</ChildBirth.outcomeChances.2.description>
+</LanguageData>

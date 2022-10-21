@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Beard_Always.label>unisex beards</Beard_Always.label>
+  <Beard_Always.description>Carriers of this gene always have thick facial hair, even women.</Beard_Always.description>
+  <Beard_Always.labelShortAdj>bearded</Beard_Always.labelShortAdj>
+  
+  <Beard_BushyOnly.label>only bushy beards</Beard_BushyOnly.label>
+  <Beard_BushyOnly.description>Male carriers of this gene experience rapid beard growth and are uncomfortable cutting their beards.</Beard_BushyOnly.description>
+  <Beard_BushyOnly.labelShortAdj>bushy</Beard_BushyOnly.labelShortAdj>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>beard</Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>bush</Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>lumber</Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>bristle</Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>
+  <Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>beard</Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>
+  <Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>bush</Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>
+  
+  <Beard_NoBeardOnly.label>beardless</Beard_NoBeardOnly.label>
+  <Beard_NoBeardOnly.description>Carriers of this gene grow no facial hair.</Beard_NoBeardOnly.description>
+  <Beard_NoBeardOnly.labelShortAdj>beardless</Beard_NoBeardOnly.labelShortAdj>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>smooth</Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>bare</Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>clean</Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>
+  <Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>chin</Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>smoothchin</Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <Brow_Heavy.label>heavy brow</Brow_Heavy.label>
+  <Brow_Heavy.description>Carriers of this gene have a prominent brow.</Brow_Heavy.description>
+  
+  <Eyes_Gray.label>gray eyes</Eyes_Gray.label>
+  <Eyes_Gray.description>Carriers of this gene have pale white-gray eyes.</Eyes_Gray.description>
+  <Eyes_Gray.labelShortAdj>gray-eyed</Eyes_Gray.labelShortAdj>
+  
+  <Eyes_Red.label>red eyes</Eyes_Red.label>
+  <Eyes_Red.description>Carriers of this gene have deeply red-pigmented eyes.</Eyes_Red.description>
+  <Eyes_Red.labelShortAdj>red-eyed</Eyes_Red.labelShortAdj>
+  
+  <FacialRidges.label>facial ridges</FacialRidges.label>
+  <FacialRidges.description>Carriers of this gene grow raised ridges of skin on their face.</FacialRidges.description>
+  
+  <Furskin.label>furskin</Furskin.label>
+  <Furskin.description>Carriers of this gene grow thick fur all over their body, which protects them from cold temperatures.</Furskin.description>
+  <Furskin.labelShortAdj>furskinned</Furskin.labelShortAdj>
+  
+  <Hair_BaldOnly.label>no hair</Hair_BaldOnly.label>
+  <Hair_BaldOnly.description>Carriers of this gene grow no hair on the head.</Hair_BaldOnly.description>
+  <Hair_BaldOnly.labelShortAdj>bald</Hair_BaldOnly.labelShortAdj>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>bald</Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>chrome</Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>dome</Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>smooth</Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>bare</Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>dome</Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>smooth</Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>bare</Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>
+  
+  <Hair_Grayless.label>grayless hair</Hair_Grayless.label>
+  <Hair_Grayless.description>Carriers of this gene keep their natural hair color as they age.</Hair_Grayless.description>
+  <Hair_Grayless.customEffectDescriptions.0>No age-related gray hair.</Hair_Grayless.customEffectDescriptions.0>
+  
+  <Hair_LongOnly.label>long-haired</Hair_LongOnly.label>
+  <Hair_LongOnly.description>Carriers of this gene grow hair on the head very quickly.</Hair_LongOnly.description>
+  
+  <Hair_ShortOnly.label>short-haired</Hair_ShortOnly.label>
+  <Hair_ShortOnly.description>Carriers of this gene can only grow short hair.</Hair_ShortOnly.description>
+  <Hair_ShortOnly.labelShortAdj>crop</Hair_ShortOnly.labelShortAdj>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>crop</Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>fuzz</Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>stub</Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>patch</Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>crop</Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>fuzz</Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>stub</Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>patch</Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>
+  
+  <Skin_Blue.label>blue skin</Skin_Blue.label>
+  <Skin_Blue.description>Carriers of this gene produce a pigment that turns their skin a blue color.</Skin_Blue.description>
+  <Skin_Blue.labelShortAdj>blue</Skin_Blue.labelShortAdj>
+  <Skin_Blue.symbolPack.prefixSymbols.0.symbol>blue</Skin_Blue.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.1.symbol>ice</Skin_Blue.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.2.symbol>sky</Skin_Blue.symbolPack.prefixSymbols.2.symbol>
+  
+  <Skin_DeepRed.label>deep red skin</Skin_DeepRed.label>
+  <Skin_DeepRed.description>Carriers of this gene produce a deep-red pigment that gives their skin an almost bloody appearance.</Skin_DeepRed.description>
+  <Skin_DeepRed.labelShortAdj>red</Skin_DeepRed.labelShortAdj>
+  <Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>red</Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>crim</Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>fire</Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>rose</Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>wine</Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>
+  
+  <Skin_DeepYellow.label>deep yellow skin</Skin_DeepYellow.label>
+  <Skin_DeepYellow.description>Carriers of this gene produce a pigment that gives their skin a deep yellow color.</Skin_DeepYellow.description>
+  <Skin_DeepYellow.labelShortAdj>yellow</Skin_DeepYellow.labelShortAdj>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>yellow</Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>lemon</Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>gold</Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>
+  
+  <Skin_Green.label>green skin</Skin_Green.label>
+  <Skin_Green.description>Carriers of this gene produce a pigment that gives their skin a green color.</Skin_Green.description>
+  <Skin_Green.labelShortAdj>green</Skin_Green.labelShortAdj>
+  <Skin_Green.symbolPack.prefixSymbols.0.symbol>green</Skin_Green.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.1.symbol>lime</Skin_Green.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.2.symbol>jade</Skin_Green.symbolPack.prefixSymbols.2.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.3.symbol>leaf</Skin_Green.symbolPack.prefixSymbols.3.symbol>
+  <Skin_Green.symbolPack.wholeNameSymbols.0.symbol>greenskin</Skin_Green.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <Skin_InkBlack.label>ink black skin</Skin_InkBlack.label>
+  <Skin_InkBlack.description>Carriers of this gene produce a pigment that turns their skin a pale black color almost as dark as ink.</Skin_InkBlack.description>
+  <Skin_InkBlack.labelShortAdj>noir</Skin_InkBlack.labelShortAdj>
+  <Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>ink</Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>dark</Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>coal</Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>pitch</Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>shadow</Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>raven</Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>jet</Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>shadow</Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>raven</Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>jet</Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>
+  
+  <Skin_LightGray.label>light gray skin</Skin_LightGray.label>
+  <Skin_LightGray.description>Carriers of this produce a light-gray pigment in their skin.</Skin_LightGray.description>
+  <Skin_LightGray.labelShortAdj>gray</Skin_LightGray.labelShortAdj>
+  <Skin_LightGray.symbolPack.prefixSymbols.0.symbol>gray</Skin_LightGray.symbolPack.prefixSymbols.0.symbol>
+  <Skin_LightGray.symbolPack.prefixSymbols.1.symbol>pale</Skin_LightGray.symbolPack.prefixSymbols.1.symbol>
+  
+  <Skin_Orange.label>orange skin</Skin_Orange.label>
+  <Skin_Orange.description>Carriers of this gene produce a pigment that gives their skin an orange color.</Skin_Orange.description>
+  <Skin_Orange.labelShortAdj>orange</Skin_Orange.labelShortAdj>
+  <Skin_Orange.symbolPack.prefixSymbols.0.symbol>orange</Skin_Orange.symbolPack.prefixSymbols.0.symbol>
+  
+  <Skin_PaleRed.label>pale red skin</Skin_PaleRed.label>
+  <Skin_PaleRed.description>Carriers of this gene produce a pigment that turns their skin a moderate red color.</Skin_PaleRed.description>
+  <Skin_PaleRed.labelShortAdj>pink</Skin_PaleRed.labelShortAdj>
+  <Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>pink</Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>
+  <Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>red</Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>
+  <Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>rose</Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>
+  
+  <Skin_PaleYellow.label>pale yellow skin</Skin_PaleYellow.label>
+  <Skin_PaleYellow.description>Carriers of this gene produce a pigment that turns their skin a grayish yellow color.</Skin_PaleYellow.description>
+  <Skin_PaleYellow.labelShortAdj>cream</Skin_PaleYellow.labelShortAdj>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>yellow</Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>banana</Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>cream</Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>
+  <Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>banana</Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>
+  
+  <Skin_Purple.label>purple skin</Skin_Purple.label>
+  <Skin_Purple.description>Carriers of this gene produce a pigment that gives their skin a purple color.</Skin_Purple.description>
+  <Skin_Purple.labelShortAdj>purple</Skin_Purple.labelShortAdj>
+  <Skin_Purple.symbolPack.prefixSymbols.0.symbol>purp</Skin_Purple.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Purple.symbolPack.prefixSymbols.1.symbol>grape</Skin_Purple.symbolPack.prefixSymbols.1.symbol>
+  
+  <Skin_SheerWhite.label>sheer white skin</Skin_SheerWhite.label>
+  <Skin_SheerWhite.description>Carriers of this gene have sheer white skin, unlike natural skin tones, due to a special engineered reflective cell covering.</Skin_SheerWhite.description>
+  <Skin_SheerWhite.labelShortAdj>pale</Skin_SheerWhite.labelShortAdj>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>white</Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>pale</Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>snow</Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>glow</Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>shine</Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>ala</Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>bleach</Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>pearl</Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>frost</Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>ice</Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>milk</Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>chalk</Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>salt</Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>
+  <Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>ghost</Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>
+  
+  <Skin_SlateGray.label>slate gray skin</Skin_SlateGray.label>
+  <Skin_SlateGray.description>Carriers of this gene produce a pigment that turns their skin slate gray.</Skin_SlateGray.description>
+  <Skin_SlateGray.labelShortAdj>slate</Skin_SlateGray.labelShortAdj>
+  <Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>gray</Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>slate</Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>fog</Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>gloom</Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>smoke</Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>grim</Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>murk</Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>mist</Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>wisp</Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>ghost</Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>murk</Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>
+  
+  <Tail_Furry.label>furry tail</Tail_Furry.label>
+  <Tail_Furry.description>Carriers of this gene grow a fluffy tail which partially protects them from cold temperatures.</Tail_Furry.description>
+  
+  <Tail_Smooth.label>smooth tail</Tail_Smooth.label>
+  <Tail_Smooth.description>Carriers of this gene grow a slender tail that can act as a dexterous fifth limb.</Tail_Smooth.description>
+</LanguageData>

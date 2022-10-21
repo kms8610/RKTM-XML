@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BeamWound.label>beam burn</BeamWound.label>
+  <BeamWound.description>A beam burn.</BeamWound.description>
+  <BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>permanent beam injury</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>old beam wound</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
+  <BeamWound.injuryProps.destroyedLabel>Burned off</BeamWound.injuryProps.destroyedLabel>
+  <BeamWound.injuryProps.destroyedOutLabel>Burned out</BeamWound.injuryProps.destroyedOutLabel>
+  <BeamWound.labelNoun>a beam burn</BeamWound.labelNoun>
+  <BeamWound.labelNounPretty>{0} in the {1}</BeamWound.labelNounPretty>
+</LanguageData>

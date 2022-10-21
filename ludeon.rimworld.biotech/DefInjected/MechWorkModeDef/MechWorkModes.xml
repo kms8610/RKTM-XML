@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Escort.label>escort</Escort.label>
+  <Escort.description>Stay near the mechanitor and fight nearby enemies. Follow the mechanitor, even off the map.</Escort.description>
+  
+  <Recharge.label>recharge</Recharge.label>
+  <Recharge.description>Go to rechargers and recharge, even if already well-charged.</Recharge.description>
+  
+  <SelfShutdown.label>dormant self-charge</SelfShutdown.label>
+  <SelfShutdown.description>Go into a dormant self-charging state that very slowly regains energy without a recharger.</SelfShutdown.description>
+  
+  <Work.label>work</Work.label>
+  <Work.description>Work autonomously according to mechanoid type. Automatically go to rechargers and recharge when needed.</Work.description>
+</LanguageData>

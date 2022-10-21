@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AcidSpray.label>acid spray</AcidSpray.label>
+  <AcidSpray.description>Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them over time.</AcidSpray.description>
+  
+  <AnimalWarcall.label>animal warcall</AnimalWarcall.label>
+  <AnimalWarcall.description>With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours.</AnimalWarcall.description>
+  <AnimalWarcall.verbProperties.label>warcall</AnimalWarcall.verbProperties.label>
+  
+  <Bloodfeed.label>bloodfeed</Bloodfeed.label>
+  <Bloodfeed.description>Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target’s body size.</Bloodfeed.description>
+  
+  <Coagulate.label>coagulate</Coagulate.label>
+  <Coagulate.description>Use special glands in the wrists to quickly tend someone's wounds.</Coagulate.description>
+  
+  <FireBurst.label>fire burst</FireBurst.label>
+  <FireBurst.description>Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground.</FireBurst.description>
+  
+  <FireSpew.label>fire spew</FireSpew.label>
+  <FireSpew.description>Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition.</FireSpew.description>
+  
+  <FirefoampopMech.label>firefoam pop</FirefoampopMech.label>
+  <FirefoampopMech.description>Release a fire-retardant foam in a circular area.</FirefoampopMech.description>
+  
+  <FoamSpray.label>foam spray</FoamSpray.label>
+  <FoamSpray.description>Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches.</FoamSpray.description>
+  
+  <Longjump.label>longjump</Longjump.label>
+  <Longjump.description>Jump to a distant location using super-strong hemogen-powered legs.</Longjump.description>
+  <Longjump.verbProperties.label>jump</Longjump.verbProperties.label>
+  
+  <LongjumpMech.label>mech longjump</LongjumpMech.label>
+  <LongjumpMech.description>Jump to a distant location using special ultrafast mechanoid muscles.</LongjumpMech.description>
+  <LongjumpMech.verbProperties.label>jump</LongjumpMech.verbProperties.label>
+  
+  <LongjumpMechLauncher.label>jump launcher</LongjumpMechLauncher.label>
+  <LongjumpMechLauncher.description>Jump to a distant location using a built-in jump launcher.</LongjumpMechLauncher.description>
+  <LongjumpMechLauncher.verbProperties.label>jump</LongjumpMechLauncher.verbProperties.label>
+  
+  <PiercingSpine.label>piercing spine</PiercingSpine.label>
+  <PiercingSpine.description>Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim.</PiercingSpine.description>
+  
+  <ReimplantXenogerm.label>implant genes</ReimplantXenogerm.label>
+  <ReimplantXenogerm.description>Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.</ReimplantXenogerm.description>
+  
+  <Resurrect.label>resurrect</Resurrect.label>
+  <Resurrect.description>Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely.</Resurrect.description>
+  
+  <ResurrectionMech.label>resurrect mech</ResurrectionMech.label>
+  <ResurrectionMech.description>Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed.</ResurrectionMech.description>
+  
+  <SmokepopMech.label>mech smokepop</SmokepopMech.label>
+  <SmokepopMech.description>Release compressed smoke from concealed vents. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.</SmokepopMech.description>
+</LanguageData>

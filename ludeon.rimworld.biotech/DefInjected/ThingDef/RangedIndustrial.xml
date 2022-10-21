@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_ToxbombLauncher.label>toxbomb launcher shell</Bullet_ToxbombLauncher.label>
+  
+  <Flamebow.label>flamebow</Flamebow.label>
+  <Flamebow.description>A simple short selfbow with a load of incendiary arrows. The arrows carry fuel and an igniter. Upon impact, they spray fuel around and ignite it.</Flamebow.description>
+  <Flamebow.tools.limb.label>limb</Flamebow.tools.limb.label>
+  <Flamebow.verbs.Verb_Shoot.label>flamebow</Flamebow.verbs.Verb_Shoot.label>
+  
+  <Gun_ToxbombLauncher.label>toxbomb launcher</Gun_ToxbombLauncher.label>
+  <Gun_ToxbombLauncher.description>A self-loading low-pressure canister launcher loaded with tox bombs. Upon impact, the tox bombs will stick to the ground and release tox gas for several seconds.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal.</Gun_ToxbombLauncher.description>
+  <Gun_ToxbombLauncher.tools.stock.label>stock</Gun_ToxbombLauncher.tools.stock.label>
+  <Gun_ToxbombLauncher.tools.barrel.label>barrel</Gun_ToxbombLauncher.tools.barrel.label>
+  <Gun_ToxbombLauncher.verbs.Verb_Shoot.label>toxbomb launcher</Gun_ToxbombLauncher.verbs.Verb_Shoot.label>
+  
+  <Proj_FireArrow.label>fire arrow</Proj_FireArrow.label>
+  
+  <Proj_GrenadeTox.label>tox grenade</Proj_GrenadeTox.label>
+  
+  <Weapon_GrenadeTox.label>tox grenades</Weapon_GrenadeTox.label>
+  <Weapon_GrenadeTox.description>Grenades loaded with liquified tox gas. Upon landing, they stick to the ground and release tox gas for several seconds.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal.</Weapon_GrenadeTox.description>
+  <Weapon_GrenadeTox.verbs.throw_tox_grenade.label>throw tox grenade</Weapon_GrenadeTox.verbs.throw_tox_grenade.label>
+</LanguageData>

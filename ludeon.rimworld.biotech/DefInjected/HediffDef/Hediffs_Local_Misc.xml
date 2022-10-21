@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AcidBurn.label>acid burn</AcidBurn.label>
+  <AcidBurn.description>An acid burn.</AcidBurn.description>
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>acid burn scar</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <AcidBurn.injuryProps.destroyedLabel>Dissolved off</AcidBurn.injuryProps.destroyedLabel>
+  <AcidBurn.labelNoun>an acid burn</AcidBurn.labelNoun>
+  <AcidBurn.labelNounPretty>{0} in the {1}</AcidBurn.labelNounPretty>
+  
+  <BloodfeederMark.label>bloodfeeder mark</BloodfeederMark.label>
+  <BloodfeederMark.description>Two small puncture wounds.</BloodfeederMark.description>
+  <BloodfeederMark.labelNoun>a bloodfeeder mark</BloodfeederMark.labelNoun>
+  
+  <ImplantedIUD.label>implanted IUD</ImplantedIUD.label>
+  <ImplantedIUD.description>A small metal device has been implanted in this individual's uterus, preventing pregnancy. This can be surgically reversed in most cases, but there is a chance of permanent sterilization.</ImplantedIUD.description>
+  
+  <ToxGasExposure.label>tox gas</ToxGasExposure.label>
+  <ToxGasExposure.description>Aftereffects of exposure to tox gas, a poisonous chemical gas. It burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup and eventually death.</ToxGasExposure.description>
+  <ToxGasExposure.stages.mild.label>mild</ToxGasExposure.stages.mild.label>
+  <ToxGasExposure.stages.moderate.label>moderate</ToxGasExposure.stages.moderate.label>
+  <ToxGasExposure.stages.severe.label>severe</ToxGasExposure.stages.severe.label>
+  
+  <TubalLigation.label>tubal ligation</TubalLigation.label>
+  <TubalLigation.description>This individual's reproductive parts have been shut down by closing off the fallopian tubes, preventing ova from traveling from the ovary to the uterus.</TubalLigation.description>
+  
+  <Vasectomy.label>vasectomy</Vasectomy.label>
+  <Vasectomy.description>This creature's reproductive parts have been disabled by cutting and sealing the vas deferens, a tube which carries sperm to the urethra. This can be surgically reversed in most cases, but there is a chance of permanent sterilization.</Vasectomy.description>
+</LanguageData>

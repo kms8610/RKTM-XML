@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Fertile.label>fertile</Fertile.label>
+  <Fertile.description>Carriers of this gene have a higher chance of becoming pregnant or impregnating others.</Fertile.description>
+  
+  <Immunity_Strong.label>strong immunity</Immunity_Strong.label>
+  <Immunity_Strong.description>Carriers of this gene gain immunity to diseases faster than normal.</Immunity_Strong.description>
+  <Immunity_Strong.labelShortAdj>immune</Immunity_Strong.labelShortAdj>
+  <Immunity_Strong.symbolPack.prefixSymbols.0.symbol>stout</Immunity_Strong.symbolPack.prefixSymbols.0.symbol>
+  
+  <Immunity_SuperStrong.label>super immunity</Immunity_SuperStrong.label>
+  <Immunity_SuperStrong.description>Carriers of this gene gain immunity to diseases considerably faster than normal.</Immunity_SuperStrong.description>
+  <Immunity_SuperStrong.labelShortAdj>super-immune</Immunity_SuperStrong.labelShortAdj>
+  <Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>stout</Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>
+  
+  <Immunity_Weak.label>weak immunity</Immunity_Weak.label>
+  <Immunity_Weak.description>Carriers of this gene gain immunity to diseases more slowly than normal. They may die from infections that others would survive.</Immunity_Weak.description>
+  <Immunity_Weak.labelShortAdj>susceptible</Immunity_Weak.labelShortAdj>
+  <Immunity_Weak.symbolPack.prefixSymbols.0.symbol>sick</Immunity_Weak.symbolPack.prefixSymbols.0.symbol>
+  <Immunity_Weak.symbolPack.prefixSymbols.1.symbol>frail</Immunity_Weak.symbolPack.prefixSymbols.1.symbol>
+  
+  <Sterile.label>sterile</Sterile.label>
+  <Sterile.description>Carriers of this gene cannot reproduce by natural means.</Sterile.description>
+  
+  <Superclotting.label>superclotting</Superclotting.label>
+  <Superclotting.description>Carriers of this gene have extra-power coagulating factors in their blood, and will stop bleeding very quickly when wounded.</Superclotting.description>
+  <Superclotting.customEffectDescriptions.0>Bleeding wounds close very quickly.</Superclotting.customEffectDescriptions.0>
+  <Superclotting.symbolPack.prefixSymbols.0.symbol>clot</Superclotting.symbolPack.prefixSymbols.0.symbol>
+  <Superclotting.symbolPack.prefixSymbols.1.symbol>scab</Superclotting.symbolPack.prefixSymbols.1.symbol>
+  <Superclotting.symbolPack.suffixSymbols.0.symbol>clot</Superclotting.symbolPack.suffixSymbols.0.symbol>
+  <Superclotting.symbolPack.suffixSymbols.1.symbol>scab</Superclotting.symbolPack.suffixSymbols.1.symbol>
+  
+  <ToxicEnvironmentResistance_Partial.label>partial antitoxic lungs</ToxicEnvironmentResistance_Partial.label>
+  <ToxicEnvironmentResistance_Partial.description>Carriers of this gene are resistant to environmental toxins. They get less toxic buildup from tox gas, polluted terrain, and toxic fallout, but are still vulnerable to direct attacks with venom or injected poison. Additionally, they build up rot stink exposure slower.</ToxicEnvironmentResistance_Partial.description>
+  <ToxicEnvironmentResistance_Partial.labelShortAdj>tox-resistant</ToxicEnvironmentResistance_Partial.labelShortAdj>
+  <ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>tox</ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>
+  
+  <ToxicEnvironmentResistance_Total.label>total antitoxic lungs</ToxicEnvironmentResistance_Total.label>
+  <ToxicEnvironmentResistance_Total.description>Carriers of this gene are immune to environmental toxins, but not from direct toxic attacks. They get no toxic buildup from tox gas, polluted terrain, or toxic fallout, and they are not bothered by acidic smog. They are still vulnerable to direct attacks like venom and injected poison. Additionally, they are immune to rot stink exposure.</ToxicEnvironmentResistance_Total.description>
+  <ToxicEnvironmentResistance_Total.customEffectDescriptions.0>Tox gas immunity</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
+  <ToxicEnvironmentResistance_Total.labelShortAdj>tox-immune</ToxicEnvironmentResistance_Total.labelShortAdj>
+  <ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>tox</ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>
+  
+  <WoundHealing_Fast.label>fast wound healing</WoundHealing_Fast.label>
+  <WoundHealing_Fast.description>Carriers of this gene heal from wounds twice as fast as normal.</WoundHealing_Fast.description>
+  <WoundHealing_Fast.labelShortAdj>fast-heal</WoundHealing_Fast.labelShortAdj>
+  <WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>stout</WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>
+  <WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>hard</WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>
+  
+  <WoundHealing_Slow.label>slow wound healing</WoundHealing_Slow.label>
+  <WoundHealing_Slow.description>Carriers of this gene heal from wounds half as fast as normal.</WoundHealing_Slow.description>
+  <WoundHealing_Slow.labelShortAdj>slow-heal</WoundHealing_Slow.labelShortAdj>
+  <WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>soft</WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>
+  
+  <WoundHealing_SuperFast.label>superfast wound healing</WoundHealing_SuperFast.label>
+  <WoundHealing_SuperFast.description>Carriers of this gene heal from wounds four times as fast as normal.</WoundHealing_SuperFast.description>
+  <WoundHealing_SuperFast.labelShortAdj>super-heal</WoundHealing_SuperFast.labelShortAdj>
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>stout</WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>hard</WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>
+</LanguageData>

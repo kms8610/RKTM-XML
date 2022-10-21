@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BerserkWarcall.label>warcall berserk</BerserkWarcall.label>
+  <BerserkWarcall.baseInspectLine>Mental state: Warcall berserk</BerserkWarcall.baseInspectLine>
+  <BerserkWarcall.beginLetter>{0} has been roused by a warcall.\n\n[PAWN_pronoun] will attack any enemy of the colony.</BerserkWarcall.beginLetter>
+  <BerserkWarcall.recoveryMessage>{0}'s rage has come to an end.</BerserkWarcall.recoveryMessage>
+  
+  <CocoonDisturbed.label>cocoon disturbed</CocoonDisturbed.label>
+  <CocoonDisturbed.baseInspectLine>Enraged: Cocoon disturbed</CocoonDisturbed.baseInspectLine>
+  
+  <PanicFleeFire.label>panic-fleeing fire</PanicFleeFire.label>
+  <PanicFleeFire.baseInspectLine>Mental state: Fleeing fire</PanicFleeFire.baseInspectLine>
+  <PanicFleeFire.beginLetter>{0} is fleeing fire.</PanicFleeFire.beginLetter>
+  <PanicFleeFire.beginLetterLabel>fleeing fire</PanicFleeFire.beginLetterLabel>
+  <PanicFleeFire.recoveryMessage>{0} is no longer fleeing fire.</PanicFleeFire.recoveryMessage>
+</LanguageData>

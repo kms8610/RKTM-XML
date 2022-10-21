@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DeathrestAccelerator.label>deathrest accelerator</DeathrestAccelerator.label>
+  <DeathrestAccelerator.description>This device connects with a deathresting person and makes deathrest complete quicker. It enhances the effect of the deathrest casket using finer blood analysis and more powerful chemicals. It must be connected to a deathrest casket to function.</DeathrestAccelerator.description>
+  
+  <DeathrestCasket.label>deathrest casket</DeathrestCasket.label>
+  <DeathrestCasket.description>An enclosed med-casket that accelerates the process of deathrest. It can connect to other devices which confer additional bonuses on the deathrester. The number of devices that can connect depends on the person's deathrest capacity, which can be seen by selecting them.\n\nOnly those with the deathrest gene can use the deathrest casket.</DeathrestCasket.description>
+  
+  <GlucosoidPump.label>glucosoid pump</GlucosoidPump.label>
+  <GlucosoidPump.description>This device allows a deathrester to move faster after deathrest is complete. It pumps the body with extra muscle-signaling factors while cleaning waste products from muscle tissue. The effect lasts until the individual deathrests again. It must be connected to a deathrest casket to function.\n\nThis building must consume hemogen to function.</GlucosoidPump.description>
+  <GlucosoidPump.comps.CompRefuelable.fuelLabel>Hemogen</GlucosoidPump.comps.CompRefuelable.fuelLabel>
+  
+  <HemogenAmplifier.label>hemogen amplifier</HemogenAmplifier.label>
+  <HemogenAmplifier.description>This device leaves a deathrester in a hemogen-amplified state so they gain more hemogen from any hemogen source. Using a gland probe and blood analyzer, it links with a deathresting person, stimulating hemogen glands into a more active state. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function.</HemogenAmplifier.description>
+  <HemogenAmplifier.comps.CompRefuelable.fuelLabel>Hemogen</HemogenAmplifier.comps.CompRefuelable.fuelLabel>
+  
+  <Hemopump.label>hemopump</Hemopump.label>
+  <Hemopump.description>This blood-refining pump increases the amount of hemogen a deathresting person can store in their body. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function.</Hemopump.description>
+  <Hemopump.comps.CompRefuelable.fuelLabel>Hemogen</Hemopump.comps.CompRefuelable.fuelLabel>
+  
+  <PsychofluidPump.label>psychofluid pump</PsychofluidPump.label>
+  <PsychofluidPump.description>This device enhances the psychic sensitivity of a deathresting person by rhythmically stimulating neural tissues. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function.</PsychofluidPump.description>
+  <PsychofluidPump.comps.CompRefuelable.fuelLabel>Hemogen</PsychofluidPump.comps.CompRefuelable.fuelLabel>
+</LanguageData>
