@@ -132,7 +132,7 @@
   <WornByCorpseChar>T</WornByCorpseChar>
   <DeterioratingUnroofed>unroofed</DeterioratingUnroofed>
   <DeterioratingOutdoors>outdoors</DeterioratingOutdoors>
-  <DeterioratingRaining>raining</DeterioratingRaining> <!-- text_todo -->
+  <DeterioratingRaining>raining</DeterioratingRaining> 
   <Protected>protected</Protected>
   <DeterioratingBecauseOf>Deteriorating</DeterioratingBecauseOf>
   <DeteriorateInDuration>Will deteriorate in {0}.</DeteriorateInDuration>
@@ -364,10 +364,10 @@
   <Biome_Label>Biome</Biome_Label>
   <Hilliness_Label>Hilliness</Hilliness_Label>
   <Road_Label>Road</Road_Label>
-  <River_Label>River</River_Label> <!-- text_todo -->
+  <River_Label>River</River_Label> 
   <MovementDifficulty_Label>Movement difficulty</MovementDifficulty_Label>
   <Pollution_Label>Pollution</Pollution_Label>
-  <Filth_Label>Filth</Filth_Label><!-- text_todo -->
+  <Filth_Label>Filth</Filth_Label>
   
   <Faction_Label>Faction</Faction_Label>
   <Relationship_Label>Relationship</Relationship_Label>
