@@ -4,10 +4,8 @@
   <Adaptation.valueFormat>{0} days</Adaptation.valueFormat>
   
   <ColonistMood.label>mood</ColonistMood.label>
-  <ColonistMood.valueFormat>{0}%</ColonistMood.valueFormat>
   
   <FreeColonists.label>free colonists</FreeColonists.label>
-  <FreeColonists.valueFormat>{0}</FreeColonists.valueFormat>
   
   <PopAdaptation.label>pop recovery</PopAdaptation.label>
   <PopAdaptation.valueFormat>{0} days</PopAdaptation.valueFormat>
@@ -16,20 +14,15 @@
   <PopIntent.valueFormat>{0} days</PopIntent.valueFormat>
   
   <Prisoners.label>prisoners</Prisoners.label>
-  <Prisoners.valueFormat>{0}</Prisoners.valueFormat>
   
   <ThreatPoints.label>fun points /10</ThreatPoints.label>
   <ThreatPoints.valueFormat>{0} points</ThreatPoints.valueFormat>
   
   <Wealth_Buildings.label>wealth (buildings)</Wealth_Buildings.label>
-  <Wealth_Buildings.valueFormat>{0}</Wealth_Buildings.valueFormat>
   
   <Wealth_Items.label>wealth (items)</Wealth_Items.label>
-  <Wealth_Items.valueFormat>{0}</Wealth_Items.valueFormat>
   
   <Wealth_Pawns.label>wealth (creatures)</Wealth_Pawns.label>
-  <Wealth_Pawns.valueFormat>{0}</Wealth_Pawns.valueFormat>
   
   <Wealth_Total.label>wealth (total)</Wealth_Total.label>
-  <Wealth_Total.valueFormat>${0}</Wealth_Total.valueFormat>
 </LanguageData>
