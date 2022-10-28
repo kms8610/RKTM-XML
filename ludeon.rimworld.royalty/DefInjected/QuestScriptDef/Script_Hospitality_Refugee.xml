@@ -84,6 +84,10 @@
     <li>claimInfo(lodgerCount>=2)->They say a great flashstorm burned down their home.</li>
     <li>claimInfo(lodgerCount>=2)->They say their caravan was ambushed and everything was taken.</li>
     <li>claimInfo(lodgerCount>=2)->They say they were banished from their town due to moral disagreements.</li>
+    <li>joinInfo(lodgerCount==1)->If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</li>
+    <li>joinInfo(lodgerCount>=2)->If you make them happy, some of them may offer to join you.</li>
+    <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
+    <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>
   <Hospitality_Refugee.questNameRules.rulesStrings>
     <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
