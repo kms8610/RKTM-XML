@@ -32,6 +32,10 @@
     <li>questDescription(pilgrimCount>=2,allChildren==true,priority=1)->A group of child [pilgrimsLabelSingularOrPlural] has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
     <li>isAre(pilgrimCount==1)->is</li>
     <li>isAre(pilgrimCount>=2)->are</li>
+    <li>pronounSingularOrPlural(pilgrimCount==1)->[pawns0_pronoun]</li>
+    <li>pronounSingularOrPlural(pilgrimCount>=2)->they</li>
+    <li>visitSingularOrPlural(pilgrimCount==1)->visits</li>
+    <li>visitSingularOrPlural(pilgrimCount>=2)->visit</li>
   </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
   <ReliquaryPilgrims.questNameRules.rulesStrings>
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</li>
