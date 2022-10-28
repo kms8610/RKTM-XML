@@ -26,6 +26,10 @@
   <LetterLabelMechanitorCasketFound>Mechanitor casket found</LetterLabelMechanitorCasketFound>
   <LetterMechanitorCasketFound>You have discovered a mechanitor's cryptosleep casket!\n\nOpen it to find them inside.</LetterMechanitorCasketFound>
   
+  <!-- Pawns lost because map closed (including mechs) -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>Your caravan has been lost. The following people, animals and mechs have been lost with it</LetterPawnsLostIncMechsBecauseMapClosed_Caravan><!-- text_todo -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>The following people, animals and mechs have been abandoned</LetterPawnsLostIncMechsBecauseMapClosed_Home><!-- text_todo -->
+  
 
   <!-- Children -->
   <LetterLabelBecameChild>{0_nameDef} became a child</LetterLabelBecameChild>

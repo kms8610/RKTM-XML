@@ -87,6 +87,7 @@
   <RegenerationRate>Regeneration rate</RegenerationRate>
   <NextDeathrestNeed>{PAWN_nameDef} should deathrest in {DURATION} to avoid exhaustion.</NextDeathrestNeed>
   <PawnShouldDeathrestNow>{PAWN_nameDef} should deathrest soon to avoid exhaustion.</PawnShouldDeathrestNow>
+  <AutoTakeHemogenDesc>This determines whether {PAWN_nameDef} will automatically ingest hemogen packs when {PAWN_possessive} hemogen is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}.</AutoTakeHemogenDesc><!-- text_todo -->
   <ConsumeHemogenBelow>Consume hemogen below</ConsumeHemogenBelow>
   <NeverConsumeHemogen>Never consume hemogen.</NeverConsumeHemogen>
   <WillKill>Will kill</WillKill>
