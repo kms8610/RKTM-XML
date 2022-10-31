@@ -324,6 +324,7 @@
   <SubcoreScannerCompletesIn>Completes in</SubcoreScannerCompletesIn>
   <SubcoreScannerWaitingForOccupant>Waiting for occupant</SubcoreScannerWaitingForOccupant>
   <SubcoreScannerWaitingForIngredients>Waiting for ingredients</SubcoreScannerWaitingForIngredients>
+  <SubcoreScannerWaitingForIngredientsDesc>The following ingredients must be loaded first</SubcoreScannerWaitingForIngredientsDesc> <!-- text_todo -->
   <SubcoreScannerPawnHasSickness>Has {0}</SubcoreScannerPawnHasSickness>
   <SubcoreScannerBabyNotAllowed>Babies are not allowed</SubcoreScannerBabyNotAllowed>
   <InsertPersonSubcoreScannerDesc>Insert a person into the {0}.</InsertPersonSubcoreScannerDesc>
