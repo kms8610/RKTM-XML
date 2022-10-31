@@ -47,6 +47,18 @@
     <li>areIs(lodgerCount>=2)->are</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] leaving</li>
     <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} thanks you for allowing {FACTION_leaderObjective} to stay at [map_definite] for these [questDurationTicks_duration]. {FACTION_leaderPronoun} is now moving on with {FACTION_leaderPossessive} people.\n\n{FACTION_leaderNameDef} says {FACTION_leaderPronoun} won't forget what you've done.</li>
+    <!--(추가한 항목 11개)-->
+    <li>betrayalOfferRewardLetterLabel->[factionOpponent_nameDef]의 보상</li>
+    <li>betrayalOfferRewardLetterText->의뢰가 성공적으로 끝났기 때문에 [factionOpponent_pronoun](은)는 약속했던 보상을 보냅니다.\n\n[betrayalRewards] (총 가치 [betrayalRewardMarketValue_money])\n\n[questOver]</li>
+    <li>betrayalOfferFailedLetterLabel->보상 철회</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef](은)는 [faction_name]의 구성원 중 한 명이 [map_definite]를 빠져나간 것을 알게 되었습니다. [faction_name]의 구성원들을 모두 죽이지 못했기 때문에 [factionOpponent_nameDef](은)는 보상을 철회했습니다.</li>
+    <li>otherLodgers(lodgerCount==1)->(이)가</li>
+    <li>otherLodgers(lodgerCount==2)->(와)과 다른 [lodgersLabel](이)가</li>
+    <li>otherLodgers(lodgerCount>=3)->(와)과 몇몇 [lodgersLabelPlural](이)가</li>
+    <li>otherMembers(lodgerCount==1)->(을)를</li>
+    <li>otherMembers(lodgerCount>=2)->(와)과 [faction_name]의 다른 구성원 모두를</li>
+    <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] 떠남</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}(이)가 [questDurationTicks_duration] 동안 [map_definite]에 머무를 수 있게 허락해줘서 고마워합니다. {FACTION_leaderPronoun}(와)과 {FACTION_leaderPossessive} 사람들이 함께 이동 중입니다.\n\n{FACTION_leaderNameDef}(은)는 당신이 한 일을 잊지 않을거라고 합니다.</li>
   </Hospitality_Refugee.questContentRules.rulesStrings>
   <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
     <li>lodgersLabel->refugee</li>
@@ -84,10 +96,7 @@
     <li>claimInfo(lodgerCount>=2)->They say a great flashstorm burned down their home.</li>
     <li>claimInfo(lodgerCount>=2)->They say their caravan was ambushed and everything was taken.</li>
     <li>claimInfo(lodgerCount>=2)->They say they were banished from their town due to moral disagreements.</li>
-    <li>joinInfo(lodgerCount==1)->If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</li>
-    <li>joinInfo(lodgerCount>=2)->If you make them happy, some of them may offer to join you.</li>
-    <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
-    <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
+    <!--(항목 4개 미사용)-->
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>
   <Hospitality_Refugee.questNameRules.rulesStrings>
     <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
