@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Beauty.label>beauty</Beauty.label>
+  <Beauty.scoreStages.hideous.label>hideous</Beauty.scoreStages.hideous.label>
+  <Beauty.scoreStages.ugly.label>ugly</Beauty.scoreStages.ugly.label>
+  <Beauty.scoreStages.neutral.label>neutral</Beauty.scoreStages.neutral.label>
+  <Beauty.scoreStages.pretty.label>pretty</Beauty.scoreStages.pretty.label>
+  <Beauty.scoreStages.beautiful.label>beautiful</Beauty.scoreStages.beautiful.label>
   <Beauty.scoreStages.very_beautiful.label>very beautiful</Beauty.scoreStages.very_beautiful.label>
   <Beauty.scoreStages.extremely_beautiful.label>extremely beautiful</Beauty.scoreStages.extremely_beautiful.label>
   <Beauty.scoreStages.unbelievably_beautiful.label>unbelievably beautiful</Beauty.scoreStages.unbelievably_beautiful.label>
   
   <Cleanliness.label>cleanliness</Cleanliness.label>
   <Cleanliness.scoreStages.very_dirty.label>very dirty</Cleanliness.scoreStages.very_dirty.label>
+  <Cleanliness.scoreStages.dirty.label>dirty</Cleanliness.scoreStages.dirty.label>
   <Cleanliness.scoreStages.slightly_dirty.label>slightly dirty</Cleanliness.scoreStages.slightly_dirty.label>
+  <Cleanliness.scoreStages.clean.label>clean</Cleanliness.scoreStages.clean.label>
+  <Cleanliness.scoreStages.sterile.label>sterile</Cleanliness.scoreStages.sterile.label>
   
   <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
   
   <GraveVisitingJoyGainFactor.label>grave visiting recreation factor</GraveVisitingJoyGainFactor.label>
   
   <Impressiveness.label>impressiveness</Impressiveness.label>
+  <Impressiveness.scoreStages.awful.label>awful</Impressiveness.scoreStages.awful.label>
+  <Impressiveness.scoreStages.dull.label>dull</Impressiveness.scoreStages.dull.label>
+  <Impressiveness.scoreStages.mediocre.label>mediocre</Impressiveness.scoreStages.mediocre.label>
+  <Impressiveness.scoreStages.decent.label>decent</Impressiveness.scoreStages.decent.label>
   <Impressiveness.scoreStages.slightly_impressive.label>slightly impressive</Impressiveness.scoreStages.slightly_impressive.label>
   <Impressiveness.scoreStages.somewhat_impressive.label>somewhat impressive</Impressiveness.scoreStages.somewhat_impressive.label>
   <Impressiveness.scoreStages.very_impressive.label>very impressive</Impressiveness.scoreStages.very_impressive.label>
@@ -26,7 +38,9 @@
   <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
   
   <Space.label>space</Space.label>
+  <Space.scoreStages.cramped.label>cramped</Space.scoreStages.cramped.label>
   <Space.scoreStages.rather_tight.label>rather tight</Space.scoreStages.rather_tight.label>
+  <Space.scoreStages.averagesized.label>average-sized</Space.scoreStages.averagesized.label>
   <Space.scoreStages.somewhat_spacious.label>somewhat spacious</Space.scoreStages.somewhat_spacious.label>
   <Space.scoreStages.quite_spacious.label>quite spacious</Space.scoreStages.quite_spacious.label>
   <Space.scoreStages.very_spacious.label>very spacious</Space.scoreStages.very_spacious.label>
@@ -35,8 +49,12 @@
   <SurgerySuccessChanceCleanlinessFactor.label>surgery success chance cleanliness factor</SurgerySuccessChanceCleanlinessFactor.label>
   
   <Wealth.label>wealth</Wealth.label>
+  <Wealth.scoreStages.impoverished.label>impoverished</Wealth.scoreStages.impoverished.label>
   <Wealth.scoreStages.somewhat_poor.label>somewhat poor</Wealth.scoreStages.somewhat_poor.label>
+  <Wealth.scoreStages.mediocre.label>mediocre</Wealth.scoreStages.mediocre.label>
   <Wealth.scoreStages.somewhat_rich.label>somewhat rich</Wealth.scoreStages.somewhat_rich.label>
+  <Wealth.scoreStages.rich.label>rich</Wealth.scoreStages.rich.label>
+  <Wealth.scoreStages.luxurious.label>luxurious</Wealth.scoreStages.luxurious.label>
   <Wealth.scoreStages.very_luxurious.label>very luxurious</Wealth.scoreStages.very_luxurious.label>
   <Wealth.scoreStages.extremely_luxurious.label>extremely luxurious</Wealth.scoreStages.extremely_luxurious.label>
   <Wealth.scoreStages.unbelievably_luxurious.label>unbelievably luxurious</Wealth.scoreStages.unbelievably_luxurious.label>

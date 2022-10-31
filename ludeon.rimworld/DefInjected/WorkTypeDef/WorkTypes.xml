@@ -12,7 +12,7 @@
   <BasicWorker.pawnLabel>Worker</BasicWorker.pawnLabel>
   <BasicWorker.verb>Deal with</BasicWorker.verb>
   
-  <Cleaning.description>Clear snow and clean the floor in the home area.</Cleaning.description>
+  <Cleaning.description>Clear snow, pollution and clean the floor in the home area.</Cleaning.description>
   <Cleaning.gerundLabel>cleaning</Cleaning.gerundLabel>
   <Cleaning.labelShort>clean</Cleaning.labelShort>
   <Cleaning.pawnLabel>Cleaner</Cleaning.pawnLabel>
@@ -102,7 +102,7 @@
   <Research.pawnLabel>Researcher</Research.pawnLabel>
   <Research.verb>Research at</Research.verb>
   
-  <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
+  <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor.</Smithing.description>
   <Smithing.gerundLabel>smithing</Smithing.gerundLabel>
   <Smithing.labelShort>smith</Smithing.labelShort>
   <Smithing.pawnLabel>Smith</Smithing.pawnLabel>

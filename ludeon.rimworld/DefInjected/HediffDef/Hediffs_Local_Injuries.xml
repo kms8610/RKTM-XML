@@ -2,6 +2,9 @@
 <LanguageData>
   <Bite.label>bite</Bite.label>
   <Bite.description>A bite wound.</Bite.description>
+  <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Bite.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Bite.comps.HediffComp_TendDuration.labelTendedWell>
+  <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Bite.comps.HediffComp_GetsPermanent.permanentLabel>bite scar</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <Bite.injuryProps.destroyedLabel>Bitten off</Bite.injuryProps.destroyedLabel>
   <Bite.injuryProps.destroyedOutLabel>Bitten out</Bite.injuryProps.destroyedOutLabel>
@@ -10,11 +13,18 @@
   
   <Bruise.label>bruise</Bruise.label>
   <Bruise.description>A bruise.</Bruise.description>
+  <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>tended</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Bruise.injuryProps.destroyedLabel>Destroyed</Bruise.injuryProps.destroyedLabel>
   <Bruise.labelNoun>a bruise</Bruise.labelNoun>
   <Bruise.labelNounPretty>{0} in the {1}</Bruise.labelNounPretty>
   
   <Burn.label>burn</Burn.label>
   <Burn.description>A burn.</Burn.description>
+  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>tended</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Burn.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Burn.comps.HediffComp_TendDuration.labelTendedWell>
+  <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>tended</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Burn.comps.HediffComp_GetsPermanent.permanentLabel>burn scar</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <Burn.injuryProps.destroyedLabel>Burned off</Burn.injuryProps.destroyedLabel>
   <Burn.injuryProps.destroyedOutLabel>Burned out</Burn.injuryProps.destroyedOutLabel>
@@ -23,6 +33,9 @@
   
   <ChemicalBurn.label>chemical burn</ChemicalBurn.label>
   <ChemicalBurn.description>A chemical burn.</ChemicalBurn.description>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>tended</ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>bandaged</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>tended</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>chemical burn scar</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <ChemicalBurn.injuryProps.destroyedLabel>Burned off (chemical)</ChemicalBurn.injuryProps.destroyedLabel>
   <ChemicalBurn.injuryProps.destroyedOutLabel>Burned out (chemical)</ChemicalBurn.injuryProps.destroyedOutLabel>
@@ -31,18 +44,29 @@
   
   <Crack.label>crack</Crack.label>
   <Crack.description>A crack.</Crack.description>
+  <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Crack.comps.HediffComp_TendDuration.labelTendedWell>set</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>set</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Crack.comps.HediffComp_GetsPermanent.permanentLabel>permanent crack</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crack.injuryProps.destroyedLabel>Shattered</Crack.injuryProps.destroyedLabel>
   <Crack.labelNoun>a crack wound</Crack.labelNoun>
   <Crack.labelNounPretty>{0} in the {1}</Crack.labelNounPretty>
   
   <Crush.label>crush</Crush.label>
   <Crush.description>A crushing wound.</Crush.description>
+  <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Crush.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Crush.comps.HediffComp_TendDuration.labelTendedWell>
+  <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Crush.comps.HediffComp_GetsPermanent.permanentLabel>mangled scar</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crush.injuryProps.destroyedLabel>Crushed</Crush.injuryProps.destroyedLabel>
   <Crush.labelNoun>a crush wound</Crush.labelNoun>
   <Crush.labelNounPretty>{0} in the {1}</Crush.labelNounPretty>
   
   <Cut.label>cut</Cut.label>
   <Cut.description>A cut.</Cut.description>
+  <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Cut.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Cut.comps.HediffComp_TendDuration.labelTendedWell>
+  <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Cut.comps.HediffComp_GetsPermanent.permanentLabel>cut scar</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <Cut.injuryProps.destroyedLabel>Cut off</Cut.injuryProps.destroyedLabel>
   <Cut.injuryProps.destroyedOutLabel>Cut out</Cut.injuryProps.destroyedOutLabel>
@@ -58,12 +82,18 @@
   
   <Frostbite.label>frostbite</Frostbite.label>
   <Frostbite.description>Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost.</Frostbite.description>
+  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>tended</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>tended</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>frostbite scar</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <Frostbite.injuryProps.destroyedLabel>Lost to frostbite</Frostbite.injuryProps.destroyedLabel>
   <Frostbite.labelNounPretty>{0} in the {1}</Frostbite.labelNounPretty>
   
   <Gunshot.label>gunshot</Gunshot.label>
   <Gunshot.description>A gunshot wound.</Gunshot.description>
+  <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>permanent gunshot injury</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>old gunshot</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
   <Gunshot.injuryProps.destroyedLabel>Shot off</Gunshot.injuryProps.destroyedLabel>
@@ -73,7 +103,11 @@
   
   <Misc.label>misc</Misc.label>
   <Misc.description>Miscellanous injuries.</Misc.description>
+  <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Misc.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Misc.comps.HediffComp_TendDuration.labelTendedWell>
+  <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Misc.comps.HediffComp_GetsPermanent.permanentLabel>scar</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Misc.injuryProps.destroyedLabel>Destroyed</Misc.injuryProps.destroyedLabel>
   <Misc.labelNoun>an injury</Misc.labelNoun>
   <Misc.labelNounPretty>{0} in the {1}</Misc.labelNounPretty>
   
@@ -84,6 +118,9 @@
   
   <Scratch.label>scratch</Scratch.label>
   <Scratch.description>A scratch or tear.</Scratch.description>
+  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>scratch scar</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <Scratch.injuryProps.destroyedLabel>Torn off</Scratch.injuryProps.destroyedLabel>
   <Scratch.injuryProps.destroyedOutLabel>Torn out</Scratch.injuryProps.destroyedOutLabel>
@@ -92,6 +129,9 @@
   
   <Shredded.label>shredded</Shredded.label>
   <Shredded.description>A part of the body has been shredded and torn.</Shredded.description>
+  <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>shredded scar</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <Shredded.injuryProps.destroyedLabel>Torn off</Shredded.injuryProps.destroyedLabel>
   <Shredded.injuryProps.destroyedOutLabel>Torn out</Shredded.injuryProps.destroyedOutLabel>
@@ -100,6 +140,9 @@
   
   <Stab.label>stab</Stab.label>
   <Stab.description>A stab wound.</Stab.description>
+  <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Stab.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Stab.comps.HediffComp_TendDuration.labelTendedWell>
+  <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
   <Stab.comps.HediffComp_GetsPermanent.permanentLabel>stab scar</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
   <Stab.injuryProps.destroyedLabel>Cut off</Stab.injuryProps.destroyedLabel>
   <Stab.injuryProps.destroyedOutLabel>Cut out</Stab.injuryProps.destroyedOutLabel>
@@ -108,6 +151,9 @@
   
   <SurgicalCut.label>surgical cut</SurgicalCut.label>
   <SurgicalCut.description>A cut made during surgery.</SurgicalCut.description>
+  <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>set</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>bandaged</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>surgical scar</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
   <SurgicalCut.labelNoun>a surgical cut</SurgicalCut.labelNoun>
   <SurgicalCut.labelNounPretty>{0} in the {1}</SurgicalCut.labelNounPretty>

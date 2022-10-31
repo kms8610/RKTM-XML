@@ -58,7 +58,7 @@
   <FactorForDoorCount>Multiplier for door count</FactorForDoorCount>
   <FactorForMovement>Multiplier for movement</FactorForMovement>
   <SlavePrice>Slave price</SlavePrice>
-  <SlavePriceDescription>The base market value of this {0} if sold.</SlavePriceDescription>
+  <SlavePriceDescription>The base market value of this slave if sold.</SlavePriceDescription>
   <GetsFood>Gets food</GetsFood>
   <DoctorsCare>Doctors care</DoctorsCare>
   <GetsMedicine>Gets medicine</GetsMedicine>
@@ -89,7 +89,7 @@
   <InPain>In pain</InPain>
   <PainLevel>Pain</PainLevel>
   <Injured>Injured</Injured>
-  <UntendedInjury>Untended injury</UntendedInjury>
+  <UntendedInjury>untended injury</UntendedInjury>
   <NoHealthConditions>no health conditions</NoHealthConditions>
   <WholeBody>Whole body</WholeBody>
   <DataProcessing>Data processing</DataProcessing>
