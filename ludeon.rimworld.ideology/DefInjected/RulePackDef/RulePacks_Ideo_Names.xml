@@ -43,5 +43,18 @@
     <li>globalHyphenPrefix->nova</li>
     <li>globalHyphenPrefix->archaeo</li>
     <li>globalHyphenPrefix->hyper</li>
+    <!--(추가한 항목 12개)-->
+    <li>globalAdjective->근본</li>
+    <li>globalAdjective->진실의</li>
+    <li>globalAdjective->민속</li>
+    <li>globalAdjective->개혁</li>
+    <li>globalAdjective->[place_adjective]</li>
+    <li>hyphenPrefix->[globalHyphenPrefix]</li>
+    <li>hyphenPrefix->[memeHyphenPrefix]</li>
+    <li>globalHyphenPrefix(p=4)->신</li>
+    <li>globalHyphenPrefix(p=2)->구</li>
+    <li>globalHyphenPrefix->신성</li>
+    <li>globalHyphenPrefix->초월</li>
+    <li>globalHyphenPrefix->초</li>
   </NamerIdeoGlobal.rulePack.rulesStrings>
 </LanguageData>

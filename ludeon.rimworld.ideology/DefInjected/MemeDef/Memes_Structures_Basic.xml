@@ -65,6 +65,20 @@
     <li>memeMoralist->thinker</li>
     <li>memeMoralist->academic</li>
     <li>memeMoralist->sophist</li>
+    <!--(추가한 항목 13개)-->
+    <li>memeLeaderNoun->의지</li>
+    <li>memeLeaderNoun->결정자</li>
+    <li>memeLeaderNoun->통솔자</li>
+    <li>memeLeaderAdjective->윤리적인</li>
+    <li>memeLeaderAdjective->도덕적인</li>
+    <li>memeLeaderAdjective->깨우친</li>
+    <li>memeMoralist->상담사</li>
+    <li>memeMoralist->윤리학자</li>
+    <li>memeMoralist->도덕주의자</li>
+    <li>memeMoralist->철학자</li>
+    <li>memeMoralist->교사</li>
+    <li>memeMoralist->학자</li>
+    <li>memeMoralist->소피스트</li>
   </Structure_Ideological.generalRules.rulesStrings>
   <Structure_Ideological.symbolPacks.0.adjective>ethical</Structure_Ideological.symbolPacks.0.adjective>
   <Structure_Ideological.symbolPacks.0.ideoName>Ethics</Structure_Ideological.symbolPacks.0.ideoName>
@@ -102,6 +116,12 @@
     <li>memeMoralist->preacher</li>
     <li>memeMoralist->rector</li>
     <li>memeMoralist->abbot</li>
+    <!--(추가한 항목 5개)-->
+    <li>memeMoralist->목사</li>
+    <li>memeMoralist->성직자</li>
+    <li>memeMoralist->설교자</li>
+    <li>memeMoralist->학자</li>
+    <li>memeMoralist->수도원장</li>
   </Structure_TheistAbstract.generalRules.rulesStrings>
   <Structure_TheistAbstract.symbolPacks.0.adjective>spiritual</Structure_TheistAbstract.symbolPacks.0.adjective>
   <Structure_TheistAbstract.symbolPacks.0.ideoName>Spiritism</Structure_TheistAbstract.symbolPacks.0.ideoName>
