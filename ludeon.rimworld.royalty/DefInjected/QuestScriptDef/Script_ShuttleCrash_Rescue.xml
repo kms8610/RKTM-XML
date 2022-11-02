@@ -38,7 +38,8 @@
     <li>andCivilians(civilians_count==1)-></li>
     <li>andCivilians(civilians_count==2)->and [pawnLabel]</li>
     <li>andCivilians(civilians_count>=3)->and [pawnLabelPlural]</li>
-    <!--(항목 2개 미사용)-->
+    <li>soldierCountKinds(soldiers_count==1)->[soldiers_count] [soldiers0_kind]</li>
+    <li>soldierCountKinds(soldiers_count>1)->[soldiers_count] [soldiers0_kind]s</li>
   </ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
   <ShuttleCrash_Rescue.questNameRules.rulesStrings>
     <li>questName->[shuttle] [crash]</li>
