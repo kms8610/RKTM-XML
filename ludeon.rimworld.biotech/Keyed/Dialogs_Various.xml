@@ -13,6 +13,10 @@
   <ConfirmInstallMechlink>A mechanitor must be capable of smithing to create mechanoids\n\nAre you sure you want to continue?</ConfirmInstallMechlink>
   <InsufficientBandwidth>insufficient bandwidth</InsufficientBandwidth>
 
+  <!-- Apparel -->
+  <ApparelRequirementAnyMechlordApparel>Any mechlord apparel</ApparelRequirementAnyMechlordApparel> <!-- text_todo -->
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>or any psycaster, prestige, or mechlord apparel</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord> <!-- text_todo -->
+
   <!-- Mech gestator -->
   <GestationCyclesCompleted>Gestation cycles completed</GestationCyclesCompleted>
   <FormerIngredients>Gathered ingredients</FormerIngredients>
