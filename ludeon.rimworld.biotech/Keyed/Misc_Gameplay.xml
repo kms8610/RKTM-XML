@@ -379,7 +379,7 @@
   
   <!-- Fertility -->
   <SurgeryDisableReasonOvumExtracted>ova extracted recently</SurgeryDisableReasonOvumExtracted>
-  <Fertilize>Fertilize</Fertilize>
+  <Fertilize>Fertilize {0_label}</Fertilize><!-- text_todo -->
   <FertilizeCannotFloatOption>Cannot fertilize</FertilizeCannotFloatOption>
   <FertilizeGizmoDescription>Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it.</FertilizeGizmoDescription>
   <FertilizeCancel>Cancel fertilization by {0}</FertilizeCancel>

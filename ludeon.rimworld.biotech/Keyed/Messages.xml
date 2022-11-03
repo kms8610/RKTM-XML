@@ -62,7 +62,8 @@
   <MessageBedExposedToSunlight>The {BED_labelShort} {PAWN_nameDef} is assigned to use for deathrest has been exposed to sunlight. {PAWN_nameDef} cannot deathrest there.</MessageBedExposedToSunlight>
 
   <!-- Mechanitor -->
-  <MessagePawnKilledRipscanner>{PAWN_nameDef}'s brain has been destroyed by the subcore ripscanner.</MessagePawnKilledRipscanner> 
+  <MessagePawnKilledRipscanner>{PAWN_nameDef}'s brain has been destroyed by the subcore ripscanner.</MessagePawnKilledRipscanner>
+  <MessageSubcoreSoftscannerCompleted>Subcore softscanner completed for {PAWN_nameDef}.</MessageSubcoreSoftscannerCompleted><!-- text_todo -->
 
   <MessageCannotResurrectDessicatedCorpse>Cannot resurrect dessicated corpses.</MessageCannotResurrectDessicatedCorpse>
 
@@ -85,5 +86,6 @@
   <MessageCannotPostponeGrowthMoment>You must choose how {PAWN_nameDef} will grow now.</MessageCannotPostponeGrowthMoment>
 
   <MessageDraftedPawnCarryingBaby>Warning: {0_labelShort} is carrying a baby while drafted.</MessageDraftedPawnCarryingBaby>
+  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef} is moving {BABY_nameDef} somewhere with a safer temperature.</MessageTakingBabyToSafeTemperature><!-- text_todo -->
 
 </LanguageData>
