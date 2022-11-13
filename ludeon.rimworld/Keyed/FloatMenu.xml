@@ -88,7 +88,7 @@
   <InstallImplantAlreadyInstalled>already installed</InstallImplantAlreadyInstalled>
   <InstallImplantHediffRequired>requires an existing {0}</InstallImplantHediffRequired>
   <InstallImplantAlreadyMaxLevel>max level</InstallImplantAlreadyMaxLevel>
-  <InstallImplantMinLevel>requires min level {0}</InstallImplantMinLevel><!-- text_todo -->
+  <InstallImplantMinLevel>requires min level {0}</InstallImplantMinLevel>
   <InstallImplantPsychicallyDeaf>psychically deaf</InstallImplantPsychicallyDeaf>
   <UpgradeImplant>Upgrade {0} to level {1}</UpgradeImplant>
   <SurgeryViolationFellowFactionMember>violation of faction ally</SurgeryViolationFellowFactionMember>
@@ -201,7 +201,7 @@
 
   <UseMedicalBed>Rest until healed</UseMedicalBed>
   <NotInjured>not injured</NotInjured>
-  <NoDoctor>no doctor</NoDoctor><!-- text_todo -->
+  <NoDoctor>no doctor</NoDoctor>
   <SomeoneElseSleeping>occupied by {0}</SomeoneElseSleeping>
   
   <TradeWith>Trade with {0}</TradeWith>
@@ -310,5 +310,8 @@
   <!-- Romance partner -->
   <CannotRomance>Cannot romance {0}</CannotRomance>
   <CanRomance>Romance {0}</CanRomance>
+
+  <!-- Feeding -->
+  <WarningFoodDisliked>disliked food</WarningFoodDisliked> <!-- text_todo -->
 
 </LanguageData>
