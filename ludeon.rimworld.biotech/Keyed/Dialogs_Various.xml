@@ -12,10 +12,11 @@
   <ConfirmDisassemblingMech>Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover</ConfirmDisassemblingMech>
   <ConfirmInstallMechlink>A mechanitor must be capable of smithing to create mechanoids\n\nAre you sure you want to continue?</ConfirmInstallMechlink>
   <InsufficientBandwidth>insufficient bandwidth</InsufficientBandwidth>
+  <MechanitorLeftMapWithoutMechs>The following mechs have been left behind by {PAWN_labelShort}:\n\n{MECHS}\n\nThe mechs will stay here until they are picked up.\n\nWould you like to set their work mode to escort so they follow {PAWN_labelShort} off the map?</MechanitorLeftMapWithoutMechs><!-- text_todo -->
 
   <!-- Apparel -->
-  <ApparelRequirementAnyMechlordApparel>Any mechlord apparel</ApparelRequirementAnyMechlordApparel> <!-- text_todo -->
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>or any psycaster, prestige, or mechlord apparel</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord> <!-- text_todo -->
+  <ApparelRequirementAnyMechlordApparel>Any mechlord apparel</ApparelRequirementAnyMechlordApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>or any psycaster, prestige, or mechlord apparel</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
 
   <!-- Mech gestator -->
   <GestationCyclesCompleted>Gestation cycles completed</GestationCyclesCompleted>
@@ -23,6 +24,7 @@
 
   <!-- Subcore scanner -->
   <ConfirmRipscanPawn>Ripscanning {PAWN_nameDef} will kill {PAWN_objective}. Are you sure you want to continue?</ConfirmRipscanPawn>
+  <ConfirmCancelRipscan>Cancelling a ripscan will still kill {PAWN_nameDef}. Are you sure you want to continue?</ConfirmCancelRipscan><!-- text_todo -->
 
   <!-- Xenogerm -->
   <AssembleGenes>Assemble genes</AssembleGenes>
@@ -132,7 +134,7 @@
   <MechWorkSkill>Work skill</MechWorkSkill>
   <MechWorkSkillDesc>The skill level that this mechanoid acts with.</MechWorkSkillDesc>
   <AnyMech>Any mech</AnyMech>
-  <AnyNonMech>Any human</AnyNonMech> <!-- text_todo -->
+  <AnyNonMech>Any human</AnyNonMech>
   <CaravanLacksMechMechanitorWarning>Your caravan contains a mechanoid but not their overseer. You will have limited control over the mechanoid when you reach your destination.</CaravanLacksMechMechanitorWarning>
   <MechsSection>Mechanoids</MechsSection>
 
@@ -199,6 +201,6 @@
   <AbilityMustHaveTendableWound>{0_labelShort} must have a tendable wound.</AbilityMustHaveTendableWound>
 
   <!-- Abandon home (including mechs) -->
-  <ConfirmAbandonHomeWithColonyPawnsIncMechs>Some of your colonists, animals or mechs are in this area. Are you sure you want to abandon it?\n\nThe following people, animals and mechs will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs><!-- text_todo -->
+  <ConfirmAbandonHomeWithColonyPawnsIncMechs>Some of your colonists, animals or mechanoids are in this area. Are you sure you want to abandon it?\n\nThe following people, animals and mechs will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs>
 
 </LanguageData>

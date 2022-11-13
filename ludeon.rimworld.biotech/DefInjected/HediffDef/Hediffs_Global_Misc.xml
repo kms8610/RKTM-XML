@@ -18,7 +18,7 @@
   <InfantIllness.stages.extreme-1.label>extreme</InfantIllness.stages.extreme-1.label>
   
   <Lactating.label>lactating</Lactating.label>
-  <Lactating.description>The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.</Lactating.description>
+  <Lactating.description>The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.\n\nPeople who are lactating will have a harder time becoming pregnant.</Lactating.description>
   <Lactating.comps.HediffComp_MessageOnRemoval.message>{0} is no longer lactating due to not breastfeeding for 10 days.</Lactating.comps.HediffComp_MessageOnRemoval.message>
   <Lactating.comps.HediffComp_Lactating.labelInBrackets>milk fullness {CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
   <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0} is no longer lactating due to malnutrition.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>

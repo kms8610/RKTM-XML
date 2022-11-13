@@ -26,7 +26,7 @@
   <Aggression_HyperAggressive.symbolPack.prefixSymbols.4.symbol>barb</Aggression_HyperAggressive.symbolPack.prefixSymbols.4.symbol>
   <Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>fighter</Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>
   
-  <Beauty_Beautiful.label>beautiful</Beauty_Beautiful.label>
+  <Beauty_Beautiful.label>very attractive</Beauty_Beautiful.label>
   <Beauty_Beautiful.description>Carriers of this gene have remarkably precise and symmetrical faces. Their features are distinctive and strong without being exaggerated, and their skin is nearly perfect. They are generally seen as beautiful.</Beauty_Beautiful.description>
   <Beauty_Beautiful.symbolPack.prefixSymbols.0.symbol>charm</Beauty_Beautiful.symbolPack.prefixSymbols.0.symbol>
   <Beauty_Beautiful.symbolPack.prefixSymbols.1.symbol>ele</Beauty_Beautiful.symbolPack.prefixSymbols.1.symbol>
@@ -36,7 +36,7 @@
   <Beauty_Beautiful.symbolPack.prefixSymbols.5.symbol>beauti</Beauty_Beautiful.symbolPack.prefixSymbols.5.symbol>
   <Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>smooth</Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>
   
-  <Beauty_Pretty.label>pretty</Beauty_Pretty.label>
+  <Beauty_Pretty.label>attractive</Beauty_Pretty.label>
   <Beauty_Pretty.description>Carriers of this gene have unusually symmetrical, balanced facial features and extra-clear skin which gives them a pleasing appearance.</Beauty_Pretty.description>
   <Beauty_Pretty.symbolPack.prefixSymbols.0.symbol>charm</Beauty_Pretty.symbolPack.prefixSymbols.0.symbol>
   <Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>ele</Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>
@@ -44,11 +44,11 @@
   <Beauty_Pretty.symbolPack.prefixSymbols.3.symbol>neat</Beauty_Pretty.symbolPack.prefixSymbols.3.symbol>
   <Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>cute</Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>
   
-  <Beauty_Ugly.label>ugly</Beauty_Ugly.label>
+  <Beauty_Ugly.label>unattractive</Beauty_Ugly.label>
   <Beauty_Ugly.description>Carriers of this gene have exaggerated facial features and poor skin that are generally considered ugly.</Beauty_Ugly.description>
   <Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>ug</Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>
   
-  <Beauty_VeryUgly.label>staggeringly ugly</Beauty_VeryUgly.label>
+  <Beauty_VeryUgly.label>very unattractive</Beauty_VeryUgly.label>
   <Beauty_VeryUgly.description>Carriers of this gene have misshapen, asymmetrical facial structures and blotchy skin. They're hard to look at.</Beauty_VeryUgly.description>
   <Beauty_VeryUgly.labelShortAdj>hideous</Beauty_VeryUgly.labelShortAdj>
   <Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>gris</Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>
@@ -69,7 +69,7 @@
   <Delicate.symbolPack.prefixSymbols.5.symbol>feeb</Delicate.symbolPack.prefixSymbols.5.symbol>
   <Delicate.symbolPack.prefixSymbols.6.symbol>fragi</Delicate.symbolPack.prefixSymbols.6.symbol>
   
-  <Learning_Fast.label>fast learner</Learning_Fast.label>
+  <Learning_Fast.label>great memory</Learning_Fast.label>
   <Learning_Fast.description>Carriers of this gene have excellent memories and grasp new ideas quickly. They learn faster than others.</Learning_Fast.description>
   <Learning_Fast.labelShortAdj>fast learning</Learning_Fast.labelShortAdj>
   <Learning_Fast.symbolPack.prefixSymbols.0.symbol>brain</Learning_Fast.symbolPack.prefixSymbols.0.symbol>
@@ -81,7 +81,7 @@
   <Learning_Fast.symbolPack.suffixSymbols.0.symbol>nerd</Learning_Fast.symbolPack.suffixSymbols.0.symbol>
   <Learning_Fast.symbolPack.suffixSymbols.1.symbol>brain</Learning_Fast.symbolPack.suffixSymbols.1.symbol>
   
-  <Learning_Slow.label>slow learner</Learning_Slow.label>
+  <Learning_Slow.label>terrible memory</Learning_Slow.label>
   <Learning_Slow.description>Carriers of this gene have deficient long-term memories and don't understand new ideas quickly. They are slow at learning new skills and knowledge.</Learning_Slow.description>
   <Learning_Slow.labelShortAdj>slow learning</Learning_Slow.labelShortAdj>
   <Learning_Slow.symbolPack.prefixSymbols.0.symbol>thag</Learning_Slow.symbolPack.prefixSymbols.0.symbol>
@@ -160,14 +160,14 @@
   <MinTemp_SmallIncrease.labelShortAdj>warm</MinTemp_SmallIncrease.labelShortAdj>
   <MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>warm</MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
   
-  <Mood_Depressive.label>depressive</Mood_Depressive.label>
+  <Mood_Depressive.label>very unhappy</Mood_Depressive.label>
   <Mood_Depressive.description>Carriers of this gene are highly predisposed to negative emotion. They'll see the bad in every situation and have a much lower mood than others.</Mood_Depressive.description>
   <Mood_Depressive.symbolPack.prefixSymbols.0.symbol>sad</Mood_Depressive.symbolPack.prefixSymbols.0.symbol>
   <Mood_Depressive.symbolPack.prefixSymbols.1.symbol>gray</Mood_Depressive.symbolPack.prefixSymbols.1.symbol>
   <Mood_Depressive.symbolPack.prefixSymbols.2.symbol>rain</Mood_Depressive.symbolPack.prefixSymbols.2.symbol>
   <Mood_Depressive.symbolPack.prefixSymbols.3.symbol>lachry</Mood_Depressive.symbolPack.prefixSymbols.3.symbol>
   
-  <Mood_Optimist.label>optimist</Mood_Optimist.label>
+  <Mood_Optimist.label>happy</Mood_Optimist.label>
   <Mood_Optimist.description>Carriers of this gene are predisposed to optimistic feelings. They'll have higher mood than others.</Mood_Optimist.description>
   <Mood_Optimist.symbolPack.prefixSymbols.0.symbol>bright</Mood_Optimist.symbolPack.prefixSymbols.0.symbol>
   <Mood_Optimist.symbolPack.prefixSymbols.1.symbol>sun</Mood_Optimist.symbolPack.prefixSymbols.1.symbol>
@@ -177,14 +177,14 @@
   <Mood_Optimist.symbolPack.prefixSymbols.5.symbol>up</Mood_Optimist.symbolPack.prefixSymbols.5.symbol>
   <Mood_Optimist.symbolPack.suffixSymbols.0.symbol>bright</Mood_Optimist.symbolPack.suffixSymbols.0.symbol>
   
-  <Mood_Pessimist.label>pessimist</Mood_Pessimist.label>
+  <Mood_Pessimist.label>unhappy</Mood_Pessimist.label>
   <Mood_Pessimist.description>Carriers of this gene are predisposed to pessimistic perceptions. They'll tend to interpret things negatively and have lower mood than others.</Mood_Pessimist.description>
   <Mood_Pessimist.symbolPack.prefixSymbols.0.symbol>sad</Mood_Pessimist.symbolPack.prefixSymbols.0.symbol>
   <Mood_Pessimist.symbolPack.prefixSymbols.1.symbol>gray</Mood_Pessimist.symbolPack.prefixSymbols.1.symbol>
   <Mood_Pessimist.symbolPack.prefixSymbols.2.symbol>rain</Mood_Pessimist.symbolPack.prefixSymbols.2.symbol>
   <Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>lachry</Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>
   
-  <Mood_Sanguine.label>sanguine</Mood_Sanguine.label>
+  <Mood_Sanguine.label>very happy</Mood_Sanguine.label>
   <Mood_Sanguine.description>Carriers of this gene are highly predisposed to optimism and not at all inclined to think negatively. They'll have much higher mood than others.</Mood_Sanguine.description>
   <Mood_Sanguine.symbolPack.prefixSymbols.0.symbol>bright</Mood_Sanguine.symbolPack.prefixSymbols.0.symbol>
   <Mood_Sanguine.symbolPack.prefixSymbols.1.symbol>sun</Mood_Sanguine.symbolPack.prefixSymbols.1.symbol>

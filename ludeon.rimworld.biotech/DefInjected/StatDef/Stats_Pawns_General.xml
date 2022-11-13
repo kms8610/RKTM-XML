@@ -16,8 +16,14 @@
   <Fertility.label>fertility</Fertility.label>
   <Fertility.description>Fertility affects the chance of a pregnancy occurring. Pregnancy chance is dependent on the fertility of both partners. This also affects the chance of successfully implanting an embryo in a surrogate.</Fertility.description>
   
+  <GrowthVatOccupantSpeed.label>growth vat occupant speed</GrowthVatOccupantSpeed.label>
+  <GrowthVatOccupantSpeed.description>A multiplier on how quickly this person will grow when in a growth vat.</GrowthVatOccupantSpeed.description>
+  
   <HemogenGainFactor.label>hemogen gain multiplier</HemogenGainFactor.label>
   <HemogenGainFactor.description>A multiplier on the amount of hemogen gained.</HemogenGainFactor.description>
+  
+  <LearningRateFactor.label>learning rate factor</LearningRateFactor.label>
+  <LearningRateFactor.description>A multiplier on how quickly a child's learning need rises from learning activities.</LearningRateFactor.description>
   
   <MechBandwidth.label>mech bandwidth</MechBandwidth.label>
   <MechBandwidth.description>How much bandwidth a mechanitor has. More bandwidth allows a mechanitor to produce and control more mechs at the same time.\n\nLosing bandwidth means losing control of mechs, leaving them without an overseer. Such mechs can eventually become feral if not re-dominated.</MechBandwidth.description>
