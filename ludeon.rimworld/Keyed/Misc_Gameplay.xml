@@ -983,4 +983,9 @@
 
   <Random>Random</Random>
 
+  <PlantThing>Plant {0_label}</PlantThing>
+  <PlantThingDesc>Plant a {0_label} in a chosen area.</PlantThingDesc>
+  <CancelPlantThing>Cancel planting {0_label}</CancelPlantThing>
+  <CancelPlantThingDesc>Cancel planting the {0_label}.</CancelPlantThingDesc>
+
 </LanguageData>
