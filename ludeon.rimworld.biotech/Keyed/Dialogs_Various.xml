@@ -12,7 +12,7 @@
   <ConfirmDisassemblingMech>Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover</ConfirmDisassemblingMech>
   <ConfirmInstallMechlink>A mechanitor must be capable of smithing to create mechanoids\n\nAre you sure you want to continue?</ConfirmInstallMechlink>
   <InsufficientBandwidth>insufficient bandwidth</InsufficientBandwidth>
-  <MechanitorLeftMapWithoutMechs>The following mechs have been left behind by {PAWN_labelShort}:\n\n{MECHS}\n\nThe mechs will stay here until they are picked up.\n\nWould you like to set their work mode to escort so they follow {PAWN_labelShort} off the map?</MechanitorLeftMapWithoutMechs><!-- text_todo -->
+  <MechanitorLeftMapWithoutMechs>The following mechs have been left behind by {PAWN_labelShort}:\n\n{MECHS}\n\nThe mechs will stay here until they are picked up.\n\nWould you like to set their work mode to escort so they follow {PAWN_labelShort} off the map?</MechanitorLeftMapWithoutMechs>
 
   <!-- Apparel -->
   <ApparelRequirementAnyMechlordApparel>Any mechlord apparel</ApparelRequirementAnyMechlordApparel>
@@ -24,7 +24,7 @@
 
   <!-- Subcore scanner -->
   <ConfirmRipscanPawn>Ripscanning {PAWN_nameDef} will kill {PAWN_objective}. Are you sure you want to continue?</ConfirmRipscanPawn>
-  <ConfirmCancelRipscan>Cancelling a ripscan will still kill {PAWN_nameDef}. Are you sure you want to continue?</ConfirmCancelRipscan><!-- text_todo -->
+  <ConfirmCancelRipscan>Cancelling a ripscan will still kill {PAWN_nameDef}. Are you sure you want to continue?</ConfirmCancelRipscan>
 
   <!-- Xenogerm -->
   <AssembleGenes>Assemble genes</AssembleGenes>
@@ -69,7 +69,7 @@
   <Endogenes>germline genes</Endogenes>
   <Xenogenes>xenogenes</Xenogenes>
   <Overridden>overridden</Overridden>
-  <OverriddenByGene>Overridden by xenogene</OverriddenByGene>
+  <OverriddenByGene>Overridden by gene</OverriddenByGene>
   <OverriddenByIdenticalGene>Overridden by identical gene</OverriddenByIdenticalGene>
   <MoreInfoInInfoScreen>More information is available on this xenotype's information screen.</MoreInfoInInfoScreen>
   <TakesEffectAfterAge>Takes effect after age</TakesEffectAfterAge>

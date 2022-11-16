@@ -61,7 +61,7 @@
   <Worker>Worker</Worker>
   <WaitingFor>Waiting for</WaitingFor>
   <Uncontrolled>Uncontrolled</Uncontrolled>
-  <BossgroupIncoming>incoming {0}</BossgroupIncoming><!-- text_todo -->
+  <BossgroupIncoming>incoming {0}</BossgroupIncoming>
 
   <!-- Sanguophage -->
   <Hemogen>hemogen</Hemogen>
@@ -148,8 +148,8 @@
   <EjectAll>Eject all</EjectAll>
   <EjectAllDesc>Drop all contained genepacks onto the ground.</EjectAllDesc>
   <GenepacksStored>Genepacks stored</GenepacksStored>
-  <GenepackAutoLoad>Auto-load</GenepackAutoLoad><!-- text_todo -->
-  <GenepackAutoLoadDesc>If active, haulers will automatically store this genepack in a gene bank.</GenepackAutoLoadDesc><!-- text_todo -->
+  <GenepackAutoLoad>Auto-load</GenepackAutoLoad>
+  <GenepackAutoLoadDesc>If active, haulers will automatically store this genepack in a gene bank.</GenepackAutoLoadDesc>
   <ForcedTraits>Forced traits</ForcedTraits>
   <SuppressedTraits>Suppressed traits</SuppressedTraits>
   <ForcedTraitsDesc>These traits will be added. All conflicting traits will become suppressed.</ForcedTraitsDesc>
@@ -209,7 +209,7 @@
   <InsertXenogermDesc>Insert a xenogerm to apply during growth.</InsertXenogermDesc>
   <WaitingForPawn>Waiting for {PAWN_nameDef}.</WaitingForPawn>
   <ExtractingXenogermFrom>Extracting genes from {PAWN_nameDef}.</ExtractingXenogermFrom>
-  <ExtractionPausedNoPower>Extraction paused: No power (interrupt in {TIME})</ExtractionPausedNoPower><!-- text_todo -->
+  <ExtractionPausedNoPower>Extraction paused: No power (interrupt in {TIME})</ExtractionPausedNoPower>
   <LastIngestedDurationAgo>Last ingested {CHEMICAL_label} {DURATION} ago.</LastIngestedDurationAgo>
   <NamedXenogerm>{NAME} xenogerm</NamedXenogerm>
   <InsertedThing>Inserted {0}</InsertedThing>

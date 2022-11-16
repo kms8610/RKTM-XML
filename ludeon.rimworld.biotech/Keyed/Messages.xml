@@ -15,7 +15,7 @@
   <MessageXenogermCancelledMissingPack>Work on the xenogerm at {0_labelShort} was cancelled: Missing required genepack.</MessageXenogermCancelledMissingPack>
   <MessageAbsorbingXenogermWillAngerFaction>Absorbing {PAWN_nameDef}'s xenogerm will anger {0}.</MessageAbsorbingXenogermWillAngerFaction>
   <MessageCannotUseOnOtherFactions>{ABILITY_label} can only be used on colonists, prisoners, and slaves.</MessageCannotUseOnOtherFactions>
-  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort} will not become a non-preferred xenotype.</MessageCannotBecomeNonPreferredXenotype><!-- text_todo -->
+  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort} refuses to become a disliked xenotype.</MessageCannotBecomeNonPreferredXenotype>
 
   <MessageCaravanAddingEscortingMech>Auto-adding {MECH_nameDef} to the caravan, since it is escorting {OVERSEER_nameDef}</MessageCaravanAddingEscortingMech> 
   <MessageCaravanRemovingEscortingMech>Auto-removing {MECH_nameDef} from the caravan, since it is escorting {OVERSEER_nameDef}</MessageCaravanRemovingEscortingMech>
@@ -27,7 +27,7 @@
   <MessagePregnancyTerminated>{PAWN_nameDef}'s pregnancy was successfully terminated.</MessagePregnancyTerminated>
   
   <!-- Pollution -->
-  <MessageAngeredPollutedCell>{0} has been angered ({1})</MessageAngeredPollutedCell> <!-- text_todo -->
+  <MessageAngeredPollutedCell>{0} has been angered ({1})</MessageAngeredPollutedCell>
   <MessageWarningPollutedCell>Need unpolluted terrain.</MessageWarningPollutedCell>
   <MessageWarningNotPollutedCell>Need polluted terrain.</MessageWarningNotPollutedCell>
   <MessagePlantDiedOfPollution>{0} has died because of pollution.</MessagePlantDiedOfPollution>
@@ -63,7 +63,7 @@
   <MessagePawnWokenFromSunlight>{PAWN_nameDef} was woken from {PAWN_possessive} deathrest due to sunlight exposure.</MessagePawnWokenFromSunlight>
   <MessageBedExposedToSunlight>The {BED_labelShort} {PAWN_nameDef} is assigned to use for deathrest has been exposed to sunlight. {PAWN_nameDef} cannot deathrest there.</MessageBedExposedToSunlight>
 
-  <GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a gene extractor due to lack of power.</GeneExtractorNoPowerEjectedMessage><!-- text_todo -->
+  <GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a gene extractor due to lack of power.</GeneExtractorNoPowerEjectedMessage>
 
   <!-- Mechanitor -->
   <MessagePawnKilledRipscanner>{PAWN_nameDef}'s brain has been destroyed by the subcore ripscanner.</MessagePawnKilledRipscanner>
@@ -92,8 +92,8 @@
   <MessageDraftedPawnCarryingBaby>Warning: {0_labelShort} is carrying a baby while drafted.</MessageDraftedPawnCarryingBaby>
   <MessageTakingBabyToSafeTemperature>{ADULT_nameDef} is moving {BABY_nameDef} somewhere with a safer temperature.</MessageTakingBabyToSafeTemperature>
 
-  <MessagePregnancyFailed>Pregnancy failed between {MOTHER_nameDef} and {FATHER_nameDef}</MessagePregnancyFailed><!-- text_todo -->
-  <MessageFerilizeFailed>{PAWN_nameDef} failed to fertilize ovum</MessageFerilizeFailed><!-- text_todo -->
-  <CombinedGenesExceedMetabolismLimits>Combined genes exceeded metabolism limits.</CombinedGenesExceedMetabolismLimits><!-- text_todo -->
+  <MessagePregnancyFailed>Pregnancy failed between {MOTHER_nameDef} and {FATHER_nameDef}</MessagePregnancyFailed>
+  <MessageFerilizeFailed>{PAWN_nameDef} failed to fertilize ovum</MessageFerilizeFailed>
+  <CombinedGenesExceedMetabolismLimits>Combined genes exceeded metabolism limits.</CombinedGenesExceedMetabolismLimits>
 
 </LanguageData>
