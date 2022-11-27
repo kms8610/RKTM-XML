@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AddictionImmune.label>{0} addict-immune</AddictionImmune.label>
+  <AddictionImmune.label>{0} impervious</AddictionImmune.label>
   <AddictionImmune.description>Carriers of this gene never get addicted to {0}.</AddictionImmune.description>
-  <AddictionImmune.labelShortAdj>{0}-immune</AddictionImmune.labelShortAdj>
+  <AddictionImmune.labelShortAdj>{0}-impervious</AddictionImmune.labelShortAdj>
   
-  <AddictionResistant.label>{0} addict-resist</AddictionResistant.label>
+  <AddictionResistant.label>{0} resistant</AddictionResistant.label>
   <AddictionResistant.description>Carriers are only half as likely to become addicted to {0}.</AddictionResistant.description>
   <AddictionResistant.labelShortAdj>{0}-resistant</AddictionResistant.labelShortAdj>
   

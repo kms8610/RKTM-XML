@@ -7,6 +7,9 @@
   <StatsReport_Clothed>clothed</StatsReport_Clothed>
   <StatsReport_Unclothed>unclothed</StatsReport_Unclothed>
 
+  <StatsReport_AgeRateMultiplier>Age rate multiplier</StatsReport_AgeRateMultiplier><!-- text_todo -->
+  <StatsReport_AgeRateMultiplier_Desc>A multiplier on how quickly this person ages biologically based on their current age.</StatsReport_AgeRateMultiplier_Desc><!-- text_todo -->
+
   <StatsReport_RechargerWeightClass>Required weight class</StatsReport_RechargerWeightClass>
   <StatsReport_RechargerWeightClass_Desc>The weight class of mechanoid which can use this recharger. The following mechanoids are compatible</StatsReport_RechargerWeightClass_Desc>
 
@@ -49,6 +52,8 @@
   <AlwaysAggroMentalBreak>Mental breaks are always violent.</AlwaysAggroMentalBreak>
   <NeverAggroMentalBreak>Mental breaks are never violent.</NeverAggroMentalBreak>
   <AddictionChanceFactor>{0_label} addiction chance factor</AddictionChanceFactor>
+  <OverdoseChanceFactor>{0_label} overdose chance factor</OverdoseChanceFactor><!-- text_todo -->
+  <ToleranceBuildupFactor>{0_label} tolerance buildup factor</ToleranceBuildupFactor><!-- text_todo -->
   <AddictionImmune>Immune to {0_label} addiction.</AddictionImmune>
   <FoodPoisoningImmune>Immune to food poisoning.</FoodPoisoningImmune>
   <WillNeverSocialFight>Will never do social fights.</WillNeverSocialFight>
@@ -68,5 +73,10 @@
   <DevelopmentStage_Adult>Adult</DevelopmentStage_Adult>
 
   <StatsReport_GrowthVatSpeedFactor>Growth vat speed</StatsReport_GrowthVatSpeedFactor>
+
+  <GeneToleranceBuildupImmune>Carriers cannot build a tolerance to {0_label}.</GeneToleranceBuildupImmune><!-- text_todo -->
+  <GeneToleranceBuildupFactor>Carriers build a tolerance to {0_label} {1} as quickly.</GeneToleranceBuildupFactor><!-- text_todo -->
+  <GeneOverdoseImmune>Carriers cannot overdose on {0_label}.</GeneOverdoseImmune><!-- text_todo -->
+  <GeneOverdoseFactor>Carriers are {1} as likely to overdose on {0_label}.</GeneOverdoseFactor><!-- text_todo -->
 
 </LanguageData>
