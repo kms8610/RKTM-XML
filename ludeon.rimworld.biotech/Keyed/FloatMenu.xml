@@ -70,6 +70,8 @@
   <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} cannot reach {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
   <BreastfeedFailReason_NoMomsAssignedToBaby>No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort}</BreastfeedFailReason_NoMomsAssignedToBaby>
   <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} is not assigned to childcare</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} is inside a container</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} is being carried</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
 
   <OrderImplantationIntoPawn>Order implantation into {PAWN_nameDef}</OrderImplantationIntoPawn>
   <AcceptXenogerm>Accept {0_xenotype} xenogerm</AcceptXenogerm>
@@ -87,5 +89,7 @@
   <EjectGenepackFromGeneBank>Eject genepack from gene bank</EjectGenepackFromGeneBank>
 
   <ResultingMetTooLow>Resulting metabolism would be too low</ResultingMetTooLow>
+
+  <RomanceOnCooldown>attempted romance too recently</RomanceOnCooldown><!-- text_todo -->
 
 </LanguageData>

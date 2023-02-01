@@ -55,9 +55,6 @@
   <RawNutritionFactor.label>raw nutrition multiplier</RawNutritionFactor.label>
   <RawNutritionFactor.description>A multiplier on how nutritious raw food is for this person. Note that since meals usually have more nutrition than their raw ingredients, a boost to this stat may only mean the person gets the same nutrition from raw food as if it were cooked.</RawNutritionFactor.description>
   
-  <RestFallRateFactor.label>sleep fall rate</RestFallRateFactor.label>
-  <RestFallRateFactor.description>A multiplier on the speed that a person's sleep need falls.</RestFallRateFactor.description>
-  
   <SubcoreEncodingSpeed.label>subcore encoding speed</SubcoreEncodingSpeed.label>
   <SubcoreEncodingSpeed.description>A multiplier on how fast a mechanitor can create subcores.</SubcoreEncodingSpeed.description>
   

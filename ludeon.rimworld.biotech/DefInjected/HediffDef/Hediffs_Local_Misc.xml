@@ -2,8 +2,12 @@
 <LanguageData>
   <AcidBurn.label>acid burn</AcidBurn.label>
   <AcidBurn.description>An acid burn.</AcidBurn.description>
+  <AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>tended</AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>bandaged</AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>tended</AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>acid burn scar</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <AcidBurn.injuryProps.destroyedLabel>Dissolved off</AcidBurn.injuryProps.destroyedLabel>
+  <AcidBurn.injuryProps.destroyedOutLabel>Dissolved</AcidBurn.injuryProps.destroyedOutLabel>
   <AcidBurn.labelNoun>an acid burn</AcidBurn.labelNoun>
   <AcidBurn.labelNounPretty>{0} in the {1}</AcidBurn.labelNounPretty>
   

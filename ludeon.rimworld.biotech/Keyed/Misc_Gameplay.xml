@@ -296,7 +296,7 @@
   <Biostarvation>Biostarvation</Biostarvation>
   <BiostarvationExplanation>One or more growth vats are experiencing biostarvation from lack of nutrition or power.\n\nIf biostarvation reaches 100%, the contained people will die.</BiostarvationExplanation>
   <InsertPersonGrowthVatDesc>Insert a person into the growth vat. They will age 20 times as fast as normal.</InsertPersonGrowthVatDesc>
-  <InsertEmbryoGrowthVatDesc>Implant an embryo into the growth vat. After gestating for 18 days a fully formed baby will be produced by the vat, hopefully in good health.</InsertEmbryoGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>Implant an embryo into the growth vat. After gestating for {0} a fully formed baby will be produced by the vat, hopefully in good health.</InsertEmbryoGrowthVatDesc>
   <ImplantEmbryo>Insert embryo</ImplantEmbryo>
   <CannotInsertEmbryo>Cannot insert embryo</CannotInsertEmbryo>
   <EmbryoAlreadyInside>Already contains embryo.</EmbryoAlreadyInside>
@@ -342,7 +342,6 @@
   <Children>children</Children>
   <Baby>baby</Baby>
   <Babies>babies</Babies>
-  <Person>person</Person>
   <FeralChild>feral child</FeralChild>
   <WearableBy>Wearable by</WearableBy>
 
