@@ -60,18 +60,6 @@
   <LetterLawViolationDetectedLabel>Lawbreaker: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
   <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
 
-  <!-- Throne Speech -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech.</LetterFinishedSpeech>
-  <LetterTerribleSpeech>It was truly atrocious - halting, full of awkward jokes and depressing stories.</LetterTerribleSpeech>
-  <LetterUninspiringSpeech>It was uninspiring - unoriginal, droning and lacking any sense of passion.</LetterUninspiringSpeech>
-  <LetterEncouragingSpeech>It was encouraging and well-delivered.</LetterEncouragingSpeech>
-  <LetterInspirationalSpeech>It was remarkably inspiring, full of intensity and purpose.</LetterInspirationalSpeech>
-  <LetterSpeechInspiredListeners>The following people were particularly moved by the speech and are now inspired:</LetterSpeechInspiredListeners>
-  <LetterSpeechInspiration>Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration!</LetterSpeechInspiration>
-  <LetterSpeechInterrupted>Because the speech was interrupted after only {0} completed, it wasn't as effective.</LetterSpeechInterrupted>
-  <LetterSpeechCancelled>{0}'s speech was cancelled before reaching 50% completion. It had no effect.</LetterSpeechCancelled>
-  <LetterLabelSpeechCancelled>Speech cancelled</LetterLabelSpeechCancelled>
-
   <!-- Wild decree mental break -->
   <WildDecree>Wild decree</WildDecree>
   <LetterLabelRandomDecree>{0_nameIndef} issues decree</LetterLabelRandomDecree>

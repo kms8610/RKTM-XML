@@ -25,7 +25,7 @@
   <ChaosSkip.description>Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported.</ChaosSkip.description>
   
   <Chunkskip.label>chunk skip</Chunkskip.label>
-  <Chunkskip.description>Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.</Chunkskip.description>
+  <Chunkskip.description>Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.</Chunkskip.description>
   
   <EntropyDump.label>neural heat dump</EntropyDump.label>
   <EntropyDump.description>Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted.</EntropyDump.description>
