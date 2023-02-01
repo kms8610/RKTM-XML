@@ -345,4 +345,16 @@
   <LetterJoinOfferText>{PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently.</LetterJoinOfferText>
   <LetterJoinOfferAccept>Accept</LetterJoinOfferAccept>
 
+  <!-- Speeches -->
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech.</LetterFinishedSpeech>
+  <LetterTerribleSpeech>It was truly atrocious - halting, full of awkward jokes and depressing stories.</LetterTerribleSpeech>
+  <LetterUninspiringSpeech>It was uninspiring - unoriginal, droning and lacking any sense of passion.</LetterUninspiringSpeech>
+  <LetterEncouragingSpeech>It was encouraging and well-delivered.</LetterEncouragingSpeech>
+  <LetterInspirationalSpeech>It was remarkably inspiring, full of intensity and purpose.</LetterInspirationalSpeech>
+  <LetterSpeechInspiredListeners>The following people were particularly moved by the speech and are now inspired:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiration>Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration!</LetterSpeechInspiration>
+  <LetterSpeechInterrupted>Because the speech was interrupted after only {0} completed, it wasn't as effective.</LetterSpeechInterrupted>
+  <LetterSpeechCancelled>{0}'s speech was cancelled before reaching 50% completion. It had no effect.</LetterSpeechCancelled>
+  <LetterLabelSpeechCancelled>Speech cancelled</LetterLabelSpeechCancelled>
+
 </LanguageData>

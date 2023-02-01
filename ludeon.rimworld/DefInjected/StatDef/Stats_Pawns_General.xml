@@ -75,6 +75,9 @@
   <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
   <PsychicSensitivity.description>More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit.</PsychicSensitivity.description>
   
+  <RestFallRateFactor.label>sleep fall rate</RestFallRateFactor.label>
+  <RestFallRateFactor.description>A multiplier on the speed that a person's sleep need falls.</RestFallRateFactor.description>
+  
   <RestRateMultiplier.label>rest rate multiplier</RestRateMultiplier.label>
   <RestRateMultiplier.description>A multiplier on how quickly a creature rests while sleeping.</RestRateMultiplier.description>
   

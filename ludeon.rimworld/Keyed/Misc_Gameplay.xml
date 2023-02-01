@@ -281,6 +281,8 @@
   <RequiredTechprintTip>Requires</RequiredTechprintTip>
   <Size>size</Size>
   <Cost>cost</Cost>
+  <BackstoryTitle>Title</BackstoryTitle><!-- text_todo -->
+  <Person>person</Person>
 
   <!-- Scanning -->
   <UserScanAbility>User scanning speed</UserScanAbility>
