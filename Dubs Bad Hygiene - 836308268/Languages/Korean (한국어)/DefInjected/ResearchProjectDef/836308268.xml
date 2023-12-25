@@ -10,6 +10,10 @@
   <LogBoilers.description>Build log boilers which can be used to heat rooms and can be placed adjacent to baths to heat bathwater.</LogBoilers.description>
   <CentralHeating.label>central heating</CentralHeating.label>
   <CentralHeating.description>Build central heating systems with radiators, hot water tanks, boilers and thermostats.</CentralHeating.description>
+  <GeothermalHeating.label>Geothermal Heating</GeothermalHeating.label>
+  <GeothermalHeating.description>Build geothermal heaters which can be built over geysers to generate heat for central heating and hot water tanks.</GeothermalHeating.description>
+  <Saunas.label>saunas</Saunas.label>
+  <Saunas.description>Build a dedicated room with a sauna heater where colonists can relax and clean, frequent use can reduce the chance of heart attacks.</Saunas.description>
   <ModernFixtures.label>modern bathroom fixtures</ModernFixtures.label>
   <ModernFixtures.description>Build modern-style bathroom fixtures like toilets and showers.</ModernFixtures.description>
   <ElectricPumps.label>electric pumps</ElectricPumps.label>
@@ -17,7 +21,7 @@
   <AdvancedShowers.label>power showers</AdvancedShowers.label>
   <AdvancedShowers.description>Build power showers which halve the time spent showering and improve comfort.</AdvancedShowers.description>
   <AdvancedToilets.label>smart toilets</AdvancedToilets.label>
-  <AdvancedToilets.description>Build smart toilets which are twice as water efficient as a standard toilets and provide more comfort.</AdvancedToilets.description>
+  <AdvancedToilets.description>Build comfortable, self cleaning, super efficient smart toilets.</AdvancedToilets.description>
   <HotTubs.label>hot tubs</HotTubs.label>
   <HotTubs.description>Build hot tubs which can be used for hydrotherapy, relaxation, and pleasure.</HotTubs.description>
   <LargeWaterPumps.label>industrial-scale pumps</LargeWaterPumps.label>
@@ -25,9 +29,11 @@
   <DeepWells.label>deep wells</DeepWells.label>
   <DeepWells.description>Drill deeper wells to access a much larger area of ground water.</DeepWells.description>
   <WashingMachines.label>washing machines</WashingMachines.label>
-  <WashingMachines.description>Build washing machines that can wash clothes so well that you couldn't even tell someone died wearing it!.</WashingMachines.description>
+  <WashingMachines.description>Build washing machines that can wash clothes so well that you couldn't even tell someone died wearing it!</WashingMachines.description>
   <WaterFiltration.label>water filtration</WaterFiltration.label>
   <WaterFiltration.description>Build water filtration systems which treat the water supply, eliminating the risk of disease.</WaterFiltration.description>
+  <HygieneBionics.label>Hygiene Bionics</HygieneBionics.label>
+  <HygieneBionics.description>Craft bionics that help to process bodily waste and manage personal hygiene.</HygieneBionics.description>
   <SepticTanks.label>septic tanks</SepticTanks.label>
   <SepticTanks.description>Build septic tanks which accumulate sewage and provide moderate treatment of sewage.</SepticTanks.description>
   <SewageTreatment.label>sewage treatment</SewageTreatment.label>

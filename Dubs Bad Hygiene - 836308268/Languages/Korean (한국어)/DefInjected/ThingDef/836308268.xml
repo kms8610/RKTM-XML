@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Mote_FecalBit.label>mote</Mote_FecalBit.label>
-  <Mote_Sewage.label>mote</Mote_Sewage.label>
-  <Mote_Irrigation.label>mote</Mote_Irrigation.label>
-  <Mote_WashSteam.label>mote</Mote_WashSteam.label>
+  <BionicBladder.label>bionic bladder</BionicBladder.label>
+  <BionicBladder.description>An advanced artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</BionicBladder.description>
+  <HygieneEnhancer.label>hygiene enhancer</HygieneEnhancer.label>
+  <HygieneEnhancer.description>Releases mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</HygieneEnhancer.description>
   <sewagePipeStuff.label>plumbing</sewagePipeStuff.label>
   <sewagePipeStuff.description>Plumbing for connecting plumbed things.</sewagePipeStuff.description>
   <plumbingValve.label>plumbing valve</plumbingValve.label>
@@ -13,32 +14,38 @@
   <ToiletStallDoor.label>stall door</ToiletStallDoor.label>
   <ToiletStallDoor.description>Thin door which only blocks line of sight to people using bathroom fixtures. Does not create new rooms or prevent heat loss.</ToiletStallDoor.description>
   <PitLatrine.label>latrine</PitLatrine.label>
-  <PitLatrine.description>A pit latrine that collects faeces in a hole in the ground. Must be emptied manually, or can be plumbed.</PitLatrine.description>
+  <PitLatrine.description>A pit latrine that collects faeces in a hole in the ground. Must be emptied manually, or can be plumbed.\n14L per use</PitLatrine.description>
   <PrimitiveWell.label>primitive well</PrimitiveWell.label>
   <PrimitiveWell.description>Accesses ground water. Water must be hauled to a water tub before it can be used for washing or drinking.</PrimitiveWell.description>
   <WashBucket.label>water tub</WashBucket.label>
-  <WashBucket.description>Tub of water used for personal hygiene. Must be regularly refilled with fresh water. Can also be used for drinking if thirst is enabled.</WashBucket.description>
+  <WashBucket.description>Tub of water used for personal hygiene. Must be regularly refilled with fresh water, also fills with rain water. Can also be used for drinking if thirst is enabled.</WashBucket.description>
+  <WaterTrough.label>Water Trough</WaterTrough.label>
+  <WaterTrough.description>Trough of water used by animals, a service box with a ballcock valve automatically refills the water when the level is low, also refills in rain.</WaterTrough.description>
+  <PetWaterBowl.label>Water Bowl</PetWaterBowl.label>
+  <PetWaterBowl.description>Bowl of water used by animals.</PetWaterBowl.description>
   <LitterBox.label>litter box</LitterBox.label>
   <LitterBox.description>An indoor faeces and urine collection box for small animals.</LitterBox.description>
   <BurnPit.label>burn pit</BurnPit.label>
   <BurnPit.description>Eliminates fecal sludge by burning it as fuel. Can also be used for disposing of corpses or other detritus. Colonists may become sick if they spend too long near burning waste.</BurnPit.description>
-  <Fountain.description>A water fountain used for drinking and washing.</Fountain.description>
-  <Fountain.label>fountain</Fountain.label>
   <BasinStuff.description>Clean and simple bathroom basin for keeping your hands clean after using the toilet.</BasinStuff.description>
   <BasinStuff.label>basin</BasinStuff.label>
+  <Fountain.description>A water fountain used for drinking and washing.</Fountain.description>
+  <Fountain.label>fountain</Fountain.label>
   <KitchenSink.description>Everything but a kitchen sink. Increases room cleanliness.</KitchenSink.description>
   <KitchenSink.label>kitchen sink</KitchenSink.label>
-  <ToiletStuff.description>Sanitation fixture used for the disposal of human urine and faeces.</ToiletStuff.description>
+  <ToiletStuff.description>Sanitation fixture used for the disposal of human urine and faeces.\n14L per use</ToiletStuff.description>
   <ToiletStuff.label>toilet</ToiletStuff.label>
-  <ToiletAdvStuff.description>Twice as water efficient as a standard toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.</ToiletAdvStuff.description>
+  <ToiletAdvStuff.description>Comfortable, self cleaning, unblockable, super efficient smart toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.\n7L per use</ToiletAdvStuff.description>
   <ToiletAdvStuff.label>smart toilet</ToiletAdvStuff.label>
-  <BathtubStuff.description>Slow to use and requires large amounts of water, but very comfortable. Can be heated by placing an adjacent campfire or log boiler, or via plumbed hot water tanks. Does not require a sewage outlet.</BathtubStuff.description>
+  <BathMat.label>Bath Mat</BathMat.label>
+  <BathMat.description>A small mat used next to a bathtub to absorb water.</BathMat.description>
+  <BathtubStuff.description>Slow to use, but very comfortable. Can be heated by placing an adjacent campfire or log boiler, or via plumbed hot water tanks. Does not require a sewage outlet.\n190L per wash</BathtubStuff.description>
   <BathtubStuff.label>bathtub</BathtubStuff.label>
-  <ShowerStuff.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.</ShowerStuff.description>
+  <ShowerStuff.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerStuff.description>
   <ShowerStuff.label>shower</ShowerStuff.label>
-  <ShowerSimple.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.</ShowerSimple.description>
+  <ShowerSimple.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerSimple.description>
   <ShowerSimple.label>simple shower</ShowerSimple.label>
-  <ShowerAdvStuff.description>Features a large 110mm 4-spray powered shower head to relax those aching muscles. Heats water on demand and doubles washing speed!</ShowerAdvStuff.description>
+  <ShowerAdvStuff.description>Heats water on demand and does not need a hot water tank, cleans twice as fast\n90L per wash</ShowerAdvStuff.description>
   <ShowerAdvStuff.label>power shower</ShowerAdvStuff.label>
   <DBHSwimmingPool.description>Swimming pool used for hydrotherapy, relaxation, or pleasure. Must be filled with water from water towers first.</DBHSwimmingPool.description>
   <DBHSwimmingPool.label>swimming pool</DBHSwimmingPool.label>
@@ -46,6 +53,12 @@
   <HotTub.label>hot tub</HotTub.label>
   <WashingMachine.label>washing machine</WashingMachine.label>
   <WashingMachine.description>Washes clothes so well that you can't even tell someone died wearing it!</WashingMachine.description>
+  <DBHSaunaHeaterLog.label>Fueled Sauna Heater</DBHSaunaHeaterLog.label>
+  <DBHSaunaHeaterLog.description>A heater designed specifically for creating a sauna room, using a sauna regularly reduces the risk of heart attacks, heats a room to 60c.</DBHSaunaHeaterLog.description>
+  <DBHSaunaHeaterElec.label>Electric Sauna Heater</DBHSaunaHeaterElec.label>
+  <DBHSaunaHeaterElec.description>A heater designed specifically for creating a sauna room, using a sauna regularly reduces the risk of heart attacks, heats a room to 60c.</DBHSaunaHeaterElec.description>
+  <DBHSaunaSeating.label>Sauna seating</DBHSaunaSeating.label>
+  <DBHSaunaSeating.description>Slatted seating for sauna rooms</DBHSaunaSeating.description>
   <WaterWellInlet.label>water well</WaterWellInlet.label>
   <WaterWellInlet.description>Accesses ground water which can be pumped by water pumps. The presence of sewage or other pollution will reduce water quality and can cause contamination.</WaterWellInlet.description>
   <DeepWaterWellInlet.label>deep water well</DeepWaterWellInlet.label>
@@ -80,16 +93,20 @@
   <ElectricBoiler.description>Produces a variable amount of heating units for radiators and hot water tanks. Manually controlled power setting. Can be controlled by thermostats.</ElectricBoiler.description>
   <SolarHeater.label>solar heater</SolarHeater.label>
   <SolarHeater.description>Uses sunlight to heat hot water tanks and radiators. 0-2000 units of heating power depending on light level and ambient temperature.</SolarHeater.description>
+  <GeothermHeater.label>Geothermal heater</GeothermHeater.label>
+  <GeothermHeater.description>Uses geothermal heat to heat hot water tanks and radiators. 3700 units of heating.</GeothermHeater.description>
   <HotWaterTank.label>hot water tank</HotWaterTank.label>
   <HotWaterTank.description>Stores hot running water for showers and baths. Connect to any boiler to heat.</HotWaterTank.description>
-  <RadiatorStuffed.description>Heats rooms using hot water. Requires 100 heating units.</RadiatorStuffed.description>
+  <RadiatorStuffed.description>Heats rooms using hot water from boilers. Requires 100 heating units.</RadiatorStuffed.description>
   <RadiatorStuffed.label>radiator</RadiatorStuffed.label>
   <RadiatorLarge.description>Three times the output of a standard radiator. Useful for larger rooms. Requires 300 heating units.</RadiatorLarge.description>
   <RadiatorLarge.label>large radiator</RadiatorLarge.label>
-  <CeilingFan.label>ceiling fan 2x2</CeilingFan.label>
+  <RadiatorTowelRail.description>Impressive bathroom towel rail.</RadiatorTowelRail.description>
+  <RadiatorTowelRail.label>Towel Rail</RadiatorTowelRail.label>
   <CeilingFan.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFan.description>
-  <CeilingFanS.label>ceiling fan 1x1</CeilingFanS.label>
+  <CeilingFan.label>ceiling fan 2x2</CeilingFan.label>
   <CeilingFanS.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFanS.description>
+  <CeilingFanS.label>ceiling fan 1x1</CeilingFanS.label>
   <AirConOutdoorUnit.label>air-con outdoor unit</AirConOutdoorUnit.label>
   <AirConOutdoorUnit.description>Multi-split air conditioner unit. Place outdoors and pipe to indoor units or freezer units. Power mode selection with 100-1000 cooling units capacity.</AirConOutdoorUnit.description>
   <AirconIndoorUnit.label>air-con indoor unit</AirconIndoorUnit.label>
@@ -97,7 +114,7 @@
   <FreezerUnit.label>walk-in freezer unit</FreezerUnit.label>
   <FreezerUnit.description>Freezer unit for creating a walk-in freezer. Connect to outdoor air-con units. Requires 300 cooling units.</FreezerUnit.description>
   <IrrigationSprinkler.label>irrigation sprinkler</IrrigationSprinkler.label>
-  <IrrigationSprinkler.description>Waters the surrounding area once every morning to improve the fertility of the soil through the day. Requires large amounts of water from water towers while spraying.</IrrigationSprinkler.description>
+  <IrrigationSprinkler.description>Waters the surrounding area once every morning to improve the fertility of the soil through the day. Uses 1000L each morning at max radius.</IrrigationSprinkler.description>
   <FireSprinkler.label>fire sprinkler</FireSprinkler.label>
   <FireSprinkler.description>Triggered by fire or high temperature. Douses flames with a spray of water.</FireSprinkler.description>
   <FireSprinkler.comps.2.useLabel>Trigger fire sprinkler</FireSprinkler.comps.2.useLabel>
