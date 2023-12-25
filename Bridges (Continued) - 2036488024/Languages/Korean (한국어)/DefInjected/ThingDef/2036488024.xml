@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <sd_bridges_drawbridge_up.label>draw bridge up</sd_bridges_drawbridge_up.label>
+  <sd_bridges_drawbridge_up.description>drawbridge up.</sd_bridges_drawbridge_up.description>
+  <sd_bridges_doubledrawbridge_up.label>double draw bridge up</sd_bridges_doubledrawbridge_up.label>
+  <sd_bridges_doubledrawbridge_up.description>double drawbridge up.</sd_bridges_doubledrawbridge_up.description>
+  <sd_bridges_drawbridge_down.label>draw bridge up</sd_bridges_drawbridge_down.label>
+  <sd_bridges_drawbridge_down.description>drawbridge down.</sd_bridges_drawbridge_down.description>
+  <sd_bridges_doubledrawbridge_down.label>double draw bridge up</sd_bridges_doubledrawbridge_down.label>
+  <sd_bridges_doubledrawbridge_down.description>double drawbridge down.</sd_bridges_doubledrawbridge_down.description>
+  <sd_bridges_pontoonbridge.label>pontoon bridge</sd_bridges_pontoonbridge.label>
+  <sd_bridges_pontoonbridge.description>The pontoon bridge can only be placed on water/mud/marsh. It will counter the walking impairment from the terrain. You can not stand on it. It's only a fast water crossing solution.</sd_bridges_pontoonbridge.description>
+  <sd_bridges_terraform_DigUpWater.label>dig up water</sd_bridges_terraform_DigUpWater.label>
+  <sd_bridges_terraform_DigUpWater.description>You colonists will prepare terrain to later terraform it to watertiles. Will create mudy terrain to convert it to shallow water later on.</sd_bridges_terraform_DigUpWater.description>
+  <sd_bridges_terraform_ShallowWater.label>shallow water</sd_bridges_terraform_ShallowWater.label>
+  <sd_bridges_terraform_ShallowWater.description>The shallowest of waters. This can be placed on mud/marsh terrain or on foundation bases to convert them back to shallow water tiles. Shallow water will slow pawns down if they walk over it.</sd_bridges_terraform_ShallowWater.description>
+  <sd_bridges_terraform_ShallowMovingWater.label>shallow moving water</sd_bridges_terraform_ShallowMovingWater.label>
+  <sd_bridges_terraform_ShallowMovingWater.description>The shallowest of moving waters. This can be placed on mud/marsh terrain or on foundation bases to convert them back to shallow water tiles. Shallow water will slow pawns down if they walk over it.</sd_bridges_terraform_ShallowMovingWater.description>
+  <sd_bridges_terraform_DeepWater.label>deep water</sd_bridges_terraform_DeepWater.label>
+  <sd_bridges_terraform_DeepWater.description>Welcome to the Deep. This can be placed on shallow water. It is impassable!</sd_bridges_terraform_DeepWater.description>
+  <sd_bridges_terraform_ChestDeepMovingWater.label>chest-deep moving water</sd_bridges_terraform_ChestDeepMovingWater.label>
+  <sd_bridges_terraform_ChestDeepMovingWater.description>Welcome to the Deep. This can be placed on shallow moving water. It is impassable!</sd_bridges_terraform_ChestDeepMovingWater.description>
+  <sd_bridges_terraform_MarshWater.label>Marsh</sd_bridges_terraform_MarshWater.label>
+  <sd_bridges_terraform_MarshWater.description>The marsh makes it hard to walk for your enemies. This can be placed on mud/shallow water terrain or marsh tiles. It can not be placed on deep water. Marsh will slow pawns down if they walk over it.</sd_bridges_terraform_MarshWater.description>
+  <sd_bridges_seabridge.label>sea bridge</sd_bridges_seabridge.label>
+  <sd_bridges_seabridge.description>This bridge can only be placed on a foundation base. It will counter the walking impairment from the foundation base. Can be deconstructed to put up a platform on the foundation base.</sd_bridges_seabridge.description>
+  <sd_bridges_landbridge.label>land bridge</sd_bridges_landbridge.label>
+  <sd_bridges_landbridge.description>This bridge can be placed on all buildable land tiles supporting light structures. It has a slight movement bonus to mitigate the decrease from natural floors. If you place normal floors under it you can speed your pawns up to have a movement bonus over 100%.</sd_bridges_landbridge.description>
+  <sd_bridges_foundationmaterial.label>foundation material</sd_bridges_foundationmaterial.label>
+  <sd_bridges_foundationmaterial.description>Material used to build structures on water(foundations+platforms). It can be produced at the stonecutters table or machining table out of stuff(metal,stone,wood).</sd_bridges_foundationmaterial.description>
+  <sd_bridges_pontoonbridgepart.label>pontoon bridge part</sd_bridges_pontoonbridgepart.label>
+  <sd_bridges_pontoonbridgepart.description>Material used to build pontoon bridges on water/mud/marsh. It can be produced at the stonecutters table or machining table out of stuff(metal,wood). Pawns can only walk over pontoon bridges, but not stand on them.</sd_bridges_pontoonbridgepart.description>
+</LanguageData>

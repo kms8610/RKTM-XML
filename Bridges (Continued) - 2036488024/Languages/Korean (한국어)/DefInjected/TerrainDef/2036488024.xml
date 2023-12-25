@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <sd_bridges_fakeWaterDeep.label>fake deep water</sd_bridges_fakeWaterDeep.label>
+  <sd_bridges_fakeWaterDeep.tools.0.label>water</sd_bridges_fakeWaterDeep.tools.0.label>
+  <sd_bridges_fakeWaterOceanDeep.label>fake deep ocean water</sd_bridges_fakeWaterOceanDeep.label>
+  <sd_bridges_fakeWaterOceanDeep.tools.0.label>water</sd_bridges_fakeWaterOceanDeep.tools.0.label>
+  <sd_bridges_fakeWaterMovingChestDeep.label>fake chest-deep moving water</sd_bridges_fakeWaterMovingChestDeep.label>
+  <sd_bridges_fakeWaterShallow.label>fake shallow water</sd_bridges_fakeWaterShallow.label>
+  <sd_bridges_fakeWaterShallow.tools.0.label>water</sd_bridges_fakeWaterShallow.tools.0.label>
+  <sd_bridges_fakeWaterOceanShallow.label>fake shallow ocean water</sd_bridges_fakeWaterOceanShallow.label>
+  <sd_bridges_fakeWaterOceanShallow.tools.0.label>water</sd_bridges_fakeWaterOceanShallow.tools.0.label>
+  <sd_bridges_fakeWaterMovingShallow.label>fake shallow moving water</sd_bridges_fakeWaterMovingShallow.label>
+  <sd_bridges_fakeWaterMovingShallow.tools.0.label>water</sd_bridges_fakeWaterMovingShallow.tools.0.label>
+  <sd_bridges_fakeMud.label>fake mud</sd_bridges_fakeMud.label>
+  <sd_bridges_fakeMud.tools.0.label>mud</sd_bridges_fakeMud.tools.0.label>
+  <sd_bridges_fakeMarsh.label>fake marsh</sd_bridges_fakeMarsh.label>
+  <sd_bridges_fakeMarsh.tools.0.label>mud</sd_bridges_fakeMarsh.tools.0.label>
+  <sd_bridges_FundamentBase.label>foundation base</sd_bridges_FundamentBase.label>
+  <sd_bridges_FundamentBase.description>Build a foundation base to quickly put up a bridge or build a platform. Can only be placed on shallow water or mud.
+	
+	It will slow pawns down if they walk over it. Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. Foundation material can be produced at the stonecutters or machiniong table.</sd_bridges_FundamentBase.description>
+  <sd_bridges_platform.label>platform</sd_bridges_platform.label>
+  <sd_bridges_platform.description>Produces a solid floortile capable of supporting heavy structures. Can only be placed on a foundation base. Takes a lot of work to make.
+	
+	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it. Foundation material can be produced at the stonecutters or machiniong table.</sd_bridges_platform.description>
+  <sd_bridges_DigUpWater.label>dig up water</sd_bridges_DigUpWater.label>
+  <sd_bridges_DigUpWater.description>You colonists will prepare terrain to later terraform it to watertiles. Will create mudy terrain to convert it to shallow water later on.
+	
+	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it.</sd_bridges_DigUpWater.description>
+  <sd_bridges_ShallowWater.label>shallow water</sd_bridges_ShallowWater.label>
+  <sd_bridges_ShallowWater.description>The shallowest of waters. This can be placed on mud/marsh terrain or on foundation bases to convert them back to shallow water tiles. Shallow water will slow pawns down if they walk over it.
+	
+	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it.</sd_bridges_ShallowWater.description>
+  <sd_bridges_ShallowMovingWater.label>shallow moving water</sd_bridges_ShallowMovingWater.label>
+  <sd_bridges_ShallowMovingWater.description>The shallowest of moving waters. This can be placed on mud/marsh terrain or on foundation bases to convert them back to shallow water tiles. Shallow water will slow pawns down if they walk over it.
+	
+	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it.</sd_bridges_ShallowMovingWater.description>
+  <sd_bridges_DeepWater.label>deep water</sd_bridges_DeepWater.label>
+  <sd_bridges_DeepWater.description>Welcome to the Deep. This can be placed on shallow water. It is impassable!
+	
+	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it.</sd_bridges_DeepWater.description>
+  <sd_bridges_ChestDeepMovingWater.label>chest-deep moving water</sd_bridges_ChestDeepMovingWater.label>
+  <sd_bridges_ChestDeepMovingWater.description>Welcome to the Deep. This can be placed on shallow moving water. It is impassable!
+	
+	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it.</sd_bridges_ChestDeepMovingWater.description>
+  <sd_bridges_MarshWater.label>Marsh</sd_bridges_MarshWater.label>
+  <sd_bridges_MarshWater.description>The marsh makes it hard to walk for your enemies. This can be placed on mud/shallow water terrain or marsh tiles. It can not be placed on deep water. Marsh will slow pawns down if they walk over it.
+	
+	Can be removed with the remove floor order to restore the default map terrain. The exception is original deep water will become sand when removing floors over it.</sd_bridges_MarshWater.description>
+</LanguageData>
