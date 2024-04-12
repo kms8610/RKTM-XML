@@ -4,6 +4,42 @@
   
   <AllowBiocodedWeapons.label>allow biocoded weapons</AllowBiocodedWeapons.label>
   
+  <AllowBookAnimals.label>animals</AllowBookAnimals.label>
+  <AllowBookAnimals.description>Allow books which teach animal-related skills.</AllowBookAnimals.description>
+  
+  <AllowBookArtistic.label>artistic</AllowBookArtistic.label>
+  <AllowBookArtistic.description>Allow books which teach art skills.</AllowBookArtistic.description>
+  
+  <AllowBookConstruction.label>construction</AllowBookConstruction.label>
+  <AllowBookConstruction.description>Allow books which teach construction skills.</AllowBookConstruction.description>
+  
+  <AllowBookCooking.label>cooking</AllowBookCooking.label>
+  <AllowBookCooking.description>Allow books which teach cooking skills.</AllowBookCooking.description>
+  
+  <AllowBookCrafting.label>crafting</AllowBookCrafting.label>
+  <AllowBookCrafting.description>Allow books which teach crafting skills.</AllowBookCrafting.description>
+  
+  <AllowBookIntellectual.label>intellectual</AllowBookIntellectual.label>
+  <AllowBookIntellectual.description>Allow books which teach intellectual skills.</AllowBookIntellectual.description>
+  
+  <AllowBookMedicine.label>medical</AllowBookMedicine.label>
+  <AllowBookMedicine.description>Allow books which teach medical skills.</AllowBookMedicine.description>
+  
+  <AllowBookMelee.label>melee</AllowBookMelee.label>
+  <AllowBookMelee.description>Allow books which teach melee skills.</AllowBookMelee.description>
+  
+  <AllowBookMining.label>mining</AllowBookMining.label>
+  <AllowBookMining.description>Allow books which teach mining skills.</AllowBookMining.description>
+  
+  <AllowBookPlants.label>plants</AllowBookPlants.label>
+  <AllowBookPlants.description>Allow books which teach plant-related skills.</AllowBookPlants.description>
+  
+  <AllowBookShooting.label>shooting</AllowBookShooting.label>
+  <AllowBookShooting.description>Allow books which teach shooting skills.</AllowBookShooting.description>
+  
+  <AllowBookSocial.label>social</AllowBookSocial.label>
+  <AllowBookSocial.description>Allow books which teach social skills.</AllowBookSocial.description>
+  
   <AllowBurnableApparel.label>allow burnable</AllowBurnableApparel.label>
   
   <AllowBurnableWeapons.label>allow burnable</AllowBurnableWeapons.label>
@@ -25,6 +61,9 @@
   
   <AllowLargeCorpses.label>allow large corpses</AllowLargeCorpses.label>
   <AllowLargeCorpses.description>Allow large, dead bodies.</AllowLargeCorpses.description>
+  
+  <AllowMainResearch.label>normal research</AllowMainResearch.label>
+  <AllowMainResearch.description>Allow books which advance research of normal research projects.</AllowMainResearch.description>
   
   <AllowMaleGender.label>allow males</AllowMaleGender.label>
   <AllowMaleGender.description>Allow male individuals.</AllowMaleGender.description>

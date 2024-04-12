@@ -69,6 +69,9 @@
   <PsychicHangover.stages.forming.label>forming</PsychicHangover.stages.forming.label>
   <PsychicHangover.stages.buzzing.label>buzzing</PsychicHangover.stages.buzzing.label>
   
+  <PsychicInvisibility.label>psychic invisibility</PsychicInvisibility.label>
+  <PsychicInvisibility.description>Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected.</PsychicInvisibility.description>
+  
   <PsychicShock.label>psychic shock</PsychicShock.label>
   <PsychicShock.description>A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off.</PsychicShock.description>
   <PsychicShock.labelNoun>a psychic shock</PsychicShock.labelNoun>
@@ -78,6 +81,7 @@
   
   <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
   <ToxicBuildup.description>Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance.</ToxicBuildup.description>
+  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} is showing early signs of toxic buildup. Keep {PAWN_objective} away from sources of toxins.</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <ToxicBuildup.stages.initial-0.label>initial</ToxicBuildup.stages.initial-0.label>
   <ToxicBuildup.stages.initial-1.label>initial</ToxicBuildup.stages.initial-1.label>
   <ToxicBuildup.stages.minor.label>minor</ToxicBuildup.stages.minor.label>

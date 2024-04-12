@@ -9,8 +9,14 @@
   <MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>
   <MeleeArmorPenetration.description>Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon.</MeleeArmorPenetration.description>
   
+  <MeleeCooldownFactor.label>melee cooldown</MeleeCooldownFactor.label>
+  <MeleeCooldownFactor.description>A multiplier on the time this creature takes to recover after making a melee attack.</MeleeCooldownFactor.description>
+  
   <MeleeDPS.label>melee DPS</MeleeDPS.label>
   <MeleeDPS.description>Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor.</MeleeDPS.description>
+  
+  <MeleeDamageFactor.label>melee damage factor</MeleeDamageFactor.label>
+  <MeleeDamageFactor.description>A multiplier on the amount of melee damage inflicted by this person.</MeleeDamageFactor.description>
   
   <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
   <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
@@ -24,6 +30,9 @@
   
   <PawnTrapSpringChance.label>trap spring chance</PawnTrapSpringChance.label>
   <PawnTrapSpringChance.description>Chance to spring a trap the character is unaware of.</PawnTrapSpringChance.description>
+  
+  <RangedCooldownFactor.label>ranged cooldown multiplier</RangedCooldownFactor.label>
+  <RangedCooldownFactor.description>A multiplier on the cooldown between bursts when using a ranged weapon.</RangedCooldownFactor.description>
   
   <ShootingAccuracyFactor_Long.label>accuracy factor (long)</ShootingAccuracyFactor_Long.label>
   <ShootingAccuracyFactor_Long.description>A multiplier on accuracy at a distance of 40 cells or more.</ShootingAccuracyFactor_Long.description>
@@ -40,4 +49,7 @@
   <ShootingAccuracyPawn.label>shooting accuracy</ShootingAccuracyPawn.label>
   <ShootingAccuracyPawn.description>Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyPawn.description>
   <ShootingAccuracyPawn.labelForFullStatList>shooting accuracy (people)</ShootingAccuracyPawn.labelForFullStatList>
+  
+  <StaggerDurationFactor.label>stagger time multiplier</StaggerDurationFactor.label>
+  <StaggerDurationFactor.description>A multiplier on the duration of the stagger-slowdown that occurs when damage is taken.</StaggerDurationFactor.description>
 </LanguageData>

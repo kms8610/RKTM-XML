@@ -24,15 +24,16 @@
   <WorkDisabledByQuest>Disabled by quest '{0}'</WorkDisabledByQuest>
   
   <!-- Assign tab -->
-  <ManageOutfits>Manage outfits</ManageOutfits>
   <Unchangeable>Unchangeable</Unchangeable>
   <ClearForcedApparel>Clr. forced</ClearForcedApparel>
   <ApparelForcedLower>forced</ApparelForcedLower>
   <ApparelLockedLower>locked</ApparelLockedLower>
   <ForcedApparel>Forced apparel</ForcedApparel>
-  <AssignTabEdit>Edit...</AssignTabEdit>
+  <AssignTabEdit>Edit</AssignTabEdit>
+  <ManageApparelPolicies>Manage apparel policies</ManageApparelPolicies>
   <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
-  <ManageFoodRestrictions>Manage food restrictions</ManageFoodRestrictions>
+  <ManageFoodPolicies>Manage food policies</ManageFoodPolicies>
+  <ManageReadingPolicies>Manage reading policies</ManageReadingPolicies>
   
   <!-- Restrictions tab -->
   <Copy>Copy</Copy>
@@ -111,10 +112,14 @@
   <Finished>Finished</Finished>
   <InProgress>In Progress</InProgress>
   <Locked>Locked</Locked>
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
+  <Prerequisites>Prerequisites</Prerequisites>
   <ResearchTechprintRequirement>Techprints required {0} / {1}</ResearchTechprintRequirement>
   <InsufficientTechprintsApplied>Insufficient techprints applied ({0} / {1})</InsufficientTechprintsApplied>
   <PrerequisitesNotCompleted>Prerequisite(s) not completed</PrerequisitesNotCompleted>
+  <NoProjectSelected>No project active.</NoProjectSelected>
+  <ActiveProjectPlural>Active projects</ActiveProjectPlural>
+  <ActiveProject>Active project</ActiveProject>
+  <StopResearch>Stop research</StopResearch>
   <MissingRequiredResearchFacilities>Missing required research facilities</MissingRequiredResearchFacilities>
   <RequiredResearchBench>Required research bench</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
@@ -122,6 +127,8 @@
   <ResearchTechprintsFromFactions>Techprints are available from these factions via trade and quests:</ResearchTechprintsFromFactions>
   <TechLevelTooLow>Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}.</TechLevelTooLow>
   <UnlockedWith>Unlocked with</UnlockedWith>
+  <UnknownResearchDescription>Research one or more of this project's prerequisites to discover it.</UnknownResearchDescription>
+  <UnknownResearch>unknown</UnknownResearch>
 
   <!-- Factions tab -->
   <FactionsTab>Factions</FactionsTab>
@@ -189,8 +196,16 @@
 
   <!-- Health tab -->
   <CreatesNeed>Creates need</CreatesNeed>
+  <ChangeDefaults>Change defaults...</ChangeDefaults>
 
   <!-- Misc -->
   <ClickToEdit>Click to edit</ClickToEdit>
-
+  <AssignButton>Assign</AssignButton>
+  <UnassignButton>Unassign</UnassignButton>
+  
+  <!-- Books -->
+  <BookMentalBreakChance>Mental break chance</BookMentalBreakChance>
+  
+  <BookJoyFactor>Recreation gain multiplier</BookJoyFactor>
+  
 </LanguageData>

@@ -32,8 +32,15 @@
   <DesignatorMine>Mine</DesignatorMine>
   <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
 
+  <DesignatorMineVein>Mine vein</DesignatorMineVein>
+  <DesignatorMineVeinDesc>Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined.</DesignatorMineVeinDesc>
+
   <DesignatorSmoothSurface>Smooth surface</DesignatorSmoothSurface>
   <DesignatorSmoothSurfaceDesc>Designate rough stone terrain and walls to be smoothed.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothWalls>Smooth walls</DesignatorSmoothWalls>
+  <DesignatorSmoothWallsDesc>Designate rough stone walls to be smoothed.</DesignatorSmoothWallsDesc>
+  <DesignatorSmoothFloors>Smooth terrain</DesignatorSmoothFloors>
+  <DesignatorSmoothFloorsDesc>Designate rough stone terrain to be smoothed.</DesignatorSmoothFloorsDesc>
 
   <DesignatorPlan>Plan</DesignatorPlan>
   <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
@@ -172,5 +179,8 @@
   <SkillNeededForConstructing>{0} needed</SkillNeededForConstructing>
   <NoColonistWithAllSkillsForConstructing>None of your {0} have all skills required.</NoColonistWithAllSkillsForConstructing>
   <AllColonistsWithSkillHaveDisabledConstructingTip>All of your {0} who have this skill are not assigned to {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+  <DesignatorExtractSkull>Extract skull</DesignatorExtractSkull>
+  <DesignatorExtractSkullDesc>Extract the skull from a corpse.</DesignatorExtractSkullDesc>
 
 </LanguageData>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GameplayTips.DismissLetters>You can dismiss letters by right-clicking on them.</GameplayTips.DismissLetters>
+  <GameplayTips.DismissLetters>You can dismiss letters and messages by right-clicking on them.</GameplayTips.DismissLetters>
   <GameplayTips.QueueOrders>You can hold the shift key to queue orders on your colonists.</GameplayTips.QueueOrders>
   <GameplayTips.ReorderColonistbar>You can right-click and drag to reorder colonists on the colonist bar.</GameplayTips.ReorderColonistbar>
-  <GameplayTips.SelectPrevNextColonist>You can select previous/next colonist with the , and . keys.</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SelectPrevNextColonist>You can select the previous or next colonist with the , and . keys.</GameplayTips.SelectPrevNextColonist>
   <GameplayTips.SettingPainting>Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions.</GameplayTips.SettingPainting>
   <GameplayTips.ManualPriorities>In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority.</GameplayTips.ManualPriorities>
   <GameplayTips.ColonistMood>Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen.</GameplayTips.ColonistMood>
@@ -76,4 +76,9 @@
   <GameplayTips.StrawMatting>Straw matting ignores filth. Use it as the floor for your barn.</GameplayTips.StrawMatting>
   <GameplayTips.AnimalFilth>Some animals produce a lot of filth. Keep your elephants and cattle outside.</GameplayTips.AnimalFilth>
   <GameplayTips.PredatorsAndFences>Predators won't hunt animals which are on the other side of fences or barricades.</GameplayTips.PredatorsAndFences>
+  <GameplayTips.NeverGameOver>It’s never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony.</GameplayTips.NeverGameOver>
+  <GameplayTips.StoreBooksInBookcases>Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading.</GameplayTips.StoreBooksInBookcases>
+  <GameplayTips.TakeToShelves>Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill’s “Details…” window.</GameplayTips.TakeToShelves>
+  <GameplayTips.ChangeUnits>You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu.</GameplayTips.ChangeUnits>
+  <GameplayTips.TargetColonistBar>When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar.</GameplayTips.TargetColonistBar>
 </LanguageData>

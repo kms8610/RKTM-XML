@@ -10,6 +10,7 @@
   <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
   <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
   <StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
+  <StatsReport_ShamblerCrawling>Shambler crawling</StatsReport_ShamblerCrawling>
   <StatsReport_Material>Material</StatsReport_Material>
   <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
   <StatsReport_Skills>Skills</StatsReport_Skills>
@@ -22,6 +23,7 @@
   <StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
   <StatsReport_ShootingExampleDistances>The chances to hit at increasing distances are</StatsReport_ShootingExampleDistances>
   <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
+  <StatsReport_MaxValue>Max value</StatsReport_MaxValue>
   <StatsReport_MultiplierFor>Multiplier for {0}</StatsReport_MultiplierFor>
   <StatsReport_MarketValueFromStuffsAndWork>Materials and labor</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
@@ -81,6 +83,7 @@
   <StatsReport_NearbyArtificialStructures>Nearby artificial structures</StatsReport_NearbyArtificialStructures>
   <StatsReport_SatisfiesTitle>Satisfies user's title requirements</StatsReport_SatisfiesTitle>
 
+  <Stat_Age_Label>Age</Stat_Age_Label>
   <Stat_RecreationType_Desc>Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types.</Stat_RecreationType_Desc>
   <Stat_JoyKind_AllTypes>All recreation types</Stat_JoyKind_AllTypes>
   <Stat_MineableThing_Name>Mined item</Stat_MineableThing_Name>
@@ -102,6 +105,8 @@
   <Stat_Thing_Plant_Attributes_Desc>The attributes of this plant.</Stat_Thing_Plant_Attributes_Desc>
   <Stat_Thing_Apparel_CountsAsClothingNudity_Name>Clothing (for nudity)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
   <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <Stat_Thing_Apparel_Gender>Gender</Stat_Thing_Apparel_Gender>
+  <Stat_Thing_Apparel_Gender_Desc>Certain apparel is generally preferred by one gender. Anyone else may be unhappy wearing it.</Stat_Thing_Apparel_Gender_Desc>
   <Stat_Thing_Apparel_Covers_Desc>Which body parts this covers.\n\nArmor does not protect body parts that it does not cover.</Stat_Thing_Apparel_Covers_Desc>
   <Stat_Thing_Apparel_Layer_Desc>Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer.</Stat_Thing_Apparel_Layer_Desc>
   <Stat_Thing_Plant_FertilityRequirement_Desc>The minimum soil fertility that this plant requires to grow.</Stat_Thing_Plant_FertilityRequirement_Desc>
@@ -149,11 +154,12 @@
   <Stat_Hediff_BleedingRate_Desc>The rate at which this condition causes blood loss.</Stat_Hediff_BleedingRate_Desc>
   <Stat_Hediff_Pain_Desc>The amount of pain caused by this condition.</Stat_Hediff_Pain_Desc>
   <Stat_Hediff_PartEfficiency_Desc>The offset in efficiency applied to body parts affected by this.</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_PartEfficiencyAbsolute_Desc>How efficiently this functions compared to a natural body part.</Stat_Hediff_PartEfficiencyAbsolute_Desc>
   <Stat_Hediff_Affects_Desc>The mental abilities this affects.</Stat_Hediff_Affects_Desc>
   <Stat_Hediff_HungerRateOffset_Name>Hunger rate offset</Stat_Hediff_HungerRateOffset_Name>
   <Stat_Hediff_HungerRateFactor_Desc>A multiplier on the rate at which the food need depletes.</Stat_Hediff_HungerRateFactor_Desc>
   <Stat_Hediff_HungerRateOffset_Desc>An offset on the rate at which the food need depletes.</Stat_Hediff_HungerRateOffset_Desc>
-  <Stat_Hediff_TirednessOffset_Name>Rest fall rate</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Name>Sleep fall rate</Stat_Hediff_TirednessOffset_Name>
   <Stat_Hediff_TirednessOffset_Desc>An offset applied to the rate at which the creature's sleep need falls.</Stat_Hediff_TirednessOffset_Desc>
   <Stat_Hediff_TirednessFactor_Desc>A multiplier applied to the rate at which the creature's sleep need falls.</Stat_Hediff_TirednessFactor_Desc>
   <Stat_Hediff_PreventsInfection_Desc>Whether or not this will prevent infections.</Stat_Hediff_PreventsInfection_Desc>
@@ -190,6 +196,10 @@
   <Stat_Building_PaintableDesc>Whether this can be painted using dye.</Stat_Building_PaintableDesc>
   <Stat_Building_PaintColor>Paint color</Stat_Building_PaintColor>
   <Stat_Building_PaintColorDesc>The color this building was painted.</Stat_Building_PaintColorDesc>
+  <Stat_Building_ResourcesToMake>Resources to make</Stat_Building_ResourcesToMake>
+  <Stat_Building_ResourcesToMakeDesc>The resources required to construct this.</Stat_Building_ResourcesToMakeDesc>
+  <Stat_Thing_TurretDesc>The weapon mounted on this creature.</Stat_Thing_TurretDesc>
+  <Stat_Thing_Ingredients>The ingredients needed to make this.</Stat_Thing_Ingredients>
 
   <!-- Drugs -->
   <Stat_Thing_Drug_Chemical_Desc>The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways.</Stat_Thing_Drug_Chemical_Desc>
@@ -268,5 +278,7 @@
   <Stat_Source_Label>Source</Stat_Source_Label>
   <Stat_Source_OfficialExpansionReport>This content came from the official expansion</Stat_Source_OfficialExpansionReport>
   <Stat_Source_ModReport>This content came from the mod</Stat_Source_ModReport>
-  
+
+  <ContainedBookBeauty>Contained book beauty</ContainedBookBeauty>
+  <Stat_TrapDamageHitCount>{0} hits</Stat_TrapDamageHitCount>
 </LanguageData>

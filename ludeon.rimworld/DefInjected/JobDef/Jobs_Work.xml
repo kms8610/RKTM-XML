@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <AnalyzeItem.reportString>Analyzing TargetA.</AnalyzeItem.reportString>
+  
   <Arrest.reportString>arresting TargetA.</Arrest.reportString>
   
   <BuildRoof.reportString>building roof.</BuildRoof.reportString>
@@ -9,6 +11,8 @@
   <CarryDownedPawnDrafted.reportString>carrying TargetA.</CarryDownedPawnDrafted.reportString>
   
   <CarryDownedPawnToExit.reportString>carrying TargetA.</CarryDownedPawnToExit.reportString>
+  
+  <CarryDownedPawnToPortal.reportString>carrying TargetA.</CarryDownedPawnToPortal.reportString>
   
   <CarryToCryptosleepCasket.reportString>carrying TargetA to cryptosleep casket.</CarryToCryptosleepCasket.reportString>
   
@@ -29,6 +33,8 @@
   <DoBill.reportString>doing bill at TargetA.</DoBill.reportString>
   
   <EscortPrisonerToBed.reportString>escorting prisoner TargetA.</EscortPrisonerToBed.reportString>
+  
+  <ExtractSkull.reportString>extracting skull from TargetA.</ExtractSkull.reportString>
   
   <ExtractTree.reportString>extracting TargetA.</ExtractTree.reportString>
   
@@ -110,7 +116,9 @@
   
   <Steal.reportString>stealing TargetA.</Steal.reportString>
   
-  <StudyBuilding.reportString>Studying TargetA.</StudyBuilding.reportString>
+  <StudyInteract.reportString>Studying TargetA.</StudyInteract.reportString>
+  
+  <StudyItem.reportString>Studying TargetA.</StudyItem.reportString>
   
   <TakeDownedPawnToBedDrafted.reportString>taking TargetA to bed.</TakeDownedPawnToBedDrafted.reportString>
   

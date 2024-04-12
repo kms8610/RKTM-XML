@@ -126,6 +126,20 @@
   <ShowAnimalNames>Show animal names</ShowAnimalNames>
   <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+
+  <!-- Highlight display mode -->
+  <DotHighlightDisplayMode>Character highlighting</DotHighlightDisplayMode>
+  <DotHighlightDisplayMode_HighlightHostiles>Highlight hostiles</DotHighlightDisplayMode_HighlightHostiles>
+  <DotHighlightDisplayMode_HighlightAll>Highlight all</DotHighlightDisplayMode_HighlightAll> 
+  
+  <!-- Highlight style -->
+  <HighlightStyleMode>Highlight mode</HighlightStyleMode>
+  <HighlightStyleMode_Dots>Dots</HighlightStyleMode_Dots>
+  <HighlightStyleMode_Silhouettes>Silhouettes</HighlightStyleMode_Silhouettes> 
+
+  <!-- Mood gradient display strength-->
+  <VisibleMood>Visible mood</VisibleMood>
+  <VisibleMoodDesc>When on, displays a visual indicator on a character's portrait when they are at risk of a mental break.</VisibleMoodDesc>
   
   <!-- Mech name display mode -->
   <ShowMechNames>Show player mech names</ShowMechNames>

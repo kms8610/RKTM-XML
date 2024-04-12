@@ -113,6 +113,9 @@
   <NickName>nickname</NickName>
   <LastName>last name</LastName>
   <Suggested>suggested</Suggested>
+  
+  <!-- Choose new wanderers -->
+  <ChooseNewWanderers>Choose new wanderers</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Version mismatch</VersionMismatch>
@@ -165,7 +168,7 @@
   <CurrentlyHave>Currently have</CurrentlyHave>
   <CountingProducts>Counting</CountingProducts>
   <Infinite>Infinite</Infinite>
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
+  <AllowedSkillRange>Allowed {0} skill</AllowedSkillRange>
   <IncompatibleLower>incompatible</IncompatibleLower>
   <AnyWorker>Any worker</AnyWorker>
   <Unlimited>Unlimited</Unlimited>
@@ -182,7 +185,7 @@
 
   <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
   <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
-  <Paused>Paused</Paused>
+  <Paused>paused</Paused>
   <Unpause>Unpause</Unpause>
 
   <IncludeEquipped>Count equipped</IncludeEquipped>
@@ -190,6 +193,9 @@
   <LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
   <IncludeFromAll>Look everywhere</IncludeFromAll>
   <IncludeSpecific>Look in {0}</IncludeSpecific>
+  <StockpilePlural>Stockpiles</StockpilePlural>
+  <ShelfPlural>Shelves</ShelfPlural>
+  <GroupPlural>Groups</GroupPlural>
   
   <!-- Info card -->
   <Damage>Damage</Damage>
@@ -224,7 +230,7 @@
   <HarvestYield>Harvest yield</HarvestYield>
   <MinGrowthTemperature>Min growth temperature</MinGrowthTemperature>
   <MaxGrowthTemperature>Max growth temperature</MaxGrowthTemperature>
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth.</GrowingTimeDesc>
+  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\n\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth.</GrowingTimeDesc>
   <Days>days</Days>
   <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
   <FertilityRequirement>Fertility requirement</FertilityRequirement>
@@ -281,6 +287,7 @@
   <NeverSafe>Never safe</NeverSafe>
   <PerDay>{0} / day</PerDay>
   <PerHour>{0} / hour</PerHour>
+  <XpPerHour>{0} XP / hour</XpPerHour>
   <PackAnimal>Pack animal</PackAnimal>
   <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
   <Skill>Skill</Skill>
@@ -322,6 +329,7 @@
   <MeditationFocusEnabledByChildhood>has childhood</MeditationFocusEnabledByChildhood>
   <MeditationFocusEnabledByAdulthood>has adulthood</MeditationFocusEnabledByAdulthood>
   <MeditationFocusEnabledByTrait>has trait</MeditationFocusEnabledByTrait>
+  <MeditationFocusEnabledByHediff>has health condition</MeditationFocusEnabledByHediff> 
   <MeditationFocusDisabledByTrait>does not have trait</MeditationFocusDisabledByTrait>
   <EnablesMeditationFocusType>Enables meditation focus types</EnablesMeditationFocusType>
   
@@ -374,6 +382,11 @@
   <TraderRestockedSinceLastVisit>Restocked since your last visit</TraderRestockedSinceLastVisit>
   <NextTraderRestock>Next restock: {0} days</NextTraderRestock>
   <PawnsTabShort>Creatures</PawnsTabShort>
+  
+  <!-- Select caravan settlement -->
+  <SelectCaravanOrigin>Select colony to send caravan</SelectCaravanOrigin> 
+  <SelectCaravanDesc>Send a caravan from {0}.</SelectCaravanDesc> 
+  <SelectCaravanColonists>Colonists</SelectCaravanColonists>
   
   <!-- Form caravan -->
   <FormCaravan>Form caravan</FormCaravan>
@@ -478,6 +491,7 @@
   <!--Research-->
   <ResearchFinished>Research finished: {0}</ResearchFinished>
   <ResearchScreen>Research Screen</ResearchScreen>
+  <ResearchUnknownProjectRevealed>By researching {0} you have discovered the {1} research project.</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
@@ -487,25 +501,32 @@
   <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
   <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
   
+  <!-- Policies -->
+  <AvailablePolicies>Available policies</AvailablePolicies>
+  <UnnamedPolicy>Unnamed</UnnamedPolicy>
+  <NewPolicy>New...</NewPolicy>
+  <InvalidName>Invalid policy name</InvalidName>
+  <DeletePolicyTip>Delete the selected policy.</DeletePolicyTip>
+  <DuplicatePolicyTip>Create a duplicate of the selected policy.</DuplicatePolicyTip>
+  <RenamePolicyTip>Rename this policy.</RenamePolicyTip>
+  <DeletePolicyConfirm>Are you sure you want to delete the policy: {0}?</DeletePolicyConfirm>
+  <DeletePolicyConfirmButton>Delete</DeletePolicyConfirmButton>
+  <NoPolicySelected>No policy selected</NoPolicySelected>
+  
   <!-- Outfit management -->
-  <Outfit>Outfit</Outfit>
-  <SelectOutfit>Select outfit...</SelectOutfit>
-  <NewOutfit>New outfit</NewOutfit>
-  <DeleteOutfit>Delete outfit...</DeleteOutfit>
-  <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
-  <NoOutfitSelected>No outfit selected</NoOutfitSelected>
+  <ApparelPolicyTitle>Apparel policies</ApparelPolicyTitle>
+  <ApparelPolicyTip>Create and manage templates for controlling what apparel items colony members can wear.</ApparelPolicyTip>
+  <ApparelPolicy>Apparel policy</ApparelPolicy>
+  <OutfitInUse>Apparel policy is in use by {0}.</OutfitInUse>
   
   <!-- Drug policy management -->
+  <DrugPolicyTitle>Drug policies</DrugPolicyTitle>
+  <DrugPolicyTip>Create and manage templates for controlling which drugs your colonists are allowed to consume.</DrugPolicyTip>
   <DrugPolicy>Drug policy</DrugPolicy>
-  <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
-  <NewDrugPolicy>New policy</NewDrugPolicy>
-  <DeleteDrugPolicy>Delete policy...</DeleteDrugPolicy>
   <DrugPolicyInUse>Drugs policy is in use by {0}.</DrugPolicyInUse>
   <FoodRestrictionInUse>Food restriction is in use by {0}.</FoodRestrictionInUse>
-  <NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
   <AddDrug>Add drug...</AddDrug>
   <DrugColumnLabel>Drug</DrugColumnLabel>
-  <DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
   <FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
   <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
   <JoyThresholdColumnLabel>Only if recreation below</JoyThresholdColumnLabel>
@@ -517,7 +538,6 @@
   <NoDrugUseRequirement>Any</NoDrugUseRequirement>
   <DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
   <DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
-  <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
   <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
   <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>The colonists will take this drug only if their recreation level is below this threshold.</JoyThresholdColumnDesc>
@@ -527,29 +547,59 @@
   <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
-  <FoodRestriction>Food restriction</FoodRestriction>
-  <FoodRestrictionShort>Food</FoodRestrictionShort>
+  <FoodPolicyTitle>Food policies</FoodPolicyTitle>
+  <FoodPolicyTip>Create and manage templates for controlling what food items colony members can eat.</FoodPolicyTip>
+  <FoodPolicy>Food policy</FoodPolicy>
+  <AllowFood>Allow food</AllowFood>
   <FoodRestrictionLavish>Lavish</FoodRestrictionLavish>
   <FoodRestrictionFine>Fine</FoodRestrictionFine>
   <FoodRestrictionSimple>Simple</FoodRestrictionSimple>
   <FoodRestrictionPaste>Paste</FoodRestrictionPaste>
   <FoodRestrictionRaw>Raw</FoodRestrictionRaw>
   <FoodRestrictionNothing>Nothing</FoodRestrictionNothing>
-  <SelectFoodRestriction>Select food restriction</SelectFoodRestriction>
-  <NewFoodRestriction>New food restriction</NewFoodRestriction>
-  <DeleteFoodRestriction>Delete food restriction</DeleteFoodRestriction>
-  <NoFoodRestrictionSelected>No food restriction selected</NoFoodRestrictionSelected>
+  
+  <!-- Reading management -->
+  <ReadingPolicyTitle>Reading policies</ReadingPolicyTitle>
+  <ReadingPolicyTip>Create and manage templates for controlling which books colony members are allowed to read.</ReadingPolicyTip>
+  <ReadingPolicy>Reading policy</ReadingPolicy>
+  <ReadingPolicyInUse>Reading policy is in use.</ReadingPolicyInUse>
+
+  <AllReadingPolicy>Anything</AllReadingPolicy>
+  <NoneReadingPolicy>None</NoneReadingPolicy>
+  <TextbookPolicy>Textbooks</TextbookPolicy>
+  <SchematicPolicy>Schematics</SchematicPolicy>
+  <NovelPolicy>Novels</NovelPolicy>
 
   <!-- Medical settings -->
   <DefaultMedicineSettings>Default medicine settings</DefaultMedicineSettings>
-  <MedGroupDefaults>Defaults</MedGroupDefaults>
-  <MedGroupColonist>Colonist</MedGroupColonist>
-  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+  <DefaultMedicineSettingsDesc>These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting.</DefaultMedicineSettingsDesc>
   
+  <MedGroupDefaults>Defaults</MedGroupDefaults>
+  
+  <MedGroupColonists>Colonists</MedGroupColonists>
+  <MedGroupColonistsDesc>Free members of your colony</MedGroupColonistsDesc>
+  
+  <MedGroupPrisoners>Prisoners</MedGroupPrisoners>
+  <MedGroupPrisonersDesc>Prisoners in your colony, regardless of faction.</MedGroupPrisonersDesc>
+
+  <MedGroupTamedAnimals>Tamed animals</MedGroupTamedAnimals>
+  <MedGroupTamedAnimalsDesc>Animals which have been tamed by your colony.</MedGroupTamedAnimalsDesc>
+
+  <MedGroupFriendlyFaction>Friendly faction members</MedGroupFriendlyFaction>
+  <MedGroupFriendlyFactionDesc>Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75).</MedGroupFriendlyFactionDesc>
+  
+  <MedGroupNeutralFaction>Neutral faction members</MedGroupNeutralFaction>
+  <MedGroupNeutralFactionDesc>Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill).</MedGroupNeutralFactionDesc>
+
+  <MedGroupHostileFaction>Hostile faction members</MedGroupHostileFaction>
+  <MedGroupHostileFactionDesc>Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75).</MedGroupHostileFactionDesc>
+
+  <MedGroupNoFaction>Other humans</MedGroupNoFaction>
+  <MedGroupNoFactionDesc>Humans who are not members of any faction.</MedGroupNoFactionDesc>
+  
+  <MedGroupWildlife>Wildlife</MedGroupWildlife>
+  <MedGroupWildlifeDesc>Animals and other creatures which are not members of any faction.</MedGroupWildlifeDesc>
+
   <!-- Growing -->
   <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
 
@@ -607,6 +657,7 @@
   <AbilityCantApplyNoResistance>{0_labelShort} has zero resistance.</AbilityCantApplyNoResistance>
   <AbilityCantApplyDowned>{0_labelShort} is downed.</AbilityCantApplyDowned>
   <AbilityCantApplyOnAsexual>Cannot use: {0} is asexual.</AbilityCantApplyOnAsexual>
+  <AbilityCannotCastNoHealableInjury>{PAWN_labelShort} has no healable injuries.</AbilityCannotCastNoHealableInjury>
   <AbilityCantApplyWrongAttractionGender>{1_labelShort} is the wrong gender for {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
   <AbilityCantApplyTooYoung>{0_labelShort} is too young.</AbilityCantApplyTooYoung>
   <AbilityCantApplyOnBaby>Cannot target a baby.</AbilityCantApplyOnBaby>
@@ -713,5 +764,13 @@
   <ToggleDarklightOn>Change to darklight</ToggleDarklightOn>
   <ToggleDarklightOnDesc>Change the light color to darklight.</ToggleDarklightOnDesc>
   <ColorTemperatureTooltip>Choose a color by setting the color temperature. Note: This only affects visual color, not heat output.</ColorTemperatureTooltip>
+
+  <CannotShootPawnIsPsychicallyDeaf>{0_labelShort} is psychically deaf.</CannotShootPawnIsPsychicallyDeaf>
+
+  <SearchTheMap>Search the current map.</SearchTheMap>
+  <SearchTheMapDesc>Search the current map for items, buildings, people, animals, plants, and more.</SearchTheMapDesc>
+  <MapSearchResults>{0} results found</MapSearchResults>
+  <MapSearchResultSingular>1 result found</MapSearchResultSingular>
+  <Searching>Searching</Searching>
 
 </LanguageData>

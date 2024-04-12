@@ -6,10 +6,10 @@
   <Execution.label>execute</Execution.label>
   <Execution.description>A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists.</Execution.description>
   
-  <NoInteraction.label>no interaction</NoInteraction.label>
-  <NoInteraction.description>Wardens will not interact with the prisoner.</NoInteraction.description>
+  <MaintainOnly.label>maintain only</MaintainOnly.label>
+  <MaintainOnly.description>Just feed the prisoner and provide for their basic needs, without attempting any other interaction.</MaintainOnly.description>
   
-  <ReduceResistance.label>reduce resistance</ReduceResistance.label>
+  <ReduceResistance.label>reduce resistance only</ReduceResistance.label>
   <ReduceResistance.description>If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made.</ReduceResistance.description>
   
   <Release.label>release</Release.label>

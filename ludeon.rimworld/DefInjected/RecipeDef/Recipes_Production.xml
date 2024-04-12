@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <DestroyApparel.label>destroy apparel</DestroyApparel.label>
-  <DestroyApparel.description>Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyApparel.description>
+  <DestroyApparel.description>Use heat to destroy unwanted apparel. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyApparel.description>
   <DestroyApparel.jobString>Destroying apparel.</DestroyApparel.jobString>
   
   <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
@@ -40,6 +40,10 @@
   <SmeltApparel.label>smelt apparel</SmeltApparel.label>
   <SmeltApparel.description>Use heat and strong electromagnets to break down metallic apparel like armor into useful resources.</SmeltApparel.description>
   <SmeltApparel.jobString>Smelting apparel.</SmeltApparel.jobString>
+  
+  <SmeltOrDestroyThing.label>smelt or destroy thing</SmeltOrDestroyThing.label>
+  <SmeltOrDestroyThing.description>Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable.</SmeltOrDestroyThing.description>
+  <SmeltOrDestroyThing.jobString>Smelting/destroying things.</SmeltOrDestroyThing.jobString>
   
   <SmeltWeapon.label>smelt weapon</SmeltWeapon.label>
   <SmeltWeapon.description>Use heat and strong electromagnets to break down weapons into useful resources.</SmeltWeapon.description>

@@ -15,19 +15,25 @@
   <Mech_Lancer.label>lancer</Mech_Lancer.label>
   <Mech_Lancer.description>Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat.</Mech_Lancer.description>
   <Mech_Lancer.tools.left_fist.label>left fist</Mech_Lancer.tools.left_fist.label>
+  <Mech_Lancer.tools.left_fist.labelNoLocation>fist</Mech_Lancer.tools.left_fist.labelNoLocation>
   <Mech_Lancer.tools.right_fist.label>right fist</Mech_Lancer.tools.right_fist.label>
+  <Mech_Lancer.tools.right_fist.labelNoLocation>fist</Mech_Lancer.tools.right_fist.labelNoLocation>
   <Mech_Lancer.tools.head.label>head</Mech_Lancer.tools.head.label>
   
   <Mech_Pikeman.label>pikeman</Mech_Pikeman.label>
   <Mech_Pikeman.description>A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it.</Mech_Pikeman.description>
   <Mech_Pikeman.tools.front_left_leg.label>front left leg</Mech_Pikeman.tools.front_left_leg.label>
+  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>leg</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
   <Mech_Pikeman.tools.front_right_leg.label>front right leg</Mech_Pikeman.tools.front_right_leg.label>
+  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>leg</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
   <Mech_Pikeman.tools.head.label>head</Mech_Pikeman.tools.head.label>
   
   <Mech_Scyther.label>scyther</Mech_Scyther.label>
   <Mech_Scyther.description>Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive.</Mech_Scyther.description>
   <Mech_Scyther.tools.left_blade.label>left blade</Mech_Scyther.tools.left_blade.label>
+  <Mech_Scyther.tools.left_blade.labelNoLocation>blade</Mech_Scyther.tools.left_blade.labelNoLocation>
   <Mech_Scyther.tools.right_blade.label>right blade</Mech_Scyther.tools.right_blade.label>
+  <Mech_Scyther.tools.right_blade.labelNoLocation>blade</Mech_Scyther.tools.right_blade.labelNoLocation>
   <Mech_Scyther.tools.head.label>head</Mech_Scyther.tools.head.label>
   
   <Mech_Termite.label>termite</Mech_Termite.label>

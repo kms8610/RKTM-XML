@@ -6,6 +6,9 @@
   <BillsTab.label>Bills tab</BillsTab.label>
   <BillsTab.helpText>To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher.</BillsTab.helpText>
   
+  <Books.label>books</Books.label>
+  <Books.helpText>Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room.</Books.helpText>
+  
   <BuildOrbitalTradeBeacon.label>Build orbital trade beacon</BuildOrbitalTradeBeacon.label>
   <BuildOrbitalTradeBeacon.helpText>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it.</BuildOrbitalTradeBeacon.helpText>
   
@@ -41,7 +44,7 @@
   <OpeningComms.helpTextController>To communicate, select a colonist and press the left trigger button on the comms console.</OpeningComms.helpTextController>
   
   <PrisonerTab.label>Prisoner tab</PrisonerTab.label>
-  <PrisonerTab.helpText>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner.</PrisonerTab.helpText>
+  <PrisonerTab.helpText>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner.</PrisonerTab.helpText>
   
   <QueueOrders.label>Order queueing</QueueOrders.label>
   <QueueOrders.helpText>When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns.</QueueOrders.helpText>

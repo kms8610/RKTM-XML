@@ -12,4 +12,7 @@
   <SurgeryOutcomeBase.outcomes.5.letterText>{SURGEON_labelShort} has failed while operating on {PATIENT_labelShort} ({RECIPE_label}), leaving {PATIENT_objective} sterile.</SurgeryOutcomeBase.outcomes.5.letterText>
   <SurgeryOutcomeBase.outcomes.6.letterLabel>Surgery failed on {PATIENT_labelShort}</SurgeryOutcomeBase.outcomes.6.letterLabel>
   <SurgeryOutcomeBase.outcomes.6.letterText>{SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeBase.outcomes.6.letterText>
+  
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>Surgery failed on {PATIENT_labelShort}</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterText>{SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
 </LanguageData>

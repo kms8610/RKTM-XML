@@ -51,6 +51,10 @@
   <Factors>Factors</Factors>
   <Uses>Uses</Uses>
   <Translation>Translation</Translation>
+  <minDays>min(days)</minDays>
+  <maxDays>max(days)</maxDays>
+  <Processing>Processing</Processing>
+  <Inspect>Inspect</Inspect> 
 
   <!-- Content generation-->
   
@@ -119,6 +123,5 @@
   
   <!-- Legal status -->
   <Colonist>colonist</Colonist>
-  
-  
+
 </LanguageData>

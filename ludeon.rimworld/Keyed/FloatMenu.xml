@@ -12,7 +12,7 @@
   <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
   <NotAllowed>Not allowed</NotAllowed>
   
-  <FireAt>Fire at {1_label}</FireAt>
+  <FireAt>Fire at {1_labelShort}</FireAt>
 
   <OutOfRange>out of range</OutOfRange>
   <TooClose>too close</TooClose>
@@ -28,8 +28,8 @@
 
   <OrderManThing>Man {1_labelShort}</OrderManThing>
   
-  <MeleeAttack>Melee attack {1_label}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {1_label} to death</MeleeAttackToDeath>
+  <MeleeAttack>Melee attack {1_labelShort}</MeleeAttack>
+  <MeleeAttackToDeath>Melee attack {1_labelShort} to death</MeleeAttackToDeath>
   <NoPath>no path</NoPath>
   <Burying>burying</Burying>
   <DesignatedFor>designated for {0}</DesignatedFor>
@@ -51,7 +51,7 @@
   <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
   <PrisonerInteractedTooRecently>interacted with too recently</PrisonerInteractedTooRecently>
   <NoUsableFood>no usable food</NoUsableFood>
-  <NoFood>no food</NoFood>
+  <NoFood>not enough food</NoFood>
   <NoFoodMatchingRestrictions>no food matching restrictions</NoFoodMatchingRestrictions>
   <NoIngredient>No {0_label}</NoIngredient>
   <FoodBelowTitleRequirements>below requirements of {0}</FoodBelowTitleRequirements>
@@ -82,6 +82,7 @@
   <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
   <IncapableOfDeconstruction>incapable of deconstruction</IncapableOfDeconstruction>
   <IncapableOfMining>incapable of mining</IncapableOfMining>
+  <TreeMarkedForExtraction>tree marked for extraction</TreeMarkedForExtraction>
   <AngersFaction>angers faction</AngersFaction>
   <InstallImplantNoBodyPart>no body part</InstallImplantNoBodyPart>
   <InstallImplantNotAllowedForNonColonists>not a colonist</InstallImplantNotAllowedForNonColonists>
@@ -100,33 +101,41 @@
   
   <CannotGoNoPath>Cannot go here: No path</CannotGoNoPath>
   <GoHere>Go here</GoHere>
+
+  <CleanRoom>Clean {0}</CleanRoom>
   
   <Arrest>Arrest {0}</Arrest>
-  <TryToArrest>Try to arrest {1_label} ({2} chance)</TryToArrest>
+  <TryToArrest>Try to arrest {1_labelShort} ({2} chance)</TryToArrest>
   <CannotArrest>Cannot arrest</CannotArrest>
   <ArrestChance>{0} chance of arrest</ArrestChance>
 
-  <Capture>Capture {1_label}</Capture>
+  <Capture>Capture {1_labelShort}</Capture>
+  <CaptureLower>capture {0_labelShort}</CaptureLower>
   <CannotCapture>Cannot capture</CannotCapture>
   <Unrecruitable>unwaveringly loyal</Unrecruitable>
+  <UnrecruitableNoFaction>not recruitable</UnrecruitableNoFaction> 
+  <TransferEntity>Transfer {0_label}</TransferEntity> 
 
-  <Rescue>Rescue {1_label}</Rescue>
-  <PutSomewhereSafe>Put {1_label} somewhere safe</PutSomewhereSafe>
+  <Rescue>Rescue {1_labelShort}</Rescue>
+  <PutSomewhereSafe>Put {1_labelShort} somewhere safe</PutSomewhereSafe>
   <TakingToBed>Taking {0_labelShort} to bed.</TakingToBed>
   <CannotRescue>Cannot rescue</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {1_label} to cryptosleep casket</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Carry {1_labelShort} to cryptosleep casket</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
 
-  <CarryToShuttle>Carry {0_label} to shuttle</CarryToShuttle>
+  <CarryToShuttle>Carry {0_labelShort} to shuttle</CarryToShuttle>
 
   <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
   <CryptosleepCasketGuestsNotAllowed>Temporary faction members not allowed.</CryptosleepCasketGuestsNotAllowed>
   <CryptosleepCasketGuestPrisonersNotAllowed>Hosted prisoners not allowed.</CryptosleepCasketGuestPrisonersNotAllowed>
   <CryptosleepCasketOccupied>Already occupied</CryptosleepCasketOccupied>
   <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature.</NoPrisonerBed>
+  <NoPrisonerBedShort>No prisoner bed available.</NoPrisonerBedShort>
   <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed in safe temperature.</NoNonPrisonerBed>
   <NoAnimalBed>No reachable, un-reserved animal bed in safe temperature.</NoAnimalBed>
+  <NoItemReservedOrReachable>No reachable, unforbidden, un-reserved {0}</NoItemReservedOrReachable>
+  <NoItemReserved>No unforbidden, un-reserved {0}</NoItemReserved>
   <Reserved>Reserved by someone else.</Reserved>
   <ReservedBy>Reserved by {1_labelShort}</ReservedBy>
   <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
@@ -179,15 +188,16 @@
   <LoadIntoCaravanCount>Load {1_labelShort} x{{0}}</LoadIntoCaravanCount>
   <OverweightLower>overweight</OverweightLower>
 
-  <CannotCarryToExit>Cannot carry {1_label} and leave the area</CannotCarryToExit>
-  <CarryToExit>Carry {1_label} and leave the area</CarryToExit>
-  <CarryToExitAndCapture>Capture {1_label} and leave the area</CarryToExitAndCapture>
+  <CannotCarryToExit>Cannot carry {1_labelShort} and leave the area</CannotCarryToExit>
+  <CarryToExit>Carry {1_labelShort} and leave the area</CarryToExit>
+  <CarryToExitAndCapture>Capture {1_labelShort} and leave the area</CarryToExitAndCapture>
   
-  <Strip>Strip {1_label}</Strip>
-  <CannotStrip>Cannot strip {1_label}</CannotStrip>
-  <CannotDrop>Cannot drop {1_label}</CannotDrop>
-  <Carry>Carry {0_label}</Carry>
-  <CannotCarry>Cannot carry {0_label}</CannotCarry>
+  <Strip>Strip {1_labelShort}</Strip>
+  <CannotStrip>Cannot strip {1_labelShort}</CannotStrip>
+  <CannotDrop>Cannot drop {1_labelShort}</CannotDrop>
+  <Carry>Carry {0_labelShort}</Carry>
+  <CannotCarry>Cannot carry {0_labelShort}</CannotCarry>
+  <CarriedPawnHostile>hostile</CarriedPawnHostile>
   <QuestRelated>temporary faction member</QuestRelated>
   <QuestRelated_Outfit>Cannot change outfits on temporary faction members</QuestRelated_Outfit>
   <WouldReplaceLockedApparel>would replace locked apparel</WouldReplaceLockedApparel>
@@ -197,16 +207,18 @@
 
   <SelfDestructHere>Self-destruct here</SelfDestructHere>
   
-  <Drop>Drop {1_label}</Drop>
+  <Drop>Drop {1_labelShort}</Drop>
 
   <UseMedicalBed>Rest until healed</UseMedicalBed>
   <NotInjured>not injured</NotInjured>
   <NoDoctor>no doctor</NoDoctor>
-  <NotForSlaves>medical bed not for slaves</NotForSlaves><!-- text_todo -->
+  <NotForSlaves>medical bed not for slaves</NotForSlaves>
   <SomeoneElseSleeping>occupied by {0}</SomeoneElseSleeping>
   
   <TradeWith>Trade with {0}</TradeWith>
+  <DismissTrader>Dismiss trader</DismissTrader>
   <CannotTrade>Cannot trade</CannotTrade>
+  <TraderDismissed>Trader dismissed</TraderDismissed>
 
   <Open>Open {0_label}</Open>
   <CannotOpen>Cannot open {0_label}</CannotOpen>
@@ -220,6 +232,13 @@
   <ApproachingSite>Approaching {0}</ApproachingSite>
   <OfferGifts>Offer gifts</OfferGifts>
   <TradeWithSettlement>Trade with {0}</TradeWithSettlement>
+  
+  <EnterPortal>Enter {0}</EnterPortal>
+  <EnteringPortal>Entering {0}</EnteringPortal>
+  <CommandEnterPortal>Enter {0}</CommandEnterPortal>
+  <CommandEnterPortalDesc>Select people and items to enter the {0}.</CommandEnterPortalDesc>
+  <CommandCancelEnterPortal>Cancel entering</CommandCancelEnterPortal>
+  <CommandCancelEnterPortalDesc>Cancel loading people or items into this.</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
@@ -307,6 +326,9 @@
   <CannotRepair>Cannot repair {0}</CannotRepair>
 
   <CannotEnter>Cannot enter</CannotEnter>
+  
+  <CannotEnterPortal>Cannot enter {0}</CannotEnterPortal>
+  <PortalClosed>closed</PortalClosed>
 
   <!-- Romance partner -->
   <CannotRomance>Cannot romance {0}</CannotRomance>
@@ -314,5 +336,18 @@
 
   <!-- Feeding -->
   <WarningFoodDisliked>disliked food</WarningFoodDisliked>
+  <FoodNotSuitable>Unsuitable food</FoodNotSuitable>
 
+  <DrugNotSuitable>Unsuitable drug</DrugNotSuitable>
+  
+  <!-- Books -->
+  <AssignReading>Assign reading...</AssignReading>
+  <AssignReadNow>Read {0}</AssignReadNow>
+  <AssignCannotReadNow>Cannot read {0}</AssignCannotReadNow>
+
+  <ExtinguishFiresNearby>Prioritize extinguishing fires</ExtinguishFiresNearby>
+
+  <!-- Analysis -->
+  <AlreadyAnalyzed>already analyzed</AlreadyAnalyzed>
+  <NoResearchBench>no reachable, un-reserved research bench available</NoResearchBench>
 </LanguageData>

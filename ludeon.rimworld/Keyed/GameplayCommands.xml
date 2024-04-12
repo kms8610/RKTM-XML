@@ -63,9 +63,6 @@
   <CommandDetonateLabel>Detonate</CommandDetonateLabel>
   <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
 
-  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
-  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
-
   <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
   <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
@@ -142,8 +139,12 @@
   <CommandSunLampMakeGrowingZoneLabel>Create growing zone</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
-  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
+  <CommandAutoRearm>Auto rearm</CommandAutoRearm>
   <CommandAutoRearmDesc>If this is on, this trap will automatically be replaced after it springs.</CommandAutoRearmDesc>
+  
+  <!-- Firefoam popper -->
+  <CommandAutoRebuild_Building>Auto rebuild</CommandAutoRebuild_Building>
+  <CommandAutoRebuild_BuildingDesc>If this is on, {BUILDING_definite} will automatically be replaced after it detonates.</CommandAutoRebuild_BuildingDesc>
   
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>Animals attack</CommandReleaseAnimalsLabel>
@@ -174,6 +175,7 @@
   
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <CommandSelectMineralToScanFor>Tuned to</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanForDesc>Select the mineral type to scan for.</CommandSelectMineralToScanForDesc>
 
   <!-- Build copy -->
   <CommandBuildCopy>Build copy</CommandBuildCopy>
@@ -188,7 +190,13 @@
   <CommandReformCaravan>Reform caravan</CommandReformCaravan>
   <CommandReformCaravanDesc>Reform a group of colonists. The colonists will leave their current area and await further orders.</CommandReformCaravanDesc>
   <CommandReformCaravanFailHostilePawns>There are still some enemies in this area.</CommandReformCaravanFailHostilePawns>
-  
+
+  <!-- Send caravan -->
+  <CommandSendCaravan>Send caravan</CommandSendCaravan>
+  <CommandSendCaravanMultiple>Send caravan...</CommandSendCaravanMultiple>
+  <CommandSendCaravanDesc>Send a caravan to this destination from a selected colony which can reach this location.</CommandSendCaravanDesc>
+  <CommandSendCaravanCantReach>Your settlements have no path to this location.</CommandSendCaravanCantReach>
+
   <!-- Split caravan -->
   <CommandSplitCaravan>Split</CommandSplitCaravan>
   <CommandSplitCaravanDesc>Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other.</CommandSplitCaravanDesc>
@@ -384,11 +392,19 @@
   <UnlinkStorageSettings>Unlink settings</UnlinkStorageSettings>
   <UnlinkStorageSettingsDesc>Unlink this from other buildings' storage settings so its settings can be set independently.</UnlinkStorageSettingsDesc>
   <LinkedStorageSettings>Linked storage settings</LinkedStorageSettings>
+  <OneBuilding>1 building</OneBuilding>
   <NumBuildings>{0} buildings</NumBuildings>
   <StoresThings>Stores</StoresThings>
   <SelectAllLinked>Select all linked</SelectAllLinked>
   <SelectAllLinkedDesc>Select all storage buildings linked to this.</SelectAllLinkedDesc>
 
   <CommandDisabledUnconscious>{0_labelShort} is unconscious.</CommandDisabledUnconscious>
+
+  <!-- Study -->
+  <CommandToggleStudy>Toggle study</CommandToggleStudy>
+  <CommandToggleStudyDesc>Determines whether or not wardens will automatically study this. Forbidden things will never be studied.</CommandToggleStudyDesc>
+
+  <!-- Limited use count action -->
+  <CommandNoUsesLeft>No uses left.</CommandNoUsesLeft>
   
 </LanguageData>

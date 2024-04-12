@@ -25,7 +25,10 @@
   <TabPenAutoCut>Auto-cut</TabPenAutoCut>
   <TabFormingCaravan>Caravan</TabFormingCaravan>
   <TabTransporterContents>Contents</TabTransporterContents>
+  <TabMapPortalContents>Travel</TabMapPortalContents>
   <TabCasketContents>Contents</TabCasketContents>
+  <TabBookContents>Details</TabBookContents>
+  <TabStudyNotesContents>Study</TabStudyNotesContents>
   <TabWindTurbineAutoCut>Auto-cut</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
@@ -43,6 +46,7 @@
   <SuspendBillTip>Suspend</SuspendBillTip>
   <PasteBillTip>Paste</PasteBillTip>
   <PasteBillTip_LimitReached>can't add more</PasteBillTip_LimitReached>
+  <FinishesIn>Finishes in</FinishesIn>
 
   <!-- Guest/prisoner tab -->
   <RecruitmentResistance>Resistance</RecruitmentResistance>
@@ -55,8 +59,8 @@
   <Never>Never</Never>
   <NotWhileAsleep>Not while asleep</NotWhileAsleep>
   <CurrentlyPrisonBreaking>Breaking out now</CurrentlyPrisonBreaking>
-  <FactorForDoorCount>Multiplier for door count</FactorForDoorCount>
-  <FactorForMovement>Multiplier for movement</FactorForMovement>
+  <FactorForDoorCount>Door count</FactorForDoorCount>
+  <FactorForMovement>Movement</FactorForMovement>
   <SlavePrice>Slave price</SlavePrice>
   <SlavePriceDescription>The base market value of this slave if sold.</SlavePriceDescription>
   <GetsFood>Gets food</GetsFood>
@@ -72,6 +76,7 @@
   <NonRecruitable>Unwavering loyalty</NonRecruitable>
   <NonRecruitableTip>This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely.</NonRecruitableTip>
   <NonRecruitableTipCannotConvert>Their loyalty extends to their beliefs and they cannot be converted.</NonRecruitableTipCannotConvert>
+  <MedicineQualityDescriptionPrisoner>What type of medicine can be given to this prisoner.</MedicineQualityDescriptionPrisoner>
 
 
 
@@ -112,10 +117,13 @@
   <Tiredness>Tiredness</Tiredness>
   <PainFactor>Pain</PainFactor>
   <PreventsInfection>Prevents infection</PreventsInfection>
-  <SelfTend>Self-tend</SelfTend>
-  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+  <AllowSelfTend>Allow self-tend</AllowSelfTend>
+  <AllowSelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</AllowSelfTendTip>
   <DeathIn>death in {0}</DeathIn>
-  
+  <AllowMedicine>Allow medicine</AllowMedicine>
+  <MedicineQualityDescription>What type of medicine can be given to this person.</MedicineQualityDescription>
+  <FoodRestrictionDescription>What type of food can be given to this person.</FoodRestrictionDescription>
+
   <!-- Medical - Body and activities condition -->
   <None>None</None>
   <VeryPoor>Very poor</VeryPoor>
@@ -143,7 +151,7 @@
   <Kidnapped>Kidnapped</Kidnapped>
   <Lent>Lent to {FACTION_name}, returns in {1}</Lent>
   <Missing>Missing</Missing>
-  <Slave>Slave</Slave>
+  <Slave>slave</Slave>
   <FactionLeader>Faction leader</FactionLeader>
   <OpinionOf>Opinion of {0}</OpinionOf>
   <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
@@ -230,5 +238,12 @@
   <AutocutUnenclosedPenTip>Pen is not enclosed now, so auto-cut won't occur.</AutocutUnenclosedPenTip>
 
   <WindTurbineAutoCut_EnabledCheckbox>Auto-cut blocking plants</WindTurbineAutoCut_EnabledCheckbox>
+  
+  <!-- Study tab  -->
+  <StudyNotesTab_StudyProgress>Study progress</StudyNotesTab_StudyProgress>
+  <StudyNotesTab_StudyProgressOngoing>Ongoing</StudyNotesTab_StudyProgressOngoing>
+  <StudyNotesTab_StudyProgressCompleted>Completed</StudyNotesTab_StudyProgressCompleted>
+  <StudyNotesTab_ToggleStudy>Toggle study</StudyNotesTab_ToggleStudy>
+  <StudyNotesTab_NoDiscoveries>No discoveries yet</StudyNotesTab_NoDiscoveries>
 
 </LanguageData>

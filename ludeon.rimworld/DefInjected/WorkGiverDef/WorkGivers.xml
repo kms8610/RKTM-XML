@@ -184,6 +184,10 @@
   <ExecuteGuiltyColonist.gerund>executing</ExecuteGuiltyColonist.gerund>
   <ExecuteGuiltyColonist.verb>execute</ExecuteGuiltyColonist.verb>
   
+  <ExtractSkull.label>extract skull</ExtractSkull.label>
+  <ExtractSkull.gerund>extracting skull of</ExtractSkull.gerund>
+  <ExtractSkull.verb>extract</ExtractSkull.verb>
+  
   <ExtractTree.label>extract trees</ExtractTree.label>
   <ExtractTree.gerund>extracting</ExtractTree.gerund>
   <ExtractTree.verb>extract</ExtractTree.verb>
@@ -235,6 +239,10 @@
   <HaulMerge.label>merge things</HaulMerge.label>
   <HaulMerge.gerund>merging</HaulMerge.gerund>
   <HaulMerge.verb>merge</HaulMerge.verb>
+  
+  <HaulToPortal.label>haul to map</HaulToPortal.label>
+  <HaulToPortal.gerund>loading</HaulToPortal.gerund>
+  <HaulToPortal.verb>load</HaulToPortal.verb>
   
   <HelpGatheringItemsForCaravan.label>load caravan</HelpGatheringItemsForCaravan.label>
   <HelpGatheringItemsForCaravan.gerund>loading</HelpGatheringItemsForCaravan.gerund>
@@ -348,9 +356,9 @@
   <Strip.gerund>stripping</Strip.gerund>
   <Strip.verb>strip</Strip.verb>
   
-  <StudyThing.label>study</StudyThing.label>
-  <StudyThing.gerund>studying</StudyThing.gerund>
-  <StudyThing.verb>research</StudyThing.verb>
+  <StudyArchotechStructures.label>study archotech structures</StudyArchotechStructures.label>
+  <StudyArchotechStructures.gerund>studying</StudyArchotechStructures.gerund>
+  <StudyArchotechStructures.verb>study</StudyArchotechStructures.verb>
   
   <TakeBeerOutOfFermentingBarrel.label>take beer out of fermenting barrels</TakeBeerOutOfFermentingBarrel.label>
   <TakeBeerOutOfFermentingBarrel.gerund>taking beer from</TakeBeerOutOfFermentingBarrel.gerund>

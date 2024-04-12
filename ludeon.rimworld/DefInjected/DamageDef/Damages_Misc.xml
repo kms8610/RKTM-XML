@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <AcidBurn.label>acid burn</AcidBurn.label>
+  <AcidBurn.deathMessage>{0} has burned to death.</AcidBurn.deathMessage>
+  
   <Bomb.label>bomb</Bomb.label>
   <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
   
   <BombSuper.label>bomb</BombSuper.label>
   <BombSuper.deathMessage>{0} has died in an explosion.</BombSuper.deathMessage>
+  
+  <Decayed.label>decayed organ</Decayed.label>
+  <Decayed.deathMessage>{0} died from metabolic disruptions caused by organ decay.</Decayed.deathMessage>
   
   <Deterioration.label>deterioration</Deterioration.label>
   <Deterioration.deathMessage>{0} has been killed.</Deterioration.deathMessage>
@@ -23,4 +29,7 @@
   
   <Thump.label>thump</Thump.label>
   <Thump.deathMessage>{0} has been shot to death.</Thump.deathMessage>
+  
+  <Vaporize.label>vaporize</Vaporize.label>
+  <Vaporize.deathMessage>{0} has been vaporized by extreme heat.</Vaporize.deathMessage>
 </LanguageData>

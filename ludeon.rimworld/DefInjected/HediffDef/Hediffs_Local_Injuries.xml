@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <AcidBurn.label>acid burn</AcidBurn.label>
+  <AcidBurn.description>An acid burn.</AcidBurn.description>
+  <AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>tended</AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>bandaged</AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>tended</AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>acid burn scar</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <AcidBurn.injuryProps.destroyedLabel>Dissolved off</AcidBurn.injuryProps.destroyedLabel>
+  <AcidBurn.injuryProps.destroyedOutLabel>Dissolved</AcidBurn.injuryProps.destroyedOutLabel>
+  <AcidBurn.labelNoun>an acid burn</AcidBurn.labelNoun>
+  <AcidBurn.labelNounPretty>{0} in the {1}</AcidBurn.labelNounPretty>
+  
   <Bite.label>bite</Bite.label>
   <Bite.description>A bite wound.</Bite.description>
   <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -73,6 +84,23 @@
   <Cut.labelNoun>a cut</Cut.labelNoun>
   <Cut.labelNounPretty>{0} in the {1}</Cut.labelNounPretty>
   
+  <Decayed.label>decayed organ</Decayed.label>
+  <Decayed.description>This organ has completely decayed.</Decayed.description>
+  <Decayed.injuryProps.destroyedLabel>Decayed</Decayed.injuryProps.destroyedLabel>
+  <Decayed.labelNoun>a decayed organ</Decayed.labelNoun>
+  <Decayed.labelNounPretty>decayed {1}</Decayed.labelNounPretty>
+  
+  <ElectricalBurn.label>electrical burn</ElectricalBurn.label>
+  <ElectricalBurn.description>An electical burn.</ElectricalBurn.description>
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>tended</ElectricalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWell>bandaged</ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>tended</ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>electrical burn scar</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <ElectricalBurn.injuryProps.destroyedLabel>Burned off</ElectricalBurn.injuryProps.destroyedLabel>
+  <ElectricalBurn.injuryProps.destroyedOutLabel>Burned out</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <ElectricalBurn.labelNoun>an electrical burn</ElectricalBurn.labelNoun>
+  <ElectricalBurn.labelNounPretty>{0} in the {1}</ElectricalBurn.labelNounPretty>
+  
   <ExecutionCut.label>cut</ExecutionCut.label>
   <ExecutionCut.description>A cut made during execution.</ExecutionCut.description>
   <ExecutionCut.injuryProps.destroyedLabel>Cut off</ExecutionCut.injuryProps.destroyedLabel>
@@ -101,8 +129,8 @@
   <Gunshot.labelNoun>a gunshot wound</Gunshot.labelNoun>
   <Gunshot.labelNounPretty>{0} in the {1}</Gunshot.labelNounPretty>
   
-  <Misc.label>misc</Misc.label>
-  <Misc.description>Miscellanous injuries.</Misc.description>
+  <Misc.label>wound</Misc.label>
+  <Misc.description>Miscellaneous injuries.</Misc.description>
   <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>set</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <Misc.comps.HediffComp_TendDuration.labelTendedWell>bandaged</Misc.comps.HediffComp_TendDuration.labelTendedWell>
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>

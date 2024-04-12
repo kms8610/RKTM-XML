@@ -2,13 +2,13 @@
 <LanguageData>
   <Apparel_FirefoampopPack.label>firefoam pop pack</Apparel_FirefoampopPack.label>
   <Apparel_FirefoampopPack.description>A utility pack made for firefighters. When triggered, a burst of fire-retardant foam is released, covering a wide circle around its wearer.</Apparel_FirefoampopPack.description>
-  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>firefoam pop</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
-  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>on cooldown</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>firefoam pop</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>on cooldown</Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>
   <Apparel_FirefoampopPack.verbs.pop_firefoam.label>pop firefoam</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
   
   <Apparel_SmokepopBelt.label>smokepop pack</Apparel_SmokepopBelt.label>
   <Apparel_SmokepopBelt.description>A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on.</Apparel_SmokepopBelt.description>
-  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>smokepop</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
-  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>on cooldown</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>smokepop</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>on cooldown</Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>
   <Apparel_SmokepopBelt.verbs.pop_smoke.label>pop smoke</Apparel_SmokepopBelt.verbs.pop_smoke.label>
 </LanguageData>

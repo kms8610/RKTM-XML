@@ -17,6 +17,7 @@
 
   <!-- Gameplay -->
   <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <ZoomToMouse>Zoom to mouse</ZoomToMouse>
   <PauseOnLoad>Pause on load</PauseOnLoad>
   <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
   <AutomaticPauseModeSetting>Pause on letter</AutomaticPauseModeSetting>
@@ -33,9 +34,14 @@
   <RunInBackground>Run in background</RunInBackground>
   <DevelopmentMode>Development mode</DevelopmentMode>
   <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <DisableQuickStartCryptoSickness>Quick start has no cryptosleep sickness</DisableQuickStartCryptoSickness>
+  <StartDevPaletteOn>Start game with dev palette on</StartDevPaletteOn>
+  <OpenLogOnWarnings>Open log on warnings</OpenLogOnWarnings>
+  <CloseLogWindowOnEscape>Close log by pressing cancel</CloseLogWindowOnEscape>
   <SimulateNotOwningRoyalty>Simulate not owning Royalty</SimulateNotOwningRoyalty>
   <SimulateNotOwningIdeology>Simulate not owning Ideology</SimulateNotOwningIdeology>
   <SimulateNotOwningBiotech>Simulate not owning Biotech</SimulateNotOwningBiotech>
+  <SimulateNotOwningAnomaly>Simulate not owning Anomaly</SimulateNotOwningAnomaly>
   <LogVerbose>Verbose logging</LogVerbose>
   <SaveGameDataFolder>Save data folder</SaveGameDataFolder>
   <SaveGameDataLocation>Save data location</SaveGameDataLocation>
@@ -53,8 +59,10 @@
   <AutosaveIntervalTooltip>The number of in game days between each auto save.</AutosaveIntervalTooltip>
   <TemperatureMode>Temperature unit</TemperatureMode>
   <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+  <TwelveHourClockMode>Use 12 hour clock</TwelveHourClockMode>
   <DisableTinyText>Disable tiny font</DisableTinyText>
   <MaxNumberOfPlayerSettlements>Maximum number of colonies: {0}</MaxNumberOfPlayerSettlements>
+  <AutosavesCount>Autosaves count: {0}</AutosavesCount>
   <MapDragSensitivity>Map mouse drag sensitivity</MapDragSensitivity>
   <PlantWindSway>Plant wind sway</PlantWindSway>
   <EnableTestMapSizes>Enable test map sizes</EnableTestMapSizes>

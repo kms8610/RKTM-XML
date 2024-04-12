@@ -8,6 +8,8 @@
   <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
   <MessageRaidersStealing>{0} from {1} have decided to steal what they can and leave.</MessageRaidersStealing>
 
+  <MechanoidsMovingOn>The mechanoids sense no more targets and are moving on.</MechanoidsMovingOn>
+
   <MessageCaravanDetectedRaidArrived>{0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}.</MessageCaravanDetectedRaidArrived>
 
   <MessageRaidersLeaving>{0} from {1} are leaving.</MessageRaidersLeaving>
@@ -20,6 +22,7 @@
   <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
   <MessageVisitorsDangerousTemperature>{0} from {1} are leaving the map because of dangerous temperature.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsAnomalousWeather>{0} from {1} are leaving the map because of dangerous weather.</MessageVisitorsAnomalousWeather>
 
   <MessageWornApparelDeterioratedAway>{0} worn by {1_nameFull} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
   <MessageDeterioratedAway>{0} has deteriorated away in storage.</MessageDeterioratedAway>
@@ -73,6 +76,8 @@
   <MessageMustDesignatePainted>Must designate painted buildings or floors.</MessageMustDesignatePainted>
   <MessageMustDesignateDeconstructibleMechCluster>You must defeat a mech cluster before you can deconstruct it.</MessageMustDesignateDeconstructibleMechCluster>
   <MessageMustDesignateSmoothableSurface>Must designate rough stone surfaces.</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableFloor>Must designate rough stone terrain.</MessageMustDesignateSmoothableFloor>
+  <MessageMustDesignateSmoothableWall>Must designate rough stone wall.</MessageMustDesignateSmoothableWall>
   <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
   <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
   <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
@@ -108,7 +113,7 @@
   <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} has suffered {1} points of brain damage due to {2}.</MessageReceivedBrainDamageFromHediff>
   <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} has exceeded the normal limit of neural heat.</MessageWentOverPsychicEntropyLimit>
 
-  <MessageNoHandlerSkilledEnough>No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>No handler capable of taming {ANIMAL_kindBase} (requires level {1} in {2}, best capable handler {HANDLER_labelShort} has {4}).</MessageNoHandlerSkilledEnough>
   
   <MessageEatenByPredator>{EATEN_labelShort} has been eaten by {PREDATOR}.</MessageEatenByPredator>
   <MessageAttackedByPredator>{PREY_labelShort} is being attacked by {PREDATOR}!</MessageAttackedByPredator>
@@ -118,7 +123,8 @@
   <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
   
   <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
-  
+  <MessageTraderCaravanDismissed>The trade caravan from {0} has been dismissed.</MessageTraderCaravanDismissed>
+
   <MessageCantSelectDeadPawn>{1_labelShort} is dead.</MessageCantSelectDeadPawn>
   <MessageCantSelectOffMapPawn>{1_labelShort} is off the map.</MessageCantSelectOffMapPawn>
   
@@ -206,6 +212,7 @@
   <MessageFinishedLoadingTransporterSingle>Shuttle is loaded with required cargo and can launch when ready.</MessageFinishedLoadingTransporterSingle>
 
   <MessageCantLoadMoreIntoTransporters>Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoPortal>Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
   
   <MessageTransportPodsDestinationIsInvalid>Selected destination is invalid.</MessageTransportPodsDestinationIsInvalid>
   <MessageTransportPodsDestinationIsTooFar>Each pod launcher would need at least {0}x chemfuel to send transport pods that far.</MessageTransportPodsDestinationIsTooFar>
@@ -331,6 +338,8 @@
   <MessageBillValidationStoreZoneUnavailable>{1}'s "{0}" can no longer deliver to unavailable stockpile {2}.</MessageBillValidationStoreZoneUnavailable>
   <MessageBillValidationPawnUnavailable>{0} can no longer work on "{1}" at {2}. The restriction has been removed.</MessageBillValidationPawnUnavailable>
   <MessageBillValidationIncludeZoneDeleted>{1}'s "{0}" can no longer count items in deleted stockpile {2}.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeBuildingDeleted>{1}'s "{0}" can no longer count items in deleted building {2}.</MessageBillValidationIncludeBuildingDeleted>
+  <MessageBillValidationIncludeStorageGroupDeleted>{1}'s "{0}" can no longer count items in deleted storage group {2}.</MessageBillValidationIncludeStorageGroupDeleted>
   <MessageBillValidationIncludeZoneUnavailable>{1}'s "{0}" can no longer count items in unavailable stockpile {2}.</MessageBillValidationIncludeZoneUnavailable>
   <MessageBillValidationStoreZoneInsufficient>{1}'s "{0}" can no longer deliver all products to stockpile {2}.</MessageBillValidationStoreZoneInsufficient>
 
@@ -392,6 +401,10 @@
   <MessageBedLostAssignment>{0} is no longer assigned to {1_nameDef}.</MessageBedLostAssignment>
   <MessageBedDestroyed>{0} assigned to {1_nameDef} was destroyed.</MessageBedDestroyed>
 
+  <!-- Lord jobs -->
+  <MessageLordJobNeedsAtLeastOneRolePawn>You need {0_indefinite}.</MessageLordJobNeedsAtLeastOneRolePawn>
+  <MessageLordJobNeedsAtLeastNumRolePawn>You need at least {1} {0}.</MessageLordJobNeedsAtLeastNumRolePawn>
+
   <!-- Rituals -->
   <Spectate>spectate</Spectate>
   <AssignToRole>Assign to {0}</AssignToRole>
@@ -400,8 +413,6 @@
   <RoleIsLocked>Role of {0} is locked.</RoleIsLocked>
   <MessageRitualNeedsAtLeastOnePerson>You need at least one participant.</MessageRitualNeedsAtLeastOnePerson>
   <MessageRitualNeedsAtLeastOneSpectator>You need at least one spectator.</MessageRitualNeedsAtLeastOneSpectator>
-  <MessageRitualNeedsAtLeastOneRolePawn>You need a {0}.</MessageRitualNeedsAtLeastOneRolePawn>
-  <MessageRitualNeedsAtLeastNumRolePawn>You need at least {1} {0}.</MessageRitualNeedsAtLeastNumRolePawn>
   <MessageRitualPawnDowned>{0_labelShort} is downed.</MessageRitualPawnDowned>
   <MessageRitualPawnPrisonerNotSecured>{0_labelShort} is currently escaping.</MessageRitualPawnPrisonerNotSecured>
   <MessageRitualPawnSlaveNotSecured>{0_labelShort} is currently rebelling.</MessageRitualPawnSlaveNotSecured>
@@ -424,10 +435,12 @@
   <MessageRitualRolePawnHasSameIdeo>{0_labelShort} has the same ideoligion as the converter.</MessageRitualRolePawnHasSameIdeo>
   <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} must be capable of wardening.</MessageRitualRoleMustBeCapableOfWardening>
   <MessageRitualRoleMustBeCapableOfGeneric>{0} must be capable of {1}.</MessageRitualRoleMustBeCapableOfGeneric>
+  <MessageRitualRoleMustBeCapableOfViolence>{0} must be capable of violence.</MessageRitualRoleMustBeCapableOfViolence>
   <MessageRitualRoleMustNotBePrisonerToSpectate>prisoners cannot {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
   <MessageRitualRoleMustHaveIdeoToSpectate>only {0} can {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
   <MessageRitualRoleMustHaveIdeoToDoRole>only {0} can fill the role of {1}.</MessageRitualRoleMustHaveIdeoToDoRole>
   <MessageRitualRoleMustBeColonist>must be colonist for the {0} role.</MessageRitualRoleMustBeColonist>
+  <MessageRitualRoleMustBeFree>must not be a prisoner for the {0} role.</MessageRitualRoleMustBeFree>
   <MessageRitualWontAttendExtremeTemperature>{0_labelShort} won't attend due to extreme temperature in the ritual area.</MessageRitualWontAttendExtremeTemperature>
   <MessageRitualRoleMustBeFreeColonist>must be colonist and not enslaved for the {0} role.</MessageRitualRoleMustBeFreeColonist>
   <MessageRitualRoleMustHaveLargerBodySize>{0} must have an animal with min body size of {1}.</MessageRitualRoleMustHaveLargerBodySize>
@@ -438,6 +451,7 @@
   <MessageRitualRoleMustNotBeImprisoned>{0} must be free.</MessageRitualRoleMustNotBeImprisoned>
   <MessageRitualRoleCannotBeChild>{0} cannot be a child.</MessageRitualRoleCannotBeChild>
   <MessageRitualRoleCannotBeBaby>{0} cannot be a baby.</MessageRitualRoleCannotBeBaby>
+  <MessageRitualRoleBusy>{0} is busy.</MessageRitualRoleBusy>
 
   <MessagePlayerMustSelectTile>You must select a site to continue.</MessagePlayerMustSelectTile>
 
@@ -457,8 +471,14 @@
   <NothingAvailableInCategory>Nothing is currently buildable in category</NothingAvailableInCategory>
 
   <SettingsLinkedFor>Storage settings linked for {0} buildings.</SettingsLinkedFor>
+  <SettingsLinkedForSingular>Storage settings linked for 1 building.</SettingsLinkedForSingular>
   <SettingsUnlinkedFor>Storage settings unlinked for {0} buildings.</SettingsUnlinkedFor>
+  <SettingsUnlinkedForSingular>Storage settings unlinked for 1 building.</SettingsUnlinkedForSingular>
   <StorageSettingsCopiedToClipboard>Storage settings copied to clipboard.</StorageSettingsCopiedToClipboard>
   <StorageSettingsPastedFromClipboard>Storage settings pasted from clipboard.</StorageSettingsPastedFromClipboard>
+  
+  <MessageBuildingRequiresAdjacentWalls>{0_label} requires adjacent walls to function.</MessageBuildingRequiresAdjacentWalls>
+
+  <MessageLodgersCantFarskip>Cannot skip: Refugee</MessageLodgersCantFarskip>
 
 </LanguageData>

@@ -36,6 +36,7 @@
   
   <LungRotExposure.label>rot stink exposure</LungRotExposure.label>
   <LungRotExposure.description>Long-term exposure to rot stink gas. Rot stink exposure has no direct health effects. However, serious rot stink exposure has a chance to result in a painful bacterial infection known as lung rot. When not exposed to rot stink gas, rot stink exposure will slowly decrease.</LungRotExposure.description>
+  <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} is beginning to suffer from exposure to rot stink gas. Keep {PAWN_objective} away from rotting corpses and other sources of rot stink.</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <LungRotExposure.stages.minor.label>minor</LungRotExposure.stages.minor.label>
   <LungRotExposure.stages.major.label>major</LungRotExposure.stages.major.label>
   <LungRotExposure.stages.serious.label>serious</LungRotExposure.stages.serious.label>

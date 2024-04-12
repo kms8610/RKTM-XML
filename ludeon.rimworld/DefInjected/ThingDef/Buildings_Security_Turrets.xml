@@ -45,8 +45,8 @@
   <Turret_FoamTurret.comps.CompRefuelable.fuelGizmoLabel>Foam</Turret_FoamTurret.comps.CompRefuelable.fuelGizmoLabel>
   <Turret_FoamTurret.comps.CompRefuelable.fuelLabel>Foam</Turret_FoamTurret.comps.CompRefuelable.fuelLabel>
   <Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>Out of foam</Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>
-  <Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>activate</Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>
-  <Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>repressurizing</Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>
+  <Turret_FoamTurret.comps.CompInteractableFoamTurret.jobString>activate</Turret_FoamTurret.comps.CompInteractableFoamTurret.jobString>
+  <Turret_FoamTurret.comps.CompInteractableFoamTurret.onCooldownString>repressurizing</Turret_FoamTurret.comps.CompInteractableFoamTurret.onCooldownString>
   
   <Turret_MiniTurret.label>mini-turret</Turret_MiniTurret.label>
   <Turret_MiniTurret.description>A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</Turret_MiniTurret.description>
@@ -65,8 +65,8 @@
   <Turret_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>Rockets</Turret_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>
   <Turret_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>Rockets</Turret_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>
   <Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>Missing rockets</Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>
-  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>activate</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>
-  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>cooling off</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>
+  <Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.jobString>activate</Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.jobString>
+  <Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>cooling off</Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>
   
   <Turret_Sniper.label>uranium slug turret</Turret_Sniper.label>
   <Turret_Sniper.description>An armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.</Turret_Sniper.description>

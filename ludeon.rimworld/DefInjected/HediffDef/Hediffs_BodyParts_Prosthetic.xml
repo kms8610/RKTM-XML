@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <CochlearImplant.label>cochlear implant</CochlearImplant.label>
-  <CochlearImplant.description>An installed cochlear implant.</CochlearImplant.description>
+  <CochlearImplant.description>An installed cochlear implant. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf.</CochlearImplant.description>
   <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
   
   <Joywire.label>joywire</Joywire.label>
-  <Joywire.description>An installed joywire implant.</Joywire.description>
+  <Joywire.description>An installed joywire implant. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures.</Joywire.description>
   <Joywire.labelNoun>a joywire</Joywire.labelNoun>
   
   <Painstopper.label>painstopper</Painstopper.label>
-  <Painstopper.description>An installed painstopper implant.</Painstopper.description>
+  <Painstopper.description>An installed painstopper implant. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily.</Painstopper.description>
   <Painstopper.labelNoun>a painstopper</Painstopper.labelNoun>
   
   <PowerClaw.label>power claw</PowerClaw.label>
-  <PowerClaw.description>An installed power claw.</PowerClaw.description>
+  <PowerClaw.description>An installed power claw consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly.</PowerClaw.description>
   <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>claw</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
   
   <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>An installed prosthetic arm.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.description>An installed prosthetic arm. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm.</SimpleProstheticArm.description>
   <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
   
   <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.description>An installed prosthetic heart.</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.description>An installed prosthetic heart. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative.</SimpleProstheticHeart.description>
   <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
   
   <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>An installed prosthetic leg.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.description>An installed prosthetic leg. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg.</SimpleProstheticLeg.description>
   <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
 </LanguageData>

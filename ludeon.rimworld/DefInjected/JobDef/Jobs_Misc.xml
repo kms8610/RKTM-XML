@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ActivateThing.reportString>activating TargetA.</ActivateThing.reportString>
-  
   <ApplyTechprint.reportString>applying TargetB.</ApplyTechprint.reportString>
   
   <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
@@ -30,15 +28,21 @@
   
   <DeliverToCell.reportString>delivering TargetA.</DeliverToCell.reportString>
   
+  <DismissTrader.reportString>dismissing trader.</DismissTrader.reportString>
+  
   <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
   
   <EmptyThingContainer.reportString>emptying TargetA.</EmptyThingContainer.reportString>
   
   <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
   
+  <EnterPortal.reportString>entering TargetA.</EnterPortal.reportString>
+  
   <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
   
   <Equip.reportString>equipping TargetA.</Equip.reportString>
+  
+  <ExtinguishFiresNearby.reportString>extinguishing fires nearby.</ExtinguishFiresNearby.reportString>
   
   <ExtinguishSelf.reportString>extinguishing self.</ExtinguishSelf.reportString>
   
@@ -68,6 +72,8 @@
   
   <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
   
+  <HaulToPortal.reportString>hauling TargetA.</HaulToPortal.reportString>
+  
   <HaulToTransporter.reportString>hauling TargetA.</HaulToTransporter.reportString>
   
   <IdleWhileDespawned.reportString>idling.</IdleWhileDespawned.reportString>
@@ -79,6 +85,8 @@
   <Ingest.reportString>consuming TargetA.</Ingest.reportString>
   
   <Insult.reportString>insulting TargetA.</Insult.reportString>
+  
+  <InteractThing.reportString>activating TargetA.</InteractThing.reportString>
   
   <LayDown.reportString>lying down.</LayDown.reportString>
   
@@ -96,6 +104,8 @@
   
   <PickupToHold.reportString>picking up TargetA.</PickupToHold.reportString>
   
+  <Reading.reportString>reading TargetA</Reading.reportString>
+  
   <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
   
   <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
@@ -111,6 +121,8 @@
   <Resurrect.reportString>resurrecting TargetA.</Resurrect.reportString>
   
   <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  
+  <StandAndStare.reportString>staring.</StandAndStare.reportString>
   
   <Strip.reportString>stripping TargetA.</Strip.reportString>
   
@@ -140,11 +152,15 @@
   
   <UseVerbOnThingStatic.reportString>Doing something.</UseVerbOnThingStatic.reportString>
   
+  <UseVerbOnThingStaticReserve.reportString>Doing something.</UseVerbOnThingStaticReserve.reportString>
+  
   <Vomit.reportString>vomiting.</Vomit.reportString>
   
   <Wait.reportString>standing.</Wait.reportString>
   
   <Wait_Asleep.reportString>sleeping.</Wait_Asleep.reportString>
+  
+  <Wait_AsleepDormancy.reportString>sleeping.</Wait_AsleepDormancy.reportString>
   
   <Wait_Combat.reportString>watching for targets.</Wait_Combat.reportString>
   

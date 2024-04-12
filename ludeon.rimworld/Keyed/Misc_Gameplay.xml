@@ -192,7 +192,7 @@
   <MovementDifficultyOffsetInWinter>{0} in winter</MovementDifficultyOffsetInWinter>
   <RangeTo>to</RangeTo>
   <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
-  <ExpiresIn>Expires in</ExpiresIn>
+  <ExpiresIn>expires in</ExpiresIn>
   <CaravanLeaderCaravanName>{1_labelShort}'s caravan</CaravanLeaderCaravanName>
   <Reason>Reason</Reason>
   <RelationsWith>Relations with {0}</RelationsWith>
@@ -209,6 +209,9 @@
   <PreciousLumpHostileThreat>The scanner is picking up activity around the lump. It's likely hostile.</PreciousLumpHostileThreat>
   <PreciousLumpLabel>lump of {0}</PreciousLumpLabel>
   <NoActiveResearchProjectToFinish>no active research project</NoActiveResearchProjectToFinish>
+  <CurrentProject>Current project</CurrentProject>
+  <ResearchProgress>Research progress</ResearchProgress>
+  <AlreadyHasHediff>already has {0}</AlreadyHasHediff>
   <Turret>turret</Turret>
   <Turrets>turrets</Turrets>
   <Mortar>mortar</Mortar>
@@ -229,7 +232,6 @@
   <BringsRaidsEvery>Brings raids every {0}</BringsRaidsEvery>
   <GeneratesResourcesEvery>Generates {0} every {1}</GeneratesResourcesEvery>
   <FoliageKillRadius>Foliage kill radius</FoliageKillRadius>
-  <RadiusExpandRate>Radius expand rate</RadiusExpandRate>
   <ViewHyperlink>View: {0}</ViewHyperlink>
   <DetonationCountdown>Detonates in {0} days</DetonationCountdown>
   <ExplosionOnDamageWarning>Large fire explosion if damaged.</ExplosionOnDamageWarning>
@@ -281,9 +283,28 @@
   <RequiredTechprintTip>Requires</RequiredTechprintTip>
   <Size>size</Size>
   <Cost>cost</Cost>
-  <BackstoryTitle>Title</BackstoryTitle><!-- text_todo -->
+  <StunnedByEMP>Stunned by EMP</StunnedByEMP>
+  <BackstoryTitle>Title</BackstoryTitle>
   <Person>person</Person>
-
+  <Activated>activated.</Activated> 
+  <Contains>Contains</Contains>
+  <Hostiles>Hostiles</Hostiles>
+  <Investigate>Investigate</Investigate> 
+  <Activate>Activate</Activate> 
+  <Activation>Activation</Activation> 
+  <Complete>complete</Complete>
+  <RequiresImprisonment>Must be imprisoned.</RequiresImprisonment> 
+  <HaulFromSource>Prioritize hauling contents</HaulFromSource>
+  <UseGizmo>Use</UseGizmo>
+  <UseGizmoTooltip>Order someone to use the {0}.</UseGizmoTooltip>
+  <UseGizmoMouse>Choose who should use this</UseGizmoMouse>
+  <TargetGizmoMouse>Select target</TargetGizmoMouse>
+  <CannotUseGizmoMouse>Cannot use this</CannotUseGizmoMouse>
+  <Buildings>Buildings</Buildings>
+  <NotYetDiscovered>not yet discovered</NotYetDiscovered>
+  <ReportStringCrawlingToSafety>Crawling to safety.</ReportStringCrawlingToSafety>
+  <ReportStringCrawlingToBed>Crawling to bed.</ReportStringCrawlingToBed>
+  
   <!-- Scanning -->
   <UserScanAbility>User scanning speed</UserScanAbility>
   <ScanAverageInterval>Random find interval</ScanAverageInterval>
@@ -295,7 +316,6 @@
   <!-- Fermentation barrel -->
   <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
   <ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
-  <Contains>Contains</Contains>
   <Fermented>Fermented</Fermented>
   <FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
   <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
@@ -331,6 +351,9 @@
   <NoAreaAllowed>Unrestricted</NoAreaAllowed>
   <NewArea>New area</NewArea>
   <InvertArea>Invert</InvertArea>
+  <ExpandArea>Expand</ExpandArea>
+  <ShrinkArea>Shrink</ShrinkArea>
+  <MaxAreasReached>Maximum {0} areas allowed.</MaxAreasReached>
 
   <!-- Animal pens -->
   <PenUnenclosedLabel>Unenclosed</PenUnenclosedLabel>
@@ -352,6 +375,8 @@
   <PenCapacityDesc>{ANIMALDEF_label} capacity</PenCapacityDesc>
   <PenExampleAnimals>Example animals</PenExampleAnimals>
   <NoExteriorAccess>No exterior access - Animals cannot be moved in or out.</NoExteriorAccess>
+  
+  <DoorMustBeEnclosedByWalls>Must be connected to walls on both sides to function.</DoorMustBeEnclosedByWalls>
 
   <!-- Cell Inspector -->
   <Beauty_Label>Beauty</Beauty_Label>
@@ -384,6 +409,7 @@
   <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
   <IsNotDrafted>{1_labelShort} is not drafted.</IsNotDrafted>
   <ApparelPreventsShooting>{PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}.</ApparelPreventsShooting>
+  <CannotUseReason_PocketMap>Cannot use in {0}</CannotUseReason_PocketMap>
 
   <!-- Snow -->
   <Snow>Snow</Snow>
@@ -404,7 +430,7 @@
   <AlreadyActive>Already active</AlreadyActive>
   <OrderActivation>Order activation</OrderActivation>
   <OrderActivationDesc>Order a colonist to activate {THING_definite}.</OrderActivationDesc>
-  <MustBeActivatedByColonist>Must be activated by a colonist.</MustBeActivatedByColonist>
+  <MustBeActivatedByColonist>Send a colonist to activate this.</MustBeActivatedByColonist>
   <NoNearbyFire>No nearby fire</NoNearbyFire>
   <NoNearbyFireNoFuelUsed>No nearby fire. No fuel was used.</NoNearbyFireNoFuelUsed>
   <ChooseWhoShouldActivate>Choose who should activate this.</ChooseWhoShouldActivate>
@@ -434,6 +460,8 @@
   <ReportDiggingUpCorpse>digging up corpse.</ReportDiggingUpCorpse>
   <CarriedBy>being carried by {0_labelShort}.</CarriedBy> 
   <InContainer>inside {0_labelShort}.</InContainer> 
+  <DownedCannotCrawl>downed, cannot crawl.</DownedCannotCrawl> 
+  <DownedUnconscious>downed, unconscious.</DownedUnconscious> 
 
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
@@ -513,7 +541,7 @@
 
   <!-- Power readout -->
   <PowerNotConnected>Not connected to power.</PowerNotConnected>
-  <PowerConnectedRateStored>Grid excess/stored: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Grid excess: {0} W ({1} Wd stored)</PowerConnectedRateStored>
   <PowerNeeded>Power needed</PowerNeeded>
   <PowerOutput>Power output</PowerOutput>
   <PowerActiveNeeded>{0} W when active</PowerActiveNeeded>
@@ -536,9 +564,9 @@
   <RotStateFresh>Fresh</RotStateFresh>
   <RotStateRotting>Rotting</RotStateRotting>
   <RotStateDessicated>Dessicated</RotStateDessicated>
-  <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
-  <CurrentlyRefrigerated>Refrigerated (spoils in {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Not refrigerated (spoils in {0})</NotRefrigerated>
+  <CurrentlyFrozen>Frozen</CurrentlyFrozen> 
+  <CurrentlyRefrigerated>Refrigerated, spoils in {0}</CurrentlyRefrigerated> 
+  <NotRefrigerated>Unrefrigerated, spoils in {0}</NotRefrigerated> 
   <OverADecade>over a decade</OverADecade>
   <LessThanADay>less than a day</LessThanADay>
 
@@ -584,9 +612,15 @@
   <GrowingZone>Growing zone</GrowingZone>
   <Stockpile>Stockpile zone</Stockpile>
   <DumpingStockpile>Dumping stockpile zone</DumpingStockpile>
+  <CorpseStockpile>Corpse stockpile zone</CorpseStockpile>
   <Priority>Priority</Priority>
   <ClearAll>Clear all</ClearAll>
   <AllowAll>Allow all</AllowAll>
+  
+  <!-- Storage Groups -->
+  <StorageGroup>Group</StorageGroup>
+  <StorageLabel>Name</StorageLabel>
+  <StorageGroupLabel>Storage group</StorageGroupLabel>
 
   <!-- ThingFilter -->
   <HitPoints>{0} hit points</HitPoints>
@@ -595,6 +629,11 @@
 
   <!-- Mouseover indicator -->
   <Undiscovered>Undiscovered</Undiscovered>
+  
+  <!-- Animal management -->
+  <AnimalSterilizeConfirm>Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}.</AnimalSterilizeConfirm>
+  <AnimalSlaughterConfirm>Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}.</AnimalSlaughterConfirm>
+  <AnimalReleaseConfirm>Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}.</AnimalReleaseConfirm>
 
   <!-- Buttons -->
   <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
@@ -616,6 +655,9 @@
   <ShowWorldFeaturesToggleButton>Toggle visibility of names of landforms.</ShowWorldFeaturesToggleButton>
   <ShowTemperatureOverlayToggleButton>Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death.</ShowTemperatureOverlayToggleButton>
 
+  <!-- Hotkeys -->
+  <HotKeyTip>Hotkey</HotKeyTip>
+  
   <!-- Fire -->
   <FireOn>fire on {1_label}</FireOn>
   <Burning>Burning</Burning>
@@ -637,6 +679,9 @@
   <WillGetWorkSpeedPenalty>{0} will have work speed penalty</WillGetWorkSpeedPenalty>
   <MustPlaceUnroofed>Cannot be placed under a roof.</MustPlaceUnroofed>
   <MustPlaceUnderThickRoof>Must be placed under thick roof.</MustPlaceUnderThickRoof>
+  <MustPlaceOnWall>Must be placed against a wall.</MustPlaceOnWall>
+  <SomethingPlacedOnThisWall>Something is already placed on this wall.</SomethingPlacedOnThisWall>
+  <CannotSupportAttachment>This building can not support attachments.</CannotSupportAttachment>
   <MustPlaceHeadOnShipBeam>Must place with head attached to ship structural beam.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Must be placed next to something that needs a hopper.</MustPlaceNextToHopperAccepter>
   <MustPlaceOnSteamGeyser>Must be placed directly on a steam geyser.</MustPlaceOnSteamGeyser>
@@ -667,6 +712,7 @@
   <ShipReportNoFullPods>No full cryptosleep caskets</ShipReportNoFullPods>
   <ShipReportHibernating>Hibernating component</ShipReportHibernating>
   <ShipReportNotReady>Component not yet ready</ShipReportNotReady>
+  <ShipNoSettlementToReturnTo>No settlement to return to. Form a settlement first.</ShipNoSettlementToReturnTo> 
   <HibernateWarning>(*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.</HibernateWarning>
   <HibernateWarningStandalone>The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.</HibernateWarningStandalone>
   <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days.</HibernateWarningPacifist>
@@ -707,6 +753,7 @@
   <Mood_Happy>happy</Mood_Happy>
 
   <!-- Game over -->
+  <GameOver>Game Over</GameOver>
   <GameOverEveryoneDead>Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place.</GameOverEveryoneDead>
   <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
   <GameOverShipLaunchedIntro>You've launched the ship!</GameOverShipLaunchedIntro>
@@ -714,8 +761,13 @@
   <GameOverColonistsEscaped>These colonists escaped:\n\n{0}</GameOverColonistsEscaped>
   <GameOverColonistsLeft>These colonists were left behind:\n\n{0}</GameOverColonistsLeft>
   <GameOverInMemoryOf>In memory of:\n</GameOverInMemoryOf>
-  <GameOverKeepPlaying>Keep playing</GameOverKeepPlaying>
+  <GameOverKeepWatching>Keep watching</GameOverKeepWatching>
+  <GameOverKeepWatchingForNow>Keep watching for now</GameOverKeepWatchingForNow>
+  <GameOverCreateNewWanderers>Create new wanderers</GameOverCreateNewWanderers>
+  <GameOverCreateNewWanderersWait>Create new wanderers (must wait {0}h)</GameOverCreateNewWanderersWait>
+  <GameOverCreateNewWanderersText>Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story.</GameOverCreateNewWanderersText>
   <GameOverMainMenu>Main menu</GameOverMainMenu>
+  <NoColony>No colony</NoColony>
 
   <!-- Generic lifespan -->
   <LifespanExpiry>Expires in:</LifespanExpiry>
@@ -724,6 +776,8 @@
   <InactiveFacility>inactive</InactiveFacility>
   <FacilityPotentiallyLinkedTo>Links to</FacilityPotentiallyLinkedTo>
   <FacilityNoPotentialLinks>Not linked to a building</FacilityNoPotentialLinks>
+  <FacilityMaxSimultaneousConnections>Max connected per building</FacilityMaxSimultaneousConnections>
+  <FacilityFrontBlocked>Front of building is blocked.</FacilityFrontBlocked>
 
   <!-- Hediffs growth modes -->
   <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
@@ -834,6 +888,8 @@
   <Reward_PassageOffworld_Label>Passage offworld</Reward_PassageOffworld_Label>
   <Reward_CampLoot>you can loot everything from the camp</Reward_CampLoot>
   <Reward_CampLoot_Label>Camp loot</Reward_CampLoot_Label>
+  <Reward_Unknown>It is unclear what will happen if you accept this quest</Reward_Unknown> 
+  <Reward_Unknown_Label>Unknown</Reward_Unknown_Label> 
   <Reward_VisitorsHelp>the visitors will work and fight for you</Reward_VisitorsHelp>
   <Reward_VisitorsHelp_Label>Visitors' help</Reward_VisitorsHelp_Label>
   <Reward_BestowingCeremony_Label>New psylink level</Reward_BestowingCeremony_Label>
@@ -871,14 +927,22 @@
   <!-- Hediff misc -->
   <CausedByHediff>Caused by: {0}</CausedByHediff>
   
+  <DamageFactorWeakness>{DAMAGE_label} weakness</DamageFactorWeakness>
+  <DamageFactorResistance>{DAMAGE_label} resistance</DamageFactorResistance>
+  <DamageFactor>{DAMAGE_label} damage that this creature receives is multiplied by this amount.</DamageFactor>
+  
   <!-- Healing -->
-  <HealingCureHediff>{0_nameDef}'s {1} was cured.</HealingCureHediff>
+  <HealingHealHediff>{0_nameDef}'s {1} was healed.</HealingHealHediff>
   <HealingRestoreBodyPart>{0_nameDef}'s {1} was restored.</HealingRestoreBodyPart>
 
   <WarningBuildingCausesHostility>Caution: Placing a building here will anger {FACTION_name}!</WarningBuildingCausesHostility>
 
   <ChooseLandingSite>Choose landing site</ChooseLandingSite>
-  
+
+  <!-- LordJobs -->
+  <LordJobOutcomeChances>Outcome chances at {0} quality</LordJobOutcomeChances>
+  <ExpectedLordJobDuration>Expected duration</ExpectedLordJobDuration>
+
   <!-- Rituals -->
   <Ritual>ritual</Ritual>
 
@@ -909,7 +973,6 @@
   <RitualOutcomeProgress>{0} progress</RitualOutcomeProgress>
   <RitualOutcomeQualityAbstract>{0} quality depends on</RitualOutcomeQualityAbstract>
   <RitualOutcomeQualitySpecific>{0} total quality was {1}, determined by these factors</RitualOutcomeQualitySpecific>
-  <RitualOutcomeChances>Outcome chances at {0} quality</RitualOutcomeChances>
   <RitualOutcomePerformedRecently>Performed recently</RitualOutcomePerformedRecently>
   <RitualQualityExpectations>{0} expectations</RitualQualityExpectations>
   <RitualAmbienceSound>Ritual ambience sound</RitualAmbienceSound>
@@ -918,8 +981,7 @@
   <AbilityDisabledNoCapacity>{0_labelShort} is incapable of {1}.</AbilityDisabledNoCapacity>
   <RitualOutcomeExtraDesc_Mood>Everyone participating in the ritual gains {0} mood for {1} days.</RitualOutcomeExtraDesc_Mood>
   <RitualOutcomeNoQuality>This ritual has no quality offsets, so the best outcome is always expected</RitualOutcomeNoQuality>
-  
-  <ChooseParticipants>Choose who should participate in {RITUAL_labelDef}.</ChooseParticipants>
+
   <Begin>Begin</Begin>
   <BeginRitual>Begin {0}</BeginRitual>
   <BeginRitualFor>Begin {0} for {1}</BeginRitualFor>
@@ -928,10 +990,8 @@
 
   <PreceptReplaceWith>Replace with</PreceptReplaceWith>
   <RitualSeatOf>Ritual seat of {IDEOS}</RitualSeatOf>
-  <ExpectedRitualQuality>Expected quality</ExpectedRitualQuality>
+  <ExpectedLordJobQuality>Expected quality</ExpectedLordJobQuality>
   <StartingQuality>Starting quality</StartingQuality>
-  <ExpectedRitualDuration>Expected duration</ExpectedRitualDuration>
-  
   <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort}'s {1}</RitualPredictedOutcomeDescPawnStat>
   <RitualPredictedOutcomeDescRoomBeauty>Room beauty</RitualPredictedOutcomeDescRoomBeauty>
   <RitualPredictedOutcomeDescParticipantCount>Participants</RitualPredictedOutcomeDescParticipantCount>
@@ -959,19 +1019,24 @@
   <BlindSmoke>blind smoke</BlindSmoke>
   <ToxGas>tox gas</ToxGas>
   <RotStink>rot stink</RotStink>
+  <DeadlifeDust>deadlife dust</DeadlifeDust> 
 
   <!-- Abilities -->
   <AbilityDisabledUndrafted>must be drafted.</AbilityDisabledUndrafted>
   <AbilityOnCooldown>ability on cooldown. It will be available in {0}.</AbilityOnCooldown>
+  <AbilityNoCharges>ability out of charges.</AbilityNoCharges>
   <AbilityAlreadyQueued>ability already queued.</AbilityAlreadyQueued>
-  <AbilityReadyLabel>Ability ready: {0}</AbilityReadyLabel>
+  <AbilityReadyLabel>Ability ready for {PAWN_nameDef}: {0}</AbilityReadyLabel>
+  <AbilitiesReadyLabel>Abilities ready for {PAWN_nameDef}: {0}</AbilitiesReadyLabel>
   <AbilityReadyText>{0_nameDef} is ready to use {1}.</AbilityReadyText>
   <AbilityDisabledInRitual>{0_labelShort} is participating in {1}.</AbilityDisabledInRitual>
   <Charges>Charges</Charges>
 
-  <PawnIsInMentalState>{0_nameDef} is in an aggressive mental state.</PawnIsInMentalState>
+  <PawnIsInMentalState>{0_nameDef} is in a mental state.</PawnIsInMentalState>
+  <PawnIsInAggroMentalState>{0_nameDef} is in an aggressive mental state.</PawnIsInAggroMentalState>
 
   <DisabledWorkLabel>Disabled work</DisabledWorkLabel>
+  <DisabledNeedsLabel>Disabled needs</DisabledNeedsLabel>
 
   <!-- Glowers -->
   <GlowerChangeColor>change color</GlowerChangeColor>
@@ -993,5 +1058,57 @@
   <AbilitySpeechDisabledAnotherGatheringInProgress>another gathering is in progress.</AbilitySpeechDisabledAnotherGatheringInProgress>
   <AbilitySpeechCooldown>Next speech ready in</AbilitySpeechCooldown>
   <AbilitySpeechTargetsLabel>Initiated at</AbilitySpeechTargetsLabel>
+  
+  <!-- Books -->
 
+  <Benefits>Benefits</Benefits>
+  <Dangers>Dangers</Dangers>
+  <AlreadyUnlocked>already unlocked</AlreadyUnlocked>
+  <WhenDiscovered>when discovered</WhenDiscovered>
+  
+  <BookMentalBreakMessage>Was driven into a mental break after reading {0}.</BookMentalBreakMessage>
+  <BookReadProgress>{0} done (complete in {1} hours)</BookReadProgress>
+  
+  <BookLearningModifier>learning speed</BookLearningModifier>
+  <BookMentalBreak>Mental break chance</BookMentalBreak>
+  
+  <BookNotReadable>{BOOK_labelShort} is not readable</BookNotReadable>
+  <BookCantRead>{PAWN_nameDef} can't read</BookCantRead>
+  <BookCantBeStage>{PAWN_nameDef} must be a {STAGES}</BookCantBeStage>
+  <BookBlind>{PAWN_nameDef} is blind</BookBlind>
+  
+  <BookMaxLevel>max level {0}</BookMaxLevel>
+  
+  <ReadingReportHeader>Reading {0}: {1} done (complete in {2} hours)</ReadingReportHeader>
+  
+  <ReadingDialogTitle>Assign reading</ReadingDialogTitle>
+  <ReadingAssignTo>Assign to {0}</ReadingAssignTo>
+  <ReadingAssign>Assign</ReadingAssign>
+
+  <ContainedBooksDesc>The books currently on this bookshelf.</ContainedBooksDesc>
+  
+  <BookshelfStoredInspect>Books stored</BookshelfStoredInspect>
+  <BookshelfReadingBonusInspect>Reading bonus in room</BookshelfReadingBonusInspect>
+
+  <EjectBookTooltip>Remove this book from the bookshelf.</EjectBookTooltip>
+  
+  <!-- Pushing -->
+  <CommandPushTo>Push to...</CommandPushTo>
+  <RequiredCapacity>requires {0}</RequiredCapacity>
+  
+  <UnableToEnterPortal>Unable to enter {0}, destination is blocked</UnableToEnterPortal>
+
+  <ResearchNotDiscovered>This category of research has not been discovered.</ResearchNotDiscovered>
+
+  <Emergence>Emergence</Emergence>
+  
+  <RemovePart>remove {0}</RemovePart>
+
+  <DoWorkAtThing>{GERUND} {TARGETLABEL} at</DoWorkAtThing>
+  <CanBeStudiedInDuration>can be studied in {0}</CanBeStudiedInDuration>
+  
+  <AboutToExplode>About to explode</AboutToExplode>
+  
+  <MainScreen_AnomalyAvailableNow>New Anomaly expansion available now!</MainScreen_AnomalyAvailableNow>
+  
 </LanguageData>

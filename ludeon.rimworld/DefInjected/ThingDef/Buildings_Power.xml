@@ -9,6 +9,9 @@
   <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
   <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</GeothermalGenerator.description>
   
+  <HiddenConduit.label>hidden conduit</HiddenConduit.label>
+  <HiddenConduit.description>Hidden electrical cables for moving power around. They're tougher than regular conduits, but also slower to build and more expensive.</HiddenConduit.description>
+  
   <PowerConduit.label>power conduit</PowerConduit.label>
   <PowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
   

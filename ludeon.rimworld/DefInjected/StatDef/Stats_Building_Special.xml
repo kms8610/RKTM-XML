@@ -15,16 +15,24 @@
   <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
   <MedicalTendQualityOffset.description>Medical tend quality is offset by this value.</MedicalTendQualityOffset.description>
   
+  <PowerPlantMaxPowerOuput.label>max power output</PowerPlantMaxPowerOuput.label>
+  <PowerPlantMaxPowerOuput.description>The maximum power that this generator can output in ideal conditions.</PowerPlantMaxPowerOuput.description>
+  
   <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
   <ResearchSpeedFactor.description>The speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Room cleanliness</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>Reading bonus</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
+  
+  <RoomReadingBonus.label>reading bonus</RoomReadingBonus.label>
+  <RoomReadingBonus.description>Provides a bonus to research speed, XP gained from reading, and recreation gained from reading in the same room as the bookcase. This is increased by placing more and higher quality books in the bookcase.</RoomReadingBonus.description>
+  <RoomReadingBonus.parts.Reading_bonus.customLabel>Reading bonus</RoomReadingBonus.parts.Reading_bonus.customLabel>
   
   <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
   <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used.</SurgerySuccessChanceFactor.description>
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
-  <TrapMeleeDamage.description>How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>How much damage this trap does on average per hit. Each trap hits multiple times.\n\nThe actual damage in any instance will vary randomly.</TrapMeleeDamage.description>
   
   <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
   <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>

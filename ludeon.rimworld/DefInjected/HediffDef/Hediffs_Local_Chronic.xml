@@ -52,4 +52,12 @@
   <HeartArteryBlockage.stages.major-0.label>major</HeartArteryBlockage.stages.major-0.label>
   <HeartArteryBlockage.stages.major-1.label>major</HeartArteryBlockage.stages.major-1.label>
   <HeartArteryBlockage.stages.extreme.label>extreme</HeartArteryBlockage.stages.extreme.label>
+  
+  <OrganDecay.label>organ decay</OrganDecay.label>
+  <OrganDecay.description>An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ.</OrganDecay.description>
+  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}'s {1} was destroyed by organ decay.</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+  <OrganDecay.stages.minor.label>minor</OrganDecay.stages.minor.label>
+  <OrganDecay.stages.moderate.label>moderate</OrganDecay.stages.moderate.label>
+  <OrganDecay.stages.severe.label>severe</OrganDecay.stages.severe.label>
+  <OrganDecay.stages.extreme.label>extreme</OrganDecay.stages.extreme.label>
 </LanguageData>

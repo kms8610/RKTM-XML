@@ -31,9 +31,9 @@
   <Insulation_Heat.description>How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures.</Insulation_Heat.description>
   <Insulation_Heat.labelForFullStatList>Insulation - Heat (armor stat)</Insulation_Heat.labelForFullStatList>
   
-  <SmokepopBeltRadius.label>Smokepop pack radius</SmokepopBeltRadius.label>
-  <SmokepopBeltRadius.description>The area obscured when a smokepop pack detonates.</SmokepopBeltRadius.description>
-  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
+  <PackRadius.label>Effect radius</PackRadius.label>
+  <PackRadius.description>The area affected when this pack detonates.</PackRadius.description>
+  <PackRadius.formatString>{0} c</PackRadius.formatString>
   
   <StuffEffectMultiplierArmor.label>Armor - Material effect multiplier</StuffEffectMultiplierArmor.label>
   

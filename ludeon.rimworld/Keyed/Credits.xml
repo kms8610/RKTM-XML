@@ -1,25 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <!-- Main menu-->
   <MainPageCredit>A story generator by Tynan Sylvester</MainPageCredit>
 
+  <!-- Credits -->
+  <Credits_Design>Design</Credits_Design>
   <Credits_Developers>Engineering</Credits_Developers>
   <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
   <Credit_GameArt>Art</Credit_GameArt>
-  <Credit_MenuArt>Menu art</Credit_MenuArt>
-  <Credits_AdditionalDevelopment>Additional engineering</Credits_AdditionalDevelopment>
-  <Credits_TitleCommunity>Community volunteers</Credits_TitleCommunity>
-  <Credits_TitleTester>Community testers</Credits_TitleTester>
-  <Credits_TitleMods>Mods</Credits_TitleMods>
-  <Credit_ModDonation>Mod donor</Credit_ModDonation>
-  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
-  <Credit_Moderator>Moderator</Credit_Moderator>
-  <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
-  <Credit_TestLead>Test lead</Credit_TestLead>
-  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
-  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+  <Credit_Testers>Testers</Credit_Testers>
+  <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
 
-  <!-- Currently unused -->
+  <Credits_TitleTester>Volunteer testers</Credits_TitleTester>
+
+  <Credits_TitleMods>Mods</Credits_TitleMods>
+
+  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
+  <Credits_Localization_Anomaly>Anomaly localization</Credits_Localization_Anomaly><!-- text_todo -->
+  <Credits_LeadLocalizationProjectManager>Lead Localization Project Manager</Credits_LeadLocalizationProjectManager><!-- text_todo -->
+  <Credits_LocalizationProjectManager>Localization Project Manager</Credits_LocalizationProjectManager><!-- text_todo -->
+  <Credits_ProjectManager>Project Manager</Credits_ProjectManager><!-- text_todo -->
+  <Credits_Translator>Translator</Credits_Translator><!-- text_todo -->
+  <Credits_Editor>Editor</Credits_Editor><!-- text_todo -->
+  <Credits_French>French</Credits_French><!-- text_todo -->
+  <Credits_Japanese>Japanese</Credits_Japanese><!-- text_todo -->
+  <Credits_Korean>Korean</Credits_Korean><!-- text_todo -->
+  <Credits_Polish>Polish</Credits_Polish><!-- text_todo -->
+  <Credits_Russian>Russian</Credits_Russian><!-- text_todo -->
+  <Credits_ChineseSimplified>Simplified Chinese</Credits_ChineseSimplified><!-- text_todo -->
+  <Credits_ChineseTraditional>Traditional Chinese</Credits_ChineseTraditional><!-- text_todo -->
+
+  <!-- Credits - Currently unused -->
   <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
+  <Credit_TestLead>Test lead</Credit_TestLead>
+  <Credits_TitleCommunity>Community donations</Credits_TitleCommunity>
+  <Credit_ModDonation>Mod donors</Credit_ModDonation>
+  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
+
+  <!-- Meta -->
+  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+  <SkipCredits>Skip credits</SkipCredits>
+
+
 
 </LanguageData>

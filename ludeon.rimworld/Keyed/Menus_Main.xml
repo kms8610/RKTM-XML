@@ -338,6 +338,7 @@
   <IncapableOfTooltipQuest>Caused by quest status</IncapableOfTooltipQuest>
   <IncapableOfTooltipRole>Caused by role</IncapableOfTooltipRole>
   <IncapableOfTooltipGene>Caused by gene</IncapableOfTooltipGene>
+  <IncapableOfTooltipMutant>Caused by</IncapableOfTooltipMutant>
   <Traits>Traits</Traits>
   <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
   <Skills>Skills</Skills>
@@ -356,7 +357,7 @@
   <TeamSkills>Team skills</TeamSkills>
   <StartingPawnsSelected>Selected</StartingPawnsSelected>
   <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
-  <GuiltyDesc>This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in</GuiltyDesc>
+  <GuiltyDesc>This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in</GuiltyDesc>
   
   <!-- Misc -->
   <Start>Start</Start>

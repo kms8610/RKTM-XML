@@ -10,13 +10,24 @@
   
   <DrugPolicy.label>drug policy</DrugPolicy.label>
   
-  <FoodRestriction.label>food restriction</FoodRestriction.label>
+  <FoodRestriction.label>food policy</FoodRestriction.label>
   
   <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
+  
+  <Label.label>name</Label.label>
+  <Label.headerTip>Name</Label.headerTip>
+  
+  <LabelShortWithIcon.label>name</LabelShortWithIcon.label>
+  <LabelShortWithIcon.headerTip>Name</LabelShortWithIcon.headerTip>
+  
+  <LabelWithIcon.label>name</LabelWithIcon.label>
+  <LabelWithIcon.headerTip>Name</LabelWithIcon.headerTip>
   
   <Master.label>master</Master.label>
   
   <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
   
-  <Outfit.label>current outfit</Outfit.label>
+  <Outfit.label>apparel policy</Outfit.label>
+  
+  <Reading.label>reading policy</Reading.label>
 </LanguageData>
