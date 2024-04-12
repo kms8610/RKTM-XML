@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BiomutationPulser.label>biomutation pulser</BiomutationPulser.label>
+  <BiomutationPulser.description>A one-use broad-wave psychic effector created from a dark archotech shard. The device creates a pulse that reshapes the musculature of every animal within the region, turning them into terrifying creatures. Animals currently under your control will not be affected.</BiomutationPulser.description>
+  <BiomutationPulser.comps.CompUsable.useLabel>Activate {0_label}</BiomutationPulser.comps.CompUsable.useLabel>
+  
+  <ShardAnimalPulser.label>shard animal pulser</ShardAnimalPulser.label>
+  <ShardAnimalPulser.description>A one-use broad-wave psychic effector created from a dark archotech shard. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected.</ShardAnimalPulser.description>
+  <ShardAnimalPulser.comps.CompUsable.useLabel>Activate {0_label}</ShardAnimalPulser.comps.CompUsable.useLabel>
+</LanguageData>

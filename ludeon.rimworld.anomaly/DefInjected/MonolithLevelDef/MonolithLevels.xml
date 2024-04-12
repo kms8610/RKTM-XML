@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Disrupted.monolithDescription>The remnants of the monolith which linked our world to the void lie broken. The twisted patterns that once writhed across its surface are now motionless. You can study the broken stones to gain further knowledge of the void phenomena.</Disrupted.monolithDescription>
+  <Disrupted.monolithLabel>collapsed monolith</Disrupted.monolithLabel>
+  
+  <Embraced.levelInspectText>Level 4: Awakened</Embraced.levelInspectText>
+  <Embraced.monolithLabel>void monolith</Embraced.monolithLabel>
+  
+  <Gleaming.extraQuestDescription>The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage.</Gleaming.extraQuestDescription>
+  <Gleaming.levelInspectText>Level 4: Awakened</Gleaming.levelInspectText>
+  <Gleaming.monolithLabel>void monolith</Gleaming.monolithLabel>
+  
+  <Inactive.activateFloatMenuText>investigate {0}</Inactive.activateFloatMenuText>
+  <Inactive.activateGizmoDescription>Send a colonist to investigate the monolith.</Inactive.activateGizmoDescription>
+  <Inactive.activateGizmoText>investigate</Inactive.activateGizmoText>
+  <Inactive.activateQuestText>Send a colonist to investigate the monolith.</Inactive.activateQuestText>
+  <Inactive.levelInspectText>Twisting lines carved into the surface form a disturbing pattern.</Inactive.levelInspectText>
+  <Inactive.monolithCanBeActivatedText>Can be investigated now.</Inactive.monolithCanBeActivatedText>
+  <Inactive.monolithLabel>fallen monolith</Inactive.monolithLabel>
+  <Inactive.pawnSentToActivateMessage>{PAWN_nameDef} has been sent to investigate the monolith.</Inactive.pawnSentToActivateMessage>
+  
+  <Stirring.activatableLetterLabel>Attuning the monolith</Stirring.activatableLetterLabel>
+  <Stirring.activatableLetterText>You now have sufficient knowledge of void-related phenomena to attune the void monolith and further open its psychic conduit.\n\nThis will draw the attention of more dangerous anomalous entities.</Stirring.activatableLetterText>
+  <Stirring.activatedLetterText>As the monolith twisted and changed, {PAWN_nameDef} was overcome with a horrifying vision. In an instant, {PAWN_pronoun} understood.\n\nThe monolith is a doorway, just barely cracked open now. Something dark beyond imagination stirs on the other side, seeping into our reality.\n\nTerrified but excited, {PAWN_nameDef} is convinced {PAWN_pronoun} can learn more if given the time to study the monolith.\n\n - Building category unlocked: Anomaly\n - Research tab unlocked: Anomaly\n - Entity codex unlocked\n - You can now study the monolith and other entities to gain Anomaly research.</Stirring.activatedLetterText>
+  <Stirring.activateFloatMenuText>attune {0}</Stirring.activateFloatMenuText>
+  <Stirring.activateGizmoDescription>Send a colonist to attune the monolith.\n\nThis will attract new and more dangerous entities.</Stirring.activateGizmoDescription>
+  <Stirring.activateGizmoText>attune</Stirring.activateGizmoText>
+  <Stirring.activateQuestText>Send a colonist to attune the monolith.</Stirring.activateQuestText>
+  <Stirring.extraQuestDescription>You've activated the monolith. It is a conduit for psychic energy, just barely cracked open now. A mind of incomprehensible horror stirs on the other side, and is now touching our world.\n\nThe monolith seems to be partly active, and there seems to be no way to shut it down. To learn more you must activate it further, which will require some special research.</Stirring.extraQuestDescription>
+  <Stirring.levelInspectText>Level 1: Intermittent psychic humming</Stirring.levelInspectText>
+  <Stirring.monolithCanBeActivatedText>Can be attuned now.</Stirring.monolithCanBeActivatedText>
+  <Stirring.monolithLabel>void monolith</Stirring.monolithLabel>
+  <Stirring.pawnSentToActivateMessage>{PAWN_nameDef} has been sent to attune the monolith.</Stirring.pawnSentToActivateMessage>
+  
+  <VoidAwakened.activatedLetterText>The sky darkens and a malevolent hum fills the air. The monolith has begun to awaken. Your actions have attracted the attention of something beyond human understanding.\n\nSoon, structures of the void will begin manifesting into this reality. Activate the arriving void structures to fully awaken the monolith.\n\nThe first wave will appear shortly. Prepare yourself.</VoidAwakened.activatedLetterText>
+  <VoidAwakened.extraQuestDescription>The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage.</VoidAwakened.extraQuestDescription>
+  <VoidAwakened.levelInspectText>Level 3: Awakening</VoidAwakened.levelInspectText>
+  <VoidAwakened.monolithLabel>void monolith</VoidAwakened.monolithLabel>
+  
+  <Waking.activatableLetterLabel>Awakening the monolith</Waking.activatableLetterLabel>
+  <Waking.activatableLetterText>You now have enough knowledge of dark phenomena to fully awaken the void monolith, opening a two-way conduit to the void.\n\nBe warned - once you begin awakening the void monolith, there is no going back. The process will shroud the region in unnatural darkness and manifest waves of horrifying entities.\n\nMake sure your colony is well-lit and well-prepared.</Waking.activatableLetterText>
+  <Waking.activatedLetterText>Attuning the monolith caused it to twist and grow once more. As it did, {PAWN_nameDef} caught a glimpse of what lurks beyond. {PAWN_pronoun} understood.\n\nThe monolith is a doorway, opened wider by your actions. On the other side, {PAWN_nameDef} sensed an inhuman intelligence of vast complexity and endless rage. The dark machine god is stirring, and its physical influence will grow.\n\n - New entities are now discoverable.</Waking.activatedLetterText>
+  <Waking.activateFloatMenuText>awaken {0}</Waking.activateFloatMenuText>
+  <Waking.activateGizmoDescription>Send a colonist to wake the monolith. The psychic signature will be detectable for hundreds of miles and attract all manner of horrors. Make sure you are prepared.\n\nOnce fully awakened, the monolith will provide a direct link to the void.</Waking.activateGizmoDescription>
+  <Waking.activateGizmoText>awaken</Waking.activateGizmoText>
+  <Waking.activateQuestText>Send a colonist to awaken the monolith.</Waking.activateQuestText>
+  <Waking.extraQuestDescription>The monolith is a conduit to the void where a dark superintelligence processes endless vast dreams of rage and hate. You opened the conduit and it is now partially active. If you activate it further you can find a way to close it - or harness its power.</Waking.extraQuestDescription>
+  <Waking.levelInspectText>Level 2: Pulsing with psychic energy</Waking.levelInspectText>
+  <Waking.monolithCanBeActivatedText>Can be awakened now.</Waking.monolithCanBeActivatedText>
+  <Waking.monolithLabel>void monolith</Waking.monolithLabel>
+  <Waking.pawnSentToActivateMessage>{PAWN_nameDef} has been sent to awaken the monolith.</Waking.pawnSentToActivateMessage>
+</LanguageData>

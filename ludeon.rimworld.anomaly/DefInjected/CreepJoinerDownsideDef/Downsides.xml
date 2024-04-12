@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Aggressive.label>공격적</Aggressive.label>
+  <Aggressive.letterDesc>{PAWN_nameDef}의 행동이 갑자기 변했습니다. 위협적인 웃음이 {PAWN_possessive} 얼굴을 가릅니다.\n\n{PAWN_nameDef}(은)는 적대적인 상태가 되었습니다.</Aggressive.letterDesc>
+  <Aggressive.letterLabel>{PAWN_nameDef} 적대</Aggressive.letterLabel>
+  
+  <CrumblingMind.label>허물어지는 정신</CrumblingMind.label>
+  
+  <Disturbing.label>불쾌함</Disturbing.label>
+  
+  <EntityJailbreaker.label>실체 탈옥</EntityJailbreaker.label>
+  
+  <Leaves.label>떠남</Leaves.label>
+  <Leaves.letterDesc>{PAWN_nameDef}(은)는 당신의 환대에 감사해하지만, 이제 자신이 떠날 시간이라고 합니다.</Leaves.letterDesc>
+  <Leaves.letterLabel>{PAWN_nameDef} 떠남</Leaves.letterLabel>
+  
+  <Metalhorror.label>메탈호러</Metalhorror.label>
+  
+  <Nothing.label>없음</Nothing.label>
+  
+  <OrganDecay.label>장기 부패</OrganDecay.label>
+  
+  <PsychicAgony.label>정신 고통</PsychicAgony.label>
+  <PsychicAgony.letterDesc>{PAWN_nameDef}(이)가 본의 아니게 정신적 고통의 파동을 방출했습니다! 막으려고 했지만, 불가능했습니다.\n\n근처의 생물은 극심한 고통을 경험할 겁니다. 효과는 며칠 동안 지속됩니다.</PsychicAgony.letterDesc>
+  <PsychicAgony.letterLabel>정신 고통</PsychicAgony.letterLabel>
+  <PsychicAgony.surgicalInspectionLetterExtra>{SURGEON_nameDef}(이)가 희미하지만 고통스러운 정신적 존재가 {PAWN_nameDef}에게서 나오는 것을 감지했지만 원인이 뭔지 알아내지 못했습니다.</PsychicAgony.surgicalInspectionLetterExtra>
+</LanguageData>

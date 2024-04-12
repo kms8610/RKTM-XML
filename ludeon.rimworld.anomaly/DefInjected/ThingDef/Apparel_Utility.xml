@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Apparel_BiomutationLance.label>biomutation lance</Apparel_BiomutationLance.label>
+  <Apparel_BiomutationLance.description>A limited-use psychic effector. It twists and reshapes the musculature of the target, causing them to transform into a terrifying creature.\n\nThis biomutation lance was crafted from a broken shard of dark archotechnology.</Apparel_BiomutationLance.description>
+  <Apparel_BiomutationLance.comps.CompApparelReloadable.chargeNoun>charge</Apparel_BiomutationLance.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_BiomutationLance.comps.CompApparelReloadable.cooldownGerund>on cooldown</Apparel_BiomutationLance.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_BiomutationLance.verbs.biomutation_lance.label>biomutation lance</Apparel_BiomutationLance.verbs.biomutation_lance.label>
+  
+  <Apparel_ShardPsychicInsanityLance.label>shard insanity lance</Apparel_ShardPsychicInsanityLance.label>
+  <Apparel_ShardPsychicInsanityLance.description>A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving them into a berserk state. There is a risk of brain damage.\n\nThis insanity lance was crafted from a broken shard of dark archotechnology. It has a shorter range than its non-shard based counterpart and it requires line of sight.</Apparel_ShardPsychicInsanityLance.description>
+  <Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>charge</Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>on cooldown</Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.label>shard insanity lance</Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.label>
+  <Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.invalidTargetPawn>psychic insanity immune</Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.invalidTargetPawn>
+  
+  <Apparel_ShardPsychicShockLance.label>shard shock lance</Apparel_ShardPsychicShockLance.label>
+  <Apparel_ShardPsychicShockLance.description>A limited-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage.\n\nThis shock lance was crafted from a broken shard of dark archotechnology. It has a shorter range than its non-shard based counterpart and it requires line of sight.</Apparel_ShardPsychicShockLance.description>
+  <Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.chargeNoun>charge</Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.cooldownGerund>on cooldown</Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.label>shard shock lance</Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.label>
+  <Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.invalidTargetPawn>psychic shock immune</Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.invalidTargetPawn>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Apparel_DeadlifePack.label>deadlife pack</Apparel_DeadlifePack.label>
+  <Apparel_DeadlifePack.description>A single-use pack that launches a capsule which explodes into deadlife dust. The dust animates human and animal corpses as shamblers that will only attack your enemies.\n\nDeadlife dust is composed of microscopic machine-like archites which hang in the air. Where they touch a corpse, they induce a chaotic and violent resurrection.</Apparel_DeadlifePack.description>
+  <Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>charge</Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>deploy deadlife dust</Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>
+  
+  <Apparel_DisruptorFlarePack.label>disruptor flare pack</Apparel_DisruptorFlarePack.label>
+  <Apparel_DisruptorFlarePack.description>A utility pack that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time.</Apparel_DisruptorFlarePack.description>
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>flare</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>on cooldown</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_DisruptorFlarePack.verbs.deploy_flare.label>deploy flare</Apparel_DisruptorFlarePack.verbs.deploy_flare.label>
+  
+  <Apparel_PackTurret.label>turret pack</Apparel_PackTurret.label>
+  <Apparel_PackTurret.description>A wearable pack that allows the user to deploy a battery-powered turret. The pack contains a propulsion device, letting the user launch the turret a short distance. These turrets are effective for flanking and distracting enemies. However, the turret's limited AI can't be directly controlled, so it can cause friendly fire incidents. The turret battery lasts for several hours.</Apparel_PackTurret.description>
+  <Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>charge</Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <Apparel_PackTurret.verbs.deploy_turret.label>deploy turret</Apparel_PackTurret.verbs.deploy_turret.label>
+  
+  <DisruptorFlare.label>disruptor flare</DisruptorFlare.label>
+  
+  <Grenade_Deadlife.label>deadlife capsule</Grenade_Deadlife.label>
+  
+  <Grenade_DisruptorFlare.label>disruptor flare</Grenade_DisruptorFlare.label>
+  
+  <Grenade_TurretPack.label>turret pack capsule</Grenade_TurretPack.label>
+</LanguageData>

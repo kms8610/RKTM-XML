@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ColdContainmentBonus.label>cold containment bonus</ColdContainmentBonus.label>
+  <ColdContainmentBonus.description>This entity is less likely to escape if kept in a very cold room.</ColdContainmentBonus.description>
+  
+  <ContainmentStrength.label>containment strength</ContainmentStrength.label>
+  <ContainmentStrength.description>How securely this can contain an entity. This is improved by stronger walls and doors, more light, fewer other entities in the room, and special containment devices. Some entities are easier to contain in cold temperatures.</ContainmentStrength.description>
+  <ContainmentStrength.offsetLabel>containment offset</ContainmentStrength.offsetLabel>
+  
+  <MinimumContainmentStrength.label>min containment strength</MinimumContainmentStrength.label>
+  <MinimumContainmentStrength.description>The containment strength needed to contain this entity properly. An entity in a chamber below its minimum containment strength will have a very high chance to escape.</MinimumContainmentStrength.description>
+</LanguageData>

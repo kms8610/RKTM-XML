@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DarkVisions.label>dark visions</DarkVisions.label>
+  <DarkVisions.baseInspectLine>Mental state: Dark visions</DarkVisions.baseInspectLine>
+  <DarkVisions.beginLetter>{PAWN_nameDef} has become overwhelmed with horrible visions, rambling about things that only {PAWN_pronoun} can see. {PAWN_pronoun} will snap out of it in a few hours.</DarkVisions.beginLetter>
+  <DarkVisions.beginLetterLabel>dark visions</DarkVisions.beginLetterLabel>
+  <DarkVisions.recoveryMessage>{PAWN_nameDef}'s dark visions have stopped.</DarkVisions.recoveryMessage>
+  
+  <EntityKiller.label>entity slayer</EntityKiller.label>
+  <EntityKiller.baseInspectLine>Mental state: Entity slayer</EntityKiller.baseInspectLine>
+  <EntityKiller.beginLetter>{0} has snapped. {PAWN_pronoun} can no longer tolerate holding such dangerous entities in captivity and intends to destroy as many as {PAWN_pronoun} can.</EntityKiller.beginLetter>
+  <EntityKiller.recoveryMessage>{0} is no longer slaughtering random entities.</EntityKiller.recoveryMessage>
+  
+  <EntityLiberator.label>entity liberator</EntityLiberator.label>
+  <EntityLiberator.baseInspectLine>Mental state: Entity liberator</EntityLiberator.baseInspectLine>
+  <EntityLiberator.beginLetter>{0} has become suddenly allured by a captive entity and is convinced it must be freed.</EntityLiberator.beginLetter>
+  <EntityLiberator.recoveryMessage>{0} is no longer freeing entities.</EntityLiberator.recoveryMessage>
+  
+  <InsaneRamblings.label>insane ramblings</InsaneRamblings.label>
+  <InsaneRamblings.baseInspectLine>Mental state: Insane ramblings</InsaneRamblings.baseInspectLine>
+  <InsaneRamblings.beginLetter>{PAWN_nameDef} has become completely untethered from reality, ranting about impossible subjects. {PAWN_pronoun} will snap out of it in a few hours.</InsaneRamblings.beginLetter>
+  <InsaneRamblings.beginLetterLabel>insane ramblings</InsaneRamblings.beginLetterLabel>
+  <InsaneRamblings.recoveryMessage>{PAWN_nameDef} has stopped rambling.</InsaneRamblings.recoveryMessage>
+  
+  <TerrifyingHallucinations.label>terrifying hallucinations</TerrifyingHallucinations.label>
+  <TerrifyingHallucinations.baseInspectLine>Mental state: Terrifying hallucinations</TerrifyingHallucinations.baseInspectLine>
+  <TerrifyingHallucinations.beginLetter>Vivid  hallucinations swirl around {0}, twisting and distorting allies into horrifying abominations. {PAWN_pronoun} will flee from anyone {PAWN_pronoun} perceives as a threat.</TerrifyingHallucinations.beginLetter>
+  <TerrifyingHallucinations.beginLetterLabel>terrifying hallucinations</TerrifyingHallucinations.beginLetterLabel>
+  <TerrifyingHallucinations.recoveryMessage>{0} is no longer hallucinating.</TerrifyingHallucinations.recoveryMessage>
+</LanguageData>

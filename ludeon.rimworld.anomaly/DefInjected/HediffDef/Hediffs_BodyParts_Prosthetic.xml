@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AdrenalHeart.label>adrenal heart</AdrenalHeart.label>
+  <AdrenalHeart.description>A modified human heart that can release stress hormones and liquid energy into the bloodstream, allowing a ghoul to move and attack at incredible speeds.</AdrenalHeart.description>
+  
+  <CorrosiveHeart.label>corrosive heart</CorrosiveHeart.label>
+  <CorrosiveHeart.description>A modified human heart that allows a ghoul to spray corrosive fluid.</CorrosiveHeart.description>
+  
+  <FleshWhip.label>flesh whip</FleshWhip.label>
+  <FleshWhip.description>A fleshy, muscled tentacle with a blade at the end. The flesh whip makes an excellent melee weapon.\n\nIt has its own neural structures and may become dangerous if removed.</FleshWhip.description>
+  <FleshWhip.comps.HediffComp_VerbGiver.tools.blade.label>blade</FleshWhip.comps.HediffComp_VerbGiver.tools.blade.label>
+  <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>Fleshmass operation</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>Attempting to remove {PAWN_nameDef}'s flesh whip has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast!</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshWhip.labelNoun>a flesh whip</FleshWhip.labelNoun>
+  
+  <FleshmassLung.label>fleshmass lung</FleshmassLung.label>
+  <FleshmassLung.description>A cancerous mass of semi-sentient flesh. The tissue constantly regrows and replaces itself, making it immune to effects like lung rot and asthma.\n\nThe organ has its own neural structures and may become dangerous if removed.</FleshmassLung.description>
+  <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>Fleshmass operation</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>Attempting to remove {PAWN_nameDef}'s fleshmass lung has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast!</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshmassLung.labelNoun>a fleshmass lung</FleshmassLung.labelNoun>
+  
+  <FleshmassStomach.label>fleshmass stomach</FleshmassStomach.label>
+  <FleshmassStomach.description>A cancerous mass of semi-sentient flesh. The harsh acid it produces is painful, but strong enough to prevent most food poisoning.\n\nThe organ has its own neural structures and may become dangerous if removed.</FleshmassStomach.description>
+  <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>Fleshmass operation</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>Attempting to remove {PAWN_nameDef}'s fleshmass stomach has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast!</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshmassStomach.labelNoun>a fleshmass stomach</FleshmassStomach.labelNoun>
+  
+  <GhoulBarbs.label>ghoul barbs</GhoulBarbs.label>
+  <GhoulBarbs.description>A number of barbed bioferrite spikes have been surgically attached to this ghoul.</GhoulBarbs.description>
+  <GhoulBarbs.renderNodeProperties.0.debugLabel>Ghoul spikes</GhoulBarbs.renderNodeProperties.0.debugLabel>
+  <GhoulBarbs.renderNodeProperties.1.debugLabel>Ghoul spikes</GhoulBarbs.renderNodeProperties.1.debugLabel>
+  
+  <GhoulPlating.label>ghoul plating</GhoulPlating.label>
+  <GhoulPlating.description>A number of large bioferrite plates have been surgically attached to this ghoul.</GhoulPlating.description>
+  <GhoulPlating.renderNodeProperties.0.debugLabel>Ghoul plates</GhoulPlating.renderNodeProperties.0.debugLabel>
+  
+  <MetalbloodHeart.label>metalblood heart</MetalbloodHeart.label>
+  <MetalbloodHeart.description>A modified human heart that can pump metalblood into the bloodstream, making the ghoul more resistant to damage for a short period of time.</MetalbloodHeart.description>
+  
+  <RevenantVertebrae.label>revenant vertebrae</RevenantVertebrae.label>
+  <RevenantVertebrae.description>An installed prosthetic that allows the user to temporarily become invisible. The prosthetic is crafted from a modified revenant spine, using archotech shards to restrain the dormant revenant. The user can manipulate the visual centers of those nearby, effectively turning themself invisible for a short time.</RevenantVertebrae.description>
+  
+  <Tentacle.label>flesh tentacle</Tentacle.label>
+  <Tentacle.description>A fleshy, muscled tentacle resembling a partial transformation into a fleshbeast. The tentacle is excellent at manipulation.\n\nThe flesh tentacle has its own neural structures and may become dangerous if removed.</Tentacle.description>
+  <Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>Fleshmass operation</Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>Attempting to remove {PAWN_nameDef}'s tentacle has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast!</Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>
+  <Tentacle.labelNoun>a flesh tentacle</Tentacle.labelNoun>
+</LanguageData>

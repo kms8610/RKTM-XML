@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AgonyPulse.label>agony pulse</AgonyPulse.label>
+  <AgonyPulse.description>Generate a pulse of psychic pain emanating from a target location.</AgonyPulse.description>
+  
+  <ConsumeLeap_Devourer.label>consume leap</ConsumeLeap_Devourer.label>
+  <ConsumeLeap_Devourer.description>Leap onto a target and begin digesting it.</ConsumeLeap_Devourer.description>
+  <ConsumeLeap_Devourer.verbProperties.label>consume leap</ConsumeLeap_Devourer.verbProperties.label>
+  
+  <CorrosiveSpray.label>corrosive spray</CorrosiveSpray.label>
+  <CorrosiveSpray.description>Use the corrosive heart to spray acid a short distance. The heart pumps the corrosive fluid through a surgically implanted duct, allowing the ghoul to spew it from their mouth at high velocity.</CorrosiveSpray.description>
+  
+  <EntitySkip.label>entity skip</EntitySkip.label>
+  <EntitySkip.description>Teleport to a target destination.</EntitySkip.description>
+  
+  <FleshmelterBolt.label>fleshmelter bolt</FleshmelterBolt.label>
+  <FleshmelterBolt.description>Launch a large bolt of energy which generates a high-temperature explosion.</FleshmelterBolt.description>
+  
+  <GhoulFrenzy.label>ghoul frenzy</GhoulFrenzy.label>
+  <GhoulFrenzy.description>Use the adrenal heart to saturate the bloodstream with stress hormones and liquid energy, permitting the ghoul to move and attack at incredible speeds for a short time.</GhoulFrenzy.description>
+  
+  <Heatspikes.label>heatspikes</Heatspikes.label>
+  <Heatspikes.description>Fire a burst of low-accuracy energy bolts.</Heatspikes.description>
+  
+  <MetalbloodInjection.label>metalblood injection</MetalbloodInjection.label>
+  <MetalbloodInjection.description>Use the metalblood heart to release metalblood serum into the bloodstream, reducing incoming damage for a short period of time.</MetalbloodInjection.description>
+  
+  <PsychicSlaughter.label>psychic slaughter</PsychicSlaughter.label>
+  <PsychicSlaughter.description>Use dark psychic power to induce chaotic reconfiguration of flesh. This kills a flesh creature in seconds and converts its body into a pile of twisted flesh.</PsychicSlaughter.description>
+  
+  <ReleaseDeadlifeDust.label>release deadlife dust</ReleaseDeadlifeDust.label>
+  <ReleaseDeadlifeDust.description>Release a cloud of dust-like substance that will settle on nearby corpses and raise them as shamblers. The shamblers will only attack your enemies. Deadlife dust is made of nano-scale archites that penetrate and reanimate dead tissue at the cellular level.</ReleaseDeadlifeDust.description>
+  <ReleaseDeadlifeDust.verbProperties.label>release deadlife dust</ReleaseDeadlifeDust.verbProperties.label>
+  
+  <RevenantInvisibility.label>revenant invisibility</RevenantInvisibility.label>
+  <RevenantInvisibility.description>Use the revenant vertebrae to temporarily turn invisible. The prosthetic manipulates the visual centers of those nearby, letting the user pass unnoticed.</RevenantInvisibility.description>
+  
+  <ShapeFlesh.label>shape flesh</ShapeFlesh.label>
+  <ShapeFlesh.description>Induce a dark archotech to reconfigure a corpse into a horrendous fleshbeast. The fleshbeast will be hostile to all humans, including the one who created it.</ShapeFlesh.description>
+  
+  <SpikeLaunch_Fingerspike.label>spike launch</SpikeLaunch_Fingerspike.label>
+  <SpikeLaunch_Fingerspike.description>Launch a bone spike at a target.</SpikeLaunch_Fingerspike.description>
+  
+  <SpikeLaunch_Toughspike.label>spike launch</SpikeLaunch_Toughspike.label>
+  <SpikeLaunch_Toughspike.description>Launch a bone spike at a target.</SpikeLaunch_Toughspike.description>
+  
+  <SpineLaunch_Gorehulk.label>spine launch</SpineLaunch_Gorehulk.label>
+  <SpineLaunch_Gorehulk.description>Launch a keratin spine at a target to do damage.</SpineLaunch_Gorehulk.description>
+  
+  <TransmuteSteel.label>transmute steel</TransmuteSteel.label>
+  <TransmuteSteel.description>Reconfigure steel at the atomic level, turning it into a random valuable material. Can target a stack of steel or a steel slag chunk.</TransmuteSteel.description>
+  <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Must target steel, steel slag chunks, steel buildings, or steel items.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
+  
+  <UnnaturalCorpseSkip.label>entity skip</UnnaturalCorpseSkip.label>
+  <UnnaturalCorpseSkip.description>Teleport to a target destination.</UnnaturalCorpseSkip.description>
+  
+  <UnnaturalHealing.label>unnatural healing</UnnaturalHealing.label>
+  <UnnaturalHealing.description>Use dark psychic influence to heal someone. The process will stop bleeding, restore blood loss, and can even heal significant injuries. However, it may also have unexpected side effects.</UnnaturalHealing.description>
+  
+  <VoidTerror.label>void terror</VoidTerror.label>
+  <VoidTerror.description>Psychically induce terrifying hallucinations, causing a person to flee in terror.</VoidTerror.description>
+</LanguageData>

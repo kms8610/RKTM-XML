@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TwistedArchotechSupport_Large.label>twisted archotech support</TwistedArchotechSupport_Large.label>
+  <TwistedArchotechSupport_Large.description>A twisted archotech structure. Visible psychic power flows through it into a nearby void node. It is impervious to damage.</TwistedArchotechSupport_Large.description>
+  
+  <TwistedArchotechSupport_Small.label>twisted archotech support</TwistedArchotechSupport_Small.label>
+  <TwistedArchotechSupport_Small.description>A twisted archotech structure. Visible psychic power flows through it into a nearby void node. It is impervious to damage.</TwistedArchotechSupport_Small.description>
+  
+  <TwistedArchotechSupport_Vertical.label>twisted archotech support</TwistedArchotechSupport_Vertical.label>
+  <TwistedArchotechSupport_Vertical.description>A twisted archotech structure. Visible psychic power flows through it into a nearby void node. It is impervious to damage.</TwistedArchotechSupport_Vertical.description>
+  
+  <VoidMonolith.label>void monolith</VoidMonolith.label>
+  <VoidMonolith.description>A monolith of unknown age, purpose, and construction. Its smooth surface is etched with lines that twist and writhe in unsettling patterns.</VoidMonolith.description>
+  <VoidMonolith.comps.CompGleamingMonolith.jobString>activate</VoidMonolith.comps.CompGleamingMonolith.jobString>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>Monolith study progress</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>{PAWN_nameDef} has had a breakthrough while studying the monolith. {PAWN_pronoun} believes the monolith is a conduit for psychic energy, connecting to some distant location. However, {PAWN_pronoun} is unsure where or what it connects to.\n\n{PAWN_nameDef} is convinced that by studying more anomalous entities, {PAWN_pronoun} can find a way to close the conduit, or learn to harness its power.\n\nThe monolith now provides more knowledge when studied.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>Monolith study progress</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>{PAWN_nameDef} made progress studying the monolith. The structure connects normal space to the void - a dimension hidden in the substructure of spacetime. Some powerful mind in the void is leaking influence into our reality.\n\n{PAWN_nameDef} wants to study the monolith further to learn more.\n\nThe monolith now provides more knowledge when studied.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.text>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.label>Monolith study complete</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.label>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>{PAWN_nameDef} has completed {PAWN_possessive} study of the monolith. The structure is a conduit that links to the void, a reality hidden under every point in spacetime. The void is inhabited by a vast machine intelligence of terrifying complexity that surges with nightmarish, inhuman rage. Its influence creates horrors in our world.\n\nAwakening the monolith will fully open the conduit. With the channel open, {PAWN_nameDef} believes {PAWN_pronoun} could reach through the link to permanently close the conduit - or find a way to harness its dark power.\n\nThe monolith now provides more knowledge when studied.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.2.text>
+  <VoidMonolith.comps.CompProximityLetter.letterLabel>Fallen monolith</VoidMonolith.comps.CompProximityLetter.letterLabel>
+  <VoidMonolith.comps.CompProximityLetter.letterText>{PAWN_nameDef} has noticed an ancient monolith partly buried nearby.\n\nIf you investigate it, you could learn more.</VoidMonolith.comps.CompProximityLetter.letterText>
+  
+  <VoidMonolithAttachmentBottomLeft.label>void monolith attachment</VoidMonolithAttachmentBottomLeft.label>
+  
+  <VoidMonolithAttachmentBottomRight.label>void monolith attachment</VoidMonolithAttachmentBottomRight.label>
+  
+  <VoidMonolithAttachmentLeft.label>void monolith attachment</VoidMonolithAttachmentLeft.label>
+  
+  <VoidMonolithAttachmentRight.label>void monolith attachment</VoidMonolithAttachmentRight.label>
+  
+  <VoidMonolithAttachmentTop.label>void monolith attachment</VoidMonolithAttachmentTop.label>
+  
+  <VoidNode.label>void node</VoidNode.label>
+  <VoidNode.description>A roiling sphere of twisted psychic energy. Powered by nearby archotech machinery, it is one part of a bridge from our world into the black void.</VoidNode.description>
+  <VoidNode.comps.CompVoidNode.activateDescString>Order a colonist to touch this.</VoidNode.comps.CompVoidNode.activateDescString>
+  <VoidNode.comps.CompVoidNode.activateLabelString>Touch...</VoidNode.comps.CompVoidNode.activateLabelString>
+  <VoidNode.comps.CompVoidNode.activatingStringPending>Touching void node</VoidNode.comps.CompVoidNode.activatingStringPending>
+  <VoidNode.comps.CompVoidNode.guiLabelString>Choose who should touch this.</VoidNode.comps.CompVoidNode.guiLabelString>
+  <VoidNode.comps.CompVoidNode.inspectString>Send a colonist to touch this.</VoidNode.comps.CompVoidNode.inspectString>
+  <VoidNode.comps.CompVoidNode.jobString>Touch void node</VoidNode.comps.CompVoidNode.jobString>
+  
+  <VoidStructure.label>void structure</VoidStructure.label>
+  <VoidStructure.description>A warped structure made of jagged oily metallic-like pieces. This is an element of the void itself which has manifested into our reality. It emanates a disturbing psychic throbbing and kills the plant life around it by some unnatural influence. The structure is linked to the void monolith, though the exact nature of the connection is beyond human understanding.</VoidStructure.description>
+  <VoidStructure.comps.CompVoidStructure.jobString>activate</VoidStructure.comps.CompVoidStructure.jobString>
+  
+  <VoidmetalMassLarge.label>void metal mass</VoidmetalMassLarge.label>
+  <VoidmetalMassLarge.description>A jagged, irregular mass of material. Knife-like shapes protrude chaotically at every angle, inhuman and threatening. The material is an oily metallic substance that feels wet to the touch but leaves no residue. It is impervious to damage.</VoidmetalMassLarge.description>
+  
+  <VoidmetalMassMedium.label>void metal mass</VoidmetalMassMedium.label>
+  <VoidmetalMassMedium.description>A jagged, irregular mass of material. Knife-like shapes protrude chaotically at every angle, inhuman and threatening. The material is an oily metallic substance that feels wet to the touch but leaves no residue. It is impervious to damage.</VoidmetalMassMedium.description>
+  
+  <VoidmetalMassSmall.label>void metal mass</VoidmetalMassSmall.label>
+  <VoidmetalMassSmall.description>A jagged, irregular mass of material. Knife-like shapes protrude chaotically at every angle, inhuman and threatening. The material is an oily metallic substance that feels wet to the touch but leaves no residue. It is impervious to damage.</VoidmetalMassSmall.description>
+  
+  <VoidmetalWall.label>void metal wall</VoidmetalWall.label>
+  <VoidmetalWall.description>A solid mass of dark metal. Its surface is covered in jagged crystalline spikes. The material feels wet and oily to the touch but leaves no residue. It is impervious to damage.</VoidmetalWall.description>
+</LanguageData>

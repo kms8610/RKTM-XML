@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AwokenCorpse.label>awoken corpse</AwokenCorpse.label>
+  
+  <Ghoul.label>ghoul</Ghoul.label>
+  <Ghoul.description>A person who has been turned into a ghoul.\n\nAbout ghouls: Ghouls are engineered murder machines, twisted by dark psychic influences.\n\nGhouls are very dangerous in melee combat. However, the process of their creation leaves them incapable of higher levels of thought, preventing them from holding weapons or tools. They cannot work and outside combat they wander in a half-conscious stupor.\n\nMany people find the constant twitching of ghouls disturbing. More disturbing is their dependence on raw meat. If they go hungry they will turn hostile, even attacking their creators to sate their hunger.</Ghoul.description>
+  <Ghoul.deathLetter>One of your ghouls has died.</Ghoul.deathLetter>
+  <Ghoul.deathLetterExtra>Unlike regular colonists, ghouls do not need to be buried and their death will not upset others. You may choose to bury them should you wish.</Ghoul.deathLetterExtra>
+  <Ghoul.tools.teeth.label>teeth</Ghoul.tools.teeth.label>
+  <Ghoul.tools.left_claw.label>left claw</Ghoul.tools.left_claw.label>
+  <Ghoul.tools.left_claw.labelNoLocation>claw</Ghoul.tools.left_claw.labelNoLocation>
+  <Ghoul.tools.right_claw.label>right claw</Ghoul.tools.right_claw.label>
+  <Ghoul.tools.right_claw.labelNoLocation>claw</Ghoul.tools.right_claw.labelNoLocation>
+  
+  <Shambler.label>shambler</Shambler.label>
+  <Shambler.description>A creature who has been raised from the dead by corrupted nano-scale archites.\n\nAbout shamblers: Shamblers are corpses which have been reanimated by archotechnology. They attack living creatures relentlessly and their immunity to pain makes them difficult to kill. However, the archites which animate them cannot sustain the rotting body for long, so shamblers expire after a few days of movement.\n\nThere are ways to raise your own shamblers and make yourself invisible to them, so they attack only outsiders.</Shambler.description>
+  <Shambler.namePrefix>shambler </Shambler.namePrefix>
+  <Shambler.renderNodeProperties.0.debugLabel>Shambler wounds</Shambler.renderNodeProperties.0.debugLabel>
+  <Shambler.renderNodeProperties.1.debugLabel>Shambler wounds</Shambler.renderNodeProperties.1.debugLabel>
+  <Shambler.tools.teeth.label>teeth</Shambler.tools.teeth.label>
+  <Shambler.tools.left_hand.label>left hand</Shambler.tools.left_hand.label>
+  <Shambler.tools.left_hand.labelNoLocation>hand</Shambler.tools.left_hand.labelNoLocation>
+  <Shambler.tools.right_hand.label>right hand</Shambler.tools.right_hand.label>
+  <Shambler.tools.right_hand.labelNoLocation>hand</Shambler.tools.right_hand.labelNoLocation>
+</LanguageData>

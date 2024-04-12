@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BrainwipeTarget.label>target</BrainwipeTarget.label>
+  
+  <Chanter.label>chanter</Chanter.label>
+  <Chanter.description>Chanters add psychic power to the ritual.</Chanter.description>
+  
+  <ChanterAdvanced.label>chanter</ChanterAdvanced.label>
+  <ChanterAdvanced.description>Chanters add psychic power to the ritual.</ChanterAdvanced.description>
+  
+  <ChronophagyTarget.label>target</ChronophagyTarget.label>
+  
+  <DeathRefusalTarget.label>target</DeathRefusalTarget.label>
+  <DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>{PAWN_labelShort} cannot have any more death refusals stacked</DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>
+  
+  <Defender.label>defenders</Defender.label>
+  <Defender.description>Defenders protect the ritual participants from harm.</Defender.description>
+  
+  <Invoker.label>invoker</Invoker.label>
+  
+  <PhilophagyTarget.label>target</PhilophagyTarget.label>
+  
+  <PsychophagyTarget.label>target</PsychophagyTarget.label>
+</LanguageData>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AtmosphericHeater.label>atmospheric heater</AtmosphericHeater.label>
+  <AtmosphericHeater.description>A thermal projection device powered by scavenged shards of dark archotechnology. The device burns bioferrite to agitate gas molecules in the atmosphere, raising the local outdoor temperature. The building itself also produces huge amounts of waste heat.</AtmosphericHeater.description>
+  <AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>Target outdoor temperature</AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>
+  
+  <Bullet_TacticalTurret.label>tactical turret bullet</Bullet_TacticalTurret.label>
+  
+  <DelayedMetalhorrorEmerger.label>delayed metalhorror emerge</DelayedMetalhorrorEmerger.label>
+  
+  <DirtCubeSculpture.label>dirt cube sculpture</DirtCubeSculpture.label>
+  <DirtCubeSculpture.description>A hastily constructed sculpture resembling a cube.</DirtCubeSculpture.description>
+  
+  <ElectricInhibitor.label>electric inhibitor</ElectricInhibitor.label>
+  <ElectricInhibitor.description>A device that emits a specially tuned electromagnetic field which numbs the neural activity of captured entities. As long as it is powered, it improves the containment strength of any holding platform that it is pointed at. The electric field does not affect humans or normal animals.</ElectricInhibitor.description>
+  
+  <EndlessPit2x2c.label>endless pit</EndlessPit2x2c.label>
+  <EndlessPit2x2c.description>A smooth-sided hole that extends endlessly downwards.</EndlessPit2x2c.description>
+  
+  <EndlessPit3x2c.label>endless pit</EndlessPit3x2c.label>
+  <EndlessPit3x2c.description>A smooth-sided hole that extends endlessly downwards.</EndlessPit3x2c.description>
+  
+  <EndlessPit3x3c.label>endless pit</EndlessPit3x3c.label>
+  <EndlessPit3x3c.description>A smooth-sided hole that extends endlessly downwards.</EndlessPit3x3c.description>
+  
+  <FloorEtching.label>floor etching</FloorEtching.label>
+  <FloorEtching.description>A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it.</FloorEtching.description>
+  <FloorEtching.comps.CompFloorEtching.activateDescString>Choose someone to decipher this floor etching.</FloorEtching.comps.CompFloorEtching.activateDescString>
+  <FloorEtching.comps.CompFloorEtching.activateLabelString>Decipher...</FloorEtching.comps.CompFloorEtching.activateLabelString>
+  <FloorEtching.comps.CompFloorEtching.activatingString>Deciphering floor etching: {1}s</FloorEtching.comps.CompFloorEtching.activatingString>
+  <FloorEtching.comps.CompFloorEtching.activatingStringPending>Deciphering floor etching</FloorEtching.comps.CompFloorEtching.activatingStringPending>
+  <FloorEtching.comps.CompFloorEtching.guiLabelString>Choose who should do this</FloorEtching.comps.CompFloorEtching.guiLabelString>
+  <FloorEtching.comps.CompFloorEtching.inspectString>Send a colonist to decipher this.</FloorEtching.comps.CompFloorEtching.inspectString>
+  <FloorEtching.comps.CompFloorEtching.jobString>Decipher floor etching</FloorEtching.comps.CompFloorEtching.jobString>
+  <FloorEtching.comps.CompFloorEtching.messageCompletedString>{PAWN_nameDef} has successfully deciphered the floor etching.</FloorEtching.comps.CompFloorEtching.messageCompletedString>
+  
+  <FloorEtchingRambling.label>floor etching</FloorEtchingRambling.label>
+  <FloorEtchingRambling.description>A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it.</FloorEtchingRambling.description>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>Choose someone to decipher this floor etching.</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>Decipher...</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>Deciphering floor etching: {1}s</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>Deciphering floor etching</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>Choose who should do this</FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>Send a colonist to decipher this.</FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>Decipher floor etching</FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>{PAWN_nameDef} has successfully deciphered the floor etching.</FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>
+  
+  <FrenzyInducer.label>frenzy inducer</FrenzyInducer.label>
+  <FrenzyInducer.description>A scavenged archotech shard mounted in an electrical stimulation frame. The device creates a frenzied psychic vibration in the local area which stimulates everyone nearby to move and work faster. However, any mental breaks they have are guaranteed to be violent.</FrenzyInducer.description>
+  
+  <GrayBox.label>gray box</GrayBox.label>
+  <GrayBox.description>A strange gray container. It is featureless and the surfaces are smooth. The material is not metal, concrete, or any other identifiable material.</GrayBox.description>
+  
+  <GrayDoor.label>door</GrayDoor.label>
+  <GrayDoor.description>A strange gray door.</GrayDoor.description>
+  <GrayDoor.comps.CompLabyrinthDoor.activateDescString>Choose someone to force this door open.</GrayDoor.comps.CompLabyrinthDoor.activateDescString>
+  <GrayDoor.comps.CompLabyrinthDoor.activateLabelString>Force open...</GrayDoor.comps.CompLabyrinthDoor.activateLabelString>
+  <GrayDoor.comps.CompLabyrinthDoor.activatingString>forcing door open: {1}s</GrayDoor.comps.CompLabyrinthDoor.activatingString>
+  <GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>forcing door open</GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>
+  <GrayDoor.comps.CompLabyrinthDoor.guiLabelString>Choose who should do this</GrayDoor.comps.CompLabyrinthDoor.guiLabelString>
+  <GrayDoor.comps.CompLabyrinthDoor.jobString>Force this door open</GrayDoor.comps.CompLabyrinthDoor.jobString>
+  <GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>{PAWN_nameDef} has successfully forced the door open.</GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>
+  
+  <GrayStatueDeadlifeDust.label>gray statue</GrayStatueDeadlifeDust.label>
+  <GrayStatueDeadlifeDust.description>A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy.</GrayStatueDeadlifeDust.description>
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>Gray statue activated</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>Reacting to {PAWN_nameDef}'s presence, the strange statue has begun to release a cloud of deadlife dust!\n\nThis dust-like substance will settle on nearby corpses and raise them as dangerous shamblers.</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>
+  
+  <GrayStatueTeleporter.label>gray statue</GrayStatueTeleporter.label>
+  <GrayStatueTeleporter.description>A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy.</GrayStatueTeleporter.description>
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>{PAWN_nameDef} teleported</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>After approaching the strange statue, {PAWN_nameDef} blinked and found {PAWN_objective}self transported to a new location.</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>
+  
+  <GrayWall.label>wall</GrayWall.label>
+  <GrayWall.description>An impassable gray wall.</GrayWall.description>
+  
+  <Gun_TacticalTurret.label>tactical turret gun</Gun_TacticalTurret.label>
+  <Gun_TacticalTurret.description>A simple automatic gun made to be mounted on a turret.</Gun_TacticalTurret.description>
+  <Gun_TacticalTurret.verbs.Verb_Shoot.label>tactical turret gun</Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  
+  <HoldingPlatform.label>holding platform</HoldingPlatform.label>
+  <HoldingPlatform.description>A platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for Anomaly knowledge. Increase containment strength by building strong walls and doors, and other special containment devices.</HoldingPlatform.description>
+  
+  <HoldingSpot.label>holding spot</HoldingSpot.label>
+  <HoldingSpot.description>A spot for holding dangerous entities. Not as good as a steel holding platform, but a lot better than nothing.\n\nDowned entities can be secured at a holding spot where they can be studied. Increase containment strength by building strong walls and doors, and other special containment devices.</HoldingSpot.description>
+  
+  <Noctolith.label>noctolith</Noctolith.label>
+  <Noctolith.description>A twisted pillar of jagged blade-like structures made of dark, oily metal. It pulses with energy, powered by dark archotechnology at its core.\n\nIf you destroy the pillar, you can recover a shard of dark archotech.</Noctolith.description>
+  <Noctolith.comps.CompInspectString.inspectString>Contains: Unknown\nDestroy noctoliths to end the unnatural darkness.</Noctolith.comps.CompInspectString.inspectString>
+  
+  <PitBurrow.label>pit burrow</PitBurrow.label>
+  <PitBurrow.description>A small hole connecting to some unseen cave network deep under the surface. The walls are too steep to climb. It is inherently unstable and will collapse after some time.</PitBurrow.description>
+  
+  <PitBurrowSpawner.label>underground emergence</PitBurrowSpawner.label>
+  <PitBurrowSpawner.description>Something is emerging from the ground here.</PitBurrowSpawner.description>
+  
+  <PitGate.label>pit gate</PitGate.label>
+  <PitGate.description>A massive, foreboding hole that connects the surface with a dark network of underground caves. It is possible to climb down into the caverns below.</PitGate.description>
+  
+  <PitGateExit.label>pit gate exit</PitGateExit.label>
+  <PitGateExit.description>A rope line which links to the surface above.</PitGateExit.description>
+  
+  <PitGateSpawner.label>underground emergence</PitGateSpawner.label>
+  <PitGateSpawner.description>Something is emerging from the ground here.</PitGateSpawner.description>
+  <PitGateSpawner.building.groundSpawnerLetterLabel>Pit gate opened</PitGateSpawner.building.groundSpawnerLetterLabel>
+  <PitGateSpawner.building.groundSpawnerLetterText>The shifting terrain has fallen into the depths below, forming a massive hole.\n\nThis pit gate will remain open until you collapse its entrance. Explore the pit gate to find a way to collapse it from underneath and to find useful items in the undercaves.</PitGateSpawner.building.groundSpawnerLetterText>
+  
+  <ProximityDetector.label>proximity detector</ProximityDetector.label>
+  <ProximityDetector.description>A scanner capable of detecting invisible creatures. The device raises an alarm when it detects the presence of psychically invisible biosignatures within its radius.</ProximityDetector.description>
+  
+  <SandCubeSculpture.label>sand cube sculpture</SandCubeSculpture.label>
+  <SandCubeSculpture.description>A hastily constructed sculpture resembling a cube.</SandCubeSculpture.description>
+  
+  <ScrapCubeSculpture.label>scrap cube sculpture</ScrapCubeSculpture.label>
+  <ScrapCubeSculpture.description>A hastily constructed sculpture resembling a cube.</ScrapCubeSculpture.description>
+  
+  <SecurityDoor.label>security door</SecurityDoor.label>
+  <SecurityDoor.description>A heavily reinforced door. It is slow to open and requires electricity, but is very strong. It's a good choice if you want to keep something dangerous out - or in. The door requires walls on either side to function.</SecurityDoor.description>
+  
+  <ShardInhibitor.label>shard inhibitor</ShardInhibitor.label>
+  <ShardInhibitor.description>A shard of dark archotechnology that resonates with psychic energy, increasing the containment strength of any holding platform or spot within its radius.\n\nThe effect does not stack.</ShardInhibitor.description>
+  
+  <SleepSuppressor.label>sleep suppressor</SleepSuppressor.label>
+  <SleepSuppressor.description>A scavenged archotech shard mounted in an electrical control frame. The device creates a psychic pulsation in the local area which alters the brain chemistry of those nearby, halting the buildup of fatigue toxins and removing the need for sleep. However, it also irritates anyone nearby.</SleepSuppressor.description>
+  
+  <StoneCubeSculpture.label>stone cube sculpture</StoneCubeSculpture.label>
+  <StoneCubeSculpture.description>A hastily constructed sculpture resembling a cube.</StoneCubeSculpture.description>
+  
+  <TrapIED_Deadlife.label>IED deadlife trap</TrapIED_Deadlife.label>
+  <TrapIED_Deadlife.description>A pair of deadlife shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe trap needs corpses nearby to be raised by the deadlife dust.</TrapIED_Deadlife.description>
+  
+  <Turret_TacticalTurret.label>tactical turret</Turret_TacticalTurret.label>
+  <Turret_TacticalTurret.description>A short-range turret. It will stop functioning once its battery runs out. If damaged sufficiently, it may explode.</Turret_TacticalTurret.description>
+  <Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>Battery power</Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+  <Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>This turret has a limited battery life. Once it runs out, it will stop working entirely.</Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+</LanguageData>

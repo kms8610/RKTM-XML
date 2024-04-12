@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_Shell_AcidSpit.label>acid spit</Bullet_Shell_AcidSpit.label>
+  
+  <FleshSack.label>flesh sack</FleshSack.label>
+  <FleshSack.description>A swollen lump of flesh with something inside. These stationary fleshbeasts act as digestive organs, supplying the surrounding fleshmass with nutrients. However, they're unable to break down non-organic matter, meaning that valuable items can occasionally be found within.</FleshSack.description>
+  
+  <Fleshbulb.label>fleshbulb</Fleshbulb.label>
+  <Fleshbulb.description>A bulbous mass of flesh. These fleshbeast organs store and refine nutrients for surrounding fleshmass. The chemical process generates a soft bioluminescent glow.</Fleshbulb.description>
+  
+  <Fleshmass.label>fleshmass</Fleshmass.label>
+  <Fleshmass.description>A solid mass of twisted flesh. It throbs and shivers with horrible life.</Fleshmass.description>
+  
+  <FleshmassHeart.label>fleshmass heart</FleshmassHeart.label>
+  <FleshmassHeart.description>The primary organ of a fleshmass infestation. The heart gathers material through roots extended into the ground. Once it has collected enough, it spreads fleshmass around itself in a spurt of cancer-like growth. It will keep growing until it consumes everything.\n\nThe heart grows fleshmass spitters. These defensive organs can spit acid long distances. The heart will also generate fleshbeast defenders to protect itself.\n\nUltra-rapid regeneration makes the heart nearly invulnerable. It can only be killed by analyzing samples taken from the nerve bundles that form within its growing mass.</FleshmassHeart.description>
+  <FleshmassHeart.comps.CompDestroyHeart.activateDescString>Use electrical pulses to induce a tachycardiac overload and kill the fleshmass heart.</FleshmassHeart.comps.CompDestroyHeart.activateDescString>
+  <FleshmassHeart.comps.CompDestroyHeart.activateLabelString>Induce tachycardiac death...</FleshmassHeart.comps.CompDestroyHeart.activateLabelString>
+  <FleshmassHeart.comps.CompDestroyHeart.activatingString>Inducing tachycardiac death: {1}s</FleshmassHeart.comps.CompDestroyHeart.activatingString>
+  <FleshmassHeart.comps.CompDestroyHeart.activatingStringPending>Inducing tachycardiac death</FleshmassHeart.comps.CompDestroyHeart.activatingStringPending>
+  <FleshmassHeart.comps.CompDestroyHeart.guiLabelString>Choose who should do this</FleshmassHeart.comps.CompDestroyHeart.guiLabelString>
+  <FleshmassHeart.comps.CompDestroyHeart.jobString>Induce tachycardiac death</FleshmassHeart.comps.CompDestroyHeart.jobString>
+  
+  <FleshmassHeartSpawner.label>underground emergence</FleshmassHeartSpawner.label>
+  <FleshmassHeartSpawner.description>Something is emerging from the ground here.</FleshmassHeartSpawner.description>
+  <FleshmassHeartSpawner.building.groundSpawnerLetterLabel>Fleshmass heart</FleshmassHeartSpawner.building.groundSpawnerLetterLabel>
+  <FleshmassHeartSpawner.building.groundSpawnerLetterText>A fleshmass heart has emerged! This cancer-like creature will expand its living mass across the surface.\n\nThe heart itself is invulnerable to normal weapons. Fleshmass nerve bundles will soon appear - attack them to gather samples and find a way to kill the heart.</FleshmassHeartSpawner.building.groundSpawnerLetterText>
+  
+  <FleshmassSpitter.label>fleshmass spitter</FleshmassSpitter.label>
+  <FleshmassSpitter.description>A defensive fleshmass organ that can spit acid long distances. The acid is a natural byproduct of toxins filtered from the surrounding biomass.</FleshmassSpitter.description>
+  <FleshmassSpitter.verbs.Verb_Shoot.label>fleshmass spitter</FleshmassSpitter.verbs.Verb_Shoot.label>
+  
+  <Fleshmass_Active.label>fleshmass</Fleshmass_Active.label>
+  <Fleshmass_Active.description>A solid mass of twisted flesh. It throbs and shivers with horrible life.</Fleshmass_Active.description>
+  
+  <NerveBundle.label>nerve bundle</NerveBundle.label>
+  <NerveBundle.description>A junction point in the fleshmass nervous system. When destroyed, it leaves behind a lump of neural tissue that you can study. Study enough different neural lumps and you can unlock a way to kill the fleshmass heart itself.</NerveBundle.description>
+  <NerveBundle.comps.CompInspectString.inspectString>Kill to collect: Neural lump</NerveBundle.comps.CompInspectString.inspectString>
+</LanguageData>

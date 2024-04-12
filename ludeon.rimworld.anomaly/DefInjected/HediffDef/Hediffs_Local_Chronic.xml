@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OrganDecayCreepjoiner.label>organ decay</OrganDecayCreepjoiner.label>
+  <OrganDecayCreepjoiner.description>An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ.</OrganDecayCreepjoiner.description>
+  <OrganDecayCreepjoiner.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}'s {1} was destroyed by organ decay.</OrganDecayCreepjoiner.comps.HediffComp_DestroyOrgan.messageText>
+  <OrganDecayCreepjoiner.stages.minor.label>minor</OrganDecayCreepjoiner.stages.minor.label>
+  <OrganDecayCreepjoiner.stages.moderate.label>moderate</OrganDecayCreepjoiner.stages.moderate.label>
+  <OrganDecayCreepjoiner.stages.severe.label>severe</OrganDecayCreepjoiner.stages.severe.label>
+  <OrganDecayCreepjoiner.stages.extreme.label>extreme</OrganDecayCreepjoiner.stages.extreme.label>
+  
+  <OrganDecayUndiagnosedCreepjoiner.label>organ decay</OrganDecayUndiagnosedCreepjoiner.label>
+  <OrganDecayUndiagnosedCreepjoiner.description>An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ.</OrganDecayUndiagnosedCreepjoiner.description>
+  <OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days.</OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} can no longer hide {PAWN_possessive} crippling condition. {PAWN_possessive} body is riddled with rotting organs - {PAWN_pronoun} is little more than a walking corpse. {PAWN_nameDef} has organ decay affecting the following body parts:\n\n{ORGANS}\n\nReplace the organs soon to keep {PAWN_nameDef} healthy. You can use bionic organs or natural ones taken from donors.</OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
+  <OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>Organ decay: {PAWN_nameDef}</OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>
+  <OrganDecayUndiagnosedCreepjoiner.stages.diagnosed.label>diagnosed</OrganDecayUndiagnosedCreepjoiner.stages.diagnosed.label>
+  
+  <OrganDecayUndiagnosedDuplicaton.label>organ decay</OrganDecayUndiagnosedDuplicaton.label>
+  <OrganDecayUndiagnosedDuplicaton.description>An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ.</OrganDecayUndiagnosedDuplicaton.description>
+  <OrganDecayUndiagnosedDuplicaton.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days.</OrganDecayUndiagnosedDuplicaton.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <OrganDecayUndiagnosedDuplicaton.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} can no longer hide {PAWN_possessive} crippling condition. The duplication process has left {PAWN_possessive} body riddled with rotting organs. {PAWN_nameDef} has organ decay affecting the following body parts:\n\n{ORGANS}\n\nReplace the organs soon to keep {PAWN_nameDef} healthy. You can use bionic organs or natural ones taken from donors.</OrganDecayUndiagnosedDuplicaton.comps.HediffComp_ReplaceHediff.letterDesc>
+  <OrganDecayUndiagnosedDuplicaton.comps.HediffComp_ReplaceHediff.letterLabel>Organ decay: {PAWN_nameDef}</OrganDecayUndiagnosedDuplicaton.comps.HediffComp_ReplaceHediff.letterLabel>
+  <OrganDecayUndiagnosedDuplicaton.stages.diagnosed.label>diagnosed</OrganDecayUndiagnosedDuplicaton.stages.diagnosed.label>
+</LanguageData>

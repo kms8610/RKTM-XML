@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Digested.label>digestion</Digested.label>
+  <Digested.description>This part has been digested.</Digested.description>
+  <Digested.injuryProps.destroyedLabel>Digested</Digested.injuryProps.destroyedLabel>
+  <Digested.labelNoun>a digested part</Digested.labelNoun>
+  <Digested.labelNounPretty>digested {1}</Digested.labelNounPretty>
+  
+  <EnergyBolt.label>energy bolt</EnergyBolt.label>
+  <EnergyBolt.description>A wound from an energy bolt.</EnergyBolt.description>
+  <EnergyBolt.comps.HediffComp_TendDuration.labelSolidTendedWell>set</EnergyBolt.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <EnergyBolt.comps.HediffComp_TendDuration.labelTendedWell>bandaged</EnergyBolt.comps.HediffComp_TendDuration.labelTendedWell>
+  <EnergyBolt.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</EnergyBolt.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>permanent energy bolt wound</EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>old energy bolt wound</EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>
+  <EnergyBolt.injuryProps.destroyedLabel>Blasted off</EnergyBolt.injuryProps.destroyedLabel>
+  <EnergyBolt.injuryProps.destroyedOutLabel>Blasted out</EnergyBolt.injuryProps.destroyedOutLabel>
+  <EnergyBolt.labelNoun>an energy bolt wound</EnergyBolt.labelNoun>
+  <EnergyBolt.labelNounPretty>{0} in the {1}</EnergyBolt.labelNounPretty>
+  
+  <PsychicInjury.label>psychic burn</PsychicInjury.label>
+  <PsychicInjury.description>A psychic burn.</PsychicInjury.description>
+  <PsychicInjury.comps.HediffComp_TendDuration.labelSolidTendedWell>treated</PsychicInjury.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <PsychicInjury.comps.HediffComp_TendDuration.labelTendedWell>treated</PsychicInjury.comps.HediffComp_TendDuration.labelTendedWell>
+  <PsychicInjury.comps.HediffComp_TendDuration.labelTendedWellInner>treated</PsychicInjury.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>psychic scarring</PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>
+  <PsychicInjury.injuryProps.destroyedLabel>Psychically incinerated</PsychicInjury.injuryProps.destroyedLabel>
+  <PsychicInjury.labelNoun>a psychic burn</PsychicInjury.labelNoun>
+  <PsychicInjury.labelNounPretty>{0} in the {1}</PsychicInjury.labelNounPretty>
+  
+  <PsychicInjurySkin.label>psychic burn</PsychicInjurySkin.label>
+  <PsychicInjurySkin.description>A psychic burn.</PsychicInjurySkin.description>
+  <PsychicInjurySkin.comps.HediffComp_TendDuration.labelSolidTendedWell>treated</PsychicInjurySkin.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <PsychicInjurySkin.comps.HediffComp_TendDuration.labelTendedWell>bandaged</PsychicInjurySkin.comps.HediffComp_TendDuration.labelTendedWell>
+  <PsychicInjurySkin.comps.HediffComp_TendDuration.labelTendedWellInner>dressed</PsychicInjurySkin.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>psychic scarring</PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>
+  <PsychicInjurySkin.injuryProps.destroyedLabel>Psychically incinerated</PsychicInjurySkin.injuryProps.destroyedLabel>
+  <PsychicInjurySkin.labelNoun>a psychic burn</PsychicInjurySkin.labelNoun>
+  <PsychicInjurySkin.labelNounPretty>{0} in the {1}</PsychicInjurySkin.labelNounPretty>
+  
+  <PsychicInjurySolid.label>psychic burn</PsychicInjurySolid.label>
+  <PsychicInjurySolid.description>A psychic burn.</PsychicInjurySolid.description>
+  <PsychicInjurySolid.comps.HediffComp_TendDuration.labelSolidTendedWell>treated</PsychicInjurySolid.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <PsychicInjurySolid.comps.HediffComp_TendDuration.labelTendedWell>treated</PsychicInjurySolid.comps.HediffComp_TendDuration.labelTendedWell>
+  <PsychicInjurySolid.comps.HediffComp_TendDuration.labelTendedWellInner>treated</PsychicInjurySolid.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>permanent psychic scarring</PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>
+  <PsychicInjurySolid.injuryProps.destroyedLabel>Psychically incinerated</PsychicInjurySolid.injuryProps.destroyedLabel>
+  <PsychicInjurySolid.labelNoun>a psychic burn</PsychicInjurySolid.labelNoun>
+  <PsychicInjurySolid.labelNounPretty>{0} in the {1}</PsychicInjurySolid.labelNounPretty>
+</LanguageData>
