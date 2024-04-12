@@ -42,6 +42,7 @@
   <Group>Group</Group>
   <Groups>Groups</Groups>
   <LoadingMechGestator>Loading mech gestation resources</LoadingMechGestator>
+  <GestatingInspect>Time left this cycle</GestatingInspect>
   <InitMechGestationCycle>Initiating mech gestation cycle</InitMechGestationCycle>
   <InitMechBirth>Initiating mech birth</InitMechBirth>
   <MechEnergy>Mech energy</MechEnergy>
@@ -77,11 +78,10 @@
   <AutoWake>Auto-wake</AutoWake>
   <AutoWakeDesc>When on, {PAWN_nameDef} will automatically wake once {PAWN_possessive} deathrest is complete.\n\nWhile off, {PAWN_pronoun} will continue deathresting until you wake {PAWN_objective} manually.</AutoWakeDesc>
   <IsDeathresting>{PAWN_nameDef} is deathresting.</IsDeathresting>
-  <CannotDeathrest>Cannot deathrest</CannotDeathrest>
+  <CannotDeathrest>cannot deathrest</CannotDeathrest>
   <StartDeathrest>Start deathrest</StartDeathrest>
   <ConfirmExitDeathrestUnderMinDays>Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}?</ConfirmExitDeathrestUnderMinDays>
   <Deathresting>deathresting</Deathresting>
-  <Complete>complete</Complete>
   <CanWakeSafely>can wake safely now.</CanWakeSafely>
   <DisabledByGene>Disabled by gene</DisabledByGene>
   <WakeDisabledCriticalCondition>{PAWN_nameDef} is in critical condition.</WakeDisabledCriticalCondition>
@@ -158,7 +158,7 @@
   <MaxComplexityDesc>Maximum complexity can be increased by building gene processors near the gene assembler.</MaxComplexityDesc>
   <ComplexityTotal>Total complexity</ComplexityTotal>
   <ComplexityTotalDesc>The total complexity of all the genes in use.</ComplexityTotalDesc>
-  <Metabolism>Metabolic efficiency</Metabolism>
+  <Metabolism>metabolic efficiency</Metabolism>
   <MetabolismDesc>The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more.</MetabolismDesc>
   <MetabolismTotal>Metabolic efficiency</MetabolismTotal>
   <MetabolismTotalDesc>The total metabolic efficiency of all genes in the genome. High efficiency means a person needs less food; low efficiency means they must eat more.</MetabolismTotalDesc>
@@ -224,7 +224,6 @@
   <DeathrestPaused>Deathrest stopped</DeathrestPaused>
   <LethalInjuries>Lethal injuries</LethalInjuries>
   <Deathrest>deathrest</Deathrest>
-  <Buildings>Buildings</Buildings>
   <Capacity>capacity</Capacity>
   <MissingGeneRomanceChance>Non-{GENE} romance chance</MissingGeneRomanceChance>
   <NotInGeneBank>Not in gene bank</NotInGeneBank>
@@ -234,7 +233,6 @@
   <UntilBabyIsBorn>until the baby is born</UntilBabyIsBorn>
 
   <LearningDesireTooltip>Children want to learn from different activities at different times.</LearningDesireTooltip>
-  <LearningDesireTooltip_CurrentDesire>{0_nameDef}'s current learning desire:</LearningDesireTooltip_CurrentDesire>
   <DevelopmentHealthGizmoTooltip>Development health is the average of a child's learning need since their last birthday.\n\nChildren with higher development health will have more options during growth moments and will gain more passions for skills.</DevelopmentHealthGizmoTooltip>
 
   <MustNotBePlacedCloseToAnother>Must not be placed close to another {0_label}</MustNotBePlacedCloseToAnother>
@@ -256,6 +254,7 @@
   <GestationCycles>Gestation cycles</GestationCycles>
   <GestatingMech>Gestating {0}</GestatingMech>
   <GestatedMech>Gestated {0}</GestatedMech>
+  <GestatingMechRequiresMechanitor>Requires {PAWN_nameDef} to continue gestating</GestatingMechRequiresMechanitor>
   <GestatedMechRequiresMechanitor>Requires {PAWN_nameDef} to complete</GestatedMechRequiresMechanitor>
   <GestationComplete>Gestation complete</GestationComplete>
   <ResurrectingMech>Resurrecting {0}</ResurrectingMech>

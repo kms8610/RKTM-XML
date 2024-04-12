@@ -18,6 +18,7 @@
   
   <GeneProcessor.label>gene processor</GeneProcessor.label>
   <GeneProcessor.description>A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further.</GeneProcessor.description>
+  <GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>Gene complexity increase</GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
   
   <GrowthVat.label>growth vat</GrowthVat.label>
   <GrowthVat.description>A vat of fluid which can gestate an embryo or accelerate a child's growth.\n\nWhile growing or gestating, the vat must be fed with a constant supply of nutrition to provide the feedstock for growth. Gestating an embryo takes twice the nutrition of accelerating a child's growth.\n\nEmbryos are gestated for 9 days before a baby is formed. There is a risk of health complications.\n\nChild growth can only be accelerated up to age 18, but not beyond. While growing, a child's skills will slowly increase. Children raised in growth vats will have lower skills and gain fewer passions than normal.\n\nThe device uses chemical injections, electrical stimulation, and simple mechanite treatments to push the body to grow. Growth vats are often used to quickly manufacture engineered workers or warriors.</GrowthVat.description>

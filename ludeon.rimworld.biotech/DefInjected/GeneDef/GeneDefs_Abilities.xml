@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <AcidSpray.label>acid spray</AcidSpray.label>
-  <AcidSpray.description>Carriers grow glands in the neck that generate and store a sticky acid substance, along with acid-tolerant tissues in the mouth. They can spew this acid over an area, where it will stick to enemies and burn them over time.</AcidSpray.description>
+  <AcidSpray.description>Carriers grow glands in the neck that generate and store a sticky acid substance, along with acid-tolerant tissues in the mouth. They can spew this acid over an area, where it will stick to enemies and burn them.</AcidSpray.description>
   <AcidSpray.symbolPack.prefixSymbols.0.symbol>acid</AcidSpray.symbolPack.prefixSymbols.0.symbol>
   <AcidSpray.symbolPack.prefixSymbols.1.symbol>acer</AcidSpray.symbolPack.prefixSymbols.1.symbol>
   <AcidSpray.symbolPack.prefixSymbols.2.symbol>acri</AcidSpray.symbolPack.prefixSymbols.2.symbol>
@@ -89,6 +89,6 @@
   <PiercingSpine.symbolPack.wholeNameSymbols.0.symbol>spiner</PiercingSpine.symbolPack.wholeNameSymbols.0.symbol>
   
   <XenogermReimplanter.label>gene implanter</XenogermReimplanter.label>
-  <XenogermReimplanter.description>Carriers of this gene can implant a copy of their xenogerm into another person through a somewhat gross-looking injector organ. Their own genetic material will then regrow very slowly. If they implant while their genes are regrowing, they will die.</XenogermReimplanter.description>
+  <XenogermReimplanter.description>Carriers of this gene can implant a copy of their xenogerm into another person through a somewhat gross-looking injector organ. Their own genetic material will then regrow very slowly. If they implant while their genes are regrowing, they will die. Germline genes will be unaffected.</XenogermReimplanter.description>
   <XenogermReimplanter.labelShortAdj>reimplanter</XenogermReimplanter.labelShortAdj>
 </LanguageData>

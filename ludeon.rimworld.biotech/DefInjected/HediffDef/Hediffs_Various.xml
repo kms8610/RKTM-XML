@@ -12,7 +12,7 @@
   <GeneticDrugNeed.label>chemical dependency</GeneticDrugNeed.label>
   <GeneticDrugNeed.description>This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13.</GeneticDrugNeed.description>
   <GeneticDrugNeed.stages.deficiency.label>deficiency</GeneticDrugNeed.stages.deficiency.label>
-  <GeneticDrugNeed.stages.2.overrideLabel>deficiency coma</GeneticDrugNeed.stages.2.overrideLabel>
+  <GeneticDrugNeed.stages.3.overrideLabel>deficiency coma</GeneticDrugNeed.stages.3.overrideLabel>
   
   <HemogenCraving.label>hemogen craving</HemogenCraving.label>
   <HemogenCraving.description>Due to a lack of hemogen, this person's body is breaking down hemogen reserves in their bone marrow. This causes disorientation and a painful craving for human blood.</HemogenCraving.description>
@@ -27,7 +27,7 @@
   <PsychicBond.description>This person has a psychic bond with another person based on the psychic bonding gene. The bond itself grants some limited psychic awareness, allowing it to connect even with the psychically deaf.</PsychicBond.description>
   <PsychicBond.stages.0.extraTooltip>This person's bonded individual is nearby.</PsychicBond.stages.0.extraTooltip>
   <PsychicBond.stages.0.overrideLabel>psychic bond</PsychicBond.stages.0.overrideLabel>
-  <PsychicBond.stages.1.extraTooltip>This person's bonded individual is far away.</PsychicBond.stages.1.extraTooltip>
+  <PsychicBond.stages.1.extraTooltip>This person feels separated from their bonded individual.</PsychicBond.stages.1.extraTooltip>
   <PsychicBond.stages.1.overrideLabel>psychic bond distance</PsychicBond.stages.1.overrideLabel>
   
   <PsychicBondTorn.label>psychic bond torn</PsychicBondTorn.label>

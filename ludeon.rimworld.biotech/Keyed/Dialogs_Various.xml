@@ -10,7 +10,8 @@
   <MechControllerInsufficientBandwidth>{PAWN_labelShort} has insufficient bandwidth</MechControllerInsufficientBandwidth>
   <MechControllerMentalState>{PAWN_labelShort} is in a '{MENTALSTATE_label}' mental state.</MechControllerMentalState>
   <ConfirmDisassemblingMech>Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover</ConfirmDisassemblingMech>
-  <ConfirmInstallMechlink>A mechanitor must be capable of smithing to create mechanoids\n\nAre you sure you want to continue?</ConfirmInstallMechlink>
+  <ConfirmInstallMechlink_Smithing>A mechanitor must be capable of smithing to create mechanoids.\n\nAre you sure you want to continue?</ConfirmInstallMechlink_Smithing>
+  <ConfirmInstallMechlink_Intellectual>A mechanitor must be capable of intellectual tasks to unlock mechanitor research.\n\nAre you sure you want to continue?</ConfirmInstallMechlink_Intellectual>
   <InsufficientBandwidth>insufficient bandwidth</InsufficientBandwidth>
   <MechanitorLeftMapWithoutMechs>The following mechs have been left behind by {PAWN_labelShort}:\n\n{MECHS}\n\nThe mechs will stay here until they are picked up.\n\nWould you like to set their work mode to escort so they follow {PAWN_labelShort} off the map?</MechanitorLeftMapWithoutMechs>
 

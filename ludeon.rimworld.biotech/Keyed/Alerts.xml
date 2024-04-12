@@ -20,7 +20,7 @@
   <AlertRechargerFullDesc>Some mech recharger(s) are storing their maximum number of toxic wastepacks. Mechs can't use these chargers until the toxic wastepacks are hauled away.\n\nSelect a colonist and right-click a recharger to unload it.</AlertRechargerFullDesc>
 
   <AlertNeedMechChargers>Need mech rechargers</AlertNeedMechChargers>
-  <AlertNeedMechChargersDesc>You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers.</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargersDesc>You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers.</AlertNeedMechChargersDesc>
   <AlertNeedMechChargerBasicMechtech>Research basic mechtech or higher to build rechargers.</AlertNeedMechChargerBasicMechtech>
 
   <AlertReimplantationAvailable>Reimplantation available</AlertReimplantationAvailable>
@@ -30,8 +30,8 @@
   <AlertLowBabyFoodDesc>You are dangerously low on baby food.\n\n    Babies needing food: {0}\n    Days worth of baby food in storage: {1}\n\nBuy, find or make some baby-edible food. This includes {2}.</AlertLowBabyFoodDesc>
   <AlertNoBabyFeeder>No baby feeders</AlertNoBabyFeeder>
   <AlertNoBabyFeederDesc>No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed.</AlertNoBabyFeederDesc>
-  <AlertAbandonedBaby>Abandoned baby</AlertAbandonedBaby> <!-- text_todo -->
-  <AlertAbandonedBabyDesc>There are abandoned babies nearby with no closeby caregivers.  If you don’t adopt the babies, it’s likely they'll starve to death.\n\nTo adopt a baby, select it and then select "{0}".</AlertAbandonedBabyDesc> <!-- text_todo -->
+  <AlertAbandonedBaby>Abandoned baby</AlertAbandonedBaby>
+  <AlertAbandonedBabyDesc>There are abandoned babies nearby with no closeby caregivers.  If you don't adopt the babies, they'll probably starve to death.\n\nTo adopt a baby, select it and then select "{0}".</AlertAbandonedBabyDesc>
 
   <AlertNoBabyFoodCaravan>No baby food in caravan</AlertNoBabyFoodCaravan>
   <AlertNoBabyFoodCaravanDesc>Babies on this caravan have no baby food and no lactating {FACTION_pawnsPlural} are set to feed them.</AlertNoBabyFoodCaravanDesc>
@@ -67,7 +67,7 @@
   <AlertBossgroupIncoming>{0} incoming</AlertBossgroupIncoming>
   <AlertBossgroupIncomingDesc>Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days.</AlertBossgroupIncomingDesc>
 
-  <AlertDeathrestComplete>Deathrest complete</AlertDeathrestComplete><!-- text_todo -->
-  <AlertDeathrestCompleteDesc>The following people have completed their deathrest and can wake up safely</AlertDeathrestCompleteDesc><!-- text_todo -->
+  <AlertDeathrestComplete>Deathrest complete</AlertDeathrestComplete>
+  <AlertDeathrestCompleteDesc>The following people have completed their deathrest and can wake up safely</AlertDeathrestCompleteDesc>
 
 </LanguageData>
