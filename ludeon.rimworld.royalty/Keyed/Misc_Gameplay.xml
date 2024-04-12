@@ -14,7 +14,7 @@
   <PsycastNeurotrainerUseLabel>Use psytrainer to learn {0} psycast</PsycastNeurotrainerUseLabel>
   <PsycastNeurotrainerDescription>A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
   <AbilityNeurotrainerUsed>{USER_labelShort} used neurotrainer to learn the {1} power.</AbilityNeurotrainerUsed>
-  <PsycastNeurotrainerNoPsylink>Requires psylink</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerNoPsylink>requires psylink</PsycastNeurotrainerNoPsylink>
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} already knows {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
 
   <Reward_RoyalFavor>whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name}</Reward_RoyalFavor>
@@ -89,6 +89,7 @@
 
   <AnimaLinkingExplanationBase>The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony.</AnimaLinkingExplanationBase>
   <ShuttleRequiredItemsNotSatisfied>Not all required cargo is loaded yet!</ShuttleRequiredItemsNotSatisfied>
+  <CannotLoadIntoShuttle>Cannot load {0_labelShort}</CannotLoadIntoShuttle>
 
   <AbilityNoEntropyToDump>no heat to dump.</AbilityNoEntropyToDump>
 

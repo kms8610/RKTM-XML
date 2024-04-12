@@ -16,6 +16,8 @@
   <CommandCallRoyalAidFavorOption>{0} days left, costs {1} {FACTION_royalFavorLabel}</CommandCallRoyalAidFavorOption>
   <CommandCallRoyalAidWarningNonHostileFactions>You are about to call for aid, but there are people from factions whom {0_name} is not hostile to. Any soldiers you call will not attack them: {1}</CommandCallRoyalAidWarningNonHostileFactions>
   <CommandCallRoyalAidNotEnoughFavor>Not enough honor.</CommandCallRoyalAidNotEnoughFavor>
+  <CommandCallRoyalAidMapUnreachable>{FACTION_name} cannot reach this area.</CommandCallRoyalAidMapUnreachable>
+  <CommandCallRoyalAidInvalidMap>Cannot call aid here.</CommandCallRoyalAidInvalidMap>
   
   <!-- Call laborers -->
   <CommandCallLaborers>Call laborers</CommandCallLaborers>
@@ -31,8 +33,10 @@
   <CommandPsycastZeroPsychicSensitivity>Zero psychic sensitivity.</CommandPsycastZeroPsychicSensitivity>
   <CommandPsycastPawnIsUnconscious>Ability user is unconscious.</CommandPsycastPawnIsUnconscious>
   <CommandPsycastLowPsyfocus>Need at least {0} psyfocus to cast this.</CommandPsycastLowPsyfocus>
+  <CommandPsycastInsanityImmune>Psychic insanity immune.</CommandPsycastInsanityImmune>
   <NeuralHeatLetter>H</NeuralHeatLetter>
   <PsyfocusLetter>P</PsyfocusLetter>
+  <IneffectivePsychicImmune>Psychic insanity immune</IneffectivePsychicImmune>
 
   <!-- Select monument marker -->
   <CommandSelectMonumentMarker>Select monument</CommandSelectMonumentMarker>

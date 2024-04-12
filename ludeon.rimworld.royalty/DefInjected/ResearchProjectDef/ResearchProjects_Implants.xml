@@ -2,34 +2,113 @@
 <LanguageData>
   <ArtificialMetabolism.label>artificial metabolism</ArtificialMetabolism.label>
   <ArtificialMetabolism.description>Craft bionics that process food more safely or efficiently than a biological stomach.</ArtificialMetabolism.description>
+  <ArtificialMetabolism.generalRules.rulesStrings>
+    <li>subject->artificial metabolism</li>
+    <li>subject_story->developed a hunger so all-consuming that the installation of an artificial stomach was the only solution</li>
+    <li>subject_story->did not tell the Queen about the installation of the sterilizing stomach, but continued as her food tester all the same</li>
+    <li>subject_story->developed a loathing for food. A nuclear stomach heavily reduced food consumption, though the radioactivity was a nuisance</li>
+    <li>subject_gerund->crafting digestion-related bionics</li>
+    <li>subject_gerund->crafting artificial guts</li>
+  </ArtificialMetabolism.generalRules.rulesStrings>
   
   <BrainWiring.label>brain wiring</BrainWiring.label>
   <BrainWiring.description>Craft brain implants that induce or prevent blunt sensations like joy or pain.</BrainWiring.description>
+  <BrainWiring.generalRules.rulesStrings>
+    <li>subject->brain implants</li>
+    <li>subject_story->wrote a paper about the masochist cults use of mindscrews to improve their morale</li>
+    <li>subject_story->implanted painstoppers in an assault squad. They eliminated a much larger force, but were all mortally wounded or killed</li>
+    <li>subject_story->had a joywire installed and, though happy after that, stumbled simply through life</li>
+    <li>subject_gerund->crafting brain implants</li>
+  </BrainWiring.generalRules.rulesStrings>
   
   <CircadianInfluence.label>circadian influence</CircadianInfluence.label>
   <CircadianInfluence.description>Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep.</CircadianInfluence.description>
+  <CircadianInfluence.generalRules.rulesStrings>
+    <li>subject->sleep reduction implant</li>
+    <li>subject_story->studied unihemispheric sleep patterns in cetaceans and proposed a new form of circadian half-cycler</li>
+    <li>subject_story->forced any applicants for city guard to receive a half-cycler, so they could stay at post indefinitely, if necessary</li>
+    <li>subject_story->studied bullfrogs and giraffes to ascertain what  xenogerms would be necessary for a circadian assistance gland</li>
+    <li>subject_gerund->crafting sleep reduction implants</li>
+  </CircadianInfluence.generalRules.rulesStrings>
   
   <CompactWeaponry.label>compact weaponry</CompactWeaponry.label>
   <CompactWeaponry.description>Craft compact, concealable bionic weapons which can be embedded in various body parts.</CompactWeaponry.description>
+  <CompactWeaponry.generalRules.rulesStrings>
+    <li>subject->compact weaponry</li>
+    <li>subject_story->was employed as a detective and was saved more than once by the concealed knee spike</li>
+    <li>subject_story->spent a summer recovering from being slashed by an escaped slave's hand talon</li>
+    <li>subject_story->was working in security, scanning visitors to the hall, when the cyborg attempted to enter</li>
+    <li>subject_gerund->crafting compact bionic weapons</li>
+  </CompactWeaponry.generalRules.rulesStrings>
   
   <FleshShaping.label>flesh shaping</FleshShaping.label>
   <FleshShaping.description>Craft bionics which induce the reshaping of natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure.</FleshShaping.description>
+  <FleshShaping.generalRules.rulesStrings>
+    <li>subject->aesthetic surgery</li>
+    <li>subject_story->halted the population decline on the urbworld, by distributing free love enhancers and lavish drugs</li>
+    <li>subject_story->was hired as chief flesh-shaper for an aesthetics clinic, spending their days making shapely limbs</li>
+    <li>subject_story->gathered the glitterworld children around the campfire and told horror stories about getting their non-aesthetic noses back</li>
+    <li>subject_gerund->crafting aesthetic bionics</li>
+  </FleshShaping.generalRules.rulesStrings>
   
   <HealingFactors.label>healing factors</HealingFactors.label>
   <HealingFactors.description>Craft bionics that enhance natural healing processes.</HealingFactors.description>
+  <HealingFactors.generalRules.rulesStrings>
+    <li>subject->healing bionics</li>
+    <li>subject_story->studied the Imperial royalty, to see if they had blue blood. They did not, but it did coagulate implausibly quickly</li>
+    <li>subject_story->ensured that all the pit fighters had Healing Enhancers and appropriate xenogerms, so that they could fight more often</li>
+    <li>subject_story->studied the ancient corpses found in a cryptosleep shrine and harvested rapid healing devices from them</li>
+    <li>subject_gerund->crafting regeneration bionics</li>
+  </HealingFactors.generalRules.rulesStrings>
   
   <MolecularAnalysis.label>molecular analysis</MolecularAnalysis.label>
   <MolecularAnalysis.description>Craft bionics with molecular analyzers for assisting the immune system or analyzing food.</MolecularAnalysis.description>
+  <MolecularAnalysis.generalRules.rulesStrings>
+    <li>subject->molecular analysis bionics</li>
+    <li>subject_story->explained to the chefs of the cooking school that they must never get aesthetic noses, lest their gastro-analyzers fail</li>
+    <li>subject_story->had an immunoenhancer installed and so was able to walk freely in the isolation colony</li>
+    <li>subject_story->lectured on the potential hardware conflicts between bionic parts and molecular analysis implants</li>
+    <li>subject_gerund->crafting molecular analysis bionics</li>
+  </MolecularAnalysis.generalRules.rulesStrings>
   
   <NeuralComputation.label>neural computation</NeuralComputation.label>
   <NeuralComputation.description>Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface.</NeuralComputation.description>
+  <NeuralComputation.generalRules.rulesStrings>
+    <li>subject->brain implants</li>
+    <li>subject->neural computation</li>
+    <li>subject_story->knew exactly how to take out the jailor, with an EMP attack that would brain shock their learning assistant, buying time to free the prisoners</li>
+    <li>subject_story->mandated the installation of learning assistants or neurocalculators through the entire faculty</li>
+    <li>subject_story->had a learning assistant installed. It proved to be a problem later, when captured by pirates, who halted any escape attempts with EMP attacks</li>
+    <li>subject_gerund->crafting brain implants</li>
+  </NeuralComputation.generalRules.rulesStrings>
   
   <SkinHardening.label>skin hardening</SkinHardening.label>
   <SkinHardening.description>Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect.</SkinHardening.description>
+  <SkinHardening.generalRules.rulesStrings>
+    <li>subject->subdermal implants</li>
+    <li>subject_story->researched the glands of the barkskin dryads and reasoned they could be adapted to humanity</li>
+    <li>subject_story->traveled among the stoneskin tamers of the dinoworld, studying the thick keratin plates that covered them</li>
+    <li>subject_story->worked with nanonmachine glands to thicken the human epidermis, at the expense of meeting traditional standards of beauty</li>
+    <li>subject_gerund->crafting subdermal armor implants</li>
+  </SkinHardening.generalRules.rulesStrings>
   
   <SpecializedLimbs.label>specialized limbs</SpecializedLimbs.label>
   <SpecializedLimbs.description>Craft specialized bionic limbs built for specific purposes - both combat and labor.</SpecializedLimbs.description>
+  <SpecializedLimbs.generalRules.rulesStrings>
+    <li>subject->specialized prosthetics</li>
+    <li>subject_story->interviewed the indentured farmers of a feudal world, before and after their field hand installations</li>
+    <li>subject_story->watched a pit fighter equipped with a power claw face off against a miner with two drill arms</li>
+    <li>subject_story->worked as a surgeon on the rim, replacing missing arms with everything from a woodhand to a power claw</li>
+    <li>subject_gerund->crafting specialized bionic arms</li>
+  </SpecializedLimbs.generalRules.rulesStrings>
   
   <VenomSynthesis.label>poison synthesis</VenomSynthesis.label>
   <VenomSynthesis.description>Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks.</VenomSynthesis.description>
+  <VenomSynthesis.generalRules.rulesStrings>
+    <li>subject->venomous bionics</li>
+    <li>subject_story->worked on chemical reactors at small scales, which could be shrunk and stored internally</li>
+    <li>subject_story->studied the waste rats of a trash world and wrote a paper on the unique toxins in their bite</li>
+    <li>subject_story->learned to love sharp little cutting edges, which could kill with a mere nick</li>
+    <li>subject_gerund->crafting poisonous bionic weapons</li>
+  </VenomSynthesis.generalRules.rulesStrings>
 </LanguageData>
