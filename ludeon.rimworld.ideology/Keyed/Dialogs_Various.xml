@@ -47,6 +47,7 @@
   <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} will refuse to do these work types</ChooseRoleListWorkTypeRestrictions>
   <ChooseRoleHint>It can sometimes be better to wait until your colony is more established before you assign roles.</ChooseRoleHint>
   <UnlockedByMeme>Unlocked by</UnlockedByMeme>
+  <Origin>Origin</Origin>
   <MemeUnlocksRoles>Unlocked roles</MemeUnlocksRoles>
   <MemeUnlocksRituals>Unlocked rituals</MemeUnlocksRituals>
   <ChooseRoleRequiredWorkTagsDisabled>WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are</ChooseRoleRequiredWorkTagsDisabled>
@@ -60,6 +61,7 @@
   <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>{PAWN_labelShort}'s certainty loss factor from {IDEO_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
   <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} is {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <AbilityIdeoConvertBreakdownTrait>Trait {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownPercept>Precept {PRECEPT}</AbilityIdeoConvertBreakdownPercept>
   <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} installed relics on map</AbilityIdeoConvertBreakdownRelic>
   <AbilityIdeoConvertBreakdownSocialSkill>{PAWN_labelShort}'s social skill</AbilityIdeoConvertBreakdownSocialSkill>
   <AbilityIdeoConvertBreakdownOpinion>{RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
@@ -134,7 +136,8 @@
   <ReLoadShuttle>Re-load shuttle</ReLoadShuttle>
 
   <!-- Medical settings -->
-  <MedGroupEnslavedColonist>Enslaved colonist</MedGroupEnslavedColonist>
+  <MedGroupSlaves>Slaves</MedGroupSlaves>
+  <MedGroupSlavesDesc>Enslaved members of your colony.</MedGroupSlavesDesc>
 
   <!-- Dryad upgrades -->
   <ChangeMode>Choose dryad caste</ChangeMode>
@@ -166,7 +169,7 @@
   <ItemQuantityTooltip>{0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1}</ItemQuantityTooltip>
   <SoldColonyDescription>Your colony was sold. Its purchasers are ready for you to choose where to land next.</SoldColonyDescription>
 
-  <ConfirmHackEnenyTerminal>Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}?</ConfirmHackEnenyTerminal>
+  <ConfirmHackEnenyTerminal>Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}?</ConfirmHackEnenyTerminal>
 
   <RelicsSection>Relics</RelicsSection>
 

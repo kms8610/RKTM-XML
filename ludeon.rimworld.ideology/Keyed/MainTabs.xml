@@ -24,6 +24,7 @@
   <PreceptStats>Stats</PreceptStats>
   <Prohibitions>Prohibitions</Prohibitions>
   <Opinions>Opinions</Opinions>
+  <MentalBreaks>Mental breaks</MentalBreaks>
   <RandomizeName>Randomize name</RandomizeName>
   <RandomizePrecepts>Randomize precepts</RandomizePrecepts>
   <RandomizeDeities>Randomize deities</RandomizeDeities>
@@ -60,6 +61,7 @@
   <RelatedToMeme>Related to meme</RelatedToMeme>
   <IdeoCharityQuestInfo>This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}).</IdeoCharityQuestInfo>
   <WorkDisabledSlave>Slaves will not do this work</WorkDisabledSlave>
+  <WorkDisabledHealth>Disabled by health condition</WorkDisabledHealth>
   <WorkDisabledRole>Disabled by {0} role</WorkDisabledRole>
   <AffectedByTraits>Affected by traits</AffectedByTraits>
   <CharityQuestTip>This is a charity quest. People with charitable beliefs will be affected by its outcome.</CharityQuestTip>

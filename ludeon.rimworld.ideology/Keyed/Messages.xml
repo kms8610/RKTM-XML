@@ -44,7 +44,8 @@
   <MessageCharityEventRefused>Charity refused</MessageCharityEventRefused>
   <MessageCharityEventFulfilled>Charity fulfilled</MessageCharityEventFulfilled>
   <MessageBeggarsLeavingWithNoItems>{0} are leaving empty-handed.</MessageBeggarsLeavingWithNoItems>
-  <MessageBeggarsLeavingWithItems>{0} have accepted the requested items and are leaving.</MessageBeggarsLeavingWithItems>
+  <MessageBeggarsLeavingWithItemsSingular>The {0} has accepted the requested items and is leaving.</MessageBeggarsLeavingWithItemsSingular>
+  <MessageBeggarsLeavingWithItemsPlural>{0} have accepted the requested items and are leaving.</MessageBeggarsLeavingWithItemsPlural>
   <MessageWandererLeftToDie>{0_nameDef} died without any treatment.</MessageWandererLeftToDie>
   <MessageWandererRecruited>{0_nameDef} was recruited.</MessageWandererRecruited>
   <MessageWandererLeftHealthy>{0_nameDef} left healthy.</MessageWandererLeftHealthy>

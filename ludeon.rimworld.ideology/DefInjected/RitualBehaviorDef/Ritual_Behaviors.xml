@@ -86,6 +86,7 @@
   <SacrificeAnimal.spectatorsLabel>Participants</SacrificeAnimal.spectatorsLabel>
   <SacrificeAnimal.stages.0.failTriggers.0.desc>Animal is not reachable.</SacrificeAnimal.stages.0.failTriggers.0.desc>
   <SacrificeAnimal.stages.0.failTriggers.1.desc>escort asleep</SacrificeAnimal.stages.0.failTriggers.1.desc>
+  <SacrificeAnimal.stages.3.failTriggers.0.desc>sacrifice no longer dead</SacrificeAnimal.stages.3.failTriggers.0.desc>
   
   <SacrificePrisoner.roles.0.label>cutter</SacrificePrisoner.roles.0.label>
   <SacrificePrisoner.roles.1.label>sacrifice</SacrificePrisoner.roles.1.label>
@@ -94,6 +95,7 @@
   <SacrificePrisoner.spectatorsLabel>Participants</SacrificePrisoner.spectatorsLabel>
   <SacrificePrisoner.stages.0.failTriggers.0.desc>Prisoner is not reachable.</SacrificePrisoner.stages.0.failTriggers.0.desc>
   <SacrificePrisoner.stages.0.failTriggers.1.desc>escort asleep</SacrificePrisoner.stages.0.failTriggers.1.desc>
+  <SacrificePrisoner.stages.3.failTriggers.0.desc>sacrifice no longer dead</SacrificePrisoner.stages.3.failTriggers.0.desc>
   
   <ScarificationCeremony.roles.0.label>target</ScarificationCeremony.roles.0.label>
   <ScarificationCeremony.roles.0.missingDesc>the person to scarify</ScarificationCeremony.roles.0.missingDesc>

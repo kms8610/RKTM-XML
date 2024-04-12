@@ -15,6 +15,7 @@
   <CreateCustom>Create custom</CreateCustom>
   <DeleteCustom>Delete custom</DeleteCustom>
   <CreateNew>Create new</CreateNew>
+  <CreateFluid>Create fluid</CreateFluid>
   <LoadExisting>Load existing</LoadExisting>
   <CreateCustomIdeoligion>Create custom ideoligion</CreateCustomIdeoligion>
   <CustomIdeoligionSectionHeader>Custom ideoligion</CustomIdeoligionSectionHeader>
@@ -50,6 +51,8 @@
   <OrIdeoColor>, or the color of {PAWN_possessive} ideoligion,</OrIdeoColor>
   <SetIdeoColor>Set ideo color</SetIdeoColor>
   <SetFavoriteColor>Set to favorite color</SetFavoriteColor>
+  <FavoriteColorPickerTip>{PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.</FavoriteColorPickerTip>
+  <IdeoColorPickerTip>{PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier.</IdeoColorPickerTip>
   <ConfigureIdeoligion>Configure your faction's ideoligion</ConfigureIdeoligion>
   <NotEnoughDye>Not enough dye.</NotEnoughDye>
   <ApparelLockedCannotRecolor>{PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}.</ApparelLockedCannotRecolor>
@@ -150,7 +153,6 @@
   <RitualOutcomeBlockedNoPower>{0} needs to be powered.</RitualOutcomeBlockedNoPower>
 
   <ForSlaveUse>For slave use</ForSlaveUse>
-  <Slave>Slave</Slave>
   <SellingAsSlave>If you sell someone to any faction besides their own, they become slaves.</SellingAsSlave>
   <SellingAsRansom>If you sell someone to their own faction, they are ransomed and not enslaved.</SellingAsRansom>
 
@@ -206,7 +208,7 @@
   <TerminalsHacked>Terminals hacked</TerminalsHacked>
 
   <RelicInfoFound>Relic info found</RelicInfoFound>
-  <InactiveRoleRequiresMoreBelievers>inactive, requires atleast {0} {1}s (have {2})</InactiveRoleRequiresMoreBelievers>
+  <InactiveRoleRequiresMoreBelievers>inactive, requires at least {0} {1}s (have {2})</InactiveRoleRequiresMoreBelievers>
   
   <Certainty>certainty</Certainty>
 

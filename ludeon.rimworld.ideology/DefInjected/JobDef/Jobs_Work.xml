@@ -6,8 +6,6 @@
   
   <CreateAndEnterHealingPod.reportString>creating healing pod.</CreateAndEnterHealingPod.reportString>
   
-  <ExtractSkull.reportString>extracting skull from TargetA.</ExtractSkull.reportString>
-  
   <Hack.reportString>hacking TargetA.</Hack.reportString>
   
   <MergeIntoGaumakerPod.reportString>merging into TargetB.</MergeIntoGaumakerPod.reportString>
@@ -15,6 +13,8 @@
   <PrisonerConvert.reportString>converting TargetA.</PrisonerConvert.reportString>
   
   <PrisonerEnslave.reportString>enslaving TargetA.</PrisonerEnslave.reportString>
+  
+  <PrisonerReduceWill.reportString>reducing will of TargetA.</PrisonerReduceWill.reportString>
   
   <PruneGauranlenTree.reportString>pruning TargetA.</PruneGauranlenTree.reportString>
   
