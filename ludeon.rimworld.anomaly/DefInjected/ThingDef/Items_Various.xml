@@ -10,7 +10,6 @@
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.inspectString>Can be analyzed by a colonist.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.inspectString>
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.jobString>Analyze neural lump</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.jobString>
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetterLabel>Analysis progress</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetterLabel>
-  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}(이)가 살덩이 신경 혹 분석을 끝냈습니다. 샘플은 {BIOSIGNATURE} 생명신호를 지니고 있습니다.\n\n{PAWN_nameDef}(은)는 자신이 살덩이 심장을 죽일 방법을 찾을 수 있다고 확신하지만, 먼저 신경 샘플을 더 연구해야 합니다.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.progressedLetters.0>
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef} has finished analyzing the fleshmass neural tissue. This tissue belongs to the previously studied biosignature {BIOSIGNATURE}, so you didn't gain any new knowledge.\n\nYou can destroy the {BIOSIGNATURE} fleshmass heart by interacting with it directly and inducing a tachycardiac overload.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>Analysis complete</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
   
@@ -26,9 +25,6 @@
   <GoldenCube.comps.CompGoldenCube.activatingStringPending>deactivating {0}</GoldenCube.comps.CompGoldenCube.activatingStringPending>
   <GoldenCube.comps.CompGoldenCube.guiLabelString>Choose who should deactivate this.</GoldenCube.comps.CompGoldenCube.guiLabelString>
   <GoldenCube.comps.CompGoldenCube.jobString>deactivate</GoldenCube.comps.CompGoldenCube.jobString>
-  <GoldenCube.comps.CompGoldenCube.letterDeactivatedAppend>큐브의 정신적 효과에서 벗어난 사람:</GoldenCube.comps.CompGoldenCube.letterDeactivatedAppend>
-  <GoldenCube.comps.CompGoldenCube.letterDeactivatedDesc>{PAWN_nameDef}(이)가 황금 큐브를 비활성화했습니다. 그 고무적인 힘이 사라지자, 큐브가 작은 황금 더미로 산산이 부서졌습니다.</GoldenCube.comps.CompGoldenCube.letterDeactivatedDesc>
-  <GoldenCube.comps.CompGoldenCube.letterDeactivatedLabel>황금 큐브 비활성화됨</GoldenCube.comps.CompGoldenCube.letterDeactivatedLabel>
   
   <GrayFleshSample.label>gray flesh sample</GrayFleshSample.label>
   <GrayFleshSample.description>This strip of human flesh is stained with a dark and gritty ferrous material. Tiny threads of metallic filament run throughout, interspersed with tiny silvery beads. Its form suggests that it sloughed off someone's body during some unnatural liquification process.</GrayFleshSample.description>
@@ -40,7 +36,6 @@
   <GrayFleshSample.comps.CompAnalyzableBiosignature.inspectString>Can be analyzed by a colonist.</GrayFleshSample.comps.CompAnalyzableBiosignature.inspectString>
   <GrayFleshSample.comps.CompAnalyzableBiosignature.jobString>Analyze gray flesh sample</GrayFleshSample.comps.CompAnalyzableBiosignature.jobString>
   <GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetterLabel>Analysis progress</GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetterLabel>
-  <GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}(이)가 회색 살 샘플 분석을 끝냈습니다. 샘플은 {BIOSIGNATURE} 생명신호를 지니고 있습니다.\n\n{PAWN_nameDef}(은)는 살아 있는 대상의 이 생명신호를 알아내는 방법을 배우는 중이지만, 작업을 완료하려면 더 많은 샘플이 필요합니다. 그때까지, 당신의 외과 검사는 {BIOSIGNATURE}(을)를 감지하지 못할 겁니다.\n\n더 많은 회색 살 샘플을 모으고 분석하세요.</GrayFleshSample.comps.CompAnalyzableBiosignature.progressedLetters.0>
   <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef} has completed {PAWN_possessive} analysis of the gray flesh sample. It carries the previously discovered biosignature {BIOSIGNATURE}.\n\nYour colonists now understand this biosignature well enough to detect it with the surgical inspection operation.</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
   <GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>Analysis complete</GrayFleshSample.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
   
@@ -60,8 +55,6 @@
   <RevenantFleshChunk.comps.CompAnalyzableBiosignature.inspectString>Can be analyzed by a colonist.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.inspectString>
   <RevenantFleshChunk.comps.CompAnalyzableBiosignature.jobString>Analyze revenant flesh chunk</RevenantFleshChunk.comps.CompAnalyzableBiosignature.jobString>
   <RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetterLabel>Analysis progress</RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetterLabel>
-  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetters.0>{PAWN_nameDef}(이)가 망령 살 덩어리를 {BIOSIGNATURE} 생명신호로 분석하는 일을 끝냈습니다.\n\n{PAWN_pronoun}(은)는 이 특정한 망령의 생명 작용과 그것이 뒤에 남기는 액체를 알아내는 방법에 대해 더 많이 배웠습니다.\n\n이 망령은 이제 도망칠 때 보이는 자국을 더 길게 남길 겁니다.\n\n어쩌면 망령이 자는 동안 찾아서 죽일 수 있을지도 모릅니다. 망령이 뒤에 남기는 얼룩으로 망령을 추적하여, 교란 신호탄, 폭발물, EMP, 불으로 망령을 드러나게 할 수 있습니다.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetters.0>
-  <RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetters.1>{PAWN_nameDef}(이)가 망령 살 덩어리를 {BIOSIGNATURE} 생명신호로 분석하는 일을 끝냈습니다.\n\n{PAWN_pronoun}(은)는 이 특정 망령의 생명 작용과 망령이 내는 소리에 대해 더 많이 배웠습니다. 정착민은 이제 이 망령이 근처에 있으면 들을 수 있습니다. 망령을 사냥하러 가서 가까이 가게 되면, 어떤 정착민이 들을 수 있는지 알림을 받게 될 겁니다.\n\n어쩌면 망령이 자는 동안 찾아서 죽일 수 있을지도 모릅니다. 망령이 뒤에 남기는 얼룩으로 망령을 추적하여, 교란 신호탄, 폭발물, EMP, 불으로 망령을 드러나게 할 수 있습니다.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.progressedLetters.1>
   <RevenantFleshChunk.comps.CompAnalyzableBiosignature.repeatCompletedLetter>{PAWN_nameDef} has finished analyzing the revenant flesh chunk with the previously studied biosignature {BIOSIGNATURE}.\n\nYour colonists can now see this revenant when it is nearby. Perhaps you'll be able to find it and kill it while it's sleeping.</RevenantFleshChunk.comps.CompAnalyzableBiosignature.repeatCompletedLetter>
   <RevenantFleshChunk.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>Analysis complete</RevenantFleshChunk.comps.CompAnalyzableBiosignature.repeatCompletedLetterLabel>
   
