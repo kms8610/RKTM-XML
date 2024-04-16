@@ -17,6 +17,8 @@
     <li>commentedabout->said something about</li>
     <li>commentedabout->said a word about</li>
     <li>commentedabout->made a comment about</li>
+    <li>commentedabout->commented about</li>
+    <li>commentedabout->told a joke about</li>
   </Chitchat.logRulesInitiator.rulesStrings>
   
   <DeepTalk.label>deep talk</DeepTalk.label>
@@ -34,6 +36,7 @@
     <li>talkedabout->talked deeply about</li>
     <li>talkedabout->connected on the topic of</li>
     <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
   
   <Insult.label>insult</Insult.label>
@@ -55,6 +58,14 @@
     <li>insulted->directly insulted</li>
     <li>insulted->viciously insulted</li>
     <li>insulted->flagrantly disrespected</li>
+    <li>insulted->slandered</li>
+    <li>insulted->hurled invective about</li>
+    <li>insulted->derided</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==false,p=2)->a [Animal]</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==false)->a [Enemy]</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->a sphere</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->something totally pointless</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->a non-cubic platonic object</li>
   </Insult.logRulesInitiator.rulesStrings>
   
   <KindWords.label>kind words</KindWords.label>
@@ -73,6 +84,8 @@
     <li>complimented->expressed good things about</li>
     <li>complimented->offered kinds words about</li>
     <li>complimented->verbally appreciated</li>
+    <li>complimented->expressed appreciation for</li>
+    <li>complimented->said good things about</li>
   </KindWords.logRulesInitiator.rulesStrings>
   
   <Slight.label>slight</Slight.label>
@@ -92,5 +105,7 @@
     <li>madefunof->sniggered at</li>
     <li>madefunof->implied negative things about</li>
     <li>madefunof->belittled</li>
+    <li>madefunof->made a contemptuous remark about</li>
+    <li>madefunof->offered a backhanded compliment about</li>
   </Slight.logRulesInitiator.rulesStrings>
 </LanguageData>
