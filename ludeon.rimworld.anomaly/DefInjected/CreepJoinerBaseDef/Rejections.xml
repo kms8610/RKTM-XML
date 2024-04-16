@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AggressiveRejection.label>aggressive</AggressiveRejection.label>
+  <AggressiveRejection.letterDesc>Upon being rejected, {PAWN_nameDef} flew into a murderous rage and began to attack!</AggressiveRejection.letterDesc>
+  <AggressiveRejection.letterLabel>{PAWN_nameDef} hostile</AggressiveRejection.letterLabel>
+  
+  <Departure.label>departure</Departure.label>
+  <Departure.letterDesc>{PAWN_nameDef} is disappointed by the way that you have treated {PAWN_objective}. {PAWN_pronoun} has decided to leave.</Departure.letterDesc>
+  <Departure.letterLabel>{PAWN_nameDef} departure</Departure.letterLabel>
+</LanguageData>

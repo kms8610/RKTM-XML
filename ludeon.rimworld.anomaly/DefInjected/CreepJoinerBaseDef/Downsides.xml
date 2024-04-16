@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Aggressive.label>aggressive</Aggressive.label>
+  <Aggressive.letterDesc>{PAWN_nameDef}'s demeanor has suddenly changed. A menacing grin splits {PAWN_possessive} face.\n\n{PAWN_nameDef} has become hostile.</Aggressive.letterDesc>
+  <Aggressive.letterLabel>{PAWN_nameDef} hostile</Aggressive.letterLabel>
+  
+  <CrumblingMind.label>crumbling mind</CrumblingMind.label>
+  
+  <Disturbing.label>disturbing</Disturbing.label>
+  
+  <EntityJailbreaker.label>entity jailbreaker</EntityJailbreaker.label>
+  
+  <Leaves.label>leaves</Leaves.label>
+  <Leaves.letterDesc>{PAWN_nameDef} thanks you for your hospitality, but says that it is time for {PAWN_objective} to move on.</Leaves.letterDesc>
+  <Leaves.letterLabel>{PAWN_nameDef} departure</Leaves.letterLabel>
+  
+  <Metalhorror.label>metalhorror</Metalhorror.label>
+  
+  <Nothing.label>nothing</Nothing.label>
+  
+  <OrganDecay.label>organ decay</OrganDecay.label>
+  
+  <PsychicAgony.label>psychic agony</PsychicAgony.label>
+  <PsychicAgony.letterDesc>{PAWN_nameDef} has involuntarily released a wave of psychic suffering! {PAWN_pronoun} tried to prevent it, but was unable to do so.\n\nNearby creatures will experience intense pain. The effects will linger for several days.</PsychicAgony.letterDesc>
+  <PsychicAgony.letterLabel>Psychic agony</PsychicAgony.letterLabel>
+  <PsychicAgony.surgicalInspectionLetterExtra>{SURGEON_nameDef} detected a faint but painful psychic presence emanating from {PAWN_nameDef} but failed to understand what was causing it.</PsychicAgony.surgicalInspectionLetterExtra>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Assault.label>basic assault</Assault.label>
+  <Assault.message>{PAWN_nameDef} has become hostile!</Assault.message>
+  
+  <FleshbeastEmergence.label>fleshbeast emergence</FleshbeastEmergence.label>
+  <FleshbeastEmergence.letterDesc>{PAWN_nameDef} has transformed into a hideous fleshbeast!</FleshbeastEmergence.letterDesc>
+  <FleshbeastEmergence.letterLabel>{PAWN_nameDef} transformed</FleshbeastEmergence.letterLabel>
+  
+  <SightstealerAttack.label>sightstealer attack</SightstealerAttack.label>
+  <SightstealerAttack.letterDesc>{PAWN_nameDef} has let out a twisted half-human scream.\n\nIn the distance, you can hear other screams answering the call.\n\nThey are coming...</SightstealerAttack.letterDesc>
+  <SightstealerAttack.letterLabel>{PAWN_nameDef}'s howl</SightstealerAttack.letterLabel>
+</LanguageData>
