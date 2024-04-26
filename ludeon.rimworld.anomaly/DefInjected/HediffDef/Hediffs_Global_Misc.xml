@@ -17,7 +17,8 @@
   <BloodRage.stages.mild.label>mild</BloodRage.stages.mild.label>
   <BloodRage.stages.moderate.label>moderate</BloodRage.stages.moderate.label>
   <BloodRage.stages.severe.label>severe</BloodRage.stages.severe.label>
-  <BloodRage.stages.extreme.label>extreme</BloodRage.stages.extreme.label>
+  <BloodRage.stages.extreme-0.label>extreme</BloodRage.stages.extreme-0.label>
+  <BloodRage.stages.extreme-1.label>extreme</BloodRage.stages.extreme-1.label>
   
   <BrainwipeComa.label>brainwipe coma</BrainwipeComa.label>
   <BrainwipeComa.description>This person has had their memories erased. The violent nature of the process has put them into a coma.</BrainwipeComa.description>
@@ -168,7 +169,7 @@
   <Regeneration.stages.impossible.label>impossible</Regeneration.stages.impossible.label>
   
   <RevenantHypnosis.label>revenant hypnosis</RevenantHypnosis.label>
-  <RevenantHypnosis.description>This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or by being lit on fire.</RevenantHypnosis.description>
+  <RevenantHypnosis.description>This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or fire.</RevenantHypnosis.description>
   
   <ShardHolder.label>shard holder</ShardHolder.label>
   <ShardHolder.description>This creature will drop a shard when defeated. This text is visible in dev mode only.</ShardHolder.description>
