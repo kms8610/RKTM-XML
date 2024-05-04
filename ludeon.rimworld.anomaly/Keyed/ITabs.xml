@@ -16,6 +16,10 @@
   <EntityStudyMode_ReleaseDesc>A warden will release the entity from the holding platform. Entities may be hostile when released.</EntityStudyMode_ReleaseDesc>
   <EntityStudyMode_Execute>Execute</EntityStudyMode_Execute>
   <EntityStudyMode_ExecuteDesc>A warden will execute the restrained entity.</EntityStudyMode_ExecuteDesc>
+  <EntityStudyMode_Extract>Extract bioferrite</EntityStudyMode_Extract>
+  <EntityStudyMode_ExtractDesc>Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can’t be done if the entity is attached to a bioferrite harvester.</EntityStudyMode_ExtractDesc>
+  <RequiresBioferriteExtraction>Requires bioferrite extraction.</RequiresBioferriteExtraction>
+  <BioferriteHarvesterAttached>Blocked by bioferrite harvester.</BioferriteHarvesterAttached>
   <CantBeExecuted>Can't be executed.</CantBeExecuted>
   <StudyKnowledgeGain>Knowledge gain</StudyKnowledgeGain>
   <StudyKnowledgeGainDesc>Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge.</StudyKnowledgeGainDesc>

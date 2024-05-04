@@ -37,6 +37,17 @@
     <li>subject_gerund->provoking void entities</li>
   </BasicPsychicRituals.generalRules.rulesStrings>
   
+  <BioferriteExtraction.label>bioferrite extraction</BioferriteExtraction.label>
+  <BioferriteExtraction.description>Extract bioferrite directly from captured entities. Use it to craft weapons and apparel at a crafting spot or bioferrite shaper.</BioferriteExtraction.description>
+  <BioferriteExtraction.generalRules.rulesStrings>
+    <li>subject->bioferrite extraction</li>
+    <li>subject_story->extracted an organic compound from a rapidly mutating flesh sample</li>
+    <li>subject_story->stripped and boiled the flesh of a harbinger tree</li>
+    <li>subject_story->investigated reports of an archotech phenomenon</li>
+    <li>subject_story->discovered a novel organic metal</li>
+    <li>subject_gerund->extracting bioferrite</li>
+  </BioferriteExtraction.generalRules.rulesStrings>
+  
   <BioferriteGenerator.label>bioferrite generator</BioferriteGenerator.label>
   <BioferriteGenerator.description>Build power generators that burn bioferrite as a fuel.</BioferriteGenerator.description>
   <BioferriteGenerator.generalRules.rulesStrings>
@@ -50,8 +61,8 @@
     <li>subject_gerund->powering generators using bioferrite</li>
   </BioferriteGenerator.generalRules.rulesStrings>
   
-  <BioferriteHarvesting.label>bioferrite harvesting</BioferriteHarvesting.label>
-  <BioferriteHarvesting.description>Build bioferrite harvesters to generate bioferrite from captured entities contained in holding platforms.</BioferriteHarvesting.description>
+  <BioferriteHarvesting.label>bioferrite harvester</BioferriteHarvesting.label>
+  <BioferriteHarvesting.description>Build bioferrite harvesters that automatically extract bioferrite from captured entities. Produces more bioferrite than manual extraction.</BioferriteHarvesting.description>
   <BioferriteHarvesting.generalRules.rulesStrings>
     <li>subject->bioferrite</li>
     <li>subject_story->investigated an exotic metal-like fibrous substance</li>

@@ -22,9 +22,10 @@
   <Stat_ContainmentStrength_Platform>Building</Stat_ContainmentStrength_Platform>
 
   <StatsReport_BioferriteGeneration>Bioferrite generation</StatsReport_BioferriteGeneration>
-  <StatsReport_BioferriteGeneration_Desc>How much bioferrite this entity generates per day. When captured on a holding platform, bioferrite can be gathered from it by building a bioferrite harvester.</StatsReport_BioferriteGeneration_Desc>
+  <StatsReport_BioferriteGeneration_Desc>How much bioferrite this entity generates per day when connected to a bioferrite harvester.</StatsReport_BioferriteGeneration_Desc>
   <StatsReport_BioferriteDensityMultiplier>Multiplier for bioferrite density</StatsReport_BioferriteDensityMultiplier>
-  
+  <StatsReport_BioferriteExtractedMultiplier>Multiplier for bioferrite extracted recently</StatsReport_BioferriteExtractedMultiplier>
+
   <StatsReport_Offering>Offering</StatsReport_Offering>
   <StatsReport_Offering_Desc>The ingredients required to perform the psychic ritual.</StatsReport_Offering_Desc>
 

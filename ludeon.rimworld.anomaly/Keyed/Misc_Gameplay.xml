@@ -310,8 +310,8 @@
   <MessageShardDropped>{0} dropped a shard of dark archotechnology. You can collect and make use of it.</MessageShardDropped>
   
   <!-- Blood rain -->
-  <Berserk_BloodRain>The blood rain has driven {0} into a berserk rage!</Berserk_BloodRain>
-  <Manhunter_BloodRain>The blood rain has driven {0} into a manhunting rage!</Manhunter_BloodRain>
+  <Berserk_BloodRain>The blood rain has driven {0_nameIndef} into a berserk rage!</Berserk_BloodRain>
+  <Manhunter_BloodRain>The blood rain has driven {0_nameIndef} into a manhunting rage!</Manhunter_BloodRain>
   <MentalBreakReason_BloodRage>This happened because of blood rage buildup.</MentalBreakReason_BloodRage>
   
   <!-- Unnatural corpses -->
@@ -507,5 +507,13 @@
 
   <LetterChimerasAttackingLabel>Chimeras attacking</LetterChimerasAttackingLabel>
   <LetterChimerasAttacking>The chimeras have begun their attack!</LetterChimerasAttacking>
-
+  
+  <!-- Anomaly event frequency -->
+  <AnomalyFrequency_None>No major threats</AnomalyFrequency_None>
+  <AnomalyFrequency_VeryRare>Very rare</AnomalyFrequency_VeryRare>
+  <AnomalyFrequency_Rare>Rare</AnomalyFrequency_Rare>
+  <AnomalyFrequency_Balanced>Balanced</AnomalyFrequency_Balanced>
+  <AnomalyFrequency_Intense>Intense</AnomalyFrequency_Intense>
+  <AnomalyFrequency_Overwhelming>Overwhelming</AnomalyFrequency_Overwhelming>
+  
 </LanguageData>
