@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_Golem_FleshRestore.label>restore part</TM_Golem_FleshRestore.label>
+  <TM_Golem_FleshMaxEnergy.label>muscular endurance</TM_Golem_FleshMaxEnergy.label>
+  <TM_Golem_FleshMaxEnergy.description>Increases maximum energy by 400 per level. Starting max energy is 800.</TM_Golem_FleshMaxEnergy.description>
+  <TM_Golem_FleshEnergyEfficiency.label>muscular efficiency</TM_Golem_FleshEnergyEfficiency.label>
+  <TM_Golem_FleshEnergyEfficiency.description>Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.</TM_Golem_FleshEnergyEfficiency.description>
+  <TM_Golem_FleshEnergyRate.label>energy synthesis</TM_Golem_FleshEnergyRate.label>
+  <TM_Golem_FleshEnergyRate.description>Increases energy charge rate by 20% per level. Starting recharge rate is 100 energy/hour.</TM_Golem_FleshEnergyRate.description>
+  <TM_Golem_Flesh_LeftArmBrace.label>left arm brace</TM_Golem_Flesh_LeftArmBrace.label>
+  <TM_Golem_Flesh_LeftArmBrace.description>Increases block chance by 20%, stacks with right bracer.</TM_Golem_Flesh_LeftArmBrace.description>
+  <TM_Golem_Flesh_LeftArmCleaver.label>left arm (harvest) cleaver</TM_Golem_Flesh_LeftArmCleaver.label>
+  <TM_Golem_Flesh_LeftArmCleaver.description>Harvest plants
+		
+AoE Cleave
+Rage Cost:	15
+Damage:	15
+Splash:	2c</TM_Golem_Flesh_LeftArmCleaver.description>
+  <TM_Golem_Flesh_RightArmBrace.label>right arm brace</TM_Golem_Flesh_RightArmBrace.label>
+  <TM_Golem_Flesh_RightArmBrace.description>Increases block chance by 20%, stacks with left bracer.</TM_Golem_Flesh_RightArmBrace.description>
+  <TM_Golem_Flesh_RightArmCleaver.label>right arm (chop) cleaver</TM_Golem_Flesh_RightArmCleaver.label>
+  <TM_Golem_Flesh_RightArmCleaver.description>Cut trees
+
+AoE Cleave
+Rage Cost:	15
+Damage:	15
+Splash:	2c</TM_Golem_Flesh_RightArmCleaver.description>
+  <TM_Golem_Flesh_Tusks.label>tusks</TM_Golem_Flesh_Tusks.label>
+  <TM_Golem_Flesh_Tusks.description>Adds a powerful bite attack.</TM_Golem_Flesh_Tusks.description>
+  <TM_Golem_Flesh_Horns.label>horns</TM_Golem_Flesh_Horns.label>
+  <TM_Golem_Flesh_Horns.description>Adds a piercing attack and charge ability.
+
+Bull Charge
+Rage Cost:	5
+Cooldown:	10s</TM_Golem_Flesh_Horns.description>
+  <TM_Golem_Flesh_EyesT1.label>quad sight</TM_Golem_Flesh_EyesT1.label>
+  <TM_Golem_Flesh_EyesT1.description>Increases sight by 100%.</TM_Golem_Flesh_EyesT1.description>
+  <TM_Golem_Flesh_EyesT2.label>evil eye</TM_Golem_Flesh_EyesT2.label>
+  <TM_Golem_Flesh_EyesT2.description>Enables an ability that terrifies and slows enemies.
+
+Evil Eye
+Rage Cost:	10
+Cooldown:	2.2s
+Range:	40</TM_Golem_Flesh_EyesT2.description>
+  <TM_Golem_Flesh_Wings.label>wings</TM_Golem_Flesh_Wings.label>
+  <TM_Golem_Flesh_Wings.description>Adds an ability that can grant the golem haste.
+
+Haste
+Rage Cost:	15
+Cooldown:	6s
+Double attack and move speed</TM_Golem_Flesh_Wings.description>
+  <TM_Golem_Flesh_SkullPlate.label>skull plate</TM_Golem_Flesh_SkullPlate.label>
+  <TM_Golem_Flesh_SkullPlate.description>Increases armor:
+Blunt:	12%
+Sharp:	18%
+Heat:	8%</TM_Golem_Flesh_SkullPlate.description>
+  <TM_Golem_Flesh_ShoulderPlates.label>shoulder plates</TM_Golem_Flesh_ShoulderPlates.label>
+  <TM_Golem_Flesh_ShoulderPlates.description>Increases armor:
+Blunt:	14%
+Sharp:	12%
+Heat:	10%</TM_Golem_Flesh_ShoulderPlates.description>
+  <TM_Golem_Flesh_ChestCage.label>chest cage</TM_Golem_Flesh_ChestCage.label>
+  <TM_Golem_Flesh_ChestCage.description>Increases armor:
+Blunt:	28%
+Sharp:	10%
+Heat:	5%</TM_Golem_Flesh_ChestCage.description>
+  <TM_Golem_Flesh_SpineGuard.label>spine guard</TM_Golem_Flesh_SpineGuard.label>
+  <TM_Golem_Flesh_SpineGuard.description>Increases armor:
+Blunt:	12%
+Sharp:	14%
+Heat:	5%</TM_Golem_Flesh_SpineGuard.description>
+  <TM_Golem_Flesh_LegPlates.label>leg plates</TM_Golem_Flesh_LegPlates.label>
+  <TM_Golem_Flesh_LegPlates.description>Increases armor:
+Blunt:	10%
+Sharp:	15%
+Heat:	8%</TM_Golem_Flesh_LegPlates.description>
+  <TM_Golem_FleshLifeStage.label>automaton power</TM_Golem_FleshLifeStage.label>
+  <TM_Golem_FleshLifeStage.description>Increases stats and adds the dismember ability.
+Movement:	+[20%/35%/50%]
+Health:		+[30%/50%/70%]
+
+Dismember
+Rage Cost:	25
+Cooldown:	13s
+Range:	1c</TM_Golem_FleshLifeStage.description>
+  <TM_Golem_HollowRestore.label>restore part</TM_Golem_HollowRestore.label>
+  <TM_Golem_HollowMaxEnergy.label>mana cell</TM_Golem_HollowMaxEnergy.label>
+  <TM_Golem_HollowMaxEnergy.description>Increases maximum energy by 500 per level. Starting max energy is 2500.</TM_Golem_HollowMaxEnergy.description>
+  <TM_Golem_HollowEnergyEfficiency.label>mana converter</TM_Golem_HollowEnergyEfficiency.label>
+  <TM_Golem_HollowEnergyEfficiency.description>Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.</TM_Golem_HollowEnergyEfficiency.description>
+  <TM_Golem_HollowEnergyRate.label>mana attractor</TM_Golem_HollowEnergyRate.label>
+  <TM_Golem_HollowEnergyRate.description>Increases energy charge rate by 20% per level. Starting recharge rate is 30 energy/hour.</TM_Golem_HollowEnergyRate.description>
+  <TM_Golem_HollowAxe.label>hollow axe</TM_Golem_HollowAxe.label>
+  <TM_Golem_HollowAxe.description>Adds a massive battle-axe that shears through multiple opponents with each swing. The hollowed axe occupies the weapon slot; only one weapon may be equipped.</TM_Golem_HollowAxe.description>
+  <TM_Golem_HollowStaff.label>Hollow Staff</TM_Golem_HollowStaff.label>
+  <TM_Golem_HollowStaff.description>Enables a ranged, magical attack. The hollowed staff occupies the weapon slot; only one weapon may be equipped.</TM_Golem_HollowStaff.description>
+  <TM_Golem_HollowBreastPlate.label>breastplate</TM_Golem_HollowBreastPlate.label>
+  <TM_Golem_HollowBreastPlate.description>Increases armor for the chest and torso:
+Blunt:	+21%
+Sharp:	+32%
+Heat:	+14%</TM_Golem_HollowBreastPlate.description>
+  <TM_Golem_HollowHelm.label>helmet</TM_Golem_HollowHelm.label>
+  <TM_Golem_HollowHelm.description>Protects the head and skull:
+Blunt:	+22%
+Sharp:	+7%
+Heat:	+9%</TM_Golem_HollowHelm.description>
+  <TM_Golem_HollowShoulders.label>shoulder guards</TM_Golem_HollowShoulders.label>
+  <TM_Golem_HollowShoulders.description>Protects the shoulders, collar and neck:
+Blunt:	+8%
+Sharp:	+19%
+Heat:	+6%</TM_Golem_HollowShoulders.description>
+  <TM_Golem_HollowCrown.label>Crown of Awakening</TM_Golem_HollowCrown.label>
+  <TM_Golem_HollowCrown.description>Passively strengthens the will of the wearer to protect against magical attacks and offers minor physical protection. Active ability detects and nullify the magic of other spells.
+
+Spell Reflection
+Energy Cost:	50
+Cooldown:	6.6s
+Range:	100c
+Damage and radius varies based on mana cost of reflected spell</TM_Golem_HollowCrown.description>
+  <TM_Golem_HollowCloak.label>Fade Cloak</TM_Golem_HollowCloak.label>
+  <TM_Golem_HollowCloak.description>The fade cloak passively increases the basic movement speed of the wearer while providing a small amount of protection. It also allows the wearer to instantly move to another location on the map by expending energy. If the wearer fades to a location near enemies, a decay blast will strike each enemy near the destination.
+
+Blunt:	+10%
+Sharp:	+5%
+Heat:	+15%
+Harmony: +5%
+Move Speed +.4c/s
+
+Faded Decay
+Energy Cost:	30
+Cooldown:	20s
+Min Range:	10c
+Max Range:	200c
+Decay Radius:	4c
+Hit Chance:	80%</TM_Golem_HollowCloak.description>
+  <TM_HollowGolem_CoAFire.label>Coat of Arms: Fire</TM_HollowGolem_CoAFire.label>
+  <TM_HollowGolem_CoAFire.description>Passively increases stats and improves decay touch to deal bonus 10 + 5*level burn damage:
+Movement:	+[0.2c/0.3c/0.35c]
+Heat Armor:	+[30%/50%/60%]
+Ability Cooldown:	-[10%/20%/30%]
+Processing:	+[10%/20%/30%]
+
+Absorb Fire
+Energy Cost:	0
+Cooldown:	4.2s
+Range:	2c
+Health restored per fire: 7</TM_HollowGolem_CoAFire.description>
+  <TM_HollowGolem_CoAIce.label>Coat of Arms: Water</TM_HollowGolem_CoAIce.label>
+  <TM_HollowGolem_CoAIce.description>Passively increases stats and improves decay touch to heal the golem for 8 + 4*level and another nearby pawn for the same amount.
+Armor:		+[5%/10%/15%]
+Cooldown:	-[10%/20%/30%]
+Processing:	+[10%/20%/30%]</TM_HollowGolem_CoAIce.description>
+  <TM_HollowGolem_CoAArcane.label>Coat of Arms: Arcane</TM_HollowGolem_CoAArcane.label>
+  <TM_HollowGolem_CoAArcane.description>Passively increases stats and improves decay touch to restore 20 + 5*level energy per hit.
+Ability Cooldown:	-[12%/24%/36%]
+Ability Damage:		+[10%/20%/30%]
+Processing:		+[15%/30%/45%]</TM_HollowGolem_CoAArcane.description>
+  <TM_HollowGolem_CoADeath.label>Coat of Arms: Death</TM_HollowGolem_CoADeath.label>
+  <TM_HollowGolem_CoADeath.description>Passively increases stats and improves decay touch to be 50% more effective and strike twice.
+Armor:		+[5%/10%/15%]
+Ability Cooldown:	-[8%/16%/24%]
+Ability Damage:	+[10%/20%/30%]
+Processing:	+[15%/30%/45%]</TM_HollowGolem_CoADeath.description>
+  <TM_Golem_HollowPGFire.label>Protection Gem: Fire</TM_Golem_HollowPGFire.label>
+  <TM_Golem_HollowPGFire.description>The Fire protection gem allows the golem to encase itself in fire with the Burning Fury shield. Burning Fury provides a 35% damage reduction to all attacks, cauterizes wounds, prevents being staggered, and burns nearby enemies.
+
+Energy Cost: 120
+Cooldown: 1200s
+Duration: 100s</TM_Golem_HollowPGFire.description>
+  <TM_Golem_HollowPGIce.label>Protection Gem: Water</TM_Golem_HollowPGIce.label>
+  <TM_Golem_HollowPGIce.description>The Water protection gem allows the golem evade incoming attacks. The chance to evade an attack is proportional to the golem's energy percent. Each evasion reduces the golems energy by 5. This ability is persistent as long as the golem energy threshold is above the minimum required to use abilities.</TM_Golem_HollowPGIce.description>
+  <TM_Golem_HollowPGArcane.label>Protection Gem: Arcane</TM_Golem_HollowPGArcane.label>
+  <TM_Golem_HollowPGArcane.description>The Arcane protection gem allows the golem to surround enemy ranged attackers with a reverse shield called Well of Despair. Well of Despair allows projectiles in but will block all projectiles out.
+		
+Energy Cost:	60
+Cooldown:	480
+Range:		50
+Duration:	20s</TM_Golem_HollowPGArcane.description>
+  <TM_Golem_HollowPGDeath.label>Protection Gem: Death</TM_Golem_HollowPGDeath.label>
+  <TM_Golem_HollowPGDeath.description>The Death protection gem surrounds the golem with a cursed aura. Enemies within 15 cells can be stricken with a curse that degrades willpower and combat abilities. The energy cost is always 10 regardless of how many enemies are affected.
+		
+Aura Range:	15
+Pulse Rate:	12s
+Energy Cost:	10 energy per pulse</TM_Golem_HollowPGDeath.description>
+  <TM_Golem_HollowPGDoom.label>Protection Gem: Death's Abyss</TM_Golem_HollowPGDoom.label>
+  <TM_Golem_HollowPGDoom.description>The Death's Abyss protection gem curses enemies with the weight of their mortality. Enemies within 36 cells can be stricken with a movement slowing curse. 
+		
+Aura Range:	36
+Pulse Rate:	10s
+Energy Cost:	8 energy per pawn</TM_Golem_HollowPGDoom.description>
+  <TM_Golem_HollowFGFire.label>Focus Gem: Fire</TM_Golem_HollowFGFire.label>
+  <TM_Golem_HollowFGFire.description>The Fire focus gem allows the golem to concentrate elemental fire into a fierce burst of firebolts. Launches 16 firebolts at enemies within 8 cells of a target.
+
+Energy Cost: 40
+Min Range: 6
+Max Range: 50</TM_Golem_HollowFGFire.description>
+  <TM_Golem_HollowFGIce.label>Focus Gem: Ice</TM_Golem_HollowFGIce.label>
+  <TM_Golem_HollowFGIce.description>The Ice focus gem allows the golem to concentrate elemental ice into a rapid flow of icebolts. Launches 16 icebolts at enemies within 12 cells of a target.
+
+Energy Cost: 60
+Min Range: 10
+Max Range: 70</TM_Golem_HollowFGIce.description>
+  <TM_Golem_HollowFGArcane.label>Focus Gem: Arcane</TM_Golem_HollowFGArcane.label>
+  <TM_Golem_HollowFGArcane.description>The Arcane focus gem allows the golem to concentrate dark energy a massive shadow bolt. Launches a single, explosive shadowbolt at the target. Extreme range.
+
+Energy Cost: 50
+Min Range: 10
+Max Range: 150</TM_Golem_HollowFGArcane.description>
+  <TM_Golem_HollowFGDeath.label>Focus Gem: Death</TM_Golem_HollowFGDeath.label>
+  <TM_Golem_HollowFGDeath.description>The Death focus gem surrounds the golem with a field radiating death energy. Periodically strikes nearby enemies. Gains a bonus strike when any pawn dies within 10 cells of the golem.
+
+Energy Cost: 20
+Range: 10</TM_Golem_HollowFGDeath.description>
+  <TM_Golem_HollowAffinityFire.label>fire affinity</TM_Golem_HollowAffinityFire.label>
+  <TM_Golem_HollowAffinityFire.description>The arcane energy within the hollow golem is entwined with elemental fire. Only one affinity is allowed per golem. This affinity causes the golem's eyes to glow reddish orange. Fire affinity grants the golem additional stats:
+Movement: +[25/40/50]%
+Health:	+[40/60/75]%</TM_Golem_HollowAffinityFire.description>
+  <TM_Golem_HollowAffinityIce.label>water affinity</TM_Golem_HollowAffinityIce.label>
+  <TM_Golem_HollowAffinityIce.description>The arcane energy within the hollow golem is entwined with elemental water. Only one affinity is allowed per golem. This affinity causes the golem's eyes to glow light blue. Water affinity grants the golem additional stats:
+Movement: +[20/30/35]%
+Health:	+[50/75/90]%</TM_Golem_HollowAffinityIce.description>
+  <TM_Golem_HollowAffinityArcane.label>arcane affinity</TM_Golem_HollowAffinityArcane.label>
+  <TM_Golem_HollowAffinityArcane.description>The arcane energy within the hollow golem is further enhanced. Only one affinity is allowed per golem. This affinity causes the golem's eyes to glow magenta. Arcane affinity grants the golem additional stats:
+Movement: +[15/25/30]%
+Health:	+[55/85/100]%</TM_Golem_HollowAffinityArcane.description>
+  <TM_Golem_HollowAffinityDeath.label>death affinity</TM_Golem_HollowAffinityDeath.label>
+  <TM_Golem_HollowAffinityDeath.description>The arcane energy within the hollow golem is entwined with death magic. Only one affinity is allowed per golem. This affinity causes the golem's eyes to glow green. Death affinity grants the golem additional stats:
+Movement: +[10/15/20]%
+Health:	+[65/90/110]%</TM_Golem_HollowAffinityDeath.description>
+  <TM_Golem_HollowOrbOfExtinguishedFlames.label>Orb of Extinguished Flames</TM_Golem_HollowOrbOfExtinguishedFlames.label>
+  <TM_Golem_HollowOrbOfExtinguishedFlames.description>Gain points into the active research technology will increase for every pawn killed on the map. The orb can also be toggled to detect and consume any fire within 25 cells and emits a faint silver light. These effect are only active while the hollow golem is dormant.</TM_Golem_HollowOrbOfExtinguishedFlames.description>
+  <TM_Golem_HollowFlamesOfDevouringApathy.label>Flames of Devouring Apathy</TM_Golem_HollowFlamesOfDevouringApathy.label>
+  <TM_Golem_HollowFlamesOfDevouringApathy.description>Actively regulates temperature and destroys any filth within 25 cells. Emits a faint mystical light. These effect are only active while the hollow golem is dormant.</TM_Golem_HollowFlamesOfDevouringApathy.description>
+  <TM_Golem_MaharalRepair.label>restore part</TM_Golem_MaharalRepair.label>
+  <TM_Golem_MaharalMaxEnergy.label>energy storage</TM_Golem_MaharalMaxEnergy.label>
+  <TM_Golem_MaharalMaxEnergy.description>Increases maximum energy by 100 per level. Starting max energy is 800.</TM_Golem_MaharalMaxEnergy.description>
+  <TM_Golem_MaharalEnergyEfficiency.label>energy efficiency</TM_Golem_MaharalEnergyEfficiency.label>
+  <TM_Golem_MaharalEnergyEfficiency.description>Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.</TM_Golem_MaharalEnergyEfficiency.description>
+  <TM_Golem_MaharalEnergyRate.label>energy regeneration</TM_Golem_MaharalEnergyRate.label>
+  <TM_Golem_MaharalEnergyRate.description>Increases energy charge rate by 20% per level. Starting recharge rate is 30 energy/hour.</TM_Golem_MaharalEnergyRate.description>
+  <TM_Golem_MaharalArmor.label>armor</TM_Golem_MaharalArmor.label>
+  <TM_Golem_MaharalArmor.description>Increases overall protection:
+Blunt:	+[9,16,21]%
+Sharp:	+[13,22,29]%
+Heat:	+[8,14,18]%</TM_Golem_MaharalArmor.description>
+  <TM_Golem_MaharalPower.label>Power</TM_Golem_MaharalPower.label>
+  <TM_Golem_MaharalPower.description>Enables the golem the ability to produce excess power while dormant.</TM_Golem_MaharalPower.description>
+  <TM_Golem_MaharalHeat.label>Heat</TM_Golem_MaharalHeat.label>
+  <TM_Golem_MaharalHeat.description>Enables the golem the ability to produce heat while dormant.</TM_Golem_MaharalHeat.description>
+  <TM_Golem_MaharalLifeStage.label>frame tier</TM_Golem_MaharalLifeStage.label>
+  <TM_Golem_MaharalLifeStage.description>Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/50%]</TM_Golem_MaharalLifeStage.description>
+  <TM_Golem_MechaRepair.label>restore part</TM_Golem_MechaRepair.label>
+  <TM_Golem_MechaMaxEnergy.label>energy cell</TM_Golem_MechaMaxEnergy.label>
+  <TM_Golem_MechaMaxEnergy.description>Increases maximum energy by 500 per level. Starting max energy is 1000.</TM_Golem_MechaMaxEnergy.description>
+  <TM_Golem_MechaEnergyEfficiency.label>energy converter</TM_Golem_MechaEnergyEfficiency.label>
+  <TM_Golem_MechaEnergyEfficiency.description>Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.</TM_Golem_MechaEnergyEfficiency.description>
+  <TM_Golem_MechaEnergyRate.label>electrical neuro-core</TM_Golem_MechaEnergyRate.label>
+  <TM_Golem_MechaEnergyRate.description>Increases energy charge rate by 20% per level. Starting recharge rate is 50 energy/hour when disconnected from a power grid. Connecting to a power grind increases the recharge rate.</TM_Golem_MechaEnergyRate.description>
+  <TM_Golem_MechaExtinguisher.label>extinguisher</TM_Golem_MechaExtinguisher.label>
+  <TM_Golem_MechaExtinguisher.description>Adds the ability to quickly douse fires.</TM_Golem_MechaExtinguisher.description>
+  <TM_Golem_MechaBallisticPlate.label>ballistic plate</TM_Golem_MechaBallisticPlate.label>
+  <TM_Golem_MechaBallisticPlate.description>Increases armor but decreases movement for each level:
+Blunt:	+[24,37,49]%
+Sharp:	+[35,53,68]%
+Heat:	+[40,60,75]%
+Move:	-[.3c,.5c,.6c]%</TM_Golem_MechaBallisticPlate.description>
+  <TM_Golem_MechaAxe.label>mecha-axe</TM_Golem_MechaAxe.label>
+  <TM_Golem_MechaAxe.description>Adds a quick cutting attack, useful for cutting down unarmored masses.</TM_Golem_MechaAxe.description>
+  <TM_Golem_MechaSword.label>mecha-sword</TM_Golem_MechaSword.label>
+  <TM_Golem_MechaSword.description>Adds a powerful cutting attack, useful for breaking through defenses and severing limbs.</TM_Golem_MechaSword.description>
+  <TM_Golem_MechaHammer.label>mecha-hammer</TM_Golem_MechaHammer.label>
+  <TM_Golem_MechaHammer.description>Adds a ruthless blunt attack, more powerful than the golems fists.</TM_Golem_MechaHammer.description>
+  <TM_Golem_MechaGatlingCannon.label>Gatling cannon</TM_Golem_MechaGatlingCannon.label>
+  <TM_Golem_MechaGatlingCannon.description>Fires a 12 round burst of gunfire.
+Cooldown:	5s
+Energy Cost:	40
+Range: 		40</TM_Golem_MechaGatlingCannon.description>
+  <TM_Golem_MechaMiningLaser.label>mining laser</TM_Golem_MechaMiningLaser.label>
+  <TM_Golem_MechaMiningLaser.description>Allows the golem to mine designated wall segments.
+Energy Cost: [20,18,16,14]
+Laser Power: [40,50,60,70]</TM_Golem_MechaMiningLaser.description>
+  <TM_Golem_MechaFlameCore.label>flame core</TM_Golem_MechaFlameCore.label>
+  <TM_Golem_MechaFlameCore.description>Passively increases golem stats and adds an ability that burns away nearby filth.
+Movement:	+[0.5c/0.9c/1.2c]
+Processing: 	+[10%/20%/30%]
+Ability Damage:	+[10%/20%/30%]
+Energy Cost:	+[10%/20%/30%]
+
+Cleaning Protocol
+Cooldown:	6s
+Range:	2c
+Energy Cost:	4 per filth</TM_Golem_MechaFlameCore.description>
+  <TM_Golem_MechaWaterCore.label>water core</TM_Golem_MechaWaterCore.label>
+  <TM_Golem_MechaWaterCore.description>Passively increases golem stats and adds an autonomous repair mechanism.
+Armor:		+[5%/10%/15%]
+Ability Cooldown:	-[10%/20%/30%]
+Healing Bonus:	+[100%/200%/300%]
+Energy Cost:	-[15%/30%/45%]
+
+Autonomous Repair
+Cooldown:	3s
+Energy Cost:	10(D), 30(A)
+Heal Amount:	8</TM_Golem_MechaWaterCore.description>
+  <TM_Golem_MechaEarthCore.label>earth core</TM_Golem_MechaEarthCore.label>
+  <TM_Golem_MechaEarthCore.description>Passively increases golem stats and adds an ability that provides a shield.
+Armor:		+[10%/18%/25%]
+Ability Cooldown:	+[5%/10%/15%]
+Healing Bonus:	+[60%/120%/180%]
+Energy Cost:	+[5%/10%/15%]
+Processing: 	+[15%/30%/45%]
+
+Shield Protocol
+Cooldown:	10s
+Energy Cost:	10
+Shield Amount:	120</TM_Golem_MechaEarthCore.description>
+  <TM_Golem_MechaLightningCore.label>lightning core</TM_Golem_MechaLightningCore.label>
+  <TM_Golem_MechaLightningCore.description>Passively increases golem stats and adds a reflexive coating to the golem's shell that produces an electric discharge that stuns melee attackers.
+Movement:	+[1.2c/1.8c/2.2c]
+Ability Cooldown:	-[15%/30%/45%]
+Energy Cost:	+[10%/20%/30%]
+Processing: 	-[5%/10%/15%]</TM_Golem_MechaLightningCore.description>
+  <TM_Golem_MechaFlameShard.label>flame shard</TM_Golem_MechaFlameShard.label>
+  <TM_Golem_MechaFlameShard.description>Increases golem stats:
+Movement:	+[15%/30%/40%]
+Health:		+[15%/30%/40%]</TM_Golem_MechaFlameShard.description>
+  <TM_Golem_MechaWaterShard.label>water shard</TM_Golem_MechaWaterShard.label>
+  <TM_Golem_MechaWaterShard.description>Increases golem stats:
+Movement:	+[10%/15%/20%]
+Health:		+[30%/50%/70%]</TM_Golem_MechaWaterShard.description>
+  <TM_Golem_MechaEarthShard.label>earth shard</TM_Golem_MechaEarthShard.label>
+  <TM_Golem_MechaEarthShard.description>Increases golem stats:
+Health:		+[40%/80%/120%]</TM_Golem_MechaEarthShard.description>
+  <TM_Golem_MechaLightningShard.label>lightning shard</TM_Golem_MechaLightningShard.label>
+  <TM_Golem_MechaLightningShard.description>Increases golem stats:
+Movement:	+[25%/50%/75%]</TM_Golem_MechaLightningShard.description>
+  <TM_Golem_SilkRepair.label>restore part</TM_Golem_SilkRepair.label>
+  <TM_Golem_SilkMaxEnergy.label>energy storage</TM_Golem_SilkMaxEnergy.label>
+  <TM_Golem_SilkMaxEnergy.description>Increases maximum energy by 100 per level. Starting max energy is 300.</TM_Golem_SilkMaxEnergy.description>
+  <TM_Golem_SilkEnergyEfficiency.label>energy efficiency</TM_Golem_SilkEnergyEfficiency.label>
+  <TM_Golem_SilkEnergyEfficiency.description>Increases energy efficiency by 8% per level. Starting energy efficiency is 40%.</TM_Golem_SilkEnergyEfficiency.description>
+  <TM_Golem_SilkEnergyRate.label>energy regeneration</TM_Golem_SilkEnergyRate.label>
+  <TM_Golem_SilkEnergyRate.description>Increases energy charge rate by 10% per level. Starting recharge rate is 20 energy/hour.</TM_Golem_SilkEnergyRate.description>
+  <TM_Golem_SilkSkills.label>Skill Enhancement</TM_Golem_SilkSkills.label>
+  <TM_Golem_SilkSkills.description>Increases the skill levels of wardening by 1 per skill level. Starts with a skill of 7.</TM_Golem_SilkSkills.description>
+  <TM_Golem_SilkLifeStage.label>frame tier</TM_Golem_SilkLifeStage.label>
+  <TM_Golem_SilkLifeStage.description>Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/60%]</TM_Golem_SilkLifeStage.description>
+  <TM_Golem_StoneRepair.label>restore part</TM_Golem_StoneRepair.label>
+  <TM_Golem_StoneMaxEnergy.label>energy storage</TM_Golem_StoneMaxEnergy.label>
+  <TM_Golem_StoneMaxEnergy.description>Increases maximum energy by 120 per level. Starting max energy is 800.</TM_Golem_StoneMaxEnergy.description>
+  <TM_Golem_StoneEnergyEfficiency.label>energy efficiency</TM_Golem_StoneEnergyEfficiency.label>
+  <TM_Golem_StoneEnergyEfficiency.description>Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.</TM_Golem_StoneEnergyEfficiency.description>
+  <TM_Golem_StoneEnergyRate.label>energy regeneration</TM_Golem_StoneEnergyRate.label>
+  <TM_Golem_StoneEnergyRate.description>Increases energy charge rate by 20% per level. Starting recharge rate is 20 energy/hour.</TM_Golem_StoneEnergyRate.description>
+  <TM_Golem_StoneHardening.label>hardening</TM_Golem_StoneHardening.label>
+  <TM_Golem_StoneHardening.description>Increases overall protection:
+Blunt:	+[4,8,12]%
+Sharp:	+[11,22,33]%
+Heat:	+[6,12,18]%</TM_Golem_StoneHardening.description>
+  <TM_Golem_StoneCompactor.label>Stone compactor</TM_Golem_StoneCompactor.label>
+  <TM_Golem_StoneCompactor.description>Allows the golem the ability to crush stone chunks into usable bricks. This process occurs on its own after the stone chunks are deposited into the golem, and requires the golem to be in it's dormant state.</TM_Golem_StoneCompactor.description>
+  <TM_Golem_StoneToBricks.label>making</TM_Golem_StoneToBricks.label>
+  <TM_Golem_StoneToBricks.description>Converts stone chucks into bricks over time</TM_Golem_StoneToBricks.description>
+  <TM_Golem_StoneLifeStage.label>frame tier</TM_Golem_StoneLifeStage.label>
+  <TM_Golem_StoneLifeStage.description>Increases stats:
+Movement:	+[20%/35%/50%]
+Health:		+[40%/70%/100%]</TM_Golem_StoneLifeStage.description>
+  <TM_Golem_StrawRepair.label>restore part</TM_Golem_StrawRepair.label>
+  <TM_Golem_StrawMaxEnergy.label>energy storage</TM_Golem_StrawMaxEnergy.label>
+  <TM_Golem_StrawMaxEnergy.description>Increases maximum energy by 100 per level. Starting max energy is 300.</TM_Golem_StrawMaxEnergy.description>
+  <TM_Golem_StrawEnergyEfficiency.label>energy efficiency</TM_Golem_StrawEnergyEfficiency.label>
+  <TM_Golem_StrawEnergyEfficiency.description>Increases energy efficiency by 6% per level. Starting energy efficiency is 30%.</TM_Golem_StrawEnergyEfficiency.description>
+  <TM_Golem_StrawEnergyRate.label>energy regeneration</TM_Golem_StrawEnergyRate.label>
+  <TM_Golem_StrawEnergyRate.description>Increases energy charge rate by 20% per level. Starting recharge rate is 20 energy/hour.</TM_Golem_StrawEnergyRate.description>
+  <TM_Golem_StrawArmor.label>armor</TM_Golem_StrawArmor.label>
+  <TM_Golem_StrawArmor.description>Increases overall protection:
+Blunt:	+[6,11,15]%
+Sharp:	+[5,9,13]%
+Heat:	+[4,7,10]%</TM_Golem_StrawArmor.description>
+  <TM_Golem_StrawScarecrow.label>Scarecrow</TM_Golem_StrawScarecrow.label>
+  <TM_Golem_StrawScarecrow.description>Wards away unwanted pests. Increases crop growth rate in a 6 cell radius.</TM_Golem_StrawScarecrow.description>
+  <TM_Golem_StrawSeed.label>Farming</TM_Golem_StrawSeed.label>
+  <TM_Golem_StrawSeed.description>Increases the Plants skill of the golem by 2 per level. Starts with a planting skill of 0.</TM_Golem_StrawSeed.description>
+  <TM_Golem_StrawLifeStage.label>frame tier</TM_Golem_StrawLifeStage.label>
+  <TM_Golem_StrawLifeStage.description>Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/50%]</TM_Golem_StrawLifeStage.description>
+  <TM_Golem_WoodRepair.label>restore part</TM_Golem_WoodRepair.label>
+  <TM_Golem_WoodMaxEnergy.label>energy storage</TM_Golem_WoodMaxEnergy.label>
+  <TM_Golem_WoodMaxEnergy.description>Increases maximum energy by 100 per level. Starting max energy is 400.</TM_Golem_WoodMaxEnergy.description>
+  <TM_Golem_WoodEnergyEfficiency.label>energy efficiency</TM_Golem_WoodEnergyEfficiency.label>
+  <TM_Golem_WoodEnergyEfficiency.description>Increases energy efficiency by 5% per level. Starting energy efficiency is 25%.</TM_Golem_WoodEnergyEfficiency.description>
+  <TM_Golem_WoodEnergyRate.label>energy regeneration</TM_Golem_WoodEnergyRate.label>
+  <TM_Golem_WoodEnergyRate.description>Increases energy charge rate by 15% per level. Starting recharge rate is 25 energy/hour.</TM_Golem_WoodEnergyRate.description>
+  <TM_Golem_WoodArmor.label>armor</TM_Golem_WoodArmor.label>
+  <TM_Golem_WoodArmor.description>Increases overall protection:
+Blunt:	+[9,17,23]%
+Sharp:	+[8,15,21]%
+Heat:	+[4,7,10]%</TM_Golem_WoodArmor.description>
+  <TM_Golem_WoodSkills.label>Skill Enhancement</TM_Golem_WoodSkills.label>
+  <TM_Golem_WoodSkills.description>Increases the skill levels of construction and handling by 2 per skill level and cooking by 1 per skill level.</TM_Golem_WoodSkills.description>
+  <TM_Golem_WoodLifeStage.label>frame tier</TM_Golem_WoodLifeStage.label>
+  <TM_Golem_WoodLifeStage.description>Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/60%]</TM_Golem_WoodLifeStage.description>
+</LanguageData>

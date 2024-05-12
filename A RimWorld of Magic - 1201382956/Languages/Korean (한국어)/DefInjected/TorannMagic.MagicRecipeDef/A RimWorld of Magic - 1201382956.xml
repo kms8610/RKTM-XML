@@ -77,6 +77,13 @@ Mana: 50 ea.
 Fail chance: 25%
 Fail backlash: 12</TM_CreateGiantSkeletonMR.description>
   <TM_CreateGiantSkeletonMR.jobString>animating skeleton</TM_CreateGiantSkeletonMR.jobString>
+  <TM_SummonSpiritMR.label>Conjuration: possessor spirit</TM_SummonSpiritMR.label>
+  <TM_SummonSpiritMR.description>Summons a wandering spirit.
+Casters: 3
+Mana: 40 ea.
+Fail chance: 25%
+Fail backlash: 15</TM_SummonSpiritMR.description>
+  <TM_SummonSpiritMR.jobString>summoning spirit</TM_SummonSpiritMR.jobString>
   <TM_RuunbledMR.label>Conjuration: mystic weapon</TM_RuunbledMR.label>
   <TM_RuunbledMR.description>Summons a mystic weapon
 Casters: 3

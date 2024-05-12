@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <JobDriver_GolemDespawn.reportString>deactivating</JobDriver_GolemDespawn.reportString>
+  <JobDriver_GolemDespawnWait.reportString>deactivating</JobDriver_GolemDespawnWait.reportString>
+  <JobDriver_GolemSelfTend.reportString>auto tend</JobDriver_GolemSelfTend.reportString>
+  <JobDriver_MechaMine.reportString>mining protocol</JobDriver_MechaMine.reportString>
+  <JobDriver_FleshHarvest.reportString>harvesting plants</JobDriver_FleshHarvest.reportString>
+  <JobDriver_FleshChop.reportString>cutting plants and trees</JobDriver_FleshChop.reportString>
+  <JobDriver_GolemAbilityJob.reportString>using ability</JobDriver_GolemAbilityJob.reportString>
+  <JobDriver_GolemAttackStatic.reportString>targeting TargetA.</JobDriver_GolemAttackStatic.reportString>
+  <TM_SeverMagic.reportString>Severing TargetA from magic.</TM_SeverMagic.reportString>
+  <TM_BestowMagic.reportString>Bestow the gift of magic on TargetA.</TM_BestowMagic.reportString>
+  <TM_BestowClass.reportString>Guiding TargetA on their arcane path.</TM_BestowClass.reportString>
   <TMCastAbilityVerb.reportString>Using an ability</TMCastAbilityVerb.reportString>
   <TMCastAbilitySelf.reportString>Using an ability</TMCastAbilitySelf.reportString>
   <JobDriver_RemoveEnchantingGem.reportString>unequipping TargetA from enchantment</JobDriver_RemoveEnchantingGem.reportString>
@@ -20,6 +31,7 @@
   <JobDriver_TM_Command.reportString>motivating pawn</JobDriver_TM_Command.reportString>
   <JobDriver_GotoAndCast.reportString>doing magic job</JobDriver_GotoAndCast.reportString>
   <JobDriver_Discord.reportString>creating discord</JobDriver_Discord.reportString>
+  <JobDriver_SpiritDrain.reportString>draining spirit</JobDriver_SpiritDrain.reportString>
   <PortalDestination.reportString>assigning portal destination.</PortalDestination.reportString>
   <UsePortal.reportString>using portal.</UsePortal.reportString>
   <DeactivatePortal.reportString>deactivating portal.</DeactivatePortal.reportString>

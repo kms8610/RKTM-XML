@@ -1,5 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <Golem_Body.label>torso</Golem_Body.label>
+  <Golem_Back.label>back</Golem_Back.label>
+  <Golem_Spine.label>spine</Golem_Spine.label>
+  <Golem_Abdomen.label>abdomen</Golem_Abdomen.label>
+  <Golem_Guts.label>guts</Golem_Guts.label>
+  <Golem_Chest.label>chest</Golem_Chest.label>
+  <Golem_Heart.label>heart</Golem_Heart.label>
+  <Golem_Ribcage.label>ribcage</Golem_Ribcage.label>
+  <Golem_Lung.label>lung</Golem_Lung.label>
+  <Golem_Neck.label>neck</Golem_Neck.label>
+  <Golem_Head.label>head</Golem_Head.label>
+  <Golem_Skull.label>skull</Golem_Skull.label>
+  <Golem_Brain.label>brain</Golem_Brain.label>
+  <Golem_Face.label>face</Golem_Face.label>
+  <Golem_Eye.label>eye</Golem_Eye.label>
+  <Golem_Ear.label>ear</Golem_Ear.label>
+  <Golem_Nose.label>nose</Golem_Nose.label>
+  <Golem_Jaw.label>jaw</Golem_Jaw.label>
+  <Golem_Tongue.label>tongue</Golem_Tongue.label>
+  <Golem_Shoulder.label>shoulder</Golem_Shoulder.label>
+  <Golem_RightArm.label>right arm</Golem_RightArm.label>
+  <Golem_LeftArm.label>left arm</Golem_LeftArm.label>
+  <Golem_Hand.label>hand</Golem_Hand.label>
+  <Golem_Waist.label>waist</Golem_Waist.label>
+  <Golem_Leg.label>leg</Golem_Leg.label>
+  <Golem_Femur.label>femur</Golem_Femur.label>
+  <Golem_Tibia.label>tibia</Golem_Tibia.label>
+  <Golem_Foot.label>foot</Golem_Foot.label>
+  <Mecha_Body.label>body</Mecha_Body.label>
+  <Mecha_Back.label>back plate</Mecha_Back.label>
+  <Mecha_Spine.label>spinal-pathway</Mecha_Spine.label>
+  <Mecha_Abdomen.label>abdomen</Mecha_Abdomen.label>
+  <Mecha_EnergyCompactor.label>energy compactor</Mecha_EnergyCompactor.label>
+  <Mecha_Chest.label>chest plate</Mecha_Chest.label>
+  <Mecha_Core.label>CPU</Mecha_Core.label>
+  <Mecha_CoreProcessor.label>processor core</Mecha_CoreProcessor.label>
+  <Mecha_Neck.label>gorget</Mecha_Neck.label>
+  <Mecha_Head.label>head frame</Mecha_Head.label>
+  <Mecha_SkullPlate.label>skull plate</Mecha_SkullPlate.label>
+  <Mecha_AI.label>AI core</Mecha_AI.label>
+  <Mecha_Optics.label>optics</Mecha_Optics.label>
+  <Mecha_Sensors.label>sensors</Mecha_Sensors.label>
+  <Mecha_Transmitter.label>transmitters</Mecha_Transmitter.label>
+  <Mecha_LeftShoulder.label>left shoulder</Mecha_LeftShoulder.label>
+  <Mecha_LeftArm.label>left arm</Mecha_LeftArm.label>
+  <Mecha_LeftArm_Axe.label>mecha-axe</Mecha_LeftArm_Axe.label>
+  <Mecha_LeftArm_Sword.label>mecha-sword</Mecha_LeftArm_Sword.label>
+  <Mecha_RightShoulder.label>right shoulder</Mecha_RightShoulder.label>
+  <Mecha_RightArm.label>right arm</Mecha_RightArm.label>
+  <Mecha_RightArm_Hammer.label>mecha-hammer</Mecha_RightArm_Hammer.label>
+  <Mecha_Base.label>automoton movement base</Mecha_Base.label>
+  <Flesh_Body.label>torso</Flesh_Body.label>
+  <Flesh_Back.label>back</Flesh_Back.label>
+  <Flesh_Spine.label>spine</Flesh_Spine.label>
+  <Flesh_Wings.label>wings</Flesh_Wings.label>
+  <Flesh_Abdomen.label>abdomen</Flesh_Abdomen.label>
+  <Flesh_Guts.label>guts</Flesh_Guts.label>
+  <Flesh_Chest.label>chest</Flesh_Chest.label>
+  <Flesh_Heart.label>heart</Flesh_Heart.label>
+  <Flesh_Ribcage.label>ribcage</Flesh_Ribcage.label>
+  <Flesh_Lung.label>lung</Flesh_Lung.label>
+  <Flesh_Neck.label>neck</Flesh_Neck.label>
+  <Flesh_Head.label>head</Flesh_Head.label>
+  <Flesh_Skull.label>skull</Flesh_Skull.label>
+  <Flesh_Brain.label>brain</Flesh_Brain.label>
+  <Flesh_Face.label>face</Flesh_Face.label>
+  <Flesh_Eye.label>eye</Flesh_Eye.label>
+  <Flesh_LowerEye.label>eye</Flesh_LowerEye.label>
+  <Flesh_EvilEye.label>evil eye</Flesh_EvilEye.label>
+  <Flesh_Tusks.label>tusks</Flesh_Tusks.label>
+  <Flesh_Ear.label>ear</Flesh_Ear.label>
+  <Flesh_Nose.label>nose</Flesh_Nose.label>
+  <Flesh_Jaw.label>jaw</Flesh_Jaw.label>
+  <Flesh_Tongue.label>tongue</Flesh_Tongue.label>
+  <Flesh_Horns.label>horns</Flesh_Horns.label>
+  <Flesh_Shoulder.label>shoulder</Flesh_Shoulder.label>
+  <Flesh_RightArm.label>right arm</Flesh_RightArm.label>
+  <Flesh_LeftArm.label>left arm</Flesh_LeftArm.label>
+  <Flesh_Hand.label>hand</Flesh_Hand.label>
+  <Flesh_LeftArm_Brace.label>left brace</Flesh_LeftArm_Brace.label>
+  <Flesh_LeftArm_Cleaver.label>left cleaver</Flesh_LeftArm_Cleaver.label>
+  <Flesh_RightArm_Brace.label>right brace</Flesh_RightArm_Brace.label>
+  <Flesh_RightArm_Cleaver.label>right cleaver</Flesh_RightArm_Cleaver.label>
+  <Flesh_Waist.label>waist</Flesh_Waist.label>
+  <Flesh_Leg.label>leg</Flesh_Leg.label>
+  <Flesh_Femur.label>femur</Flesh_Femur.label>
+  <Flesh_Tibia.label>tibia</Flesh_Tibia.label>
+  <Flesh_Foot.label>foot</Flesh_Foot.label>
+  <Hollow_Weapon.label>hollowed weapon slot</Hollow_Weapon.label>
+  <Hollow_Axe.label>hollowed axe</Hollow_Axe.label>
+  <Hollow_Staff.label>hollowed staff</Hollow_Staff.label>
+  <Hollow_Core.label>hollow core</Hollow_Core.label>
+  <Hollow_CoreSlotA.label>hollow core</Hollow_CoreSlotA.label>
+  <Hollow_CoreSlotB.label>hollow core</Hollow_CoreSlotB.label>
+  <Stone_Core.label>stone core</Stone_Core.label>
+  <Stone_SlotA.label>stone core(a)</Stone_SlotA.label>
+  <Stone_SlotB.label>stone core(b)</Stone_SlotB.label>
+  <Maharal_Core.label>maharal core</Maharal_Core.label>
+  <Maharal_SlotA.label>maharal core(a)</Maharal_SlotA.label>
+  <Maharal_SlotB.label>maharal core(b)</Maharal_SlotB.label>
+  <Straw_Face.label>face</Straw_Face.label>
+  <Straw_Core.label>straw golem core</Straw_Core.label>
+  <Straw_SlotA.label>straw core(a)</Straw_SlotA.label>
+  <Straw_SlotB.label>straw core(b)</Straw_SlotB.label>
+  <TM_Wood_Body.label>body</TM_Wood_Body.label>
+  <TM_Wood_Back.label>back plate</TM_Wood_Back.label>
+  <TM_Wood_Chest.label>chest plate</TM_Wood_Chest.label>
+  <TM_Wood_Core.label>magic core</TM_Wood_Core.label>
+  <TM_Wood_Focus.label>awareness source</TM_Wood_Focus.label>
+  <TM_Wood_Reserves.label>energy reserves</TM_Wood_Reserves.label>
+  <Wood_SlotA.label>wood core(a)</Wood_SlotA.label>
+  <Wood_SlotB.label>wood core(b)</Wood_SlotB.label>
+  <TM_Wood_Manipulator.label>force projector</TM_Wood_Manipulator.label>
+  <TM_Wood_Base.label>movement base</TM_Wood_Base.label>
+  <TM_Silk_Core.label>magic core</TM_Silk_Core.label>
+  <Silk_SlotA.label>silk core(a)</Silk_SlotA.label>
+  <Silk_SlotB.label>silk core(b)</Silk_SlotB.label>
   <Demon_Body.label>plated chest</Demon_Body.label>
   <Demon_Spine.label>armored spine</Demon_Spine.label>
   <Demon_Abdomen.label>abdomen</Demon_Abdomen.label>

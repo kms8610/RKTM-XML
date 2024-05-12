@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_Mages_Abhorrent.label>abhore magic</TM_Mages_Abhorrent.label>
+  <TM_Mages_Abhorrent.description>Magic is an abomination to be reviled and cleansed from existence. Mage's manipulation of energy goes against natural order. Killing an enemy mage is justified regardless of the circumstances. Allowing a free mage to reside in the colony is a mockery of our beliefs. Mages should be put to death quickly or enslaved until they can be disposed. The use of magic is absolutely forbidden, and mages are hated.</TM_Mages_Abhorrent.description>
+  <TM_Mages_Abhorrent.comps.1.description>I killed a mage</TM_Mages_Abhorrent.comps.1.description>
+  <TM_Mages_Abhorrent.comps.2.description>We killed a mage</TM_Mages_Abhorrent.comps.2.description>
+  <TM_Mages_Abhorrent.comps.4.description>used magic</TM_Mages_Abhorrent.comps.4.description>
+  <TM_Mages_Abhorrent.comps.5.description>mage in colony</TM_Mages_Abhorrent.comps.5.description>
+  <TM_Mages_Abhorrent.comps.6.description>mage in colony</TM_Mages_Abhorrent.comps.6.description>
+  <TM_Mages_Disapprove.label>disapprove of magic</TM_Mages_Disapprove.label>
+  <TM_Mages_Disapprove.description>Reliance on an unknown and unpredictable source of power should be avoided. Science and technology are the future and their benefits can be enjoyed by all and contributed to by everyone. The colony should limit the number of free mages to 10% or less and only to the most vigilant of residents, and the number of spells should be limited to 5 a day. Mages should be made slaves to ensure they know their rightful place, and will always be viewed with minor disdain. Abiding by these rules will allow our colony to prosper and make everyone happier.</TM_Mages_Disapprove.description>
+  <TM_Mages_Disapprove.comps.0.description>governed use of magic</TM_Mages_Disapprove.comps.0.description>
+  <TM_Mages_Disapprove.comps.1.description>governed existence of mages</TM_Mages_Disapprove.comps.1.description>
+  <TM_Mages_Approve.label>approve of magic</TM_Mages_Approve.label>
+  <TM_Mages_Approve.description>Magic is a powerful and useful resource, we would be insane to discard its potential. Mages allow us to tap into this resource and can improve our quality of life. Because of their value to our colony, mages should be treated with respect similar to a noble. It is understood and tolerated if those with power hold those without in lesser esteem. We should focus our efforts and increase our knowledge of this mysterious power.</TM_Mages_Approve.description>
+  <TM_Mages_Approve.comps.1.description>magic use</TM_Mages_Approve.comps.1.description>
+  <TM_Mages_Approve.comps.2.description>magic use</TM_Mages_Approve.comps.2.description>
+  <TM_Mages_Approve.comps.3.description>mages in colony</TM_Mages_Approve.comps.3.description>
+  <TM_Mages_Approve.comps.5.description>performed sever magic</TM_Mages_Approve.comps.5.description>
+  <TM_Mages_Venerated.label>venerate magic</TM_Mages_Venerated.label>
+  <TM_Mages_Venerated.description>Magic is wondrous, mystical, powerful and infinite. It is capable of performing mundane tasks or obliterating our enemies in the blink of an eye. It is a source of both creation and destruction and worthy of reverence. Those who can tap into this power are blessed - touched by divinity - and are to be exalted above all others. Killing an enemy mage is abhorrent and should only be done as a last resort. Mages are held in high regard, and those without magic are lesser beings. Magic reveals the path to our salvation! Its use upholds our cause, and we must resolve ourselves to spread the blessing of magic to all.</TM_Mages_Venerated.description>
+  <TM_Mages_Venerated.comps.2.description>I killed a mage</TM_Mages_Venerated.comps.2.description>
+  <TM_Mages_Venerated.comps.3.description>We killed a mage</TM_Mages_Venerated.comps.3.description>
+  <TM_Mages_Venerated.comps.5.description>used magic</TM_Mages_Venerated.comps.5.description>
+  <TM_Mages_Venerated.comps.6.description>witness magic</TM_Mages_Venerated.comps.6.description>
+  <TM_Mages_Venerated.comps.7.description>mage in colony</TM_Mages_Venerated.comps.7.description>
+  <TM_Mages_Venerated.comps.8.description>mage prisoner</TM_Mages_Venerated.comps.8.description>
+  <TM_Mages_Venerated.comps.9.description>mage slave</TM_Mages_Venerated.comps.9.description>
+  <TM_Mages_Venerated.comps.11.description>performed sever magic</TM_Mages_Venerated.comps.11.description>
+  <TM_SeverenceRitual.label>sever magic</TM_SeverenceRitual.label>
+  <TM_SeverenceRitual.description>A voidseeker will sever magic from a target. The audience will watch as the voidseeker gives a unification speech, severs the magic from a mage, and says some closing words. The target may attempt one last retaliation spell if the ritual is poorly performed. If successful, the target will be free from magic.</TM_SeverenceRitual.description>
+  <TM_BestowMagicRitual.label>bestow magic</TM_BestowMagicRitual.label>
+  <TM_BestowMagicRitual.description>A voidseeker will attempt to bridge a connection between the target and magic. The audience will watch as the voidseeker says a few words of wisdom, attempts to bestows the spark of magic, and then says some closing words. This ritual may fail, and can only be performed on a specific date.</TM_BestowMagicRitual.description>
+  <TM_BestowClassRitual.label>arcane path</TM_BestowClassRitual.label>
+  <TM_BestowClassRitual.description>A voidseeker will guide a pawn possessing the gift of magic during a ritual to become a mage. The audience will watch as the mage attempts to realize their inspiration with the guidance of the voidseeker. Upon completion, the target will acquire their inspired magic class.</TM_BestowClassRitual.description>
+  <TM_IdeoRole_VoidSeeker.label>Void seeker</TM_IdeoRole_VoidSeeker.label>
+  <TM_IdeoRole_VoidSeeker.description>A mysterious figure with abilities able to manipulate the connection to magic.</TM_IdeoRole_VoidSeeker.description>
+</LanguageData>

@@ -4,8 +4,50 @@
   <TM_Artifact_Conviction.description>Overpower a pawn with conviction to join your cause. This power will exact a heavy toll on the caster.
 		
 Use of Conviction will destroy the orb.</TM_Artifact_Conviction.description>
+  <TM_Weapon_WintersFury.label>Winter's Fury</TM_Weapon_WintersFury.label>
+  <TM_Weapon_WintersFury.description>Covers the map in rolling waves of dark, angry clouds carrying winters' biting scorn.</TM_Weapon_WintersFury.description>
   <TM_CompVerb.label>secondary targeter</TM_CompVerb.label>
   <TM_CompVerb.description>verb used in secondary targeting</TM_CompVerb.description>
+  <TM_Herbalist.label>Herbalist</TM_Herbalist.label>
+  <TM_Herbalist.description>Training in herbalism allows the apothecary to identify and efficiently harvest the ingredients for their concoctions.</TM_Herbalist.description>
+  <TM_PoisonFlask.label>Poison Flask</TM_PoisonFlask.label>
+  <TM_PoisonFlask.description>Throw a noxious concoction that bursts into a thick cloud of poisonous gas. The poison gas will remain in proximity for a small time before dispersing. Any person that inhales the fumes will suffer corrosive damage to their throat and lungs.</TM_PoisonFlask.description>
+  <TM_Elixir.label>Elixir</TM_Elixir.label>
+  <TM_Elixir.description>Herbal elixirs are created through a mixture of potent herbs, herbal extracts, and other organic matter. The potency of the herbal elixir comes from the immediate reaction of ingredients when they are combined. The chemical reaction has a short half-life, which make it impractical and uneconomical for mass production and distribution. When immediately consumed, the elixir's potent health benefits are powerful enough to bring a pawn back from the brink of death. The elixir's effects last for nearly a day.</TM_Elixir.description>
+  <TM_SoothingBalm.label>Soothing Balm</TM_SoothingBalm.label>
+  <TM_SoothingBalm.description>The apothecary's soothing balm can be applied to open wounds to fight infection, promote blood clotting, and reduce pain. Side effects may include hallucinations, a sense of euphoria, and loss of consciousness.</TM_SoothingBalm.description>
+  <TM_FireSuppressionFlask.label>Fire Suppression Flask</TM_FireSuppressionFlask.label>
+  <TM_FireSuppressionFlask.description>Throw a canister containing fire suppression liquid that quickly smothers flames.
+		
+Range: 20
+Cooldown: 30
+Radius: 6</TM_FireSuppressionFlask.description>
+  <TM_FireSuppressionFlask_I.label>Fire Suppression Flask</TM_FireSuppressionFlask_I.label>
+  <TM_FireSuppressionFlask_I.description>Throw a canister containing fire suppression liquid that quickly smothers flames.
+		
+Range: 25
+Cooldown: 20
+Radius: 8</TM_FireSuppressionFlask_I.description>
+  <TM_FireSuppressionFlask_II.label>Fire Suppression Flask</TM_FireSuppressionFlask_II.label>
+  <TM_FireSuppressionFlask_II.description>Throw a canister containing fire suppression liquid that quickly smothers flames.
+		
+Range: 30
+Cooldown: 15
+Radius: 10</TM_FireSuppressionFlask_II.description>
+  <TM_FireSuppressionFlask_III.label>Fire Suppression Flask</TM_FireSuppressionFlask_III.label>
+  <TM_FireSuppressionFlask_III.description>Throw a canister containing fire suppression liquid that quickly smothers flames.
+		
+Range: 34
+Cooldown: 10
+Radius: 11</TM_FireSuppressionFlask_III.description>
+  <TM_HerbalClarity.label>Clarity</TM_HerbalClarity.label>
+  <TM_HerbalClarity.description>Administers a concoction that helps the consumer open themselves to the arcane. Mana regeneration is increased up to 300% and psychic sensitivity is increased up to 50%. Effects decrease mental stability. Clarity last several days but lose potency over time. Use of this drug can be risky, even fatal to a mage, when combined with a mana drain event - use with caution.
+		
+*Ability may autocast when a nearby mage is below 20 mana.</TM_HerbalClarity.description>
+  <TM_HerbalBliss.label>Bliss</TM_HerbalBliss.label>
+  <TM_HerbalBliss.description>Administers one of the most hazardous drugs known in the region, possibly second only to luciferum. Bliss puts the user into a state of bliss, able to mask nearly all emotions and pain. A creative mixture of local plant extract and ingredients can be used to create this drug. True to the saying 'ignorance is bliss, this drug will cause the user to slowly lose their learned skills and skill gain while under the influence of this drug is heavily suppressed.
+		
+*Ability may autocast when a nearby pawn is is below 5% mood.</TM_HerbalBliss.description>
   <TM_Shadow.label>Shadow</TM_Shadow.label>
   <TM_Shadow.description>Creates a shadow aura around the caster that periodically buffs an ally.
 		
@@ -371,9 +413,11 @@ When used on friendly pawns, there is no area of effect, only the primary target
 
 When applied to inanimate objects, the effect is instant and will regenerate items and restore material to a previous state. Reverse Time can be used to restore rotting food, decaying equipment, and tainted material.
 
-Living tissue will resist instant change and requires a more gradual approach. Any living pawn affected will have decreased movement and manipulation speed and their biological aging will reverse. This can remove many ailments that were caused recently as the tissue is restored to a state prior to the ailment; this includes wounds, diseases, and age related ailments that occurred within the window of time reversal.
+Living tissue will resist instant change and requires a more gradual approach. Any living pawn affected will have decreased movement and manipulation speed and their biological aging will reverse. This can remove many ailments that were caused recently as the tissue is restored to a state prior to the ailment; this includes wounds, diseases, and age related ailments that occurred within the window of time reversal. 
 
-Reverse Time can be dispelled by countering the effects with Accelerate Time.</TM_ReverseTime.description>
+Warning: when used to reverse a death condition, both the chronomancer and pawn returned from death will suffer memory and skill loss.
+
+Reverse Time can be dispelled/countered with Accelerate Time.</TM_ReverseTime.description>
   <TM_ChronostaticField.label>Chronostatic Field</TM_ChronostaticField.label>
   <TM_ChronostaticField.description>Chronostatic Field (also referred to as a time bubble) places all living creatures within the effected area out of phase with the flow of time. Interaction with affected creatures is impossible until they are returned to the natural flow of time.
 
@@ -740,6 +784,20 @@ AoE Size: 10</TM_SootheAnimal_III.description>
   <TM_Elemental_Icebolt.description>Bolt of ice specially created to shatter into glass like shards upon impact, causing severe bleeding and damage in a small area.</TM_Elemental_Icebolt.description>
   <TM_Elemental_Firebolt.label>Firebolt</TM_Elemental_Firebolt.label>
   <TM_Elemental_Firebolt.description>Bolt of  magic fire. Sets fire to the target.</TM_Elemental_Firebolt.description>
+  <TM_Empathy.label>Empathy</TM_Empathy.label>
+  <TM_Empathy.description>An empath has the ability to experience the emotions of those around them reverberate their emotions to better understand the feelings of others, or to convey their own emotions. These innate abilities have been augmented by arcane power, magnifying the effects of empathy. Pawns in proximity to the empath will occasionally experience the faded emotions of the empath, both good and bad. The more good emotions an empath is feeling, the more likely nearby pawns will gain positive empathic feelings. Mastery of empathic abilities can make it an effective mood management tool, but an untrained and stressed out empath can cause despair to an entire colony.</TM_Empathy.description>
+  <TM_MindKiller.label>Mind Killer</TM_MindKiller.label>
+  <TM_MindKiller.description>Releases an empathic wail that floods all nearby pawns with emotions. Reactions can vary, but most living organisms have difficulty dealing with the overwhelming surge of emotions. Can cause hostile pawns to go berserk. The higher an affected pawns mood, the more emotional energy is released. When untrained, this skill may affect nearby allies.</TM_MindKiller.description>
+  <TM_SuppressiveAura.label>Suppressive Aura</TM_SuppressiveAura.label>
+  <TM_SuppressiveAura.description>Creates an aura around the empath that suppresses the emotions of other pawns, allowing them to feel only what the empath wishes them to feel. With training, the empath can allow positive emotions and suppress negative emotions. Side effects of the aura may cause transference of the emotions of the empath. Emotionally suppressed pawns will not experience mental breaks.</TM_SuppressiveAura.description>
+  <TM_HarvestPassion.label>Harvest Passion</TM_HarvestPassion.label>
+  <TM_HarvestPassion.description>Attempts to steal a work passion from the target pawn. The caster must sacrifice an active inspiration to activate this ability. Once all joy is removed from the target pawn, the effect attempts to transfer a passion to the caster. The joy of the caster is also consumed each iteration. If a passion is not transferred to the caster before their joy is depleted, then the ability ends. Both the caster and target will suffer shocking trauma while the effect is active. The passion harvested is always random.</TM_HarvestPassion.description>
+  <TM_IncitePassion.label>Incite Passion</TM_IncitePassion.label>
+  <TM_IncitePassion.description>Transfers a work passion from the caster to a target. This ability is always successful. This ability cannot be used by slaves. The transferred passion is always random.</TM_IncitePassion.description>
+  <TM_Symbiosis.label>Symbiosis</TM_Symbiosis.label>
+  <TM_Symbiosis.description>Entwines the fate of the empath with the target. The empath will enter into a mentally vacant state, unable to control their own body as they project their will to reinforce the will of a target pawn. The empath will still maintain any pre-existing effects or aura's. The target will receive emotional fortitude and mental strength in return. The symbiote may experience physical after-effects of injuries taken by their host. If the host dies while the empath is a symbiote, the empath will also die. The symbiosis will end when the empath's mood expires and can be manually ended if the host and symbiote are in neary proximity.</TM_Symbiosis.description>
+  <TM_FadeEmotions.label>Fade Emotion</TM_FadeEmotions.label>
+  <TM_FadeEmotions.description>Reduces mood of the empath and the target to rid the target of negative memories. After the first memory, each additional negative memory will consume 30 mood from the target to be removed. The effect ends with the target has less than 30 mood or no remaining negative memories. The first memory always consumes 30 mood from the target. This ability has no affect on situational mood modifiers.</TM_FadeEmotions.description>
   <TM_EnchantedBody.label>Enchanted Body</TM_EnchantedBody.label>
   <TM_EnchantedBody.description>Grows extra limbs to improve manipulation and increases fighting speed. This enchantment tends to make the enchanter look quite horrifying and can alarm other pawns. This spell is sustained and reduces max mp by 20 and mana regeneration by 30%.
 	
@@ -1038,11 +1096,20 @@ Cast time: 3.8s</TM_Meteor_III.description>
   <TM_Sprint.label>Sprint</TM_Sprint.label>
   <TM_Sprint.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint.description>
   <TM_Sprint_I.label>Sprint</TM_Sprint_I.label>
-  <TM_Sprint_I.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint_I.description>
+  <TM_Sprint_I.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.
+
+Activating sprint grants the user 10s of evasion (25% dodge chance) and 5s of adrenaline.
+Deactivating sprint instantly returns 20 stamina and applies 5s of +20% energy regeneration.</TM_Sprint_I.description>
   <TM_Sprint_II.label>Sprint</TM_Sprint_II.label>
-  <TM_Sprint_II.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint_II.description>
+  <TM_Sprint_II.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.
+	
+Activating sprint grants the user 10s of 35% evasion, 8s of adrenaline, and all friendly pawns within 5 cells 10s of 25% evasion.
+Deactivating sprint instantly returns 35 stamina and applies 8s of +30% energy regeneration.</TM_Sprint_II.description>
   <TM_Sprint_III.label>Sprint</TM_Sprint_III.label>
-  <TM_Sprint_III.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.</TM_Sprint_III.description>
+  <TM_Sprint_III.description>Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.
+	
+Activating sprint grants the user 10s of 40% evasion, 10s of adrenaline, and all friendly pawns within 10 cells 10s of 30% evasion.
+Deactivating sprint instantly returns 40 stamina and applies 10s of +40% energy regeneration.</TM_Sprint_III.description>
   <TM_Fortitude.label>Fortitude</TM_Fortitude.label>
   <TM_Fortitude.description>Mitigates a set amount of damage each hit.
 Base mitigation: 5</TM_Fortitude.description>
@@ -1069,6 +1136,54 @@ Range: 23</TM_Grapple_III.description>
   <TM_Cleave.description>Executes a powerful, sweeping blow that can strike multiple enemies adjacent to the target. As long as the gladiator has enough stamina, this ability works automatically whenever the gladiator performs a melee attack. Cleave chance is calculated from weapon mass - heavier weapons are more likely to cleave.</TM_Cleave.description>
   <TM_Whirlwind.label>Whirlwind</TM_Whirlwind.label>
   <TM_Whirlwind.description>The Gladiator launches into a frenzied attack, dancing forward in a furious whirlwind of steel and death.</TM_Whirlwind.description>
+  <TM_Golemancy.label>Golemancy</TM_Golemancy.label>
+  <TM_Golemancy.description>Golemancy is the art of infusing magical energy into an object through the use of runes or markings that create a link to the caster. This energy link is commonly used for to achieve the purpose of object animation, energy conversion, or information gathering.
+
+Both the golem and golemancer gain a boost to their capabilities when paired. A golem may only be assigned to one pawn, but multiple golems may be assigned to a single pawn. Golemancy benefits only apply to an assigned golem.
+
+Golems may be crafted from their respective workbenches after the appropriate research is complete. Check the research tab for each golem type and their corresponding workbench.</TM_Golemancy.description>
+  <TM_RuneCarving.label>Rune Carving</TM_RuneCarving.label>
+  <TM_RuneCarving.description>Rune carving is a magical art used to permanently instill magical power into an object. This process has long been performed to inscribe runes into equipment and weapons to bestow magical properties. The Golemancer uses a similar, but more delicate, process using runes to increase the efficacy of bodyparts. While only specific parts may be enhanced through rune carving, any variation of those parts can be enhanced. 
+
+Rune carving requires additional material resources in a marked stockpile: 225 magicyte, 2 mana potions, and 1 medicine. Successful rune carving is determined by the golemancer's skill in crafting, art, and ability skill. Medical work must also be enabled for the caster since rune carving is a form of a medical operation. Rune carving will never be successful if either crafting or artistic skill is disabled.
+
+To apply runes, select the pawn you wish to inscribe and create the rune carving surgery under their health options. All components must be available before the surgery option will appear.</TM_RuneCarving.description>
+  <TM_Branding.label>Branding</TM_Branding.label>
+  <TM_Branding.description>Branding is used to create a temporary, magical mark on a pawn that creates a link between the caster and the branded. Multiple brands may be placed on a single pawn as long as each brand is a different type. A caster may create as many brands as they wish, but each brand subtracts from the energy regeneration of the caster. Brands will become dormant if the caster runs out of mana. Brands are a unique type of spell, and each brand must be learned separately. Skill in branding affects all types of brands.</TM_Branding.description>
+  <TM_SiphonBrand.label>Brand: Siphon</TM_SiphonBrand.label>
+  <TM_SiphonBrand.description>The siphon brand may be placed on another mage to periodically transfer their mana to the caster.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_SiphonBrand.description>
+  <TM_FitnessBrand.label>Brand: Fitness</TM_FitnessBrand.label>
+  <TM_FitnessBrand.description>The fitness brand may be placed on another pawn to improve their physical performance.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_FitnessBrand.description>
+  <TM_EmotionBrand.label>Brand: Emotion</TM_EmotionBrand.label>
+  <TM_EmotionBrand.description>The emotion brand may be placed on another pawn to improve their mood.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_EmotionBrand.description>
+  <TM_VitalityBrand.label>Brand: Vitality</TM_VitalityBrand.label>
+  <TM_VitalityBrand.description>The vitality brand may be placed on another pawn to improve their overall health, healing, and disease resistance.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_VitalityBrand.description>
+  <TM_ProtectionBrand.label>Brand: Protection</TM_ProtectionBrand.label>
+  <TM_ProtectionBrand.description>The protection brand may be placed on another pawn to absorb attacks. The protection rune recharges periodically.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_ProtectionBrand.description>
+  <TM_AwarenessBrand.label>Brand: Awareness</TM_AwarenessBrand.label>
+  <TM_AwarenessBrand.description>The awareness brand may be placed on another pawn to increase their vision, hearing, speaking, and intellect.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_AwarenessBrand.description>
+  <TM_DispelBranding.label>Dispel Brands</TM_DispelBranding.label>
+  <TM_DispelBranding.description>Dispels all active brands.</TM_DispelBranding.description>
+  <TM_SigilSurge.label>Sigil Surge</TM_SigilSurge.label>
+  <TM_SigilSurge.description>Activating this ability causes all brands to become super-charged. This ability causes moderate pain to the Golemancer and triples the energy drain of each brand. Use the ability again to stop surging.</TM_SigilSurge.description>
+  <TM_SigilDrain.label>Sigil Drain</TM_SigilDrain.label>
+  <TM_SigilDrain.description>Activating this ability causes all brands to invert their effects, granting bonuses to the caster instead of the branded. This ability causes moderate pain to the branded and bonuses to the caster for each brand they control. Use this ability again to stop draining.</TM_SigilDrain.description>
+  <TM_LivingWall.label>Living Wall</TM_LivingWall.label>
+  <TM_LivingWall.description>Enchants a wall with purpose allowing it to become semi-intelligent. The living wall will strike out at enemies within reach and will repair itself when damaged. The animated creature within the wall may travel to any adjacent section of wall and treats an entire connected section of wall as an extension of itself. A living wall will attempt to move to the closest wall segment of the closest enemy. The living wall cannot move between disconnected wall segments and may only move to another segment that is cardinal adjacent. A caster can only maintain a single living wall, regardless of the size of the wall it occupies. Multiple living wall's may occupy a single wall.</TM_LivingWall.description>
+  <TM_DispelLivingWall.label>Dispel Living Wall</TM_DispelLivingWall.label>
+  <TM_DispelLivingWall.description>Dispels the living wall.</TM_DispelLivingWall.description>
   <TM_Soothe.label>Soothing Breeze</TM_Soothe.label>
   <TM_Soothe.description>Creates a soothing aura around the caster that periodically buffs an ally.
 		
@@ -1120,25 +1235,25 @@ Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to
   <TM_FrostRay.label>Frost Ray</TM_FrostRay.label>
   <TM_FrostRay.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
 		
-Recharge time: 15s
+Recharge time: 12s
 Range: 28
 Shots: 1</TM_FrostRay.description>
   <TM_FrostRay_I.label>Frost Ray</TM_FrostRay_I.label>
   <TM_FrostRay_I.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
 		
-Recharge time: 12s
+Recharge time: 10s
 Range: 30
 Shots: 1</TM_FrostRay_I.description>
   <TM_FrostRay_II.label>Frost Ray</TM_FrostRay_II.label>
   <TM_FrostRay_II.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
 		
-Recharge time: 10s
+Recharge time: 8s
 Range: 32
 Shots: 2</TM_FrostRay_II.description>
   <TM_FrostRay_III.label>Frost Ray</TM_FrostRay_III.label>
   <TM_FrostRay_III.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
 		
-Recharge time: 10s
+Recharge time: 8s
 Range: 34
 Shots: 3</TM_FrostRay_III.description>
   <TM_Snowball.label>Snowball</TM_Snowball.label>
@@ -1218,7 +1333,7 @@ Passive ability (10 stamina): performs a round-house kick that strikes multiple 
   <TM_RaiseUndead.label>Raise Undead</TM_RaiseUndead.label>
   <TM_RaiseUndead.description>Raise undead from corpses. Only works on biological creatures that were once living. 
 
-Undead will remain under the Necromancers control indefinitely. Each undead human will incur a mana upkeep cost of 30% of base mana regeneration. Undead animals incur an upkeep cost of 15% for every 100 combat power.
+Undead will remain under the Necromancers control indefinitely. The necromancer will incur a mana upkeep cost of 30% of base mana regeneration for each undead, humanlike pawn. Undead animals incur an upkeep cost of 15% for every 100 combat power.
 
 There is no limit to the number of undead a necromancer may control, however, when the necromancer no longer has mana to maintain undead, they will automatically be consumed until the number of active undead is reduced to a manageable amount.</TM_RaiseUndead.description>
   <TM_DismissUndead.label>Dismiss Undead</TM_DismissUndead.label>
@@ -1256,31 +1371,33 @@ Range: 46</TM_DeathMark_III.description>
   <TM_ConsumeCorpse.label>Consume Corpse</TM_ConsumeCorpse.label>
   <TM_ConsumeCorpse.description>Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)
 		
-Mana Cost: 3%
+Mana Cost: 3
 Range: 50
 Cooldown: 20s
 Cast Time: 2s</TM_ConsumeCorpse.description>
   <TM_ConsumeCorpse_I.label>Consume Corpse (I)</TM_ConsumeCorpse_I.label>
   <TM_ConsumeCorpse_I.description>Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)
 		
-Mana Cost: 2.5%
+Mana Cost: 2.5
 Range: 60
 Cooldown: 18s
 Cast Time: 1.8s</TM_ConsumeCorpse_I.description>
   <TM_ConsumeCorpse_II.label>Consume Corpse (II)</TM_ConsumeCorpse_II.label>
   <TM_ConsumeCorpse_II.description>Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)
 		
-Mana Cost: 2%
+Mana Cost: 2
 Range: 70
 Cooldown: 16s
 Cast Time: 1.5s</TM_ConsumeCorpse_II.description>
   <TM_ConsumeCorpse_III.label>Consume Corpse (III)</TM_ConsumeCorpse_III.label>
   <TM_ConsumeCorpse_III.description>Consume a corpse or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather)
 		
-Mana Cost: 1.5%
+Mana Cost: 1.5
 Range: 80
 Cooldown: 15s
 Cast Time: 1.2s</TM_ConsumeCorpse_III.description>
+  <TM_ConsumeCorpse_Mass.label>Consume Corpse: Mass</TM_ConsumeCorpse_Mass.label>
+  <TM_ConsumeCorpse_Mass.description>Consume a group of corpses or undead to replenish mana. Apparel, items, and equipment remain behind but all material belonging to the corpse is consumed (meat/leather).</TM_ConsumeCorpse_Mass.description>
   <TM_CorpseExplosion.label>Corpse Explosion</TM_CorpseExplosion.label>
   <TM_CorpseExplosion.description>Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.
 		
@@ -1315,7 +1432,7 @@ Cast time: .5s</TM_CorpseExplosion_III.description>
 Benefits: 
 Maximum Mana: +50
 Mana Regeneration: +50%
-Gains unnatural immunities to diseases, resistances to damage, health regeneration, and no longer needs food or rest.
+Gains unnatural immunities to diseases, resistances to damage, health regeneration, and is sustained by mana (no longer required to sleep or eat)
 Gains ability: Flight
 Gains ability: Death Bolt
 
@@ -1419,6 +1536,60 @@ Reduces recharge to 25s.</TM_Shield_III.description>
   <TM_Overwhelm.description>Holy power is unleashed from the paladin, overwhelming the physical and mental senses of any nearby creatures.</TM_Overwhelm.description>
   <TM_HolyWrath.label>Holy Wrath</TM_HolyWrath.label>
   <TM_HolyWrath.description>Calls forth holy wrath upon the land.</TM_HolyWrath.description>
+  <TM_SpiritPossession.label>Possess</TM_SpiritPossession.label>
+  <TM_SpiritPossession.description>Possess a physical body, either dead or living. Possessing a body decreases how quickly spirit energy is lost. Deceased bodies or animals may be freely possessed, but do not generate spirit energy on their own, only another body with an existing spirit host will generate spirit energy. However, a body that is already occupied is more difficult to possess and the possessing spirit may struggle with the original spirit of the host. If the spirit still has energy, then it will extract from the body and become a wandering spirit once again. If a spirit's energy is completely drained, then it will cease to exist. When a spirit leaves a body, then the body will return to its original state or owner. Spirit Energy may be gained by siphoning energy through physical harm, using Spirit Drain, or through meditation. Killing another pawn with spirit drain absorbs a large amount of spirit. The body of a possessed pawn will not recover naturally, and only heals wounds and maladies when it gains spirit energy.</TM_SpiritPossession.description>
+  <TM_SpiritDrain.label>Spirit Drain</TM_SpiritDrain.label>
+  <TM_SpiritDrain.description>Drains the spirit of a living being to restore spirit energy of the caster.</TM_SpiritDrain.description>
+  <TM_DistortSpirit.label>Distort Spirit (I)</TM_DistortSpirit.label>
+  <TM_DistortSpirit.description>Distorts the balance between spirit and body of living pawns in a wide area. Pawns suffering from spirit distortion will take 20% more damage from all sources.
+	
+Range: 35
+Cast time: 3s
+Recharge: 60s</TM_DistortSpirit.description>
+  <TM_DistortSpirit_I.label>Distort Spirit (II)</TM_DistortSpirit_I.label>
+  <TM_DistortSpirit_I.description>Distorts the balance between spirit and body of living pawns in a wide area. Pawns suffering from spirit distortion will take 20% more damage from all sources.
+	
+Range: 40
+Cast time: 2s
+Recharge: 45s</TM_DistortSpirit_I.description>
+  <TM_DistortSpirit_II.label>Distort Spirit (III)</TM_DistortSpirit_II.label>
+  <TM_DistortSpirit_II.description>Distorts the balance between spirit and body of living pawns in a wide area. Pawns suffering from spirit distortion will take 20% more damage from all sources..
+	
+Range: 45
+Cast time: 1.5s
+Recharge: 30s</TM_DistortSpirit_II.description>
+  <TM_DistortSpirit_III.label>Distort Spirit (IV)</TM_DistortSpirit_III.label>
+  <TM_DistortSpirit_III.description>Distorts the balance between spirit and body of living pawns in a wide area. Pawns suffering from spirit distortion will take 20% more damage from all sources.
+	
+Range: 50
+Cast time: 1s
+Recharge: 20s</TM_DistortSpirit_III.description>
+  <TM_SummonSpiritAnimalMass.label>Spirit Animals</TM_SummonSpiritAnimalMass.label>
+  <TM_SummonSpiritAnimalMass.description>Summons 1 of each spirit animal for a short time.</TM_SummonSpiritAnimalMass.description>
+  <TM_SpiritRally.label>Spirit Rally (I)</TM_SpiritRally.label>
+  <TM_SpiritRally.description>Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time. Spirit Rally is only effective when cast in the proximity of corpses. Each corpse may generate a spirit.
+
+Cast time: 2s
+Cooldown: 45s</TM_SpiritRally.description>
+  <TM_SpiritRally_I.label>Spirit Rally (II)</TM_SpiritRally_I.label>
+  <TM_SpiritRally_I.description>Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time. Spirit Rally is only effective when cast in the proximity of corpses. Each corpse may generate a spirit.
+
+Cast time: 1s
+Cooldown: 30s</TM_SpiritRally_I.description>
+  <TM_SpiritRally_II.label>Spirit Rally (III)</TM_SpiritRally_II.label>
+  <TM_SpiritRally_II.description>Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time. Spirit Rally is only effective when cast in the proximity of corpses. Each corpse may generate a spirit.
+
+Cast time: .5s
+Cooldown: 20s</TM_SpiritRally_II.description>
+  <TM_SpiritRally_III.label>Spirit Rally (IV)</TM_SpiritRally_III.label>
+  <TM_SpiritRally_III.description>Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time. Spirit Rally is only effective when cast in the proximity of corpses. Each corpse may generate a spirit.
+
+Cast time: 0s
+Cooldown: 15s</TM_SpiritRally_III.description>
+  <TM_SpiritStorm.label>Spirit Storm</TM_SpiritStorm.label>
+  <TM_SpiritStorm.description>Create a spirit beacon that attracts spirits of loss, spite, and vengeance. The swarm of angry spirits will quickly develop into a vortex that rips away reality and hope. The malevolent spirits within this storm will seek out the spirits of living beings to inflict their suffering. The direction of the spirit storm can be controlled for a short time after it is created.</TM_SpiritStorm.description>
+  <TM_ControlSpiritStorm.label>Control Spirit Storm</TM_ControlSpiritStorm.label>
+  <TM_ControlSpiritStorm.description>Directs the spirit storm to a designated location.</TM_ControlSpiritStorm.description>
   <TM_AdvancedHeal.label>Advanced Heal</TM_AdvancedHeal.label>
   <TM_AdvancedHeal.description>Invokes holy power to greatly heal the wounds of a target. Base heal restores 14 health for up to 3 wounds. Will immediately seal the bleeding of wounds from missing bodyparts.</TM_AdvancedHeal.description>
   <TM_Purify.label>Purify</TM_Purify.label>
@@ -1713,7 +1884,7 @@ The shadow slayer cloaking field is a long duration form of invisibility. Unlike
   <TM_WetGround.label>Moisturize Ground</TM_WetGround.label>
   <TM_WetGround.description>Infuses sand with water, creating usable soil.</TM_WetGround.description>
   <TM_ChargeBattery.label>Charge Battery</TM_ChargeBattery.label>
-  <TM_ChargeBattery.description>Converts raw magic power into electrical energy. This spell can only be used on batteries. Generates 400Wd.</TM_ChargeBattery.description>
+  <TM_ChargeBattery.description>Converts raw magic power into electrical energy. This spell can only be used on batteries or golems. Generates 400Wd.</TM_ChargeBattery.description>
   <TM_SmokeCloud.label>Smoke Cloud</TM_SmokeCloud.label>
   <TM_SmokeCloud.description>Draws in and ignites water and dirt particles in the air to create a smoke screen that temporarily conceals the area.</TM_SmokeCloud.description>
   <TM_Extinguish.label>Extinguish</TM_Extinguish.label>
@@ -1800,6 +1971,12 @@ This attack only works when the weapon equipped is not normally consumed after u
   <TM_Discord.description>A channeled ability that continually assaults the senses of the victim with random and jarring signals. This sensory overload will gradually weaken mental stability and eventually the mental harmony of the target will collapse altogether. The results of this ability vary, but will grow stronger with each iteration. 
 		
 Effects include dizziness, nausea, vision and hearing loss, vomiting, inability to determine friend from foe, can no longer maths, dislike of other pawns, loss of motor skills, loss of reason, urge to discuss politics, paroxysm, brain hemorrhaging and cranial detonation. Results may vary when targeting friendly pawns. Consult your therapist channel before using.</TM_Discord.description>
+  <TM_MagicWardrobe.label>Magic Wardrobe</TM_MagicWardrobe.label>
+  <TM_MagicWardrobe.description>A simple ability that stores all equipped clothing in a dimensional pocket. When used again, the stored clothing becomes equipped and any current equipment becomes stored. Works for all apparel, but not weapons or held items. Useful for storing gear or for quickly swapping between equipment sets.</TM_MagicWardrobe.description>
+  <TM_HeatShield.label>Heat Shield</TM_HeatShield.label>
+  <TM_HeatShield.description>Place a heat barrier on allies that provides 75% bonus protection against heat damage and prevents catching on fire. Effects up to 6 targets and lasts about 30 seconds.</TM_HeatShield.description>
+  <TM_AlterStorm.label>Alter Storm</TM_AlterStorm.label>
+  <TM_AlterStorm.description>Alters the weather to create new conditions. Rainy storms will be changed to healing rain. Snow will be changed to a hailstorm. The hailstorm can be partially controlled by directing the hail towards enemies on the map, but once this weather even is started it must run its course and cannot be influenced by rainmaker.</TM_AlterStorm.description>
   <TM_Explosion.label>Explosion!</TM_Explosion.label>
   <TM_Explosion.description>Blackness shrouded in light, frenzied blaze clad in night, in the name of the crimson demons, let the collapse of thine origin manifest. Summon before me the root of thy power, hidden within the blossoming kingdom of demise. Explosion!</TM_Explosion.description>
   <TM_Taunt.label>Taunt</TM_Taunt.label>
@@ -1887,9 +2064,9 @@ Undrafted: the techno-bit assists in crafting, mining and construction tasks. It
 
 Drafted: uses an internal focus-LED to fire micro lasers at the technomancers target. Performs accelerated repairs to nearby robotic pawns or buildings.</TM_TechnoBit.description>
   <TM_TechnoTurret.label>Mark-IV Turret</TM_TechnoTurret.label>
-  <TM_TechnoTurret.description>Deploys and establishes a neural link to the Mark-IV turret. The Mark-IV is remotely controlled by the caster. After the turret is deployed,any activity or movement by the caster will break the neural link and miniaturize the Mark-IV weapon system. Rockets and mortars consume mana per shot.
+  <TM_TechnoTurret.description>Deploys and establishes a neural link to the Mark-IV turret. The Mark-IV is remotely controlled by the caster. Rockets and mortars consume mana per shot.
 
-The Mark-IV will automatically miniaturize itself when it takes critical damage and can cause neural feedback to the technomancer manning the system.</TM_TechnoTurret.description>
+The Mark-IV will automatically miniaturize itself when it takes critical damage and can cause neural feedback to the technomancer controlling the system.</TM_TechnoTurret.description>
   <TM_TechnoWeapon.label>Engineer Weapon</TM_TechnoWeapon.label>
   <TM_TechnoWeapon.description>The technomancer applies their knowledge of engineering and magic to create a modified version of an existing weapon.  This weapon is molded out of raw mana and physically anchored to the technomancer as an extension of their body.
 Because of this, the weapon will disintegrate if separated from the technomancer.  This weapon will be automatically equipped by the technomancer once created.

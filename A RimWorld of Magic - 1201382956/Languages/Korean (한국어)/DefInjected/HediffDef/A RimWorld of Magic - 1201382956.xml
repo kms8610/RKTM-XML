@@ -1,5 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <TM_BullChargeHD.label>charge</TM_BullChargeHD.label>
+  <TM_BullChargeHD.description>Charging into battle.</TM_BullChargeHD.description>
+  <TM_FrailtyCurseHD.label>Cursed</TM_FrailtyCurseHD.label>
+  <TM_FrailtyCurseHD.description>The gaze of an evil eye has applied this curse.</TM_FrailtyCurseHD.description>
+  <TM_FrailtyCurseHD.stages.0.label>frail</TM_FrailtyCurseHD.stages.0.label>
+  <TM_FrailtyCurseHD.stages.1.label>crippled</TM_FrailtyCurseHD.stages.1.label>
+  <TM_FleshGolem_SkullPlateHD.label>skull plate</TM_FleshGolem_SkullPlateHD.label>
+  <TM_FleshGolem_SkullPlateHD.description>Improves armor over the skull.</TM_FleshGolem_SkullPlateHD.description>
+  <TM_FleshGolem_ShoulderPlatesHD.label>shoulder plates</TM_FleshGolem_ShoulderPlatesHD.label>
+  <TM_FleshGolem_ShoulderPlatesHD.description>Improves armor around the shoulders.</TM_FleshGolem_ShoulderPlatesHD.description>
+  <TM_FleshGolem_ChestCageHD.label>chest cage</TM_FleshGolem_ChestCageHD.label>
+  <TM_FleshGolem_ChestCageHD.description>Deflects attacks against the chest and torso, works best against larger weapons.</TM_FleshGolem_ChestCageHD.description>
+  <TM_FleshGolem_SpineGuardHD.label>spine guard</TM_FleshGolem_SpineGuardHD.label>
+  <TM_FleshGolem_SpineGuardHD.description>Deflects attacks against the back.</TM_FleshGolem_SpineGuardHD.description>
+  <TM_FleshGolem_LegPlatesHD.label>leg plates</TM_FleshGolem_LegPlatesHD.label>
+  <TM_FleshGolem_LegPlatesHD.description>Improves armor around over the legs.</TM_FleshGolem_LegPlatesHD.description>
+  <TM_FleshGolem_BracerGuardHD.label>bracer guard</TM_FleshGolem_BracerGuardHD.label>
+  <TM_FleshGolem_BracerGuardHD.description>chance to block attacks</TM_FleshGolem_BracerGuardHD.description>
+  <TM_FleshGolem_HasteHD.label>swiftness</TM_FleshGolem_HasteHD.label>
+  <TM_FleshGolem_HasteHD.description>Wings are granting movement agility.</TM_FleshGolem_HasteHD.description>
+  <TM_FleshGolem_EyesT1HD.label>quad sight</TM_FleshGolem_EyesT1HD.label>
+  <TM_FleshGolem_EyesT1HD.description>Vision is improved with four eyes.</TM_FleshGolem_EyesT1HD.description>
+  <TM_GolemHD.label>Golem</TM_GolemHD.label>
+  <TM_GolemHD.description>Health effects applied to all golems.</TM_GolemHD.description>
+  <TM_DecayHD.label>Decay</TM_DecayHD.label>
+  <TM_DecayHD.description>Rapidly decays, corrodes, and dissolves material and tissue.</TM_DecayHD.description>
+  <TM_DeathFieldHD.label>Death Field</TM_DeathFieldHD.label>
+  <TM_DeathFieldHD.description>Periodically strikes nearby targets with death magic.</TM_DeathFieldHD.description>
+  <TM_DoomFieldHD.label>Death's Abyss</TM_DoomFieldHD.label>
+  <TM_DoomFieldHD.description>Periodically slows nearby targets with their impending doom.</TM_DoomFieldHD.description>
+  <TM_HollowGolem_BreastPlateHD.label>breastplate</TM_HollowGolem_BreastPlateHD.label>
+  <TM_HollowGolem_BreastPlateHD.description>Protects the torso and chest from attacks.</TM_HollowGolem_BreastPlateHD.description>
+  <TM_HollowGolem_HelmHD.label>helmet</TM_HollowGolem_HelmHD.label>
+  <TM_HollowGolem_HelmHD.description>Protects the head and skull.</TM_HollowGolem_HelmHD.description>
+  <TM_HollowGolem_ShoulderHD.label>shoulders</TM_HollowGolem_ShoulderHD.label>
+  <TM_HollowGolem_ShoulderHD.description>Protects the shoulders, collar, and neck.</TM_HollowGolem_ShoulderHD.description>
+  <TM_HollowGolem_CrownHD.label>crown of awakening</TM_HollowGolem_CrownHD.label>
+  <TM_HollowGolem_CrownHD.description>Strengthens willpower and offers minor protection against physical attacks.</TM_HollowGolem_CrownHD.description>
+  <TM_HollowGolem_CloakHD.label>fade cloak</TM_HollowGolem_CloakHD.label>
+  <TM_HollowGolem_CloakHD.description>Increases movement speed and provides a small amount of protection.</TM_HollowGolem_CloakHD.description>
+  <TM_HollowGolem_CoAFireHD.label>Coat of Arms: Fire</TM_HollowGolem_CoAFireHD.label>
+  <TM_HollowGolem_CoAFireHD.description>Increases movement speed and heat resistance.</TM_HollowGolem_CoAFireHD.description>
+  <TM_HollowGolem_CoAFireHD.stages.0.label>I</TM_HollowGolem_CoAFireHD.stages.0.label>
+  <TM_HollowGolem_CoAFireHD.stages.1.label>II</TM_HollowGolem_CoAFireHD.stages.1.label>
+  <TM_HollowGolem_CoAFireHD.stages.2.label>III</TM_HollowGolem_CoAFireHD.stages.2.label>
+  <TM_HollowGolem_CoAIceHD.label>Coat of Arms</TM_HollowGolem_CoAIceHD.label>
+  <TM_HollowGolem_CoAIceHD.description>Increases armor.</TM_HollowGolem_CoAIceHD.description>
+  <TM_HollowGolem_CoAIceHD.stages.0.label>I</TM_HollowGolem_CoAIceHD.stages.0.label>
+  <TM_HollowGolem_CoAIceHD.stages.1.label>II</TM_HollowGolem_CoAIceHD.stages.1.label>
+  <TM_HollowGolem_CoAIceHD.stages.2.label>III</TM_HollowGolem_CoAIceHD.stages.2.label>
+  <TM_MaharalGolem_ArmorHD.label>armor</TM_MaharalGolem_ArmorHD.label>
+  <TM_MaharalGolem_ArmorHD.description>Improves physical protection.</TM_MaharalGolem_ArmorHD.description>
+  <TM_MaharalGolem_ArmorHD.stages.0.label>I</TM_MaharalGolem_ArmorHD.stages.0.label>
+  <TM_MaharalGolem_ArmorHD.stages.1.label>II</TM_MaharalGolem_ArmorHD.stages.1.label>
+  <TM_MaharalGolem_ArmorHD.stages.2.label>III</TM_MaharalGolem_ArmorHD.stages.2.label>
+  <TM_Mecha-Golem_GatlingCannonHD.label>Gatling Cannon</TM_Mecha-Golem_GatlingCannonHD.label>
+  <TM_Mecha-Golem_GatlingCannonHD.description>A gatling cannon mounted to the right shoulder.</TM_Mecha-Golem_GatlingCannonHD.description>
+  <TM_Mecha-Golem_BallisticPlateHD.label>Ballistic plate</TM_Mecha-Golem_BallisticPlateHD.label>
+  <TM_Mecha-Golem_BallisticPlateHD.description>Improves armor, but reduces movement speed.</TM_Mecha-Golem_BallisticPlateHD.description>
+  <TM_Mecha-Golem_FlameCoreHD.label>Flame core</TM_Mecha-Golem_FlameCoreHD.label>
+  <TM_Mecha-Golem_FlameCoreHD.description>Flame core upgrades increase movement speed and decreases cooldown time for attacks and abilities.</TM_Mecha-Golem_FlameCoreHD.description>
+  <TM_Mecha-Golem_FlameCoreHD.stages.0.label>Mk.1</TM_Mecha-Golem_FlameCoreHD.stages.0.label>
+  <TM_Mecha-Golem_FlameCoreHD.stages.1.label>Mk.2</TM_Mecha-Golem_FlameCoreHD.stages.1.label>
+  <TM_Mecha-Golem_FlameCoreHD.stages.2.label>Mk.3</TM_Mecha-Golem_FlameCoreHD.stages.2.label>
+  <TM_Mecha-Golem_WaterCoreHD.label>Water core</TM_Mecha-Golem_WaterCoreHD.label>
+  <TM_Mecha-Golem_WaterCoreHD.description>Water core processor upgrades increase armor and regeneration, and improve energy conservation.</TM_Mecha-Golem_WaterCoreHD.description>
+  <TM_Mecha-Golem_WaterCoreHD.stages.0.label>Mk.1</TM_Mecha-Golem_WaterCoreHD.stages.0.label>
+  <TM_Mecha-Golem_WaterCoreHD.stages.1.label>Mk.2</TM_Mecha-Golem_WaterCoreHD.stages.1.label>
+  <TM_Mecha-Golem_WaterCoreHD.stages.2.label>Mk.3</TM_Mecha-Golem_WaterCoreHD.stages.2.label>
+  <TM_Mecha-Golem_EarthCoreHD.label>Earth core</TM_Mecha-Golem_EarthCoreHD.label>
+  <TM_Mecha-Golem_EarthCoreHD.description>Earth core processor upgrades increase armor and protection.</TM_Mecha-Golem_EarthCoreHD.description>
+  <TM_Mecha-Golem_EarthCoreHD.stages.0.label>Mk.1</TM_Mecha-Golem_EarthCoreHD.stages.0.label>
+  <TM_Mecha-Golem_EarthCoreHD.stages.1.label>Mk.2</TM_Mecha-Golem_EarthCoreHD.stages.1.label>
+  <TM_Mecha-Golem_EarthCoreHD.stages.2.label>Mk.3</TM_Mecha-Golem_EarthCoreHD.stages.2.label>
+  <TM_Mecha-Golem_LightningCoreHD.label>Lightning core</TM_Mecha-Golem_LightningCoreHD.label>
+  <TM_Mecha-Golem_LightningCoreHD.description>Lightning core upgrades increase improve movement and processing speed.</TM_Mecha-Golem_LightningCoreHD.description>
+  <TM_Mecha-Golem_LightningCoreHD.stages.0.label>Mk.1</TM_Mecha-Golem_LightningCoreHD.stages.0.label>
+  <TM_Mecha-Golem_LightningCoreHD.stages.1.label>Mk.2</TM_Mecha-Golem_LightningCoreHD.stages.1.label>
+  <TM_Mecha-Golem_LightningCoreHD.stages.2.label>Mk.3</TM_Mecha-Golem_LightningCoreHD.stages.2.label>
+  <TM_StoneGolem_HardeningHD.label>hardening</TM_StoneGolem_HardeningHD.label>
+  <TM_StoneGolem_HardeningHD.description>Improves physical protection.</TM_StoneGolem_HardeningHD.description>
+  <TM_StoneGolem_HardeningHD.stages.0.label>I</TM_StoneGolem_HardeningHD.stages.0.label>
+  <TM_StoneGolem_HardeningHD.stages.1.label>II</TM_StoneGolem_HardeningHD.stages.1.label>
+  <TM_StoneGolem_HardeningHD.stages.2.label>III</TM_StoneGolem_HardeningHD.stages.2.label>
+  <TM_StrawGolem_ArmorHD.label>armor</TM_StrawGolem_ArmorHD.label>
+  <TM_StrawGolem_ArmorHD.description>Improves physical protection.</TM_StrawGolem_ArmorHD.description>
+  <TM_StrawGolem_ArmorHD.stages.0.label>I</TM_StrawGolem_ArmorHD.stages.0.label>
+  <TM_StrawGolem_ArmorHD.stages.1.label>II</TM_StrawGolem_ArmorHD.stages.1.label>
+  <TM_StrawGolem_ArmorHD.stages.2.label>III</TM_StrawGolem_ArmorHD.stages.2.label>
+  <TM_WoodGolem_ArmorHD.label>armor</TM_WoodGolem_ArmorHD.label>
+  <TM_WoodGolem_ArmorHD.description>Improves physical protection.</TM_WoodGolem_ArmorHD.description>
+  <TM_WoodGolem_ArmorHD.stages.0.label>I</TM_WoodGolem_ArmorHD.stages.0.label>
+  <TM_WoodGolem_ArmorHD.stages.1.label>II</TM_WoodGolem_ArmorHD.stages.1.label>
+  <TM_WoodGolem_ArmorHD.stages.2.label>III</TM_WoodGolem_ArmorHD.stages.2.label>
   <TM_StandardRegrowth.label>Regrown Part</TM_StandardRegrowth.label>
   <TM_StandardRegrowth.description>The magical entwining of nature and flesh will regrow this body part over several days.</TM_StandardRegrowth.description>
   <TM_StandardRegrowth.stages.0.label>regrown</TM_StandardRegrowth.stages.0.label>
@@ -116,6 +210,12 @@
   <TM_SunderArmorHD.stages.0.label>I</TM_SunderArmorHD.stages.0.label>
   <TM_SunderArmorHD.stages.1.label>II</TM_SunderArmorHD.stages.1.label>
   <TM_SunderArmorHD.stages.2.label>III</TM_SunderArmorHD.stages.2.label>
+  <TM_SunderArmorHD.stages.3.label>IV</TM_SunderArmorHD.stages.3.label>
+  <TM_SunderArmorHD.stages.4.label>V</TM_SunderArmorHD.stages.4.label>
+  <TM_SunderArmorHD.stages.5.label>VI</TM_SunderArmorHD.stages.5.label>
+  <TM_SunderArmorHD.stages.6.label>VII</TM_SunderArmorHD.stages.6.label>
+  <TM_FrailtyHD.label>Frailty</TM_FrailtyHD.label>
+  <TM_FrailtyHD.description>Target takes more damage from all sources.</TM_FrailtyHD.description>
   <TM_Tranquilizer_HD.label>Sedated</TM_Tranquilizer_HD.label>
   <TM_Tranquilizer_HD.description>Effects of a tranquilizer.</TM_Tranquilizer_HD.description>
   <TM_Tranquilizer_HD.stages.0.label>Slowed</TM_Tranquilizer_HD.stages.0.label>
@@ -126,6 +226,22 @@
   <TM_Slow_HD.stages.0.label>minor</TM_Slow_HD.stages.0.label>
   <TM_Slow_HD.stages.1.label>major</TM_Slow_HD.stages.1.label>
   <TM_Slow_HD.stages.2.label>extreme</TM_Slow_HD.stages.2.label>
+  <TM_ApothecaryHerbsHD.label>apothecary herbs</TM_ApothecaryHerbsHD.label>
+  <TM_ApothecaryHerbsHD.description>Herbs, seeds, and other ingredients used by an apothecary to concoct a variety of items.</TM_ApothecaryHerbsHD.description>
+  <TM_HerbalElixirHD.label>herbal elixir</TM_HerbalElixirHD.label>
+  <TM_HerbalElixirHD.description>A herbal elixir that increases health regeneration and fights diseases; also improves mental health and reduces weariness.</TM_HerbalElixirHD.description>
+  <TM_HerbalElixirHD.stages.0.label>fading</TM_HerbalElixirHD.stages.0.label>
+  <TM_HerbalElixirHD.stages.1.label>active</TM_HerbalElixirHD.stages.1.label>
+  <TM_HerbalElixirHD.stages.2.label>strong</TM_HerbalElixirHD.stages.2.label>
+  <TM_SoothingBalmHD.label>soothing balm</TM_SoothingBalmHD.label>
+  <TM_SoothingBalmHD.description>A topical balm used to stop bleeding, heal wounds, and reduce pain. Soothing balm acts as a mild anesthetic and reduces the awareness of the patient.</TM_SoothingBalmHD.description>
+  <TM_HerbalClarityHD.label>Clarity</TM_HerbalClarityHD.label>
+  <TM_HerbalClarityHD.description>A potion that helps the consumer open themselves to the arcane. Mana regeneration is increased up to 300% and psychic sensitivity is increased up to 50%. Effects also decrease mental stability. The effects of this drug last several days but lose potency over time.</TM_HerbalClarityHD.description>
+  <TM_HerbalClarityHD.stages.0.label>fading</TM_HerbalClarityHD.stages.0.label>
+  <TM_HerbalClarityHD.stages.1.label>active</TM_HerbalClarityHD.stages.1.label>
+  <TM_HerbalClarityHD.stages.2.label>vibrant</TM_HerbalClarityHD.stages.2.label>
+  <TM_HerbalBlissHD.label>Bliss</TM_HerbalBlissHD.label>
+  <TM_HerbalBlissHD.description>Puts the user in a state of bliss, able to almost completely mask emotions and pain. This drug will cause the consumer to slowly lose skills, and skill gain while under the influence of this drug is heavily suppressed.</TM_HerbalBlissHD.description>
   <TM_Movement.label>arcane speed</TM_Movement.label>
   <TM_Movement.description>Arcane power that augments a pawns movement speed.</TM_Movement.description>
   <TM_Movement.stages.0.label>I</TM_Movement.stages.0.label>
@@ -212,6 +328,10 @@
   <TM_Artifact_HateBoostHD.description>Increases the maximum hate available to a death knight.</TM_Artifact_HateBoostHD.description>
   <TM_TraitInfusionHD.label>Trait Infusion</TM_TraitInfusionHD.label>
   <TM_TraitInfusionHD.description>A pawn has gained traits through magical infusion; this will affect their sense of self.</TM_TraitInfusionHD.description>
+  <TM_WinterStaffHD.label>Winter's Chill</TM_WinterStaffHD.label>
+  <TM_WinterStaffHD.description>Drains heat and energy from the body; prevents heat stroke. Mages only: lowers room temperature.</TM_WinterStaffHD.description>
+  <TM_ShroudOfUndeathHD.label>Shroud of Undeath</TM_ShroudOfUndeathHD.label>
+  <TM_ShroudOfUndeathHD.description>Reduces undead upkeep of this necromancer and increases the movement and attack power of nearby undead.</TM_ShroudOfUndeathHD.description>
   <TM_LullabyHD.label>Lullaby</TM_LullabyHD.label>
   <TM_LullabyHD.description>Reduces the consciousness of a pawn.</TM_LullabyHD.description>
   <TM_LullabyHD.stages.0.label>I</TM_LullabyHD.stages.0.label>
@@ -465,6 +585,34 @@
   <TM_DemonScornHD_III.label>Demon's Scorn</TM_DemonScornHD_III.label>
   <TM_DemonScornHD_III.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD_III.description>
   <TM_DemonScornHD_III.stages.0.label>IV</TM_DemonScornHD_III.stages.0.label>
+  <TM_EmpathHD.label>empath</TM_EmpathHD.label>
+  <TM_EmpathHD.description>Represents the skill of an empath to control their innate abilities.</TM_EmpathHD.description>
+  <TM_EmpathHD.stages.0.label>Uncontrolled</TM_EmpathHD.stages.0.label>
+  <TM_EmpathHD.stages.1.label>Untrained</TM_EmpathHD.stages.1.label>
+  <TM_EmpathHD.stages.2.label>Familiar</TM_EmpathHD.stages.2.label>
+  <TM_EmpathHD.stages.3.label>Trained</TM_EmpathHD.stages.3.label>
+  <TM_EmpathHD.stages.4.label>Skilled</TM_EmpathHD.stages.4.label>
+  <TM_EmpathHD.stages.5.label>Mastery</TM_EmpathHD.stages.5.label>
+  <TM_MindKillerHD.label>emotion shock</TM_MindKillerHD.label>
+  <TM_MindKillerHD.description>This pawn has been overwhelmed with a flood of emotions and is unable to think or act with clear intention; this can cause a pawn to drop their weapon or flee in fear.</TM_MindKillerHD.description>
+  <TM_MindKillerHD.stages.0.label>recovering</TM_MindKillerHD.stages.0.label>
+  <TM_MindKillerHD.stages.1.label>I</TM_MindKillerHD.stages.1.label>
+  <TM_MindKillerHD.stages.2.label>II</TM_MindKillerHD.stages.2.label>
+  <TM_MindKillerHD.stages.3.label>III</TM_MindKillerHD.stages.3.label>
+  <TM_HarvestPassionHD.label>passion harvesting</TM_HarvestPassionHD.label>
+  <TM_HarvestPassionHD.description>A passion is being stolen by another pawn.</TM_HarvestPassionHD.description>
+  <TM_SuppressiveAuraHD.label>suppressive aura</TM_SuppressiveAuraHD.label>
+  <TM_SuppressiveAuraHD.description>The empath is suppression the emotions of of nearby pawns; affected pawns will be unable to enter into a mental break or gain any mood related thoughts that are not allowed by the empath.</TM_SuppressiveAuraHD.description>
+  <TM_EmotionSuppressionHD.label>suppressed emotions</TM_EmotionSuppressionHD.label>
+  <TM_EmotionSuppressionHD.description>The emotions of this pawn are being suppressed; this pawn will not experience a mental break and most mood related thoughts will be filtered.</TM_EmotionSuppressionHD.description>
+  <TM_SymbiosisHD.label>symbiosis</TM_SymbiosisHD.label>
+  <TM_SymbiosisHD.description>The emotions and awareness of this pawn have been reinforced and fortified by the mind of an empath. For all intents and purposes, the mind of the empath is joined with this pawn - if this pawn dies then the empath will also die.</TM_SymbiosisHD.description>
+  <TM_SymbiosisHD.stages.0.label>I</TM_SymbiosisHD.stages.0.label>
+  <TM_SymbiosisHD.stages.1.label>II</TM_SymbiosisHD.stages.1.label>
+  <TM_SymbiosisHD.stages.2.label>III</TM_SymbiosisHD.stages.2.label>
+  <TM_SymbiosisHD.stages.3.label>IV</TM_SymbiosisHD.stages.3.label>
+  <TM_OutOfBodyHD.label>out of body</TM_OutOfBodyHD.label>
+  <TM_OutOfBodyHD.description>The emotions and awareness of this pawn have been attached to another pawn; this body is currently an empty shell.</TM_OutOfBodyHD.description>
   <TM_EnchantedBodyHD.label>Enchanted Body</TM_EnchantedBodyHD.label>
   <TM_EnchantedBodyHD.description>Creation of enchanted body parts to enhance physical capability.</TM_EnchantedBodyHD.description>
   <TM_EnchantedBodyHD.stages.0.label>Arm</TM_EnchantedBodyHD.stages.0.label>
@@ -568,6 +716,100 @@
   <TM_CombatDrugsAccuracy_HD.description>Combat drugs enhancing accuracy</TM_CombatDrugsAccuracy_HD.description>
   <TM_StoneskinHD.label>Stoneskin</TM_StoneskinHD.label>
   <TM_StoneskinHD.description>Each charge nullifies the damage from a single attack.</TM_StoneskinHD.description>
+  <TM_RuneCarvedPartHD.label>Rune carved</TM_RuneCarvedPartHD.label>
+  <TM_RuneCarvedPartHD.description>Empowers a body part with runic energy.</TM_RuneCarvedPartHD.description>
+  <TM_RuneCarvedPartHD.stages.0.label>Runic (I)</TM_RuneCarvedPartHD.stages.0.label>
+  <TM_RuneCarvedPartHD.stages.1.label>Runic (II)</TM_RuneCarvedPartHD.stages.1.label>
+  <TM_RuneCarvedPartHD.stages.2.label>Runic (III)</TM_RuneCarvedPartHD.stages.2.label>
+  <TM_RuneCarvedPartHD.stages.3.label>Runic (IV)</TM_RuneCarvedPartHD.stages.3.label>
+  <TM_ArcaneTatooPartHD.label>runic body</TM_ArcaneTatooPartHD.label>
+  <TM_ArcaneTatooPartHD.description>Engraves the body with arcane symbols and markings.</TM_ArcaneTatooPartHD.description>
+  <TM_ArcaneTatooPartHD.stages.0.label>I</TM_ArcaneTatooPartHD.stages.0.label>
+  <TM_ArcaneTatooPartHD.stages.1.label>II</TM_ArcaneTatooPartHD.stages.1.label>
+  <TM_ArcaneTatooPartHD.stages.2.label>III</TM_ArcaneTatooPartHD.stages.2.label>
+  <TM_ArcaneTatooPartHD.stages.3.label>IV</TM_ArcaneTatooPartHD.stages.3.label>
+  <TM_SigilPainHD.label>sigil strain</TM_SigilPainHD.label>
+  <TM_SigilPainHD.description>Maintaining sigils beyond their normal capacity strains the caster, causing pain.</TM_SigilPainHD.description>
+  <TM_SigilPainHD.stages.0.label>negligible</TM_SigilPainHD.stages.0.label>
+  <TM_SigilPainHD.stages.1.label>I</TM_SigilPainHD.stages.1.label>
+  <TM_SigilPainHD.stages.2.label>II</TM_SigilPainHD.stages.2.label>
+  <TM_SigilPainHD.stages.3.label>III</TM_SigilPainHD.stages.3.label>
+  <TM_SigilPainHD.stages.4.label>IV</TM_SigilPainHD.stages.4.label>
+  <TM_SigilPainHD.stages.5.label>V</TM_SigilPainHD.stages.5.label>
+  <TM_SigilPainHD.stages.6.label>VI</TM_SigilPainHD.stages.6.label>
+  <TM_SigilPainHD.stages.7.label>VII</TM_SigilPainHD.stages.7.label>
+  <TM_SiphonBrandHD.label>Siphon Brand</TM_SiphonBrandHD.label>
+  <TM_SiphonBrandHD.description>Slowly transfers mana to the brand recipient.</TM_SiphonBrandHD.description>
+  <TM_SiphonBrandHD.stages.0.label>dormant</TM_SiphonBrandHD.stages.0.label>
+  <TM_SiphonBrandHD.stages.2.label>surging</TM_SiphonBrandHD.stages.2.label>
+  <TM_ProtectionBrandHD.label>Protection Brand</TM_ProtectionBrandHD.label>
+  <TM_ProtectionBrandHD.description>The rune of protection is able prevent the bearer from taking damage but uses some or all of its charge when doing so; this rune recharges over time.</TM_ProtectionBrandHD.description>
+  <TM_ProtectionBrandHD.stages.0.label>dormant</TM_ProtectionBrandHD.stages.0.label>
+  <TM_ProtectionBrandHD.stages.2.label>surging</TM_ProtectionBrandHD.stages.2.label>
+  <TM_EmotionBrandHD.label>Emotion Brand</TM_EmotionBrandHD.label>
+  <TM_EmotionBrandHD.description>Causes mood to increase faster and decrease slower; has a chance to recover a pawn from a mental breakdown when surging.</TM_EmotionBrandHD.description>
+  <TM_EmotionBrandHD.stages.0.label>dormant</TM_EmotionBrandHD.stages.0.label>
+  <TM_EmotionBrandHD.stages.2.label>surging</TM_EmotionBrandHD.stages.2.label>
+  <TM_FitnessBrandHD.label>Fitness Brand</TM_FitnessBrandHD.label>
+  <TM_FitnessBrandHD.description>Increases moving and manipulation.</TM_FitnessBrandHD.description>
+  <TM_FitnessBrandHD.stages.0.label>dormant</TM_FitnessBrandHD.stages.0.label>
+  <TM_FitnessBrandHD.stages.1.label>I</TM_FitnessBrandHD.stages.1.label>
+  <TM_FitnessBrandHD.stages.2.label>II</TM_FitnessBrandHD.stages.2.label>
+  <TM_FitnessBrandHD.stages.3.label>III</TM_FitnessBrandHD.stages.3.label>
+  <TM_FitnessBrandHD.stages.4.label>IV</TM_FitnessBrandHD.stages.4.label>
+  <TM_FitnessBrandHD.stages.5.label>surging I</TM_FitnessBrandHD.stages.5.label>
+  <TM_FitnessBrandHD.stages.6.label>surging II</TM_FitnessBrandHD.stages.6.label>
+  <TM_FitnessBrandHD.stages.7.label>surging III</TM_FitnessBrandHD.stages.7.label>
+  <TM_FitnessBrandHD.stages.8.label>surging IV</TM_FitnessBrandHD.stages.8.label>
+  <TM_FitnessBrandHD.stages.9.label>surging V</TM_FitnessBrandHD.stages.9.label>
+  <TM_FitnessBrandHD.stages.10.label>surging VI</TM_FitnessBrandHD.stages.10.label>
+  <TM_AwarenessBrandHD.label>Awareness Brand</TM_AwarenessBrandHD.label>
+  <TM_AwarenessBrandHD.description>Increases senses and perception.</TM_AwarenessBrandHD.description>
+  <TM_AwarenessBrandHD.stages.0.label>dormant</TM_AwarenessBrandHD.stages.0.label>
+  <TM_AwarenessBrandHD.stages.1.label>I</TM_AwarenessBrandHD.stages.1.label>
+  <TM_AwarenessBrandHD.stages.2.label>II</TM_AwarenessBrandHD.stages.2.label>
+  <TM_AwarenessBrandHD.stages.3.label>III</TM_AwarenessBrandHD.stages.3.label>
+  <TM_AwarenessBrandHD.stages.4.label>IV</TM_AwarenessBrandHD.stages.4.label>
+  <TM_AwarenessBrandHD.stages.5.label>surging I</TM_AwarenessBrandHD.stages.5.label>
+  <TM_AwarenessBrandHD.stages.6.label>surging II</TM_AwarenessBrandHD.stages.6.label>
+  <TM_AwarenessBrandHD.stages.7.label>surging III</TM_AwarenessBrandHD.stages.7.label>
+  <TM_AwarenessBrandHD.stages.8.label>surging IV</TM_AwarenessBrandHD.stages.8.label>
+  <TM_AwarenessBrandHD.stages.9.label>surging V</TM_AwarenessBrandHD.stages.9.label>
+  <TM_AwarenessBrandHD.stages.10.label>surging VI</TM_AwarenessBrandHD.stages.10.label>
+  <TM_VitalityBrandHD.label>Vitality Brand</TM_VitalityBrandHD.label>
+  <TM_VitalityBrandHD.description>Increases vitality and recovery.</TM_VitalityBrandHD.description>
+  <TM_VitalityBrandHD.stages.0.label>dormant</TM_VitalityBrandHD.stages.0.label>
+  <TM_VitalityBrandHD.stages.1.label>I</TM_VitalityBrandHD.stages.1.label>
+  <TM_VitalityBrandHD.stages.2.label>II</TM_VitalityBrandHD.stages.2.label>
+  <TM_VitalityBrandHD.stages.3.label>III</TM_VitalityBrandHD.stages.3.label>
+  <TM_VitalityBrandHD.stages.4.label>IV</TM_VitalityBrandHD.stages.4.label>
+  <TM_VitalityBrandHD.stages.5.label>surging I</TM_VitalityBrandHD.stages.5.label>
+  <TM_VitalityBrandHD.stages.6.label>surging II</TM_VitalityBrandHD.stages.6.label>
+  <TM_VitalityBrandHD.stages.7.label>surging III</TM_VitalityBrandHD.stages.7.label>
+  <TM_VitalityBrandHD.stages.8.label>surging IV</TM_VitalityBrandHD.stages.8.label>
+  <TM_VitalityBrandHD.stages.9.label>surging V</TM_VitalityBrandHD.stages.9.label>
+  <TM_VitalityBrandHD.stages.10.label>surging VI</TM_VitalityBrandHD.stages.10.label>
+  <TM_GolemancyEfficiencyHD.label>Mind-link</TM_GolemancyEfficiencyHD.label>
+  <TM_GolemancyEfficiencyHD.description>The golem is linked to a golemancer and has acquired a higher state of awareness.</TM_GolemancyEfficiencyHD.description>
+  <TM_GolemancyEfficiencyHD.stages.1.label>I</TM_GolemancyEfficiencyHD.stages.1.label>
+  <TM_GolemancyEfficiencyHD.stages.2.label>II</TM_GolemancyEfficiencyHD.stages.2.label>
+  <TM_GolemancyEfficiencyHD.stages.3.label>III</TM_GolemancyEfficiencyHD.stages.3.label>
+  <TM_GolemancyEfficiencyHD.stages.4.label>IV</TM_GolemancyEfficiencyHD.stages.4.label>
+  <TM_GolemancyEfficiencyHD.stages.5.label>V</TM_GolemancyEfficiencyHD.stages.5.label>
+  <TM_GolemancyVersatilityHD.label>Golem bond</TM_GolemancyVersatilityHD.label>
+  <TM_GolemancyVersatilityHD.description>The golemancer is linked to a golem and is able to siphon off some of its energy for personal use.</TM_GolemancyVersatilityHD.description>
+  <TM_GolemancyVersatilityHD.stages.1.label>I</TM_GolemancyVersatilityHD.stages.1.label>
+  <TM_GolemancyVersatilityHD.stages.2.label>II</TM_GolemancyVersatilityHD.stages.2.label>
+  <TM_GolemancyVersatilityHD.stages.3.label>III</TM_GolemancyVersatilityHD.stages.3.label>
+  <TM_GolemancyVersatilityHD.stages.4.label>IV</TM_GolemancyVersatilityHD.stages.4.label>
+  <TM_GolemancyVersatilityHD.stages.5.label>V</TM_GolemancyVersatilityHD.stages.5.label>
+  <TM_GolemancyPowerHD.label>Golem augmentation</TM_GolemancyPowerHD.label>
+  <TM_GolemancyPowerHD.description>The golem is linked to a golemancer able to augment the power and endurance output of the golem.</TM_GolemancyPowerHD.description>
+  <TM_GolemancyPowerHD.stages.1.label>I</TM_GolemancyPowerHD.stages.1.label>
+  <TM_GolemancyPowerHD.stages.2.label>II</TM_GolemancyPowerHD.stages.2.label>
+  <TM_GolemancyPowerHD.stages.3.label>III</TM_GolemancyPowerHD.stages.3.label>
+  <TM_GolemancyPowerHD.stages.4.label>IV</TM_GolemancyPowerHD.stages.4.label>
+  <TM_GolemancyPowerHD.stages.5.label>V</TM_GolemancyPowerHD.stages.5.label>
   <TM_ChiHD.label>Ch'i</TM_ChiHD.label>
   <TM_ChiHD.description>Accounts for the unique energy utilized by a Monk.</TM_ChiHD.description>
   <TM_MindOverBodyHD.label>Mind over body</TM_MindOverBodyHD.label>
@@ -633,6 +875,30 @@
   <TM_SlaggedHD.stages.0.label>I</TM_SlaggedHD.stages.0.label>
   <TM_SlaggedHD.stages.1.label>II</TM_SlaggedHD.stages.1.label>
   <TM_SlaggedHD.stages.2.label>III</TM_SlaggedHD.stages.2.label>
+  <TM_SpiritPossessorHD.label>spirit</TM_SpiritPossessorHD.label>
+  <TM_SpiritPossessorHD.description>This pawn is a spirit, unable to interact with the physical world in common ways. Spirit's are unable to be physically harmed, but will lose spirit strength if their form receives damage.</TM_SpiritPossessorHD.description>
+  <TM_SpiritPossessorHD.stages.0.label>I</TM_SpiritPossessorHD.stages.0.label>
+  <TM_SpiritPossessorHD.stages.1.label>II</TM_SpiritPossessorHD.stages.1.label>
+  <TM_SpiritPossessorHD.stages.2.label>III</TM_SpiritPossessorHD.stages.2.label>
+  <TM_SpiritPossessorHD.stages.3.label>IV</TM_SpiritPossessorHD.stages.3.label>
+  <TM_SpiritPossessionHD.label>spirit possession</TM_SpiritPossessionHD.label>
+  <TM_SpiritPossessionHD.description>Possessed by a spirit.</TM_SpiritPossessionHD.description>
+  <TM_SpiritPossessionHD.stages.0.label>distorted</TM_SpiritPossessionHD.stages.0.label>
+  <TM_SpiritPossessionHD.stages.1.label>conflicted</TM_SpiritPossessionHD.stages.1.label>
+  <TM_SpiritPossessionHD.stages.2.label>unstable</TM_SpiritPossessionHD.stages.2.label>
+  <TM_SpiritPossessionHD.stages.3.label>stable</TM_SpiritPossessionHD.stages.3.label>
+  <TM_SpiritPossessionHD.stages.4.label>cooperative</TM_SpiritPossessionHD.stages.4.label>
+  <TM_SpiritPossessionHD.stages.5.label>harmonious</TM_SpiritPossessionHD.stages.5.label>
+  <TM_SpiritDrainHD.label>spirit drain</TM_SpiritDrainHD.label>
+  <TM_SpiritDrainHD.description>This pawn has been drained of spirit and their future looks grim.</TM_SpiritDrainHD.description>
+  <TM_SpiritDrainHD.stages.0.label>recovering</TM_SpiritDrainHD.stages.0.label>
+  <TM_SpiritDrainHD.stages.1.label>minor</TM_SpiritDrainHD.stages.1.label>
+  <TM_SpiritDrainHD.stages.2.label>low</TM_SpiritDrainHD.stages.2.label>
+  <TM_SpiritDrainHD.stages.3.label>moderate</TM_SpiritDrainHD.stages.3.label>
+  <TM_SpiritDrainHD.stages.4.label>severe</TM_SpiritDrainHD.stages.4.label>
+  <TM_SpiritDrainHD.stages.5.label>deadly</TM_SpiritDrainHD.stages.5.label>
+  <TM_SpiritDistortionHD.label>spirit distortion</TM_SpiritDistortionHD.label>
+  <TM_SpiritDistortionHD.description>This pawn's spirit is distorted and is unable to maintain cohesion with its body. This pawn is vulnerable and will take more damage.</TM_SpiritDistortionHD.description>
   <TM_PsionicHD.label>Psionic Energy</TM_PsionicHD.label>
   <TM_PsionicHD.description>Accounts for the unique energy of a Psionic.</TM_PsionicHD.description>
   <TM_PsionicInjuryHD.label>Psionic</TM_PsionicInjuryHD.label>
@@ -826,12 +1092,16 @@
   <TM_NanoStimulantHD.stages.14.label>XV</TM_NanoStimulantHD.stages.14.label>
   <TM_ReprogrammedFibMechanites_HD.label>reprogrammed fibrous mechanites</TM_ReprogrammedFibMechanites_HD.label>
   <TM_ReprogrammedFibMechanites_HD.description>Fibrous mechanites reprogrammed to cause less stress on the host.</TM_ReprogrammedFibMechanites_HD.description>
-  <TM_ReprogrammedFibMechanites_HD.stages.0.label>mechanite augmentation (physical)</TM_ReprogrammedFibMechanites_HD.stages.0.label>
-  <TM_ReprogrammedFibMechanites_HD.stages.1.label>mechanite augmentation (physical)</TM_ReprogrammedFibMechanites_HD.stages.1.label>
+  <TM_ReprogrammedFibMechanites_HD.stages.0.label>(fibrous)</TM_ReprogrammedFibMechanites_HD.stages.0.label>
+  <TM_ReprogrammedFibMechanites_HD.stages.1.label>(fibrous)</TM_ReprogrammedFibMechanites_HD.stages.1.label>
   <TM_ReprogrammedSenMechanites_HD.label>reprogrammed sensory mechanites</TM_ReprogrammedSenMechanites_HD.label>
   <TM_ReprogrammedSenMechanites_HD.description>Sensory mechanites reprogrammed to cause less stress on the host.</TM_ReprogrammedSenMechanites_HD.description>
-  <TM_ReprogrammedSenMechanites_HD.stages.0.label>mechanite augmentation (sensory)</TM_ReprogrammedSenMechanites_HD.stages.0.label>
-  <TM_ReprogrammedSenMechanites_HD.stages.1.label>mechanite augmentation (sensory)</TM_ReprogrammedSenMechanites_HD.stages.1.label>
+  <TM_ReprogrammedSenMechanites_HD.stages.0.label>(sensory)</TM_ReprogrammedSenMechanites_HD.stages.0.label>
+  <TM_ReprogrammedSenMechanites_HD.stages.1.label>(sensory)</TM_ReprogrammedSenMechanites_HD.stages.1.label>
+  <TM_ReprogrammedLymMechanites_HD.label>reprogrammed lymphatic mechanites</TM_ReprogrammedLymMechanites_HD.label>
+  <TM_ReprogrammedLymMechanites_HD.description>Lymphatic mechanites reprogrammed to cause less stress on the host.</TM_ReprogrammedLymMechanites_HD.description>
+  <TM_ReprogrammedLymMechanites_HD.stages.0.label>(lymphatic)</TM_ReprogrammedLymMechanites_HD.stages.0.label>
+  <TM_ReprogrammedLymMechanites_HD.stages.1.label>(lymphatic)</TM_ReprogrammedLymMechanites_HD.stages.1.label>
   <TM_Uncertainty.label>Uncertain Future</TM_Uncertainty.label>
   <TM_Uncertainty.description>Used to control mage promotions.</TM_Uncertainty.description>
   <TM_SoothingBreeze_AuraHD.label>Soothing Aura</TM_SoothingBreeze_AuraHD.label>
@@ -1034,6 +1304,14 @@
   <TM_ShadowSlayerCloakHD.description>Shadow slayer cloaking field is active - performing actions that the predictive engine is unable to track will rapidly erode the cloaking field.</TM_ShadowSlayerCloakHD.description>
   <TM_SeverityHasteHD.label>Haste</TM_SeverityHasteHD.label>
   <TM_SeverityHasteHD.description>Attack rate is doubled.</TM_SeverityHasteHD.description>
+  <TM_HeatShieldHD.label>Heat shield</TM_HeatShieldHD.label>
+  <TM_HeatShieldHD.description>Increases heat resistance and cannot catch fire.</TM_HeatShieldHD.description>
+  <TM_EvasionHD.label>Evasion</TM_EvasionHD.label>
+  <TM_EvasionHD.description>Allows the pawn the ability to dodge any non-explosive attack. The dodge rate corresponds to the severity of the buff.</TM_EvasionHD.description>
+  <TM_AdrenalineHD.label>Adrenaline</TM_AdrenalineHD.label>
+  <TM_AdrenalineHD.description>A burst of adrenaline that boosts physical performance.</TM_AdrenalineHD.description>
+  <TM_UndeadShroudHD.label>Undeath Shroud</TM_UndeadShroudHD.label>
+  <TM_UndeadShroudHD.description>The forces of undeath cling to this pawn.</TM_UndeadShroudHD.description>
   <TM_HediffEnchantment_maxEnergy.label>Max Energy:</TM_HediffEnchantment_maxEnergy.label>
   <TM_HediffEnchantment_maxEnergy.description>Energy capacity enchantment.</TM_HediffEnchantment_maxEnergy.description>
   <TM_HediffEnchantment_coolDown.label>Cool Down:</TM_HediffEnchantment_coolDown.label>
@@ -1295,6 +1573,49 @@
   <TM_LightDD.comps.1.permanentLabel>burned by light</TM_LightDD.comps.1.permanentLabel>
   <TM_LightDD.injuryProps.destroyedLabel>burned away</TM_LightDD.injuryProps.destroyedLabel>
   <TM_LightDD.injuryProps.destroyedOutLabel>burned out</TM_LightDD.injuryProps.destroyedOutLabel>
+  <TM_Dismember.labelNounPretty>{0} in the {1}</TM_Dismember.labelNounPretty>
+  <TM_Dismember.label>dismember</TM_Dismember.label>
+  <TM_Dismember.description>An attack that tears a limb (or head) off a target.</TM_Dismember.description>
+  <TM_Dismember.labelNoun>a massive wound</TM_Dismember.labelNoun>
+  <TM_Dismember.comps.0.labelTendedWell>bandaged</TM_Dismember.comps.0.labelTendedWell>
+  <TM_Dismember.comps.0.labelTendedWellInner>sutured</TM_Dismember.comps.0.labelTendedWellInner>
+  <TM_Dismember.comps.0.labelSolidTendedWell>set</TM_Dismember.comps.0.labelSolidTendedWell>
+  <TM_Dismember.injuryProps.destroyedLabel>torn off</TM_Dismember.injuryProps.destroyedLabel>
+  <TM_Dismember.injuryProps.destroyedOutLabel>torn out</TM_Dismember.injuryProps.destroyedOutLabel>
+  <TM_PartRemovalHD.labelNounPretty>{0} in the {1}</TM_PartRemovalHD.labelNounPretty>
+  <TM_PartRemovalHD.label>missing</TM_PartRemovalHD.label>
+  <TM_PartRemovalHD.description>A missing bodypart.</TM_PartRemovalHD.description>
+  <TM_PartRemovalHD.labelNoun>missing</TM_PartRemovalHD.labelNoun>
+  <TM_PartRemovalHD.injuryProps.destroyedLabel>missing</TM_PartRemovalHD.injuryProps.destroyedLabel>
+  <TM_PartRemovalHD.injuryProps.destroyedOutLabel>missing</TM_PartRemovalHD.injuryProps.destroyedOutLabel>
+  <TM_DecayDamage.labelNounPretty>{0} in the {1}</TM_DecayDamage.labelNounPretty>
+  <TM_DecayDamage.label>Decay</TM_DecayDamage.label>
+  <TM_DecayDamage.description>Organic decay.</TM_DecayDamage.description>
+  <TM_DecayDamage.comps.0.labelTendedWell>bandaged</TM_DecayDamage.comps.0.labelTendedWell>
+  <TM_DecayDamage.comps.0.labelTendedWellInner>tended</TM_DecayDamage.comps.0.labelTendedWellInner>
+  <TM_DecayDamage.comps.0.labelSolidTendedWell>treated</TM_DecayDamage.comps.0.labelSolidTendedWell>
+  <TM_DecayDamage.comps.1.permanentLabel>lifeless</TM_DecayDamage.comps.1.permanentLabel>
+  <TM_DecayDamage.injuryProps.destroyedLabel>lifeless</TM_DecayDamage.injuryProps.destroyedLabel>
+  <TM_DecayDamage.injuryProps.destroyedOutLabel>decayed</TM_DecayDamage.injuryProps.destroyedOutLabel>
+  <TM_SymbiosisDamage.labelNounPretty>{0} in the {1}</TM_SymbiosisDamage.labelNounPretty>
+  <TM_SymbiosisDamage.label>symbiosis</TM_SymbiosisDamage.label>
+  <TM_SymbiosisDamage.description>Damage inferred through a symbiosis connection.</TM_SymbiosisDamage.description>
+  <TM_SymbiosisDamage.labelNoun>symbiotic transfer</TM_SymbiosisDamage.labelNoun>
+  <TM_SymbiosisDamage.comps.0.labelTendedWell>tended</TM_SymbiosisDamage.comps.0.labelTendedWell>
+  <TM_SymbiosisDamage.comps.0.labelTendedWellInner>tended</TM_SymbiosisDamage.comps.0.labelTendedWellInner>
+  <TM_SymbiosisDamage.comps.0.labelSolidTendedWell>set</TM_SymbiosisDamage.comps.0.labelSolidTendedWell>
+  <TM_SymbiosisDamage.comps.2.permanentLabel>residual injury</TM_SymbiosisDamage.comps.2.permanentLabel>
+  <TM_SymbiosisDamage.injuryProps.destroyedLabel>destroyed</TM_SymbiosisDamage.injuryProps.destroyedLabel>
+  <TM_SymbiosisDamage.injuryProps.destroyedOutLabel>severed</TM_SymbiosisDamage.injuryProps.destroyedOutLabel>
+  <TM_Frozen.labelNounPretty>{0} in the {1}</TM_Frozen.labelNounPretty>
+  <TM_Frozen.label>freezing winds</TM_Frozen.label>
+  <TM_Frozen.description>Bitterly cold winds.</TM_Frozen.description>
+  <TM_Frozen.comps.0.labelTendedWell>tended</TM_Frozen.comps.0.labelTendedWell>
+  <TM_Frozen.comps.0.labelTendedWellInner>tended</TM_Frozen.comps.0.labelTendedWellInner>
+  <TM_Frozen.comps.0.labelSolidTendedWell>tended</TM_Frozen.comps.0.labelSolidTendedWell>
+  <TM_Frozen.comps.1.permanentLabel>frostbite</TM_Frozen.comps.1.permanentLabel>
+  <TM_Frozen.injuryProps.destroyedLabel>Frozen</TM_Frozen.injuryProps.destroyedLabel>
+  <TM_Frozen.injuryProps.destroyedOutLabel>Frozen</TM_Frozen.injuryProps.destroyedOutLabel>
   <TM_ArcaneWeakness.label>arcane weakness</TM_ArcaneWeakness.label>
   <TM_ArcaneWeakness.description>Arcane Weakness is a byproduct of casting magical abilities. Minor abilities with a mana cost less than 25 will not incur Arcane Weakness. The amount of Arcane Weakness that will affect a mage is relative to the mana cost of the ability.</TM_ArcaneWeakness.description>
   <TM_ArcaneWeakness.stages.0.label>weakened</TM_ArcaneWeakness.stages.0.label>
@@ -1302,6 +1623,11 @@
   <TM_ArcaneWeakness.stages.2.label>severely ill</TM_ArcaneWeakness.stages.2.label>
   <TM_ArcaneWeakness.stages.3.label>catatonic</TM_ArcaneWeakness.stages.3.label>
   <TM_ArcaneWeakness.stages.4.label>near death</TM_ArcaneWeakness.stages.4.label>
+  <TM_CursedHD.label>arcane curse</TM_CursedHD.label>
+  <TM_CursedHD.description>Arcane curse is a byproduct of the cursed trait. The cursed pawn is constantly affected by arcane weakness that will gradually increase until it is a persistent illness. The effects of the curse can be offset by using magic, however, the pain caused by the curse does provide a unique clarity. The curse can be lifted by removing the pawn's magical trait.</TM_CursedHD.description>
+  <TM_CursedHD.stages.0.label>faded</TM_CursedHD.stages.0.label>
+  <TM_CursedHD.stages.1.label>moderate</TM_CursedHD.stages.1.label>
+  <TM_CursedHD.stages.2.label>heightened</TM_CursedHD.stages.2.label>
   <TM_Confused.label>Confused</TM_Confused.label>
   <TM_Confused.description>Frequently causes a target to become confused.</TM_Confused.description>
   <TM_Confused.stages.0.label>Wandering confused</TM_Confused.stages.0.label>
@@ -1323,6 +1649,10 @@
   <TM_Terror.stages.0.label>Uneasy</TM_Terror.stages.0.label>
   <TM_Terror.stages.1.label>Panicked</TM_Terror.stages.1.label>
   <TM_Terror.stages.2.label>Terrified</TM_Terror.stages.2.label>
+  <TM_MagicSeverenceHD.label>Magic Severence</TM_MagicSeverenceHD.label>
+  <TM_MagicSeverenceHD.description>This pawn has recently lost their connection to magic and will suffer from a loss of direction and purpose until they can fill the void with another purpose.</TM_MagicSeverenceHD.description>
+  <TM_BestowMagicClassHD.label>Gift of Magic</TM_BestowMagicClassHD.label>
+  <TM_BestowMagicClassHD.description>This pawn was recently granted the spark of magic.</TM_BestowMagicClassHD.description>
   <TM_EnlightenedHD.label>Enlightened</TM_EnlightenedHD.label>
   <TM_EnlightenedHD.description>Consciousness increased as a result of inspirational enlightenment.</TM_EnlightenedHD.description>
   <TM_MagicUserHD.label>magic user</TM_MagicUserHD.label>

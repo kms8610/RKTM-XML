@@ -17,12 +17,12 @@
   <ID_Outgoing.baseInspectLine>Inspired: Outgoing</ID_Outgoing.baseInspectLine>
   <ID_MiningFrenzy.label>mining frenzy</ID_MiningFrenzy.label>
   <ID_MiningFrenzy.beginLetterLabel>Inspiration: mining frenzy</ID_MiningFrenzy.beginLetterLabel>
-  <ID_MiningFrenzy.beginLetter>{0} has just been inspired. [PAWN_pronoun] will mine 50% faster and yield 50% more resources during mining for the next 72 hours.</ID_MiningFrenzy.beginLetter>
+  <ID_MiningFrenzy.beginLetter>{0} has just been inspired. [PAWN_pronoun] will mine 100% faster and yield 100% more resources during mining for the next 48 hours.</ID_MiningFrenzy.beginLetter>
   <ID_MiningFrenzy.endMessage>{0} is no longer inspired (mining frenzy).</ID_MiningFrenzy.endMessage>
   <ID_MiningFrenzy.baseInspectLine>Inspired: Mining Frenzy</ID_MiningFrenzy.baseInspectLine>
   <ID_FarmingFrenzy.label>farming frenzy</ID_FarmingFrenzy.label>
   <ID_FarmingFrenzy.beginLetterLabel>Inspiration: farming frenzy</ID_FarmingFrenzy.beginLetterLabel>
-  <ID_FarmingFrenzy.beginLetter>{0} has just been inspired. [PAWN_pronoun] will harvest crops 50% faster with 50% more yield during plant cutting jobs for the next 72 hours.</ID_FarmingFrenzy.beginLetter>
+  <ID_FarmingFrenzy.beginLetter>{0} has just been inspired. [PAWN_pronoun] will harvest crops 100% faster with 50% more yield during plant cutting jobs for the next 48 hours.</ID_FarmingFrenzy.beginLetter>
   <ID_FarmingFrenzy.endMessage>{0} is no longer inspired (farming frenzy).</ID_FarmingFrenzy.endMessage>
   <ID_FarmingFrenzy.baseInspectLine>Inspired: Farming Frenzy</ID_FarmingFrenzy.baseInspectLine>
   <ID_Champion.label>champion</ID_Champion.label>
@@ -35,4 +35,9 @@
   <ID_Enlightened.beginLetter>{0} has entered a period of enlightenment. [PAWN_pronoun] consciousness will be significantly expanded for the next 72 hours.</ID_Enlightened.beginLetter>
   <ID_Enlightened.endMessage>{0} is no longer inspired (enlightenment).</ID_Enlightened.endMessage>
   <ID_Enlightened.baseInspectLine>Inspired: Enlightened</ID_Enlightened.baseInspectLine>
+  <ID_ArcanePathways.label>arcane path</ID_ArcanePathways.label>
+  <ID_ArcanePathways.beginLetterLabel>Inspiration: arcane path</ID_ArcanePathways.beginLetterLabel>
+  <ID_ArcanePathways.beginLetter>{0} has seen a vision of arcane potential. [PAWN_pronoun] can achieve the power of a {1} with the assistance of a voidseeker. This ritual must be performed within two days or the inspiration will be lost.</ID_ArcanePathways.beginLetter>
+  <ID_ArcanePathways.endMessage>{0} can no longer reach an arcane path of a {1} through inspiration.</ID_ArcanePathways.endMessage>
+  <ID_ArcanePathways.baseInspectLine>Inspired: Arcane Path</ID_ArcanePathways.baseInspectLine>
 </LanguageData>

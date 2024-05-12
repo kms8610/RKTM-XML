@@ -45,6 +45,8 @@
   <TM_Firestorm_Small.deathMessage>{0} was destroyed by elemental fire.</TM_Firestorm_Small.deathMessage>
   <TM_Firestorm_Large.label>Fire Magic</TM_Firestorm_Large.label>
   <TM_Firestorm_Large.deathMessage>{0} was destroyed by elemental fire.</TM_Firestorm_Large.deathMessage>
+  <TM_HailDD.label>Hail</TM_HailDD.label>
+  <TM_HailDD.deathMessage>{0} bludgeoned to death from hail.</TM_HailDD.deathMessage>
   <TM_Blizzard_Small.label>Ice Magic</TM_Blizzard_Small.label>
   <TM_Blizzard_Small.deathMessage>{0} froze to death in a blizzard.</TM_Blizzard_Small.deathMessage>
   <TM_Blizzard_Large.label>Ice Magic</TM_Blizzard_Large.label>
@@ -119,4 +121,12 @@
   <TM_PainDD.deathMessage>{0} died from overwhelming pain.</TM_PainDD.deathMessage>
   <TM_DistortionDD.label>distortion</TM_DistortionDD.label>
   <TM_DistortionDD.deathMessage>{0} was destroyed.</TM_DistortionDD.deathMessage>
+  <TM_Dismember.label>tear</TM_Dismember.label>
+  <TM_Dismember.deathMessage>{0} has been torn apart.</TM_Dismember.deathMessage>
+  <TM_PartRemoval.label>removed</TM_PartRemoval.label>
+  <TM_PartRemoval.deathMessage>{0} has been removed.</TM_PartRemoval.deathMessage>
+  <TM_DecayDD.label>Decay</TM_DecayDD.label>
+  <TM_DecayDD.deathMessage>{0}'s body decayed.</TM_DecayDD.deathMessage>
+  <TM_SymbiosisDD.label>Symbiosis</TM_SymbiosisDD.label>
+  <TM_SymbiosisDD.deathMessage>{0} died with their symbiosis host.</TM_SymbiosisDD.deathMessage>
 </LanguageData>

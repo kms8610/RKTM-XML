@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <TM_Speech_SeverMagic.label>sever magic speech</TM_Speech_SeverMagic.label>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.0>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.1>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.2>speechtopic->magic</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.2>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.3>speechtopic->peace through power</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.3>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.4>speechtopic->mages</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.4>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.5>speechtopic->chaos</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.5>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.6>speechtopic->the temptation of power</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.6>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.7>speechtopic->magic and mages</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.7>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.8>speechtopic->the seduction of magic</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.8>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.9>speechtopic->an errant bio-genetic cancer</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.9>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.10>crazy->screamed maniacally</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.10>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.11>crazy->broke into a chant</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.11>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.12>crazy->chanted towards the heavens</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.12>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.13>crazy->spat in the mage's eye</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.13>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.14>crazy->cackled</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.14>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.15>crazy->brandished a blade</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.15>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.16>crazy->muttered repetitively</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.16>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.17>crazy->screamed in defiance</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.17>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.18>crazy->spasmed uncontrollably</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.18>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.19>doing->controlling</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.19>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.20>doing->balancing</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.20>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.21>doing->sacrificing</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.21>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.22>doing->removing the temptation</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.22>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.23>doing->manipulating</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.23>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.24>doing->freeing</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.24>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.25>doing->standing firm against</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.25>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.26>doing->rejecting</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.26>
+  <TM_Speech_BestowMagic.label>bestow magic speech</TM_Speech_BestowMagic.label>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.0>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.1>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.2>speechtopic->magic</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.2>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.3>speechtopic->peace through power</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.3>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.4>speechtopic->mages</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.4>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.5>speechtopic->order</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.5>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.6>speechtopic->the power to protect</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.6>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.7>speechtopic->magic and mages</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.7>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.8>speechtopic->the blessings of magic</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.8>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.9>speechtopic->the next stage in human evolution</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.9>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.10>crazy->roared in victory</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.10>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.11>crazy->broke into a chant</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.11>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.12>crazy->chanted towards the heavens</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.12>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.13>crazy->placed a hand of assurance on the mage</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.13>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.14>crazy->smiled heroically</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.14>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.15>crazy->brandished a staff</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.15>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.16>crazy->murmured a mantra</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.16>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.17>crazy->offered a benediction</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.17>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.18>crazy->reached towards the heavens</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.18>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.19>doing->achieving</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.19>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.20>doing->learning</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.20>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.21>doing->understanding</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.21>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.22>doing->using</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.22>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.23>doing->protecting</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.23>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.24>doing->releasing</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.24>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.25>doing->supporting</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.25>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.26>doing->gaining</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.26>
   <TM_MagicLore.label>discussed magic theories and practices</TM_MagicLore.label>
   <TM_MagicLore.logRulesInitiator.rulesStrings.0>r_logentry->Mentored [RECIPIENT_nameDef] in magic.</TM_MagicLore.logRulesInitiator.rulesStrings.0>
   <TM_MagicLore.logRulesRecipient.rulesStrings.0>r_logentry->Learned magic theories from [INITIATOR_nameDef].</TM_MagicLore.logRulesRecipient.rulesStrings.0>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_SeverMagic.description>Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</TM_SeverMagic.description>
+  <TM_SeverMagic.comps.1.label>moral guide present</TM_SeverMagic.comps.1.label>
+  <TM_SeverMagic.comps.2.label>participant count</TM_SeverMagic.comps.2.label>
+  <TM_SeverMagic.comps.3.label>started at altar or ideogram</TM_SeverMagic.comps.3.label>
+  <TM_SeverMagic.comps.3.expectedThingLabelTip>an altar or an ideogram</TM_SeverMagic.comps.3.expectedThingLabelTip>
+  <TM_SeverMagic.comps.4.label>room impressiveness</TM_SeverMagic.comps.4.label>
+  <TM_SeverMagic.outcomeChances.0.label>Botched</TM_SeverMagic.outcomeChances.0.label>
+  <TM_SeverMagic.outcomeChances.0.description>The {0} was botched. The mage retaliated in fear and desperation.</TM_SeverMagic.outcomeChances.0.description>
+  <TM_SeverMagic.outcomeChances.1.label>Lethal</TM_SeverMagic.outcomeChances.1.label>
+  <TM_SeverMagic.outcomeChances.1.description>The {0} was lethal. The ritual was intended to sever the mage from magic, not kill the mage.</TM_SeverMagic.outcomeChances.1.description>
+  <TM_SeverMagic.outcomeChances.2.label>Success</TM_SeverMagic.outcomeChances.2.label>
+  <TM_SeverMagic.outcomeChances.2.description>The {0} was a success. The voidseeker effectively severed the mage's magic.</TM_SeverMagic.outcomeChances.2.description>
+  <TM_SeverMagic.outcomeChances.3.label>Flawless</TM_SeverMagic.outcomeChances.3.label>
+  <TM_SeverMagic.outcomeChances.3.description>The {0} was flawless - the ceremony brought compassion and freedom to the mage.</TM_SeverMagic.outcomeChances.3.description>
+  <TM_BestowMagic.description>Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</TM_BestowMagic.description>
+  <TM_BestowMagic.comps.1.label>moral guide present</TM_BestowMagic.comps.1.label>
+  <TM_BestowMagic.comps.2.label>participant count</TM_BestowMagic.comps.2.label>
+  <TM_BestowMagic.comps.3.label>started at altar or ideogram</TM_BestowMagic.comps.3.label>
+  <TM_BestowMagic.comps.3.expectedThingLabelTip>an altar or an ideogram</TM_BestowMagic.comps.3.expectedThingLabelTip>
+  <TM_BestowMagic.comps.4.label>room impressiveness</TM_BestowMagic.comps.4.label>
+  <TM_BestowMagic.outcomeChances.0.label>Failed</TM_BestowMagic.outcomeChances.0.label>
+  <TM_BestowMagic.outcomeChances.0.description>The {0} was botched. The voidseeker was unable to bridge a magical connection.</TM_BestowMagic.outcomeChances.0.description>
+  <TM_BestowMagic.outcomeChances.1.label>Success</TM_BestowMagic.outcomeChances.1.label>
+  <TM_BestowMagic.outcomeChances.1.description>The {0} was a success. The voidseeker granted the spark of magic.</TM_BestowMagic.outcomeChances.1.description>
+  <TM_BestowMagic.outcomeChances.2.label>Inspired</TM_BestowMagic.outcomeChances.2.label>
+  <TM_BestowMagic.outcomeChances.2.description>The {0} was flawless - the ceremony reaffirmed our beliefs, bringing the gift of magic and granting inspirational visions.</TM_BestowMagic.outcomeChances.2.description>
+  <TM_BestowMagicClass.description>Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</TM_BestowMagicClass.description>
+  <TM_BestowMagicClass.comps.1.label>moral guide present</TM_BestowMagicClass.comps.1.label>
+  <TM_BestowMagicClass.comps.2.label>participant count</TM_BestowMagicClass.comps.2.label>
+  <TM_BestowMagicClass.comps.3.label>started at altar or ideogram</TM_BestowMagicClass.comps.3.label>
+  <TM_BestowMagicClass.comps.3.expectedThingLabelTip>an altar or an ideogram</TM_BestowMagicClass.comps.3.expectedThingLabelTip>
+  <TM_BestowMagicClass.comps.4.label>room impressiveness</TM_BestowMagicClass.comps.4.label>
+  <TM_BestowMagicClass.outcomeChances.0.label>Bland</TM_BestowMagicClass.outcomeChances.0.label>
+  <TM_BestowMagicClass.outcomeChances.0.description>The {0} was a success but lacked any real feeling or energy.</TM_BestowMagicClass.outcomeChances.0.description>
+  <TM_BestowMagicClass.outcomeChances.1.label>Encouraging</TM_BestowMagicClass.outcomeChances.1.label>
+  <TM_BestowMagicClass.outcomeChances.1.description>The {0} was a success. A gifted individual has taken a great step towards becoming a more powerful asset to our colony.</TM_BestowMagicClass.outcomeChances.1.description>
+  <TM_BestowMagicClass.outcomeChances.2.label>Inspiring</TM_BestowMagicClass.outcomeChances.2.label>
+  <TM_BestowMagicClass.outcomeChances.2.description>The {0} was inspiring - through a magnificent spectacle of arcane and emotional energy, the colony has gained another powerful mage.</TM_BestowMagicClass.outcomeChances.2.description>
+</LanguageData>

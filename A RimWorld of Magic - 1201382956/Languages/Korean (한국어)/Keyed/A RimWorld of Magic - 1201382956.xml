@@ -7,6 +7,10 @@
   <TM_NotEnoughPsionicEnergy>{0} does not have enough psionic energy for {1}.</TM_NotEnoughPsionicEnergy>
   <TM_NotEnoughChi>{0} does not have enough ch'i to execute this ability.</TM_NotEnoughChi>
   <TM_NotEnoughEnergy>{0} does not have enough {1} to execute this ability.</TM_NotEnoughEnergy>
+  <TM_NoRequiredNeed>{0} does not have the {1} need required to execute this ability.</TM_NoRequiredNeed>
+  <TM_NoRequiredHediff>{0} does not have the {1} health effect required to execute this ability.</TM_NoRequiredHediff>
+  <TM_NoRequiredInspiration>{0} does not have the {1} inspiration required to execute this ability.</TM_NoRequiredInspiration>
+  <TM_NotInspired>{0} is not inspired.</TM_NotInspired>
   <MentalStateByPsyker>{0} overcome by a psychic assault.</MentalStateByPsyker>
   <TM_InvalidTarget>{0} found no valid target for ability {1}.</TM_InvalidTarget>
   <InvalidPortal>Invalid portal location - target position, and all adjacent positions, must be valid and free of debris.</InvalidPortal>
@@ -46,7 +50,7 @@
   <TM_CannotUseOnLiving>This spell cannot be used on the living.</TM_CannotUseOnLiving>
   <TM_CannontConsumeCorpseType>Cannot consume this type of corpse.</TM_CannontConsumeCorpseType>
   <TM_InvalidCorpseType>Corpse type is invalid for Consume Corpse.</TM_InvalidCorpseType>
-  <TM_Learn>Learn</TM_Learn>
+  <TM_Learn>Learn {0}</TM_Learn>
   <TM_GatewayBeyondMaximumRange>Target tile is beyond reach of Gateway.</TM_GatewayBeyondMaximumRange>
   <TM_InvalidGatewaySelection>Invalid target tile for Gateway.</TM_InvalidGatewaySelection>
   <TM_InvalidGatewayNotOccupied>Gateway can only be used on map tiles occupied by colonists.</TM_InvalidGatewayNotOccupied>
@@ -180,11 +184,63 @@
   <TM_IncompatibleWeaponType>{0} cannot use {1} - incompatible weapon.</TM_IncompatibleWeaponType>
   <TM_SpiritAnimalChange>{0}'s spirit animal has changed from {1} to {2}.</TM_SpiritAnimalChange>
   <TM_InvalidAction>{0} cannot use {1} - invalid parameters.</TM_InvalidAction>
+  <TM_InvalidAbility>{0} was unable to use {1}.</TM_InvalidAbility>
+  <TM_SlaveRefuses>{0} refuses to perform this action.</TM_SlaveRefuses>
+  <TM_SlaveScribeFail>{0} is unable to transcribe written lore as a slave.</TM_SlaveScribeFail>
+  <TM_MessageRitualRoleMustBeColonistOrPrisoner>{0} must be colonist or prisoner.</TM_MessageRitualRoleMustBeColonistOrPrisoner>
+  <TM_MessageRitualRoleMustBeColonist>{0} must be a colonist.</TM_MessageRitualRoleMustBeColonist>
+  <TM_MessageRitualRoleMustBeVoidseeker>{0} must be a void seeker.</TM_MessageRitualRoleMustBeVoidseeker>
+  <TM_MessageRitualRoleMustBeMage>{0} must be a mage.</TM_MessageRitualRoleMustBeMage>
+  <TM_MessageRitualRoleMustNotBeMage>{0} cannot already be a mage.</TM_MessageRitualRoleMustNotBeMage>
+  <TM_MessageRitualRoleMustNotBeFighter>{0} cannot already be a fighter.</TM_MessageRitualRoleMustNotBeFighter>
+  <TM_MessageRitualRoleCannotHaveTrait>{0} already has the {1} trait.</TM_MessageRitualRoleCannotHaveTrait>
+  <TM_MessageRitualRoleMustHaveTrait>{0} must have the {1} trait.</TM_MessageRitualRoleMustHaveTrait>
+  <TM_DoesNotHaveArcanePathwayInspiration>{0} no longer held an inspiration.</TM_DoesNotHaveArcanePathwayInspiration>
+  <TM_MessageRitualRoleMustBeInspiredWith>{0} is not inspired with {1}.</TM_MessageRitualRoleMustBeInspiredWith>
+  <TM_MessageRitualRoleCannotBeUndead>{0} cannot be undead.</TM_MessageRitualRoleCannotBeUndead>
+  <TM_RuneCarving>rune engraving</TM_RuneCarving>
+  <TM_ArcaneTatoo>arcane tattoo</TM_ArcaneTatoo>
+  <TM_MaxGolemUpgradeReached>The max {0} upgrade has already been reached; resources have been returned</TM_MaxGolemUpgradeReached>
+  <TM_NoGolemPartToRestore>There were no missing parts for {0} to replace; resources have been returned</TM_NoGolemPartToRestore>
+  <TM_GolemBillUnsuccessful>Unable to complete golem recipe {0}; resources have been returned</TM_GolemBillUnsuccessful>
+  <TM_GolemCannotReturn>The golem could not return to its designated position, cell is unreachable or occupied.</TM_GolemCannotReturn>
+  <TM_GolemPartReplaced>The {0} upgrade has replaced the {1} upgrade; only one upgrade of this type can occupy the {2}.</TM_GolemPartReplaced>
+  <TM_UnfinishedThingNoProduct>Unfinished {0}</TM_UnfinishedThingNoProduct>
+  <TM_NoPassionsToTransfer>No worthwhile passions found to transfer from {0} to {1}.</TM_NoPassionsToTransfer>
+  <TM_MustHaveInspiration>{0} must have an inspiration to use {1}.</TM_MustHaveInspiration>
+  <TM_BonusDamage>Bonus damage: {0}</TM_BonusDamage>
+  <TM_NoRangedAttack>no ranged attack</TM_NoRangedAttack>
+  <TM_GolemLight>Light</TM_GolemLight>
+  <TM_GolemLightDesc>Toggle light</TM_GolemLightDesc>
+  <TM_GolemMinimumToActivate>Insufficient energy to activate: {0} of {1}</TM_GolemMinimumToActivate>
+  <TM_GolemChargesRemaining>{0} actions remaining</TM_GolemChargesRemaining>
+  <TM_AlreadyHasSymbiote>{0} already has a symbiote.</TM_AlreadyHasSymbiote>
+  <TM_CannotAlterWeatherType>Unable to create an alternate weather type from {0}</TM_CannotAlterWeatherType>
+  <TM_UnableToLearnAdvancedClass>{0} was unable to apply {1} because {2}</TM_UnableToLearnAdvancedClass>
+  <TM_LearnFail_NotClass>no base class found</TM_LearnFail_NotClass>
+  <TM_LearnFail_NoRequiredTrait>no required trait found</TM_LearnFail_NoRequiredTrait>
+  <TM_LearnFail_DisallowedTrait>of a conflicting trait</TM_LearnFail_DisallowedTrait>
+  <TM_SpiritVerbatum>Spirit</TM_SpiritVerbatum>
+  <TM_AncientSpiritVerbatum>Ancient Spirit</TM_AncientSpiritVerbatum>
+  <TM_VengefulSpiritVerbatum>Vengeful Spirit</TM_VengefulSpiritVerbatum>
+  <TM_LostSpiritVerbatum>Lost Spirit</TM_LostSpiritVerbatum>
+  <TM_RegretSpiritVerbatum>Spirit of Regret</TM_RegretSpiritVerbatum>
+  <TM_BaseSpiritDesc>A wandering spirit, anchored to this realm by some unknown force. The events surrounding the origins of this spirit are unknown, but powerful enough to cause the spirit to seek answers, justice, or redemption from the living.</TM_BaseSpiritDesc>
+  <TM_AncientSpiritDesc>This spirit has existed for countless ages and it no longer remembers its purpose. Ancient spirits pursue their own ends and have become masters at controlling spirit energy. Maximum spirit energy is increased by 50.</TM_AncientSpiritDesc>
+  <TM_VengefulSpiritDesc>Vengeful spirits are full of spite and hatred, wishing only to inflict their misery onto the living. Vengeful spirits are able to exert more power during spirit distortion and spirit storm but are more difficult to harmonize with when possessing a living body. Increases attack rate of spirit storm by 25% and damage bonus of distort spirit by 6%. Reduces compatibility by 1.</TM_VengefulSpiritDesc>
+  <TM_LostSpiritDesc>Lost spirits wander the realm in a constant state of existential anguish, unable to perceive their purpose. The lost readily attach themselves to another's cause and more easily harmonize with kindred spirits. They are also able to strengthen the power of the rally spirit ability. Increase duration, radius, max targets, and bonuses of Spirit Rally by 10%. Increases compatibility by 2.</TM_LostSpiritDesc>
+  <TM_RegretSpiritDesc>The spirit of regret is still able to remember their purpose as a spirit, but are were unable to right their wrongs before it was too late. Now they wander the world as a spirit, full of sadness and regret, still searching for a way to fulfill their purpose. Spirits of regret enhance the drain spirit ability by 20%.</TM_RegretSpiritDesc>
   <LetterLabelRegrowthSurgeryFail>Surgery Failed</LetterLabelRegrowthSurgeryFail>
   <LetterRegrowthSurgeryFail>{0} just attempted to perform {1} on {2} but failed because {4} {3}.\n\nIn order to successfully perform this surgery, the following conditions must be met:\n\n1. Surgeon must be a Druid\n2. The druid must have learned the Regrow Limb spell.\n3. You must have a Seed of Life as an ingredient to perform the surgery.\n4. The druid must have 90 or more mana at the time of the surgery.\n5. After all these conditions are met, the druid must still perform the surgery successfully, which depends on their medical skill.\n\nGood luck, mage!</LetterRegrowthSurgeryFail>
   <TM_NotMagicUser>is not a magic user</TM_NotMagicUser>
   <TM_NoRegrowthSpell>has not learned the spell Regrow Limb</TM_NoRegrowthSpell>
   <TM_InsufficientManaForSurgery>did not have enough mana to complete the operation - 90 or greater is required</TM_InsufficientManaForSurgery>
+  <LetterLabelRuneCarvingFail>Rune Carving Failed</LetterLabelRuneCarvingFail>
+  <LetterRuneCarvingFail>{0} just attempted to perform {1} on {2} but failed because {4} {3}.\n\nIn order to successfully perform a rune carving, the following conditions must be met:\n\n1. Surgeon must be a Mage\n2. The mage must have learned the Rune Carving ability.\n3. You must have at least {5} mana to complete carving a rune.\n4. The mage must be able to perform artistic and crafting.\n5.After all these conditions are met, the mage must still perform the carving successfully - rune carving success chance begins at 70% and increases based on crafting skill, artistic skill and rune carving skill.</LetterRuneCarvingFail>
+  <TM_NoRuneCarvingSpell>is unable to carve runes</TM_NoRuneCarvingSpell>
+  <TM_InsufficientManaForCarving>did not have enough mana to complete the rune carving - {0} requires {1} or more.</TM_InsufficientManaForCarving>
+  <TM_RuneCarvingFailed>{0} failed to successfully carve a rune for {1}'s {2} - success chance was {3}%</TM_RuneCarvingFailed>
+  <TM_CarvingFailedChance>Rune carving failed.</TM_CarvingFailedChance>
   <LetterLabelArcaneScriptCaravan>Caravan request</LetterLabelArcaneScriptCaravan>
   <LetterArcaneScriptCaravan>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1}\n\nIn return, they offer:\n\n  {2}\n\nThis request expires after: {3}\n\nIf you want to make the trade, send a caravan with the requested supplies. You can review this offer by selecting {0} on the world map.</LetterArcaneScriptCaravan>
   <LetterLabelRitualFail>Ritual failed</LetterLabelRitualFail>
@@ -197,9 +253,6 @@
   <AICanCast>AI use abilities</AICanCast>
   <AIHardMode>AI hard mode</AIHardMode>
   <DeathRadius>AI mage death retaliation radius</DeathRadius>
-  <AIMarking>AI mage marking</AIMarking>
-  <AIFighterMarking>AI fighter marking</AIFighterMarking>
-  <AIFriendlyMarking>Mark controlled pawns</AIFriendlyMarking>
   <baseMageChance>Mage precursor commonality: </baseMageChance>
   <baseFighterChance>Fighter precursor commonality: </baseFighterChance>
   <advMageChance>Mage commonality: </advMageChance>
@@ -208,18 +261,13 @@
   <DeathExplosionMax>maximum damage</DeathExplosionMax>
   <DeathExplosionField>{0}</DeathExplosionField>
   <MagicyteChance>Magicyte Drop Chance</MagicyteChance>
-  <showAbilitiesOnMultiSelect>Show abilities when selecting multiple pawns</showAbilitiesOnMultiSelect>
-  <showMagicGizmo>Show mana/stamina/psi energy as gizmo</showMagicGizmo>
   <TM_enableAutocast>Enable auto-cast</TM_enableAutocast>
+  <TM_queueAutocast>Queue autocast jobs</TM_queueAutocast>
+  <TM_queueAutocastDesc>Non-violent and un-drafted autocast jobs will be queued as the next job to perform instead of interrupting the current job. Queued abilities may become invalid or sub-optimal, depending on the duration of the delay. Some abilities, like blink, phase strike, or 'zone' based jobs are exempt.</TM_queueAutocastDesc>
   <TM_autocastUndraftedThreshold>Minimum energy % for auto-cast (undrafted)</TM_autocastUndraftedThreshold>
   <TM_autocastDraftedThreshold>Minimum energy % for auto-cast (drafted)</TM_autocastDraftedThreshold>
   <TM_autocastEvaluationFrequency>Autocast evaluation frequency</TM_autocastEvaluationFrequency>
-  <showLevelUpMessage>Show level up messages</showLevelUpMessage>
-  <showUndeadPawnChange>Change undead pawn appearance</showUndeadPawnChange>
-  <showUndeadAnimalChange>Change undead animal appearance</showUndeadAnimalChange>
   <unrestrictedBloodTypesForBloodMagic>Unrestricted blood types for blood magic</unrestrictedBloodTypesForBloodMagic>
-  <showClassIconOnColonistBar>Show class icon on colonist bar</showClassIconOnColonistBar>
-  <classIconSize>Class icon size</classIconSize>
   <TM_AggressiveAICasting>Aggressive AI Casting</TM_AggressiveAICasting>
   <TM_ParacyteSoftCap>Paracyte Soft Cap: </TM_ParacyteSoftCap>
   <TM_ParacyteMagesCount>Mages count against soft cap (2ea)</TM_ParacyteMagesCount>
@@ -229,11 +277,11 @@
   <TM_DeathRetaliationIsLethal>Death retaliation always lethal</TM_DeathRetaliationIsLethal>
   <TM_DeathRetaliationChance>Death retaliation chance</TM_DeathRetaliationChance>
   <TM_DeathRetaliationDelay>Death retaliation delay factor</TM_DeathRetaliationDelay>
-  <TM_shrinkIcons>Shrink Icons</TM_shrinkIcons>
   <supportTraitChance>Supporting Trait Commonality</supportTraitChance>
   <TM_ClassWarning>**Change class settings only when starting a new game**</TM_ClassWarning>
   <TM_RequiresRestart>**Any change requires a game restart**</TM_RequiresRestart>
-  <TM_ClassOptions>Enabled Classes</TM_ClassOptions>
+  <TM_ClassOptions>Class Options</TM_ClassOptions>
+  <TM_EnabledClasses>Enabled Classes</TM_EnabledClasses>
   <TM_EnabledMages>Mages</TM_EnabledMages>
   <TM_EnabledFighters>Fighters</TM_EnabledFighters>
   <TM_Arcanist>Arcanist</TM_Arcanist>
@@ -271,11 +319,51 @@
   <TM_Brightmage>Brightmage</TM_Brightmage>
   <TM_Shaman>Shaman</TM_Shaman>
   <TM_Shadow>Shadow</TM_Shadow>
+  <TM_Golemancer>Golemancer</TM_Golemancer>
+  <TM_Apothecary>Apothecary</TM_Apothecary>
+  <TM_Empath>Empath</TM_Empath>
+  <TM_Enlightened>Enlightened</TM_Enlightened>
+  <TM_Cursed>Cursed</TM_Cursed>
+  <TM_FaeBlood>Fae Blood</TM_FaeBlood>
+  <TM_GiantsBlood>Giants Blood</TM_GiantsBlood>
   <TM_CustomClasses>Custom Classes</TM_CustomClasses>
+  <TM_DisplayOptions>Display Options</TM_DisplayOptions>
+  <showLevelUpMessage>Show level up messages</showLevelUpMessage>
+  <TM_CameraSnap>Snap camera after teleport</TM_CameraSnap>
+  <TM_CameraSnapDesc>Snaps camera to selected pawn after teleporting (blink, phase strike, etc)</TM_CameraSnapDesc>
+  <AIMarking>AI mage marking</AIMarking>
+  <AIMarkingDesc>Shows a small class icon next to an AI mage</AIMarkingDesc>
+  <AIFighterMarking>AI fighter marking</AIFighterMarking>
+  <AIFighterMarkingDesc>Shows a small class icon next to an AI fighter</AIFighterMarkingDesc>
+  <AIFriendlyMarking>Mark controlled pawns</AIFriendlyMarking>
+  <showClassIconOnColonistBar>Show class icon on colonist bar</showClassIconOnColonistBar>
+  <classIconSize>Class icon size</classIconSize>
+  <classIconSizeDesc>Changes the size of the class icon on the colonist bar</classIconSizeDesc>
+  <TM_shrinkIcons>Shrink Icons</TM_shrinkIcons>
+  <TM_shrinkIconsDesc>Shrinks the size of icons when selecting pawns with a large number of abilities</TM_shrinkIconsDesc>
+  <showAbilitiesOnMultiSelect>Show abilities when selecting multiple pawns</showAbilitiesOnMultiSelect>
+  <showMagicGizmo>Show mana/stamina/psi energy as gizmo</showMagicGizmo>
+  <showUndeadPawnChange>Change undead pawn appearance</showUndeadPawnChange>
+  <showUndeadPawnChangeDesc>Undead pawns will show varying rot stages; if this is disabled, undead pawns will appear as they were when alive</showUndeadPawnChangeDesc>
+  <showUndeadAnimalChange>Change undead animal appearance</showUndeadAnimalChange>
+  <showUndeadAnimalChangeDesc>Undead animals will show the first stage of rot (decayed); if this is disabled, undead animals will appear as they were when alive</showUndeadAnimalChangeDesc>
+  <TM_AlterClothingDepth>Adjust clothing draw depth</TM_AlterClothingDepth>
+  <TM_AlterClothingDepthDesc>When this is enabled, the following options will change the order in which clothing is drawn (on top of or underneath other clothes).</TM_AlterClothingDepthDesc>
+  <TM_offsetMultilayerClothing>Multi-layer offset</TM_offsetMultilayerClothing>
+  <TM_offsetMultilayerClothingDesc>Adjusts the display depth of multi-layered clothing, but only when the calculated offset is extreme (would appear on top of all other clothes). This is primarily intended to correct the draw depth for cloaks.</TM_offsetMultilayerClothingDesc>
+  <TM_CloakDepth>Cloak draw depth</TM_CloakDepth>
+  <TM_CloakDepthDesc>Adjusts the draw depth of cloaks to appear on top of or underneath other clothing. If this value needs to be adjusted, it is usually very small (.001).</TM_CloakDepthDesc>
+  <TM_CloakDepthNorth>Cloak draw depth (north)</TM_CloakDepthNorth>
+  <TM_CloakDepthNorthDesc>Adjusts the draw depth of cloaks to appear on top of or underneath other clothing when the character is facing north (up). If this value needs to be adjusted, it is usually very small (.001).</TM_CloakDepthNorthDesc>
   <TM_EventOptions>Event Options</TM_EventOptions>
   <riftChallenge>Elemental Rift Difficulty:</riftChallenge>
   <lichChallenge>Wandering Lich Difficulty:</lichChallenge>
   <demonChallenge>Demon Assault Difficulty:</demonChallenge>
+  <TM_GolemOptions>Golem Options</TM_GolemOptions>
+  <TM_GolemShowDormantFrameWhileActive>Show dormant frame</TM_GolemShowDormantFrameWhileActive>
+  <TM_GolemShowDormantFrameWhileActiveDesc>Shows an outline of a dormant golem at their dormant position while the golem is active.</TM_GolemShowDormantFrameWhileActiveDesc>
+  <TM_GolemShowColonistBar>Show golems on colonist bar</TM_GolemShowColonistBar>
+  <TM_GolemShowColonistBarDesc>When enabled, golems will appear on the colonist bar along with other colonists. Applies to all golem types.</TM_GolemShowColonistBarDesc>
   <TM_FactionOptions>Faction Options</TM_FactionOptions>
   <TM_ExtraOptions>Extra Options</TM_ExtraOptions>
   <TM_global_regen_pwr>Clarity</TM_global_regen_pwr>
@@ -343,7 +431,7 @@ Level 15: Teleport, Heal, and Summon Minion gain versatility level 3 class impro
   <TM_Cantrips_eff>Cantrips Efficiency</TM_Cantrips_eff>
   <TM_Cantrips_ver>Cantrips Versatility</TM_Cantrips_ver>
   <TM_RayofHope_eff>Inner Fire Efficiency</TM_RayofHope_eff>
-  <TM_RayofHope_eff_desc>Decreases the mana upkeep cost of Inner Fire by 8% per level.</TM_RayofHope_eff_desc>
+  <TM_RayofHope_eff_desc>Decreases the mana and regeneration upkeep cost of Inner Fire by 10% per level.</TM_RayofHope_eff_desc>
   <TM_Firebolt_pwr_desc>Increases Firebolt damage by 5 per level.</TM_Firebolt_pwr_desc>
   <TM_Firebolt_eff_desc>Decreases mana cost of Firebolt by 10% per level.</TM_Firebolt_eff_desc>
   <TM_Fireclaw_pwr_desc>Increases damage done by each strand of Fireclaw by 4 per skill level.
@@ -356,10 +444,10 @@ Level 3: 12</TM_Fireclaw_pwr_desc>
   <TM_Fireball_eff_desc>Decrease mana cost by 8% per level.</TM_Fireball_eff_desc>
   <TM_Fireball_ver_desc>Fireball causes Terror at level 1; levels 2 and 3 increase Terror potency. Terror lowers the enemies ability to fight effectively and may cause them to flee in panic.</TM_Fireball_ver_desc>
   <TM_Firestorm_pwr_desc>Increases the frequency of all meteor types.
-Increases Firestorm radius by .25 per skill level.</TM_Firestorm_pwr_desc>
+Increases Firestorm radius by .5c per skill level.</TM_Firestorm_pwr_desc>
   <TM_Firestorm_eff_desc>Decrease mana cost by 5% per level.</TM_Firestorm_eff_desc>
   <TM_Firestorm_ver_desc>Increases the duration of Firestorm by 1 second per skill level.
-Increases Firestorm radius by .25 per skill level.
+Increases Firestorm radius by .5c per skill level.
 Increases amount of shrapnel create by meteor impacts.</TM_Firestorm_ver_desc>
   <TM_Firebolt_pwr>Firebolt Power</TM_Firebolt_pwr>
   <TM_Firebolt_eff>Firebolt Efficiency</TM_Firebolt_eff>
@@ -372,7 +460,7 @@ Increases amount of shrapnel create by meteor impacts.</TM_Firestorm_ver_desc>
   <TM_Firestorm_pwr>Firestorm Power</TM_Firestorm_pwr>
   <TM_Firestorm_eff>Firestorm Efficiency</TM_Firestorm_eff>
   <TM_Firestorm_ver>Firestorm Versatility</TM_Firestorm_ver>
-  <TM_Soothe_eff_desc>Decreases the mana upkeep cost of Soothe by 8% per level.</TM_Soothe_eff_desc>
+  <TM_Soothe_eff_desc>Decreases the mana and regeneration upkeep cost of Soothe by 10% per level.</TM_Soothe_eff_desc>
   <TM_Rainmaker_eff_desc>Decreases mana cost of Rainmaker by 15% per level of base mana cost.</TM_Rainmaker_eff_desc>
   <TM_Icebolt_pwr_desc>Increases lethality of Icebolt by pre-fragmenting the bolt into razor sharp shards.
 Level 0: 2 to 5 damage per shard
@@ -394,10 +482,10 @@ Level 1: 4 fragments
 Level 2: 8 fragments
 Level 3: 12 fragments</TM_Snowball_ver_desc>
   <TM_Blizzard_pwr_desc>Increases the frequency of iceshards and snowballs.
-Increases the radius of blizzard by .5 per skill level.</TM_Blizzard_pwr_desc>
+Increases the radius of blizzard by .5c per skill level.</TM_Blizzard_pwr_desc>
   <TM_Blizzard_eff_desc>Decreases mana cost of Blizzard by 8% per level of base mana cost.</TM_Blizzard_eff_desc>
   <TM_Blizzard_ver_desc>Increases the duration of blizzard by 1.5 seconds per level.
-Increases the radius of blizzard by .5 per skill level.</TM_Blizzard_ver_desc>
+Increases the radius of blizzard by .5c per skill level.</TM_Blizzard_ver_desc>
   <TM_Soothe_eff>Soothe Efficiency</TM_Soothe_eff>
   <TM_Rainmaker_eff>Rainmaker Efficiency</TM_Rainmaker_eff>
   <TM_Icebolt_eff>Icebolt Efficiency</TM_Icebolt_eff>
@@ -416,13 +504,13 @@ Increases the radius of blizzard by .5 per skill level.</TM_Blizzard_ver_desc>
   <TM_LightningBolt_ver_desc>Increases the possibility of secondary lightning strikes by 1 to 4 per level.</TM_LightningBolt_ver_desc>
   <TM_LightningCloud_eff_desc>Decreases mana cost of Lightning Cloud by 6% of base mana cost.</TM_LightningCloud_eff_desc>
   <TM_LightningCloud_pwr_desc>Increases the shock damage of Lightning Cloud by 1 per level.</TM_LightningCloud_pwr_desc>
-  <TM_LightningCloud_ver_desc>Increases duration of Lightning Cloud by 2 seconds per level.</TM_LightningCloud_ver_desc>
+  <TM_LightningCloud_ver_desc>Increases duration of Lightning Cloud by 2 seconds and radius by 1 cell per level.</TM_LightningCloud_ver_desc>
   <TM_LightningStorm_eff_desc>Decreases mana cost of Lightning Storm by 6% of base mana cost.</TM_LightningStorm_eff_desc>
   <TM_LightningStorm_pwr_desc>Increases the frequency of lightning strikes by 20% per level and slightly increases the damage of each strike.</TM_LightningStorm_pwr_desc>
-  <TM_LightningStorm_ver_desc>Increases duration of Lightning Storm by 1s per level and expands the area of effect.</TM_LightningStorm_ver_desc>
+  <TM_LightningStorm_ver_desc>Increases duration of Lightning Storm by 1s per level.</TM_LightningStorm_ver_desc>
   <TM_EyeOfTheStorm_eff_desc>Uses energy in the atmosphere to fuel creation of the storm.  Reduces mana cost by 5% per skill level.</TM_EyeOfTheStorm_eff_desc>
   <TM_EyeOfTheStorm_pwr_desc>Increases the frequency the eye's lightning strikes by 20% per level and increases the damage of each strike by 20%.</TM_EyeOfTheStorm_pwr_desc>
-  <TM_EyeOfTheStorm_ver_desc>Expands the strike radius by 1 for each skill level.  Base radius is 5.</TM_EyeOfTheStorm_ver_desc>
+  <TM_EyeOfTheStorm_ver_desc>Expands the strike radius by 1 for each skill level. Base radius is 5.</TM_EyeOfTheStorm_ver_desc>
   <TM_AMP_eff>AMP Efficiency</TM_AMP_eff>
   <TM_LightningBolt_eff>Lightning Bolt Efficiency</TM_LightningBolt_eff>
   <TM_LightningBolt_pwr>Lightning Bolt Power</TM_LightningBolt_pwr>
@@ -436,7 +524,7 @@ Increases the radius of blizzard by .5 per skill level.</TM_Blizzard_ver_desc>
   <TM_EyeOfTheStorm_eff>Drain Atmosphere</TM_EyeOfTheStorm_eff>
   <TM_EyeOfTheStorm_pwr>Rend Earth</TM_EyeOfTheStorm_pwr>
   <TM_EyeOfTheStorm_ver>Perfect Storm</TM_EyeOfTheStorm_ver>
-  <TM_Shadow_eff_desc>Decreases the mana upkeep cost of Shadow by 8% per level.</TM_Shadow_eff_desc>
+  <TM_Shadow_eff_desc>Decreases the mana and regeneration upkeep cost of Shadow by 10% per level.</TM_Shadow_eff_desc>
   <TM_Blink_eff_desc>Decreases mana cost of Blink by 10% per level of base mana cost.</TM_Blink_eff_desc>
   <TM_Summon_eff_desc>Decreases mana cost of Summon by 10% per level of base mana cost.</TM_Summon_eff_desc>
   <TM_MagicMissile_eff_desc>Decreases mana cost of Magic Missile by 8% of base mana cost.</TM_MagicMissile_eff_desc>
@@ -454,7 +542,7 @@ Allows the portal to be held open 20s longer per level.</TM_Teleport_ver_desc>
   <TM_Teleport_pwr>Teleport Power</TM_Teleport_pwr>
   <TM_Teleport_ver>Teleport Versatility</TM_Teleport_ver>
   <TM_FoldReality_eff>Fold Reality Efficiency</TM_FoldReality_eff>
-  <TM_P_RayofHope_eff_desc>Decreases the mana upkeep cost of Ray of Hope by 8% per level.</TM_P_RayofHope_eff_desc>
+  <TM_P_RayofHope_eff_desc>Decreases the mana and regeneration upkeep cost of Ray of Hope by 10% per level.</TM_P_RayofHope_eff_desc>
   <TM_Heal_eff_desc>Decreases mana cost of Heal by 7% of base mana cost.</TM_Heal_eff_desc>
   <TM_Heal_pwr_desc>Increases the amount each wound is healed by 2 points per level.</TM_Heal_pwr_desc>
   <TM_Heal_ver_desc>Increases the maximum number of wounds that can be healed per spell by 1 per level.</TM_Heal_ver_desc>
@@ -531,9 +619,9 @@ Level 1: (20%-60%), Duration 49.5s
 Level 2: (30%-80%), Duration 54s
 Level 3: (40%-80%), Duration 58.5s</TM_Poison_ver_desc>
   <TM_SootheAnimal_eff_desc>Reduces the cost of Beguile Animal by 10% per skill level.</TM_SootheAnimal_eff_desc>
-  <TM_SootheAnimal_pwr_desc>Animals will receive arcane buffs when enraged, and arcane debuffs when pacified.  Skill level determines the strength of these modifiers, no modifiers occur at skill level 0.</TM_SootheAnimal_pwr_desc>
+  <TM_SootheAnimal_pwr_desc>Animals will receive arcane buffs when enraged, and arcane debuffs when pacified. Skill level determines the strength of these modifiers, no modifiers occur at skill level 0.</TM_SootheAnimal_pwr_desc>
   <TM_Regenerate_eff_desc>Reduces the cost of Regeneration by 7% per skill level.</TM_Regenerate_eff_desc>
-  <TM_Regenerate_pwr_desc>Increases the amount regeneration heals each tick by .5 health per level.  Base regeneration is 4 health.</TM_Regenerate_pwr_desc>
+  <TM_Regenerate_pwr_desc>Increases the amount regeneration heals each tick by .5 health per level. Base regeneration is 4 health.</TM_Regenerate_pwr_desc>
   <TM_Regenerate_ver_desc>Increases the duration of regeneration per skill level, duration is random between stated values:
 Level 0: 16s - 50s
 Level 1: 33s - 100s
@@ -586,14 +674,15 @@ Level 2: radius 8, effect/1.4s, duration 30s
 Level 3: radius 9, effect/1.1s, duration 33s</TM_FogOfTorment_ver_desc>
   <TM_ConsumeCorpse_eff_desc>Increases mana restored by Consume Corpse by 7% per skill level.</TM_ConsumeCorpse_eff_desc>
   <TM_ConsumeCorpse_ver_desc>Consume corpse also heals the physical wounds of the caster.  
-The amount of health varies based on type (human or animal) and freshness of the corpse or undead being consumed.</TM_ConsumeCorpse_ver_desc>
-  <TM_CorpseExplosion_pwr_desc>Increases the damage of Corpse Explosion by 5 per skill level.  Also increases the explosion radius by 10%.
+The amount of health varies based on type (human or animal) and freshness of the corpse or undead being consumed.
+Increases damage done to enemy undead by 15% per skill level.</TM_ConsumeCorpse_ver_desc>
+  <TM_CorpseExplosion_pwr_desc>Increases the damage of Corpse Explosion by 5 per skill level. Also increases the explosion radius by 10%.
 Level 0: 18-30
 Level 1: 23-35
 Level 2: 28-40
 Level 3: 32-45</TM_CorpseExplosion_pwr_desc>
   <TM_CorpseExplosion_eff_desc>Reduces mana cost of Corpse Explosion by 8% per skill level.</TM_CorpseExplosion_eff_desc>
-  <TM_CorpseExplosion_ver_desc>Reduces explosion delay by 1s per skill point.  Also increases the explosion radius by 10%.</TM_CorpseExplosion_ver_desc>
+  <TM_CorpseExplosion_ver_desc>Reduces explosion delay by 1s per skill point. Also increases the explosion radius by 10%.</TM_CorpseExplosion_ver_desc>
   <TM_DeathBolt_pwr_desc>Increases the damage of Death Bolt by 5 per skill level and Spreading Darkness by 3 per skill level.
 Level 0: 18-35; Spreading Darkness: 12-24
 Level 1: 23-40; Spreading Darkness: 15-27
@@ -724,7 +813,7 @@ Level 1: 20%
 Level 2: 40%
 Level 3: 60%</TM_Repulsion_ver_desc>
   <TM_Scorn_eff_desc>Reduces mana cost of Scorn by 6% per skill point.</TM_Scorn_eff_desc>
-  <TM_Scorn_ver_desc>Increases impact radius of Scorn by 1cell per skill point. Base 7 cell radius. 
+  <TM_Scorn_ver_desc>Increases impact radius of Scorn by 1cell per skill point. Base 5 cell radius. 
 Also increases the power of the partial demonic transformation.</TM_Scorn_ver_desc>
   <TM_Scorn_pwr_desc>Increases the damage of Scorn by 15% per skill level. 
 Also increases the power of the demonic damage shield by 25%. Base shield absorbs 60 damage.</TM_Scorn_pwr_desc>
@@ -840,6 +929,7 @@ Effectiveness boosted by 10% per skill point.  Decreases mana cost by 2% per ski
 Decreases warmup time by 2% per level.
 Increases accuracy in all range categories by 1% per level.</TM_TechnoTurret_pwr_desc>
   <TM_TechnoTurret_eff_desc>Increases Mark-IV hit-points by 10 per level.
+Increases duration by 5 seconds per level.
 Reduces mana cost of rockets and mortars by 3% per level.
 Reduces the amount of neural feedback caused when deactivated due to its failsafe.</TM_TechnoTurret_eff_desc>
   <TM_TechnoTurret_ver_desc>Adds and improves weapon systems for the Mark-IV turret.
@@ -891,7 +981,7 @@ Lightning shot: stuns the target (1 mana)</TM_TechnoWeapon_ver_desc>
   <TM_OrbitalStrike_ver>Authorization Bypass</TM_OrbitalStrike_ver>
   <TM_BloodGift_pwr_desc>Increases the damage of all blood magic by 10% per skill point.</TM_BloodGift_pwr_desc>
   <TM_BloodGift_eff_desc>Reduces the mana cost of blood sacrifice by 6% per skill point and reduces the blood cost of all blood magic by 3% per skill point.</TM_BloodGift_eff_desc>
-  <TM_BloodGift_ver_desc>Increases the amount of blood magic gained when using blood sacrifice or through bleeding by 10%. Increased skill levels allows the blood mage to draw fresh blood from the ground:
+  <TM_BloodGift_ver_desc>Increases the amount of blood magic gained when using blood sacrifice or through bleeding by 10%. Increased skill levels allows the blood mage to draw fresh blood from the ground when casting Blood Sacrifice:
 Level 0: none
 Level 1: 1cell radius
 Level 2: 3cell radius
@@ -938,12 +1028,13 @@ Level 3: 3cell radius</TM_BloodForBlood_ver_desc>
   <TM_EnchantedBody_pwr_desc>Increases the power of Enchanted Body and Enchanted Aura by ~33% per skill level.</TM_EnchantedBody_pwr_desc>
   <TM_EnchantedBody_eff_desc>Reduces mana upkeep cost of Enchanted Body and Enchanted Aura by 20% per skill level.</TM_EnchantedBody_eff_desc>
   <TM_EnchantedBody_ver_desc>Reduces the mana regeneration penalty of Enchanted Body and Enchanted Aura by 20% per skill level.</TM_EnchantedBody_ver_desc>
-  <TM_Transmutate_pwr_desc>Decreases the amount of value lost by 5% per skill level when performing a transmutation. Base conversion value is 70%.
+  <TM_Transmutate_pwr_desc>Decreases the amount of value lost by 5% per skill level when performing a transmutation on resources. Base conversion value is 70%.
+When transmuting equipment made from stuff, the converted stuff can be from 10% to 300% of the value of the original stuff, each level improves this range.
 Transmuting equipment will degrade the equipment:
-Level 0: -20% HP
-Level 1: -10% HP
-Level 2: no degradation
-Level 3: +10% HP
+Level 0: -20% HP, 10% -> 300% value
+Level 1: -10% HP, 20% -> 330% value
+Level 2: no degradation, 20% -> 360% value
+Level 3: +10% HP, 40% -> 390% value
 
 Equipment will disintegrate if it degrades below 0 durability. Equipment transmutations will always remove 'tainted.'</TM_Transmutate_pwr_desc>
   <TM_Transmutate_eff_desc>Reduces the mana cost required to use Transmutate by 12% per skill level.</TM_Transmutate_eff_desc>
@@ -1101,7 +1192,7 @@ Level 3: (+)5% : (-)2%</TM_ChaosTradition_pwr_desc>
 
 Level 0: changes all learned abilities
 Level 1: gains a +8 mood boost for 24hrs
-Level 2: gains 25 mana
+Level 2: gains up-to 40 mana
 Level 3: applies a stacking buff that increases stats</TM_ChaosTradition_eff_desc>
   <TM_ChaosTradition_ver_desc>Increases the number of abilities the Chaos Mage is able to learn through Chaos Tradition. Chaos Tradition is never removed. Requires 2 skill points to train.
 
@@ -1158,7 +1249,7 @@ SoL: reduces light energy costs for the Spirit of Light by 1% per skill level.</
 Lightning Totem: Increases range and damage
 Earth Totem: Increases stagger frequency and duration
 Healing Totem: Increases range and heal amount</TM_Totems_pwr_desc>
-  <TM_Totems_eff_desc>Reduces the mana cost to create a totem by 2% per skill level.</TM_Totems_eff_desc>
+  <TM_Totems_eff_desc>Reduces the mana cost to create a totem by 4% per skill level.</TM_Totems_eff_desc>
   <TM_Totems_ver_desc>Increases the duration of totems by 5% per skill point; base duration is 1 game hour.</TM_Totems_ver_desc>
   <TM_ChainLightning_pwr_desc>Increases Chain Lighting damage by 10% per skill point.</TM_ChainLightning_pwr_desc>
   <TM_ChainLightning_eff_desc>Reduces mana cost by 6% per skill point.</TM_ChainLightning_eff_desc>
@@ -1196,6 +1287,135 @@ Spirit Crow: Increases hex chance (50% -> 75%); increases the effectiveness of "
   <TM_GuardianSpirit_pwr>Manifest Guardian</TM_GuardianSpirit_pwr>
   <TM_GuardianSpirit_eff>Spirit Link</TM_GuardianSpirit_eff>
   <TM_GuardianSpirit_ver>Spirit Bond</TM_GuardianSpirit_ver>
+  <TM_Golemancy_pwr_desc>Increases movement speed and damage reduction of the golem.
+Movement: +[10, 15, 19, 23, 26]%
+DR: [5, 9, 13, 17, 20]%</TM_Golemancy_pwr_desc>
+  <TM_Golemancy_eff_desc>Increases the overall awareness of the golem.
+Consciousness: +[10, 15, 19, 23, 26]%</TM_Golemancy_eff_desc>
+  <TM_Golemancy_ver_desc>Increases the productivity output of the golemancer.
+Work Speed: +[10, 15, 19, 23, 26]%
+Research Speed: +[10, 15, 19, 23, 26]%
+Injury Recovery: +[50, 60, 70, 80, 90]%</TM_Golemancy_ver_desc>
+  <TM_RuneCarving_pwr_desc>Increases part efficiency bonus, but also increases difficulty. Requires 2 ability points to train.
+Level 0: 20% efficiency
+Level 1: 22% efficiency, -5% success chance
+Level 2: 24% efficiency, -10% success chance
+Level 3: 25% efficiency, -15% success chance</TM_RuneCarving_pwr_desc>
+  <TM_RuneCarving_eff_desc>10% mana per skill point is returned after performing a rune engraving.</TM_RuneCarving_eff_desc>
+  <TM_RuneCarving_ver_desc>Increases the chance of rune carving success by 10% per skill level.</TM_RuneCarving_ver_desc>
+  <TM_Branding_pwr_desc>Increases the power of each brand.</TM_Branding_pwr_desc>
+  <TM_Branding_eff_desc>Reduces the mana regeneration penalty by 10% per skill level.</TM_Branding_eff_desc>
+  <TM_SigilSurge_pwr_desc>Raises the cap Sigil Surge can reach when active.</TM_SigilSurge_pwr_desc>
+  <TM_SigilSurge_eff_desc>Reduces mana upkeep cost of Sigil Surge by 10% per skill point.</TM_SigilSurge_eff_desc>
+  <TM_SigilSurge_ver_desc>Reduces the amount of pain suffered by the caster when sigil surging.</TM_SigilSurge_ver_desc>
+  <TM_SigilDrain_pwr_desc>Increases the amount of brand energy absorbed by the caster for each applied brand when sigil draining.</TM_SigilDrain_pwr_desc>
+  <TM_SigilDrain_eff_desc>Reduces mana upkeep cost of Sigil Drain by 20% per skill point.</TM_SigilDrain_eff_desc>
+  <TM_SigilDrain_ver_desc>Reduces the amount of pain suffered by each branded pawn when sigil draining is active</TM_SigilDrain_ver_desc>
+  <TM_LivingWall_pwr_desc>Increases the damage and range of living wall's primary attack mechanism</TM_LivingWall_pwr_desc>
+  <TM_LivingWall_eff_desc>Reduces the maximum mana upkeep cost by 15% per skill level.</TM_LivingWall_eff_desc>
+  <TM_LivingWall_ver_desc>Each skill point increases movement speed and frequency of attacks.</TM_LivingWall_ver_desc>
+  <TM_Golemancy_pwr>Frame Upgrade</TM_Golemancy_pwr>
+  <TM_Golemancy_eff>Controller</TM_Golemancy_eff>
+  <TM_Golemancy_ver>Mind Upgrade</TM_Golemancy_ver>
+  <TM_RuneCarving_pwr>Deep Mark</TM_RuneCarving_pwr>
+  <TM_RuneCarving_eff>Rune Master</TM_RuneCarving_eff>
+  <TM_RuneCarving_ver>Steady Hands</TM_RuneCarving_ver>
+  <TM_Branding_pwr>Intensity</TM_Branding_pwr>
+  <TM_Branding_eff>Brand Master</TM_Branding_eff>
+  <TM_SigilSurge_pwr>Surge Power</TM_SigilSurge_pwr>
+  <TM_SigilSurge_eff>Surge Master</TM_SigilSurge_eff>
+  <TM_SigilSurge_ver>Feedback Reduction</TM_SigilSurge_ver>
+  <TM_SigilDrain_pwr>Drain Power</TM_SigilDrain_pwr>
+  <TM_SigilDrain_eff>Drain Master</TM_SigilDrain_eff>
+  <TM_SigilDrain_ver>Feedback Filter</TM_SigilDrain_ver>
+  <TM_LivingWall_pwr>Unstoppable</TM_LivingWall_pwr>
+  <TM_LivingWall_eff>Unrelenting</TM_LivingWall_eff>
+  <TM_LivingWall_ver>Unbreakable</TM_LivingWall_ver>
+  <TM_Empathy_pwr_desc>Increases the willpower of the empath, decreasing the susceptibility of succumbing to their emotions and increasing the chance to transfer positive emotions.
+Mental Break Resistance: [0,5,9,12,13,15]%
+Positive Vibe Chance: [5,10,15,20,25]%</TM_Empathy_pwr_desc>
+  <TM_Empathy_eff_desc>Increases range of empathy by 3c and frequency of emotional vibes by 2s per skill level. Default frequency is once every 21s.</TM_Empathy_eff_desc>
+  <TM_Empathy_ver_desc>Increases spell penetration for all abilities by 10% per skill level.</TM_Empathy_ver_desc>
+  <TM_MindKiller_pwr_desc>Increases maximum targets by 2 and overall strength of effects by 20% per skill level. At ranks 1+, friendly pawns will not be affected. Base target maximum is 8.</TM_MindKiller_pwr_desc>
+  <TM_MindKiller_eff_desc>Reduces the amount of mood consumed for activation by 5% per skill level.</TM_MindKiller_eff_desc>
+  <TM_MindKiller_ver_desc>Increases effect radius and success chance:
+Radius: [15,17,19,21]c
+Chance: [50,60,70,80]%</TM_MindKiller_ver_desc>
+  <TM_SuppressiveAura_pwr_desc>Increases duration of emotion suppression by 20% and chance to allow positive emotions by 10% per skill level.</TM_SuppressiveAura_pwr_desc>
+  <TM_SuppressiveAura_eff_desc>Increases the radius of suppressive aura by 15% per skill level; at level 3, the effects apply to all members of a caravan.</TM_SuppressiveAura_eff_desc>
+  <TM_SuppressiveAura_ver_desc>Imitates feelings of joy and comfort to transfer to affected pawns; each skill level increases the amount of joy and comfort transferred.</TM_SuppressiveAura_ver_desc>
+  <TM_HarvestPassion_pwr_desc>Increases the chance of harvesting a passion by 6% once the target's joy is exhausted. Base chance is 30% every 1s. Also increases the chance to harvest additional passions (if able) by 20% per skill level, base chance 30%. The attempt will end once the casters joy is depleted.</TM_HarvestPassion_pwr_desc>
+  <TM_HarvestPassion_eff_desc>Decreases the amount of the caster's joy is drained per iteration by 20% per skill level and increases the amount of the target's joy is drained per iteration by 15% per skill level.</TM_HarvestPassion_eff_desc>
+  <TM_HarvestPassion_ver_desc>Increases chance to have a burst of inspiration by 1%. Base chance is 2% every in-game hour.</TM_HarvestPassion_ver_desc>
+  <TM_Symbiosis_pwr_desc>Increases consciousness of the host pawn for each skill level.
+Level 0: +70%
+Level 1: +100%
+Level 2: +125%
+Level 3: +150%
+</TM_Symbiosis_pwr_desc>
+  <TM_Symbiosis_eff_desc>Decreases mood cost to begin symbiosis by 35%.</TM_Symbiosis_eff_desc>
+  <TM_Symbiosis_ver_desc>Increases the protective shell surrounding the host and decreases the percent of absorbed damage that is conferred to the symbiotes body.
+Level 0: 25% absorbed, 100% transferred
+Level 1: 30% absorbed, 80% transferred
+Level 2: 35% absorbed, 60% transferred
+Level 3: 40% absorbed, 50% transferred</TM_Symbiosis_ver_desc>
+  <TM_Empathy_pwr>Positive Thinking</TM_Empathy_pwr>
+  <TM_Empathy_eff>Group Therapy</TM_Empathy_eff>
+  <TM_Empathy_ver>Open Book</TM_Empathy_ver>
+  <TM_MindKiller_pwr>Suffocation</TM_MindKiller_pwr>
+  <TM_MindKiller_eff>Steely Eyed</TM_MindKiller_eff>
+  <TM_MindKiller_ver>Storm Control</TM_MindKiller_ver>
+  <TM_SuppressiveAura_pwr>Lingering Suppression</TM_SuppressiveAura_pwr>
+  <TM_SuppressiveAura_eff>Immense Aura</TM_SuppressiveAura_eff>
+  <TM_SuppressiveAura_ver>Blissful Lie</TM_SuppressiveAura_ver>
+  <TM_HarvestPassion_pwr>Passion Hunter</TM_HarvestPassion_pwr>
+  <TM_HarvestPassion_eff>Bully</TM_HarvestPassion_eff>
+  <TM_HarvestPassion_ver>Despair</TM_HarvestPassion_ver>
+  <TM_Symbiosis_pwr>Awareness</TM_Symbiosis_pwr>
+  <TM_Symbiosis_eff>Commune</TM_Symbiosis_eff>
+  <TM_Symbiosis_ver>Shell</TM_Symbiosis_ver>
+  <TM_SpiritPossession_pwr_desc>Increases the psychic sensitivity and consciousness while in spirit form and increases the amount of energy gained through spirit tap by 10% per level:
+Sensitivity: +[40%, 65%, 85%, 100%]
+Consciousness: +[0%, 15%, 25%, 40%]</TM_SpiritPossession_pwr_desc>
+  <TM_SpiritPossession_eff_desc>Reduces the cost of spirit possession by 15% per skill level increases compatibility when possessing an occupied body.</TM_SpiritPossession_eff_desc>
+  <TM_SpiritPossession_ver_desc>Reduces the chance spirit possession is resisted by 20% and maximum spirit by 15 per skill level.</TM_SpiritPossession_ver_desc>
+  <TM_SpiritDrain_pwr_desc>Increases the amount of spirit drain applied to enemies while reducing the amount applied to allies by 15% per skill level.</TM_SpiritDrain_pwr_desc>
+  <TM_SpiritDrain_eff_desc>Increases the amount of spirit energy gained from any source by 10% per skill level.</TM_SpiritDrain_eff_desc>
+  <TM_SpiritDrain_ver_desc>Decreases the duration of spirit drain by 15% per skill level; the amount of spirit drain applied and spirit energy absorbed remains the same.</TM_SpiritDrain_ver_desc>
+  <TM_DistortSpirit_pwr_desc>Increases the amount of damage a distorted pawn takes by 5% per skill level.</TM_DistortSpirit_pwr_desc>
+  <TM_DistortSpirit_eff_desc>Reduces the spirit energy needed to cast spirit distortion by 10% and increases the maximum number of targets affected by 1 per skill level. Base maximum is 5 targets.</TM_DistortSpirit_eff_desc>
+  <TM_DistortSpirit_ver_desc>Spirit Distortion also applies a small amount of spirit drain at skill level 1. At skill level 2 and 3, the amount of spirit drain increases and caster will absorb the spirit energy. This skill costs 2 points to train.</TM_DistortSpirit_ver_desc>
+  <TM_SummonSpiritAnimalMass_pwr_desc>Summoned spirit animals gain increased enhancements for each skill level.</TM_SummonSpiritAnimalMass_pwr_desc>
+  <TM_SummonSpiritAnimalMass_eff_desc>Reduces the spirit energy required by 10% per skill level.</TM_SummonSpiritAnimalMass_eff_desc>
+  <TM_SummonSpiritAnimalMass_ver_desc>Increases the duration of spirit animals by 5s per skill level. Base duration 20s.</TM_SummonSpiritAnimalMass_ver_desc>
+  <TM_SpiritRally_pwr_desc>Increases the maximum number of spirit allies summoned by 2 per skill level and reduces the summoning penalties. Base maximum 7.</TM_SpiritRally_pwr_desc>
+  <TM_SpiritRally_eff_desc>Reduces spirit energy cost by 12% per skill level.</TM_SpiritRally_eff_desc>
+  <TM_SpiritRally_ver_desc>Increases the radius and duration of spirit rally:
+Level 0: 8c, 15s
+Level 1: 10c, 18s
+Level 2: 12c, 21s
+Level 3: 14c, 24s</TM_SpiritRally_ver_desc>
+  <TM_SpiritStorm_pwr_desc>Increases the damage dealt by spirit storm by 12% per skill level.</TM_SpiritStorm_pwr_desc>
+  <TM_SpiritStorm_eff_desc>Reduces the spirit energy cost to create a spirit storm by 10% per skill level.</TM_SpiritStorm_eff_desc>
+  <TM_SpiritStorm_ver_desc>Increases the radius of spirit storm by 1c per skill level. Base radius 4c.</TM_SpiritStorm_ver_desc>
+  <TM_SpiritPossession_pwr>Spirit Power</TM_SpiritPossession_pwr>
+  <TM_SpiritPossession_eff>Spirit Control</TM_SpiritPossession_eff>
+  <TM_SpiritPossession_ver>Spirit Manipulation</TM_SpiritPossession_ver>
+  <TM_SpiritDrain_pwr>Damage Control</TM_SpiritDrain_pwr>
+  <TM_SpiritDrain_eff>Clean Energy</TM_SpiritDrain_eff>
+  <TM_SpiritDrain_ver>Rapid Absorption</TM_SpiritDrain_ver>
+  <TM_DistortSpirit_pwr>Intensity</TM_DistortSpirit_pwr>
+  <TM_DistortSpirit_eff>Administration</TM_DistortSpirit_eff>
+  <TM_DistortSpirit_ver>Spirit Lacerations</TM_DistortSpirit_ver>
+  <TM_SummonSpiritAnimalMass_pwr>Manifestation</TM_SummonSpiritAnimalMass_pwr>
+  <TM_SummonSpiritAnimalMass_eff>Kindred</TM_SummonSpiritAnimalMass_eff>
+  <TM_SummonSpiritAnimalMass_ver>Harmony</TM_SummonSpiritAnimalMass_ver>
+  <TM_SpiritRally_pwr>Spirit Army</TM_SpiritRally_pwr>
+  <TM_SpiritRally_eff>Collective</TM_SpiritRally_eff>
+  <TM_SpiritRally_ver>Influence</TM_SpiritRally_ver>
+  <TM_SpiritStorm_pwr>Spirit Frenzy</TM_SpiritStorm_pwr>
+  <TM_SpiritStorm_eff>Empathy</TM_SpiritStorm_eff>
+  <TM_SpiritStorm_ver>Sea of Sorrow</TM_SpiritStorm_ver>
   <TM_WayfarerCraft_pwr_desc>Each skill point:
 Ability power: +1%
 Ability resistance: +2%</TM_WayfarerCraft_pwr_desc>
@@ -1253,9 +1473,9 @@ Level 1: speed +40%, tiredness +45%
 Level 2: speed +50%, tiredness +50%
 Level 3: speed +60%, tiredness +55%</TM_Sprint_pwr_desc>
   <TM_Fortitude_pwr_desc>Increases the amount of damage mitigation by 1 per skill level.</TM_Fortitude_pwr_desc>
-  <TM_Fortitude_ver_desc>Increases damage to stamina conversion by .5 stamina per dmage for each level.
-Conversion occurs pre mitigation.
-Base conversion rate is 1 stamina for 1 damage.</TM_Fortitude_ver_desc>
+  <TM_Fortitude_ver_desc>Increases damage to stamina conversion by .5 stamina per damage for each level.
+Conversion occurs pre-mitigation.
+Base conversion rate is 1 stamina gain for 1 damage taken.</TM_Fortitude_ver_desc>
   <TM_Grapple_eff_desc>Decreases stamina cost of Grapple by 10% per level of base stamina cost.</TM_Grapple_eff_desc>
   <TM_Cleave_eff_desc>Decreases stamina Cleave consumes when it triggers by 10% of base stamina cost.</TM_Cleave_eff_desc>
   <TM_Cleave_pwr_desc>Cleave hits enemies near the target based on a percentage of the original damage done to the target.
@@ -1724,6 +1944,37 @@ Level 5: splash radius +1m</TM_ShadowStrike_ver_desc>
   <TM_VeilOfShadows_pwr>Clinging Shadow</TM_VeilOfShadows_pwr>
   <TM_VeilOfShadows_eff>Shadow Saint</TM_VeilOfShadows_eff>
   <TM_VeilOfShadows_ver>Overwhelming Darkness</TM_VeilOfShadows_ver>
+  <TM_Herbalist_pwr_desc>Increases the carrying capacity of apothecary herbs by 10 per skill level.</TM_Herbalist_pwr_desc>
+  <TM_Herbalist_eff_desc>Reduces the rate ingredients expire by 10% per skill level.</TM_Herbalist_eff_desc>
+  <TM_Herbalist_ver_desc>Increase the number of useful ingredients found during harvesting by 10% per skill level.</TM_Herbalist_ver_desc>
+  <TM_PoisonFlask_pwr_desc>Increases the duration of the poison flask's fog by 1s per skill level. Base 6s.</TM_PoisonFlask_pwr_desc>
+  <TM_PoisonFlask_eff_desc>Reduces amount of ingredients needed to create a poison flask by 8% per skill level.</TM_PoisonFlask_eff_desc>
+  <TM_PoisonFlask_ver_desc>Increases the radius of poison flask's fog by .8c per skill level, Base 4c.</TM_PoisonFlask_ver_desc>
+  <TM_Elixir_pwr_desc>Increases the duration of Elixir's potent stage by 2.4hrs.</TM_Elixir_pwr_desc>
+  <TM_Elixir_eff_desc>Reduces ingredients to produce an Elixir by 8% per skill level.</TM_Elixir_eff_desc>
+  <TM_Elixir_ver_desc>The herbal Elixir's benefits can be expanded with the right ingredients:
+Level 0: reduces rest decay and increases health regeneration while active
+Level 1: actively fights infections
+Level 2: actively fights diseases
+Level 3: slowly heals permanent injuries</TM_Elixir_ver_desc>
+  <TM_SoothingBalm_pwr_desc>Increases the tend quality of treated wounds by 10% per skill level. Base 50-70%.</TM_SoothingBalm_pwr_desc>
+  <TM_SoothingBalm_eff_desc>Reduces the amount of ingredients used to create soothing balm by 8% per skill level.</TM_SoothingBalm_eff_desc>
+  <TM_SoothingBalm_ver_desc>Increases the number of wounds tended by soothing balm.</TM_SoothingBalm_ver_desc>
+  <TM_FireSuppressionFlask_eff_desc>Reduces amount of ingredients needed to create a fire suppression flask by 15% per skill level.</TM_FireSuppressionFlask_eff_desc>
+  <TM_Herbalist_pwr>Herbalist Bag</TM_Herbalist_pwr>
+  <TM_Herbalist_eff>Preservation</TM_Herbalist_eff>
+  <TM_Herbalist_ver>Forager</TM_Herbalist_ver>
+  <TM_PoisonFlask_pwr>Lingering Cloud</TM_PoisonFlask_pwr>
+  <TM_PoisonFlask_eff>Ingredient Efficiency</TM_PoisonFlask_eff>
+  <TM_PoisonFlask_ver>Expanding Cloud</TM_PoisonFlask_ver>
+  <TM_Elixir_pwr>Potency</TM_Elixir_pwr>
+  <TM_Elixir_eff>Ingredient Efficiency</TM_Elixir_eff>
+  <TM_Elixir_ver>Chemistry</TM_Elixir_ver>
+  <TM_SoothingBalm_pwr>Tending Salve</TM_SoothingBalm_pwr>
+  <TM_SoothingBalm_eff>Ingredient Efficiency</TM_SoothingBalm_eff>
+  <TM_SoothingBalm_ver>Anesthetic</TM_SoothingBalm_ver>
+  <TM_FireSuppressionFlask_eff>Ingredient Efficiency</TM_FireSuppressionFlask_eff>
+  <TM_ApothecaryHerbsGizmoLabel>Herbs</TM_ApothecaryHerbsGizmoLabel>
   <TM_Taunt_pwr>Challenger</TM_Taunt_pwr>
   <TM_Taunt_eff>Book of Insults</TM_Taunt_eff>
   <TM_Taunt_ver>Bellowing Roar</TM_Taunt_ver>
@@ -1782,6 +2033,8 @@ Level 3: all 4 effects</TM_CombatDrugs_pwr_desc>
   <TM_AbilityDescAdjustedStaminaCost>Adjusted Stamina Cost: {0} </TM_AbilityDescAdjustedStaminaCost>
   <TM_AbilityDescBaseBloodCost>Base Blood Cost: {0} </TM_AbilityDescBaseBloodCost>
   <TM_AbilityDescAdjustedBloodCost>Adjusted Blood Cost: {0} </TM_AbilityDescAdjustedBloodCost>
+  <TM_AbilityDescBaseResourceCost>Base {0} Cost: {1} </TM_AbilityDescBaseResourceCost>
+  <TM_AbilityDescAdjustedResourceCost>Adjusted {0} Cost: {1} </TM_AbilityDescAdjustedResourceCost>
   <TM_AbilityDescBaseChiCost>Base Chi Cost: {0} </TM_AbilityDescBaseChiCost>
   <TM_AbilityDescAdjustedChiCost>Adjusted Chi Cost: {0} </TM_AbilityDescAdjustedChiCost>
   <TM_AbilityDescPortalTime>Portal collapse in {0} seconds</TM_AbilityDescPortalTime>
@@ -1808,6 +2061,51 @@ Level 3: all 4 effects</TM_CombatDrugs_pwr_desc>
 *To become a might class, the pawn must read a book teaching a Combat Form.*
 
 **Once promoted, the pawn cannot become another fighter class, the decision is permanent and cannot be reverted - this includes the Wayfarer class.**</TM_PromoteWayfarerDesc>
+  <TM_ActivateGolem>Activate</TM_ActivateGolem>
+  <TM_ActivateGolemDesc>Begins the process to activate the golem - after activating, the golem will move about as a normal pawn. Any upgrades or repairs being performed in the dormant state will be discarded. Requires a minimum of {0} energy to activate.</TM_ActivateGolemDesc>
+  <TM_DeActivateGolem>Deactivate</TM_DeActivateGolem>
+  <TM_DeActivateGolemDesc>Orders the golem to become dormant. The golem will attempt to return to its assigned dormant location. If this location is unreachable, the golem will deactivate at its current location. If the location is available, issuing this command a second time will override the return command and immediately deactivate the golem at it's current position.</TM_DeActivateGolemDesc>
+  <TM_ActivateGolemDisabled>Disabled - {0}</TM_ActivateGolemDisabled>
+  <TM_AssignGolemRestPosition>Dormant position</TM_AssignGolemRestPosition>
+  <TM_AssignGolemRestPositionDesc>Assigns the location the golem should deactivate.</TM_AssignGolemRestPositionDesc>
+  <TM_DormantPositionUnreachable>Selected position is unreachable or occupied - canceling</TM_DormantPositionUnreachable>
+  <TM_GolemStationaryDefenseToggle>defense protocol</TM_GolemStationaryDefenseToggle>
+  <TM_GolemStationaryDefenseToggleDesc>Toggles stationary defenses. The golem remains in a dormant state while using stationary defenses.</TM_GolemStationaryDefenseToggleDesc>
+  <TM_GolemActiveDefenseToggle>engagement protocol</TM_GolemActiveDefenseToggle>
+  <TM_GolemActiveDefenseToggleDesc>Toggles active defenses. The golem will activate if an enemy enters its threat range. Threat range may be adjusted a golem by selecting the dormant golem and opening the golem tab.</TM_GolemActiveDefenseToggleDesc>
+  <TM_UpgradesVerbatum>Upgrades</TM_UpgradesVerbatum>
+  <TM_GolemThreatRange>Threat range: </TM_GolemThreatRange>
+  <TM_GolemThreatRangeDesc>Determines the distance the golem will detect and activate to engage a hostile target; this value also determines the distance an active golem will engage a threat. Setting this value to 0 will prevent a dormant golem from activating from a nearby threat.</TM_GolemThreatRangeDesc>
+  <TM_GolemAbilityMinimum>Ability threshold: </TM_GolemAbilityMinimum>
+  <TM_GolemAbilityMinimumDesc>Determines the minimum energy percent required to use abilities that cost energy; the golem will not use abilities that require energy if the energy percent is less than this value. Setting this value to 100% will disable ability use.</TM_GolemAbilityMinimumDesc>
+  <TM_GolemRestMinimum>Rest threshold: </TM_GolemRestMinimum>
+  <TM_GolemRestMinimumDesc>The energy percent that the golem will attempt to return to its dormant position to de-activate and recharge energy; the golem will automatically de-activate at 0%.</TM_GolemRestMinimumDesc>
+  <TM_GolemAwakenMinimum>Activate threshold: </TM_GolemAwakenMinimum>
+  <TM_GolemAwakenMinimumDesc>The energy percent at which that the golem will activate to perform tasks; set to 10% or less to disable automatic activation.</TM_GolemAwakenMinimumDesc>
+  <TM_GolemMasterDesc>Assigns a golemancer as the master of this golem; assigning a master allows the golem improved behavior to protect the assigned golemancer.</TM_GolemMasterDesc>
+  <TM_GolemFollowsMaster>Follow master</TM_GolemFollowsMaster>
+  <TM_GolemFollowsMasterDesc>When enabled, the golem will prioritize following and protecting its master above all other work related tasks. The golem must have a master assigned.</TM_GolemFollowsMasterDesc>
+  <TM_GolemDraftedFollow>Drafted only</TM_GolemDraftedFollow>
+  <TM_GolemDraftedFollowDesc>Follows master only when master is drafted.</TM_GolemDraftedFollowDesc>
+  <TM_GolemDormantWhenUpgrading>Stay dormant when upgrading</TM_GolemDormantWhenUpgrading>
+  <TM_GolemDormantWhenUpgradingDesc>When enabled, the golem will remain in a dormant state if there are queued bills. A golem will always remain dormant when a bill is in progress (unfinished upgrade).</TM_GolemDormantWhenUpgradingDesc>
+  <TM_GolemUseAbilitiesWhileDormant>Use abilities while dormant</TM_GolemUseAbilitiesWhileDormant>
+  <TM_GolemUseAbilitiesWhileDormantDesc>When disabled, a dormant golem will never use abilities.</TM_GolemUseAbilitiesWhileDormantDesc>
+  <TM_GolemRestrictedAggression>Restricted aggression</TM_GolemRestrictedAggression>
+  <TM_GolemRestrictedAggressionDesc>When enabled, the golem will not activate or pursue targets through doors or beyond its allowed zone.</TM_GolemRestrictedAggressionDesc>
+  <TM_GolemName>Golem name</TM_GolemName>
+  <TM_GolemNameDesc>Change golem name</TM_GolemNameDesc>
+  <TM_GolemMasterLabel>Golemancer</TM_GolemMasterLabel>
+  <TM_ActivatesGolem_Time>Activates the golem - this typically takes a small amount of time. The golem will not be able to activate if it is undergoing upgrades.</TM_ActivatesGolem_Time>
+  <TM_DeActivatesGolem_Time>Deactivates the golem - this will send the golem back to their resting position and may take some time.</TM_DeActivatesGolem_Time>
+  <TM_GolemAssignAreaDesc>Allow area</TM_GolemAssignAreaDesc>
+  <TM_RemovePossession>Leave body</TM_RemovePossession>
+  <TM_RemovePossessionDesc>The spirit leaves the body willingly and the characteristics of the pawn return to its state prior to possession.</TM_RemovePossessionDesc>
+  <TM_GolemDoScreenShake>Golem screen shake</TM_GolemDoScreenShake>
+  <TM_GolemDoScreenShakeDesc>When disabled, golems will not cause the screen to shake when they activate or deactivate.</TM_GolemDoScreenShakeDesc>
+  <TM_EndSymbiosis>End Symbiosis</TM_EndSymbiosis>
+  <TM_EndSymbiosisDesc>The empath detaches their will from the host and returns to his or her body. This option is only available if the host is near the symbiote.</TM_EndSymbiosisDesc>
+  <TM_GolemAssignArea>Restricts golem to this area</TM_GolemAssignArea>
   <TM_SelectPortalDestination>Activate Portal</TM_SelectPortalDestination>
   <TM_UsePortal>Use Portal</TM_UsePortal>
   <TM_DeactivatePortal>Deactivate Portal</TM_DeactivatePortal>
@@ -1828,6 +2126,13 @@ Level 3: all 4 effects</TM_CombatDrugs_pwr_desc>
   <TM_EnchantItem>Enchant {0}</TM_EnchantItem>
   <TM_CannotDrop>Cannot drop {0}</TM_CannotDrop>
   <TM_NeedManaForEnchant>Enchantment: {0} of .5 mana</TM_NeedManaForEnchant>
+  <TabGolem>Golem</TabGolem>
+  <TM_GolemAbilities>{0}'s Abilities</TM_GolemAbilities>
+  <TM_GolemAbilitiesButton>Abilities</TM_GolemAbilitiesButton>
+  <TM_GolemAbilityEnabledDesc>Toggles use of {0}: {1}</TM_GolemAbilityEnabledDesc>
+  <TM_GolemWorkTypeEnabledDesc>Toggles use of {0}</TM_GolemWorkTypeEnabledDesc>
+  <TM_GolemShowDormant>Show dormant frame</TM_GolemShowDormant>
+  <TM_GolemShowDormantDesc>Shows a frame over this golem's dormant position. Use the mod options menu to toggle this for all golems.</TM_GolemShowDormantDesc>
   <TM_MaxMPLabel>Max Energy Increase: {0}%</TM_MaxMPLabel>
   <TM_MPRegenRateLabel>Energy Regen Increase: {0}%</TM_MPRegenRateLabel>
   <TM_CoolDownLabel>Ability Cooldown Reduction: {0}%</TM_CoolDownLabel>
@@ -1841,4 +2146,25 @@ Level 3: all 4 effects</TM_CombatDrugs_pwr_desc>
   <TM_EA_Hediff>{0}: {1} {2}% on hit</TM_EA_Hediff>
   <TM_EA_Damage>{0}: {1}-{2} {3} damage {4}% on hit</TM_EA_Damage>
   <TM_Enchanted>Enchanted!</TM_Enchanted>
+  <TM_Use>Use {0}</TM_Use>
+  <TM_Read>Read {0}</TM_Read>
+  <TM_Inject>Inject {0}</TM_Inject>
+  <TM_MCU_BaseMana>Base mana gain: {0}</TM_MCU_BaseMana>
+  <TM_MCU_BaseRegen>Mana regen bonus: {0}</TM_MCU_BaseRegen>
+  <TM_MCU_ManaSurge>Mana surge: +{0}</TM_MCU_ManaSurge>
+  <TM_MCU_Syrrium>Syrrium boost: +{0}</TM_MCU_Syrrium>
+  <TM_MCU_EnergyDrainBonus>Modified mana gain: {0}</TM_MCU_EnergyDrainBonus>
+  <TM_MCU_RegenBonus>Energy regen bonus: +{0}</TM_MCU_RegenBonus>
+  <TM_MCU_ManaWeakness>Mana weakness: -{0}</TM_MCU_ManaWeakness>
+  <TM_MCU_Minion>Minion cost: -{0}</TM_MCU_Minion>
+  <TM_MCU_Sprite>Sprite cost: -{0}</TM_MCU_Sprite>
+  <TM_MCU_Undead>Undead cost: -{0}</TM_MCU_Undead>
+  <TM_MCU_ManaDrain>Mana drain: -{0}</TM_MCU_ManaDrain>
+  <TM_MCU_ManaSickness>Mana sickness: -{0}</TM_MCU_ManaSickness>
+  <TM_MCU_Paracyte>Paracytic drain: -{0}</TM_MCU_Paracyte>
+  <TM_MCU_ManaNet>Total mana upkeep: {0}</TM_MCU_ManaNet>
+  <TM_MCU_CurrentLevel>Current Level:</TM_MCU_CurrentLevel>
+  <TM_MCU_NextLevel>Next Level:</TM_MCU_NextLevel>
+  <TM_MCU_PointsToLearn>{0} points to </TM_MCU_PointsToLearn>
+  <TM_UndeadVerbatum>Undead</TM_UndeadVerbatum>
 </LanguageData>

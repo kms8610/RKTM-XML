@@ -4,6 +4,11 @@
   <FlyingObject_SpinningBone.label>flying object that spins</FlyingObject_SpinningBone.label>
   <FlyingObject_Advanced.label>flying object that does lots of stuff</FlyingObject_Advanced.label>
   <Projectile_Default.label>default</Projectile_Default.label>
+  <Projectile_PoisonFlask.label>Poison flask</Projectile_PoisonFlask.label>
+  <Projectile_FireDousingFlask.label>Fire dousing flask</Projectile_FireDousingFlask.label>
+  <Projectile_FireDousingFlask_I.label>Fire dousing flask</Projectile_FireDousingFlask_I.label>
+  <Projectile_FireDousingFlask_II.label>Fire dousing flask</Projectile_FireDousingFlask_II.label>
+  <Projectile_FireDousingFlask_III.label>Fire dousing flask</Projectile_FireDousingFlask_III.label>
   <Buff_Shadow.label>Shadow</Buff_Shadow.label>
   <Projectile_MagicMissile.label>Magic Missile</Projectile_MagicMissile.label>
   <Projectile_Teleport.label>Teleport</Projectile_Teleport.label>
@@ -88,6 +93,7 @@
   <Projectile_Cleave.label>Cleave</Projectile_Cleave.label>
   <FlyingObject_Whirlwind.label>flying object</FlyingObject_Whirlwind.label>
   <Projectile_Whirlwind.label>Whirlwind</Projectile_Whirlwind.label>
+  <FlyingObject_LivingWall.label>Living Wall</FlyingObject_LivingWall.label>
   <Buff_Soothe.label>Soothing Breeze</Buff_Soothe.label>
   <Laser_FrostRay.label>Frost Ray</Laser_FrostRay.label>
   <Projectile_Snowball.label>Snowball</Projectile_Snowball.label>
@@ -107,6 +113,7 @@
   <Projectile_DeathMark.label>Death mark</Projectile_DeathMark.label>
   <Projectile_FogOfTorment.label>fog of torment</Projectile_FogOfTorment.label>
   <Projectile_ConsumeCorpse.label>consume corpse</Projectile_ConsumeCorpse.label>
+  <Projectile_ConsumeCorpse_Mass.label>consume corpse: mass</Projectile_ConsumeCorpse_Mass.label>
   <Projectile_CorpseExplosion.label>corpse explosion</Projectile_CorpseExplosion.label>
   <Projectile_DeathBolt.label>deathbolt</Projectile_DeathBolt.label>
   <Projectile_DeathBolt_I.label>deathbolt</Projectile_DeathBolt_I.label>
@@ -119,6 +126,11 @@
   <Projectile_ValiantCharge.label>Whirlwind</Projectile_ValiantCharge.label>
   <TM_Paladin_Overwhelm.label>Overwhelm</TM_Paladin_Overwhelm.label>
   <Projectile_HolyWrath.label>holy wrath</Projectile_HolyWrath.label>
+  <Projectile_SpiritPossession.label>possess</Projectile_SpiritPossession.label>
+  <Projectile_DistortSpirit.label>distort spirit</Projectile_DistortSpirit.label>
+  <Projectile_SummonSpiritAnimals.label>summon spirit animals</Projectile_SummonSpiritAnimals.label>
+  <Projectile_SpiritStorm.label>spirit storm</Projectile_SpiritStorm.label>
+  <FlyingObject_SpiritStorm.label>spirit storm</FlyingObject_SpiritStorm.label>
   <TM_Projectile_Priest.label>priest projectile</TM_Projectile_Priest.label>
   <TM_Projectile_HealingCircle.label>healing circle</TM_Projectile_HealingCircle.label>
   <TM_Projectile_HealingCircle_I.label>healing circle</TM_Projectile_HealingCircle_I.label>
@@ -419,9 +431,154 @@
   <TM_Meteorite_I.label>meteorite</TM_Meteorite_I.label>
   <TM_Meteorite_II.label>meteorite</TM_Meteorite_II.label>
   <TM_Meteorite_III.label>meteorite</TM_Meteorite_III.label>
+  <TM_Hail.label>hail</TM_Hail.label>
+  <Projectile_FireBlossomBolt.label>Firebolt</Projectile_FireBlossomBolt.label>
+  <Projectile_IceBlossomBolt.label>Icebolt</Projectile_IceBlossomBolt.label>
+  <Projectile_DarkBolt.label>Darkbolt</Projectile_DarkBolt.label>
+  <Projectile_ReverseShield.label>Reverse Shield</Projectile_ReverseShield.label>
+  <TM_MechaGolem_Workstation.label>dormant mecha-golem</TM_MechaGolem_Workstation.label>
+  <TM_MechaGolem_Workstation.description>A dormant mecha-golem. Mecha golem design combines industrial engineering with magical attributes to bring to life a robotic construct. This golem can tap into existing power grids to speed charge rate. In addition to basic tasks such as hauling and cleaning, the mecha golem can be equipped with a mining laser to rapidly drill through mine-able rock. Mecha golems combine both industrial and simple weaponry and armor into its arsenal.
+	
+While dormant, the golem may be modified or upgraded. The mecha-golem recharges energy slowly on its own but access to power sources will increase the recharge speed. The golem may also provide energy to an electrical grid when there is an electrical deficit.</TM_MechaGolem_Workstation.description>
+  <TM_UnfinishedMechaGolem.label>unfinished mecha-golem</TM_UnfinishedMechaGolem.label>
+  <TM_UnfinishedMechaGolem.description>An unfinished mecha-golem.</TM_UnfinishedMechaGolem.description>
+  <TM_UnfinishedMechaGolemUpgrade.label>unfinished mecha-golem upgrade</TM_UnfinishedMechaGolemUpgrade.label>
+  <TM_UnfinishedMechaGolemUpgrade.description>An unfinished mecha-golem upgrade.</TM_UnfinishedMechaGolemUpgrade.description>
+  <TM_FleshGolem_Workstation.label>dormant flesh golem</TM_FleshGolem_Workstation.label>
+  <TM_FleshGolem_Workstation.description>A dormant flesh golem. Flesh golems are a bipedal-like mass of organic matter, mostly comprised of body parts from deceased creatures. The flesh golem is a fearsome combatant with a variety of attacks and abilities that further increase its lethality. In addition to basic tasks such as hauling and cleaning, the flesh golem is able to use attached cleavers to harvest trees or plants. 
+	
+While dormant, the golem may be modified or upgraded. The flesh golem recharges energy slowly on its own but supplying it with fresh meat will increase the recharge speed.</TM_FleshGolem_Workstation.description>
+  <TM_UnfinishedFleshGolem.label>unfinished flesh golem</TM_UnfinishedFleshGolem.label>
+  <TM_UnfinishedFleshGolem.description>An unfinished flesh golem.</TM_UnfinishedFleshGolem.description>
+  <TM_UnfinishedFleshGolemUpgrade.label>unfinished flesh golem upgrade</TM_UnfinishedFleshGolemUpgrade.label>
+  <TM_UnfinishedFleshGolemUpgrade.description>An unfinished flesh golem upgrade.</TM_UnfinishedFleshGolemUpgrade.description>
+  <TM_HollowGolem_Workstation.label>dormant hollow golem</TM_HollowGolem_Workstation.label>
+  <TM_HollowGolem_Workstation.description>A dormant hollow golem. Hollow golems are a combination of condensed mana tethered and protected by various pieces of armor. In it's dormant form, the hollow golem appears as an empty suite of armor. This golem draws on ambient mana to fuel itself which can cause an overall reduction, even negative, mana regeneration rates for mages. This reduction is combined with existing mages and paracyte thorn bushes. In addition to basic tasks such as hauling and cleaning, the hollow golem can be outfitted to provide light, increase research, and act as a mortar system. Being a creature of animated mana, they are able to harness multiple forms of magical energy, without suffering from human frailties.
+	
+While dormant, the golem may be modified or upgraded. The hollow golem recharges energy slowly on its own but may be toggled to receive mana from nearby mages.</TM_HollowGolem_Workstation.description>
+  <TM_UnfinishedHollowGolem.label>unfinished hollow golem</TM_UnfinishedHollowGolem.label>
+  <TM_UnfinishedHollowGolem.description>An unfinished hollow golem.</TM_UnfinishedHollowGolem.description>
+  <TM_UnfinishedHollowGolemUpgrade.label>unfinished hollow golem upgrade</TM_UnfinishedHollowGolemUpgrade.label>
+  <TM_UnfinishedHollowGolemUpgrade.description>An unfinished hollow golem upgrade.</TM_UnfinishedHollowGolemUpgrade.description>
+  <TM_StoneGolem_Workstation.label>dormant stone golem</TM_StoneGolem_Workstation.label>
+  <TM_StoneGolem_Workstation.description>Stone golems apply the basic principles of golemancy and are simple constructs of rock and stone fashioned into humanoid shape. Though simple and inexpensive, the stone golem is unrefined and relies heavily on magical runes for mobility. The material weight and reliance on magical power for animation make the stone golem slow, but difficult to destroy. In its dormant form, the stone golem can be enhanced with a rock compactor, which is an automated process that crushes rock and shapes it into bricks. This process requires energy and the stone chunks to be deposited into the golem.
+	
+While dormant, the golem may be modified or upgraded. The stone golem recharges energy slowly on its own. This golem takes up to 10 seconds to activate.</TM_StoneGolem_Workstation.description>
+  <TM_UnfinishedStoneGolem.label>unfinished stone golem</TM_UnfinishedStoneGolem.label>
+  <TM_UnfinishedStoneGolem.description>An unfinished stone golem.</TM_UnfinishedStoneGolem.description>
+  <TM_UnfinishedStoneGolemUpgrade.label>unfinished stone golem upgrade</TM_UnfinishedStoneGolemUpgrade.label>
+  <TM_UnfinishedStoneGolemUpgrade.description>An unfinished stone golem upgrade.</TM_UnfinishedStoneGolemUpgrade.description>
+  <TM_MaharalGolem_Workstation.label>dormant maharal golem</TM_MaharalGolem_Workstation.label>
+  <TM_MaharalGolem_Workstation.description>Maharal golems apply the basic principles of golemancy and are simple constructs of clay wrapped in leather. The maharal golem is capable of basic tasks and defense. In its dormant form, the maharal golem can be enhanced to provide low amounts of heat and energy.
+	
+While dormant, the golem may be modified or upgraded. The maharal golem recharges energy slowly on its own. This golem takes up to 5 seconds to activate.</TM_MaharalGolem_Workstation.description>
+  <TM_UnfinishedMaharalGolem.label>unfinished maharal golem</TM_UnfinishedMaharalGolem.label>
+  <TM_UnfinishedMaharalGolem.description>An unfinished maharal golem.</TM_UnfinishedMaharalGolem.description>
+  <TM_UnfinishedMaharalGolemUpgrade.label>unfinished maharal golem upgrade</TM_UnfinishedMaharalGolemUpgrade.label>
+  <TM_UnfinishedMaharalGolemUpgrade.description>An unfinished maharal golem upgrade.</TM_UnfinishedMaharalGolemUpgrade.description>
+  <TM_StrawGolem_Workstation.label>dormant straw golem</TM_StrawGolem_Workstation.label>
+  <TM_StrawGolem_Workstation.description>Straw golems apply the basic principles of golemancy and are simple constructs of wood and hay fashioned into humanoid shape. Simple and inexpensive, the straw golem is at home in the fields, able to seed new crops. Its light weight and flexible construction material make it an excellent golem for keeping the colony free of debris, but is extremely flammable. The straw golem increases nearby plant growth in both active and dormant forms
+	
+While dormant, the golem may be modified or upgraded. The straw golem recharges energy slowly on its own. This golem takes up to 3 seconds to activate.</TM_StrawGolem_Workstation.description>
+  <TM_UnfinishedStrawGolem.label>unfinished straw golem</TM_UnfinishedStrawGolem.label>
+  <TM_UnfinishedStrawGolem.description>An unfinished straw golem.</TM_UnfinishedStrawGolem.description>
+  <TM_UnfinishedStrawGolemUpgrade.label>unfinished straw golem upgrade</TM_UnfinishedStrawGolemUpgrade.label>
+  <TM_UnfinishedStrawGolemUpgrade.description>An unfinished straw golem upgrade.</TM_UnfinishedStrawGolemUpgrade.description>
+  <TM_WoodGolem_Workstation.label>dormant wood golem</TM_WoodGolem_Workstation.label>
+  <TM_WoodGolem_Workstation.description>Wood golems apply the basic principles of golemancy and are simple constructs of wood, stone, and steel fashioned into a hollowed spherical shape. The wood golem's frame encases a magical core. The wood golem is able to perform basic crafting, animal care, cooking, and drug synthesis. The wood golem's simple and inexpensive construction provide it to fill many roles in the early stages of a colony, but it is inefficient and easily destroyed.
+	
+While dormant, the golem may be modified or upgraded. The wood golem recharges energy slowly on its own. This golem takes up to 4 seconds to activate.</TM_WoodGolem_Workstation.description>
+  <TM_UnfinishedWoodGolem.label>unfinished wood golem</TM_UnfinishedWoodGolem.label>
+  <TM_UnfinishedWoodGolem.description>An unfinished wood golem.</TM_UnfinishedWoodGolem.description>
+  <TM_UnfinishedWoodGolemUpgrade.label>unfinished wood golem upgrade</TM_UnfinishedWoodGolemUpgrade.label>
+  <TM_UnfinishedWoodGolemUpgrade.description>An unfinished wood golem upgrade.</TM_UnfinishedWoodGolemUpgrade.description>
+  <TM_SilkGolem_Workstation.label>dormant silk golem</TM_SilkGolem_Workstation.label>
+  <TM_SilkGolem_Workstation.description>Silk golems apply the basic principles of golemancy and are simple constructs of cloth and silk that makes their form undefined yet pliable. The silk golem's main function is wardening and social tasks, but their unprotected form makes them a poor choice for hard labor or combat.
+	
+While dormant, the golem may be modified or upgraded. The silk golem recharges energy slowly on its own. This golem takes up to 2 seconds to activate.</TM_SilkGolem_Workstation.description>
+  <TM_UnfinishedSilkGolem.label>unfinished silk golem</TM_UnfinishedSilkGolem.label>
+  <TM_UnfinishedSilkGolem.description>An unfinished silk golem.</TM_UnfinishedSilkGolem.description>
+  <TM_UnfinishedSilkGolemUpgrade.label>unfinished silk golem upgrade</TM_UnfinishedSilkGolemUpgrade.label>
+  <TM_UnfinishedSilkGolemUpgrade.description>An unfinished silk golem upgrade.</TM_UnfinishedSilkGolemUpgrade.description>
+  <TM_StoneGolem.description>A simple golem crafted from stone and animated with magic.</TM_StoneGolem.description>
+  <TM_StoneGolem.label>stone golem</TM_StoneGolem.label>
+  <TM_StoneGolem.tools.0.label>smash</TM_StoneGolem.tools.0.label>
+  <TM_StoneGolem.tools.1.label>left fist</TM_StoneGolem.tools.1.label>
+  <TM_StoneGolem.tools.2.label>right fist</TM_StoneGolem.tools.2.label>
+  <TM_SandstoneGolem.description>A simple golem crafted from stone and animated with magic.</TM_SandstoneGolem.description>
+  <TM_SandstoneGolem.label>sandstone golem</TM_SandstoneGolem.label>
+  <TM_SandstoneGolem.tools.0.label>smash</TM_SandstoneGolem.tools.0.label>
+  <TM_SandstoneGolem.tools.1.label>left fist</TM_SandstoneGolem.tools.1.label>
+  <TM_SandstoneGolem.tools.2.label>right fist</TM_SandstoneGolem.tools.2.label>
+  <TM_LimestoneGolem.description>A simple golem crafted from stone and animated with magic.</TM_LimestoneGolem.description>
+  <TM_LimestoneGolem.label>limestone golem</TM_LimestoneGolem.label>
+  <TM_LimestoneGolem.tools.0.label>smash</TM_LimestoneGolem.tools.0.label>
+  <TM_LimestoneGolem.tools.1.label>left fist</TM_LimestoneGolem.tools.1.label>
+  <TM_LimestoneGolem.tools.2.label>right fist</TM_LimestoneGolem.tools.2.label>
+  <TM_GraniteGolem.description>A simple golem crafted from stone and animated with magic.</TM_GraniteGolem.description>
+  <TM_GraniteGolem.label>granite golem</TM_GraniteGolem.label>
+  <TM_GraniteGolem.tools.0.label>smash</TM_GraniteGolem.tools.0.label>
+  <TM_GraniteGolem.tools.1.label>left fist</TM_GraniteGolem.tools.1.label>
+  <TM_GraniteGolem.tools.2.label>right fist</TM_GraniteGolem.tools.2.label>
+  <TM_SlateGolem.description>A simple golem crafted from stone and animated with magic.</TM_SlateGolem.description>
+  <TM_SlateGolem.label>slate golem</TM_SlateGolem.label>
+  <TM_SlateGolem.tools.0.label>smash</TM_SlateGolem.tools.0.label>
+  <TM_SlateGolem.tools.1.label>left fist</TM_SlateGolem.tools.1.label>
+  <TM_SlateGolem.tools.2.label>right fist</TM_SlateGolem.tools.2.label>
+  <TM_MarbleGolem.description>A simple golem crafted from stone and animated with magic.</TM_MarbleGolem.description>
+  <TM_MarbleGolem.label>marble golem</TM_MarbleGolem.label>
+  <TM_MarbleGolem.tools.0.label>smash</TM_MarbleGolem.tools.0.label>
+  <TM_MarbleGolem.tools.1.label>left fist</TM_MarbleGolem.tools.1.label>
+  <TM_MarbleGolem.tools.2.label>right fist</TM_MarbleGolem.tools.2.label>
+  <TM_MechaGolem.label>mecha-golem</TM_MechaGolem.label>
+  <TM_MechaGolem.description>A golem, crafted from raw material and given basic autonomy through a combination of circuitry and magic.</TM_MechaGolem.description>
+  <TM_MechaGolem.tools.0.label>body smash</TM_MechaGolem.tools.0.label>
+  <TM_MechaGolem.tools.1.label>left fist</TM_MechaGolem.tools.1.label>
+  <TM_MechaGolem.tools.2.label>mecha-axe</TM_MechaGolem.tools.2.label>
+  <TM_MechaGolem.tools.3.label>mecha-sword</TM_MechaGolem.tools.3.label>
+  <TM_MechaGolem.tools.4.label>right fist</TM_MechaGolem.tools.4.label>
+  <TM_MechaGolem.tools.5.label>mecha-hammer</TM_MechaGolem.tools.5.label>
+  <TM_FleshGolem.label>flesh golem</TM_FleshGolem.label>
+  <TM_FleshGolem.description>A golem crafted from the flesh, bones and organs of other beings and given basic autonomy through a combination of bioengineering and magic.</TM_FleshGolem.description>
+  <TM_FleshGolem.tools.0.label>gore</TM_FleshGolem.tools.0.label>
+  <TM_FleshGolem.tools.1.label>tusks</TM_FleshGolem.tools.1.label>
+  <TM_FleshGolem.tools.2.label>left fist</TM_FleshGolem.tools.2.label>
+  <TM_FleshGolem.tools.3.label>left guard</TM_FleshGolem.tools.3.label>
+  <TM_FleshGolem.tools.4.label>left cleaver</TM_FleshGolem.tools.4.label>
+  <TM_FleshGolem.tools.5.label>right fist</TM_FleshGolem.tools.5.label>
+  <TM_FleshGolem.tools.6.label>right guard</TM_FleshGolem.tools.6.label>
+  <TM_FleshGolem.tools.7.label>right cleaver</TM_FleshGolem.tools.7.label>
+  <TM_HollowGolem.label>hollow golem</TM_HollowGolem.label>
+  <TM_HollowGolem.description>A golem crafted from condensed magic and arcane catalysts. The armor surrounding the hollow golem anchors the magic center to a physical location and to protect its physical integrity. The hollow golem is able to harness tremendous amounts of magical energy for a variety of purposes, making it one of the most flexible golems developed to date. The hollow golem absorbs magical energy from the atmosphere, much like paracyte, with mana reduction equivalent to 10 paracyte thorn bushes.</TM_HollowGolem.description>
+  <TM_HollowGolem.verbs.0.label>blazing energy</TM_HollowGolem.verbs.0.label>
+  <TM_HollowGolem.verbs.1.label>firebolts</TM_HollowGolem.verbs.1.label>
+  <TM_HollowGolem.verbs.2.label>ice shards</TM_HollowGolem.verbs.2.label>
+  <TM_HollowGolem.verbs.3.label>darkbolt</TM_HollowGolem.verbs.3.label>
+  <TM_HollowGolem.tools.0.label>claw</TM_HollowGolem.tools.0.label>
+  <TM_HollowGolem.tools.1.label>decay touch</TM_HollowGolem.tools.1.label>
+  <TM_HollowGolem.tools.2.label>hollow axe</TM_HollowGolem.tools.2.label>
+  <TM_HollowGolem.tools.3.label>hollow staff</TM_HollowGolem.tools.3.label>
+  <TM_MaharalGolem.label>maharal golem</TM_MaharalGolem.label>
+  <TM_MaharalGolem.description>A golem crafted from a mixture of molded stone wrapped in leather.</TM_MaharalGolem.description>
+  <TM_MaharalGolem.tools.0.label>left fist</TM_MaharalGolem.tools.0.label>
+  <TM_MaharalGolem.tools.1.label>right fist</TM_MaharalGolem.tools.1.label>
+  <TM_StrawGolem.label>straw golem</TM_StrawGolem.label>
+  <TM_StrawGolem.description>A golem crafted from a mixture of basic material formed in the shape of a human.</TM_StrawGolem.description>
+  <TM_StrawGolem.tools.0.label>left fist</TM_StrawGolem.tools.0.label>
+  <TM_StrawGolem.tools.1.label>right fist</TM_StrawGolem.tools.1.label>
+  <TM_WoodGolem.label>wood golem</TM_WoodGolem.label>
+  <TM_WoodGolem.description>Magical energy infused into a construct of wood and stone.</TM_WoodGolem.description>
+  <TM_WoodGolem.tools.0.label>spirit force</TM_WoodGolem.tools.0.label>
+  <TM_WoodGolem.tools.1.label>frame smash</TM_WoodGolem.tools.1.label>
+  <TM_SilkGolem.label>silk golem</TM_SilkGolem.label>
+  <TM_SilkGolem.description>An mass of cloth and thread constructed into a slug-like shape, the only distinct feature is its friendly, expressive face.</TM_SilkGolem.description>
+  <TM_SilkGolem.tools.0.label>bash</TM_SilkGolem.tools.0.label>
   <Fog_Torment.label>fog of torment</Fog_Torment.label>
   <Fog_Poison.label>ranger poison trap</Fog_Poison.label>
   <Fog_Shadows.label>shadow fog</Fog_Shadows.label>
+  <TM_SpiritTD.label>spirit</TM_SpiritTD.label>
+  <TM_SpiritTD.description>A wandering spirit, anchored to the material plane by some unknown force.</TM_SpiritTD.description>
+  <TM_SpiritTD.tools.0.label>spirit tap</TM_SpiritTD.tools.0.label>
   <TM_DemonR.race.meatLabel>demon flesh</TM_DemonR.race.meatLabel>
   <TM_DemonR.label>Demon</TM_DemonR.label>
   <TM_DemonR.description>Released from the pits of hell, this demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.</TM_DemonR.description>
@@ -766,6 +923,8 @@ Efficiency: 80%</TM_DimensionalManaPocket.description>
   <TM_Portal.description>Instant travel between two portals.</TM_Portal.description>
   <TM_ElementalRift.label>Elemental rift</TM_ElementalRift.label>
   <TM_ElementalRift.description>rift caused by rogue elementals.</TM_ElementalRift.description>
+  <TM_ElementalRift_Defenders.label>Elemental rift</TM_ElementalRift_Defenders.label>
+  <TM_ElementalRift_Defenders.description>rift created by a voidseeker</TM_ElementalRift_Defenders.description>
   <SeedofRegrowth.label>Seed of Regrowth</SeedofRegrowth.label>
   <SeedofRegrowth.description>A seed required by a druid to begin the limb regrowth process. A druid must be trained in the art of regrowth to use this magical item successfully.</SeedofRegrowth.description>
   <TM_EStone_maxMP_minor.label>Minor Arcane Gem of Holding</TM_EStone_maxMP_minor.label>
@@ -832,393 +991,444 @@ Extremely difficult and taxing to create, only a talented and knowledgeable mage
   <TM_Demonhide.description>The skin of a demon. This material is incredibly tough with a micro-porous material mesh able to rapidly diffuse heat and cushion impact blows better than most non-metals. The blood of a demon is resistant to magic and leather made from the hide of a demon absorbs some of this resistance. Any enchantments carved into demonhide are naturally augmented. There are only two downsides to this material - the first is that it can only be acquired from the carcass of a demon, which makes it both rare and costly; the second is that it makes a terrible insulator.</TM_Demonhide.description>
   <TM_Demonscale.label>demonscale</TM_Demonscale.label>
   <TM_Demonscale.description>Pried from the body of a demon, these scales offer a lightweight and versatile defense against all forms of attack. Demon scale excels as a natural barrier to magic and is an excellent inhibitor to heat and fire; a warrior with enough armor crafted from demon scale may even become immune to all but the most intense fire. Demon scale can be smelted, and weapons forged from this refined metal make excellent bladed weapons. Enchantments etched into demon scale equipment are naturally augmented.</TM_Demonscale.description>
-  <BookOfQuestion.comps.0.useLabel>Read</BookOfQuestion.comps.0.useLabel>
+  <BookOfQuestion.comps.0.useLabel>TM_Read</BookOfQuestion.comps.0.useLabel>
   <BookOfQuestion.label>Arcane Script: ???</BookOfQuestion.label>
   <BookOfQuestion.description>Teaches a gifted pawn how to harness magical powers...</BookOfQuestion.description>
-  <Torn_BookOfInnerFire.comps.0.useLabel>Read</Torn_BookOfInnerFire.comps.0.useLabel>
+  <Torn_BookOfInnerFire.comps.0.useLabel>TM_Read</Torn_BookOfInnerFire.comps.0.useLabel>
   <Torn_BookOfInnerFire.label>Torn Script: Fire</Torn_BookOfInnerFire.label>
   <Torn_BookOfInnerFire.description>Teaches a gifted pawn how to harness elements of fire.  
 This arcane script is incomplete and the reader may not be able to learn some, or any, fire spells.</Torn_BookOfInnerFire.description>
-  <Torn_BookOfHeartOfFrost.comps.0.useLabel>Read</Torn_BookOfHeartOfFrost.comps.0.useLabel>
+  <Torn_BookOfHeartOfFrost.comps.0.useLabel>TM_Read</Torn_BookOfHeartOfFrost.comps.0.useLabel>
   <Torn_BookOfHeartOfFrost.label>Torn Script: Ice</Torn_BookOfHeartOfFrost.label>
   <Torn_BookOfHeartOfFrost.description>Teaches a gifted pawn how to harness elemental ice and water.  
 This arcane script is incomplete and the reader may not be able to learn some, or any, ice mage spells.</Torn_BookOfHeartOfFrost.description>
-  <Torn_BookOfStormBorn.comps.0.useLabel>Read</Torn_BookOfStormBorn.comps.0.useLabel>
+  <Torn_BookOfStormBorn.comps.0.useLabel>TM_Read</Torn_BookOfStormBorn.comps.0.useLabel>
   <Torn_BookOfStormBorn.label>Torn Script: Lightning</Torn_BookOfStormBorn.label>
   <Torn_BookOfStormBorn.description>Teaches a gifted pawn how to harness elements of lightning.  
 This arcane script is incomplete and the reader may not be able to learn some, or any,  lightning spells.</Torn_BookOfStormBorn.description>
-  <Torn_BookOfArcanist.comps.0.useLabel>Read</Torn_BookOfArcanist.comps.0.useLabel>
+  <Torn_BookOfArcanist.comps.0.useLabel>TM_Read</Torn_BookOfArcanist.comps.0.useLabel>
   <Torn_BookOfArcanist.label>Torn Script: Power</Torn_BookOfArcanist.label>
   <Torn_BookOfArcanist.description>Teaches a gifted pawn how to harness arcane powers.  
 This arcane script is incomplete and the reader may not be able to learn some, or any, arcane spells.</Torn_BookOfArcanist.description>
-  <Torn_BookOfValiant.comps.0.useLabel>Read</Torn_BookOfValiant.comps.0.useLabel>
+  <Torn_BookOfValiant.comps.0.useLabel>TM_Read</Torn_BookOfValiant.comps.0.useLabel>
   <Torn_BookOfValiant.label>Torn Script: Paladin</Torn_BookOfValiant.label>
   <Torn_BookOfValiant.description>Teaches a gifted pawn how to harness holy powers.  
 This arcane script is incomplete and the reader may not be able to learn some, or any, holy spells.</Torn_BookOfValiant.description>
-  <Torn_BookOfSummoner.comps.0.useLabel>Read</Torn_BookOfSummoner.comps.0.useLabel>
+  <Torn_BookOfSummoner.comps.0.useLabel>TM_Read</Torn_BookOfSummoner.comps.0.useLabel>
   <Torn_BookOfSummoner.label>Torn Script: Summoning</Torn_BookOfSummoner.label>
   <Torn_BookOfSummoner.description>Teaches a gifted pawn how to summon and interact with elements across dimensions.  
 This arcane script is incomplete and the reader may not be able to learn some, or any, summoning spells.</Torn_BookOfSummoner.description>
-  <Torn_BookOfNature.comps.0.useLabel>Read</Torn_BookOfNature.comps.0.useLabel>
+  <Torn_BookOfNature.comps.0.useLabel>TM_Read</Torn_BookOfNature.comps.0.useLabel>
   <Torn_BookOfNature.label>Torn Script: Nature</Torn_BookOfNature.label>
   <Torn_BookOfNature.description>Teaches a gifted pawn how to harness elements of nature.  
 This arcane script is incomplete and the reader may not be able to learn some, or any, druid spells.</Torn_BookOfNature.description>
-  <Torn_BookOfUndead.comps.0.useLabel>Read</Torn_BookOfUndead.comps.0.useLabel>
+  <Torn_BookOfUndead.comps.0.useLabel>TM_Read</Torn_BookOfUndead.comps.0.useLabel>
   <Torn_BookOfUndead.label>Torn Script: Necromancy</Torn_BookOfUndead.label>
   <Torn_BookOfUndead.description>Teaches a gifted pawn how to manipulate forces of life and death. *Note: The necromancer may become a lich at a later stage, lichs are incapable of all activity except fighting and research. Many other magic classes dislike necromancers. Choose carefully.
 This arcane script is incomplete and the reader may not be able to learn some, or any, necromancer spells.</Torn_BookOfUndead.description>
-  <Torn_BookOfPriest.comps.0.useLabel>Read</Torn_BookOfPriest.comps.0.useLabel>
+  <Torn_BookOfPriest.comps.0.useLabel>TM_Read</Torn_BookOfPriest.comps.0.useLabel>
   <Torn_BookOfPriest.label>Torn Script: Priest</Torn_BookOfPriest.label>
   <Torn_BookOfPriest.description>Teaches a gifted pawn how to confer powers of life and healing. Priests are incapable of violence and these skills will be disabled.
 This arcane script is incomplete and the reader may not be able to learn some, or any, priest spells.</Torn_BookOfPriest.description>
-  <Torn_BookOfBard.comps.0.useLabel>Read</Torn_BookOfBard.comps.0.useLabel>
+  <Torn_BookOfBard.comps.0.useLabel>TM_Read</Torn_BookOfBard.comps.0.useLabel>
   <Torn_BookOfBard.label>Torn Script: Bard</Torn_BookOfBard.label>
   <Torn_BookOfBard.description>Teaches a gifted pawn how to become a professional bard. Bards are incapable of dumb labor and this work type will be disabled.
 This arcane script is incomplete and the reader may not be able to learn some, or any, bard abilities.</Torn_BookOfBard.description>
-  <Torn_BookOfDemons.comps.0.useLabel>Read</Torn_BookOfDemons.comps.0.useLabel>
+  <Torn_BookOfDemons.comps.0.useLabel>TM_Read</Torn_BookOfDemons.comps.0.useLabel>
   <Torn_BookOfDemons.label>Torn Script: Demonology</Torn_BookOfDemons.label>
   <Torn_BookOfDemons.description>Details the process to enter an agreement with a demon to gain power. This contract binds the patron, in a literal sense, with demonic essence that affects their genetic makeup. This binding affects males and females differently. Demons will only agree to the contract if the user is magically gifted. 
 	
 *Note scribbled at the bottom of the first page* This script is not clear on exactly what the demon gets out of the agreement... use with caution.
 
 This arcane script is incomplete and does not explain the full contract process; the result might not immediately provide full access to all abilities.</Torn_BookOfDemons.description>
-  <Torn_BookOfEarth.comps.0.useLabel>Read</Torn_BookOfEarth.comps.0.useLabel>
+  <Torn_BookOfEarth.comps.0.useLabel>TM_Read</Torn_BookOfEarth.comps.0.useLabel>
   <Torn_BookOfEarth.label>Torn Script: Geomancy</Torn_BookOfEarth.label>
   <Torn_BookOfEarth.description>Teaches a gifted pawn to combine physical law, elements, and the arcane.
 This arcane script is incomplete and the reader may not be able to learn some, or any, geomancer abilities.</Torn_BookOfEarth.description>
-  <Torn_BookOfMagitech.comps.0.useLabel>Read</Torn_BookOfMagitech.comps.0.useLabel>
+  <Torn_BookOfMagitech.comps.0.useLabel>TM_Read</Torn_BookOfMagitech.comps.0.useLabel>
   <Torn_BookOfMagitech.label>Torn Script: Technomancy</Torn_BookOfMagitech.label>
   <Torn_BookOfMagitech.description>Teaches a gifted pawn in the ways of the Technomancer, able to see the connection between science and magic.
 This arcane script is incomplete and the reader will not learn any supporting technomancer abilities, but may still select their primary technomancy path.</Torn_BookOfMagitech.description>
-  <Torn_BookOfHemomancy.comps.0.useLabel>Read</Torn_BookOfHemomancy.comps.0.useLabel>
+  <Torn_BookOfHemomancy.comps.0.useLabel>TM_Read</Torn_BookOfHemomancy.comps.0.useLabel>
   <Torn_BookOfHemomancy.label>Torn Script: Hemomancy</Torn_BookOfHemomancy.label>
   <Torn_BookOfHemomancy.description>Teaches a gifted pawn how to become a hemomancer, or blood mage, and use the power of blood to fuel their magic.
 This arcane script is incomplete and the reader may not be able to learn some, or any, blood mage abilities.</Torn_BookOfHemomancy.description>
-  <Torn_BookOfEnchanter.comps.0.useLabel>Read</Torn_BookOfEnchanter.comps.0.useLabel>
+  <Torn_BookOfEnchanter.comps.0.useLabel>TM_Read</Torn_BookOfEnchanter.comps.0.useLabel>
   <Torn_BookOfEnchanter.label>Torn Script: Enchanter</Torn_BookOfEnchanter.label>
   <Torn_BookOfEnchanter.description>Teaches a gifted pawn how to become an enchanter, able to manipulate matter and material to serve their purpose.
 This arcane script is incomplete and the reader may not be able to learn some, or any, enchanter abilities.</Torn_BookOfEnchanter.description>
-  <Torn_BookOfChronomancer.comps.0.useLabel>Read</Torn_BookOfChronomancer.comps.0.useLabel>
+  <Torn_BookOfChronomancer.comps.0.useLabel>TM_Read</Torn_BookOfChronomancer.comps.0.useLabel>
   <Torn_BookOfChronomancer.label>Torn Script: Chronomancy</Torn_BookOfChronomancer.label>
   <Torn_BookOfChronomancer.description>Teaches a gifted pawn how to become a chronomancer, able to see and manipulate realities across time.
 This arcane script is incomplete and the reader may not be able to learn some, or any, chronomancer abilities.</Torn_BookOfChronomancer.description>
-  <Torn_BookOfChaos.comps.0.useLabel>Read</Torn_BookOfChaos.comps.0.useLabel>
+  <Torn_BookOfChaos.comps.0.useLabel>TM_Read</Torn_BookOfChaos.comps.0.useLabel>
   <Torn_BookOfChaos.label>Torn Script: Chaos</Torn_BookOfChaos.label>
   <Torn_BookOfChaos.description>Teaches a gifted pawn chaos tradition.</Torn_BookOfChaos.description>
-  <Torn_BookOfTheSun.comps.0.useLabel>Read</Torn_BookOfTheSun.comps.0.useLabel>
+  <Torn_BookOfTheSun.comps.0.useLabel>TM_Read</Torn_BookOfTheSun.comps.0.useLabel>
   <Torn_BookOfTheSun.label>Torn Script: Brightmage</Torn_BookOfTheSun.label>
   <Torn_BookOfTheSun.description>Teaches a gifted pawn how to become a brightmage. Brightmages manipulate the power of sunlight to create intense, destructive magic.</Torn_BookOfTheSun.description>
-  <Torn_BookOfShamanism.comps.0.useLabel>Read</Torn_BookOfShamanism.comps.0.useLabel>
+  <Torn_BookOfShamanism.comps.0.useLabel>TM_Read</Torn_BookOfShamanism.comps.0.useLabel>
   <Torn_BookOfShamanism.label>Torn Script: Shaman</Torn_BookOfShamanism.label>
   <Torn_BookOfShamanism.description>Teaches a gifted pawn how to become a shaman; a tribal leader focused on ritualistic magic to create powerful curses and enchantments, and extends their influence through totems.</Torn_BookOfShamanism.description>
-  <BookOfInnerFire.comps.0.useLabel>Read</BookOfInnerFire.comps.0.useLabel>
+  <Torn_BookOfGolemancy.comps.0.useLabel>TM_Read</Torn_BookOfGolemancy.comps.0.useLabel>
+  <Torn_BookOfGolemancy.label>Torn Script: Golemancer</Torn_BookOfGolemancy.label>
+  <Torn_BookOfGolemancy.description>Teaches a gifted pawn how to become a golemancer; a reclusive mage that channels arcane energy into mundane objects using sigils and runes.</Torn_BookOfGolemancy.description>
+  <BookOfInnerFire.comps.0.useLabel>TM_Read</BookOfInnerFire.comps.0.useLabel>
   <BookOfInnerFire.label>Arcane Tome: Fire</BookOfInnerFire.label>
   <BookOfInnerFire.description>Teaches a gifted pawn how to harness elements of fire.</BookOfInnerFire.description>
-  <BookOfHeartOfFrost.comps.0.useLabel>Read</BookOfHeartOfFrost.comps.0.useLabel>
+  <BookOfHeartOfFrost.comps.0.useLabel>TM_Read</BookOfHeartOfFrost.comps.0.useLabel>
   <BookOfHeartOfFrost.label>Arcane Tome: Ice</BookOfHeartOfFrost.label>
   <BookOfHeartOfFrost.description>Teaches a gifted pawn how to harness elemental ice and water.</BookOfHeartOfFrost.description>
-  <BookOfStormBorn.comps.0.useLabel>Read</BookOfStormBorn.comps.0.useLabel>
+  <BookOfStormBorn.comps.0.useLabel>TM_Read</BookOfStormBorn.comps.0.useLabel>
   <BookOfStormBorn.label>Arcane Tome: Lightning</BookOfStormBorn.label>
   <BookOfStormBorn.description>Teaches a gifted pawn how to harness elements of lightning.</BookOfStormBorn.description>
-  <BookOfArcanist.comps.0.useLabel>Read</BookOfArcanist.comps.0.useLabel>
+  <BookOfArcanist.comps.0.useLabel>TM_Read</BookOfArcanist.comps.0.useLabel>
   <BookOfArcanist.label>Arcane Tome: Power</BookOfArcanist.label>
   <BookOfArcanist.description>Teaches a gifted pawn how to harness arcane powers.</BookOfArcanist.description>
-  <BookOfValiant.comps.0.useLabel>Read</BookOfValiant.comps.0.useLabel>
+  <BookOfValiant.comps.0.useLabel>TM_Read</BookOfValiant.comps.0.useLabel>
   <BookOfValiant.label>Divine Tome: Paladin</BookOfValiant.label>
   <BookOfValiant.description>Teaches a gifted pawn how to become a Paladin.</BookOfValiant.description>
-  <BookOfSummoner.comps.0.useLabel>Read</BookOfSummoner.comps.0.useLabel>
+  <BookOfSummoner.comps.0.useLabel>TM_Read</BookOfSummoner.comps.0.useLabel>
   <BookOfSummoner.label>Arcane Tome: Summoning</BookOfSummoner.label>
   <BookOfSummoner.description>Teaches a gifted pawn how to become a Summoner.</BookOfSummoner.description>
-  <BookOfDruid.comps.0.useLabel>Read</BookOfDruid.comps.0.useLabel>
+  <BookOfDruid.comps.0.useLabel>TM_Read</BookOfDruid.comps.0.useLabel>
   <BookOfDruid.label>Arcane Tome: Nature</BookOfDruid.label>
   <BookOfDruid.description>Teaches a gifted pawn how to become a Druid.</BookOfDruid.description>
-  <BookOfNecromancer.comps.0.useLabel>Read</BookOfNecromancer.comps.0.useLabel>
+  <BookOfNecromancer.comps.0.useLabel>TM_Read</BookOfNecromancer.comps.0.useLabel>
   <BookOfNecromancer.label>Arcane Tome: Necromancer</BookOfNecromancer.label>
   <BookOfNecromancer.description>Teaches a gifted pawn how to become a Necromancer. *Note: The necromancer may become a lich at a later stage, lichs are incapable of all activity except fighting and research. Many other magic classes dislike necromancers. Choose carefully.</BookOfNecromancer.description>
-  <BookOfPriest.comps.0.useLabel>Read</BookOfPriest.comps.0.useLabel>
+  <BookOfPriest.comps.0.useLabel>TM_Read</BookOfPriest.comps.0.useLabel>
   <BookOfPriest.label>Arcane Tome: Priest</BookOfPriest.label>
   <BookOfPriest.description>Teaches a gifted pawn how to become a Priest. Priests are incapable of violence and these skills will be disabled.</BookOfPriest.description>
-  <BookOfBard.comps.0.useLabel>Read</BookOfBard.comps.0.useLabel>
+  <BookOfBard.comps.0.useLabel>TM_Read</BookOfBard.comps.0.useLabel>
   <BookOfBard.label>Arcane Tome: Bard</BookOfBard.label>
   <BookOfBard.description>Teaches a gifted pawn how to become a Bard. Bards are incapable of dumb labor and this work type will be disabled.</BookOfBard.description>
-  <BookOfDemons.comps.0.useLabel>Read</BookOfDemons.comps.0.useLabel>
+  <BookOfDemons.comps.0.useLabel>TM_Read</BookOfDemons.comps.0.useLabel>
   <BookOfDemons.label>Arcane Tome: Demonology</BookOfDemons.label>
   <BookOfDemons.description>Details the process to enter an agreement with a demon to gain power. This contract binds the patron, in a literal sense, with demonic essence that affects their genetic makeup. This binding affects males and females differently. Demons will only agree to the contract if the user is magically gifted. 
 	
 *Note scribbled at the bottom of the first page* This script is not clear on exactly what the demon gets out of the agreement... use with caution.</BookOfDemons.description>
-  <BookOfEarth.comps.0.useLabel>Read</BookOfEarth.comps.0.useLabel>
+  <BookOfEarth.comps.0.useLabel>TM_Read</BookOfEarth.comps.0.useLabel>
   <BookOfEarth.label>Arcane Tome: Earth</BookOfEarth.label>
   <BookOfEarth.description>Teaches a gifted pawn mastery of the earth, combining and altering physical laws and its elements with the arcane.</BookOfEarth.description>
-  <BookOfMagitech.comps.0.useLabel>Read</BookOfMagitech.comps.0.useLabel>
+  <BookOfMagitech.comps.0.useLabel>TM_Read</BookOfMagitech.comps.0.useLabel>
   <BookOfMagitech.label>Arcane Tome: Technomancy</BookOfMagitech.label>
   <BookOfMagitech.description>Teaches a gifted pawn in the ways of the Technomancer, able to see the connection between science and magic.</BookOfMagitech.description>
-  <BookOfHemomancy.comps.0.useLabel>Read</BookOfHemomancy.comps.0.useLabel>
+  <BookOfHemomancy.comps.0.useLabel>TM_Read</BookOfHemomancy.comps.0.useLabel>
   <BookOfHemomancy.label>Arcane Tome: Hemomancy</BookOfHemomancy.label>
   <BookOfHemomancy.description>Teaches a gifted pawn how to become a hemomancer, or blood mage, and use the power of blood to fuel their magic.</BookOfHemomancy.description>
-  <BookOfEnchanter.comps.0.useLabel>Read</BookOfEnchanter.comps.0.useLabel>
+  <BookOfEnchanter.comps.0.useLabel>TM_Read</BookOfEnchanter.comps.0.useLabel>
   <BookOfEnchanter.label>Arcane Tome: Enchanter</BookOfEnchanter.label>
   <BookOfEnchanter.description>Teaches a gifted pawn how to become an enchanter, able to manipulate matter and material to serve their purpose.</BookOfEnchanter.description>
-  <BookOfChronomancer.comps.0.useLabel>Read</BookOfChronomancer.comps.0.useLabel>
+  <BookOfChronomancer.comps.0.useLabel>TM_Read</BookOfChronomancer.comps.0.useLabel>
   <BookOfChronomancer.label>Arcane Tome: Chronomancer</BookOfChronomancer.label>
   <BookOfChronomancer.description>Teaches a gifted pawn how to become a chronomancer, able to see and manipulate realities across time.</BookOfChronomancer.description>
-  <BookOfChaos.comps.0.useLabel>Read</BookOfChaos.comps.0.useLabel>
+  <BookOfChaos.comps.0.useLabel>TM_Read</BookOfChaos.comps.0.useLabel>
   <BookOfChaos.label>Arcane Tome: Chaos Mage</BookOfChaos.label>
   <BookOfChaos.description>Teaches a gifted pawn how to become a chaos mage - adaptable to any and all classes of magic.</BookOfChaos.description>
-  <BookOfTheSun.comps.0.useLabel>Read</BookOfTheSun.comps.0.useLabel>
+  <BookOfTheSun.comps.0.useLabel>TM_Read</BookOfTheSun.comps.0.useLabel>
   <BookOfTheSun.label>Arcane Tome: Brightmage</BookOfTheSun.label>
   <BookOfTheSun.description>Teaches a gifted pawn how to become a brightmage. Brightmages manipulate the power of sunlight to create intense, destructive magic.</BookOfTheSun.description>
-  <BookOfShamanism.comps.0.useLabel>Read</BookOfShamanism.comps.0.useLabel>
+  <BookOfShamanism.comps.0.useLabel>TM_Read</BookOfShamanism.comps.0.useLabel>
   <BookOfShamanism.label>Arcane Tome: Shaman</BookOfShamanism.label>
   <BookOfShamanism.description>Teaches a gifted pawn how to become a shaman; a tribal leader focused on ritualistic magic to create powerful curses and enchantments, and extends their influence through totems.</BookOfShamanism.description>
-  <BookOfGladiator.comps.0.useLabel>Read</BookOfGladiator.comps.0.useLabel>
+  <BookOfGolemancy.comps.0.useLabel>TM_Read</BookOfGolemancy.comps.0.useLabel>
+  <BookOfGolemancy.label>Arcane Tome: Golemancer</BookOfGolemancy.label>
+  <BookOfGolemancy.description>Teaches a gifted pawn how to become a golemancer; a reclusive mage that channels arcane energy into mundane objects using sigils and runes.</BookOfGolemancy.description>
+  <BookOfGladiator.comps.0.useLabel>TM_Read</BookOfGladiator.comps.0.useLabel>
   <BookOfGladiator.label>Combat Form: Gladiator</BookOfGladiator.label>
   <BookOfGladiator.description>Teaches a physically adept pawn how to train in the Gladiator combat form.</BookOfGladiator.description>
-  <BookOfPsionic.comps.0.useLabel>Read</BookOfPsionic.comps.0.useLabel>
+  <BookOfPsionic.comps.0.useLabel>TM_Read</BookOfPsionic.comps.0.useLabel>
   <BookOfPsionic.label>Combat Power: Psionic</BookOfPsionic.label>
   <BookOfPsionic.description>Teaches a physically adept pawn how to harness psionic power.
 
 *there is a footnote at the bottom of the page etched in charcoal: "seems only those with high psychic sensitivity can learn to manipulate psionic energy... either that or find a way to jump start psychic activity"</BookOfPsionic.description>
-  <BookOfFaceless.comps.0.useLabel>Read</BookOfFaceless.comps.0.useLabel>
+  <BookOfFaceless.comps.0.useLabel>TM_Read</BookOfFaceless.comps.0.useLabel>
   <BookOfFaceless.label>Combat Form: Faceless</BookOfFaceless.label>
   <BookOfFaceless.description>Teaches a physically adept pawn how to adapt their form and fighting style to any situation.</BookOfFaceless.description>
-  <BookOfSniper.comps.0.useLabel>Read</BookOfSniper.comps.0.useLabel>
+  <BookOfSniper.comps.0.useLabel>TM_Read</BookOfSniper.comps.0.useLabel>
   <BookOfSniper.label>Combat Style: Sniper</BookOfSniper.label>
   <BookOfSniper.description>Teaches a physically adept pawn how to train as a sniper.</BookOfSniper.description>
-  <BookOfBladedancer.comps.0.useLabel>Read</BookOfBladedancer.comps.0.useLabel>
+  <BookOfBladedancer.comps.0.useLabel>TM_Read</BookOfBladedancer.comps.0.useLabel>
   <BookOfBladedancer.label>Combat Style: Bladedancer</BookOfBladedancer.label>
   <BookOfBladedancer.description>Teaches a physically adept pawn how to train as a Bladedancer</BookOfBladedancer.description>
-  <BookOfRanger.comps.0.useLabel>Read</BookOfRanger.comps.0.useLabel>
+  <BookOfRanger.comps.0.useLabel>TM_Read</BookOfRanger.comps.0.useLabel>
   <BookOfRanger.label>Combat Style: Ranger</BookOfRanger.label>
   <BookOfRanger.description>Teaches a physically adept pawn how to train as a Ranger</BookOfRanger.description>
-  <BookOfDeathKnight.comps.0.useLabel>Read</BookOfDeathKnight.comps.0.useLabel>
+  <BookOfDeathKnight.comps.0.useLabel>TM_Read</BookOfDeathKnight.comps.0.useLabel>
   <BookOfDeathKnight.label>Combat Style: Death Knight</BookOfDeathKnight.label>
   <BookOfDeathKnight.description>Teaches a physically adept pawn to embrace the inevitable and become a death knight.</BookOfDeathKnight.description>
-  <BookOfMonk.comps.0.useLabel>Read</BookOfMonk.comps.0.useLabel>
+  <BookOfMonk.comps.0.useLabel>TM_Read</BookOfMonk.comps.0.useLabel>
   <BookOfMonk.label>Combat Style: Monk</BookOfMonk.label>
   <BookOfMonk.description>Teaches a physically adept pawn to hone their mind and body into a lethal weapon.</BookOfMonk.description>
-  <BookOfCommander.comps.0.useLabel>Read</BookOfCommander.comps.0.useLabel>
+  <BookOfCommander.comps.0.useLabel>TM_Read</BookOfCommander.comps.0.useLabel>
   <BookOfCommander.label>Combat Style: Commander</BookOfCommander.label>
   <BookOfCommander.description>Teaches a physically adept pawn how to become a charismatic leader.</BookOfCommander.description>
-  <BookOfSuperSoldier.comps.0.useLabel>Inject</BookOfSuperSoldier.comps.0.useLabel>
+  <BookOfSuperSoldier.comps.0.useLabel>TM_Inject</BookOfSuperSoldier.comps.0.useLabel>
   <BookOfSuperSoldier.label>Serum: Super Soldier</BookOfSuperSoldier.label>
   <BookOfSuperSoldier.description>Inject a pawn with a serum that enhances their physical abilities. Incapacitates a pawn for a couple days while the serum takes affect and develops over several stages. The serum takes about 100 days to fully develop. Any pawn may take SS Serum, but only physically adept pawns may acquire the Super Soldier trait. This serum will reduce magical potency and potential.</BookOfSuperSoldier.description>
-  <BookOfShadow.comps.0.useLabel>Read</BookOfShadow.comps.0.useLabel>
+  <BookOfShadow.comps.0.useLabel>TM_Read</BookOfShadow.comps.0.useLabel>
   <BookOfShadow.label>Arcane Tome: Shadow</BookOfShadow.label>
   <BookOfShadow.description>In the dead of night, fear reveals itself in the blade's reflection - the shadow awakens.</BookOfShadow.description>
-  <SpellOf_ArcaneBolt.comps.0.useLabel>Read</SpellOf_ArcaneBolt.comps.0.useLabel>
+  <BookOfApothecary.comps.0.useLabel>TM_Read</BookOfApothecary.comps.0.useLabel>
+  <BookOfApothecary.label>Combat Style: Apothecary</BookOfApothecary.label>
+  <BookOfApothecary.description>Teaches a physically adept pawn how to become an apothecary.</BookOfApothecary.description>
+  <SpellOf_ArcaneBolt.comps.0.useLabel>TM_Learn</SpellOf_ArcaneBolt.comps.0.useLabel>
   <SpellOf_ArcaneBolt.label>Mage Spell: Arcane Bolt</SpellOf_ArcaneBolt.label>
   <SpellOf_ArcaneBolt.description>Teaches a magic user how to forcefully project arcane energy.</SpellOf_ArcaneBolt.description>
-  <SpellOf_Blink.comps.0.useLabel>Read</SpellOf_Blink.comps.0.useLabel>
+  <SpellOf_Blink.comps.0.useLabel>TM_Learn</SpellOf_Blink.comps.0.useLabel>
   <SpellOf_Blink.label>Mage Spell: Blink</SpellOf_Blink.label>
   <SpellOf_Blink.description>Teaches a magic user how arcane forces are interconnected, allowing the mage to rapidly move short distances.</SpellOf_Blink.description>
-  <SpellOf_Blur.comps.0.useLabel>Read</SpellOf_Blur.comps.0.useLabel>
+  <SpellOf_Blur.comps.0.useLabel>TM_Learn</SpellOf_Blur.comps.0.useLabel>
   <SpellOf_Blur.label>Mage Spell: Blur</SpellOf_Blur.label>
   <SpellOf_Blur.description>Teaches a magic user how to distort the light around their body.</SpellOf_Blur.description>
-  <SpellOf_Cooler.comps.0.useLabel>Read</SpellOf_Cooler.comps.0.useLabel>
+  <SpellOf_Cooler.comps.0.useLabel>TM_Learn</SpellOf_Cooler.comps.0.useLabel>
   <SpellOf_Cooler.label>Mage Spell: Magic Cooler</SpellOf_Cooler.label>
   <SpellOf_Cooler.description>Teaches an arcane user how to create a temporary window into the plane of ice, creating a temporary cooling source.</SpellOf_Cooler.description>
-  <SpellOf_DirtDevil.comps.0.useLabel>Read</SpellOf_DirtDevil.comps.0.useLabel>
+  <SpellOf_DirtDevil.comps.0.useLabel>TM_Learn</SpellOf_DirtDevil.comps.0.useLabel>
   <SpellOf_DirtDevil.label>Mage Spell: Dirt Devil</SpellOf_DirtDevil.label>
   <SpellOf_DirtDevil.description>Teaches a magic user how to create a whirlwind that seeks out and cleans filth inside the home area.</SpellOf_DirtDevil.description>
-  <SpellOf_EMP.comps.0.useLabel>Read</SpellOf_EMP.comps.0.useLabel>
+  <SpellOf_EMP.comps.0.useLabel>TM_Learn</SpellOf_EMP.comps.0.useLabel>
   <SpellOf_EMP.label>Mage Spell: EMP</SpellOf_EMP.label>
   <SpellOf_EMP.description>Teaches a magic user how to generate an EMP burst at a target location.</SpellOf_EMP.description>
-  <SpellOf_Extinguish.comps.0.useLabel>Read</SpellOf_Extinguish.comps.0.useLabel>
+  <SpellOf_Extinguish.comps.0.useLabel>TM_Learn</SpellOf_Extinguish.comps.0.useLabel>
   <SpellOf_Extinguish.label>Mage Spell: Extinguish</SpellOf_Extinguish.label>
   <SpellOf_Extinguish.description>Teaches a magic user how to remove the element of fire at a target location, dispersing fires.</SpellOf_Extinguish.description>
-  <SpellOf_Heal.comps.0.useLabel>Read</SpellOf_Heal.comps.0.useLabel>
+  <SpellOf_Heal.comps.0.useLabel>TM_Learn</SpellOf_Heal.comps.0.useLabel>
   <SpellOf_Heal.label>Mage Spell: Heal</SpellOf_Heal.label>
   <SpellOf_Heal.description>Teaches a magic user how to delicately manipulate arcane forces to heal injuries.</SpellOf_Heal.description>
-  <SpellOf_Heater.comps.0.useLabel>Read</SpellOf_Heater.comps.0.useLabel>
+  <SpellOf_HeatShield.comps.0.useLabel>TM_Learn</SpellOf_HeatShield.comps.0.useLabel>
+  <SpellOf_HeatShield.label>Fire Spell: Heat Shield</SpellOf_HeatShield.label>
+  <SpellOf_HeatShield.description>Teaches a fire mage how to create a protective barrier against heat and fire.</SpellOf_HeatShield.description>
+  <SpellOf_Heater.comps.0.useLabel>TM_Learn</SpellOf_Heater.comps.0.useLabel>
   <SpellOf_Heater.label>Mage Spell: Magic Heater</SpellOf_Heater.label>
   <SpellOf_Heater.description>Teaches a magic user how to create a temporary window into the plane of fire, creating a temporary heat source.</SpellOf_Heater.description>
-  <SpellOf_Ignite.comps.0.useLabel>Read</SpellOf_Ignite.comps.0.useLabel>
+  <SpellOf_Ignite.comps.0.useLabel>TM_Learn</SpellOf_Ignite.comps.0.useLabel>
   <SpellOf_Ignite.label>Mage Spell: Ignite</SpellOf_Ignite.label>
   <SpellOf_Ignite.description>Teaches a magic user how to concentrate heat at a target location.</SpellOf_Ignite.description>
-  <SpellOf_MageLight.comps.0.useLabel>Read</SpellOf_MageLight.comps.0.useLabel>
+  <SpellOf_MageLight.comps.0.useLabel>TM_Learn</SpellOf_MageLight.comps.0.useLabel>
   <SpellOf_MageLight.label>Mage Spell: Mage Light</SpellOf_MageLight.label>
   <SpellOf_MageLight.description>Teaches a magic user how to create a small orb of light.</SpellOf_MageLight.description>
-  <SpellOf_PowerNode.comps.0.useLabel>Read</SpellOf_PowerNode.comps.0.useLabel>
+  <SpellOf_PowerNode.comps.0.useLabel>TM_Learn</SpellOf_PowerNode.comps.0.useLabel>
   <SpellOf_PowerNode.label>Mage Spell: Power Node</SpellOf_PowerNode.label>
   <SpellOf_PowerNode.description>Teaches a magic user how to create a contained power node that converts arcane energy into electrical power. Place next to existing power grid. Supplies 600 power.</SpellOf_PowerNode.description>
-  <SpellOf_Rain.comps.0.useLabel>Read</SpellOf_Rain.comps.0.useLabel>
+  <SpellOf_Rain.comps.0.useLabel>TM_Learn</SpellOf_Rain.comps.0.useLabel>
   <SpellOf_Rain.label>Mage Spell: Rain</SpellOf_Rain.label>
   <SpellOf_Rain.description>Teaches a magic user how to harness energy in the atmosphere to induce a brief rain.</SpellOf_Rain.description>
-  <SpellOf_SnapFreeze.comps.0.useLabel>Read</SpellOf_SnapFreeze.comps.0.useLabel>
+  <SpellOf_SnapFreeze.comps.0.useLabel>TM_Learn</SpellOf_SnapFreeze.comps.0.useLabel>
   <SpellOf_SnapFreeze.label>Mage Spell: Snap Freeze</SpellOf_SnapFreeze.label>
   <SpellOf_SnapFreeze.description>Teaches a magic user how to remove all heat at a target location.</SpellOf_SnapFreeze.description>
-  <SpellOf_SmokeCloud.comps.0.useLabel>Read</SpellOf_SmokeCloud.comps.0.useLabel>
+  <SpellOf_SmokeCloud.comps.0.useLabel>TM_Learn</SpellOf_SmokeCloud.comps.0.useLabel>
   <SpellOf_SmokeCloud.label>Mage Spell: Smoke Cloud</SpellOf_SmokeCloud.label>
   <SpellOf_SmokeCloud.description>Teaches a magic user how to ignite particles in the air to create a smokescreen, temporarily concealing a target area.</SpellOf_SmokeCloud.description>
-  <SpellOf_Sunlight.comps.0.useLabel>Read</SpellOf_Sunlight.comps.0.useLabel>
+  <SpellOf_Sunlight.comps.0.useLabel>TM_Learn</SpellOf_Sunlight.comps.0.useLabel>
   <SpellOf_Sunlight.label>Mage Spell: Sun Light</SpellOf_Sunlight.label>
   <SpellOf_Sunlight.description>Teaches a magic user how to create a dimensional pocket that emits a steady stream of sunlight strong enough to grow plants. Sun Light must be sustained by the mage that creates it and will reduce maximum mana and mana regeneration rate.</SpellOf_Sunlight.description>
-  <SpellOf_ChargeBattery.comps.0.useLabel>Read</SpellOf_ChargeBattery.comps.0.useLabel>
+  <SpellOf_BrandSiphon.comps.0.useLabel>TM_Learn</SpellOf_BrandSiphon.comps.0.useLabel>
+  <SpellOf_BrandSiphon.label>Golemancer Spell: Siphon Brand</SpellOf_BrandSiphon.label>
+  <SpellOf_BrandSiphon.description>Teaches a golemancer the sigil to create a siphoning brand.</SpellOf_BrandSiphon.description>
+  <SpellOf_BrandFitness.comps.0.useLabel>TM_Learn</SpellOf_BrandFitness.comps.0.useLabel>
+  <SpellOf_BrandFitness.label>Golemancer Spell: Fitness Brand</SpellOf_BrandFitness.label>
+  <SpellOf_BrandFitness.description>Teaches a golemancer the sigil to create a fitness brand.</SpellOf_BrandFitness.description>
+  <SpellOf_BrandEmotion.comps.0.useLabel>TM_Learn</SpellOf_BrandEmotion.comps.0.useLabel>
+  <SpellOf_BrandEmotion.label>Golemancer Spell: Emotion Brand</SpellOf_BrandEmotion.label>
+  <SpellOf_BrandEmotion.description>Teaches a golemancer the sigil to create an emotion brand.</SpellOf_BrandEmotion.description>
+  <SpellOf_BrandVitality.comps.0.useLabel>TM_Learn</SpellOf_BrandVitality.comps.0.useLabel>
+  <SpellOf_BrandVitality.label>Golemancer Spell: Vitality Brand</SpellOf_BrandVitality.label>
+  <SpellOf_BrandVitality.description>Teaches a golemancer the sigil to create a vitality brand.</SpellOf_BrandVitality.description>
+  <SpellOf_BrandProtection.comps.0.useLabel>TM_Learn</SpellOf_BrandProtection.comps.0.useLabel>
+  <SpellOf_BrandProtection.label>Golemancer Spell: Protection Brand</SpellOf_BrandProtection.label>
+  <SpellOf_BrandProtection.description>Teaches a golemancer the sigil to create a protection brand.</SpellOf_BrandProtection.description>
+  <SpellOf_BrandAwareness.comps.0.useLabel>TM_Learn</SpellOf_BrandAwareness.comps.0.useLabel>
+  <SpellOf_BrandAwareness.label>Golemancer Spell: Awareness Brand</SpellOf_BrandAwareness.label>
+  <SpellOf_BrandAwareness.description>Teaches a golemancer the sigil to create an awareness brand.</SpellOf_BrandAwareness.description>
+  <SpellOf_ChargeBattery.comps.0.useLabel>TM_Learn</SpellOf_ChargeBattery.comps.0.useLabel>
   <SpellOf_ChargeBattery.label>Lightning Spell: Charge Battery</SpellOf_ChargeBattery.label>
   <SpellOf_ChargeBattery.description>Teaches a lightning mage how to charge a battery by infusing it with magical energy.
 Produces 400Wd adjusted by ability power.</SpellOf_ChargeBattery.description>
-  <SpellOf_CauterizeWound.comps.0.useLabel>Read</SpellOf_CauterizeWound.comps.0.useLabel>
+  <SpellOf_CauterizeWound.comps.0.useLabel>TM_Learn</SpellOf_CauterizeWound.comps.0.useLabel>
   <SpellOf_CauterizeWound.label>Fire Spell: Cauterize Wound</SpellOf_CauterizeWound.label>
   <SpellOf_CauterizeWound.description>Teaches a fire mage how to use elemental fire to instantly clean and close wounds - may leave burn scars.</SpellOf_CauterizeWound.description>
-  <SpellOf_Discord.comps.0.useLabel>Read</SpellOf_Discord.comps.0.useLabel>
+  <SpellOf_ConsumeCorpse_Mass.comps.0.useLabel>TM_Learn</SpellOf_ConsumeCorpse_Mass.comps.0.useLabel>
+  <SpellOf_ConsumeCorpse_Mass.label>Necromancer Spell: Mass Consume Corpse</SpellOf_ConsumeCorpse_Mass.label>
+  <SpellOf_ConsumeCorpse_Mass.description>Teaches a necromancer how to expand consume corpse to target multiple corpses within an area.</SpellOf_ConsumeCorpse_Mass.description>
+  <SpellOf_Discord.comps.0.useLabel>TM_Learn</SpellOf_Discord.comps.0.useLabel>
   <SpellOf_Discord.label>Bard Spell: Discord</SpellOf_Discord.label>
   <SpellOf_Discord.description>Teaches a bard how to distort the mental harmony of a target pawn.</SpellOf_Discord.description>
-  <SpellOf_DryGround.comps.0.useLabel>Read</SpellOf_DryGround.comps.0.useLabel>
+  <SpellOf_DryGround.comps.0.useLabel>TM_Learn</SpellOf_DryGround.comps.0.useLabel>
   <SpellOf_DryGround.label>Fire Spell: Dry Ground</SpellOf_DryGround.label>
   <SpellOf_DryGround.description>Teaches a fire mage how to infuse the earth with heat, evaporating most of the water from a small patch of earth.</SpellOf_DryGround.description>
-  <SpellOf_WetGround.comps.0.useLabel>Read</SpellOf_WetGround.comps.0.useLabel>
+  <SpellOf_WetGround.comps.0.useLabel>TM_Learn</SpellOf_WetGround.comps.0.useLabel>
   <SpellOf_WetGround.label>Ice Spell: Moisturize Ground</SpellOf_WetGround.label>
   <SpellOf_WetGround.description>Teaches an ice mage how to infuse the earth with moisture and nutrients, transforming sand into usable soil.</SpellOf_WetGround.description>
-  <SpellOf_Invisibility.comps.0.useLabel>Read</SpellOf_Invisibility.comps.0.useLabel>
+  <SpellOf_MagicWardrobe.comps.0.useLabel>TM_Learn</SpellOf_MagicWardrobe.comps.0.useLabel>
+  <SpellOf_MagicWardrobe.label>Mage Spell: Magic Wardrobe</SpellOf_MagicWardrobe.label>
+  <SpellOf_MagicWardrobe.description>Teaches a magic user how to create a dimensional pocket to store a reserve set of equipment.</SpellOf_MagicWardrobe.description>
+  <SpellOf_Invisibility.comps.0.useLabel>TM_Learn</SpellOf_Invisibility.comps.0.useLabel>
   <SpellOf_Invisibility.label>Mage Spell: Invisibility</SpellOf_Invisibility.label>
   <SpellOf_Invisibility.description>Teaches a magic user how to manipulate light and become invisible.</SpellOf_Invisibility.description>
-  <SpellOf_LightningTrap.comps.0.useLabel>Read</SpellOf_LightningTrap.comps.0.useLabel>
+  <SpellOf_LightningTrap.comps.0.useLabel>TM_Learn</SpellOf_LightningTrap.comps.0.useLabel>
   <SpellOf_LightningTrap.label>Mage Spell: Lightning Trap</SpellOf_LightningTrap.label>
   <SpellOf_LightningTrap.description>Teaches a magic user how to create a trap that discharges bolts of lightning.</SpellOf_LightningTrap.description>
-  <SpellOf_ManaShield.comps.0.useLabel>Read</SpellOf_ManaShield.comps.0.useLabel>
+  <SpellOf_ManaShield.comps.0.useLabel>TM_Learn</SpellOf_ManaShield.comps.0.useLabel>
   <SpellOf_ManaShield.label>Mage Spell: Mana Shield</SpellOf_ManaShield.label>
   <SpellOf_ManaShield.description>Teaches a magic user how to form a protective mana barrier to prevent physical harm.</SpellOf_ManaShield.description>
-  <SpellOf_ShieldOther.comps.0.useLabel>Read</SpellOf_ShieldOther.comps.0.useLabel>
+  <SpellOf_ShieldOther.comps.0.useLabel>TM_Learn</SpellOf_ShieldOther.comps.0.useLabel>
   <SpellOf_ShieldOther.label>Holy Caster Spell: Shield Other</SpellOf_ShieldOther.label>
   <SpellOf_ShieldOther.description>Teaches a holy caster (paladin, priest, etc) how to shield another from damage.</SpellOf_ShieldOther.description>
-  <SpellOf_SpellMending.comps.0.useLabel>Read</SpellOf_SpellMending.comps.0.useLabel>
+  <SpellOf_SpellMending.comps.0.useLabel>TM_Learn</SpellOf_SpellMending.comps.0.useLabel>
   <SpellOf_SpellMending.label>Mage Spell: Spell Mending</SpellOf_SpellMending.label>
   <SpellOf_SpellMending.description>Teaches a magic user how to reconstruct and repair worn equipment on a pawn.</SpellOf_SpellMending.description>
-  <SpellOf_SiphonMana.comps.0.useLabel>Read</SpellOf_SiphonMana.comps.0.useLabel>
+  <SpellOf_SiphonMana.comps.0.useLabel>TM_Learn</SpellOf_SiphonMana.comps.0.useLabel>
   <SpellOf_SiphonMana.label>Mage Spell: Siphon Mana</SpellOf_SiphonMana.label>
   <SpellOf_SiphonMana.description>Teaches a magic user how to siphon mana from another mage.  If used on a being that does not possess mana, their physical traits will be drained instead (no mana will be gained).  Effect is potentially lethal in extreme cases.</SpellOf_SiphonMana.description>
-  <SpellOf_SummonMinion.comps.0.useLabel>Read</SpellOf_SummonMinion.comps.0.useLabel>
+  <SpellOf_SummonMinion.comps.0.useLabel>TM_Learn</SpellOf_SummonMinion.comps.0.useLabel>
   <SpellOf_SummonMinion.label>Mage Spell: Summon Minion</SpellOf_SummonMinion.label>
   <SpellOf_SummonMinion.description>Teaches a magic user how to summon an otherworldly minion to assist in basic tasks.</SpellOf_SummonMinion.description>
-  <SpellOf_Teleport.comps.0.useLabel>Read</SpellOf_Teleport.comps.0.useLabel>
+  <SpellOf_Teleport.comps.0.useLabel>TM_Learn</SpellOf_Teleport.comps.0.useLabel>
   <SpellOf_Teleport.label>Mage Spell: Teleport</SpellOf_Teleport.label>
   <SpellOf_Teleport.description>Teaches a magic user how to manipulate energy using arcane dimensions, allowing the mage to create a portal for rapid transport.</SpellOf_Teleport.description>
-  <SpellOf_TransferMana.comps.0.useLabel>Read</SpellOf_TransferMana.comps.0.useLabel>
+  <SpellOf_TransferMana.comps.0.useLabel>TM_Learn</SpellOf_TransferMana.comps.0.useLabel>
   <SpellOf_TransferMana.label>Mage Spell: Transfer Mana</SpellOf_TransferMana.label>
   <SpellOf_TransferMana.description>Teaches a magic user how to transfer mana to another mage.  If raw mana is infused into a non-mage recepient, their physical traits will be temporarily augmented.</SpellOf_TransferMana.description>
-  <SpellOf_BlankMind.comps.0.useLabel>Read</SpellOf_BlankMind.comps.0.useLabel>
+  <SpellOf_FadeEmotions.comps.0.useLabel>TM_Learn</SpellOf_FadeEmotions.comps.0.useLabel>
+  <SpellOf_FadeEmotions.label>Empath Ability: Fade Emotions</SpellOf_FadeEmotions.label>
+  <SpellOf_FadeEmotions.description>This scroll describes how an empath can use their abilities to focus the emotions of a negative memory so that the target pawn can let go of the emotions and move on.</SpellOf_FadeEmotions.description>
+  <SpellOf_BlankMind.comps.0.useLabel>TM_Learn</SpellOf_BlankMind.comps.0.useLabel>
   <SpellOf_BlankMind.label>Enchanter Spell: Blank Mind</SpellOf_BlankMind.label>
   <SpellOf_BlankMind.description>Teaches an enchanter how to wipe memories and break a pawn out of a mental state or cause a long duration stun on enemies.</SpellOf_BlankMind.description>
-  <SpellOf_BriarPatch.comps.0.useLabel>Read</SpellOf_BriarPatch.comps.0.useLabel>
+  <SpellOf_BriarPatch.comps.0.useLabel>TM_Learn</SpellOf_BriarPatch.comps.0.useLabel>
   <SpellOf_BriarPatch.label>Druid Spell: Briar Patch</SpellOf_BriarPatch.label>
   <SpellOf_BriarPatch.description>Teaches a Druid how to rapidly grow a hazard made of thorny vines.</SpellOf_BriarPatch.description>
-  <SpellOf_FertileLands.comps.0.useLabel>Read</SpellOf_FertileLands.comps.0.useLabel>
+  <SpellOf_FertileLands.comps.0.useLabel>TM_Learn</SpellOf_FertileLands.comps.0.useLabel>
   <SpellOf_FertileLands.label>Druid Spell: Fertile Lands</SpellOf_FertileLands.label>
   <SpellOf_FertileLands.description>Teaches a druid how to bless an area of land with fertile growth.</SpellOf_FertileLands.description>
-  <SpellOf_MechaniteReprogramming.comps.0.useLabel>Read</SpellOf_MechaniteReprogramming.comps.0.useLabel>
+  <SpellOf_AlterStorm.comps.0.useLabel>TM_Learn</SpellOf_AlterStorm.comps.0.useLabel>
+  <SpellOf_AlterStorm.label>Ice Spell: Alter Storm</SpellOf_AlterStorm.label>
+  <SpellOf_AlterStorm.description>Teaches an Ice mage how to alter the conditions of a storm to produce various effects.</SpellOf_AlterStorm.description>
+  <SpellOf_MechaniteReprogramming.comps.0.useLabel>TM_Learn</SpellOf_MechaniteReprogramming.comps.0.useLabel>
   <SpellOf_MechaniteReprogramming.label>Technomancer Spell: Mechanite Reprogramming</SpellOf_MechaniteReprogramming.label>
   <SpellOf_MechaniteReprogramming.description>Teaches a technomancer how to reprogramming fibrous or sensory mechanites in a way that enhances the attributes of the host.</SpellOf_MechaniteReprogramming.description>
-  <SpellOf_Overdrive.comps.0.useLabel>Read</SpellOf_Overdrive.comps.0.useLabel>
+  <SpellOf_Overdrive.comps.0.useLabel>TM_Learn</SpellOf_Overdrive.comps.0.useLabel>
   <SpellOf_Overdrive.label>Technomancer Spell: Overdrive</SpellOf_Overdrive.label>
   <SpellOf_Overdrive.description>Teaches a technomancer user how to over-clock or bypass security features of mechanical, electrical, and robotic devices causing it to perform at a drastically increased rate for a short period.</SpellOf_Overdrive.description>
-  <SpellOf_Sabotage.comps.0.useLabel>Read</SpellOf_Sabotage.comps.0.useLabel>
+  <SpellOf_Sabotage.comps.0.useLabel>TM_Learn</SpellOf_Sabotage.comps.0.useLabel>
   <SpellOf_Sabotage.label>Technomancer Spell: Sabotage</SpellOf_Sabotage.label>
   <SpellOf_Sabotage.description>Teaches a technomancer user how to create a feedback loop in almost any mechanic system, causing it to catastrophically malfunction.</SpellOf_Sabotage.description>
-  <SpellOf_TechnoShield.comps.0.useLabel>Read</SpellOf_TechnoShield.comps.0.useLabel>
+  <SpellOf_TechnoShield.comps.0.useLabel>TM_Learn</SpellOf_TechnoShield.comps.0.useLabel>
   <SpellOf_TechnoShield.label>Technomancer Spell: Kinetic Shield</SpellOf_TechnoShield.label>
   <SpellOf_TechnoShield.description>Teaches a technomancer user how to create a uni-directional force field around a target, capable of repelling inbound projectiles or increasing the velocity of outbound projectiles.</SpellOf_TechnoShield.description>
-  <SpellOf_BattleHymn.comps.0.useLabel>Read</SpellOf_BattleHymn.comps.0.useLabel>
+  <SpellOf_BattleHymn.comps.0.useLabel>TM_Learn</SpellOf_BattleHymn.comps.0.useLabel>
   <SpellOf_BattleHymn.label>Bard Spell: Battle Hymn</SpellOf_BattleHymn.label>
   <SpellOf_BattleHymn.description>Teaches a bard how to perform Battle Hymn.</SpellOf_BattleHymn.description>
-  <SpellOf_Blizzard.comps.0.useLabel>Read</SpellOf_Blizzard.comps.0.useLabel>
+  <SpellOf_Blizzard.comps.0.useLabel>TM_Learn</SpellOf_Blizzard.comps.0.useLabel>
   <SpellOf_Blizzard.label>Ice Spell: Blizzard</SpellOf_Blizzard.label>
   <SpellOf_Blizzard.description>Teaches an ice mage how to call forth a blizzard to bury your foes in a hail of ice and snow.</SpellOf_Blizzard.description>
-  <SpellOf_BloodMoon.comps.0.useLabel>Read</SpellOf_BloodMoon.comps.0.useLabel>
+  <SpellOf_BloodMoon.comps.0.useLabel>TM_Learn</SpellOf_BloodMoon.comps.0.useLabel>
   <SpellOf_BloodMoon.label>Blood Mage Spell: Blood Moon</SpellOf_BloodMoon.label>
   <SpellOf_BloodMoon.description>Teaches a blood mage how to summon a vicious pack of blood demons.</SpellOf_BloodMoon.description>
-  <SpellOf_EyeOfTheStorm.comps.0.useLabel>Read</SpellOf_EyeOfTheStorm.comps.0.useLabel>
+  <SpellOf_EyeOfTheStorm.comps.0.useLabel>TM_Learn</SpellOf_EyeOfTheStorm.comps.0.useLabel>
   <SpellOf_EyeOfTheStorm.label>Lightning Spell: Eye of the Storm</SpellOf_EyeOfTheStorm.label>
   <SpellOf_EyeOfTheStorm.description>Teaches a lightning mage how to contain the raw fury of a lightning storm into a small sphere and project it along a set path.</SpellOf_EyeOfTheStorm.description>
-  <SpellOf_Firestorm.comps.0.useLabel>Read</SpellOf_Firestorm.comps.0.useLabel>
+  <SpellOf_Firestorm.comps.0.useLabel>TM_Learn</SpellOf_Firestorm.comps.0.useLabel>
   <SpellOf_Firestorm.label>Fire Spell: Firestorm</SpellOf_Firestorm.label>
   <SpellOf_Firestorm.description>Teaches a fire mage how to wield the full fury of the fire element to scorch the earth with a firestorm.</SpellOf_Firestorm.description>
-  <SpellOf_FoldReality.comps.0.useLabel>Read</SpellOf_FoldReality.comps.0.useLabel>
+  <SpellOf_FoldReality.comps.0.useLabel>TM_Learn</SpellOf_FoldReality.comps.0.useLabel>
   <SpellOf_FoldReality.label>Arcane Spell: Gateway</SpellOf_FoldReality.label>
   <SpellOf_FoldReality.description>Teaches an arcane mage how to fold reality in order to open a temporary window between colonies.</SpellOf_FoldReality.description>
-  <SpellOf_GuardianSpirit.comps.0.useLabel>Read</SpellOf_GuardianSpirit.comps.0.useLabel>
+  <SpellOf_GuardianSpirit.comps.0.useLabel>TM_Learn</SpellOf_GuardianSpirit.comps.0.useLabel>
   <SpellOf_GuardianSpirit.label>Shaman Spell: Guardian Spirit</SpellOf_GuardianSpirit.label>
   <SpellOf_GuardianSpirit.description>Teaches a shaman how to call forth their guardian spirit.</SpellOf_GuardianSpirit.description>
-  <SpellOf_HolyWrath.comps.0.useLabel>Read</SpellOf_HolyWrath.comps.0.useLabel>
+  <SpellOf_HolyWrath.comps.0.useLabel>TM_Learn</SpellOf_HolyWrath.comps.0.useLabel>
   <SpellOf_HolyWrath.label>Paladin Spell: Holy Wrath</SpellOf_HolyWrath.label>
   <SpellOf_HolyWrath.description>Teaches a paladin how to call forth the wrath of the gods.</SpellOf_HolyWrath.description>
-  <SpellOf_LichForm.comps.0.useLabel>Read</SpellOf_LichForm.comps.0.useLabel>
+  <SpellOf_LichForm.comps.0.useLabel>TM_Learn</SpellOf_LichForm.comps.0.useLabel>
   <SpellOf_LichForm.label>Necromancer Spell: Lich Form</SpellOf_LichForm.label>
   <SpellOf_LichForm.description>Teaches a necromancer how to transform into a lich.</SpellOf_LichForm.description>
-  <SpellOf_Meteor.comps.0.useLabel>Read</SpellOf_Meteor.comps.0.useLabel>
+  <SpellOf_LivingWall.comps.0.useLabel>TM_Learn</SpellOf_LivingWall.comps.0.useLabel>
+  <SpellOf_LivingWall.label>Golemancer Spell: Living Wall</SpellOf_LivingWall.label>
+  <SpellOf_LivingWall.description>Teaches a golemancer how to give a wall a will of its own.</SpellOf_LivingWall.description>
+  <SpellOf_Meteor.comps.0.useLabel>TM_Learn</SpellOf_Meteor.comps.0.useLabel>
   <SpellOf_Meteor.label>Geomancer Spell: Meteor</SpellOf_Meteor.label>
   <SpellOf_Meteor.description>Teaches a geomancer how to summon a massive meteor to bury an area in rock and debris.</SpellOf_Meteor.description>
-  <SpellOf_OrbitalStrike.comps.0.useLabel>Read</SpellOf_OrbitalStrike.comps.0.useLabel>
+  <SpellOf_OrbitalStrike.comps.0.useLabel>TM_Learn</SpellOf_OrbitalStrike.comps.0.useLabel>
   <SpellOf_OrbitalStrike.label>Technomancer Spell: Orbital Strike</SpellOf_OrbitalStrike.label>
   <SpellOf_OrbitalStrike.description>Teaches a technomancer how to access ancient satellites and orbital systems and use them to launch an orbital strike.</SpellOf_OrbitalStrike.description>
-  <SpellOf_PsychicShock.comps.0.useLabel>Read</SpellOf_PsychicShock.comps.0.useLabel>
+  <SpellOf_PsychicShock.comps.0.useLabel>TM_Learn</SpellOf_PsychicShock.comps.0.useLabel>
   <SpellOf_PsychicShock.label>Warlock Spell: Psychic Shock</SpellOf_PsychicShock.label>
   <SpellOf_PsychicShock.description>Teaches a Warlock how to use his psychic powers to emit powerful psychic shock that overwhelms and reverberates from nearby pawn.</SpellOf_PsychicShock.description>
-  <SpellOf_Recall.comps.0.useLabel>Read</SpellOf_Recall.comps.0.useLabel>
+  <SpellOf_Recall.comps.0.useLabel>TM_Learn</SpellOf_Recall.comps.0.useLabel>
   <SpellOf_Recall.label>Chronomancer Spell: Recall</SpellOf_Recall.label>
   <SpellOf_Recall.description>Teaches a chronomancer how to recall their physical being to a past condition.</SpellOf_Recall.description>
-  <SpellOf_RegrowLimb.comps.0.useLabel>Read</SpellOf_RegrowLimb.comps.0.useLabel>
+  <SpellOf_RegrowLimb.comps.0.useLabel>TM_Learn</SpellOf_RegrowLimb.comps.0.useLabel>
   <SpellOf_RegrowLimb.label>Druid Spell: Regrow Limb</SpellOf_RegrowLimb.label>
   <SpellOf_RegrowLimb.description>Teaches a druid how to regrow limbs by combining nature, arcane powers, and medical science.</SpellOf_RegrowLimb.description>
-  <SpellOf_Resurrection.comps.0.useLabel>Read</SpellOf_Resurrection.comps.0.useLabel>
+  <SpellOf_Resurrection.comps.0.useLabel>TM_Learn</SpellOf_Resurrection.comps.0.useLabel>
   <SpellOf_Resurrection.label>Priest Spell: Resurrection</SpellOf_Resurrection.label>
   <SpellOf_Resurrection.description>Teaches a priest how to restore the spark of life to the recently deceased.</SpellOf_Resurrection.description>
-  <SpellOf_Scorn.comps.0.useLabel>Read</SpellOf_Scorn.comps.0.useLabel>
+  <SpellOf_Scorn.comps.0.useLabel>TM_Learn</SpellOf_Scorn.comps.0.useLabel>
   <SpellOf_Scorn.label>Succubus Spell: Scorn</SpellOf_Scorn.label>
   <SpellOf_Scorn.description>Teaches a succubus how to unleash the full malice harbored by their demon heart.</SpellOf_Scorn.description>
-  <SpellOf_Shapeshift.comps.0.useLabel>Read</SpellOf_Shapeshift.comps.0.useLabel>
+  <SpellOf_Shapeshift.comps.0.useLabel>TM_Learn</SpellOf_Shapeshift.comps.0.useLabel>
   <SpellOf_Shapeshift.label>Enchanter Spell: Shapeshift</SpellOf_Shapeshift.label>
   <SpellOf_Shapeshift.description>Teaches an enchanter how to perform shapeshifting on themselves without losing their identity.</SpellOf_Shapeshift.description>
-  <SpellOf_SummonPoppi.comps.0.useLabel>Read</SpellOf_SummonPoppi.comps.0.useLabel>
+  <SpellOf_SummonPoppi.comps.0.useLabel>TM_Learn</SpellOf_SummonPoppi.comps.0.useLabel>
   <SpellOf_SummonPoppi.label>Summoner Spell: Summon Poppi</SpellOf_SummonPoppi.label>
   <SpellOf_SummonPoppi.description>Teaches a summoner how to summon a band of cute and cuddly poppi.</SpellOf_SummonPoppi.description>
-  <SpellOf_SpiritOfLight.comps.0.useLabel>Read</SpellOf_SpiritOfLight.comps.0.useLabel>
+  <SpellOf_SpiritOfLight.comps.0.useLabel>TM_Learn</SpellOf_SpiritOfLight.comps.0.useLabel>
   <SpellOf_SpiritOfLight.label>Brightmage Spell: Spirit Of Light</SpellOf_SpiritOfLight.label>
   <SpellOf_SpiritOfLight.description>Teaches a Brightmage how to summon a Spirit of Light.</SpellOf_SpiritOfLight.description>
-  <SkillOf_ThrowingKnife.comps.0.useLabel>Read</SkillOf_ThrowingKnife.comps.0.useLabel>
+  <SkillOf_ThrowingKnife.comps.0.useLabel>TM_Learn</SkillOf_ThrowingKnife.comps.0.useLabel>
   <SkillOf_ThrowingKnife.label>Fighter Skill: Throwing Knife</SkillOf_ThrowingKnife.label>
   <SkillOf_ThrowingKnife.description>Teaches a fighter class the Throwing Knife skill. Non-violent pawns cannot learn this skill.</SkillOf_ThrowingKnife.description>
-  <SkillOf_BurningFury.comps.0.useLabel>Read</SkillOf_BurningFury.comps.0.useLabel>
+  <SkillOf_BurningFury.comps.0.useLabel>TM_Learn</SkillOf_BurningFury.comps.0.useLabel>
   <SkillOf_BurningFury.label>Fighter Skill: Burning Fury</SkillOf_BurningFury.label>
   <SkillOf_BurningFury.description>Teaches a fighter class how to activate the Burning Fury aura. Non-violent pawns cannot learn this skill.</SkillOf_BurningFury.description>
-  <SkillOf_FightersFocus.comps.0.useLabel>Read</SkillOf_FightersFocus.comps.0.useLabel>
+  <SkillOf_FightersFocus.comps.0.useLabel>TM_Learn</SkillOf_FightersFocus.comps.0.useLabel>
   <SkillOf_FightersFocus.label>Fighter Skill: Fighters Focus</SkillOf_FightersFocus.label>
   <SkillOf_FightersFocus.description>Teaches a fighter class how to dedicate an allotment of stamina to withstand greater mental and physical stress.</SkillOf_FightersFocus.description>
-  <SkillOf_GearRepair.comps.0.useLabel>Read</SkillOf_GearRepair.comps.0.useLabel>
+  <SkillOf_GearRepair.comps.0.useLabel>TM_Learn</SkillOf_GearRepair.comps.0.useLabel>
   <SkillOf_GearRepair.label>Fighter Skill: Gear Repair</SkillOf_GearRepair.label>
   <SkillOf_GearRepair.description>Teaches a fighter class how to dedicate an allotment of stamina to maintaining and repairing worn equipment.</SkillOf_GearRepair.description>
-  <SkillOf_HeavyBlow.comps.0.useLabel>Read</SkillOf_HeavyBlow.comps.0.useLabel>
+  <SkillOf_HeavyBlow.comps.0.useLabel>TM_Learn</SkillOf_HeavyBlow.comps.0.useLabel>
   <SkillOf_HeavyBlow.label>Fighter Skill: Heavy Blow</SkillOf_HeavyBlow.label>
   <SkillOf_HeavyBlow.description>Teaches a fighter class how to dedicate an allotment of stamina to increase the power of each attack.</SkillOf_HeavyBlow.description>
-  <SkillOf_InnerHealing.comps.0.useLabel>Read</SkillOf_InnerHealing.comps.0.useLabel>
+  <SkillOf_InnerHealing.comps.0.useLabel>TM_Learn</SkillOf_InnerHealing.comps.0.useLabel>
   <SkillOf_InnerHealing.label>Fighter Skill: Inner Healing</SkillOf_InnerHealing.label>
   <SkillOf_InnerHealing.description>Teaches a fighter class how to dedicate an allotment of stamina and physical energy to increase healing rate and improve disease immunity.</SkillOf_InnerHealing.description>
-  <SkillOf_Legion.comps.0.useLabel>Read</SkillOf_Legion.comps.0.useLabel>
+  <SkillOf_Legion.comps.0.useLabel>TM_Learn</SkillOf_Legion.comps.0.useLabel>
   <SkillOf_Legion.label>Fighter Skill: Legion</SkillOf_Legion.label>
   <SkillOf_Legion.description>Teaches a fighter how to replicate the combat abilities of another fighter class.</SkillOf_Legion.description>
-  <SkillOf_PommelStrike.comps.0.useLabel>Read</SkillOf_PommelStrike.comps.0.useLabel>
+  <SkillOf_PommelStrike.comps.0.useLabel>TM_Learn</SkillOf_PommelStrike.comps.0.useLabel>
   <SkillOf_PommelStrike.label>Fighter Skill: Pommel Strike</SkillOf_PommelStrike.label>
   <SkillOf_PommelStrike.description>Teaches a fighter class how to perform a non-lethal blow to stun or knock-out a target.</SkillOf_PommelStrike.description>
-  <SkillOf_Sprint.comps.0.useLabel>Read</SkillOf_Sprint.comps.0.useLabel>
+  <SkillOf_Sprint.comps.0.useLabel>TM_Learn</SkillOf_Sprint.comps.0.useLabel>
   <SkillOf_Sprint.label>Fighter Skill: Sprint</SkillOf_Sprint.label>
   <SkillOf_Sprint.description>Teaches a fighter class how to dedicate an allotment of stamina to sustain an increased movement rate.</SkillOf_Sprint.description>
-  <SkillOf_StrongBack.comps.0.useLabel>Read</SkillOf_StrongBack.comps.0.useLabel>
+  <SkillOf_StrongBack.comps.0.useLabel>TM_Learn</SkillOf_StrongBack.comps.0.useLabel>
   <SkillOf_StrongBack.label>Fighter Skill: Strong Back</SkillOf_StrongBack.label>
   <SkillOf_StrongBack.description>Teaches a fighter class how to dedicate an allotment of stamina to increase carrying and inventory capacities.</SkillOf_StrongBack.description>
-  <SkillOf_Taunt.comps.0.useLabel>Read</SkillOf_Taunt.comps.0.useLabel>
+  <SkillOf_Taunt.comps.0.useLabel>TM_Learn</SkillOf_Taunt.comps.0.useLabel>
   <SkillOf_Taunt.label>Fighter Skill: Taunt</SkillOf_Taunt.label>
   <SkillOf_Taunt.description>Teaches a fighter class how to taunt nearby enemies.</SkillOf_Taunt.description>
-  <SkillOf_TempestStrike.comps.0.useLabel>Read</SkillOf_TempestStrike.comps.0.useLabel>
+  <SkillOf_TempestStrike.comps.0.useLabel>TM_Learn</SkillOf_TempestStrike.comps.0.useLabel>
   <SkillOf_TempestStrike.label>Fighter Skill: Tempest Strike</SkillOf_TempestStrike.label>
   <SkillOf_TempestStrike.description>Teaches a fighter class a technique to strike in rapid succession using their weapon.</SkillOf_TempestStrike.description>
-  <SkillOf_ThickSkin.comps.0.useLabel>Read</SkillOf_ThickSkin.comps.0.useLabel>
+  <SkillOf_ThickSkin.comps.0.useLabel>TM_Learn</SkillOf_ThickSkin.comps.0.useLabel>
   <SkillOf_ThickSkin.label>Fighter Skill: Thick Skin</SkillOf_ThickSkin.label>
   <SkillOf_ThickSkin.description>Teaches a fighter class how to dedicate an allotment of stamina to increase armor values and temperature threshold.</SkillOf_ThickSkin.description>
-  <GemstoneOfInsight_Magic.comps.0.useLabel>Use</GemstoneOfInsight_Magic.comps.0.useLabel>
+  <SkillOf_HerbalBliss.comps.0.useLabel>TM_Learn</SkillOf_HerbalBliss.comps.0.useLabel>
+  <SkillOf_HerbalBliss.label>Apothecary Recipe: Bliss</SkillOf_HerbalBliss.label>
+  <SkillOf_HerbalBliss.description>Teaches an apothecary how to create Bliss - a drug that induces a state of bliss, able to completely mask nearly all emotions and pain. This drug also causes skill loss and dramatically slows skill gain.</SkillOf_HerbalBliss.description>
+  <SkillOf_HerbalClarity.comps.0.useLabel>TM_Learn</SkillOf_HerbalClarity.comps.0.useLabel>
+  <SkillOf_HerbalClarity.label>Apothecary Recipe: Clarity</SkillOf_HerbalClarity.label>
+  <SkillOf_HerbalClarity.description>Teaches an apothecary how to create Clarity - a drug that reduces resistance to the arcane, giving mages a large boost to mana regeneration and increasing psychic sensitivity. May also cause deterioration in mental stability.</SkillOf_HerbalClarity.description>
+  <GemstoneOfInsight_Magic.comps.0.useLabel>TM_Use</GemstoneOfInsight_Magic.comps.0.useLabel>
   <GemstoneOfInsight_Magic.label>Gem of Arcane Insight</GemstoneOfInsight_Magic.label>
   <GemstoneOfInsight_Magic.description>Imbues the user with an arcane spirit, granting them the "magically gifted" trait. 
 	
 **Note: use of this item will replace a random trait if the user has more than 7 traits and cannot be used by a pawn with existing magic or fighter traits**</GemstoneOfInsight_Magic.description>
-  <GemstoneOfInsight_Might.comps.0.useLabel>Use</GemstoneOfInsight_Might.comps.0.useLabel>
+  <GemstoneOfInsight_Might.comps.0.useLabel>TM_Use</GemstoneOfInsight_Might.comps.0.useLabel>
   <GemstoneOfInsight_Might.label>Gem of Physical Insight</GemstoneOfInsight_Might.label>
   <GemstoneOfInsight_Might.description>Imbues the user with the spirit of a warrior, granting them the "physically adept" trait.	
 
@@ -1227,7 +1437,7 @@ Produces 400Wd adjusted by ability power.</SpellOf_ChargeBattery.description>
   <TM_ElephantSpear.description>The elephant spear is crafted using the tusks of an elephant, and is typically a status symbol reserved for head hunters or leaders of a tribe. The shaft is engraved with minor enchantments, further boosting the combat abilities of the user.
 		
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +10%
+Max Energy: +10
 Damage Boost: +10%
 Arcane Resistance: +20%</TM_ElephantSpear.description>
   <TM_ElephantSpear.tools.0.label>shaft</TM_ElephantSpear.tools.0.label>
@@ -1245,7 +1455,7 @@ Arcane Resistance: +20%</TM_ElephantSpear.description>
 The elephant bow is engraved with minor enchantments and is a preferred weapon by many experienced rangers and hunters.
 
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +5%
+Max Energy: +5
 Energy Regen: +5%
 Damage Boost: +10%
 Ability Cooldown: -10%</TM_ElephantBow.description>
@@ -1254,7 +1464,7 @@ Ability Cooldown: -10%</TM_ElephantBow.description>
   <TM_ThrumboAxe.description>An axe crafted using thrumbo horns that are fused together with a clasp made from magicyte. This clasp stores arcane potential and transfers it as physical force when the axe is swung, allowing it to deliver mighty blows capable of cleaving through multiple opponents. The shaft is also etched with magical runes to augment the wielder's power.
 		
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +10%
+Max Energy: +10
 Damage Boost: +20%
 Arcane Resistance: +30%
 Cleaving Strike</TM_ThrumboAxe.description>
@@ -1271,6 +1481,26 @@ Haste on hit (25%)</TM_ThrumboSaber.description>
   <TM_ThrumboSaber.tools.0.label>pommel</TM_ThrumboSaber.tools.0.label>
   <TM_ThrumboSaber.tools.1.label>stab</TM_ThrumboSaber.tools.1.label>
   <TM_ThrumboSaber.tools.2.label>edge</TM_ThrumboSaber.tools.2.label>
+  <TM_GloryMaul.label>Glory Maul</TM_GloryMaul.label>
+  <TM_GloryMaul.description>A one handed mace designed for effectiveness against a variety of foes. The head of the Glory Maul has a blunt, end shaped with a jagged formation to condense the weight of a blow to several points, and is balanced on the other end against a curved talon's spike used to puncture thick armor. The Glory Maul is so named for its enchantment, which can grant the wielder with a powerful blessing of might.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +20
+Arcane Resistance: +20%
+Damage Boost: +10%
+Bestow Might on hit (15%)</TM_GloryMaul.description>
+  <TM_GloryMaul.tools.0.label>talon spike</TM_GloryMaul.tools.0.label>
+  <TM_GloryMaul.tools.1.label>crush</TM_GloryMaul.tools.1.label>
+  <TM_Decimation.label>Decimation</TM_Decimation.label>
+  <TM_Decimation.description>A two handed mace so heavily enchanted that it tears apart the cohesion of any material it strikes. It is forged seemingly from a single piece of metal and wielded from a handle wrapped in simple leather. Finely etched runes cover the surface of the mace, making it appear almost delicate. When held, the quality of the design is apparent, with perfect balance and solid handling despite the authoritative finality of its weight. Each blow has a chance to inflict frailty on the target, causing it to take more damage from subsequent attacks.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +40
+Arcane Resistance: +40%
+Damage Boost: +30%
+Frailty on hit (50%)</TM_Decimation.description>
+  <TM_Decimation.tools.0.label>handle</TM_Decimation.tools.0.label>
+  <TM_Decimation.tools.1.label>crush</TM_Decimation.tools.1.label>
   <TM_Ruunbled.label>Ruunbled</TM_Ruunbled.label>
   <TM_Ruunbled.description>This a massive blade is etched in intricate runes from hilt to tip. It is forged in a material unknown to you, with a razor sharp edge and weighing only a fraction of what the size infers. Despite its size, the weapon is easy to handle, and practically hums with power. You can only fathom the origins of this weapon - perhaps crafted in ancient technologies that were lost to time or fabricated with some mysterious power. The only hint is small word written in a stylish script and imprinted into the hilt with the name "Ruunbled." You are not sure if this is a manufacturing company, the name of its maker, or the name of the blade itself. Whichever it is, there is no doubt that this weapon represents the pinnacle of its class.
 		
@@ -1290,7 +1520,7 @@ Cleaving Strike</TM_Ruunbled.description>
   <TM_ThrumBow.description>A bow shaped from the horn of a Thrumbo. The horn is hallowed out to decrease the weight and softened by soaking it in a magicyte compound that adds a surprising suppleness to the horn. The bow is further enhanced with embedded enchantments and arcane engravings that travel the length of the bow. The bow is said to be almost sentient, able to determine the intended target through a mental link with the wielder. Arrows fired from this bow almost always hit their intended target. This effect does have a tendency to delude the users own capability, however.
 
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +20%
+Max Energy: +20
 Energy Regen: +10%
 Damage Boost: +20%
 Ability Cooldown: -10%
@@ -1311,7 +1541,7 @@ Nightshade Toxin on hit (20%)</TM_DemonFang.description>
   <TM_FireWand.description>A wand able to slowly convert nearby arcane energy into elemental fire. Wands are used as focusing tools to harness innate power more than as a weapon itself.
 	
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +5%
+Max Energy: +5
 Energy Regen: +5%
 Damage Boost: +15%</TM_FireWand.description>
   <TM_FireWand.tools.0.label>wand</TM_FireWand.tools.0.label>
@@ -1320,7 +1550,7 @@ Damage Boost: +15%</TM_FireWand.description>
   <TM_IceWand.description>A wand able to slowly convert nearby arcane energy into elemental ice. Wands are used as focusing tools to harness innate power more than as a weapon itself.
 	
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +5%
+Max Energy: +5
 Energy Regen: +5%
 Damage Boost: +15%</TM_IceWand.description>
   <TM_IceWand.tools.0.label>wand</TM_IceWand.tools.0.label>
@@ -1329,7 +1559,7 @@ Damage Boost: +15%</TM_IceWand.description>
   <TM_LightningWand.description>A wand able to slowly convert nearby arcane energy into elemental lightning. Wands are used as focusing tools to harness innate power more than as a weapon itself.
 
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +5%
+Max Energy: +5
 Energy Regen: +5%
 Damage Boost: +15%</TM_LightningWand.description>
   <TM_LightningWand.tools.0.label>wand</TM_LightningWand.tools.0.label>
@@ -1337,11 +1567,11 @@ Damage Boost: +15%</TM_LightningWand.description>
   <TM_DefenderStaff.description>A staff crafted from an ancient design bearing a palpable aura of wisdom. This staff is able to tap into the spirit realm and allow the wielder to communicate with their ancestral spirits who can manifest their power in the form of a physical barrier. The energy to perform this action comes from the spirits themselves and does not draw energy from the user, though the spirits require time to rest between requests.
 
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +30%
+Max Energy: +30
 Energy Regen: +20%
 Arcane Resistance: +20%
 
-Augmentation adds ability: Arcane Barrier</TM_DefenderStaff.description>
+Ability: Arcane Barrier</TM_DefenderStaff.description>
   <TM_DefenderStaff.tools.0.label>rod</TM_DefenderStaff.tools.0.label>
   <TM_DefenderStaff.tools.1.label>staff head</TM_DefenderStaff.tools.1.label>
   <Projectile_BlazingPower.label>blazing power</Projectile_BlazingPower.label>
@@ -1349,11 +1579,25 @@ Augmentation adds ability: Arcane Barrier</TM_DefenderStaff.description>
   <TM_BlazingPowerStaff.description>A staff that creates a mental link with the wielder to harness focused energy that can be used to launch a stream of blazing projectiles or create a hardened barrier around the wielder that can deflect projectiles. Mages gain tremendous boosts to magical spells while wielding this staff but to a mundane pawn it is nothing but a blunt weapon.
 
 This weapon is enchanted and provides additional benefits to trained mages and fighters:
-Max Energy: +20%
+Max Energy: +20
 Energy Regen: +10%
 Damage Boost: +40%</TM_BlazingPowerStaff.description>
   <TM_BlazingPowerStaff.tools.0.label>rod</TM_BlazingPowerStaff.tools.0.label>
   <TM_BlazingPowerStaff.tools.1.label>staff head</TM_BlazingPowerStaff.tools.1.label>
+  <Projectile_FreezingWinds.label>freezing winds</Projectile_FreezingWinds.label>
+  <FlyingObject_FreezingWinds.label>freezing winds</FlyingObject_FreezingWinds.label>
+  <TM_WinterStaff.label>Winter's Reign</TM_WinterStaff.label>
+  <TM_WinterStaff.description>A rod of blue steel adorned with a crown of crystal shards. The touch of this staff never warms, as if to remind the bearer of it's icy sovereignty. The power of the staff is two-fold - it greatly augments the innate magical power of a mage and is able to create a hailstorm in any environment. The power of the staff has its price - when held, the staff will drain heat and energy from the holder and, if held by a mage, expands this effect to the surrounding atmosphere. Only mages are able to project the power of this staff.
+
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +80
+Ability Cooldown: -30%
+Arcane Resistance: +20%
+Arcane Damage: +50%
+
+Ability: Hailstorm</TM_WinterStaff.description>
+  <TM_WinterStaff.tools.0.label>rod</TM_WinterStaff.tools.0.label>
+  <TM_WinterStaff.tools.1.label>staff head</TM_WinterStaff.tools.1.label>
   <Projectile_SeerRing_Fire.label>elemental fire</Projectile_SeerRing_Fire.label>
   <Seer_FireRing.label>Ring of Elemental Fire</Seer_FireRing.label>
   <Seer_FireRing.description>An ancient artifact bound to the wielder allowing elemental currents to flow through the host. If the host is separated from the ring, the contract binding it to this realm is nullified, destroying the artifact.</Seer_FireRing.description>
@@ -1370,6 +1614,12 @@ Damage Boost: +40%</TM_BlazingPowerStaff.description>
   <ManaPotion.description>A magical supplement that allows arcane users to rapidly recover mana. Mana potions work by acting as a natural suppressant to the bodies mana absorption resistances \n\nUsers are warned, bypassing natural resistances can cause mental and sensory damage.</ManaPotion.description>
   <ManaPotion.ingestible.ingestCommandString>Consume {0}</ManaPotion.ingestible.ingestCommandString>
   <ManaPotion.ingestible.ingestReportString>Consuming {0}.</ManaPotion.ingestible.ingestReportString>
+  <TM_MantleOfProtection.label>Mantle of Protection</TM_MantleOfProtection.label>
+  <TM_MantleOfProtection.description>A loose, cape-like coat worn over other garments and offering added protection against weather and other hazards. The Mantle of Protection is magically infused with warding runes to further its defense. The method of infusing arcane gemstones into the fabric during crafting yields unparalleled enchantment effectiveness.
+	
+This cloak is enchanted and provides additional benefits to trained mages:
+Class XP Gain: +20%
+Arcane Resistance: +30%</TM_MantleOfProtection.description>
   <TM_MaestersCloak.label>Wanderer's Cloak</TM_MaestersCloak.label>
   <TM_MaestersCloak.description>A cloak designed for traveling mages that provides protection against the elements and improves energy recovery rates. The method of infusing arcane gemstones into the fabric during crafting yields unparalleled enchantment effectiveness.
 	
@@ -1395,7 +1645,16 @@ Energy Regen: +10%
 Ability Cooldown: -15%
 Energy Costs: -15%
 Class XP Gain: +10%
-Arcane Res: +10%</DarkRobe.description>
+Arcane Power: +10%</DarkRobe.description>
+  <TM_DiscipleRobe.label>Disciple Robe</TM_DiscipleRobe.label>
+  <TM_DiscipleRobe.description>The uniform of an ardent disciple - this outfit is comprised of assorted pockets, pouches, and straps designed to allow the disciple to be prepared for any situation. Wearers of the disciple robe value protection and adaptability.
+	
+Disciple robes are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +20%
+Energy Regen: +5%
+Energy Costs: -5%
+Class XP Gain: +10%
+Arcane Res: +30%</TM_DiscipleRobe.description>
   <AncientMail.label>Ancient Mail</AncientMail.label>
   <AncientMail.description>Chain mail forged with an ancient design that provides above average physical defense. The design of the armor includes a symmetrical etching of arcane runes that bestow the wearer with enhanced power. Once crafted, these runes will attract an ancient spirit to embody the mail and grants the wearer a chance to cause additional arcane damage following any attack; however, this comes at a price - all abilities will require more energy to use, and the bearer is beset with nightmares that slowly break down mental resistances.
 	
@@ -1419,6 +1678,15 @@ Mystics derive additional power from the symbolism of this outfit:
 Max Energy: +40
 Class XP Gain: +30%
 Arcane Res: +25%</TM_DreamcatcherBuckskin.description>
+  <TM_Necromancer_Body.label>Shroud of the Soulreaper</TM_Necromancer_Body.label>
+  <TM_Necromancer_Body.description>This dark and mystical ensemble is crafted with a macabre elegance, blending bone motifs and shadowy enchantments to provide both protection and serve as a conduit for the necromancer's unholy powers. The Shroud of the Soulreaper is a testament to the necromancer's mastery over the forces of death, shrouding them in an aura of ominous power as they manipulate the very fabric of life and afterlife. While the shroud may be worn by anyone, its unique properties improve the necromancer's control over the undead.
+	
+Necromancers derive additional power from the symbolism of this dark garment:
+Max Energy: +40
+Energy Regen: +30%
+Arcane Power: +30%
+
+Shroud of Undeath: reduces undead upkeep costs by 30% for this necromancer and increases movement and attack power by 15% for nearby undead</TM_Necromancer_Body.description>
   <ArchMageRobe.label>Robes of the Archmage</ArchMageRobe.label>
   <ArchMageRobe.description>Robes designed by a superior race that are meant for the highest class of magic users who are worthy of additional power and insight. These lightweight, flowing robes seem to propel the wearer as if carried by a great winged beast.
 
@@ -1429,12 +1697,36 @@ Ability Cooldown: -20%
 Energy Costs: -10%
 Arcane Res: +15%
 Ability Damage: +20%</ArchMageRobe.description>
+  <TM_DragonSlayer.label>Dragon Slayer Plate</TM_DragonSlayer.label>
+  <TM_DragonSlayer.description>This masterpiece of craftsmanship and resilience is a symphony of layered plates intricately layered over an armored mesh that offers unmatched protection. Gleaming rivets and jagged edges trace a pattern reminiscent of ethereal flames engulfing a fearless warrior. Forged in the crucible of peril, Dragon Slayer plate is a symbol of defiance against scaled tyrants that darken the sky and mechanical abominations that despoil the land. Infused with enchanted energies, the armor radiates magical might that acts as a guiding light - assuring that this warrior shall emerge victorious amidst fire and fang.
+
+Dragon slayer Plate is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +30
+Energy Regen: +20%
+Ability Cooldown: -20%
+Energy Costs: -20%
+Arcane Res: +30%
+Ability Damage: +30%</TM_DragonSlayer.description>
   <TM_WizardHat.label>Wizard Hat</TM_WizardHat.label>
   <TM_WizardHat.description>A classic hat styled for any wizard or witch. This hat has secret carrying compartments and also has social and drug production bonuses.
 
 The Wizard Hat is enchanted and provides additional benefits to trained mages and fighters:
 Max Energy: +5%
 Arcane Power: +5%</TM_WizardHat.description>
+  <TM_HoodOfProtection.label>Hood of Protection</TM_HoodOfProtection.label>
+  <TM_HoodOfProtection.description>A simple hood that increases protection, both magical and mundane. The method of infusing fabric with enchantments prior to weaving the hood returns improved enchanting results.
+
+The Hood of Protection is enchanted and provides additional benefits to trained mages and fighters:
+Arcane Resistance: +10%</TM_HoodOfProtection.description>
+  <TM_DiscipleHood.label>Disciple Hood</TM_DiscipleHood.label>
+  <TM_DiscipleHood.description>Emblazoned with symbols and sigils that carry profound significance within the disciple's chosen path, this hood becomes a canvas for sacred artistry. Each stitch tells a tale of trials faced, wisdom gained, and the ongoing journey towards a higher plane of understanding. The hood serves not only as a physical covering but as a metaphysical barrier, shielding the disciple from distractions and worldly influences.
+
+The Disiple Hood is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +25%
+Energy Regen: +5%
+Energy Costs: -5%
+Class XP Gain: +10%
+Arcane Resistance: +15%</TM_DiscipleHood.description>
   <ArcaneHood.label>Arcane Hood</ArcaneHood.label>
   <ArcaneHood.description>A hood preferred by mages for its magical properties, light weight, and comfort. The method of infusing fabric with enchantments prior to weaving the hood returns improved enchanting results.
 
@@ -1448,6 +1740,14 @@ Arcane Resistance: +10%</ArcaneHood.description>
 The Hood of Madness is enchanted and provides additional benefits to trained mages and fighters:
 Class XP Gain: +30%
 Arcane Resistance: 30%</HoodOfMadness.description>
+  <TM_SagesMask.label>Mask of Serenity</TM_SagesMask.label>
+  <TM_SagesMask.description>This mask is a captivating blend of mystery and wisdom, meticulously crafted to veil the countenance of the wearer. Delicate lines are etched upon the mask's surface, depicting an intricate dance of ancient symbols and rhythmic lines that combine to form a visage of wisdom and power. Masks of this nature are intended to suppress the physical senses of the wearer, granting them increased concentration and focus.
+
+The Mask of Serenity is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -10%
+Energy Regen: +10%
+Class XP Gain: +10%
+Arcane Power: +10%</TM_SagesMask.description>
   <RoyalHelm.label>Helm of the Valiant</RoyalHelm.label>
   <RoyalHelm.description>A barbute shaped helm designed to maximize protection without restricting vision or voice. These helmets are a complementary piece to the Armor of the Valiant set and further enhance a wearers arcane capabilities while also providing noteworthy physical protection.
 
@@ -1462,6 +1762,22 @@ Energy Costs: -5%
 Class XP Gain: +15%
 Max Energy: +5%
 Arcane Res: +10%</ParagonHelm.description>
+  <TM_Necromancer_Mask.label>Mask of the Soulreaper</TM_Necromancer_Mask.label>
+  <TM_Necromancer_Mask.description>Crafted with an eerie elegance, this disconcerting mask combines dark materials and arcane symbols, concealing the necromancer's countenance behind a haunting facade. Its eerie aura and sinister design make it a fitting adornment for those who harness the powers of undeath and tread the paths of necromantic arts.
+
+Necromancers derive additional power from the symbolism of this item:
+Max Energy: +10
+Energy Regen: +5%
+
+Shroud of Undeath: reduces undead upkeep costs by 10% for this necromancer and increases movement and attack power by 5% for nearby undead</TM_Necromancer_Mask.description>
+  <TM_Necromancer_Hood.label>Cowl of the Soulreaper</TM_Necromancer_Hood.label>
+  <TM_Necromancer_Hood.description>This ominous garment is woven from shadowy fabrics and imbued with dark enchantments, concealing the visage of the necromancer beneath a mask of cloth and bone. The Cowl of the Soulreaper serves not only as a practical accessory to shield the wearer from prying eyes but also as a symbolic manifestation of the necromancer's communion with the realms beyond life. Its eerie aura and sinister design make it a fitting adornment for those who harness the powers of the undead and tread the paths of necromantic arts.
+
+Necromancers derive additional power from the symbolism of this item:
+Max Energy: +20
+Energy Regen: +5%
+
+Shroud of Undeath: reduces undead upkeep costs by 20% for this necromancer and increases movement and attack power by 10% for nearby undead</TM_Necromancer_Hood.description>
   <TM_DreamcatcherCoronet.label>Dreamcatcher Coronet</TM_DreamcatcherCoronet.label>
   <TM_DreamcatcherCoronet.description>A patchwork headdress of animal leather topped with a majestic crown of antlers. This hood marks the bearer as the spiritual leader of a tribe. The dreamcatcher raiment is said to grant gifted users with the ability to view nature through the eyes of their spirit animal.
 
@@ -1482,7 +1798,7 @@ Arcane Res: +20%</TM_DreamcatcherCoronet.description>
   <TM_Artifact_Marble.label>Mind Ward Pendant</TM_Artifact_Marble.label>
   <TM_Artifact_Marble.description>A pendant enchanted with the essence of marble. This pendant improves its bearers mental state and provides a mental anchor. The pendant occasionally allows its bearer to break out of mental states.</TM_Artifact_Marble.description>
   <TM_Artifact_Sandstone.label>Charm of Rest</TM_Artifact_Sandstone.label>
-  <TM_Artifact_Sandstone.description>A pendant enchanted with the essence of sandstone. This pendant improves its wearers quality of rest and prevents passerby's to disturb their slumber.</TM_Artifact_Sandstone.description>
+  <TM_Artifact_Sandstone.description>A pendant enchanted with the essence of sandstone. This pendant improves its wearers quality of rest and prevents a passerby from disturbing their slumber.</TM_Artifact_Sandstone.description>
   <TM_Artifact_Steel.label>Amulet of Protection</TM_Artifact_Steel.label>
   <TM_Artifact_Steel.description>A pendant enchanted with the essence of steel. This pendant magically improves its wearers defenses.</TM_Artifact_Steel.description>
   <TM_Artifact_Iron.label>Amulet of Minor Protection</TM_Artifact_Iron.label>

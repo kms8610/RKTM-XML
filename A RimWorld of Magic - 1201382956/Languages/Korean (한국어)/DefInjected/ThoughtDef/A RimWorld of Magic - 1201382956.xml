@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <TM_BlissThought.stages.0.label>bliss</TM_BlissThought.stages.0.label>
+  <TM_BlissThought.stages.0.description>I'm in a state of wonderful, euphoric bliss.</TM_BlissThought.stages.0.description>
   <MarbleMindTD.stages.0.label>mind ward</MarbleMindTD.stages.0.label>
   <MarbleMindTD.stages.0.description>My mind is fortified against the troubles to come.</MarbleMindTD.stages.0.description>
   <TM_TraitInfusion.stages.0.label>Absorbed traits</TM_TraitInfusion.stages.0.label>
@@ -22,6 +24,22 @@
   <SoulBondMental.stages.0.description>My worries and concerns have been washed away. Things that used to concern me are now little more than distractions that float away in a haze of dreams and reality.</SoulBondMental.stages.0.description>
   <VitalityDrainTD.stages.0.label>Vitality Drain</VitalityDrainTD.stages.0.label>
   <VitalityDrainTD.stages.0.description>That succubus was amazing - my worries are a dull memory and I feel relaxed, even a little lethargic.</VitalityDrainTD.stages.0.description>
+  <TM_PositiveEmpathyTD.stages.0.label>positive vibes</TM_PositiveEmpathyTD.stages.0.label>
+  <TM_PositiveEmpathyTD.stages.0.description>Emotions gained through empathy.</TM_PositiveEmpathyTD.stages.0.description>
+  <TM_NegativeEmpathyTD.stages.0.label>negative vibes</TM_NegativeEmpathyTD.stages.0.label>
+  <TM_NegativeEmpathyTD.stages.0.description>Emotions gained through empathy.</TM_NegativeEmpathyTD.stages.0.description>
+  <TM_SuppressiveAuraTD.stages.0.label>Emotion thief</TM_SuppressiveAuraTD.stages.0.label>
+  <TM_SuppressiveAuraTD.stages.0.description>I have a deep sense of sadness and loss when depriving others of their ability to feel.</TM_SuppressiveAuraTD.stages.0.description>
+  <TM_EmotionalWeightTD.stages.0.label>Emotional baggage</TM_EmotionalWeightTD.stages.0.label>
+  <TM_EmotionalWeightTD.stages.0.description>Bearing the weight of everyone's emotions.</TM_EmotionalWeightTD.stages.0.description>
+  <TM_SymbiosisThought.stages.0.label>symbiosis</TM_SymbiosisThought.stages.0.label>
+  <TM_SymbiosisThought.stages.0.description>Emotional fortitude provided by a symbiotic connection with an empath.</TM_SymbiosisThought.stages.0.description>
+  <TM_OutOfBodyThought.stages.0.label>out of body</TM_OutOfBodyThought.stages.0.label>
+  <TM_OutOfBodyThought.stages.0.description>Emotional energy is being used to augment another pawn.</TM_OutOfBodyThought.stages.0.description>
+  <TM_SpiritPossessedTD.stages.0.label>possessed</TM_SpiritPossessedTD.stages.0.label>
+  <TM_SpiritPossessedTD.stages.0.description>My body is possessed by another spirit.</TM_SpiritPossessedTD.stages.0.description>
+  <TM_SpiritDrainTD.stages.0.label>spirit drain</TM_SpiritDrainTD.stages.0.label>
+  <TM_SpiritDrainTD.stages.0.description>Drained of spirit.</TM_SpiritDrainTD.stages.0.description>
   <SoothingBreeze.stages.0.label>soothing breeze</SoothingBreeze.stages.0.label>
   <SoothingBreeze.stages.0.description>Something is having a calming affect on me, I'm thinking clearly and I'm wasting less energy fretting about senseless concerns.</SoothingBreeze.stages.0.description>
   <SoothingBreeze_I.stages.0.label>soothing breeze</SoothingBreeze_I.stages.0.label>
@@ -54,6 +72,130 @@
   <Shadow_III.stages.0.description>There's another presence next to me, assisting in everything I do. It knows what to do before I do. Am I possessed?!</Shadow_III.stages.0.description>
   <TM_Blind.stages.0.label>blinded</TM_Blind.stages.0.label>
   <TM_Blind.stages.0.description>There was a flash of light and what it revealed to me... I can't... I don't want to see anymore!</TM_Blind.stages.0.description>
+  <TM_KilledMage_Abhorrent_Social.stages.0.label>mage killer</TM_KilledMage_Abhorrent_Social.stages.0.label>
+  <TM_KilledMage_Abhorrent_Mood.stages.0.label>killed a mage</TM_KilledMage_Abhorrent_Mood.stages.0.label>
+  <TM_KilledMage_Abhorrent_Mood.stages.0.description>I killed a mage! One less abberation to worry about.</TM_KilledMage_Abhorrent_Mood.stages.0.description>
+  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>we killed a mage</TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>
+  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>We killed a mage! Our colony will trimph over these abominations.</TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>
+  <TM_MagicUse_Abhorrent_Social.stages.0.label>used magic</TM_MagicUse_Abhorrent_Social.stages.0.label>
+  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>we used magic</TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>
+  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>Magic was used in our colony - what a disgusting, filthy act.</TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>
+  <TM_MagesInColony_Abhorrent_Mood.stages.0.label>freedom from mages</TM_MagesInColony_Abhorrent_Mood.stages.0.label>
+  <TM_MagesInColony_Abhorrent_Mood.stages.0.description>Our colony is free from the abhorrent machinations of mages.</TM_MagesInColony_Abhorrent_Mood.stages.0.description>
+  <TM_MagesInColony_Abhorrent_Mood.stages.1.label>mage abomination</TM_MagesInColony_Abhorrent_Mood.stages.1.label>
+  <TM_MagesInColony_Abhorrent_Mood.stages.1.description>A free mage was allowed into the colony; destroy or enslave the abomination!</TM_MagesInColony_Abhorrent_Mood.stages.1.description>
+  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>slave mage</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>
+  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>We have enslaved a mage; we don't need its magic, -it- is better off dead.</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>
+  <TM_IsMage_Abhorrent_Social.stages.0.label>mage</TM_IsMage_Abhorrent_Social.stages.0.label>
+  <TM_MagicUse_Disapprove_Mood.stages.0.label>magic use restricted</TM_MagicUse_Disapprove_Mood.stages.0.label>
+  <TM_MagicUse_Disapprove_Mood.stages.0.description>We're successfully limiting the use of magic.</TM_MagicUse_Disapprove_Mood.stages.0.description>
+  <TM_MagicUse_Disapprove_Mood.stages.1.label>too much magic</TM_MagicUse_Disapprove_Mood.stages.1.label>
+  <TM_MagicUse_Disapprove_Mood.stages.1.description>Too much magic is being used, this is not good for the colony.</TM_MagicUse_Disapprove_Mood.stages.1.description>
+  <TM_MagicUse_Disapprove_Mood.stages.2.label>excessive magic use</TM_MagicUse_Disapprove_Mood.stages.2.label>
+  <TM_MagicUse_Disapprove_Mood.stages.2.description>Way too much magic is being used!</TM_MagicUse_Disapprove_Mood.stages.2.description>
+  <TM_MagicUse_Disapprove_Mood.stages.3.label>magic dominance</TM_MagicUse_Disapprove_Mood.stages.3.label>
+  <TM_MagicUse_Disapprove_Mood.stages.3.description>Magic is utterly dominating the environment; our ideoligion is a sham.</TM_MagicUse_Disapprove_Mood.stages.3.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.0.label>restricted mages</TM_MagesInColony_Disapprove_Mood.stages.0.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.0.description>A tight reign is being kept on how many free mages are allowed in our colony.</TM_MagesInColony_Disapprove_Mood.stages.0.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.1.label>too many mages</TM_MagesInColony_Disapprove_Mood.stages.1.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.1.description>There are too many free mages in the colony, this needs to be controlled quickly - make them slaves!</TM_MagesInColony_Disapprove_Mood.stages.1.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.2.label>excessive mages</TM_MagesInColony_Disapprove_Mood.stages.2.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.2.description>The number of mages in the colony is excessive and out of control; we should immediately enslave all mages to restore good order and discipline.</TM_MagesInColony_Disapprove_Mood.stages.2.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.3.label>rampant mage count</TM_MagesInColony_Disapprove_Mood.stages.3.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.3.description>We've clearly failed at restricting the number of free mages in the colony.</TM_MagesInColony_Disapprove_Mood.stages.3.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.4.label>mage majority</TM_MagesInColony_Disapprove_Mood.stages.4.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.4.description>There are now more free mages than not; what are we even trying to accomplish?</TM_MagesInColony_Disapprove_Mood.stages.4.description>
+  <TM_IsMage_Disapprove_Social.stages.0.label>mage</TM_IsMage_Disapprove_Social.stages.0.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.0.label>magic abundance</TM_MagicUse_Know_Approve_Mood.stages.0.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.0.description>I'm surrounded by powerful magic - our colony can surely withstand any challenge.</TM_MagicUse_Know_Approve_Mood.stages.0.description>
+  <TM_MagicUse_Know_Approve_Mood.stages.1.label>magic use</TM_MagicUse_Know_Approve_Mood.stages.1.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.1.description>I saw some magic and it was amazing!</TM_MagicUse_Know_Approve_Mood.stages.1.description>
+  <TM_MagicUse_Know_Approve_Mood.stages.2.label>magic absence</TM_MagicUse_Know_Approve_Mood.stages.2.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.2.description>I haven't seen any magic recently; are my hopes misplaced?</TM_MagicUse_Know_Approve_Mood.stages.2.description>
+  <TM_MagicUse_Approve_Mood.stages.0.label>magic rush</TM_MagicUse_Approve_Mood.stages.0.label>
+  <TM_MagicUse_Approve_Mood.stages.0.description>magical energy is rushing through me, I feel like I could do anything!</TM_MagicUse_Approve_Mood.stages.0.description>
+  <TM_MagicUse_Approve_Mood.stages.1.label>magic use</TM_MagicUse_Approve_Mood.stages.1.label>
+  <TM_MagicUse_Approve_Mood.stages.1.description>I used magic and it felt great.</TM_MagicUse_Approve_Mood.stages.1.description>
+  <TM_MagicUse_Approve_Mood.stages.2.label>magic deprevation</TM_MagicUse_Approve_Mood.stages.2.label>
+  <TM_MagicUse_Approve_Mood.stages.2.description>I haven't used any magic recently; I feel out of touch with my power.</TM_MagicUse_Approve_Mood.stages.2.description>
+  <TM_MagesInColony_Approve_Mood.stages.0.label>mage dominance</TM_MagesInColony_Approve_Mood.stages.0.label>
+  <TM_MagesInColony_Approve_Mood.stages.0.description>The number of mages clearly demonstrates the superiority of our colony.</TM_MagesInColony_Approve_Mood.stages.0.description>
+  <TM_MagesInColony_Approve_Mood.stages.1.label>abundant mages</TM_MagesInColony_Approve_Mood.stages.1.label>
+  <TM_MagesInColony_Approve_Mood.stages.1.description>Our colony is blessed with a large number of mages, our success is assured!</TM_MagesInColony_Approve_Mood.stages.1.description>
+  <TM_MagesInColony_Approve_Mood.stages.2.label>mages collective</TM_MagesInColony_Approve_Mood.stages.2.label>
+  <TM_MagesInColony_Approve_Mood.stages.2.description>The number of mages in the colony enriches many aspects of life.</TM_MagesInColony_Approve_Mood.stages.2.description>
+  <TM_MagesInColony_Approve_Mood.stages.3.label>mages present</TM_MagesInColony_Approve_Mood.stages.3.label>
+  <TM_MagesInColony_Approve_Mood.stages.3.description>We have several mages in the colony who will guide us in the ways of magic.</TM_MagesInColony_Approve_Mood.stages.3.description>
+  <TM_MagesInColony_Approve_Mood.stages.4.label>no mages</TM_MagesInColony_Approve_Mood.stages.4.label>
+  <TM_MagesInColony_Approve_Mood.stages.4.description>How can we rely on magic if we don't have a mage in the colony?</TM_MagesInColony_Approve_Mood.stages.4.description>
+  <TM_IsMage_Approve_Social.stages.0.label>mage</TM_IsMage_Approve_Social.stages.0.label>
+  <TM_IsMage_Approve_Social.stages.1.label>mage kinship</TM_IsMage_Approve_Social.stages.1.label>
+  <TM_IsMage_Approve_Social.stages.2.label>non-mage</TM_IsMage_Approve_Social.stages.2.label>
+  <TM_PerformedSeverenceRitual_Social.stages.0.label>barbaric ritual</TM_PerformedSeverenceRitual_Social.stages.0.label>
+  <TM_PerformedSeverenceRitual_Social.stages.1.label>villainous ritual</TM_PerformedSeverenceRitual_Social.stages.1.label>
+  <TM_KilledMage_Venerated_Social.stages.0.label>mage killer</TM_KilledMage_Venerated_Social.stages.0.label>
+  <TM_KilledMage_Venerated_Mood.stages.0.label>mage killer</TM_KilledMage_Venerated_Mood.stages.0.label>
+  <TM_KilledMage_Venerated_Mood.stages.0.description>I killed a being blessed with magic... how can I live with myself?</TM_KilledMage_Venerated_Mood.stages.0.description>
+  <TM_KilledMage_Venerated_Mood.stages.1.label>mage slayer</TM_KilledMage_Venerated_Mood.stages.1.label>
+  <TM_KilledMage_Venerated_Mood.stages.1.description>I was forced to slay another mage and it weighs heavily on my conscience.</TM_KilledMage_Venerated_Mood.stages.1.description>
+  <TM_KilledMage_Know_Venerated_Mood.stages.0.label>killed a mage</TM_KilledMage_Know_Venerated_Mood.stages.0.label>
+  <TM_KilledMage_Know_Venerated_Mood.stages.0.description>We killed a mage; this goes against our prime ideoligion!</TM_KilledMage_Know_Venerated_Mood.stages.0.description>
+  <TM_MagicUse_Venerated_Social.stages.0.label>used magic</TM_MagicUse_Venerated_Social.stages.0.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.0.label>magic abundance</TM_MagicUse_Know_Venerated_Mood.stages.0.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.0.description>I'm in awe and terror by the power of magic!</TM_MagicUse_Know_Venerated_Mood.stages.0.description>
+  <TM_MagicUse_Know_Venerated_Mood.stages.1.label>magic use</TM_MagicUse_Know_Venerated_Mood.stages.1.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.1.description>I witnessed glorious magic!</TM_MagicUse_Know_Venerated_Mood.stages.1.description>
+  <TM_MagicUse_Know_Venerated_Mood.stages.2.label>magic absence</TM_MagicUse_Know_Venerated_Mood.stages.2.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.2.description>I haven't seen any magic recently; its absence leaves me hollow.</TM_MagicUse_Know_Venerated_Mood.stages.2.description>
+  <TM_MagicUse_Venerated_Mood.stages.0.label>magic rush</TM_MagicUse_Venerated_Mood.stages.0.label>
+  <TM_MagicUse_Venerated_Mood.stages.0.description>magical energy is rushing through me, I feel like I could do anything!</TM_MagicUse_Venerated_Mood.stages.0.description>
+  <TM_MagicUse_Venerated_Mood.stages.1.label>magic use</TM_MagicUse_Venerated_Mood.stages.1.label>
+  <TM_MagicUse_Venerated_Mood.stages.1.description>I used magic; it's a core part of my being and reaffirms confidence in my superiority.</TM_MagicUse_Venerated_Mood.stages.1.description>
+  <TM_MagicUse_Venerated_Mood.stages.2.label>magic deprevation</TM_MagicUse_Venerated_Mood.stages.2.label>
+  <TM_MagicUse_Venerated_Mood.stages.2.description>I haven't used any magic recently; I feel out of touch with my power.</TM_MagicUse_Venerated_Mood.stages.2.description>
+  <TM_MagesInColony_Venerated_Mood.stages.0.label>mage dominance</TM_MagesInColony_Venerated_Mood.stages.0.label>
+  <TM_MagesInColony_Venerated_Mood.stages.0.description>The success of our colony is assured through the power of magic.</TM_MagesInColony_Venerated_Mood.stages.0.description>
+  <TM_MagesInColony_Venerated_Mood.stages.1.label>abundant mages</TM_MagesInColony_Venerated_Mood.stages.1.label>
+  <TM_MagesInColony_Venerated_Mood.stages.1.description>Our colony is surely chosen for greatness while graced with this many mages; their combined power is indomitable.</TM_MagesInColony_Venerated_Mood.stages.1.description>
+  <TM_MagesInColony_Venerated_Mood.stages.2.label>mages collective</TM_MagesInColony_Venerated_Mood.stages.2.label>
+  <TM_MagesInColony_Venerated_Mood.stages.2.description>Like a tapestry, the number of mages in the colony has begun to reveal a grand design.</TM_MagesInColony_Venerated_Mood.stages.2.description>
+  <TM_MagesInColony_Venerated_Mood.stages.3.label>mages present</TM_MagesInColony_Venerated_Mood.stages.3.label>
+  <TM_MagesInColony_Venerated_Mood.stages.3.description>Mages in our colony will guide us in our chosen path.</TM_MagesInColony_Venerated_Mood.stages.3.description>
+  <TM_MagesInColony_Venerated_Mood.stages.4.label>no mages</TM_MagesInColony_Venerated_Mood.stages.4.label>
+  <TM_MagesInColony_Venerated_Mood.stages.4.description>Has magic forsaken us!?</TM_MagesInColony_Venerated_Mood.stages.4.description>
+  <TM_MagesPrisoner_Venerated_Mood.stages.0.label>mage prisoner</TM_MagesPrisoner_Venerated_Mood.stages.0.label>
+  <TM_MagesPrisoner_Venerated_Mood.stages.0.description>We've emprisoned a mage, are we sure our actions are justified?</TM_MagesPrisoner_Venerated_Mood.stages.0.description>
+  <TM_MagesSlave_Venerated_Mood.stages.0.label>mage slave</TM_MagesSlave_Venerated_Mood.stages.0.label>
+  <TM_MagesSlave_Venerated_Mood.stages.0.description>We've enslaved a mage, what a despicable act.</TM_MagesSlave_Venerated_Mood.stages.0.description>
+  <TM_IsMage_Venerated_Social.stages.0.label>mage</TM_IsMage_Venerated_Social.stages.0.label>
+  <TM_IsMage_Venerated_Social.stages.1.label>mage kinship</TM_IsMage_Venerated_Social.stages.1.label>
+  <TM_IsMage_Venerated_Social.stages.2.label>non-mage</TM_IsMage_Venerated_Social.stages.2.label>
+  <TM_Botched_SeverMagicTD.stages.0.label>botched severence ritual</TM_Botched_SeverMagicTD.stages.0.label>
+  <TM_Botched_SeverMagicTD.stages.0.description>The severence ritual was botched and gave the mage a chance to retaliate.</TM_Botched_SeverMagicTD.stages.0.description>
+  <TM_Lethal_SeverMagicTD.stages.0.label>lethal severence ritual</TM_Lethal_SeverMagicTD.stages.0.label>
+  <TM_Lethal_SeverMagicTD.stages.0.description>That ritual lacked order and the technique was terrible, killing the mage.</TM_Lethal_SeverMagicTD.stages.0.description>
+  <TM_Success_SeverMagicTD.stages.0.label>successful severence ritual</TM_Success_SeverMagicTD.stages.0.label>
+  <TM_Success_SeverMagicTD.stages.0.description>The severence ritual was a success, freeing us from the oppression of another mage.</TM_Success_SeverMagicTD.stages.0.description>
+  <TM_Flawless_SeverMagicTD.stages.0.label>flawless severence ritual</TM_Flawless_SeverMagicTD.stages.0.label>
+  <TM_Flawless_SeverMagicTD.stages.0.description>The chorus of voices, the intensity of the voidbringer, the look of inevitability on the face of the mage - nothing can stop our crusade!</TM_Flawless_SeverMagicTD.stages.0.description>
+  <TM_MagicSeverenceTD.stages.0.label>Severed from magic</TM_MagicSeverenceTD.stages.0.label>
+  <TM_MagicSeverenceTD.stages.0.description>I've lost something that once defined who I was; I feel a mix of dispair and emptiness.</TM_MagicSeverenceTD.stages.0.description>
+  <TM_SeverMagic_ForApproveTD.stages.0.label>allowed sever magic</TM_SeverMagic_ForApproveTD.stages.0.label>
+  <TM_SeverMagic_ForApproveTD.stages.0.description>A ritual to sever the magic from a mage was performed in our colony; what a despicable and barbaric act.</TM_SeverMagic_ForApproveTD.stages.0.description>
+  <TM_SeverMagic_ForVeneratedTD.stages.0.label>allowed sever magic</TM_SeverMagic_ForVeneratedTD.stages.0.label>
+  <TM_SeverMagic_ForVeneratedTD.stages.0.description>A ritual to sever the magic from a mage was performed in our colony; this henious act of barbarism is an afront to everything we believe.</TM_SeverMagic_ForVeneratedTD.stages.0.description>
+  <TM_Botched_BestowMagicTD.stages.0.label>botched gifting ritual</TM_Botched_BestowMagicTD.stages.0.label>
+  <TM_Botched_BestowMagicTD.stages.0.description>The gifting ritual was botched and no magical spark was granted.</TM_Botched_BestowMagicTD.stages.0.description>
+  <TM_Success_BestowMagicTD.stages.0.label>successful gifting ritual</TM_Success_BestowMagicTD.stages.0.label>
+  <TM_Success_BestowMagicTD.stages.0.description>The gifting ritual successfully bestowed the magical spark.</TM_Success_BestowMagicTD.stages.0.description>
+  <TM_Flawless_BestowMagicTD.stages.0.label>enlightened gifting ritual</TM_Flawless_BestowMagicTD.stages.0.label>
+  <TM_Flawless_BestowMagicTD.stages.0.description>It was as if the heavens opened up to bless the ritual and a chorus of voices sang the glory of our cause!</TM_Flawless_BestowMagicTD.stages.0.description>
+  <TM_Poor_BestowMagicClassTD.stages.0.label>bland arcane path ritual</TM_Poor_BestowMagicClassTD.stages.0.label>
+  <TM_Poor_BestowMagicClassTD.stages.0.description>The ritual guiding a mage towards their arcane path was bland and uninteresting.</TM_Poor_BestowMagicClassTD.stages.0.description>
+  <TM_Moderate_BestowMagicClassTD.stages.0.label>successful arcane path ritual</TM_Moderate_BestowMagicClassTD.stages.0.label>
+  <TM_Moderate_BestowMagicClassTD.stages.0.description>The arcane path selection ritual was encouraging and interesting.</TM_Moderate_BestowMagicClassTD.stages.0.description>
+  <TM_Good_BestowMagicClassTD.stages.0.label>inspiring arcane path ritual</TM_Good_BestowMagicClassTD.stages.0.label>
+  <TM_Good_BestowMagicClassTD.stages.0.description>The arcane path ritual was fantastic, emotionally and magically charged - it's always wonderful to see someone achieve their dreams!</TM_Good_BestowMagicClassTD.stages.0.description>
   <TM_MagicLoreTD.stages.0.label>gained arcane knowledge</TM_MagicLoreTD.stages.0.label>
   <TM_MagicLoreTD.stages.0.description>I've been enlightened by words from a powerful mage, now I just have to apply this knowledge...</TM_MagicLoreTD.stages.0.description>
   <TM_MightLoreTD.stages.0.label>gained combat experience</TM_MightLoreTD.stages.0.label>
