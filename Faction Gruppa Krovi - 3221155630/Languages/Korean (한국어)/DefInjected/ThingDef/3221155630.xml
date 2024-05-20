@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RH2_DragonVodka.label>vodka (Dragon)</RH2_DragonVodka.label>
+  <RH2_DragonVodka.description>Dragon Vodka was born in the heart of the FSSR (Federation of Soviet Socialist Republics), it's a classic drink with ancient roots. Unlike beer, it offers a unique blend of taste and strength that has become a staple in Soviet culture. Excessive consumption can lead to alcohol blackouts and, over time, addiction.</RH2_DragonVodka.description>
+  <RH2_DragonVodka.ingestible.ingestCommandString>Drink {0}</RH2_DragonVodka.ingestible.ingestCommandString>
+  <RH2_DragonVodka.ingestible.ingestReportString>Drinking {0}.</RH2_DragonVodka.ingestible.ingestReportString>
+  <RH2_DragonVodka.tools.0.label>bottle</RH2_DragonVodka.tools.0.label>
+  <RH2_DragonVodka.tools.1.label>neck</RH2_DragonVodka.tools.1.label>
+  <RH2_Dima_Cigarette.label>Dima cigarette</RH2_Dima_Cigarette.label>
+  <RH2_Dima_Cigarette.description>Dima is a Soviet Federation brand of commercially made smokeleaf cigarettes that filter out a mild amount of smokeleaf's toxicity, reducing the rate of tolerance gain by 8%. Within the cigarette are Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures.</RH2_Dima_Cigarette.description>
+  <RH2_Dima_Cigarette.ingestible.ingestCommandString>Smoke {0}</RH2_Dima_Cigarette.ingestible.ingestCommandString>
+  <RH2_Dima_Cigarette.ingestible.ingestReportString>Smoking {0}.</RH2_Dima_Cigarette.ingestible.ingestReportString>
+  <RH2_Dima_Cigarette.ingestible.ingestReportStringEat>Consuming {0}.</RH2_Dima_Cigarette.ingestible.ingestReportStringEat>
+  <RH2_Ration_RedArmyRation.label>red army ration</RH2_Ration_RedArmyRation.label>
+  <RH2_Ration_RedArmyRation.description>Red Army rations, issued to Soviet Federation Red Army soldiers. A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling.</RH2_Ration_RedArmyRation.description>
+  <RN2Gun_KV2_DSHKMachineGun.label>DShK 1938 sentry turret</RN2Gun_KV2_DSHKMachineGun.label>
+  <RN2Gun_KV2_DSHKMachineGun.description>The DShK 1938 is a Soviet Federation heavy machine gun. The weapon may be vehicle mounted or used on a tripod or wheeled carriage as a heavy infantry machine gun. The DShK's name is derived from its original designer, Vasily Degtyaryov, and Georgi Shpagin, who later improved the cartridge feed mechanism.</RN2Gun_KV2_DSHKMachineGun.description>
+  <RNBullet_127x108_DSHKMGMech.label>12.7x108mm bullet</RNBullet_127x108_DSHKMGMech.label>
+  <RNBullet_KV2_KrohaRocket.label>Kroha</RNBullet_KV2_KrohaRocket.label>
+  <RNGun_KV2_KrohaLauncher.label>kroha launcher</RNGun_KV2_KrohaLauncher.label>
+  <RNGun_KV2_KrohaLauncher.description>The Peace Launcher is a towering behemoth armed with a barrage of AIM-4 Falcon rockets, the Peace Launcher embodies a grim irony in its name. Originally conceived as a symbol of harmony, this formidable weapon now rains destruction upon the battlefield. With each thunderous salvo, the reality of war clashes with the notion of peace, underscoring the harsh truths of conflict. Despite its ominous purpose, the Peace Launcher stands as a testament to the contradictions of warfare.</RNGun_KV2_KrohaLauncher.description>
+  <RNGun_KV2_KrohaLauncher.tools.0.label>launcher platform</RNGun_KV2_KrohaLauncher.tools.0.label>
+  <RNBullet_KV2_Shell.label>152mm Howitzer</RNBullet_KV2_Shell.label>
+  <RNGun_KV2_Howitzer.label>ML-20 cannon</RNGun_KV2_Howitzer.label>
+  <RNGun_KV2_Howitzer.description>The ML-20, a stalwart of Soviet artillery, is a formidable 152mm howitzer renowned for its power and versatility. Serving as a backbone of Red Army artillery during World War II and beyond, this robust cannon delivers devastating firepower with precision and range. Its ability to fire a variety of shells, from high-explosive to armor-piercing, makes it a versatile asset on the battlefield.</RNGun_KV2_Howitzer.description>
+  <RNGun_KV2_Howitzer.tools.0.label>giant barrel</RNGun_KV2_Howitzer.tools.0.label>
+  <RNBullet_Tesla_Charge.label>Tesla charge</RNBullet_Tesla_Charge.label>
+  <RNGun_Tesla_Coil.label>Tesla coil</RNGun_Tesla_Coil.label>
+  <RNGun_Tesla_Coil.description>The Tesla Coil is a fearsome weapon that harnesses the power of electricity to unleash deadly arcs of energy. With its advanced Soviet Federation technology, it delivers devastating strikes to enemy targets with precision and force.</RNGun_Tesla_Coil.description>
+  <RNGun_Tesla_Coil.tools.0.label>giant barrel</RNGun_Tesla_Coil.tools.0.label>
+  <RNBullet_RedStar_Plasma.label>Red Star plasma</RNBullet_RedStar_Plasma.label>
+  <RNGun_RedStar_PlasmaCannon.label>Red Star Cannon</RNGun_RedStar_PlasmaCannon.label>
+  <RNGun_RedStar_PlasmaCannon.description>The "Red Star" plasma cannon is a cutting-edge Soviet creation that unleashes fiery red plasma charges upon its targets. Designed for maximum destruction, its crimson charges sear through enemy defenses with relentless force. This weapon embodies Soviet ingenuity and firepower, striking fear into the hearts of adversaries with every discharge.</RNGun_RedStar_PlasmaCannon.description>
+  <RNGun_RedStar_PlasmaCannon.tools.0.label>giant barrel</RNGun_RedStar_PlasmaCannon.tools.0.label>
+  <RH2Mech_KV2Walker.label>KV-2 Walker</RH2Mech_KV2Walker.label>
+  <RH2Mech_KV2Walker.description>The KV-2 Walker Mech, born from the hulking frame of a repurposed Soviet tank, stands as a testament to ingenuity in warfare. Transformed into an unmanned behemoth, its robust chassis and imposing stature dominate the battlefield. A symbol of Soviet Federation engineering prowess, the KV-2 Walker Mech is armed with a DShK sentry gun, a 152mm howitzer and Kroha launchers. It is primarily designed for close support and bunker busting roles.</RH2Mech_KV2Walker.description>
+  <RH2Mech_KV2Walker.tools.0.label>bi-pedal foot</RH2Mech_KV2Walker.tools.0.label>
+  <RH2Mech_TeslaDrone.label>Tesla Drone</RH2Mech_TeslaDrone.label>
+  <RH2Mech_TeslaDrone.description>The Tesla Drone is a variant of the "Stalnoy" Mechanized Drone. A tough Soviet-made, AI powered war machine for the Red Army. On its shoulder is a towering weapon system that can be configured to either the Tesla coil or the Red Star twin plasma cannon. The drone is designed to support infantry, and has close combat capabilities with its power fists in the event of melee engagements.</RH2Mech_TeslaDrone.description>
+  <RH2Mech_TeslaDrone.tools.0.label>left power fist</RH2Mech_TeslaDrone.tools.0.label>
+  <RH2Mech_TeslaDrone.tools.1.label>right power fist</RH2Mech_TeslaDrone.tools.1.label>
+  <RH2Mech_PlasmaDrone.label>Plasma Drone</RH2Mech_PlasmaDrone.label>
+  <RH2Mech_PlasmaDrone.description>The Plasma Drone is a variant of the "Stalnoy" Mechanized Drone. A tough Soviet-made, AI powered war machine for the Red Army. On its shoulder is a towering weapon system that can be configured to either the Tesla coil or the Red Star twin plasma cannon. The drone is designed to support infantry, and has close combat capabilities with its power fists in the event of melee engagements.</RH2Mech_PlasmaDrone.description>
+  <RH2Mech_PlasmaDrone.tools.0.label>left power fist</RH2Mech_PlasmaDrone.tools.0.label>
+  <RH2Mech_PlasmaDrone.tools.1.label>right power fist</RH2Mech_PlasmaDrone.tools.1.label>
+  <RNApparel_CryeCAGE_Multicam.label>Crye CAGE body armour (Multicam)</RNApparel_CryeCAGE_Multicam.label>
+  <RNApparel_CryeCAGE_Multicam.description>Body armor, also known as body armour, personal armor/armour, or a suit/coat of armour, is protective clothing designed to absorb or deflect physical attacks. Historically used to protect military personnel, today it is used by various types of armed factions (industrial type in particular), security guards or mercenaries, and occasionally ordinary townsfolk.\n\nThis plate carrier variant is the Crye CAGE Multicam variant.</RNApparel_CryeCAGE_Multicam.description>
+  <RNApparel_Defender2_Green.label>Defender 2 body armour (Green)</RNApparel_Defender2_Green.label>
+  <RNApparel_Defender2_Green.description>The Defender 2 Body Armor sometimes shortened to D2 is a body armor of Russian origin. The D2 body armor has kevlar inserts as well as two pockets on both the front and back which allow for added ballistic inserts. The soft armour is capable of protection at GOST 2 standards, while the plates in conjunction with the soft armor are capable of the 4 or 5th level. (Unclear, sources contradict)
+
+It also has a removable neck protector which is held onto the front with velcro. The vest has some adjustability with its velcro cummerbund. It has been produced in a variety of colors and patterns with some modern versions featuring molle webbing.\n\nThis version comes in a ranger green cover.</RNApparel_Defender2_Green.description>
+  <RNApparel_EyePros_EdgeTactical.label>eye protection (Edge Tactical)</RNApparel_EyePros_EdgeTactical.label>
+  <RNApparel_EyePros_EdgeTactical.description>Eye protection is protective gear for the eyes, and sometimes face, designed to reduce the risk of injury. Examples of risks requiring eye protection can include: impact from particles or debris, light or radiation, wind blast, heat, sea spray or impact from some type of ball or puck used in sports.\n\nThis brand of eyewear comes from the edge tactical series.</RNApparel_EyePros_EdgeTactical.description>
+  <RNApparel_EyePros_GucciAviatorGlasses.label>sunglasses (Gucci)</RNApparel_EyePros_GucciAviatorGlasses.label>
+  <RNApparel_EyePros_GucciAviatorGlasses.description>Eye protection is protective gear for the eyes, and sometimes face, designed to reduce the risk of injury. Examples of risks requiring eye protection can include: impact from particles or debris, light or radiation, wind blast, heat, sea spray or impact from some type of ball or puck used in sports.\n\nThis brand of eyewear comes from the Gucci Aviator sunglasses series.</RNApparel_EyePros_GucciAviatorGlasses.description>
+  <RNApparel_Flatcap.label>flat cap</RNApparel_Flatcap.label>
+  <RNApparel_Flatcap.description>A snug-fitting hat with a rounded, flat crown and a short brim.</RNApparel_Flatcap.description>
+  <RNApparel_UaRmsTORD_GreenMoss.label>TOR-D ballistic helmet (green moss)</RNApparel_UaRmsTORD_GreenMoss.label>
+  <RNApparel_UaRmsTORD_GreenMoss.description>TOR-D is the light version of ballistic helmet TOR. Helmet form with special side cutouts provides additional facilities for using active headphones and radio headset. It is intended for individual protection of the soldiers of airborne forces and special divisions from traumas and wounds, and for installing special equipment.Provides the head protection at falling or hitting, under the impact of an explosive wave, small fragments and ricochets, under a hit of pistol bullets and other small-arms bullets spent. Produced by UaRms.\n\nThis version comes in green moss Soviet Federation camo.</RNApparel_UaRmsTORD_GreenMoss.description>
+  <RNApparel_6b27_GreenBare.label>6b27 helmet</RNApparel_6b27_GreenBare.label>
+  <RNApparel_6b27_GreenBare.description>The 6B27 helmet is an old Soviet Federation Red Army issued helmet. It a rugged yet comfortable headgear designed for modern combat scenarios. Crafted from sturdy ballistic aramid fibers, it provides reliable protection against ballistic threats and blunt impacts.</RNApparel_6b27_GreenBare.description>
+  <RNApparel_K63_HelmetA.label>K6-3 (A)</RNApparel_K63_HelmetA.label>
+  <RNApparel_K63_HelmetA.description>The K6-3 helmet is a specialized headgear renowned for its robust construction and superior protection. Engineered for elite military forces, this helmet boasts a distinctive high-cut design, providing optimal coverage while allowing for enhanced mobility and comfort during combat operations. Crafted from advanced ballistic materials, the K6-3 offers unparalleled resistance against ballistic threats, shrapnel, and blunt force trauma.\n\nThis version does not feature a visor.</RNApparel_K63_HelmetA.description>
+  <RNApparel_K63_HelmetB.label>K6-3 (B)</RNApparel_K63_HelmetB.label>
+  <RNApparel_K63_HelmetB.description>The K6-3 helmet is a specialized headgear renowned for its robust construction and superior protection. Engineered for elite military forces, this helmet boasts a distinctive high-cut design, providing optimal coverage while allowing for enhanced mobility and comfort during combat operations. Crafted from advanced ballistic materials, the K6-3 offers unparalleled resistance against ballistic threats, shrapnel, and blunt force trauma.\n\nThis version features a visor.</RNApparel_K63_HelmetB.description>
+  <RNApparel_K63_Helmet_GP7Gasmask.label>K6-3 (GP-7 gas mask)</RNApparel_K63_Helmet_GP7Gasmask.label>
+  <RNApparel_K63_Helmet_GP7Gasmask.description>TThe K6-3 helmet is a specialized headgear renowned for its robust construction and superior protection. Engineered for elite military forces, this helmet boasts a distinctive high-cut design, providing optimal coverage while allowing for enhanced mobility and comfort during combat operations. Crafted from advanced ballistic materials, the K6-3 offers unparalleled resistance against ballistic threats, shrapnel, and blunt force trauma.\n\nThis version comes with a GP-7 respirator.</RNApparel_K63_Helmet_GP7Gasmask.description>
+  <RNApparel_Helmet_JuggernautMkII.label>juggernaut Mk2 helmet</RNApparel_Helmet_JuggernautMkII.label>
+  <RNApparel_Helmet_JuggernautMkII.description>Part of the Juggernaut Mk2 suit, the Juggernaut Mk 2 helmet consists of an experimental, Altyn style ballistic helmet fitted with a ballistic face shield and an advanced, built-in Soviet engineered respirator. This system allows the wearer to be more resistant to chemical attacks and have a great amount of protection for their head.</RNApparel_Helmet_JuggernautMkII.description>
+  <RNApparel_Soviet_JuggernautSuitMkII.label>juggernaut suit Mk2</RNApparel_Soviet_JuggernautSuitMkII.label>
+  <RNApparel_Soviet_JuggernautSuitMkII.description>The Juggernaut suit Mk2 is a Soviet Federation made experimental body armor that features an Exo-skeleton system that grants the wearer of this heavy armor high mobility. It is given to "Juggernaut" units, hence the name. Often worn while carrying a machinegun, the juggernaut suit Mk 2 is designed to sustain damage and evidently create a walking "tank". Its predecessor was often unwieldy for practical use, but this revised Mk 2 variant features advanced Soviet engineering that makes it more practical for field use.</RNApparel_Soviet_JuggernautSuitMkII.description>
+  <RNApparel_Balaclava_Kula1Hole.label>balaclava (Kula 1 hole)</RNApparel_Balaclava_Kula1Hole.label>
+  <RNApparel_Balaclava_Kula1Hole.description>A balaclava, also known as a balaclava helmet or Bally (UK slang) or ski mask (US slang), is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth. Depending on style and how it is worn, only the eyes, mouth and nose, or just the front of the face are unprotected.\n\nThis version is the Kula line of 1 hole balaclavas.</RNApparel_Balaclava_Kula1Hole.description>
+  <RNApparel_Balaclava_Kula3Hole.label>balaclava (Kula 3 hole)</RNApparel_Balaclava_Kula3Hole.label>
+  <RNApparel_Balaclava_Kula3Hole.description>A balaclava, also known as a balaclava helmet or Bally (UK slang) or ski mask (US slang), is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth. Depending on style and how it is worn, only the eyes, mouth and nose, or just the front of the face are unprotected.\n\nThis version is the Kula line of 3 hole balaclavas.</RNApparel_Balaclava_Kula3Hole.description>
+  <RNApparel_Balaclava_Multicam.label>balaclava (Multicam)</RNApparel_Balaclava_Multicam.label>
+  <RNApparel_Balaclava_Multicam.description>A balaclava, also known as a balaclava helmet or Bally (UK slang) or ski mask (US slang), is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth. Depending on style and how it is worn, only the eyes, mouth and nose, or just the front of the face are unprotected.\n\nThis version is a multicam balaclava</RNApparel_Balaclava_Multicam.description>
+  <RNApparel_UBACShirt_GreenMoss.description>The rapid assault shirt is a form of shirt designed to be worn under body armour for hot conditions, a breathable and quick dry layer for the torso and arm sleeves with pockets and velcro patches. \n\nThis brand of Under Body Armor Clothing is a custom made apparel by Splav for the Red Army.</RNApparel_UBACShirt_GreenMoss.description>
+  <RNApparel_UBACShirt_GreenMoss.label>UBAC uniform (green moss)</RNApparel_UBACShirt_GreenMoss.label>
+  <RNApparel_Jacket_GORKA4Jacket.description>Gorka 4 Suit Bars is a Russian special forces military uniform suit designed for mountain divisions (the word "Gorka" originates from Russian word "mountain"). This BDU first appeared in the Soviet army during the Afghanistan war, then widely use during Chechen wars and other conflicts. It is mainly used by special forces (spetsnaz) of MVD, FSB, VDV (airborne), GRU.</RNApparel_Jacket_GORKA4Jacket.description>
+  <RNApparel_Jacket_GORKA4Jacket.label>GORKA 4 uniform</RNApparel_Jacket_GORKA4Jacket.label>
+  <RNApparel_Jacket_GORKA4AnorakJacket.description>Gorka 4 Suit Bars is a Russian special forces military uniform suit designed for mountain divisions (the word "Gorka" originates from Russian word "mountain"). This BDU first appeared in the Soviet army during the Afghanistan war, then widely use during Chechen wars and other conflicts. It is mainly used by special forces (spetsnaz) of MVD, FSB, VDV (airborne), GRU.\n\nThis version is the "Anorak" version.</RNApparel_Jacket_GORKA4AnorakJacket.description>
+  <RNApparel_Jacket_GORKA4AnorakJacket.label>GORKA 4 uniform (Anorak)</RNApparel_Jacket_GORKA4AnorakJacket.label>
+  <RNApparel_Jacket_GORKAESSOJacket.description>Gorka E Suit Bars is a Russian special forces military uniform suit designed for mountain divisions (the word "Gorka" originates from Russian word "mountain"). This BDU first appeared in the Soviet army during the Afghanistan war, then widely use during Chechen wars and other conflicts. It is mainly used by special forces (spetsnaz) of MVD, FSB, VDV (airborne), GRU.\n\nThis Version is the GORKA E version in ESSO camo.</RNApparel_Jacket_GORKAESSOJacket.description>
+  <RNApparel_Jacket_GORKAESSOJacket.label>GORKA E uniform (ESSO)</RNApparel_Jacket_GORKAESSOJacket.label>
+  <RNApparel_Jacket_GORKAKMLKJacket.description>Gorka 1 Suit Bars is a Russian special forces military uniform suit designed for mountain divisions (the word "Gorka" originates from Russian word "mountain"). This BDU first appeared in the Soviet army during the Afghanistan war, then widely use during Chechen wars and other conflicts. It is mainly used by special forces (spetsnaz) of MVD, FSB, VDV (airborne), GRU.\n\nThis version is a GORKA 1 KMLK oversuit.</RNApparel_Jacket_GORKAKMLKJacket.description>
+  <RNApparel_Jacket_GORKAKMLKJacket.label>GORKA 1 uniform (KMLK)</RNApparel_Jacket_GORKAKMLKJacket.label>
+  <RNApparel_Tracksuit_Black.description>A tough tactical jacket to stop scrapes and bruises, designed for use in the field. It is able to keep one warm in chilly weather, also has armpit zips to cool off in the heat unlike other traditional jackets.\n\nThis brand of tactical jacket is the Task Force 141 Fleece.</RNApparel_Tracksuit_Black.description>
+  <RNApparel_Tracksuit_Black.label>tracksuit outfit (black)</RNApparel_Tracksuit_Black.label>
+  <RHApparel_Smersh_Assault.description>Webbing is a strong fabric woven as a flat strip or tube of varying width and fibres, often used in place of rope. It is a versatile component used in climbing, slacklining, furniture manufacturing, automobile safety, auto racing, towing, parachuting, military apparel, load securing, and many other fields.\n\nThis variant is the "Smersh webbing" set to a rifleman's configuration.</RHApparel_Smersh_Assault.description>
+  <RHApparel_Smersh_Assault.label>Smersh (Assault)</RHApparel_Smersh_Assault.label>
+  <RHApparel_Smersh_Sniper.description>Webbing is a strong fabric woven as a flat strip or tube of varying width and fibres, often used in place of rope. It is a versatile component used in climbing, slacklining, furniture manufacturing, automobile safety, auto racing, towing, parachuting, military apparel, load securing, and many other fields.\n\nThis variant is the "Smersh webbing" set to a sniper's configuration.</RHApparel_Smersh_Sniper.description>
+  <RHApparel_Smersh_Sniper.label>Smersh (Sniper)</RHApparel_Smersh_Sniper.label>
+  <RNApparel_Backpack_JuggernautMkII.label>ammo carrier backpack</RNApparel_Backpack_JuggernautMkII.label>
+  <RNApparel_Backpack_JuggernautMkII.description>The Berghaus Vulcan IV bergen. This backpack allows the wearer to carry up to 70 KG for caravan trips and other outdoor activities.</RNApparel_Backpack_JuggernautMkII.description>
+  <RNApparel_Backpack_SydorM230L.label>Sydor M2 30L backpack</RNApparel_Backpack_SydorM230L.label>
+  <RNApparel_Backpack_SydorM230L.description>The Splav Tactical Sydor M2 30L backpack. This backpack allows the wearer to carry up to 45 KG for caravan trips and other outdoor activities.</RNApparel_Backpack_SydorM230L.description>
+  <RNApparel_Backpack_Cascade45L.label>Cascade 45L backpack</RNApparel_Backpack_Cascade45L.label>
+  <RNApparel_Backpack_Cascade45L.description>The Splav Tactical Cascade 45L backpack. This backpack allows the wearer to carry up to 45 KG for caravan trips and other outdoor activities.</RNApparel_Backpack_Cascade45L.description>
+  <RNApparel_Backpack_KulaHydrobag.label>hydropack</RNApparel_Backpack_KulaHydrobag.label>
+  <RNApparel_Backpack_KulaHydrobag.description>The Splav Tactical Hydropack. This backpack allows the wearer to carry up to 20 KG for caravan trips and other outdoor activities.</RNApparel_Backpack_KulaHydrobag.description>
+  <RNBullet_40SW_Pistol.label>.40 SW bullet</RNBullet_40SW_Pistol.label>
+  <RNBullet_45ACP_Pistol.label>.45 ACP bullet</RNBullet_45ACP_Pistol.label>
+  <RNBullet_45ACPAP_Pistol.label>.45 ACP bullet (AP)</RNBullet_45ACPAP_Pistol.label>
+  <RNBullet_9MM_Pistol.label>9x19mm Parabellum bullet</RNBullet_9MM_Pistol.label>
+  <RNBullet_9MMMakarov_Pistol.label>9x18mm Makarov bullet</RNBullet_9MMMakarov_Pistol.label>
+  <RNBullet_9MMAP_Pistol.label>9x19mm Parabellum bullet (AP)</RNBullet_9MMAP_Pistol.label>
+  <RNBullet_46x30_Pistol.label>4.6x30mm bullet</RNBullet_46x30_Pistol.label>
+  <RNBullet_57_Pistol.label>5.7x28mm bullet</RNBullet_57_Pistol.label>
+  <RNBullet_50_Pistol.label>.50 AE bullet</RNBullet_50_Pistol.label>
+  <RNBullet_762Tokarev_Pistol.label>7.62x25mm Tokarev bullet</RNBullet_762Tokarev_Pistol.label>
+  <RNBullet_762_Revolver.label>7.62x38mmR bullet</RNBullet_762_Revolver.label>
+  <RNBullet_454_Revolver.label>.454 Casull bullet</RNBullet_454_Revolver.label>
+  <RNBullet_44Magnum_Pistol.label>.44 Magnum bullet</RNBullet_44Magnum_Pistol.label>
+  <RNBullet_45Colt_Pistol.label>.45 Colt bullet</RNBullet_45Colt_Pistol.label>
+  <RNBullet_38Special_Pistol.label>.38 Special bullet</RNBullet_38Special_Pistol.label>
+  <RNBullet_357_Revolver.label>.357 Magnum bullet</RNBullet_357_Revolver.label>
+  <RNBullet_545x39_Rifle.label>5.45x39mm bullet</RNBullet_545x39_Rifle.label>
+  <RNBullet_AACBlackout_PDW.label>.300 AAC Blackout bullet</RNBullet_AACBlackout_PDW.label>
+  <RNBullet_380_SMG.label>.380 bullet</RNBullet_380_SMG.label>
+  <RNBullet_32ACP_Pistol.label>.32 ACP bullet</RNBullet_32ACP_Pistol.label>
+  <RNBullet_12Gauge_Shotgun.label>12 Gauge shotgun blast</RNBullet_12Gauge_Shotgun.label>
+  <RNBullet_23x75mmR_Shotgun.label>23x75mmR blast</RNBullet_23x75mmR_Shotgun.label>
+  <RNBullet_762x54_LMG.label>7.62x54mmR bullet</RNBullet_762x54_LMG.label>
+  <RNBullet_762x51mm_LMG.label>7.62x51mm NATO bullet</RNBullet_762x51mm_LMG.label>
+  <RNBullet_762x39_Rifle.label>7.62x39R bullet</RNBullet_762x39_Rifle.label>
+  <RNBullet_223Remington_Rifle.label>.223 Remington bullet</RNBullet_223Remington_Rifle.label>
+  <RNBullet_556x45_Rifle.label>5.56x45mm bullet</RNBullet_556x45_Rifle.label>
+  <RNBullet_303British_Rifle.label>.303 British bullet</RNBullet_303British_Rifle.label>
+  <RNBullet_762x54_Rifle.label>7.62x54mmR bullet</RNBullet_762x54_Rifle.label>
+  <RNBullet_792x57Mauser_Rifle.label>8mm Mauser bullet</RNBullet_792x57Mauser_Rifle.label>
+  <RNBullet_7x64mmBrenneke_Rifle.label>7x64mm bullet</RNBullet_7x64mmBrenneke_Rifle.label>
+  <RNBullet_9x39mmSP6_DMR.label>9x39mm SP-6 bullet</RNBullet_9x39mmSP6_DMR.label>
+  <RNBullet_58x42mm_DMR.label>5.8x42mm bullet</RNBullet_58x42mm_DMR.label>
+  <RNBullet_762x39_DMR.label>7.62x39R bullet</RNBullet_762x39_DMR.label>
+  <RNBullet_762x51mm_DMR.label>7.62 NATO bullet</RNBullet_762x51mm_DMR.label>
+  <RNBullet_762x54_DMR.label>7.62x54mmR bullet</RNBullet_762x54_DMR.label>
+  <RNBullet_792x57Mauser_DMR.label>8mm Mauser bullet</RNBullet_792x57Mauser_DMR.label>
+  <RNBullet_308Winchester_DMR.label>.308 Winchester bullet</RNBullet_308Winchester_DMR.label>
+  <RNBullet_762x51mm_Sniper.label>7.62 NATO bullet</RNBullet_762x51mm_Sniper.label>
+  <RNBullet_308Winchester_Sniper.label>.308 Winchester bullet</RNBullet_308Winchester_Sniper.label>
+  <RNBullet_338Lapua_Sniper.label>.338 Lapua Magnum bullet</RNBullet_338Lapua_Sniper.label>
+  <RNBullet_762x54_Sniper.label>7.62x54mmR bullet</RNBullet_762x54_Sniper.label>
+  <RNBullet_408Cheyenne_Sniper.label>.408 Cheyenne Tactical bullet</RNBullet_408Cheyenne_Sniper.label>
+  <RNBullet_50BMG_Sniper.label>.50 BMG bullet</RNBullet_50BMG_Sniper.label>
+  <RNBullet_127x108_Sniper.label>12.7x108mm bullet</RNBullet_127x108_Sniper.label>
+  <RNBullet_RPG7V2_Rocket.label>RPG-7v2 HE rocket</RNBullet_RPG7V2_Rocket.label>
+  <RNGun_RPG7V2_RocketLauncher.label>RPG-7v2</RNGun_RPG7V2_RocketLauncher.label>
+  <RNGun_RPG7V2_RocketLauncher.description>The RPG-7v2 is a portable, reusable, unguided, shoulder-launched, anti-tank rocket-propelled grenade launcher. Originally the RPG-7v2 and its predecessor, the RPG-2, were designed by the Soviet Federation.
+
+The ruggedness, simplicity, low cost, and effectiveness of the RPG-7v2 has made it the most widely used anti-armor weapon in the world. It is re-usable.</RNGun_RPG7V2_RocketLauncher.description>
+  <RNGun_RPG7V2_RocketLauncher.tools.0.label>barrel</RNGun_RPG7V2_RocketLauncher.tools.0.label>
+  <RNGun_PKP_GPMG.label>PKP</RNGun_PKP_GPMG.label>
+  <RNGun_PKP_GPMG.description>The PKP Pecheneg is a Soviet Federation 7.62×54mmR general-purpose machine gun. It is a further development and modification of the PK machine gun (PKM). It is said to be more accurate than all its predecessors due to a heavier, removable, partially forced-air-cooled barrel with radial cooling ribs and a handle which eliminates the haze effect from hot gases and keeps the barrel cooler, making the weapon more reliable.</RNGun_PKP_GPMG.description>
+  <RNGun_PKP_GPMG.tools.0.label>stock</RNGun_PKP_GPMG.tools.0.label>
+  <RNGun_PKP_GPMG.tools.1.label>barrel</RNGun_PKP_GPMG.tools.1.label>
+  <RNGun_GSHG762_RotaryCannon.label>GShG-7.62 rotary cannon</RNGun_GSHG762_RotaryCannon.label>
+  <RNGun_GSHG762_RotaryCannon.description>The Glagolev-Shipunov-Gryazev GShG-7.62 is a four-barreled rotary machine gun designed in the Soviet Union, similar to firearms such as the M134 Minigun. It is a hybrid weapon using both propellant gas and an electric drive to rotate the barrels, which is in contrast with most other rotary guns (that are often exclusively powered via an electric drive).</RNGun_GSHG762_RotaryCannon.description>
+  <RNGun_GSHG762_RotaryCannon.tools.0.label>stock</RNGun_GSHG762_RotaryCannon.tools.0.label>
+  <RNGun_GSHG762_RotaryCannon.tools.1.label>barrel</RNGun_GSHG762_RotaryCannon.tools.1.label>
+  <RNGun_AK12_Rifle.label>AK-12</RNGun_AK12_Rifle.label>
+  <RNGun_AK12_Rifle.description>The AK-12 is a Soviet Federation 5.45×39mm assault rifle, designed and manufactured by Kalashnikov Concern (formerly Izhmash). It is one of the modern derivative of the Soviet Federation AK-Pattern series of assault rifles.
+	
+Kalashnikov also offers the AK-12 in 7.62×39mm cartridge, designated as the AK-15.</RNGun_AK12_Rifle.description>
+  <RNGun_AK12_Rifle.tools.0.label>stock</RNGun_AK12_Rifle.tools.0.label>
+  <RNGun_AK12_Rifle.tools.1.label>barrel</RNGun_AK12_Rifle.tools.1.label>
+  <RNGun_AK105_Rifle.label>AK-105</RNGun_AK105_Rifle.label>
+  <RNGun_AK105_Rifle.description>The AK-105 is a short barrel, carbine version of the AK-74M rifle, originally developed to replace the shorter barrelled AKS-74U. The AK-105 is chambered in 5.45×39mm ammunition and is used domestically by the Soviet Federation Red Army in contrast to other AK-100 series rifles.</RNGun_AK105_Rifle.description>
+  <RNGun_AK105_Rifle.tools.0.label>stock</RNGun_AK105_Rifle.tools.0.label>
+  <RNGun_AK105_Rifle.tools.1.label>barrel</RNGun_AK105_Rifle.tools.1.label>
+  <RNGun_AK74Contractor_Rifle.label>AK74 (contractor)</RNGun_AK74Contractor_Rifle.label>
+  <RNGun_AK74Contractor_Rifle.description>The AK-74 is an assault rifle developed in the early 1970s by Soviet Federation designer Mikhail Kalashnikov as the replacement for the earlier AKM (itself a refined version of the AK-47).
+	
+It uses a smaller 5.45×39mm cartridge, replacing the 7.62×39mm chambering of earlier Kalashnikov-pattern weapons.</RNGun_AK74Contractor_Rifle.description>
+  <RNGun_AK74Contractor_Rifle.tools.0.label>stock</RNGun_AK74Contractor_Rifle.tools.0.label>
+  <RNGun_AK74Contractor_Rifle.tools.1.label>barrel</RNGun_AK74Contractor_Rifle.tools.1.label>
+  <RNGun_ASVALContractor_Rifle.label>AS VAL (contractor)</RNGun_ASVALContractor_Rifle.label>
+  <RNGun_ASVALContractor_Rifle.description>The AS Val is a Soviet-designed rifle featuring an integrated suppressor. Development of a special rifle (AS) "Shaft" began in the first half of the 1980s in the Central Research Institute of Precision Engineering (TSNIITOCHMASH), in the city of Klimovsk, Moscow region.
+	
+The lead designer of the rifle is Pyotr Serdyukov. The AS Val and VSS proved to be very effective and remain in service with elements of the Russian army and special forces and Moscow’s intelligence and security forces.</RNGun_ASVALContractor_Rifle.description>
+  <RNGun_ASVALContractor_Rifle.tools.0.label>stock</RNGun_ASVALContractor_Rifle.tools.0.label>
+  <RNGun_ASVALContractor_Rifle.tools.1.label>barrel</RNGun_ASVALContractor_Rifle.tools.1.label>
+  <RNGun_DragunovSVDS_DMR.label>SVDS</RNGun_DragunovSVDS_DMR.label>
+  <RNGun_DragunovSVDS_DMR.description>The Dragunov sniper rifle is a semi-automatic sniper/designated marksman rifle chambered in 7.62×54mmR and developed in the Soviet Union.
+
+The Dragunov was designed as a squad support weapon since, according to Soviet and Soviet-derived military doctrines, the long-range engagement ability was lost to ordinary troops when submachine guns and assault rifles (which are optimized for close-range and medium-range, rapid-fire combat) were adopted. For that reason, it was originally named "Self-Loading Rifle, System of Dragunov, Model of the Year 1963".\n\nThe SVDS is a modern version of the Dragunov.</RNGun_DragunovSVDS_DMR.description>
+  <RNGun_DragunovSVDS_DMR.tools.0.label>stock</RNGun_DragunovSVDS_DMR.tools.0.label>
+  <RNGun_DragunovSVDS_DMR.tools.1.label>barrel</RNGun_DragunovSVDS_DMR.tools.1.label>
+  <RNGun_KSVK_AMR.label>KSVK 12.7</RNGun_KSVK_AMR.label>
+  <RNGun_KSVK_AMR.description>The KSVK 12.7 or Degtyarev sniper rifle is a 12.7mm anti-materiel rifle developed in the Soviet Federation for the purpose of counter sniping and penetrating thick walls, as well as light armored vehicles.</RNGun_KSVK_AMR.description>
+  <RNGun_KSVK_AMR.tools.0.label>stock</RNGun_KSVK_AMR.tools.0.label>
+  <RNGun_KSVK_AMR.tools.1.label>barrel</RNGun_KSVK_AMR.tools.1.label>
+</LanguageData>

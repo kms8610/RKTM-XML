@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RH.GruppaKroviEnlistLetterTitle>{FACTION_name}: Enlisted</RH.GruppaKroviEnlistLetterTitle>
+  <RH.GruppaKroviEnlistLetterLabel>Privet my friend. I am {LEADER_nameDef}, and you are now one of mine. Welcome to {FACTION_name}. Take pride, because you now serve our glorious Motherland.\n\n- You are entitled to collect your pay which arrives every 7 days. \n- Provisions from the Red Army arrives every 5 days, which includes rations, medicine and merchandise from home.\n- PMC issue equipment that includes weapons and body armor.\n\nI will treat you and your friends like adults so you can operate freely, however, if you aren't good enough to fight then you will be butchered by the dogs we call our enemies. Sink or swim my friend. It's as simple as that.\n\nThat's it from me comrade. Pay for victory at any cost, bring glory to our Motherland.</RH.GruppaKroviEnlistLetterLabel>
+  <RH.GruppaKroviEnlistButtonLabel>Enlist with {FACTION_name}</RH.GruppaKroviEnlistButtonLabel>
+  <RH.GruppaKroviEnlistButtonDesc>Sign a new contract with {FACTION_name}.</RH.GruppaKroviEnlistButtonDesc>
+  <RH.GruppaKroviEnlistRequrementsNotSatisfied>This faction does not trust your community enough for you to join.\n\nYou will need a minimum of 15 goodwill, currently you have only {0} goodwill.</RH.GruppaKroviEnlistRequrementsNotSatisfied>
+  <RH.GruppaKroviEnlistedWithKey>Enlisted with: {FACTION_name}</RH.GruppaKroviEnlistedWithKey>
+  <RH.GruppaKroviMissionsLabel>Operations</RH.GruppaKroviMissionsLabel>
+  <RH.GruppaKroviMissionsDesc>Mission description</RH.GruppaKroviMissionsDesc>
+  <RH.GruppaKroviMenuMissionsDesc>You enter a briefing room full of sensitive information.
+There you find a war plan and abundant intel on the local area.
+</RH.GruppaKroviMenuMissionsDesc>
+  <RH.GruppaKroviMenuMissionsSelectQuest>Select Operation: </RH.GruppaKroviMenuMissionsSelectQuest>
+  <RH.GruppaKroviMenuMissionsStartQuest>Start Quest ({0})</RH.GruppaKroviMenuMissionsStartQuest>
+  <RH.Cancel>Cancel</RH.Cancel>
+  <RH.GruppaKroviNoEnoughMoney>Not enough money</RH.GruppaKroviNoEnoughMoney>
+  <RH.GruppaKroviStorageLabel>Storage</RH.GruppaKroviStorageLabel>
+  <RH.GruppaKroviStorageDesc>Store items from your caravan to your faction stash. Faction stashes transfer across all of the faction's outposts and will save contents even if you are no longer enlisted.</RH.GruppaKroviStorageDesc>
+  <RH.GruppaKroviDropPodServiceLabel>Drop Pod service</RH.GruppaKroviDropPodServiceLabel>
+  <RH.GruppaKroviDropPodServiceDesc>Use this faction's drop pod service to travel by air! $800 cost.</RH.GruppaKroviDropPodServiceDesc>
+  <RH.GruppaKroviDropPodServiceRequirementDesc>You need $800 silver to cover all expenses.</RH.GruppaKroviDropPodServiceRequirementDesc>
+  <RH.StorageInventory>Storage inventory</RH.StorageInventory>
+  <RH.CaravanInventory>Caravan inventory</RH.CaravanInventory>
+  <RH.ActiveEnlistOptions>Active enlist options</RH.ActiveEnlistOptions>
+  <RH.GruppaKroviSalaryLabel>Salary</RH.GruppaKroviSalaryLabel>
+  <RH.GruppaKroviSalaryDesc>You are entitled to claim payment from this faction every 12 days.</RH.GruppaKroviSalaryDesc>
+  <RH.GruppaKroviProvisionsLabel>provisions</RH.GruppaKroviProvisionsLabel>
+  <RH.GruppaKroviProvisionsDesc>provisions will give your caravan inventory the following every 5 days:\n\n- ×80 Red Army Rations\n- ×25 Cigarettes (Dima)\n- ×12 Vodka (Dragon)\n- ×20 Medicine</RH.GruppaKroviProvisionsDesc>
+  <RH.GruppaKroviProvisionsLabelMilitaryIssue>PMC Issue</RH.GruppaKroviProvisionsLabelMilitaryIssue>
+  <RH.GruppaKroviProvisionsDescMilitaryIssue>PMC Issue will give your caravan inventory the following every 14 days:\n\n- ×3 AK-12\n- ×3 6b27 helmet\n- ×3 Defender 2 body armor\n- ×3 Smersh webbing (Assault)\n- ×3 GORKA 4 uniform (Anorak)\n- ×3 Cascade 45L backpack</RH.GruppaKroviProvisionsDescMilitaryIssue>
+  <RH.GruppaKroviHospitalLabel>Hospital</RH.GruppaKroviHospitalLabel>
+  <RH.GruppaKroviHospitalDesc>Check in with the hospital of this outpost. This service tends to all of your caravan members with industrial medicine. Immunity gain is also increased while your caravan is using the hospital.</RH.GruppaKroviHospitalDesc>
+  <RH.GruppaKroviMedicalTrainingLabel>Training: Medical</RH.GruppaKroviMedicalTrainingLabel>
+  <RH.GruppaKroviMedicalTrainingDesc>Train your caravan with hourly experience gain on the following skills:\n\n- Medical\n- Social\n- Intellectual\n\nHourly experience gain stops when this faction is resting at night.</RH.GruppaKroviMedicalTrainingDesc>
+  <RH.GruppaKroviShootingTrainingLabel>Training: Combat</RH.GruppaKroviShootingTrainingLabel>
+  <RH.GruppaKroviShootingTrainingDesc>Train your caravan with hourly experience gain on the following skills:\n\n- Shooting\n- Melee\n\nHourly experience gain stops when this faction is resting at night.</RH.GruppaKroviShootingTrainingDesc>
+  <RH.GruppaKroviSurvivalTrainingLabel>Training: Survival</RH.GruppaKroviSurvivalTrainingLabel>
+  <RH.GruppaKroviSurvivalTrainingDesc>Train your caravan with hourly experience gain on the following skills:\n\n- Animals\n- Construction\n- Cooking\n- Crafting\n- Mining\n- Plants\n\nHourly experience gain stops when this faction is resting at night.</RH.GruppaKroviSurvivalTrainingDesc>
+  <RH.GruppaKroviTurnInLabel>Turn in</RH.GruppaKroviTurnInLabel>
+  <RH.GruppaKroviTurnInDesc>Turn in suspected insurgents to Task Force GruppaKrovi for interrogation. They are to be put on trial for any potential crimes.\n\nTurning over any hostile pawns do not result in a slavery debuff.</RH.GruppaKroviTurnInDesc>
+  <RH_TurnInTraderName>Detention Camp</RH_TurnInTraderName>
+  <RH.RangerReinforcementsButtonLabel>Reinforcements</RH.RangerReinforcementsButtonLabel>
+  <RH.RangerReinforcementsButtonDesc>Call for reinforcements from your enlisted faction. Amount of troops they send depend on your current relations.</RH.RangerReinforcementsButtonDesc>
+  <RH.GruppaKroviGuardDutyJobLabel>Guard-Duty Job</RH.GruppaKroviGuardDutyJobLabel>
+  <RH.GruppaKroviGuardDutyJobDesc>Earn $18 an hour working part-time with this outpost. Earnings are halted when the faction is resting at night.</RH.GruppaKroviGuardDutyJobDesc>
+  <RH.GruppaKroviResignMenuText>You will resign from being a part of Gruppa Krovi effective immediately. (-25 in relations)</RH.GruppaKroviResignMenuText>
+  <RH.GruppaKroviResignLetterTitle>Resigned</RH.GruppaKroviResignLetterTitle>
+  <RH.GruppaKroviResignButtonLabel>Resign</RH.GruppaKroviResignButtonLabel>
+  <RH.GruppaKroviResignLetterLabel>You have successfully resigned from Task Force GruppaKrovi. (-25 relations)</RH.GruppaKroviResignLetterLabel>
+  <RH.GruppaKroviResignButtonDesc>leave active duty from this faction</RH.GruppaKroviResignButtonDesc>
+  <RH.PlayerSettlementRequired>Player's settlement required</RH.PlayerSettlementRequired>
+  <RH.GruppaKroviEnlistedToHostileFaction>cannot sign up because you are enlisted with their enemy, {HOSTILEFACTION_name}</RH.GruppaKroviEnlistedToHostileFaction>
+  <RH.GruppaKroviKickOutLetterTitle>Terminated</RH.GruppaKroviKickOutLetterTitle>
+  <RH.GruppaKroviKickOutLabelTitle>An order for your employment's immediate termination has been demanded by {LEADER_nameDef}. You have been removed from Gruppa Krovi.</RH.GruppaKroviKickOutLabelTitle>
+</LanguageData>
