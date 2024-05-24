@@ -421,7 +421,7 @@
   <MyChildIsHappy>my child is happy</MyChildIsHappy>
   <MyChildIsSad>my child is sad</MyChildIsSad> 
   
-  <GeneticChemicalDependency_Label>Genetic {CHEMICAL_label} dependency</GeneticChemicalDependency_Label><!-- text_todo -->
-  <GeneticChemicalDependency_Desc>I need {CHEMICAL_label} because of my genetic deficiency. But it's been so long since I've had any.</GeneticChemicalDependency_Desc><!-- text_todo -->
+  <GeneticChemicalDependency_Label>Genetic {CHEMICAL_label} dependency</GeneticChemicalDependency_Label>
+  <GeneticChemicalDependency_Desc>I need {CHEMICAL_label} because of my genetic deficiency. It's been so long since I've had any.</GeneticChemicalDependency_Desc>
 
 </LanguageData>
