@@ -103,10 +103,10 @@
   <RitualTargetUnconnectedGaruanlenTreeInfo>an unconnected Gauranlen tree</RitualTargetUnconnectedGaruanlenTreeInfo>
   <RitualTargetConnectedGauranlenTree>Already connected to {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
   <RitualTargetConnectionTornGauranlenTree>{TREE_definite} has had its connection torn recently. It can connect again in {1}.</RitualTargetConnectionTornGauranlenTree>
-  <RitualTargetWoodInfo>You need {0} wood for each participant ({1} total).</RitualTargetWoodInfo> <!-- text_todo -->
-  <RitualTargetWoodInfoAppend>{0} participant cannot reach enough wood.</RitualTargetWoodInfoAppend> <!-- text_todo -->
-  <RitualTargetWoodInfoAppendMultiple>{0} participants cannot reach enough wood.</RitualTargetWoodInfoAppendMultiple> <!-- text_todo -->
-  <RitualTargetWoodInfoWarning>{PAWN_labelShort} cannot reach enough wood.</RitualTargetWoodInfoWarning> <!-- text_todo -->
+  <RitualTargetWoodInfo>You need {0} wood for each participant ({1} total).</RitualTargetWoodInfo>
+  <RitualTargetWoodInfoAppend>A participant cannot reach enough wood.</RitualTargetWoodInfoAppend>
+  <RitualTargetWoodInfoAppendMultiple>{0} participants cannot reach enough wood.</RitualTargetWoodInfoAppendMultiple>
+  <RitualTargetWoodInfoWarning>{PAWN_labelShort} cannot reach enough wood.</RitualTargetWoodInfoWarning>
   <RitualTargetUnreachable>{0} must be able to reach ritual target.</RitualTargetUnreachable>
   <Accuse>Accuse</Accuse>
   <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified.</RitualScarificationWarnNonScarificationIdeo>
